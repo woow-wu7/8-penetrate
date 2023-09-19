@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function fn(name, age) {
+        this.name = name;
+        this.age = age;
+
+        return name + age;
+      }
+      const obj = {
+        name: "woow_wu7",
+      };
+
+      // 手写bind - 简单版
+      Function.prototype._bind = function (obj, ...outParams) {
+        const context = obj ? obj : globalThis;
+
+        const self = this;
+
+        // 返回的函数: 有两种调用方式
+        // - 1. 普通函数调用 --------------------------------- this 指向 window|global = globalThis
+        // - 2. new 的方式调用，即返回函数作为 构造函数 ---------- this 指向 实例对象
+        // parasitic 寄生的意思
+        function parasitic(...inParams) {
+          const totalParams = [...outParams, ...inParams];
+          return self.apply(this instanceof self ? this : context, totalParams); // self 就是 fn 函数
+        }
+
+        // 这里是为了让返回函数作为构造函数时，返回函数的实例的原型对象是self.prototype，则判断是true，即 this instanceof self 是 true
+        // - 更好的做法是: 用 派生式原型链继承来实现
+        // - 详见: 本项目/2-FRONTEND/1-JS/1-handwrite/3-bind.html
+        parasitic.prototype = self.prototype;
+
+        return parasitic;
+      };
+
+      const callbackFn = fn._bind(obj, 1);
+      const res = callbackFn(2);
+      console.log("res: ", res);
+
+      const res2 = new callbackFn(3);
+      console.log("res2: ", res2);
+    </script>
+  </body>
+</html>

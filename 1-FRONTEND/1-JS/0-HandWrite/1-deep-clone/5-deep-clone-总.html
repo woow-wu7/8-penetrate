@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // 深拷贝 - 总
+
+      // 深拷贝 需要解决的问题
+      // - 循环引用 ----------------------------- Map
+      // - symbol 类型的 key -------------------- Reflect.ownKeys
+      // - 特殊的对象: Date Error RegExp 等 ------ 结构化克隆
+
+      const obj = {
+        num: 1,
+        str: "string",
+        boo: true,
+        nul: null,
+        undefined: undefined,
+        [Symbol("symbol")]: "symbol", // symbol key
+        big: BigInt(9007199254740991), // bigint
+        arr: [1, 2, 3],
+        obj: {
+          name: "woow_wu7",
+          obj2: { age: 10 },
+        },
+        date: new Date(), // 特殊对象，结构化克隆
+        regexp: new RegExp(),
+        error: new Error(), // SyntaxError ReferenceError RangeError TypeError URIError EvalError
+      };
+      obj.circle = obj; // 循环引用
+
+      // ------------------------------------------------
+      // deepClone
+      // - 参数：再添加一个参数map，用来存储所有递归时传入的参数，该参数表示的是需要克隆的对象，如果该参数存在，就直接从缓存中取
+      const deepClone = (obj, map = new Map()) => {
+        if (
+          (typeof obj !== "object" && typeof obj !== "function") ||
+          obj === null
+        ) {
+          return obj; // 如果不是对象，数组，function => 则是原始类型，直接返回；
+        }
+
+        let res = Array.isArray(obj) ? [] : {};
+
+        if (map.has(obj)) return map.get(obj);
+        map.set(obj, res);
+
+        // 注意 obj.constructor 返回的是 构造函数
+        switch (obj.constructor) {
+          case Date:
+          case RegExp: {
+            res = new obj.constructor(obj);
+            break;
+          }
+          default: {
+            // Reflect.ownKeys 可以遍历对象的 ( 自身可枚举 + 自身不可枚举 + symbol类型的key )
+            Reflect.ownKeys(obj).forEach((item) => {
+              if (typeof obj[item] === "object") {
+                res[item] = deepClone(obj[item], map);
+              } else {
+                res[item] = obj[item];
+              }
+            });
+          }
+        }
+
+        return res;
+      };
+
+      const result = deepClone(obj);
+      console.log("result", result);
+    </script>
+  </body>
+</html>

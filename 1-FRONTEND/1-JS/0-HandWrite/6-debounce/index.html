@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Debounce 防抖</title>
+  </head>
+  <body>
+    <button id="button">debounce</button>
+
+    <script>
+      // debounce 防抖函数
+
+      // 扩展功能
+      // 1. 是否立即执行
+      // 2. 能否手动取消执行
+      // https://juejin.cn/post/6844904054330490894#heading-1
+
+      const debounce = (fn, delay) => {
+        let timer = null;
+
+        return (...params) => {
+          console.log("timer :>> ", timer);
+          if (timer) clearTimeout(timer);
+
+          timer = setTimeout(() => {
+            fn(...params);
+          }, delay);
+        };
+      };
+
+      // 1
+      const closure = debounce((e) => console.log(1, e), 1000);
+      const button = document.getElementById("button");
+      button.addEventListener("click", (e) => closure(e), false);
+
+      // 2
+      // 1 和 2 这两种写法都可以
+      // const fn = (e) => console.log(e);
+      // button.addEventListener("click", debounce(fn, 1000), false);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // 128. 最长连续序列
+
+      // 题目
+      // 给定一个未排序的整数数组 nums ，找出数字连续的最长序列（不要求序列元素在原数组中连续）的长度。
+      // 请你设计并实现时间复杂度为 O(n) 的算法解决此问题。
+
+      // 输入：nums = [100,4,200,1,3,2]
+      // 输出：4
+      // 解释：最长数字连续序列是 [1, 2, 3, 4]。它的长度为 4。
+
+      // 输入：nums = [0,3,7,2,5,8,4,6,0,1]
+      // 输出：9
+
+      // leetcode
+      // 128. 最长连续序列 https://leetcode.cn/problems/longest-consecutive-sequence/
+
+      // 对比
+      // 128. 最长连续序列 https://leetcode.cn/problems/longest-consecutive-sequence/
+      // 674. 最长连续递增序列 https://leetcode.cn/problems/longest-continuous-increasing-subsequence/
+
+      // 思路
+      // 1. 利用set去重，并取值
+      // 2. 因为 ( 不要求序列元素在原数组中连续 )，所以我们直接从set中取元素比较即可
+      // 3. 连续上升段的起点: !set.has(currentValue)，即左邻居不存在
+      // 4. 连续上升段的终点: !set.has(xxx+1)，即 (一直+1往后遍历，直到不存在 )，即右邻居不存在
+      // 5. max 统计每个上升度个数的最大值
+
+      var longestConsecutive = function (nums) {
+        const set = new Set(nums); // 去重，并 提升取值效率，因为 ( 不要求序列元素在原数组中连续 )，直接取出比较
+
+        let max = 0;
+
+        for (let [i, v] of set.entries()) {
+          // 左邻居: 不存在，就是某个连续段的起点
+          if (!set.has(v - 1)) {
+            let count = 1; // 统计 v 为起点的上升段的 长度
+            let cur = v;
+
+            // 右邻居存在，不断向后+1找，直到不连续为止
+            while (set.has(cur + 1)) {
+              count++;
+              cur++;
+            }
+
+            // 右邻居不存在，某个上升段结束
+            max = Math.max(max, count);
+          }
+        }
+
+        return max;
+      };
+    </script>
+  </body>
+</html>

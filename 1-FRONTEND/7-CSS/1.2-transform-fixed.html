@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .super1 {
+        height: 400px;
+        padding: 50px;
+        border: 1px solid red;
+
+        transform: scale(1);
+        /* 这里 super1 设置了 transform 属性并且非null，则 position: fixed; 就基于了 super1 来定位，而不是视口 */
+      }
+      .super2 {
+        height: 400px;
+        padding: 10px;
+        border: 1px solid black;
+
+        transform: scale(1);
+        /* 这里 super2 设置了 transform 属性并且非null，则 position: fixed; 就基于了 super2 来定位，而不是视口 */
+        /* 注意: 如果祖先 super1 和 super2 都设置了 transform 属性时，fixed 定位是-就近原则，基于最近的祖先元素 */
+      }
+      .item {
+        /* 注意: 当元素设置 position: fixed; 定位时，如果祖先元素设置了 transform 属性且非空时，则基于该祖先元素来定位，而不是整个窗口视口 */
+        /* 注意: 多个祖先元素都具有 transform 属性时，采用 就近原则 */
+        position: fixed;
+
+        padding: 50px;
+        bottom: 0;
+        right: 0;
+        background: #52c41a;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="super1">
+      <div class="super2">
+        <div class="item">item</div>
+      </div>
+    </div>
+  </body>
+</html>

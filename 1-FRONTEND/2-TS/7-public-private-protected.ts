@@ -1,0 +1,41 @@
+// class
+// - public
+// - private
+// - protected
+
+class Cons {
+  attr1 = 1;
+
+  // 实例属性:
+  // - 这样声明的属性是-实例属性，相当于在constructor中通过 this.pub = 2 声明
+  public pub = 2; // ------- public 公共属性 可以在任何地方访问
+  private pri = 3; // ------ private 私有属性 只能在声明它的 ( 类内部 ) 访问
+  protected pro = 4; // ---- protected 保护属性 只能在声明它的 ( 类 及其 子类 ) 中访问
+
+  getPri = () => {
+    console.log("this.pri", this.pri); // private 私有属性 只能在声明他的 类 中访问
+  };
+
+  getPro = () => {
+    console.log("this.pro", this.pro); // protected 保护属性 只能在声明他的 ( 类 及其 子类 ) 中访问
+  };
+}
+
+// 实例
+const cons = new Cons();
+console.log("cons", cons);
+console.log("cons.pub", cons.pub);
+console.log("cons.pri", cons.pri); // 报错，属性“pri”为私有属性，只能在类“Cons”中访问
+console.log("cons.pro", cons.pro); // 报错，属性“pro”受保护，只能在类“Cons”及其子类中访问
+
+console.log("cons.getPri()", cons.getPri());
+console.log("cons.getPro()", cons.getPro());
+
+// 子类
+class ChildCons extends Cons {
+  getPro = () => {
+    console.log("this.pro", this.pro); // protected 可以在声明他的 ( 类 和 子类 ) 中访问
+  };
+}
+const childCons = new ChildCons();
+console.log("childCons.getPro()", childCons.getPro());

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      /* 奇数 */
+      /* 相当于  div:nth-child(2n+1) */
+      div:nth-child(odd) {
+        color: red;
+      }
+
+      /* div:nth-child(2n + 1) {
+        color: green;
+      } */
+
+      /* 偶数 */
+      div:nth-child(even) {
+        background: yellow;
+      }
+
+      /* 前三个 */
+      div:nth-child(-n + 3) {
+        border: 1px solid red;
+      }
+
+      /* 第7个以后 */
+      div:nth-child(n + 7) {
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 资料 -->
+    <!-- https://cloud.tencent.com/developer/article/1538496 -->
+
+    <div>111111111</div>
+    <div>222222222</div>
+    <div>333333333</div>
+    <div>444444444</div>
+    <div>555555555</div>
+    <div>666666666</div>
+    <div>777777777</div>
+    <div>888888888</div>
+    <div>999999999</div>
+  </body>
+</html>

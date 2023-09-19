@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .container1 {
+        width: 500px;
+        height: 500px;
+        border: 1px solid black;
+        margin: 30px;
+
+        position: relative;
+      }
+      .center1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        background: yellow;
+        width: 200px;
+        height: 100px;
+      }
+
+      .container2 {
+        width: 500px;
+        height: 500px;
+        border: 1px solid black;
+        margin: 30px;
+
+        display: grid;
+      }
+      .center2 {
+        justify-self: center;
+        align-self: center;
+
+        background: yellow;
+        width: 200px;
+        height: 100px;
+      }
+
+      .container3 {
+        width: 500px;
+        height: 500px;
+        border: 1px solid black;
+        margin: 30px;
+
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+      }
+      .center3 {
+        display: inline-block;
+
+        background: yellow;
+        width: 200px;
+        height: 100px;
+      }
+
+      .container4 {
+        width: 500px;
+        height: 500px;
+        border: 1px solid black;
+        margin: 30px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .center4 {
+        background: yellow;
+        width: 200px;
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 水平垂直居中 - 绝对定位 -->
+    <div class="container1">
+      <div class="center1">绝对定位-居中</div>
+    </div>
+
+    <!-- 水平垂直居中 - grid布局 -->
+    <div class="container2">
+      <div class="center2">grid</div>
+    </div>
+
+    <!-- 水平垂直居中 - table-cell布局 -->
+    <div class="container3">
+      <div class="center3">table-cell</div>
+    </div>
+
+    <!-- 水平垂直居中 - flex布局 -->
+    <div class="container4">
+      <div class="center4">flex</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,123 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "cSpell.languageSettings": [
+  
+  ],
+  "fileheader.configObj": {
+    "autoAdd": false // koro1FileHeader 自动添加文件头部注释 默认开启
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.mouseWheelScrollSensitivity": 0.3,
+  "terminal.integrated.tabs.enabled": false,
+  "###########################################################": "#######todo-tree",
+  "todo-tree.filtering.excludeGlobs": [
+    "**/vendor/**",
+    "**/node_modules/**",
+    "**/uni_modules/**",
+    "**/dist/**",
+    "**/bower_components/**",
+    "**/build/**",
+    "**/.vscode/**",
+    "**/.github/**",
+    "**/_output/**",
+    "**/*.min.*",
+    "**/*.map"
+  ],
+  "todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^)\\s*($TAGS)|^//\\s*\\[x\\]|^//\\s*\\[ \\])",
+  "todo-tree.general.tags": [
+    "TODO",
+    "FIXME",
+    "LOCAL",
+    "STORE",
+    "NAVIGATE",
+    "[x]",
+    "[ ]"
+  ],
+  "todo-tree.general.tagGroups": {
+    "TODO": ["TODO", "todo"]
+  },
+  "todo-tree.tree.expanded": true,
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "foreground": "white",
+      "background": "Orange",
+      "type": "tag",
+      "icon": "pencil",
+      "gutterIcon": true,
+      "iconColour": "Orange"
+    },
+    "LOCAL": {
+      "foreground": "white",
+      "background": "#ff2c4c",
+      "type": "tag",
+      "icon": "database",
+      "gutterIcon": true,
+      "iconColour": "#ff2c4c"
+    },
+    "STORE": {
+      "foreground": "white",
+      "background": "#00f382",
+      "type": "tag",
+      "icon": "ruby",
+      "gutterIcon": true,
+      "iconColour": "#00f382"
+    },
+    "NAVIGATE": {
+      "foreground": "white",
+      "background": "#009ef3",
+      "type": "tag",
+      "icon": "milestone",
+      "gutterIcon": true,
+      "iconColour": "#009ef3"
+    },
+    "[x]": {
+      "foreground": "#64dd17",
+      "background": "#008800"
+    },
+    "[ ]": {
+      "foreground": "#f44336",
+      "background": "#592c2c"
+    }
+  },
+  "gitlens.graph.layout": "editor",
+  "gitlens.graph.minimap.additionalTypes": [
+    "localBranches",
+    "stashes",
+    "tags",
+    "remoteBranches"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "ciphertext",
+    "decompilation",
+    "Pinia",
+    "SECRETKEY",
+    "Vuex"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.list.mouseWheelScrollSensitivity": 0.2,
+  "editor.guides.bracketPairs": true
+}

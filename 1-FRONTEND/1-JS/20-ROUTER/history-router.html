@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- data-href 为自定义属性 -->
+    <!-- void(0) 返回 undefined -->
+    <a href="javascript:void(0)" data-href="/home">home</a>
+    <a href="javascript:void(0)" data-href="/other">other</a>
+    <button id="button">手动执行 window.history.go() 触发 popstate 事件来导航</button>
+    <div id="content">content初始内容</div>
+
+    <script>
+      const routes = [
+        {
+          path: "/home",
+          content: "这是home页面",
+        },
+        {
+          path: "/other",
+          content: "这是other页面",
+        },
+      ];
+
+      // history router
+      // 记得要用本地服务器启动才可以
+      class HistoryRouter {
+        constructor(routes) {
+          this.createRouteMap(routes);
+          this.bindEvent();
+          this.init();
+        }
+
+        routeMap = {};
+
+        createRouteMap = (routes) => {
+          routes.forEach((route) => {
+            this.routeMap[route.path] = () => (document.getElementById("content").innerHTML = route.content);
+          });
+        };
+
+        bindEvent = () => {
+          const aList = document.getElementsByTagName("a"); // document.getElementsByTagName() 返回的是 HTMLCollection 动态集合，不是数组，需要用 Array.from() 转成 数组
+          Array.from(aList).forEach((a) => {
+            a.addEventListener("click", () => {
+              const path = a.getAttribute("data-href");
+              window.history.pushState({}, null, path);
+              this.updateView();
+            });
+          });
+        };
+
+        updateView = () => {
+          const path = window.location.pathname;
+          this.routeMap[path]?.();
+        };
+
+        init = () => {
+          window.addEventListener("load", this.updateView, { capture: false });
+          window.addEventListener("popstate", this.updateView, {
+            capture: false,
+          });
+        };
+      }
+
+      const button = document.getElementById("button");
+      button.addEventListener("click", () => window.history.go(-1));
+
+      new HistoryRouter(routes);
+    </script>
+  </body>
+</html>

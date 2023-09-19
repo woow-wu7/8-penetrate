@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      :root {
+        /* 定义变量 */
+        --color: yellow;
+      }
+
+      .container {
+        /* 使用变量 */
+        /* 第二个参数表示: 如果变量名不存在，就使用第二个参数 */
+        background: var(--color, red);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">css中的变量</div>
+
+    <script>
+      const html = document.querySelector(":root");
+      html.style.setProperty("--color", "green");
+    </script>
+  </body>
+</html>

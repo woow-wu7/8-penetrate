@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      window.addEventListener("DOMContentLoaded", () =>
+        console.log("DOMContentLoaded-触发-DOM加载完成时触发")
+      );
+
+      window.addEventListener("load", () =>
+        console.log(
+          "load-触发-页面加载完成才触发-包括DOM，样式，脚本，图片，视频等所有资源都加载完成才触发"
+        )
+      );
+    </script>
+    <div>DOMContentLoaded 和 load</div>
+    <br />
+    <div>DOMContentLoaded-触发---DOM加载完成时触发</div>
+    <div>
+      load-触发-页面加载完成才触发---包括DOM，样式，脚本，图片，视频等所有资源都加载完成才触发
+    </div>
+  </body>
+</html>
