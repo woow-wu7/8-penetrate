@@ -19,6 +19,7 @@ pain 痛 疼痛
 bear 忍受v 熊n
 sob 抽泣
 stiff 硬的
+saliva 唾液
 
 internal 内脏n 内部的adj // The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
 organ 器官 机构 // These organs are formed by tissues. 这些器官是由组织组成的 // Substance like water has three different forms. 物质三种形态
