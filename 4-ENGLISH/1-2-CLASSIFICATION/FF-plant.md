@@ -39,6 +39,9 @@ flour 面粉
 
 rose 玫瑰
 jasmine 茉莉
+
+mineral 矿物
+nutrient 营养素
 ```
 
 ```
