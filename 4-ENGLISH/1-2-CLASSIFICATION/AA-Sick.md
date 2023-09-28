@@ -88,7 +88,7 @@ medicine 药 医学 // medical 医学的 adj
 drug 毒品 药物 // drugstore 药店
 pill 药丸
 capsule 胶囊 // The medicine can be taken in capsule form. 这药可以以胶囊的形式服用
-bitter 味苦的
+bitter 味苦的 // sour bitter sweet spicy
 
 drugstore 药店
 Pharmacy 药店 // pharmacist 药剂师 // We had to wait for the pharmacist to make up her prescription.

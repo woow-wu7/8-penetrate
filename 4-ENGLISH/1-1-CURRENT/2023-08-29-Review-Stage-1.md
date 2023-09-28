@@ -42,6 +42,12 @@ physicist 物理学家 n
 // -- outstanding 优秀的 杰出的
 // -- We think he is an outstanding sportsman. 我们认为他是一名优秀的运动员
 
+psychology 心理学 n
+psychologist 心理学家 n
+
+philosophy 哲学
+philosopher 哲学家
+
 chemistry 化学 n
 chemist 化学家 药剂师 n
 // chemistry: She studied chemistry for three years. 她学了三年化学
