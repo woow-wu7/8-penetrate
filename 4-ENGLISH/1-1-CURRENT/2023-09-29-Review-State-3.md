@@ -1,8 +1,14 @@
-# review 【 National Day 国庆节 】
+# review 【 National Day 国庆节 】【 Mid-Autumn Festival 中秋节 】
 
 ```
 National 国家的
 // National Day. 国庆节
+// On the first day of National Day.
+
+autumn 秋天 秋天的
+Mid-Autumn Festival. 中秋节
+
+mount up. 增加 // Meanwhile, my debts were mounting up.
 
 allergy 过敏n // allergies
 symptom 症状
@@ -16,8 +22,8 @@ bitter 苦的
 spicy 辣 辛辣的 // TIPS: Pay attention to pronunciation.
 
 // TIPS: Please review the 2023-08-29-Review-Stage-1.md file.
-psychology 心理学 n
-philosophy 哲学
+psychology 心理学 n // psychologist 心理学家
+philosophy 哲学 // philosopher 哲学家
 Social Psychology. 社会心理学
 psychologist 心理学家
 Cambridge 剑桥大学
@@ -28,5 +34,18 @@ doctorate 博士学位
 
 assemble 组装 集合 v
 appoint 任命 安排 vt
-// assemble集合: Everyone was assembled at the appointed time. 大家都在约定的时间集合了
+// assemble集合: 【 Everyone was assembled at the appointed time. 大家都在约定的时间集合了 】
+
+trash 垃圾
+trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
+bin 垃圾桶
+dustbin 垃圾箱 // 指户外的垃圾箱
+
+meanwhile 同时 与此同时
+mount up. 增加
+debt 债务 // TIPS: Pay attention to pronunciation.
+// Meanwhile, my debts were mounting up. 同时，我的债务在不断增加
+
+debt 债务 // debts // TIPS: Pay attention to pronunciation
+// The company can no longer service its debts. 那家公司已无力支付债务
 ```
