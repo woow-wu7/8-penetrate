@@ -8,12 +8,38 @@ kitchen 厨房
 balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 ---
 
+kitchen items. 厨房用品
+chef 厨师 // A chef works in a kitchen. 厨师在厨房工作 // TIPS: Pay attention to pronunciation.
+rice cooker. 电饭锅 // plug the rice cooker. // unplug the rice cooker.
+wine opener. 开酒器
+funnel 漏斗
+peeler 削皮器 // Peel the skin before eating it.
+
+knife holder. 刀架
+cleaver 菜刀
+chop 切碎 // chop up. 切碎
+chopping board. 切菜板
+// Will you chop an onion up for me? 你能帮我把一个洋葱切碎吗？
+
+peel 剥 果皮
+peeler 削皮器
+// I use the right method to peel them out. 我用正确的方法将它们剥下来
+// The way we know someone just like the way we peel the layers of onions. 我们了解某人的方式就像我们剥洋葱皮
+
+sponge 海绵
+wipe 擦 // swipe 刷卡
+wipe off. 擦去
+// sponge 海绵: His mind was like a sponge, ready to absorb anything. 他的脑子跟海绵似的，什么都能吸收
+// wipe 擦: He wiped off the table with a sponge. 他用一块海绵擦桌子
+// It will soak it right up. 会很快把它吸掉
+
 balcony 阳台
 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 // Sometimes in the morning I go outside on my balcony and drink my coffee. 有时候早上，我在阳台喝咖啡
 
-soap 肥皂 // wash your hands with a block of soap, and dry your hands with a towel.
+soap 肥皂 香皂 // wash your hands with a block of soap, and dry your hands with a towel.
 shampoo 洗发水
+shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
 toothpaste 牙膏
 toothbrush 牙刷
 
@@ -39,6 +65,7 @@ rag 抹布
 // She used a rag to clean the glass window.
 // The woman is wiping the mirror with a rag. // wipe 擦 抹去 v n
 
+mat 垫子
 blanket 毯子
 sheet 床单
 carpet 地毯
@@ -79,7 +106,7 @@ washing line 晾衣绳
 mat 小地毯 席子 垫子
 kettle 水壶
 pot 锅
-stove 炉子
+stove 炉子 // Let's turn on the gas. 让我们把火打开
 
 plug 插头
 socket 插座 // He is putting the plug into the socket. 他正把插头插入插座
@@ -166,7 +193,7 @@ The river flows from the top of the mountain down to the basin. 这条河流从�
 
 (3)
 pot
-stove
+stove // Let's turn on the gas. 让我们把火打开
 steam
 Steam is coming from the pot. Turn off the stove. 水蒸气正在往锅外冒，关火吧
 // pot 锅 // 注意发音

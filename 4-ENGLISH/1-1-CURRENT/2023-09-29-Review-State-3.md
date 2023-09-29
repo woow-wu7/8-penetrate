@@ -9,6 +9,11 @@ autumn 秋天 秋天的
 Mid-Autumn Festival. 中秋节
 
 mount up. 增加 // Meanwhile, my debts were mounting up.
+Let's turn on the gas. 让我们把火打开
+swimming instructor. 游泳教练
+That makes sense. 有道理
+chop up. 切碎 // Will you chop an onion up for me? 你能帮我把洋葱切碎吗？
+chopping board. 切菜板
 
 allergy 过敏n // allergies
 symptom 症状
@@ -48,4 +53,22 @@ debt 债务 // TIPS: Pay attention to pronunciation.
 
 debt 债务 // debts // TIPS: Pay attention to pronunciation
 // The company can no longer service its debts. 那家公司已无力支付债务
+
+peel 剥 果皮
+peeler 削皮器
+// I use the right method to peel them out. 我用正确的方法将它们剥下来
+// The way we know someone just like the way we peel the layers of onions. 我们了解某人的方式就像我们剥洋葱皮
+
+knife holder. 刀架
+cleaver 菜刀
+chopping board. 切菜板 // Will you chop an onion up for me? 你能帮我把洋葱切碎吗？
+
+chef 厨师
+// The chef, staff and managers are all chinese. 厨师、工作人员和经理都是中国人
+
+instructor 教练 导师
+swimming instructor. 游泳教练
+chef 厨师
+range 区间 范围 变动
+// She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从厨师到游泳教练
 ```
