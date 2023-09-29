@@ -5,11 +5,13 @@ living room 客厅
 bedroom 卧室
 bathroom 浴室
 kitchen 厨房
-balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 ---
 
 kitchen items. 厨房用品
 appliance 电器
+
+air-conditioner. 空调
+balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 
 chef 厨师 // A chef works in a kitchen. 厨师在厨房工作 // TIPS: Pay attention to pronunciation.
 rice cooker. 电饭锅 // plug the rice cooker. // unplug the rice cooker.
@@ -110,10 +112,19 @@ ladle 汤勺n 舀v
 scoop 勺 一勺 n
 // Can you ladle the soup out of this deep pan for me? 你能从这个深底盆里舀点汤给我吗？
 
+flip 翻转
+// flip an egg. 翻转鸡蛋
+
+whisk 搅拌
+// Whisk the mixture until it is smooth. 把混合物搅拌均匀
+
 plate 盘子 // 注意发音
 luggage 行李 行李箱
 chair 椅子
-washing line 晾衣绳
+
+washing machine. 洗衣机
+washing line. 晾衣绳
+
 mat 小地毯 席子 垫子
 kettle 水壶
 pot 锅

@@ -171,6 +171,7 @@ a bowl of rice. 一碗米
 a clove of garlic. 一瓣大蒜 // garlic 大蒜
 a set of makeup. 一套化妆品
 a series of test. 一系列测试
+a stick of incense. 一根香
 a carton of milk. 一盒牛奶
 a cup of tea. 一杯茶
 a bottle of water. 一瓶水

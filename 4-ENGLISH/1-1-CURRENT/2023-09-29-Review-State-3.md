@@ -14,7 +14,11 @@ dinner 晚餐 // 正式的晚餐
 countertop 操作台
 interestingly enough. 有趣的是
 preheat 预热
+vendor 小贩
 one mug of coffee. 一杯咖啡
+【 what do you do? 你是做什么的 】
+sip in a cup of tea. 啜饮一杯茶
+have a close look. 仔细看看
 
 mount up. 增加 // Meanwhile, my debts were mounting up.
 Let's turn on the gas. 让我们把火打开
@@ -85,14 +89,14 @@ crust 地壳 壳
 // Bake until the crust is golden. 烘烤至外皮呈金黄色
 
 confuse 混淆
-// confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了
+// 【 confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了 】
 
 quantity 数量 大量
 quality 质量
 confuse 混淆 // confuse with.
 // quantity 大量: The police found a quantity of drugs at his home. 警察在他家发现了大量毒品
 // quality 质量: Does the quality of teaching depend on class size? 教学质量取决于每个班的人数吗？
-// confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了
+// 【 confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了 】
 
 appliance 电器
 // appliances
@@ -108,4 +112,48 @@ scoop 勺 一勺 n
 
 certain 某些
 // You can open a drawer to look for certain things. 你可以打开抽屉找某些东西
+
+retire 退休 v
+retirement 退休 n
+// retire 退休v: She was forced to retire early from teaching because of ill health. 她由于身体不好而被迫早早地从教学岗位上退休
+// retirement 退休n: We all wish you has a long and happy retirement. 我们都祝愿您拥有一个长久而幸福的退休生活
+
+flip 翻转
+// flip an egg. 翻转鸡蛋
+
+whisk 搅拌
+// Whisk the mixture until it is smooth. 把混合物搅拌均匀
+
+burn 燃烧
+match 比赛 火柴
+fuel 燃料
+calorie 卡路里
+// burn燃烧: I  put a lighted match to the letter and watched it burn. 我滑了根火柴点着了那封信，然后看着它燃烧
+// burn燃烧: Muscle cells need lots of fuel and therefore burn lots of calories. 肌肉细胞需要很多能量，所以会燃烧大量卡路里
+
+incense 香 熏香
+a stick of. 一根
+// 【 Light a stick of incense. 点一根香 】
+// Some people enjoy using incense. 一些人喜欢使用熏香
+// The air was sweet with incense. 空气中弥漫着燃香的香气
+
+quantifier 量词
+a mass of books. 大量的书
+a handful of rice. 一把米
+a grain of rice. 一粒米
+a bowl of rice. 一碗米
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
+a set of makeup. 一套化妆品
+a series of test. 一系列测试
+a stick of incense. 一根香
+a carton of milk. 一盒牛奶
+a cup of tea. 一杯茶
+a bottle of water. 一瓶水
+a glass of water. 一杯水
+a piece of leaf. 一片叶子
+a bunch of flowers 一束花
+a tub of popcorn. 一桶爆米花
+a roll of paper. 一卷纸
+a head of garlic. 一颗蒜
+a couple of socks. 一双袜子
 ```
