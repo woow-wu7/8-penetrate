@@ -9,11 +9,18 @@ balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台
 ---
 
 kitchen items. 厨房用品
+appliance 电器
+
 chef 厨师 // A chef works in a kitchen. 厨师在厨房工作 // TIPS: Pay attention to pronunciation.
 rice cooker. 电饭锅 // plug the rice cooker. // unplug the rice cooker.
 wine opener. 开酒器
 funnel 漏斗
+peel 剥 皮
 peeler 削皮器 // Peel the skin before eating it.
+
+toaster 烤面包机
+bake 烘培 // Bake until the crust is golden. 烘烤至外皮呈金黄色
+preheat 预热
 
 knife holder. 刀架
 cleaver 菜刀
@@ -99,6 +106,10 @@ trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢
 bin 垃圾桶
 dustbin 垃圾箱 // 指户外的垃圾箱
 
+ladle 汤勺n 舀v
+scoop 勺 一勺 n
+// Can you ladle the soup out of this deep pan for me? 你能从这个深底盆里舀点汤给我吗？
+
 plate 盘子 // 注意发音
 luggage 行李 行李箱
 chair 椅子
@@ -166,6 +177,7 @@ peanut 花生
 flour 面粉
 protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质
 Bean curd 豆腐 // Bean curd is healthy and tasty. 豆腐既健康又美味 // tasty 美味的
+cereal 谷物 麦片
 ```
 
 # Home detail

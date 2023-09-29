@@ -7,6 +7,14 @@ National 国家的
 
 autumn 秋天 秋天的
 Mid-Autumn Festival. 中秋节
+mooncake 月饼
+
+supper 晚餐 // 非正式的晚餐
+dinner 晚餐 // 正式的晚餐
+countertop 操作台
+interestingly enough. 有趣的是
+preheat 预热
+one mug of coffee. 一杯咖啡
 
 mount up. 增加 // Meanwhile, my debts were mounting up.
 Let's turn on the gas. 让我们把火打开
@@ -71,4 +79,33 @@ swimming instructor. 游泳教练
 chef 厨师
 range 区间 范围 变动
 // She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从厨师到游泳教练
+
+bake 烘烤 烘焙 // TIPS: Pay attention to pronunciation.
+crust 地壳 壳
+// Bake until the crust is golden. 烘烤至外皮呈金黄色
+
+confuse 混淆
+// confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了
+
+quantity 数量 大量
+quality 质量
+confuse 混淆 // confuse with.
+// quantity 大量: The police found a quantity of drugs at his home. 警察在他家发现了大量毒品
+// quality 质量: Does the quality of teaching depend on class size? 教学质量取决于每个班的人数吗？
+// confuse 混淆: Be careful not to confuse quantity with quality. 注意不要把数量与质量混淆了
+
+appliance 电器
+// appliances
+// These appliances should not be connected to power supplies. 这些家用电器不应该接通电源
+
+lid 盖子
+// Make sure the lid is on. 要注意盖上盖子
+// put a lid on to prevent heat escaping. 盖上盖子，以免热气跑了
+
+ladle 汤勺n 舀v
+scoop 勺 一勺 n
+// Can you ladle the soup out of this deep pan for me? 你能从这个深底盆里舀点汤给我吗？
+
+certain 某些
+// You can open a drawer to look for certain things. 你可以打开抽屉找某些东西
 ```
