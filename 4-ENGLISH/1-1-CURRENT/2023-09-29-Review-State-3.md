@@ -6,6 +6,7 @@
 National 国家的
 // National Day. 国庆节
 // On the first day of National Day.
+// On the second day of National Day.
 
 autumn 秋天 秋天的
 Mid-Autumn Festival. 中秋节
@@ -17,6 +18,7 @@ countertop 操作台
 interestingly enough. 有趣的是
 preheat 预热
 vendor 小贩
+
 one mug of coffee. 一杯咖啡
 【 what do you do? 你是做什么的 】
 sip in a cup of tea. 啜饮一杯茶
@@ -34,6 +36,9 @@ symptom 症状
 // allergy 过敏: I have an allergy to animal hair. 我对动物毛过敏。
 // symptom 症状: Food allergies can cause many different symptoms. 食物过敏会引起很多不同的症状
 // peanut 花生: If your kid has a peanut allergy. 如果你的孩子对花生过敏
+
+castle 城堡
+// 【 At that time, the castle was in enemy hands. 当时城堡在敌人手中 】
 
 sour 酸的
 sweet 甜的
@@ -163,6 +168,12 @@ a couple of socks. 一双袜子
 ##### 2023-09-30
 
 ```
+staff 员工
+stuff 东西
+
+serious 认真的 adj
+seriously 认真地 adv
+
 vocabulary 词汇
 exactly 一点不错 正是如此 精确的
 particle 微粒
@@ -171,14 +182,26 @@ turtle 乌龟
 stall 摊位 // a shower stall. 淋浴间，指健身房那种一个一个的淋浴间
 cloth 布
 nail clipper. 指甲刀
+lecture 讲座
+bunny 兔子
 
+【 Where are we heading to. 我们要去哪里 】
 【 Please wait patiently. 请耐心等待 】
 【 leafy shade. 树阴 】// 【 We sat in the leafy shade of an oak tree. 我们坐在一棵枝繁叶茂的橡树树荫下 】
+【 They are coming for me. 他们来找我了 】
+【 I got all wet in my hair. 我头发全湿了 】
 【 solar radiation. 太阳辐射 】// radiation 辐射
+【 There's echo inside here. 里面有回声 】
+【 what an awesome adventure! 多么棒的冒险啊 】
+
 Apply for driver license. 申请驾照
 Do you have a question for me? 你有问题问我吗？
 What's going on? 怎么了？
 The number of consumption is full today. 今天的消费数量已满
+Work harder to learn English. 加倍努力学习英语
+I want to make more friends. 我想交更多的朋友
+I'm a cop. 我是警察
+Someone's get loopy. 有人疯了
 
 
 consume 消费 消耗 v
@@ -248,4 +271,14 @@ secondary 次要的 adj
 
 trap 陷阱
 // trap陷阱: Some women see marriage as a trap. 有些妇女把婚姻视作陷阱
+
+delicious 美味的 adj
+deliciousness 美味 n
+// 【 Look at that deliciousness. 看那美味 】
+
+serious 认真的 严重的 adj
+seriously 认真地 adv
+// serious严重的: 【 We have had one or two problems - nothing serious. 我们遇到了一两个问题 - 没什么严重的 】
+// serious认真的: 【 We are serious people. 我们是认真的人 】
+// seriously认真地: 【 Seriously, please find any way to get in touch with me 说真的，请想办法和我联系 】
 ```
