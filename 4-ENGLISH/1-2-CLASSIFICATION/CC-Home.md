@@ -223,6 +223,7 @@ cereal 谷物 麦片
 
 ```
 shower 淋浴 洗澡
+shower stall. 淋浴间，指健身房那种一个一个的淋浴间
 shower tile. 淋浴瓷砖
 shower curtain. 淋浴窗帘
 shower head. 喷头

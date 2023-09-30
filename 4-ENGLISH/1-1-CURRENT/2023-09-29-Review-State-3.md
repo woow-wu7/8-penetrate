@@ -165,23 +165,32 @@ a couple of socks. 一双袜子
 ```
 vocabulary 词汇
 exactly 一点不错 正是如此 精确的
+spray 喷雾 喷洒 水花
+turtle 乌龟
+stall 摊位 // a shower stall. 淋浴间，指健身房那种一个一个的淋浴间
+cloth 布
+nail clipper. 指甲刀
+
+【 Please wait patiently. 请耐心等待 】
+Apply for driver license. 申请驾照
+Do you have a question for me? 你有问题问我吗？
+What's going on? 怎么了？
+The number of consumption is full today. 今天的消费数量已满
+
+
+consume 消费 消耗 v
+consumption 消费 n
+gas 气体 // TIPS: Pay attention to pronunciation.
+// consumption消费: 【 Gas and oil consumption always increases in cold weather. 寒冷的天气里，天然气和石油的消耗量总是在增加 】
 
 household 家庭
 appliance 电器
 // 【 household appliance. 家用电器 】
 // Design of remote control household appliance and security system based on telephone network. 基于电话网络的遥控家电及防盗系统设计
 
-Apply for driver license. 申请驾照
-Do you have a question for me? 你有问题问我吗？
-What's going on? 怎么了？
-The number of consumption is full today. 今天的消费数量已满
-
 license 许可证
 firm 公司
 // They had licensed the firm to produce the drug. 他们批准了那家公司生产这种药物
-
-consume 消费 消耗 v
-consumption 消费 n
 
 basin 盆 洗脸盆 盆地
 washbasin 洗脸盆
@@ -197,4 +206,17 @@ shower curtain
 tile 瓷砖 // tiles
 a range of. 一系列
 // The tiles come in a huge range of colors and designs. 瓷砖有各种各样的颜色和图案
+
+nail clipper. 指甲刀
+nail 指甲 钉子
+clip 修剪
+clipper 剪刀
+// nail clipper. 指甲刀
+
+migrate 迁移 // 注意发音
+rural area. 农村
+urban area. 城市 市区
+area 地区 // 注意发音
+// 【 Most birds have to fly long distances to migrate. 大多数鸟类必须长途飞行才能迁徙 】
+// 【 Thousands were forced to migrate from rural to urban areas in search of work. 成千上万的人为了寻找工作被迫从农村涌进城市 】
 ```
