@@ -7,13 +7,25 @@ bathroom 浴室 洗手间
 kitchen 厨房
 ---
 
+kitchen 厨房
 kitchen items. 厨房用品
+
 appliance 电器
+// household 家庭
+// 【 household appliance. 家用电器 】
+// Design of remote control household appliance and security system based on telephone network. 基于电话网络的遥控家电及防盗系统设计
+// a faulty appliance. 有故障的电器
 
 air-conditioner. 空调
 balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 
-chef 厨师 // A chef works in a kitchen. 厨师在厨房工作 // TIPS: Pay attention to pronunciation.
+chef 厨师 // TIPS: Pay attention to pronunciation.
+// She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从厨师到游泳教练
+// -- instructor 教练
+// -- swimming instructor. 游泳教练
+// A chef works in a kitchen. 厨师在厨房工作
+// The chef, staff and managers are all chinese. 厨师、工作人员和经理都是中国人
+
 rice cooker. 电饭锅 // plug the rice cooker. // unplug the rice cooker.
 wine opener. 开酒器
 funnel 漏斗
@@ -54,13 +66,21 @@ toothbrush 牙刷
 
 // TIPS: Pay attention to pronunciation
 comb 梳子n 梳v
-// bomb 炸弹
+bomb 炸弹
 // comb梳子: I comb my hair with the comb. 我用梳子梳头
+// bomb炸弹: the bomb exploded. 炸弹爆炸了
+// -- explode 爆炸 v
+// -- explosion 爆炸 n
 
 tap 水龙头
 sink 洗碗槽
-basin 盆 洗脸盆 盆地
+
 bath 浴缸
+bathtub 浴缸
+
+basin 盆 洗脸盆 盆地
+washbasin 洗脸盆
+// In the bathroom, there is a washbasin, a shower, and a bathtub. 浴室里有一个洗脸盆、一个淋浴房、一个浴缸
 
 toilet 马桶
 toilet lid. 马桶盖
@@ -197,14 +217,30 @@ cereal 谷物 麦片
 
 # (二) bathroom 浴室 洗手间
 
+- bathroom 自己家的洗手间
+- restroom 公共的洗手间
+- WC: 是 Water Closet 的缩写
+
 ```
 shower 淋浴 洗澡
+shower tile. 淋浴瓷砖
+shower curtain. 淋浴窗帘
 shower head. 喷头
 shower gel. 沐浴露
 // take a shower. 洗澡
 // take a shower instead of a bath. 用淋浴代替浴缸
 
+shower curtain
+// The shower curtain can blocked the water spraying everywhere in our bathroom. 浴帘可以阻挡水溅到我们浴室的各处
+// -- detachable 可拆卸的
+// -- In our shower, we have a shower head, and sometimes the shower head is detachable.
+
+drain 下水道
 floor drain. 地漏
+// 【 drain away. 排水 】
+// 【  He has no time to repair the blocked drain. 他没时间修理堵塞的排水管 】
+// -- block 块 阻止 堵塞 // display: block;
+
 rinse cup. 洗漱杯
 
 razor 剃须刀
@@ -224,17 +260,31 @@ toilet 马桶
 toilet lid. 马桶盖
 toilet seat. 马桶圈
 toilet paper. 厕纸
+flusher 冲洗器
 
 tap 水龙头
 sink 洗碗槽
+
 basin 盆 洗脸盆 盆地
+washbasin 洗脸盆
+
+tub 浴缸
 bath 浴缸
+bathtub 浴缸
+// 以上都可以表示浴缸
+// In the bathroom, there is a washbasin, a shower, and a bathtub. 浴室里有一个洗脸盆、一个淋浴房、一个浴缸
 
 soap 肥皂 香皂 // wash your hands with a block of soap, and dry your hands with a towel.
 shampoo 洗发水
 shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
 toothpaste 牙膏
 toothbrush 牙刷
+```
+
+# (三) kitchen 厨房
+
+```
+
 ```
 
 # Home detail

@@ -163,6 +163,14 @@ a couple of socks. 一双袜子
 ##### 2023-09-30
 
 ```
+vocabulary 词汇
+exactly 一点不错 正是如此 精确的
+
+household 家庭
+appliance 电器
+// 【 household appliance. 家用电器 】
+// Design of remote control household appliance and security system based on telephone network. 基于电话网络的遥控家电及防盗系统设计
+
 Apply for driver license. 申请驾照
 Do you have a question for me? 你有问题问我吗？
 What's going on? 怎么了？
@@ -174,4 +182,19 @@ firm 公司
 
 consume 消费 消耗 v
 consumption 消费 n
+
+basin 盆 洗脸盆 盆地
+washbasin 洗脸盆
+bath 浴缸
+bathtub 浴缸
+// In the bathroom, there is a washbasin, a shower, and a bathtub. 浴室里有一个洗脸盆、一个淋浴房、一个浴缸
+
+shower curtain
+// The shower curtain can blocked the water spraying everywhere in our bathroom. 浴帘可以阻挡水溅到我们浴室的各处
+// -- detachable 可拆卸的
+// -- In our shower, we have a shower head, and sometimes the shower head is detachable
+
+tile 瓷砖 // tiles
+a range of. 一系列
+// The tiles come in a huge range of colors and designs. 瓷砖有各种各样的颜色和图案
 ```
