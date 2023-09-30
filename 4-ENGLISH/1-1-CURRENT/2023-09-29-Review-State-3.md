@@ -1,5 +1,7 @@
 # review 【 National Day 国庆节 】【 Mid-Autumn Festival 中秋节 】
 
+##### 2023-09-29
+
 ```
 National 国家的
 // National Day. 国庆节
@@ -156,4 +158,20 @@ a tub of popcorn. 一桶爆米花
 a roll of paper. 一卷纸
 a head of garlic. 一颗蒜
 a couple of socks. 一双袜子
+```
+
+##### 2023-09-30
+
+```
+Apply for driver license. 申请驾照
+Do you have a question for me? 你有问题问我吗？
+What's going on? 怎么了？
+The number of consumption is full today. 今天的消费数量已满
+
+license 许可证
+firm 公司
+// They had licensed the firm to produce the drug. 他们批准了那家公司生产这种药物
+
+consume 消费 消耗 v
+consumption 消费 n
 ```

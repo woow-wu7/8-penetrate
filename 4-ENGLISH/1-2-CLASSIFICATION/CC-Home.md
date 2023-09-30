@@ -1,9 +1,9 @@
-# Home
+# (一) Home
 
 ```1111111
 living room 客厅
 bedroom 卧室
-bathroom 浴室
+bathroom 浴室 洗手间
 kitchen 厨房
 ---
 
@@ -61,8 +61,11 @@ tap 水龙头
 sink 洗碗槽
 basin 盆 洗脸盆 盆地
 bath 浴缸
+
 toilet 马桶
-toilet paper 卫生纸
+toilet lid. 马桶盖
+toilet seat. 马桶圈
+toilet paper. 厕纸
 
 towel 毛巾
 // paper towel 纸巾
@@ -102,6 +105,7 @@ wardrobe 衣柜 // 注意发音
 drawer 抽屉
 shelf 架子 // shelves 复数形式
 cupboard 橱柜
+cabinet 储藏柜
 
 trash 垃圾
 trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
@@ -189,6 +193,48 @@ flour 面粉
 protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质
 Bean curd 豆腐 // Bean curd is healthy and tasty. 豆腐既健康又美味 // tasty 美味的
 cereal 谷物 麦片
+```
+
+# (二) bathroom 浴室 洗手间
+
+```
+shower 淋浴 洗澡
+shower head. 喷头
+shower gel. 沐浴露
+// take a shower. 洗澡
+// take a shower instead of a bath. 用淋浴代替浴缸
+
+floor drain. 地漏
+rinse cup. 洗漱杯
+
+razor 剃须刀
+disposable 一次性的
+shave 刮胡子
+// razor 剃须刀: I want to buy an electric razor this weekend. 这个周末我想买一个电动剃须刀
+// disposable一次性的: He shaved himself with a disposable razor. 他用一次性刀片刮脸
+
+shampoo 洗发水
+conditioner 护发素
+
+cabinet 储藏柜
+doorstop 门碰头
+knob 门把手
+
+toilet 马桶
+toilet lid. 马桶盖
+toilet seat. 马桶圈
+toilet paper. 厕纸
+
+tap 水龙头
+sink 洗碗槽
+basin 盆 洗脸盆 盆地
+bath 浴缸
+
+soap 肥皂 香皂 // wash your hands with a block of soap, and dry your hands with a towel.
+shampoo 洗发水
+shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
+toothpaste 牙膏
+toothbrush 牙刷
 ```
 
 # Home detail
