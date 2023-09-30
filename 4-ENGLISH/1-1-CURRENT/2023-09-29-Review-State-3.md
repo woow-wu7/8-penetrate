@@ -165,6 +165,7 @@ a couple of socks. 一双袜子
 ```
 vocabulary 词汇
 exactly 一点不错 正是如此 精确的
+particle 微粒
 spray 喷雾 喷洒 水花
 turtle 乌龟
 stall 摊位 // a shower stall. 淋浴间，指健身房那种一个一个的淋浴间
@@ -172,6 +173,8 @@ cloth 布
 nail clipper. 指甲刀
 
 【 Please wait patiently. 请耐心等待 】
+【 leafy shade. 树阴 】// 【 We sat in the leafy shade of an oak tree. 我们坐在一棵枝繁叶茂的橡树树荫下 】
+【 solar radiation. 太阳辐射 】// radiation 辐射
 Apply for driver license. 申请驾照
 Do you have a question for me? 你有问题问我吗？
 What's going on? 怎么了？
@@ -219,4 +222,30 @@ urban area. 城市 市区
 area 地区 // 注意发音
 // 【 Most birds have to fly long distances to migrate. 大多数鸟类必须长途飞行才能迁徙 】
 // 【 Thousands were forced to migrate from rural to urban areas in search of work. 成千上万的人为了寻找工作被迫从农村涌进城市 】
+
+leaf 叶子 n
+leafy 多叶的 茂盛的 adj
+shade 树荫
+【 leafy shade. 树阴 】
+oak 橡树
+// 【 We sat in the leafy shade of an oak tree. 我们坐在一棵枝繁叶茂的橡树树荫下 】
+// Leafy trees cast shade. 多叶的树下有树荫
+
+radiation 辐射
+【 solar radiation. 太阳辐射 】
+research on. 研究
+// Therefore research on solar radiation data of our country has important meaning. 因此，研究我国的太阳辐射数据具有重要意义
+
+vital 直观重要的
+// 【 Trust is a vital component in any relationship. 在任何关系中，信任都是一个至关重要的因素 】
+// Reading is of vital importance in language learning. 阅读在语言学习中至关重要
+
+important 重要的 adj
+importance 重要 n
+secondary 次要的 adj
+// importance 重要n: Reading is of vital importance in language learning. 阅读在语言学习中至关重要
+// Experience is what matters ─ age is of secondary importance. 重要的是经验——年龄是次要的
+
+trap 陷阱
+// trap陷阱: Some women see marriage as a trap. 有些妇女把婚姻视作陷阱
 ```
