@@ -14,13 +14,17 @@ appliance 电器
 // household 家庭
 // 【 household appliance. 家用电器 】
 // Design of remote control household appliance and security system based on telephone network. 基于电话网络的遥控家电及防盗系统设计
-// a faulty appliance. 有故障的电器
+// -- a faulty appliance. 有故障的电器
+// -- design of. ...的设计
+// -- The basic design of the car is very similar to that of earlier models. 这种汽车的基本设计与早期的样式非常相似
 
 air-conditioner. 空调
 balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台吗？
 
 chef 厨师 // TIPS: Pay attention to pronunciation.
+swimming instructor. 游泳教练
 // She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从厨师到游泳教练
+// -- range 范围 // ranging // TIPS: Pay attention to pronunciation.
 // -- instructor 教练
 // -- swimming instructor. 游泳教练
 // A chef works in a kitchen. 厨师在厨房工作
@@ -37,7 +41,7 @@ bake 烘培 // Bake until the crust is golden. 烘烤至外皮呈金黄色
 preheat 预热
 
 knife holder. 刀架
-cleaver 菜刀
+cleaver 菜刀 // TIPS: Pay attention to pronunciation.
 chop 切碎 // chop up. 切碎
 chopping board. 切菜板
 // Will you chop an onion up for me? 你能帮我把一个洋葱切碎吗？
@@ -60,7 +64,9 @@ balcony 阳台
 
 soap 肥皂 香皂 // wash your hands with a block of soap, and dry your hands with a towel.
 shampoo 洗发水
+conditioner 护发素
 shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
+
 toothpaste 牙膏
 toothbrush 牙刷
 
@@ -121,11 +127,15 @@ shallow is the opposite of deep.
 messy 凌乱的
 clean is the opposite of messy.
 
-wardrobe 衣柜 // 注意发音
 drawer 抽屉
 shelf 架子 // shelves 复数形式
-cupboard 橱柜
+
+wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
 cabinet 储藏柜
+cupboard 橱柜
+hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
+// wardrobe衣柜: There were several expensive suits hanging in the wardrobe. 衣柜里挂着几套昂贵的衣服 // 这里是动名词的用法
+// We can open it and put things inside. 我们可以打开它，然后放东西在里面·
 
 trash 垃圾
 trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
@@ -133,7 +143,7 @@ bin 垃圾桶
 dustbin 垃圾箱 // 指户外的垃圾箱
 
 ladle 汤勺n 舀v
-scoop 勺 一勺 n
+scoop 勺 一勺 n // TIPS: Pay attention to pronunciation.
 // Can you ladle the soup out of this deep pan for me? 你能从这个深底盆里舀点汤给我吗？
 
 flip 翻转
@@ -142,7 +152,7 @@ flip 翻转
 whisk 搅拌
 // Whisk the mixture until it is smooth. 把混合物搅拌均匀
 
-plate 盘子 // 注意发音
+plate 盘子 // TIPS: Pay attention to pronunciation.
 luggage 行李 行李箱
 chair 椅子
 
@@ -208,11 +218,12 @@ carrot 胡萝卜
 green bean 四季豆
 cabbage 卷心菜
 mad apple 茄子 // 因为长得非常的快，所以叫 mad apple
+
 peanut 花生
 flour 面粉
-protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质
+protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质 // TIPS
 Bean curd 豆腐 // Bean curd is healthy and tasty. 豆腐既健康又美味 // tasty 美味的
-cereal 谷物 麦片
+cereal 谷物 麦片 // TIPS: Pay attention to pronunciation.
 ```
 
 # (二) bathroom 浴室 洗手间
@@ -234,6 +245,7 @@ shower gel. 沐浴露
 shower curtain
 // The shower curtain can blocked the water spraying everywhere in our bathroom. 浴帘可以阻挡水溅到我们浴室的各处
 // -- detachable 可拆卸的
+// -- block 块 阻止 堵塞 // display: block;
 // -- In our shower, we have a shower head, and sometimes the shower head is detachable.
 
 drain 下水道
@@ -248,12 +260,17 @@ razor 剃须刀
 disposable 一次性的
 shave 刮胡子
 // razor 剃须刀: I want to buy an electric razor this weekend. 这个周末我想买一个电动剃须刀
-// disposable一次性的: He shaved himself with a disposable razor. 他用一次性刀片刮脸
+// disposable一次性的: 【 He shaved himself with a disposable razor. 他用一次性刀片刮脸 】
 
 shampoo 洗发水
 conditioner 护发素
 
 cabinet 储藏柜
+wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
+cabinet 储藏柜
+cupboard 橱柜
+hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
+
 doorstop 门碰头
 knob 门把手
 
@@ -280,12 +297,6 @@ shampoo 洗发水
 shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
 toothpaste 牙膏
 toothbrush 牙刷
-```
-
-# (三) kitchen 厨房
-
-```
-
 ```
 
 # Home detail

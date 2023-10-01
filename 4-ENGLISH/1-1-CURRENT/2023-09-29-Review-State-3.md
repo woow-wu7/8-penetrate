@@ -282,3 +282,31 @@ seriously 认真地 adv
 // serious认真的: 【 We are serious people. 我们是认真的人 】
 // seriously认真地: 【 Seriously, please find any way to get in touch with me 说真的，请想办法和我联系 】
 ```
+
+##### 2023-10-01
+
+```
+cabinet 储物柜
+wardrobe 衣柜
+cupboard 厨柜
+hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
+// wardrobe衣柜: There were several expensive suits hanging in the wardrobe. 衣柜里挂着几套昂贵的衣服 // 这里是动名词的用法
+// We can open it and put things inside. 我们可以打开它，然后放东西在里面·
+
+wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
+// There were several expensive suits hanging in the wardrobe. 衣柜里挂着几套昂贵的衣服
+
+temporary 临时的
+// I'm looking for some temporary work. 我在找临时工作
+
+design of. ...的设计
+household appliance. 家用电器
+// Design of remote control household appliance and security system based on telephone network. 基于电话网络的遥控家电及防盗系统设计
+// The basic design of the car is very similar to that of earlier models. 这种汽车的基本设计与早期的样式非常相似
+
+razor 剃须刀
+disposable 一次性的
+shave 刮胡子
+// razor 剃须刀: 【 I want to buy an electric razor this weekend. 这个周末我想买一个电动剃须刀 】
+// disposable一次性的: 【 He shaved himself with a disposable razor. 他用一次性刀片刮脸 】
+```
