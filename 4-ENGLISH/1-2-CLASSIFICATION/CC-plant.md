@@ -1,8 +1,17 @@
 # Plant 植物
 
-###### 1
+###### (一) plant
 
 ```
+wheat 小麦
+//【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
+// The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小
+
+germinate 发芽 v
+moisture 水分 n
+// germinate 发芽: Heat and moisture will germinate the seeds. 温度和水分会使种子发芽
+// moisture: When the soil is dry, more moisture is lost from the plant. 土壤干燥时，植物会流失更多的水
+
 cherry 樱桃
 grape 葡萄 // TIPS: Pay attention to pronunciation.
 lemon 柠檬 // lemonade 柠檬水
@@ -61,17 +70,17 @@ bloodstream 血流 // blood血 stream流
 sow 播种
 seed 种子
 pollen 花粉
-soil 土壤
+soil 土壤 // plant the seeds into the soil/ground. 把种子种到土壤里
 spire 尖顶
 propagate 繁殖 传播
 // He is sowing seeds into the soil. 他正在土里播种
 // Sow the seeds before they are spiring. 在种子发芽前进行播种
-// Most plants propagate by seed. 大多数植物通过种子进行繁殖
+// propagate 繁殖: 【 Most plants propagate by seed. 大多数植物通过种子进行繁殖 】
 ```
 
-##### 2
+##### (二) quantifier 量词
 
-- a mass of. 大量的 // quantifier 量词
+- quantifier 量词
 - `quantifier 量词`
 
 ```

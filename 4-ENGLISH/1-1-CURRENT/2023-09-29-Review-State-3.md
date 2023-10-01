@@ -9,6 +9,7 @@ National 国家的
 // National Day. 国庆节
 // On the first day of National Day.
 // On the second day of National Day.
+// On the third day of National Day. I went to Suzhou to get my glasses by high-speed railway.
 
 autumn 秋天 秋天的
 Mid-Autumn Festival. 中秋节
@@ -288,6 +289,11 @@ seriously 认真地 adv
 ##### 2023-10-01
 
 ```
+slide 滑动v 幻灯片n
+【 at a certain point. 在某一时刻 】
+【 are equally correct. 都是正确的 】
+【 dig up. 挖出 发现 】
+
 come over. 过来
 // come over for dinner. 过来吃饭
 
