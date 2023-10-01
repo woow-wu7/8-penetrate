@@ -4,10 +4,27 @@
 
 ```
 cheetah 猎豹 // tail 尾巴
+// How fast can a cheetah run? 猎豹奔跑的速度有多快？
+
 zebra 斑马
+lion 狮子
+// The lion was stalking a zebra. 狮子正在跟踪斑马
+// -- stalk 茎n 跟踪v
+
 giraffe 长颈鹿
+// Giraffes have very long necks. 长颈鹿的脖子很长
+
 bear 熊n 忍受v
+// TIPS: Pay attention to pronunciation.
+// We followed the bear's tracks in the snow. 我们在雪地里追寻着熊的足迹
+// -- follow 跟随 沿着 v/n
+// -- track 轨道 路径
+// -- snow 雪
+
 kangaroo 袋鼠
+// The kangaroo is indigenous to Australia. 袋鼠原产于澳大利亚
+// -- indigenous 原产的 当地的 adj
+
 eagle 鹰 // bald eagle 白头鹰
 bat 蝙蝠 // bats
 
