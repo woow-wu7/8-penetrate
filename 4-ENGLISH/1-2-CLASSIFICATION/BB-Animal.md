@@ -24,8 +24,14 @@ bear 熊n 忍受v
 kangaroo 袋鼠
 // The kangaroo is indigenous to Australia. 袋鼠原产于澳大利亚
 // -- indigenous 原产的 当地的 adj
+// -- There are all sorts of animals, including bears, pigs, kangaroos, and penguins. 有各种各样的动物，包括熊、猪、袋鼠和企鹅
 
 eagle 鹰 // bald eagle 白头鹰
+// In the story the god assumes the form of an eagle. 在这个故事中神以鹰的形象出现
+// -- god 神
+// -- assume 假设
+// -- form of. 用...构成
+
 bat 蝙蝠 // bats
 
 tiger 老虎

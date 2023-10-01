@@ -1,4 +1,6 @@
-# review 【 National Day 国庆节 】【 Mid-Autumn Festival 中秋节 】
+# review 【 National Day 国庆节 - 74th anniversary】【 Mid-Autumn Festival 中秋节 】
+
+- `74th Anniversary of of National Day. 国庆 74 周年纪念日`
 
 ##### 2023-09-29
 
@@ -286,6 +288,19 @@ seriously 认真地 adv
 ##### 2023-10-01
 
 ```
+come over. 过来
+// come over for dinner. 过来吃饭
+
+governor 州长 董事
+government 政府 n
+
+get in the car. 上车
+spare part locker. 备件储物柜
+He lie to them.
+seat cushion. 坐垫
+welcome mat. 欢迎毯
+now it's your turn. 现在轮到你了
+
 cabinet 储物柜
 wardrobe 衣柜
 cupboard 厨柜
@@ -309,4 +324,13 @@ disposable 一次性的
 shave 刮胡子
 // razor 剃须刀: 【 I want to buy an electric razor this weekend. 这个周末我想买一个电动剃须刀 】
 // disposable一次性的: 【 He shaved himself with a disposable razor. 他用一次性刀片刮脸 】
+
+anniversary 周年纪念日
+annual 年度的 一年一度的
+// anniversary周年纪念日:【 Today is our wedding anniversary. 今天是我们的结婚周年纪念日 】
+// annual一年一度的: How much is the annual ground rent? 每年的地租是多少?
+
+totally 完全的
+// I could never be totally honest with them. 我从来不完全地相信他
+// I totally forgot. 我完全忘记了
 ```

@@ -160,6 +160,8 @@ washing machine. 洗衣机
 washing line. 晾衣绳
 
 mat 小地毯 席子 垫子
+welcome mat. 欢迎谈 // 即门外的小地毯垫子
+
 kettle 水壶
 pot 锅
 stove 炉子 // Let's turn on the gas. 让我们把火打开
