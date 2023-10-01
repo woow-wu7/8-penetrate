@@ -4,10 +4,10 @@
 
 ```
 cherry 樱桃
-grape 葡萄
+grape 葡萄 // TIPS: Pay attention to pronunciation.
 lemon 柠檬 // lemonade 柠檬水
 watermelon 西瓜
-pear 梨
+pear 梨 // bear 熊
 peach 桃子
 apple 苹果 // 注意发音
 pineapple 菠萝
@@ -19,9 +19,18 @@ pomegranate 石榴 // po me gra nate
 papaya 木瓜 // papa 爸爸 // papaya 木瓜
 apricots 杏子
 soybean 大豆
+
 protein 蛋白质
+pea 豌豆 // peas pear梨 bear熊
+vegetable 蔬菜n 植物的adj
+// 【 peas are a good source of vegetable protein. 豌豆是植物蛋白的良好来源 】
 
 cucumber 黄瓜
+// Slice the cucumber thinly. 将黄瓜切成薄片
+// -- thin 薄的细的adj // thinly 薄 adv
+// -- thick 厚的粗的adj
+// -- Thin is the opposite of thick.
+
 cactus 仙人掌
 
 garlic 大蒜
@@ -29,7 +38,7 @@ lettuce 莴笋
 pepper 甜椒
 corn 玉米
 onion 洋葱
-carrot 胡萝卜
+carrot 胡萝卜 // TIPS: Pay attention to pronunciation.
 potato 土豆
 tomato 西红柿
 mushroom 蘑菇 // 注意发音
@@ -42,6 +51,10 @@ jasmine 茉莉
 
 mineral 矿物
 nutrient 营养素
+mineral nutrients. 矿物营养
+bloodstream 血流 // blood血 stream流
+// mineral矿物: 【 Plants draw minerals and other nutrients from the soil. 植物从土壤中吸取矿物质和其他养分 】
+// nutrients营养素: 【 Nutrients are absorbed into the bloodstream. 营养素被吸收进血液 】
 ```
 
 ```

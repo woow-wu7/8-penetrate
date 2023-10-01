@@ -6,8 +6,9 @@
 cheetah 猎豹 // tail 尾巴
 // How fast can a cheetah run? 猎豹奔跑的速度有多快？
 
-zebra 斑马
 lion 狮子
+zebra 斑马
+zebra crossing 斑马线
 // The lion was stalking a zebra. 狮子正在跟踪斑马
 // -- stalk 茎n 跟踪v
 
@@ -15,6 +16,7 @@ giraffe 长颈鹿
 // Giraffes have very long necks. 长颈鹿的脖子很长
 
 bear 熊n 忍受v
+polar bear 北极熊 // 注意发音
 // TIPS: Pay attention to pronunciation.
 // We followed the bear's tracks in the snow. 我们在雪地里追寻着熊的足迹
 // -- follow 跟随 沿着 v/n
@@ -60,17 +62,25 @@ rhino 犀牛 // A rhino is a large animal with one or two horns. 犀牛是一种
 
 bee 蜜蜂
 bumblebee 大黄蜂
+honey 蜂蜜
 
 beetle 甲虫 // 注意发音
 insect 昆虫
-butterfly 蝴蝶 // dragon龙 // dragonfly蜻蜓
-dragonfly 蜻蜓
-ladybird 瓢虫
-snail 蜗牛 // 注意发音
-ant 蚂蚁
+
+butterfly 蝴蝶 // dragon 龙 // dragonfly 蜻蜓
 dragonfly 蜻蜓
 dragon 龙
 dinosaur 恐龙
+
+ladybird 瓢虫
+
+snail 蜗牛 // 注意发音
+ant 蚂蚁
+
+dragonfly 蜻蜓
+dragon 龙
+dinosaur 恐龙
+
 rodent 啮齿动物
 --
 
@@ -119,8 +129,10 @@ seagull 海鸥 // Seagulls like to eat sea creatures that were washed up on the 
 dolphin 海豚 // 注意发音
 turtle 乌龟 // 注意发音 // shell 壳
 lobster 龙虾 // 注意发音
+
 whale 鲸鱼
 shark 鲨鱼 // gill 腮
+
 penguin 企鹅
 polar bear 北极熊 // 注意发音
 seal 密封 海豹
