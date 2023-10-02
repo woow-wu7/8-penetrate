@@ -32,7 +32,7 @@ heart 心脏
 vein 静脉 血管 // The doctor restricts the blood flow in order to see the patient's veins more clearly.
 protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质
 tummy 肚子
-breast 乳房 // 注意发音
+breast 胸 乳房 // 注意发音
 stomach 胃
 tonsil 扁桃体 // 注意发音
 forehead 前额 额头 // forefinger 食指 // index finger 食指

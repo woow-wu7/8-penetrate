@@ -142,6 +142,9 @@ trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢
 bin 垃圾桶
 dustbin 垃圾箱 // 指户外的垃圾箱
 
+trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
+watering can. 喷壶 // I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶
+
 ladle 汤勺n 舀v
 scoop 勺 一勺 n // TIPS: Pay attention to pronunciation.
 // Can you ladle the soup out of this deep pan for me? 你能从这个深底盆里舀点汤给我吗？

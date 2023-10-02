@@ -352,6 +352,8 @@ flower bed. 花坛
 crop 农作物 // crops
 fertilizer 肥料
 sunlight 阳光
+herb 草本植物
+
 
 decrease by: 减少
 decrease to: 减少到
@@ -370,4 +372,9 @@ seed 种子
 seedling 幼苗
 // seedling 幼苗:【 Plant the seedling in damp soil. 把幼苗种在湿润的土壤里 】
 // -- damp 潮湿的
+
+maintain 保持 维护 v
+maintainer 维护者 n
+maintenance 维护 n
+// maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
 ```

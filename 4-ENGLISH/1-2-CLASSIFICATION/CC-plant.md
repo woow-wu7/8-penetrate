@@ -12,7 +12,9 @@ weed 杂草
 crop 农作物 // crops
 compost 堆肥
 sunlight 阳光
+
 a tour of. 参观
+herb 草本植物
 
 wheat 小麦
 //【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
@@ -54,6 +56,9 @@ fertilizer 肥料
 crop 农作物
 // fertilizer 肥料:【 Too much fertilizer will harm the crops. 施肥过多会损害农作物 】
 
+pollen 花粉
+// pollen 花粉: These are like bees and other types of insects that help to spread pollen to different flowers.
+// 它们就像蜜蜂和其他类型的昆虫一样，有助于将花粉传播到不同的花朵上
 
 cherry 樱桃
 grape 葡萄 // TIPS: Pay attention to pronunciation.
@@ -121,14 +126,36 @@ propagate 繁殖 传播
 // propagate 繁殖: 【 Most plants propagate by seed. 大多数植物通过种子进行繁殖 】
 ```
 
+#### (二) Plants tools
+
+```
+hose 水管 软管
+// TIPS: Pay attention to pronunciation.
+// hose 水管: 【 Water in the engine compartment is sucked away by a hose. 发动机舱内的水被软管吸走 】
+// -- compartment 隔间 隔层
+// -- suck 吸
+// -- suck away. 吸走
+// -- suck at. 吸
+// ---- suck at. 吸: 【 The baby sucked at its mother's breast. 婴儿吮吸着母亲的乳房 】// 在 sucked 处停顿
+
+watering can. 喷壶
+trash can. 垃圾桶
+// watering can 喷壶: 【 I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶 】
+// trash can 垃圾桶: I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
+
+shovel 铲子n 铲v
+// shovel 铲n/v: 【 We can shovel sand with a shovel. 我们可以用铲子铲沙子 】
+```
+
 ##### (三) Some sentences about plants
 
 ```
 a tour of. 参观
 I'd like to take you on a little tour of my vegetable garden. 我想带你参观一下我的菜园
+we can water our plants and flowers.
 ```
 
-##### (二) quantifier 量词
+##### (四) quantifier 量词
 
 - quantifier 量词
 - `quantifier 量词`
