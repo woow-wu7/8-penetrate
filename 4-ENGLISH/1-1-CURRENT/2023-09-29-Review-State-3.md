@@ -310,7 +310,7 @@ now it's your turn. 现在轮到你了
 cabinet 储物柜
 wardrobe 衣柜
 cupboard 厨柜
-hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
+hang 悬挂 // TIPS: Pay attention to pronunciation. // hang hung
 // wardrobe衣柜: There were several expensive suits hanging in the wardrobe. 衣柜里挂着几套昂贵的衣服 // 这里是动名词的用法
 // We can open it and put things inside. 我们可以打开它，然后放东西在里面·
 
@@ -353,6 +353,9 @@ crop 农作物 // crops
 fertilizer 肥料
 sunlight 阳光
 herb 草本植物
+sunscreen 防晒霜
+harvest 收获
+this these // TIPS: Pay attention to pronunciation.
 
 
 decrease by: 减少
@@ -377,4 +380,13 @@ maintain 保持 维护 v
 maintainer 维护者 n
 maintenance 维护 n
 // maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
+
+loop 环 循环
+// 所有的环形物都可以叫 loop
+// 【 Put the song on a loop. 把这首歌循环播放 // 单曲循环 】
+// Make a loop in the string. 在绳子上打个圈
+// The film is on a loop. 这部电影正在循环播放
+
+sunscreen 防晒霜
+// Protect your child from direct sunlight by using a sunscreen. 给孩子搽点防晒霜以防日光直接照射
 ```

@@ -66,6 +66,7 @@ soap 肥皂 香皂 // wash your hands with a block of soap, and dry your hands w
 shampoo 洗发水
 conditioner 护发素
 shower gel. 沐浴露 // TIPS: Pay attention to pronunciation // gel ling
+sunscreen 防晒霜 // Protect your child from direct sunlight by using a sunscreen. 给孩子搽点防晒霜以防日光直接照射
 
 toothpaste 牙膏
 toothbrush 牙刷
