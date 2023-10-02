@@ -356,6 +356,7 @@ herb 草本植物
 sunscreen 防晒霜
 harvest 收获
 this these // TIPS: Pay attention to pronunciation.
+gallery 画廊 相册
 
 
 decrease by: 减少
@@ -389,4 +390,20 @@ loop 环 循环
 
 sunscreen 防晒霜
 // Protect your child from direct sunlight by using a sunscreen. 给孩子搽点防晒霜以防日光直接照射
+
+camp 野营 营地
+// We decided to set up camp for the night. 我们决定搭帐篷过夜
+
+preserve 保存 保护
+// preserve 保护:【 We need to preserve the forest. 我们需要保护森林 】
+// preserve 保存:【 This mosquito will be preserved for thousands of years. 这只蚊子能够保存上千年 】
+
+material 材料
+// She has prepared the cooking material for lunch. 她已经准备好了午餐的原料
+
+patient 病人n 耐心的 adj
+patiently 耐心地 adv
+patience 耐心 n
+// patience 耐心 n:【 Thanks for your patience. 谢谢你的耐心 】
+// patiently 耐心地 adv:【 Please wait patiently. 请耐心等待 】
 ```

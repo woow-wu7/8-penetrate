@@ -14,6 +14,9 @@ compost 堆肥
 sunlight 阳光
 harvest 收获
 ripe 成熟的 // These guys are not ripe yet. 这些家伙(植物)还没成熟
+trellis 棚 架
+vine 藤
+vining plants. 藤蔓植物
 
 a tour of. 参观
 herb 草本植物
@@ -63,6 +66,24 @@ pollen 花粉
 // pollen 花粉: These are like bees and other types of insects that help to spread pollen to different flowers.
 // 它们就像蜜蜂和其他类型的昆虫一样，有助于将花粉传播到不同的花朵上
 
+vine 藤
+vining plants. 藤蔓植物
+grape vine. 葡萄藤
+// vine 藤:【 The grape vine climbed up along the wall. 葡萄藤沿着墙往上爬 】
+// vine 藤:【 The monkey is swinging on the vine. 猴子在藤蔓上荡秋千 】
+// -- swing 摆动 荡
+
+spinach 菠菜 // TIPS: Pay attention to pronunciation.
+// Spinach is a rich source of iron. 菠菜含铁丰富
+// -- iron 铁
+
+pest 害虫 // TIPS: Pay attention to pronunciation.
+crop 作物 // crops
+// pest 害虫【 Frogs eat pests which destroy crops and carry diseases. 青蛙吃破坏庄稼、传播疾病的害虫 】
+// -- frog 青蛙
+// -- disease 疾病
+
+fragrans 桂花
 cherry 樱桃
 grape 葡萄 // TIPS: Pay attention to pronunciation.
 lemon 柠檬 // lemonade 柠檬水

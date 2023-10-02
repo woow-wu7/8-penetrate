@@ -34,8 +34,8 @@ eagle 鹰 // bald eagle 白头鹰
 // -- assume 假设
 // -- form of. 用...构成
 
+cricket 蟋蟀
 bat 蝙蝠 // bats
-
 tiger 老虎
 lion 狮子
 panda 熊猫 // bamboo 竹子

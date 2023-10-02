@@ -10,6 +10,7 @@
     "CSSOM",
     "domloading",
     "Etag",
+    "fragrans",
     "geolocation",
     "grayscale",
     "hashchange",
