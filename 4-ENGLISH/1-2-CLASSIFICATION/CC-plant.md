@@ -1,8 +1,19 @@
-# Plant 植物
+# Plants 植物
 
-###### (一) plant
+###### (一) Plant // Plants
 
 ```
+stem 茎
+bud 花蕾
+bloom 开花
+flower bed. 花坛
+gardener 园丁
+weed 杂草
+crop 农作物 // crops
+compost 堆肥
+sunlight 阳光
+a tour of. 参观
+
 wheat 小麦
 //【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
 // The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小
@@ -22,10 +33,27 @@ seedling 幼苗
 // seedling 幼苗:【 Plant the seedling in damp soil. 把幼苗种在湿润的土壤里 】
 // -- damp 潮湿的
 
-germinate 发芽 v
 moisture 水分 n
+germinate 发芽 v
+// moisture 水分: 【 When the soil is dry, more moisture is lost from the plant. 土壤干燥时，植物会流失更多的水 】
 // germinate 发芽: Heat and moisture will germinate the seeds. 温度和水分会使种子发芽
-// moisture: When the soil is dry, more moisture is lost from the plant. 土壤干燥时，植物会流失更多的水
+
+bloom 开花
+bud 芽 花蕾
+// bloom 开花:【 Bloom is the verb we use to describe when a bud turns into a flower. Bloom 是我们用来描述花蕾变成花朵的动词 】
+// bud 花蕾: 【 The flower has not bloomed yet, but I can see the bud. 这花虽然还没开，但是我可以看到花蕾 】
+
+bud 芽 花蕾
+bloom 开花
+nip 掐
+// bud 花蕾: 【 The flower has not bloomed yet, but I can see the bud. 这花虽然还没开，但是我可以看到花蕾 】
+// bud 芽: 【 We can nip it in the bud. 我们可以把它扼杀在萌芽状态 】
+// bloom: Most roses will begin to bloom from late May. 大多数玫瑰将从五月下旬开始开花
+
+fertilizer 肥料
+crop 农作物
+// fertilizer 肥料:【 Too much fertilizer will harm the crops. 施肥过多会损害农作物 】
+
 
 cherry 樱桃
 grape 葡萄 // TIPS: Pay attention to pronunciation.
@@ -93,6 +121,13 @@ propagate 繁殖 传播
 // propagate 繁殖: 【 Most plants propagate by seed. 大多数植物通过种子进行繁殖 】
 ```
 
+##### (三) Some sentences about plants
+
+```
+a tour of. 参观
+I'd like to take you on a little tour of my vegetable garden. 我想带你参观一下我的菜园
+```
+
 ##### (二) quantifier 量词
 
 - quantifier 量词
@@ -112,6 +147,7 @@ a set of makeup. 一套化妆品
 a series of test. 一系列测试
 a carton of milk. 一盒牛奶
 a cup of tea. 一杯茶
+a sip of water. 一口水 // lip嘴唇 sip抿,一小口
 a bottle of water. 一瓶水
 a glass of water. 一杯水
 a piece of leaf. 一片叶子

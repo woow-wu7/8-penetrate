@@ -344,6 +344,15 @@ totally 完全的
 ##### 2023-10-02
 
 ```
+Let me just get a sip of the water. 让我喝一口水
+stem 茎
+bud 花蕾
+bloom 开花
+flower bed. 花坛
+crop 农作物 // crops
+fertilizer 肥料
+sunlight 阳光
+
 decrease by: 减少
 decrease to: 减少到
 increase by.
