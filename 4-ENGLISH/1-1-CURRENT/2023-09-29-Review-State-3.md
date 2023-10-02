@@ -340,3 +340,25 @@ totally 完全的
 // I could never be totally honest with them. 我从来不完全地相信他
 // I totally forgot. 我完全忘记了
 ```
+
+##### 2023-10-02
+
+```
+decrease by: 减少
+decrease to: 减少到
+increase by.
+increase to.
+// decrease by. 减少: The traffic accidents in the city decreased by 30% last year. 去年这个城市的交通事故减少了30%
+// decrease to. 较少到: The population decreased to 2 million last year. 去年人口减少到200万
+// -- wheat 小麦
+// -- 【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
+
+emerge 出现 暴露 露出
+merge 合并
+// emerge 出现: It emerges from the ground. 它从地面冒出来
+
+seed 种子
+seedling 幼苗
+// seedling 幼苗:【 Plant the seedling in damp soil. 把幼苗种在湿润的土壤里 】
+// -- damp 潮湿的
+```

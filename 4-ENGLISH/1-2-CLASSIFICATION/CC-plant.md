@@ -6,6 +6,21 @@
 wheat 小麦
 //【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
 // The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小
+// -- decrease by. 减少
+// -- decrease to. 减少到
+// -- increase by. increase to.
+// ---- decrease by 减少: 【 The traffic accidents in the city decreased by 30% last year. 去年这个城市的交通事故减少了30% 】
+// ---- decrease to 较少到: 【 The population decreased to 1 million last year. 人口去年减少到1百万 】
+
+bean sprout. 豆芽
+sprout 发芽v 新芽n
+// sprout 发芽v: 【 It only takes a few days for beans to sprout. 这些种子几天后就会发芽 】
+// sprout 发芽v: The seeds will sprout in a few days. 这些种子几天后就会发芽
+
+seed 种子
+seedling 幼苗
+// seedling 幼苗:【 Plant the seedling in damp soil. 把幼苗种在湿润的土壤里 】
+// -- damp 潮湿的
 
 germinate 发芽 v
 moisture 水分 n
