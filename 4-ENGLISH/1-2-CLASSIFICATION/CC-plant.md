@@ -3,7 +3,7 @@
 ###### (一) Plant // Plants
 
 ```
-stem 茎
+stem 茎 // TIPS: Pay attention to pronunciation.
 bud 花蕾
 bloom 开花
 flower bed. 花坛
@@ -15,36 +15,47 @@ sunlight 阳光
 harvest 收获
 ripe 成熟的 // These guys are not ripe yet. 这些家伙(植物)还没成熟
 trellis 棚 架
+
 vine 藤
 vining plants. 藤蔓植物
 
-a tour of. 参观
 herb 草本植物
+// verb 动词
 
 wheat 小麦
 //【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
-// The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小
+//【 The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小 】
+//【 The local people bartered wheat for tools. 当地人用小麦换取工具 】// barter 交易品 互换品
 // -- decrease by. 减少
 // -- decrease to. 减少到
 // -- increase by. increase to.
-// ---- decrease by 减少: 【 The traffic accidents in the city decreased by 30% last year. 去年这个城市的交通事故减少了30% 】
-// ---- decrease to 较少到: 【 The population decreased to 1 million last year. 人口去年减少到1百万 】
+// -- decrease by 减少: 【 The traffic accidents in the city decreased by 30% last year. 去年这个城市的交通事故减少了30% 】
+// -- decrease to 较少到: 【 The population decreased to 1 million last year. 人口去年减少到1百万 】
+// ----【 barter 交易品 互换品 】
+// ---- barter for. 以物换物
+// ---- 【 islander 岛上居民 】
+// ---- instead of. 代替 // TIPS: Pay attention to pronunciation.
+// ---- The islanders use a system of barter instead of money. 岛上的居民实行的是以物易物，而不是用货币
 
 bean sprout. 豆芽
 sprout 发芽v 新芽n
 // sprout 发芽v: 【 It only takes a few days for beans to sprout. 这些种子几天后就会发芽 】
-// sprout 发芽v: The seeds will sprout in a few days. 这些种子几天后就会发芽
+// sprout 发芽v: 【 The seeds will sprout in a few days. 这些种子几天后就会发芽 】
+// bean sprout 豆芽:【 I don't see any bean sprout in the soup. 这汤里看不到一点豆芽 】
+// -- in a few days. 过几天
+// -- pass off. 消失
+// --【 The smell of the paint will pass off in a few days. 油漆味几天后就会消失 】
 
 seed 种子
 seedling 幼苗
-// seed 种子: 【 a packet of seeds. 一包种子 】
+// seed 种子: 【 a packet of seeds. 一包种子 】// seeds
 // seedling 幼苗:【 Plant the seedling in damp soil. 把幼苗种在湿润的土壤里 】
 // -- damp 潮湿的
 
 moisture 水分 n
-germinate 发芽 v
+germinate 发芽 v // sprout 发芽 v // germinate 和 sprout 都有发芽的意思
+// germinate 发芽:【 Heat and moisture will germinate the seeds. 温度和水分会使种子发芽 】
 // moisture 水分: 【 When the soil is dry, more moisture is lost from the plant. 土壤干燥时，植物会流失更多的水 】
-// germinate 发芽: Heat and moisture will germinate the seeds. 温度和水分会使种子发芽
 
 bloom 开花
 bud 芽 花蕾
@@ -60,7 +71,10 @@ nip 掐
 
 fertilizer 肥料
 crop 农作物
+tractor 拖拉机
+haul 拖 // haul away. 拖走
 // fertilizer 肥料:【 Too much fertilizer will harm the crops. 施肥过多会损害农作物 】
+// fertilizer 肥料:【 The tractor hauled the fertilizer away. 拖拉机把肥料拉走了 】// haul 拖
 
 pollen 花粉
 // pollen 花粉: These are like bees and other types of insects that help to spread pollen to different flowers.
@@ -71,15 +85,17 @@ vining plants. 藤蔓植物
 grape vine. 葡萄藤
 // vine 藤:【 The grape vine climbed up along the wall. 葡萄藤沿着墙往上爬 】
 // vine 藤:【 The monkey is swinging on the vine. 猴子在藤蔓上荡秋千 】
-// -- swing 摆动 荡
+// -- swing 摆动 荡 v
+// -- swinging 现在分词
 
-spinach 菠菜 // TIPS: Pay attention to pronunciation.
+spinach 菠菜
+iron 铁
+// TIPS: Pay attention to pronunciation.
 // Spinach is a rich source of iron. 菠菜含铁丰富
-// -- iron 铁
 
 pest 害虫 // TIPS: Pay attention to pronunciation.
 crop 作物 // crops
-// pest 害虫【 Frogs eat pests which destroy crops and carry diseases. 青蛙吃破坏庄稼、传播疾病的害虫 】
+// pest 害虫:【 Frogs eat pests which destroy crops and carry diseases. 青蛙吃破坏庄稼、传播疾病的害虫 】
 // -- frog 青蛙
 // -- disease 疾病
 

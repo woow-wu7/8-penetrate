@@ -1,6 +1,6 @@
-# review 【 National Day 国庆节 - 74th anniversary】【 Mid-Autumn Festival 中秋节 】
+# review 【 National Day 国庆节 - 74th anniversary 】【 Mid-Autumn Festival 中秋节 】
 
-- `74th Anniversary of of National Day. 国庆 74 周年纪念日`
+- `74th Anniversary of National Day. 国庆 74 周年纪念日`
 
 ##### 2023-09-29
 
@@ -406,4 +406,11 @@ patiently 耐心地 adv
 patience 耐心 n
 // patience 耐心 n:【 Thanks for your patience. 谢谢你的耐心 】
 // patiently 耐心地 adv:【 Please wait patiently. 请耐心等待 】
+```
+
+##### 2023-10-03
+
+```
+leisure 闲暇 闲暇的
+foreigner 外国人
 ```
