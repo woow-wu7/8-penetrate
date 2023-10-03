@@ -1,6 +1,6 @@
 # Time
 
-#### 星期 week
+#### (一) 星期 Week
 
 ```
 星期一 Monday
@@ -42,7 +42,7 @@ at 时间小于 1 天 // at five o'clock // at night
 特殊情况 // in the Morning // in the afternoon // in the evening
 ```
 
-##### 月份 month
+##### (二) 月份 Month
 
 ```
 一月 January
@@ -59,7 +59,7 @@ at 时间小于 1 天 // at five o'clock // at night
 十二月 December
 ```
 
-##### 节日 festival
+##### (三) 节日 Festival
 
 ```
 圣诞节 Christmas // 注意发音
@@ -70,6 +70,7 @@ at 时间小于 1 天 // at five o'clock // at night
 清明节 Tomb-Sweeping Day
 劳动节 Labour Day
 国庆节 National Day
+中秋节 Mid-Autumn Festival
 
 vacation 假期
 // -- vacation is over 假期结束了
@@ -77,7 +78,7 @@ vacation 假期
 // -- Are you going on a vacation soon?
 ```
 
-##### 四季 season
+##### (四) 四季 Season
 
 ```
 spring
@@ -110,7 +111,7 @@ fall 秋天
 fall 落下
 ```
 
-##### 天气
+##### (五) 天气 Weather
 
 ```
 sun sunny
@@ -121,7 +122,7 @@ rain rainy
 snow snowy // 注意发音
 
 The weather is mild today. 今天的天气很温和
-// wild 温和的
+// mild 温和的 // TIPS: Pay attention to pronunciation.
 ```
 
 ##### 昆虫

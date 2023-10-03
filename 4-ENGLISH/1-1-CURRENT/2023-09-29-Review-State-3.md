@@ -419,6 +419,8 @@ spoil 破坏 变坏
 atmosphere 大气 大气层
 hole 孔 洞 // holes
 cloth 布 布料 // thick cloth. 厚布 // TIPS: Pay attention to pronunciation.
+passage 章节 通道
+liquid 液体
 
 need for. 需要
 // need for 需要: 【 There is no need for you to get up early tomorrow. 你明天不必早起 】
