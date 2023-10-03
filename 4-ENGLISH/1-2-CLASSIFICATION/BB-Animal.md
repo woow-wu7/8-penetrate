@@ -1,6 +1,6 @@
 # Animals
 
-##### continent 大陆 州
+##### (一) Continent 大陆 州
 
 ```
 cheetah 猎豹 // tail 尾巴
@@ -117,7 +117,7 @@ pavement 人行道
 traffic lights 红绿灯
 ```
 
-##### ocean 海洋
+##### (二) Ocean 海洋
 
 ```
 island 岛
@@ -156,4 +156,33 @@ spray 喷雾 浪花
 gill 腮 // 注意发音
 fin 鳍
 shell 壳
+```
+
+##### (三) Microorganism 微生物 // micro organism
+
+```
+Microorganism 微生物
+organism 生物
+// micro 微观的
+// organism 生物
+// organ 器官 机构
+// -- microorganism 微生物
+// -- microscope 显微镜
+---
+
+bacteria 细菌 n
+bacterial 细菌的 adj
+medium 中等 媒介 // TIPS: Pay attention to pronunciation.
+multiply 乘以 繁殖
+// bacteria 细菌: 【 The bacteria were growing in a sugar medium. 细菌在糖基中生长 】
+// multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
+
+fungus 真菌
+tree stump. 树桩
+// fungus 真菌:【 Mushrooms are a type of fungus. 蘑菇是一种真菌 】
+// If you have a tree stump, check it for fungus. 要是有树桩的话，检查一下上面有没有长菌类
+
+virus 病毒
+// virus 病毒: 【 This software is designed to scan all new files for viruses. 该软件旨在扫描所有新文件是否有病毒 】
+// virus 病毒: The virus is still active in the blood. 病毒在血液中仍然活跃
 ```

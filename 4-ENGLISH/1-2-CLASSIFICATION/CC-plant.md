@@ -154,9 +154,7 @@ mineral nutrients. 矿物营养
 bloodstream 血流 // blood血 stream流
 // mineral矿物: 【 Plants draw minerals and other nutrients from the soil. 植物从土壤中吸取矿物质和其他养分 】
 // nutrients营养素: 【 Nutrients are absorbed into the bloodstream. 营养素被吸收进血液 】
-```
 
-```
 sow 播种
 seed 种子
 pollen 花粉
@@ -166,6 +164,10 @@ propagate 繁殖 传播
 // He is sowing seeds into the soil. 他正在土里播种
 // Sow the seeds before they are spiring. 在种子发芽前进行播种
 // propagate 繁殖: 【 Most plants propagate by seed. 大多数植物通过种子进行繁殖 】
+
+a tour of. 参观
+I'd like to take you on a little tour of my vegetable garden. 我想带你参观一下我的菜园
+we can water our plants and flowers.
 ```
 
 #### (二) Plants tools
@@ -200,12 +202,33 @@ bug spray. 杀虫剂
 // -- I'll go pick up some bug spray. 我去拿一瓶杀虫剂
 ```
 
-##### (三) Some sentences about plants
+##### (三) Microorganism 微生物 // micro organism
 
 ```
-a tour of. 参观
-I'd like to take you on a little tour of my vegetable garden. 我想带你参观一下我的菜园
-we can water our plants and flowers.
+Microorganism 微生物
+organism 生物
+// micro 微观的
+// organism 生物
+// organ 器官 机构
+// -- microorganism 微生物
+// -- microscope 显微镜
+---
+
+bacteria 细菌 n
+bacterial 细菌的 adj
+medium 中等 媒介
+multiply 乘以 繁殖
+// bacteria 细菌: 【 The bacteria were growing  in a sugar medium. 细菌在糖基中生长 】
+// multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
+
+fungus 真菌
+tree stump. 树桩
+// fungus 真菌:【 Mushrooms are a type of fungus. 蘑菇是一种真菌 】
+// If you have a tree stump, check it for fungus. 要是有树桩的话，检查一下上面有没有长菌类
+
+virus 病毒
+// virus 病毒: 【 This software is designed to scan all new files for viruses. 该软件旨在扫描所有新文件是否有病毒 】
+// virus 病毒: The virus is still active in the blood. 病毒在血液中仍然活跃
 ```
 
 ##### (四) quantifier 量词
