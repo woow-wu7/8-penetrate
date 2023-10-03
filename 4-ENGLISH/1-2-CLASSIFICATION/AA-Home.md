@@ -30,6 +30,13 @@ swimming instructor. 游泳教练
 // A chef works in a kitchen. 厨师在厨房工作
 // The chef, staff and managers are all chinese. 厨师、工作人员和经理都是中国人
 
+slipper 拖鞋
+slippers 拖鞋
+// slippers 拖鞋: I'm walking on the street wearing slippers. 我穿着拖鞋走在大街上
+// -- doorway 门口
+// -- come on in. 进来
+// -- Come on in, and please take off your shoes at the doorway. 请进，请在门口换鞋子
+
 rice cooker. 电饭锅 // plug the rice cooker. // unplug the rice cooker.
 wine opener. 开酒器
 funnel 漏斗
@@ -134,13 +141,16 @@ shelf 架子 // shelves 复数形式
 
 wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
 cabinet 储藏柜
+closet 壁柜 衣柜 // TIPS: Pay attention to pronunciation.
 cupboard 橱柜
 hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
 // wardrobe衣柜: There were several expensive suits hanging in the wardrobe. 衣柜里挂着几套昂贵的衣服 // 这里是动名词的用法
-// We can open it and put things inside. 我们可以打开它，然后放东西在里面·
+// closet 衣柜壁柜: 【 The table is too long to go onto the closet. 桌子太大，放不进贮藏室里 】
+// -- We can open it and put things inside. 我们可以打开它，然后放东西在里面·
 
 trash 垃圾
 trash can. 垃圾桶 // I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里
+watering can. 喷壶 // I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶
 bin 垃圾桶
 dustbin 垃圾箱 // 指户外的垃圾箱
 
@@ -208,6 +218,8 @@ meat 肉
 pork 猪肉
 beef 牛肉
 chicken 鸡肉
+cuisine 饭菜
+order take-out. 点外卖
 
 pineapple 菠萝
 pear 梨
@@ -274,9 +286,13 @@ conditioner 护发素
 
 cabinet 储藏柜
 wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
+closet 壁柜 衣柜 // TIPS: Pay attention to pronunciation. // closet 衣柜壁柜: 【 The table is too long to go onto the closet. 桌子太大，放不进贮藏室里 】
 cabinet 储藏柜
 cupboard 橱柜
 hang 悬挂 // // TIPS: Pay attention to pronunciation. // hang hung
+
+closet 壁柜 衣柜
+// closet 衣柜壁柜: 【 The table is too long to go onto the closet. 桌子太大，放不进贮藏室里 】
 
 doorstop 门碰头
 knob 门把手

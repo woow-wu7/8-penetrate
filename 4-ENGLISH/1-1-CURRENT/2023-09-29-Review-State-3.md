@@ -10,6 +10,9 @@ National 国家的
 // On the first day of National Day.
 // On the second day of National Day.
 // On the third day of National Day. I went to Suzhou to get my glasses by high-speed railway.
+// On the fourth day of National Day
+// On the fifth day of National Day.
+// The vacation is coming to an end in three days, so I’m a little nervous. 假期还有三天就要结束了，有点紧张
 
 autumn 秋天 秋天的
 Mid-Autumn Festival. 中秋节
@@ -357,6 +360,7 @@ sunscreen 防晒霜
 harvest 收获
 this these // TIPS: Pay attention to pronunciation.
 gallery 画廊 相册
+wardrobe cabinet closet 都可以表示衣柜
 
 
 decrease by: 减少
@@ -422,6 +426,11 @@ cloth 布 布料 // thick cloth. 厚布 // TIPS: Pay attention to pronunciation.
 passage 章节 通道
 liquid 液体
 
+order take-out. 点外卖
+
+workaholic 工作狂
+shopaholic 购物狂
+
 need for. 需要
 // need for 需要: 【 There is no need for you to get up early tomorrow. 你明天不必早起 】
 // need for 需要: 【 There is an urgent need for qualified teachers. 迫切需要合格教师 】
@@ -443,4 +452,26 @@ costly 昂贵的 adj
 keep out of. 在...外
 // keep out of sight. 不要露面
 // 【 If the box is kept out of sunlight, The ice will last longer. 如果盒子避免阳光照射, 冰会持续更长时间 】
+
+coming to an end. 结束
+// The vacation is coming to an end in three days. 还有三天假期就结束了
+// The play is coming to an end. 好戏即将结束
+
+slipper 拖鞋
+slippers 拖鞋
+// slippers 拖鞋: I'm walking on the street wearing slippers. 我穿着拖鞋走在大街上
+// -- doorway 门口
+// -- come on in. 进来
+// -- Come on in, and please take off your shoes at the doorway. 请进，请在门口换鞋子
+
+order take-out. 点外卖
+// I'd rather order take-out than to cook by myself. 我宁愿叫外卖也不愿自己做饭
+
+stable 稳定的
+// stable 稳定的: The patient's condition is stable. 患者病情稳定
+
+workaholic 工作狂
+shopaholic 购物狂
+// workaholic 工作狂: She is a self-confessed workaholic. 她自认是一个工作狂
+// shopaholic 购物狂: you're such a shopaholic. 你真是个购物狂
 ```
