@@ -413,6 +413,32 @@ patience 耐心 n
 ```
 leisure 闲暇 闲暇的
 foreigner 外国人
+high heat. 高温
+metal 金属
+spoil 破坏 变坏
+atmosphere 大气 大气层
+hole 孔 洞 // holes
+cloth 布 布料 // thick cloth. 厚布 // TIPS: Pay attention to pronunciation.
 
+need for. 需要
+// need for 需要: 【 There is no need for you to get up early tomorrow. 你明天不必早起 】
+// need for 需要: 【 There is an urgent need for qualified teachers. 迫切需要合格教师 】
 
+electricity 电 n
+// e lec tri city
+// electricity 电: This type of heater uses a lot of electricity. 这种加热器耗电量很大
+
+gasoline 汽油 // TIPS: Pay attention to pronunciation.
+motor 马达 发动机 // gasoline motor. 汽油发动机
+// gasoline 汽油: 【 I fill up the tank with gasoline about once a week. 我大约每周给油箱加一次汽油 】
+// -- fill up. 充满
+// -- tank 坦克 箱
+
+cost 成本 费用 n // TIPS: Pay attention to pronunciation.
+costly 昂贵的 adj
+// costly 昂贵的: Buying new furniture may prove too costly. 购买新家具可能成本太高
+
+keep out of. 在...外
+// keep out of sight. 不要露面
+// 【 If the box is kept out of sunlight, The ice will last longer. 如果盒子避免阳光照射, 冰会持续更长时间 】
 ```

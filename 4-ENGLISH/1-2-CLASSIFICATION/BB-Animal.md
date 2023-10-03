@@ -173,7 +173,7 @@ organism 生物
 bacteria 细菌 n
 bacterial 细菌的 adj
 medium 中等 媒介 // TIPS: Pay attention to pronunciation.
-multiply 乘以 繁殖
+multiply 乘以 繁殖 // TIPS: Pay attention to pronunciation.
 // bacteria 细菌: 【 The bacteria were growing in a sugar medium. 细菌在糖基中生长 】
 // multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
 

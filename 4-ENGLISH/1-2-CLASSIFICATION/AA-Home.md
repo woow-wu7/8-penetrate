@@ -130,6 +130,7 @@ clean is the opposite of messy.
 
 drawer 抽屉
 shelf 架子 // shelves 复数形式
+// 【 Put the book back on the shelf. 把书放回书架上 】
 
 wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
 cabinet 储藏柜
