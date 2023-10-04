@@ -475,3 +475,18 @@ shopaholic 购物狂
 // workaholic 工作狂: She is a self-confessed workaholic. 她自认是一个工作狂
 // shopaholic 购物狂: you're such a shopaholic. 你真是个购物狂
 ```
+
+##### 2023-10-04
+
+```
+use to do. 过去常常做某事
+sth be used to do. 被用来做某事
+sb be used to doing. 某人习惯做某事
+
+cut up. 切碎
+warm you up. 让你暖和起来
+how much is the fare? 车费多少？
+
+life 生活
+knife 刀
+```

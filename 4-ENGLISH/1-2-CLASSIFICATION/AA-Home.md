@@ -23,6 +23,8 @@ balcony 阳台 // Do you have a balcony at your new place? 你新公寓有阳台
 
 chef 厨师 // TIPS: Pay attention to pronunciation.
 swimming instructor. 游泳教练
+ski instructor. 滑雪教练
+coach 一般指体育教练
 // She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从厨师到游泳教练
 // -- range 范围 // ranging // TIPS: Pay attention to pronunciation.
 // -- instructor 教练
