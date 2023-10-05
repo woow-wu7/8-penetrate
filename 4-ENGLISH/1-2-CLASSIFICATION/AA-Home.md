@@ -276,6 +276,7 @@ floor drain. 地漏
 // -- block 块 阻止 堵塞 // display: block;
 
 rinse cup. 洗漱杯
+vacuum cup. 保温杯
 
 razor 剃须刀
 disposable 一次性的

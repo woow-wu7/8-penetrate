@@ -490,3 +490,16 @@ how much is the fare? 车费多少？
 life 生活
 knife 刀
 ```
+
+##### 2023-10-05
+
+```
+author 作者
+authorization 授权 n
+// authorization 授权: Custom authorization page. 自定义授权页
+// authorization 授权: You may not enter the security area without authorization. 未经授权不得进入安全区域
+
+custom 习俗习惯n 定制的adj
+customize 定制vt
+// customize 定制v: You can customize the software in several ways. 您可以通过多种方式定制软件
+```

@@ -13,6 +13,27 @@
 
 星期 week
 周末 weekend
+工作日 weekday
+每周 周报 weekly
+// 1
+// weekend 周末
+// weekend = saturday + sunday
+// at the weekend 在周末 // at weekends
+// on the weekend 在周末 // on weekends
+// -- at the weekend 是英式英语；on the weekend 是美式英语；都可以表示在周末
+// --【 at the weekend 】: The office is closed at the weekend. 办公室周末休息
+// --【 on the weekend 】: The office is closed on the weekend. 办公室周末休息
+// 2
+// weekday 工作日
+// weekday: If you want to avoid the crowds, It's best to come on a weekday. 如果想避开人群，最好在工作日来
+// 3
+// weekly 每周的adj 周报n
+// The newspaper is published twice weekly. 这份报纸每周出版两次
+// In addition to my weekly wage, I got a lot of tips. 除了每周的薪水外，我还能得到不少小费
+// -- wage 工资 工钱
+// -- tips 提示 尖端 小费
+// -- addition 附加
+// -- In addition. 除了
 
 前天 The day before yesterday
 昨天 yesterday
@@ -21,6 +42,8 @@
 后天 the day after tomorrow
 
 十年 decade
+全年 All year round.
+// 【 All year round 全年 一年到头 】: 【 The museum is open all year round. 博物馆全年开放 】
 
 dawn 黎明
 dusk 黄昏
@@ -37,7 +60,7 @@ be going to 将要做某事
 I gave her a bunch of flowers on Valentine's Day. 情人节那天我送给他一束花
 
 in 时间大于 1 天 // in spring // in May
-on 时间等于 1 天 // on Monday // on Sunday
+on 时间等于 1 天 // on Monday // on Sunday // on the weekend
 at 时间小于 1 天 // at five o'clock // at night
 特殊情况 // in the Morning // in the afternoon // in the evening
 ```
@@ -75,7 +98,7 @@ at 时间小于 1 天 // at five o'clock // at night
 vacation 假期
 // -- vacation is over 假期结束了
 // -- what did you do on your vacation? 你假期做了什么
-// -- Are you going on a vacation soon?
+// -- Are you going on a vacation soon? // go on. 进行 继续 赶紧
 ```
 
 ##### (四) 四季 Season
@@ -85,6 +108,7 @@ spring
 summer
 autumn/fall
 winter
+// in spring  in summer  in autumn  in winter 时间大于一天时用in
 ---
 
 sled 雪橇
