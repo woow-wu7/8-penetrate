@@ -43,15 +43,21 @@
 
 十年 decade
 全年 All year round.
-// 【 All year round 全年 一年到头 】: 【 The museum is open all year round. 博物馆全年开放 】
+一生 life time. 一生n 一生的adj
+//【 All year round 全年 一年到头 】: 【 The museum is open all year round. 博物馆全年开放 】
+// They have been friends for the whole lifetime. 她们是一辈子的好朋友
 
-dawn 黎明
+dawn 黎明 // 曙光 开端
 dusk 黄昏
 sunrise 日出
 sundown 日落
 from dawn until dusk. 从早到晚 ( 从黎明到黄昏 )
 from sunrise to sunset. 从早到晚
 from morning to evening. 从早到晚
+// dawn 黎明: He was awakened at dawn by the sound of crying. 黎明时他被哭喊声吵醒
+// dawn 曙光: Peace marked a new dawn in the country's history. 和平标志着该国历史的新曙光
+// dusk 黄昏: He works from dawn till dusk. 他从早到晚地工作
+// dusk 黄昏: The streetlights go on at dusk. 黄昏时路灯亮了
 
 Today is the weekend. 今天是周末
 Have a nice weekend, see you on Monday. 有个愉快的周末，周一见

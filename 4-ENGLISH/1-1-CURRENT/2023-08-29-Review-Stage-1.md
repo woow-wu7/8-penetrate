@@ -64,6 +64,8 @@ music 音乐
 musician 音乐家
 // musician: She regarded herself, first and last, as a musician. 她认为她自己是一个不折不扣的音乐家
 
+ecologist 生态学家
+
 math 数学
 mathematics 数学 // math 是 mathematics 的缩写
 mathematician 数学家

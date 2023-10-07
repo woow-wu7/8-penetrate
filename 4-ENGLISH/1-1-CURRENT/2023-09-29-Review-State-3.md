@@ -503,3 +503,18 @@ custom 习俗习惯n 定制的adj
 customize 定制vt
 // customize 定制v: You can customize the software in several ways. 您可以通过多种方式定制软件
 ```
+
+##### 2023-10-06
+
+```
+steel 钢
+skyscraper 摩天大楼
+strain 损伤
+
+
+unify 统一 v
+// The new leader hopes to unify the country. 新领袖希望把国家统一起来
+
+criticize 批评 v
+// People often lose confidence when they are criticized. 人受到批评时经常会失去信心
+```
