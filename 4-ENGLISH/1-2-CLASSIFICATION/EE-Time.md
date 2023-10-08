@@ -1,5 +1,96 @@
 # Time
 
+##### 序数词 ordinal numbers
+
+```
+(1)
+序数词
+ordinal numbers. 序数
+第一 first ------------------------- 1st
+第二 second ------------------------ 2nd
+第三 third ------------------------- 3rd
+第四 fourth -- four + th = fourth -- 4th
+第五 fifth ------------------------- 5th
+第六 sixth --- fix + th = sixth ---- 6th
+seventh eighth ninth tenth eleventh twelfth thirteenth fourteenth fifteenth sixteenth seventeenth eighteenth
+// fifth 第五 five-fifth
+// eighth 第八 eight-eighth
+// ninth 第九 nine-ninth
+// twelfth 第十二 twelve-twelfth
+20 - twenty - twentieth
+30 - thirty - thirtieth
+40 - forty - fortieth
+50 - fifty - fiftieth
+60 - sixty - sixtieth
+70 - seventy - seventieth
+80 - eighty - eightieth
+90 - ninety - ninetieth
+--
+21 - twenty one - 第21 twenty first
+22 - twenty two - 第22 twenty second
+23 - twenty three - 第23 twenty third
+76 - seventy six - 第76 seventy sixth
+
+(2)
+楼层 floor
+on the first floor. 在一楼
+on the second floor. 在二楼
+on the third floor. 在三楼
+
+(3)
+年级 grade
+年级有三种表示方法
+1. She is in second grade. 她在二年级
+2. She is in grade two. 她在二年级
+3. She is a second grader. 她在二年级
+--
+She is in third grade.
+She is in in grade three.
+She is a third grader.
+
+(4)
+世纪 century
+In the 20th century. 在二十世纪
+```
+
+##### 日期 date
+
+```
+(1)
+年
+饭店房间号码
+3个数字: 1 + 2 // ----------- 674 six seventy-four
+3个数字: 有零 // ------------ 902 nine oh two
+四个数字: 2 + 2 // ---------- 1879 eighteen seventy-nine
+1400 fourteen hundred.
+1900 nineteen hundred.
+1804 eighteen oh four.
+1706 seventeen oh six.
+1501 fifteen oh one.
+2000~2009 two thousand ~ two thousand and nine.
+2001 two thousand and one.
+2002 two thousand and two.
+2010 twenty ten.
+
+
+(2)
+日
+一定要用序数词
+on the eleventh. 在11号
+on the twentieth. 在20号
+on the thirty-first. 在31号
+
+
+(3)
+Date
+英式 日月年 dd/mm/yyyy 大多数国家用
+美式 月日年 mm/dd/yyyy 少数国家用
+1977年6月5日 -------- The fifth of June nineteen seventy-seven. // TIPS: 月份 星期 节日 首字母都需要大写
+2008年11月15日 ------ The fifteenth of November two thousand and eight. // TIPS: two thousand 不加s
+1042年4月30日 ------- The thirtieth of April ten forty-two.
+2022年7月21日 ------- The twenty first of July twenty twenty-two.
+```
+
 #### (一) 星期 Week
 
 ```
@@ -12,28 +103,28 @@
 星期日 Sunday
 
 星期 week
+每周 周报 weekly
 周末 weekend
 工作日 weekday
-每周 周报 weekly
 // 1
 // weekend 周末
 // weekend = saturday + sunday
 // at the weekend 在周末 // at weekends
 // on the weekend 在周末 // on weekends
 // -- at the weekend 是英式英语；on the weekend 是美式英语；都可以表示在周末
-// --【 at the weekend 】: The office is closed at the weekend. 办公室周末休息
 // --【 on the weekend 】: The office is closed on the weekend. 办公室周末休息
+// --【 at the weekend 】: The office is closed at the weekend. 办公室周末休息
 // 2
 // weekday 工作日
 // weekday: If you want to avoid the crowds, It's best to come on a weekday. 如果想避开人群，最好在工作日来
 // 3
-// weekly 每周的adj 周报n
-// The newspaper is published twice weekly. 这份报纸每周出版两次
+// weekly 每周的 adj 周报 n
+// weekly 每周的:【 The newspaper is published twice weekly. 这份报纸每周出版两次 】
 // In addition to my weekly wage, I got a lot of tips. 除了每周的薪水外，我还能得到不少小费
 // -- wage 工资 工钱
 // -- tips 提示 尖端 小费
 // -- addition 附加
-// -- In addition. 除了
+// -- In addition to. 除了
 
 前天 The day before yesterday
 昨天 yesterday
@@ -43,9 +134,15 @@
 
 十年 decade
 全年 All year round.
-一生 life time. 一生n 一生的adj
+一生 lifetime. 一生 n 一生的 adj
+一次性的 one-time.
 //【 All year round 全年 一年到头 】: 【 The museum is open all year round. 博物馆全年开放 】
-// They have been friends for the whole lifetime. 她们是一辈子的好朋友
+// lifetime 一生: They have been friends for the whole lifetime. 她们是一辈子的好朋友
+// -- one-time 一次性的
+// -- generate one-time passwords that are used as a second factor to verify your identity when prompted during sign-in.
+// -- 生成一次性密码，该密码用作登录过程中出现提示时验证您身份的第二个因素
+// -- prompt 提示 鼓励 促使
+// -- identity 身份 n
 
 dawn 黎明 // 曙光 开端
 dusk 黄昏
@@ -60,13 +157,13 @@ from morning to evening. 从早到晚
 // dusk 黄昏: The streetlights go on at dusk. 黄昏时路灯亮了
 
 Today is the weekend. 今天是周末
-Have a nice weekend, see you on Monday. 有个愉快的周末，周一见
-What do you often to do on the weekend. 你经常在周末做什么
+Have a nice weekend, see you on Monday. 有个愉快的周末，周一见 // on monday 具体的某一天用 on
+What do you often to do on the weekend. 你经常在周末做什么 // on the weekend.
 be going to 将要做某事
-I gave her a bunch of flowers on Valentine's Day. 情人节那天我送给他一束花
+I gave her a bunch of flowers on Valentine's Day. 情人节那天我送给他一束花 // on Valentine's Day.
 
-in 时间大于 1 天 // in spring // in May
-on 时间等于 1 天 // on Monday // on Sunday // on the weekend
+in 时间大于 1 天 // in spring // in May // in nineteen ninety-eight. 1998年
+on 时间等于 1 天 // on Monday // on Sunday // on the weekend // on the second. 2号
 at 时间小于 1 天 // at five o'clock // at night
 特殊情况 // in the Morning // in the afternoon // in the evening
 ```
@@ -102,7 +199,7 @@ at 时间小于 1 天 // at five o'clock // at night
 中秋节 Mid-Autumn Festival
 
 vacation 假期
-// -- vacation is over 假期结束了
+// -- vacation is over. 假期结束了
 // -- what did you do on your vacation? 你假期做了什么
 // -- Are you going on a vacation soon? // go on. 进行 继续 赶紧
 ```
@@ -114,7 +211,8 @@ spring
 summer
 autumn/fall
 winter
-// in spring  in summer  in autumn  in winter 时间大于一天时用in
+// in spring in summer in autumn in winter 时间大于一天时用 in
+
 ---
 
 sled 雪橇
@@ -153,38 +251,4 @@ snow snowy // 注意发音
 
 The weather is mild today. 今天的天气很温和
 // mild 温和的 // TIPS: Pay attention to pronunciation.
-```
-
-##### 昆虫
-
-```
-beetle 甲虫
-insect 昆虫
-butterfly 蝴蝶
-dragonfly 蜻蜓
-ladybird 瓢虫
-snail 蜗牛 // 注意发音
-ant 蚂蚁
-bee 蜜蜂
-
-dragonfly 蜻蜓
-dragon 龙
-dinosaur 恐龙
-```
-
-##### 菜园
-
-```
-garlic 大蒜 // 注意发音
-onion 洋葱
-cucumber 黄瓜
-pepper 甜椒 柿子椒
-lettuce 莴笋
-cabbage 卷心菜
----
-
-paper 纸张
-pepper 柿子椒
-
-watery 含水的
 ```
