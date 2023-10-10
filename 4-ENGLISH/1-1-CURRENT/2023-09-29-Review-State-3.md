@@ -496,6 +496,8 @@ knife 刀
 ```
 author 作者
 authorization 授权 n
+authorize 授权 批准 v
+authorized 是 authorized 的过去式
 // authorization 授权: Custom authorization page. 自定义授权页
 // authorization 授权: You may not enter the security area without authorization. 未经授权不得进入安全区域
 
