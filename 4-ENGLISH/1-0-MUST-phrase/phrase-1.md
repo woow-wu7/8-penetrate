@@ -1,8 +1,13 @@
 # Must Phrase
 
 ```
+spoken English. 英语口语
+
 out loud. 大声地
 // Try to answer these questions out loud. 试着大声回答这些问题
+
+a couple of. 一对 几个
+// We went there a couple of years age. 我们几年前去过那里
 
 set off. 出发 动身
 set off for sp. 动身去某地
@@ -36,7 +41,7 @@ in fear of. 对...担心中
 
 up to. 到达...的数量
 // up to 到达: My car kan seat up to four people. 我的车最多能坐四个人
-// up to 到达:I can take up to four people in my car. 我的车最多能载四个人
+// up to 到达: I can take up to four people in my car. 我的车最多能载四个人
 
 It's up to you. 由你决定
 // It was all up to me. 一切由我决定

@@ -26,14 +26,6 @@ I fill up the tank with gasoline about once a week. 我大约每周给油箱加�
 // -- gasoline 汽油
 // -- petroleum 石油
 
-This is a really good way for you to start to express your like and your dislike in English.
-The best way to practice speaking English is to hire an English tutor who you can meet via FaceTime or Skype.
-// hire fire
-// tutor 导师
-// via 通过
-// satellite 卫星
-// The news program came to us via satellite. 新闻节目是通过卫星传送到我们这里来的。
-
 There are things in life that elevate you to another level. 生活中有些事情会把你提升到另一个层次
 // elevate 提升
 // elevate your writing. 提升你的写作
@@ -42,4 +34,12 @@ Meanwhile, my debts were mounting up. 同时，我的债务在不断增加
 // meanwhile 同时 与此同时
 // mount up. 增加
 // debt 债务 // TIPS: Pay attention to pronunciation. // b不发音
+
+This is a really good way for you to start to express your like and your dislike in English.
+The best way to practice speaking English is to hire an English tutor who you can meet via FaceTime or Skype.
+// hire fire
+// tutor 导师
+// via 通过
+// satellite 卫星
+// The news program came to us via satellite. 新闻节目是通过卫星传送到我们这里来的。
 ```
