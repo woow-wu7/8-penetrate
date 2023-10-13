@@ -2,6 +2,11 @@
 
 - `74th Anniversary of National Day. 国庆 74 周年纪念日`
 
+###### mug 和 cup 的区别
+
+- `mug 杯子 -- 更深更高`
+- `cup 杯子 -- 矮些`
+
 ##### 2023-09-29
 
 ```
@@ -25,7 +30,7 @@ interestingly enough. 有趣的是
 preheat 预热
 vendor 小贩
 
-one mug of coffee. 一杯咖啡
+one mug of coffee. 一杯咖啡 // mug 又深又高的杯子 // cup相对较矮的杯子
 【 what do you do? 你是做什么的 】
 sip in a cup of tea. 啜饮一杯茶
 have a close look. 仔细看看

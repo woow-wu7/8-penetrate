@@ -33,4 +33,11 @@ coming to an end. 结束
 
 in fear of. 对...担心中
 // They lived in fear of their master. 他们生活在对主人的恐惧之中
+
+up to. 到达...的数量
+// up to 到达: My car kan seat up to four people. 我的车最多能坐四个人
+// up to 到达:I can take up to four people in my car. 我的车最多能载四个人
+
+It's up to you. 由你决定
+// It was all up to me. 一切由我决定
 ```

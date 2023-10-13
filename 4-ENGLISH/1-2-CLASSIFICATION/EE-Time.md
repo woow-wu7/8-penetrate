@@ -106,6 +106,7 @@ Date
 每周 周报 weekly
 周末 weekend
 工作日 weekday
+fortnight 两星期
 // 1
 // weekend 周末
 // weekend = saturday + sunday
@@ -125,6 +126,10 @@ Date
 // -- tips 提示 尖端 小费
 // -- addition 附加
 // -- In addition to. 除了
+// 4
+// fortnight 两星期
+// -- fortnight 两星期: He has had three accidents in the past fortnight. 在过去两周他出了三次事故
+// -- In a fortnight's time I will is home. 两星期后我会在家的
 
 前天 The day before yesterday
 昨天 yesterday
@@ -198,6 +203,10 @@ at 时间小于 1 天 // at five o'clock // at night
 国庆节 National Day
 中秋节 Mid-Autumn Festival
 
+Mid-Autumn Festival. 中秋节
+autumn 秋天 秋天的
+mooncake 月饼
+
 vacation 假期
 // -- vacation is over. 假期结束了
 // -- what did you do on your vacation? 你假期做了什么
@@ -251,4 +260,25 @@ snow snowy // 注意发音
 
 The weather is mild today. 今天的天气很温和
 // mild 温和的 // TIPS: Pay attention to pronunciation.
+```
+
+##### (六) 年级
+
+```
+小学 junior school / elementary school / primary school
+初中 junior high school
+高中 senior high school
+大学 university
+学院 college
+
+小学 junior school
+初中 junior high school
+
+中学 middle school
+高中 high school
+
+大一 freshmen
+大二 sophomore // 一半聪明一半笨蛋 philosophy哲学 moron笨蛋
+大三 junior
+大四 senior
 ```
