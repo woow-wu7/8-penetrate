@@ -3,6 +3,7 @@
 ###### (一) Plant // Plants
 
 ```
+yummy 美味的
 stem 茎 // TIPS: Pay attention to pronunciation.
 bud 花蕾
 bloom 开花

@@ -4,6 +4,7 @@
 thickness 厚度 密度 n
 thick 厚的 adj // thin 薄的 adj
 tissue 组织
+// The thickness of the wall is 6cm. 墙的厚度为6cm // centimeter 厘米
 // measure tissue thickness. 测量组织厚度
 // -- thick 厚的 adj
 // -- thin 薄的
