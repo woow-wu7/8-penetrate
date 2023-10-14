@@ -3,6 +3,10 @@
 ```
 spoken English. 英语口语
 
+be unwilling to do sth. 不愿意做某事
+// The dog is unwilling to follow its master. 这只狗不愿意跟着他的主人走
+// unwilling 不愿意的
+
 out loud. 大声地
 // Try to answer these questions out loud. 试着大声回答这些问题
 

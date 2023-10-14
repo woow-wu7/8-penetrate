@@ -35,11 +35,10 @@ Meanwhile, my debts were mounting up. 同时，我的债务在不断增加
 // mount up. 增加
 // debt 债务 // TIPS: Pay attention to pronunciation. // b不发音
 
-This is a really good way for you to start to express your like and your dislike in English.
-The best way to practice speaking English is to hire an English tutor who you can meet via FaceTime or Skype.
-// hire fire
-// tutor 导师
-// via 通过
-// satellite 卫星
-// The news program came to us via satellite. 新闻节目是通过卫星传送到我们这里来的。
+This bottle can be filled with 2 liters of Coke. 这个瓶子可以装两升可乐
+// liter 升 公升
+
+The dog is unwilling to follow its master. 这只狗不愿意跟着他的主人走
+// unwilling 不愿意的
+// be unwilling to do sth. 不愿意做某事
 ```
