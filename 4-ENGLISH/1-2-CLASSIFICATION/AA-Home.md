@@ -203,6 +203,7 @@ socket 插座 // He is putting the plug into the socket. 他正把插头插入�
 
 soy sauce 酱油
 vinegar 醋
+cider vinegar 苹果醋 // cider 苹果汁
 salt 盐 // 注意发音
 oil 油 // soil 土壤
 butter 黄油
