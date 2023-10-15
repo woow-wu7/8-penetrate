@@ -239,6 +239,12 @@ virus 病毒
 
 ```
 quantifier 量词
+noun 名词
+pronoun 代词
+verb 动词
+adverb 副词
+adjective 形容词
+preposition 介词
 ---
 
 a packet of seeds. 一包种子

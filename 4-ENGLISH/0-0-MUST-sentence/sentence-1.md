@@ -1,6 +1,11 @@
 # Must Sentence
 
 ```
+The liner was in dock for major repairs. 客轮停在船坞里大修
+// liner 邮轮
+// dock 码头
+// repair 修理
+
 An investment in knowledge pays the best interest. 对知识的投资，会得到最好的利息
 // 1
 // invest 投资 v

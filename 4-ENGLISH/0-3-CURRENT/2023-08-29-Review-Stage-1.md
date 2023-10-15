@@ -203,6 +203,7 @@ adverb 副词
 
 adjective 形容词
 quantifier 量词
+preposition 介词
 ```
 
 ##### (6) sense 感觉 含义

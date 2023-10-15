@@ -4,12 +4,18 @@
 
 ```
 million 百万
+// TIPS:
+// - 1. two million. ( 不能是 two millions )
+// - 2. millions of. 表示数百万，这时才需要加复数
 // million 百万:【 This is a continent with a population of 200 million. 这是一个拥有2亿人口的大陆 】
 // million 百万:【 The bones of dinosaurs lay underground for millions of years. 恐龙的骨头在地下埋藏了数百万年 】
 // -- bone 骨头:【 Dogs and puppies love to chew on bones. 狗和小狗喜欢咬骨头 】
 // -- chew 咀嚼: He can chew on this. 它可以咬这个
 
 billion 十亿
+// TIPS:
+// - 1. two billion. ( 不能是 two billions )
+// - 2. billions of. 表示数十亿，这时才需要加复数
 // billion 十亿:【 At some time more than five billion years ago the universe started. 超过五十亿年前的某个时间，宇宙开始诞生 】
 // billion 十亿:【 It has a half-life of about 10 billion years. 它的半衰期约为100亿年 】
 // -- half-life. 半衰期
@@ -33,6 +39,20 @@ time 时间 乘以
 // TIPS: 当time表示乘以时，前面是one用单数，其他用复数
 // times 乘以: two times two equals four. 二乘二等于四
 // time 乘以: one time two equals two. 一乘以二等于二
+```
+
+##### (二) Quantifier 量词
+
+```
+noun 名词
+pronoun 代词
+
+verb 动词
+adverb 副词
+
+adjective 形容词
+preposition 介词
+quantifier 量词
 ```
 
 ##### (1) Weight 重量

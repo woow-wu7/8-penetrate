@@ -3,6 +3,10 @@
 ```
 spoken English. 英语口语
 
+add up. 合乎情理 说的通
+lying 说谎n 躺v
+// Her story didn't add up, I think she's lying. 她的故事不合逻辑，我认为她在撒谎
+
 be unwilling to do sth. 不愿意做某事
 // The dog is unwilling to follow its master. 这只狗不愿意跟着他的主人走
 // unwilling 不愿意的
