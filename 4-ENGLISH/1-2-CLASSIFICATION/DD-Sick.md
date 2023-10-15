@@ -8,6 +8,7 @@ fever 发烧
 cough 咳嗽
 sneeze 打喷嚏
 snore 打呼噜
+blow one's nose. 擤鼻涕 // blow my nose.
 allergy 过敏 n
 allergic 过敏的 adj // be allergic to 对...过敏
 nauseous 恶心的 // 注意发音

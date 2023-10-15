@@ -1,6 +1,13 @@
 # Must Sentence
 
 ```
+Lung are the organs responsible for breathing. 肺是负责呼吸的器官
+// lung 肺 // lung capacity 肺活量
+// organ 器官
+// responsible 有责任的
+// -- She suffered from lung cancer.
+// -- suffer 遭受
+
 Electricity is a great consumption for me every month. 每个月的电费对我来说是一笔很大的开销
 // consumption 消费 消耗 n
 // consume 消费 消耗 v
@@ -15,7 +22,9 @@ leaves are the plural form of a leaf. leaves是leaf的复数形式
 // The verb should be in the plural. 这个动词应该用复数形式
 // leaves 叶子
 // leaf 叶子
-// form of. ...的形式
+// -- form of. ...的形式
+// -- form of art. 艺术形式
+// -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 
 An investment in knowledge pays the best interest. 对知识的投资，会得到最好的利息
 // 1

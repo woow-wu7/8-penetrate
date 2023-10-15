@@ -51,6 +51,26 @@ seed 种子
 2
 seedling 幼苗
 // A seedling is a young plant that comes out from a seed. 幼苗是从种子中长出来
+
+3
+sprout 发芽
+// If a plant sprout, new leaves begin to grow on it. 如果植物发芽，新的叶子就会开始在其上生长
+
+4
+seed coat. 种子的皮
+// A seed coat covers and protects a seed. 种皮覆盖并保护种子
+
+5
+cone 圆锥 松果
+// A cone, That has many seeds, is the fruit of the pine tree. 松果，有许多种子，是松树的果实
+// -- cone 松果 圆锥
+// -- pine 松木
+
+6
+adult 成人n 成熟的adj
+// Adult means fully grown. 成年意味着完全成熟
+// -- grown 长大的adj 长大v
+// -- fully 完全的 adv
 ```
 
 ###### (一) Plant // Plants
@@ -69,6 +89,7 @@ sunlight 阳光
 harvest 收获
 ripe 成熟的 // These guys are not ripe yet. 这些家伙(植物)还没成熟
 trellis 棚 架
+moss 苔藓 青苔
 
 vine 藤
 vining plants. 藤蔓植物
@@ -298,6 +319,7 @@ verb 动词
 adverb 副词
 adjective 形容词
 preposition 介词
+plural 复数 // The verb should be in the plural. 这个动词应该用复数形式
 ---
 
 a packet of seeds. 一包种子
