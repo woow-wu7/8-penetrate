@@ -1,10 +1,16 @@
 # Must Sentence
 
 ```
-The liner was in dock for major repairs. 客轮停在船坞里大修
+The liner was in the dock for major repairs. 客轮停在船坞里大修
 // liner 邮轮
 // dock 码头
 // repair 修理
+
+leaves are the plural form of a leaf. leaves是leaf的复数形式
+// The verb should be in the plural. 这个动词应该用复数形式
+// leaves 叶子
+// leaf 叶子
+// form of. ...的形式
 
 An investment in knowledge pays the best interest. 对知识的投资，会得到最好的利息
 // 1

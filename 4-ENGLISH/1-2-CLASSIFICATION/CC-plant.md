@@ -1,5 +1,40 @@
 # Plants 植物
 
+##### The components of a tree
+
+```
+1
+root 根
+// The roots of a plant take in water and hold the plant in the soil.
+// -- take in. 吸收
+
+2
+stem 茎
+1. tree -> trunk
+2. plant -> stem
+// A stem carries food and water through the plant. It holds up the plant.
+// So the stem is like the trunk of your body, it is the main part of the plant in many plants.
+// -- hold up. 举起 支撑
+
+3
+leaf 叶子
+leaves ->  leaves are the plural form of a leaf. leaves是leaf的复数形式
+// A leaf takes in light and air. Leaves help the plant get food.
+// -- The verb should be in the plural. 这个动词应该用复数形式
+
+4
+flower 花
+// Flowers make fruit.
+
+5
+fruit 果实
+// Fruit is the part of the plant with seeds. 果实是植物的带有种子的部分
+
+6
+branch 树枝
+// A branch is an arm - like part of a tree.
+```
+
 ###### (一) Plant // Plants
 
 ```

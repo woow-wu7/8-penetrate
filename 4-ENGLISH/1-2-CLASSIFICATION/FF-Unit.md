@@ -53,6 +53,9 @@ adverb 副词
 adjective 形容词
 preposition 介词
 quantifier 量词
+
+plural 复数
+// The verb should be in the plural. 这个动词应该用复数形式
 ```
 
 ##### (1) Weight 重量
