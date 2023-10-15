@@ -35,6 +35,24 @@ branch 树枝
 // A branch is an arm - like part of a tree.
 ```
 
+##### Life cycle of a plant
+
+- `Life Cycle. 生命周期`
+
+```
+A life cycle is the series of changes occurring in an animal or plant. 生命周期是动物或植物发生的一系列变化
+// a series of test. 一系列测试
+
+1
+seed 种子
+// A seed is the small part of a plant from which a new plant may be grown. 种子是植物的一小部分，可以从中长出新植物
+// Put them in the ground to make them grow a seedling. 把它们放在地里，让它们长出幼苗
+
+2
+seedling 幼苗
+// A seedling is a young plant that comes out from a seed. 幼苗是从种子中长出来
+```
+
 ###### (一) Plant // Plants
 
 ```

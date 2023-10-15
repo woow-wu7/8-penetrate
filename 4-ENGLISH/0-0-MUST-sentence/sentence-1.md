@@ -1,6 +1,11 @@
 # Must Sentence
 
 ```
+Electricity is a great consumption for me every month. 每个月的电费对我来说是一笔很大的开销
+// consumption 消费 消耗 n
+// consume 消费 消耗 v
+// electricity 电 n
+
 The liner was in the dock for major repairs. 客轮停在船坞里大修
 // liner 邮轮
 // dock 码头
