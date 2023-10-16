@@ -176,18 +176,18 @@ at 时间小于 1 天 // at five o'clock // at night
 ##### (二) 月份 Month
 
 ```
-一月 January
-二月 February
-三月 March
-四月 April
-五月 May
-六月 June
-七月 July
-八月 August
-九月 September
-十月 October
-十一月 November
-十二月 December
+一月 January ------------------ Jan
+二月 February ----------------- Feb
+三月 March -------------------- Mar
+四月 April -------------------- Apr
+五月 May ---------------------- May
+六月 June --------------------- Jun
+七月 July --------------------- Jul
+八月 August ------------------- Aug
+九月 September ---------------- Sep
+十月 October ------------------ Oct
+十一月 November --------------- Nov
+十二月 December --------------- Dec
 ```
 
 ##### (三) 节日 Festival

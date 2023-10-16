@@ -2,9 +2,24 @@
 
 ```1111111
 living room 客厅
-bedroom 卧室
-bathroom 浴室 洗手间
+dining room 饭厅
+laundry room 洗衣房
+guest room 客房
+
 kitchen 厨房
+bathroom 浴室 洗手间
+
+bedroom 卧室
+// master bedroom. 主卧
+// secondary bedroom. 次卧
+// -- secondary 次要的
+// TIPS: pay attention to pronunciation.
+
+nook 幽静的角落/早餐厅
+garage 车库
+
+hallway 走廊
+// This is a hallway and it leads to the laundry room. 这是一条走廊，通向洗衣房
 ---
 
 kitchen 厨房
