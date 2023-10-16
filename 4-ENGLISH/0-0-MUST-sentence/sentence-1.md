@@ -1,10 +1,15 @@
 # Must Sentence
 
 ```
-Lung are the organs responsible for breathing. 肺是负责呼吸的器官
-// lung 肺 // lung capacity 肺活量
-// organ 器官
-// responsible 有责任的
+Lungs are the organs responsible for breathing. 肺是负责呼吸的器官
+// responsible 有责任的 adj
+// responsibility 责任 n
+// Sense of responsibility. 责任感
+// responsible for. 为...负责
+// breathing. 呼吸 n
+// -- lung 肺
+// -- lung capacity 肺活量
+// -- organ 器官
 // -- She suffered from lung cancer.
 // -- suffer 遭受
 

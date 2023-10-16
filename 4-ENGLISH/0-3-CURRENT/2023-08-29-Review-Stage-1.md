@@ -203,7 +203,9 @@ adverb 副词
 
 adjective 形容词
 quantifier 量词
+
 preposition 介词
+plural 复数 // The verb should be in the plural. 这个动词应该用复数形式
 ```
 
 ##### (6) sense 感觉 含义

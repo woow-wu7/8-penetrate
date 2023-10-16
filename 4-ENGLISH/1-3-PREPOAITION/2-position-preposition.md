@@ -16,3 +16,17 @@ The blue ball is next to the tree. 球在树旁边
 The blue ball is in front of the box. 球在盒子前面
 The blue ball is behind the house. 球在房子后面
 ```
+
+```
+noun 名词
+pronoun 代词
+
+verb 动词
+adverb 副词
+
+adjective 形容词
+quantifier 量词
+
+preposition 介词
+plural 复数 // The verb should be in the plural. 这个动词应该用复数形式
+```
