@@ -51,6 +51,8 @@ seed 种子
 2
 seedling 幼苗
 // A seedling is a young plant that comes out from a seed. 幼苗是从种子中长出来
+// A seeding grow out from a seed. 幼苗是从种子中长出来的
+// -- grow out. 长大
 
 3
 sprout 发芽

@@ -1,6 +1,12 @@
 # Must Sentence
 
 ```
+People don't realize how serious this recession has actually been. 人们没有意识到这次衰退实际上有多严重
+// realize 意识到 v
+// serious 严重的 adj
+// actually 事实上 adv
+// recession 经济衰退 衰退 n // TIPS: pay attention to pronunciation.
+
 Would you mind leaving us alone for a few minutes? 你不介意让我们单独待一会吧？
 // mind 介意
 // mind doing sth. 介意做某事

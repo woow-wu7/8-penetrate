@@ -18,6 +18,7 @@ bedroom 卧室
 nook 幽静的角落/早餐厅
 garage 车库
 
+hall 大厅 走廊
 hallway 走廊
 // This is a hallway and it leads to the laundry room. 这是一条走廊，通向洗衣房
 ---
