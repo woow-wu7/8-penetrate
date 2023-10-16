@@ -1,6 +1,10 @@
 # Must Sentence
 
 ```
+Would you mind leaving us alone for a few minutes? 你不介意让我们单独待一会吧？
+// mind 介意
+// mind doing sth. 介意做某事
+
 Lungs are the organs responsible for breathing. 肺是负责呼吸的器官
 // responsible 有责任的 adj
 // responsibility 责任 n
