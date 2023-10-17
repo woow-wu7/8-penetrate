@@ -107,6 +107,7 @@ Date
 周末 weekend
 工作日 weekday
 fortnight 两星期
+throughout the day. 一整天
 // 1
 // weekend 周末
 // weekend = saturday + sunday

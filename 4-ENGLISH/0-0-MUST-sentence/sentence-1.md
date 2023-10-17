@@ -1,6 +1,13 @@
 # Must Sentence
 
 ```
+The greedy employer exploit his workers for his own profits. 贪婪的雇主为了自己的利益而剥削工人
+// exploit 剥削 利用 开发
+// greedy 贪婪的 adj
+// profit 利益 利润 // profits
+// benefit 福利
+// employer 雇主
+
 But I think there are three big problems we have to address.
 // address 地址n 设法解决v
 
