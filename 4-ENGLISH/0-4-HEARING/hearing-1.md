@@ -12,6 +12,7 @@ dentist 牙医
 serious 严重的
 journey 旅行 旅程
 I stopped driving in ages ago. 我很久以前就不开车了
+through 虽然 即使 // even through 即使
 
 check up. 清理 检查
 ages ago. 很久以前
@@ -32,6 +33,13 @@ recession 经济衰退 衰退 n
 
 ages ago. 很久以前
 // The wedding was planned ages age. 婚礼很久以前就计划好了
+
+though 虽然 即使
+even though 虽然
+least 最少的 -> little 的最高级
+// He is the best teacher, even though he has the least experience. 他虽然经验最少，却是最出色的老师
+// -- though 虽然
+// -- through 穿过 通过
 ---
 
 Man: Excuse me. Would you mind if I asked you some questions? We're doing a survey on transport.
@@ -106,6 +114,12 @@ at the moment. 目前 此刻
 annoy 烦人 v
 annoying 烦人的 // TIPS: Pay attention to pronunciation.
 // Her most annoying habit was eating with her mouth open. 她最让人讨厌的习惯就是张着嘴吃东西
+
+cinema 电影院
+movie theater 电影院
+either way. 无论哪种方式
+// I'm standing in front of a movie theater. Other people might call this a cinema. Either way,
+// it's a place where people can go to watch movies in a big room
 ---
 Man: How satisfied with the service are you? Do you have any complaints?
 

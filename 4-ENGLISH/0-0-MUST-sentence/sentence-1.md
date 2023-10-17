@@ -1,11 +1,15 @@
 # Must Sentence
 
 ```
+But I think there are three big problems we have to address.
+// address 地址n 设法解决v
+
 People don't realize how serious this recession has actually been. 人们没有意识到这次衰退实际上有多严重
 // realize 意识到 v
 // serious 严重的 adj
-// actually 事实上 adv
 // recession 经济衰退 衰退 n // TIPS: pay attention to pronunciation.
+// actually 事实上 adv
+// -- A lot of drivers have a serious attitude problem.许多驾车者有严重的态度问题。
 
 Would you mind leaving us alone for a few minutes? 你不介意让我们单独待一会吧？
 // mind 介意

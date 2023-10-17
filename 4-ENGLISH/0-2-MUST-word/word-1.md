@@ -1,6 +1,14 @@
 # Word
 
 ```
+visa 签证
+via 通过
+satellite 卫星
+keep in touch with. 与...保持联系
+// visa 签证: Getting a visa isn't as simple as you might suppose. 办签证不像你想的那么容易
+// via 通过: The speech was broadcast via a satellite link. 这次演讲是通过卫星播放的
+// via 通过: They keep in touch with each other via the internet. 他们通过互联网来保持联系
+
 decide 决定 v
 decision 决策 决定 n
 reflect 反映 表明 v ----
