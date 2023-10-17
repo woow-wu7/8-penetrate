@@ -170,12 +170,18 @@ organism 生物
 // -- microscope 显微镜
 ---
 
-bacteria 细菌 n
+germs 细菌，微生物
+bacteria 细菌 n // 专指细菌
 bacterial 细菌的 adj
 medium 中等 媒介 // TIPS: Pay attention to pronunciation.
 multiply 乘以 繁殖 // TIPS: Pay attention to pronunciation.
 // bacteria 细菌: 【 The bacteria were growing in a sugar medium. 细菌在糖基中生长 】
 // multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
+// -- The gases that surround the earth. We cannot see air, but it is everywhere.
+// -- The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
+// -- invisible 看不见的adj 看不见的人n
+// -- germs 细菌，微生物
+// -- bacteria 专指细菌
 
 fungus 真菌
 tree stump. 树桩

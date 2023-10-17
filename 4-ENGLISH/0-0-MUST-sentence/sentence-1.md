@@ -1,9 +1,14 @@
 # Must Sentence
 
 ```
+The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
+// invisible 看不见的adj 看不见的人n
+// germs 细菌，微生物
+// bacteria 专指细菌
+
 The greedy employer exploit his workers for his own profits. 贪婪的雇主为了自己的利益而剥削工人
-// exploit 剥削 利用 开发
 // greedy 贪婪的 adj
+// exploit 剥削 利用 开发
 // profit 利益 利润 // profits
 // benefit 福利
 // employer 雇主

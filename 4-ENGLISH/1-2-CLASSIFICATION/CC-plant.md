@@ -75,6 +75,38 @@ adult 成人n 成熟的adj
 // -- fully 完全的 adv
 ```
 
+##### What Plants Need to Grow
+
+```
+1
+sunlight
+// The light from the sun. It helps plants to grow.
+
+2
+air
+// The gases that surround the earth. We cannot see air, but it is everywhere.
+// -- The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
+// -- invisible 看不见的adj 看不见的人n
+// -- germs 细菌，微生物
+// -- bacteria 专指细菌
+
+3
+water
+// A liquid that is necessary for life. Water moves food to the parts of a plant.
+
+4
+space
+// The area available for use. It there is space, a plant can gro big and strong.
+
+5 
+soil
+// Soil is where plants grow. Soil is the top part of the earth.
+
+6
+warmth 温暖 暖和
+// warmth is the state or quality of being warm.
+```
+
 ###### (一) Plant // Plants
 
 ```
