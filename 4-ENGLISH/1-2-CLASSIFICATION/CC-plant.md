@@ -192,6 +192,8 @@ banana 香蕉
 pomegranate 石榴 // po me gra nate
 papaya 木瓜 // papa 爸爸 // papaya 木瓜
 apricots 杏子
+squash 南瓜类
+pumpkin 南瓜
 
 bean 菜豆
 soybean 大豆

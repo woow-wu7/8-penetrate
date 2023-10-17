@@ -34,6 +34,9 @@ Africa is a beautiful continent. 非洲是一个非常美丽的大陆
 波兰 Poland Polish Polish
 希腊 Greece Greek Greek
 瑞士 Switzerland Swiss Swiss
+
+巴西 Brazil
+罗马 Rome
 ```
 
 ##### 七大洲

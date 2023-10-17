@@ -1,6 +1,15 @@
 # Word
 
 ```
+assist 帮助v 援助v 助攻n
+assistant 助理 助手
+assist in. 在...上给予帮助
+// assist 帮助v: We will assist you in finding somewhere to live. 我们将帮你找个住的地方
+// assist 帮助v: They assisted each other to the top of the mountain. 他们相互帮助登上了山顶
+// assist 帮助v: we'll do all we can to assist you. 我们要尽量帮助你
+// assistant 助理n: The official title of the job is 'Administrative Assistant'. 这个职位的正式名称为“行政助理”
+
+// TIPS: pay attention to pronunciation.
 visa 签证
 via 通过
 satellite 卫星
