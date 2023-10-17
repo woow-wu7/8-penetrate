@@ -1,6 +1,11 @@
 # Word
 
 ```
+poison 毒药
+alcoholic 酒精的adj 酒鬼n
+alcoholic drinks. 酒精饮料
+// Alcoholic drinks act as a poison to a child. 酒精饮料对小孩犹如毒药
+
 assist 帮助v 援助v 助攻n
 assistant 助理 助手
 assist in. 在...上给予帮助

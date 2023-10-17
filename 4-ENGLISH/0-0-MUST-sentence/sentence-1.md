@@ -1,6 +1,24 @@
 # Must Sentence
 
 ```
+The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
+// experience 经验n 体验v
+// experienced 有经验的adj
+// captain 船长 机长 队长
+// cope 处理
+// cope with 处理 应付
+// situation 情况n
+// solution 解决方案n
+
+We will assist you in finding somewhere to live. 我们将帮你找个住的地方
+// assist in. 在...上给予帮助
+// assist 帮助v 援助v 助攻n
+// assistant 助理 助手
+// -- assist 帮助v: We will assist you in finding somewhere to live. 我们将帮你找个住的地方
+// -- assist 帮助v: They assisted each other to the top of the mountain. 他们相互帮助登上了山顶
+// -- assist 帮助v: we'll do all we can to assist you. 我们要尽量帮助你
+// -- assistant 助理n: The official title of the job is 'Administrative Assistant'. 这个职位的正式名称为“行政助理”
+
 The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
 // invisible 看不见的adj 看不见的人n
 // germs 细菌，微生物
