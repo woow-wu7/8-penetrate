@@ -7,4 +7,7 @@
 I eat with chopsticks.
 I drink soup with a spoon.
 I was hit by a car.
+
+How is it going. 最近好吗？
+It's none of your business. 少管闲事 不关你的事
 ```

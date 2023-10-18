@@ -5,6 +5,7 @@ The experienced captain can cope with the dangerous situation and find a solutio
 // experience 经验n 体验v
 // experienced 有经验的adj
 // captain 船长 机长 队长
+// Co-Pilot 副驾驶
 // cope 处理
 // cope with 处理 应付
 // situation 情况n
