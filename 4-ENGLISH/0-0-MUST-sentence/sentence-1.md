@@ -19,6 +19,8 @@ We will assist you in finding somewhere to live. 我们将帮你找个住的地�
 // -- assist 帮助v: They assisted each other to the top of the mountain. 他们相互帮助登上了山顶
 // -- assist 帮助v: we'll do all we can to assist you. 我们要尽量帮助你
 // -- assistant 助理n: The official title of the job is 'Administrative Assistant'. 这个职位的正式名称为“行政助理”
+// ---- assist 帮助 援助
+// ---- insist 坚持
 
 The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
 // invisible 看不见的adj 看不见的人n

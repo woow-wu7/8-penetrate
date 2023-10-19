@@ -102,6 +102,9 @@ Date
 星期六 Saturday
 星期日 Sunday
 
+on sunday. 在周日
+on sundays. 在每个周日
+
 星期 week
 每周 周报 weekly
 周末 weekend

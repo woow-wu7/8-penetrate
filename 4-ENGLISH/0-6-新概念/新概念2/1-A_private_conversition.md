@@ -84,7 +84,7 @@ I got very angry. I could not hear the actors. I turned round, I looked at the m
 
 They dit not pay any attention. // to me
 
-In the end, I could not beard it. I turned round agin, 'I can't hear the word' I said angrily.
+In the end, I could not beard it. I turned round agin, 'I can't hear a word' I said angrily.
 
 "It's none of your business" the young man said rudely. "this is a private conversation!"
 ```
