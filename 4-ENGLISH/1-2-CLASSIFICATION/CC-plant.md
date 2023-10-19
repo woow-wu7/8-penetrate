@@ -98,7 +98,7 @@ water
 space
 // The area available for use. It there is space, a plant can gro big and strong.
 
-5 
+5
 soil
 // Soil is where plants grow. Soil is the top part of the earth.
 
@@ -124,6 +124,8 @@ harvest 收获
 ripe 成熟的 // These guys are not ripe yet. 这些家伙(植物)还没成熟
 trellis 棚 架
 moss 苔藓 青苔
+grain 谷物 粮食 // grains // a grain of rice. 一粒米
+tobacco 烟草
 
 vine 藤
 vining plants. 藤蔓植物

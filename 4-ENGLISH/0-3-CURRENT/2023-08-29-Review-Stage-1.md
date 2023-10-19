@@ -64,6 +64,12 @@ music 音乐
 musician 音乐家
 // musician: She regarded herself, first and last, as a musician. 她认为她自己是一个不折不扣的音乐家
 
+politician 政治家 n
+politics 政治 n
+// He is a politician to the core. 他是个十足的政客
+// -- musician = music + ian
+// -- politician = politic + ian
+
 ecologist 生态学家
 
 math 数学

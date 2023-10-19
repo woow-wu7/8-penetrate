@@ -24,6 +24,10 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 // plural 复数的adj 复数
 // plural form. 复数形式
 // The verb should be in the plural. 这个动词应该用复数形式
+// -- leaves are the plural form of a leaf. leaves是leaf的复数形式
+// -- plural form. 复数形式
+// -- form of art. 艺术形式
+// -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 
 6 subtracted from 9 is 3. 9减6等于3
 // subtract 减去 v
@@ -106,6 +110,7 @@ leaves are the plural form of a leaf. leaves是leaf的复数形式
 // The verb should be in the plural. 这个动词应该用复数形式
 // leaves 叶子
 // leaf 叶子
+// -- plural form. 复数形式
 // -- form of. ...的形式
 // -- form of art. 艺术形式
 // -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式

@@ -153,6 +153,12 @@ throughout the day. 一整天
 // -- prompt 提示 鼓励 促使
 // -- identity 身份 n
 
+anniversary 周年纪念日
+wedding anniversary. 结婚周年纪念日
+annual 年度的 一年一度的
+// anniversary周年纪念日:【 Today is our wedding anniversary. 今天是我们的结婚周年纪念日 】
+// annual一年一度的: How much is the annual ground rent? 每年的地租是多少?
+
 dawn 黎明 // 曙光 开端
 dusk 黄昏
 sunrise 日出
