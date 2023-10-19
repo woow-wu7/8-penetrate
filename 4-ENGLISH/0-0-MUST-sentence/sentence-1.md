@@ -19,6 +19,20 @@ He is under a lot of stress because he has so much work to do. 有太多的工�
 // -- pronunciation 发音n: Your pronunciation is excellent. 你的发音好极了
 // -- pronunciation 发音n: pay attention to pronunciation. 注意发音
 
+The word 'fish' can be singular or plural. fish这个词可以是单数也可以是复数
+// singular 单数的adj 单数n
+// plural 复数的adj 复数
+// plural form. 复数形式
+// The verb should be in the plural. 这个动词应该用复数形式
+
+6 subtracted from 9 is 3. 9减6等于3
+// subtract 减去 v
+// subtracted
+// -- divide 除以v: 10 divided by 2 equals 5.
+// -- times 乘以v: 2 times 3 equals 6.
+// -- plus 加v: 2 plus 3 equals 5.
+// -- subtract 减去v: If you subtract 3 from 5, you get 2.
+
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v
 // experienced 有经验的adj
