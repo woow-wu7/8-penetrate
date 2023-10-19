@@ -36,6 +36,12 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 // -- times 乘以v: 2 times 3 equals 6.
 // -- plus 加v: 2 plus 3 equals 5.
 // -- subtract 减去v: If you subtract 3 from 5, you get 2.
+// ---- add/plus
+// ---- minus/subtract
+// ---- times
+// ---- divided by
+// ---- greater than. 大于 // great 伟大的 巨大的
+// ---- less than. 小于
 
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v
