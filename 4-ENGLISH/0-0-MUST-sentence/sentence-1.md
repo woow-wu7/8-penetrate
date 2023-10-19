@@ -1,6 +1,24 @@
 # Must Sentence
 
 ```
+You can slide on the screen to unlock your phone. 你可以在屏幕上滑动来解锁你的手机
+// slide 滑动v 滑梯n
+// unlock 解锁
+// locker 储物柜
+// -- slide滑动v: You can slide on the screen to unlock your phone. 你可以在屏幕上滑动来解锁你的手机
+// -- slide滑梯n: Mojo slid down the slide to the bottom. Mojo滑倒了滑梯底部
+// -- slid 是 slide 的过去式和过去分词
+// ---- slide down. 滑下
+// ---- slide show. 放映幻灯片
+
+He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
+// stress 压力n 强调v 重读v
+// -- stress 压力n: He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
+// -- stress 压力n: Stress is major problem of modern life. 压力是现代生活中的主要问题
+// -- stress 压力n: After working such a whole day, he feels a lot of stress. 这样工作一整天后，他感到压力巨大
+// -- pronunciation 发音n: Your pronunciation is excellent. 你的发音好极了
+// -- pronunciation 发音n: pay attention to pronunciation. 注意发音
+
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v
 // experienced 有经验的adj
