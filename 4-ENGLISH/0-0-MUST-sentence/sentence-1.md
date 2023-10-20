@@ -1,6 +1,10 @@
 # Must Sentence
 
 ```
+Nina was unhappy with her current job. Nina并不满意她现在的工作
+// be happy with sth/sb. 满意某人或某物
+// be unhappy with sth/sb. 不满意某人或某物
+
 You can slide on the screen to unlock your phone. 你可以在屏幕上滑动来解锁你的手机
 // slide 滑动v 滑梯n
 // unlock 解锁
