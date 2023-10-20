@@ -23,6 +23,12 @@ be happy with sth/sb. 满意某人或某物
 sb used to + v. 某人过去常常做某事，[ 表示过去存在的情况/过去的习惯，但现在已非如此 ]
 // Nina use to study in France. Nina曾在法国念过书
 
+make sure of + noun. 确保 确认...
+// Nina locked the door. I made sure of that. Nina把门锁上了，我确认过了
+
+the rest of + noun. 剩下的
+// Nina ate some of the cake and saved the rest of it for later. 尼娜吃了一些蛋糕，剩下的留着以后吃
+
 while
 在...的时候；与...同时
 // Nina works while she travels.
@@ -41,10 +47,39 @@ tutor
 // tutor 教师: The tutor is helping the little boy with his homework. 这个家庭教师正在辅导小男孩的功课
 // tutor 指导: You can tutor people. 你可以辅导别人
 
+convenient 方便的
+// It's very convenient for me to get to the station. 对我来说去车站很方便
+
+customer 客户
+// customer: A customer is somebody that buys a product like a thing or they buy a service.
+// I can finish my homework in an hour. 我可以在一个小时内完成我的作业
+
+deadline 最后期限
+// deadline 最后期限: we are working to a very tight deadline. 我们的工期很紧
+// deadline 最后期限: I finished several days ahead of the deadline. 我是在最后期限的前几天完成的
+// deadline 最后期限: The project was completed a week past its deadline. 该项目比截止日期晚一周完成
+// We must finish this before the deadline. 我们必须在截止期限前完成这项工作
+// Your deadline is the day that you have to finish something.
+// Sometimes teachers will tell you to write a paper. they give you a deadline. That deadline is the day you should turn in the paper
+// If you have projects to do, your boss will tell you your deadline. So you have to finish your work by that deadline.
+
+discipline 纪律 行为准则
+// discipline: discipline just means that you are good at controlling yourself doing what you should do. and not doing what you shouldn't do.
+// She keeps good discipline in class. 她严格执行课堂纪律
+
+set up a schedule. 制定时间表
+swimming poll is made for swimming. 游泳池是为游泳而设计的
+You have to know how to right manage you time. 你必须知道如何正确地管理你的时间
+We take a short break and we'll be back in a moment. 我们短暂休息一下，一会儿就回来
+
+explain 解释v
+explanation 解释n
+
+spot 地方
+breeze 微风
 simple 简单的
 boring 无聊的
 concrete 混凝土
-swimming poll is made for swimming. 游泳池是为游泳而设计的
 ```
 
 ##### (2) Transition 翻译 n
@@ -62,7 +97,7 @@ Or: What famous tourist attractions are nearby?
 How can I go/get to Taipei 101?
 ```
 
-##### (3) Textbook 教科书
+##### (3) Textbook1 教科书
 
 ```
 1
@@ -82,4 +117,21 @@ So, she decided to become a digital nomad.
 Now, Nina works while she travels.
 // She can work at a poll, on the beach, or in a cafe.
 // She can do that because her new office is her laptop.
+```
+
+##### (3) Textbook2 教科书
+
+```
+1
+Nina can also work when it's convenient for her.
+She can choose to work for half an hour to an hour.
+She can also choose not to do any work.
+Nina just needs to make sure of one thing.
+She must finish the work and get it to her customer by its deadline. // 她必须完成工作并在截止日期前交给客户
+The rest of the time is like a vacation.
+
+2
+Nina can pick famous sights to visit.
+She can also enjoy the area's food and culture.
+Nina really likes her new life as a digital nomad.
 ```

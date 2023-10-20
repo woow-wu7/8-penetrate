@@ -1,6 +1,16 @@
 # Must Sentence
 
 ```
+we are working to a very tight deadline. 我们的工期很紧
+// tight 紧的 adj
+// deadline 最后期限
+// Your deadline is the day that you have to finish something.
+// -- deadline 最后期限: I finished several days ahead of the deadline. 我是在最后期限的前几天完成的
+// -- deadline 最后期限: The project was completed a week past its deadline. 该项目比截止日期晚一周完成
+// -- deadline 最后期限: We must finish this before the deadline. 我们必须在截止期限前完成这项工作
+// -- If you have projects to do, your boss will tell you your deadline. So you have to finish your work by that deadline.
+// -- Sometimes teachers will tell you to write a paper. they give you a deadline. That deadline is the day you should turn in the paper
+
 Nina was unhappy with her current job. Nina并不满意她现在的工作
 // be happy with sth/sb. 满意某人或某物
 // be unhappy with sth/sb. 不满意某人或某物
@@ -36,10 +46,10 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 6 subtracted from 9 is 3. 9减6等于3
 // subtract 减去 v
 // subtracted
+// -- subtract 减去v: If you subtract 3 from 5, you get 2.
 // -- divide 除以v: 10 divided by 2 equals 5.
 // -- times 乘以v: 2 times 3 equals 6.
-// -- plus 加v: 2 plus 3 equals 5.
-// -- subtract 减去v: If you subtract 3 from 5, you get 2.
+// -- plus/add 加v: 2 plus/add 3 equals 5.
 // ---- add/plus
 // ---- minus/subtract
 // ---- times
@@ -117,9 +127,10 @@ The liner was in the dock for major repairs. 客轮停在船坞里大修
 // repair 修理
 
 leaves are the plural form of a leaf. leaves是leaf的复数形式
-// The verb should be in the plural. 这个动词应该用复数形式
+// plural form. 复数形式
 // leaves 叶子
 // leaf 叶子
+// The verb should be in the plural. 这个动词应该用复数形式
 // -- plural form. 复数形式
 // -- form of. ...的形式
 // -- form of art. 艺术形式
