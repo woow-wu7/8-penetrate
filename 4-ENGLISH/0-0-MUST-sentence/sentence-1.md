@@ -1,6 +1,14 @@
 # Must Sentence
 
 ```
+nomad is a person who moves from place to place rather than settling down and living in one area.
+游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
+// nomad 1. n 游牧民 流浪者 2. adj 游牧的
+// -- settle down. 定居
+// settling down. 定居
+// settle 定居 解决
+// -- rather than. 而不是
+
 we are working to a very tight deadline. 我们的工期很紧
 // tight 紧的 adj
 // deadline 最后期限

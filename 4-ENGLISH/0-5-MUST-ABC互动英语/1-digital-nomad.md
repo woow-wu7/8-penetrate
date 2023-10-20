@@ -9,6 +9,22 @@ get up. 起床
 get to work. 上班
 get off work. 下班
 
+nomad
+1. n 游牧民 流浪者
+2. adj 游牧的
+// nomad: nomad is a person who moves from place to place rather than settling down and living in one area.
+// 游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
+// 1
+// -- settle down. 定居
+// -- settling down. 定居
+// -- settle 定居 解决
+// 2
+// -- rather than. 而不是
+
+digital nomad 数字游民
+// digital nomad: a person who earns a living that's how they make money working online but they can be in different place.
+
+
 laptop 笔记本电脑
 // lap 大腿
 // top 在上面
@@ -67,6 +83,11 @@ discipline 纪律 行为准则
 // discipline: discipline just means that you are good at controlling yourself doing what you should do. and not doing what you shouldn't do.
 // She keeps good discipline in class. 她严格执行课堂纪律
 
+matters 问题n 要紧v
+complicate 复杂 v
+// There is no need to complicate matters. 没有必要使问题复杂化
+// It's very complicated. 这非常复杂
+
 set up a schedule. 制定时间表
 swimming poll is made for swimming. 游泳池是为游泳而设计的
 You have to know how to right manage you time. 你必须知道如何正确地管理你的时间
@@ -75,6 +96,7 @@ We take a short break and we'll be back in a moment. 我们短暂休息一下，
 explain 解释v
 explanation 解释n
 
+tape 磁带
 spot 地方
 breeze 微风
 simple 简单的
