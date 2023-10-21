@@ -1,13 +1,27 @@
 # Must Sentence
 
 ```
+I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
+// Tom asked for a pay raise. Tom要求加薪
+// 1. be afraid to do sth. 害怕去做某事 ( 主观上的 )
+// 1. be afraid of doing. 害怕做某事 ( 客观上造成的 )
+// 1. be afraid of sb/sth. 害怕某人/某物
+// -- She was afraid to wake her husband. 她不敢去叫醒她的丈夫
+// -- She was afraid of waking her husband. 她生怕吵醒她丈夫
+// be afraid of sth: -------- Are you afraid of dog?
+// be afraid of doing sth: -- She is afraid of flying. 她害怕坐飞机
+// be afraid to do: --------- I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
+// be afraid to do: --------- Gina is afraid to swim in the sea. Gina不敢在海里游泳
+// 2. ask for. 要求 请求 // -- Tom asked for a pay raise. Tom要求加薪
+// 3. raise 增加v 加薪n
+
 nomad is a person who moves from place to place rather than settling down and living in one area.
 游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
 // nomad 1. n 游牧民 流浪者 2. adj 游牧的
-// -- settle down. 定居
-// settling down. 定居
-// settle 定居 解决
+// -- digital nomad. 数字游民
 // -- rather than. 而不是
+// -- settle down. 定居
+// -- settle 定居 解决
 
 we are working to a very tight deadline. 我们的工期很紧
 // tight 紧的 adj
