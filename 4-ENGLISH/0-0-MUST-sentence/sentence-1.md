@@ -1,6 +1,10 @@
 # Must Sentence
 
-```
+A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次
+// beam 光线 光束 脊梁
+// a beam of light. 一束光
+// a wooden beam. 木梁
+
 There is a saying that who you socialize with defines who you are. 有一句话叫：你的社交关系决定了你是什么样的人
 // social 社会的 社交的 adj
 // socialize 社交 v

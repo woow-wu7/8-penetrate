@@ -34,6 +34,13 @@ eagle 鹰 // bald eagle 白头鹰
 // -- assume 假设
 // -- form of. 用...构成
 
+worm 虫 蠕虫
+glowworm 萤火虫 // glow发光 worm 蠕虫
+bait 鱼饵
+// The glowworm isn't a worm. 萤火虫不是蠕虫
+// This apple is full of worm. 这个苹果生满了虫子
+// Worms make good fish bait. 蠕虫是很好的鱼饵
+
 cricket 蟋蟀
 bat 蝙蝠 // bats
 tiger 老虎
