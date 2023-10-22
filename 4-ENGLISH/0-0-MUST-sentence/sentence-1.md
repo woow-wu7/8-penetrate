@@ -1,5 +1,15 @@
 # Must Sentence
 
+```
+She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
+// abroad 在国外adv 海外n
+// take a semester abroad. 在国外度过一个学期
+// -- foreign 外国的 adj
+// -- foreigner 外国人
+// -- foreign language. 外语
+// -- foreign 外国的adj: You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语
+// -- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
+
 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次
 // beam 光线 光束 脊梁
 // a beam of light. 一束光
@@ -33,7 +43,9 @@ I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
 // 3. raise 增加v 加薪n
 // 4. pay raise. 加薪
 
+
 -------
+
 
 nomad is a person who moves from place to place rather than settling down and living in one area.
 游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
@@ -56,6 +68,10 @@ we are working to a very tight deadline. 我们的工期很紧
 Nina was unhappy with her current job. Nina并不满意她现在的工作
 // be happy with sth/sb. 满意某人或某物
 // be unhappy with sth/sb. 不满意某人或某物
+
+
+-------
+
 
 You can slide on the screen to unlock your phone. 你可以在屏幕上滑动来解锁你的手机
 // slide 滑动v 滑梯n

@@ -1,10 +1,26 @@
 # Word
 
 ```
-poison 毒药
+abroad 在国外 海外
+// She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
+
+foreign 外国的 adj
+foreigner 外国人
+// foreign language. 外语
+// foreign 外国的adj: You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语
+// foreign 外国的adj: She didn't know what life in a foreign country would be like. 她不知道外国的生活会是什么样
+// foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
+
+
+-------
+
+
+poison 毒药 n
+poisonous 有毒的 adj
 alcoholic 酒精的adj 酒鬼n
 alcoholic drinks. 酒精饮料
-// Alcoholic drinks act as a poison to a child. 酒精饮料对小孩犹如毒药
+// poison毒药: Alcoholic drinks act as a poison to a child. 酒精饮料对小孩犹如毒药
+// poisonous有毒的: This gas is highly poisonous. 这种气体有剧毒
 
 assist 帮助v 援助v 助攻n
 assistant 助理 助手
