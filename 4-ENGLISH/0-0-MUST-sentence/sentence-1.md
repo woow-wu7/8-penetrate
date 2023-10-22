@@ -1,6 +1,19 @@
 # Must Sentence
 
 ```
+There is a saying that who you socialize with defines who you are. 有一句话叫：你的社交关系决定了你是什么样的人
+// social 社会的 社交的 adj
+// socialize 社交 v
+// socialize 社交v: There is a saying that who you socialize with defines who you are. 有一句话叫：你的社交关系决定了你是什么样的人
+// social 社交的adj: Is this a social visit, or is ti business? 这是社交性的拜访，还是业务性的？
+
+It's very convenient for me to get to the station. 对我来说去车站很方便
+// convenient 方便的
+// station 车站
+// -- get up. 起床
+// -- get to work. 上班
+// -- get off work. 下班
+
 I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
 // Tom asked for a pay raise. Tom要求加薪
 // 1. be afraid to do sth. 害怕去做某事 ( 主观上的 )

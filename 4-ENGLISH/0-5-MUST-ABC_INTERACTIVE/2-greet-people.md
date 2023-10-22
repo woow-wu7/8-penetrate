@@ -29,6 +29,12 @@ ask for. 要求 请求
 // Tom asked for a pay raise. Tom要求加薪
 // I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
 
+run into me. 遇到我 撞到我
+// He sent me down his street so that you would run into me? 他让我走这条街就为了能碰上你？
+
+be interested in doing sth. 对...感兴趣
+// would you be interested in doing that? 你会有兴趣做那个吗？
+
 weird 奇怪的
 // And it's a weird time in our country.  而且我们国家现在处于一个奇怪的时期
 

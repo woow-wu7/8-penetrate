@@ -26,7 +26,6 @@ nomad
 digital nomad 数字游民
 // digital nomad: a person who earns a living that's how they make money working online but they can be in different place.
 
-
 laptop 笔记本电脑
 // lap 大腿
 // top 在上面
@@ -34,6 +33,9 @@ laptop 笔记本电脑
 // -- laptop: laptop is a computer which you can carry around with you. 笔记本电脑是一台你可以随身携带的电脑
 // -- laptop computer. 笔记本电脑
 // -- desktop computer. 台式电脑
+
+be interested in doing sth. 对...感兴趣
+// would you be interested in doing that? 你会有兴趣做那个吗？
 
 be happy with sth/sb. 满意某人或某物
 // Nina was unhappy with her current job. Nina并不满意她现在的工作
@@ -46,6 +48,16 @@ make sure of + noun. 确保 确认...
 
 the rest of + noun. 剩下的
 // Nina ate some of the cake and saved the rest of it for later. 尼娜吃了一些蛋糕，剩下的留着以后吃
+
+set up a schedule. 制定时间表
+swimming poll is made for swimming. 游泳池是为游泳而设计的
+You have to know how to right manage you time. 你必须知道如何正确地管理你的时间
+We take a short break and we'll be back in a moment. 我们短暂休息一下，一会儿就回来
+
+social 社会的 社交的 adj
+socialize 社交 v
+// socialize 社交v: There is a saying that who you socialize with defines who you are. 有一句话叫：你的社交关系决定了你是什么样的人
+// social 社交的adj: Is this a social visit, or is ti business? 这是社交性的拜访，还是业务性的？
 
 while
 在...的时候；与...同时
@@ -89,11 +101,6 @@ matters 问题n 要紧v
 complicate 复杂 v
 // There is no need to complicate matters. 没有必要使问题复杂化
 // It's very complicated. 这非常复杂
-
-set up a schedule. 制定时间表
-swimming poll is made for swimming. 游泳池是为游泳而设计的
-You have to know how to right manage you time. 你必须知道如何正确地管理你的时间
-We take a short break and we'll be back in a moment. 我们短暂休息一下，一会儿就回来
 
 explain 解释v
 explanation 解释n

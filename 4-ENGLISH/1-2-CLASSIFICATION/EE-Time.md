@@ -111,6 +111,7 @@ on sundays. 在每个周日
 工作日 weekday
 fortnight 两星期
 throughout the day. 一整天
+every single day. 每一天
 // 1
 // weekend 周末
 // weekend = saturday + sunday
