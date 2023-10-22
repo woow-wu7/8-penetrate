@@ -133,6 +133,11 @@ vining plants. 藤蔓植物
 herb 草本植物
 // verb 动词
 
+calcium 钙
+protein 蛋白质
+// calc + ium -- calc石 ium元素
+// Milk products are an excellent source of calcium and protein. 奶制品富含钙与蛋白
+
 wheat 小麦
 //【 The price of wheat has decreased by 15 percent. 小麦价格下降了15% 】
 //【 The regin produces over 50% of the country's wheat. 这个地区出产全国50%以上的小 】
@@ -236,6 +241,11 @@ protein 蛋白质
 pea 豌豆 // peas pear梨 bear熊
 vegetable 蔬菜n 植物的adj
 // 【 peas are a good source of vegetable protein. 豌豆是植物蛋白的良好来源 】
+
+calcium 钙
+protein 蛋白质
+// calc + ium -- calc石 ium元素
+// Milk products are an excellent source of calcium and protein. 奶制品富含钙与蛋白
 
 cucumber 黄瓜
 // Slice the cucumber thinly. 将黄瓜切成薄片

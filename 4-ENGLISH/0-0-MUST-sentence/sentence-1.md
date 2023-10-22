@@ -29,6 +29,8 @@ I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
 // 3. raise 增加v 加薪n
 // 4. pay raise. 加薪
 
+-------
+
 nomad is a person who moves from place to place rather than settling down and living in one area.
 游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
 // nomad 1. n 游牧民 流浪者 2. adj 游牧的
