@@ -12,8 +12,9 @@ I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
 // be afraid of doing sth: -- She is afraid of flying. 她害怕坐飞机
 // be afraid to do: --------- I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
 // be afraid to do: --------- Gina is afraid to swim in the sea. Gina不敢在海里游泳
-// 2. ask for. 要求 请求 // -- Tom asked for a pay raise. Tom要求加薪
+// 2. ask for. 要求 请求 // -- Tom asked for a pay raise. Tom要求加薪 // Tom asked his boss for a pay raise.
 // 3. raise 增加v 加薪n
+// 4. pay raise. 加薪
 
 nomad is a person who moves from place to place rather than settling down and living in one area.
 游牧者是指从一个地方迁移到另一个地方而不是在一个地区定居下来的人
@@ -65,7 +66,8 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 // -- form of art. 艺术形式
 // -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 
-6 subtracted from 9 is 3. 9减6等于3
+6 subtracted from 9 is 3. ----- 9减6等于3
+9 minus 6 equals 3. ----------- 9减6等于3
 // subtract 减去 v
 // subtracted
 // -- subtract 减去v: If you subtract 3 from 5, you get 2.

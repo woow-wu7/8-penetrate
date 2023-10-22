@@ -1,5 +1,7 @@
 # Digital Nomad. 数字游民
 
+- `interactive 交互`
+
 ##### (1) New words and expressions/phrase 生词和短语
 
 ```

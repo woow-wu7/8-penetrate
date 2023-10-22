@@ -1,5 +1,7 @@
 # Ways to Greet People 与人打招呼的方式
 
+- `interactive 交互`
+
 ##### (1) New words and expressions/phrase 生词和短语
 
 ```
@@ -8,6 +10,7 @@ interactive 互动的 交互的 adj
 introduction 介绍 引进 n
 wave 波浪n 挥手v
 pay raise. 加薪
+hug 拥抱
 
 explain 解释v
 explanation 解释 n
@@ -20,11 +23,18 @@ be afraid to do sth. 害怕去做某事 ( 主观上的 )
 // be afraid of sth: -------- Are you afraid of dog?
 // be afraid of doing sth: -- She is afraid of flying. 她害怕坐飞机
 // be afraid to do: --------- I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
-// be afraid to do: --------- Gina is afraid to swim in the sea. Gina不敢在海里游泳
+// be afraid to do: --------- Nina is afraid to swim in the sea. Nina不敢在海里游泳
 
 ask for. 要求 请求
 // Tom asked for a pay raise. Tom要求加薪
 // I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
+
+weird 奇怪的
+// And it's a weird time in our country.  而且我们国家现在处于一个奇怪的时期
+
+appropriate 适当的 恰当的
+cross 交叉 穿越 十字架
+// Put a cross in the appropriate box. 在适当的长方格里打叉号
 
 annoy 烦人v
 annoying 烦人的adj
