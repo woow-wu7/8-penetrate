@@ -3,12 +3,13 @@
 ```
 She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
 // abroad 在国外adv 海外n
-// take a semester abroad. 在国外度过一个学期
-// -- foreign 外国的 adj
-// -- foreigner 外国人
-// -- foreign language. 外语
-// -- foreign 外国的adj: You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语
-// -- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
+// -- My sister wants to work abroad. 我姐姐很想出国工作
+// -- Take a semester abroad. 在国外度过一个学期
+// ---- foreign 外国的 adj
+// ---- foreigner 外国人
+// ---- foreign language. 外语
+// ---- foreign 外国的adj: You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语
+// ---- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
 
 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次
 // beam 光线 光束 脊梁
@@ -19,7 +20,7 @@ There is a saying that who you socialize with defines who you are. 有一句话�
 // social 社会的 社交的 adj
 // socialize 社交 v
 // socialize 社交v: There is a saying that who you socialize with defines who you are. 有一句话叫：你的社交关系决定了你是什么样的人
-// social 社交的adj: Is this a social visit, or is ti business? 这是社交性的拜访，还是业务性的？
+// social 社交的adj: Is this a social visit, or is it business? 这是社交性的拜访，还是业务性的？
 
 It's very convenient for me to get to the station. 对我来说去车站很方便
 // convenient 方便的

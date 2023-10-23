@@ -11,6 +11,11 @@ introduction 介绍 引进 n
 wave 波浪n 挥手v
 pay raise. 加薪
 hug 拥抱
+awkward 尴尬的 adj
+make sense. 有道理
+ex-boyfriend. 前男友
+ex-girlfriend. 前女友
+run into them. 碰到他们
 
 explain 解释v
 explanation 解释 n
@@ -25,11 +30,18 @@ be afraid to do sth. 害怕去做某事 ( 主观上的 )
 // be afraid to do: --------- I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
 // be afraid to do: --------- Nina is afraid to swim in the sea. Nina不敢在海里游泳
 
+congratulate 祝贺 v
+congratulation 祝贺 n
+warm 温暖的
+// congratulation 祝贺n: Please send her my warmest congratulations. 请代我向她致以最热烈的祝贺
+// congratulate 祝贺v: You can congratulate yourself on having done an excellent job. 您可以祝贺自己做得非常出色
+
 ask for. 要求 请求
 // Tom asked for a pay raise. Tom要求加薪
 // I'm afraid to ask my boss for a raise. 我害怕向老板要求加薪
 
 run into me. 遇到我 撞到我
+run into them. 碰到他们
 // He sent me down his street so that you would run into me? 他让我走这条街就为了能碰上你？
 
 be interested in doing sth. 对...感兴趣
@@ -62,6 +74,9 @@ greet 欢迎 迎接
 cushion 垫
 // Come sit down here on the cushion. 过来坐在垫子上
 // She stuffed the money under a cushion. 她把钱塞到软垫底下
+
+awkward 尴尬的 笨拙的 adj
+// There are an awkward silence. 一阵令人尴尬的沉默
 ```
 
 ##### (2) Textbook
