@@ -1,6 +1,16 @@
 # Must Sentence
 
 ```
+[][][][][][][] 典礼 生气 国外 社交 光线 方便
+
+The ceremony was transmitted live by satellite to over fifty countries. 典礼通过卫星向五十多个国家进行了实况转播
+// ceremony 仪式 典礼
+// opening ceremony. 开学典礼
+// Tomorrow is the opening ceremony. 明天是开学典礼
+// -- transmit 传输 v
+// -- transmitted 过去式和过去分词
+// -- satellite 卫星
+
 She was mad at her husband for forgetting her birthday. 她因为她的丈夫忘了她的生日而生气
 // mad at sb. 对...某人生气
 // mad about sth. 对...某事生气
