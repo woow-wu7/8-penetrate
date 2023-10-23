@@ -1,6 +1,7 @@
 # Ways to Greet People 与人打招呼的方式
 
 - `interactive 交互`
+- `How to greet people.`
 
 ##### (1) New words and expressions/phrase 生词和短语
 
@@ -35,6 +36,15 @@ congratulation 祝贺 n
 warm 温暖的
 // congratulation 祝贺n: Please send her my warmest congratulations. 请代我向她致以最热烈的祝贺
 // congratulate 祝贺v: You can congratulate yourself on having done an excellent job. 您可以祝贺自己做得非常出色
+
+mad at. 对...生气
+mad 生气的 疯狂的
+mat 垫子
+// She was mad at her husband for forgetting her birthday. 她因为她的丈夫忘了她的生日而生气
+// You are mad at yourself. 你生自己的气
+
+make up for sth. 补偿 弥补
+// Hard work can often make up for a lack of ability. 努力工作经常可以弥补能力的不足。
 
 ask for. 要求 请求
 // Tom asked for a pay raise. Tom要求加薪
@@ -77,9 +87,25 @@ cushion 垫
 
 awkward 尴尬的 笨拙的 adj
 // There are an awkward silence. 一阵令人尴尬的沉默
+
+awkward 尴尬的 笨拙的 adj
+// There are an awkward silence. 一阵令人尴尬的沉默
+
+shock 震惊 休克
+// shock 震惊: Her death was a great shock to us. 她的去世对我们来说是一个巨大的震惊
+
+shake 摇动 握手
+// Give the bottle a good shake before opening. 打开瓶子前，先使劲摇一摇
+
+pat 轻拍
+// They just gave me a pat on the back. 他们只是拍拍我的背
+
+perfect 完美的adj
+perfection 完美n
+// perfection 完美n: His performance was perfection. 他的演技真是炉火纯青
 ```
 
-##### (2) Textbook
+##### (2) Textbook1
 
 ```
 They would give us gifts like cookies or just some like you said some snacks or some nice things to say sorry for the noise.
@@ -94,4 +120,26 @@ I live in the house across the street. 我住在街对面的房子里
 let's go on an adventure. 让我们去冒险吧
 
 It has changed quite a bit. 它发生了很大的变化
+```
+
+##### (2) Textbook2
+
+```
+Rita goes up to her father in the kitchen.
+
+Hi Dan I'm home what are you up to.
+
+I'm just making us something to eat. How is your day going?
+
+It's not going to well my friend is really mad at me.
+
+Why did something happen?
+
+well we made plans to see a new art show at nine but I was late.
+
+It's okay to be a few minutes late, it's nothing to be mad about.
+
+But I wasn't a few minutes late I was over 60 minutes late.
+
+oh, that is bad.
 ```

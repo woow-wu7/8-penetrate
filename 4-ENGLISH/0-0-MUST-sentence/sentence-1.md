@@ -1,6 +1,19 @@
 # Must Sentence
 
 ```
+She was mad at her husband for forgetting her birthday. 她因为她的丈夫忘了她的生日而生气
+// mad at sb. 对...某人生气
+// mad about sth. 对...某事生气
+// -- mad 生气的 疯狂的
+// -- mat 垫子
+// -- You are mad at yourself. 你生自己的气
+// ---- My father was mad at me last light. 昨晚爸爸对我生气
+// ---- I failed the test, and my mom was mat about that. 我考试不及格，我妈妈很生气
+
+
+-------
+
+
 She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
 // abroad 在国外adv 海外n
 // -- My sister wants to work abroad. 我姐姐很想出国工作

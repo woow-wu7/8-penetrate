@@ -41,6 +41,9 @@ bait 鱼饵
 // This apple is full of worm. 这个苹果生满了虫子
 // Worms make good fish bait. 蠕虫是很好的鱼饵
 
+peafowl 孔雀
+peacock 雄孔雀
+
 cricket 蟋蟀
 bat 蝙蝠 // bats
 tiger 老虎
