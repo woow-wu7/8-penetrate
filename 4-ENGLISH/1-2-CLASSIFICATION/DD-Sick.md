@@ -70,6 +70,11 @@ obesity 肥胖 n // 注意发音 // The man suffers from obesity and lives an un
 blind 失明的adj 使变瞎vt 窗帘n // blind/curtain 窗帘bl
 deaf 聋的adj 使变聋vt
 
+Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
+// vaccine 疫苗
+// promote 促进 提升
+// virus 病毒
+
 infect 传染 // 注意发音 // you will infect others. // I was infected by her. // He was infected with the virus.
 virus 病毒 // He was infected with the virus. // This virus is really dangerous.
 bacteria 细菌 // You can't see bacteria without a microscope. // telescope // microscope

@@ -1,7 +1,21 @@
 # Must Sentence
 
 ```
-[][][][][][][] 典礼 生气 国外 社交 光线 方便
+[][][][][][][] 锤子 典礼 生气 国外 社交 光线 方便
+
+Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
+// vaccine 疫苗
+// promote 促进 提升
+// virus 病毒
+
+When you have a hammer, everything looks like a nail. 当你有一把锤子时，一切看起来都像钉子
+// hammer 锤子
+// nail 钉子
+// -- wrench 扳手
+// -- french 法国人
+// -- wrist 手腕
+// wrench 扳手: A Frenchman holding a wrench. 一个法国人拿着一个扳手
+// hammer 锤子: When you have a hammer, everything looks like a nail. 当你有一把锤子时，一切看起来都像钉子
 
 The ceremony was transmitted live by satellite to over fifty countries. 典礼通过卫星向五十多个国家进行了实况转播
 // ceremony 仪式 典礼
