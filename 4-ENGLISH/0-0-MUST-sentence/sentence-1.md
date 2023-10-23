@@ -7,6 +7,8 @@ Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗
 // vaccine 疫苗
 // promote 促进 提升
 // virus 病毒
+// -- immunity 免疫 n
+// -- vaccine: The vaccine provides longer immunity against flu. 这种疫苗对流感的免疫效力时间较
 
 When you have a hammer, everything looks like a nail. 当你有一把锤子时，一切看起来都像钉子
 // hammer 锤子

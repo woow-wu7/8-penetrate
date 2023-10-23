@@ -74,6 +74,8 @@ Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗
 // vaccine 疫苗
 // promote 促进 提升
 // virus 病毒
+// -- immunity 免疫 n
+// -- vaccine: The vaccine provides longer immunity against flu. 这种疫苗对流感的免疫效力时间较
 
 infect 传染 // 注意发音 // you will infect others. // I was infected by her. // He was infected with the virus.
 virus 病毒 // He was infected with the virus. // This virus is really dangerous.
