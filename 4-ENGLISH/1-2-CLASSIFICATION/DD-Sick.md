@@ -1,5 +1,120 @@
 ###### (一) Sick
 
+- `medicine 内科 ------- medical department`
+- `surgery 外科 -------- surgical department`
+
+##### (1.1) Medicine Department 内科
+
+```
+1
+I have an appointment with Dr. Miller at 10 am.
+// 我预约了10点的米勒医生
+
+2
+Medical insurance card. 医保卡
+// insurance 保险
+
+3
+Fill out the medical history form. 填写病史表
+// fill out. 填写
+
+4
+What seems to be the problem? 哪里不舒服
+What are your symptoms? 你有什么症状
+Could you describe your symptoms? 你能描述一下症状吗？
+How long have you been like this? 这样持续多久了？// How long has this going on? 这样持续多久了？
+
+5
+I fell dizzy. 我头晕
+I fell nauseous. 我感到恶心
+I fell breathless. 我呼吸不通畅
+I fell chilly. 我浑身发冷 // chilly 寒冷的adj
+I threw up this morning. 我早上吐了 // throw up 呕吐
+
+6
+catch a cold 感冒，瞬间动作
+have a cold 感冒，持续动作
+have a fever 发烧
+have a cough 咳嗽
+have a sore throat. 嗓子疼
+have a runny nose. 流鼻涕
+// How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
+
+7
+How long have you been like this? 这样持续多久了？// How long has this going on? 这样持续多久了？
+1. I've had a slight fever since this morning. 我从早上就一直发低烧
+2. I've had a headache for two day. 我头痛两天了
+3. My stomach has been killing me recently. 最近我的胃太痛了
+
+8
+I hurt my arm. 我伤了手臂
+I hurt my knee. 我伤了膝盖
+I hurt my ankle. 我伤了脚踝
+
+9
+sprain 扭伤
+I sprained my ankle. 我扭伤了我的脚踝
+I twisted my ankle. 我扭伤了我的脚踝
+I broke my leg. 我的腿骨折了，表示非常的严重
+I bruised my arm. 我擦伤了手臂
+
+10
+I'll give you an injection. 我给你打一针 // injection 注射 n
+You need a blood test. 你需呀抽血
+
+11
+Get the diagnosis. 诊断结果 // diagnosis诊断n diagnose诊断v
+Get the prescription filled at the pharmacy. 去药房拿药
+
+12
+refer sb to... 将...转诊
+I refer you to sb. 我将你转诊到...
+
+
+-------
+
+
+summary 总结n 概括的adj
+summarize 总结 v
+
+medical 内科的 adj
+surgical 外科的 adj
+// medicine 药n 内科n
+// surgery 外科手术n
+
+tablet 药片
+pill 要玩
+capsule 胶囊
+
+pneumonia 肺炎 n
+insomnia 失眠 n
+anemia 贫血 n
+malaria 疟疾 n
+
+diabetes 糖尿病
+
+pneumonia 肺炎
+// EE:【pneumonia】: Pneumonia is a serious disease which affects your lungs and makes it difficult for you to breathe.
+// 1. I had a bad attract of pneumonia and spent two days in hospital on a drip. 我得了严重的肺炎，在医院输了两天液
+// -- drip 滴水
+
+insomnia 失眠 n
+// EE:【insomnia】: The condition of being unable to sleep.
+// 1. He is suffering from insomnia. 他患失眠症
+// 2. How to let insomnia perplex me no longer? 如何让失眠不再困扰我？
+// -- perplex 困惑 迷惑 v
+
+anemia 贫血 n
+// I was put on iron tablets for my anemia. 我曾因贫血吃补铁药片
+// -- iron 铁n 熨斗n
+// -- tablet 平板 药片
+
+malaria 疟疾 n
+// A new advance has been made in the control of malaria. 在控制疟疾方面已取得新的进展
+```
+
+##### (1.2) All
+
 ```1111111
 headache 头痛
 toothache 牙痛
@@ -8,6 +123,7 @@ backache 背痛 // The only way to cure backache is to rest.
 fever 发烧
 cough 咳嗽
 sneeze 打喷嚏
+runny nose. 流鼻涕 // I have a runny nose. 我流鼻涕了
 blow one's nose. 擤鼻涕 // blow my nose.
 snore 打呼噜
 
@@ -192,6 +308,7 @@ catch a cold 感冒，瞬间动作
 have a cold 感冒，持续动作 // How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
 have a fever 发烧
 have a cough 咳嗽
+have a runny nose. 流鼻涕
 
 throw up 呕吐
 sore throat 嗓子疼
