@@ -4,56 +4,103 @@
 headache 头痛
 toothache 牙痛
 backache 背痛 // The only way to cure backache is to rest.
+
 fever 发烧
 cough 咳嗽
 sneeze 打喷嚏
-snore 打呼噜
 blow one's nose. 擤鼻涕 // blow my nose.
+snore 打呼噜
+
 allergy 过敏 n
 allergic 过敏的 adj // be allergic to 对...过敏
+
 nauseous 恶心的 // 注意发音
 ill 生病的 // He coughed badly when he was ill.
+
 flu 流行性感冒 流感
-symptom 症状 // Flu symptoms include a headache, a sore throat, and a fever // classic symptoms
+symptom 症状 // Flu symptoms include a headache, a sore throat, and a fever
+// [ classic symptoms. 典型症状 ]
+
 sweat 汗水 // sweater 毛衣
 pain 痛 疼痛
-bear 忍受v 熊n
-sob 抽泣
-stiff 硬的
-saliva 唾液
 
-internal 内脏n 内部的adj // The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
-organ 器官 机构 // These organs are formed by tissues. 这些器官是由组织组成的 // Substance like water has three different forms. 物质三种形态
+bear 忍受v 熊n
+// [ polar bear. 北极熊 ]
+// bear 熊n 忍受v
+// pear 梨
+// pea 豌豆
+
+sob 抽泣
+stiff 硬的 // soft 软的
+
+saliva 唾液 n
+// EE: 【saliva】: The liquid that is produced in your mouth that helps you to swallow food.
+
+internal 内脏n 内部的adj
+liver 肝脏
+// The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
+
+organ 器官 机构
 tissue 组织 纸巾 // issue 问题n 公布vt // This is tissue paper. 这是纸巾
+// These organs are formed by tissues. 这些器官是由组织组成的
+// Substance like water has three different forms. 物质三种形态
+
 liver 肝脏 // live 居住 生活 活着 活的adj 直播adv // The largest internal organ in a human body is the liver.
 kidney 肾脏 // kid 小孩n 开玩笑v 妹妹弟弟adj // She'd always loved animals since she was a little kid. 她从小就喜欢动物
-brain 大脑
-lung 肺 // 通常是复数lungs // The heart, brain, lungs are examples of vital organs in the human body. 心脏，大脑，肺等是人体的重要器官
+
 heart 心脏
-vein 静脉 血管 // The doctor restricts the blood flow in order to see the patient's veins more clearly.
-protein 蛋白质 n // You can get protein from eggs, beans, and meet. 你可以从鸡蛋，豆类中获取蛋白质
+brain 大脑
+lung 肺 // 通常是复数lungs
+vital 至关重要的 adj
+// The heart, brain, lungs are examples of vital organs in the human body. 心脏，大脑，肺等是人体的重要器官
+
+vein 静脉 血管
+flow 流动
+tube 管 管子
+blood 血
+// EE: 【vein】: Any of the tubes that carry blood from all parts of the body towards the heart.
+// The doctor restricts the blood flow in order to see the patient's veins more clearly.
+// 医生限制血液流动，以便更清楚地看到病人的静脉
+
+protein 蛋白质 n
+meat 肉
+meet 遇见
+// You can get protein from eggs, beans, and meat. 你可以从鸡蛋，豆类中获取蛋白质
+
 tummy 肚子
-breast 胸 乳房 // 注意发音
 stomach 胃
+breast 胸 乳房 // 注意发音
+
 tonsil 扁桃体 // 注意发音
-forehead 前额 额头 // forefinger 食指 // index finger 食指
+tongue 舌头
+
+forehead 前额 额头
+// forefinger 食指
+// index finger 食指
+
 cheek 脸颊
 nose 鼻子 // nostril 鼻孔
 chin 下巴 // jaw 下巴
-lip 嘴唇 // lipstick 口红 唇膏
+lip 嘴唇 // lipstick 口红 唇膏 // stick 粘贴
+
 tongue 舌头 // 注意发音
+tonsil 扁桃体 // 注意发音
+
 neck 脖子
 hand 手
 palm 手掌 棕树
 wrist 手腕 腕部 // joint 关节
+
 finger 手指 // fingerprint 指纹 // toe 脚趾
 // thumb 拇指
 // forefinger/index finger 食指 // forehead 前额 额头 // index finger 也是食指的意思，这样除了 thumb 外，其他都是两次单词组成
 // middle finger 中指
 // ring finger 无名指 // ring 戒指
 // little finger 小指
+
 chest 胸部 箱子 // breast 乳房 // a chest of 一箱
 belly 腹部 肚子 // Drinking too much beer gives me a big belly. 喝太多啤酒让我成了个大肚子 // beer deer
+
 leg 腿
 lap 大腿
 knee 膝盖
@@ -63,7 +110,9 @@ joint 关节n 共同的adj // joint pain 关节痛 // wrist 手腕 腕部
 
 spine 脊柱
 backbone 脊柱 骨干
+
 nerve 神经
+// nerve cells. 神经细胞
 
 slim 苗条的adj 变苗条vt 艾滋病n // She retains her slim figure and is free of wrinkles. 她保持着苗条的身材，脸上也没有皱纹
 obesity 肥胖 n // 注意发音 // The man suffers from obesity and lives an unhealthy lifestyle.
@@ -71,16 +120,25 @@ blind 失明的adj 使变瞎vt 窗帘n // blind/curtain 窗帘bl
 deaf 聋的adj 使变聋vt
 
 Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
+// EE: 【Vaccine】: A substance that is put into the blood and that protects the body from a disease.
 // vaccine 疫苗
 // promote 促进 提升
-// virus 病毒
+// virus 病毒 n
+// disease 疾病 n
 // -- immunity 免疫 n
+// -- immune 有免疫力adj 豁免adj
 // -- vaccine: The vaccine provides longer immunity against flu. 这种疫苗对流感的免疫效力时间较
 
-infect 传染 // 注意发音 // you will infect others. // I was infected by her. // He was infected with the virus.
+infect 传染 感染// 注意发音
+// EE: 【infect】: To make a disease or an illness spread to a person, an animal or a plant.
+// you will infect others.
+// I was infected by her.
+// He was infected with the virus.
+
 virus 病毒 // He was infected with the virus. // This virus is really dangerous.
 bacteria 细菌 // You can't see bacteria without a microscope. // telescope // microscope
 fungus 真菌
+
 cancer 癌症
 epidemic 流行病
 coma 昏迷
@@ -90,18 +148,21 @@ doctor 医生
 nurse 护士
 patient 病人
 pharmacist 药剂师 // pharmacy 药店 // drugstore 药店 // We had to wait for the pharmacist to make up her prescription.
+
+pharmacist 药剂师 // pharmacy 药店 // drugstore 药店 // We had to wait for the pharmacist to make up her prescription.
 prescription 处方 药方 // We had to wait for the pharmacist to make up her prescription. 我们不得不等药剂师给她配药
 drugstore 药店 // pharmacy 也是药店 // pharmacist 药剂师
 medicine 药 医学 // medical 医学的 adj
 drug 毒品 药物 // drugstore 药店
 pill 药丸
 capsule 胶囊 // The medicine can be taken in capsule form. 这药可以以胶囊的形式服用
-bitter 味苦的 // sour bitter sweet spicy
+bitter 味苦的 // sour sweet bitter spicy
 
 drugstore 药店
 Pharmacy 药店 // pharmacist 药剂师 // We had to wait for the pharmacist to make up her prescription.
 clinic 诊所 // in a clinic. // in a hospital
 ward 病房
+
 mask 口罩 面具 // I wear face mask 我做面膜
 bandage 绷带
 ambulance 救护车
@@ -127,8 +188,8 @@ shot 注射 射击 // This shot will make you immune to all kinds of diseases. �
 tummy hurts 肚子疼
 stomach hurts 胃疼
 
-have a cold 感冒，持续动作 // How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
 catch a cold 感冒，瞬间动作
+have a cold 感冒，持续动作 // How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
 have a fever 发烧
 have a cough 咳嗽
 
@@ -153,7 +214,6 @@ in hospital 住院 ---------- // 指病人
 in the hospital 在医院 ---- // 不一定是病人
 // go to hospital
 // go to the hospital
-
 
 
 I feel nauseous 我觉得恶心

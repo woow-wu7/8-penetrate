@@ -220,7 +220,7 @@ cherry 樱桃
 grape 葡萄 // TIPS: Pay attention to pronunciation.
 lemon 柠檬 // lemonade 柠檬水
 watermelon 西瓜
-pear 梨 // bear 熊
+pear 梨 // bear熊 // pea豌豆
 peach 桃子
 apple 苹果 // 注意发音
 pineapple 菠萝

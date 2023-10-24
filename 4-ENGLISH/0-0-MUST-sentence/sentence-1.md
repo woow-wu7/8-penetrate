@@ -1,9 +1,10 @@
 # Must Sentence
 
 ```
-[][][][][][][] 锤子 典礼 生气 国外 社交 光线 方便
+[][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
 Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
+// EE: 【Vaccine】: A substance that is put into the blood and that protects the body from a disease.
 // vaccine 疫苗
 // promote 促进 提升
 // virus 病毒
@@ -16,12 +17,12 @@ When you have a hammer, everything looks like a nail. 当你有一把锤子时�
 // -- wrench 扳手
 // -- french 法国人
 // -- wrist 手腕
-// wrench 扳手: A Frenchman holding a wrench. 一个法国人拿着一个扳手
+// wrench 扳手: [ A Frenchman holding a wrench. 一个法国人拿着一个扳手 ]
 // hammer 锤子: When you have a hammer, everything looks like a nail. 当你有一把锤子时，一切看起来都像钉子
 
 The ceremony was transmitted live by satellite to over fifty countries. 典礼通过卫星向五十多个国家进行了实况转播
 // ceremony 仪式 典礼
-// opening ceremony. 开学典礼
+// [ opening ceremony. 开学典礼 ]
 // Tomorrow is the opening ceremony. 明天是开学典礼
 // -- transmit 传输 v
 // -- transmitted 过去式和过去分词
@@ -46,8 +47,8 @@ She is moving abroad to make a fresh start. 她要移居国外，开始新的生
 // -- Take a semester abroad. 在国外度过一个学期
 // ---- foreign 外国的 adj
 // ---- foreigner 外国人
-// ---- foreign language. 外语
-// ---- foreign 外国的adj: You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语
+// ---- [ foreign language. 外语 ]
+// ---- foreign 外国的adj: [ You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语 ]
 // ---- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
 
 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次
@@ -141,8 +142,9 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 // -- form of art. 艺术形式
 // -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 
-6 subtracted from 9 is 3. ----- 9减6等于3
-9 minus 6 equals 3. ----------- 9减6等于3
+6 subtracted from 9 is 3. ---------------- 9减6等于3
+9 minus 6 equals 3. ---------------------- 9减6等于3
+If you subtract 6 from 9, you get 3. ----- 9减6等于3
 // subtract 减去 v
 // subtracted
 // -- subtract 减去v: If you subtract 3 from 5, you get 2.
@@ -153,8 +155,8 @@ The word 'fish' can be singular or plural. fish这个词可以是单数也可以
 // ---- minus/subtract
 // ---- times
 // ---- divided by
-// ---- greater than. 大于 // great 伟大的 巨大的
-// ---- less than. 小于
+// ---- [ greater than. 大于 ] // great 伟大的 巨大的
+// ---- [ less than. 小于 ]
 
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v
@@ -230,8 +232,8 @@ leaves are the plural form of a leaf. leaves是leaf的复数形式
 // leaves 叶子
 // leaf 叶子
 // The verb should be in the plural. 这个动词应该用复数形式
-// -- plural form. 复数形式
-// -- form of. ...的形式
+// -- [ plural form. 复数形式 ]
+// -- [ form of. ...的形式 ]
 // -- form of art. 艺术形式
 // -- Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 
