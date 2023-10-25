@@ -1,7 +1,21 @@
 # Must Sentence
 
 ```
+[][][][][][][] 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
+
+
+So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.
+所以，如果你觉得被困在公寓里，我强烈建议你找一个美丽的地方徒步旅行
+// 1. stuck 困于 陷入 卡住
+// -- be stuck in. 陷入 困于
+// -- I was stuck in the mud. 我被困在泥里了
+// -- [ in a bunch of trouble. 陷入一堆麻烦中 ]
+// 2. go for a hike. 去远足
+
+
+-------
+
 
 Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
 // EE: 【Vaccine】: A substance that is put into the blood and that protects the body from a disease.

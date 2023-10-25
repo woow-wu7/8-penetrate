@@ -1,14 +1,50 @@
 ###### (一) Sick
 
-- `medicine 内科 ------- medical department`
-- `surgery 外科 -------- surgical department`
+- `medicine 医疗的 内科 --------- medical department. 内科`
+- `surgery 外科手术 外科 -------- surgical department. 外科`
+- `English vocabulary related to illness 生病相关的英语词汇`
 
 ##### (1.1) Medicine Department 内科
 
 ```
+English vocabulary related to illness. 生病相关的英语词汇
+// relate 联系 把...联系起来
+// related 相关的adj 联系v时是relate的过去式
+// [ relate to. 与...相关 ]
+// -- Much of the crime in this area is related to drug abuse. 这一地区的许多犯罪都与吸毒有关
+// -- crime 犯罪
+// -- abuse 滥用 n/v
+
+How to explain your symptoms in English? 如何用英语解释你的症状？
+// explain 解释 说明 v
+
+
 1
-I have an appointment with Dr. Miller at 10 am.
-// 我预约了10点的米勒医生
+A: I would like to make an appointment to see Dr. William. 我想要预约看诊威廉医生
+B: I think I can fit you in tomorrow morning, at 9:00. 我想我可以帮你安排明天早上9点
+
+A: Have you visited Dr.William before? 你之前有看过威廉医生吗？
+B: This is my first time here. 我是出诊
+B: This is my first time in this hospital.
+
+A: OK. I'll need your ID, and please fill out your insurance information. 好的，我需要你的身份证件，并填写你的保险资料
+B: Is it possible to see a doctor today? 今天可以看诊吗？
+B: I need to see a doctor right away. It's an emergency. 我必须马上看医生，这是急诊
+// right away. 马上
+
+A: The doctor is performing surgery right now. 医生现在正在开刀
+A: The doctor is treating patients right now. 医生正在看诊
+A: There will be about a 15-minute wait, I's afraid. 恐怕要等15分钟左右
+A: When you are done with the forms, go to room 25. 填完表格请到25诊间
+A: The doctor will see you now. 你可以看医生了
+
+A: What seems to be the problem? 哪里不舒服？
+A: What brings you here? 为什么来看医生
+A: Could you describe your symptoms? 你能描述一下症状吗？
+
+1. I have an appointment with Dr. Miller at 10 am. // 我预约了10点的米勒医生
+I like to make an appointment. 我想预约一下
+Are you open on weekends? 你们周末开门吗？
 
 2
 Medical insurance card. 医保卡
@@ -19,9 +55,9 @@ Fill out the medical history form. 填写病史表
 // fill out. 填写
 
 4
-What seems to be the problem? 哪里不舒服
 What are your symptoms? 你有什么症状
 Could you describe your symptoms? 你能描述一下症状吗？
+What seems to be the problem? 哪里不舒服
 How long have you been like this? 这样持续多久了？// How long has this going on? 这样持续多久了？
 
 5
@@ -29,15 +65,46 @@ I fell dizzy. 我头晕
 I fell nauseous. 我感到恶心
 I fell breathless. 我呼吸不通畅
 I fell chilly. 我浑身发冷 // chilly 寒冷的adj
-I threw up this morning. 我早上吐了 // throw up 呕吐
+// 1. chilly
+// -- chill n寒冷 adj寒冷的
+// -- chilly adj寒冷的
+// -- snow hill. 雪山
+// ---- It's chilly today.
+// ---- There was a chill in the air this morning.
+// ---- I've put the beer in the fridge to chill. 我把啤酒放到冰箱里冰镇一下
+// ---- chill out! Don't be so angry. 冷静，别这么生气
+// ---- [ You can say 'chilly', which is slightly cold. 你可以说“很冷”，意思是有点冷 ] // slightly adv轻微 adv稍微
 
 6
-catch a cold 感冒，瞬间动作
-have a cold 感冒，持续动作
-have a fever 发烧
-have a cough 咳嗽
-have a sore throat. 嗓子疼
-have a runny nose. 流鼻涕
+I threw up this morning. 我早上吐了 // throw up 呕吐
+I catch a cold 感冒，瞬间动作
+I have a cold 感冒，持续动作
+I have a fever 发烧
+I have a cough 咳嗽
+I have a sore throat. 嗓子疼
+I have a runny nose. 流鼻涕
+-
+I have a headache. 头痛
+I have a toothache. 牙痛
+I have a backache. 背痛
+I have a stomachache. 胃痛
+-
+I have bad cramps. 抽筋
+I have a cramp in my arm. 手抽筋
+I have a cramp in my leg. 脚抽筋
+-
+I have a bad rash on my arm. 我手臂上长了严重的皮疹
+-
+I sprained my back. 闪到腰
+I sprained my ankle. 我扭伤了我的脚踝 // sprain 扭伤 ==============
+I twisted my ankle. 我扭伤了我的脚踝 // twist 扭伤 扭转 ============
+-
+I've been having a hard time hearing. 我耳鸣
+I've been having a hard time eating. 胃口不好
+I've been having a hard time sleeping. 失眠 // insomnia 失眠
+-
+I dislocated my shoulder. 我的肩膀脱臼了
+-
 // How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
 
 7
@@ -119,6 +186,7 @@ malaria 疟疾 n
 headache 头痛
 toothache 牙痛
 backache 背痛 // The only way to cure backache is to rest.
+stomachache 胃痛
 
 fever 发烧
 cough 咳嗽
@@ -132,6 +200,9 @@ allergic 过敏的 adj // be allergic to 对...过敏
 
 nauseous 恶心的 // 注意发音
 ill 生病的 // He coughed badly when he was ill.
+
+stiff neck. 落枕
+dislocation 脱臼
 
 flu 流行性感冒 流感
 symptom 症状 // Flu symptoms include a headache, a sore throat, and a fever
