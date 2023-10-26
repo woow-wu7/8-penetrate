@@ -8,6 +8,7 @@
 So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.
 所以，如果你觉得被困在公寓里，我强烈建议你找一个美丽的地方徒步旅行
 // 1. stuck 困于 陷入 卡住
+// -- stick -> 过去式stuck
 // -- be stuck in. 陷入 困于
 // -- I was stuck in the mud. 我被困在泥里了
 // -- [ in a bunch of trouble. 陷入一堆麻烦中 ]

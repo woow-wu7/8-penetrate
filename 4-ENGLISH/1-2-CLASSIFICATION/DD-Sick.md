@@ -3,8 +3,104 @@
 - `medicine 医疗的 内科 --------- medical department. 内科`
 - `surgery 外科手术 外科 -------- surgical department. 外科`
 - `English vocabulary related to illness 生病相关的英语词汇`
+-
+- `respiratory tract. 呼吸道`
+- `upper respiratory tract infection. 上呼吸道感染`
+-
+- `blood pressure. 血压`
+- `pulse 脉搏n 脉冲n`
+- `swollen 肿胀的adj 肿胀v`
+-
+- `blocked nose. 鼻塞`
+- `runny nose. 流鼻涕`
+-
+- `medicine 药 n`
+- `medication 药 n`
+-
+- `heart beat. 心跳`
+- `stethoscope 听诊器`
+-
+- `------------------ 一般用现在完成时描述症状 ------------------`
+- `the present perfect tense. 现在完成时`
+- `the simple present tense. 一般现在时`
 
-##### (1.1) Medicine Department 内科
+##### (1.1) Conversation - At the Doctor's Office
+
+- 一般用现在完成时描述症状
+
+```
+A: So, what can I do for you today?
+B: Well, I've been having these headaches, just behind my eyes.
+
+A: How long have you been having them?
+B: 【 For about a week now. 一周左右 】
+B: They aren't constant - they come and go, but they're really painful.
+
+A: Do you have a fever?
+B: No, I don't think so.
+
+A: Any respiratory symptoms? 有任何呼吸道症状？
+B: How do you mean?
+// -- 1
+// -- respiratory 呼吸的 adj
+// -- tract 道 地带
+// -- 【 respiratory tract. 上呼吸道 】
+// -- A cold is an infection of the upper respiratory tract. 感冒是上呼吸道的感染
+
+A: For example, do you have a blocked nose, a sore throat, a cough, or anything like that?
+B: No, nothing like that.
+// -- 1
+// -- block 块 堵塞
+// -- blocked 堵塞的adj 堵塞v时是过去式
+// -- 【 blocked nose. 鼻塞 】
+
+A: Is this first time you've had a problem like this?
+B: As far as I can remember, yeah. 我记得是这样的
+
+A: OK, please sit on the bed over here. 请坐在这边的床上
+A: I need to check your pulse and blood pressure. 我需要检查你的脉搏和血压
+A: I'll also need to check your lymph nodes to see if they're swollen. 我还要检查你的淋巴， 看看它们有没有肿胀
+// -- 1
+// -- pressure 压力 压强
+// --【 blood pressure. 血压 】
+// -- I need to have my blood pressure taken. 我需要量一下血压
+// -- This drug is used to lower blood pressure. 这种药用于降血压
+// -- 2
+// -- pulse 脉搏
+// -- 3
+// --【  swollen 肿胀的adj 肿胀v 】
+// -- 4
+// -- lymph 淋巴
+
+------- ------- ------- ------- ------- ------- -------
+
+1.
+In the dialogue, the doctor asked many questions. Can you remember any?
+- Typically, the doctor will ask about your symptoms, your medical history, and about medication which you're taking.
+- 通常，医生会询问你的症状，你的医疗史，以及你在服用什么药物
+// 1
+// -- typically 通常 adv
+// -- typical 通常的 adj
+// 2
+// -- medication 药
+// -- medicine 药
+- To ask about your symptoms, the doctor might ask，'do you have a fever?'
+- 医生可能会用如下的方式询问你的症状
+- 【 specific symptom. 特定症状 】
+
+
+2.
+If you are describing your symptoms, it's common to use the present perfect tense.
+// 我们通常会使用现在完成时去描述症状
+
+especially for a problem that appears repeatedly. 特别是反复出现的症状
+// especially 特别地 adv
+// 1. especially for a problem that appears repeatedly. 特别是反复出现的症状
+// 2. I like food, but I especially like sandwiches. 我喜爱食物，尤其是三明治
+// 3. She loves all sports, especially swimming. 她喜爱各种运动，尤其是游泳
+```
+
+##### (1.2) Medicine Department 内科
 
 ```
 English vocabulary related to illness. 生病相关的英语词汇
@@ -18,10 +114,10 @@ English vocabulary related to illness. 生病相关的英语词汇
 How to explain your symptoms in English? 如何用英语解释你的症状？
 // explain 解释 说明 v
 
-
 1
 A: I would like to make an appointment to see Dr. William. 我想要预约看诊威廉医生
 B: I think I can fit you in tomorrow morning, at 9:00. 我想我可以帮你安排明天早上9点
+B: Please queue up to register. 请排队挂号
 
 A: Have you visited Dr.William before? 你之前有看过威廉医生吗？
 B: This is my first time here. 我是出诊
@@ -83,6 +179,7 @@ I have a fever 发烧
 I have a cough 咳嗽
 I have a sore throat. 嗓子疼
 I have a runny nose. 流鼻涕
+I have a blocked nose. 鼻塞
 -
 I have a headache. 头痛
 I have a toothache. 牙痛
@@ -180,7 +277,7 @@ malaria 疟疾 n
 // A new advance has been made in the control of malaria. 在控制疟疾方面已取得新的进展
 ```
 
-##### (1.2) All
+##### (二) All
 
 ```1111111
 headache 头痛
@@ -409,7 +506,7 @@ be allergic to 对...过敏
 My shoulders are stiff 我肩膀疼
 ```
 
-##### (二) Microorganism 微生物 // micro organism
+##### (三) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
