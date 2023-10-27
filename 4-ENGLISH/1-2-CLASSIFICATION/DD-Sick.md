@@ -1,11 +1,19 @@
 ###### (一) Sick
 
 - `medicine 医疗的 内科 --------- medical department. 内科`
-- `surgery 外科手术 外科 -------- surgical department. 外科`
+- `surgery 外科手术 外科 -------- surgical department. 外科 // surgeon 外科医生`
 - `English vocabulary related to illness 生病相关的英语词汇`
+-
+-
+- `surgeon 外科医生`
+- `specialist 专家 专科医生`
+- `paramedic 护理人员`
+- `nurse 护士`
+-
 -
 - `respiratory tract. 呼吸道`
 - `upper respiratory tract infection. 上呼吸道感染`
+- `lower respiratory tract infection. 下呼吸道感染`
 -
 - `blood pressure. 血压`
 - `pulse 脉搏n 脉冲n`
@@ -13,20 +21,44 @@
 -
 - `blocked nose. 鼻塞`
 - `runny nose. 流鼻涕`
--
-- `medicine 药 n`
-- `medication 药 n`
+- `specific symptom. 特定症状`
 -
 - `heart beat. 心跳`
 - `stethoscope 听诊器`
 -
+- `medicine 药 n --------- 更全面`
+- `medication 药 n ------- 特定的药物 // prescription medication. 处方药`
+- `medicate 给...用药 用药物治疗 // How to medicate certain illnesses. 如何治疗某些疾病 // certain 某些 某事 某人`
+-
+- `pharmacy 药店 // drugstore 药店`
+- `prescribe 开处方v`
+- `prescription 处方n 药方n`
+- `prescription medication. 处方药 --- 处方药的范围较窄，所以用medication而不用medicine`
+- `You can't buy prescription medication without a doctor's prescription. 没有医生的处方，你无法购买处方药`
+-
 - `------------------ 一般用现在完成时描述症状 ------------------`
 - `the present perfect tense. 现在完成时`
 - `the simple present tense. 一般现在时`
+-
+- `Do you fell any better? 你感觉好些了吗`
+- `I feel nauseous 我觉得恶心 // I feel dizzy头晕. // I feel breathless.呼吸不畅 // I feel chilly.寒冷`
+- `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏`
+- `Let me feel your forehead. 让我摸摸你的额头`
+- `There are several different types of headaches. but the most common is a migraine. 有几种不同类型的头痛。但最常见的是偏头痛`
+-
+- `I burned my tongue. 我烫伤了舌头 // burn 燃烧 // burned 燃烧的adj 燃烧v时是过去式`
+- `I burned my hand with hot water. 今天我的手被热水烫伤了`
+-
+- `You're choking on your water. 被水呛到了 // choke 呛 窒息`
+
+- `prick 扎破 刺`
+- `needle 针 针头`
+- `She pricked her finger on a needle. 她的手指被针扎破了`
 
 ##### (1.1) Conversation - At the Doctor's Office
 
 - 一般用现在完成时描述症状
+- `The doctor might do some basic checks on you. 医生会在你身上做一些基本检查`
 
 ```
 A: So, what can I do for you today?
@@ -39,27 +71,28 @@ B: They aren't constant - they come and go, but they're really painful.
 A: Do you have a fever?
 B: No, I don't think so.
 
-A: Any respiratory symptoms? 有任何呼吸道症状？
+A:【 Any respiratory symptoms? 有任何呼吸道症状？ 】
 B: How do you mean?
 // -- 1
 // -- respiratory 呼吸的 adj
 // -- tract 道 地带
 // -- 【 respiratory tract. 上呼吸道 】
+// -- 【 upper respiratory tract infection. 上呼吸道感染 】
 // -- A cold is an infection of the upper respiratory tract. 感冒是上呼吸道的感染
 
-A: For example, do you have a blocked nose, a sore throat, a cough, or anything like that?
+A: For example, 【 do you have a blocked nose 】, a sore throat, a cough, or anything like that?
 B: No, nothing like that.
 // -- 1
 // -- block 块 堵塞
 // -- blocked 堵塞的adj 堵塞v时是过去式
 // -- 【 blocked nose. 鼻塞 】
 
-A: Is this first time you've had a problem like this?
+A: 【 Is this first time you've had a problem like this? 】
 B: As far as I can remember, yeah. 我记得是这样的
 
 A: OK, please sit on the bed over here. 请坐在这边的床上
-A: I need to check your pulse and blood pressure. 我需要检查你的脉搏和血压
-A: I'll also need to check your lymph nodes to see if they're swollen. 我还要检查你的淋巴， 看看它们有没有肿胀
+A: I need to check your 【 pulse 】 and 【 blood pressure 】. 我需要检查你的脉搏和血压
+A: I'll also need to check your lymph nodes to see if they're 【 swollen 】. 我还要检查你的淋巴， 看看它们有没有肿胀
 // -- 1
 // -- pressure 压力 压强
 // --【 blood pressure. 血压 】
@@ -98,9 +131,51 @@ especially for a problem that appears repeatedly. 特别是反复出现的症状
 // 1. especially for a problem that appears repeatedly. 特别是反复出现的症状
 // 2. I like food, but I especially like sandwiches. 我喜爱食物，尤其是三明治
 // 3. She loves all sports, especially swimming. 她喜爱各种运动，尤其是游泳
+
+3
+prescribe 开处方 v
+prescription 处方n 药方n
+// 【 prescribe 开处方v: The doctor prescribes medicine for you to take. 医生开药给你服用 】
+// 【 prescription 处方n: We had to wait for the pharmacist to make up her prescription. 我们不得不等药剂师给她配药 】
 ```
 
-##### (1.2) Medicine Department 内科
+##### (1.2) Prescribing Medicine and Giving Advice 开药给意见
+
+```
+prescribe 开处方 v
+prescription 处方n 药方n
+// 【 prescribe 开处方v: The doctor prescribes medicine for you to take. 医生开药给你服用 】
+// 【 prescription 处方n: We had to wait for the pharmacist to make up her prescription. 我们不得不等药剂师给她配药 】
+
+A: Are you taking any medication/medicine currently? 你最近在服用什么药物吗？
+B: No, nothing.
+
+A: Any allergies? 有什么过敏吗？
+B: No.
+
+A: I'm going to prescribe you some painkillers. 我会给你开一些止痛药
+A: Take one as soon as you feel your headache staring. 只要头痛就吃一粒
+A: If you're still in pain after an hour, take a second one. 如果1小时后你还是痛，就吃第二粒
+A: Don't take more than two pills in four hours. 4个小时内不超过吃两粒
+A: or more than six pills in a 24-hour period. 或者24小时内别超过吃6粒
+A: Also, don't drink alcohol or take any other anti-inflammatories while you're takeing these. 还有吃这些药的时，不要喝酒，或者吃任何消炎药
+
+B: Can't you do some more tests? 不能再多做一些检查吗？
+B: What if it's something more serious? 如果有什么严重的病怎么办？
+
+A: if you're still having the same problem in two weeks, then we'll need to investigate further. 我们就需要做更多的检查
+A: These things often clear up by themselves. 这些症状通常会自己痊愈
+A: You should also make sure you get enough sleep, stay hydrated, and avoid stress if possible. 你应该确保你睡得足够多，多喝水，并且尽可能避免压力
+
+B: Do I have pay for the prescription? 我需要付处方费吗？
+A: You should a seven-pound prescription fee. 你需要付7磅的处方费
+A: I'm giving you enough pills to last four weeks, so you should have enough. 我给你开的药能吃4周，应该够了
+
+B: Can I take it to any chemist's? 处方能在别的药剂师那里用吗？
+A: Yes. of course. There's a pharmacy in the supermarket around the corner. You could get your medicine there. 街角的超市里就有药房，你可以在那里拿药
+```
+
+##### (1.3) Medicine Department 内科
 
 ```
 English vocabulary related to illness. 生病相关的英语词汇

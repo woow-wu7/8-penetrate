@@ -1,9 +1,24 @@
 # Must Sentence
 
 ```
-[][][][][][][] 远足
+[][][][][][][] 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
+The respiratory tract is responsible for the exchange of oxygen and carbon dioxide in the body. 呼吸道负责人体内氧气和二氧化碳的交换
+// 1. respiratory tract. 呼吸道
+// -- upper respiratory tract infection. 上呼吸道感染
+// -- lower respiratory tract infection. 下呼吸道感染
+// 2. responsible for. 为...负责
+// -- Lungs are the organs responsible for breathing. 肺是负责呼吸的器官
+// 3. oxygen 氧气
+// 4. carbon dioxide. 二氧化碳
+// -- carbon 碳 复写纸
+// -- dioxide 二氧化物
+// 5. exchange of. 交换
+
+She pricked her finger on a needle. 她的手指被针扎破了
+// prick 扎破 刺
+// needle 针 针头
 
 So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.
 所以，如果你觉得被困在公寓里，我强烈建议你找一个美丽的地方徒步旅行

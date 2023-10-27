@@ -280,12 +280,12 @@ bloodstream 血流 // blood血 stream流
 
 sow 播种
 seed 种子
-pollen 花粉
+pollen 花粉 // Many people would be allergic to pollen. 许多人对花粉过敏
 soil 土壤 // plant the seeds into the soil/ground. 把种子种到土壤里
 spire 尖顶
 propagate 繁殖 传播
 // He is sowing seeds into the soil. 他正在土里播种
-// Sow the seeds before they are spiring. 在种子发芽前进行播种
+// Sow the seeds before they are spiring. 在种子发芽前进行播种·
 // propagate 繁殖: 【 Most plants propagate by seed. 大多数植物通过种子进行繁殖 】
 
 a tour of. 参观
