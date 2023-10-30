@@ -1,13 +1,33 @@
 # Must Sentence
 
 ```
-[][][][][][][] 呼吸道 扎破 远足
+[][][][][][][] 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
+
+She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素
+// 1. diagnose 诊断 v
+// 1. diagnosis 诊断 n // They do a full body diagnosis. 他们做全身诊断
+// -- The test is used to diagnose a variety of disease. 此项化验可用于诊断多种疾病
+// -- The illness was diagnosed as cancer. 此病诊断为癌症
+// -- He was diagnosed a diabetic when he was 64. 他64岁时被诊断患有糖尿病
+// -- diabetic 糖尿病患者n  糖尿病的adj
+// -- She's a diabetic. 她患有糖尿病
+// 2. be diagnosed with. 被诊断为...
+// -- He was diagnosed with lung cancer. 他被诊断为肺癌
+// 3. upper respiratory tract infection. 上呼吸道感染
+// 4. lower respiratory tract infection. 下呼吸道感染
+// 5. prescribe 开处方 v
+// 6. antibiotic 抗生素 n
+// -- The doctor gave me a prescription for antibiotics. 医生给我开了抗生素
 
 The respiratory tract is responsible for the exchange of oxygen and carbon dioxide in the body. 呼吸道负责人体内氧气和二氧化碳的交换
 // 1. respiratory tract. 呼吸道
 // -- upper respiratory tract infection. 上呼吸道感染
 // -- lower respiratory tract infection. 下呼吸道感染
+// -- She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic.
+// -- 她被诊断出有上呼吸道感染，并被开了抗生素
+// -- antibiotic 抗生素
+// -- antibiotic resistance. 抗生素耐药性
 // 2. responsible for. 为...负责
 // -- Lungs are the organs responsible for breathing. 肺是负责呼吸的器官
 // 3. oxygen 氧气

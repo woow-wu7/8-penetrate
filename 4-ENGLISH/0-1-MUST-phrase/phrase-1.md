@@ -3,6 +3,10 @@
 ```
 spoken English. 英语口语
 
+first of all. 首先
+that sort of thing. 诸如此类
+fall over. 摔倒
+
 add up. 合乎情理 说的通
 lying 说谎n 躺v
 // Her story didn't add up, I think she's lying. 她的故事不合逻辑，我认为她在撒谎

@@ -5,18 +5,42 @@
 - `English vocabulary related to illness 生病相关的英语词汇`
 -
 -
-- `surgeon 外科医生`
-- `specialist 专家 专科医生`
-- `paramedic 护理人员`
+- `surgeon 外科医生` // surgery 外科手术
+- `specialist 专科医生 专家` // My doctor referred me to a specialist. 我的医生将我转介给一位专家
+- `pediatrician 儿科医生` // We need to take our son to see the pediatrician. 我们需要带我们的儿子去看小儿科医生
+- `doctor 医生`
 - `nurse 护士`
+- `paramedic 护理人员` // A person whose job is to help people who are sick or injured, but who is not a doctor or a nurse.
+- `pharmacist 药剂师`
 -
 -
 - `respiratory tract. 呼吸道`
 - `upper respiratory tract infection. 上呼吸道感染`
 - `lower respiratory tract infection. 下呼吸道感染`
+- The respiratory tract is responsible for the exchange of oxygen and carbon dioxide in the body. 呼吸道负责人体内氧气和二氧化碳的交换
+-
+- `first aid. 急救`
+- `first aid kit. 急救箱` // kit 工具箱
+- `just in case. 以防万一`
+- Bring a first aid kit just in case. 带上急救箱以防万一
+- You should know how to do basic first aid. 你应该知道如何进行基本的急救
+-
+- `antibiotic 抗生素`
+- `antibiotic resistance. 抗生素耐药性`
+- `She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素`
+- `diabetic 糖尿病`
+- `asthma 哮喘`
+- `cramp 抽筋n 使抽筋v`
+- `weak 虚弱的`
+-
+- `pass out. 晕倒`
+- `If you lose too much blood, you can pass out and worse things can happen. 如果失血过多，您可能会昏倒，并且可能会发生更糟糕的事情`
 -
 - `blood pressure. 血压`
 - `pulse 脉搏n 脉冲n`
+- `vein 静脉`
+- `artery 动脉`
+-
 - `swollen 肿胀的adj 肿胀v`
 -
 - `blocked nose. 鼻塞`
@@ -28,7 +52,7 @@
 -
 - `medicine 药 n --------- 更全面`
 - `medication 药 n ------- 特定的药物 // prescription medication. 处方药`
-- `medicate 给...用药 用药物治疗 // How to medicate certain illnesses. 如何治疗某些疾病 // certain 某些 某事 某人`
+- `medicate 给...用药v 用药物治疗v // How to medicate certain illnesses. 如何治疗某些疾病 // certain 某些 某事 某人`
 -
 - `pharmacy 药店 // drugstore 药店`
 - `prescribe 开处方v`
@@ -42,20 +66,50 @@
 -
 - `Do you fell any better? 你感觉好些了吗`
 - `I feel nauseous 我觉得恶心 // I feel dizzy头晕. // I feel breathless.呼吸不畅 // I feel chilly.寒冷`
-- `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏`
-- `Let me feel your forehead. 让我摸摸你的额头`
-- `There are several different types of headaches. but the most common is a migraine. 有几种不同类型的头痛。但最常见的是偏头痛`
+- `Let me feel your forehead. 让我摸摸你的额头 // forehead 额头 前额`
 -
-- `I burned my tongue. 我烫伤了舌头 // burn 燃烧 // burned 燃烧的adj 燃烧v时是过去式`
-- `I burned my hand with hot water. 今天我的手被热水烫伤了`
+- **`I'd like to make an appointment with Dr.Brown, please. 我想和布朗医生预约一下`** // with xxx
+- **`I would like to make an appointment to see Dr. William. 我想要预约看诊威廉医生`** // to see xxx
 -
-- `You're choking on your water. 被水呛到了 // choke 呛 窒息`
-
+- **`I'm a patient of Dr.Brown. 我是布朗医生的病人`**
+-
+- **`The meeting has been scheduled for Monday's afternoon. 会议定于星期一下午举行`**
+- **`physical examination. 体检`**
+- **dosage 剂量**
+  - dosage 剂量
+  - Instruction: The instructions on the bottle or on the container tells you the dosage, how much to take. 瓶子或容器上的说明告诉您剂量、服用量
+  - Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
+-
+- `How long have you had these symptoms? 你出现这些症状多久了`
+- `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏 // pollen 花粉`
+- `There are several different types of headaches. but the most common is a migraine.` // migraine 偏头痛
+- `I've been running a lot more lately. 最近跑步次数多了`
+- `I burned my tongue. 我烫伤了舌头` // burn 燃烧 // burned 燃烧的 adj 燃烧 v 时是过去式
+- `I burned my hand with hot water. 今天我的手被热水烫伤了` // scald 烫伤
+- `You're choking on your water. 被水呛到了` // choke 呛 窒息
+- `I keep sneezing. 我一直在打喷嚏`
+- `I have diarrhea. 我腹泻`
+- `I have a headache. --- I've got a terrible headache.`
+-
 - `prick 扎破 刺`
 - `needle 针 针头`
 - `She pricked her finger on a needle. 她的手指被针扎破了`
+-
+- fill out a lot of form. 填写很多表格
+- pay upfront. 预付款
+- reimburse 报销
+-
+- `urgent 紧急的 adj`
+- `emergency 紧急的 adj`
+- `urgent = emergency`
+-
+- `Just like you cheek in at a hotel, you cheek in at a hospital.`
+-
+- `medical expenses. 医疗费用`
+- `reimburse 报销`
+- `When you get back, our company will reimburse everything. 你回来的时候，公司就会给你报销`
 
-##### (1.1) Conversation - At the Doctor's Office
+##### (2.1) Conversation - At the Doctor's Office
 
 - 一般用现在完成时描述症状
 - `The doctor might do some basic checks on you. 医生会在你身上做一些基本检查`
@@ -139,7 +193,7 @@ prescription 处方n 药方n
 // 【 prescription 处方n: We had to wait for the pharmacist to make up her prescription. 我们不得不等药剂师给她配药 】
 ```
 
-##### (1.2) Prescribing Medicine and Giving Advice 开药给意见
+##### (2.2) Prescribing Medicine and Giving Advice 开药给意见
 
 ```
 prescribe 开处方 v
@@ -175,7 +229,7 @@ B: Can I take it to any chemist's? 处方能在别的药剂师那里用吗？
 A: Yes. of course. There's a pharmacy in the supermarket around the corner. You could get your medicine there. 街角的超市里就有药房，你可以在那里拿药
 ```
 
-##### (1.3) Medicine Department 内科
+##### (2.3) Medicine Department 内科
 
 ```
 English vocabulary related to illness. 生病相关的英语词汇
@@ -203,7 +257,7 @@ B: Is it possible to see a doctor today? 今天可以看诊吗？
 B: I need to see a doctor right away. It's an emergency. 我必须马上看医生，这是急诊
 // right away. 马上
 
-A: The doctor is performing surgery right now. 医生现在正在开刀
+A: The doctor is performing surgery right now. 医生现在正在开刀 // surgery外科手术  surgeon外科医生
 A: The doctor is treating patients right now. 医生正在看诊
 A: There will be about a 15-minute wait, I's afraid. 恐怕要等15分钟左右
 A: When you are done with the forms, go to room 25. 填完表格请到25诊间
@@ -218,11 +272,11 @@ I like to make an appointment. 我想预约一下
 Are you open on weekends? 你们周末开门吗？
 
 2
-Medical insurance card. 医保卡
+【 Medical insurance card. 医保卡】
 // insurance 保险
 
 3
-Fill out the medical history form. 填写病史表
+【 Fill out the medical history form. 填写病史表 】
 // fill out. 填写
 
 4
@@ -250,16 +304,17 @@ I fell chilly. 我浑身发冷 // chilly 寒冷的adj
 I threw up this morning. 我早上吐了 // throw up 呕吐
 I catch a cold 感冒，瞬间动作
 I have a cold 感冒，持续动作
-I have a fever 发烧
+I have a fever 发烧 // I have a slight fever. 我有轻微发烧 // slight 轻微的
 I have a cough 咳嗽
 I have a sore throat. 嗓子疼
 I have a runny nose. 流鼻涕
 I have a blocked nose. 鼻塞
 -
 I have a headache. 头痛
-I have a toothache. 牙痛
+I have a toothache. 牙痛 // you should really see the dentist rather than the doctor.
 I have a backache. 背痛
 I have a stomachache. 胃痛
+I have a tummy ache. = I tummy hurts. 肚子疼
 -
 I have bad cramps. 抽筋
 I have a cramp in my arm. 手抽筋
@@ -318,11 +373,11 @@ summarize 总结 v
 
 medical 内科的 adj
 surgical 外科的 adj
-// medicine 药n 内科n
-// surgery 外科手术n
+// medicine 药n 内科n 广泛的 // medication 药，范围较窄，比如【  prescription medication. 处方药 】
+// surgery 外科手术n // surgeon 外科医生
 
 tablet 药片
-pill 要玩
+pill 药丸
 capsule 胶囊
 
 pneumonia 肺炎 n
@@ -352,23 +407,30 @@ malaria 疟疾 n
 // A new advance has been made in the control of malaria. 在控制疟疾方面已取得新的进展
 ```
 
-##### (二) All
+##### (三) Body
+
+##### (四) All
 
 ```1111111
 headache 头痛
 toothache 牙痛
 backache 背痛 // The only way to cure backache is to rest.
 stomachache 胃痛
+tummy ache. 肚子疼
 
-fever 发烧
+fever 发烧 // I have a slight fever. 我有轻微发烧 // slight 轻微的
 cough 咳嗽
-sneeze 打喷嚏
+sneeze 打喷嚏 // I keep sneezing. 我一直在打喷嚏
 runny nose. 流鼻涕 // I have a runny nose. 我流鼻涕了
+blocked nose. 鼻塞
 blow one's nose. 擤鼻涕 // blow my nose.
 snore 打呼噜
 
 allergy 过敏 n
-allergic 过敏的 adj // be allergic to 对...过敏
+allergic 过敏的 adj
+// be allergic to 对...过敏
+// Many people would be allergic to pollen. 许多人对花粉过敏
+
 
 nauseous 恶心的 // 注意发音
 ill 生病的 // He coughed badly when he was ill.
@@ -520,7 +582,7 @@ bitter 味苦的 // sour sweet bitter spicy
 drugstore 药店
 Pharmacy 药店 // pharmacist 药剂师 // We had to wait for the pharmacist to make up her prescription.
 clinic 诊所 // in a clinic. // in a hospital
-ward 病房
+ward 病房 // war战争
 
 mask 口罩 面具 // I wear face mask 我做面膜
 bandage 绷带
@@ -531,7 +593,7 @@ wound 伤口n 受伤vt // 注意发音 // She has a small wound on her knee. // 
 case 案件 情况 病例
 
 X-ray. X射线
-X-ray film. X射线胶片
+【 X-ray film. X射线胶片 】
 detection 检测 n
 treatment 治疗 n // treat 治疗v，强调过程 // cure 治疗v，强调结果
 
@@ -543,19 +605,33 @@ illness 疾病 n
 operation 手术 经营
 surgery 外科手术 // We don't have to do surgery. 我们不用做手术了
 shot 注射 射击 // This shot will make you immune to all kinds of diseases. 这一针会让你对所有疾病免疫
+shoot 的过去式是 shot
 
 tummy hurts 肚子疼
 stomach hurts 胃疼
 
 catch a cold 感冒，瞬间动作
 have a cold 感冒，持续动作 // How long you have a cold? For nearly a week. 你感冒多久了？差不多一个星期
-have a fever 发烧
+have a fever 发烧 // I have a slight fever. 我有轻微发烧 // slight 轻微的
 have a cough 咳嗽
 have a runny nose. 流鼻涕
+have a blocked nose. 鼻塞
+-
+I have a headache. 头痛
+I have a toothache. 牙痛 // you should really see the dentist rather than the doctor.
+I have a backache. 背痛
+I have a stomachache. 胃痛
+I have a tummy ache. = I tummy hurts. 肚子疼
+-
+I have bad cramps. 抽筋
+I have a cramp in my arm. 手抽筋
+I have a cramp in my leg. 脚抽筋
+-
+I have a bad rash on my arm. 我手臂上长了严重的皮疹
 
 throw up 呕吐
 sore throat 嗓子疼
-joint pain 关节痛
+joint pain 关节痛 // joint 关节
 run at the nose 流鼻涕
 
 ill生病的
@@ -581,7 +657,7 @@ be allergic to 对...过敏
 My shoulders are stiff 我肩膀疼
 ```
 
-##### (三) Microorganism 微生物 // micro organism
+##### (四) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
@@ -632,7 +708,7 @@ Flu symptoms include a headache, a sore throat, and a fever. 流感的症状包�
 // -------------- cough 咳嗽 // He coughed badly when he was ill. 他生病时咳嗽的厉害
 // -------------- You coughed badly 你咳嗽的厉害
 // -------------- have a cough. 咳嗽
-// -------------- sneeze 打喷嚏
+// -------------- sneeze 打喷嚏 // I keep sneezing. 我一直在打喷嚏
 // -------------- classic 典型的 // classic symptoms 典型的症状
 // -------------- He has the classic symptoms of a code - the coughs and sneezes and sore throat. 他具备了感冒的所有典型症状，咳嗽，打喷嚏，和嗓子疼
 
