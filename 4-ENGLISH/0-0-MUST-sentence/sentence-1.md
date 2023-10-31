@@ -1,8 +1,16 @@
 # Must Sentence
 
 ```
-[][][][][][][] 抗生素 呼吸道 扎破 远足
+[][][][][][][] 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
+
+Doctors write prescriptions for medicine.
+A prescription tells a pharmacist what medicine a patient needs.
+It also tells the patient when to take the medicine.
+// 1. pharmacist 药剂师
+// EE: -- prescription 处方n:
+// ------ An official piece of paper on which a doctor writes the type of medicine you should have,
+// ------ and which enables you to get it from a pharmacy.
 
 She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素
 // 1. diagnose 诊断 v

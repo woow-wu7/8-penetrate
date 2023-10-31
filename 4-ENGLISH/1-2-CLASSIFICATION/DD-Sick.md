@@ -49,6 +49,7 @@
 -
 - `heart beat. 心跳`
 - `stethoscope 听诊器`
+- `otoscope 耳镜`
 -
 - `medicine 药 n --------- 更全面`
 - `medication 药 n ------- 特定的药物 // prescription medication. 处方药`
@@ -108,6 +109,92 @@
 - `medical expenses. 医疗费用`
 - `reimburse 报销`
 - `When you get back, our company will reimburse everything. 你回来的时候，公司就会给你报销`
+
+##### (一) Meet a Doctor
+
+```1111111 1.1
+1
+The Youngest patients
+// youngest 最年轻的
+
+【 Our class is on a mission. We want to find out what a doctor does. 我们班正在执行一项任务。我们想知道医生是做什么的 】
+// mission 任务 使命
+// on a mission. 执行任务
+
+We decide to talk to Dr.William. 【 He's a pediatrician. 】 That's a doctor who treats children.
+// pediatrician 儿科医生
+// surgeon 外科医生
+// specialist 专科医生
+// paramedic 护理人员
+// pharmacist 药剂师
+// EE: -- pediatrician 儿科医生: A specialist in the care of babies.
+
+"I help kids feel their best" Dr.William says.
+"How do you do that?" asks Jayden.
+【 Dr.William explains by telling us about his day. 威廉博士向我们讲述了他的一天 】
+
+Dr.William works in a clinic. He sees about twenty patients each day.
+They are babies, children, and teenagers. some are sick or hurt.
+"I find out what's wrong," he says. "They may need medicine. They may need to rest. sometimes they need to go to the hospital."
+
+【 Doctors write prescriptions for medicine. 】
+A prescription tells a pharmacist what medicine a patient needs.
+It also tells the patient when to take the medicine.
+// pharmacist 药剂师
+// EE: -- prescription 处方n:
+// ------ An official piece of paper on which a doctor writes the type of medicine you should have,
+// ------ and which enables you to get it from a pharmacy.
+
+Sick or injured children may see a specialist.
+A specialist is a doctor who treats on part of the body, such as the heart. some specialists are also pediatricians.
+// EE: -- specialist 护理人员: An expert who is devoted to one occupation or branch of learning. 专门从事某一职业或某一学科的专家
+// ------ devote to. 贡献给
+// ------ occupation 工作 职业
+// ------ branch of learning. 学科
+
+"I went to the hospital when I was little. But It's better now"
+"Good!" Dr.William says. "That's our goal. we want you to be healthy so you can reach your goals too"
+"My goal is to be a tightrope walker" // tightrope 绷紧的绳索
+```
+
+```2222222 1.2
+2
+checkup 检查
+
+"I went to thee doctor when I wasn't sick," Katya says.
+"That's good" Dr.William says. "Kids should see a doctor once a year for checkups"
+
+He checks their ears.
+He listens to their hearts.
+【 He asks if they healthy food. 他问他们是否吃健康食品 】
+【 He asks if they run around. 】
+These things help kids stay well.
+
+Doctor examine ears with a tool called otoscope.
+They listen to the hear with a stethoscope.
+// otoscope: 耳镜
+// stethoscope: 听诊器
+
+【 Shots make you immune to some diseases. such as measles. 打针可以使你对某些疾病免疫。例如麻疹 】
+【 That means your body protects itself from the germs that cause the disease. 这意味着您的身体可以保护自己免受引起疾病的细菌的侵害 】
+// immune 有免疫力adj 免疫者n
+// measles 麻疹
+
+"Do you give kids shots?" 你给孩子们打针吗？
+"Nurses do," They know how to make the shots hurt less.
+
+【 My student learn to be doctors by seeing real patients. 我的学生通过看真实的病人来学习成为医生 】
+Experienced doctors teach them how to treat patients.
+
+"You probably had an x-ray." Dr.William holds one up.
+x-rays are pictures that show the bones and organs inside your body.
+But most of the time, these aren't needed during a visit to the doctor.
+
+We have to go to recess. 我们得去休息了
+Running around keeps us healthy.
+
+Because Dr.William lends a hand to help us feel our best, we give him a hand.
+```
 
 ##### (2.1) Conversation - At the Doctor's Office
 
