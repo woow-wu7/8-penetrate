@@ -1,8 +1,18 @@
 # Must Sentence
 
 ```
-[][][][][][][] 处方 抗生素 呼吸道 扎破 远足
+[][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
+
+
+The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
+// internal 内脏n 内部的adj
+// liver 肝脏
+
+The instructions on the bottle or on the container tells you the dosage, how much to take. 瓶子或容器上的说明告诉您剂量、服用量
+// dosage 剂量
+// instruction 说明 用法说明
+// Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
 
 Doctors write prescriptions for medicine.
 A prescription tells a pharmacist what medicine a patient needs.

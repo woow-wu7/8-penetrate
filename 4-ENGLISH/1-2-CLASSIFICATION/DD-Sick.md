@@ -22,19 +22,24 @@
 - `first aid. 急救`
 - `first aid kit. 急救箱` // kit 工具箱
 - `just in case. 以防万一`
-- Bring a first aid kit just in case. 带上急救箱以防万一
-- You should know how to do basic first aid. 你应该知道如何进行基本的急救
+- 【 Bring a first aid kit just in case. 带上急救箱以防万一 】
+- You should know how to do basic 【 first aid 】. 你应该知道如何进行基本的-急救
 -
 - `antibiotic 抗生素`
 - `antibiotic resistance. 抗生素耐药性`
 - `She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素`
-- `diabetic 糖尿病`
+- `diabetic 糖尿病患者n 糖尿病的adj`
+- `coma 昏迷`
+- He found her in a diabetic coma. 他发现她因糖尿病而昏迷
+-
 - `asthma 哮喘`
 - `cramp 抽筋n 使抽筋v`
 - `weak 虚弱的`
 -
 - `pass out. 晕倒`
 - `If you lose too much blood, you can pass out and worse things can happen. 如果失血过多，您可能会昏倒，并且可能会发生更糟糕的事情`
+- I know why you pass out from time to time. 我知道你为什么有时昏迷
+- time to time. 不时的 时常
 -
 - `blood pressure. 血压`
 - `pulse 脉搏n 脉冲n`
@@ -57,7 +62,7 @@
 -
 - `pharmacy 药店 // drugstore 药店`
 - `prescribe 开处方v`
-- `prescription 处方n 药方n`
+- `prescription 处方n 药方n` // prescription medication. 处方药
 - `prescription medication. 处方药 --- 处方药的范围较窄，所以用medication而不用medicine`
 - `You can't buy prescription medication without a doctor's prescription. 没有医生的处方，你无法购买处方药`
 -
@@ -78,15 +83,16 @@
 - **`physical examination. 体检`**
 - **dosage 剂量**
   - dosage 剂量
-  - Instruction: The instructions on the bottle or on the container tells you the dosage, how much to take. 瓶子或容器上的说明告诉您剂量、服用量
-  - Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
+  - instruction 说明 用法说明
+  - 1.【 The instructions on the bottle or on the container tells you the dosage, how much to take. 】瓶子或容器上的说明告诉您剂量、服用量
+  - 2. Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
 -
 - `How long have you had these symptoms? 你出现这些症状多久了`
-- `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏 // pollen 花粉`
+- `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏` // pollen 花粉
 - `There are several different types of headaches. but the most common is a migraine.` // migraine 偏头痛
 - `I've been running a lot more lately. 最近跑步次数多了`
 - `I burned my tongue. 我烫伤了舌头` // burn 燃烧 // burned 燃烧的 adj 燃烧 v 时是过去式
-- `I burned my hand with hot water. 今天我的手被热水烫伤了` // scald 烫伤
+- `I burned my hand with hot water. 今天我的手被热水烫伤了` // I burned my hand with hot water. 今天我的手被热水烫伤了
 - `You're choking on your water. 被水呛到了` // choke 呛 窒息
 - `I keep sneezing. 我一直在打喷嚏`
 - `I have diarrhea. 我腹泻`
@@ -98,13 +104,14 @@
 -
 - fill out a lot of form. 填写很多表格
 - pay upfront. 预付款
-- reimburse 报销
+- reimburse 报销 // When you get back, our company will reimburse everything. 你回来的时候，公司就会给你报销
 -
 - `urgent 紧急的 adj`
 - `emergency 紧急的 adj`
 - `urgent = emergency`
 -
-- `Just like you cheek in at a hotel, you cheek in at a hospital.`
+- check in. 登记入住 办理手续
+- Just like you 【 cheek in 】 at a hotel, you 【 cheek in 】 at a hospital.
 -
 - `medical expenses. 医疗费用`
 - `reimburse 报销`
@@ -127,7 +134,7 @@ We decide to talk to Dr.William. 【 He's a pediatrician. 】 That's a doctor wh
 // specialist 专科医生
 // paramedic 护理人员
 // pharmacist 药剂师
-// EE: -- pediatrician 儿科医生: A specialist in the care of babies.
+// EE: -- 【  pediatrician 儿科医生: A specialist in the care of babies. 】
 
 "I help kids feel their best" Dr.William says.
 "How do you do that?" asks Jayden.
@@ -166,7 +173,7 @@ checkup 检查
 
 He checks their ears.
 He listens to their hearts.
-【 He asks if they healthy food. 他问他们是否吃健康食品 】
+【 He asks if they eat healthy food. 他问他们是否吃健康食品 】
 【 He asks if they run around. 】
 These things help kids stay well.
 
@@ -516,12 +523,14 @@ snore 打呼噜
 allergy 过敏 n
 allergic 过敏的 adj
 // be allergic to 对...过敏
-// Many people would be allergic to pollen. 许多人对花粉过敏
+// Many people would be allergic to pollen. 许多人对花粉过敏 // pollen 花粉
 
 
 nauseous 恶心的 // 注意发音
 ill 生病的 // He coughed badly when he was ill.
 
+sob 抽泣
+stiff 硬的 // soft 软的
 stiff neck. 落枕
 dislocation 脱臼
 
@@ -540,18 +549,19 @@ bear 忍受v 熊n
 
 sob 抽泣
 stiff 硬的 // soft 软的
+stiff neck. 落枕
 
 saliva 唾液 n
 // EE: 【saliva】: The liquid that is produced in your mouth that helps you to swallow food.
 
 internal 内脏n 内部的adj
 liver 肝脏
-// The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
+// 【 The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏 】
 
 organ 器官 机构
 tissue 组织 纸巾 // issue 问题n 公布vt // This is tissue paper. 这是纸巾
-// These organs are formed by tissues. 这些器官是由组织组成的
-// Substance like water has three different forms. 物质三种形态
+// 【 These organs are formed by tissues. 这些器官是由组织组成的 】
+// 【  Substance like water has three different forms. 物质三种形态 】
 
 liver 肝脏 // live 居住 生活 活着 活的adj 直播adv // The largest internal organ in a human body is the liver.
 kidney 肾脏 // kid 小孩n 开玩笑v 妹妹弟弟adj // She'd always loved animals since she was a little kid. 她从小就喜欢动物
@@ -563,6 +573,7 @@ vital 至关重要的 adj
 // The heart, brain, lungs are examples of vital organs in the human body. 心脏，大脑，肺等是人体的重要器官
 
 vein 静脉 血管
+artery 动脉
 flow 流动
 tube 管 管子
 blood 血
@@ -573,7 +584,7 @@ blood 血
 protein 蛋白质 n
 meat 肉
 meet 遇见
-// You can get protein from eggs, beans, and meat. 你可以从鸡蛋，豆类中获取蛋白质
+// 【 You can get protein from eggs, beans, and meat. 你可以从鸡蛋，豆类中获取蛋白质 】
 
 tummy 肚子
 stomach 胃
@@ -620,10 +631,11 @@ spine 脊柱
 backbone 脊柱 骨干
 
 nerve 神经
-// nerve cells. 神经细胞
+// 【 nerve cells. 神经细胞 】
 
 slim 苗条的adj 变苗条vt 艾滋病n // She retains her slim figure and is free of wrinkles. 她保持着苗条的身材，脸上也没有皱纹
 obesity 肥胖 n // 注意发音 // The man suffers from obesity and lives an unhealthy lifestyle.
+
 blind 失明的adj 使变瞎vt 窗帘n // blind/curtain 窗帘bl
 deaf 聋的adj 使变聋vt
 
@@ -640,8 +652,13 @@ Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗
 infect 传染 感染// 注意发音
 // EE: 【infect】: To make a disease or an illness spread to a person, an animal or a plant.
 // you will infect others.
-// I was infected by her.
-// He was infected with the virus.
+// -- You are sick! Put the mask on, or you will infect others. 你生病了，把口罩带上，不然你会传给别人的
+// -- be infected with + 被感染的疾病
+// -- be infected by + 人或者动物(感染源)
+// ---- I was infected by her. 我被她感染了
+// ---- Be careful not to be infected with flu. 小心别传染上流感
+// ---- you will infect others. 你会传给别人的
+// ---- He was infected with the virus. 他被这种病毒感染了
 
 virus 病毒 // He was infected with the virus. // This virus is really dangerous.
 bacteria 细菌 // You can't see bacteria without a microscope. // telescope // microscope
