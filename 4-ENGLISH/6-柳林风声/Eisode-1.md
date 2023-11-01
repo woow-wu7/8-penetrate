@@ -28,6 +28,18 @@ He rolled in the grass. He chased the butterflies
 ------- ------- -------
 
 
+run up. 奔跑向上
+// He run up the stair to catch the train. 他跑上楼梯去赶火车
+// 1. run up to. 跑向 冲向
+// -- A young boy ran up to me, out of breath. 一个小男孩向我跑来，上气不接下气
+
+chase 追逐v/n
+footpath 人行道
+// 【 To chase your dreams. 去追逐你的梦想 】
+// 【 We gave chase along the footpath. 我们开始沿小路追赶 】
+// To chase your dreams. it's time for us to make a move! 追逐你的梦想。这一次我们该迈出脚步
+// The thieves were caught by police after a short chase. 经过短暂追捕，小偷被警察擒获。
+
 shout 叫 喊
 // 1. shout it out. 大声吼出来
 // 2. shout at. 对...大声喊
@@ -56,12 +68,6 @@ Everything was covered with a thick layer of dust. 所有的东西都覆盖着�
 // 4. thick 厚的
 // -- thin 薄的
 
-bucket 桶
-mop 拖把
-ladder 梯子
-bookcase 书架
-doorknob 门把手
-
 spot 斑点n
 spotless 非常洁净的 adj
 // 1. spotless: She keeps the house spotless. 她把家里收拾得一尘不染
@@ -69,6 +75,11 @@ spotless 非常洁净的 adj
 // 3. vision 视力 视野
 // It produces a blind spot in our field of vision. 它在我们的视野中产生了一个盲点
 
-chase 追逐v/n
-// The thieves were caught by police after a short chase. 经过短暂追捕，小偷被警察擒获。
+polish 磨光 抛光
+bucket 桶
+mop 拖把
+ladder 梯子
+bookcase 书架
+doorknob 门把手
+brush 刷 刷子
 ```
