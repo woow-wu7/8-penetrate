@@ -1,4 +1,4 @@
-# A private conversion
+# A private conversation
 
 - `private property. 私有财产`
 - `private conversation. 私人谈话` // private 私人的 adj
