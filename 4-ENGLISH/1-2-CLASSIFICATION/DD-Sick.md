@@ -144,6 +144,10 @@
 - `medical expenses. 医疗费用`
 - `reimburse 报销`
 - `When you get back, our company will reimburse everything. 你回来的时候，公司就会给你报销`
+-
+-
+- `external 外面的 外部的`
+- `This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷`
 
 ##### (一) Meet a Doctor
 

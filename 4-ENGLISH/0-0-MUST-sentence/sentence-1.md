@@ -50,6 +50,8 @@ The instructions on the bottle or on the container tells you the dosage, how muc
 // dosage 剂量
 // instruction 说明 用法说明
 // Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
+// -- sausage 香肠
+// -- dosage 剂量
 
 Doctors write prescriptions for medicine.
 A prescription tells a pharmacist what medicine a patient needs.
