@@ -1,8 +1,28 @@
 # Must Sentence
 
 ```
+[][][][][][][] 灰尘
 [][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
+
+
+Everything was covered with a thick layer of dust. 所有的东西都覆盖着厚厚的一层灰
+// 1. dust 灰尘n 拂去灰尘v
+// -- dusty 灰尘多的 adj
+// -- London was hot and dusty. 伦敦很热而且灰尘多
+// 2. a layer of. 一层
+// -- a layer of dust. 一层灰尘 // a thick layer of dust. 一层厚厚的灰
+// -- a layer of rock. 一层岩石
+// -- a layer of clay. 一层粘土
+// -- clay 粘土
+// -- 【 After the wind. there was a layer of dust on the desk. 大风过后，桌上落了一层灰 】
+// 3. be covered with sth. 被...覆盖
+// -- The mountain is covered with forests. 山上长满了树木
+// 4. thick 厚的
+// -- thin 薄的
+
+
+------- ------- -------
 
 
 The largest internal organ in a human body is the liver. 人体最大的内脏是肝脏
@@ -68,7 +88,7 @@ So if you feel stuck in your apartment, I highly suggest that you find somewhere
 // 2. go for a hike. 去远足
 
 
--------
+------- ------- -------
 
 
 Vaccine can promote body's ability against virus. 疫苗可以增强身体抵抗病毒的能力
@@ -106,7 +126,7 @@ She was mad at her husband for forgetting her birthday. 她因为她的丈夫忘
 // ---- I failed the test, and my mom was mat about that. 我考试不及格，我妈妈很生气
 
 
--------
+------- ------- -------
 
 
 She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
@@ -153,7 +173,7 @@ I'm afraid to ask my boss for a pay raise. 我害怕向老板要求加薪
 // 4. pay raise. 加薪
 
 
--------
+------- ------- -------
 
 
 nomad is a person who moves from place to place rather than settling down and living in one area.
@@ -179,7 +199,7 @@ Nina was unhappy with her current job. Nina并不满意她现在的工作
 // be unhappy with sth/sb. 不满意某人或某物
 
 
--------
+------- ------- -------
 
 
 You can slide on the screen to unlock your phone. 你可以在屏幕上滑动来解锁你的手机
@@ -217,14 +237,17 @@ If you subtract 6 from 9, you get 3. ----- 9减6等于3
 // subtracted
 // -- subtract 减去v: If you subtract 3 from 5, you get 2.
 // -- divide 除以v: 10 divided by 2 equals 5.
-// -- times 乘以v: 2 times 3 equals 6.
+// ------- times 乘以v: 2 times 3 equals 6.
+// ------- multiply 乘以: 2 multiplied by 3 equals 6.
 // -- plus/add 加v: 2 plus/add 3 equals 5.
-// ---- add/plus
-// ---- minus/subtract
-// ---- times
-// ---- divided by
-// ---- [ greater than. 大于 ] // great 伟大的 巨大的
-// ---- [ less than. 小于 ]
+// - add/plus
+// - minus/subtract
+// - times/multiplied by
+// - times
+// - divided by
+// - multiplied by
+// ------- [ greater than. 大于 ] // great 伟大的 巨大的
+// ------- [ less than. 小于 ]
 
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v

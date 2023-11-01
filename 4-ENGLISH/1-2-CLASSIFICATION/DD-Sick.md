@@ -18,6 +18,8 @@
 - `upper respiratory tract infection. 上呼吸道感染`
 - `lower respiratory tract infection. 下呼吸道感染`
 - The respiratory tract is responsible for the exchange of oxygen and carbon dioxide in the body. 呼吸道负责人体内氧气和二氧化碳的交换
+- She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素
+-
 -
 - `first aid. 急救`
 - `first aid kit. 急救箱` // kit 工具箱
@@ -25,26 +27,43 @@
 - 【 Bring a first aid kit just in case. 带上急救箱以防万一 】
 - You should know how to do basic 【 first aid 】. 你应该知道如何进行基本的-急救
 -
+-
 - `antibiotic 抗生素`
 - `antibiotic resistance. 抗生素耐药性`
 - `She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素`
 - `diabetic 糖尿病患者n 糖尿病的adj`
 - `coma 昏迷`
-- He found her in a diabetic coma. 他发现她因糖尿病而昏迷
+- diabetic 糖尿病的: He found her in a diabetic coma. 他发现她因糖尿病而昏迷
+- coma 昏迷 n: She was in a coma for seven weeks. 她已经昏迷 7 个星期了
+-
+-
+- `vomit 呕吐物n 呕吐v`
+- vomit = throw up 呕吐
+- vomit 呕吐 v: The injured man was vomiting blood. 那受伤的人在吐血
+- vomit 呕吐 v: The smell made her want to vomit. 那气味使得她想要吐
+-
 -
 - `asthma 哮喘`
 - `cramp 抽筋n 使抽筋v`
 - `weak 虚弱的`
+- `mild 轻微的` // mild cough. 轻微的咳嗽
+- `pale 苍白`You look pale. 你脸色苍白
+- `diet 日常饮食`
+-
 -
 - `pass out. 晕倒`
 - `If you lose too much blood, you can pass out and worse things can happen. 如果失血过多，您可能会昏倒，并且可能会发生更糟糕的事情`
 - I know why you pass out from time to time. 我知道你为什么有时昏迷
 - time to time. 不时的 时常
 -
+-
 - `blood pressure. 血压`
 - `pulse 脉搏n 脉冲n`
-- `vein 静脉`
-- `artery 动脉`
+-
+- `vein 静脉` // Any of the tubes that carry blood from all parts of the body towards the heart.
+- `artery 动脉` // A blood vessel that carries blood from the heart to the body. // blood vessel. 血管
+- vessel 船舰 血管
+- blood vessel. 血管
 -
 - `swollen 肿胀的adj 肿胀v`
 -
@@ -81,11 +100,14 @@
 -
 - **`The meeting has been scheduled for Monday's afternoon. 会议定于星期一下午举行`**
 - **`physical examination. 体检`**
+-
+-
 - **dosage 剂量**
-  - dosage 剂量
-  - instruction 说明 用法说明
-  - 1.【 The instructions on the bottle or on the container tells you the dosage, how much to take. 】瓶子或容器上的说明告诉您剂量、服用量
-  - 2. Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
+- dosage 剂量
+- instruction 说明 用法说明
+- 1.【 The instructions on the bottle or on the container tells you the dosage, how much to take. 】瓶子或容器上的说明告诉您剂量、服用量
+- 2. Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
+-
 -
 - `How long have you had these symptoms? 你出现这些症状多久了`
 - `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏` // pollen 花粉
@@ -395,6 +417,7 @@ I fell chilly. 我浑身发冷 // chilly 寒冷的adj
 // ---- [ You can say 'chilly', which is slightly cold. 你可以说“很冷”，意思是有点冷 ] // slightly adv轻微 adv稍微
 
 6
+throw up = vomit 呕吐
 I threw up this morning. 我早上吐了 // throw up 呕吐
 I catch a cold 感冒，瞬间动作
 I have a cold 感冒，持续动作
@@ -502,6 +525,10 @@ malaria 疟疾 n
 ```
 
 ##### (三) Body
+
+```
+
+```
 
 ##### (四) All
 
@@ -733,6 +760,7 @@ I have a cramp in my leg. 脚抽筋
 -
 I have a bad rash on my arm. 我手臂上长了严重的皮疹
 
+vomit 呕吐
 throw up 呕吐
 sore throat 嗓子疼
 joint pain 关节痛 // joint 关节
