@@ -103,12 +103,47 @@ Just then, the telephone rang. It was my aunt Lucy.
 
 ##### (3) Extension 扩展
 
+##### (3.1) 一般现在时
+
 ```
-1
 一般现在时
+---
 
 I tell you a secret.
 He tells you a secret.
 【 Your friend tells you a secret. 】
 
+关键词
+1. every day.
+2. sometimes
+3. often always usually frequently never
+
+用法1. 表示现在经常习惯性的动作
+用法2. 表示现在的状态
+用法3. 表示永恒的状态
+- 科学事实
+- 客观真理
+- 名言警句
+- The earth moves around the sun.
+
+例句
+I never get up early on Sunday.
+I sometimes stay in bed until lunchtime.
+```
+
+##### (3.2) 现在进行时
+
+```
+现在进行时
+---
+
+关键词
+1. now
+
+用法1. 现在进行的事
+
+用法2. 表示将来确定要发生的事
+I am coming to see you.
+We are arriving at xxx station.
+The old man is dying.
 ```
