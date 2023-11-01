@@ -1,10 +1,27 @@
 # Must Sentence
 
 ```
-[][][][][][][] 灰尘
+[][][][][][][] 厌烦 灰尘
 [][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
+I was feeling bored, because the lesson was boring. 我感到很无聊，因为这节课很无聊
+// bore 厌烦v
+// bored 无聊的adj 厌倦的adj ---- 人的内在感受
+// boring 令人厌倦的adj --------- 事物给人带来的感觉
+// -- interesting / interested
+// -- tiring / tired
+// -- exciting / excited
+// -- relaxing / relaxed
+// -- surprising / surprised
+// 1. I'm interested in basketball. // be interested in.
+// 1. This book is very interesting.
+// 1. 【 We are interested in that interesting story. 我们对那个有趣的故事很感兴趣 】
+// -- 2. Traveling to America is very exciting.
+// -- 2. We are excited to her the news.
+// -- 2. I'm starting a new job next week. it's very exciting.
+// 3. This teacher is so bored.
+// 3. This teacher is so boring.
 
 Everything was covered with a thick layer of dust. 所有的东西都覆盖着厚厚的一层灰
 // 1. dust 灰尘n 拂去灰尘v

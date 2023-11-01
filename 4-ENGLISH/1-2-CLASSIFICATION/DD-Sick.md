@@ -21,6 +21,13 @@
 - She was diagnosed with an upper respiratory tract infection and was prescribed antibiotic. 她被诊断出有上呼吸道感染，并被开了抗生素
 -
 -
+- `How long have you had these symptoms? 你出现这些症状多久了`
+- `Do you have an infection? 你有感染吗？`
+- `bacterial infection. 细菌感染` // ----- bacterial infection.
+- `viral infection. 病毒感染` // --------- viral infection.
+- If you have a bacterial infection you will need an antibiotic.
+-
+-
 - `first aid. 急救`
 - `first aid kit. 急救箱` // kit 工具箱
 - `just in case. 以防万一`
@@ -109,7 +116,6 @@
 - 2. Maybe, two pills per day, four pills per day, one pill after each meal. 每天两粒，每天四粒，每餐后一粒
 -
 -
-- `How long have you had these symptoms? 你出现这些症状多久了`
 - `be allergic to 对...过敏 // Many people would be allergic to pollen. 许多人对花粉过敏` // pollen 花粉
 - `There are several different types of headaches. but the most common is a migraine.` // migraine 偏头痛
 - `I've been running a lot more lately. 最近跑步次数多了`
