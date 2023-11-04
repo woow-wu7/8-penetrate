@@ -5,6 +5,14 @@
 [][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
+But learning to introduce yourself properly is incredibly important. 但学会正确地介绍自己非常重要
+// 1. proper 正确的adj 适当的adj
+//【 properly 正确地adv 适当地adv 】
+// 2. incredible 难以置信的adj
+// incredibly 令人难以置信adv 及其adv
+//【 incredibly important. 及其重要 】
+// 3. incredibly: To an artist, lines are incredibly important. 线，对画家来说真是太重要了
+
 I was feeling bored, because the lesson was boring. 我感到很无聊，因为这节课很无聊
 // bore 厌烦v
 // bored 无聊的adj 厌倦的adj ---- 人的内在感受
