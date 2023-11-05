@@ -202,3 +202,49 @@ virus 病毒
 // virus 病毒: 【 This software is designed to scan all new files for viruses. 该软件旨在扫描所有新文件是否有病毒 】
 // virus 病毒: The virus is still active in the blood. 病毒在血液中仍然活跃
 ```
+
+##### (四) Body
+
+##### (1) The Face Vocabulary
+
+```
+1. The Face Vocabulary
+
+hair 头发
+temple 太阳穴 寺庙
+forehead 前额
+-
+eyebrow 眉毛 // She raised a questioning eyebrow. 她怀疑地挑起眉头
+eyelash 睫毛
+eye 眼睛
+pupil 瞳孔 小学生
+-
+ear 耳朵
+cheek 脸颊
+-
+nose 鼻子
+nostril 鼻孔
+-
+mouth 嘴
+lip 嘴唇
+chin 下巴
+
+
+------ ------ ------
+
+
+eyebrow 眉毛
+eyebrow pencil. 眉笔
+sustain 遭受
+// 1. She had sustained a cut on his left eyebrow. 他的左眉留下了一处伤口
+// 2. The raised eyebrow. 扬起的眉毛
+// 3. She raised a questioning eyebrow. 她怀疑地挑起眉头
+
+eyelash 睫毛
+eyelash curler. 睫毛夹
+false eyelash. 假睫毛
+
+pupil 瞳孔 学生
+dilation 扩张 扩大
+// pupil dilation. 瞳孔扩张
+```
