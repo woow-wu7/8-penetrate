@@ -2,14 +2,14 @@
 
 ```
 colon 冒号
-semicolon 分号 // semi + colon
+semicolon 分号 // semi半 + colon
 -
 comma 逗号
 period 句号
 -
 question mark. 问号
 quotation mark. 引号 // single quotation mark. // double quotation mark.
-exclamation mark. 感叹号
+exclamation mark. 感叹号 // exclamation point. 感叹号
 -
 greater than. 大于 大于号
 less than. 小于 小于号 // five greater than four.
@@ -17,6 +17,14 @@ less than. 小于 小于号 // five greater than four.
 parenthesis 小括号
 square brackets. 中括号 方括号 // brackets 中括号 方括号
 curly brackets. 大括号 花括号
+-
+hyphen 连字符 -
+slash 斜线 /
+dollar sign. $
+-
+ellipsis 省略号
+underline 下划线
+arrow 箭头
 
 
 

@@ -23,7 +23,7 @@ cipher 密码
 ```
 OPTIONS
 - 用于获取目的资源所支持的 ( 请求方法 )
-- 返回报文的 ( 报文首部 - 响应头 ) 中包含 ( Allow ) 字段，值是所支持的请求方法
+- 返回报文的 ( 报文首部 - 响应头 ) 中包含 ( Allow ) 字段，值是-所支持的请求方法
 - 响应头 Allow: GET,POST
 - 应用: 比如 cors 设置跨域时，如果是非简单请求，就会先进行 options 请求
 - 扩展: cors请求时，非简单请求的options请求有三个作用: 1.Origin表示的白名单 2.Access-Control-Request-Method会用的HTTP方法 3.Access-Control-Request-Headers允许的头信息
@@ -77,7 +77,7 @@ CONNECT
 - http1.0
   - 无状态
   - 无连接
-- http1.0
+- http1.1
   - 长连接
   - 管道化
   - 缓存
@@ -99,6 +99,10 @@ HTTP1.0
 
 ```HTTP1.1
 HTTP1.1
+- 长连接
+- 管道化
+- 缓存
+- 断点续传
 ---
 
 (1) 长连接
@@ -117,8 +121,8 @@ HTTP1.1
 
 (3) 缓存处理
 - HTTP1.1新增 Cache-Control 字段
-    - http1.0  =>  expires           => 是一个绝对时间点，用GMT时间格式
-    - http1.1  =>  Cache-Control     => 是一个相时时间段，以秒为单位，可以设置 max-age private no-cache 等
+    - http1.0  =>  expires        => 是一个绝对时间点，用GMT时间格式
+    - http1.1  =>  Cache-Control  => 是一个相时时间段，以秒为单位，可以设置 max-age private/public no-cache 等
 - Cache-control: no-cache,private,max-age=123123
     - no-cache：不使用强缓存，使用协商缓存
     - max-age: 一个时间段，单位是秒
@@ -210,12 +214,13 @@ HTTP时货物
 
 ## (七) TCP 三次握手
 
+- https://juejin.cn/post/6844904085750038542
 - 1. 客户端 -> 服务端
-  - 标志位 SYN=1，序号 Seq=x，的 ( 链接包 )
+  - 标志位 SYN=1，序号 Seq=x，的 ( 建立链接的-包 )
   - 客户端状态: CLOSED -> SYN_SENT
   - 标志位 SYN=1，表示建立链接
 - 2. 服务端 -> 客户端
-  - 标志位 SYN=1，序号 Seq=y，确认号 Ack=x+1，的 ( 确认包 )
+  - 标志位 SYN=1，ACK=1, 序号 Seq=y，确认号 Ack=x+1，的 ( 确认包 )
   - 服务端状态: CLOSED -> SYN_RECEIVED
 - 3. 客户端 -> 服务器
   - 标志位 ACK=1，序号 Seq=x+1，确认号 Ack=y+1，的 ( 确认包 )
@@ -237,7 +242,7 @@ HTTP时货物
 ## (八) TCP 四次挥手
 
 - 1. 客户端 -> 服务端
-  - 标志位 FIN=1，序号 Seq=u，的 ( 释放包 )
+  - 标志位 FIN=1，序号 Seq=u，的 ( 释放链接的-包 )
   - 客户端状态: ESTABLISHED -> FIN_WAIT1
   - 表明的是: 客户端的报文发送完了，但是客户端还能 接收报文
 - 2. 服务端 -> 客户端
@@ -245,7 +250,7 @@ HTTP时货物
   - 服务端状态: ESTABLISHED 状态 => CLOSE_WAIT
 - 3. 服务端 -> 客户端
   - 标志位 FIN=1，ACK=1，序号 Seq=w，确认号 Ack=u+1，的 ( 释放包 )
-  - 服务端状态：CLOSEWAIT => LAST_ACK
+  - 服务端状态：CLOSE_WAIT => LAST_ACK
   - 表明的是：主动方(服务端)的报文发送完了，但是主动方(服务端)还是可以接收报文
 - 4. 客户端 -> 服务器
   - 标志位: ACK=1，序号 Seq=u+1，确认号 Ack=w+1 的 ( 确认包 )
@@ -254,8 +259,14 @@ HTTP时货物
 ## (九) HTTP 常见的状态码
 
 ```
-100 Continue 客户端应该继续请求，比如post请求就是分两段，header 和 data
+100 Continue 客户端应该继续请求，比如post请求就是分两段，header 和 data，即现发送header数据，返回100状态码后在继续发送data
 101 Switching Protocols 升级协议，切换协议
+
+// 100
+// - 1. POST产生两个TCP数据包，GET产生一个TCP数据包，
+// - 1. POST请求:
+//      - POST请求就是分两段，header 和 data，即先发送header数据，返回100状态码后，再继续发送data
+//      - 注意: 这两次请求都是post请求，( 不要和post跨域时，两次请求搞混 - 一次是options请求，一次是post请求 )
 
 200 ok
 204 No Content 请求成功，但没有资源可以返回
@@ -265,7 +276,7 @@ HTTP时货物
 302 Found 临时重定向，不需要修改之前保存的书签
 303 See Other 临时重定向，------------------------------- 应采用 GET 方法获取资源
 304 Not Modified 资源未被修改 --------------------------- 用户协商缓存
-307 Temporary Redirect 临时重定向，---------------------- 不需要从POST换成GET
+307 Temporary Redirect 临时重定向，---------------------- 不需要从 POST 换成 GET
 
 400 Bad Request 错误的请求，存在错误语法
 401 UnAuthorized 未授权
@@ -276,7 +287,7 @@ HTTP时货物
 
 500 Internet Server Error 服务端错误
 502 Bad Gateway 网关错误
-503 Service UnAvailable 服务哦过载
+503 Service UnAvailable 服务器过载
 504 Gateway Timeout 网关超时
 ```
 
@@ -298,6 +309,9 @@ HTTP时货物
 
 - HTTPS = HTTP + 加密 + 认证 + 完整性保护
 - 是在 ( 应用层 ) 和 ( 传输层 ) 之间加了 ( SSL 层 )
+- 特点
+  - 公钥加密，私钥解
+  - 私钥加密，公钥解
 - 加密方式
   - HTTPS 采用 ( 混合加密的方式 )，即 ( 对称加密 + 非对称加密 )
   - 交换密钥阶段: ------------ 使用非对称加密，安全得交换密钥 - 该密钥是对称加密通信时所需要的密钥，只有一个，双方共享
@@ -341,4 +355,79 @@ HTTP时货物
 ```
 http 80 // 注意不是8080
 https 443
+```
+
+## (十四) 浏览器从 输入 url 到 显示整个页面的全过程
+
+```
+url到页面显示的过程
+---
+
+1. DNS域名解析
+- DNS是 ( domain name system ) 域名系统的缩写
+- 将 域名 解析成 ip 地址
+  - 一个域名对应一个以上的ip地址
+- 为什么要将域名解析成ip地址？
+  - 因为 ( TCP/IP网络 ) 是通过 ( ip地址 ) 来确定 ( 通信对象 )，不知道ip就无法将消息发送给对方
+- DNS域名解析的过程：// 递归查询 和 迭代查询
+0. 先从DNS缓存中找，找不到再按照下面的方式查找
+1. ( 浏览器 ) 中查询 DNS 缓存，有则进入建立tcp链接阶段，下面同理
+2. ( 本机的系统 )中查询 DNS 缓存
+3. ( 路由器 ) 中查询 DNS 缓存
+4. ( 运营商服务器 ) 中查询 DNS 缓存
+5. 递归查询 // 根域名/一级域名/二级域名 ....blog.baidu.com
+  - .com
+  - .baidu
+  - blog
+  - 还未找到就报错
+- 优化
+  - 当第一次访问结束后，会 ( 缓存 ) ( 域名 和 IP 的映射 )
+  - 但是一个项目足够大时，可能 ( img的src是不同的域名的url ) ( style的link是不同域名的url )，这些都是要做 DNS域名 解析的
+  - 1. DNS预解析
+    - 1. meta标签: 用meta信息来告知浏览器, 当前页面要做DNS预解析 <meta http-equiv="x-dns-prefetch-control" content="on" />
+    - 2. link标签: 在页面 header 中使用 link 标签来强制对 DNS 预解析 <link rel="dns-prefetch" href="http://..." />
+  - 2. DNS缓存优化
+    - 1. 加本地 DNS 缓存的大小
+    - 2. 优化本地 DNS 缓存的清理策略
+  - 3. CDN域名加速
+    - CDN服务缩短了用户查看内容的访问延迟
+    - 将静态资源通过 CDN 进行加速，减少IP地址切换带来的影响，解决了网络带宽小、用户访问量大、网点分布不均等问题
+
+
+
+2. 建立tcp链接 // 三次握手
+- 第一次握手
+    - 客服端发送一个 标志位SYN=1,序号Seq=x的链接包给服务端
+        - SYN：表示发起一个新链接，( Synchronize Sequence Numbers )
+        - Seq：序号是随机的
+- 第二次握手
+    - 服务端发送一个 标志位SYN=1,ACK=1,确认号Ack=x+1,序号Seq=y的确认包给客户端
+    - 标志位 ACK 表示响应
+- 第三次握手
+    - 客户端发送一个 SYN=0,ACK=1,确认号Ack=y+1,序号Seq=x+1的确认包给服务器
+    - 为什么需要三次握手
+        - 之所以要第三次握手，主要是因为避免无效的连接包延时后又发送到服务器，造成服务器以为又要建立链接的假象，造成错误
+
+
+3. 客户端发送http请求
+4. 服务端处理请求，并返回http响应报文
+
+
+5. 浏览器解析渲染
+  - 遇见HTML标记，浏览器调用HTML解析器，解析成Token并构建DOM树
+  - 遇见style/link标记，浏览器调用css解析器，解析成CSSOM树
+  - 遇见script标记，浏览器调用js解析器，处理js代码（绑定事件，可能会修改DOM tree 和 CSSOM tree）
+  - 将DOM 和 CSSOM 合并成 render tree
+  - 根据render tree计算布局（布局）
+  - 将各个节点的颜色绘制到屏幕上（渲染）
+  - // 可以加上 repaint 和 reflow 相关的知识点
+
+
+
+6. 断开TCP链接 // 四次挥手，( FIN : 表示释放链接 )
+- 第一次挥手：浏览器发起，告诉服务器我请求报文发送完了，你准备关闭吧
+- 第二次挥手：服务器发起，告诉浏览器我请求报文接收完了，我准备关闭了，你也准备吧
+- 第三次挥手：服务器发起，告诉浏览器，我响应报文发送完了，你准备关闭吧
+- 第四次挥手：浏览器发起，告诉服务器，我响应报文接收完了，我准备关闭了，你也准备吧
+- 先是服务器先关闭，再是浏览器关闭
 ```
