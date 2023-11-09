@@ -1,5 +1,9 @@
 // 类型保护
-// - 主要就是缩小值类型的范围
+// - 主要作用就是 缩小 值类型的范围
+// - 类型谓词 is
+// - 类型断言 as
+// - typeof
+// - instanceof
 
 // 1
 // is - 类型谓词 - 类型保护
@@ -29,7 +33,7 @@ interface Fish {
   layEggs();
 }
 function isFish2(pet: Fish | Bird): pet is Fish {
-  // 类型谓词的作用: 当函数返回boolean类型的值时，如果返回true，那么pet就是Fish类型
+  // 类型谓词 is 的作用: 当函数返回boolean类型的值时，如果返回true，那么pet就是Fish类型
   return (<Fish>pet).swim !== undefined; // 返回值是boolean
   // return (pet as Fish).swim !== undefined 这两种写法都可以
 }

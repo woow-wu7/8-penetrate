@@ -14,18 +14,18 @@ interface Same {
 interface Same {
   name: string; // name 成员名和类型都一样，不报错
   age: string; // age 一个是number，一个是string，报错 ------- interface 声明合并，非函数成员，有同名成员时，类型必须一样
-  address: string; // 新的属性
+  address: number; // 新的属性
 }
 
 const objMerge: Same = {
   name: "",
   age: "", // 这里报错了
-  address: "",
+  address: 0,
 };
 
 // 1
 // interface 声明合并
-// - 函数成员: 每个同名函数声明都会被当成这个函数的一个重载。 同时需要注意，当接口 A与后来的接口 A合并时，后面的接口具有更高的优先级
+// - 函数成员: 每个 同名函数声明 都会被当成这个函数的一个重载。 同时需要注意，当接口 A与后来的接口 A合并时，后面的接口具有更高的优先级
 // - 非函数成员: 有同名成员时，类型必须一样
 // interface Cloner {
 //   clone(animal: Animal): Animal;
@@ -54,6 +54,7 @@ type TMerge = {
   age: string;
 };
 type TMerge = {
+  age: string;
   address: string;
 };
 

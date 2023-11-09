@@ -8,7 +8,7 @@ class Cons {
 
   // 实例属性:
   // - 这样声明的属性是-实例属性，相当于在constructor中通过 this.pub = 2 声明
-  public pub = 2; // ------- public 公共属性 可以在任何地方访问
+  public pub = 2; // ------- public 公共属性 可以在任何地方访问 ( 声明它的类内部 子类 实例 中都能被访问 )
   private pri = 3; // ------ private 私有属性 只能在声明它的 ( 类内部 ) 访问
   protected pro = 4; // ---- protected 保护属性 只能在声明它的 ( 类 及其 子类 ) 中访问
 

@@ -14,19 +14,41 @@
 
 // 推荐使用 unknown 而不是 any
 
+
+// 1
+// unknown
+const unk: unknown = 1;
+const product = unk * unk; // --------------------------- 报错，unknown在使用时必须指定 具体的类型
+const product2 = (unk as number) * (unk as number); // -- 正确  as是类型断言
+
+
+// 2
+// any
+const unk2: any = 2;
+const product3 = unk2 * unk2; // ------------------------ 正确，any不会进行类型检查
+
+
 // 英语
 // 和 sum
 // 差 difference
 // 积 product
 // 商 quotient
 
-// 1
-// unknown
-const unk: unknown = 1;
-const product = unk * unk; // --------------------------- 报错，unknown在使用时必须指定 具体的类型
-const product2 = (unk as number) * (unk as number); // -- 正确
-
-// 2
-// any
-const unk2: any = 2;
-const product3 = unk2 * unk2; // ------------------------ 正确，any不会进行类型检查
+// 6 subtracted from 9 is 3. ---------------- 9减6等于3
+// 9 minus 6 equals 3. ---------------------- 9减6等于3
+// If you subtract 6 from 9, you get 3. ----- 9减6等于3
+// subtract 减去 v
+// subtracted
+// -- subtract 减去v: If you subtract 3 from 5, you get 2.
+// -- divide 除以v: 10 divided by 2 equals 5.
+// ------- times 乘以v: 2 times 3 equals 6.
+// ------- multiply 乘以: 2 multiplied by 3 equals 6.
+// -- plus/add 加v: 2 plus/add 3 equals 5.
+// - add/plus
+// - minus/subtract
+// - times/multiplied by
+// - times
+// - divided by
+// - multiplied by
+// ------- [ greater than. 大于 大于符号 ] // great 伟大的 巨大的
+// ------- [ less than. 小于 小于符号 ]

@@ -114,7 +114,12 @@ public private protected 的区别？
 - private 私有属性 --- 只能在声明它的 ( 类中 ) 访问到 --------- 不能在 ( 声明它的类 ) 的 ( 外部 ) 使用，比如 ( 子类 实例 子类实例 都不能访问 )
 - protected 保护属性 - 只能在声明它的 ( 类 和 子类 ) 中访问到 -- 实例不能访问，子类实例不能访问，即 ( 实例不能访问，但是子类可以访问 )
 - 注意: 这三个属性，都是以 P 开头，方便记忆
-- 详见: 本项目/1-FRONTEND/2-TS/7-public-private-protected.ts
+- 详见:
+  - 7
+  - 本项目/1-FRONTEND/2-TS/7-public-private-protected.ts
+// private property. 私有财产
+// private conversation. 私人谈话
+// personal privacy. 个人隐私
 
 
 (三)
@@ -150,7 +155,7 @@ never 和 void 的区别
   - 表示
     - 永远不存在的值类型
   - 详见
-    - 4.2
+    - 3.2
     - 本项目/1-FRONTEND/2-TS/3.2-Never类型.ts
 - void 和 never 的区别
     - void: void 类型的值可以是 undefined 或 null

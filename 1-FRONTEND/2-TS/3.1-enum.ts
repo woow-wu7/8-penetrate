@@ -178,7 +178,7 @@ const ColorEnum = {
 } as const
 // 相当于
 const ColorEnum: {
-  readonly Green: 'GreenValue'
+  readonly Green: 'GreenValue' // 只读属性 - 属性名前用 readonly 来指定只读属性，interface接口中同理
   readonly Blue: 'BlueValue'
   readonly Red: 'RedValue'
 }

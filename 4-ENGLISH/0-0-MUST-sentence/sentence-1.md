@@ -273,8 +273,8 @@ If you subtract 6 from 9, you get 3. ----- 9减6等于3
 // - times
 // - divided by
 // - multiplied by
-// ------- [ greater than. 大于 ] // great 伟大的 巨大的
-// ------- [ less than. 小于 ]
+// ------- [ greater than. 大于 大于符号 ] // great 伟大的 巨大的
+// ------- [ less than. 小于 小于符号 ]
 
 The experienced captain can cope with the dangerous situation and find a solution. 经验丰富的船长能够应付这种危险情况并找到解决办法
 // experience 经验n 体验v
