@@ -123,7 +123,7 @@
   - 传输慢，可靠
   - 全双工
 
-# 扩展 - 有哪些常见的请求头和响应头
+# 扩展 - 有哪些常见的 - 请求头 和 响应头
 
 - **缓存相关**
   - 强缓存: ( 请求头 Expires Cache-Control )
@@ -132,10 +132,16 @@
   - 简单请求
     - 请求头
       - Accept Accept-Language Content-Language Last-Event-Id
-      - Content-Type: application/x-www-form-urlencoded
-      - Content-Type: multipart/form-data
+      - Content-Type: application/x-www-form-urlencoded --------- 不能发送文件资源
+      - Content-Type: multipart/form-data ----------------------- 可以发送文件资源
       - Content-Type: text/plain
       - Origin
+      - ------ 分隔符 ------
+      - Accept
+      - Accept-Language
+      - Content-Language
+      - Last-Event-ID
+      - Content-Type：只限于三个值 application/x-www-form-urlencoded、multipart/form-data、text/plain
     - 响应头
       - Access-Control-Allow-Origin
       - Access-Control-Allow-Credentials

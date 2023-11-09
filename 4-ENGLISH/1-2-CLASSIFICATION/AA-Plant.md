@@ -363,8 +363,10 @@ virus 病毒
 quantifier 量词
 noun 名词
 pronoun 代词
+-
 verb 动词
 adverb 副词
+-
 adjective 形容词
 preposition 介词
 plural 复数 // The verb should be in the plural. 这个动词应该用复数形式

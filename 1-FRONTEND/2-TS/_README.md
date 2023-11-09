@@ -33,12 +33,28 @@ tsc --version 打印编译器的版本信息
 一些单词
 ---
 
-infer 推断 推论 // 在 ts 中是一个关键字，表示待推断的类型。详见 (3.10) infer
-implements 实现 // extends implements
+infer 推断 推论
+// 在 ts 中是一个关键字，表示待推断的类型
+// 详见 (3.10) infer
 
-implicit 隐式的 adj // adjective 形容词 // noImplicitAny 有隐含any类型时是否报错
-composite 合成 // "references": [{ "path": "./tsconfig.node.json" }] 引入的文件配置的 "composite": true 必须是true
-interop 互相操作 // esModuleInterop=true，表示node环境也可以使用 import，而不是只能 require
+implements 实现
+// extends implements
+
+implicit 隐式的 adj
+// noImplicitAny 有隐含any类型时是否报错
+// - noun 名词
+// - pronoun 代词
+// - verb 动词
+// - adverb 副词
+// - adjective 形容词
+// - preposition 介词
+// - quantifier 量词
+
+composite 合成
+// "references": [{ "path": "./tsconfig.node.json" }] 引入的文件配置的 "composite": true 必须是true
+
+interop 互相操作
+// esModuleInterop=true，表示node环境也可以使用 import，而不是只能 require
 ```
 
 ```三

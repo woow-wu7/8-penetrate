@@ -13,9 +13,11 @@
 // 2
 // as - 类型断言
 // 类型断言有两种方式
+// 类型断言好比其它语言里的类型转换，但是不进行特殊的数据检查和解构。 它没有运行时的影响，只是在编译阶段起作用
+// let someValue: any = "this is a string";
 // - let strLength: number = (someValue as string).length;
 // - let strLength: number = (<string>someValue).length;
-// - 唯一区别是，在JSX中，尖扩号与JSX语法冲突，只能使用as关键字
+// - 唯一区别是，在JSX中，尖扩号 与 JSX 语法冲突，只能使用 as 关键字
 
 interface Bird {
   fly();
