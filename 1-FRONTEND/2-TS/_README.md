@@ -173,16 +173,17 @@ enum Enu {
 }
 type People4 = keyof typeof Enu; // 'A' | 'B' ++++++ key
 type People5 = `${Enu}`; // "2" | "3" ++++++++++++++ value
+// `` 为 模版字符串 语法
 
 5.2
 数组类型 和 元组类型 获取每个 成员类型
 type TArr1 = string[];
 type TArr2 = [number, boolean, undefined];
 type a = TArr1[number]; // 相当于: type a = string
-type b = TArr2[number]; // 相当于: type b = number | boolean | undefined
+type b = TArr2[number]; // 相当于: type b = number | boolean | undefined，注意是联合类型
 
 5.3
-获取数组类型 的长度
+获取数组类型 的 长度
 type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 // type TLen = tesla['length']
 // 相当于 type TLen = 4
@@ -201,7 +202,8 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 - ReturnType
 - InstanceType
 - Uppercase Lowercase
-- 类型体操详见: 本项目/1-FRONTEND/2-TS/2-类型体操
+- 1.详见: 1-FRONTEND/2-TS/2-泛型工具类型.ts
+- 2.类型体操详见: 本项目/1-FRONTEND/2-TS/2-类型体操
 
 ### (1) Record
 
@@ -219,7 +221,7 @@ Record
 
 例1
 type roles = 'tester' | 'developer' | 'manager'
-const staffCount: Record<roles, number> = {
+const staffCount: Record<roles, number> = { // 第一个参数 (最终) 是一个联合类型，第二参数是具体的类型
   tester: 10,
   developer: 20,
   manager: 30
@@ -438,6 +440,8 @@ const person: Readonly<Person> = {
   age: 18
 }
 person.age = 20; // 报错，无法分配到 "age" ，因为它是只读属性。ts(2540)
+// 扩展
+// 除了使用 Readonly<Person>能做到只读外，也可以直接设置 interface Person { readonly name: string; }
 ```
 
 ### (7) ReadonlyArray
@@ -482,16 +486,11 @@ Parameters
   - type Parameters<T extends (...args: any) => any> = T extends (...args: infer P) =>  any ? P : never
 ---
 
-function fn8(arg: { a: number; b: string }): void {}
+function fn8(name: string, rest: { a: number; b: string }): void {}
 
 type TP1 = Parameters<typeof fn8>;
 // 相当于
-// type TP1 = [
-//   arg: {
-//     a: number;
-//     b: string;
-//   }
-// ];
+// type TP1 = [name: string, rest: { a: number; b: string; }]
 ```
 
 ### (9) ReturnType
@@ -525,7 +524,7 @@ type T18 = ReturnType<Function>;  // Error
 
 ```
 InstanceType
-- 获取构造函数类型的实例类型
+- 获取 构造函数类型的 实例类型
 - InstanceType的实现
 type InstanceType<T extends new (...args: any[]) => any> = T extends new (
    ...args: any[]

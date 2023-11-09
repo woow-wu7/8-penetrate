@@ -1,11 +1,12 @@
 // 关键字
-// keyof T ------------- 索引类型查询操作符 -> 返回 T 上已知公共属性名的 联合类型 // ----------- 详见 1-FRONTEND/2-TS/2.1.1-keyof.ts
+// keyof T ------------- 索引类型查询操作符 -> 返回 T 上已知的公共属性名的 联合类型 // --------- 详见 1-FRONTEND/2-TS/2.1.1-keyof.ts
 // in ------------------ 1.类型中使用: 遍历 枚举类型，联合类型 2.对象中使用: 遍历对象的属性 // -- 详见 1-FRONTEND/2-TS/2.1.3-in.ts
 // typeof -------------- 获取一个 变量 或 对象 的类型
 // T[K] ---------------- 索引访问操作符 // ----------------------------------------------- 详见 1-FRONTEND/2-TS/2.1.2-T[K].ts
 // extends ------------- 1.继承(用于interface表示继承) 2.表示条件类型，可用于条件判断. // ----- 详见 1-FRONTEND/2-TS/2.1.4-extends.ts
 
 // 1
+// keyof
 interface People {
   name: string;
   age: number;
@@ -55,6 +56,20 @@ type TTest2 = {
 //   age: boolean;
 // }
 
+// -------
+
+// 注意区分
+type TTest11 = {
+  [K in keyof typeof ENumber]: boolean;
+}
+// 相当于
+// type TTest11 = {
+//   [x: number]: boolean;
+//   readonly AA: boolean;
+//   readonly BB: boolean;
+// }
+
+
 // 2.3
 // in 遍历 联合类型2
 type TP = "name" | "age";
@@ -97,6 +112,9 @@ interface IObj {
 let obj1: IObj;
 type TObj = keyof typeof obj1; // 相当于 type TObj = 'attr1' | 'attr2'
 const tobj: TObj = "attr1";
+// - 所以这里 keyof typeof interface/enum 都是可以的
+// - 即 interface 和 enum 通过 typeof 返回类型后，都可以用 keyof 获取 keys映射的联合类型 
+// - 联合类型 和 枚举 又都可以用 in 来遍历
 
 // 3.2
 // - 详见 1-FRONTEND/2-TS/2.1.1-keyof.ts

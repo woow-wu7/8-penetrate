@@ -16,3 +16,11 @@ class CStaff {
   protected sex: string = ""; // --- protected 能在 ( 类，子类 ) 中访问，不能在 ( 实例 ) 上访问
 }
 type TS2 = keyof CStaff; // 相当于 type TS2 = "name"，只能返回 ( 返回 T 上已知公共属性名的 联合类型 )，即 private 和 protected 都遍历不到
+
+// 3
+// 结合 in 一起看
+// 详见
+// - 2.1
+// - 2.1.1
+// - 2.1.3
+// - 1-FRONTEND/2-TS/2.1-keyof-in-typeof-extends-T[K].ts

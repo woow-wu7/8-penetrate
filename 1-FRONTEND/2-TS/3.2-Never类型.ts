@@ -2,8 +2,8 @@
 
 // 1
 // - 赋值
-//    - 其他任意类型都 不能 赋值给 never类型
-//    - never 可以赋值给 其他任意类型
+//    - 1. 其他任意类型都 不能 赋值给 never类型
+//    - 2. never 可以赋值给 其他任意类型
 const throwErr = () => {
   throw new Error("error");
 };

@@ -1,5 +1,5 @@
 // in
-// 1.类型中使用: 遍历 联合类型, 枚举类型
+// 1.类型中使用: 遍历 联合类型 和 枚举类型
 // 2.对象中使用: 遍历对象的属性
 
 // 1
@@ -27,6 +27,9 @@ type TAA2 = {
 
 // 3
 // 遍历枚举类型
+// 详见: 
+//  - 2.1
+//  - 1-FRONTEND/2-TS/2.1-keyof-in-typeof-extends-T[K].ts
 enum EColor {
   red = 999,
   blue,
@@ -34,8 +37,14 @@ enum EColor {
 type EColor2 = {
   [P in EColor]: number;
 };
+type EColor22 = {
+  [p in keyof EColor]: number
+}
 type EColor3 = {
   [P in keyof typeof EColor]: number;
+};
+type EColor33 = {
+  [P in keyof typeof EColor]: string;
 };
 type EColor4 = keyof typeof EColor; // key ------- type EColor4 = "red" | "blue"
 type EColor5 = `${EColor}`; // value ------------- type EColor5 = "999" | "1000" // 注意: 这里 number 会转成 string

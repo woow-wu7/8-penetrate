@@ -6,6 +6,12 @@ interface Color2 {
   red: string;
   yellow: string;
 }
+enum color3 { // 枚举可以作为 ( 类型 )，也可以作为 ( 值 )
+  one = 1,
+  two,
+  three
+}
+type color4 = [number, string, symbol]
 
 // 1
 // Record
@@ -13,12 +19,18 @@ interface Color2 {
 // - Record 的实现详见: 本项目/2-FRONTEND/2-TS/_README.md
 // -- keyof 是 索引类型查询 操作符， 返回 T 上已知的公共属性名的 联合类型
 // -- T[K] 是 索引访问 操作符，Color2["red"] = string
-type TRecord1 = Record<Color1, boolean>;
+type TRecord1 = Record<Color1, boolean>; // 鼠标 hover 查看具体的类型
 type TRecord2 = Record<keyof Color2, boolean>;
 type TRecord3 = Record<keyof Color2, Color2["red"]>;
 type TRecord4 = Record<Color1, Color2>;
 type TRecord5 = Record<string, any>; // key是string类型，value是any类型
 type TRecord6 = Record<keyof any, any>; // key是string | number | symbol，value是any类型
+// --- 分割线 ---
+type TRecord7 = Record<keyof typeof color3, string> // 相当于 type TRecord7 = { one: string; two: string; three: string; }
+type TRecord8 = Record<`${color3}`, string> // 相当于 type TRecord8 = { 1: string; 2: string; 3: string; }
+// --- 分割线 ---
+type TRecord9 = Record<color4[number], string> // 相当于 type TRecord9 = { [x: string]: string; [x: number]: string; [x: symbol]: string; }
+// --- 分割线 ---
 const record1: TRecord1 = {
   red: true,
   yellow: true,
@@ -126,6 +138,8 @@ const readonly1: Readonly<Color2> = {
   yellow: "",
 };
 readonly1.red = "11"; // 不能修改，只读，这里报错
+// 扩展
+// 除了使用 Readonly<Color2>能做到只读外，也可以直接设置 interface Color2 { readonly red: string; }
 
 // 7
 // ReadonlyArray
