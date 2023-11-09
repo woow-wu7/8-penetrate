@@ -2,6 +2,7 @@
 // 1.继承(用于interface表示继承)
 // 2.表示条件类型，可用于条件判断
 
+
 // ----------------------------------------------------------------
 // ----------------------------------------------------------------
 // 1
@@ -11,6 +12,8 @@ interface IExtended1 {
 }
 interface IExtended2 {
   age: number;
+  name: string; // IExtended3 不报错，因为 interface 存在 声明合并，1.非函数成员-同名属性类型必须一样，不一样会报错 2.函数成员为-函数重载
+  // name: number; // IExtended3 报错
 }
 interface IExtended3 extends IExtended1, IExtended2 {
   sex: "male" | "female";
@@ -23,11 +26,12 @@ const instanceExtended: IExtended3 = {
   sex: "male",
 };
 const instanceExtended2: IExtended1 & IExtended2 & IExtended3 = {
-  // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果
+  // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
   name: "",
   age: 1,
   sex: "male",
 };
+
 
 // ----------------------------------------------------------------
 // ----------------------------------------------------------------
@@ -35,9 +39,13 @@ const instanceExtended2: IExtended1 & IExtended2 & IExtended3 = {
 // 表示条件类型，可用于条件判断
 type A1 = "x" extends "x" ? 1 : 2; // type A1 = 1
 type A2 = "x" | "y" extends "x" ? 1 : 2; // type A2 = 2
+type A4 = "x" extends "x" | "y" ? 1 : 2; // type A4 = 1
 
+// 特例 特例 特例
+// 3 说明了原因
 type P<T> = T extends "x" ? 1 : 2;
-type A3 = P<"x" | "y">; // type A3 = 1 | 2
+type A3 = P<"x" | "y">; // type A3 = 1 | 2   
+
 
 // 3
 // 扩展
@@ -62,7 +70,7 @@ interface IBrandB extends IBrandA {
 let lAA: IBrandA = { name: "" };
 let lBB: IBrandB = { name: "", established: 0 };
 lAA = lBB; // 可以赋值
-lBB = lAA; // 不能赋值
+lBB = lAA; // 报错，不能赋值
 
 // 2
 // 联合类型

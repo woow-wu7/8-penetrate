@@ -8,12 +8,17 @@ interface IScore {
   en: string;
   ch: string;
 }
-type TScore = {
-  [P in keyof IScore]: number;
-};
 type TScore2 = {
   [P in keyof IScore]: P;
 };
+type TScore = {
+  [P in keyof IScore]: number;
+};
+// 等价于 type TScore = Record<keyof IScore, number>
+// 因为 Record 的实现如下
+// type TRecord<K extends keyof any, T> = {
+//   [P in K]: T;
+// };
 
 // 2
 // 遍历联合类型
