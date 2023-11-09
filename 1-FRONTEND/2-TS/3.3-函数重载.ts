@@ -17,10 +17,10 @@ fn(1).toFixed(); // 报错: 类型“string | number”上不存在属性“toFi
 
 // 例子2
 // - 函数重载
-function fn2(args: string): string; // -------------------- 函数签名
+function fn2(args: string): string; // -------------------- 函数签名 -------------- 多个函数签名
 function fn2(args: number): number;
 function fn2(args: string | number): number | string {
-  // ------------------------------------------------------ 实现签名 + 函数体
+  // ------------------------------------------------------ 实现签名 + 函数体 ------ 一个实现签名
   const type = typeof args;
   if (type === "string") return "1";
   return 1;
