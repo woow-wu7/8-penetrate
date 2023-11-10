@@ -1,3 +1,6 @@
+// infer
+// - infer: 推断 推理 v
+
 // 1
 // type ParamType<T> = T extends (arg: infer P) => any ? P : T;
 // - 表示: 如果 T 能赋值给 (arg: infer P) => any，则结果是返回 (arg: infer P) => any 类型中的参数 P，否则返回为 T
@@ -9,11 +12,11 @@ interface User {
 }
 type Func = (user: User) => void;
 type Param = MyParamType<Func>; // Param = User
-type AA = MyParamType<string>; // string，因为 T 不是 函数，所以返回值类型就直接是 T
+type AA = MyParamType<string>; // AA = string，因为 T 不是 函数，所以返回值类型就直接是 T
 
 // 2
 // type ReturnType<T> = T extends (...args: any[]) => infer R ? R : any;
-//  - 表示: 如果 T 能赋值给 (...args: any[]) => infer R，即T满足这样的函数签名，就返回  (函数的返回值类型R )，否则返回 ( any )
+//  - 表示: 如果 T 能赋值给 (...args: any[]) => infer R，即 T满足这样的函数签名，就返回  (函数的返回值类型R )，否则返回 ( any )
 //  - 其中infer表示: infer R 表示函数的返回值 类型
 type MyReturnType<T> = T extends (...args: any[]) => infer R ? R : any;
 type func = () => number;
@@ -28,5 +31,5 @@ type varReturnType = MyReturnType<variable>; // varReturnType 类型为 any，T�
 type MyFirst<T extends any[]> = T extends [infer F, ...any] ? F : never;
 type arr111 = ["a", "b", "c"];
 type arr222 = [3, 2, 1];
-type head111 = MyFirst<arr1>; // expected to be 'a'
-type head222 = MyFirst<arr2>; // expected to be 3
+type head111 = MyFirst<arr111>; // expected to be 'a'
+type head222 = MyFirst<arr222>; // expected to be 3

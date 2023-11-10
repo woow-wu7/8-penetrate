@@ -8,6 +8,34 @@
 # 前置知识
 
 ```一
+一些问题
+---
+
+1. readonly 和 const 的区别？
+2. type 和 interface 的区别？
+3. public private protected 的区别？
+4. void 和 never 的区别？
+5. any 和 unknown 的区别?
+6. enum 和 const enum 的区别?
+
+7. infer 关键字
+8. 如何通过 ( 数组类型T ) 获取数组长度？ ---- ( T['length'] 获取数组长度 ) // 1-FRONTEND/2-TS/2-类型体操/5-LengthOfTuple.ts
+9. 如何获取 ( 数组 或 元素 ) 的类型？------- ( Arr[number] 获取数组类型 ) // 1-FRONTEND/2-TS/2-类型体操/3-TupleToObject. // 详见5.2
+10. 如何获取 ( 枚举类型 ) 的 key 和 value ？
+-- key ( keyof typeof x -> 返回枚举x中所有key的 联合类型 )
+-- value ( `${x}` - 返回枚举x中的value的 联合类型 )
+-- 详见 1-FRONTEND/2-TS/2.1-keyof-in-typeof-extends-T[K].ts
+11. keyof any // 返回 string | number | symbol
+
+
+12. 泛型 泛型变量 泛型函数 泛型接口 泛型type 泛型类
+13. as类型断言  x!非空断言  const断言(as const)
+14. is类型谓词
+15. extends
+16. in keyof typeof
+```
+
+```二
 1
 安装 typescript
 - sudo npm install typescript -g
@@ -29,7 +57,7 @@ tsc 命令
 tsc --version 打印编译器的版本信息
 ```
 
-```二
+```三
 一些单词
 ---
 
@@ -55,27 +83,6 @@ composite 合成
 
 interop 互相操作
 // esModuleInterop=true，表示node环境也可以使用 import，而不是只能 require
-```
-
-```三
-一些问题
----
-
-1. readonly 和 const 的区别？
-2. type 和 interface 的区别？
-3. public private protected 的区别？
-4. void 和 never 的区别？
-5. any 和 unknown 的区别?
-6. enum 和 const enum 的区别?
-
-7. infer 关键字
-8. 如何通过 ( 数组类型T ) 获取数组长度？ ---- ( T['length'] 获取数组长度 ) // 1-FRONTEND/2-TS/2-类型体操/5-LengthOfTuple.ts
-9. 如何获取 ( 数组 或 元素 ) 的类型？------- ( Arr[number] 获取数组类型 ) // 1-FRONTEND/2-TS/2-类型体操/3-TupleToObject. // 详见5.2
-10. 如何获取 ( 枚举类型 ) 的 key 和 value ？
--- key ( keyof typeof x -> 返回枚举x中所有key的 联合类型 )
--- value ( `${x}` - 返回枚举x中的value的 联合类型 )
--- 详见 1-FRONTEND/2-TS/2.1-keyof-in-typeof-extends-T[K].ts
-11. keyof any // 返回 string | number | symbol
 ```
 
 # (一) Typescript 常见考点
@@ -1254,7 +1261,7 @@ fn2(1).toFixed(); // 没有报错了
 
 详见: 1-FRONTEND/2-TS/1-声明合并.ts
 
-```
+```6.1 1111111
 - 非函数成员
   - 接口的 ( 非函数成员 ) 应该是 ( 唯一 ) 的，如果不是唯一的，那么 ( 同名成员 ) 它们必须是 ( 相同的类型 )，否则会 ( 报错 )
 - 函数成员
@@ -1262,12 +1269,50 @@ fn2(1).toFixed(); // 没有报错了
   - 当接口 A 与后来的接口 A 合并时，后面的接口具有更高的优先级
 ```
 
+```6.1 2222222
+// 函数重载
+// - 包含: 函数签名 + 实现签名
+// - 资料: https://juejin.cn/post/7029481950691737630
+
+// 问题: 为什么需要函数重载？
+// 回答: 例子1中，我们调用 fn(1).toFixed() 报错，因为返回的值类型没有确定是number还是string
+// 解决: 函数重载，声明时，具体执行不同输入和返回值之间的对应关系，输入string返回string，输入number返回number
+
+// 例子1
+// - 未使用 函数重载
+function fn(args: string | number): number | string {
+  const type = typeof args;
+  if (type === "string") return "1";
+  return 1;
+}
+fn(1).toFixed(); // 报错: 类型“string | number”上不存在属性“toFixed”。类型“string”上不存在属性“toFixed”。
+
+// 例子2
+// - 函数重载
+function fn2(args: string): string; // -------------------- 函数签名 -------------- 多个函数签名
+function fn2(args: number): number;
+function fn2(args: string | number): number | string {
+  // ------------------------------------------------------ 实现签名 + 函数体 ------ 一个实现签名
+  const type = typeof args;
+  if (type === "string") return "1";
+  return 1;
+}
+fn2(1).toFixed(); // 没有报错了
+
+// 例子3
+// type AType = "name" | 1;
+// let resA = "name";
+// function fnA(arg: AType): arg is "name" {
+//   return typeof arg === "string";
+// }
+```
+
 # (七) public private protected 的区别？
 
 - 例子 本项目/1-FRONTEND/2-TS/7-public-private-protected.ts
 
 ```
-- public 公有属性 -------- 可以在 任何地方 访问到
+- public 公有属性 -------- 可以在 任何地方 访问到，---------------- ( 声明它的 类中，子类，实例 都能访问到 )
 - private 私有属性 ------- 只能在声明它的 ( 类中 ) 访问到 ---------- 不能在 ( 声明它的类 ) 的 ( 外部 ) 使用，比如 ( 子类 或 实例 或 子类实例 都不能访问 )
 - protected 保护属性 ----- 只能在声明它的 ( 类 和 子类 ) 中访问到 --- 实例不能访问，子类实例不能访问，即 ( 实例不能访问，但是子类可以访问 )
 ---
