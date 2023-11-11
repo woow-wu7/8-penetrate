@@ -5,6 +5,22 @@
 [][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
+
+Alcoholic drinks act as a poison to a child. 酒精饮料对小孩犹如毒
+// 1. poison 毒药
+// -- poison gas. 有毒气体
+// -- poison pill. 毒丸
+// 2. alcohol 酒精n
+// -- alcoholic 酒精的adj 酒鬼n
+// -- alcoholic drinks. 酒精饮品
+// 3. act as. 担任...的角色
+// -- can you act as interpreter? 你能担任口译吗？
+// -- interpreter 口译译员 解释程序
+
+
+------- ------- -------
+
+
 But learning to introduce yourself properly is incredibly important. 但学会正确地介绍自己非常重要
 // 1. proper 正确的adj 适当的adj
 //【 properly 正确地adv 适当地adv 】

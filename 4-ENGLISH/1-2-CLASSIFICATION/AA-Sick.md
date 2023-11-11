@@ -5,6 +5,12 @@
 - `English vocabulary related to illness 生病相关的英语词汇`
 -
 -
+- `swell 肿胀v 膨胀v`
+- `swell up. 肿胀`
+- You'd better walk around, or your feet will swell up. 你最好走一走，不然你的脚会肿起来的
+- Use ice to reduce the swelling. 用冰敷消肿
+-
+-
 - `surgeon 外科医生` // surgery 外科手术
 - `specialist 专科医生 专家` // My doctor referred me to a specialist. 我的医生将我转介给一位专家
 - `pediatrician 儿科医生` // We need to take our son to see the pediatrician. 我们需要带我们的儿子去看小儿科医生
@@ -45,7 +51,7 @@
 -
 -
 - `vomit 呕吐物n 呕吐v`
-- vomit = throw up 呕吐
+- vomit = throw up 呕吐 // vomit 书面语 throw up 口语
 - vomit 呕吐 v: The injured man was vomiting blood. 那受伤的人在吐血
 - vomit 呕吐 v: The smell made her want to vomit. 那气味使得她想要吐
 -
