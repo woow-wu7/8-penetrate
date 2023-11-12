@@ -1,25 +1,33 @@
 # Plants 植物
 
-##### The components of a tree
+# (一)
+
+##### (1.1) The components of a tree
 
 ```
 1
 root 根
-// The roots of a plant take in water and hold the plant in the soil.
+//【 The roots of a plant take in water and hold the plant in the soil. 】
 // -- take in. 吸收
 
 2
 stem 茎
-1. tree -> trunk
-2. plant -> stem
+1. tree -> trunk 树干
+2. plant -> stem 茎
 // A stem carries food and water through the plant. It holds up the plant.
 // So the stem is like the trunk of your body, it is the main part of the plant in many plants.
 // -- hold up. 举起 支撑
+// ---- stem 茎
+// ---- steam 水蒸气
+// ---- 1. stem cell. 干细胞
+// ---- 2. steam engine. 蒸汽机
+
 
 3
 leaf 叶子
 leaves ->  leaves are the plural form of a leaf. leaves是leaf的复数形式
 // A leaf takes in light and air. Leaves help the plant get food.
+// -- take in. 吸收
 // -- The verb should be in the plural. 这个动词应该用复数形式
 
 4
@@ -35,13 +43,34 @@ branch 树枝
 // A branch is an arm - like part of a tree.
 ```
 
-##### Life cycle of a plant
+##### (1.2) Life cycle of a plant
 
 - `Life Cycle. 生命周期`
 
 ```
 A life cycle is the series of changes occurring in an animal or plant. 生命周期是动物或植物发生的一系列变化
-// a series of test. 一系列测试
+// a series of tests. 一系列测试
+--
+a stick of incense. 一根香
+a series of test. 一系列测试
+a mass of books. 大量的书
+a tub of popcorn. 一桶爆米花
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
+--
+a handful of rice. 一把米
+a grain of rice. 一粒米
+a bowl of rice. 一碗米
+--
+a set of makeup. 一套化妆品
+a carton of milk. 一盒牛奶
+a cup of tea. 一杯茶
+a bottle of water. 一瓶水
+a glass of water. 一杯水
+a piece of leaf. 一片叶子
+a bunch of flowers. 一束花
+a roll of paper. 一卷纸
+a head of garlic. 一颗蒜
+a couple of socks. 一双袜子
 
 1
 seed 种子
@@ -56,7 +85,7 @@ seedling 幼苗
 
 3
 sprout 发芽
-// If a plant sprout, new leaves begin to grow on it. 如果植物发芽，新的叶子就会开始在其上生长
+// 【 If a plant sprout, new leaves begin to grow on it. 如果植物发芽，新的叶子就会开始在其上生长 】
 
 4
 seed coat. 种子的皮
@@ -66,7 +95,7 @@ seed coat. 种子的皮
 cone 圆锥 松果
 // A cone, That has many seeds, is the fruit of the pine tree. 松果，有许多种子，是松树的果实
 // -- cone 松果 圆锥
-// -- pine 松木
+// -- pine 松树
 
 6
 adult 成人n 成熟的adj
@@ -75,7 +104,7 @@ adult 成人n 成熟的adj
 // -- fully 完全的 adv
 ```
 
-##### What Plants Need to Grow
+##### (1.3) What Plants Need to Grow
 
 ```
 1
@@ -92,11 +121,11 @@ air
 
 3
 water
-// A liquid that is necessary for life. Water moves food to the parts of a plant.
+//【 A liquid that is necessary for life. Water moves food to the parts of a plant. 】
 
 4
 space
-// The area available for use. It there is space, a plant can gro big and strong.
+// The area available for use. It there is space, a plant can grow big and strong.
 
 5
 soil
@@ -107,9 +136,10 @@ warmth 温暖 暖和
 // warmth is the state or quality of being warm.
 ```
 
-###### (一) Plant // Plants
+# (一) Plant // Plants
 
 ```
+pine 松树
 yummy 美味的
 stem 茎 // TIPS: Pay attention to pronunciation.
 bud 花蕾
@@ -193,8 +223,8 @@ haul 拖 // haul away. 拖走
 // fertilizer 肥料:【 The tractor hauled the fertilizer away. 拖拉机把肥料拉走了 】// haul 拖
 
 pollen 花粉
-// pollen 花粉: These are like bees and other types of insects that help to spread pollen to different flowers.
-// 它们就像蜜蜂和其他类型的昆虫一样，有助于将花粉传播到不同的花朵上
+// 1. Many people would be allergic to pollen. 许多人对花粉过敏
+// 2. These are like bees and other types of insects that help to spread pollen to different flowers. 它们就像蜜蜂和其他类型的昆虫一样，有助于将花粉传播到不同的花朵上
 
 vine 藤
 vining plants. 藤蔓植物
@@ -293,7 +323,7 @@ I'd like to take you on a little tour of my vegetable garden. 我想带你参观
 we can water our plants and flowers.
 ```
 
-#### (二) Plants tools
+# (二) Plants tools
 
 ```
 hose 水管 软管
@@ -325,7 +355,7 @@ bug spray. 杀虫剂
 // -- I'll go pick up some bug spray. 我去拿一瓶杀虫剂
 ```
 
-##### (三) Microorganism 微生物 // micro organism
+# (三) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
