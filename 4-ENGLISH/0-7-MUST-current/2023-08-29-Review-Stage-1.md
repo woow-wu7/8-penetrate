@@ -172,6 +172,7 @@ envelope 信封
 quantifier 量词
 ---
 
+a spoonful of sugar. 一勺糖
 a mass of books. 大量的书
 a handful of rice. 一把米
 a grain of rice. 一粒米

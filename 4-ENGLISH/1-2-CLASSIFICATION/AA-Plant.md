@@ -51,6 +51,7 @@ branch 树枝
 A life cycle is the series of changes occurring in an animal or plant. 生命周期是动物或植物发生的一系列变化
 // a series of tests. 一系列测试
 --
+a spoonful of sugar/salt. 一勺糖/盐
 a stick of incense. 一根香
 a series of test. 一系列测试
 a mass of books. 大量的书
@@ -327,6 +328,7 @@ we can water our plants and flowers.
 
 ```
 hose 水管 软管
+// hoe 锄头
 // TIPS: Pay attention to pronunciation.
 // hose 水管: 【 Water in the engine compartment is sucked away by a hose. 发动机舱内的水被软管吸走 】
 // -- compartment 隔间 隔层
@@ -337,8 +339,8 @@ hose 水管 软管
 
 watering can. 喷壶
 trash can. 垃圾桶
-// watering can 喷壶: 【 I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶 】
-// trash can 垃圾桶: 【 I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里 】
+// 1. watering can 喷壶: 【 I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶 】
+// 2. trash can 垃圾桶: 【 I'm throwing the trash in the trash can. 我把垃圾丢到垃圾桶里 】
 
 spade 铲子 // ------ 较小的那种
 shovel 铲子n 铲v // - 大的那种
@@ -346,6 +348,8 @@ shovel 铲子n 铲v // - 大的那种
 // shovel 铲n/v: 【 We can shovel sand with a shovel. 我们可以用铲子铲沙子 】
 
 hoe 锄头
+// hose 水管
+//【 Using a hoe, gently cover the seeds with soil. 用锄头轻轻地用土覆盖种子 】
 // They also carry a hoe in the field to begin work. 他们又扛起锄头，走向田野，开始工作了
 
 bug spray. 杀虫剂
@@ -353,6 +357,7 @@ bug spray. 杀虫剂
 // -- supply 供应 供给
 // -- supplies
 // -- I'll go pick up some bug spray. 我去拿一瓶杀虫剂
+// ---- flashlight 手电筒
 ```
 
 # (三) Microorganism 微生物 // micro organism
