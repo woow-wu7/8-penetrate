@@ -1,5 +1,7 @@
 # Plants 植物
 
+- `Do you like growing plants. 你喜欢种植植物吗？`
+
 # (一)
 
 ##### (1.1) The components of a tree
@@ -326,7 +328,23 @@ we can water our plants and flowers.
 
 # (二) Plants tools
 
+- `gardening tools.花园工具`
+
 ```
+flowerpot 花盆
+flower bed. 花坛
+fence 栅栏
+rake 钉耙
+saw 锯子 看见
+fork 叉
+boots 靴子
+gloves 手套
+fertilizer 肥料
+-
+axe 斧头
+battle axe. 战斧
+
+
 hose 水管 软管
 // hoe 锄头
 // TIPS: Pay attention to pronunciation.
