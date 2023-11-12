@@ -141,6 +141,35 @@ warmth 温暖 暖和
 
 # (一) Plant // Plants
 
+##### (1) Fruits
+
+```
+avocado 牛油果
+grape 葡萄
+kiwi 猕猴桃 // kiwifruit 猕猴桃
+durian 榴莲
+coconut 椰子
+cucumber 黄瓜
+dragon fruit. 火龙果
+-
+apple 苹果
+pineapple 菠萝
+-
+strawberry 草莓
+blueberry 蓝莓
+cherry 樱桃 // cherries
+-
+orange 橙子
+tangerine 橘子 // tangerine peel. 橘皮 // peel 皮 削皮
+-
+watermelon 西瓜
+banana 香蕉
+mango 芒果
+papaya 木瓜
+```
+
+##### (2) All
+
 ```
 pine 松树
 yummy 美味的
@@ -407,7 +436,7 @@ virus 病毒
 // virus 病毒: The virus is still active in the blood. 病毒在血液中仍然活跃
 ```
 
-##### (四) quantifier 量词
+# (四) quantifier 量词
 
 - quantifier 量词
 - `quantifier 量词`
@@ -424,7 +453,13 @@ adjective 形容词
 preposition 介词
 plural 复数 // The verb should be in the plural. 这个动词应该用复数形式
 ---
-
+a spoonful of sugar/salt. 一勺糖/盐
+a stick of incense. 一根香
+a series of test. 一系列测试
+a mass of books. 大量的书
+a tub of popcorn. 一桶爆米花
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
+-
 a packet of seeds. 一包种子
 a mass of books. 大量的书
 a handful of rice. 一把米
