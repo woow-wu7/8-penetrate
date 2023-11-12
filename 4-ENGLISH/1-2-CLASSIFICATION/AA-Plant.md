@@ -57,6 +57,7 @@ a spoonful of sugar/salt. 一勺糖/盐
 a stick of incense. 一根香
 a series of test. 一系列测试
 a mass of books. 大量的书
+a pile of books. 一堆书
 a tub of popcorn. 一桶爆米花
 a clove of garlic. 一瓣大蒜 // garlic 大蒜
 --
@@ -457,6 +458,7 @@ a spoonful of sugar/salt. 一勺糖/盐
 a stick of incense. 一根香
 a series of test. 一系列测试
 a mass of books. 大量的书
+a pile of books. 一堆书
 a tub of popcorn. 一桶爆米花
 a clove of garlic. 一瓣大蒜 // garlic 大蒜
 -
