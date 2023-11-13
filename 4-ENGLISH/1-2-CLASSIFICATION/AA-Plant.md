@@ -60,6 +60,7 @@ a mass of books. 大量的书
 a pile of books. 一堆书
 a tub of popcorn. 一桶爆米花
 a clove of garlic. 一瓣大蒜 // garlic 大蒜
+a bunch of flowers. 一束花
 --
 a handful of rice. 一把米
 a grain of rice. 一粒米
@@ -71,9 +72,9 @@ a cup of tea. 一杯茶
 a bottle of water. 一瓶水
 a glass of water. 一杯水
 a piece of leaf. 一片叶子
-a bunch of flowers. 一束花
 a roll of paper. 一卷纸
 a head of garlic. 一颗蒜
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
 a couple of socks. 一双袜子
 
 1
@@ -361,6 +362,12 @@ we can water our plants and flowers.
 - `gardening tools.花园工具`
 
 ```
+drainage 排水 排水系统 // The area has good natural drainage. 这个地区有良好的天然排水系统 // natural 天然的adj
+landscaper 园林设计师
+-
+These are like bees and other types of insects that help to spread pollen to different flowers.
+它们就像蜜蜂和其他类型的昆虫一样，帮助将花粉传播到不同的花朵上
+-
 flowerpot 花盆
 flower bed. 花坛
 fence 栅栏
