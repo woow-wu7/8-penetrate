@@ -53,7 +53,7 @@ aspect 外观
   - 3. 多个祖先元素都具有 transform 属性时，采用 ( 就近原则 )
 - 扩展
   - 问题: transform 有哪些属性 ?
-  - 回答: (rotate 旋转) (scale 缩放) (translate 移动) (skew 倾斜)
+  - 回答: (rotate 旋转) (translate 移动) (scale 缩放) (skew 倾斜)
   - 扩展: transform: skew; 可以实现平行四边形
 - 详见
   - 1.2-transform-fixed.html
@@ -66,7 +66,7 @@ aspect 外观
 - 共同点:
   - DOM 是否存在: ( display:none ) ( visibility:hidden ) 所在的元素，真实的 DOM 仍然存在，只是页面上不显示而已，只是通过 css 的方式隐藏
   - DOM 是否存在: ( 伪元素 ) 在 DOM 中不存在，表现上相当于当前元素的第一个子元素
-- 对比
+- 对比伪元素
   - 伪元素: 不在 DOM 中，相当于当前元素的第一个子元素。不在 DOM 中，所以可以提升性能。比如实现分割线，图标，父元素高度塌陷等
 
 ## (三) display: inline-block; 存在间隙的原因?
@@ -77,10 +77,10 @@ aspect 外观
   - 2. 父元素设置 font-size:0; 然后子元素在设置自己需要的字体大小，因为空白字符是字符，所以设置 font-size 有效
 - 扩展:
   - inline-block: input select textarea img button
-  - inline: span a
   - block:
     - form table div p h1-h6 ul ol li
     - section header footer aside main nav
+  - inline: span a
   - 注意:
     - inline 元素: 设置 width 和 height 无效
     - inline 元素: margin 设置只在 水平方向 有效，垂直方向不生效

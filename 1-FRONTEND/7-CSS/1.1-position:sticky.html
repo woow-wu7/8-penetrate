@@ -9,6 +9,7 @@
       .container {
         height: 600px;
         overflow: scroll;
+
         border: 1px solid black;
       }
       .item-sticky {
@@ -22,12 +23,22 @@
   </head>
   <body>
     <script>
+      // 1
       // position: sticky 粘性定位
       // - 定位的基准点
-      //   - 相对于 ( 具有滚动条的，距离最近的祖先元素 )
+      //   - 是相对于 ( 具有滚动条的，距离最近的祖先元素 )
       //   - 如果不存在这样的祖先元素，则是基于 ( viewport ) 视口进行定位
       // - 表现上来看
       //   - position:sticky = position:fixed + position:relative
+
+      // 2
+      // 实现 吸顶效果
+      // 方法1 position: sticky
+      // 方法2 js - scroll-top
+      // 方法3 js - IntersectionObserver
+
+      // 2
+      // 对比 sticky-footer
     </script>
     <div class="container">
       <div class="item">item <br /><br /></div>
