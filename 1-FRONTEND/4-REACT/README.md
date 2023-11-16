@@ -45,7 +45,9 @@ Object.is 和 === 的区别？
 
 ```
 (二) 新的生命周期
-- 废除了几个生命周期: componentWillMount、componentWillReceiveProps、componentWillUpdate
+- 废除了几个生命周期:
+  - componentWillMount、componentWillReceiveProps、componentWillUpdate
+  - 因为: fiber架构重写后，会造成这三个生命周期-重复多次执行
 
 - 新的生命周期
   - 挂载阶段: constructor getDerivedStateFromProps render componentDidMount
@@ -204,6 +206,8 @@ Object.is 和 === 的区别？
 
 ### (4.1) useEffect
 
+- https://codesandbox.io/s/1-useeffect-ptqytb
+
 ```
 1
 useEffect
@@ -223,9 +227,9 @@ useEffect
 1.1
 useEffect清除函数执行的时机 ？
 - 原理
-  - 在 ( 下一次 ) 渲染完成后，先执行 ( useEffect的清除函数cleanup - 清除上一次的副作用 )，然后再执行 ( useEffect回调 )
-  - 在 ( 组件卸载 ) 时，执行 ( 最后一次 useEffect的清除函数cleanup )
-  - useEffect(()=>{}, []) 在依赖数组为空时，如果存在 Cleanup 取消函数，第一次后都不会执行，直到组件销毁时才执行 Cleanup 清除函数
+  - AA. 在 ( 下一次 ) 渲染完成后，先执行 ( 1. useEffect的清除函数cleanup - 清除上一次的副作用 )，然后再执行 ( 2. useEffect回调 )
+  - BB. 在 ( 组件卸载 ) 时，执行 ( 最后一次 useEffect的清除函数cleanup ) - ( useEffect的第一个参数-回调函数不会再执行，返回的return清除函数最后一次执行 )
+  - CC重要. useEffect(()=>{}, []) 在依赖数组为空时，如果存在 Cleanup 取消函数，第一次后都不会执行，直到组件销毁时才执行 Cleanup 清除函数
 - 实例
   - https://codesandbox.io/s/useeffect-ptqytb?file=/src/child.js
   - 1. add后，当前count是1，清除函数中打印的count是0，即上一次的count
@@ -252,9 +256,37 @@ useEffect(() => {
   };
   setIsDidUpdate(true)
 })
+---
+注意
+2023-11-16更新：
+- 因为: 其实这里用 useState + 标志符 来模拟是不对的，因为 setIsDidUpdate(true) 后会造成重新渲染，然后又会执行 useEffect
+- 所以: 最好用 ( useRef ) 或者 ( 全局变量 ) 来实现
+import { useState, useEffect, useRef } from "react";
+
+// 注意
+// 2023-11-16更新：
+// - 因为: 其实这里用 useState + 标志符 来模拟是不对的，因为 setIsDidUpdate(true) 后会造成重新渲染，然后又会执行 useEffect
+// - 所以: 最好用 ( useRef ) 或者 ( 全局变量 ) 来实现
+export default function App() {
+  const isDidUpdatedRef = useRef(false);
+  useEffect(() => {
+    console.log("useEffect执行次数/componentDidUpdate组件：", countRef.current);
+    const isDidUpdate = isDidUpdatedRef.current;
+    if (isDidUpdate) {
+      console.log("componentDidUpdate");
+    }
+    isDidUpdatedRef.current = true;
+  });
+  return (
+    <div>
+    </div>
+  );
+}
 ```
 
 ### (4.2) useState
+
+- https://codesandbox.io/s/2-usestate-dbt2xc
 
 ```import "./styles.css";
 import { useState } from "react";
