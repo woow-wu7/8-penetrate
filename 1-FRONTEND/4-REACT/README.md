@@ -387,6 +387,16 @@ export default function App() {
 }
 ```
 
+### (4.4) useEffect 和 useLayoutEffect 的区别？
+
+- https://codesandbox.io/p/sandbox/3-uselayouteffect-7ywf2j?betaBrowser=true&file=%2Fsrc%2FApp.js%3A1%2C1
+
+```
+useLayoutEffect
+// 1. 在浏览器重新绘制屏幕前计算布局
+// 2. 比如有些操作，( popup的位置动态确定 ) 等这些操作，都 - 必须在浏览器重新绘制屏幕前完成，不然就会造成 ( 闪烁 )，即 ( 位置多次变化 等 )，虽然是多次渲染，但是不会闪烁
+```
+
 # (五) suspense
 
 ```
