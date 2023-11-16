@@ -1,6 +1,12 @@
 # Plants 植物
 
 - `Do you like growing plants. 你喜欢种植植物吗？`
+-
+-
+- `pollen 花粉`
+- `pollinator 传粉者`
+- It's great for attracting pollinators. 这对吸引传粉者很有帮助
+- These are like bees and other types of insects that help to spread pollen to different flowers. 它们就像蜜蜂和其他类型的昆虫一样，帮助将花粉传播到不同的花朵上
 
 # (一)
 
@@ -173,6 +179,9 @@ papaya 木瓜
 ##### (2) All
 
 ```
+pest 害虫
+// Several key crops failed when they were attacked by pets.
+
 pine 松树
 yummy 美味的
 stem 茎 // TIPS: Pay attention to pronunciation.
@@ -289,7 +298,10 @@ peach 桃子
 apple 苹果 // 注意发音
 pineapple 菠萝
 orange 橙子
+-
 strawberry 草莓
+strawberry patch. 草莓地
+-
 mango 芒果
 banana 香蕉
 pomegranate 石榴 // po me gra nate
@@ -407,12 +419,16 @@ hoe 锄头
 //【 Using a hoe, gently cover the seeds with soil. 用锄头轻轻地用土覆盖种子 】
 // They also carry a hoe in the field to begin work. 他们又扛起锄头，走向田野，开始工作了
 
+pesticide 杀虫剂
 bug spray. 杀虫剂
 // he forgot some of the most important supplies, like bug spray and a flashlight. 他还忘记了一些很重要的用品，比如说杀虫剂和手电筒
 // -- supply 供应 供给
 // -- supplies
 // -- I'll go pick up some bug spray. 我去拿一瓶杀虫剂
 // ---- flashlight 手电筒
+
+pesticide 杀虫剂
+// Samples of the water contained pesticide. 水样中含有杀虫剂
 ```
 
 # (三) Microorganism 微生物 // micro organism
