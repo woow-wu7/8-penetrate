@@ -89,6 +89,14 @@ aspect 外观
 
 ## (四) 画各种图形
 
+- triangle 三角形
+- rectangle 矩形
+- square 正方形
+- sector 扇形
+- semicircle 半圆
+- parallelogram 平行四边形
+- arrow 箭头
+
 ### (4.1) css 画三角形 -- triangle
 
 - 问题
@@ -127,7 +135,7 @@ css实现扇形
 }
 ```
 
-### (4.3) css 画半圆
+### (4.3) css 画半圆 -- semicircle
 
 ```
 css实现半圆
@@ -144,7 +152,7 @@ css实现半圆
 }
 ```
 
-### (4.4) css 画平行四边形
+### (4.4) css 画平行四边形 -- parallelogram
 
 - parallelogram 是平行四边形的意思
 - skew: 扭曲 曲解 弯曲的
@@ -163,7 +171,7 @@ transform: skew(x-angle,y-angle)
 }
 ```
 
-### (4.5) css 画箭头
+### (4.5) css 画箭头 -- arrow
 
 ```
 - 请看 17
@@ -387,15 +395,17 @@ HTML/CSS 画环形进度条
     - 扩展: display:node 和 visibility:hidden 在 DOM 存在
   - 2. 通过 @media screen and (-webkit-min-device-pixel-ratio: 2 或者 3 ) 命中几倍屏
   - 3. 然后通过 transform: scaleY(0.5) 缩放 伪元素 ( 2 倍屏缩小 0.5，3 倍屏缩小 0.333 )
+- 详见
+  - 1-FRONTEND/7-CSS/3-1px-border.html
 
 ```
 .container {
   position: relative;
 }
-.container::after {
+.container::after { // 伪元素 - 当前元素的第一个子元素，不在DOM中
   content: "";
   position: absolute;
-  bottom: 0;
+  bottom: 0; // 底部
   left: 0;
   right: 0;
   height: 1px;
