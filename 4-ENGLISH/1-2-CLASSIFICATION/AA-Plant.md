@@ -1,12 +1,32 @@
 # Plants 植物
 
 - `Do you like growing plants. 你喜欢种植植物吗？`
+- `I'd like to take you on a little tour of my vegetable garden.`
+- `Help you to enrich your vocabulary to talk about nature, the outdoors, and especially the garden. 我想带你参观一下我的菜园`
+- `Let me get my hat on. 让我戴上帽子`
+- `shade your eyes from the sun. 给你的眼睛遮阳`
 -
 -
 - `pollen 花粉`
 - `pollinator 传粉者`
 - It's great for attracting pollinators. 这对吸引传粉者很有帮助
-- These are like bees and other types of insects that help to spread pollen to different flowers. 它们就像蜜蜂和其他类型的昆虫一样，帮助将花粉传播到不同的花朵上
+- These are like bees and other types of insects that help to spread pollen to different flowers.
+-
+-
+- `bug spray. 杀虫剂`
+- `pesticide 杀虫剂`
+- `organic pesticides. 有机农药`
+- Samples of the water contained pesticide. 水样中含有杀虫剂
+-
+-
+- `sun hat. 太阳帽`
+- `baseball cap. 棒球帽`
+-
+-
+- `thorn 刺`
+- `paw 爪子`
+- The Thorn Birds. 刺鸟 荆棘鸟
+- He removes a 【 thorn 】 from a lion's paw. 他从狮子脚掌上拔下一根刺
 
 # (一)
 
@@ -147,7 +167,7 @@ warmth 温暖 暖和
 // warmth is the state or quality of being warm.
 ```
 
-# (一) Plant // Plants
+# (二) Plant // Plants
 
 ##### (1) Fruits
 
@@ -369,7 +389,7 @@ I'd like to take you on a little tour of my vegetable garden. 我想带你参观
 we can water our plants and flowers.
 ```
 
-# (二) Plants tools
+# (三) Plants tools
 
 - `gardening tools.花园工具`
 
@@ -431,7 +451,7 @@ pesticide 杀虫剂
 // Samples of the water contained pesticide. 水样中含有杀虫剂
 ```
 
-# (三) Microorganism 微生物 // micro organism
+# (四) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
@@ -460,7 +480,7 @@ virus 病毒
 // virus 病毒: The virus is still active in the blood. 病毒在血液中仍然活跃
 ```
 
-# (四) quantifier 量词
+# (五) quantifier 量词
 
 - quantifier 量词
 - `quantifier 量词`
