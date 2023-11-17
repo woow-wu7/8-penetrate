@@ -2,8 +2,6 @@
 
 ##### (1) shape 形状 外形
 
-- It's cylindrical in shape. 它是圆柱形的
-
 ```
 triangle 三角形
 rectangle 矩形
@@ -18,6 +16,9 @@ cube 立方体 // 立方形
 cuboid 长方体
 -
 cylinder 圆柱
+-
+area 面积 // 地区
+volume 体积 // 容积
 
 
 
@@ -48,4 +49,13 @@ cube 立方体
 
 cuboid 长方体
 // Diagram 14 shows a cuboid. 图14展示了一个长方体
+
+volume 体积
+// How do you measure the volume of a gas? 你如何计量气体的体积？
+
+area 面积 // 地区
+// What is the area of this square? 这个正方形的面积是多少
+
+cylinder 圆柱
+// It's cylindrical in shape. 它是圆柱形的
 ```
