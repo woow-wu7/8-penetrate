@@ -236,6 +236,7 @@ gum 口香糖
 meat 肉
 pork 猪肉
 beef 牛肉
+mutton 羊肉 // This Indian dish is made of mutton and curry. 这道印度菜是用羊肉和咖喱做的
 chicken 鸡肉
 cuisine 饭菜
 order take-out. 点外卖

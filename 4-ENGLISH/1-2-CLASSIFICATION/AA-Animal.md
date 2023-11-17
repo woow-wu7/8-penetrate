@@ -3,6 +3,10 @@
 ##### (一) Continent 大陆 州
 
 ```
+mutton 羊肉
+curry 咖喱
+// This Indian dish is made of mutton and curry. 这道印度菜是用羊肉和咖喱做的
+
 cheetah 猎豹 // tail 尾巴
 // How fast can a cheetah run? 猎豹奔跑的速度有多快？
 
