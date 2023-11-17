@@ -54,7 +54,10 @@ tiger 老虎
 lion 狮子
 panda 熊猫 // bamboo 竹子
 monkey猴子 // funny 滑稽的 可笑的
+-
 deer 鹿
+reindeer 驯鹿
+-
 elephant 大象
 bull 公牛 // 注意发音
 cow 母牛

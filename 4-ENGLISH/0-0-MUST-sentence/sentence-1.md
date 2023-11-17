@@ -112,6 +112,11 @@ The respiratory tract is responsible for the exchange of oxygen and carbon dioxi
 // 2. responsible for. 为...负责
 // -- Lungs are the organs responsible for breathing. 肺是负责呼吸的器官
 // 3. oxygen 氧气
+// 3. hydrogen 氢气
+// -- atom 原子
+// -- molecule 分子
+// -- hydrogen 氢气
+// -- oxygen 氧气
 // 4. carbon dioxide. 二氧化碳
 // -- carbon 碳 复写纸
 // -- dioxide 二氧化物
