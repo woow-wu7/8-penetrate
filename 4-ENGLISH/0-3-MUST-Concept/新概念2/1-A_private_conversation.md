@@ -23,6 +23,7 @@ private
 - n 小兵
 // 【 private property. 私有财产 】
 // 【 private conversation. 私人谈话 】
+// 【 private sector. 私人部门 】
 // -- proper 合适的 恰当的
 // -- property 财产 性质
 
