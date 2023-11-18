@@ -34,10 +34,15 @@
 - `viral infection. 病毒感染` // --------- viral infection.
 - If you have a bacterial infection you will need an antibiotic.
 -
+-
 - `saline 盐水`
 - `solution 溶液 解决方案`
 - 【 saline solution. 生理盐水 】
 - use saline solution. 使用生理盐水
+-
+-
+- `irritant 刺激物`
+- `sterile 无菌的`
 -
 -
 - `first aid. 急救`
