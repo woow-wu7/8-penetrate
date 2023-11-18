@@ -280,6 +280,15 @@ He is under a lot of stress because he has so much work to do. 有太多的工�
 // -- stress 压力n: After working such a whole day, he feels a lot of stress. 这样工作一整天后，他感到压力巨大
 // -- pronunciation 发音n: Your pronunciation is excellent. 你的发音好极了
 // -- pronunciation 发音n: pay attention to pronunciation. 注意发音
+// ------- 分隔符 -------
+stress 强调v 重读v 压力n
+strict 严格的 adj
+strictly 严格地 adv
+confidential 机密的 保密的 adj
+//【 confidential information. 机密信息 】
+// stress 压力n: He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
+// stress 强调v: I must stress that everything I've told you is strictly confidential. 我必须强调，我告诉你的一切都要严加保密
+// -- 1.【 strictly 严格地adv: Actually, that is not strictly true. 实际上，那并不完全是真的 】
 
 The word 'fish' can be singular or plural. fish这个词可以是单数也可以是复数
 // singular 单数的adj 单数n
