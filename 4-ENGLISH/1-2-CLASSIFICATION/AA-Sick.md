@@ -5,19 +5,25 @@
 - `English vocabulary related to illness 生病相关的英语词汇`
 -
 -
-- `swell 肿胀v 膨胀v`
-- `swell up. 肿胀`
-- You'd better walk around, or your feet will swell up. 你最好走一走，不然你的脚会肿起来的
-- Use ice to reduce the swelling. 用冰敷消肿
--
 -
 - `surgeon 外科医生` // surgery 外科手术
+- `internist 内科医生`
+- `obstetrician 产科医生`
+- `gynecologist 妇科医生`
+- `dermatologist 皮肤病医生`
 - `specialist 专科医生 专家` // My doctor referred me to a specialist. 我的医生将我转介给一位专家
 - `pediatrician 儿科医生` // We need to take our son to see the pediatrician. 我们需要带我们的儿子去看小儿科医生
 - `doctor 医生`
 - `nurse 护士`
 - `paramedic 护理人员` // A person whose job is to help people who are sick or injured, but who is not a doctor or a nurse.
 - `pharmacist 药剂师`
+-
+-
+-
+- `swell 肿胀v 膨胀v`
+- `swell up. 肿胀`
+- You'd better walk around, or your feet will swell up. 你最好走一走，不然你的脚会肿起来的
+- Use ice to reduce the swelling. 用冰敷消肿
 -
 -
 - `respiratory tract. 呼吸道`
