@@ -1,10 +1,23 @@
 # Must Sentence
 
 ```
-[][][][][][][] 厌烦 灰尘
+[][][][][][][] 赞扬 厌烦 灰尘
 [][][][][][][] 肝脏 说明 处方 抗生素 呼吸道 扎破 远足
 [][][][][][][] 疫苗 锤子 典礼 生气 - 国外 社交 光线 方便
 
+He praised his team for their performance. 他称赞了各队员的表现
+How do you motivate people to work hard and efficiently? 你是怎样激励大家奋发高效地工作的？
+// 1
+// motivate 激励
+// praise 赞扬 赞美 n/v
+// Praise from a teacher can always motivate students. 来自老师的夸赞经常能激励学生
+//【 He praised his team for their performance. 他称赞了各队员的表现 】
+// 2
+// efficient 有效率的 adj
+// efficiently 有效率地 adv
+//【 work efficiently. 有效率的工作 】
+//【 How to study efficiently. 怎样有效学习 】
+//【 motivate 激励: How do you motivate people to work hard and efficiently? 你是怎样激励大家奋发高效地工作的？ 】
 
 Alcoholic drinks act as a poison to a child. 酒精饮料对小孩犹如毒
 // 1. poison 毒药
