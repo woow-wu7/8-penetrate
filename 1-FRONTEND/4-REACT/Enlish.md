@@ -8,6 +8,8 @@ mutable 可变的
 caveat 注意事项 警告
 -
 
+algorithm 算法
+// This algorithm has high application value. 该算法具有较高的应用价值
 
 be aware of. 知道 意识到 注意
 plain 普通的 平原

@@ -29,9 +29,15 @@
 -
 - `How long have you had these symptoms? 你出现这些症状多久了`
 - `Do you have an infection? 你有感染吗？`
+- `Get an eye infection. 眼睛感染`
 - `bacterial infection. 细菌感染` // ----- bacterial infection.
 - `viral infection. 病毒感染` // --------- viral infection.
 - If you have a bacterial infection you will need an antibiotic.
+-
+- `saline 盐水`
+- `solution 溶液 解决方案`
+- 【 saline solution. 生理盐水 】
+- use saline solution. 使用生理盐水
 -
 -
 - `first aid. 急救`
