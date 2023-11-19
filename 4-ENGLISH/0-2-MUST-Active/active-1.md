@@ -17,8 +17,8 @@ Go on a trip. 去旅行
 Organize folders. 整理文件夹
 I'm walking on the street wearing slippers. 我穿着拖鞋走在大街上
 
-I'm making progress every day. 我每天都在进步
-// I'm making progress in my English every day. 每一天我都在英语方面取得进步
+//【 I'm making progress in my English every day. 每一天我都在英语方面取得进步 】
+// I'm making progress every day. 我每天都在进步 
 // progress 进步 进展 v/n
 
 I'm planning to develop a google browser plugin. 我准备开发一个谷歌浏览器插件

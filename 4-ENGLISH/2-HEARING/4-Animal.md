@@ -46,6 +46,7 @@ isn't it cute?
 -- a bowl of rice
 -- a carton of milk
 -- a tub of popcorn
+-- a bundle of wheat. 一捆麦子
 ---- Danny wants two scoops of ice cream. Danny想要两勺冰淇凌
 ---- Mom wants to get a carton of milk on our way home. 妈妈想在我们回家的路上买一盒牛奶
 ---- Lesley has a small jar of yogurt for breakfast every day. Lesley每天早餐都要吃一坛酸奶

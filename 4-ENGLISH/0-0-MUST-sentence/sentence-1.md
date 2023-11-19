@@ -171,7 +171,10 @@ When you have a hammer, everything looks like a nail. 当你有一把锤子时�
 
 The ceremony was transmitted live by satellite to over fifty countries. 典礼通过卫星向五十多个国家进行了实况转播
 // ceremony 仪式 典礼
-// [ opening ceremony. 开学典礼 ]
+// 1.【 opening ceremony. 开学庆典 】
+// 2.【 closing ceremony. 闭幕式 】
+// 3.【 graduation ceremony. 毕业典礼 】
+// 4.【 award ceremony. 颁奖典礼 】
 // Tomorrow is the opening ceremony. 明天是开学典礼
 // -- transmit 传输 v
 // -- transmitted 过去式和过去分词
