@@ -74,6 +74,34 @@ Everything was covered with a thick layer of dust. 所有的东西都覆盖着�
 // -- The mountain is covered with forests. 山上长满了树木
 // 4. thick 厚的
 // -- thin 薄的
+a spoonful of sugar/salt. 一勺糖/盐
+a stick of incense. 一根香
+a series of test. 一系列测试
+a mass of books. 大量的书
+a pile of books. 一堆书
+a tub of popcorn. 一桶爆米花
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
+-
+a packet of seeds. 一包种子
+a mass of books. 大量的书
+a handful of rice. 一把米
+a mouthful of food. 一口食物
+a grain of rice. 一粒米
+a bowl of rice. 一碗米
+a clove of garlic. 一瓣大蒜 // garlic 大蒜
+a set of makeup. 一套化妆品
+a series of test. 一系列测试
+a carton of milk. 一盒牛奶
+a cup of tea. 一杯茶
+a sip of water. 一口水 // lip嘴唇 sip抿,一小口
+a bottle of water. 一瓶水
+a glass of water. 一杯水
+a piece of leaf. 一片叶子
+a bunch of flowers 一束花
+a tub of popcorn. 一桶爆米花
+a roll of paper. 一卷纸
+a head of garlic. 一颗蒜
+a couple of socks. 一双袜子
 
 
 ------- ------- -------

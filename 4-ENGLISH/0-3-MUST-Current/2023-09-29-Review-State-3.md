@@ -156,6 +156,7 @@ a stick of. 一根
 // The air was sweet with incense. 空气中弥漫着燃香的香气
 
 quantifier 量词
+a layer of dust. 一层灰尘
 a mass of books. 大量的书
 a handful of rice. 一把米
 a grain of rice. 一粒米

@@ -498,6 +498,7 @@ adjective 形容词
 preposition 介词
 plural 复数 // The verb should be in the plural. 这个动词应该用复数形式
 ---
+a layer of dust. 一层灰尘
 a spoonful of sugar/salt. 一勺糖/盐
 a stick of incense. 一根香
 a series of test. 一系列测试
