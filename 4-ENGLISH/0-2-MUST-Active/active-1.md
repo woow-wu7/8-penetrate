@@ -24,4 +24,6 @@ I'm walking on the street wearing slippers. 我穿着拖鞋走在大街上
 I'm planning to develop a google browser plugin. 我准备开发一个谷歌浏览器插件
 I developed a google browser plugin. 我开发了一个谷歌浏览器插件
 I'm not feeling well. = I feel very unwell 我身体很不舒服
+
+review the knowledge learned yesterday. 复习昨天所学的知识
 ```
