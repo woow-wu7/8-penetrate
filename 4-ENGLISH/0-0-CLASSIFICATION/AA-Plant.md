@@ -415,6 +415,21 @@ axe 斧头
 battle axe. 战斧
 
 
+
+fertilize 施肥 v
+fertilizer 肥料 n
+manure 粪肥
+【 green manure. 绿肥 】
+// 1
+// fertilize 施肥v: We fertilize the soil using manure to help the plants grow. 我们用肥料来使土壤变得肥沃以帮助植物生长
+// fertilize 施肥v: How to fertilize roses is a good question many people asked. 怎样施肥玫瑰是一个很好的问题很多人问
+// 2
+// fertilizer 肥料
+// fertilizer 肥料:【 Too much fertilizer will harm the crops. 施肥过多会损害农作物 】
+// fertilizer 肥料:【 The tractor hauled the fertilizer away. 拖拉机把肥料拉走了 】// haul 拖
+// -- crops 庄稼 作物
+// -- tractor 拖拉机
+
 hose 水管 软管
 // hoe 锄头
 // TIPS: Pay attention to pronunciation.
