@@ -50,3 +50,29 @@ Where would you like to go? 你想去哪里？
 which one do you prefer. 你喜欢哪一个?
 I'm good with coach seats. 我喜欢经济舱
 ```
+
+```
+2
+Buying bus tours. 购买巴士旅游
+--
+
+
+empire 帝国
+destination 目的地
+
+tourist 游客 旅行者 n
+tour 旅行 v/n
+【 tourist attraction. 旅游胜地 】
+// tourist 游客: The people in the hotel were mainly foreign tourist. 酒店里住的大多是外国游
+// Students sometimes do casual work in the tourist trade. 学生有时做些旅游方面的零
+// -- casual 临时的
+
+state 状态 n
+status 状态 地位 n
+statue 雕像
+
+etc. 是等等，诸如此类，的意思
+// 【 et cetera. 等等 】
+// etc = et cetera 的缩写
+// I like to read books, write articles et cetera. 我喜欢读书，写文章等等
+```
