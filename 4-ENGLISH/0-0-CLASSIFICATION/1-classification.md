@@ -18,6 +18,13 @@ oxygen 氧气
 buying train tickets
 --
 
+get off. 下车 下班
+// get off 下车: 【 get off the bus. 下公共汽车 】
+// get off 下班: 【 get off work. 下班 】
+// -- get up. 起床
+// -- get to work. 上班
+
+depart 离开 v
 departure 出发 离开 n
 arrival 到达 n
 【 arrival time. 达到时间 】
@@ -35,6 +42,7 @@ coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱
 business class. 商务舱
 
+one-way ticket. 单程票
 round-trip ticket. 往返票
 round trip ticket. 往返票
 return ticket. 返程票
@@ -59,6 +67,10 @@ Buying bus tours. 购买巴士旅游
 
 empire 帝国
 destination 目的地
+-
+cab 出租车，口语
+taxi 出租车
+-
 
 tourist 游客 旅行者 n
 tour 旅行 v/n
@@ -75,4 +87,9 @@ etc. 是等等，诸如此类，的意思
 // 【 et cetera. 等等 】
 // etc = et cetera 的缩写
 // I like to read books, write articles et cetera. 我喜欢读书，写文章等等
+
+best of luck to you in your new job. 祝你在新工作中一切顺利
+the train will depart from 30th Street Station at 2 pm on July the 8th. 火车将于7月8日下午2点从30街车站开出
+that sounds good to me. 听起来不错
+Excuse me. Just wondering how can I get to xxxx.
 ```
