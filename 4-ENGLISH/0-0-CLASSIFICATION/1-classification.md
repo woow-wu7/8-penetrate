@@ -61,9 +61,28 @@ Mind your hands. 当心夹手
 release 释放 发布
 aboard 在 船/飞机/火车/汽车 上 adv
 abroad 在国外adv 海外n
+offer 提供 录取通知书
 transfer 转移 转让
+-
+cooperation 合作 // co + operation
+coexistence 共存 // co + existence
+coaction 共同作用 // co + action
+coincidence 巧合 // co + incidence
+-
+litter 乱丢的垃圾
+waste 任何被丢弃的东西
+garbage 剩菜剩饭或不能再食用的-食物垃圾
+rubbish 破损，用过的，或无用的东西
 
 
+
+cooperation 合作
+cooperation = co + operation
+【 economic cooperation. 经济合作 】
+【 in cooperation with. 与...合作 】
+// cooperation 合作: Cooperation equals success. 合作意味着成功
+// 【 a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告 】
+// 【 The workers, in cooperation with the management, have increased output by 10 percent. 工人与厂方合作使产量增加10% 】
 
 aboard 在 船/飞机/火车/汽车 上 adv
 abroad 在国外adv 海外n
@@ -81,6 +100,19 @@ abroad 在国外adv 海外n
 // ---- [ foreign language. 外语 ]
 // ---- foreign 外国的adj: [ You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语 ]
 // ---- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
+
+litter 乱丢的垃圾
+waste 任何被丢弃的东西
+garbage 剩菜剩饭或不能再食用的-食物垃圾
+rubbish 破损，用过的，或无用的东西
+// 【 There will be fines for people who drop litter. 乱扔垃圾的人将被罚款 】
+// -- fine 好的 罚款
+
+in + n: 表示出于某种状态
+// 【 Please offer you seats to anyone in need. 请给有需要的人让座 】
+// in danger. 处在危险之中
+// in safety. 出于安群状态
+// in public. 在公众场合
 
 is bound for. 以...为目的地
 // The ship is bound for America. 这艘轮船是开往美洲去的
@@ -122,12 +154,21 @@ Twist the handle along the unlocking direction. 沿解锁方向转动把手
 Using illegally shall bear legal responsibility. 擅自使用需负法律责任
 
 
+AA.
 Dear passengers, welcome aboard Kitty City Metro, line1.
 this train is bound for Museum Station.
 Next station: Library station, you can transfer to metro line2. please get ready for your arrival.
 亲爱的乘客们，欢迎乘坐基蒂城地铁1号线
 这列火车开往博物馆站
 下一站：图书馆站，您可以换乘地铁2号线。请为你的到来做好准备
+
+BB.
+To keep a clean and healthy environment, do not smoke or litter in trains and stations.
+Please offer you seats to anyone in need.
+Thank you for your cooperation.
+为了保持清洁和健康的环境，不要在火车和车站吸烟或乱扔垃圾
+请给有需要的人让座
+谢谢您的合作
 ```
 
 ```1
