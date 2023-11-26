@@ -13,7 +13,40 @@ oxygen 氧气
 
 ##### (2) subway/metro 地铁
 
+```总
+subway = metro = tube = underground
+carriage 车厢
+safety line. 安全线
+-
+stair 楼梯
+elevator 电梯
+escalator 扶梯
+handrail 扶手 ( 楼梯等扶手 )
+【 rail 栏杆 扶手 铁路 】
+【 railway 铁路 】
+【 handrail 扶手 】
+hold the railing. 扶住栏杆
+step on. 踩上去 踏上...
+-
+
+
+safety line. 安全线
+// Metro safety line is very important to the daily operation. 地铁安全线在日常运营中对保障运营安全有着重要意义
+
+escalator 扶梯
+// This is an escalator. 这是扶梯
+// Let's take the escalator. 我们乘自动扶梯吧
+// 1.【 Riding an escalator safely needs to aim for the middle of the step. 安全地乘坐自动扶梯需要瞄准台阶中间 】
+// 2.【 Hold on the handrail and step on quickly. 抓住扶手 快速站上去 】
+// 3. Sorry, did I step on you foot? 对不起，我踩到你的脚了吗？
+// 3. Sorry, I stepped on you foot. 不好意思，我踩到你的脚了
+// -- step 步骤n 步伐n 台阶n 踩v
+// -- step on. 踩上... 踏上...
+// -- ride 骑 驾驶 // riding
+// -- handrail 扶手 栏杆
 ```
+
+```1
 1
 buying train tickets
 --
@@ -59,7 +92,7 @@ which one do you prefer. 你喜欢哪一个?
 I'm good with coach seats. 我喜欢经济舱
 ```
 
-```
+```2
 2
 Buying bus tours. 购买巴士旅游
 --
