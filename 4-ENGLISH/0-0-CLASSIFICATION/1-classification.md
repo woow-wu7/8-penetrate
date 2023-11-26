@@ -73,7 +73,21 @@ litter 乱丢的垃圾
 waste 任何被丢弃的东西
 garbage 剩菜剩饭或不能再食用的-食物垃圾
 rubbish 破损，用过的，或无用的东西
-
+-
+mind the gap. 当心缝隙
+mind the step. 当心台阶
+-
+get off. 下车 下班
+【 get off the bus. 下公共汽车 】
+【 get off work. 下班 】
+// -- get up. 起床
+// -- get to work. 上班
+-
+kitty corner. 对角 斜对角
+orientation 方向
+destination 目的地
+destiny 命运
+intersection 交集 十字路口
 
 
 cooperation 合作
@@ -149,6 +163,16 @@ security 安全 n
 // -- authorization 授权n
 // -- security 安全 n
 
+destination 目的地
+// 【 Only half of the emergency supplies have reached heir destination. 仅有一半的紧急救援物资运抵了目的地 】
+// We arrived at our destination tired and hungry. 我们到达目的地时又累又饿
+
+destiny 命运
+// It was his destiny to become famous. 成名是他的命运
+
+intersection 交集n 十字路口n
+// 【 Take a right turn at the intersection. 在十字路口向右拐 】
+
 emergency door release. 紧急开门操作
 Twist the handle along the unlocking direction. 沿解锁方向转动把手
 Using illegally shall bear legal responsibility. 擅自使用需负法律责任
@@ -169,6 +193,21 @@ Thank you for your cooperation.
 为了保持清洁和健康的环境，不要在火车和车站吸烟或乱扔垃圾
 请给有需要的人让座
 谢谢您的合作
+
+CC.
+Ladies and gentlemen, we are arriving at Library Station.
+The door on the right will be used, please keep clear of the door and mind the gap between the train and platform.
+女士们，先生们，我们即将到达图书馆站
+将使用右侧的车门，请远离车门，注意列车和站台之间的间隙
+
+DD.
+How can I get to the train station? 火车站怎么走 // where is the train station?
+How can I get to the museum? 博物馆怎么走 // where is the museum?
+-
+Can you tell me how to get to the Library Station?
+What's the fastest way to get to the Library Station?
+-
+【 You'll get to where you're going. 你会到达你要去的地方 】
 ```
 
 ```1
