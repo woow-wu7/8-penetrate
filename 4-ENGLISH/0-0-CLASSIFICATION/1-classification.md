@@ -34,9 +34,13 @@ handrail 扶手 ( 楼梯等扶手 )
 step on. 踩上去 踏上...
 -
 【 security check. 安检 】
-exit 出口 通道
-train 火车 列车
 queue 队列 排队
+exit 出口 通道
+brake 刹车 n/v
+【 emergency exit. 紧急出口 】
+【 emergency call. 紧急呼叫 】
+【 emergency braking. 紧急制动刹车 】
+train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
 lean 靠在 肉少的 瘦肉
@@ -51,14 +55,40 @@ litter box. 猫砂 ; 猫砂盆
 -
 no smoking. 禁止吸烟
 no cycling. 禁止非机动车
-- 
+-
 Caution Gap. 当心间隙
 Mind your hands. 当心夹手
 release 释放 发布
-emergency door release. 紧急开门操作
-Twist the handle along the unlocking direction. 沿解锁方向转动把手
-Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+aboard 在 船/飞机/火车/汽车 上 adv
+abroad 在国外adv 海外n
+transfer 转移 转让
 
+
+
+aboard 在 船/飞机/火车/汽车 上 adv
+abroad 在国外adv 海外n
+【 welcome aboard. 欢迎乘坐 】
+【 welcome aboard my hire car. 欢迎乘坐我的出租车 】
+【 go aboard. 上船 】
+// aboard 在船上: They were all aboard the ship last night. 昨天夜里他们都在船上
+// -- 【 He was already aboard the plane. 他已经登机了 】
+// abroad 在国外: She is moving abroad to make a fresh start. 她要移居国外，开始新的生活
+// 【 abroad 国外: This song is popular both at home and abroad. 在首歌在国内国外都很流行 】
+// -- My sister wants to work abroad. 我姐姐很想出国工作
+// -- Take a semester abroad. 在国外度过一个学期
+// ---- foreign 外国的 adj
+// ---- foreigner 外国人
+// ---- [ foreign language. 外语 ]
+// ---- foreign 外国的adj: [ You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语 ]
+// ---- foreigner 外国人n: We have two new classmates, and they are foreigners. 我们班来了两个新同学，他们是外国人
+
+is bound for. 以...为目的地
+// The ship is bound for America. 这艘轮船是开往美洲去的
+
+transfer 转移 转让
+// 【 transfer 换乘: Transfer from line 3 to line 1. 从3号线换乘到1号线 】
+// 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
+// How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
 
 safety line. 安全线
 // Metro safety line is very important to the daily operation. 地铁安全线在日常运营中对保障运营安全有着重要意义
@@ -77,6 +107,27 @@ escalator 扶梯
 // -- step on. 踩上... 踏上...
 // -- ride 骑 驾驶 // riding
 // -- handrail 扶手 栏杆
+
+security 安全 n
+【 network security. 网络安全 】
+【 information security. 信息安全 】
+【 sense of security 安全感 】
+【 security camera 监控录像 】
+// You may not enter the security area without authorization. 未经批准不得进入警戒地区
+// -- authorization 授权n
+// -- security 安全 n
+
+emergency door release. 紧急开门操作
+Twist the handle along the unlocking direction. 沿解锁方向转动把手
+Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+
+
+Dear passengers, welcome aboard Kitty City Metro, line1.
+this train is bound for Museum Station.
+Next station: Library station, you can transfer to metro line2. please get ready for your arrival.
+亲爱的乘客们，欢迎乘坐基蒂城地铁1号线
+这列火车开往博物馆站
+下一站：图书馆站，您可以换乘地铁2号线。请为你的到来做好准备
 ```
 
 ```1
