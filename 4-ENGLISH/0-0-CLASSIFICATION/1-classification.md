@@ -11,23 +11,53 @@ oxygen 氧气
 // 【 Two hydrogen atoms combine with one oxygen atom to form a water molecule. 两个氢原子和一个氧原子结合形成一个水分子 】
 ```
 
-##### (2) subway/metro 地铁
+##### (2) subway/metro/tube/unground 地铁
 
 ```总
 subway = metro = tube = underground
+tube 管 管子 伦敦地铁
+subway 地铁
+railway 铁路
 carriage 车厢
 safety line. 安全线
 -
 stair 楼梯
+lift 电梯 举起
 elevator 电梯
 escalator 扶梯
 handrail 扶手 ( 楼梯等扶手 )
 【 rail 栏杆 扶手 铁路 】
 【 railway 铁路 】
 【 handrail 扶手 】
-hold the railing. 扶住栏杆
+【 stair handrail. 楼梯扶手 】
+【 hold the railing. 扶住栏杆 】
 step on. 踩上去 踏上...
 -
+【 security check. 安检 】
+exit 出口 通道
+train 火车 列车
+queue 队列 排队
+staff only. 游客止步 乘客止步 仅限员工 员工通道
+-
+lean 靠在 肉少的 瘦肉
+【 no leaning. 禁止依靠 】
+leaning tower. 斜塔
+cushion for leaning on. 靠垫
+-
+letter 信 字母
+litter 垃圾n 乱扔
+【 no littering. 禁止乱扔杂物 】
+litter box. 猫砂 ; 猫砂盆
+-
+no smoking. 禁止吸烟
+no cycling. 禁止非机动车
+- 
+Caution Gap. 当心间隙
+Mind your hands. 当心夹手
+release 释放 发布
+emergency door release. 紧急开门操作
+Twist the handle along the unlocking direction. 沿解锁方向转动把手
+Using illegally shall bear legal responsibility. 擅自使用需负法律责任
 
 
 safety line. 安全线
@@ -40,6 +70,9 @@ escalator 扶梯
 // 2.【 Hold on the handrail and step on quickly. 抓住扶手 快速站上去 】
 // 3. Sorry, did I step on you foot? 对不起，我踩到你的脚了吗？
 // 3. Sorry, I stepped on you foot. 不好意思，我踩到你的脚了
+// 4. Stay away from the sides. 离两边远点
+// 5. stand on the right. 靠右站立
+// 6. 【 That way others can pass us on the left. 这样别人才能从左边超过咋们 】
 // -- step 步骤n 步伐n 台阶n 踩v
 // -- step on. 踩上... 踏上...
 // -- ride 骑 驾驶 // riding
