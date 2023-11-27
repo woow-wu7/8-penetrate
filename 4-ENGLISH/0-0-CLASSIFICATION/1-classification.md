@@ -33,11 +33,13 @@ handrail 扶手 ( 楼梯等扶手 )
 【 hold the railing. 扶住栏杆 】
 step on. 踩上去 踏上...
 -
-【 security check. 安检 】
 queue 队列 排队
+queue up. 排队
 // jump a queue. 插队
 // cut a queue. 插队
 exit 出口 通道
+-
+【 security check. 安检 】
 brake 刹车 n/v
 【 emergency exit. 紧急出口 】
 【 emergency call. 紧急呼叫 】
@@ -58,6 +60,8 @@ litter box. 猫砂 ; 猫砂盆
 no smoking. 禁止吸烟
 no cycling. 禁止非机动车
 -
+【 ticket office. 售票处 】
+【 route map. 交通图 】
 Caution Gap. 当心间隙
 Mind your hands. 当心夹手
 release 释放 发布
@@ -93,7 +97,58 @@ kitty corner. 对角 斜对角
 destination 目的地
 destiny 命运
 intersection 交集 十字路口
+express train. 特快列车
+fast track. 快速通道 // track 轨道n 路径n 追踪v
+-
+one-way ticket. 单程票
+single ticket. 单程票
+round-trip ticket. 往返票
+round trip ticket. 往返票
+return ticket. 返程票
+circle line. 环线
+-
+depart 离开 v
+departure 出发 离开 n
+arrive 到达 v
+arrival 到达 n
+-
+stand clear. 远离 让开 保持距离
+stand clear of. 远离
 
+
+
+express train. 特快列车
+// Would you like to go by express train? 你想坐快车去吗？
+
+stand clear. 远离 保持距离
+【 stand clear of. 远离 】
+// This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
+// Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽
+
+one-way ticket. 单程票
+single ticket. 单程票
+round-trip ticket. 往返票
+round trip ticket. 往返票
+return ticket. 返程票
+【 I'll pay for the tickets in cash. 我会用现金支付票 】
+【 pay in cash. 用现金支付 】
+// Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？
+// Pay in cash don't use credit cards. 用现金支付&别用信用卡
+// I received your payment. 我收到了你的付款
+
+depart 离开 v
+departure 出发 离开 n
+arrival 到达 n
+【 arrival time. 达到时间 】
+【 departure time. 出发时间 】
+【 departure lounge. 候机室 】 // lounge 休息室
+// 【 departure: A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间 】!!!!!!! !!!!!!! !!!!!!!
+// 【 departure: Her departure is a big loss to the school. 她这一走对学校来说是一个巨大的损失 】
+// They had received no news of him since his departure from the island. 自从他离开这座岛后，他们再没得到过他的消
+// His departure, in fact, went almost unremarked. 事实上，他的离去几乎没被注意到
+// -- unremarked 未被注意的
+// ---- It takes 3 hours to get there. so i'll find you a ticket with the departure time by noon.
+// ---- 到那里需要3个小时。所以我会给你找一张中午前出发的票
 
 cooperation 合作
 cooperation = co + operation
@@ -185,6 +240,8 @@ intersection 交集n 十字路口n
 emergency door release. 紧急开门操作
 Twist the handle along the unlocking direction. 沿解锁方向转动把手
 Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
+Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙
 
 
 bear 熊 承担
