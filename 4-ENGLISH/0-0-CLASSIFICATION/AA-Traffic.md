@@ -2,6 +2,32 @@
 
 ##### (1) subway/metro/tube/unground 地铁
 
+- `【 Which line should I take? 我应该乘坐那条线? 】`
+- `【 Which subway exit are you at? 你在哪个地铁口？】`
+- `【 How do I get there? 我怎么去那里？】`
+- `【 Wait for people to get off first. 等下车的人先走 】`
+- `【 we are on line 1. 我们在一号线 】`
+- `【 The ship is bound for America. 这艘轮船是开往美洲去的 】`
+- `【 Thank you for your cooperation. 谢谢您的合作 】`
+-
+-
+- `Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙`
+- `I'll explain it to you step by step. 我来一步一步地给你解释`
+- `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间`
+- `Would you like to go by express train? 你想坐快车去吗？`
+- `welcome aboard my hire car. 欢迎乘坐我的出租车`
+- `a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告`
+-
+-
+- `This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门`
+- `make sure you park your car clear of the entrance. 确保将车停在远离入口的地方`
+- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽`
+-
+-
+- `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
+- `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款`
+- `Please offer you seats to anyone in need. 请给有需要的人让座`
+
 ```总
 subway = metro = tube = underground
 tube 管 管子 伦敦地铁
@@ -78,11 +104,11 @@ queue up = wait in line. 排队
 -
 exit 出口 通道 n
 entrance 入口 n
-// make sure you park your car clear of the entrance. 一定要把车停在远离入口的地方
+// make sure you park your car clear of the entrance. 确保将车停在远离入口的地方
 // clear of. 远离
 -
 【 clear of. 远离 】
-// make sure you park your car clear of the entrance. 一定要把车停在远离入口的地方
+// make sure you park your car clear of the entrance. 确保将车停在远离入口的地方
 stand clear. 远离 让开 保持距离
 stand clear of. 远离
 -
@@ -145,7 +171,7 @@ arrive 到达 v
 arrival 到达 n
 【 arrival time. 达到时间 】
 【 departure time. 出发时间 】
-// A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间
+// 【 A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间 】
 -
 belt 腰带 传送带
 turnstile 闸机
@@ -372,6 +398,7 @@ manual 手动的adj 说明书n
 manually 手动 adv
 manually = manual + ly
 【 roll it manually. 手动转动 】
+
 
 AA.
 Dear passengers, welcome aboard Kitty City Metro, line1.
