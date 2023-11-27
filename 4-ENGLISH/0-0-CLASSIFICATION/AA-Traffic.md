@@ -9,6 +9,7 @@ subway 地铁
 railway 铁路 // rail handrail railway stair-handrail
 carriage 车厢 马车
 safety line. 安全线
+safety notice. 安全标志
 -
 stair 楼梯
 lift 电梯 举起
@@ -26,6 +27,32 @@ handrail 扶手
 handle 把手
 // You can use the handrails or the handles. 您可以使用扶手或把手
 -
+one-way ticket. 单程票
+single ticket. 单程票
+single ride ticket. 单程票
+round-trip ticket. 往返票
+round trip ticket. 往返票
+return ticket. 返程票
+monthly pass. 月票
+circle line. 环线
+-
+【 security check. 安检 】
+【 metal detector. 金属探测仪 】
+detector 检测器
+brake 刹车 n/v
+【 emergency exit. 紧急出口 】
+【 emergency call. 紧急呼叫 】
+【 emergency braking. 紧急制动刹车 】
+train 火车 列车
+staff only. 游客止步 乘客止步 仅限员工 员工通道
+-
+transfer 转移 转让
+【 transfer station. 中转站 】
+-
+coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
+economy class. 经济舱 // economy 经济 n
+business class. 商务舱
+-
 queue 队列 排队
 queue up. 排队
 wait in line. 排队
@@ -36,14 +63,6 @@ queue up = wait in line. 排队
 exit 出口 通道 n
 entrance 入口 n
 // make sure you park your car clear of the entrance. 切莫把车停在入口处
--
-【 security check. 安检 】
-brake 刹车 n/v
-【 emergency exit. 紧急出口 】
-【 emergency call. 紧急呼叫 】
-【 emergency braking. 紧急制动刹车 】
-train 火车 列车
-staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
 lean 靠在 肉少的 瘦肉
 【 no leaning. 禁止依靠 】 // 【 no littering. 禁止乱扔杂物 】
@@ -66,7 +85,6 @@ release 释放 发布
 aboard 在 船/飞机/火车/汽车 上 adv
 abroad 在国外adv 海外n
 offer 提供 录取通知书
-transfer 转移 转让
 -
 cooperation 合作 // co + operation
 coexistence 共存 // co + existence
@@ -92,19 +110,11 @@ orientation 方向 n
 -
 kitty corner. 对角 斜对角
 -
-destination 目的地
+destination 目的地 // terminal
 destiny 命运
 intersection 交集 十字路口
 express train. 特快列车
 fast track. 快速通道 // track 轨道n 路径n 追踪v
--
-one-way ticket. 单程票
-single ticket. 单程票
-single ride ticket. 单程票
-round-trip ticket. 往返票
-round trip ticket. 往返票
-return ticket. 返程票
-circle line. 环线
 -
 depart 离开 v
 departure 出发 离开 n
@@ -121,12 +131,22 @@ turnstile 闸机
 swipe 刷卡
 stuck 卡住
 -
+bake 烤
+// Bake until the crust is golden. 烘烤至外皮呈金黄色
+-
 vend 出售 售卖
 vending machine. 自动售货机
 -
 valid 有效的
 invalid 无效的
 // Because it will be invalid the next day. 明天就失效了
+-
+cab 出租车，口语
+taxi 出租车
+-
+tourist 游客 旅行者 n
+tour 旅行 v/n
+【 tourist attraction. 旅游胜地 】
 
 
 
@@ -221,9 +241,10 @@ caution 小心n 谨慎n 警告v
 // caution, This truck is reversing. 小心！卡车在倒车
 
 is bound for. 以...为目的地  准备到..去  开往
-// The ship is bound for America. 这艘轮船是开往美洲去的
+// 【 The ship is bound for America. 这艘轮船是开往美洲去的 】
 
 transfer 转移 转让
+【 transfer station. 中转站 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
@@ -287,9 +308,16 @@ illegally 非法地 adv
 // 【 illegally非法地: When she crossed the border illegally to live with her brother. 当她非法越境与哥哥一起生活时 】
 
 
+【 Which line should I take? 我应该乘坐那条线? 】
+【 Which subway exit are you at? 你在哪个地铁口？】
+-
 【 which direction should we go to? 我们该往哪个方向走？ 】
 【 The door will open on this side. 这一侧的门会打开 】
 【 You just insert it into the slot here. 你只需把它插入这里的插槽 】
+【 How do I get there? 我怎么去那里？】
+-
+I want to go downtown. 我想去市中心
+// 不能说成 I want to go to downtown.
 -
 emergency door release. 紧急开门操作
 Twist the handle along the unlocking direction. 沿解锁方向转动把手
@@ -378,7 +406,7 @@ arrival 到达 n
 // ---- 到那里需要3个小时。所以我会给你找一张中午前出发的票
 
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
-economy class. 经济舱
+economy class. 经济舱 // economy 经济 n
 business class. 商务舱
 
 one-way ticket. 单程票
@@ -405,7 +433,7 @@ Buying bus tours. 购买巴士旅游
 
 
 empire 帝国
-destination 目的地
+destination 目的地 = terminal
 -
 cab 出租车，口语
 taxi 出租车
@@ -415,7 +443,7 @@ tourist 游客 旅行者 n
 tour 旅行 v/n
 【 tourist attraction. 旅游胜地 】
 // tourist 游客: The people in the hotel were mainly foreign tourist. 酒店里住的大多是外国游
-// Students sometimes do casual work in the tourist trade. 学生有时做些旅游方面的零
+// Students sometimes do casual work in the tourist trade. 学生有时做些旅游方面的临时工
 // -- casual 临时的
 
 state 状态 n
