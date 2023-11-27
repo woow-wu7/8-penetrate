@@ -1,19 +1,27 @@
-# Traffic / Transport
+# Transportation / Traffic / Transport
 
 - `Transportation vehicles. 交通工具`
+- `Personal transportation. 个人交通工具`
+-
+-
+- `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
+- 1. How do you go to work every day? 你每天怎么去上班？
+- 2. I oftentimes go to work by car. 我经常开车去上班
+- 2. I go to work on foot every day = I walk to work every day.
 
 ##### (1) transportation vehicles 交通工具
 
 ```
-1
+fire engine. 消防车
 ambulance 救护车
+van 面包车
+-
+tractor 拖拉机
 cab 出租车，口语
 taxi 出租车
 scooter 小型摩托车
 baby carriage. 婴儿车
 skateboard 滑板
-fire engine. 消防车
-tractor 拖拉机
 cement mixer 混凝土搅拌机
 recycling truck. 回收卡车
 -
@@ -21,8 +29,10 @@ crane 吊车
 forklift 叉车
 -
 bike 自行车
+e-bike 电瓶车
 bicycle 自行车
-motorcycle 摩托车
+shared-bicycle 共享单车
+motorcycle 摩托车 // motorboat 摩托艇 汽艇
 -
 police car. 警车
 bus 公共汽车
@@ -31,18 +41,27 @@ subway 地铁
 
 
 
-------- ------- ------- 
+------- ------- -------
 
 
 ballon 气球
 helicopter 直升飞机
 airplane 飞机
+rocket 火箭
 
+------- ------- -------
 
-------- ------- ------- 
 
 boat 船
+sailboat 帆船
 rowboat 划艇
+motorboat 摩托艇 汽艇 // motorcycle 摩托车
+-
+submarine 潜水艇
+cruiser 巡洋舰
+jet ski. 喷气式滑艇
+canoe 独木舟
+ship 船
 ```
 
 ##### (2) subway/metro/tube/unground 地铁
