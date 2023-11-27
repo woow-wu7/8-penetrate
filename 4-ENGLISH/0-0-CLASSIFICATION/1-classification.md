@@ -17,8 +17,8 @@ oxygen 氧气
 subway = metro = tube = underground
 tube 管 管子 伦敦地铁
 subway 地铁
-railway 铁路
-carriage 车厢
+railway 铁路 // rail handrail railway stair-handrail
+carriage 车厢 马车
 safety line. 安全线
 -
 stair 楼梯
@@ -35,6 +35,8 @@ step on. 踩上去 踏上...
 -
 【 security check. 安检 】
 queue 队列 排队
+// jump a queue. 插队
+// cut a queue. 插队
 exit 出口 通道
 brake 刹车 n/v
 【 emergency exit. 紧急出口 】
@@ -44,13 +46,13 @@ train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
 lean 靠在 肉少的 瘦肉
-【 no leaning. 禁止依靠 】
-leaning tower. 斜塔
+【 no leaning. 禁止依靠 】 // 【 no littering. 禁止乱扔杂物 】
+【 leaning tower. 斜塔 】
 cushion for leaning on. 靠垫
 -
 letter 信 字母
 litter 垃圾n 乱扔
-【 no littering. 禁止乱扔杂物 】
+【 no littering. 禁止乱扔杂物 】// 【 no leaning. 禁止依靠 】
 litter box. 猫砂 ; 猫砂盆
 -
 no smoking. 禁止吸烟
@@ -71,7 +73,7 @@ coincidence 巧合 // co + incidence
 -
 litter 乱丢的垃圾
 waste 任何被丢弃的东西
-garbage 剩菜剩饭或不能再食用的-食物垃圾
+garbage 剩菜剩饭或不能再食用的--食物垃圾
 rubbish 破损，用过的，或无用的东西
 -
 mind the gap. 当心缝隙
@@ -83,8 +85,11 @@ get off. 下车 下班
 // -- get up. 起床
 // -- get to work. 上班
 -
+orient 方向v 使朝向v
+orientation 方向 n
+-
 kitty corner. 对角 斜对角
-orientation 方向
+-
 destination 目的地
 destiny 命运
 intersection 交集 十字路口
@@ -128,11 +133,15 @@ in + n: 表示出于某种状态
 // in safety. 出于安群状态
 // in public. 在公众场合
 
-is bound for. 以...为目的地
+caution 小心n 谨慎n 警告v
+【 Caution Gap. 当心间隙 】
+// caution, This truck is reversing. 小心！卡车在倒车
+
+is bound for. 以...为目的地  准备到..去  开往
 // The ship is bound for America. 这艘轮船是开往美洲去的
 
 transfer 转移 转让
-// 【 transfer 换乘: Transfer from line 3 to line 1. 从3号线换乘到1号线 】
+// 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
 
@@ -159,12 +168,12 @@ security 安全 n
 【 information security. 信息安全 】
 【 sense of security 安全感 】
 【 security camera 监控录像 】
-// You may not enter the security area without authorization. 未经批准不得进入警戒地区
+// 【 You may not enter the security area without authorization. 未经批准不得进入警戒地区 】
 // -- authorization 授权n
 // -- security 安全 n
 
 destination 目的地
-// 【 Only half of the emergency supplies have reached heir destination. 仅有一半的紧急救援物资运抵了目的地 】
+// 【 Only half of the emergency supplies have reached their destination. 仅有一半的紧急救援物资运抵了目的地 】
 // We arrived at our destination tired and hungry. 我们到达目的地时又累又饿
 
 destiny 命运
@@ -176,6 +185,25 @@ intersection 交集n 十字路口n
 emergency door release. 紧急开门操作
 Twist the handle along the unlocking direction. 沿解锁方向转动把手
 Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+
+
+bear 熊 承担
+legal 法律的
+responsibility 责任 n
+【 legal responsibility. 法律责任 】
+【 bear legal responsibility. 承担法律责任 】
+
+shall 将要 将 将会
+// Shall we order some coffee? 我们要些咖啡好吗？
+// Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+
+illegal 非法的 adj
+illegally 非法地 adv
+【 illegal code. 非法代码 】
+// 【 illegal非法的: It's illegal to drive through a red light. 开车闯红灯是违章行为 】
+// illegal非法的: This story about an illegal crossing. 这个关于非法越境的故事
+// 【 illegally非法地: Park illegally, and you're likely to be ticketed. 违章停车可能收到罚款单 】
+// 【 illegally非法地: When she crossed the border illegally to live with her brother. 当她非法越境与哥哥一起生活时 】
 
 
 AA.
