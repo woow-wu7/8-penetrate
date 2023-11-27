@@ -1,6 +1,51 @@
-# Traffic
+# Traffic / Transport
 
-##### (1) subway/metro/tube/unground 地铁
+- `Transportation vehicles. 交通工具`
+
+##### (1) transportation vehicles 交通工具
+
+```
+1
+ambulance 救护车
+cab 出租车，口语
+taxi 出租车
+scooter 小型摩托车
+baby carriage. 婴儿车
+skateboard 滑板
+fire engine. 消防车
+tractor 拖拉机
+cement mixer 混凝土搅拌机
+recycling truck. 回收卡车
+-
+crane 吊车
+forklift 叉车
+-
+bike 自行车
+bicycle 自行车
+motorcycle 摩托车
+-
+police car. 警车
+bus 公共汽车
+train 火车
+subway 地铁
+
+
+
+------- ------- ------- 
+
+
+ballon 气球
+helicopter 直升飞机
+airplane 飞机
+
+
+------- ------- ------- 
+
+boat 船
+rowboat 划艇
+```
+
+##### (2) subway/metro/tube/unground 地铁
 
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
@@ -9,6 +54,7 @@
 - `【 we are on line 1. 我们在一号线 】`
 - `【 The ship is bound for America. 这艘轮船是开往美洲去的 】`
 - `【 Thank you for your cooperation. 谢谢您的合作 】`
+- `etc = et cetera 等等`
 -
 -
 - `Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙`
