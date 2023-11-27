@@ -4,10 +4,22 @@
 - `Personal transportation. 个人交通工具`
 -
 -
+- ` 【 getting around. 出行 旅游观光 】`
+- 1. How do you usually get around? 你平时怎么出行
+- 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
+-
+-
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
 - 1. How do you go to work every day? 你每天怎么去上班？
 - 2. I oftentimes go to work by car. 我经常开车去上班
 - 2. I go to work on foot every day = I walk to work every day.
+-
+-
+- `stuck 陷入 卡住`
+- `get stuck in. 陷入 卡住 束缚`
+- You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- Get stuck in mud. 陷进泥里
+- I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 
 ##### (1) transportation vehicles 交通工具
 
@@ -66,6 +78,13 @@ ship 船
 
 ##### (2) subway/metro/tube/unground 地铁
 
+- `stuck 陷入 卡住`
+- `get stuck in. 陷入 卡住 束缚`
+- You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- Get stuck in mud. 陷进泥里
+- I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
+-
+-
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
 - `【 How do I get there? 我怎么去那里？】`
@@ -92,6 +111,10 @@ ship 船
 - `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
 - `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款`
 - `Please offer you seats to anyone in need. 请给有需要的人让座`
+-
+-
+- `What's the best way to get around your hometown. 游览家乡最好的方式是什么？`
+- `What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？`
 
 ```总
 subway = metro = tube = underground
@@ -113,6 +136,23 @@ handrail 扶手 ( 楼梯等扶手 )
 【 handrail 扶手 】
 【 stair handrail. 楼梯扶手 】
 【 hold the railing. 扶住栏杆 】
+-
+get on. 上车
+get off. 下车 下班
+【 get off the bus. 下公共汽车 】
+【 get off work. 下班 】
+【 get on the bus. 上公共汽车 】
+// -- get up. 起床
+// -- get to work. 上班
+// ------- ------- 分隔线 ------- -------
+// get on/off. 上下比较大的车，可以正常走出来，比如 bus/train/plane
+// get in/out. 上下比较小的车，需要弯腰的车
+// 1. I get in the taxi. 我上出租车
+// 2. I get out of the taxi. 我下出租车
+// ------- ------- 分隔线 ------- -------
+// 下车
+// -- get off the bus/train/subway/plane/elevator. 不需要弯腰
+// -- get out of the taxi/car. 需要弯腰
 -
 step 步n 步骤n 踩v
 【 step by step. 一步一步地 逐步得 】
@@ -210,14 +250,6 @@ litter 乱丢的垃圾
 waste 任何被丢弃的东西
 garbage 剩菜剩饭或不能再食用的--食物垃圾
 rubbish 破损，用过的，或无用的东西
--
-get on. 上车
-get off. 下车 下班
-【 get off the bus. 下公共汽车 】
-【 get off work. 下班 】
-【 get on the bus. 上公共汽车 】
-// -- get up. 起床
-// -- get to work. 上班
 -
 orient 方向v 使朝向v
 orientation 方向 n
