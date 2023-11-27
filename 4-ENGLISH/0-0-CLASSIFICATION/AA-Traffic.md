@@ -22,11 +22,20 @@ handrail 扶手 ( 楼梯等扶手 )
 【 hold the railing. 扶住栏杆 】
 step on. 踩上去 踏上...
 -
+handrail 扶手
+handle 把手
+// You can use the handrails or the handles. 您可以使用扶手或把手
+-
 queue 队列 排队
 queue up. 排队
+wait in line. 排队
+queue up = wait in line. 排队
 // jump a queue. 插队
 // cut a queue. 插队
-exit 出口 通道
+-
+exit 出口 通道 n
+entrance 入口 n
+// make sure you park your car clear of the entrance. 切莫把车停在入口处
 -
 【 security check. 安检 】
 brake 刹车 n/v
@@ -91,6 +100,7 @@ fast track. 快速通道 // track 轨道n 路径n 追踪v
 -
 one-way ticket. 单程票
 single ticket. 单程票
+single ride ticket. 单程票
 round-trip ticket. 往返票
 round trip ticket. 往返票
 return ticket. 返程票
@@ -101,13 +111,41 @@ departure 出发 离开 n
 arrive 到达 v
 arrival 到达 n
 -
+【 clear of. 远离 】
+// make sure you park your car clear of the entrance. 切莫把车停在入口处
 stand clear. 远离 让开 保持距离
 stand clear of. 远离
+-
+belt 腰带 传送带
+turnstile 闸机
+swipe 刷卡
+stuck 卡住
+-
+vend 出售 售卖
+vending machine. 自动售货机
+-
+valid 有效的
+invalid 无效的
+// Because it will be invalid the next day. 明天就失效了
 
 
 
 express train. 特快列车
 // Would you like to go by express train? 你想坐快车去吗？
+
+exit 出口 通道 n
+entrance 入口 n
+// 【 make sure you park your car clear of the entrance. 切莫把车停在入口处 】
+// -- clear of. 远离
+// This is the subway entrance and exit. 这是地铁的入口和出口
+// 【 entrance 入口: This entrance is in constant use. 】
+
+swipe 刷卡
+turnstile 闸机
+// Swipe the smart turnstile. 刷卡过闸机
+// - swipe: 【 They use a swipe card to go in and out of their offices. 他们用刷卡进出办公室 】
+// - swipe: 【 Please swipe the code when exiting the station. 出站时请刷码 -- 注意 exiting 是动名词做主语 】
+// - swipe: Swipe you card though the phone, then dial. 在电话机上刷卡，然后拨号
 
 stand clear. 远离 保持距离
 【 stand clear of. 远离 】
@@ -116,6 +154,7 @@ stand clear. 远离 保持距离
 
 one-way ticket. 单程票
 single ticket. 单程票
+single ride ticket. 单程票
 round-trip ticket. 往返票
 round trip ticket. 往返票
 return ticket. 返程票
@@ -192,6 +231,9 @@ transfer 转移 转让
 safety line. 安全线
 // Metro safety line is very important to the daily operation. 地铁安全线在日常运营中对保障运营安全有着重要意义
 
+belt 腰带 传送带
+// Put you bag on the belt. 把包放在传送带上
+
 escalator 扶梯
 // This is an escalator. 这是扶梯
 // Let's take the escalator. 我们乘自动扶梯吧
@@ -226,13 +268,6 @@ destiny 命运
 intersection 交集n 十字路口n
 // 【 Take a right turn at the intersection. 在十字路口向右拐 】
 
-emergency door release. 紧急开门操作
-Twist the handle along the unlocking direction. 沿解锁方向转动把手
-Using illegally shall bear legal responsibility. 擅自使用需负法律责任
-This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
-Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙
-
-
 bear 熊 承担
 legal 法律的
 responsibility 责任 n
@@ -251,6 +286,37 @@ illegally 非法地 adv
 // 【 illegally非法地: Park illegally, and you're likely to be ticketed. 违章停车可能收到罚款单 】
 // 【 illegally非法地: When she crossed the border illegally to live with her brother. 当她非法越境与哥哥一起生活时 】
 
+
+【 which direction should we go to? 我们该往哪个方向走？ 】
+【 The door will open on this side. 这一侧的门会打开 】
+【 You just insert it into the slot here. 你只需把它插入这里的插槽 】
+-
+emergency door release. 紧急开门操作
+Twist the handle along the unlocking direction. 沿解锁方向转动把手
+Using illegally shall bear legal responsibility. 擅自使用需负法律责任
+This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
+Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙
+wait in line. 排队 = queue up. 排队
+Walk directly through the security check. 直接过安检
+Swipe the smart turnstile. 刷卡过闸机
+Confirm your destination. 确认目的地
+【 Wait for people to get off first. 等下车的人先走 】
+【 Don't lean on the door. 不要靠在门上 】
+【 Get on the subway. 上地铁 】
+don't swing on the pole. 不要转圈圈
+I need scan my QR code.  我需要扫描二维码
+【 you can swipe a card to take the subway. 你可以刷卡乘地铁 】
+【 You can use the handrails or the handles. 您可以使用扶手或把手 】
+-
+What tickets would you recommend me to buy? 你推荐我买什么票
+【 we are on line 1. 我们在一号线 】
+-
+【 Can you tell me about the method of payment? 你们给我讲讲支付方式吗 ？】
+-
+manual 手动的adj 说明书n
+manually 手动 adv
+manually = manual + ly
+【 roll it manually. 手动转动 】
 
 AA.
 Dear passengers, welcome aboard Kitty City Metro, line1.
@@ -289,9 +355,11 @@ What's the fastest way to get to the Library Station?
 buying train tickets
 --
 
+get on. 上车
 get off. 下车 下班
 // get off 下车: 【 get off the bus. 下公共汽车 】
 // get off 下班: 【 get off work. 下班 】
+// get on 上车: 【 get on the bus. 上公共汽车 】
 // -- get up. 起床
 // -- get to work. 上班
 
