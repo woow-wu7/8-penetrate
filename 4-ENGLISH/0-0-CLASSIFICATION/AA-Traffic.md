@@ -8,6 +8,7 @@ tube 管 管子 伦敦地铁
 subway 地铁
 railway 铁路 // rail handrail railway stair-handrail
 carriage 车厢 马车
+-
 safety line. 安全线
 safety notice. 安全标志
 -
@@ -21,7 +22,16 @@ handrail 扶手 ( 楼梯等扶手 )
 【 handrail 扶手 】
 【 stair handrail. 楼梯扶手 】
 【 hold the railing. 扶住栏杆 】
+-
+step 步n 步骤n 踩v
+【 step by step. 一步一步地 逐步得 】
+【 I'll explain it to you step by step. 我来一步一步地给你解释 】
 step on. 踩上去 踏上...
+-
+caution Gap. 当心间隙
+mind the gap. 当心缝隙
+mind the step. 当心台阶
+watch the step. 当心台阶
 -
 handrail 扶手
 handle 把手
@@ -29,7 +39,7 @@ handle 把手
 -
 one-way ticket. 单程票
 single ticket. 单程票
-single ride ticket. 单程票
+single ride ticket. 单程票 // ride 骑 乘坐
 round-trip ticket. 往返票
 round trip ticket. 往返票
 return ticket. 返程票
@@ -39,10 +49,16 @@ circle line. 环线
 【 security check. 安检 】
 【 metal detector. 金属探测仪 】
 detector 检测器
+-
 brake 刹车 n/v
 【 emergency exit. 紧急出口 】
 【 emergency call. 紧急呼叫 】
 【 emergency braking. 紧急制动刹车 】
+urgent = emergency
+supply 供应 供给 补给品 日常用品 // supplies
+【 urgent supplies. 紧急物资 】
+【 school supplies. 学习用品 】
+-
 train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
@@ -62,7 +78,13 @@ queue up = wait in line. 排队
 -
 exit 出口 通道 n
 entrance 入口 n
-// make sure you park your car clear of the entrance. 切莫把车停在入口处
+// make sure you park your car clear of the entrance. 一定要把车停在远离入口的地方
+// clear of. 远离
+-
+【 clear of. 远离 】
+// make sure you park your car clear of the entrance. 一定要把车停在远离入口的地方
+stand clear. 远离 让开 保持距离
+stand clear of. 远离
 -
 lean 靠在 肉少的 瘦肉
 【 no leaning. 禁止依靠 】 // 【 no littering. 禁止乱扔杂物 】
@@ -72,10 +94,12 @@ cushion for leaning on. 靠垫
 letter 信 字母
 litter 垃圾n 乱扔
 【 no littering. 禁止乱扔杂物 】// 【 no leaning. 禁止依靠 】
-litter box. 猫砂 ; 猫砂盆
+【 litter box. 猫砂; 猫砂盆 】
 -
 no smoking. 禁止吸烟
 no cycling. 禁止非机动车
+no littering. 禁止乱扔杂物
+no leaning. 禁止依靠
 -
 【 ticket office. 售票处 】
 【 route map. 交通图 】
@@ -96,12 +120,11 @@ waste 任何被丢弃的东西
 garbage 剩菜剩饭或不能再食用的--食物垃圾
 rubbish 破损，用过的，或无用的东西
 -
-mind the gap. 当心缝隙
-mind the step. 当心台阶
--
+get on. 上车
 get off. 下车 下班
 【 get off the bus. 下公共汽车 】
 【 get off work. 下班 】
+【 get on the bus. 上公共汽车 】
 // -- get up. 起床
 // -- get to work. 上班
 -
@@ -112,19 +135,17 @@ kitty corner. 对角 斜对角
 -
 destination 目的地 // terminal
 destiny 命运
-intersection 交集 十字路口
-express train. 特快列车
+【 intersection 交集 十字路口 】
+【 express train. 特快列车 】
 fast track. 快速通道 // track 轨道n 路径n 追踪v
 -
 depart 离开 v
 departure 出发 离开 n
 arrive 到达 v
 arrival 到达 n
--
-【 clear of. 远离 】
-// make sure you park your car clear of the entrance. 切莫把车停在入口处
-stand clear. 远离 让开 保持距离
-stand clear of. 远离
+【 arrival time. 达到时间 】
+【 departure time. 出发时间 】
+// A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间
 -
 belt 腰带 传送带
 turnstile 闸机
@@ -149,9 +170,9 @@ tour 旅行 v/n
 【 tourist attraction. 旅游胜地 】
 
 
-
+express 快车 表达
 express train. 特快列车
-// Would you like to go by express train? 你想坐快车去吗？
+// 【 Would you like to go by express train? 你想坐快车去吗？ 】
 
 exit 出口 通道 n
 entrance 入口 n
@@ -169,6 +190,7 @@ turnstile 闸机
 
 stand clear. 远离 保持距离
 【 stand clear of. 远离 】
+clear of. 远离
 // This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
 // Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽
 
@@ -250,6 +272,7 @@ transfer 转移 转让
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
 
 safety line. 安全线
+safety notice. 安全标志
 // Metro safety line is very important to the daily operation. 地铁安全线在日常运营中对保障运营安全有着重要意义
 
 belt 腰带 传送带
@@ -271,6 +294,7 @@ escalator 扶梯
 // -- handrail 扶手 栏杆
 
 security 安全 n
+【 security check. 安检 】
 【 network security. 网络安全 】
 【 information security. 信息安全 】
 【 sense of security 安全感 】
@@ -280,6 +304,9 @@ security 安全 n
 // -- security 安全 n
 
 destination 目的地
+emergency supplies 紧急物资
+【 urgent supplies. 紧急物资 】
+【 school supplies. 学习用品 】
 // 【 Only half of the emergency supplies have reached their destination. 仅有一半的紧急救援物资运抵了目的地 】
 // We arrived at our destination tired and hungry. 我们到达目的地时又累又饿
 
