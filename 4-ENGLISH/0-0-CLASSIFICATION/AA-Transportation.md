@@ -32,14 +32,26 @@
 - petrol tank. 汽油箱
 -
 -
+- `layover 中转 中途停留n`
+- It's a five hour flight with a half hour layover in Chicago. 这次航班飞行时间是五个小时，并且要在芝加哥停留半个小时
+-
+-
+- `checked baggage. 托运行李`
+- We need to take at least one checked bag. 我们需要至少携带一件托运行李
+-
+-
 - `electrical 电的`
 - `electrical power. 电源`
 -
 - `broke down 抛锚`
--
 - `second-hand 旧的 二手的`
 - second-hand car. 二手车
 - second-hand car = used car.
+- `which airline is is? 是哪家航空公司`
+- `The charge you for everything. 所有东西都收费`
+- `Euro 欧元`
+- `ridiculous. 荒谬的`
+- **`When was the last time you took a vacation? 你上一次度假是什么时候？`**
 -
 -
 - `transfer station. 中转站`
@@ -66,6 +78,7 @@ crane 吊车
 forklift 叉车
 -
 bike 自行车
+dirt bike. 越野摩托车
 e-bike 电瓶车
 bicycle 自行车
 shared-bicycle 共享单车
@@ -126,6 +139,10 @@ ship 船
 - `etc = et cetera 等等`
 -
 -
+- `boarding pass. 登机牌`
+- `monthly pass. 月票`
+-
+-
 - `Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙`
 - `I'll explain it to you step by step. 我来一步一步地给你解释`
 - `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间`
@@ -146,6 +163,16 @@ ship 船
 - `I want to go downtown. 我要去市中心`
 - `Which line should I take? 我应该乘坐那条线?`
 - `How do I get there. 我如何到达那里?`
+-
+-
+- `bag 纸袋 塑料袋 包`
+- `baggage 行李` // 美国叫法
+- `luggage 行李` // 英国叫法
+- `claim 认领 索赔`
+- `baggage claim. 行李领取处 领取行李`
+- Your baggage ticket is on the back of your boarding pass there.
+- And just follow the signs towards baggage claim.
+- boarding pass. 登机牌
 
 ```总
 subway = metro = tube = underground
@@ -206,6 +233,7 @@ round-trip ticket. 往返票
 round trip ticket. 往返票
 return ticket. 返程票
 monthly pass. 月票
+boarding pass. 登机牌
 circle line. 环线
 -
 【 security check. 安检 】
