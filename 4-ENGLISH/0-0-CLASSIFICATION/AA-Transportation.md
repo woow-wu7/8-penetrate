@@ -1,4 +1,4 @@
-# Transportation / Traffic / Transport
+# Transportation / Vehicle / Traffic / Transport
 
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
@@ -17,9 +17,34 @@
 -
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚`
-- You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- 1. You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- 2. She got the key stuck in the lock. 她把钥匙卡在锁里了。
 - Get stuck in mud. 陷进泥里
+- 3. `So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.`
 - I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
+-
+-
+- `gas 燃气`
+- `gasoline 汽油` // gasoline = petrol
+- `petrol 汽油`
+- `petroleum 原油`
+- petrol station. 加油站 = gas station.
+- petrol tank. 汽油箱
+-
+-
+- `electrical 电的`
+- `electrical power. 电源`
+-
+- `broke down 抛锚`
+-
+- `second-hand 旧的 二手的`
+- second-hand car. 二手车
+- second-hand car = used car.
+-
+-
+- `transfer station. 中转站`
+- `terminal station. 终点站`
+- `gas station. 加油站 = petrol station. 加油站`
 
 ##### (1) transportation vehicles 交通工具
 
@@ -85,6 +110,12 @@ ship 船
 - I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 -
 -
+- `clear of. 远离`
+- `This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门`
+- `make sure you park your car clear of the entrance. 确保将车停在远离入口的地方`
+- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽`
+-
+-
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
 - `【 How do I get there? 我怎么去那里？】`
@@ -103,11 +134,6 @@ ship 船
 - `a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告`
 -
 -
-- `This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门`
-- `make sure you park your car clear of the entrance. 确保将车停在远离入口的地方`
-- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽`
--
--
 - `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
 - `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款`
 - `Please offer you seats to anyone in need. 请给有需要的人让座`
@@ -115,6 +141,11 @@ ship 船
 -
 - `What's the best way to get around your hometown. 游览家乡最好的方式是什么？`
 - `What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？`
+-
+-
+- `I want to go downtown. 我要去市中心`
+- `Which line should I take? 我应该乘坐那条线?`
+- `How do I get there. 我如何到达那里?`
 
 ```总
 subway = metro = tube = underground
@@ -209,7 +240,7 @@ queue up = wait in line. 排队
 -
 exit 出口 通道 n
 entrance 入口 n
-// make sure you park your car clear of the entrance. 确保将车停在远离入口的地方
+// 【 make sure you park your car clear of the entrance. 确保将车停在远离入口的地方 】
 // clear of. 远离
 -
 【 clear of. 远离 】
