@@ -1,6 +1,53 @@
 # People
 
-##### (1) profession 职业 行业 n
+##### (1) Education background 教育背景 / 学历
+
+```1111111
+
+```
+
+```2222222
+幼儿园 kindergarten
+小学 junior school / elementary school / primary school
+初中 junior high school
+高中 senior high school
+中专 technical secondary school
+大学 university
+学院 college
+
+小学 junior school
+初中 junior high school
+
+中学 middle school
+高中 high school
+
+大一 freshmen
+大二 sophomore // 一半聪明一半笨蛋 philosophy哲学 moron笨蛋
+大三 junior
+大四 senior
+
+junior collage students 专科生
+undergraduate 本科生
+postgraduate 研究生
+
+bachelor's degree 学士学位 // bachelor 学士 单身汉 // bachelorette 未婚女子
+master's degree. 硕士学位 // master 硕士 主人
+doctor's degree. 博士学位 // doctor 博士 医生
+
+
+--
+
+
+kindergarten 幼儿园
+// She teaches English in kindergarten. 她在幼儿园教英语
+// Children graduate to kindergarten, then preschool, and then school. 孩子们先上幼儿园，然后上学前班，再接着上小学
+
+bachelor 学士 单身汉
+// 因为刚大学毕业的人是-学士，大多也是-单身汉
+// He was a bachelor, so I don't have any grand child. 他还是个单身汉，所以我还没有孙子呢
+```
+
+##### (2) profession 职业 行业 n
 
 ```1111111 1111111 1111111
 baker 面包师
