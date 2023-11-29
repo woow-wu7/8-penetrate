@@ -75,8 +75,10 @@
 - **! How do you usually get around? 你平时怎么出行？**
 - **! I oftentimes go to work by car. 我经常开车去上班** // oftentimes 常常
 - **! I go to work on foot every day = I walk to work every day.**
+-
 - **! How do I get there? 我怎么去那里？**`
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
+- **! Where do I go? 我该去哪里？**`
 -
 -
 - `stuck 陷入 卡住`
@@ -655,21 +657,50 @@ Excuse me. Just wondering how can I get to xxxx.
 
 ```
 boarding pass. 登机牌
+driver's license. 驾驶证
+passport 护照
+-
 parking garage. 停车场
 flight 航班
 airport 机场
+airline 航空公司
 【 sold out. 售尽 】 // sell out.
+【 check in. 登记 登记手续 】
+-
+【 in advance. 提前 】
+【 payable in advance. 提前支付 】
 -
 garage 车库
-parking garage. 停车场
+【 parking garage. 停车场 】
 -
+deposit 押金 储蓄
 【 book a flight ticket. 订一张机票 】
 【 reserve a seat. 预定一个座位 】
 -
+suitcase 手提箱
+backpack 背包
+luggage = baggage 行李
+【 carry-on suitcase. 随身手提箱 】
+-
+counter 柜台 计数器
+count 计数
+-
+scale 秤 大小
+lithium batteries. 锂电池
+E-Cigarettes. 电子烟
+【 head to. 前往 】
+【 take off. 起飞 脱掉 】
+drain 排水管
+rush 冲v 匆忙n
+
+
 
 where am I? 我在哪里 = where I'm at? 我在哪里
 How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
 How did I get to the airport? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
+Where do I go? 我该去哪里？
+No liquid/fluid are allowed through security. 不允许液体/流体通过安检
+And as you see, the process was a little bit quick. 正如你所看到的，这个过程有点快
 
 board 板 木板 董事会 上船上飞机等
 【 blackboard 黑板 】
@@ -678,7 +709,36 @@ board 板 木板 董事会 上船上飞机等
 
 sold out. 售尽
 // sell out.
-// The tickets sold out within hours. 几小时内票就卖光了
+// 【 The tickets sold out within hours. 几小时内票就卖光了 】
+
+in advance. 提前
+【 payable in advance. 提前支付 】
+// 【 You don't have to pay for the tickets in advance. 你不必预付票 】
+// 【 deposit 押金: A 10% deposit is payable in advance. 预付10%的定金 】
+// Plan your route in advance, using main roads as far as possible. 预先安排好你的路线，尽量走大
+
+check in. 登记手续
+// 【 Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手 】
+// Please check in after 1:00 pm tomorrow. 请在明天下午1点后入办理入住手续
+
+head to. 前往
+// head to my gate. 到我的门口去
+
+take off. 起飞 脱掉
+scarf 围巾
+// take off.脱掉: Take your scarf off.  = take off your scarf. 把围巾拿下来
+// take off.起飞: The plane won't take off until the thick clouds move away. 直到密云散去，飞机才会起飞。
+
+deposit 押金 储蓄
+【 deposit account. 存款账户 】
+// deposit 存储: I deposited 1000 yuan in my account this morning. 今天上午我在账户上存了1000元
+// 【 deposit 押金: A 10% deposit is payable in advance. 预付10%的定金 】
+// -- in advance. 提前
+// -- payable 应付的 adj
+// -- 【 payable in advance. 提前支付 】
+
+rush 冲v 匆忙n
+// Don't rush - we've got all the time in the world. 别急急忙忙的，我们有的是时间
 ```
 
 ##### (4) transportation vehicles 交通工具
