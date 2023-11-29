@@ -25,7 +25,8 @@
 -
 - `bacteria 细菌 n `
 - `probiotic 益生菌`
-- `Broad spectrum probiotic. 广谱益生菌`
+- `Broad spectrum probiotic. 广谱益生菌` // broad 宽阔的 // abroad 国外的
+- // a wide road. 宽阔的马路
 -
 -
 - `swell 肿胀v 膨胀v`

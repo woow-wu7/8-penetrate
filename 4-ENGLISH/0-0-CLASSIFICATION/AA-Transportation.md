@@ -5,21 +5,25 @@
 -
 -
 - ` 【 getting around. 出行 旅游观光 】`
-- 1. How do you usually get around? 你平时怎么出行
+- // 1.get around
+- // 2.get stuck in
+- 1. How do you usually get around? 你平时怎么出行 // How do you go to work every day?
 - 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
 -
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
-- 1. How do you go to work every day? 你每天怎么去上班？
+- 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班
 - 2. I go to work on foot every day = I walk to work every day.
 -
 -
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚`
+- // 1.get around
+- // 2.get stuck in
 - 1. You don't get stuck in traffic jams. 你不会陷入交通堵塞
 - 2. She got the key stuck in the lock. 她把钥匙卡在锁里了。
-- Get stuck in mud. 陷进泥里
+- Get stuck in the mud. 陷进泥里
 - 3. `So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.`
 - I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 -
@@ -30,6 +34,7 @@
 - `petroleum 原油`
 - petrol station. 加油站 = gas station.
 - petrol tank. 汽油箱
+- 1.petrol station 2.gas station 3.emergency station 4.transfer station 5.terminal station
 -
 -
 - `layover 中转 中途停留n`
@@ -41,7 +46,7 @@
 -
 -
 - `electrical 电的`
-- `electrical power. 电源`
+- electrical power. 电源
 -
 -
 - `second-hand 旧的 二手的`
@@ -120,7 +125,7 @@ ship 船
 ##### (2) subway/metro/tube/unground 地铁
 
 - `stuck 陷入 卡住`
-- `get stuck in. 陷入 卡住 束缚`
+- `get stuck in. 陷入 卡住 束缚` // get around.
 - You don't get stuck in traffic jams. 你不会陷入交通堵塞
 - Get stuck in mud. 陷进泥里
 - I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
@@ -134,6 +139,7 @@ ship 船
 -
 - `【 The ship is bound for America. 这艘轮船是开往美洲去的 】` // be bound for. 开往
 - `【 Thank you for your cooperation. 谢谢您的合作 】`
+- `【 please don't cut in line. 请不要插队 】` // jump a queue = cut a queue
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
 - `【 How do I get there? 我怎么去那里？】`
@@ -149,7 +155,7 @@ ship 船
 - `Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙`
 - `I'll explain it to you step by step. 我来一步一步地给你解释`
 - `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间` // depart departure
-- `Would you like to go by express train? 你想坐快车去吗？`
+- `Would you like to go by express train? 你想坐快车去吗？` // express 快车 表达
 - `welcome aboard my hire car. 欢迎乘坐我的出租车`
 - `a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告`
 -
@@ -172,20 +178,27 @@ ship 船
 - `baggage 行李` // 美国叫法
 - `luggage 行李` // 英国叫法
 - `claim 认领 索赔`
-- `baggage claim. 行李领取处 领取行李`
+- `【 baggage claim. 行李领取处 领取行李 】`
 - Your baggage ticket is on the back of your boarding pass there.
 - And just follow the signs towards baggage claim.
-- boarding pass. 登机牌
+-
+-
+- `You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语`
+- 【 boarding pass. 登机牌 】
 
 ```总
 subway = metro = tube = underground
 tube 管 管子 伦敦地铁
 subway 地铁
-railway 铁路 // rail handrail railway stair-handrail
+railway 铁路 // rail handrail railway stair-handrail // hold the railing // high-speed rail. 高铁
 carriage 车厢 马车
 -
 safety line. 安全线
 safety notice. 安全标志
+-
+attendant 服务员 乘务员
+assistant 助理 助手
+【 flight attendant. 乘务员 】
 -
 stair 楼梯
 lift 电梯 举起
@@ -194,7 +207,7 @@ escalator 扶梯
 handrail 扶手 ( 楼梯等扶手 )
 【 rail 栏杆 扶手 铁路 】
 【 railway 铁路 】
-【 handrail 扶手 】
+【 handrail 扶手 】// handle 把手 柄
 【 stair handrail. 楼梯扶手 】
 【 hold the railing. 扶住栏杆 】
 -
@@ -219,6 +232,7 @@ step 步n 步骤n 踩v
 【 step by step. 一步一步地 逐步得 】
 【 I'll explain it to you step by step. 我来一步一步地给你解释 】
 step on. 踩上去 踏上...
+【 step on the gas, we're late. 加大油门，我们要迟到了 】
 -
 caution Gap. 当心间隙
 mind the gap. 当心缝隙
@@ -250,6 +264,7 @@ brake 刹车 n/v
 urgent = emergency
 supply 供应 供给 补给品 日常用品 // supplies
 【 urgent supplies. 紧急物资 】
+【 emergency supplies. 紧急物资 】
 【 school supplies. 学习用品 】
 -
 train 火车 列车
@@ -257,6 +272,7 @@ staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
 transfer 转移 转让
 【 transfer station. 中转站 】
+【 gas station = petrol station. 加油站 】
 -
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
@@ -266,8 +282,10 @@ queue 队列 排队
 queue up. 排队
 wait in line. 排队
 queue up = wait in line. 排队
+【 We had to queue up one for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
 // jump a queue. 插队
 // cut a queue. 插队
+【 please don't cut in line. 请不要插队 】
 -
 exit 出口 通道 n
 entrance 入口 n
@@ -276,8 +294,6 @@ entrance 入口 n
 -
 【 clear of. 远离 】
 // make sure you park your car clear of the entrance. 确保将车停在远离入口的地方
-stand clear. 远离 让开 保持距离
-stand clear of. 远离
 -
 lean 靠在 肉少的 瘦肉
 【 no leaning. 禁止依靠 】 // 【 no littering. 禁止乱扔杂物 】
@@ -310,8 +326,10 @@ coincidence 巧合 // co + incidence
 -
 litter 乱丢的垃圾
 waste 任何被丢弃的东西
-garbage 剩菜剩饭或不能再食用的--食物垃圾
+garbage 剩菜剩饭或不能再食用的 -- 食物垃圾
 rubbish 破损，用过的，或无用的东西
+【 recyclable waste. 可回收物 】
+【 residual waste. 干垃圾 】
 -
 orient 方向v 使朝向v
 orientation 方向 n
@@ -335,13 +353,13 @@ arrival 到达 n
 belt 腰带 传送带
 turnstile 闸机
 swipe 刷卡
-stuck 卡住
+stuck 卡住 // get stuck in. 陷入 // get around. 出行
 -
 bake 烤
 // Bake until the crust is golden. 烘烤至外皮呈金黄色
 -
 vend 出售 售卖
-vending machine. 自动售货机
+【 vending machine. 自动售货机 】
 -
 valid 有效的
 invalid 无效的
@@ -352,6 +370,8 @@ taxi 出租车
 -
 tourist 游客 旅行者 n
 tour 旅行 v/n
+【 tourist attraction. 旅游胜地 】
+【 tourist attraction. 旅游胜地 】
 【 tourist attraction. 旅游胜地 】
 
 
@@ -373,8 +393,6 @@ turnstile 闸机
 // - swipe: 【 Please swipe the code when exiting the station. 出站时请刷码 -- 注意 exiting 是动名词做主语 】
 // - swipe: Swipe you card though the phone, then dial. 在电话机上刷卡，然后拨号
 
-stand clear. 远离 保持距离
-【 stand clear of. 远离 】
 clear of. 远离
 // This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门
 // Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽
@@ -394,6 +412,7 @@ return ticket. 返程票
 depart 离开 v
 departure 出发 离开 n
 arrival 到达 n
+arrive 到达 v
 【 arrival time. 达到时间 】
 【 departure time. 出发时间 】
 【 departure lounge. 候机室 】 // lounge 休息室
@@ -415,6 +434,7 @@ cooperation = co + operation
 
 aboard 在 船/飞机/火车/汽车 上 adv
 abroad 在国外adv 海外n
+broad 宽广的 adj // Broad spectrum probiotic. 广谱益生菌
 【 welcome aboard. 欢迎乘坐 】
 【 welcome aboard my hire car. 欢迎乘坐我的出租车 】
 【 go aboard. 上船 】
@@ -452,6 +472,7 @@ is bound for. 以...为目的地  准备到..去  开往
 
 transfer 转移 转让
 【 transfer station. 中转站 】
+【 gas station = petrol station. 加油站 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
