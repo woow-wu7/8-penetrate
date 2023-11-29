@@ -20,6 +20,14 @@
 -
 -
 -
+- `professional. 专家 职业的`
+- `health professional. 健康专业人士`
+-
+- `bacteria 细菌 n `
+- `probiotic 益生菌`
+- `Broad spectrum probiotic. 广谱益生菌`
+-
+-
 - `swell 肿胀v 膨胀v`
 - `swell up. 肿胀`
 - You'd better walk around, or your feet will swell up. 你最好走一走，不然你的脚会肿起来的

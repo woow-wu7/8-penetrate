@@ -21,10 +21,10 @@
 中学 middle school
 高中 high school
 
-大一 freshmen
+大一 freshman // freshmen
 大二 sophomore // 一半聪明一半笨蛋 philosophy哲学 moron笨蛋
-大三 junior
-大四 senior
+大三 junior /// 年少的 下级的
+大四 senior // 年长的 资深的
 
 junior collage students 专科生
 undergraduate 本科生
@@ -32,7 +32,7 @@ postgraduate 研究生
 
 bachelor's degree 学士学位 // bachelor 学士 单身汉 // bachelorette 未婚女子
 master's degree. 硕士学位 // master 硕士 主人
-doctor's degree. 博士学位 // doctor 博士 医生
+doctor's degree. 博士学位 // doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
 
 
 --
@@ -45,6 +45,13 @@ kindergarten 幼儿园
 bachelor 学士 单身汉
 // 因为刚大学毕业的人是-学士，大多也是-单身汉
 // He was a bachelor, so I don't have any grand child. 他还是个单身汉，所以我还没有孙子呢
+
+sophomore 大二学生
+// I'm a collage sophomore majoring in English. 我是一名英语专业的大二学生
+// majoring in English. 主修英语
+// major in English. 主修英语
+// -- I major in English. 我主修英语
+// -- I'm a student majoring in English. = I'm an English major student.
 ```
 
 ##### (2) profession 职业 行业 n

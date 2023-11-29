@@ -43,13 +43,16 @@
 - `electrical 电的`
 - `electrical power. 电源`
 -
-- `broke down 抛锚`
+-
 - `second-hand 旧的 二手的`
 - second-hand car. 二手车
 - second-hand car = used car.
-- `which airline is is? 是哪家航空公司`
-- `The charge you for everything. 所有东西都收费`
+-
+-
 - `Euro 欧元`
+- `broke down 抛锚`
+- `which airline is it? 是哪家航空公司`
+- `The charge you for everything. 所有东西都收费`
 - `ridiculous. 荒谬的`
 - **`When was the last time you took a vacation? 你上一次度假是什么时候？`**
 -
@@ -129,13 +132,13 @@ ship 船
 - `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽`
 -
 -
+- `【 The ship is bound for America. 这艘轮船是开往美洲去的 】` // be bound for. 开往
+- `【 Thank you for your cooperation. 谢谢您的合作 】`
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
 - `【 How do I get there? 我怎么去那里？】`
 - `【 Wait for people to get off first. 等下车的人先走 】`
 - `【 we are on line 1. 我们在一号线 】`
-- `【 The ship is bound for America. 这艘轮船是开往美洲去的 】`
-- `【 Thank you for your cooperation. 谢谢您的合作 】`
 - `etc = et cetera 等等`
 -
 -
@@ -145,18 +148,18 @@ ship 船
 -
 - `Please, mind the gap between the train and the platform. 请注意火车和站台之间的空隙`
 - `I'll explain it to you step by step. 我来一步一步地给你解释`
-- `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间`
+- `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间` // depart departure
 - `Would you like to go by express train? 你想坐快车去吗？`
 - `welcome aboard my hire car. 欢迎乘坐我的出租车`
 - `a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告`
 -
 -
 - `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
-- `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款`
+- `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款` // fine 美好的 adj 罚款 n
 - `Please offer you seats to anyone in need. 请给有需要的人让座`
 -
 -
-- `What's the best way to get around your hometown. 游览家乡最好的方式是什么？`
+- `What's the best way to get around your hometown. 游览家乡最好的方式是什么？` // getting around. 出行 旅游观光
 - `What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？`
 -
 -
