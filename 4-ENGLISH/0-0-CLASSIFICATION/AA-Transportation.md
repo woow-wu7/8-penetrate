@@ -1,5 +1,7 @@
 # Transportation / Vehicle / Traffic / Transport
 
+##### (1) summarize 总结 v
+
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
 -
@@ -13,7 +15,7 @@
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
-- 2. I oftentimes go to work by car. 我经常开车去上班
+- 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
 -
 -
@@ -46,7 +48,7 @@
 -
 -
 - `electrical 电的`
-- electrical power. 电源
+- 【 electrical power. 电源 】
 -
 -
 - `second-hand 旧的 二手的`
@@ -64,66 +66,19 @@
 -
 - `transfer station. 中转站`
 - `terminal station. 终点站`
+- `petrol station. 加油站`
 - `gas station. 加油站 = petrol station. 加油站`
-
-##### (1) transportation vehicles 交通工具
-
-```
-fire engine. 消防车
-ambulance 救护车
-van 面包车
--
-tractor 拖拉机
-cab 出租车，口语
-taxi 出租车
-scooter 小型摩托车
-baby carriage. 婴儿车
-skateboard 滑板
-cement mixer 混凝土搅拌机
-recycling truck. 回收卡车
--
-crane 吊车
-forklift 叉车
--
-bike 自行车
-dirt bike. 越野摩托车
-e-bike 电瓶车
-bicycle 自行车
-shared-bicycle 共享单车
-motorcycle 摩托车 // motorboat 摩托艇 汽艇
--
-police car. 警车
-bus 公共汽车
-train 火车
-subway 地铁
-
-
-
-------- ------- -------
-
-
-ballon 气球
-helicopter 直升飞机
-airplane 飞机
-rocket 火箭
-
-------- ------- -------
-
-
-boat 船
-sailboat 帆船
-rowboat 划艇
-motorboat 摩托艇 汽艇 // motorcycle 摩托车
--
-submarine 潜水艇
-cruiser 巡洋舰
-jet ski. 喷气式滑艇
-canoe 独木舟
-ship 船
-```
 
 ##### (2) subway/metro/tube/unground 地铁
 
+- **! How do you go to work everyday? 你每天怎么去上班？**
+- **! How do you usually get around? 你平时怎么出行？**
+- **! I oftentimes go to work by car. 我经常开车去上班** // oftentimes 常常
+- **! I go to work on foot every day = I walk to work every day.**
+- **! How do I get there? 我怎么去那里？**`
+- **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
+-
+-
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚` // get around.
 - You don't get stuck in traffic jams. 你不会陷入交通堵塞
@@ -142,7 +97,8 @@ ship 船
 - `【 please don't cut in line. 请不要插队 】` // jump a queue = cut a queue
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
-- `【 How do I get there? 我怎么去那里？】`
+- `【    How do I get there? 我怎么去那里？  】` // 注意: get there 不加 to，而 get to airport 要加 to
+- `【    How did I get to the airport? 我怎么去那里？  】` // 注意: get there 不加 to，而 get to airport 要加 to
 - `【 Wait for people to get off first. 等下车的人先走 】`
 - `【 we are on line 1. 我们在一号线 】`
 - `etc = et cetera 等等`
@@ -693,4 +649,90 @@ best of luck to you in your new job. 祝你在新工作中一切顺利
 the train will depart from 30th Street Station at 2 pm on July the 8th. 火车将于7月8日下午2点从30街车站开出
 that sounds good to me. 听起来不错
 Excuse me. Just wondering how can I get to xxxx.
+```
+
+##### (3) flight 航班
+
+```
+boarding pass. 登机牌
+parking garage. 停车场
+flight 航班
+airport 机场
+【 sold out. 售尽 】 // sell out.
+-
+garage 车库
+parking garage. 停车场
+-
+【 book a flight ticket. 订一张机票 】
+【 reserve a seat. 预定一个座位 】
+-
+
+where am I? 我在哪里 = where I'm at? 我在哪里
+How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
+How did I get to the airport? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
+
+board 板 木板 董事会 上船上飞机等
+【 blackboard 黑板 】
+【 boarding pass. 登机牌 】
+// I posted a question on the message board. 我在留言板上贴出了一个问题
+
+sold out. 售尽
+// sell out.
+// The tickets sold out within hours. 几小时内票就卖光了
+```
+
+##### (4) transportation vehicles 交通工具
+
+```
+fire engine. 消防车
+ambulance 救护车
+van 面包车
+-
+tractor 拖拉机
+cab 出租车，口语
+taxi 出租车
+scooter 小型摩托车
+baby carriage. 婴儿车
+skateboard 滑板
+cement mixer 混凝土搅拌机
+recycling truck. 回收卡车
+-
+crane 吊车
+forklift 叉车
+-
+bike 自行车
+dirt bike. 越野摩托车
+e-bike 电瓶车
+bicycle 自行车
+shared-bicycle 共享单车
+motorcycle 摩托车 // motorboat 摩托艇 汽艇
+-
+police car. 警车
+bus 公共汽车
+train 火车
+subway 地铁
+
+
+
+------- ------- -------
+
+
+ballon 气球
+helicopter 直升飞机
+airplane 飞机
+rocket 火箭
+
+------- ------- -------
+
+
+boat 船
+sailboat 帆船
+rowboat 划艇
+motorboat 摩托艇 汽艇 // motorcycle 摩托车
+-
+submarine 潜水艇
+cruiser 巡洋舰
+jet ski. 喷气式滑艇
+canoe 独木舟
+ship 船
 ```
