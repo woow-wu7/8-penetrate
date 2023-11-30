@@ -665,9 +665,25 @@ Excuse me. Just wondering how can I get to xxxx.
 
 ##### (3) flight 航班 / airport 机场
 
+- `His plane stopped in Hawaii to refuel. 他的飞机在夏威夷停下来加燃料`
+- `I will refuel for myself. 我会为自己加油的`
+-
+-
+- `buckle up. 系好安全带`
+- `fasten your seat belts. 系好安全带` // fasten 扣紧 // belt 皮带 传送带
+-
+-
+- `The tickets sold out within hours. 几小时内票就卖光了` // sold out.
+- `Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手续` // check in.
+- `Pick them up. 接他们` // pick up.
+- `You don't have to pay for the tickets in advance. 您无需提前支付门票费用` // in advance.
+- `parking garage. 停车场` // underground parking garage.
+
 ```
 【 boarding pass. 登机牌 】
-【 driver's license. 驾驶证 】
+【 driver's license. 驾驶证 】 // license 执照 许可证
+【 license plate. 牌照 车牌 】// plate 盘子 号码牌
+【 license plate number. 车牌号 】
 【 parking garage. 停车场 】
 flight 航班
 passport 护照
@@ -694,6 +710,7 @@ buckle up. 系好安全带
 -
 garage 车库
 【 parking garage. 停车场 】
+【 underground parking garage. 地下停车场 】
 -
 【 book a flight ticket. 订一张机票 】
 【 reserve a seat. 预定一个座位 】
@@ -770,6 +787,7 @@ And as you see, the process was a little bit quick. 正如你所看到的，这�
 sold out. 售尽
 // sell out.
 // 【 The tickets sold out within hours. 几小时内票就卖光了 】
+// All the tickets were sold out. 所有的票都卖完了
 
 2
 in advance. 提前
@@ -781,7 +799,7 @@ in advance. 提前
 
 3
 check in. 登记手续
-// 【 Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手 】
+// 【 Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手续 】
 // Please check in after 1:00 pm tomorrow. 请在明天下午1点后入办理入住手续
 
 4
@@ -813,6 +831,7 @@ take my time. 慢慢来 消磨时间
 fuel 燃料
 refuel 加油
 // refuel 加油: I will refuel for myself. 我会为自己加油的
+// refuel 加油: His plane stopped in Hawaii to refuel. 他的飞机在夏威夷停下来加燃料
 // refuel 加油: His plane stopped to refuel in Geneva. 他的飞机在日内瓦停降加油
 
 9
@@ -826,6 +845,11 @@ impression 印象
 【 first impression. 第一印象 】
 // My first impression of him was favourable. 他给我的第一印象不错
 // His trip to India made a strong impression on him. 他的印度之行对他的触动很大
+
+driver's license. 驾驶证
+license plate. 牌照 车牌
+【 license plate number. 车牌号 】
+// I paid for my license plate. 牌照可是我付了钱的呀
 
 
 board 板 木板 董事会 上船上飞机等
