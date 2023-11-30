@@ -211,6 +211,8 @@ return ticket. 返程票
 monthly pass. 月票
 boarding pass. 登机牌
 circle line. 环线
+// 1. one-way ticket. 单程票
+// 2. one-way street. 单行道
 -
 【 security check. 安检 】
 【 metal detector. 金属探测仪 】
@@ -678,6 +680,20 @@ Excuse me. Just wondering how can I get to xxxx.
 - `Pick them up. 接他们` // pick up.
 - `You don't have to pay for the tickets in advance. 您无需提前支付门票费用` // in advance.
 - `parking garage. 停车场` // underground parking garage.
+- `head to my gate. 到我的门口去` // head to.
+- `a good recommendation. 一个好的建议` // recommendation
+-
+-
+- `Take your scarf off.  = take off your scarf. 把围巾拿下来` // take off. 拖下
+- `The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞` // take off. 起飞
+-
+-
+- `I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位` // reserve
+- `I guided him to the counter to order. 我带着他去柜台点餐` // counter
+-
+-
+- `I'm getting kind of hungry. 我有点饿` // kind of. // 2.I'm kind of tired today. // 3.I'm kind of hot.
+- `A phone is a kind of device. 手机是一种设备` // a kind of.
 
 ```
 【 boarding pass. 登机牌 】
@@ -715,9 +731,14 @@ garage 车库
 【 book a flight ticket. 订一张机票 】
 【 reserve a seat. 预定一个座位 】
 【 head to. 前往 】
+// reserve 预定: I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位
 -
 【 take off. 起飞 脱掉 】
-Take your scarf off.  = take off your scarf. 把围巾拿下来
+take off. 脱掉: Take your scarf off.  = take off your scarf. 把围巾拿下来
+take off. 起飞: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞
+-
+1. one-way ticket. 单程票
+2. one-way street. 单行道
 -
 deposit 押金 储蓄
 【 deposit account. 存款账户 】
@@ -762,7 +783,7 @@ business class. 商务舱
 first class. 头等舱
 -
 inspect 检查
-flight attendant. 空中乘务员
+【 flight attendant. 空中乘务员 】
 【 aisle 过道 】
 -
 impression 印象
@@ -846,11 +867,18 @@ impression 印象
 // My first impression of him was favourable. 他给我的第一印象不错
 // His trip to India made a strong impression on him. 他的印度之行对他的触动很大
 
+11
+reserve 预定 保留
+// I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位
+// I'll reserve a table for five. 我要预订一个5人的餐位
+
 driver's license. 驾驶证
 license plate. 牌照 车牌
 【 license plate number. 车牌号 】
 // I paid for my license plate. 牌照可是我付了钱的呀
 
+counter 柜台 计数器
+// I guided him to the counter to order. 我带着他去柜台点餐
 
 board 板 木板 董事会 上船上飞机等
 【 blackboard 黑板 】
