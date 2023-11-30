@@ -881,6 +881,7 @@ D drive 前进档
 -
 手动档
 gear 齿轮 // gears
+shift gears. 换档
 first gear. 一档
 second gear. 二档
 third gear. 三档
@@ -888,6 +889,7 @@ third gear. 三档
 bumper 保险杠 // bump 撞击 碰撞
 fender 挡泥板
 【 tire 轮胎 累 】
+【 pressure gauge. 压力表 】
 【 gear 齿轮 】// gears
 【 gas tank. 油箱 】
 【 thunk 树干 后备箱 】
@@ -895,11 +897,27 @@ fender 挡泥板
 【 center console. 中控台 】
 【 shifter 变速器 】
 -
+pedal 踏板
+clutch pedal. 离合器踏板
+gas pedal. 油门踏板
+brake pedal. 刹车踏板 // brake 刹车 // brake light. 刹车灯
+【 emergency braking. 紧急制动刹车 】
+【 emergency brake. 紧急制 】
+-
+windshield 挡风玻璃
+windshield wipers. 挡风玻璃雨刷
+To roll down the window. 摇下窗户
 【 rear view mirror. 后视镜 】
 【 side mirror. 侧视镜 】
 -
 headlight 车前灯
 brake light. 刹车灯 // brake 刹车
+turn signal. 转向灯
+【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
+-
+brake pedal. 刹车踏板
+【 emergency braking. 紧急制动刹车 】
+【 emergency brake. 紧急制 】
 -
 horn 喇叭
 【 honk the horn. 按喇叭 】
@@ -926,11 +944,16 @@ push the button. 按下按钮
 【 school supplies. 学习用品 】// emergency supplies = urgent supplies. 紧急物资
 -
 deluxe 豪华的 adj/adv
+category 类别
+classification 分类
+maintenance 维护
+mechanic 机械师
 
 
 
 The different parts of the car on the outside and the inside.
 So that's just the way it is. 所以事情就是这样
+Thank you so much for learning English with me.
 ```
 
 ##### (5) transportation vehicles 交通工具
