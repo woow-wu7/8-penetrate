@@ -78,6 +78,7 @@
 -
 - **! How do I get there? 我怎么去那里？**`
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
+- **! How can I get to the train station? 火车站怎么走**` // 注意: get there 不加 to，而 get to airport 要加 to
 - **! Where do I go? 我该去哪里？**`
 -
 -
@@ -96,7 +97,7 @@
 -
 - `【 The ship is bound for America. 这艘轮船是开往美洲去的 】` // be bound for. 开往
 - `【 Thank you for your cooperation. 谢谢您的合作 】`
-- `【 please don't cut in line. 请不要插队 】` // jump a queue = cut a queue
+- `【 please don't cut in line. 请不要插队 】` // jump a queue = cut a queue = cut in line.
 - `【 Which line should I take? 我应该乘坐那条线? 】`
 - `【 Which subway exit are you at? 你在哪个地铁口？】`
 - `【    How do I get there? 我怎么去那里？  】` // 注意: get there 不加 to，而 get to airport 要加 to
@@ -114,7 +115,7 @@
 - `I'll explain it to you step by step. 我来一步一步地给你解释`
 - `A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间` // depart departure
 - `Would you like to go by express train? 你想坐快车去吗？` // express 快车 表达
-- `welcome aboard my hire car. 欢迎乘坐我的出租车`
+- `welcome aboard my hire car. 欢迎乘坐我的出租车` // hire fire
 - `a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告`
 -
 -
@@ -151,7 +152,7 @@ subway 地铁
 railway 铁路 // rail handrail railway stair-handrail // hold the railing // high-speed rail. 高铁
 carriage 车厢 马车
 -
-safety line. 安全线
+【 safety line. 安全线 】
 safety notice. 安全标志
 -
 attendant 服务员 乘务员
@@ -231,6 +232,7 @@ staff only. 游客止步 乘客止步 仅限员工 员工通道
 transfer 转移 转让
 【 transfer station. 中转站 】
 【 gas station = petrol station. 加油站 】
+【 terminal station. 终点站 】
 -
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
@@ -239,10 +241,12 @@ business class. 商务舱
 queue 队列 排队
 queue up. 排队
 wait in line. 排队
+cut in line. 插队
 queue up = wait in line. 排队
 【 We had to queue up one for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
 // jump a queue. 插队
 // cut a queue. 插队
+// cut in line. 插队
 【 please don't cut in line. 请不要插队 】
 -
 exit 出口 通道 n
@@ -257,6 +261,8 @@ lean 靠在 肉少的 瘦肉
 【 no leaning. 禁止依靠 】 // 【 no littering. 禁止乱扔杂物 】
 【 leaning tower. 斜塔 】
 cushion for leaning on. 靠垫
+// learn 学习
+// lean 靠在 肉少的 瘦肉
 -
 letter 信 字母
 litter 垃圾n 乱扔
@@ -431,6 +437,7 @@ is bound for. 以...为目的地  准备到..去  开往
 transfer 转移 转让
 【 transfer station. 中转站 】
 【 gas station = petrol station. 加油站 】
+【 terminal station. 终点站 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
@@ -448,12 +455,13 @@ escalator 扶梯
 // 1.【 Riding an escalator safely needs to aim for the middle of the step. 安全地乘坐自动扶梯需要瞄准台阶中间 】
 // 2.【 Hold on the handrail and step on quickly. 抓住扶手 快速站上去 】
 // 3. Sorry, did I step on you foot? 对不起，我踩到你的脚了吗？
-// 3. Sorry, I stepped on you foot. 不好意思，我踩到你的脚了
+// 3. 【 Sorry, I stepped on you foot. 不好意思，我踩到你的脚了 】
 // 4. Stay away from the sides. 离两边远点
 // 5. stand on the right. 靠右站立
 // 6. 【 That way others can pass us on the left. 这样别人才能从左边超过咋们 】
 // -- step 步骤n 步伐n 台阶n 踩v
-// -- step on. 踩上... 踏上...
+// -- 1. step on. 踩上... 踏上...
+// -- 2. step by step. 一步一步地
 // -- ride 骑 驾驶 // riding
 // -- handrail 扶手 栏杆
 
@@ -653,34 +661,48 @@ that sounds good to me. 听起来不错
 Excuse me. Just wondering how can I get to xxxx.
 ```
 
-##### (3) flight 航班
+##### (3) flight 航班 / airport 机场
 
 ```
-boarding pass. 登机牌
-driver's license. 驾驶证
-passport 护照
--
-parking garage. 停车场
+【 boarding pass. 登机牌 】
+【 driver's license. 驾驶证 】
+【 parking garage. 停车场 】
 flight 航班
+passport 护照
 airport 机场
 airline 航空公司
+-
 【 sold out. 售尽 】 // sell out.
 【 check in. 登记 登记手续 】
 -
 【 in advance. 提前 】
-【 payable in advance. 提前支付 】
+【 payable in advance. 提前支付 】// payable 应付adj
+// You don't have to pay for the tickets in advance. 你不必预付票
+【 one hour early. 提前1小时 】
 -
 garage 车库
 【 parking garage. 停车场 】
 -
-deposit 押金 储蓄
 【 book a flight ticket. 订一张机票 】
 【 reserve a seat. 预定一个座位 】
+【 head to. 前往 】
+-
+【 take off. 起飞 脱掉 】
+Take your scarf off.  = take off your scarf. 把围巾拿下来
+-
+deposit 押金 储蓄
+【 deposit account. 存款账户 】
 -
 suitcase 手提箱
 backpack 背包
 luggage = baggage 行李
 【 carry-on suitcase. 随身手提箱 】
+【 baggage claim. 行李领取处 领取行李 】
+-
+【 kind of. 有点 】
+【 a kind of. 一种 某种 = a type of. 】
+// 1. a kind of. 一种 // A phone is a kind of device. 手机是一种设备
+// 2. kind of. 有点 // I'm kind of hot. 我有点热 // I'm getting kind of hungry. 我有点饿
 -
 counter 柜台 计数器
 count 计数
@@ -688,13 +710,20 @@ count 计数
 scale 秤 大小
 lithium batteries. 锂电池
 E-Cigarettes. 电子烟
-【 head to. 前往 】
-【 take off. 起飞 脱掉 】
 drain 排水管
 rush 冲v 匆忙n
+fast food chains. 快餐连锁店
+pizzeria 披萨店
+souvenirs 纪念品
+-
+recommend 推荐 建议 v
+recommendation 推荐 建议 n
+【 recommendation letter. 推荐信 】
+a good recommendation. 一个好的建议
+appreciate 欣赏 感激 v
 
 
-
+I'm getting kind of hungry so I'm going to look for things to eat at this airport. 我有点饿了，所以我要去机场找吃的
 where am I? 我在哪里 = where I'm at? 我在哪里
 How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
 How did I get to the airport? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
@@ -702,32 +731,50 @@ Where do I go? 我该去哪里？
 No liquid/fluid are allowed through security. 不允许液体/流体通过安检
 And as you see, the process was a little bit quick. 正如你所看到的，这个过程有点快
 
-board 板 木板 董事会 上船上飞机等
-【 blackboard 黑板 】
-【 boarding pass. 登机牌 】
-// I posted a question on the message board. 我在留言板上贴出了一个问题
-
+1
 sold out. 售尽
 // sell out.
 // 【 The tickets sold out within hours. 几小时内票就卖光了 】
 
+2
 in advance. 提前
 【 payable in advance. 提前支付 】
+【 one hour early. 提前1小时 】
 // 【 You don't have to pay for the tickets in advance. 你不必预付票 】
 // 【 deposit 押金: A 10% deposit is payable in advance. 预付10%的定金 】
 // Plan your route in advance, using main roads as far as possible. 预先安排好你的路线，尽量走大
 
+3
 check in. 登记手续
 // 【 Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手 】
 // Please check in after 1:00 pm tomorrow. 请在明天下午1点后入办理入住手续
 
+4
 head to. 前往
 // head to my gate. 到我的门口去
 
+5
 take off. 起飞 脱掉
 scarf 围巾
-// take off.脱掉: Take your scarf off.  = take off your scarf. 把围巾拿下来
-// take off.起飞: The plane won't take off until the thick clouds move away. 直到密云散去，飞机才会起飞。
+// 【 take off.脱掉: Take your scarf off.  = take off your scarf. 把围巾拿下来 】
+// take off.起飞: The plane won't take off until the thick clouds move away. 直到密云散去，飞机才会起飞
+
+6
+kind of. 有点
+a kind of. 一种
+// 【 a kind of = a type of. 一种 】
+// I'm kind of tired today. 我今天有点累
+// I'm kind of hot. 我有点热
+// I'm getting kind of hungry. 我有点饿
+// -- 1. a kind of. 一种 // A phone is a kind of device. = A phone is type of device. 手机是一种设备
+// -- 2. kind of. 有点 // I'm kind of hot. 我有点热 // I'm getting kind of hungry. 我有点饿
+
+
+
+board 板 木板 董事会 上船上飞机等
+【 blackboard 黑板 】
+【 boarding pass. 登机牌 】
+// I posted a question on the message board. 我在留言板上贴出了一个问题
 
 deposit 押金 储蓄
 【 deposit account. 存款账户 】
@@ -736,9 +783,23 @@ deposit 押金 储蓄
 // -- in advance. 提前
 // -- payable 应付的 adj
 // -- 【 payable in advance. 提前支付 】
+// -- 【 one hour early. 提前1小时 】
 
 rush 冲v 匆忙n
 // Don't rush - we've got all the time in the world. 别急急忙忙的，我们有的是时间
+
+recommendation 推荐 建议 n
+【 recommendation letter. 推荐信 】
+// recommend 推荐 建议 v
+// 【 a good recommendation. 一个好的推荐 】
+// 【 And give me a good recommendation, I'd really appreciate it. 给我写封推荐信，我会感激不尽 】
+【 on the strength of. 在...影响下 凭借 】
+// 1. I got the job on the strength of your recommendation. 由于您的推荐，我得到了那份工作
+// 2. I had the operation on the recommendation of my doctor. 我根据医生的建议做了手术
+
+appreciate 欣赏 感激 v
+// 【 I really appreciate your help. 我非常感激你的帮助 】
+// 【 I really appreciate you doing this. 我很感谢你做的这些事情 】
 ```
 
 ##### (4) transportation vehicles 交通工具
