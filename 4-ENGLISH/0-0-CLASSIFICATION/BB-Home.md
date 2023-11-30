@@ -343,7 +343,7 @@ toothpaste 牙膏
 toothbrush 牙刷
 ```
 
-# Home detail
+# (三) Home detail
 
 ```1111111
 (1)
@@ -394,4 +394,17 @@ The woman is wiping the mirror with a rag. 这个女人正在用抹布擦拭镜�
 // wipe 消除 抹去 v
 // rag 抹布
 // -- I'm using the towel to wipe the door. 我用毛巾在擦门
+```
+
+# (四) There meals 三餐
+
+```
+breakfast 早餐
+lunch 午餐
+brunch 早午餐 // brunch = breakfast + lunch
+supper 晚餐 // 非正式的晚餐
+dinner 晚餐 // 正式的晚餐
+
+box lunch. 盒饭
+meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
 ```

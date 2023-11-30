@@ -179,3 +179,16 @@ pilot 飞行员
 // pilot: The accident was caused by a pilot error. 事故是由于飞行员失误造成的
 // pilot: The pilot made an emergency landing in a filed. 飞行员在田地里紧急降落
 ```
+
+##### (3) There meals 三餐
+
+```
+breakfast 早餐
+lunch 午餐
+brunch 早午餐 // brunch = breakfast + lunch
+supper 晚餐 // 非正式的晚餐
+dinner 晚餐 // 正式的晚餐
+
+box lunch. 盒饭
+meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
+```

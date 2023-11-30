@@ -721,9 +721,15 @@ recommendation 推荐 建议 n
 【 recommendation letter. 推荐信 】
 a good recommendation. 一个好的建议
 appreciate 欣赏 感激 v
+-
+attention 注意 关注 n
+【 call my attention. 引起我的注意 】
 
 
 I'm getting kind of hungry so I'm going to look for things to eat at this airport. 我有点饿了，所以我要去机场找吃的
+It's a lot more expensive compared to the regular prices like in my city. 与我所在城市的正常价格相比，它要贵得多
+But they didn't really call my attention. 但他们并没有真正引起我的注意
+-
 where am I? 我在哪里 = where I'm at? 我在哪里
 How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
 How did I get to the airport? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
