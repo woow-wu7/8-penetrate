@@ -237,6 +237,7 @@ transfer 转移 转让
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
 business class. 商务舱
+first class. 头等舱
 -
 queue 队列 排队
 queue up. 排队
@@ -608,6 +609,7 @@ arrival 到达 n
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
 business class. 商务舱
+first class. 头等舱
 
 one-way ticket. 单程票
 round-trip ticket. 往返票
@@ -672,6 +674,9 @@ passport 护照
 airport 机场
 airline 航空公司
 -
+fuel 燃料
+refuel 加油
+-
 【 sold out. 售尽 】 // sell out.
 【 check in. 登记 登记手续 】
 -
@@ -724,11 +729,25 @@ appreciate 欣赏 感激 v
 -
 attention 注意 关注 n
 【 call my attention. 引起我的注意 】
+-
+【 take my time. 慢慢来 消磨时间 】
+-
+coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
+economy class. 经济舱 // economy 经济 n
+business class. 商务舱
+first class. 头等舱
+-
+inspect 检查
+flight attendant. 空中乘务员
+【 fasten seat belts. 系好安全带 】
+【 aisle 过道 】
+
 
 
 I'm getting kind of hungry so I'm going to look for things to eat at this airport. 我有点饿了，所以我要去机场找吃的
 It's a lot more expensive compared to the regular prices like in my city. 与我所在城市的正常价格相比，它要贵得多
-But they didn't really call my attention. 但他们并没有真正引起我的注意
+But they didn't really call my attention. 但他们并没有真正引起我的注意 // 【 call my attention. 引起我的注意 】
+Before boarding the plane I have to wait for the passengers to exit the airplane.
 -
 where am I? 我在哪里 = where I'm at? 我在哪里
 How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
@@ -775,6 +794,22 @@ a kind of. 一种
 // -- 1. a kind of. 一种 // A phone is a kind of device. = A phone is type of device. 手机是一种设备
 // -- 2. kind of. 有点 // I'm kind of hot. 我有点热 // I'm getting kind of hungry. 我有点饿
 
+7
+take my time. 慢慢来 消磨时间
+// I'm going to take my time. 我要慢慢来
+// I take my time waking up, but then I wash up quickly. 我花了一些时间起床，然后很快地洗漱完毕
+
+8
+fuel 燃料
+refuel 加油
+// refuel 加油: I will refuel for myself. 我会为自己加油的
+// refuel 加油: His plane stopped to refuel in Geneva. 他的飞机在日内瓦停降加油
+
+9
+fasten 系牢 系
+belt 腰带 皮带 传送带
+// Fasten your seat belts. 系好安全带
+// Did everyone fasten their seat belt. 每个人都系牢安全带了吗？
 
 
 board 板 木板 董事会 上船上飞机等
@@ -793,6 +828,10 @@ deposit 押金 储蓄
 
 rush 冲v 匆忙n
 // Don't rush - we've got all the time in the world. 别急急忙忙的，我们有的是时间
+
+aisle 过道 走廊
+【 aisle seat. 靠近过道的座位 】
+// Coffee and tea are in the next aisle. 咖啡和茶在下一个走道处
 
 recommendation 推荐 建议 n
 【 recommendation letter. 推荐信 】
