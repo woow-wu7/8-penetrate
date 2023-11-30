@@ -677,6 +677,12 @@ airline 航空公司
 fuel 燃料
 refuel 加油
 -
+【 seatbelt 安全带 】
+【 fasten seat belts. 系好安全带 】
+【 fasten seatbelt. 系好安全带 】
+【 buckle your seatbelt. 系好安全带 】
+buckle up. 系好安全带
+-
 【 sold out. 售尽 】 // sell out.
 【 check in. 登记 登记手续 】
 【 Pick them up. 接他们 】// pick up. 举起 接送
@@ -740,7 +746,6 @@ first class. 头等舱
 -
 inspect 检查
 flight attendant. 空中乘务员
-【 fasten seat belts. 系好安全带 】
 【 aisle 过道 】
 -
 impression 印象
@@ -858,7 +863,77 @@ appreciate 欣赏 感激 v
 // 【 I really appreciate you doing this. 我很感谢你做的这些事情 】
 ```
 
-##### (4) transportation vehicles 交通工具
+##### (4) Car
+
+```
+1.【 compact car. 紧凑型汽车 】
+2.【 sedan. 轿车，最常见的汽车 】
+3.【 convertible car. 敞篷车 】
+4.【 hatchback 三厢车 】
+5.【 pickup truck. 皮卡 】
+6.【 minivan 小型货车 】
+-
+自动档
+P park 停车档
+R reverse 倒车档
+N neutral 空档 // neutral 中性的 中立的
+D drive 前进档
+-
+手动档
+gear 齿轮 // gears
+first gear. 一档
+second gear. 二档
+third gear. 三档
+-
+bumper 保险杠 // bump 撞击 碰撞
+fender 挡泥板
+【 tire 轮胎 累 】
+【 gear 齿轮 】// gears
+【 gas tank. 油箱 】
+【 thunk 树干 后备箱 】
+【 steering wheel. 方向盘 】
+【 center console. 中控台 】
+【 shifter 变速器 】
+-
+【 rear view mirror. 后视镜 】
+【 side mirror. 侧视镜 】
+-
+headlight 车前灯
+brake light. 刹车灯 // brake 刹车
+-
+horn 喇叭
+【 honk the horn. 按喇叭 】
+-
+【 seatbelt 安全带 】
+【 fasten seat belts. 系好安全带 】
+【 fasten seatbelt. 系好安全带 】
+【 buckle your seatbelt. 系好安全带 】
+buckle up. 系好安全带
+-
+visor 遮阳板
+vents 通风口 // vent 排气口 通风口
+dashboard 仪表盘
+speedometer 速度计
+mileage 里程
+ignition 点火 点火器
+vague 模糊
+-
+mechanic 机械师
+generally 通常 adv
+hood 引擎盖 防护罩
+push the button. 按下按钮
+【 kitchen items. 厨房用品 】
+【 school supplies. 学习用品 】// emergency supplies = urgent supplies. 紧急物资
+-
+deluxe 豪华的 adj/adv
+
+
+
+The different parts of the car on the outside and the inside.
+So that's just the way it is. 所以事情就是这样
+```
+
+##### (5) transportation vehicles 交通工具
 
 ```
 fire engine. 消防车
@@ -912,29 +987,4 @@ cruiser 巡洋舰
 jet ski. 喷气式滑艇
 canoe 独木舟
 ship 船
-```
-
-##### (5) Car
-
-```
-1.【 compact car. 紧凑型汽车 】
-2.【 sedan. 轿车，最常见的汽车 】
-3.【 convertible car. 敞篷车 】
-4.【 hatchback 三厢车 】
-5.【 pickup truck. 皮卡 】
-6.【 minivan 小型货车 】
--
-mechanic 机械师
-generally 通常 adv
-------- ------
-------- ------
-hood 引擎盖 防护罩
-headlight 车前灯
-bumper 保险杠 // bump 撞击 碰撞
-fender 挡泥板
-------- ------
-------- ------
-
-
-The different parts of the car on the outside and the inside.
 ```
