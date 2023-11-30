@@ -679,6 +679,7 @@ refuel 加油
 -
 【 sold out. 售尽 】 // sell out.
 【 check in. 登记 登记手续 】
+【 Pick them up. 接他们 】// pick up. 举起 接送
 -
 【 in advance. 提前 】
 【 payable in advance. 提前支付 】// payable 应付adj
@@ -741,6 +742,9 @@ inspect 检查
 flight attendant. 空中乘务员
 【 fasten seat belts. 系好安全带 】
 【 aisle 过道 】
+-
+impression 印象
+【 first impression. 第一印象 】
 
 
 
@@ -748,6 +752,7 @@ I'm getting kind of hungry so I'm going to look for things to eat at this airpor
 It's a lot more expensive compared to the regular prices like in my city. 与我所在城市的正常价格相比，它要贵得多
 But they didn't really call my attention. 但他们并没有真正引起我的注意 // 【 call my attention. 引起我的注意 】
 Before boarding the plane I have to wait for the passengers to exit the airplane.
+Get out of the airport. 离开机场
 -
 where am I? 我在哪里 = where I'm at? 我在哪里
 How do I get there? 我怎么去那里？ // 注意: get there 不加 to，而 get to airport 要加 to
@@ -808,8 +813,14 @@ refuel 加油
 9
 fasten 系牢 系
 belt 腰带 皮带 传送带
-// Fasten your seat belts. 系好安全带
+//【 Fasten your seat belts. 系好安全带 】
 // Did everyone fasten their seat belt. 每个人都系牢安全带了吗？
+
+10
+impression 印象
+【 first impression. 第一印象 】
+// My first impression of him was favourable. 他给我的第一印象不错
+// His trip to India made a strong impression on him. 他的印度之行对他的触动很大
 
 
 board 板 木板 董事会 上船上飞机等
@@ -901,4 +912,29 @@ cruiser 巡洋舰
 jet ski. 喷气式滑艇
 canoe 独木舟
 ship 船
+```
+
+##### (5) Car
+
+```
+1.【 compact car. 紧凑型汽车 】
+2.【 sedan. 轿车，最常见的汽车 】
+3.【 convertible car. 敞篷车 】
+4.【 hatchback 三厢车 】
+5.【 pickup truck. 皮卡 】
+6.【 minivan 小型货车 】
+-
+mechanic 机械师
+generally 通常 adv
+------- ------
+------- ------
+hood 引擎盖 防护罩
+headlight 车前灯
+bumper 保险杠 // bump 撞击 碰撞
+fender 挡泥板
+------- ------
+------- ------
+
+
+The different parts of the car on the outside and the inside.
 ```
