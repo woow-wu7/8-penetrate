@@ -872,6 +872,7 @@ appreciate 欣赏 感激 v
 4.【 hatchback 三厢车 】
 5.【 pickup truck. 皮卡 】
 6.【 minivan 小型货车 】
+7. [ van 面包车 ]
 -
 自动档
 P park 停车档
@@ -881,39 +882,40 @@ D drive 前进档
 -
 手动档
 gear 齿轮 // gears
-shift gears. 换档
+【 shift gears. 换档 】
+【 shifter 变速器 】
 first gear. 一档
 second gear. 二档
 third gear. 三档
 -
-bumper 保险杠 // bump 撞击 碰撞
-fender 挡泥板
-【 tire 轮胎 累 】
-【 pressure gauge. 压力表 】
-【 gear 齿轮 】// gears
-【 gas tank. 油箱 】
-【 thunk 树干 后备箱 】
-【 steering wheel. 方向盘 】
-【 center console. 中控台 】
-【 shifter 变速器 】
--
-pedal 踏板
-clutch pedal. 离合器踏板
-gas pedal. 油门踏板
-brake pedal. 刹车踏板 // brake 刹车 // brake light. 刹车灯
+【 pedal 踏板 】
+【 gas pedal. 油门踏板 】
+【 brake pedal. 刹车踏板 】
+【 clutch pedal. 离合器踏板 】
+// brake 刹车
+// brake light. 刹车灯
 【 emergency braking. 紧急制动刹车 】
 【 emergency brake. 紧急制 】
--
-windshield 挡风玻璃
-windshield wipers. 挡风玻璃雨刷
-To roll down the window. 摇下窗户
-【 rear view mirror. 后视镜 】
-【 side mirror. 侧视镜 】
 -
 headlight 车前灯
 brake light. 刹车灯 // brake 刹车
 turn signal. 转向灯
 【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
+-
+【 gas tank. 油箱 】
+【 thunk 后备箱  树干  】
+【 tire 轮胎 累 】
+【 steering wheel. 方向盘 】
+【 center console. 中控台 】
+【 shifter 变速器 】
+【 pressure gauge. 压力表 】
+【 gear 齿轮 】// gears
+-
+windshield 挡风玻璃
+【 windshield wipers. 挡风玻璃雨刷 】
+To roll down the window. 摇下窗户
+【 rear view mirror. 后视镜 】
+【 side mirror. 侧视镜 】
 -
 brake pedal. 刹车踏板
 【 emergency braking. 紧急制动刹车 】
@@ -948,7 +950,8 @@ category 类别
 classification 分类
 maintenance 维护
 mechanic 机械师
-
+bumper 保险杠 // bump 撞击 碰撞
+fender 挡泥板
 
 
 The different parts of the car on the outside and the inside.
