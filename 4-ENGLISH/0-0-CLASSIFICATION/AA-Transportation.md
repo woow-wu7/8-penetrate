@@ -672,13 +672,21 @@ Excuse me. Just wondering how can I get to xxxx.
 -
 -
 - `buckle up. 系好安全带`
-- `fasten your seat belts. 系好安全带` // fasten 扣紧 // belt 皮带 传送带
+- `fasten your seat belt. 系好安全带` // fasten 扣紧 // belt 皮带 传送带
 -
 -
-- `The tickets sold out within hours. 几小时内票就卖光了` // sold out.
+- `sold out. 售尽`
+- `The tickets sold out within hours. 几小时内票就卖光了` // sold out. // within hours.在几个小时内
+-
+-
 - `Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手续` // check in.
+- `You don't have to pay for the tickets in advance. 您无需提前支付门票费用` // in advance. 提前
+- `A 10% deposit is payable in advance. 预付10%的定金` // deposit 押金 定金 // payable in advance. 提前支付
+- `I deposited 1000 yuan in my account this morning. 今天上午我在账户上存了1000元` // deposit 储蓄
+-
+-
+- `That's an aisle seat. 那是靠走道的座位` // aisle
 - `Pick them up. 接他们` // pick up.
-- `You don't have to pay for the tickets in advance. 您无需提前支付门票费用` // in advance.
 - `parking garage. 停车场` // underground parking garage.
 - `head to my gate. 到我的门口去` // head to.
 - `a good recommendation. 一个好的建议` // recommendation
@@ -688,12 +696,18 @@ Excuse me. Just wondering how can I get to xxxx.
 - `The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞` // take off. 起飞
 -
 -
-- `I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位` // reserve
+- `I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位` // reserve // reserve a seat.
 - `I guided him to the counter to order. 我带着他去柜台点餐` // counter
 -
 -
 - `I'm getting kind of hungry. 我有点饿` // kind of. // 2.I'm kind of tired today. // 3.I'm kind of hot.
 - `A phone is a kind of device. 手机是一种设备` // a kind of.
+-
+-
+- `first impression. 第一印象`
+- `impression of. 对...的印象`
+- `How you smell can influence people's first impression of you. 你的气味会影响别人对你的第一印象`
+- `My first impression of him was favourable. 他给我的第一印象不错`
 
 ```
 【 boarding pass. 登机牌 】
@@ -701,21 +715,23 @@ Excuse me. Just wondering how can I get to xxxx.
 【 license plate. 牌照 车牌 】// plate 盘子 号码牌
 【 license plate number. 车牌号 】
 【 parking garage. 停车场 】
-flight 航班
 passport 护照
 airport 机场
 airline 航空公司
+airplane 飞机
+flight 航班
 -
 fuel 燃料
 refuel 加油
 -
 【 seatbelt 安全带 】
-【 fasten seat belts. 系好安全带 】
-【 fasten seatbelt. 系好安全带 】
+【 fasten seat belt. 系好安全带 】
+【 fasten your seatbelt. 系好安全带 】
 【 buckle your seatbelt. 系好安全带 】
 buckle up. 系好安全带
 -
 【 sold out. 售尽 】 // sell out.
+-
 【 check in. 登记 登记手续 】
 【 Pick them up. 接他们 】// pick up. 举起 接送
 -
@@ -740,7 +756,7 @@ take off. 起飞: The plane is scheduled to take off at 9:00 AM. 飞机计划在
 1. one-way ticket. 单程票
 2. one-way street. 单行道
 -
-deposit 押金 储蓄
+deposit 押金 定金 储蓄
 【 deposit account. 存款账户 】
 -
 suitcase 手提箱
@@ -774,6 +790,7 @@ appreciate 欣赏 感激 v
 -
 attention 注意 关注 n
 【 call my attention. 引起我的注意 】
+【 a good recommendation. 一个好的建议 】
 -
 【 take my time. 慢慢来 消磨时间 】
 -
@@ -784,7 +801,7 @@ first class. 头等舱
 -
 inspect 检查
 【 flight attendant. 空中乘务员 】
-【 aisle 过道 】
+【 aisle 过道 走道 】
 -
 impression 印象
 【 first impression. 第一印象 】
@@ -807,7 +824,7 @@ And as you see, the process was a little bit quick. 正如你所看到的，这�
 1
 sold out. 售尽
 // sell out.
-// 【 The tickets sold out within hours. 几小时内票就卖光了 】
+// 【 The tickets sold out within hours. 几小时内票就卖光了 】// within hours. 在几个小时内·
 // All the tickets were sold out. 所有的票都卖完了
 
 2
@@ -864,6 +881,7 @@ belt 腰带 皮带 传送带
 10
 impression 印象
 【 first impression. 第一印象 】
+// How you smell can influence people's first impression of you. 你的气味会影响别人对你的第一印象
 // My first impression of him was favourable. 他给我的第一印象不错
 // His trip to India made a strong impression on him. 他的印度之行对他的触动很大
 
@@ -899,6 +917,7 @@ rush 冲v 匆忙n
 
 aisle 过道 走廊
 【 aisle seat. 靠近过道的座位 】
+// That's an aisle seat. 那是靠走道的座位
 // Coffee and tea are in the next aisle. 咖啡和茶在下一个走道处
 
 recommendation 推荐 建议 n
