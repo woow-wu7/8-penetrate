@@ -7,6 +7,7 @@
 -
 -
 - ` 【 getting around. 出行 旅游观光 】`
+- ` 【 walk around. 四处走动 】`
 - // 1.get around
 - // 2.get stuck in
 - 1. How do you usually get around? 你平时怎么出行 // How do you go to work every day?
@@ -14,9 +15,22 @@
 -
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
+- `different mode of transportation. 不同的交通方式`
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
+-
+-
+-
+- AA
+- `pedestrian 行人 行人的`
+- 【 pedestrian mall. 步行街 】
+- 【 walk around. 四处走动 】// get around. // walking around a downtown area like New York City.
+- 【 different mode of transportation. 不同的交通方式 】
+- BB
+- `ferry 轮渡`
+- 【 ferry station. 轮渡站 】
+- The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
 -
 -
 - `stuck 陷入 卡住`
@@ -27,7 +41,7 @@
 - 2. She got the key stuck in the lock. 她把钥匙卡在锁里了。
 - Get stuck in the mud. 陷进泥里
 - 3. `So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.`
-- I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
+- 4. I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 -
 -
 - `gas 燃气`
@@ -36,7 +50,7 @@
 - `petroleum 原油`
 - petrol station. 加油站 = gas station.
 - petrol tank. 汽油箱
-- 1.petrol station 2.gas station 3.emergency station 4.transfer station 5.terminal station
+- 1.petrol station 2.gas station 3.emergency station 4.transfer station 5.terminal station 6.ferry station.
 -
 -
 - `layover 中转 中途停留n`
@@ -68,6 +82,11 @@
 - `terminal station. 终点站`
 - `petrol station. 加油站`
 - `gas station. 加油站 = petrol station. 加油站`
+- `ferry station. 轮渡站`
+-
+-
+- `downtown 市中心`
+- `hometown 家乡`
 
 ##### (2) subway/metro/tube/unground 地铁
 
@@ -75,6 +94,7 @@
 - **! How do you usually get around? 你平时怎么出行？**
 - **! I oftentimes go to work by car. 我经常开车去上班** // oftentimes 常常
 - **! I go to work on foot every day = I walk to work every day.**
+- **! Walking is a great way to get to your destination. 步行是到达目的地的好方法**
 -
 - **! How do I get there? 我怎么去那里？**`
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
@@ -92,7 +112,7 @@
 - `clear of. 远离`
 - `This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门`
 - `make sure you park your car clear of the entrance. 确保将车停在远离入口的地方`
-- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽`
+- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽` queue up = wait in line.
 -
 -
 - `【 The ship is bound for America. 这艘轮船是开往美洲去的 】` // be bound for. 开往
@@ -121,7 +141,7 @@
 -
 - `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
 - `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款` // fine 美好的 adj 罚款 n
-- `Please offer you seats to anyone in need. 请给有需要的人让座`
+- `Please offer your seats to anyone in need. 请给有需要的人让座`
 -
 -
 - `What's the best way to get around your hometown. 游览家乡最好的方式是什么？` // getting around. 出行 旅游观光
@@ -681,6 +701,7 @@ Excuse me. Just wondering how can I get to xxxx.
 -
 - `Please check in at least an hour before departure. 请至少在飞机起飞前一小时办理登机手续` // check in.
 - `You don't have to pay for the tickets in advance. 您无需提前支付门票费用` // in advance. 提前
+-
 - `A 10% deposit is payable in advance. 预付10%的定金` // deposit 押金 定金 // payable in advance. 提前支付
 - `I deposited 1000 yuan in my account this morning. 今天上午我在账户上存了1000元` // deposit 储蓄
 -
@@ -689,7 +710,9 @@ Excuse me. Just wondering how can I get to xxxx.
 - `Pick them up. 接他们` // pick up.
 - `parking garage. 停车场` // underground parking garage.
 - `head to my gate. 到我的门口去` // head to.
+-
 - `a good recommendation. 一个好的建议` // recommendation
+- `recommendation letter. 推荐信 ` // recommendation
 -
 -
 - `Take your scarf off.  = take off your scarf. 把围巾拿下来` // take off. 拖下
@@ -778,7 +801,7 @@ lithium batteries. 锂电池
 E-Cigarettes. 电子烟
 drain 排水管
 rush 冲v 匆忙n
-fast food chains. 快餐连锁店
+【 fast food chains. 快餐连锁店 】
 pizzeria 披萨店
 souvenirs 纪念品
 -
