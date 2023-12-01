@@ -16,9 +16,11 @@
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
 - `different mode of transportation. 不同的交通方式`
+- `next mode of transportation. 下一种运输方式`
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
+-
 -
 -
 -
@@ -30,7 +32,27 @@
 - BB
 - `ferry 轮渡`
 - 【 ferry station. 轮渡站 】
+- 【 going on the ferry. 乘渡船 】
 - The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
+- ramp 坡道
+- CC
+- `on the way. 在路上`
+- `all the way. 一直 一路 自始自终`
+- 【 I have to walk all the way over there to the ferry station. 我必须一路走到那边的轮渡站 】// walk over there. 走到那边
+- all the way 一路: He had to walk all the way home. 他不得不一路步行回家
+- all the way 一直: I'll support him all the way. 我自始至终都会支持
+- **【 on the way 在路上: That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上 】**
+- DD
+- 11. `crouch down. 蹲下`
+- 22. press right here. 按这里
+- 33. I'm inserting my credit card to pay for both tickets. 我正在插入我的信用卡来支付两张票的费用
+- 44. Would you like a printed receipt. 您要打印收据吗?
+- 55. on the way. 在路上
+- EE
+- 11. `Cable Car. 缆车`
+- 22. **Normally cable cars exist in areas with mountains. 缆车通常存在于山区**
+-
+-
 -
 -
 - `stuck 陷入 卡住`
@@ -267,9 +289,11 @@ wait in line. 排队
 cut in line. 插队
 queue up = wait in line. 排队
 【 We had to queue up one for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
+【 I'm waiting in line to purchase my Ferry ticket. 我正在排队购买船票 】// wait in line = queue up.
 // jump a queue. 插队
 // cut a queue. 插队
 // cut in line. 插队
+// wait in line. 排队
 【 please don't cut in line. 请不要插队 】
 -
 exit 出口 通道 n
@@ -966,7 +990,8 @@ appreciate 欣赏 感激 v
 4.【 hatchback 三厢车 】
 5.【 pickup truck. 皮卡 】
 6.【 minivan 小型货车 】
-7. [ van 面包车 ]
+7.【 van 面包车 】
+8.【 Cable Car. 缆车 】
 -
 自动档
 P park 停车档
