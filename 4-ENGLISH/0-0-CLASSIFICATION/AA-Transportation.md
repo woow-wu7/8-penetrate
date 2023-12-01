@@ -18,7 +18,9 @@
 - `different mode of transportation. 不同的交通方式`
 - `next mode of transportation. 下一种交通方式`
 - `The fourth mode of transportation. 第四种交通方式`
+- `Another mode of transportation. 另一种交通方式 `
 - `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】`
+- `【    As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】`
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
@@ -61,11 +63,26 @@
 - 【 subway 地铁 】
 - 【 railway 铁路 】
 - 【 tramway 电车道 】// tram 电车
--
-- right next to. 就在旁边 // 【 I'm right next to the bus stop. 我就在公共汽车站旁边 】
--
-- recap 回顾
-- Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情
+- 11. right next to. 就在旁边 // 【 I'm right next to the bus stop. 我就在公共汽车站旁边 】
+- 22. `recap 回顾`
+- // Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情
+- 33. sponsor 赞助商 n 赞助 v
+- // sponsor 赞助 v: She found a company to sponsor her through college. 她找到一家公司资助她念完大学
+- // sponsor 赞助商 n: The sponsor has permanent ad on the website commonly. 赞助商一般在网站上有永久性广
+- 44. hesitate 犹豫
+- // I hesitated when my boyfriend showed me the ring. 当我男朋友拿出戒指时，我犹豫了
+- // The girl showed hesitation in selecting her clothes. 女孩在挑选衣服时，犹豫不决
+- 55. `try out. 尝试 试用`
+- // I'm going to try out a new career. 我要尝试一个新事业
+- // try out a new hairstyle. 尝试一个新发型
+- 66. `check it out 看看 检查一下`
+- // Do not know it check it out. 不知道就快来看看吧
+- // Let go back out there and check it out. 我们得回现场去检查一下
+- 77. `unlimited 无限的 无限制的`
+- // You will allowed unlimited access to the files. 你可以无限制使用这些档案
+- 88. `trade 贸易`
+- // Trade between the two countries has increased. 两国之间的贸易增长了
+- `resident 居民`
 -
 -
 -
@@ -113,6 +130,7 @@
 - `The charge you for everything. 所有东西都收费`
 - `ridiculous. 荒谬的`
 - **`When was the last time you took a vacation? 你上一次度假是什么时候？`**
+- **`hop on the train. 跳上火车`** // hop 双足跳
 -
 -
 - `transfer station. 中转站`
