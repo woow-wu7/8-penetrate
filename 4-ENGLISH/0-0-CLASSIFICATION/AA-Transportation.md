@@ -16,7 +16,9 @@
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
 - `different mode of transportation. 不同的交通方式`
-- `next mode of transportation. 下一种运输方式`
+- `next mode of transportation. 下一种交通方式`
+- `The fourth mode of transportation. 第四种交通方式`
+- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】`
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
@@ -24,33 +26,46 @@
 -
 -
 -
-- AA
+- AAA-------
 - `pedestrian 行人 行人的`
 - 【 pedestrian mall. 步行街 】
 - 【 walk around. 四处走动 】// get around. // walking around a downtown area like New York City.
 - 【 different mode of transportation. 不同的交通方式 】
-- BB
+- BBB-------
 - `ferry 轮渡`
 - 【 ferry station. 轮渡站 】
 - 【 going on the ferry. 乘渡船 】
 - The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
 - ramp 坡道
-- CC
+- // ferry station. 轮渡站
+- // transfer station. 中转站
+- // terminal station. 终点站
+- // gas station = petrol station. 加油站
+- CCC-------
 - `on the way. 在路上`
 - `all the way. 一直 一路 自始自终`
 - 【 I have to walk all the way over there to the ferry station. 我必须一路走到那边的轮渡站 】// walk over there. 走到那边
+- 【 all the way 一直: I'll support him all the way. 我自始至终都会支持 】
 - all the way 一路: He had to walk all the way home. 他不得不一路步行回家
-- all the way 一直: I'll support him all the way. 我自始至终都会支持
 - **【 on the way 在路上: That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上 】**
-- DD
+- DDD-------
 - 11. `crouch down. 蹲下`
 - 22. press right here. 按这里
 - 33. I'm inserting my credit card to pay for both tickets. 我正在插入我的信用卡来支付两张票的费用
 - 44. Would you like a printed receipt. 您要打印收据吗?
 - 55. on the way. 在路上
-- EE
-- 11. `Cable Car. 缆车`
+- EEE-------
+- 11. `Cable Car. 缆车` // cable 电缆
 - 22. **Normally cable cars exist in areas with mountains. 缆车通常存在于山区**
+- FFF-------
+- 【 subway 地铁 】
+- 【 railway 铁路 】
+- 【 tramway 电车道 】// tram 电车
+-
+- right next to. 就在旁边 // 【 I'm right next to the bus stop. 我就在公共汽车站旁边 】
+-
+- recap 回顾
+- Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情
 -
 -
 -
@@ -147,6 +162,7 @@
 - `【 Wait for people to get off first. 等下车的人先走 】`
 - `【 we are on line 1. 我们在一号线 】`
 - `etc = et cetera 等等`
+- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】`
 -
 -
 - `boarding pass. 登机牌`
@@ -190,9 +206,10 @@
 ```总
 subway = metro = tube = underground
 tube 管 管子 伦敦地铁
+-
 subway 地铁
 railway 铁路 // rail handrail railway stair-handrail // hold the railing // high-speed rail. 高铁
-carriage 车厢 马车
+tramway 电车道 // tram 电车
 -
 【 safety line. 安全线 】
 safety notice. 安全标志
@@ -329,6 +346,7 @@ release 释放 发布
 aboard 在 船/飞机/火车/汽车 上 adv
 abroad 在国外adv 海外n
 offer 提供 录取通知书
+carriage 车厢 马车
 -
 cooperation 合作 // co + operation
 coexistence 共存 // co + existence
@@ -552,6 +570,12 @@ illegally 非法地 adv
 // illegal非法的: This story about an illegal crossing. 这个关于非法越境的故事
 // 【 illegally非法地: Park illegally, and you're likely to be ticketed. 违章停车可能收到罚款单 】
 // 【 illegally非法地: When she crossed the border illegally to live with her brother. 当她非法越境与哥哥一起生活时 】
+
+recap 回顾
+quickly 快速的 adv
+// 1. 【 Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情 】
+// 2. 【 Let's quickly recap what we have done so far. 让我们快速回顾一下我们目前为止所做的事情 】
+// 2. 【 First, a quick recap of the discussion. 首先，让我们快速回顾一下讨论的经过 】
 
 
 【 Which line should I take? 我应该乘坐那条线? 】
