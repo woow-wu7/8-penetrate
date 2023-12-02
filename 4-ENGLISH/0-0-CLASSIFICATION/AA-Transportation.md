@@ -28,13 +28,13 @@
 -
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
-- different modes of transportation. 不同的交通方式 
-- different forms of transportation. 不同形式的交通 // form of. ...的形式
+- different modes of transportation. 不同的交通方式 // ---- mode of. ...方式
+- different forms of transportation. 不同形式的交通 // ----- form of. ...的形式
 - `next mode of transportation. 下一种交通方式`
 - `The fourth mode of transportation. 第四种交通方式`
 - `Another mode of transportation. 另一种交通方式 `
-- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】`
-- `【    As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】`
+- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】` // right next to. 就在旁边
+- `【    As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】` // recap 回顾
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
@@ -54,11 +54,12 @@
 - `pedestrian 行人 行人的`
 - 【 pedestrian mall. 步行街 】
 - 【 walk around. 四处走动 】// get around. // walking around a downtown area like New York City.
-- 【 different mode of transportation. 不同的交通方式 】
+- 【 different modes of transportation. 不同的交通方式 】
 - BBB-------
 - `ferry 轮渡`
 - 【 ferry station. 轮渡站 】
 - 【 going on the ferry. 乘渡船 】
+- That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上
 - The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
 - ramp 坡道
 - // ferry station. 轮渡站
@@ -85,7 +86,7 @@
 - FFF-------
 - 【 subway 地铁 】
 - 【 railway 铁路 】
-- 【 tramway 电车道 】// tram 电车
+- 【 tramway 电车道 】// tram 电车 // cable car.缆车
 - 11. right next to. 就在旁边 // 【 I'm right next to the bus stop. 我就在公共汽车站旁边 】
 - 22. `recap 回顾`
 - // Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情
@@ -93,7 +94,7 @@
 - // sponsor 赞助 v: She found a company to sponsor her through college. 她找到一家公司资助她念完大学
 - // sponsor 赞助商 n: The sponsor has permanent ad on the website commonly. 赞助商一般在网站上有永久性广
 - 44. hesitate 犹豫
-- // I hesitated when my boyfriend showed me the ring. 当我男朋友拿出戒指时，我犹豫了
+- // hesitate 犹豫: I hesitated when my boyfriend showed me the ring. 当我男朋友拿出戒指时，我犹豫了
 - // The girl showed hesitation in selecting her clothes. 女孩在挑选衣服时，犹豫不决
 - 55. `try out. 尝试 试用`
 - // I'm going to try out a new career. 我要尝试一个新事业
@@ -114,7 +115,7 @@
 - `get stuck in. 陷入 卡住 束缚`
 - // 1.get around
 - // 2.get stuck in
-- 1. You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- 1. 【 You don't get stuck in traffic jams. 你不会陷入交通堵塞 】
 - 2. She got the key stuck in the lock. 她把钥匙卡在锁里了。
 - Get stuck in the mud. 陷进泥里
 - 3. `So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.`
@@ -126,7 +127,7 @@
 - `petrol 汽油`
 - `petroleum 原油`
 - petrol station. 加油站 = gas station.
-- petrol tank. 汽油箱
+- 【 petrol tank. 汽油箱 】
 - 1.petrol station
 - 2.gas station
 - 4.transfer station
@@ -166,6 +167,7 @@
 - `petrol station. 加油站`
 - `gas station. 加油站 = petrol station. 加油站`
 - `ferry station. 轮渡站`
+- `docking station. 扩展坞`
 -
 -
 - `downtown 市中心`
@@ -178,6 +180,8 @@
 - **! I oftentimes go to work by car. 我经常开车去上班** // oftentimes 常常
 - **! I go to work on foot every day = I walk to work every day.**
 - **! Walking is a great way to get to your destination. 步行是到达目的地的好方法**
+- **! What's a good way to get there from here? 从这里到那里有什么好方法吗？**
+- **! What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？**
 -
 - **! How do I get there? 我怎么去那里？**`
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
@@ -187,7 +191,7 @@
 -
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚` // get around.
-- You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- 【 You don't get stuck in traffic jams. 你不会陷入交通堵塞 】
 - Get stuck in mud. 陷进泥里
 - I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 -
@@ -340,6 +344,7 @@ transfer 转移 转让
 【 transfer station. 中转站 】
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
+【 ferry station. 轮渡站 】
 -
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
@@ -426,12 +431,14 @@ arrival 到达 n
 // 【 A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间 】
 -
 belt 腰带 传送带
+seatbelt 安全带
+-
 turnstile 闸机
 swipe 刷卡
 stuck 卡住 // get stuck in. 陷入 // get around. 出行
 -
 bake 烤
-// Bake until the crust is golden. 烘烤至外皮呈金黄色
+//【 Bake until the crust is golden. 烘烤至外皮呈金黄色】
 -
 vend 出售 售卖
 【 vending machine. 自动售货机 】
@@ -549,6 +556,7 @@ transfer 转移 转让
 【 transfer station. 中转站 】
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
+【 ferry station. 轮渡站 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
@@ -558,6 +566,7 @@ safety notice. 安全标志
 // Metro safety line is very important to the daily operation. 地铁安全线在日常运营中对保障运营安全有着重要意义
 
 belt 腰带 传送带
+seatbelt 安全带
 // Put you bag on the belt. 把包放在传送带上
 
 escalator 扶梯
@@ -1053,6 +1062,9 @@ appreciate 欣赏 感激 v
 
 ##### (4) Car
 
+- `neutral 中立的 车空档`
+- Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为
+
 ```
 1.【 compact car. 紧凑型汽车 】
 2.【 sedan. 轿车，最常见的汽车 】
@@ -1061,7 +1073,8 @@ appreciate 欣赏 感激 v
 5.【 pickup truck. 皮卡 】
 6.【 minivan 小型货车 】
 7.【 van 面包车 】
-8.【 Cable Car. 缆车 】
+8.【 Cable Car. 缆车 】// cable car
+9.【 tram 电车 】 // tram
 -
 自动档
 P park 停车档
@@ -1079,16 +1092,16 @@ third gear. 三档
 -
 【 pedal 踏板 】
 【 gas pedal. 油门踏板 】
-【 brake pedal. 刹车踏板 】
+【 brake pedal. 刹车踏板 】// emergency brake. 紧急制动 紧急刹车 // brake light. 刹车等
 【 clutch pedal. 离合器踏板 】
 // brake 刹车
 // brake light. 刹车灯
 【 emergency braking. 紧急制动刹车 】
-【 emergency brake. 紧急制 】
+【 emergency brake. 紧急制动 紧急刹车 】
 -
 headlight 车前灯
 brake light. 刹车灯 // brake 刹车
-turn signal. 转向灯
+turn signal. 转向灯 // Take a right turn at the intersection. 在十字路口向右拐
 【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
 -
 【 gas tank. 油箱 】
@@ -1098,7 +1111,7 @@ turn signal. 转向灯
 【 center console. 中控台 】
 【 shifter 变速器 】
 【 pressure gauge. 压力表 】
-【 gear 齿轮 】// gears
+【 gear 齿轮 】// gears // shift gears.换挡 // first gear.一档 // second gear.二档
 -
 windshield 挡风玻璃
 【 windshield wipers. 挡风玻璃雨刷 】
@@ -1146,6 +1159,12 @@ fender 挡泥板
 The different parts of the car on the outside and the inside.
 So that's just the way it is. 所以事情就是这样
 Thank you so much for learning English with me.
+
+
+neutral 中立
+// 【 Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为 】// pure 纯的 纯净的 // pure object. 纯对象
+// I tried to remain neutral during the quarrel. 我试着在这次争吵中保持中立
+// Journalists are supposed to be politically neutral. 新闻工作者在政治上应该保持中立态度
 ```
 
 ##### (5) transportation vehicles 交通工具
