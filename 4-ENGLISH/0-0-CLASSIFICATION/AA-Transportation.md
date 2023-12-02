@@ -32,6 +32,7 @@
 - // clean <-> messy 脏的
 - `what's the opposite of clean?`
 - `The opposite of clean is dirty/messy. = clean is the opposite of messy/dirty.`
+- **Where can I get a bus in the opposite direction? 我在哪里可以坐相反方向的公共汽车**
 - 1. **clean**:【 We should clean up litter to keep the outdoors clean. 我们应该收拾一下垃圾，以保持室外干净整洁 】
 - 2. Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
 - 3. **messy**: You wear an apron when you cook. so you don't get yourself too messy.
@@ -51,6 +52,15 @@
 - `【 I'm right next to the bus stop. 我就在公共汽车站旁边 】` // right next to. 就在旁边
 -
 -
+- `at a certain stop. 在某一站` // certain 某 某事 某事 某人
+- `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
+-
+-
+- 1. `I think I missed my bus stop. 我想我错过了公共汽车站`
+- 2. `Where can I get a bus in the opposite direction? 我在哪里可以坐相反方向的公共汽车？`
+- 3. `Do you know when the next bus comes? 你知道下一班公共汽车什么时候来吗？`
+-
+-
 - `recap 回顾`
 - `【 Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情 】`
 - `【 As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】` // recap 回顾
@@ -67,7 +77,12 @@
 - `Docking station. 基座 扩展坞`
 - You will align the bike and then you're going to push it into the docking station.
 - 您将对齐自行车，然后将其推入停靠站
-- // transfer station. // terminal station // gas station = petrol station // ferry station // docking station
+- // transfer station.
+- // terminal station
+- // gas station = petrol station
+- // ferry station
+- // docking station
+- // 【 radio station. 广播电台 】
 -
 -
 - `【 take pictures. 拍照 】`
@@ -93,6 +108,7 @@
 - // terminal station. 终点站
 - // gas station = petrol station. 加油站
 - // Docking station. 基座 扩展坞
+- // 【 radio station. 广播电台 】
 -
 -
 - CCC-------
@@ -142,7 +158,10 @@
 - 88. `trade 贸易`
 - // Trade between the two countries has increased. 两国之间的贸易增长了
 - `resident 居民`
+-
+-
 - `【 hailing a taxi. 叫出租车 】` // hail 向...喊 冰雹
+- `【 taxi stand. 出租车站 】`
 -
 -
 -
@@ -170,6 +189,7 @@
 - 5.terminal station
 - 6.ferry station.
 - 7.Docking station. 基座 扩展坞
+- 8.【 radio station. 广播电台 】
 -
 -
 - `layover 中转 中途停留n`
@@ -204,6 +224,7 @@
 - `gas station. 加油站 = petrol station. 加油站`
 - `ferry station. 轮渡站`
 - `docking station. 扩展坞`
+- `【 radio station. 广播电台 】`
 -
 -
 - `downtown 市中心`
@@ -217,7 +238,8 @@
 - **! I go to work on foot every day = I walk to work every day.**
 - **! Walking is a great way to get to your destination. 步行是到达目的地的好方法**
 - **! What's a good way to get there from here? 从这里到那里有什么好方法吗？**
-- **! What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？**
+- **! What's the [ fastest ] way to get to the Library Station? 去图书馆站最快的路是什么？**
+- **! What's the [ best ] way to get to the Library Station? 去图书馆站最快的路是什么？**
 -
 - **! You're going to be there for a couple days. 你将在那里呆上几天**
 -
@@ -225,6 +247,7 @@
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
 - **! How can I get to the train station? 火车站怎么走**` // 注意: get there 不加 to，而 get to airport 要加 to
 - **! Where do I go? 我该去哪里？**`
+- **! at a certain stop. 在某一站**` // at a certain stop. 在某一站
 -
 -
 - `stuck 陷入 卡住`
@@ -388,6 +411,7 @@ transfer 转移 转让
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
 【 docking station. 扩展坞 】
+【 radio station. 广播电台 】
 -
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
@@ -601,6 +625,7 @@ transfer 转移 转让
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
 【 docking station. 扩展坞 】
+【 radio station. 广播电台 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
@@ -858,7 +883,10 @@ Excuse me. Just wondering how can I get to xxxx.
 - `Pick them up. 接他们` // pick up.
 - `parking garage. 停车场` // underground parking garage.
 - `head to my gate. 到我的门口去` // head to.
+-
+-
 - `【 hailing a taxi. 叫出租车 】` // hail
+- `【 taxi stand. 出租车站 】`
 -
 - `a good recommendation. 一个好的建议` // recommendation
 - `recommendation letter. 推荐信 ` // recommendation
@@ -1149,8 +1177,31 @@ third gear. 三档
 -
 headlight 车前灯
 brake light. 刹车灯 // brake 刹车 // brake pedal. // emergency brake.
+// brake light. = tail light. 刹车灯/尾灯
+// hit the brake. 踩刹车
 【 turn signal. 转向灯 】 // Take a right turn at the intersection. 在十字路口向右拐
+【 back up light. 倒车灯 】
 【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
+-
+前面:
+license plate. 牌照 车牌
+hood 引擎盖 防护罩 前车的引擎盖
+motor 发动机 马达
+antenna 天线
+radio station. 广播电台
+windshield 挡风玻璃
+windshield wipers. 挡风玻璃雨刷
+-
+后面
+tailgate 尾门
+muffler 消声器
+-
+侧面
+wheel 车轮
+front wheel. 前车轮
+tire 轮胎 累
+gas cap. 油箱盖
+gas nozzle. 油箱嘴
 -
 【 gas tank. 油箱 】
 【 thunk 后备箱  树干  】
@@ -1191,7 +1242,6 @@ vague 模糊
 -
 mechanic 机械师
 generally 通常 adv
-hood 引擎盖 防护罩
 push the button. 按下按钮
 【 kitchen items. 厨房用品 】
 【 school supplies. 学习用品 】// emergency supplies = urgent supplies. 紧急物资
@@ -1219,6 +1269,7 @@ repulse 排斥 拒绝
 
 hail 向...喊 冰雹
 // 【 hailing a taxi. 叫出租车 】
+// taxi stand. 出租车站
 
 neutral 中立
 // 【 Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为 】// pure 纯的 纯净的 // pure object. 纯对象
