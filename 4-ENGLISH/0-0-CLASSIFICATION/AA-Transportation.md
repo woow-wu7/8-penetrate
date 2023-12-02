@@ -14,8 +14,22 @@
 - 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
 -
 -
+- `clean energy. 清洁能源`
+- `clean up. 清理 清洁`
+- // clean 清洁的 干净的 打扫
+- // clean <-> messy 脏的
+- `clean is the opposite of messy. = The opposite of clean is dirty.`
+- `what's the opposite of clean?`
+- 1. **clean**:【 We should clean up litter to keep the outdoors clean. 我们应该收拾一下垃圾，以保持室外干净整洁 】
+- 2. Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
+- 3. **messy**: You wear an apron when you cook. so you don't get yourself too messy.
+- 3. **messy**: `A messy person refuses to clean his room. 一个邋遢的人拒绝打扫他的房间`
+- 3. **messy**: `A messy. 一片狼藉`
+-
+-
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
-- `different mode of transportation. 不同的交通方式`
+- different modes of transportation. 不同的交通方式 
+- different forms of transportation. 不同形式的交通 // form of. ...的形式
 - `next mode of transportation. 下一种交通方式`
 - `The fourth mode of transportation. 第四种交通方式`
 - `Another mode of transportation. 另一种交通方式 `
@@ -25,6 +39,14 @@
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
 -
+- `track 轨道 路线 追踪`
+- Once you scan the bike with the QR code, it already has a timer and it'll track how many miles you ride on the bike.
+- 一旦你用二维码扫描自行车，它就会有一个计时器，它会跟踪你骑了多少英里
+-
+- `Docking station. 基座 扩展坞`
+- You will align the bike and then you're going to push it into the docking station.
+- 您将对齐自行车，然后将其推入停靠站
+- // transfer station. // terminal station // gas station = petrol station // ferry station
 -
 -
 -
@@ -43,6 +65,7 @@
 - // transfer station. 中转站
 - // terminal station. 终点站
 - // gas station = petrol station. 加油站
+- // Docking station. 基座 扩展坞
 - CCC-------
 - `on the way. 在路上`
 - `all the way. 一直 一路 自始自终`
@@ -104,7 +127,12 @@
 - `petroleum 原油`
 - petrol station. 加油站 = gas station.
 - petrol tank. 汽油箱
-- 1.petrol station 2.gas station 3.emergency station 4.transfer station 5.terminal station 6.ferry station.
+- 1.petrol station
+- 2.gas station
+- 4.transfer station
+- 5.terminal station
+- 6.ferry station.
+- 7.Docking station. 基座 扩展坞
 -
 -
 - `layover 中转 中途停留n`
