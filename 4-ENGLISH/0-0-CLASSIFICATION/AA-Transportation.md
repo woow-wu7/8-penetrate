@@ -14,6 +14,18 @@
 - 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
 -
 -
+- `make it to. 到达`
+- `【 We make it to our destination. 我们到达目的地 】`
+- `【 It's going to charge me $1. 它将收取我 1 美元 】` // charge 收费 v 费用 n
+-
+-
+- `unlimited 无限的 无限制的`
+- limit 限制 v / n
+- limited 有限的 受限的 adj
+- 【 There are unlimited rides you can have. 您可以无限次乘坐 】
+- You will allowed unlimited access to the files. 你可以无限制使用这些档案
+-
+-
 - `clean energy. 清洁能源`
 - `clean up. 清理 清洁`
 - // clean 清洁的 干净的 打扫
@@ -48,6 +60,8 @@
 - 您将对齐自行车，然后将其推入停靠站
 - // transfer station. // terminal station // gas station = petrol station // ferry station
 -
+- `【 take pictures. 拍照 】`
+- `【 record videos. 录制视频 】`
 -
 -
 - AAA-------
@@ -107,6 +121,7 @@
 - 88. `trade 贸易`
 - // Trade between the two countries has increased. 两国之间的贸易增长了
 - `resident 居民`
+- `【 hailing a taxi. 叫出租车 】` // hail 向...喊 冰雹
 -
 -
 -
@@ -182,6 +197,8 @@
 - **! Walking is a great way to get to your destination. 步行是到达目的地的好方法**
 - **! What's a good way to get there from here? 从这里到那里有什么好方法吗？**
 - **! What's the fastest way to get to the Library Station? 去图书馆站最快的路是什么？**
+-
+- **! You're going to be there for a couple days. 你将在那里呆上几天**
 -
 - **! How do I get there? 我怎么去那里？**`
 - **! How did I get to the airport? 我怎么去那里？**` // 注意: get there 不加 to，而 get to airport 要加 to
@@ -428,7 +445,7 @@ arrive 到达 v
 arrival 到达 n
 【 arrival time. 达到时间 】
 【 departure time. 出发时间 】
-// 【 A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间 】
+// 【 A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的–时间 】
 -
 belt 腰带 传送带
 seatbelt 安全带
@@ -813,6 +830,7 @@ Excuse me. Just wondering how can I get to xxxx.
 - `Pick them up. 接他们` // pick up.
 - `parking garage. 停车场` // underground parking garage.
 - `head to my gate. 到我的门口去` // head to.
+- `【 hailing a taxi. 叫出租车 】` // hail
 -
 - `a good recommendation. 一个好的建议` // recommendation
 - `recommendation letter. 推荐信 ` // recommendation
@@ -1075,6 +1093,7 @@ appreciate 欣赏 感激 v
 7.【 van 面包车 】
 8.【 Cable Car. 缆车 】// cable car
 9.【 tram 电车 】 // tram
+10. 【 vessel 船 】
 -
 自动档
 P park 停车档
@@ -1092,16 +1111,17 @@ third gear. 三档
 -
 【 pedal 踏板 】
 【 gas pedal. 油门踏板 】
-【 brake pedal. 刹车踏板 】// emergency brake. 紧急制动 紧急刹车 // brake light. 刹车等
+【 brake pedal. 刹车踏板 】// emergency brake. 紧急制动 紧急刹车 // brake light. 刹车灯
 【 clutch pedal. 离合器踏板 】
 // brake 刹车
 // brake light. 刹车灯
-【 emergency braking. 紧急制动刹车 】
+// brake pedal. 刹车踏板
 【 emergency brake. 紧急制动 紧急刹车 】
+【 emergency braking. 紧急制动刹车 】
 -
 headlight 车前灯
-brake light. 刹车灯 // brake 刹车
-turn signal. 转向灯 // Take a right turn at the intersection. 在十字路口向右拐
+brake light. 刹车灯 // brake 刹车 // brake pedal. // emergency brake.
+【 turn signal. 转向灯 】 // Take a right turn at the intersection. 在十字路口向右拐
 【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
 -
 【 gas tank. 油箱 】
@@ -1122,6 +1142,7 @@ To roll down the window. 摇下窗户
 brake pedal. 刹车踏板
 【 emergency braking. 紧急制动刹车 】
 【 emergency brake. 紧急制 】
+brake light. 刹车灯
 -
 horn 喇叭
 【 honk the horn. 按喇叭 】
@@ -1154,12 +1175,22 @@ maintenance 维护
 mechanic 机械师
 bumper 保险杠 // bump 撞击 碰撞
 fender 挡泥板
+architecture 建筑
+【 take pictures. 拍照 】
 
 
 The different parts of the car on the outside and the inside.
 So that's just the way it is. 所以事情就是这样
 Thank you so much for learning English with me.
+【 That was awesome. 这太棒了 】
 
+
+each time. 每次
+repulse 排斥 拒绝
+// Each time I tried to help I was repulsed. 每次我想要帮忙都遭到了拒绝
+
+hail 向...喊 冰雹
+// 【 hailing a taxi. 叫出租车 】
 
 neutral 中立
 // 【 Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为 】// pure 纯的 纯净的 // pure object. 纯对象
