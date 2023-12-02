@@ -22,16 +22,16 @@
 - `unlimited 无限的 无限制的`
 - limit 限制 v / n
 - limited 有限的 受限的 adj
-- 【 There are unlimited rides you can have. 您可以无限次乘坐 】
+- `【 There are unlimited rides you can have. 您可以无限次乘坐 】`
 - You will allowed unlimited access to the files. 你可以无限制使用这些档案
 -
 -
-- `clean energy. 清洁能源`
+- `【 clean energy. 清洁能源 】`
 - `clean up. 清理 清洁`
 - // clean 清洁的 干净的 打扫
 - // clean <-> messy 脏的
-- `clean is the opposite of messy. = The opposite of clean is dirty.`
 - `what's the opposite of clean?`
+- `The opposite of clean is dirty/messy. = clean is the opposite of messy/dirty.`
 - 1. **clean**:【 We should clean up litter to keep the outdoors clean. 我们应该收拾一下垃圾，以保持室外干净整洁 】
 - 2. Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
 - 3. **messy**: You wear an apron when you cook. so you don't get yourself too messy.
@@ -45,20 +45,30 @@
 - `next mode of transportation. 下一种交通方式`
 - `The fourth mode of transportation. 第四种交通方式`
 - `Another mode of transportation. 另一种交通方式 `
-- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】` // right next to. 就在旁边
-- `【    As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】` // recap 回顾
+-
+-
+- `right next to. 就在傍边`
+- `【 I'm right next to the bus stop. 我就在公共汽车站旁边 】` // right next to. 就在旁边
+-
+-
+- `recap 回顾`
+- `【 Let's quickly recap what we have done. 让我们快速回顾一下我们所做的事情 】`
+- `【 As a point of departure, let me recap what we did last week. 作为出发点，让我回顾一下我们上周所做的工作  】` // recap 回顾
 - 1. How do you go to work every day? 你每天怎么去上班？ // How do you usually get around?
 - 2. I oftentimes go to work by car. 我经常开车去上班 // oftentimes 常常
 - 2. I go to work on foot every day = I walk to work every day.
+-
 -
 - `track 轨道 路线 追踪`
 - Once you scan the bike with the QR code, it already has a timer and it'll track how many miles you ride on the bike.
 - 一旦你用二维码扫描自行车，它就会有一个计时器，它会跟踪你骑了多少英里
 -
+-
 - `Docking station. 基座 扩展坞`
 - You will align the bike and then you're going to push it into the docking station.
 - 您将对齐自行车，然后将其推入停靠站
-- // transfer station. // terminal station // gas station = petrol station // ferry station
+- // transfer station. // terminal station // gas station = petrol station // ferry station // docking station
+-
 -
 - `【 take pictures. 拍照 】`
 - `【 record videos. 录制视频 】`
@@ -69,11 +79,13 @@
 - 【 pedestrian mall. 步行街 】
 - 【 walk around. 四处走动 】// get around. // walking around a downtown area like New York City.
 - 【 different modes of transportation. 不同的交通方式 】
+-
+-
 - BBB-------
 - `ferry 轮渡`
 - 【 ferry station. 轮渡站 】
 - 【 going on the ferry. 乘渡船 】
-- That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上
+- 【 That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上 】 // on the way.在路上
 - The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
 - ramp 坡道
 - // ferry station. 轮渡站
@@ -81,6 +93,8 @@
 - // terminal station. 终点站
 - // gas station = petrol station. 加油站
 - // Docking station. 基座 扩展坞
+-
+-
 - CCC-------
 - `on the way. 在路上`
 - `all the way. 一直 一路 自始自终`
@@ -88,15 +102,21 @@
 - 【 all the way 一直: I'll support him all the way. 我自始至终都会支持 】
 - all the way 一路: He had to walk all the way home. 他不得不一路步行回家
 - **【 on the way 在路上: That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上 】**
+-
+-
 - DDD-------
 - 11. `crouch down. 蹲下`
 - 22. press right here. 按这里
 - 33. I'm inserting my credit card to pay for both tickets. 我正在插入我的信用卡来支付两张票的费用
 - 44. Would you like a printed receipt. 您要打印收据吗?
 - 55. on the way. 在路上
+-
+-
 - EEE-------
-- 11. `Cable Car. 缆车` // cable 电缆
+- 11. `Cable Car. 缆车` // cable 电缆 // tram 电车
 - 22. **Normally cable cars exist in areas with mountains. 缆车通常存在于山区**
+-
+-
 - FFF-------
 - 【 subway 地铁 】
 - 【 railway 铁路 】
@@ -117,6 +137,7 @@
 - // Do not know it check it out. 不知道就快来看看吧
 - // Let go back out there and check it out. 我们得回现场去检查一下
 - 77. `unlimited 无限的 无限制的`
+- // There are unlimited rides you can have. 您可以无限次乘坐
 - // You will allowed unlimited access to the files. 你可以无限制使用这些档案
 - 88. `trade 贸易`
 - // Trade between the two countries has increased. 两国之间的贸易增长了
@@ -168,13 +189,13 @@
 - second-hand car = used car.
 -
 -
+- **`hop on the train. 跳上火车`** // hop 双足跳
 - `Euro 欧元`
 - `broke down 抛锚`
 - `which airline is it? 是哪家航空公司`
 - `The charge you for everything. 所有东西都收费`
 - `ridiculous. 荒谬的`
 - **`When was the last time you took a vacation? 你上一次度假是什么时候？`**
-- **`hop on the train. 跳上火车`** // hop 双足跳
 -
 -
 - `transfer station. 中转站`
@@ -229,7 +250,7 @@
 - `【 Wait for people to get off first. 等下车的人先走 】`
 - `【 we are on line 1. 我们在一号线 】`
 - `etc = et cetera 等等`
-- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】`
+- `【    I'm right next to the bus stop. 我就在公共汽车站旁边    】` // right next to. 就在旁边
 -
 -
 - `boarding pass. 登机牌`
@@ -317,6 +338,7 @@ step 步n 步骤n 踩v
 【 step by step. 一步一步地 逐步得 】
 【 I'll explain it to you step by step. 我来一步一步地给你解释 】
 step on. 踩上去 踏上...
+【 Sorry, I stepped on you foot. 不好意思，我踩到你的脚了 】
 【 step on the gas, we're late. 加大油门，我们要迟到了 】
 -
 caution Gap. 当心间隙
@@ -353,6 +375,9 @@ supply 供应 供给 补给品 日常用品 // supplies
 【 urgent supplies. 紧急物资 】
 【 emergency supplies. 紧急物资 】
 【 school supplies. 学习用品 】
+// brake light. 刹车灯
+// brake pedal. 刹车踏板
+// emergency brake. 紧急制动
 -
 train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
@@ -362,6 +387,7 @@ transfer 转移 转让
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
+【 docking station. 扩展坞 】
 -
 coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
@@ -435,7 +461,7 @@ kitty corner. 对角 斜对角
 -
 destination 目的地 // terminal
 destiny 命运
-【 intersection 交集 十字路口 】
+【 intersection 交集 十字路口 】 // Take a right turn at the intersection. 在十字路口向右拐
 【 express train. 特快列车 】
 fast track. 快速通道 // track 轨道n 路径n 追踪v
 -
@@ -574,6 +600,7 @@ transfer 转移 转让
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
+【 docking station. 扩展坞 】
 // 【 transfer 换乘: Transfer from line3 to line1. 从3号线换乘到1号线 】
 // 【 you can transfer to metro line2. 你可以换乘地铁2号线 】
 // How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
@@ -584,7 +611,8 @@ safety notice. 安全标志
 
 belt 腰带 传送带
 seatbelt 安全带
-// Put you bag on the belt. 把包放在传送带上
+// Put your bag on the belt. 把包放在传送带上
+// fasten your seat belt. 系好安全带
 
 escalator 扶梯
 // This is an escalator. 这是扶梯
