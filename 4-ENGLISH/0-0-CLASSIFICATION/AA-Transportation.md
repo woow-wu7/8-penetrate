@@ -1139,6 +1139,22 @@ appreciate 欣赏 感激 v
 
 - `neutral 中立的 车空档`
 - Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为
+-
+-
+- `associated with. 与...有关`
+- Today we're going to talk about vocabulary associated with driving cars. 今天我们将讨论与驾驶汽车相关的词汇
+-
+-
+- `first of all. 首先`
+- `second of all. 其次`
+-
+-
+- `ignition 点火器`
+- First of all, when I'm in my car I want to start it and I start it by putting my key into the ignition.
+- 首先，当我在车里的时候，我想启动它，我把钥匙插进点火开关。
+-
+-
+-
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1150,7 +1166,7 @@ appreciate 欣赏 感激 v
 7.【 van 面包车 】
 8.【 Cable Car. 缆车 】// cable car
 9.【 tram 电车 】 // tram
-10. 【 vessel 船 】
+1.  【 vessel 船 】
 -
 自动档
 P park 停车档
@@ -1188,10 +1204,11 @@ turn signal. 转向灯
 // 2.【 You hit the brake to slow down. 你踩下刹车减速 】
 3.【 back up light. 倒车灯 】
 4.【 turn signal. 转向灯 】 // Take a right turn at the intersection. 在十字路口向右拐
-4. 【 turn signal lever. 转向灯杆 】// lever 杠杆
+1. 【 turn signal lever. 转向灯杆 】// lever 杠杆
 4.【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
-5. hazard light. 危险指示灯
--
+1. hazard light. 危险指示灯
+
+------- ------- -------
 前面 // front
 license plate. 牌照 车牌
 hood 引擎盖 防护罩 前车的引擎盖
@@ -1200,32 +1217,43 @@ antenna 天线
 radio station. 广播电台
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
--
+
+------- ------- -------
 后面 // back
 tailgate 尾门
 muffler 消声器
--
+
+------- ------- -------
 侧面 // side
 wheel 车轮
 front wheel. 前车轮
 tire 轮胎 累
 gas cap. 油箱盖
 gas nozzle. 油箱嘴
--
+
+------- ------- -------
 里面 // inside
+ignition 点火 点火器
+stick shift. 换挡杆
+automatic transmission. 自动档 // This car has an automatic transmission. 这辆车有自动变速器
 steering wheel. 方向盘
 horn 喇叭
-turn signal lever. 转向灯杆 // lever 杠杆
-tachometer 转速表
 speedometer 速度计
+tachometer 转速表
+rear view mirror. 后视镜
+rear view camera. 后视摄像头
+moon roof. 天窗
+cup holder. 杯架
+-
+turn signal lever. 转向灯杆 // lever 杠杆
 temperature gauge. 温度计
 airbag 安全气囊
 accelerator 油门
 center control. 控制中心
 hazard light. 危险指示灯
-rear view mirror. 后视镜
 dipstick 量油尺
--
+
+------- ------- -------
 【 gas tank. 油箱 】
 【 thunk 后备箱  树干  】
 【 tire 轮胎 累 】
@@ -1292,7 +1320,9 @@ a brief glimpse. 短暂一瞥
 take the seat belt off. 解开安全带
 fairly well. 相当好
 【 mechanic 机械师 】
-
+-
+first of all. 首先
+second of all. 其次
 
 
 The different parts of the car on the outside and the inside.
@@ -1313,6 +1343,21 @@ neutral 中立
 // 【 Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为 】// pure 纯的 纯净的 // pure object. 纯对象
 // I tried to remain neutral during the quarrel. 我试着在这次争吵中保持中立
 // Journalists are supposed to be politically neutral. 新闻工作者在政治上应该保持中立态度
+
+associate 联系v 联合的adj 副的
+Association 关联
+// 【 associate with. 联系 】
+// 【 associate professor. 副教授 】
+// 【 associate editor. 副主编 】
+// Red roses are always associated with love and romance. 玫瑰常与爱情浪漫相关
+// They have maintained a close association with a college in the US. 他们和美国一所学院保持了密切联系
+
+steering wheel. 方向盘
+// I use it to turn left and to turn right.
+
+automatic transmission. 自动档
+// This car has an automatic transmission. 这辆车有自动变速器
+// This means that the speed changes automatically. 这意味着速度会自动变化
 ```
 
 ##### (5) transportation vehicles 交通工具
