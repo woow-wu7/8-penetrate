@@ -28,6 +28,17 @@
 - `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
 -
 -
+- `hail 冰雹n 招手v`
+- `【 hailing a taxi. 叫出租车 】` // hail 向...喊 冰雹
+- `【 hailing a taxi. 叫出租车 】` // hail 向...喊 冰雹
+- `【 hailing a taxi. 叫出租车 】` // hail 向...喊 冰雹
+- `【 taxi stand. 出租车站 】`
+-
+-
+- **I can take you to where you want to go. 我可以带你去你想去的地方**
+- hop on the train. 跳上火车
+-
+-
 - `unlimited 无限的 无限制的`
 - limit 限制 v / n
 - limited 有限的 受限的 adj
@@ -41,12 +52,16 @@
 - // clean <-> messy 脏的
 - `what's the opposite of clean?`
 - `The opposite of clean is dirty/messy. = clean is the opposite of messy/dirty.`
+- // take off your scarf = take your scarf off. 把围巾拿下来
 - **Where can I get a bus in the opposite direction? 我在哪里可以坐相反方向的公共汽车**
 - 1. **clean**:【 We should clean up litter to keep the outdoors clean. 我们应该收拾一下垃圾，以保持室外干净整洁 】
-- 2. Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
 - 3. **messy**: You wear an apron when you cook. so you don't get yourself too messy.
 - 3. **messy**: `A messy person refuses to clean his room. 一个邋遢的人拒绝打扫他的房间`
 - 3. **messy**: `A messy. 一片狼藉`
+-
+-
+- **【 Are there any volunteers to help clean up? 有没有志愿者帮忙清理 】** // volunteer 志愿者
+- **【 Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？ 】**
 -
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
@@ -157,7 +172,7 @@
 - // There are unlimited rides you can have. 您可以无限次乘坐
 - // You will allowed unlimited access to the files. 你可以无限制使用这些档案
 - 88. `trade 贸易`
-- // Trade between the two countries has increased. 两国之间的贸易增长了
+- // 【 Trade between the two countries has increased. 两国之间的贸易增长了 】
 - `resident 居民`
 -
 -
@@ -178,12 +193,13 @@
 - 4. I don't want to get stuck in another job like that. 我不想陷入另一份那样的工作中
 -
 -
-- `gas 燃气`
+- `gas 燃气` // gas pedal. // brake pedal.
 - `gasoline 汽油` // gasoline = petrol
 - `petrol 汽油`
 - `petroleum 原油`
 - petrol station. 加油站 = gas station.
 - 【 petrol tank. 汽油箱 】
+- 【 gas tank. 油箱 】
 - 1.petrol station
 - 2.gas station
 - 4.transfer station
@@ -261,7 +277,7 @@
 - `clear of. 远离`
 - `This train is now ready to depart. Please stand clear of the closing doors. 这列火车现已准备出发。 请远离正在关闭的门`
 - `make sure you park your car clear of the entrance. 确保将车停在远离入口的地方`
-- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽` queue up = wait in line.
+- `Please queue up and stand clear of the platform screen door. 请按箭头排队候车，勿依靠屏蔽门` queue up = wait in line.
 -
 -
 - `【 The ship is bound for America. 这艘轮船是开往美洲去的 】` // be bound for. 开往
@@ -290,6 +306,9 @@
 -
 -
 - `Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？`
+- `Are there any volunteers to help clean up? 有没有志愿者帮忙清理`
+-
+-
 - `There will be fines for people who drop litter. 乱扔垃圾的人将被罚款` // fine 美好的 adj 罚款 n
 - `Please offer your seats to anyone in need. 请给有需要的人让座`
 -
@@ -399,7 +418,7 @@ supply 供应 供给 补给品 日常用品 // supplies
 【 urgent supplies. 紧急物资 】
 【 emergency supplies. 紧急物资 】
 【 school supplies. 学习用品 】
-// brake light. 刹车灯
+// brake light. 刹车灯 = tail light.
 // brake pedal. 刹车踏板
 // emergency brake. 紧急制动
 -
@@ -424,12 +443,12 @@ queue up. 排队
 wait in line. 排队
 cut in line. 插队
 queue up = wait in line. 排队
-【 We had to queue up one for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
+【 We had to queue up for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
 【 I'm waiting in line to purchase my Ferry ticket. 我正在排队购买船票 】// wait in line = queue up.
 // jump a queue. 插队
 // cut a queue. 插队
 // cut in line. 插队
-// wait in line. 排队
+// wait in line. 排队 = queue up.
 【 please don't cut in line. 请不要插队 】
 -
 exit 出口 通道 n
@@ -500,6 +519,8 @@ arrival 到达 n
 -
 belt 腰带 传送带
 seatbelt 安全带
+// fasten your seat belt. 系好安全带
+// wearing a seat belt. 系好安全带
 -
 turnstile 闸机
 swipe 刷卡
@@ -892,18 +913,22 @@ Excuse me. Just wondering how can I get to xxxx.
 - `【 taxi stand. 出租车站 】`
 -
 - `a good recommendation. 一个好的建议` // recommendation
-- `recommendation letter. 推荐信 ` // recommendation
+- `【 recommendation letter. 推荐信 】` // recommendation
 -
 -
 - `Take your scarf off.  = take off your scarf. 把围巾拿下来` // take off. 拖下
 - `The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞` // take off. 起飞
+- // `what's the opposite of clean?`
+- // `The opposite of clean is dirty/messy. = clean is the opposite of messy/dirty.`
 -
 -
 - `I'd like to reserve a table for three for eight o'clock. 我想预订八点钟供三人用餐的桌位` // reserve // reserve a seat.
 - `I guided him to the counter to order. 我带着他去柜台点餐` // counter
 -
 -
-- `I'm getting kind of hungry. 我有点饿` // kind of. // 2.I'm kind of tired today. // 3.I'm kind of hot.
+- `kind of. 有点`
+- `a kind of. 一种`
+- `I'm getting kind of hungry. 我有点饿` // kind of. // 2.I'm kind of tired. // 3.I'm kind of hot.
 - `A phone is a kind of device. 手机是一种设备` // a kind of.
 -
 -
@@ -955,6 +980,7 @@ garage 车库
 【 take off. 起飞 脱掉 】
 take off. 脱掉: Take your scarf off.  = take off your scarf. 把围巾拿下来
 take off. 起飞: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞
+What's the opposite of clean? the opposite of clean is dirty/messy. dirty/messy is the opposite of clean.
 -
 1. one-way ticket. 单程票
 2. one-way street. 单行道
@@ -1246,6 +1272,8 @@ gas cap. 油箱盖
 gas nozzle. 油箱嘴
 //【 gas tank. 油箱 】
 //【 thunk 后备箱  树干  】
+//【 fill up my car. 给我的车加满油 】
+// I fill up the tank with gasoline about once a week. 我大约每周给油箱加一次汽油
 
 ------- ------- ------- ------- ------- ------- -------
 里面 // inside
