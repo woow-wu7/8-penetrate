@@ -197,6 +197,7 @@
 - `gasoline 汽油` // gasoline = petrol
 - `petrol 汽油`
 - `petroleum 原油`
+- `【 diesel 柴油 】` // diesel gauge. 柴油仪表
 - petrol station. 加油站 = gas station.
 - 【 petrol tank. 汽油箱 】
 - 【 gas tank. 油箱 】
@@ -521,6 +522,7 @@ belt 腰带 传送带
 seatbelt 安全带
 // fasten your seat belt. 系好安全带
 // wearing a seat belt. 系好安全带
+`tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程` // tighten 勒紧
 -
 turnstile 闸机
 swipe 刷卡
@@ -661,6 +663,7 @@ seatbelt 安全带
 // Put your bag on the belt. 把包放在传送带上
 // fasten your seat belt. 系好安全带
 // wearing a seat belt. 系好安全带
+// `tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程` // tighten 勒紧
 
 escalator 扶梯
 // This is an escalator. 这是扶梯
@@ -890,6 +893,7 @@ Excuse me. Just wondering how can I get to xxxx.
 - `buckle up. 系好安全带`
 - `fasten your seat belt. 系好安全带` // fasten 扣紧 // belt 皮带 传送带
 - `wearing a seat belt. 系好安全带`
+- `tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程` // tighten 勒紧
 -
 -
 - `sold out. 售尽`
@@ -1182,7 +1186,17 @@ appreciate 欣赏 感激 v
 - 首先，当我在车里的时候，我想启动它，我把钥匙插进点火开关。
 -
 -
+- `stick shift. 换挡杆`
+- `brake pedal. 刹车踏板`
+- I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
+- 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
+-
+- `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
+-
+-
+- `flat tire. 爆胎`
+- Sometimes that happened to me actually three times in my life. 这种事在我身上发生过三次
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1263,7 +1277,7 @@ exhaust pipe. 排气管
 
 ------- ------- ------- ------- ------- ------- -------
 侧面 // side
-wheel 车轮
+wheel 车轮 // whole construction. 整个结构是车轮
 front wheel. 前车轮
 tire 轮胎 累
 //【 spare tire. 备用胎 】
@@ -1278,27 +1292,37 @@ gas nozzle. 油箱嘴
 ------- ------- ------- ------- ------- ------- -------
 里面 // inside
 ignition 点火 点火器
-stick shift. 换挡杆
+【 stick shift. 换挡杆 】// stick 棍 棒
+// shift gears. 换档
+// first gear. 一档
+// second gear. 二档
 automatic transmission. 自动档
 // This car has an automatic transmission. 这辆车有自动变速器
 steering wheel. 方向盘
 horn 喇叭
 //【 honk the horn. 按喇叭 】
-speedometer 速度计
-tachometer 转速表
-rear view mirror. 后视镜
+【 temperature gauge. 温度计 】
+//【 pressure gauge. 压力表 】
+//【 speedometer 速度计 】// speedometer 速度计
+//【 tachometer 转速表 】
+// diesel gauge. 柴油仪表
+【【   rear view mirror. 后视镜   】】
 rear view camera. 后视摄像头
 moon roof. 天窗
+visor 遮阳板
+door handle. 车门把手 // That help us open and close the door.
 cup holder. 杯架
 //【 hand sanitizer. 洗手液 】
 //【 face cream. 面霜 】
 seat belt. 安全带
 // wearing a seat belt. 系好安全带
 // fasten your seat belt. 系好安全带
-trunk 后备箱 树干
+// `tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程` // tighten 勒紧
+trunk 后备箱 树干 // I can open the trunk by pressing this button on the key.
 【 flat tire. 爆胎 】
 turn signal lever. 转向灯杆 // lever 杠杆
-temperature gauge. 温度计
+【 temperature gauge. 温度计 】
+【 pressure gauge. 压力表 】
 airbag 安全气囊
 accelerator 油门
 center control. 控制中心
@@ -1313,6 +1337,7 @@ dipstick 量油尺
 【 center console. 中控台 】
 【 shifter 变速器 】
 【 pressure gauge. 压力表 】
+【 temperature gauge. 温度计 】
 【 gear 齿轮 】// gears // shift gears.换挡 // first gear.一档 // second gear.二档
 -
 windshield 挡风玻璃
@@ -1340,7 +1365,8 @@ vents 通风口 // vent 排气口 通风口
 dashboard 仪表盘
 speedometer 速度计
 tachometer 转速表
-temperature gauge. 温度计
+【 temperature gauge. 温度计 】
+【 pressure gauge. 压力表 】
 mileage 里程
 ignition 点火 点火器
 vague 模糊
@@ -1379,12 +1405,33 @@ second of all. 其次
 warship 军舰
 stickers 贴纸
 underneath 下面
+-
+blinking 闪烁 // blink 眨眼 闪烁
+flash 闪烁
+-
+
 
 
 The different parts of the car on the outside and the inside.
 So that's just the way it is. 所以事情就是这样
 Thank you so much for learning English with me.
 【 That was awesome. 这太棒了 】
+
+-------
+1
+I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
+我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
+// stick shift. 换挡杆
+// brake pedal. 刹车踏板
+
+-------
+2
+flat tire. 爆胎
+Sometimes that happened to me actually three times in my life. 这种事在我身上发生过三次
+
+-------
+
+
 
 
 each time. 每次
