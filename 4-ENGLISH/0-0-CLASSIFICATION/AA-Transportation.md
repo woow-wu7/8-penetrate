@@ -15,8 +15,17 @@
 -
 -
 - `make it to. 到达`
-- `【 We make it to our destination. 我们到达目的地 】`
+- `【 We make it to our destination. 我们到达了目的地 】`
 - `【 It's going to charge me $1. 它将收取我 1 美元 】` // charge 收费 v 费用 n
+-
+-
+- `right next to. 就在傍边`
+- `【 I'm right next to the bus stop. 我就在公共汽车站旁边 】` // right next to. 就在旁边
+-
+-
+- `certain 某`
+- `at a certain stop. 在某一站` // certain 某 某事 某事 某人
+- `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
 -
 -
 - `unlimited 无限的 无限制的`
@@ -41,19 +50,11 @@
 -
 -
 - `What's your favorite mode of transportation? 你最喜欢的交通工具是什么?`
-- different modes of transportation. 不同的交通方式 // ---- mode of. ...方式
-- different forms of transportation. 不同形式的交通 // ----- form of. ...的形式
+- different [ modes ] of transportation. 不同的交通方式 // ---- mode of. ...方式
+- different [ forms ] of transportation. 不同形式的交通 // ----- form of. ...的形式
 - `next mode of transportation. 下一种交通方式`
 - `The fourth mode of transportation. 第四种交通方式`
 - `Another mode of transportation. 另一种交通方式 `
--
--
-- `right next to. 就在傍边`
-- `【 I'm right next to the bus stop. 我就在公共汽车站旁边 】` // right next to. 就在旁边
--
--
-- `at a certain stop. 在某一站` // certain 某 某事 某事 某人
-- `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
 -
 -
 - 1. `I think I missed my bus stop. 我想我错过了公共汽车站`
@@ -91,7 +92,7 @@
 -
 - AAA-------
 - `pedestrian 行人 行人的`
-- 【 pedestrian mall. 步行街 】
+- `【 pedestrian mall. 步行街 】`
 - 【 walk around. 四处走动 】// get around. // walking around a downtown area like New York City.
 - 【 different modes of transportation. 不同的交通方式 】
 -
@@ -114,7 +115,7 @@
 - CCC-------
 - `on the way. 在路上`
 - `all the way. 一直 一路 自始自终`
-- 【 I have to walk all the way over there to the ferry station. 我必须一路走到那边的轮渡站 】// walk over there. 走到那边
+- **【 I have to walk all the way over there to the ferry station. 我必须一路走到那边的轮渡站 】** // walk over there. 走到那边
 - 【 all the way 一直: I'll support him all the way. 我自始至终都会支持 】
 - all the way 一路: He had to walk all the way home. 他不得不一路步行回家
 - **【 on the way 在路上: That ferry is on the way back to the ferry station. 那艘渡船正在回渡船站的路上 】**
@@ -1176,14 +1177,22 @@ third gear. 三档
 【 emergency braking. 紧急制动刹车 】
 -
 headlight 车前灯
-brake light. 刹车灯 // brake 刹车 // brake pedal. // emergency brake.
-// brake light. = tail light. 刹车灯/尾灯
-// hit the brake. 踩刹车
-【 turn signal. 转向灯 】 // Take a right turn at the intersection. 在十字路口向右拐
-【 back up light. 倒车灯 】
-【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
+brake light. 刹车灯
+tail light. 尾灯 = brake light
+hazard light. 危险指示灯 双闪灯
+back up light. 倒车灯
+turn signal. 转向灯
+// brake 刹车 // brake pedal. // emergency brake.
+// 1.【  brake light. = tail light. 刹车灯/尾灯 】
+// 【 hit the brake. 踩刹车 】
+// 2.【 You hit the brake to slow down. 你踩下刹车减速 】
+3.【 back up light. 倒车灯 】
+4.【 turn signal. 转向灯 】 // Take a right turn at the intersection. 在十字路口向右拐
+4. 【 turn signal lever. 转向灯杆 】// lever 杠杆
+4.【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
+5. hazard light. 危险指示灯
 -
-前面:
+前面 // front
 license plate. 牌照 车牌
 hood 引擎盖 防护罩 前车的引擎盖
 motor 发动机 马达
@@ -1192,16 +1201,30 @@ radio station. 广播电台
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
 -
-后面
+后面 // back
 tailgate 尾门
 muffler 消声器
 -
-侧面
+侧面 // side
 wheel 车轮
 front wheel. 前车轮
 tire 轮胎 累
 gas cap. 油箱盖
 gas nozzle. 油箱嘴
+-
+里面 // inside
+steering wheel. 方向盘
+horn 喇叭
+turn signal lever. 转向灯杆 // lever 杠杆
+tachometer 转速表
+speedometer 速度计
+temperature gauge. 温度计
+airbag 安全气囊
+accelerator 油门
+center control. 控制中心
+hazard light. 危险指示灯
+rear view mirror. 后视镜
+dipstick 量油尺
 -
 【 gas tank. 油箱 】
 【 thunk 后备箱  树干  】
@@ -1236,6 +1259,8 @@ visor 遮阳板
 vents 通风口 // vent 排气口 通风口
 dashboard 仪表盘
 speedometer 速度计
+tachometer 转速表
+temperature gauge. 温度计
 mileage 里程
 ignition 点火 点火器
 vague 模糊
@@ -1254,7 +1279,20 @@ mechanic 机械师
 bumper 保险杠 // bump 撞击 碰撞
 fender 挡泥板
 architecture 建筑
+-
 【 take pictures. 拍照 】
+【 record videos. 录像 】
+-
+tire 轮胎 疲劳
+rubber 橡胶 橡皮 // rub 摩擦 擦 搓
+-
+entire 整个
+distinction 区别
+a brief glimpse. 短暂一瞥
+take the seat belt off. 解开安全带
+fairly well. 相当好
+【 mechanic 机械师 】
+
 
 
 The different parts of the car on the outside and the inside.
