@@ -639,6 +639,7 @@ belt 腰带 传送带
 seatbelt 安全带
 // Put your bag on the belt. 把包放在传送带上
 // fasten your seat belt. 系好安全带
+// wearing a seat belt. 系好安全带
 
 escalator 扶梯
 // This is an escalator. 这是扶梯
@@ -867,6 +868,7 @@ Excuse me. Just wondering how can I get to xxxx.
 -
 - `buckle up. 系好安全带`
 - `fasten your seat belt. 系好安全带` // fasten 扣紧 // belt 皮带 传送带
+- `wearing a seat belt. 系好安全带`
 -
 -
 - `sold out. 售尽`
@@ -1167,13 +1169,15 @@ appreciate 欣赏 感激 v
 8.【 Cable Car. 缆车 】// cable car
 9.【 tram 电车 】 // tram
 1.  【 vessel 船 】
--
+
+------- ------- ------- ------- ------- ------- -------
 自动档
 P park 停车档
 R reverse 倒车档
 N neutral 空档 // neutral 中性的 中立的
 D drive 前进档
--
+
+------- ------- ------- ------- ------- ------- -------
 手动档
 gear 齿轮 // gears
 【 shift gears. 换档 】
@@ -1191,13 +1195,19 @@ third gear. 三档
 // brake pedal. 刹车踏板
 【 emergency brake. 紧急制动 紧急刹车 】
 【 emergency braking. 紧急制动刹车 】
--
+
+------- ------- ------- ------- ------- ------- -------
+灯
 headlight 车前灯
 brake light. 刹车灯
 tail light. 尾灯 = brake light
+fog light. 雾灯
 hazard light. 危险指示灯 双闪灯
 back up light. 倒车灯
 turn signal. 转向灯
+【 high beam mode. 远光灯模式 】
+【 low beam mode. 近光灯模式 】
+【 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次 】
 // brake 刹车 // brake pedal. // emergency brake.
 // 1.【  brake light. = tail light. 刹车灯/尾灯 】
 // 【 hit the brake. 踩刹车 】
@@ -1208,7 +1218,8 @@ turn signal. 转向灯
 4.【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
 1. hazard light. 危险指示灯
 
-------- ------- -------
+
+------- ------- ------- ------- ------- ------- -------
 前面 // front
 license plate. 牌照 车牌
 hood 引擎盖 防护罩 前车的引擎盖
@@ -1218,33 +1229,46 @@ radio station. 广播电台
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
 
-------- ------- -------
+------- ------- ------- ------- ------- ------- -------
 后面 // back
 tailgate 尾门
 muffler 消声器
+exhaust pipe. 排气管
 
-------- ------- -------
+------- ------- ------- ------- ------- ------- -------
 侧面 // side
 wheel 车轮
 front wheel. 前车轮
 tire 轮胎 累
+//【 spare tire. 备用胎 】
+//【 flat tire. 爆胎 】
 gas cap. 油箱盖
 gas nozzle. 油箱嘴
+//【 gas tank. 油箱 】
+//【 thunk 后备箱  树干  】
 
-------- ------- -------
+------- ------- ------- ------- ------- ------- -------
 里面 // inside
 ignition 点火 点火器
 stick shift. 换挡杆
-automatic transmission. 自动档 // This car has an automatic transmission. 这辆车有自动变速器
+automatic transmission. 自动档
+// This car has an automatic transmission. 这辆车有自动变速器
 steering wheel. 方向盘
 horn 喇叭
+//【 honk the horn. 按喇叭 】
 speedometer 速度计
 tachometer 转速表
 rear view mirror. 后视镜
 rear view camera. 后视摄像头
 moon roof. 天窗
 cup holder. 杯架
--
+//【 hand sanitizer. 洗手液 】
+//【 face cream. 面霜 】
+seat belt. 安全带
+// wearing a seat belt. 系好安全带
+// fasten your seat belt. 系好安全带
+trunk 后备箱 树干
+【 flat tire. 爆胎 】
 turn signal lever. 转向灯杆 // lever 杠杆
 temperature gauge. 温度计
 airbag 安全气囊
@@ -1253,7 +1277,7 @@ center control. 控制中心
 hazard light. 危险指示灯
 dipstick 量油尺
 
-------- ------- -------
+------- ------- ------- ------- ------- ------- -------
 【 gas tank. 油箱 】
 【 thunk 后备箱  树干  】
 【 tire 轮胎 累 】
@@ -1323,6 +1347,10 @@ fairly well. 相当好
 -
 first of all. 首先
 second of all. 其次
+-
+warship 军舰
+stickers 贴纸
+underneath 下面
 
 
 The different parts of the car on the outside and the inside.
@@ -1358,6 +1386,12 @@ steering wheel. 方向盘
 automatic transmission. 自动档
 // This car has an automatic transmission. 这辆车有自动变速器
 // This means that the speed changes automatically. 这意味着速度会自动变化
+
+cup holder. 杯架
+【 hand sanitizer. 洗手液 】
+【 bubble gum. 泡泡糖 】
+【 face cream. 面霜 】
+// We use it for hand sanitizer and for bubble gum.
 ```
 
 ##### (5) transportation vehicles 交通工具
