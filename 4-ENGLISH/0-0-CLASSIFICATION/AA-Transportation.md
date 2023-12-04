@@ -1186,7 +1186,7 @@ appreciate 欣赏 感激 v
 - 首先，当我在车里的时候，我想启动它，我把钥匙插进点火开关。
 -
 -
-- `stick shift. 换挡杆`
+- `stick shift. 换挡杆` // stick 棍 棒 粘住
 - `brake pedal. 刹车踏板`
 - I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
@@ -1195,8 +1195,43 @@ appreciate 欣赏 感激 v
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
-- `flat tire. 爆胎`
+- `flat tire. 爆胎 瘪胎`
 - Sometimes that happened to me actually three times in my life. 这种事在我身上发生过三次
+-
+-
+- `rear view mirror. 后视镜`
+- `side mirror. 侧视镜`
+- `changing lanes. 变道`
+- Side mirror to help you see beside you and behind you when you're turning and changing lanes.
+- 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面
+-
+-
+- `visor 遮阳板`
+- If the sun is really bright like today, You can put down your visor.
+- 如果太阳像今天这样强烈，你可以放下遮阳板
+-
+-
+- `clutch 离合器`
+- `emergency brake. 紧急制动`
+- I can push in the emergency brake. 我能踩下紧急刹车
+- // brake light. // brake pedal. // emergency brake.
+- // brake pedal. // gas pedal. // clutch pedal.离合器踏板
+-
+-
+- `windshield 挡风玻璃`
+- `windshield wipers. 雨刮器`
+- 1. windshield: The front windshield was misting over. 前挡风玻璃蒙上了一层水汽
+- 2. windshield wipers: windshield wipers help the rain to go off of your windshield. 雨刷可以帮助雨水从挡风玻璃上掉下来
+- // mist 薄雾 水汽
+- // mist over. 结雾
+- // To roll down the window. 摇下车窗
+-
+-
+- `turn signal. 转向信号灯`
+- 1. When you flip on your turn signal. It makes your blinkers blink in the back of your car.
+- 当你打开转向灯时，它会让你的车后面的闪光灯闪烁
+- 2. Don't forget to turn on your turn signal or turn on your blinkers.
+- 别忘了打开转向灯或打开闪光灯
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1205,10 +1240,10 @@ appreciate 欣赏 感激 v
 4.【 hatchback 三厢车 】
 5.【 pickup truck. 皮卡 】
 6.【 minivan 小型货车 】
-7.【 van 面包车 】
-8.【 Cable Car. 缆车 】// cable car
-9.【 tram 电车 】 // tram
-1.  【 vessel 船 】
+7.【    van 面包车    】
+8.【    Cable Car. 缆车   】// cable car
+9.【    tram 电车     】 // tram
+10.【   vessel 船     】
 
 ------- ------- ------- ------- ------- ------- -------
 自动档
@@ -1221,6 +1256,7 @@ D drive 前进档
 手动档
 gear 齿轮 // gears
 【 shift gears. 换档 】
+【 stick shift. 换档杆 】
 【 shifter 变速器 】
 first gear. 一档
 second gear. 二档
@@ -1228,7 +1264,7 @@ third gear. 三档
 -
 【 pedal 踏板 】
 【 gas pedal. 油门踏板 】
-【 brake pedal. 刹车踏板 】// emergency brake. 紧急制动 紧急刹车 // brake light. 刹车灯
+【 brake pedal. 刹车踏板 】// emergency brake. 紧急制动 紧急刹车 // brake light. 刹车灯 = tail light.
 【 clutch pedal. 离合器踏板 】
 // brake 刹车
 // brake light. 刹车灯
@@ -1238,13 +1274,14 @@ third gear. 三档
 
 ------- ------- ------- ------- ------- ------- -------
 灯
+bright 车灯 // brights车灯 // blind瞎的
 headlight 车前灯
 brake light. 刹车灯
 tail light. 尾灯 = brake light
 fog light. 雾灯
-hazard light. 危险指示灯 双闪灯
-back up light. 倒车灯
 turn signal. 转向灯
+back up light. 倒车灯
+hazard light. 危险指示灯 双闪灯
 【 high beam mode. 远光灯模式 】
 【 low beam mode. 近光灯模式 】
 【 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次 】
@@ -1307,9 +1344,9 @@ horn 喇叭
 //【 tachometer 转速表 】
 // diesel gauge. 柴油仪表
 【【   rear view mirror. 后视镜   】】
-rear view camera. 后视摄像头
+【【   rear view camera. 后视摄像头  】】
 moon roof. 天窗
-visor 遮阳板
+visor 遮阳板 // If the sun is really bright like today, You can put down your visor.
 door handle. 车门把手 // That help us open and close the door.
 cup holder. 杯架
 //【 hand sanitizer. 洗手液 】
@@ -1328,6 +1365,7 @@ accelerator 油门
 center control. 控制中心
 hazard light. 危险指示灯
 dipstick 量油尺
+vents 通风口 // vent 排气口 通风口
 
 ------- ------- ------- ------- ------- ------- -------
 【 gas tank. 油箱 】
