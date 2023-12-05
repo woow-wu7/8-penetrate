@@ -1170,7 +1170,8 @@ appreciate 欣赏 感激 v
 ##### (4) Car
 
 - `neutral 中立的 车空档`
-- Pure water is neutral with a PH of 7. 纯水是中性的，酸碱度为
+- Pure water is neutral with a pH of 7. 纯水是中性的，酸碱度为
+- // pure 纯的
 -
 -
 - `associated with. 与...有关`
@@ -1187,11 +1188,13 @@ appreciate 欣赏 感激 v
 -
 -
 - `stick shift. 换挡杆` // stick 棍 棒 粘住
+- `shift gears. 换挡` // first/second gear. 一档二档
 - `brake pedal. 刹车踏板`
 - I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
 -
+- `trunk 树干 后备箱` // TIPS: Pay attention to pronunciation.
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
@@ -1204,14 +1207,19 @@ appreciate 欣赏 感激 v
 - `changing lanes. 变道`
 - Side mirror to help you see beside you and behind you when you're turning and changing lanes.
 - 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面
+- // lane 车道 跑道 // TIPS: Pay attention to pronunciation
+- // changing lanes. 变道
 -
 -
 - `visor 遮阳板`
-- If the sun is really bright like today, You can put down your visor.
-- 如果太阳像今天这样强烈，你可以放下遮阳板
+- ` protect from. 保护免受……的伤害`
+- `A visor protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射`
+- If the sun is really bright like today, You can put down your visor. 如果太阳像今天这样强烈，你可以放下遮阳板
+- // protect. // TIPS: Pay attention to pronunciation
+- // direct. 直接的
 -
 -
-- `clutch 离合器`
+- `clutch 离合器` // clutch pedal.
 - `emergency brake. 紧急制动`
 - I can push in the emergency brake. 我能踩下紧急刹车
 - // brake light. // brake pedal. // emergency brake.
@@ -1225,13 +1233,34 @@ appreciate 欣赏 感激 v
 - // mist 薄雾 水汽
 - // mist over. 结雾
 - // To roll down the window. 摇下车窗
+- // 【 go off. 爆炸 离开 】
 -
 -
-- `turn signal. 转向信号灯`
+- `turn signal.转向信号灯 = signal light.信号灯`
 - 1. When you flip on your turn signal. It makes your blinkers blink in the back of your car.
 - 当你打开转向灯时，它会让你的车后面的闪光灯闪烁
 - 2. Don't forget to turn on your turn signal or turn on your blinkers.
 - 别忘了打开转向灯或打开闪光灯
+-
+-
+- `antenna 天线 触角`
+- The antenna is connected to the radio inside. 天线连接到内部的收音机
+- They created a television antenna on the roof. 他们在屋顶上架起了电视天线
+-
+-
+- `gauge 测量 测量仪器`
+- 【 rain gauge 雨量计 】
+- 【 temperature gauge. 温度计 】= thermometer
+- 【 diesel gauge. 柴油计量器 】
+- // either or. 或，不是...就是...
+- // neither nor. 两者都不
+-
+-
+- `horn 喇叭`
+- `【 honk the horn. 按喇叭 】`
+- `【 You must honk the horn whenever you pass another car. 每当您超过另一辆车时，您都必须按喇叭 】`
+- 【 No need to honk the horn under such a traffic block. 在这种塞车的情况下，你再按喇叭也无济于事 】
+- // whenever 每当 每次 无论何时
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1279,9 +1308,9 @@ headlight 车前灯
 brake light. 刹车灯
 tail light. 尾灯 = brake light
 fog light. 雾灯
-turn signal. 转向灯
-back up light. 倒车灯
+back up light. 倒车灯 // back up. 备份 后退
 hazard light. 危险指示灯 双闪灯
+turn signal. 转向灯
 【 high beam mode. 远光灯模式 】
 【 low beam mode. 近光灯模式 】
 【 A beam of light could travel around the Earth seven times in one second. 光束能在一秒内环绕地球7次 】
@@ -1301,10 +1330,15 @@ hazard light. 危险指示灯 双闪灯
 license plate. 牌照 车牌
 hood 引擎盖 防护罩 前车的引擎盖
 motor 发动机 马达
-antenna 天线
-radio station. 广播电台
+antenna 天线 触角
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
+radio station. 广播电台
+// transfer station.
+// terminal station.
+// gas station = petrol station.
+// locking station.
+// ferry station
 
 ------- ------- ------- ------- ------- ------- -------
 后面 // back
@@ -1454,6 +1488,7 @@ The different parts of the car on the outside and the inside.
 So that's just the way it is. 所以事情就是这样
 Thank you so much for learning English with me.
 【 That was awesome. 这太棒了 】
+【 This is the vocabulary lesson for you. 这是为您准备的词汇课 】
 
 -------
 1
