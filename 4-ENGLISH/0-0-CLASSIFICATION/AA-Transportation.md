@@ -1172,6 +1172,7 @@ appreciate 欣赏 感激 v
 - `neutral 中立的 车空档`
 - Pure water is neutral with a pH of 7. 纯水是中性的，酸碱度为
 - // pure 纯的
+- // `自动档缩写: park reverse neutral drive`
 -
 -
 - `associated with. 与...有关`
@@ -1194,7 +1195,9 @@ appreciate 欣赏 感激 v
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
 -
-- `trunk 树干 后备箱` // TIPS: Pay attention to pronunciation.
+- `trunk 后备箱 树干` // TIPS: Pay attention to pronunciation.
+- `gas tank. 邮箱`
+- `gas cap. 油箱盖`
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
@@ -1219,7 +1222,8 @@ appreciate 欣赏 感激 v
 - // direct. 直接的
 -
 -
-- `clutch 离合器` // clutch pedal.
+- `clutch 离合器`
+- `clutch pedal. 离合器踏板`
 - `emergency brake. 紧急制动`
 - I can push in the emergency brake. 我能踩下紧急刹车
 - // brake light. // brake pedal. // emergency brake.
@@ -1249,8 +1253,9 @@ appreciate 欣赏 感激 v
 -
 -
 - `gauge 测量 测量仪器`
-- 【 rain gauge 雨量计 】
-- 【 temperature gauge. 温度计 】= thermometer
+- `【 rain gauge 雨量计 】`
+- `【 temperature gauge. 温度计 】= thermometer`
+- `【 pressure gauge. 压力表  】`
 - 【 diesel gauge. 柴油计量器 】
 - // either or. 或，不是...就是...
 - // neither nor. 两者都不
@@ -1261,6 +1266,37 @@ appreciate 欣赏 感激 v
 - `【 You must honk the horn whenever you pass another car. 每当您超过另一辆车时，您都必须按喇叭 】`
 - 【 No need to honk the horn under such a traffic block. 在这种塞车的情况下，你再按喇叭也无济于事 】
 - // whenever 每当 每次 无论何时
+-
+-
+- `tire 轮胎`
+- `spare tire. 备用轮胎`
+- `Take a spare tire along in case of need. 带个备用轮胎去，以备不时之需`
+- // in case of. 万一
+- // take along. 随身携带 带上
+- // spare 备用的
+- 1. take along: Don't forget to take along your passport when you travel. 旅行时别忘了带上你的护照
+- 2. in case of: In case of emergency, please call 911. 如果发生紧急情况，请拨打 911
+-
+-
+- `mechanic 机械师`
+- `on the side. 顺便 作为副业`
+- 【 car mechanic. 汽车修理师 】
+- 【 lift mechanic. 电梯修理师 】
+- He is a mechanic who buys and sells cars on the side. 他是一个兼营买卖汽车的技工
+-
+-
+- `bumper 保险杠`
+- `insurance 保险`
+- `motor vehicle. 机动车` // motor 马达 发动机
+- A bumper is a part of a motor vehicle. 保险杠是机动车辆的一部分
+-
+-
+-
+-
+- `So that's just the way it is. 所以事情就是这样`
+- `【 hailing a taxi. 叫出租车 】`
+- `【 That was awesome. 这太棒了 】`
+- `Thank you so much for learning English with me.`
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1355,6 +1391,7 @@ tire 轮胎 累
 //【 flat tire. 爆胎 】
 gas cap. 油箱盖
 gas nozzle. 油箱嘴
+//【 gas cap. 油箱盖 】
 //【 gas tank. 油箱 】
 //【 thunk 后备箱  树干  】
 //【 fill up my car. 给我的车加满油 】
@@ -1402,9 +1439,11 @@ dipstick 量油尺
 vents 通风口 // vent 排气口 通风口
 
 ------- ------- ------- ------- ------- ------- -------
-【 gas tank. 油箱 】
 【 thunk 后备箱  树干  】
+【 gas tank. 油箱 】
+// gas cap. 油箱盖
 【 tire 轮胎 累 】
+// spare tire. 备胎
 【 steering wheel. 方向盘 】
 【 center console. 中控台 】
 【 shifter 变速器 】
