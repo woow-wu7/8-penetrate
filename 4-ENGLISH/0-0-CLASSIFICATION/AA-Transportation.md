@@ -1600,6 +1600,21 @@ cup holder. 杯架
 
 ##### (5) Transportation videos / LET'S TALK IN ENGLISH
 
+- `on sale. 打折`
+- `The store has many items on sale this week. 这家商店本周有很多特价商品`
+- `All tickets go on sale this Friday. 所有票在本星期五开始销售`
+-
+-
+- `half off. 半件`
+- All sports equipment is half off. 所有运动装备都打了对折
+-
+-
+- `hurry 匆忙`
+- `hurry up. 赶快`
+- `Can you think of a time you were in a hurry? 你能想起你匆忙的时候吗?`
+- hurry up 赶快: Hurry up or else you'll be late. 快点，否则你就要迟到了
+- I think they both need to hurry.
+
 ```
 1
 Ace Computers is having a big sale. Their earphones are on sale.
@@ -1615,6 +1630,17 @@ B: They're on sale? The have cool and expensive earphones.
 A: I know. And they're 50 percent off.
 C: Really? I want a pair!
 
+【 Conversation 2 】
+A: They're 50 percent off? I want a pair, too!
+B: The hurry over there. They only have one more pair of earphones. I just called the store.
+C: I'm going there now.
+B: So am I. But I'm going to get there first.
+C: No, you're not.
+B: Yes, I am.
+C: May the best man get the earphones!
+
+
+
 
 AA.
 // What are earphones used for?
@@ -1622,10 +1648,19 @@ AA.
 
 
 ------- ------- ------- ------- ------- ------- -------
+They'd better hurry to the store through. 他们最好快点到商店去
+It was a good deal. 这是一笔不错的交易
+Both Jim and Alex want to buy a pair.
+-
+If you buy a computer on sale, you probably get a good deal on it. 如果你买了一台打折的电脑，你可能会得到一笔不错的交易
+I don't need any snacks. 我不需要任何零食
+There's nothing left to talk about. 没有什么可谈的了
+Today is the last day. 今天是最后一天
+-
 We will see who gets to that place first.
 I hope that you're ready for an exciting lesson toady.
 Let's read along with Katie right now.
-They'd better hurry to the store through. 他们最好快点到商店去
+When something is on sale, you can buy it for less money.
 
 
 
@@ -1633,6 +1668,14 @@ They'd better hurry to the store through. 他们最好快点到商店去
 hurry 匆忙 v/n
 hurry up. 赶快
 // hurry up 赶快: Hurry up or else you'll be late. 快点，否则你就要迟到了
+// You are in a hurry. 你很着急
+// Can you think of a time you were in a hurry? 你能想起你匆忙的时候吗?
+// I think they both need to hurry.
+
+may
+// May all your dreams come true. 愿你所有的梦想成真
+// May God bless you. 愿上帝保佑你
+// May the best team win. 愿最强的队伍获胜
 ```
 
 ##### (5) transportation vehicles 交通工具
