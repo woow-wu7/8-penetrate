@@ -215,6 +215,7 @@
 -
 -
 - `checked baggage. 托运行李`
+- `【 airbag 安全气囊 】`
 - We need to take at least one checked bag. 我们需要至少携带一件托运行李
 -
 -
@@ -328,6 +329,7 @@
 - `luggage 行李` // 英国叫法
 - `claim 认领 索赔`
 - `【 baggage claim. 行李领取处 领取行李 】`
+- `【 airbag 安全气囊 】`
 - Your baggage ticket is on the back of your boarding pass there.
 - And just follow the signs towards baggage claim.
 -
@@ -997,6 +999,7 @@ backpack 背包
 luggage = baggage 行李
 【 carry-on suitcase. 随身手提箱 】
 【 baggage claim. 行李领取处 领取行李 】
+【 airbag 安全气囊 】
 -
 【 kind of. 有点 】
 【 a kind of. 一种 某种 = a type of. 】
@@ -1290,6 +1293,20 @@ appreciate 欣赏 感激 v
 - `motor vehicle. 机动车` // motor 马达 发动机
 - A bumper is a part of a motor vehicle. 保险杠是机动车辆的一部分
 -
+-
+- `vent 出气口`
+- Here we have a vent. 这是一个通风口
+- This is where the air from the air conditioner will come through.
+- Sometimes, if you don't feel any air, you might need to turn this little dial here to open or close the vent.
+-
+-
+- `steering wheel. 方向盘`
+- I had the steering wheel on full lock. 我把方向盘转到了底
+-
+-
+- `hand sanitizer. 洗手液`
+- case 具体情况 案例 容器 箱子
+- Get my hand sanitizer out of my case. 从我皮箱里把洗手液拿出来
 -
 -
 -
