@@ -1,6 +1,6 @@
 # Transportation / Vehicle / Traffic / Transport
 
-##### (1) summarize 总结 v
+##### (1) Summarize 总结 v
 
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
@@ -249,7 +249,7 @@
 - `downtown 市中心`
 - `hometown 家乡`
 
-##### (2) subway/metro/tube/unground 地铁
+##### (2) Subway/Metro/Tube/Unground 地铁
 
 - **! How do you go to work everyday? 你每天怎么去上班？**
 - **! How do you usually get around? 你平时怎么出行？**
@@ -886,7 +886,7 @@ that sounds good to me. 听起来不错
 Excuse me. Just wondering how can I get to xxxx.
 ```
 
-##### (3) flight 航班 / airport 机场
+##### (3) Flight 航班 / airport 机场
 
 - `His plane stopped in Hawaii to refuel. 他的飞机在夏威夷停下来加燃料`
 - `I will refuel for myself. 我会为自己加油的`
@@ -1596,6 +1596,43 @@ cup holder. 杯架
 【 bubble gum. 泡泡糖 】
 【 face cream. 面霜 】
 // We use it for hand sanitizer and for bubble gum.
+```
+
+##### (5) Transportation videos / LET'S TALK IN ENGLISH
+
+```
+1
+Ace Computers is having a big sale. Their earphones are on sale.
+The last day of the sale is today! Alex wants a pair. So does Jim.
+They hurry to the store. Alex takes a taxi. But he gets stuck in traffic.
+Who can ge to the store first?
+
+【 Conversation 1 】
+A: Hey， guys. Ace computers is having a big sale. Today is the last day. All the computes are on sale.
+B: I don't need a computer.
+A: Their earphones are on sale, too.
+B: They're on sale? The have cool and expensive earphones.
+A: I know. And they're 50 percent off.
+C: Really? I want a pair!
+
+
+AA.
+// What are earphones used for?
+// You use earphones to listen to music. You can use them to listen to music on your computer or phone.
+
+
+------- ------- ------- ------- ------- ------- -------
+We will see who gets to that place first.
+I hope that you're ready for an exciting lesson toady.
+Let's read along with Katie right now.
+They'd better hurry to the store through. 他们最好快点到商店去
+
+
+
+------- ------- ------- ------- ------- ------- -------
+hurry 匆忙 v/n
+hurry up. 赶快
+// hurry up 赶快: Hurry up or else you'll be late. 快点，否则你就要迟到了
 ```
 
 ##### (5) transportation vehicles 交通工具
