@@ -9,7 +9,8 @@
 - ` 【 getting around. 出行 旅游观光 】`
 - ` 【 walk around. 四处走动 】`
 - // 1.get around
-- // 2.get stuck in
+- // 2.get stuck in. 陷入
+- // 3.stuck in. 陷入
 - 1. How do you usually get around? 你平时怎么出行 // How do you go to work every day?
 - 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
 -
@@ -1201,6 +1202,7 @@ appreciate 欣赏 感激 v
 - `trunk 后备箱 树干` // TIPS: Pay attention to pronunciation.
 - `gas tank. 邮箱`
 - `gas cap. 油箱盖`
+- `gas nozzle. 加油枪` // nozzle 喷嘴 管口
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
@@ -1598,7 +1600,13 @@ cup holder. 杯架
 // We use it for hand sanitizer and for bubble gum.
 ```
 
-##### (5) Transportation videos / LET'S TALK IN ENGLISH
+##### (5) Gas Station
+
+```
+
+```
+
+##### (6) Transportation videos / LET'S TALK IN ENGLISH
 
 - `on sale. 打折`
 - `The store has many items on sale this week. 这家商店本周有很多特价商品`
@@ -1639,6 +1647,14 @@ C: No, you're not.
 B: Yes, I am.
 C: May the best man get the earphones!
 
+【 Conversation 3 】
+A: Did Jim call you?
+B: No, why?
+A: The first to arrive at the store will call you. So Jim didn't get to the store yet!
+B: Where are you?
+A: I'm stuck in traffic. I'm in a taxi. It's not moving fast.
+B: Why did you take a taxi?
+A: Because the bus is too slow!
 
 
 
@@ -1646,6 +1662,13 @@ AA.
 // What are earphones used for?
 // You use earphones to listen to music. You can use them to listen to music on your computer or phone.
 
+BB.
+// 1
+// You're stuck in traffic.
+// you're in a car and trying to go somewhere, but you can't move the car because there are too many other cars on the road.
+// 2
+// So if you feel stuck in your apartment, I highly suggest that you find somewhere beautiful to go for a hike.
+// 所以，如果你觉得被困在公寓里，我强烈建议你找一个美丽的地方徒步旅行
 
 ------- ------- ------- ------- ------- ------- -------
 They'd better hurry to the store through. 他们最好快点到商店去
@@ -1676,9 +1699,14 @@ may
 // May all your dreams come true. 愿你所有的梦想成真
 // May God bless you. 愿上帝保佑你
 // May the best team win. 愿最强的队伍获胜
+
+stuck 卡住 困住
+// 1. My car is stuck in sand. 我的车被卡在沙滩上了
+// 2. I'm stuck in traffic. 我堵车了
+// 3. I was stuck in a meeting. 我被困在会议
 ```
 
-##### (5) transportation vehicles 交通工具
+##### (7) transportation vehicles 交通工具
 
 ```
 fire engine. 消防车
