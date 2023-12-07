@@ -1204,6 +1204,9 @@ appreciate 欣赏 感激 v
 - `gas tank. 邮箱`
 - `gas cap. 油箱盖` // gas 是 gasoline 的缩写
 - `gas nozzle. 加油枪` // nozzle 喷嘴 管口
+- `gas pump. 加油机 加油泵`
+- Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
+- Put the gas nozzle into the gas tank. 把加油枪放进油箱
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
@@ -1634,6 +1637,21 @@ cup holder. 杯架
 
 ##### (5) Gas Station / Petrol Station
 
+- `gas pump. 加油机 还有泵`
+- `gas nozzle. 加油枪`
+- `gas tank. 油箱`
+- `gas cap. 油箱盖`
+- Put the gas nozzle into the gas tank. 把加油枪放进油箱
+- Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
+-
+-
+- `pull up. 减速停下 停靠`
+- I pulled up close to the gas pump. 我把车停在靠近加油泵的地方
+-
+-
+- `gas = gasoline. 汽油` // gas 是 gasoline 的缩写
+- `natural gas. 天然气`
+
 ```
 receipt 发票 收据
 -
@@ -1644,8 +1662,16 @@ litter 垃圾
 self-service. 自助服务
 full-service. 全方位服务
 -
+regular gas. 普通的汽油
+premium gas. 优质的汽油 高昂的
+-
 gas pump. 加油机 加油泵
-
+pull up. 减速停下 停靠
+-
+appreciate 感谢 赏识
+// I really appreciate it. 我真的很感激
+instruction 用法说明
+// follow the instructions. 按照说明操作
 
 
 
@@ -1653,6 +1679,7 @@ self-service. 自助服务
 full-service. 全方位服务
 // self-service: That means you have to pump the gas yourself.
 // full-service: Where there was someone who worked here who would pump the gas for you. 在这里工作的人会帮你加油
+// full-service: A gas attendant will come out and they will pump the gas for you.
 
 pump the gas. 加油
 out of the gas. 车没油了
@@ -1665,19 +1692,35 @@ make it to. 到达
 //【 We make it to our destination. 我们到达了目的地 】
 //【 Hopefully, I make it there. 希望我能到达那里 】
 
+instruction 用法说明
+// follow the instructions. 按照说明操作
+// Please follow the instructions carefully to assemble the furniture. 请仔细按照说明书组装家具
 
+pull up. 减速停下 停靠
+I pulled up close to the gas pump. 我把车停在靠近加油泵的地方
 
 ------- ------- ------- ------- ------- ------- -------
 If you could at some point during this video give me a thumbs up that would be awesome.
 如果你能在这个视频的某个时刻给我竖起大拇指，那将是太棒了
 -
-out of the gas. 车没油了
-I'm running on empty. 车没油了
+Today we are going to learn some vocabularies and expressions we might need when we go to the gas station.
+-
+running out of the gas. 车没油了
+I need to select what type of gas I want to purchase.
 -
 Fill this van up with gas. 给这辆货车加满油
-【 take off the gas cap. 取下加油盖 】
+1.【 take the gas nozzle out. 把加油枪取出来 】
+2.【 take off the gas cap. 取下加油盖 】
+3.【 Put the gas nozzle into the gas tank. 把加油枪放进油箱 】
+4.【 We have successfully fill the gas tank up. 我们已经成功地把油箱加满了 】
+5.【 I need to take out the gas nozzle and put it right back here in the gas pump. 我需要拿出加油嘴，把它放回加油机中 】
+6.【 I'm also going to put my gas cap back on my vehicle. 】
+7.【 You can also pay for gas by going into the store. 】
+You have to remove the gas cap and insert it here.
 -
 Hopefully, I make it there. 希望我能到达那里
+I really appreciate it. 我真的很感激
+I think I need to cry a bit. 我想我需要哭一下
 -
 At the gas station. 在加油站
 【 take out the pump. 取出加油泵 】
