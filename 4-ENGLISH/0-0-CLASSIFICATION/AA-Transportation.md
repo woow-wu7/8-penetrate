@@ -426,6 +426,7 @@ supply 供应 供给 补给品 日常用品 // supplies
 // brake light. 刹车灯 = tail light.
 // brake pedal. 刹车踏板
 // emergency brake. 紧急制动
+// 【 hit the brakes. 刹车 】
 -
 train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
@@ -1196,6 +1197,7 @@ appreciate 欣赏 感激 v
 - `stick shift. 换挡杆` // stick 棍 棒 粘住
 - `shift gears. 换挡` // first/second gear. 一档二档
 - `brake pedal. 刹车踏板`
+- 【 hit the brakes. 刹车 】
 - I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
@@ -1238,6 +1240,7 @@ appreciate 欣赏 感激 v
 - I can push in the emergency brake. 我能踩下紧急刹车
 - // brake light. // brake pedal. // emergency brake.
 - // brake pedal. // gas pedal. // clutch pedal.离合器踏板
+- 【 hit the brakes. 刹车 】
 -
 -
 - `windshield 挡风玻璃`
@@ -1382,6 +1385,7 @@ third gear. 三档
 // brake pedal. 刹车踏板
 【 emergency brake. 紧急制动 紧急刹车 】
 【 emergency braking. 紧急制动刹车 】
+//【 hit the brakes. 刹车 】
 
 ------- ------- ------- ------- ------- ------- -------
 灯
@@ -1405,6 +1409,7 @@ turn signal. 转向灯
 1. 【 turn signal lever. 转向灯杆 】// lever 杠杆
 4.【 Don't forget to turn on your turn signal. 别忘了打开转向灯 】
 1. hazard light. 危险指示灯
+【 hit the brakes. 刹车 】
 
 
 ------- ------- ------- ------- ------- ------- -------
@@ -1515,6 +1520,7 @@ brake pedal. 刹车踏板
 【 emergency braking. 紧急制动刹车 】
 【 emergency brake. 紧急制 】
 brake light. 刹车灯
+【 hit the brakes. 刹车 】
 -
 horn 喇叭
 【 honk the horn. 按喇叭 】
@@ -1647,10 +1653,52 @@ cup holder. 杯架
 -
 - `pull up. 减速停下 停靠`
 - I pulled up close to the gas pump. 我把车停在靠近加油泵的地方
+- `You'll know that you need to pull up to a conveniently located gas station and fill it up. `
+- `你会知道你需要把车停在一个位置方便的加油站加油`
+- // located 位于 adj
+-
+-
+- `pull out. 驶离路边`
+- The car pulled out of the driveway. 汽车驶出了车道
+- // watch out. 小心
+-
+-
+- `get closer to. 靠近 接近`
+- get close to each other. 彼此走得更近
+- Could you please get closer to one another? 你们能不能离得近一点？
+- `Normally when you get closer to the gas station you will be able to see the price of the gas on the board.`
+- `通常当你走近加油站时，你就能在公告牌上看到汽油的价格`
 -
 -
 - `gas = gasoline. 汽油` // gas 是 gasoline 的缩写
 - `natural gas. 天然气`
+- `premium gas. 优质的汽油`
+- `regular gas. 普通的汽油`
+-
+-
+- `receipt 发票 收据`
+- `Keep the receipt as proof of purchase. 保存好收据作为购货凭证`
+- Can I have a receipt, please? 请给我开个收据，好吗？
+-
+-
+- `appreciate 感谢 欣赏`
+- I really appreciate it. 我真的很感激
+-
+-
+- `make it to. 到达`
+- We make it to our destination. 我们到达了目的地
+- Hopefully, I make it there. 希望我能到达那里
+-
+-
+- `pump the gas. 加油`
+- `out of the gas. 车没油了`
+- I was running out of gas. 我的汽油快用完了
+- // I'm just going to go for premium gas. 我要去买高级汽油
+-
+-
+- `trigger 触发 开动`
+- pull the trigger. 扣动扳机
+- Pulling the gun's trigger causes it to fire. 扣动抢的板机开火
 
 ```
 receipt 发票 收据
