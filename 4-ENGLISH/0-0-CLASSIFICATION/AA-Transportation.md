@@ -39,6 +39,7 @@
 -
 - **I can take you to where you want to go. 我可以带你去你想去的地方**
 - hop on the train. 跳上火车
+- **【 run a red light. 闯红灯 】**
 -
 -
 - `unlimited 无限的 无限制的`
@@ -269,7 +270,7 @@
 - **! How can I get to the train station? 火车站怎么走**` // 注意: get there 不加 to，而 get to airport 要加 to
 - **! Where do I go? 我该去哪里？**`
 - **! at a certain stop. 在某一站**` // at a certain stop. 在某一站
--
+- **【 run a red light. 闯红灯 】**
 -
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚` // get around.
@@ -891,8 +892,13 @@ Excuse me. Just wondering how can I get to xxxx.
 
 ##### (3) Flight 航班 / airport 机场
 
+- `parking lot. 停车场`
+- `parking garage. 停车场` // underground parking garage.
+-
+-
 - `His plane stopped in Hawaii to refuel. 他的飞机在夏威夷停下来加燃料`
 - `I will refuel for myself. 我会为自己加油的`
+- run a red light. 闯红灯
 -
 -
 - `buckle up. 系好安全带`
@@ -1197,6 +1203,7 @@ appreciate 欣赏 感激 v
 - `stick shift. 换挡杆` // stick 棍 棒 粘住
 - `shift gears. 换挡` // first/second gear. 一档二档
 - `brake pedal. 刹车踏板`
+- **【 shift into drive. 换到驱动档 】**
 - 【 hit the brakes. 刹车 】
 - I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
@@ -1212,6 +1219,7 @@ appreciate 欣赏 感激 v
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
+- `run a red light. 闯红灯`
 - `flat tire. 爆胎 瘪胎`
 - Sometimes that happened to me actually three times in my life. 这种事在我身上发生过三次
 -
@@ -1365,6 +1373,7 @@ P park 停车档
 R reverse 倒车档
 N neutral 空档 // neutral 中性的 中立的
 D drive 前进档
+【 shift into drive. 换到驱动档 】
 
 ------- ------- ------- ------- ------- ------- -------
 手动档
@@ -1651,6 +1660,7 @@ cup holder. 杯架
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
 -
 -
+- 1
 - `pull up. 减速停下 停靠`
 - I pulled up close to the gas pump. 我把车停在靠近加油泵的地方
 - `You'll know that you need to pull up to a conveniently located gas station and fill it up. `
@@ -1658,13 +1668,21 @@ cup holder. 杯架
 - // located 位于 adj
 -
 -
+- 2
 - `pull out. 驶离路边`
 - The car pulled out of the driveway. 汽车驶出了车道
 - // watch out. 小心
 -
 -
+- 3
+- `speed up. 加速`
+- `The train began to speed up as it left the station. 火车离开车站时开始加速`
+- We'd better speed up if we want to be on time.
+-
+-
+-
 - `get closer to. 靠近 接近`
-- get close to each other. 彼此走得更近
+- get closer to each other. 彼此走得更近
 - Could you please get closer to one another? 你们能不能离得近一点？
 - `Normally when you get closer to the gas station you will be able to see the price of the gas on the board.`
 - `通常当你走近加油站时，你就能在公告牌上看到汽油的价格`
@@ -1672,8 +1690,8 @@ cup holder. 杯架
 -
 - `gas = gasoline. 汽油` // gas 是 gasoline 的缩写
 - `natural gas. 天然气`
-- `premium gas. 优质的汽油`
-- `regular gas. 普通的汽油`
+- `premium gas. 优质的汽油` // 93
+- `regular gas. 普通的汽油` // 87
 -
 -
 - `receipt 发票 收据`
@@ -1683,6 +1701,12 @@ cup holder. 杯架
 -
 - `appreciate 感谢 欣赏`
 - I really appreciate it. 我真的很感激
+-
+-
+- `pleasure 高兴 荣幸`
+- It's my pleasure. 这是我的荣幸
+- Watching TV is our only pleasure. 看电视是我们惟一的乐趣
+- work and pleasure. 工作与娱乐
 -
 -
 - `make it to. 到达`
@@ -1699,6 +1723,10 @@ cup holder. 杯架
 - `trigger 触发 开动`
 - pull the trigger. 扣动扳机
 - Pulling the gun's trigger causes it to fire. 扣动抢的板机开火
+-
+-
+- `parking lot. 停车场`
+- `parking garage. 停车场` // underground parking garage.
 
 ```
 receipt 发票 收据
@@ -1775,6 +1803,97 @@ At the gas station. 在加油站
 【 close my gas cap. 】
 【 insert the gas pump into the gas tank. 】
 【 put the nozzle back. 】
+```
+
+##### (6) Learning some transportation vocabularies and expressions from movies
+
+```
+1
+pull over. 靠路边停车
+renew 更新 重申
+tense 紧张的
+【 Rachel was pulled over by a police officer. 瑞秋被警察拦了下来 】
+// God I forgot how much I love driving. I have to get my license renewed. 天哪，我忘记了我有多喜欢开车，我必须重申我的执照
+// You don't have a valid driver's license? Okay that is it! pull over right now. 你没有有效的驾驶执照？好了，就这样！现在靠边停车
+// Ross you're so tense! You just gotta relax okay? 罗斯，你太紧张了！你只需要放松一下，好吗？
+
+2
+driver's license. 驾驶证
+license plate. 拍照
+boarding pass. 登机牌
+passport 护照
+// She can obtain a driver's license now. 她现在可以获得驾驶执照了
+
+3
+pedestrian 行人
+shift into drive. 换到驱动档
+pull out. 驶出
+watch out. 小心
+hit the brakes. 刹车
+【 The car pulled out the driveway. 汽车驶出了车道 】
+【 watch out! there's a car coming. 小心，汽车来了 】
+// Okay. now, what you wanna do first in turn on the ignition and shift into drive. 好吧。现在，你首先要做的是打开点火开关，换到驱动档
+// I haven't fastened my seat belt yet.
+// Pull out slowly into traffic. 慢慢地将车驶入车流中
+// watch out for the pedestrians. 当心行人
+// hit the brakes. 刹车
+
+4
+parking lot. 停车场
+adjust my seat. 调整座位
+// Now, Where is the switch to adjust the passenger-side mirror?
+// In a parking lot in hollywood. 在好莱坞的一个停车场
+
+5
+speed up. 加速
+【 We'd better speed up if we want to be on time. 如果我们想准时，我们最好加快速度 】
+// just try to relax. We'll be there any minute.
+// Stuart, stop driving like an old man. Speed it up a little. 斯图亚特，别再像老人一样开车了，快一点
+// I'm not old man, I just can't see at night.
+
+6
+Yield? 让路
+run a red light. 闯红灯
+// Just like a private car service, huh? Thinking you don't have to yield?
+// Yield? You ran a red light!
+// That light was yellow.
+
+7
+Make a U-turn. 掉头
+// Why would I make U-turn?
+// Because you need to turn around and go home. You have no business driving to Mateo's school for the book fair.
+// 因为你需要转身回家。你没有资格开车去马特奥的学校参加书展
+
+8
+stuck in traffic. 堵车
+There must be an accident up ahead. 前面一定有车祸
+// I don't know we're stuck in traffic. I think there's an accident.
+
+9
+step out of the car. 下车
+speeding 超速行驶
+speeding ticket. 超速罚单
+【 I'll issue a speeding ticket. 我会开一张超速罚单给你 】
+// It's a starbucks card. 这是一张星巴克卡
+
+10
+out of gas. 没油了
+【 I'm afraid that we are out of gas. 】
+// What's wrong, Rosa? out of gas?
+// Yeah, it got all my mouth. it was horrible.
+
+11
+gas tank. 油箱
+fill up. 装满
+【 your gas tank is on empty. 你的邮箱没油了 】
+【 I am running on empty. 我快没有了 】
+// Your gas tank's on empty. so don't forget to fill it up before you meeting with chloe.
+// Thanks. Now hurry up and go.
+
+12
+// There's gas station over there. We should pull over and stop a while and get gas.
+// I'm noticing that Miranda's really in a hurry to get to her show, and it looks like we have enough gas.
+// Press the button to print your receipt after pumping.
 ```
 
 ##### (6) Transportation videos / LET'S TALK IN ENGLISH
