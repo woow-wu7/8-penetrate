@@ -17,6 +17,7 @@
 -
 - `make it to. 到达`
 - `【 We make it to our destination. 我们到达了目的地 】`
+- `【 Hopefully, I make it there. 希望我能到达那里 】`
 - `【 It's going to charge me $1. 它将收取我 1 美元 】` // charge 收费 v 费用 n
 -
 -
@@ -1212,6 +1213,7 @@ appreciate 欣赏 感激 v
 -
 - `rear view mirror. 后视镜`
 - `side mirror. 侧视镜`
+- `moon roof. 天窗`
 - `changing lanes. 变道`
 - Side mirror to help you see beside you and behind you when you're turning and changing lanes.
 - 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面
@@ -1317,6 +1319,15 @@ appreciate 欣赏 感激 v
 - `speedometer 速度计`
 - The speedometer indicates 100 miles per hour. 速度计指示时速为 100 英里
 - The speedometer was touching 90. 速度表显示时速达 90 英里
+-
+-
+- `radiator 散热器`
+- `grille 体栅栏`
+- `radiator grille. 散热器格栅，车前面的网格散热`
+- The design the radiator grille gives the car a sporty look. 散热器格栅的设计使得汽车看起来更加运动
+- // Because it really reminds me of a grill. 因为它真的让我想起了烤架
+- // Lock my car with my car key.
+-
 -
 -
 - `hand sanitizer. 洗手液`
@@ -1621,10 +1632,58 @@ cup holder. 杯架
 // We use it for hand sanitizer and for bubble gum.
 ```
 
-##### (5) Gas Station
+##### (5) Gas Station / Petrol Station
 
 ```
+receipt 发票 收据
+-
+gallon 加仑（液量单位，英制合 4.55 升，美制合 3.79 升）
+liter 公升
+litter 垃圾
+-
+self-service. 自助服务
+full-service. 全方位服务
+-
+gas pump. 加油机 加油泵
 
+
+
+
+self-service. 自助服务
+full-service. 全方位服务
+// self-service: That means you have to pump the gas yourself.
+// full-service: Where there was someone who worked here who would pump the gas for you. 在这里工作的人会帮你加油
+
+pump the gas. 加油
+out of the gas. 车没油了
+// I was running out of gas. 我的汽油快用完了
+// I was running on empty. 我的汽油快用完了
+// I need to stop and pump the gas before we hit the road. 在上路前我需要停下来加油
+// self-service: That means you have to pump the gas yourself.
+
+make it to. 到达
+//【 We make it to our destination. 我们到达了目的地 】
+//【 Hopefully, I make it there. 希望我能到达那里 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+If you could at some point during this video give me a thumbs up that would be awesome.
+如果你能在这个视频的某个时刻给我竖起大拇指，那将是太棒了
+-
+out of the gas. 车没油了
+I'm running on empty. 车没油了
+-
+Fill this van up with gas. 给这辆货车加满油
+【 take off the gas cap. 取下加油盖 】
+-
+Hopefully, I make it there. 希望我能到达那里
+-
+At the gas station. 在加油站
+【 take out the pump. 取出加油泵 】
+【 close my gas cap. 】
+【 insert the gas pump into the gas tank. 】
+【 put the nozzle back. 】
 ```
 
 ##### (6) Transportation videos / LET'S TALK IN ENGLISH
