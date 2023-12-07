@@ -1201,7 +1201,7 @@ appreciate 欣赏 感激 v
 -
 - `trunk 后备箱 树干` // TIPS: Pay attention to pronunciation.
 - `gas tank. 邮箱`
-- `gas cap. 油箱盖`
+- `gas cap. 油箱盖` // gas 是 gasoline 的缩写
 - `gas nozzle. 加油枪` // nozzle 喷嘴 管口
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
@@ -1220,7 +1220,7 @@ appreciate 欣赏 感激 v
 -
 -
 - `visor 遮阳板`
-- ` protect from. 保护免受……的伤害`
+- `protect from. 保护免受……的伤害`
 - `A visor protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射`
 - If the sun is really bright like today, You can put down your visor. 如果太阳像今天这样强烈，你可以放下遮阳板
 - // protect. // TIPS: Pay attention to pronunciation
@@ -1258,10 +1258,11 @@ appreciate 欣赏 感激 v
 -
 -
 - `gauge 测量 测量仪器`
+- `diesel 柴油`
+- `【 diesel gauge. 柴油计量器 】`// diesel 柴油
 - `【 rain gauge 雨量计 】`
 - `【 temperature gauge. 温度计 】= thermometer`
 - `【 pressure gauge. 压力表  】`
-- 【 diesel gauge. 柴油计量器 】
 - // either or. 或，不是...就是...
 - // neither nor. 两者都不
 -
@@ -1302,12 +1303,24 @@ appreciate 欣赏 感激 v
 - Sometimes, if you don't feel any air, you might need to turn this little dial here to open or close the vent.
 -
 -
-- `steering wheel. 方向盘`
+- `steering wheel. 方向盘` // steer 驾驶 操纵
+- `wheel 轮子` // back wheel.后轮
 - I had the steering wheel on full lock. 我把方向盘转到了底
 -
 -
+- `exhaust 排气管`
+- `exhaust pipe. 排气管`
+- The mechanic replaced the old exhaust pipe with a new one. 机械师用新的排气管替换了旧的
+- // replace with. 用...代替
+-
+-
+- `speedometer 速度计`
+- The speedometer indicates 100 miles per hour. 速度计指示时速为 100 英里
+- The speedometer was touching 90. 速度表显示时速达 90 英里
+-
+-
 - `hand sanitizer. 洗手液`
-- case 具体情况 案例 容器 箱子
+- case 容器 箱子 具体情况 案例
 - Get my hand sanitizer out of my case. 从我皮箱里把洗手液拿出来
 -
 -
@@ -1383,8 +1396,10 @@ turn signal. 转向灯
 ------- ------- ------- ------- ------- ------- -------
 前面 // front
 license plate. 牌照 车牌
-hood 引擎盖 防护罩 前车的引擎盖
+// driver's license. 驾驶证
+【 hood 引擎盖 防护罩 前车的引擎盖 】
 motor 发动机 马达
+// motor vehicle. 机动车
 antenna 天线 触角
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
@@ -1410,6 +1425,8 @@ tire 轮胎 累
 //【 flat tire. 爆胎 】
 gas cap. 油箱盖
 gas nozzle. 油箱嘴
+gas tank. 油箱
+// gas 是 gasoline 的缩写
 //【 gas cap. 油箱盖 】
 //【 gas tank. 油箱 】
 //【 thunk 后备箱  树干  】
@@ -1426,13 +1443,17 @@ ignition 点火 点火器
 automatic transmission. 自动档
 // This car has an automatic transmission. 这辆车有自动变速器
 steering wheel. 方向盘
+// back wheel. 后轮
+// steer 驾驶
 horn 喇叭
 //【 honk the horn. 按喇叭 】
-【 temperature gauge. 温度计 】
+gauge 测量 仪器
+//【 diesel gauge. 柴油表 】
+//【 temperature gauge. 温度计 】
 //【 pressure gauge. 压力表 】
+//【 rain gage. 雨量计 】
 //【 speedometer 速度计 】// speedometer 速度计
 //【 tachometer 转速表 】
-// diesel gauge. 柴油仪表
 【【   rear view mirror. 后视镜   】】
 【【   rear view camera. 后视摄像头  】】
 moon roof. 天窗
