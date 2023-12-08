@@ -1204,14 +1204,14 @@ appreciate 欣赏 感激 v
 - `shift gears. 换挡` // first/second gear. 一档二档
 - `brake pedal. 刹车踏板`
 - **【 shift into drive. 换到驱动档 】**
-- 【 hit the brakes. 刹车 】
+- **【 hit the brakes. 刹车 】**
 - I put this stick shift into the drive mode and this way when I take my leg off the brake pedal the car starts moving.
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
 -
 - `trunk 后备箱 树干` // TIPS: Pay attention to pronunciation.
 - `gas tank. 邮箱`
-- `gas cap. 油箱盖` // gas 是 gasoline 的缩写
+- `gas cap. 油箱盖` // gas 是 gasoline 的缩写 // take off the gas cap.取下加油盖
 - `gas nozzle. 加油枪` // nozzle 喷嘴 管口
 - `gas pump. 加油机 加油泵`
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
@@ -1219,7 +1219,7 @@ appreciate 欣赏 感激 v
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 -
 -
-- `run a red light. 闯红灯`
+- **run a red light. 闯红灯**
 - `flat tire. 爆胎 瘪胎`
 - Sometimes that happened to me actually three times in my life. 这种事在我身上发生过三次
 -
@@ -1269,13 +1269,13 @@ appreciate 欣赏 感激 v
 -
 -
 - `antenna 天线 触角`
+- `They created a television antenna on the roof. 他们在屋顶上架起了电视天线`
 - The antenna is connected to the radio inside. 天线连接到内部的收音机
-- They created a television antenna on the roof. 他们在屋顶上架起了电视天线
 -
 -
 - `gauge 测量 测量仪器`
 - `diesel 柴油`
-- `【 diesel gauge. 柴油计量器 】`// diesel 柴油
+- `【 diesel gauge. 柴油计量器 】`// diesel 柴油 // gas nozzle. // diesel 和 nozzle 尾音相近
 - `【 rain gauge 雨量计 】`
 - `【 temperature gauge. 温度计 】= thermometer`
 - `【 pressure gauge. 压力表  】`
@@ -1285,6 +1285,7 @@ appreciate 欣赏 感激 v
 -
 - `horn 喇叭`
 - `【 honk the horn. 按喇叭 】`
+- `【 hit the brake. 踩刹车 】`
 - `【 You must honk the horn whenever you pass another car. 每当您超过另一辆车时，您都必须按喇叭 】`
 - 【 No need to honk the horn under such a traffic block. 在这种塞车的情况下，你再按喇叭也无济于事 】
 - // whenever 每当 每次 无论何时
@@ -1354,6 +1355,7 @@ appreciate 欣赏 感激 v
 - `【 hailing a taxi. 叫出租车 】`
 - `【 That was awesome. 这太棒了 】`
 - `Thank you so much for learning English with me.`
+- `gauge cluster. 仪表组`
 
 ```
 1.【 compact car. 紧凑型汽车 】
@@ -1650,14 +1652,23 @@ cup holder. 杯架
 // We use it for hand sanitizer and for bubble gum.
 ```
 
-##### (5) Gas Station / Petrol Station
+##### (5) Gas Station / Petrol Station -- 【 shale gas station. 页岩气站 】
 
+- **shale gas station. 页岩气站**
+- `shale gas. 页岩气`
+- `natural gas. 天然气` // TIPS: Pay attention to pronunciation.
+- `gas = gasoline = petrol 汽油` // gas 是 gasoline 的缩写
+- `premium gas. 优质的汽油` // 93
+- `regular gas. 普通的汽油` // 87
+-
+-
 - `gas pump. 加油机 还有泵`
 - `gas nozzle. 加油枪`
 - `gas tank. 油箱`
 - `gas cap. 油箱盖`
 - Put the gas nozzle into the gas tank. 把加油枪放进油箱
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
+- `How much gas I have left. 我还剩多少油`
 -
 -
 - 1
@@ -1669,27 +1680,36 @@ cup holder. 杯架
 -
 -
 - 2
-- `pull out. 驶离路边`
-- The car pulled out of the driveway. 汽车驶出了车道
-- // watch out. 小心
--
--
-- 3
 - `speed up. 加速`
 - `The train began to speed up as it left the station. 火车离开车站时开始加速`
 - We'd better speed up if we want to be on time.
 -
 -
+- 3
+- `drive up. 驱车来到`
+- drive up to. 将车开到 行驶至
+- `You can drive up to the next window to pick up your food. 你可以开车到下个窗口取你的食物`
+- `Use a low gear to drive up the hill. 开车上山用低速`
+- // hill 山丘
+- // hail 冰雹 喊
+-
+-
+- 4
+- `pull out. 驶离路边`
+- The car pulled out of the driveway. 汽车驶出了车道
+- // watch out. 小心
+-
 -
 - `get closer to. 靠近 接近`
-- get closer to each other. 彼此走得更近
-- Could you please get closer to one another? 你们能不能离得近一点？
 - `Normally when you get closer to the gas station you will be able to see the price of the gas on the board.`
 - `通常当你走近加油站时，你就能在公告牌上看到汽油的价格`
+- get closer to each other. 彼此走得更近
+- Could you please get closer to one another? 你们能不能离得近一点？
 -
 -
-- `gas = gasoline. 汽油` // gas 是 gasoline 的缩写
-- `natural gas. 天然气`
+- `gas = gasoline = petrol 汽油` // gas 是 gasoline 的缩写
+- `natural gas. 天然气` // TIPS: Pay attention to pronunciation.
+- `shale gas. 页岩气`
 - `premium gas. 优质的汽油` // 93
 - `regular gas. 普通的汽油` // 87
 -
@@ -1697,6 +1717,7 @@ cup holder. 杯架
 - `receipt 发票 收据`
 - `Keep the receipt as proof of purchase. 保存好收据作为购货凭证`
 - Can I have a receipt, please? 请给我开个收据，好吗？
+- // proof 证据
 -
 -
 - `appreciate 感谢 欣赏`
@@ -1727,6 +1748,14 @@ cup holder. 杯架
 -
 - `parking lot. 停车场`
 - `parking garage. 停车场` // underground parking garage.
+-
+-
+- `convenience 方便n`
+- `convenience store. 便利店`
+- grocery store. 杂货店
+-
+-
+- `withdraw cash. 提取现金`
 
 ```
 receipt 发票 收据
@@ -1807,6 +1836,9 @@ At the gas station. 在加油站
 
 ##### (6) Learning some transportation vocabularies and expressions from movies
 
+- `step out of the car. 下车`
+- `get out of the car. 下车`
+
 ```
 1
 pull over. 靠路边停车
@@ -1819,7 +1851,7 @@ tense 紧张的
 
 2
 driver's license. 驾驶证
-license plate. 拍照
+license plate. 牌照
 boarding pass. 登机牌
 passport 护照
 // She can obtain a driver's license now. 她现在可以获得驾驶执照了
@@ -1896,7 +1928,7 @@ fill up. 装满
 // Press the button to print your receipt after pumping.
 ```
 
-##### (6) Transportation videos / LET'S TALK IN ENGLISH
+##### (7) LET'S TALK IN ENGLISH / Transportation videos
 
 - `on sale. 打折`
 - `The store has many items on sale this week. 这家商店本周有很多特价商品`
@@ -1996,7 +2028,7 @@ stuck 卡住 困住
 // 3. I was stuck in a meeting. 我被困在会议
 ```
 
-##### (7) transportation vehicles 交通工具
+##### (8) transportation vehicles 交通工具
 
 ```
 fire engine. 消防车
