@@ -6,6 +6,17 @@
 - `Personal transportation. 个人交通工具`
 -
 -
+- `sidewalk 人行道`
+- `crosswalk 人行横道`
+- `pavement = sidewalk. 人行道`
+- `zebra crossing. = crosswalk. 人行横道`
+-
+-
+- `convenience 方便n`
+- `convenience store. 便利店`
+- `grocery store. 杂货店`
+-
+-
 - ` 【 getting around. 出行 旅游观光 】`
 - ` 【 walk around. 四处走动 】`
 - // 1.get around
@@ -271,6 +282,18 @@
 - **! Where do I go? 我该去哪里？**`
 - **! at a certain stop. 在某一站**` // at a certain stop. 在某一站
 - **【 run a red light. 闯红灯 】**
+-
+-
+- `sidewalk 人行道`
+- `crosswalk 人行横道`
+- `pavement = sidewalk. 人行道`
+- `zebra crossing. = crosswalk. 人行横道`
+-
+-
+- `convenience 方便n`
+- `convenience store. 便利店`
+- `grocery store. 杂货店`
+-
 -
 - `stuck 陷入 卡住`
 - `get stuck in. 陷入 卡住 束缚` // get around.
@@ -1305,13 +1328,13 @@ appreciate 欣赏 感激 v
 - `on the side. 顺便 作为副业`
 - 【 car mechanic. 汽车修理师 】
 - 【 lift mechanic. 电梯修理师 】
-- He is a mechanic who buys and sells cars on the side. 他是一个兼营买卖汽车的技工
+- `He is a mechanic who buys and sells cars on the side. 他是一个兼营买卖汽车的技工`
 -
 -
 - `bumper 保险杠`
 - `insurance 保险`
 - `motor vehicle. 机动车` // motor 马达 发动机
-- A bumper is a part of a motor vehicle. 保险杠是机动车辆的一部分
+- `A bumper is a part of a motor vehicle. 保险杠是机动车辆的一部分`
 -
 -
 - `vent 出气口`
@@ -1672,20 +1695,29 @@ cup holder. 杯架
 -
 -
 - 1
+- `pull over. 靠边停下`
+- // 记忆: come over.过来 + game over.结束
+- // pull up. 缓慢停下
+- // slow down. 减速
+- `Slow down and then pull over. 放慢速度然后靠路边停`
+-
+-
+- 2
 - `pull up. 减速停下 停靠`
+- // 记忆: 拉起手刹 up
 - I pulled up close to the gas pump. 我把车停在靠近加油泵的地方
 - `You'll know that you need to pull up to a conveniently located gas station and fill it up. `
 - `你会知道你需要把车停在一个位置方便的加油站加油`
 - // located 位于 adj
 -
 -
-- 2
+- 3
 - `speed up. 加速`
 - `The train began to speed up as it left the station. 火车离开车站时开始加速`
 - We'd better speed up if we want to be on time.
 -
 -
-- 3
+- 4
 - `drive up. 驱车来到`
 - drive up to. 将车开到 行驶至
 - `You can drive up to the next window to pick up your food. 你可以开车到下个窗口取你的食物`
@@ -1694,7 +1726,7 @@ cup holder. 杯架
 - // hail 冰雹 喊
 -
 -
-- 4
+- 5
 - `pull out. 驶离路边`
 - The car pulled out of the driveway. 汽车驶出了车道
 - // watch out. 小心
@@ -1752,7 +1784,7 @@ cup holder. 杯架
 -
 - `convenience 方便n`
 - `convenience store. 便利店`
-- grocery store. 杂货店
+- `grocery store. 杂货店`
 -
 -
 - `withdraw cash. 提取现金`
