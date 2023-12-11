@@ -112,7 +112,7 @@
 - `Docking station. 基座 扩展坞`
 - You will align the bike and then you're going to push it into the docking station.
 - 您将对齐自行车，然后将其推入停靠站
-- // transfer station.
+- // transfer station. = interchange station.
 - // terminal station
 - // gas station = petrol station
 - // ferry station
@@ -139,7 +139,7 @@
 - The ferry hit us amidships. 渡轮拦腰撞了我们的船只 // amidships 船体中部
 - ramp 坡道
 - // ferry station. 轮渡站
-- // transfer station. 中转站
+- // transfer station. 中转站 = interchange station. 换乘站
 - // terminal station. 终点站
 - // gas station = petrol station. 加油站
 - // Docking station. 基座 扩展坞
@@ -216,7 +216,7 @@
 - `gasoline 汽油` // gasoline = petrol
 - `petrol 汽油`
 - `petroleum 原油`
-- `【 diesel 柴油 】` // diesel gauge. 柴油仪表
+- `【 diesel 柴油 】` // diesel gauge. 柴油仪表 // fuel gauge. // diesel nuzzle
 - petrol station. 加油站 = gas station.
 - 【 petrol tank. 汽油箱 】
 - 【 gas tank. 油箱 】
@@ -256,7 +256,7 @@
 - **`When was the last time you took a vacation? 你上一次度假是什么时候？`**
 -
 -
-- `transfer station. 中转站`
+- `transfer station. 中转站 = interchange station.`
 - `terminal station. 终点站`
 - `petrol station. 加油站`
 - `gas station. 加油站 = petrol station. 加油站`
@@ -462,7 +462,7 @@ train 火车 列车
 staff only. 游客止步 乘客止步 仅限员工 员工通道
 -
 transfer 转移 转让
-【 transfer station. 中转站 】
+【 transfer station. 中转站 】= interchange station.
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
@@ -679,7 +679,7 @@ is bound for. 以...为目的地  准备到..去  开往
 // 【 The ship is bound for America. 这艘轮船是开往美洲去的 】
 
 transfer 转移 转让
-【 transfer station. 中转站 】
+【 transfer station. 中转站 】= interchange station.
 【 gas station = petrol station. 加油站 】
 【 terminal station. 终点站 】
 【 ferry station. 轮渡站 】
@@ -949,7 +949,7 @@ Excuse me. Just wondering how can I get to xxxx.
 -
 - `That's an aisle seat. 那是靠走道的座位` // aisle
 - `Pick them up. 接他们` // pick up.
-- `parking garage. 停车场` // underground parking garage.
+- `parking garage. 停车场` // underground parking garage. = parking lot.
 - `head to my gate. 到我的门口去` // head to.
 -
 -
@@ -1465,7 +1465,7 @@ antenna 天线 触角
 windshield 挡风玻璃
 windshield wipers. 挡风玻璃雨刷
 radio station. 广播电台
-// transfer station.
+// transfer station. = interchange station.
 // terminal station.
 // gas station = petrol station.
 // locking station.

@@ -1,9 +1,9 @@
 # Ask for Direction 问路
 
 - outdoor - where is the nearest MRT station?
-- 1. `The nearest MRT station is 2 minutes away`
-- 2. `When you go outside, turn right. and keep walking for 2 blocks.`
-- 3. `when you reach the 7-11, turn left. The MRT station will be on your left.`
+- 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away.
+- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block
+- 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
 - 4. `Would you like me to repeat that again?`
 
 ```
