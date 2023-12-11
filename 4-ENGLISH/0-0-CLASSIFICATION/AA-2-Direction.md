@@ -26,12 +26,23 @@ on the left. 左手边
 on the right.
 His office will be on the left. 他的办公室在左边
 The art department will be straight ahead. 美术部就在前面
-
+-
+sidewalk 人行道
+crosswalk 人行横道
+`pavement = sidewalk. 人行道`
+`zebra crossing. = crosswalk. 人行横道`
+-
+convenience 方便n
+`convenience store. 便利店`
+`grocery store. 杂货店`
+-
 
 ------- ------- ------- ------- ------- ------- -------
-basement. 地下室
+cellar. 地下室 地窖 -- 普通的地下室，较小
+basement. 地下室 ---- 较大的地下室
 // 【 You can take the stairs to the basement. 你可以走楼梯到地下室 】
 // This house has a big basement which is used as the laundry room. 这栋房子有一个用作洗衣房的大地下室
+// 【 water had started to leak into the cellar. 水已开始渗入地下室 】
 
 nearest 最近的
 near 近的

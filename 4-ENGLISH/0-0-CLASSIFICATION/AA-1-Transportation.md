@@ -6,6 +6,10 @@
 - `Personal transportation. 个人交通工具`
 -
 -
+- ` You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来`
+- ` I can take you to where you want to go. 我可以带你去你想去的地方`
+-
+-
 - `sidewalk 人行道`
 - `crosswalk 人行横道`
 - `pavement = sidewalk. 人行道`
@@ -1681,6 +1685,47 @@ cup holder. 杯架
 
 ##### (5) Gas Station / Petrol Station -- 【 shale gas station. 页岩气站 】
 
+- How to fill up the gas tank? = How to fill the gas tank up?
+- To fill up the gas tank, you need to follow these steps:
+- 1. `Park your vehicle at the gas pump and turn off the engine.` // turn off
+- 2. `Select the appropriate fuel grade for your vehicle.` // appropriate // grade
+- 3. `Remove the gas cap from your vehicle's fuel tank.`
+- 4. `Insert the gas nuzzle into the fuel tank and secure it in place.` // secure // in place
+- 5. `Press the lever or button on the gas pump to start the fuel dispensing.` // lever
+- 6. `Watch the fuel gauge on the pump to ensure you do not overfill the tank.` // overfill
+- 7. `Once the tank is full, remove the gas nozzle from the fuel tank and replace the gas cap.` // once
+- 8. `Check for any leaks or spills and clean up if necessary.` // leak // spill
+- 9. `Pay for the fuel at the pump or inside the gas station.`
+- // 1. turn off. 关闭
+- // -- turn off the engine, 关闭发动机
+- // 2. **appropriate 适当的**
+- // -- 【 Jeans are not appropriate for a formal party. 正式聚会上穿牛仔裤不合适 】// formal 正式的
+- // -- Put a cross in the appropriate box. 在适当的长方格里打叉号
+- // 2. fuel grade. 燃料等级
+- // 3. **secure it in place. 将其固定到位**
+- // -- secure 固定 v 固定的 adj 安全的
+- // -- in place. 在适当的位置
+- // -- sense of security. 安全感
+- // -- security camera. 监控录像
+- // 4. lever 杠杆
+- // 5. **overfill. 过满 溢出**
+- // 6. **once 一次 一旦** // once 一旦
+- // -- 【 The water is fine once you're in! 你一旦下了水，就会觉得水里挺舒适 】
+- // 7. **leak 漏 泄漏** // leak lake
+- // -- `memory leak. 内存泄漏`
+- // -- `The programmer needs to fix the memory leak issue in the software. 程序员需要修复软件中的内存泄漏问题`
+- // -- 【 water had started to leak into the cellar. 水已开始渗入地下室 】
+- // -- `cellar 地下室`
+- // -- `basement 地下室`
+- // 8. **spill 洒出**
+- // -- Don't spill the soup. 别把汤洒了
+-
+-
+-
+- ` You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来`
+- ` I can take you to where you want to go. 我可以带你去你想去的地方`
+-
+-
 - **shale gas station. 页岩气站**
 - `shale gas. 页岩气`
 - `natural gas. 天然气` // TIPS: Pay attention to pronunciation.
