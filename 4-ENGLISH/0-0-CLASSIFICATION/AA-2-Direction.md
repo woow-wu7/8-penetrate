@@ -1,10 +1,22 @@
-# Ask for Direction 问路
+# Ask For Directions 问路 / Give Directions 指路
 
 - outdoor - where is the nearest MRT station?
 - 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away.
 - 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block
 - 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
 - 4. `Would you like me to repeat that again?`
+-
+-
+- `familiar 熟悉的 常见的`
+- `be familiar with. 熟悉`
+- 问: `Do you know where the museum is?`
+- 答: `I'm not familiar with this area. 我不熟悉这个地区` // familiar with
+- 答: `I'm not from around here. 我不是来自这里的`
+- 答: `There is a policeman on the corner, you may ask him for the directions.`
+-
+-
+- `go straight ahead. 一直往前直`
+- `go straight ahead and turn left at the first crossing.一直往前走，在第一个十字路口左转`
 
 ```
 go forward. 往前走
@@ -82,4 +94,11 @@ AA: I can't find the bathroom. I'm lost and I need some directions.
 BB: I need to go straight, turn left at the lights and the bathroom is across the street.
 我迷路了，我需要一些指引
 我需要一直走，在灯前左转，厕所就在街对面
+```
+
+##### The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+
+```
+Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
+Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？// cash cache
 ```
