@@ -48,7 +48,8 @@
 - `【 taxi stand. 出租车站 】`
 -
 -
-- **I can take you to where you want to go. 我可以带你去你想去的地方**
+- **【 I can take you to where you want to go. 我可以带你去你想去的地方 】**
+- **【 I can take you to elevator. 我可以带你去电梯 】**
 - hop on the train. 跳上火车
 - **【 run a red light. 闯红灯 】**
 -
@@ -442,6 +443,7 @@ brake 刹车 n/v
 【 emergency exit. 紧急出口 】
 【 emergency call. 紧急呼叫 】
 【 emergency braking. 紧急制动刹车 】
+【 emergency ventilation. 紧急通风 】
 urgent = emergency
 supply 供应 供给 补给品 日常用品 // supplies
 【 urgent supplies. 紧急物资 】
@@ -1272,6 +1274,7 @@ appreciate 欣赏 感激 v
 - // brake light. // brake pedal. // emergency brake.
 - // brake pedal. // gas pedal. // clutch pedal.离合器踏板
 - 【 hit the brakes. 刹车 】
+- 【 emergency ventilation. 紧急通风 】
 -
 -
 - `windshield 挡风玻璃`
@@ -1420,6 +1423,7 @@ third gear. 三档
 【 emergency brake. 紧急制动 紧急刹车 】
 【 emergency braking. 紧急制动刹车 】
 //【 hit the brakes. 刹车 】
+//【 emergency ventilation. 紧急通风 】
 
 ------- ------- ------- ------- ------- ------- -------
 灯
