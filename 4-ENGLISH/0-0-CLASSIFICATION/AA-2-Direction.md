@@ -1,5 +1,9 @@
 # Ask For Directions 问路 / Give Directions 指路
 
+- ask for directions. 问路
+- ask him for directions. 向他问路
+-
+-
 - Outdoor
   where is the nearest MRT station?
   where the nearest station is?
@@ -9,15 +13,27 @@
 - 4. `Would you like me to repeat that again?`
 - // keep walking for 2 blocks.
 - // keep going for 2 minutes.
+- // go straight for 2 blocks.
 - // it's 2 minutes away.
 -
 -
 - `familiar 熟悉的 常见的`
 - `be familiar with. 熟悉`
+- // **【 Are you familiar with the streets around here? 你熟悉这里的街道吗？ 】**
 - 问: `Do you know where the museum is? = do you know where is the museum?` // museum 博物馆
 - 答: **【 I'm not familiar with this area. 我不熟悉这个地区 】** // familiar with
 - 答: `I'm not from around here. 我不是来自这里的`
-- 答: `There is a policeman on the corner, you may ask him for the directions.`
+- 答: `There is a policeman on the corner, you may ask him for the directions.` // corner
+-
+-
+- `I'm lost. 我迷路了` // lose lost // last 最后一个 // lost 迷路的
+- `go past. 经过`
+- `appreciate 感激`
+- 问: `Sorry to bother you, but I'm a little lost. I'm trying to find the Holiday Inn. Do you know where that is? 我正在寻找假日酒店`
+- 答: `Yes. Go straight for 2 blocks and make a right on 43rd Street. Then go past the hospital.` // go past. 经过
+- 答: `You will see the hotel on your left.`
+- 问: **【 I appreciate your help. 谢谢你的帮忙 】**
+-
 -
 -
 - `go straight ahead. 一直往前走`
@@ -37,6 +53,8 @@
 - 答: `No, it's too far to walk there.`
 - 问: **Can you tell me where the nearest bus stop is?**
 - 答: **The bus stop is just around the corner, across from the bank. 公共汽车站就在拐角处，银行对面。**
+- 答: go down 42nd Street and turn right on Broadway. 沿着 42 街走，在百老汇大街右转
+- 答: It's on your right. 它在你的右边
 -
 -
 - **【 make a left. 左转 】= take a left. = turn left. = go left.**
@@ -55,6 +73,11 @@ go back that way. 往后走
 go straight. 直走
 straight ahead. 直行
 go straight ahead. 一直往前走
+// go straight for 2 blocks. 直走2个街区
+// keep walking for 2 blocks. 继续步行 2 个街区
+-
+go past. 经过
+// go past the school. 经过学校
 -
 turn left. 向左转
 go left. 向左转
@@ -65,7 +88,7 @@ take a left. 向左转
 // make the second left. 在第二个路口左转
 // turn left at the second intersection. 在第二个十字路口左转
 -
-across the street. 街对面 // across
+across the street. 街对面 // across // across the bank = across from the bank.
 cross the street. 过马路 // cross
 -
 sidewalk 人行道
@@ -88,6 +111,7 @@ His office will be on the left. 他的办公室在左边
 The art department will be straight ahead. 美术部就在前面
 -
 laundromat 自动洗衣店
+tourist 游客
 
 ------- ------- ------- ------- ------- ------- -------
 cellar. 地下室 地窖 -- 普通的地下室，较小
@@ -152,5 +176,10 @@ convenience 方便n
 // grocery store. 杂货店
 
 pleasure 高兴 荣幸
+// You're welcome, it's my pleasure. 不客气，这是我的荣幸
 // It's my pleasure. 这是我的荣幸
+
+appreciate 感谢 赏识
+// I appreciate your help. 谢谢你的帮忙
+// I really appreciate it. 我真的很感激
 ```
