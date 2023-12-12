@@ -1,16 +1,21 @@
 # Ask For Directions 问路 / Give Directions 指路
 
-- outdoor - where is the nearest MRT station?
+- Outdoor
+  where is the nearest MRT station?
+  where the nearest station is?
 - 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away. 两分钟路程
-- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block // outside 外面 外面的
+- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block 街区 块 // outside 外面 外面的
 - 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
 - 4. `Would you like me to repeat that again?`
+- // keep walking for 2 blocks.
+- // keep going for 2 minutes.
+- // it's 2 minutes away.
 -
 -
 - `familiar 熟悉的 常见的`
 - `be familiar with. 熟悉`
-- 问: `Do you know where the museum is?` // museum 博物馆
-- 答: `I'm not familiar with this area. 我不熟悉这个地区` // familiar with
+- 问: `Do you know where the museum is? = do you know where is the museum?` // museum 博物馆
+- 答: **【 I'm not familiar with this area. 我不熟悉这个地区 】** // familiar with
 - 答: `I'm not from around here. 我不是来自这里的`
 - 答: `There is a policeman on the corner, you may ask him for the directions.`
 -
@@ -18,7 +23,7 @@
 - `go straight ahead. 一直往前走`
 - `go straight ahead and turn left at the first crossing.一直往前走，在第一个十字路口左转`
 - 问: `Excuse me, could you tell me the way to the bus stop?`
-- 答: `sure, go straight ahead and turn left at the first crossing. 一直往前走，在第一个十字路口左转`
+- 答: **【 sure, go straight ahead and turn left at the first crossing. 一直往前走，在第一个十字路口左转 】**
 - 答: `then go straight for about 50 meters, the bus stop is on your right. 然后一直走大约50米，公共汽车站在你的右边`
 - 问: `I go down this road and make the first left and keep going until I see the bus stop. is that right? `
 - 问: `我沿着这条路走，在第一个路口左转，一直走到看到公共汽车站。是这样吗？`
@@ -28,14 +33,20 @@
 - 问: `Excuse me is there a pharmacy near here?`
 - 答: `Yes, there is, take a left at the next light, then go straight until you see McDonald's. 在下一个红灯处向左走`
 - 答: `and the pharmacy is beside Mcdonald's. 药店就在麦当劳旁边`
+- 问: `Will I be able to walk there? 我能走到那里吗？` // be able to. 能够
+- 答: `No, it's too far to walk there.`
+- 问: **Can you tell me where the nearest bus stop is?**
+- 答: **The bus stop is just around the corner, across from the bank. 公共汽车站就在拐角处，银行对面。**
 -
 -
-- **【 make a left. 左转 】**
+- **【 make a left. 左转 】= take a left. = turn left. = go left.**
 - **【 make the first left. 在第一个路口左转 】**
+- **【 make the second left. 在第二个路口左转 】**
 - **【 turn left at the second intersection. 第二个路口左转 】**
 -
 - `go down this road. 沿着这条路走`
 - `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
+-
 
 ```
 go forward. 往前走
@@ -50,24 +61,33 @@ go left. 向左转
 make a left. 向左转
 take a left. 向左转
 // go left = turn left = make a left = take a left.
+// make the first left. 在第一个路口左转
+// make the second left. 在第二个路口左转
+// turn left at the second intersection. 在第二个十字路口左转
 -
-across the street. 街对面
-cross the street. 过马路
--
-on the left. 左手边
-on the right.
-His office will be on the left. 他的办公室在左边
-The art department will be straight ahead. 美术部就在前面
+across the street. 街对面 // across
+cross the street. 过马路 // cross
 -
 sidewalk 人行道
 crosswalk 人行横道
 `pavement = sidewalk. 人行道`
 `zebra crossing. = crosswalk. 人行横道`
 -
+near 近的adj 在附近adv 靠近v
+nearby 附近的adj 在附近adv
+// The car is parked nearby. 车就停在附近
+// Her mother lived in a nearby town. 她母亲住在附近一个小镇上
+-
 convenience 方便n
 `convenience store. 便利店`
 `grocery store. 杂货店`
 -
+on the left. 左手边
+on the right.
+His office will be on the left. 他的办公室在左边
+The art department will be straight ahead. 美术部就在前面
+-
+laundromat 自动洗衣店
 
 ------- ------- ------- ------- ------- ------- -------
 cellar. 地下室 地窖 -- 普通的地下室，较小
@@ -130,4 +150,7 @@ The knowledge points that must be reviewed yesterday. 昨天必须复习的知�
 convenience 方便n
 // convenience store. 便利店
 // grocery store. 杂货店
+
+pleasure 高兴 荣幸
+// It's my pleasure. 这是我的荣幸
 ```
