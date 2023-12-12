@@ -2,8 +2,14 @@
 
 - ask for directions. 问路
 - ask him for directions. 向他问路
+- How do you give directions in English? 你如何用英语指路？
 -
 -
+- `go down this road. 沿着这条路走` = go this road down.
+- `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
+-
+-
+- `Just take the 7 train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
 - Outdoor
   where is the nearest MRT station?
   where the nearest station is?
@@ -61,10 +67,6 @@
 - **【 make the first left. 在第一个路口左转 】**
 - **【 make the second left. 在第二个路口左转 】**
 - **【 turn left at the second intersection. 第二个路口左转 】**
--
-- `go down this road. 沿着这条路走`
-- `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
--
 
 ```
 go forward. 往前走
@@ -75,6 +77,7 @@ straight ahead. 直行
 go straight ahead. 一直往前走
 // go straight for 2 blocks. 直走2个街区
 // keep walking for 2 blocks. 继续步行 2 个街区
+【 go this street down. 沿着这条街走 】= go down this street.
 -
 go past. 经过
 // go past the school. 经过学校
@@ -160,7 +163,16 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 我需要一直走，在灯前左转，厕所就在街对面
 ```
 
-##### The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+##### (2) The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+
+- `You are welcome, It's my pleasure. 别客气，这是我的荣幸`
+-
+- `I appreciate your help. 感谢你的帮助`
+-
+- `convenience store. 便利店`
+- `grocery store. 杂货店`
+-
+- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
 
 ```
 Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
@@ -170,6 +182,8 @@ You can scan your QR code for the subway to exit the turnstile. 您可以扫描�
 I can take you to where you want to go. 我可以带你去你想去的地方
 
 The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+
+Just take the 7 train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车
 
 convenience 方便n
 // convenience store. 便利店

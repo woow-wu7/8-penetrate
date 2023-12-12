@@ -270,6 +270,9 @@
 
 ##### (2) Subway/Metro/Tube/Unground 地铁
 
+- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
+-
 - **! How do you go to work everyday? 你每天怎么去上班？**
 - **! How do you usually get around? 你平时怎么出行？**
 - **! I oftentimes go to work by car. 我经常开车去上班** // oftentimes 常常
@@ -1246,6 +1249,8 @@ appreciate 欣赏 感激 v
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
 - Put the gas nozzle into the gas tank. 把加油枪放进油箱
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
+- // cap 盖子
+- // cab = taxi. 出租车
 -
 -
 - **run a red light. 闯红灯**
@@ -1493,6 +1498,8 @@ gas tank. 油箱
 //【 thunk 后备箱  树干  】
 //【 fill up my car. 给我的车加满油 】
 // I fill up the tank with gasoline about once a week. 我大约每周给油箱加一次汽油
+- // cap 盖子
+- // cab = taxi. 出租车
 
 ------- ------- ------- ------- ------- ------- -------
 里面 // inside
@@ -1551,6 +1558,8 @@ vents 通风口 // vent 排气口 通风口
 【 pressure gauge. 压力表 】
 【 temperature gauge. 温度计 】
 【 gear 齿轮 】// gears // shift gears.换挡 // first gear.一档 // second gear.二档
+- // cap 盖子
+- // cab = taxi. 出租车
 -
 windshield 挡风玻璃
 【 windshield wipers. 挡风玻璃雨刷 】
@@ -1741,6 +1750,8 @@ cup holder. 杯架
 - Put the gas nozzle into the gas tank. 把加油枪放进油箱
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
 - `How much gas I have left. 我还剩多少油`
+- // cap 盖子
+- // cab = taxi. 出租车
 -
 -
 - 1
