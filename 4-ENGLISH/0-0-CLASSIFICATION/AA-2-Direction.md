@@ -5,11 +5,23 @@
 - How do you give directions in English? 你如何用英语指路？
 -
 -
+- 【 specific place. 具体地点 】
+-
 - `go down this road. 沿着这条路走` = go this road down.
 - `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
 -
 -
-- `Just take the 7 train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+- **【 across the bank = across from the bank. = opposite the bank. 在银行对面 】**
+-
+-
+- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
+-
+- `around here. 附近`
+- It's difficult for young people to find a job around here. 年轻人要在附近找到工作很难
+- **【 Is there a supermarket around here? 这附近有超市吗？】** // ask for directions
+-
+-
 - Outdoor
   where is the nearest MRT station?
   where the nearest station is?
@@ -25,6 +37,8 @@
 -
 - `familiar 熟悉的 常见的`
 - `be familiar with. 熟悉`
+- `around here. 附近`
+- // It's difficult for young people to find a job around here. 年轻人要在附近找到工作很难
 - // **【 Are you familiar with the streets around here? 你熟悉这里的街道吗？ 】**
 - 问: `Do you know where the museum is? = do you know where is the museum?` // museum 博物馆
 - 答: **【 I'm not familiar with this area. 我不熟悉这个地区 】** // familiar with
@@ -115,6 +129,8 @@ The art department will be straight ahead. 美术部就在前面
 -
 laundromat 自动洗衣店
 tourist 游客
+specific place. 具体地点
+
 
 ------- ------- ------- ------- ------- ------- -------
 cellar. 地下室 地窖 -- 普通的地下室，较小
@@ -163,7 +179,7 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 我需要一直走，在灯前左转，厕所就在街对面
 ```
 
-##### (2) The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+## (一) The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
 
 - `You are welcome, It's my pleasure. 别客气，这是我的荣幸`
 -
@@ -197,3 +213,46 @@ appreciate 感谢 赏识
 // I appreciate your help. 谢谢你的帮忙
 // I really appreciate it. 我真的很感激
 ```
+
+## (二) How to ask for directions / How to give directions
+
+##### (1) Different types of streets
+
+```
+1
+Road
+a way that connects 2 places so that people can walk, drive, or ride easily.
+It can be paved maybe with asphalt or it is made of dirt or stones.
+【 road is a general term. 路是一个统称 】
+// pave 铺路 铺
+// asphalt 沥青
+// a general term. 总称
+
+
+2
+Street
+a public road inside the city with buildings on side or on both sides.
+
+
+3
+Avenue 大道
+a wide street = avenue.
+
+
+4
+lanes / ways.
+narrow streets within residential blocks.
+// residential blocks. 住宅区
+
+
+5
+boulevard 要道
+a wide and important street in a city with an island in the middle, which is usually filled with grass, flowers, or trees.
+
+
+6
+highway
+a very wide street with several lanes on each side.
+```
+
+##### (2) preposition of place to say where a building or a location is
