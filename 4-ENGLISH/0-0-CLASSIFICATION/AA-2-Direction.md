@@ -1,22 +1,41 @@
 # Ask For Directions 问路 / Give Directions 指路
 
 - outdoor - where is the nearest MRT station?
-- 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away.
-- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block
+- 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away. 两分钟路程
+- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block // outside 外面 外面的
 - 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
 - 4. `Would you like me to repeat that again?`
 -
 -
 - `familiar 熟悉的 常见的`
 - `be familiar with. 熟悉`
-- 问: `Do you know where the museum is?`
+- 问: `Do you know where the museum is?` // museum 博物馆
 - 答: `I'm not familiar with this area. 我不熟悉这个地区` // familiar with
 - 答: `I'm not from around here. 我不是来自这里的`
 - 答: `There is a policeman on the corner, you may ask him for the directions.`
 -
 -
-- `go straight ahead. 一直往前直`
+- `go straight ahead. 一直往前走`
 - `go straight ahead and turn left at the first crossing.一直往前走，在第一个十字路口左转`
+- 问: `Excuse me, could you tell me the way to the bus stop?`
+- 答: `sure, go straight ahead and turn left at the first crossing. 一直往前走，在第一个十字路口左转`
+- 答: `then go straight for about 50 meters, the bus stop is on your right. 然后一直走大约50米，公共汽车站在你的右边`
+- 问: `I go down this road and make the first left and keep going until I see the bus stop. is that right? `
+- 问: `我沿着这条路走，在第一个路口左转，一直走到看到公共汽车站。是这样吗？`
+- 答: `Exactly, you can't miss it. 完全正确，你不会错过的`
+-
+-
+- 问: `Excuse me is there a pharmacy near here?`
+- 答: `Yes, there is, take a left at the next light, then go straight until you see McDonald's. 在下一个红灯处向左走`
+- 答: `and the pharmacy is beside Mcdonald's. 药店就在麦当劳旁边`
+-
+-
+- **【 make a left. 左转 】**
+- **【 make the first left. 在第一个路口左转 】**
+- **【 turn left at the second intersection. 第二个路口左转 】**
+-
+- `go down this road. 沿着这条路走`
+- `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
 
 ```
 go forward. 往前走
@@ -24,6 +43,7 @@ go back that way. 往后走
 -
 go straight. 直走
 straight ahead. 直行
+go straight ahead. 一直往前走
 -
 turn left. 向左转
 go left. 向左转
@@ -101,4 +121,13 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 ```
 Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
 Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？// cash cache
+
+You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来 // turnstile
+I can take you to where you want to go. 我可以带你去你想去的地方
+
+The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
+
+convenience 方便n
+// convenience store. 便利店
+// grocery store. 杂货店
 ```
