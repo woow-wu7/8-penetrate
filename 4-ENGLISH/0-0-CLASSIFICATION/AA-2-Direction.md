@@ -5,21 +5,20 @@
 - How do you give directions in English? 你如何用英语指路？
 -
 -
-- 【 specific place. 具体地点 】
--
-- `go down this road. 沿着这条路走` = go this road down.
-- `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
+- **【 specific place. 具体地点 】**
+- **【 D is on the corner of first and second street. D 在第一街和第二街的拐角处 】**
 -
 -
 - **【 across the bank = across from the bank. = opposite the bank. 在银行对面 】**
 -
--
-- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
--
--
 - `around here. 附近`
-- It's difficult for young people to find a job around here. 年轻人要在附近找到工作很难
 - **【 Is there a supermarket around here? 这附近有超市吗？】** // ask for directions
+- It's difficult for young people to find a job around here. 年轻人要在附近找到工作很难
+-
+-
+- `go down this road. 沿着这条路走` = go this road down.
+- `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
+- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
 -
 -
 - Outdoor
@@ -212,6 +211,32 @@ pleasure 高兴 荣幸
 appreciate 感谢 赏识
 // I appreciate your help. 谢谢你的帮忙
 // I really appreciate it. 我真的很感激
+
+indirect questions. 间接问题
+labor contract. 劳动合同
+medical check. 体检
+belief 信仰 相信 n
+qualification 资格
+
+The greedy 【 employer 】 exploits his workers for his own profits. 这个贪婪的老板为了自己的利益剥削工人
+The sales performance of the 【 employee 】 grows steadily. 这个员工的销售业绩在持续增长
+He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作
+He was offered 【 employment 】 in the sales offices. 他获聘在销售部工作
+// 2
+// employment 就业 工作
+// unemployment 失业 n
+// -- employ 雇佣 v
+// -- employment 就业 工作 n
+// -- employer 雇主
+// -- employee 雇员
+// a contract of employment. 雇佣合同
+// 2
+// performance 表演 业绩
+// -- sales performance 销售业绩
+// 3
+// steadily 持续的 adv
+// -- steadily 持续的 adv
+// -- steady 持续的 adj
 ```
 
 ## (二) How to ask for directions / How to give directions
