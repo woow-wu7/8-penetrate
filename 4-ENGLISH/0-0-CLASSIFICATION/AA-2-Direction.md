@@ -103,6 +103,7 @@ take a left. 向左转
 // make the first left. 在第一个路口左转
 // make the second left. 在第二个路口左转
 // turn left at the second intersection. 在第二个十字路口左转
+// turn left on Second Ave. 在第二大道左转
 -
 across the street. 街对面 // across // across the bank = across from the bank.
 cross the street. 过马路 // cross
