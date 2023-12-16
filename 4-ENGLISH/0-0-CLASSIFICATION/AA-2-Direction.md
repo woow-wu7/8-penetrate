@@ -5,6 +5,41 @@
 - How do you give directions in English? 你如何用英语指路？
 -
 -
+- preposition 介词
+-
+- 1. next to.
+- The seat next to him was vacant. 他【 旁边 】的空位空者
+- Can I sit next to you? 我可以坐在你旁边吗？
+- The bank is next to the museum. 银行在博物馆旁边
+- // vacant 空闲的 空缺的
+- // There is 【 a vacant / an empty 】seat in the classroom.
+-
+- 2. around here.
+- Is there a supermarket around here? 这【 附近 】有超市吗？
+- How long have you lived around here? 你在这附近住多久了？
+-
+- 3. go down.
+- You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
+- You can go down this street for seven blocks. 你可以沿着这条街走七个街区
+-
+- 4. be familiar with.
+- Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
+- I'm not familiar with this area. 我不熟悉这个地区
+-
+- 5. across the street / cross the street
+- 6. across from.
+- across from the bank = across the bank = opposite the bank. 在银行对面
+-
+- 7. nearest
+- where the nearest station is? 最近的车站在哪里？
+- The nearest MRT station is 2 minutes away, When you go outside, turn right and The MRT station will be on your left.
+-
+- 8. go past.
+- go past the hospital. 【 经过 】医院
+- Get off the bus and go past the station. 下工交车然后走过车站
+-
+-
+-
 - **【 specific place. 具体地点 】**
 - **【 D is on the corner of first and second street. D 在第一街和第二街的拐角处 】**
 -
