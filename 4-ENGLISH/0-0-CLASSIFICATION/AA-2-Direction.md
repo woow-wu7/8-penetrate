@@ -25,6 +25,10 @@
 - You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
 - You can go down this street for seven blocks. 你可以沿着这条街走七个街区
 - go down this street = go this street down.
+- // go down the slope. // slope 斜坡
+- // go up the hill.
+- // go through the tunnel.
+- // go straight on past the post office. 经过邮局后直走
 -
 - 4. be familiar with.
 - Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
@@ -41,8 +45,14 @@
 - 8. go past.
 - go past the hospital. 【 经过 】医院
 - Get off the bus and go past the station. 下工交车然后走过车站
+- 【 Go straight on past B. 一直往前过 B 】
+- **【 Go straight on past the post office. 经过邮局后直走 】**
 -
 - 9. turn left = go left = make a left = take a left.
+- walking -> go left
+- driving -> turn left
+- 走用 go，开车用 turn
+-
 - 10. !
 - make the first left. 在第一个路口左转
 - make the second left. 在第二个路口左转
@@ -51,18 +61,36 @@
 - 11. in the direction of.
 - in the direction of. 朝...方向
 - Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
-- Can you point me 【 in the direction of 】 the elephants? 你能给我指大象的方向吗？
+- Can you point me 【 in the direction of 】the elephants? 你能给我指大象的方向吗？
+-
+- 12. on the corner of.
+- on the corner of. 在...的拐角处
+- D is on the corner of first and second street. D 在第一街和第二街的拐角处
+-
+- 13. stay on
+- stay on the road for five minutes. 在路上停留五分钟
 -
 -
 -
 - BBB.
 - noun
 -
+- specific place. 特定地点
+- hand gesture. 手势
+- quickest 最快的 // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
+- roundabout 环岛 // at the roundabout. 在环岛处
 - printer paper. 打印纸
 - worksheet 练习题表 工作记录表
 - copy machine. 复印机
 - generally 通常
--
+- idiom 成语
+- // noun 名次
+- // pronoun 代词
+- // verb 动词
+- // adverb 副词
+- // adjective 形容词
+- // preposition 介词
+- // quantifier 量词 // quality 质量
 -
 -
 -
