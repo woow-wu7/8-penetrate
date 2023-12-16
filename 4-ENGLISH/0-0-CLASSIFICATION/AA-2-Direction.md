@@ -75,6 +75,8 @@
 - BBB.
 - noun
 -
+- `pretend 假装`
+- // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
 - specific place. 特定地点
 - hand gesture. 手势
 - quickest 最快的 // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
@@ -91,6 +93,9 @@
 - // adjective 形容词
 - // preposition 介词
 - // quantifier 量词 // quality 质量
+- // irregular verb. 不规则动词
+- // -- regular 恒定的 常规的 定时的
+- // -- irregular 不规则的
 -
 -
 -
@@ -103,6 +108,8 @@
 - I realize I haven't been to your house before. How do I get there?
 - Can you help me find my classroom? I'm lost.
 - It's generally over that way.
+- Excuse me, do you know where the train station is? = Excuse me, where is the train station? 前面的 do you know 的说法更加礼貌
+- Excuse me, I'm looking for the train station. Do you know where is it?
 -
 - `around here. 附近`
 - **【 Is there a supermarket around here? 这附近有超市吗？】** // ask for directions

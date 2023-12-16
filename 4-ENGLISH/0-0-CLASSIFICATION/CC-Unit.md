@@ -49,6 +49,7 @@ pronoun 代词
 -
 verb 动词
 adverb 副词
+irregular verb. 不规则动词
 -
 adjective 形容词
 preposition 介词
