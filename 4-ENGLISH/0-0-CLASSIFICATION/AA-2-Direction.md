@@ -282,17 +282,31 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 - `grocery store. 杂货店`
 -
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
+- kind of. 有点
+- a kind of. 一种
+- **【 I'm getting kind of hungry. 我有点饿了 】**
+- **I'm kind of tired.**
+- **I'm kind of hot.**
+- **It was kind of sad. 这有点令人难过** // sad 悲伤的
+- phone is a kind of device. 手机是一种设备
+-
+- `The greedy 【 employer 】 exploits his workers for his own profits. 这个贪婪的老板为了自己的利益剥削工人`
+- `The sales performance of the 【 employee 】 grows steadily. 这个员工的销售业绩在持续增长`
+- `He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作`
+- `He was offered 【 employment 】 in the sales offices. 他获聘在销售部工作`
 
 ```
 Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
 Is there any discount if I pay in cash. 如果我用现金支付，有折扣吗？// cash cache
+Is there a supermarket around here? 这附近有超市吗？
 
 You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来 // turnstile
 I can take you to where you want to go. 我可以带你去你想去的地方
 
 The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
 
-Just take the 7 train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车
+Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车
 
 convenience 方便n
 // convenience store. 便利店
@@ -306,6 +320,9 @@ appreciate 感谢 赏识
 // I appreciate your help. 谢谢你的帮忙
 // I really appreciate it. 我真的很感激
 
+direct 直接的
+indirect 间接的
+
 indirect questions. 间接问题
 labor contract. 劳动合同
 medical check. 体检
@@ -316,11 +333,16 @@ The greedy 【 employer 】 exploits his workers for his own profits. 这个贪�
 The sales performance of the 【 employee 】 grows steadily. 这个员工的销售业绩在持续增长
 He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作
 He was offered 【 employment 】 in the sales offices. 他获聘在销售部工作
+// 1
+// greedy 贪婪的 adj
+// exploit 剥削 v
+// profit 利润 利益
 // 2
 // employment 就业 工作
 // unemployment 失业 n
 // -- employ 雇佣 v
 // -- employment 就业 工作 n
+// -- unemployment 失业 n
 // -- employer 雇主
 // -- employee 雇员
 // a contract of employment. 雇佣合同
@@ -328,9 +350,14 @@ He was offered 【 employment 】 in the sales offices. 他获聘在销售部工
 // performance 表演 业绩
 // -- sales performance 销售业绩
 // 3
-// steadily 持续的 adv
+// steadily 持续的 稳定的 adv
 // -- steadily 持续的 adv
 // -- steady 持续的 adj
+
+`kind of. 有点`
+`a kind of. 一种`
+- `I'm getting kind of hungry. 我有点饿` // kind of. // 2.I'm kind of tired. // 3.I'm kind of hot.
+- `A phone is a kind of device. 手机是一种设备` // a kind of.
 ```
 
 ## (二) How to ask for directions / How to give directions
