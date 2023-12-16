@@ -3,8 +3,11 @@
 - ask for directions. 问路
 - ask him for directions. 向他问路
 - How do you give directions in English? 你如何用英语指路？
+- // in the direction of. 朝...方向
+- // Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
 -
 -
+- AAA.
 - preposition 介词
 -
 - 1. next to.
@@ -21,12 +24,13 @@
 - 3. go down.
 - You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
 - You can go down this street for seven blocks. 你可以沿着这条街走七个街区
+- go down this street = go this street down.
 -
 - 4. be familiar with.
 - Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
 - I'm not familiar with this area. 我不熟悉这个地区
 -
-- 5. across the street / cross the street
+- 5. across the street. 街对面 / cross the street. 过马路/穿过街道
 - 6. across from.
 - across from the bank = across the bank = opposite the bank. 在银行对面
 -
@@ -38,6 +42,28 @@
 - go past the hospital. 【 经过 】医院
 - Get off the bus and go past the station. 下工交车然后走过车站
 -
+- 9. turn left = go left = make a left = take a left.
+- 10. !
+- make the first left. 在第一个路口左转
+- make the second left. 在第二个路口左转
+- make the first left. = go down this street for one block and make a left.
+-
+- 11. in the direction of.
+- in the direction of. 朝...方向
+- Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
+- Can you point me 【 in the direction of 】 the elephants? 你能给我指大象的方向吗？
+-
+-
+-
+- BBB.
+- noun
+-
+- printer paper. 打印纸
+- worksheet 练习题表 工作记录表
+- copy machine. 复印机
+- generally 通常
+-
+-
 -
 -
 - **【 specific place. 具体地点 】**
@@ -45,6 +71,10 @@
 -
 -
 - **【 across the bank = across from the bank. = opposite the bank. 在银行对面 】**
+-
+- I realize I haven't been to your house before. How do I get there?
+- Can you help me find my classroom? I'm lost.
+- It's generally over that way.
 -
 - `around here. 附近`
 - **【 Is there a supermarket around here? 这附近有超市吗？】** // ask for directions
