@@ -42,6 +42,7 @@
 -
 - `certain 某`
 - `at a certain stop. 在某一站` // certain 某 某事 某事 某人
+- `at a certain point. 在某一时刻`
 - `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
 -
 -

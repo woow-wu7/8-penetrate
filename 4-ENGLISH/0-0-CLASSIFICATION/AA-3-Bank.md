@@ -2,6 +2,9 @@
 
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
+-
+- certain 某些 确定
+- uncertain 不确定
 
 ```
 存钱: save money / deposit money / put money in the bank.
@@ -46,6 +49,19 @@ make payment. 付款
 // We appreciate your cooperation to make payment. 感谢您配合付款
 // I appreciate your help. 感谢你的帮助
 currency 货币
+-
+certain 某些 确定
+uncertain 不确定
+-
+loan 贷款
+mortgage 抵押 按揭
+-
+invest 投资 v
+investment 投资 n
+punt 赌博
+-
+stock 股票
+// stock market. 股市
 
 
 
@@ -98,4 +114,44 @@ revenue 收入 收益
 annual 每年的 一年一次的 年报
 annual revenue. 年收入
 // The company's annual revenues rose by 30%. 公司的年收入增加了30%
+
+certain 某些 确定
+uncertain 不确定
+// 某: at a certain stop. 在某一站
+// 某: at a certain point. 在某一时刻
+// 某: Certain people might disagree with this. 某些人对这事可能不会赞同
+// 确定: I'm not certain who was there. 我无法确定谁当时在场
+// 1
+// -- He was uncertain of the correct answer to the multiple choice question. 他不确定这道选择题的正确答案是哪个
+// -- uncertain 不确定
+// 2
+// 确定 adj => I‘m certain that Tuesday is the day before Wednesday. 我确定星期二是在星期三的前一天
+// 某些 pron => Certain foods are easier to buy than others. 某些食物比其他食物更容易买到
+// -- certain about. 对某事有把握
+// -- I am certain about the length of this video. It's one minute long. 我对这个视频的时长很有把握，它有一分钟长
+
+mortgage 抵押 按揭 抵押贷款
+// 1. mortgage 抵押贷款: They have loans, bills, a mortgage to pay off, retirement to save for.
+// 他们有贷款、账单、抵押贷款要还清，还要存退休金。
+// 2. mortgage 抵押: He mortgage his house in order to start a business. 他将房子作抵押借款以开办一家商店
+
+loan 贷款 借出
+// loan 贷款: I want to get a loan to buy a car. 我想贷款买车
+// loan 借出: The book is currently on loan. 该书已借出
+// 1
+// I feel the tremendous pressure of car and house loans on my shoulders. 我感觉肩上扛着巨大的车贷和房贷压力
+// tremendous 巨大的
+// pressure 压力
+// loans 贷款
+// shoulder 肩膀
+// 2
+// He is applying for a loan so that he can afford to buy the house. 他正在申请一笔贷款，这样他就能买的起房子了
+
+invest 投资 v
+investment 投资 n
+punt 赌博
+stock 股票
+// This country needs investment in education. 这个国家需要对教育进行投资
+// The investment is little more than a punt. 这项投资无异于一场赌博
+// invest 投资v: Many people don't like to invest in stocks. 许多人不喜欢投资股票
 ```
