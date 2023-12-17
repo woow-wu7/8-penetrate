@@ -479,9 +479,12 @@ first class. 头等舱
 -
 queue 队列 排队
 queue up. 排队
-wait in line. 排队
+get in line. 排队
+wait in line. 排队等候
 cut in line. 插队
-queue up = wait in line. 排队
+【 queue up = get in line = wait in line. 排队 】
+【 jump a queue = cut a queue = cut in line. 插队 】
+
 【 We had to queue up for an hour for the tickets. 我们为了买到票不得不排了一个小时的队 】
 【 I'm waiting in line to purchase my Ferry ticket. 我正在排队购买船票 】// wait in line = queue up.
 // jump a queue. 插队

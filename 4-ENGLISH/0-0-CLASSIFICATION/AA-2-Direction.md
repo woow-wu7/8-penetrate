@@ -7,6 +7,9 @@
 - // Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
 -
 -
+- `Excuse me, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
+-
+-
 - AAA.
 - preposition 介词
 -
@@ -33,13 +36,14 @@
 - 4. be familiar with.
 - Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
 - I'm not familiar with this area. 我不熟悉这个地区
+- Excuse me, are you familiar with the street around here? where is the nearest train station?
 -
 - 5. across the street. 街对面 / cross the street. 过马路/穿过街道
 - 6. across from.
 - across from the bank = across the bank = opposite the bank. 在银行对面
 -
 - 7. nearest
-- where the nearest station is? 最近的车站在哪里？
+- where is the nearest station? 最近的车站在哪里？
 - The nearest MRT station is 2 minutes away, When you go outside, turn right and The MRT station will be on your left.
 -
 - 8. go past.
@@ -60,7 +64,7 @@
 -
 - 11. in the direction of.
 - in the direction of. 朝...方向
-- Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
+- **【 Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ 】**
 - Can you point me 【 in the direction of 】the elephants? 你能给我指大象的方向吗？
 -
 - 12. on the corner of.
@@ -79,7 +83,7 @@
 - // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
 - specific place. 特定地点
 - hand gesture. 手势
-- quickest 最快的 // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
+- quickest 最快的 // `The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱`
 - roundabout 环岛 // at the roundabout. 在环岛处
 - printer paper. 打印纸
 - worksheet 练习题表 工作记录表
