@@ -155,7 +155,9 @@
 - 问: `Sorry to bother you, but I'm a little lost. I'm trying to find the Holiday Inn. Do you know where that is? 我正在寻找假日酒店`
 - 答: `Yes. Go straight for 2 blocks and make a right on 43rd Street. Then go past the hospital.` // go past. 经过
 - 答: `You will see the hotel on your left.`
-- 问: **【 I appreciate your help. 谢谢你的帮忙 】**
+- **【 I appreciate your help. 谢谢你的帮忙 】**
+- **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
+-
 -
 -
 -
@@ -287,7 +289,8 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 
 - `You are welcome, It's my pleasure. 别客气，这是我的荣幸`
 -
-- `I appreciate your help. 感谢你的帮助`
+- **【 I appreciate your help. 感谢你的帮助 】**
+- **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
 -
 - `convenience store. 便利店`
 - `grocery store. 杂货店`
