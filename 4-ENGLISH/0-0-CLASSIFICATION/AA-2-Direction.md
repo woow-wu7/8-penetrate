@@ -9,6 +9,11 @@
 -
 - `Excuse me, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
 -
+- `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
+- `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
+- `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
+- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
 -
 - AAA.
 - preposition 介词
@@ -44,7 +49,7 @@
 -
 - 7. nearest
 - where is the nearest station? 最近的车站在哪里？
-- The nearest MRT station is 2 minutes away, When you go outside, turn right and The MRT station will be on your left.
+- The nearest station is 2 minutes away, When you go outside, keep walking for two blocks and The station will be on your left.
 -
 - 8. go past.
 - go past the hospital. 【 经过 】医院
@@ -66,10 +71,13 @@
 - in the direction of. 朝...方向
 - **【 Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ 】**
 - Can you point me 【 in the direction of 】the elephants? 你能给我指大象的方向吗？
+- **【 Take the subway line 18 heading towards Disney. 乘坐地铁 18 号线前往迪士尼 】**
+- **【 Take the subway line 18 in the direction of Disney. 坐地铁 18 号线往迪士尼方向 】** // in the direction of. 朝...方向
 -
 - 12. on the corner of.
 - on the corner of. 在...的拐角处
 - D is on the corner of first and second street. D 在第一街和第二街的拐角处
+- // kitty corner. 斜对角
 -
 - 13. stay on
 - stay on the road for five minutes. 在路上停留五分钟
@@ -78,6 +86,15 @@
 -
 - BBB.
 - noun
+-
+- block 街区
+- **【 intersection 十字路口 】**
+- **【 interaction 相互作用 互动 】**
+- // interaction design. 交互设计
+- corner 拐角
+- kitty corner. 斜对角
+- fork 叉 分叉 岔路
+- **【 jaywalk 乱穿马路 】**
 -
 - `pretend 假装`
 - // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
@@ -108,6 +125,13 @@
 -
 -
 - **【 across the bank = across from the bank. = opposite the bank. 在银行对面 】**
+- `sidewalk 人行道`
+- `crosswalk 人行横道`
+- `pavement = sidewalk. 人行道`
+- `zebra crossing. = crosswalk. 人行横道`
+- // crossing the crosswalk. 穿过人行横道
+- // crossing the zebra crossing. 穿过斑马线
+- // jaywalk 乱穿马路
 -
 - I realize I haven't been to your house before. How do I get there?
 - Can you help me find my classroom? I'm lost.
@@ -135,7 +159,7 @@
 - // keep walking for 2 blocks.
 - // keep going for 2 minutes.
 - // go straight for 2 blocks.
-- // it's 2 minutes away.
+- // it's 2 minutes away. 两分钟路程
 -
 -
 - `familiar 熟悉的 常见的`
@@ -218,6 +242,9 @@ sidewalk 人行道
 crosswalk 人行横道
 `pavement = sidewalk. 人行道`
 `zebra crossing. = crosswalk. 人行横道`
+// crossing the crosswalk. 穿过人行横道
+// crossing the zebra crossing. 穿过斑马线
+// jaywalk 乱穿马路
 -
 near 近的adj 在附近adv 靠近v
 nearby 附近的adj 在附近adv
@@ -296,6 +323,9 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 - `grocery store. 杂货店`
 -
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+- `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
+- `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
+- `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ `
 -
 - kind of. 有点
 - a kind of. 一种

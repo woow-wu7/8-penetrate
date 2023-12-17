@@ -14,6 +14,7 @@
 - `crosswalk 人行横道`
 - `pavement = sidewalk. 人行道`
 - `zebra crossing. = crosswalk. 人行横道`
+- // jaywalk 乱穿马路
 -
 -
 - `convenience 方便n`
@@ -272,6 +273,9 @@
 ##### (2) Subway/Metro/Tube/Unground 地铁
 
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+- `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
+- `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
+- `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
 -
 -
 - **! How do you go to work everyday? 你每天怎么去上班？**
@@ -297,6 +301,8 @@
 - `crosswalk 人行横道`
 - `pavement = sidewalk. 人行道`
 - `zebra crossing. = crosswalk. 人行横道`
+- // crossing the crosswalk. 穿过人行横道
+- // crossing the zebra crossing. 穿过斑马线
 -
 -
 - `convenience 方便n`
