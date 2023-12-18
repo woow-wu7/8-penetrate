@@ -272,3 +272,33 @@ then 【 write the amount of money 】 and press enter and take your money.
 AA: thank you so much and I got it.
 BB: no problem.
 ```
+
+##### (2) Knowledge points that must be reviewed yesterday
+
+```
+health 健康
+wellness 健康 n
+wellbeing. 健康 n
+
+go down.
+- You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
+- You can go down this street for seven blocks. 你可以沿着这条街走七个街区
+- go down this street = go this street down.
+- // go down the slope. // slope 斜坡
+- // go up the hill.
+- // go through the tunnel.
+- // go over the bridge.
+- // go straight on past the post office. 经过邮局后直走
+- // Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道
+
+Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?
+- 1. `Sorry, I'm new in here. 我是新来的`
+- 2. `Sorry, I'm not from around here. 我不是这附近的人`
+
+`Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
+`Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
+`Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
+`Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+
+【 Go straight on past the post office. 经过邮局后直走 】
+```

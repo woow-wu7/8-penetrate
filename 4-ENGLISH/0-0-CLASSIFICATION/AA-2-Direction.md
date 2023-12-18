@@ -39,7 +39,9 @@
 - // go down the slope. // slope 斜坡
 - // go up the hill.
 - // go through the tunnel.
+- // go over the bridge.
 - // go straight on past the post office. 经过邮局后直走
+- // Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道
 -
 - 4. be familiar with.
 - Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
@@ -49,6 +51,11 @@
 - 5. across the street. 街对面 / cross the street. 过马路/穿过街道
 - 6. across from.
 - across from the bank = across the bank = opposite the bank. 在银行对面
+- // sidewalk = pavement 人行道
+- // crosswalk = zebra crossing 人行横道斑马线
+- // jaywalk 乱穿马路
+- // cross the intersection. 穿过十字路口
+- // intersection vs interaction
 -
 - 7. nearest
 - where is the nearest station? 最近的车站在哪里？

@@ -19,9 +19,15 @@
 - `pharmacist 药剂师`
 -
 -
+- `health 健康`
+- `wellness 健康 n`
+- `wellbeing. 健康 n`
+-
 -
 - `professional. 专家 职业的`
-- `health professional. 健康专业人士`
+- `health professional. 健康专家`
+- // **【 Adults take 1 vegetarian capsule daily with water, or as directed by your health professional. 】**
+- // 成人每天服用 1 粒素食胶囊，用水送服，或按照健康专家的指示服用。
 -
 - `bacteria 细菌 n `
 - `probiotic 益生菌`
