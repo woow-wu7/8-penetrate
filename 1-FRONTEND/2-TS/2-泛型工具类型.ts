@@ -79,7 +79,21 @@ const partial2: TPartial2 = {
   // c: true, // a 和 b 属性可选，但是不能超过a和b的范围，即一个新属性 c 就会报错
 };
 
-// 3
+// 3 
+// Required
+interface Color {
+  a?: number;
+  b?: string;
+  c: string;
+}
+type TR = Required<Color>
+const tr: TR = {
+  a: 1,
+  b: '2',
+  c: '3'
+}
+
+// 4
 // Pick
 // - 从类型定义的属性中，选取 ( 指定一组的属性 )，返回一个 ( 新的类型定义 )
 // - 从字面意思也能知道是 ( 摘取部分属性 )
@@ -109,7 +123,7 @@ const pick5: TPick5 = {
   red: 1,
 };
 
-// 4
+// 5
 // Omit
 // - 忽略某个属性
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
@@ -124,13 +138,13 @@ const omit2: TOmit2 = {
   c: true,
 };
 
-// 5
+// 6
 // Exclude
 // - Exclude 就是将前面类型的与后面类型对比，( 过滤出前面独有的属性 )
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
 const exclude1: Exclude<"a" | "1" | "2", "a" | "y" | "z"> = "1"; // str 的类型是 "1" | "2"，即从前面中去除后面中有的属性
 
-// 6
+// 7
 // ReadOnly
 // - 将类型 T 中包含的属性设置为readonly，并返回一个新类型
 const readonly1: Readonly<Color2> = {
@@ -141,13 +155,13 @@ readonly1.red = "11"; // 不能修改，只读，这里报错
 // 扩展
 // 除了使用 Readonly<Color2>能做到只读外，也可以直接设置 interface Color2 { readonly red: string; }
 
-// 7
+// 8
 // ReadonlyArray
-// 7.1
+// 8.1
 type TReadonlyArray = ReadonlyArray<any>;
 const readonlyArr: TReadonlyArray = ["1", 1];
 readonlyArr[0] = "11"; // 报错，类型“TReadonlyArray”中的索引签名仅允许读取。
-// 7.2
+// 8.2
 // 在React的useEffect函数签名中
 // function useEffect(effect: EffectCallback, deps?: DependencyList): void
 //   - type EffectCallback = () => (void | (() => void | undefined))
@@ -166,7 +180,7 @@ function foo3(arr: readonly string) {
   // 报错，仅允许对数组和元组字面量类型使用 "readonly" 类型修饰符。ts(1354)
 }
 
-// 8
+// 9
 // Parameters
 function fn8(arg: { a: number; b: string }): void {}
 type TP1 = Parameters<typeof fn8>;
@@ -208,3 +222,16 @@ type TInstance2 = InstanceType<any>; // any
 type TInstance3 = InstanceType<never>; // any
 type TInstance4 = InstanceType<string>; // Error
 type TInstance5 = InstanceType<Function>; // Error
+
+// 12
+// Awaited
+type AAA1 = Awaited<Promise<string>>; // string
+type AAA2 = Awaited<Promise<Promise<number>>>; // number - 不管嵌套有多深，都可以得到参数类型
+type AAA3 = Awaited<boolean | Promise<number>>; //  number | boolean
+
+// 13
+// NonNullable
+// 去除 null 和 undefined 类型
+type T0 = NonNullable<string | number | undefined>; // type T0 = string | number
+type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
+     

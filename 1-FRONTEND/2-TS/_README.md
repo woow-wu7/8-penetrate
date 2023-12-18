@@ -199,6 +199,7 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 # (二) 范型工具类型
 
 - Record
+- Required
 - Partial
 - Pick
 - Omit
@@ -209,6 +210,10 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 - ReturnType
 - InstanceType
 - Uppercase Lowercase
+- // 2023/12/18 补充
+- // Required vs Partial
+- // Awaited
+- // NonNullable
 - 1.详见: 1-FRONTEND/2-TS/2-泛型工具类型.ts
 - 2.类型体操详见: 本项目/1-FRONTEND/2-TS/2-类型体操
 
@@ -221,6 +226,7 @@ Record
   - keys: 表示对象的属性 - 键
   - type: 表示对象的属性 - 值
   - 用于将 ( 一种类型属性 ) 映射到 ( 另一种类型 )
+  - // keys 必须是联合类型
 - Record的实现
   - type Record<K extends keyof any, T> = { [P in K]: T };
   - keyof any 返回 string|number|symbol
@@ -252,8 +258,8 @@ const product: StaffJson = {
 ---
 例3
 interface CatInfo {
-   age: number,
-   breed: string, // breed 是品种的意思
+  age: number;
+  breed: string; // breed 是品种的意思
 }
 type CatName = 'miffy'| 'boris'
 const cats: Record<CatName, CatInfo> ={
@@ -317,7 +323,7 @@ keyof any =  string | number | symbol
 P in string | number | symbol 用来遍历联合类型
 ```
 
-### (2) Partial
+### (2) Partial ----- 对比 Required
 
 ```
 Partial
@@ -339,7 +345,27 @@ type Coord = {
 }
 ```
 
-### (3) Pick -------- 对比 Omit
+### (3) Required ---- 对比 Partial
+
+```
+Required
+Required<Type>
+---
+
+interface Color {
+  a?: number;
+  b?: string;
+  c: string;
+}
+type TR = Required<Color>
+const tr: TR = {
+  a: 1,
+  b: '2',
+  c: '3'
+}
+```
+
+### (4) Pick -------- 对比 Omit
 
 ```
 Pick
@@ -383,7 +409,7 @@ const pick5: Pick<Record<keyof Color2, number>, "red"> = {
 };
 ```
 
-### (4) Omit -------- 对比 Pick
+### (5) Omit -------- 对比 Pick
 
 - Omit 和 Pick 是相反的
 - Omit: 省略 忽略 的意思
@@ -412,7 +438,7 @@ const omit2: Omit<Record<"a" | "b" | "c", boolean>, "a" | "b"> = {
 };
 ```
 
-### (5) Exclude
+### (6) Exclude
 
 ```
 Exclude
@@ -428,7 +454,7 @@ type Result = Exclude<"a" | "b" | "c", "a">; // 'b' | 'c'
 type Result2 = Exclude<"a" | "b" | "c", "a" | "b">; // 'c'
 ```
 
-### (6) Readonly
+### (7) Readonly
 
 ```
 Readonly
@@ -451,7 +477,7 @@ person.age = 20; // 报错，无法分配到 "age" ，因为它是只读属性�
 // 除了使用 Readonly<Person>能做到只读外，也可以直接设置 interface Person { readonly name: string; }
 ```
 
-### (7) ReadonlyArray
+### (8) ReadonlyArray
 
 ```
 ReadonlyArray
@@ -483,7 +509,7 @@ function foo(arr: readonly string) {
 }
 ```
 
-### (8) Parameters
+### (9) Parameters
 
 ```
 Parameters
@@ -500,7 +526,7 @@ type TP1 = Parameters<typeof fn8>;
 // type TP1 = [name: string, rest: { a: number; b: string; }]
 ```
 
-### (9) ReturnType
+### (10) ReturnType
 
 ```
 ReturnType
@@ -527,7 +553,7 @@ type T17 = ReturnType<string>;  // Error
 type T18 = ReturnType<Function>;  // Error
 ```
 
-### (10) InstanceType
+### (11) InstanceType
 
 ```
 InstanceType
@@ -548,11 +574,34 @@ type TInstance4 = InstanceType<string>; // Error
 type TInstance5 = InstanceType<Function>; // Error
 ```
 
-### (11) Uppercase Lowercase
+### (12) Uppercase Lowercase
 
 ```
 type Name = "woow_wu7";
 type UpperName = Uppercase<Name>; // 相当于 type UpperName = "WOOW_WU7"
+```
+
+### (13) Awaited
+
+```
+Awaited
+Awaited<Type>
+---
+
+type AAA1 = Awaited<Promise<string>>; // string
+type AAA2 = Awaited<Promise<Promise<number>>>; // number - 不管嵌套有多深，都可以得到参数类型
+type AAA3 = Awaited<boolean | Promise<number>>; //  number | boolean
+```
+
+#### (14) NonNullable
+
+```
+NonNullable
+去除 null 和 undefined 类型
+---
+
+type T0 = NonNullable<string | number | undefined>; // type T0 = string | number
+type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
 ```
 
 # (三) 高级类型
