@@ -9,7 +9,7 @@
 -
 - `Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
 - 1. `Sorry, I'm new in here. 我是新来的`
-- 2. `I'm not from around here. 我不是这附近的人`
+- 2. `Sorry, I'm not from around here. 我不是这附近的人`
 -
 - `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
 - `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
@@ -53,6 +53,8 @@
 - 7. nearest
 - where is the nearest station? 最近的车站在哪里？
 - The nearest station is 2 minutes away, When you go outside, keep walking for two blocks and The station will be on your left.
+- // quickest
+- // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
 -
 - 8. go past.
 - go past the hospital. 【 经过 】医院
@@ -87,7 +89,8 @@
 -
 - 14. I'm a bit lost. 我有点迷路了
 - // Excuse me, I'm a bit lost. do you know where the train station is?
-- // Sorry, I'm new in here. 我是新来的
+- // 1. Sorry, I'm new in here. 我是新来的
+- // 2. I'm not from around here. 我不是这附近的人
 -
 - 15. go over the bridge. 过桥
 - // **【 Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道 】**

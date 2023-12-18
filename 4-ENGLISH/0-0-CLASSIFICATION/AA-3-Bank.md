@@ -5,6 +5,8 @@
 -
 - certain 某些 确定
 - uncertain 不确定
+-
+- Please register a new account = Please sign up a new account.
 
 ```
 存钱: save money / deposit money / put money in the bank.
@@ -23,6 +25,7 @@ debit card. 借记卡
 checking account. 支票账户
 savings account. 储蓄帐户
 【 deposit account. 存款账户 】
+// 1. savings account: It's for saving, you can deposit your money and earn interest.
 //【 I opened a new account for my savings. 我开了一个新的储蓄账户 】
 // bank account. 银行账户
 // client account. 客户账户
@@ -42,6 +45,18 @@ cut in line. 插队
 
 
 ------- ------- ------- ------- ------- ------- -------
+interest 兴趣 利息
+interest rate. 利率
+// You should put the money in a savings account where it will earn interest. 你应该把钱存在有利息的储蓄账户里
+// savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】.
+// interest rates came down today. 利率今天下降了
+-
+transaction 交易
+// The transaction is completed by payment of the fee. = The transaction is completed after paying the fee. 交易在支付费用之后就完成了
+-
+fee 费用
+fare 车费 票价
+-
 deposit 存款 押金
 revenue 收入 收益 n
 payment 付款 n
@@ -154,4 +169,22 @@ stock 股票
 // This country needs investment in education. 这个国家需要对教育进行投资
 // The investment is little more than a punt. 这项投资无异于一场赌博
 // invest 投资v: Many people don't like to invest in stocks. 许多人不喜欢投资股票
+```
+
+##### (1) Conversation
+
+```
+1
+AA: I would like to open a bank account.
+BB: What kind of account would you like to open?
+AA: Could you please tell me a little about bank accounts?
+BB: There are two kinds of accounts: 【 a checking account 】 and 【 a savings account 】.
+AA: What is the difference between a checking account and a savings account?
+BB: Savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】.
+AA: How many 【 transactions 】 can be done in a month with a savings account?
+BB: Only six transactions but with a checking account you can make daily transactions.
+AA: A checking account is good for me I love buying things online.
+BB: Then would you like to open a checking account?
+AA: Yes please.
+BB: Please 【 fill out 】 this 【 application form 】.
 ```
