@@ -3,10 +3,51 @@
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
 -
-- certain 某些 确定
-- uncertain 不确定
+-
+-
+-
+- AAA.
+- phrase
+-
+- `deposit money. 存钱`
+- `withdraw money. 取钱`
+-
+- `credit card. 信用卡`
+- `debit card. 借记卡`
+-
+- `checking account. 支票账户`
+- `savings account. 储蓄帐户`
+-
+- `fill out. 填写`
+- // you must fill out this order form. 您必须填写订单表
 -
 - Please register a new account = Please sign up a new account.
+-
+-
+-
+-
+- BBB.
+- noun
+-
+- `interest 兴趣 利息`
+- // savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
+-
+- `loan 贷款`
+- // The new loan takes the total debt to 10000 dollar. 新贷款使总债务增加到 1 万美元
+- // You can pay back the loan over a period of three years. 你可以在三年内分期归还贷款
+-
+- `transaction 交易`
+- `fee 费用`
+- `fare 车费 船费`
+- // The transaction is completed after paying the fee. 交易在支付费用之后就完成了
+-
+- `receipt 收据 发票`
+- `interim 临时的`
+- // Please give me an interim receipt. 请给我一张临时收据
+- // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
+-
+- certain 某些 确定
+- uncertain 不确定
 
 ```
 存钱: save money / deposit money / put money in the bank.
@@ -61,8 +102,8 @@ deposit 存款 押金
 revenue 收入 收益 n
 payment 付款 n
 make payment. 付款
-// We appreciate your cooperation to make payment. 感谢您配合付款
-// I appreciate your help. 感谢你的帮助
+// 【 We appreciate your cooperation to make payment. 感谢您配合付款 】
+// 【 I appreciate your help. 感谢你的帮助 】
 currency 货币
 -
 certain 某些 确定
@@ -169,13 +210,16 @@ stock 股票
 // This country needs investment in education. 这个国家需要对教育进行投资
 // The investment is little more than a punt. 这项投资无异于一场赌博
 // invest 投资v: Many people don't like to invest in stocks. 许多人不喜欢投资股票
+
+fill out. 填写
+// You must fill out this order form. 这个订货单你要填一下
 ```
 
 ##### (1) Conversation
 
 ```
 1
-AA: I would like to open a bank account.
+AA: I would like to 【 open a bank account 】.
 BB: What kind of account would you like to open?
 AA: Could you please tell me a little about bank accounts?
 BB: There are two kinds of accounts: 【 a checking account 】 and 【 a savings account 】.
