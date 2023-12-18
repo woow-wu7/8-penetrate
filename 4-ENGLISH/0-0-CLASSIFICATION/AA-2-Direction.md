@@ -7,12 +7,15 @@
 - // Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
 -
 -
-- `Excuse me, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
+- `Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
+- 1. `Sorry, I'm new in here. 我是新来的`
+- 2. `I'm not from around here. 我不是这附近的人`
 -
 - `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
 - `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
 - `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
 -
 -
 - AAA.
@@ -82,6 +85,13 @@
 - 13. stay on
 - stay on the road for five minutes. 在路上停留五分钟
 -
+- 14. I'm a bit lost. 我有点迷路了
+- // Excuse me, I'm a bit lost. do you know where the train station is?
+- // Sorry, I'm new in here. 我是新来的
+-
+- 15. go over the bridge. 过桥
+- // **【 Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道 】**
+-
 -
 -
 - BBB.
@@ -91,17 +101,32 @@
 - **【 intersection 十字路口 】**
 - **【 interaction 相互作用 互动 】**
 - // interaction design. 交互设计
+-
 - corner 拐角
-- kitty corner. 斜对角
-- fork 叉 分叉 岔路
+- // kitty corner. 斜对角
+- // fork 叉 分叉 岔路
+-
 - **【 jaywalk 乱穿马路 】**
+- // sidewalk 人行道
+- // crosswalk 人行横道
+- // sidewalk = pavement 人行道
+- // crosswalk = zebra crossing. 斑马线人行横道
+-
+- roundabout 环岛
+- // at the roundabout. 在环岛处
+-
+- Avenue 大道
+- pave 铺路
+- // The avenue had never been paved, and deep mud made it impassable in winter.
 -
 - `pretend 假装`
 - // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
+-
+- quickest 最快的
+- // `The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱`
+-
 - specific place. 特定地点
 - hand gesture. 手势
-- quickest 最快的 // `The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱`
-- roundabout 环岛 // at the roundabout. 在环岛处
 - printer paper. 打印纸
 - worksheet 练习题表 工作记录表
 - copy machine. 复印机
@@ -117,6 +142,7 @@
 - // irregular verb. 不规则动词
 - // -- regular 恒定的 常规的 定时的
 - // -- irregular 不规则的
+-
 -
 -
 -
@@ -433,7 +459,7 @@ a wide street = avenue.
 lanes / ways.
 narrow streets within residential blocks.
 // residential blocks. 住宅区
-
+// A side mirror can help you see beside you and behind you when you're turning and changing lanes.
 
 5
 boulevard 要道
