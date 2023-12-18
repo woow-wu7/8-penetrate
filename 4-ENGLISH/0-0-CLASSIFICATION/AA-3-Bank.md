@@ -18,10 +18,17 @@
 - `checking account. 支票账户`
 - `savings account. 储蓄帐户`
 -
+- `bank teller. 银行出纳员`
+- `bank manager. 银行经理`
+-
 - `fill out. 填写`
 - // you must fill out this order form. 您必须填写订单表
 -
+- bank teller. 银行出纳员
 - Please register a new account = Please sign up a new account.
+- I don't know where the problem lies. 我不知道问题出在哪里 // lie 躺 谎言
+- I don't know what the problem is. 我不知道问题是什么
+- Once you walk past the bank machines. 一旦你走过银行机器
 -
 -
 -
@@ -32,9 +39,19 @@
 - `interest 兴趣 利息`
 - // savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
 -
+- `revenue 收入`
+- `income 收入`
+- // My revenue mainly comes from investments. 我的收入主要来自投资
+-
+- `balance 余额 平衡`
+- // I'd like to check the balance in my account please. 请查一下我的账户余额
+- // They were due to pay the balance on delivery. 他们应该在货到时支付余额
+-
 - `loan 贷款`
-- // The new loan takes the total debt to 10000 dollar. 新贷款使总债务增加到 1 万美元
-- // You can pay back the loan over a period of three years. 你可以在三年内分期归还贷款
+- `debt 债务`
+- `a period of. 一段时间`
+- // You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
+- // The new loan takes the total debt to 10000 dollars. 新贷款使总债务增加到 1 万美元
 -
 - `transaction 交易`
 - `fee 费用`
@@ -45,6 +62,9 @@
 - `interim 临时的`
 - // Please give me an interim receipt. 请给我一张临时收据
 - // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
+-
+- **【 salary 薪水 】**
+- **【 paycheck 工资 】**
 -
 - certain 某些 确定
 - uncertain 不确定
@@ -118,7 +138,13 @@ punt 赌博
 -
 stock 股票
 // stock market. 股市
-
+-
+counter 柜台 计算器
+place of employment. 工作地点
+-
+check 检查 支票
+cheque 支票
+paycheck 工资 薪水
 
 
 ------- ------- ------- ------- ------- ------- -------
@@ -231,4 +257,18 @@ AA: A checking account is good for me I love buying things online.
 BB: Then would you like to open a checking account?
 AA: Yes please.
 BB: Please 【 fill out 】 this 【 application form 】.
+```
+
+```
+2
+AA: Excuse me, can you show me how to use atm?
+BB:
+Ok,
+first you need to insert your debit card into the atm machine.
+then you have to enter your PIN code.
+after that lots of options will show in the screen. Select any option 【 according to 】 your wish.
+if you want to deposit or withdraw your money, you can select in the screen
+then 【 write the amount of money 】 and press enter and take your money.
+AA: thank you so much and I got it.
+BB: no problem.
 ```
