@@ -24,6 +24,11 @@
 - `wellbeing. 健康 n`
 -
 -
+- `Put on a drip. 输液 打点滴`
+- // drop 下降 滴
+- // drip 滴水
+-
+-
 - `professional. 专家 职业的`
 - `health professional. 健康专家`
 - // **【 Adults take 1 vegetarian capsule daily with water, or as directed by your health professional. 】**

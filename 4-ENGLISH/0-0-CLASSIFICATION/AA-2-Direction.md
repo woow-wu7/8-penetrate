@@ -131,6 +131,7 @@
 -
 - `pretend 假装`
 - // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
+- // Just pretend you fell. 假装你摔倒了
 -
 - quickest 最快的
 - // `The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱`

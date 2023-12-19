@@ -279,6 +279,9 @@ BB: no problem.
 health 健康
 wellness 健康 n
 wellbeing. 健康 n
+// wellness 健康
+// sickness 疾病
+// goodness 善良 优良 美德
 
 go down.
 - You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
