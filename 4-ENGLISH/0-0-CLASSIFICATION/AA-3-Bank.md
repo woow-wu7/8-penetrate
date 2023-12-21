@@ -11,7 +11,14 @@
 - phrase
 -
 - `bank term. 银行术语`
-- // You are very welcome to this English vocabulary lesson on/about banking terms. 非常欢迎您参加这堂关于银行术语的英语词汇课
+- // You are very welcome to this English vocabulary 【 lesson 】 【 on/about 】 banking terms. 非常欢迎您参加这堂关于银行术语的英语词汇课
+- // 1
+- // -- term 术语 学期
+- // --【 I'm not happy with his work this term. 我对他这学期的表现不满 】
+- // 2
+- // -- class 课程 ------------- I was late for a class. 我上课迟到了
+- // -- lesson 课程 ------------ 一节课 // our first lesson in French.
+- // -- course 课程 过程 -------- 系列 // She's doing a one-year journalism course.
 -
 - `overdraft 透支 n`
 - `overdraw 透支 v`
@@ -19,13 +26,39 @@
 - // overdraw 透支 v: Can I overdraw with the credit card?
 -
 - `pay off. 还清`
-- He managed to 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务
+- `pack back. 偿还`
+- // `managed to. 设法` // managed 完成 受监管的
+- // pay off 还清: He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务
+- // pay back 偿还: You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
 -
 - `debt 债务`
 - `debit 借记 借方`
+- // extends: debt receipt
 -
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
+- `deposit slip. 存款单`
+- // 1
+- // slip 便条 滑倒
+- // deposit slip. 存款单
+- // 【 fill out a deposit slip. 填写存款单 】
+- // 2
+- // -- fill out. 填写
+- // -- fill up. 装满
+- // -- fill out a form. 填写表格
+- // -- fill out a cheque. 开支票
+- // -- fill out a deposit slip. 填写存款单
+- // ---- 1.fill up.
+- // ---- 2.pull up. // pull over.
+- // ---- 3.speed up.
+- // 3
+- **【 withdraw v 取钱 】**
+- **【 withdrawal n 取钱 】**
+- // 4
+- // make a deposit. 存款
+- // make a withdraw. 取款
+- // You can get the cash, make a deposit, or get your balance. 您可以提取现金、存款或了解您的存款余额
+
 -
 - `credit card. 信用卡`
 - `debit card. 借记卡`
@@ -36,13 +69,16 @@
 - `bank teller. 银行出纳员`
 - `bank manager. 银行经理`
 -
-- `credit transfer. 银行转账`
-- `straight away. 立刻 马上`
-- Can you send me the money by credit transfer? 你能通过信用转账的方式把钱汇给我吗？
-- I will transfer the money to your account straight away. 我会马上把钱转到你的帐户上
+- `【 straight away. 立刻 马上 】`
+- I will transfer the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上
 -
 - `fill out. 填写`
+- `deposit slip. 存款单`
+- `fill out a deposit slip. 填写存款单`
 - // you must fill out this order form. 您必须填写订单表
+-
+- `finances 资产`
+- `manage finances. 管理财务`
 -
 - bank teller. 银行出纳员
 - Please register a new account = Please sign up a new account.
@@ -64,18 +100,23 @@
 -
 - `revenue 收入`
 - `income 收入`
+- // revenue = income
 - // My revenue mainly comes from investments. 我的收入主要来自投资
 -
 - `balance 余额 平衡`
+- `check your balance. 查看余额`
 - `insufficient balance. 余额不足` // insufficient 余额的
-- // I'd like to check the balance in my account please. 请查一下我的账户余额
+- // I'd like to 【 check the balance 】 in my account please. 请查一下我的账户余额
 - // They were due to pay the balance on delivery. 他们应该在货到时支付余额
 -
 - `loan 贷款`
 - `debt 债务` // debt debit
 - `a period of. 一段时间`
+- **【 apply for a loan. 申请贷款 】**
 - // You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
 - // The new loan takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元
+- // -- I got a loan from the bank so that I could go on a dream vacation. 我从银行得到了一笔贷款，这样我就可以去度假了
+- // -- go on a vacation. 度假
 -
 - `transaction 交易`
 - `fee 费用`
@@ -86,6 +127,7 @@
 - `interim 临时的`
 - // Please give me an interim receipt. 请给我一张临时收据
 - // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
+- // -- extends: receipt debt
 -
 - `stock 股票`
 - `stock market. 股票市场`
