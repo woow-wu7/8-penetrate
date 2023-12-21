@@ -2,12 +2,27 @@
 
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
+- **【 take a closer look at this word. 仔细看看这个词 】**
 -
 -
 -
 -
 - AAA.
 - phrase
+-
+- `bank term. 银行术语`
+- // You are very welcome to this English vocabulary lesson on/about banking terms. 非常欢迎您参加这堂关于银行术语的英语词汇课
+-
+- `overdraft 透支 n`
+- `overdraw 透支 v`
+- // overdraft 透支 n: I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
+- // overdraw 透支 v: Can I overdraw with the credit card?
+-
+- `pay off. 还清`
+- He managed to 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务
+-
+- `debt 债务`
+- `debit 借记 借方`
 -
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
@@ -20,6 +35,11 @@
 -
 - `bank teller. 银行出纳员`
 - `bank manager. 银行经理`
+-
+- `credit transfer. 银行转账`
+- `straight away. 立刻 马上`
+- Can you send me the money by credit transfer? 你能通过信用转账的方式把钱汇给我吗？
+- I will transfer the money to your account straight away. 我会马上把钱转到你的帐户上
 -
 - `fill out. 填写`
 - // you must fill out this order form. 您必须填写订单表
@@ -36,22 +56,26 @@
 - BBB.
 - noun
 -
-- `interest 兴趣 利息`
-- // savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
+- `interest 利息 兴趣`
+- `interest rate. 利率` // TIPS: Pay attention to pronunciation 'interest rates'
+- // earn interest. 赚利息
+- // 1. savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
+- // 2. interest rates came down today. 利率今天下降了
 -
 - `revenue 收入`
 - `income 收入`
 - // My revenue mainly comes from investments. 我的收入主要来自投资
 -
 - `balance 余额 平衡`
+- `insufficient balance. 余额不足` // insufficient 余额的
 - // I'd like to check the balance in my account please. 请查一下我的账户余额
 - // They were due to pay the balance on delivery. 他们应该在货到时支付余额
 -
 - `loan 贷款`
-- `debt 债务`
+- `debt 债务` // debt debit
 - `a period of. 一段时间`
 - // You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
-- // The new loan takes the total debt to 10000 dollars. 新贷款使总债务增加到 1 万美元
+- // The new loan takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元
 -
 - `transaction 交易`
 - `fee 费用`
@@ -63,6 +87,11 @@
 - // Please give me an interim receipt. 请给我一张临时收据
 - // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
 -
+- `stock 股票`
+- `stock market. 股票市场`
+- // Many people don't like to invest in stocks. 许多人不喜欢投资股票
+- // This country needs investment in education. 这个国家需要对教育进行投资
+-
 - **【 salary 薪水 】**
 - **【 paycheck 工资 】**
 -
@@ -70,7 +99,7 @@
 - uncertain 不确定
 
 ```
-存钱: save money / deposit money / put money in the bank.
+存钱: deposit money / save money / put money in the bank.
 取钱: withdraw money / take money out / ge money from the bank.
 // 1.deposit money: People can deposit money in the bank. 人们可以把钱存在银行
 // 2.withdraw money: You can withdraw money from your account at any time. 您可以随时从您的账户中取钱
