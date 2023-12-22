@@ -1818,7 +1818,7 @@ cup holder. 杯架
 -
 - `receipt 发票 收据`
 - `Keep the receipt as proof of purchase. 保存好收据作为购货凭证`
-- Please give me an interim receipt. 请给我一张临时收据
+- Please give me an 【 interim 】 receipt. 请给我一张临时收据 // interim 临时的
 - Can I have a receipt, please? 请给我开个收据，好吗？
 - // proof 证据
 -

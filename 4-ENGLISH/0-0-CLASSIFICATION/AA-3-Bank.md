@@ -37,7 +37,7 @@
 -
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
-- `deposit slip. 存款单`
+- `deposit slip. 存款单` // fill out a deposit slip.
 - // 1
 - // slip 便条 滑倒
 - // deposit slip. 存款单
@@ -69,13 +69,14 @@
 - `bank teller. 银行出纳员`
 - `bank manager. 银行经理`
 -
-- `【 straight away. 立刻 马上 】`
+- `【 straight away. 立刻 马上 】adv`
 - I will transfer the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上
+- // straight 直线的 直接的 直线
 -
 - `fill out. 填写`
 - `deposit slip. 存款单`
 - `fill out a deposit slip. 填写存款单`
-- // you must fill out this order form. 您必须填写订单表
+- // you must 【 fill out 】 this order form. 您必须填写订单表
 -
 - `finances 资产`
 - `manage finances. 管理财务`
