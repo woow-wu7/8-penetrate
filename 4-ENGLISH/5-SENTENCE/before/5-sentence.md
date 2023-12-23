@@ -732,7 +732,7 @@ bachelor 学士 单身汉
 学士 bachelor
 硕士 master
 博士 doctor
-// bachelor degree 学士学位
+// bachelor degree 学士学位 // bachelor's degree
 // bachelorette 未婚女子
 // bachelor 单身汉
 

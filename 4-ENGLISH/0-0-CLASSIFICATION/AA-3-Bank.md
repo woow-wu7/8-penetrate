@@ -77,6 +77,8 @@
 - `deposit slip. 存款单`
 - `fill out a deposit slip. 填写存款单`
 - // you must 【 fill out 】 this order form. 您必须填写订单表
+- // -- fill out.
+- // -- start out.
 -
 - `finances 资产`
 - `manage finances. 管理财务`
