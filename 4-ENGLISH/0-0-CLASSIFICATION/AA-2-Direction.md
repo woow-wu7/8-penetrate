@@ -376,6 +376,13 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 - `The sales performance of the 【 employee 】 grows steadily. 这个员工的销售业绩在持续增长`
 - `He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作`
 - `He was offered 【 employment 】 in the sales offices. 他获聘在销售部工作`
+- // employment
+- // unemployment
+- // employer
+- // employee
+- // -- interviewer
+- // -- interviewee
+- // -- interview
 
 ```
 Are there any volunteers to help clean up? 有没有志愿者帮忙清理 // volunteer 志愿者
