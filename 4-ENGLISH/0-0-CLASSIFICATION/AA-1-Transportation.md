@@ -1742,6 +1742,7 @@ cup holder. 杯架
 -
 -
 - ` You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来`
+- ` You can scan your QR code for the subway in Alipay to exit the the turnstile. 您可以在支付宝中扫描二维码进行地铁出闸`
 - ` I can take you to where you want to go. 我可以带你去你想去的地方`
 -
 -

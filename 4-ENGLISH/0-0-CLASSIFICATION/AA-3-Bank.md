@@ -2,11 +2,13 @@
 
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
+- **【 I appreciate your service to help me to keep healthy. 我感谢你的服务，帮助我保持健康 】**
 - **【 take a closer look at this word. 仔细看看这个词 】**
 -
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - AAA.
 - phrase
 -
@@ -48,9 +50,11 @@
 - // -- fill out a form. 填写表格
 - // -- fill out a cheque. 开支票
 - // -- fill out a deposit slip. 填写存款单
-- // ---- 1.fill up.
-- // ---- 2.pull up. // pull over.
-- // ---- 3.speed up.
+- // ---- fill up.
+- // ---- pull up. // pull over.
+- // ---- speed up.
+- // -------- fill out. 填写
+- // -------- start out. 开始
 - // 3
 - **【 withdraw v 取钱 】**
 - **【 withdrawal n 取钱 】**
@@ -92,6 +96,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - BBB.
 - noun
 -

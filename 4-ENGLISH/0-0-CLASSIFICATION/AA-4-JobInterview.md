@@ -3,7 +3,7 @@
 - `small talk. 闲聊`
 - `start out. 开始`
 - `handshake 握手`
-- //【 Most interviews will start out with a handshake and some small talk. 大多数面试都是从握手和闲聊开始的 】
+- //【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 - //【 We use small talk to find common interests. 我们用闲聊来寻找共同的兴 】
 - // 1
 - // start out. 开始
@@ -15,6 +15,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - AAA.
 - `Tell me a little bit about your self. 给我介绍一下你自己`
 - `Focus on education and work history. 关注教育和工作经历` // focus on. 关注 // TIPS: pay attention to pronunciation.
@@ -31,10 +32,10 @@
 - **【 I'm looking for new opportunities. 我正在寻找新的机会 】**
 -
 - 5. `【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】`
-- // organize 组织 v
 - // excellent 极好的 杰出的
-- // 【 interpersonal 人际关系的 】
 - // 【 interpersonal skill. 人际交往能力 】
+- // 【 interpersonal 人际关系的 】
+- // organize 组织 v
 -
 - 6.
 - `Do you have any questions about the position? 你对该职位有任何疑问吗？`
@@ -43,6 +44,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - BBB.
 - `focus on. 关注` // TIPS: pay attention to pronunciation.
 - // Focus on education and work history. 关注教育和工作经历
@@ -66,6 +68,17 @@
 - // start out. 开始
 - // fill out. 填写
 - // fill out a deposit slip.
+- // -- start out.
+- // -- fill out.
+- // -- fill up.
+- // -- pull up. // pull over.
+- // -- speed up.
+-
+- `full-time job. 全职工作`
+- `part-time job. 兼职工作`
+- `odd job. 零工`
+- // full-time employment.
+- // part-time employment.
 -
 - `apply for position. 申请职位`
 - `apply for a loan. 申请贷款`
@@ -78,6 +91,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - CCC.
 - interview 面试
 - `interviewer 面试官`
@@ -85,7 +99,13 @@
 - // employment 就业
 - // unemployment 失业
 - // `employer 雇主`
-- ## // `employee 雇员`
+- // `employee 雇员`
+-
+- `strength 优点 体力 力量`
+- `weakness 缺点 弱点 疲惫`
+- // What are your strengths and weaknesses?
+- // What's your biggest weakness?
+-
 - `silly 愚蠢的`
 - I regretted doing such a silly thing. 我后悔做了这么愚蠢的
 - It may seem silly. 这可能看起来很傻
