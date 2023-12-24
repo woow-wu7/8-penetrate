@@ -8,6 +8,9 @@
 - // 1
 - // start out. 开始
 - // fill out. 填写 // fill out a deposit slip.
+- // fill up.
+- // pull up. // pull over.
+- // speed up.
 - // 2
 - // Which of the following is a frequent topic in small talk? 以下哪个是闲聊中经常出现的话题？
 - // -- follow 跟随 v
@@ -24,12 +27,21 @@
 - 1. **【 I studied at South-Central Minzu University and graduated in 2013 with a bachelor's degree. 】**
 - // bachelor 学士 单身汉
 - // bachelor's degree. 学士学位
+- // 【 a bachelor's degree = a degree in bachelor. 】
 - **【 I have been working in this company for 10 years. 我在这家公司工作已经 10 年了 】**
 - 2. **【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】**
 - 3. **【 I have 6 years of experience in software and 1 year of experience in UI design. 】** // in software.
 - **【 after graduation. 毕业后 】**
 - 4. **【 I was hired at micro software. I have been there for the past 5 years. 我被微软软件公司录用了，我在那里待了 5 年 】**
 - **【 I'm looking for new opportunities. 我正在寻找新的机会 】**
+-
+- > > > I have been working at xxx for seven years as a front-end engineer.
+- > > > I have been studying hard, but I haven't seen any progress. 我一直在努力学习，但没有看到任何进步 // progress 进展 进步
+- > > > I have studied hard, but I haven't seen any progress. 我已经努力的学习了，但是没有看到任何进步
+- > > > I have been living here for seven years. 我已经在这里生活 7 年了
+- > > > I have lived here for seven years, and I have never heard of this place. 我在这里生活了 7 年，都没听说过这个地方
+- > > > hear of. 听说
+-
 -
 - 5. `【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】`
 - // excellent 极好的 杰出的
