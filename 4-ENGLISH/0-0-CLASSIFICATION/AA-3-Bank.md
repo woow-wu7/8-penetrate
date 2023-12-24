@@ -99,8 +99,9 @@
 - `interest rate. 利率` // TIPS: Pay attention to pronunciation 'interest rates'
 - // earn interest. 赚利息
 - // 1. savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
-- // 2. interest rates came down today. 利率今天下降了
+- // 2.【 interest rates 】 came down today. 利率今天下降了
 -
+- `avenue 大街`
 - `revenue 收入`
 - `income 收入`
 - // revenue = income
@@ -116,6 +117,7 @@
 - `debt 债务` // debt debit
 - `a period of. 一段时间`
 - **【 apply for a loan. 申请贷款 】**
+- **【 apply for position. 申请职位 】**
 - // You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
 - // The new loan takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元
 - // -- I got a loan from the bank so that I could go on a dream vacation. 我从银行得到了一笔贷款，这样我就可以去度假了
@@ -134,6 +136,7 @@
 -
 - `stock 股票`
 - `stock market. 股票市场`
+- `invest in. 投资到 投资于`
 - // Many people don't like to invest in stocks. 许多人不喜欢投资股票
 - // This country needs investment in education. 这个国家需要对教育进行投资
 -

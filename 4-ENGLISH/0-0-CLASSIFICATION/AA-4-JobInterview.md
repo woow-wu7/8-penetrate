@@ -30,6 +30,17 @@
 - 4. **【 I was hired at micro software. I have been there for the past 5 years. 我被微软软件公司录用了，我在那里待了 5 年 】**
 - **【 I'm looking for new opportunities. 我正在寻找新的机会 】**
 -
+- 5. `【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】`
+- // organize 组织 v
+- // excellent 极好的 杰出的
+- // 【 interpersonal 人际关系的 】
+- // 【 interpersonal skill. 人际交往能力 】
+-
+- 6.
+- `Do you have any questions about the position? 你对该职位有任何疑问吗？`
+- Yes, What are the responsibilities in this position? 这个职位的工作职责是什么？
+-
+-
 -
 -
 - BBB.
@@ -59,7 +70,12 @@
 - `apply for position. 申请职位`
 - `apply for a loan. 申请贷款`
 -
+- `personnel director. 人事主管`
+-
 - Build your muscle memory. 建立你的肌肉记忆
+- According to your resume. 根据你的简历
+- I have had over 10 years' experience. 我已经有 10 多年的经验了
+-
 -
 -
 - CCC.
@@ -69,14 +85,16 @@
 - // employment 就业
 - // unemployment 失业
 - // `employer 雇主`
-- // `employee 雇员`
--
+- ## // `employee 雇员`
 - `silly 愚蠢的`
 - I regretted doing such a silly thing. 我后悔做了这么愚蠢的
 - It may seem silly. 这可能看起来很傻
 -
 - `anxiety 焦虑`
 - 【 A new job can be a huge source of stress and anxiety. 一份新工作可能是压力和焦虑的巨大来源 】
+-
+- `supervise 监督 指导`
+- // How do you supervise this? 你怎样监督呢？
 
 ```
 strength 优势 强度
@@ -114,6 +132,7 @@ anxiety 焦虑
 inbox 收件箱
 a series of test. 一系列测试
 flexibility 灵活性
+supervise 监督 v
 ------- ------- ------- ------- ------- ------- -------
 
 
@@ -133,6 +152,7 @@ AA: So, to get started, 【  why don't you tell me a little bit about yourself? 
 Can you tell me how you heard about this position? 你能告诉我你是怎么听说这个职位的吗？
 What attracted you to our company? 是什么吸引了你来我们公司？
 What would you say is your greatest strength? 你说你最大的优点是什么？
+You're hired! Two words everyone loves to hear. 你被录用了！每个人都喜欢听两个词
 
 
 
@@ -165,4 +185,7 @@ interviewee 被面试者
 silly 愚蠢的
 // I regretted doing such a silly thing. 我后悔做了这么愚蠢的
 // It may seem silly. 这可能看起来很傻
+
+supervise 监督 指导
+// How do you supervise this? 你怎样监督呢？
 ```

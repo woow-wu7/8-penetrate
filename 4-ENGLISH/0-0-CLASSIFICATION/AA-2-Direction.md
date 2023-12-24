@@ -18,6 +18,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - AAA.
 - preposition 介词
 -
@@ -60,7 +61,7 @@
 - 7. nearest
 - where is the nearest station? 最近的车站在哪里？
 - The nearest station is 2 minutes away, When you go outside, keep walking for two blocks and The station will be on your left.
-- // quickest
+- 7. quickest
 - // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
 -
 - 8. go past.
@@ -104,6 +105,7 @@
 -
 -
 -
+- `-------- -------- -------- -------- -------- -------- --------
 - BBB.
 - noun
 -
@@ -127,6 +129,8 @@
 -
 - Avenue 大道
 - pave 铺路
+- // Revenue 收入
+- // Avenue 大街 大道
 - // The avenue had never been paved, and deep mud made it impassable in winter.
 -
 - `pretend 假装`
@@ -136,6 +140,27 @@
 - quickest 最快的
 - // `The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱`
 -
+- Indoor
+- 11. The art department is 【 on the 5th floor 】.
+- 11. Mr.Lee is on the 2nd floor.
+- 2. You can 【 take the elevator to 】 the 5th floor.
+- 2. You can 【 take the stairs to 】the 2nd floor.
+- 2. You can take the stairs to the 【 basement 】. 你可以走楼梯到地下室
+- 33. I can take you to the elevator.
+- 33. I can take you to where you want to go.
+- Outdoor
+  where is the nearest MRT station?
+  where the nearest station is?
+- 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away. 两分钟路程
+- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block 街区 块 // outside 外面 外面的
+- 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
+- 4. `Would you like me to repeat that again?`
+- // keep walking for 2 blocks.
+- // keep going for 2 minutes.
+- // go straight for 2 blocks.
+- // it's 2 minutes away. 两分钟路程
+-
+- blank 空白的 空格
 - specific place. 特定地点
 - hand gesture. 手势
 - printer paper. 打印纸
@@ -184,19 +209,6 @@
 - `go down this road. 沿着这条路走` = go this road down.
 - `I go down this road and make the first left.` 我沿着这条路走，在第一个路口左转
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
--
--
-- Outdoor
-  where is the nearest MRT station?
-  where the nearest station is?
-- 1. `The nearest MRT station is 2 minutes away` // nearest. // 2 minutes away. 两分钟路程
-- 2. `When you go outside, turn right. and keep walking for 2 blocks.` // block 街区 块 // outside 外面 外面的
-- 3. `when you reach the 7-11, turn left. The MRT station will be on your left.` // will be
-- 4. `Would you like me to repeat that again?`
-- // keep walking for 2 blocks.
-- // keep going for 2 minutes.
-- // go straight for 2 blocks.
-- // it's 2 minutes away. 两分钟路程
 -
 -
 - `familiar 熟悉的 常见的`
