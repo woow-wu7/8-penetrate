@@ -79,6 +79,15 @@
 - `odd job. 零工`
 - // full-time employment.
 - // part-time employment.
+- // The life is hard, so you'd better get an odd job. 生活很困难，你最好去找份零时工
+- // odd 奇数的
+- // even 偶数的 甚至
+- // 9 is an odd number, not an even number. 9 是奇数不是偶数
+-
+- **[ routine work. 日常工作 ]**
+- routine work area. 日常工作区
+- // What's your routine work? 你的日常工作是什么？
+- // How do you feel about your routine work? 你觉得你的日常工作怎么样？
 -
 - `apply for position. 申请职位`
 - `apply for a loan. 申请贷款`
@@ -168,7 +177,26 @@ AA: So, to get started, 【  why don't you tell me a little bit about yourself? 
 // 当我旅行的时候，你能帮我做什么？
 // when I travel by myself, what things can you help me?
 
+
 22
+AA: [1] Please tell me something about yourself.
+BB: I studied at South-Central Minzu University and graduated in 2013 【 with a bachelor's degree. 】
+BB: I studied at South-Central Minzu University and graduated in 2013 【 with a  degree in bachelor. 】
+BB: I have been working at SHOUQIANBA for 10 years as a front-end engineer.
+AA: [2] Why are you leaving your current job?
+BB: my current company is very large and it is difficult to do different tasks. we have 【 routine work 】that never changes.
+BB: I'm looking for a company where I can 【 contribute more and grow 】.
+AA: Why are you interested in our company?
+BB: I can see that your company has much future 【 growth potential 发展潜力】.
+BB: I also heard your company has 【 a good reward system 】. 良好的奖励制度
+BB: I want to work for a company with opportunities and take more responsibility for my job.
+AA:【 I am with you on that. 我同意你的观点 】
+// potential 潜力n 有潜力的adj
+// reward 奖励n
+// I am with you on that. 我同意你的观点
+
+
+33
 Can you tell me how you heard about this position? 你能告诉我你是怎么听说这个职位的吗？
 What attracted you to our company? 是什么吸引了你来我们公司？
 What would you say is your greatest strength? 你说你最大的优点是什么？
@@ -208,4 +236,13 @@ silly 愚蠢的
 
 supervise 监督 指导
 // How do you supervise this? 你怎样监督呢？
+
+routine work. 日常工作
+// routine work area. 日常工作区
+// What's your routine work? 你的日常工作是什么？
+// How do you feel about your routine work? 你觉得你的日常工作怎么样？
+
+contribute 贡献 捐赠
+immigrate 移民
+// Immigrants have contributed to British culture in many ways. 移民在许多方面都对英国文化有所贡献
 ```
