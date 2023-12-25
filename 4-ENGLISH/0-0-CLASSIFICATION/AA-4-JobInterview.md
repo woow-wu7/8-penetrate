@@ -20,14 +20,25 @@
 -
 - `-------- -------- -------- -------- -------- -------- --------
 - AAA.
-- `Tell me a little bit about your self. 给我介绍一下你自己`
+- `The first question is definitely tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
+- // definite 确定的 肯定的 清晰的
+- // definitely 肯定地
 - `Focus on education and work history. 关注教育和工作经历` // focus on. 关注 // TIPS: pay attention to pronunciation.
-- `Throughout the interview. 在整个面试过程中`
-- // `Throughout the interview. You can also let them know what areas you have a lot of experience.`
-- 1. **【 I studied at South-Central Minzu University and graduated in 2013 with a bachelor's degree. 】**
+- `Throughout the interview. You can also let them know what areas you have a lot of experience.`
+- // Throughout the interview. 在整个面试过程中
+- 1. **【 I studied at South-Central Minzu University and graduated in Communication Engineering in 2022 with a Bachelor's degree. 】**
+- 1. **【 I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013. 】**
+- // 1
+- // Bachelor's degree. 学士学位
+- // Master's degree. 硕士学位
+- // Doctor's degree. 博士学位
 - // bachelor 学士 单身汉
-- // bachelor's degree. 学士学位
+- // master 硕士 主人
+- // doctor 博士 医生
+- // 2
 - // 【 a bachelor's degree = a degree in bachelor. 】
+- // 3
+- // Communication Engineering. 通信工程
 - **【 I have been working in this company for 10 years. 我在这家公司工作已经 10 年了 】**
 - 2. **【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】**
 - 3. **【 I have 6 years of experience in software and 1 year of experience in UI design. 】** // in software.
@@ -65,6 +76,7 @@
 - // What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
 - // staff 员工
 - // stuff 东西
+- // a member of. 一员 成员
 -
 - `to be continued. 未完待续`
 - // I have some urgent business, 【 to be continued 】. 我有急事，未完待续
@@ -86,6 +98,10 @@
 - // -- pull up. // pull over.
 - // -- speed up.
 -
+- `at the reception desk. 在接待处`
+- `at the reception counter. 在接待处`
+- // reception 接待 接待处 反响
+-
 - `full-time job. 全职工作`
 - `part-time job. 兼职工作`
 - `odd job. 零工`
@@ -97,7 +113,7 @@
 - // 9 is an odd number, not an even number. 9 是奇数不是偶数
 -
 - **[ routine work. 日常工作 ]**
-- routine work area. 日常工作区
+- 【 routine work area. 日常工作区 】
 - // What's your routine work? 你的日常工作是什么？
 - // How do you feel about your routine work? 你觉得你的日常工作怎么样？
 -
@@ -174,6 +190,7 @@ inbox 收件箱
 a series of test. 一系列测试
 flexibility 灵活性
 supervise 监督 v
+snapshot 简要说明
 ------- ------- ------- ------- ------- ------- -------
 
 

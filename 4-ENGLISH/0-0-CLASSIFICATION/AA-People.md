@@ -33,7 +33,8 @@ postgraduate 研究生
 bachelor's degree 学士学位 // bachelor 学士 单身汉 // bachelorette 未婚女子
 master's degree. 硕士学位 // master 硕士 主人
 doctor's degree. 博士学位 // doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
-
+- 1. I studied at South-Central Minzu University and graduated in Communication Engineering in 2022 with a Bachelor's degree.
+- 2. I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013.
 
 --
 

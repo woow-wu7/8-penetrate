@@ -333,7 +333,7 @@ block 街区 块
 
 ------- ------- ------- ------- ------- ------- -------
 How to give directions in English. 如何用英语指路
-How to give directions outdoors in English.
+How to introduce yourself in English.
 
 
 1

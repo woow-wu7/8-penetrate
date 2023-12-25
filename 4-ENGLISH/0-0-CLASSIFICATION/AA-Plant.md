@@ -88,6 +88,7 @@ a tub of popcorn. 一桶爆米花
 a clove of garlic. 一瓣大蒜 // garlic 大蒜
 a bunch of flowers. 一束花
 a bundle of wheat. 一捆麦子
+a member of. 一员 成员
 --
 a handful of rice. 一把米
 a grain of rice. 一粒米
