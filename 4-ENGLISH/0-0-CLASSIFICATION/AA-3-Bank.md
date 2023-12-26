@@ -115,8 +115,13 @@
 - `balance 余额 平衡`
 - `check your balance. 查看余额`
 - `insufficient balance. 余额不足` // insufficient 余额的
+- 1
 - // I'd like to 【 check the balance 】 in my account please. 请查一下我的账户余额
 - // They were due to pay the balance on delivery. 他们应该在货到时支付余额
+- 2
+- // `have a hard time doing sth. 做某事有困难`
+- // I have a hard time balancing my work and life. 我很难平衡工作和生活
+- // balance 平衡 余额
 -
 - `loan 贷款`
 - `debt 债务` // debt debit
@@ -145,6 +150,10 @@
 - `invest in. 投资到 投资于`
 - // Many people don't like to invest in stocks. 许多人不喜欢投资股票
 - // This country needs investment in education. 这个国家需要对教育进行投资
+-
+- `calculator 计算器`
+- // calculate 计算 v
+- // Can I borrow your calculator? 我可以借用你的计算器吗？
 -
 - **【 salary 薪水 】**
 - **【 paycheck 工资 】**

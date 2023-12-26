@@ -24,7 +24,9 @@
 - `The first question is definitely tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
 - // definite 确定的 肯定的 清晰的
 - // definitely 肯定地
-- `Focus on education and work history. 关注教育和工作经历` // focus on. 关注 // TIPS: pay attention to pronunciation.
+- `【 Focus on 】 education and work history. 关注教育和工作经历`
+- // focus on. 关注
+- // TIPS: pay attention to pronunciation.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中
 - 1. **【 I studied at South-Central Minzu University and graduated in 2022 with a Bachelor's degree. 】**
@@ -52,7 +54,7 @@
 - 2. **【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】**
 - 3. **【 I have 6 years of experience in software and 1 year of experience in UI design. 】** // in software.
 - **【 after graduation. 毕业后 】**
-- 4. **【 I was hired at micro software. I have been there for the past 5 years. 我被微软软件公司录用了，我在那里待了 5 年 】**
+- 4. **【 I was hired at micro software. 【 I have been there for the past 5 years 】. 我被微软软件公司录用了，我在那里待了 5 年 】**
 - **【 I'm looking for new opportunities. 我正在寻找新的机会 】**
 - 5. -
 - `be in charge of. 负责`
@@ -116,7 +118,9 @@
 - // -- speed up.
 -
 - `have a hard time doing sth. 做某事有困难`
-- // I have a hard time balancing my work and life. 我很难平衡工作和生活
+- // I have a hard time balancing my work and life. 我很难平衡工作和生活 // balance 平衡
+- // check the balance. 查看余额 // balance 余额
+- // balance 平和 余额
 -
 - `at the reception desk. 在接待处`
 - `at the reception counter. 在接待处`
