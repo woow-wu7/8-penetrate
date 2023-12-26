@@ -304,11 +304,18 @@ immigrate 移民
 2. What's the biggest accomplishment from these jobs? 这些工作最大的成就是什么？
 // accomplish 完成 v
 // accomplishment 成就 完成 n
+// 【 major accomplishment. 重大成就 】
 
 3.
 What's your biggest weakness?
 What are your strengths and weaknesses?
-// I'm too much of a perfectionist. 我太完美主义了
 // -- I have a hard time balancing my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
+// I'm too much of a perfectionist. 我太完美主义了
+
+4. Why do you think you'll be a good candidate for this position?
+// candidate 候选人
+// prime 主要的
+// promotion 晋级
+// He is a prime candidate for promotion. 他是最有望获得晋升的人选
 ```
