@@ -29,6 +29,10 @@
 - // drip 滴水
 -
 -
+- colony 菌落 群体 殖民地
+- // This is a colony of bacteria. 这是一个细菌的菌落
+-
+-
 - `professional. 专家 职业的`
 - `health professional. 健康专家`
 - // **【 Adults take 1 vegetarian capsule daily with water, or as directed by your health professional. 】**

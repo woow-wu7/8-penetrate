@@ -27,6 +27,10 @@
 - `paw 爪子`
 - The Thorn Birds. 刺鸟 荆棘鸟
 - He removes a 【 thorn 】 from a lion's paw. 他从狮子脚掌上拔下一根刺
+-
+-
+- colony 菌落 群体 殖民地
+- // This is a colony of bacteria. 这是一个细菌的菌落
 
 # (一)
 

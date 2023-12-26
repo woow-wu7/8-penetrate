@@ -1328,7 +1328,7 @@ appreciate 欣赏 感激 v
 - `diesel 柴油`
 - `【 diesel gauge. 柴油计量器 】`// diesel 柴油 // gas nozzle. // diesel 和 nozzle 尾音相近
 - `【 rain gauge 雨量计 】`
-- `【 temperature gauge. 温度计 】= thermometer`
+- `【 temperature gauge. 温度计 】= thermometer` // ther + mo + meter
 - `【 pressure gauge. 压力表  】`
 - // either or. 或，不是...就是...
 - // neither nor. 两者都不

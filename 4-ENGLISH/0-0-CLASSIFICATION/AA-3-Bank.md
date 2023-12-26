@@ -129,6 +129,7 @@
 - // -- go on a vacation. 度假
 -
 - `transaction 交易`
+- `【 transaction successful. 交易成功 】`
 - `fee 费用`
 - `fare 车费 船费`
 - // The transaction is completed after paying the fee. 交易在支付费用之后就完成了
