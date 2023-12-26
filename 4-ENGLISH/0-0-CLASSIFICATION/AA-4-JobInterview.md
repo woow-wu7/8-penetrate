@@ -6,6 +6,7 @@
 - //【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 - //【 We use small talk to find common interests. 我们用闲聊来寻找共同的兴 】
 - // 1
+- // start off. 开始
 - // start out. 开始
 - // fill out. 填写 // fill out a deposit slip.
 - // fill up.
@@ -26,7 +27,7 @@
 - `Focus on education and work history. 关注教育和工作经历` // focus on. 关注 // TIPS: pay attention to pronunciation.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中
-- 1. **【 I studied at South-Central Minzu University and graduated in Communication Engineering in 2022 with a Bachelor's degree. 】**
+- 1. **【 I studied at South-Central Minzu University and graduated in 2022 with a Bachelor's degree. 】**
 - 1. **【 I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013. 】**
 - // 1
 - // Bachelor's degree. 学士学位
@@ -39,12 +40,25 @@
 - // 【 a bachelor's degree = a degree in bachelor. 】
 - // 3
 - // Communication Engineering. 通信工程
+- 2. -
+- **【 I started off my career as a front-end engineer with SHOUQIANBA. 我的职业生涯始于收钱吧，担任前端工程师 】**
+- **【 I was in that job for 2 years. Then I had the opportunity to be the manager for SHOUQIANBA company. 】**
+- **【 Then I was promoted to manager. 然后我被提升为经理 】**
+- // start off. 开始
+- // start out. 开始
+- // -- Most interviews will 【 start out 】 with a handshake and some 【 small talk 】.
+- // promote 促进 晋升
 - **【 I have been working in this company for 10 years. 我在这家公司工作已经 10 年了 】**
 - 2. **【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】**
 - 3. **【 I have 6 years of experience in software and 1 year of experience in UI design. 】** // in software.
 - **【 after graduation. 毕业后 】**
 - 4. **【 I was hired at micro software. I have been there for the past 5 years. 我被微软软件公司录用了，我在那里待了 5 年 】**
 - **【 I'm looking for new opportunities. 我正在寻找新的机会 】**
+- 5. -
+- `be in charge of. 负责`
+- `be responsible for. 负责`
+- `My duties include...`
+- I was in charge of developing the app. = I was responsible for developing the app.
 -
 - > > > I have been working at xxx for seven years as a front-end engineer.
 - > > > I have been studying hard, but I haven't seen any progress. 我一直在努力学习，但没有看到任何进步 // progress 进展 进步
@@ -63,6 +77,9 @@
 - 6.
 - `Do you have any questions about the position? 你对该职位有任何疑问吗？`
 - Yes, What are the responsibilities in this position? 这个职位的工作职责是什么？
+- `apply for position. 申请职位`
+- `apply for a loan. 申请贷款`
+-
 -
 -
 -
@@ -97,6 +114,9 @@
 - // -- fill up.
 - // -- pull up. // pull over.
 - // -- speed up.
+-
+- `have a hard time doing sth. 做某事有困难`
+- // I have a hard time balancing my work and life. 我很难平衡工作和生活
 -
 - `at the reception desk. 在接待处`
 - `at the reception counter. 在接待处`
@@ -274,4 +294,21 @@ routine work. 日常工作
 contribute 贡献 捐赠
 immigrate 移民
 // Immigrants have contributed to British culture in many ways. 移民在许多方面都对英国文化有所贡献
+```
+
+##### (1) Some questions that must be asked.
+
+```
+1. The first question is definitely tell me a little bit about yourself.
+
+2. What's the biggest accomplishment from these jobs? 这些工作最大的成就是什么？
+// accomplish 完成 v
+// accomplishment 成就 完成 n
+
+3.
+What's your biggest weakness?
+What are your strengths and weaknesses?
+// I'm too much of a perfectionist. 我太完美主义了
+// -- I have a hard time balancing my work and life. 我很难平衡工作和生活
+// --【 have a hard time doing sth. 做某事有困难 】
 ```
