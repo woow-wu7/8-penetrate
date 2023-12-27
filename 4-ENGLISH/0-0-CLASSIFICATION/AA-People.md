@@ -45,6 +45,7 @@ kindergarten 幼儿园
 
 bachelor 学士 单身汉
 // 因为刚大学毕业的人是-学士，大多也是-单身汉
+// bachelor's degree. 学士学位
 // He was a bachelor, so I don't have any grand child. 他还是个单身汉，所以我还没有孙子呢
 
 sophomore 大二学生

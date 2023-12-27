@@ -120,7 +120,7 @@
 - `have a hard time doing sth. 做某事有困难`
 - // I have a hard time balancing my work and life. 我很难平衡工作和生活 // balance 平衡
 - // check the balance. 查看余额 // balance 余额
-- // balance 平和 余额
+- // balance 平衡 余额
 -
 - `at the reception desk. 在接待处`
 - `at the reception counter. 在接待处`
