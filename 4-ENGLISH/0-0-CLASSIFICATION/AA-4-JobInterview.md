@@ -17,6 +17,8 @@
 - // -- follow 跟随 v
 - // -- following 下列的 adj
 -
+- `internship 实习`
+- Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习
 -
 -
 - `-------- -------- -------- -------- -------- -------- --------
