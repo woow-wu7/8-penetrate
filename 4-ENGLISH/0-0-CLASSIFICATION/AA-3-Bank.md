@@ -84,6 +84,13 @@
 - // -- fill out.
 - // -- start out.
 -
+- `fund 基金 资金`
+- `pension 养老金 退休金`
+- // **【 housing fund. 住房公积金 】**
+- //【 fund manager. 基金经理 】
+- // pension: She went to the post office to withdraw her pension. 她去邮局提取养老金
+- // The pension funds are administered by commercial banks. 养老基金由商业银行经管
+-
 - `finances 资产`
 - `manage finances. 管理财务`
 -
