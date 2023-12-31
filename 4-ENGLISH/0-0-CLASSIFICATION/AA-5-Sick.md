@@ -409,7 +409,8 @@ English vocabulary related to illness. 生病相关的英语词汇
 // relate 联系 把...联系起来
 // related 相关的adj 联系v时是relate的过去式
 // [ relate to. 与...相关 ]
-// -- Much of the crime in this area is related to drug abuse. 这一地区的许多犯罪都与吸毒有关
+// -- The doctor said my lung problems 【 relate to 】 my smoking habit. 医生说我肺部的问题和我吸烟习惯有关
+// -- Much of the crime in this area is 【 related to 】 drug abuse. 这一地区的许多犯罪都与吸毒有关
 // -- crime 犯罪
 // -- abuse 滥用 n/v
 

@@ -5,9 +5,12 @@
 ```
 atom 原子
 molecule 分子
+electron 电子
 hydrogen 氢气
 oxygen 氧气
+【 water molecule. 水分子 】
 // 【 atom bomb. 原子弹 】
+// 【 A molecule is made up of atoms. 分子由原子构成 】
 // 【 Two hydrogen atoms combine with one oxygen atom to form a water molecule. 两个氢原子和一个氧原子结合形成一个水分子 】
 ```
 

@@ -17,3 +17,6 @@
 -
 - `extremely 及其`
 - // She found it extremely difficult to get a job. 她发觉找工作极其困难
+-
+- `certainly 当然 无疑 确定`
+- // Certainly, the early years are crucial to a child's development. 毫无疑问，幼年对儿童的成长至关重要
