@@ -67,7 +67,7 @@
 - `deposit slip. 存款单` // fill out a deposit slip.
 - // deposit $100 = make a deposit $100.
 - // withdraw $100 = make a withdraw 【 of 】 $100.
-- // **【 deposit $100 【 in 】 my checking account. 在我的账户里存 100 美元 】** // v
+- // **【 deposit $100/100 dollars 【 in 】 my checking account. 在我的账户里存 100 美元 】** // v
 - // **【 make a deposit $100 【 in 】 my checking account. 在我的账户里存 100 美元】** // n
 - // **【 withdraw $100 【 from 】 my checking account. 从我的支票帐户中提取 100 美元 】** // v
 - // **【 make a withdraw 【 of 】 $100 【 from 】 my checking account. 从我的支票帐户中提取 100 美元 】** // n
