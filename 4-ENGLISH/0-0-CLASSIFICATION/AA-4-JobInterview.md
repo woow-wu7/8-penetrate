@@ -118,6 +118,10 @@
 - // -- fill up.
 - // -- pull up. // pull over.
 - // -- speed up.
+- // **【 speak up. 大声说 】**
+- // **【 pull up. 】**
+- // **【 speed up. 】**
+- // **【 fill up. 】**
 -
 - `have a hard time doing sth. 做某事有困难`
 - // I have a hard time balancing my work and life. 我很难平衡工作和生活 // balance 平衡

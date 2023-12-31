@@ -1786,6 +1786,10 @@ cup holder. 杯架
 - `You'll know that you need to pull up to a conveniently located gas station and fill it up. `
 - `你会知道你需要把车停在一个位置方便的加油站加油`
 - // located 位于 adj
+- // **【 speak up. 大声说 】**
+- // **【 pull up. 】**
+- // **【 speed up. 】**
+- // **【 fill up. 】**
 -
 -
 - 3
