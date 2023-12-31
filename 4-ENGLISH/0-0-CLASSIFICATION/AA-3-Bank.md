@@ -21,9 +21,34 @@
 - // -- class 课程 ------------- I was late for a class. 我上课迟到了
 - // -- lesson 课程 ------------ 一节课 // our first lesson in French.
 - // -- course 课程 过程 -------- 系列 // She's doing a one-year journalism course.
+- // 3
+- // bank 银行 岸
+- // branch 树枝 分支 分行
+- // 【 river bank. 河岸 】
+-
+- `branch 分支 树枝 分行`
+- `bank 银行 岸`
+- // 【 river bank. 河岸 】
+-
+- `bank teller. 银行出纳员` // teller 银行出纳
+- `bank manager. 银行经理`
+- // customer 顾客
+- // client 客户，责任比顾客要大得多
+-
+- `cash 现金`
+- `bill 钞票 账单`
+- // 【 break the bill. 破钱 】
+- // 【 I'd like to have $200 【 in 】 50S. 我想要 200 美元 50 美元的钞票 】
+- // 问: What kind of bills do you like?
+- // 答: I'd like to have 4 50S. 我想要 4 张 50 块一张的钞票
+-
+- PIN = personal identification number
+- // enter your PIN number.
 -
 - `overdraft 透支 n`
 - `overdraw 透支 v`
+- // withdraw
+- // overdraw
 - // overdraft 透支 n: I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
 - // overdraw 透支 v: Can I overdraw with the credit card?
 -
@@ -34,12 +59,19 @@
 - // pay back 偿还: You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
 -
 - `debt 债务`
-- `debit 借记 借方`
+- `debit 借记 借方` // debit card. 借记卡
 - // extends: debt receipt
 -
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
 - `deposit slip. 存款单` // fill out a deposit slip.
+- // deposit $100 = make a deposit $100.
+- // withdraw $100 = make a withdraw 【 of 】 $100.
+- // **【 deposit $100 【 in 】 my checking account. 在我的账户里存 100 美元 】** // v
+- // **【 make a deposit $100 【 in 】 my checking account. 在我的账户里存 100 美元】** // n
+- // **【 withdraw $100 【 from 】 my checking account. 从我的支票帐户中提取 100 美元 】** // v
+- // **【 make a withdraw 【 of 】 $100 【 from 】 my checking account. 从我的支票帐户中提取 100 美元 】** // n
+- // You can get the cash, make a deposit, or get your balance. 您可以提取现金、存款或了解您的存款余额
 - // 1
 - // slip 便条 滑倒
 - // deposit slip. 存款单
@@ -55,23 +87,19 @@
 - // ---- speed up.
 - // -------- fill out. 填写
 - // -------- start out. 开始
-- // 3
-- **【 withdraw v 取钱 】**
-- **【 withdrawal n 取钱 】**
-- // 4
-- // make a deposit. 存款
-- // make a withdraw. 取款
-- // You can get the cash, make a deposit, or get your balance. 您可以提取现金、存款或了解您的存款余额
-
 -
 - `credit card. 信用卡`
 - `debit card. 借记卡`
 -
 - `checking account. 支票账户`
 - `savings account. 储蓄帐户`
+- // open a bank account.
+- // close a bank account.
 -
 - `bank teller. 银行出纳员`
 - `bank manager. 银行经理`
+- // customer 顾客
+- // client 客户，责任比顾客要大得多
 -
 - `【 straight away. 立刻 马上 】adv`
 - I will transfer the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上
@@ -122,6 +150,7 @@
 - `balance 余额 平衡`
 - `check your balance. 查看余额`
 - `insufficient balance. 余额不足` // insufficient 余额的
+- // The balance of your account is $0. 你帐户的余额是 0 美元
 - 1
 - // I'd like to 【 check the balance 】 in my account please. 请查一下我的账户余额
 - // They were due to pay the balance on delivery. 他们应该在货到时支付余额
