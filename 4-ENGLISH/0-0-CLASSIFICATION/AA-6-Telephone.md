@@ -1,6 +1,37 @@
 # Telephone / Phone
 
 - How to talk on the phone in English both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
+- Today I'm going to teach you how to use English to make a call, and leave a message. 今天我要教你如何用英语打电话
+-
+-
+- **打电话**
+- 1. May/Can I speak to Marry?
+- 2. Do you know where is she right now?
+- 3. Can you have him give me a callback, please? 你能让他回电话给我吗？
+- **接电话**
+- 1. this is Lucy. // ------------------ 不能说 I'm Lucy
+- 1. this is Lucy speaking.
+- 1. this is he/she.
+- 2222222. who's that? 你是谁 // -------- 不能说 who are you
+- 2222222. who's that speaking?
+- 2222222. May I ask who is calling? 请问是谁打来的？
+- 2222222. May I have a name, please? 请告诉我名字好吗？
+- 3. wait a second
+- 3. hold on please
+- 3. hold on a second
+- 3. hold on for a moment. Marry this is a call for you.
+- 3. Please hold, I'll put you through. 请稍等，我帮你接通
+- 4444444. sorry, Marry is not here right now. Can I take a message for you?
+- 4444444. sorry, Marry is not here right now. Would you like to leave a message?
+- 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
+- 4444444. sorry, I'm afraid he is out at the moment. 对不起，恐怕他现在不在
+- 4444444. sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了
+- 5. Thank you for your calling. 谢谢你的来电
+- 6666666. Could you please 【 slow down? 】可以请你说慢一点吗？
+- 6666666. Could you please 【 speak up? 】 你能大点声说吗?
+- **其他**
+- The line is busy.
+-
 -
 - Thank you for calling me. Please select from the following 5 options. 谢谢你给我打电话，请从以下 5 个选项中选择
 - for cell phone say or press one.
@@ -15,7 +46,7 @@
 - Hello this is the ocean clinic how can I help you? 你好，我是海洋诊所，有什么可以帮你的吗？
 - 问: `Can/May I talk to Nancy please? I'm calling to make an appointment with Dr.Nancy. 我打电话是想和菲尔医生约个时间`
 - 答: `speaking / This is she.`
-- 答: `wait a second. ... Sorry Nancy is not here now. Would you like to leave a message.`
+- 答: `wait a second. ... Sorry Nancy is not here now. Would you like to leave a message?`
 - 我: `No thanks I'll call her back later. When will the best time to call her? Do you have a pen handy?`
 - 我: `Can I leave a message?`
 - 1. Could you please 【 slow down? 】可以请你说慢一点吗？
