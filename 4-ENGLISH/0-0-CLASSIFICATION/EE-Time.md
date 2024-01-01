@@ -110,6 +110,7 @@ on sundays. 在每个周日
 周末 weekend
 工作日 weekday
 fortnight 两星期
+a whole day. 一整天 //  He locked himself in the room for a whole day.
 throughout the day. 一整天
 every single day. 每一天
 // 1
