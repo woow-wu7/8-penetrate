@@ -1,12 +1,19 @@
-# Telephone / Phone
+# Telephone / Phone / 【 How to talk on the phone in English. 如何用英语打电话 】
 
-- How to talk on the phone in English both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
-- Today I'm going to teach you how to use English to make a call, and leave a message. 今天我要教你如何用英语打电话
+- `How to talk on the phone in English. 如何用英语打电话`
+- `make a call. 打电话`
+- `I'm on the phone. 我在打电话`
+- // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
+-
+- 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
+- Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
 -
 -
 - **打电话**
-- 1. May/Can I speak to Marry?
-- 2. Do you know where is she right now?
+- 1. May/Can/Could I 【 speak to 】 Marry, please?
+- 1. Hi, I'm looking for Mr.Lee.
+- 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
+- 2222222. Do you know where is she right now?
 - 3. Can you have him give me a callback, please? 你能让他回电话给我吗？
 - **接电话**
 - 1. this is Lucy. // ------------------ 不能说 I'm Lucy
@@ -21,7 +28,8 @@
 - 3. hold on a second
 - 3. hold on for a moment. Marry this is a call for you.
 - 3. Please hold, I'll put you through. 请稍等，我帮你接通
-- 4444444. sorry, Marry is not here right now. Can I take a message for you?
+- 4444444. sorry, she is not in. 对不起，她不在
+- 4444444. sorry, she is not here right now. Can I take a message for you?
 - 4444444. sorry, Marry is not here right now. Would you like to leave a message?
 - 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
 - 4444444. sorry, I'm afraid he is out at the moment. 对不起，恐怕他现在不在
@@ -29,8 +37,14 @@
 - 5. Thank you for your calling. 谢谢你的来电
 - 6666666. Could you please 【 slow down? 】可以请你说慢一点吗？
 - 6666666. Could you please 【 speak up? 】 你能大点声说吗?
+- 7. Ok, Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接
+- 7. I'm hanging up. 我要挂电话了
 - **其他**
+- `Put it on speaker. 打开免提`
+- `I'm hanging up. 我要挂电话了`
+- `Extension number. 分机号码` // Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】
 - The line is busy.
+-
 -
 -
 - Thank you for calling me. Please select from the following 5 options. 谢谢你给我打电话，请从以下 5 个选项中选择
@@ -84,4 +98,9 @@ pardon 请再说一遍 --- 比较礼貌
 // 2.【 I beg your pardon. 请你再说一遍 】
 // 3. pardon me. 原谅我
 // 4. Would you like me to repeat that again?
+
+
+
+I'm on the phone. 我在打电话
+// Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
 ```

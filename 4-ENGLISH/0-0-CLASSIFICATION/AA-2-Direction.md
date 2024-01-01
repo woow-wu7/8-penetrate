@@ -2,7 +2,9 @@
 
 - ask for directions. 问路
 - ask him for directions. 向他问路
+- How to give directions in English. 如何用英语指路
 - How do you give directions in English? 你如何用英语指路？
+-
 - // in the direction of. 朝...方向
 - // Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
 -
