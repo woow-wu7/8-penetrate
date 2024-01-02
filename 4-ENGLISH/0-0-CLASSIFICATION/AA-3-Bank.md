@@ -42,6 +42,10 @@
 - // 问: What kind of bills do you like?
 - // 答: I'd like to have 4 50S. 我想要 4 张 50 块一张的钞票
 -
+- `refund 退款 v/n`
+- // fund 基金 资助
+- // `We will refund your money to you in fall. 我们将全额退款给您`
+-
 - PIN = personal identification number
 - // enter your PIN number.
 -

@@ -7,6 +7,8 @@
 - // 3. I'm calling to see How they are doing.
 - // 4. I just called to see How they are doing.
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
+- // 6. When will you call me back? 你什么时候回我电话?
+- // 6. Can you have him give me a callback, please? 你能让他回电话给我吗？
 - `leave a message. 留言`
 -
 - `hang up. 挂电话`
