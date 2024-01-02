@@ -24,10 +24,12 @@
 - // 3
 - // bank 银行 岸
 - // branch 树枝 分支 分行
+- // band 乐队
 - // 【 river bank. 河岸 】
 -
 - `branch 分支 树枝 分行`
 - `bank 银行 岸`
+- `band 乐队`
 - // 【 river bank. 河岸 】
 -
 - `bank teller. 银行出纳员` // teller 银行出纳
@@ -44,7 +46,7 @@
 -
 - `refund 退款 v/n`
 - // fund 基金 资助
-- // `We will refund your money to you in fall. 我们将全额退款给您`
+- // `We will refund your money to you in full. 我们将全额退款给您`
 -
 - PIN = personal identification number
 - // enter your PIN number.
