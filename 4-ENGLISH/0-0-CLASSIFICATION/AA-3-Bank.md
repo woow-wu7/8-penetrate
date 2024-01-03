@@ -16,6 +16,11 @@
 - // You are very welcome to this English vocabulary 【 lesson 】 【 on/about 】 banking terms. 非常欢迎您参加这堂关于银行术语的英语词汇课
 - // 1
 - // -- term 术语 学期
+- // -- financial 金融的 adj
+- // -- statement 声明 报告 报表 // 1. joint statement. 联合声明 // 2. financial statement. 财务报表 // 3. issue a statement. 发表声明
+- // -- `banking terms. 银行术语`
+- // -- `financial terms. 金融术语`
+- // -- `【 financial statement. 财务报表 】`
 - // --【 I'm not happy with his work this term. 我对他这学期的表现不满 】
 - // 2
 - // -- class 课程 ------------- I was late for a class. 我上课迟到了
