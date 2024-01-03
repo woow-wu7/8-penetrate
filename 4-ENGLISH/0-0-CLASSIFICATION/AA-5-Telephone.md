@@ -6,13 +6,15 @@
 -
 - `make a call. 打电话`
 - `make a video call. 打视频电话`
+- `Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】`
 - // 1. May I ask who is calling?
 - // 2. Thank you for your calling.
 - // 3. I'm calling to see How they are doing.
 - // 4. I just called to see How they are doing.
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
-- // 6. When will you call me back? 你什么时候回我电话?
-- // 6. Can you have him give me a callback, please? 你能让他回电话给我吗？
+- // 66. When will you call me back? 你什么时候回我电话? // call back.
+- // 66. To hang up and call him back later. 挂断电话，稍后再给他打电话
+- // 66. Can you have him give me a callback, please? 你能让他回电话给我吗？
 - // 7. My call is coming. 我的电话来了
 - `leave a message. 留言`
 -
@@ -24,6 +26,7 @@
 -
 - `hang up. 挂电话`
 - // I'm hanging up.
+- // to hang up and call him back later. 挂断电话，稍后再给他打电话
 -
 - Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
 - 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
@@ -36,9 +39,10 @@
 - 2222222. Do you know where is she right now?
 - 3. `Can you have him give me a callback, please? 你能让他回电话给我吗？`
 - 3. `When will you call me back? 你什么时候回我电话?`
+- 3. `To hang up and call him back later. 挂断电话，稍后再给他打电话`
 - **接电话**
-- answer the call. 接电话
-- Press the green button to answer the call. 按绿色按钮接听电话
+- `answer the call. 接电话`
+- `Press the green button to answer the call. 按绿色按钮接听电话`
 - 1. this is Lucy. // ------------------ 不能说 I'm Lucy
 - 1. this is Lucy speaking.
 - 1. this is he/she.
@@ -121,6 +125,7 @@
 mobile phone. 手机
 cell phone. 手机
 smartphone. 智能手机
+telephone 电话
 -
 keypad 小键盘 按键
 star key. 星号键
@@ -155,6 +160,43 @@ My phone is frozen. 我的手机死机了
 
 My phone signal is not good. 我的电话信号不好
 My phone reception is not good. 我的电话信号不好
+// signal 信号
+// reception 反应 接待 n
+
+Please put your phone in silent mode. 请把手机调到静音模式
+// silent 沉默的 安静的
+
+Airplane mode. 飞行模式
+// Before your flight 【 takes off 】, you need to set your phone to 【 airplane mode 】.
+// -- take off. 起飞 脱掉
+// -- 起飞: take off your scarf = take your scarf off. 把围巾拿下来
+// -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞
 
 To charge your phone. 给你的手机充电
+I need to get my phone charger.
+We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
+-
+To hang up and call him back later. 挂断电话，稍后再给他打电话
+
+
+------- ------- ------- ------- ------- ------- -------
+
+
+charger 充电器
+power bank. 充电宝
+-
+use cable. 充电线
+charging cable. 充电线
+// cable 电缆
+// wire 电线 导线
+// We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以把充电线插到充电器上
+// He is putting the plug into the socket. 他正把插头插入插座
+// They need to plug the laptops into a power outlet. 我们需要将笔记本电脑插入插座
+// Insert the plug into the socket. 把插头插到插座上
+-
+socket 插座
+plug 插头
+plug in. 插入
+-
+microphone 麦克风
 ```

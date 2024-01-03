@@ -74,6 +74,10 @@
 - `what's the opposite of clean?`
 - `The opposite of clean is dirty/messy. = clean is the opposite of messy/dirty.`
 - // take off your scarf = take your scarf off. 把围巾拿下来
+- //【 take off. 起飞 脱掉 】
+- // take off. 脱掉: Take your scarf off. = take off your scarf. 把围巾拿下来
+- // take off. 起飞: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午 9 点起飞
+- What's the opposite of clean? the opposite of clean is dirty/messy. dirty/messy is the opposite of clean.
 - **Where can I get a bus in the opposite direction? 我在哪里可以坐相反方向的公共汽车**
 - 1. **clean**:【 We should clean up litter to keep the outdoors clean. 我们应该收拾一下垃圾，以保持室外干净整洁 】
 - 3. **messy**: You wear an apron when you cook. so you don't get yourself too messy.

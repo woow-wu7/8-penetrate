@@ -26,11 +26,14 @@
 - // branch 树枝 分支 分行
 - // band 乐队
 - // 【 river bank. 河岸 】
+- // 【 power bank. 充电宝 】
 -
 - `branch 分支 树枝 分行`
 - `bank 银行 岸`
 - `band 乐队`
-- // 【 river bank. 河岸 】
+- // **【 river bank. 河岸 】**
+- // **【 power bank. 充电宝 】**
+-
 -
 - `bank teller. 银行出纳员` // teller 银行出纳
 - `bank manager. 银行经理`
