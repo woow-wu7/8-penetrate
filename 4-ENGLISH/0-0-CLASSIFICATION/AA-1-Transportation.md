@@ -1268,6 +1268,7 @@ appreciate 欣赏 感激 v
 - `gas pump. 加油机 加油泵`
 - Put the gas nozzle back into the gas pump. 把加油枪放回加油泵
 - Put the gas nozzle into the gas tank. 把加油枪放进油箱
+- // **【 put the plug into the socket. = Insert the plug into the socket. 】**
 - `I can open the trunk by pressing this button on the key. 我按下钥匙上的这个按钮就可以打开后备箱`
 - // cap 盖子
 - // cab = taxi. 出租车

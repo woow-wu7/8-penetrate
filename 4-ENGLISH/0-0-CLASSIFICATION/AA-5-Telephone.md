@@ -25,6 +25,7 @@
 - `The line is busy. 电话占线`
 -
 - `hang up. 挂电话`
+- // **【 I have to hang up, can I call you back later? 】**
 - // I'm hanging up.
 - // to hang up and call him back later. 挂断电话，稍后再给他打电话
 -
@@ -150,6 +151,23 @@ I'm on the phone. 我在打电话
 
 ##### (1) Mobile Phone / Cell Phone
 
+- `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
+- `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
+- `Put the plug into the socket. = Insert the plug into the socket.` // Put the gas nozzle into the gas tank.
+-
+-
+- `power strip. 插线板`
+- `socket 插座`
+- `wall outlet. 壁装插座`
+- **【 To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip. 】**
+-
+-
+- `volume 体积 音量`
+- // volume key. 音量键 // volume button
+- // star key. 星号键
+- // pound key. 井号键
+- // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
+
 ```
 My phone is out of battery. 我手机没电了
 My phone is out of power.
@@ -163,8 +181,19 @@ My phone reception is not good. 我的电话信号不好
 // signal 信号
 // reception 反应 接待 n
 
-Please put your phone in silent mode. 请把手机调到静音模式
-// silent 沉默的 安静的
+punch 打卡
+punch in. 打卡
+// 1. Did you punch in? 你上班打卡了吗？
+// 2. Punch in my PIN number. 输入我的密码
+
+【 silent mode. 静音模式 】
+【 vibration mode. 振动模式 】
+【 airplane mode. 飞行模式 】
+vibrate 振动
+// Set your phone to vibrate. 将手机设置为振动
+
+silent 沉默的 安静的
+// Please put your phone in 【 silent mode 】. 请把手机调到【 静音模式 】
 
 Airplane mode. 飞行模式
 // Before your flight 【 takes off 】, you need to set your phone to 【 airplane mode 】.
@@ -175,13 +204,26 @@ Airplane mode. 飞行模式
 To charge your phone. 给你的手机充电
 I need to get my phone charger.
 We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
+To charge the phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
+-
+Don't stick your fingers into the holes. 别把手指伸进洞里
 -
 To hang up and call him back later. 挂断电话，稍后再给他打电话
+-
+Punch in my PIN. 输入我的密码
 
 
 ------- ------- ------- ------- ------- ------- -------
 
 
+keypad 小键盘 按键
+star key. 星号键
+pound key. #号键
+volume key. 音量键
+// pound 英镑
+// volume 体积 音量
+-
+charge 要价n 给...充电v
 charger 充电器
 power bank. 充电宝
 -
@@ -195,8 +237,20 @@ charging cable. 充电线
 // Insert the plug into the socket. 把插头插到插座上
 -
 socket 插座
-plug 插头
+power strip. 插线板
+plug 插头n 接电源v
 plug in. 插入
+// strip 条 带
+// power strip: This is an extension to the wall outlet, and it let's you plug in three, or more electrical devices.
+// To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
+-
+power strip. 插线板
+socket 插座
+wall outlet. 壁装插座
 -
 microphone 麦克风
+-
+【 silent mode. 静音模式 】
+【 vibration mode. 震动模式 】
+【 airplane mode. 飞行模式 】
 ```
