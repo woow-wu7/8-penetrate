@@ -27,7 +27,8 @@
 - // definite 确定的 肯定的 清晰的
 - // definitely 肯定地
 - `【 Focus on 】 education and work history. 关注教育和工作经历`
-- // focus on. 关注
+- // focus on. 关注 注意
+- // Focus on the tone of my voice. 注意我说话的语气
 - // TIPS: pay attention to pronunciation.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中
