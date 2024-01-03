@@ -172,6 +172,7 @@
 - `weakness 缺点 弱点 疲惫`
 - // What are your strengths and weaknesses?
 - // What's your biggest weakness?
+- // -- I have a hard time balancing my work and life. 我很难平衡工作和生活
 -
 - `silly 愚蠢的`
 - I regretted doing such a silly thing. 我后悔做了这么愚蠢的

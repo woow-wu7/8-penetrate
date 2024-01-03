@@ -1,5 +1,7 @@
 # Animals
 
+- `sense of smell. 嗅觉`
+
 ##### (一) Continent 大陆 州
 
 ```

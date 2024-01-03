@@ -1,7 +1,11 @@
 # Telephone / Phone / 【 make a call. 打电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
+- // I'm on the phone. 我在打电话
+- // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
+-
 - `make a call. 打电话`
+- `make a video call. 打视频电话`
 - // 1. May I ask who is calling?
 - // 2. Thank you for your calling.
 - // 3. I'm calling to see How they are doing.
@@ -9,17 +13,20 @@
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
 - // 6. When will you call me back? 你什么时候回我电话?
 - // 6. Can you have him give me a callback, please? 你能让他回电话给我吗？
+- // 7. My call is coming. 我的电话来了
 - `leave a message. 留言`
--
-- `hang up. 挂电话`
-- // I'm hanging up.
 -
 - `I'm on the phone. 我在打电话`
 - // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
 - // How to talk on the phone in English.
 -
-- 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
+- `The line is busy. 电话占线`
+-
+- `hang up. 挂电话`
+- // I'm hanging up.
+-
 - Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
+- 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
 -
 -
 - **打电话**
@@ -28,7 +35,10 @@
 - 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
 - 2222222. Do you know where is she right now?
 - 3. `Can you have him give me a callback, please? 你能让他回电话给我吗？`
+- 3. `When will you call me back? 你什么时候回我电话?`
 - **接电话**
+- answer the call. 接电话
+- Press the green button to answer the call. 按绿色按钮接听电话
 - 1. this is Lucy. // ------------------ 不能说 I'm Lucy
 - 1. this is Lucy speaking.
 - 1. this is he/she.
@@ -38,6 +48,7 @@
 - 2222222. 【 May I ask who is calling? 请问是谁打来的？】 // Thank you for your calling. // make a call.
 - 2222222. May I have a name, please? 请告诉我名字好吗？
 - 2222222. Is this Mary? 请问你是 Mary 吗？
+- 3. one moment please. 请稍等
 - 3. wait a second
 - 3. hold on please
 - 3. hold on a second
@@ -50,7 +61,7 @@
 - 4444444. sorry, Marry is not here right now. Would you like to leave a message?
 - 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
 - 4444444. sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 // at the moment. 此刻
-- 4444444. sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了
+- 4444444. `sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了`
 - 5. 【 Thank you for your calling. 谢谢你的来电 】
 - 6666666. Could you please 【 slow down? 】可以请你说慢一点吗？
 - 6666666. Could you please 【 speak up? 】 你能大点声说吗?
@@ -90,7 +101,9 @@
 - 我: `Can I leave a message?`
 - 1. Could you please 【 slow down? 】可以请你说慢一点吗？
 - 2. Could you please 【 speak up? 】 你能大点声说吗?
-- 3. The reception is not good/very poor. 信号不好
+- 4444444. The reception is not good/very poor. 信号不好
+- 4444444. My phone signal is not good. 我手机信号不好
+- 4444444. My phone reception is not good. 我的电话信号不好
 - // **【 speak up. 大声说 】**
 - // **【 pull up. 】**
 - // **【 speed up. 】**
@@ -128,4 +141,20 @@ pardon 请再说一遍 --- 比较礼貌
 
 I'm on the phone. 我在打电话
 // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
+```
+
+##### (1) Mobile Phone / Cell Phone
+
+```
+My phone is out of battery. 我手机没电了
+My phone is out of power.
+
+My phone is frozen. 我的手机死机了
+// freeze 冻结 v/n
+// frozen 冻结的adj / 动词时是 freeze 的过去式
+
+My phone signal is not good. 我的电话信号不好
+My phone reception is not good. 我的电话信号不好
+
+To charge your phone. 给你的手机充电
 ```
