@@ -32,6 +32,7 @@
 - // band 乐队
 - // 【 river bank. 河岸 】
 - // 【 power bank. 充电宝 】
+- // 【 power strip. 插线板 】
 -
 - `branch 分支 树枝 分行`
 - `bank 银行 岸`

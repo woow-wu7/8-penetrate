@@ -536,6 +536,7 @@ no smoking. 禁止吸烟
 no cycling. 禁止非机动车
 no littering. 禁止乱扔杂物
 no leaning. 禁止依靠
+【 no spitting. 禁止吐痰 】
 -
 【 ticket office. 售票处 】
 【 route map. 交通图 】

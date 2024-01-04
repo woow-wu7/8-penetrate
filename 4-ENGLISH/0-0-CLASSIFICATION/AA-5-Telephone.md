@@ -161,18 +161,22 @@ I'm on the phone. 我在打电话
 -
 - `charging cable. 充电线`
 - `charger 充电器`
-- `power strip. 插线板`
+- `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `socket 插座`
 - `wall outlet. 壁装插座`
-- `power bank. 充电宝` // 1. `power scrip. 插线板` // 2. `river bank. 河岸`
+- `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
+- `【 charge 充电 要价 】`
+- `【 recharge 充电 】`
 - phone case. 手机壳
 - screen protector. 手机保护膜
 - `headphone 耳机`
-- `headphone jack. 耳机插孔`
+- `headphone jack. 耳机插孔` // 1. `jack 插孔`
 - speaker 扬声器
-- mute button. 静音键
+- receiver 听筒
+- microphone. 麦克风 // 1. headphone // 2. headphone jack.
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
+- mute button. 静音键
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
 -
