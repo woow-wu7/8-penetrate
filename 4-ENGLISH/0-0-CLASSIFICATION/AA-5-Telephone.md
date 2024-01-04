@@ -1,4 +1,4 @@
-# Telephone / Phone / 【 make a call. 打电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
+# (一)【 make a call. 打电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
 - // I'm on the phone. 我在打电话
@@ -151,11 +151,12 @@ I'm on the phone. 我在打电话
 // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
 ```
 
-##### (1) Mobile Phone / Cell Phone
+# (二) Mobile Phone / Cell Phone
 
 - `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
 - `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
 - `Put the plug into the socket. = Insert the plug into the socket.` // Put the gas nozzle into the gas tank.
+-
 -
 -
 - `charging cable. 充电线`
@@ -163,32 +164,82 @@ I'm on the phone. 我在打电话
 - `power strip. 插线板`
 - `socket 插座`
 - `wall outlet. 壁装插座`
-- **【 To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip. 】**
+- `power bank. 充电宝` // 1. `power scrip. 插线板` // 2. `river bank. 河岸`
+- phone case. 手机壳
+- screen protector. 手机保护膜
+- `headphone 耳机`
+- `headphone jack. 耳机插孔`
+- speaker 扬声器
+- mute button. 静音键
+- `front-facing camera. 前置摄像头`
+- `rear camera. 后置摄像头`
+- dial tone. 拨号音
+- usb cable. 数据线 usb 线
+-
+-
+-
+- 1
+- **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the charger and phone, then plug the charger into the 【 power strip 】. 】**
+- 2
+- **【 I plug the charging cable into the charger, and I plug 【 the other end 】 into my phone. 】**
+- 3
+- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode.
+- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode.
+- **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
+- **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
+- 4
+- **【 full battery. 满电量 】** // ------------------ 100%
+- **【 low battery. 低电量 】** // ------------------- 10%
+- **【 My phone is dying. 我的手机要没电了 】** // ----- 2%
+- **【 My phone is dead. 我手机没电了 】** // ---------- 0%
+- **【 My phone is out of battery. 我手机没电了 】** --- 0%
+- **【 My phone is out of power. 我手机没电了 】** ----- 0%
+-
 -
 -
 - `volume 体积 音量`
+- `turn up. 开大`
+- `turn down. 关小`
+- `a little bit. 一点点 一点`
+- // a little bit 一点点: The first question is definitely tell me 【 a little bit 】 about yourself.
+- // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
+- // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
+- // volume 音量: `Please turn the volume down. 请把音量调低些`
 - // volume key = volume button. 音量键
 - // star key. 星号键
 - // pound key. 井号键
-- // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
+-
 -
 - `vibrate 振动`
-- // Set your phone to vibrate. 将手机设置为振动
+- // put your phone on vibrate mode. 把你的手机调到-振动模式
+- // Set your phone to vibrate mode. 将手机设置为振动
 -
 - `silent 沉默的 安静的 adj`
-- // Set your phone to silent. 将手机设置为静音
+- `mute button. 静音键`
+- // mute 沉默的 adj
+- // Set your phone to silent mode. 将手机设置为静音
+- // Put your phone on silent mode. 将手机置于振动模式
 -
 - `dial 拨号 拨`
-- // dial tone. 拨号音
+- // 【 dial tone. 拨号音 】
 - // I can't get a 【 dial tone 】 on this phone. 我在这部手机傻姑娘听不到拨号音
+-
+- `front-facing camera. 前置摄像头`
+- `rear camera. 后置摄像头`
+- // rear view mirror. 车后视镜
+- // rear view camera. 车后视镜
+- // `rear 后面的 adj`
 
 ```
 My phone is out of battery. 我手机没电了
 My phone is out of power.
+My phone is dead.
 
 My phone is frozen. 我的手机死机了
 // freeze 冻结 v/n
 // frozen 冻结的adj / 动词时是 freeze 的过去式
+
+My phone is stuck. 我的手机卡住了
 
 My phone signal is not good. 我的电话信号不好
 My phone reception is not good. 我的电话信号不好

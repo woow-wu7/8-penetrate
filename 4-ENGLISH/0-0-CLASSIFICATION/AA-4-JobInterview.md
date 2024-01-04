@@ -24,8 +24,9 @@
 - `-------- -------- -------- -------- -------- -------- --------
 - AAA.
 - `The first question is definitely tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
-- // definite 确定的 肯定的 清晰的
 - // definitely 肯定地
+- // definite 确定的 肯定的 清晰的
+- // a little bit. 一点 一点点
 - `【 Focus on 】 education and work history. 关注教育和工作经历`
 - // focus on. 关注 注意
 - // Focus on the tone of my voice. 注意我说话的语气

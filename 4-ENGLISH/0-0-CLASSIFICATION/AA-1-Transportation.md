@@ -1283,6 +1283,8 @@ appreciate 欣赏 感激 v
 -
 - `rear view mirror. 后视镜`
 - `side mirror. 侧视镜`
+- // font-facing camera. 前置摄像头
+- // rear camera. 后置摄像头
 - `moon roof. 天窗`
 - `changing lanes. 变道`
 - Side mirror to help you see beside you and behind you when you're turning and changing lanes.
