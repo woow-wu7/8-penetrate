@@ -468,6 +468,8 @@ brake 刹车 n/v
 【 emergency call. 紧急呼叫 】
 【 emergency braking. 紧急制动刹车 】
 【 emergency ventilation. 紧急通风 】
+【 emergency supplies. 紧急物资 】
+【 emergency brake. 紧急制动 】
 urgent = emergency
 supply 供应 供给 补给品 日常用品 // supplies
 【 urgent supplies. 紧急物资 】

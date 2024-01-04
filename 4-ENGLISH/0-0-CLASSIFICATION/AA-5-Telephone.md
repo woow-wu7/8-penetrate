@@ -158,6 +158,8 @@ I'm on the phone. 我在打电话
 - `Put the plug into the socket. = Insert the plug into the socket.` // Put the gas nozzle into the gas tank.
 -
 -
+- `charging cable. 充电线`
+- `charger 充电器`
 - `power strip. 插线板`
 - `socket 插座`
 - `wall outlet. 壁装插座`
@@ -165,10 +167,16 @@ I'm on the phone. 我在打电话
 -
 -
 - `volume 体积 音量`
-- // volume key. 音量键 // volume button
+- // volume key = volume button. 音量键
 - // star key. 星号键
 - // pound key. 井号键
 - // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
+-
+- `vibrate 振动`
+- // Set your phone to vibrate. 将手机设置为振动
+-
+- `silent 沉默的 安静的 adj`
+- // Set your phone to silent. 将手机设置为静音
 
 ```
 My phone is out of battery. 我手机没电了
@@ -255,4 +263,6 @@ microphone 麦克风
 【 silent mode. 静音模式 】
 【 vibration mode. 震动模式 】
 【 airplane mode. 飞行模式 】
+-
+distant control. 遥控
 ```
