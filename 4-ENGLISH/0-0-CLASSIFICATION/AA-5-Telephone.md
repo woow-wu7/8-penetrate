@@ -13,8 +13,9 @@
 - // 4. I just called to see How they are doing.
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
 - // 66. When will you call me back? 你什么时候回我电话? // call back.
-- // 66. To hang up and call him back later. 挂断电话，稍后再给他打电话
-- // 66. Can you have him give me a callback, please? 你能让他回电话给我吗？
+- // 66. 【 I have to hang up, can I call you back later? 】
+- // 66. 【 To hang up and call him back later. 挂断电话，稍后再给他打电话 】
+- // 66. 【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】
 - // 7. My call is coming. 我的电话来了
 - `leave a message. 留言`
 -
@@ -26,8 +27,9 @@
 -
 - `hang up. 挂电话`
 - // **【 I have to hang up, can I call you back later? 】**
+- // 【 to hang up and call him back later. 挂断电话，稍后再给他打电话 】
 - // I'm hanging up.
-- // to hang up and call him back later. 挂断电话，稍后再给他打电话
+-
 -
 - Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
 - 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈

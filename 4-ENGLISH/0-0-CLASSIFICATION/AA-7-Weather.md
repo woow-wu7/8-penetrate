@@ -1,5 +1,10 @@
 # Weather
 
+- `hazy 朦胧的 雾霾的 adj`
+- haze 薄雾 霾 n
+- smog 烟雾 雾霾
+- //【 Today is hazy day = It's a hazy day today.今天是雾霾天 】
+
 ```
 四季 Season
 winter
