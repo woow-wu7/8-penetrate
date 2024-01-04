@@ -177,6 +177,10 @@ I'm on the phone. 我在打电话
 -
 - `silent 沉默的 安静的 adj`
 - // Set your phone to silent. 将手机设置为静音
+-
+- `dial 拨号 拨`
+- // dial tone. 拨号音
+- // I can't get a 【 dial tone 】 on this phone. 我在这部手机傻姑娘听不到拨号音
 
 ```
 My phone is out of battery. 我手机没电了
@@ -265,4 +269,7 @@ microphone 麦克风
 【 airplane mode. 飞行模式 】
 -
 distant control. 遥控
+-
+dial 拨 拨号
+dial tone. 拨号音
 ```
