@@ -4,6 +4,9 @@
 - // I'm on the phone. 我在打电话
 - // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
 -
+- **【 make a call. 打电话 】**
+- **【 answer a call. 接电话 】**
+-
 - `make a call. 打电话`
 - `make a video call. 打视频电话`
 - `Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】`
@@ -22,6 +25,7 @@
 - `I'm on the phone. 我在打电话`
 - // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
 - // How to talk on the phone in English.
+-
 -
 - `The line is busy. 电话占线`
 -
@@ -83,6 +87,10 @@
 - `Put it on speaker. 打开免提`
 - `Put sb on the phone. 让...来接电话`
 - // Could you please put Mary on the phone? 你能让玛丽接电话吗?
+- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode.
+- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode.
+- **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
+- **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
 -
 - `I'm hanging up. 我要挂电话了`
 - `Extension number. 分机号码` // Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】
@@ -159,7 +167,7 @@ I'm on the phone. 我在打电话
 -
 -
 -
-- `charging cable. 充电线`
+- `charging cable. 充电线` // 1. `charging port. 充电口`
 - `charger 充电器`
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `socket 插座`
@@ -167,6 +175,7 @@ I'm on the phone. 我在打电话
 - `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
 - `【 charge 充电 要价 】`
 - `【 recharge 充电 】`
+- `charging port. 充电口` // 1. `charging cable. 充电线`
 - phone case. 手机壳
 - screen protector. 手机保护膜
 - `headphone 耳机`
@@ -179,6 +188,10 @@ I'm on the phone. 我在打电话
 - mute button. 静音键
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
+- `landscape mode. 横屏` // landscape 景观 地形 地貌
+- `portrait mode. 竖屏` // portrait 肖像 n 竖向的 adj
+- `touch screen. 触摸屏`
+- operating system. 操作系统 OS
 -
 -
 -
@@ -191,6 +204,7 @@ I'm on the phone. 我在打电话
 - **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode.
 - **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
 - **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
+- `【 Put it on speaker. 打开免提 】`
 - 4
 - **【 full battery. 满电量 】** // ------------------ 100%
 - **【 low battery. 低电量 】** // ------------------- 10%
@@ -198,6 +212,11 @@ I'm on the phone. 我在打电话
 - **【 My phone is dead. 我手机没电了 】** // ---------- 0%
 - **【 My phone is out of battery. 我手机没电了 】** --- 0%
 - **【 My phone is out of power. 我手机没电了 】** ----- 0%
+- 5
+- **【 four bars of signal. 四格信号 】**
+- **【 full signal. 满信号 】**
+- **【 no signal. 没信号 】**
+- **【 My phone signal is not good. 我的电话信号不好 】**
 -
 -
 -
