@@ -185,11 +185,11 @@ I'm on the phone. 我在打电话
 - microphone. 麦克风 // 1. headphone // 2. headphone jack.
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
-- mute button. 静音键
+- mute button/silent button. 静音键
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
 - `landscape mode. 横屏` // landscape 景观 地形 地貌
-- `portrait mode. 竖屏` // portrait 肖像 n 竖向的 adj
+- `portrait mode. 竖屏` // 1.charging port.充电口 // 2. charging cable. 充电线 // 3.portrait 肖像 n 竖向的 adj
 - `touch screen. 触摸屏`
 - operating system. 操作系统 OS
 -
@@ -346,4 +346,26 @@ distant control. 遥控
 -
 dial 拨 拨号
 dial tone. 拨号音
+```
+
+# (3) An article about mobile phone
+
+```
+This is my iphone. 【 Let me introduce some parts of it. 】
+This large black area is called screen.
+You'll notice that I have 【 a front-facing camera and a rear-facing camera. 】
+-
+My phone has some buttons.
+This is power button. 【【【 I just press it to wake my phone or lock it. 】】】
+These two are volume buttons. Turn the volume up and down.
+And we're not going to miss this switch. It's called ring switch or 【 silent switch 】. // silent switch. 静音开关
+Switch it on to silent mode.
+Switch it off to ring answer mode.
+-
+There's a port on the bottom where I can charge my phone. // charging port. 充电口
+It's also a 【 headphone jack. 】
+-
+Now we are looking at the 【 speaker and the receiver 】.
+-
+Now my phone is locked. 【 I swipe up to unlock it with my Face ID or my password. 】// swipe up. 向上滑动
 ```
