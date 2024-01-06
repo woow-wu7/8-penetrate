@@ -169,13 +169,15 @@ I'm on the phone. 我在打电话
 -
 - `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩`
 - `charging pile. 充电桩` // pile 一堆 地桩
+- `charging port. 充电口`
 - `charger 充电器`
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `socket 插座`
 - `wall outlet. 壁装插座`
 - `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
-- `【 charge 充电 要价 】`
-- `【 recharge 充电 】`
+- **【 charge 充电 要价 】**
+- **【 recharge 充电 】**
+- **【 discharge 放电 释放 排出 】**
 - `charging port. 充电口` // 1. `charging cable. 充电线`
 - phone case. 手机壳
 - screen protector. 手机保护膜
