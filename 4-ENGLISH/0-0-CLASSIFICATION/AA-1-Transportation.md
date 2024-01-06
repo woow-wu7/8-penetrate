@@ -1255,7 +1255,7 @@ appreciate 欣赏 感激 v
 - 首先，当我在车里的时候，我想启动它，我把钥匙插进点火开关。
 -
 -
-- `stick shift. 换挡杆` // stick 棍 棒 粘住
+- `stick shift. 换挡杆` // stick 棍 棒 粘住 // 【 selfie stick. 自拍杆 】
 - `shift gears. 换挡` // first/second gear. 一档二档
 - `brake pedal. 刹车踏板`
 - **【 shift into drive. 换到驱动档 】**

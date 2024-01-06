@@ -196,7 +196,7 @@
 - // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
 - // -- extends: receipt debt
 -
-- `stock 股票`
+- `stock 股票` // stuck 困住
 - `stock market. 股票市场`
 - `invest in. 投资到 投资于`
 - // Many people don't like to invest in stocks. 许多人不喜欢投资股票
