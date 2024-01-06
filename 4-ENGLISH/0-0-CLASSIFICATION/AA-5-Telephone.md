@@ -1,4 +1,4 @@
-# (一)【 make a call. 打电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
+# (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
 - // I'm on the phone. 我在打电话
@@ -167,7 +167,8 @@ I'm on the phone. 我在打电话
 -
 -
 -
-- `charging cable. 充电线` // 1. `charging port. 充电口`
+- `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩`
+- `charging pile. 充电桩` // pile 一堆 地桩
 - `charger 充电器`
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `socket 插座`
@@ -227,7 +228,7 @@ I'm on the phone. 我在打电话
 - // a little bit 一点点: The first question is definitely tell me 【 a little bit 】 about yourself.
 - // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
 - // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
-- // volume 音量: `Please turn the volume down. 请把音量调低些`
+- // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
 - // volume key = volume button. 音量键
 - // star key. 星号键
 - // pound key. 井号键
@@ -289,6 +290,10 @@ Airplane mode. 飞行模式
 // -- 起飞: take off your scarf = take your scarf off. 把围巾拿下来
 // -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞
 
+pile 地桩 一堆
+【 charging pile. 充电桩 】
+// pile 一堆: The clothes were piled high on the chair. 衣服在椅子上堆得高高的
+
 To charge your phone. 给你的手机充电
 I need to get my phone charger.
 We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
@@ -348,7 +353,7 @@ dial 拨 拨号
 dial tone. 拨号音
 ```
 
-# (3) An article about mobile phone
+# (三) An article about mobile phone
 
 ```
 This is my iphone. 【 Let me introduce some parts of it. 】
