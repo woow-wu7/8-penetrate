@@ -1,13 +1,15 @@
 # classification 分类 // category 分类
 
-##### (1) Atom
+##### (1) Atom / Gas
 
 ```
 atom 原子
 molecule 分子
 electron 电子
-hydrogen 氢气
-oxygen 氧气
+hydrogen 氢气 ---- H
+oxygen 氧气 ------ O
+nitrogen 氮 ------ N
+carbon dioxide. 二氧化碳
 【 water molecule. 水分子 】
 // 【 atom bomb. 原子弹 】
 // 【 A molecule is made up of atoms. 分子由原子构成 】
