@@ -331,6 +331,7 @@ What are your strengths and weaknesses?
 // candidate 候选人
 // prime 主要的
 // promotion 晋级
-// - candy 糖果
-// - candidate 候选人
+// -- candidate 候选人
+// -- candy 糖果
+// -- sugar 糖
 ```
