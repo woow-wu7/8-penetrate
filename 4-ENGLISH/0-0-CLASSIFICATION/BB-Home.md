@@ -378,7 +378,12 @@ Steam is coming from the pot. Turn off the stove. 水蒸气正在往锅外冒，
 // -- stream 河流 流
 // ---- gas 气体
 // ---- liquid 液体
-// ---- solid 固体
+// ---- fluid 液体 // liquid vs fluid
+// ---- solid 固体 坚固的 实心的
+// 1 solid
+// - solid 坚固的: A column can stand up and help a building to be 【 solid 】 and not fall. 柱子可以立起来，使建筑物坚固而不倒塌
+// - solid 实心的: border-left: 1px solid red;
+// - solid 固体: Water has three forms: gas, solid and liquid. 水有三种形态分别是气体固体液体
 
 (4)
 balcony

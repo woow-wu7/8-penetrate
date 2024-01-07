@@ -326,9 +326,9 @@ What are your strengths and weaknesses?
 // --【 have a hard time doing sth. 做某事有困难 】
 // I'm too much of a perfectionist. 我太完美主义了
 
-4. Why do you think you'll be a good 【 candidate 】 for this position?
+4. Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // candidate 候选人
 // prime 主要的
 // promotion 晋级
-// He is a prime candidate for promotion. 他是最有望获得晋升的人选
+//【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
 ```
