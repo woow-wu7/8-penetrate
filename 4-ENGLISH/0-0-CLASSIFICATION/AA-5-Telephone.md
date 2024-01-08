@@ -178,7 +178,7 @@ I'm on the phone. 我在打电话
 - **【 charge 充电 要价 】**
 - **【 recharge 充电 】**
 - **【 discharge 放电 释放 排出 】**
-- `charging port. 充电口` // 1. `charging cable. 充电线`
+- `charging port. 充电口` // 1. `charging cable. 充电线` 2. `charging pile. 充电桩`
 - phone case. 手机壳
 - screen protector. 手机保护膜
 - `headphone 耳机`
@@ -195,6 +195,8 @@ I'm on the phone. 我在打电话
 - `portrait mode. 竖屏` // 1.charging port.充电口 // 2. charging cable. 充电线 // 3.portrait 肖像 n 竖向的 adj
 - `touch screen. 触摸屏`
 - operating system. 操作系统 OS
+- `bluetooth 蓝牙`
+- `telephone booth. 电话亭` // booth tooth teeth bluetooth
 -
 -
 -
