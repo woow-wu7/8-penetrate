@@ -1,5 +1,13 @@
 # Make a sentence / Sentence-making
 
+- 1
+- `Assign an initial value of 1 to your variable.`
+- // variable 变量
+- // constant 常量
+- //【 environment variable. 环境变量 】
+- // **【 constant 常量: A quantity whose value remains unchanged is called a constant. 】**
+- // **【 variable 变量: A variable is used to store information. 】**
+
 ```
 0. 【 Assign an initial value of 1 to your variable. 赋一个初始值 1 给你的数组 】// Assign a value to an array.
 1. My study efficiency is very low today. 我今天的学习效率很低 // efficiency 效率 n
