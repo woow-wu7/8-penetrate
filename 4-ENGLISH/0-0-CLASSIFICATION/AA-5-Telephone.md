@@ -197,6 +197,8 @@ I'm on the phone. 我在打电话
 - operating system. 操作系统 OS
 - `bluetooth 蓝牙`
 - `telephone booth. 电话亭` // booth tooth teeth bluetooth
+- **【 current 电流 】** // current 当前的 adj 电流 n
+- **【 voltage 电压 】**
 -
 -
 -

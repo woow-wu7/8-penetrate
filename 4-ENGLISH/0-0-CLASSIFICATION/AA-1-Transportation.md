@@ -246,11 +246,12 @@
 -
 - `electrical 电的`
 - 【 electrical power. 电源 】
-- // electric 电的 adj
 - // electrical 电的 adj 也是点的的意思
-- // electrician 电工 n
-- // --【 electric circuit. 电路 】
-- // --【 short circuit. 短路 】
+- // -- **【 electrician 电工 n 】**
+- // -- **【 electric 电的 adj 】** // electric
+- // -- **【 electric circuit. 电路 】** // electric circuit. 电路 // circuit 电路
+- // -- **【 electric eel. 电鳗 】** // electric eel
+- // -- **【 short circuit. 短路 】**
 - // -- The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
 -
 -
