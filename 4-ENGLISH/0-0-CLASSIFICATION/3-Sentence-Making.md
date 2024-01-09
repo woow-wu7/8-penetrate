@@ -9,6 +9,12 @@
 - // **【 variable 变量: A variable is used to store information. 】**
 
 ```
+0. I use Vue and React to develop projects.
+1. The interview result was very bad.
+2. I have developed many mini-programs, applications and websites, et cetera.
+3. I have implemented a UI component library using Vue, Vite and Typescript.
+
+------- ------- ------- ------- ------- ------- -------
 0. 【 Assign an initial value of 1 to your variable. 赋一个初始值 1 给你的数组 】// Assign a value to an array.
 1. My study efficiency is very low today. 我今天的学习效率很低 // efficiency 效率 n
 2. There are many trees 【 on the both sides of 】 the road. 马路两边有很多树
