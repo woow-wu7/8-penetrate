@@ -9,6 +9,12 @@
 - // **【 variable 变量: A variable is used to store information. 】**
 
 ```
+0. Do you guys like it? 你们喜欢吗？
+1. Vehicles should drive on the right side. 车辆应该靠右行驶
+3. The police are investigating drunk driving. 警察正在查酒驾
+
+
+------- ------- ------- ------- ------- ------- -------
 0. I use Vue and React to develop projects.
 1. The interview result was very bad.
 2. I have developed many mini-programs, applications and websites, et cetera.

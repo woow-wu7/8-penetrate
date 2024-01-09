@@ -2,6 +2,12 @@
 
 ##### (1) Summarize 总结 v
 
+- 2024-01-10 UPDATE
+- drunk driving. 酒驾 // drink -> drunk
+- courtesy seat. 爱心专座
+- maglev train. 磁悬浮列车
+-
+-
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
 -

@@ -6,9 +6,10 @@
 atom 原子
 molecule 分子
 electron 电子
+nitrogen 氮 ------ N
 hydrogen 氢气 ---- H
 oxygen 氧气 ------ O
-nitrogen 氮 ------ N
+ozone 臭氧
 carbon dioxide. 二氧化碳
 【 water molecule. 水分子 】
 // 【 atom bomb. 原子弹 】
