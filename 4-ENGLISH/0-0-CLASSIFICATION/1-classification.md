@@ -16,7 +16,7 @@ carbon dioxide. 二氧化碳
 // 【 Two hydrogen atoms combine with one oxygen atom to form a water molecule. 两个氢原子和一个氧原子结合形成一个水分子 】
 ```
 
-##### (2) There meals 三餐
+##### (2) There meals
 
 ```
 breakfast 早餐
@@ -27,4 +27,29 @@ dinner 晚餐 // 正式的晚餐
 
 box lunch. 盒饭
 meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
+```
+
+##### (3) Metal
+
+```
+gold medal. 金牌
+silver medal. 银牌
+bronze medal. 铜牌
+
+steel 钢
+iron 铁
+silicon 硅
+
+gold 金
+silver 银
+copper 铜 铜币
+bronze 青铜
+brass 黄铜
+aluminum 铝
+
+calcium 钙
+zinc 锌
+tin 锡
+// You need to supplement calcium, iron, zinc, tin and multiple vitamins. 你需要补充钙铁锌锡和多种维生素
+// -- supplement 补充
 ```

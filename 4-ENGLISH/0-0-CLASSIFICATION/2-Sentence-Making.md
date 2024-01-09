@@ -13,6 +13,9 @@
 1. The interview result was very bad.
 2. I have developed many mini-programs, applications and websites, et cetera.
 3. I have implemented a UI component library using Vue, Vite and Typescript.
+4. You need to supplement calcium, iron, zinc and tin. 你需要补充钙铁锌锡
+5. You need to supplement calcium, iron, zinc, tin and multiple vitamins. 你需要补充钙铁锌锡和多种维生素
+
 
 ------- ------- ------- ------- ------- ------- -------
 0. 【 Assign an initial value of 1 to your variable. 赋一个初始值 1 给你的数组 】// Assign a value to an array.
