@@ -11,8 +11,10 @@
 ```
 0. Do you guys like it? 你们喜欢吗？
 1. Vehicles should drive on the right side. 车辆应该靠右行驶
-3. The police are investigating drunk driving. 警察正在查酒驾
-
+2. The police are investigating drunk driving. 警察正在查酒驾
+3. Both frameworks have their own advantages and disadvantages. 这两个框架都有各自的优缺点
+// 3. There are many trees 【 on the both sides of 】 the road. 马路两边有很多树
+4. The main function of this application is to help drivers to reduce the probability of accidents when they are driving.
 
 ------- ------- ------- ------- ------- ------- -------
 0. I use Vue and React to develop projects.
@@ -27,6 +29,7 @@
 0. 【 Assign an initial value of 1 to your variable. 赋一个初始值 1 给你的数组 】// Assign a value to an array.
 1. My study efficiency is very low today. 我今天的学习效率很低 // efficiency 效率 n
 2. There are many trees 【 on the both sides of 】 the road. 马路两边有很多树
+// 2. Both frameworks have their own advantages and disadvantages. 这两个框架都有各自的优缺点
 3. You can imagine there is a 【 martial arts novel 】. 你可以想象这里有一本武侠小说
 4. I feel dizzy, I want to go out for a walk. 我想出去散散步
 -
