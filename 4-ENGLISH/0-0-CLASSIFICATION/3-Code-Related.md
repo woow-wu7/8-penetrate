@@ -1,16 +1,19 @@
 # Code Related English
 
 - 1
-- `Assign an initial value of 1 to your variable.`
-- // variable 变量
-- // constant 常量
+- `variable 变量`
+- `constant 常量`
 - //【 environment variable. 环境变量 】
+- // quantity 数量 量
+- `Assign an initial value of 1 to your variable.`
 - // **【 constant 常量: A quantity whose value remains unchanged is called a constant. 】**
 - // **【 variable 变量: A variable is used to store information. 】**
 -
 - 2
 - `develop 发展 开发`
 - `project 项目`
+- `advantage 优点 优势`
+- `disadvantage 缺点`
 - // **【 I use Vue and React to develop projects. 】**
 - // **【 Both frameworks have their own advantages and disadvantages. 】**
 -
@@ -22,7 +25,7 @@
 - 4
 - `implement 实现`
 - `library 图书馆 程序库`
-- // **【 I implemented a UI component library using Vue3, Vite, and Ts. 】**
+- // **【 I implemented a UI component library using Vite, Webpack, Typescript and Vue3. 】**
 - // Uncaught Error: 🍍: Store "counter" is built using the setup syntax and does not implement $reset().
 - // Type vs Interface -> Type cannot be extended and implemented but Interface can.
 -
@@ -38,6 +41,23 @@
 - // probable 可能的 adj
 - // probably 可能 adv
 - // **【 The main function of this app is to help drivers to reduce the probability of accidents when they are driving. 】**
+-
+- 7
+- `technical support. 技术支持`
+- `such as. 例如`
+- // technical 技术的 adj
+- // **【 After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer. 】**
+-
+- 8
+- `track 追踪v 轨道n`
+- `tracking 追踪n`
+- // **【 The project I mainly want to introduce is called 《 Full Link Tracking System 》.】**
+-
+- 9
+- `compose 组成`
+- `be composed of. 由...组成`
+- // TypeError('Middleware must be composed of functions!')
+- // **【 This project is composed of two parts, both of which have three layers. 】**
 
 ```
 1
@@ -69,8 +89,30 @@ disadvantage 缺点
 probability 概率 n
 reduce 减少
 这个app的主要功能是帮助司机去减少车辆行驶工程中发生事故的概率
-// √ -> The main function of this application is to help drivers to reduce the probability of accidents when they are driving.
+// The main function of this application is to help drivers to reduce the probability of accidents when they are driving.
 // X -> The application's mainly function is that help the driver to decrease the 风险 when they are driving.
 - // probable 可能的 adj
 - // probably 可能 adv
+
+6
+technical support. 技术支持 // technical 技术的 adj
+such as. 例如
+毕业之后我做过很多工作，比如：技术支持，运营，UI设计，前端
+// √ -> After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer.
+// X -> After graduation, I have did many works, like technical support, ui design, front-end engineer.
+
+7
+track 追踪v 轨道n
+tracking 追踪 n
+我主要想介绍的一个项目称为《全链路追踪系统》
+// √ -> The project I mainly want to introduce is called 《 Full Link Tracking System 》.
+// X -> I mainly want to introduce the project is called 《all chian 追踪 system》.
+
+8
+compose 组成
+be composed of. 由...组成
+这个项目一共分为两个部分，每个部分都有三层
+// √ -> This project consists of two parts, and both parts have three layers.
+// 1. Before optimization: √ -> This project is divided into two parts, each with three layers.
+// 2. After optimization: √ -> This project is composed of two parts, both of which have three layers.
 ```
