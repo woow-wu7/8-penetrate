@@ -15,6 +15,9 @@
 3. Both frameworks have their own advantages and disadvantages. 这两个框架都有各自的优缺点
 // 3. There are many trees 【 on the both sides of 】 the road. 马路两边有很多树
 4. The main function of this application is to help drivers to reduce the probability of accidents when they are driving.
+5. After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer.
+6. The project I mainly want to introduce is called 《 Full Link Tracking System 》.
+7. This project is composed of two parts, both of which have three layers.
 
 ------- ------- ------- ------- ------- ------- -------
 0. I use Vue and React to develop projects.
