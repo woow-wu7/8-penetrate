@@ -81,7 +81,7 @@
 - 12
 - `previously 先前 之前 adv`
 - `declare 声明`
-- `previous 之前的adj 上一个adj`
+- `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 
 ```

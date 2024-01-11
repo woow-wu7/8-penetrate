@@ -473,6 +473,10 @@ I fell chilly. 我浑身发冷 // chilly 寒冷的adj
 // ---- I've put the beer in the fridge to chill. 我把啤酒放到冰箱里冰镇一下
 // ---- chill out! Don't be so angry. 冷静，别这么生气
 // ---- [ You can say 'chilly', which is slightly cold. 你可以说“很冷”，意思是有点冷 ] // slightly adv轻微 adv稍微
+// 2
+// beer 啤酒
+// deer 鹿
+// peer 同龄人 同辈 身份差不多的人
 
 6
 throw up = vomit 呕吐
