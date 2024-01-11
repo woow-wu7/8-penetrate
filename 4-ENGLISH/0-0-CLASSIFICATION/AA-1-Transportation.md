@@ -7,6 +7,9 @@
 - courtesy seat. 爱心专座
 - maglev train. 磁悬浮列车
 -
+- 2024-01-11
+- The flight is 【 descending 】 now. 飞机正在降落
+-
 -
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
@@ -1437,6 +1440,12 @@ appreciate 欣赏 感激 v
 9.【    tram 电车     】 // tram
 10.【   vessel 船     】
 
+vain 徒劳的
+van 面包车
+// Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
+
+The flight is 【 descending 】 now. 飞机正在降落
+
 ------- ------- ------- ------- ------- ------- -------
 自动档
 P park 停车档
@@ -2165,6 +2174,10 @@ stuck 卡住 困住
 fire engine. 消防车
 ambulance 救护车
 van 面包车
+-
+vain 徒劳的
+van 面包车
+// Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
 -
 tractor 拖拉机
 cab 出租车，口语

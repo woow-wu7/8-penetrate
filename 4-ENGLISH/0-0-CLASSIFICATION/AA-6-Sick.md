@@ -24,6 +24,11 @@
 - `wellbeing. 健康 n`
 -
 -
+- `nausea 恶心`
+- `vomit 呕吐`
+- // Nausea and vomiting are common symptoms. 恶心呕吐是常见的症状
+-
+-
 - `Put on a drip. 输液 打点滴`
 - // drop 下降 滴
 - // drip 滴水
