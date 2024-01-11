@@ -8,6 +8,7 @@
 - `Assign an initial value of 1 to your variable.`
 - // **【 constant 常量: A quantity whose value remains unchanged is called a constant. 】**
 - // **【 variable 变量: A variable is used to store information. 】**
+- // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 -
 - 2
 - `develop 发展 开发`
@@ -58,6 +59,30 @@
 - `be composed of. 由...组成`
 - // TypeError('Middleware must be composed of functions!')
 - // **【 This project is composed of two parts, both of which have three layers. 】**
+-
+- 10
+- `recursive 递归的 adj`
+- `recursively 递归地 adv`
+- `traverse 遍历 穿过v`
+- `【 Traversal 遍历 】`
+- 【 preorder traversal. 前序遍历 】--------- 根左右
+- 【 inorder traversal. 中序遍历 】---------- 左根右
+- 【 postorder traversal. 后序遍历 】-------- 左右根
+- // **【 recursively traverse. 递归遍历 】**
+- // **【 property 财产 属性 】**
+- // **【 Recursively traverse all properties of an object. 递归遍历对象的所有属性 】**
+-
+- 11
+- `communication 通信 交流`
+- `【 Component communication. 组件通信 】`
+- // Component communication in Vue.
+- // **【 How many communication methods are there between Vue components? 】**
+-
+- 12
+- `previously 先前 之前 adv`
+- `declare 声明`
+- `previous 之前的adj 上一个adj`
+- // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 
 ```
 1
@@ -115,4 +140,26 @@ be composed of. 由...组成
 // √ -> This project consists of two parts, and both parts have three layers.
 // 1. Before optimization: √ -> This project is divided into two parts, each with three layers.
 // 2. After optimization: √ -> This project is composed of two parts, both of which have three layers.
+
+9
+traverse 遍历 穿过
+Traversal 遍历
+【 preorder Traversal. 前序遍历 】--------- 根左右
+【 inorder Traversal. 中序遍历 】---------- 左根右
+【 postorder Traversal. 后序遍历 】-------- 左右根
+recursively 递归地
+recursive 递归的
+property 财产 属性
+// 【 Recursively traverse 】 all properties of an object. 递归遍历对象的所有属性
+// traverse a tree. 遍历树
+
+10
+communication 交流 通信
+【 Component Communication. 组件通信 】
+// How many communication methods are there between Vue components? vue组件之间有多少种通信方式
+
+11
+previously 先前 之前 adv
+declare 声明`
+// previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的
 ```

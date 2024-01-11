@@ -10,6 +10,11 @@
 
 ```
 0. Do you guys like it? 你们喜欢吗？
+0. If you guys are interested in earning a little extra on the side? // on the side.兼职
+
+
+------- ------- ------- ------- ------- ------- -------
+0. Do you guys like it? 你们喜欢吗？
 1. Vehicles should drive on the right side. 车辆应该靠右行驶
 2. The police are investigating drunk driving. 警察正在查酒驾
 3. Both frameworks have their own advantages and disadvantages. 这两个框架都有各自的优缺点
@@ -18,6 +23,7 @@
 5. After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer.
 6. The project I mainly want to introduce is called 《 Full Link Tracking System 》.
 7. This project is composed of two parts, both of which have three layers.
+
 
 ------- ------- ------- ------- ------- ------- -------
 0. I use Vue and React to develop projects.

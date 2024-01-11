@@ -20,3 +20,6 @@
 -
 - `certainly 当然 无疑 确定`
 - // Certainly, the early years are crucial to a child's development. 毫无疑问，幼年对儿童的成长至关重要
+-
+- `previously 之前地`
+- // previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的

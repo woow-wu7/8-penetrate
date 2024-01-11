@@ -181,11 +181,11 @@ I'm on the phone. 我在打电话
 - `charging port. 充电口` // 1. `charging cable. 充电线` 2. `charging pile. 充电桩`
 - phone case. 手机壳
 - screen protector. 手机保护膜
-- `headphone 耳机`
+- `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜
 - `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
 - speaker 扬声器
 - receiver 听筒
-- microphone. 麦克风 // 1. headphone // 2. headphone jack.
+- microphone. 麦克风 // 1. headphone // 2. headphone jack. // 3. microscope 显微镜 // 4. telescope 望远镜
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
 - mute button/silent button. 静音键
