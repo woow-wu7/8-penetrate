@@ -83,6 +83,9 @@
 - `declare 声明`
 - `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
+- // -- obviously 明显地
+- // -- obvious 明显的
+- // -- He is obviously far taller than me. 他明显比我高
 
 ```
 1
