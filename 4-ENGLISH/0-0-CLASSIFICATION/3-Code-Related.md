@@ -69,14 +69,14 @@
 - 【 inorder traversal. 中序遍历 】---------- 左根右
 - 【 postorder traversal. 后序遍历 】-------- 左右根
 - // **【 recursively traverse. 递归遍历 】**
-- // **【 property 财产 属性 】**
-- // **【 Recursively traverse all properties of an object. 递归遍历对象的所有属性 】**
+- // **【 -- property 财产 属性 】**
+- // **【 -- Recursively traverse all properties of an object. 递归遍历对象的所有属性 】**
 -
 - 11
 - `communication 通信 交流`
 - `【 Component communication. 组件通信 】`
 - // Component communication in Vue.
-- // **【 How many communication methods are there between Vue components? 】**
+- // **【 How many 【 communication 】 methods are there between Vue components? 】**
 -
 - 12
 - `previously 先前 之前 adv`

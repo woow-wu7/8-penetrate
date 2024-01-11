@@ -12,7 +12,7 @@
 0. Do you guys like it? 你们喜欢吗？
 0. If you guys are interested in earning a little extra on the side? // on the side.兼职
 1. He lock the child in the house. 他把孩子锁在了屋里 // lock in. 把...锁在
-
+2. The four great inventions of ancient china: The compass, gunpowder, papermaking, and printing.
 
 ------- ------- ------- ------- ------- ------- -------
 0. Do you guys like it? 你们喜欢吗？

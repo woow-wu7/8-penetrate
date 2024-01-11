@@ -369,6 +369,13 @@ mushroom 蘑菇 // 注意发音
 green bean 四季豆
 peanut 花生
 flour 面粉
+-
+gunpowder 火药 // gun + powder
+gun 枪
+powder 粉 粉末
+flour 面粉
+compass 指南针
+// The four great inventions of ancient China are the compass, gunpowder, papermaking, and printing.
 
 rose 玫瑰
 jasmine 茉莉

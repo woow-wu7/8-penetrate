@@ -17,6 +17,7 @@
 - `nurse 护士`
 - `paramedic 护理人员` // A person whose job is to help people who are sick or injured, but who is not a doctor or a nurse.
 - `pharmacist 药剂师`
+- // She's had 【 laser 】 【 surgery 】 on her eye. 他做了眼部【 激光 】【 手术 】
 -
 -
 - `health 健康`
