@@ -118,6 +118,18 @@
 - // **【 Starting in Vue 3.4, the recommended approach to achieve this is using the defineModel() macro. 】**
 - // approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
 - // -- shore 海岸
+-
+- 17
+- `migrate 迁移 迁徙 v`
+- `immigrate 移民 v`
+- `immigration 移民 n`
+- // **【 Haven't migrated to Vue3 Yet? 还没有迁移到 Vue3？】**
+-
+- 18
+- `usage 使用 用法`
+- `【 basic usage. 基本用法 】`
+- // usage 用法: I am clear about the 【 usage 】 of this word at last. 这个词的用法我算是弄明白了
+- // usage 使用: The word 'undertaker' had long been in common usage. undertaker 一词早已广泛使用
 
 ```
 1
