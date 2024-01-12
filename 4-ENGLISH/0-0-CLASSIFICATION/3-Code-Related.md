@@ -6,7 +6,7 @@
 - //【 environment variable. 环境变量 】
 - // quantity 数量 量
 - `Assign an initial value of 1 to your variable.`
-- // **【 constant 常量: A quantity whose value remains unchanged is called a constant. 】**
+- // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
 - // **【 variable 变量: A variable is used to store information. 】**
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 -
@@ -16,7 +16,7 @@
 - `advantage 优点 优势`
 - `disadvantage 缺点`
 - // **【 I use Vue and React to develop projects. 】**
-- // **【 Both frameworks have their own advantages and disadvantages. 】**
+- // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 -
 - 3
 - `program 程序`
@@ -34,7 +34,7 @@
 - `advantage 优点 优势`
 - `disadvantage 缺点`
 - `framework 框架`
-- // **【 Both frameworks have their own advantages and disadvantages. 】**
+- // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 -
 - 6
 - `probability 概率 n`
@@ -79,13 +79,33 @@
 - // **【 How many 【 communication 】 methods are there between Vue components? 】**
 -
 - 12
-- `previously 先前 之前 adv`
-- `declare 声明`
+- `previously 先前 之前 adv` // previous
+- `declare 声明` // redeclare
+- `redeclare 重复声明`
 - `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 - // -- obviously 明显地
 - // -- obvious 明显的
 - // -- He is obviously far taller than me. 他明显比我高
+-
+- 13
+- `particular 特定的 特别的 详情`
+- `accessible 可使用的 可进入的` // ------ adj // TIPS: pay attention to pronunciation.
+- // access 访问 进入 // ---------------- v/n
+- // **【 The variables declare using let are 【 block-scoped 】. 】**
+- // **【 This means they are only accessible within a particular block. 】**
+- // **【 can be accessed only inside. 】**
+-
+- 14
+- `hoist 提升 吊车`
+- `redeclare 重新声明`
+- `overview 概述`
+- `occur 发生`
+- Here's the overview of the differences between let and var.
+- // **【 1. both the keywords let and var are used to declare variables. 】**
+- // **【 2. let is block-scoped. ----------------------------- var is function scoped. 】**
+- // **【 3. let does not allow to redeclare variables. ------- var allows to redeclare variables. 】**
+- // **【 4. hoisting does not occur in let. ------------------ Hoisting occurs in var. 】**
 
 ```
 1

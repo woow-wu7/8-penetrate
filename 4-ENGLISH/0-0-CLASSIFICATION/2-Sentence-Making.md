@@ -9,10 +9,21 @@
 - // **【 variable 变量: A variable is used to store information. 】**
 
 ```
-0. Do you guys like it? 你们喜欢吗？
-0. If you guys are interested in earning a little extra on the side? // on the side.兼职
-1. He lock the child in the house. 他把孩子锁在了屋里 // lock in. 把...锁在
-2. The four great inventions of ancient china: The compass, gunpowder, papermaking, and printing.
+0. Sense of ownership. 主人翁意识
+0. My strength is that I have a sense of ownership. 我的优点是我有主人翁意识
+1. I work very hard.
+2. 【 I have curiosity. 】 = I'm curious.
+// curiosity 好奇心 n -> cu ri o sity
+// curious 好奇的 adj
+// ownership 所有权 n
+
+
+------- ------- ------- ------- ------- ------- -------
+1. Do you guys like it? 你们喜欢吗？
+2. If you guys are interested in earning a little extra on the side? // on the side.兼职
+3. He lock the child in the house. 他把孩子锁在了屋里 // lock in. 把...锁在
+4. The four great inventions of ancient china: The compass, gunpowder, papermaking, and printing.
+
 
 ------- ------- ------- ------- ------- ------- -------
 0. Do you guys like it? 你们喜欢吗？
