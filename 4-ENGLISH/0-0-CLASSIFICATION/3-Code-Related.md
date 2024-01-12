@@ -106,6 +106,12 @@
 - // **【 2. let is block-scoped. ----------------------------- var is function scoped. 】**
 - // **【 3. let does not allow to redeclare variables. ------- var allows to redeclare variables. 】**
 - // **【 4. hoisting does not occur in let. ------------------ Hoisting occurs in var. 】**
+-
+- 15
+- `two-way binding. 双向绑定`
+- two-way. 双向 双向的
+- // **【 v-model can be used on a component to implement a two-way binding. v-model 可以用于组件上以实现双向绑定 】**
+- // Trust is a two way thing. 信任是相互的
 
 ```
 1
