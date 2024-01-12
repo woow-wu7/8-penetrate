@@ -31,7 +31,7 @@
 - // Type vs Interface -> Type cannot be extended and implemented but Interface can.
 -
 - 5
-- `advantage 优点 优势`
+- `advantage 优点 优势` // strength weakness
 - `disadvantage 缺点`
 - `framework 框架`
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
@@ -112,6 +112,12 @@
 - two-way. 双向 双向的
 - // **【 v-model can be used on a component to implement a two-way binding. v-model 可以用于组件上以实现双向绑定 】**
 - // Trust is a two way thing. 信任是相互的
+-
+- 16
+- `approach 方法n 方式n 靠近v`
+- // **【 Starting in Vue 3.4, the recommended approach to achieve this is using the defineModel() macro. 】**
+- // approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
+- // -- shore 海岸
 
 ```
 1
