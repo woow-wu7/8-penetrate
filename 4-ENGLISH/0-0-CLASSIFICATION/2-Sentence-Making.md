@@ -10,12 +10,14 @@
 
 ```
 0. Sense of ownership. 主人翁意识
-0. My strength is that I have a sense of ownership. 我的优点是我有主人翁意识
+0. My 【 strength 】 is that I have【  a sense of ownership 】. 我的优点是我有主人翁意识
 1. I work very hard.
 2. 【 I have curiosity. 】 = I'm curious.
+3. I don't have the 【 strength 】 to walk anymore. 我没有力气走路了
 // curiosity 好奇心 n -> cu ri o sity
 // curious 好奇的 adj
 // ownership 所有权 n
+// strength 力气 优点
 
 
 ------- ------- ------- ------- ------- ------- -------

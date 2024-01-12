@@ -325,6 +325,8 @@ What are your strengths and weaknesses?
 // -- I have a hard time balancing my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 // I'm too much of a perfectionist. 我太完美主义了
+// ------- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// ------- I have a hard time balancing my work and life. 我很难平衡工作和生活
 
 4. Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 //【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
