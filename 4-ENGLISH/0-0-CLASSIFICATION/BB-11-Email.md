@@ -41,8 +41,18 @@ do you like 你喜不喜欢...
 // do you like swimming?
 
 attachment 附件 链接
-// Please see attachment. 请查看附件
+// 【 Please see attachment. 请查看附件 】
 // Please see attached. 请看附件
 
+look forward. 期待
+【 look forward to doing sth. 期待做某事 】
+// 1. I 【 look forward to hearing 】 from you. 我期待着您的回应
+// 2. We shall look forward to seeing him tomorrow. 我们期待着明天与他会
+
+best regard. 最真诚的问候
+
+sincerely 真诚的
+
 This is York from the Technical Department. 我是技术部的约克
+Feel free to contact me if you have any further questions.
 ```
