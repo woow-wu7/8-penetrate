@@ -12,6 +12,9 @@
 0. Are you ignoring me? 你不理我？
 0. Why are you ignoring me? 你为什么不理我？
 0. She ignores me.
+1. So, what's your level in English?
+2. give it anther shot. 再试一次 再给一次机会
+2. Something went wrong, but don’t fret — let’s give it another shot. 有些地方出了问题，但别担心，让我们再试一次
 
 
 ------- ------- ------- ------- ------- ------- -------

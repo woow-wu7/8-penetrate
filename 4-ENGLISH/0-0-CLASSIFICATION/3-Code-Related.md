@@ -143,6 +143,10 @@
 - `usage 使用 用法`
 - `【 basic usage. 基本用法 】`
 - `【 common usage. 常见用法 】`
+- `【 common vocabulary. 常用词汇 】`
+- `【 common sense. 常识 】`
+- `【 common symptoms. 常见症状 】`
+- `common 常见的 共同的 普通的`
 - // usage 用法: I am clear about the 【 usage 】 of this word at last. 这个词的用法我算是弄明白了
 - // usage 使用: The word 'undertaker' had long been in common usage. undertaker 一词早已广泛使用
 -
