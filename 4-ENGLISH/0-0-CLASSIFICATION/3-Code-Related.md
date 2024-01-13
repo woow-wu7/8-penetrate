@@ -129,6 +129,7 @@
 - // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
 - // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
+- // DD: 【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】
 - // -- retail price. 零售价
 - // -- retail 零售 v n 零售的 adj
 -
@@ -150,6 +151,16 @@
 - `option 选项`
 - `【 optional course. 选修课 】`
 - // **【 The second 【 optional argument 】 is the props to be passed to the root component. 二个可选参数是要传递给根组件的 props 】**
+-
+- 20
+- `actual 真实的`
+- `virtual 虚拟的`
+- 【 actual DOM. 真实 DOM 】
+- 【 virtual DOM. 虚拟 DOM 】
+- `essential 本质的 adj`
+- `essentially 本质地 adv`
+- // **【 【 Virtual DOM 】 is 【 essentially 】 an object in javascript. 虚拟 DOM 本质上就是一个 javascript 中的对象 】**
+- // The actual cost was higher than we expected. 实际成本比我们预计的要高
 
 ```
 1

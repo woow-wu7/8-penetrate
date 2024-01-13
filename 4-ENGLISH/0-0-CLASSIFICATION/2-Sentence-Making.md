@@ -9,16 +9,31 @@
 - // **【 variable 变量: A variable is used to store information. 】**
 
 ```
+0. Are you ignoring me? 你不理我？
+0. Why are you ignoring me? 你为什么不理我？
+0. She ignores me.
+
+
+------- ------- ------- ------- ------- ------- -------
 0. Sense of ownership. 主人翁意识
-0. My 【 strength 】 is that I have【  a sense of ownership 】. 我的优点是我有主人翁意识
+0. My 【 strength 】 is that I have【  a sense of ownership 】. 我的优点是我有主人翁意识 ------ strength 优点
 1. I work very hard.
 2. 【 I have curiosity. 】 = I'm curious.
-3. I don't have the 【 strength 】 to walk anymore. 我没有力气走路了
+3. I don't have the 【 strength 】 to walk anymore. 我没有力气走路了 // --------------------- strength 力气
 4. 【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】
 // curiosity 好奇心 n -> cu ri o sity
 // curious 好奇的 adj
 // ownership 所有权 n
 // strength 力气 优点
+// - `approach 方法n 方式n 靠近v`
+// - `recommend 推荐 v`
+// - `recommended 被推荐的adj 推荐过去式v`
+// **【 Starting in Vue 3.4, the 【 recommended 】【 approach 】to achieve this is using the defineModel() macro. 】**
+// BB. Can you recommend a good hotel? 你能推荐一家好的酒店吗？
+// CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
+// CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
+// CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
+// DD: 【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】
 
 
 ------- ------- ------- ------- ------- ------- -------
