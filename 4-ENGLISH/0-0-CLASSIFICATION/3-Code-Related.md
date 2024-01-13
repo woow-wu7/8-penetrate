@@ -69,7 +69,10 @@
 - 【 inorder traversal. 中序遍历 】---------- 左根右
 - 【 postorder traversal. 后序遍历 】-------- 左右根
 - // **【 recursively traverse. 递归遍历 】**
-- // **【 -- property 财产 属性 】**
+- // 【 property 财产 属性 】
+- // 【 private property. 私有财产 】
+- // 【 private conversation. 私人谈话 】
+- // 【 personal privacy. 个人隐私 】
 - // **【 -- Recursively traverse all properties of an object. 递归遍历对象的所有属性 】**
 -
 - 11
@@ -79,7 +82,7 @@
 - // **【 How many 【 communication 】 methods are there between Vue components? 】**
 -
 - 12
-- `previously 先前 之前 adv` // previous
+- `previously 先前 之前 adv` // previous previously
 - `declare 声明` // redeclare
 - `redeclare 重复声明`
 - `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
@@ -93,31 +96,41 @@
 - `accessible 可使用的 可进入的` // ------ adj // TIPS: pay attention to pronunciation.
 - // access 访问 进入 // ---------------- v/n
 - // **【 The variables declare using let are 【 block-scoped 】. 】**
-- // **【 This means they are only accessible within a particular block. 】**
+- // **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】**
 - // **【 can be accessed only inside. 】**
 -
 - 14
 - `hoist 提升 吊车`
-- `redeclare 重新声明`
+- `redeclare 重新声明` // declare redeclare
 - `overview 概述`
 - `occur 发生`
 - Here's the overview of the differences between let and var.
 - // **【 1. both the keywords let and var are used to declare variables. 】**
-- // **【 2. let is block-scoped. ----------------------------- var is function scoped. 】**
-- // **【 3. let does not allow to redeclare variables. ------- var allows to redeclare variables. 】**
-- // **【 4. hoisting does not occur in let. ------------------ Hoisting occurs in var. 】**
+- // **【 2. let is block-scoped. ------------------------- var is function scoped. 】**
+- // **【 3. let does not allow to 【 redeclare 】 variables. --- var allows to redeclare variables. 】**
+- // **【 4. hoisting does not 【 occur 】 in let. -------------- Hoisting occurs in var. 】**
 -
 - 15
 - `two-way binding. 双向绑定`
 - two-way. 双向 双向的
-- // **【 v-model can be used on a component to implement a two-way binding. v-model 可以用于组件上以实现双向绑定 】**
+- // **【 v-model can be used on a component to implement a 【 two-way binding 】. v-model 可以用于组件上以实现双向绑定 】**
+- // **【 v-model can be used in two ways. 】**
+- // **【 There are two ways to use v-model. 】**
 - // Trust is a two way thing. 信任是相互的
 -
 - 16
 - `approach 方法n 方式n 靠近v`
-- // **【 Starting in Vue 3.4, the recommended approach to achieve this is using the defineModel() macro. 】**
-- // approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
+- `recommend 推荐 v`
+- `recommended 被推荐的adj 推荐过去式v`
+- // **【 Starting in Vue 3.4, the 【 recommended 】【 approach 】to achieve this is using the defineModel() macro. 】**
+- // AA. approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
 - // -- shore 海岸
+- // BB. Can you recommend a good hotel? 你能推荐一家好的酒店吗？
+- // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
+- // CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
+- // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
+- // -- retail price. 零售价
+- // -- retail 零售 v n 零售的 adj
 -
 - 17
 - `migrate 迁移 迁徙 v`
@@ -128,8 +141,15 @@
 - 18
 - `usage 使用 用法`
 - `【 basic usage. 基本用法 】`
+- `【 common usage. 常见用法 】`
 - // usage 用法: I am clear about the 【 usage 】 of this word at last. 这个词的用法我算是弄明白了
 - // usage 使用: The word 'undertaker' had long been in common usage. undertaker 一词早已广泛使用
+-
+- 19
+- `optional 可选的`
+- `option 选项`
+- `【 optional course. 选修课 】`
+- // **【 The second 【 optional argument 】 is the props to be passed to the root component. 二个可选参数是要传递给根组件的 props 】**
 
 ```
 1
