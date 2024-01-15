@@ -1,6 +1,12 @@
 # How to write a formal E-mail in English.
 
-```
+- `opener 开场白 开瓶器 】`
+- `formal 正式的`
+- `situation 情况 状况`
+- **【 formal situation. 正式场合 】**
+- **【 Simple email openers for formal situation. 适用于正式场合的简单电子邮件开场白 】**
+
+```1111111
 formal 正式的 正规的
 // school 学校 教育
 // schooling 学校教育n 教育v
@@ -16,6 +22,7 @@ actor actress
 prince princess
 -
 // Dear Ms. Pott. 亲爱的波特女士
+// Hi Ms. Pott. 亲爱的波特女士
 // She is 【 an 】 amazing 【 actress 】.
 -
 // Bachelor's degree. 学士学位
@@ -52,7 +59,9 @@ look forward. 期待
 best regard. 最真诚的问候
 
 sincerely 真诚的
+```
 
+```2222222
 This is York from the Technical Department. 我是技术部的约克
 Feel free to contact me if you have any further questions.
 ```
