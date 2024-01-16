@@ -25,10 +25,13 @@ headmaster headmistress 男校长 女校长
 -
 president 总统
 vice president. 副总统
+-
 principal 校长
 vice principal. 副校长
+-
 pilot 飞行员 驾驶员
 co-pilot 副驾驶员
+-
 // caption 船长 机长
 -
 // Dear Ms. Pott. 亲爱的波特女士
