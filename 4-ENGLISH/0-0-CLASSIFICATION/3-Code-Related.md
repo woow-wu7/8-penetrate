@@ -17,6 +17,8 @@
 - `disadvantage 缺点`
 - // **【 I use Vue and React to develop projects. 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+- // ------- **【 both the keywords let and var are used to declare variables. 】**
+- // ------- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 -
 - 3
 - `program 程序`
@@ -37,7 +39,7 @@
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 -
 - 6
-- `probability 概率 n`
+- `probability 概率 n` // TIPS: pay attention to pronunciation.
 - `reduce 减少`
 - // probable 可能的 adj
 - // probably 可能 adv
@@ -95,8 +97,8 @@
 - `particular 特定的 特别的 详情`
 - `accessible 可使用的 可进入的` // ------ adj // TIPS: pay attention to pronunciation.
 - // access 访问 进入 // ---------------- v/n
-- // **【 The variables declare using let are 【 block-scoped 】. 】**
 - // **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】**
+- // **【 The variables declare using let are 【 block-scoped 】. 】**
 - // **【 can be accessed only inside. 】**
 -
 - 14
@@ -109,6 +111,8 @@
 - // **【 2. let is block-scoped. ------------------------- var is function scoped. 】**
 - // **【 3. let does not allow to 【 redeclare 】 variables. --- var allows to redeclare variables. 】**
 - // **【 4. hoisting does not 【 occur 】 in let. -------------- Hoisting occurs in var. 】**
+- // ------- **【 both the keywords let and var are used to declare variables. 】**
+- // ------- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 -
 - 15
 - `two-way binding. 双向绑定`
@@ -126,8 +130,8 @@
 - // AA. approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
 - // -- shore 海岸
 - // BB. Can you recommend a good hotel? 你能推荐一家好的酒店吗？
-- // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
+- // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
 - // DD: 【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】
 - // -- retail price. 零售价
@@ -163,6 +167,9 @@
 - 【 virtual DOM. 虚拟 DOM 】
 - `essential 本质的 adj`
 - `essentially 本质地 adv`
+- // actual
+- // virtual 虚拟的
+- // virtue 美德
 - // **【 【 Virtual DOM 】 is 【 essentially 】 an object in javascript. 虚拟 DOM 本质上就是一个 javascript 中的对象 】**
 - // The actual cost was higher than we expected. 实际成本比我们预计的要高
 

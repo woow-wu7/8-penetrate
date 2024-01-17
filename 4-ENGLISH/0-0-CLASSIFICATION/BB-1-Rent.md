@@ -1,8 +1,8 @@
 # Rent
 
-##### (一) Renting An Apartment 租房子
+##### (一) Renting An Apartment in English 租房子
 
-```
+```1111111
 landlord 房东
 Tenant 租客
 // middleman landlord. 二房东
@@ -11,9 +11,11 @@ Tenant 租客
 utilities 公共设施费 水电费
 -
 lease 租约
+// lease term. 租期
 contract 合同
 // sign a contract. 签合同
 -
+refund 退还 退款
 deposit 存钱v 存款n 押金n
 【 deposit money. 存钱 】
 【 withdraw money. 取钱 】
@@ -21,9 +23,24 @@ deposit 存钱v 存款n 押金n
 move in. 搬进
 move out. 搬出
 -
-apartment 公寓 房间
 flat 平坦的adj 公寓n
+apartment 公寓 房间
+one-bedroom apartment. 一居室公寓
+two-bedroom apartment. 两居室公寓
+// single apartment. 单身公寓
+// studio apartment. 单间公寓
+// studio apartment is a small apartment that typically consists of one open space with the kitchen.
 -
+bungalow 平房
+cabin 小木屋
+loft 楼阁
+-
+furnished 带家具的
+unfurnished 无家具的
+-
+floor plans. 户型图
+promotion 推广 提升 促销活动
+whole process. 整个过程
 
 
 
@@ -49,10 +66,26 @@ lease 租约
 // BB: We signed two years 【 lease 】.
 // BB: We secured a good price for those two years. So, he can't raise the rent on us next year.
 
+refund 退还 退钱
 deposit 押金n 存钱v 存款n
 【 deposit money. 存钱 】
 【 withdraw money. 取钱 】
+// 【 deposit 押金: He 【 refunded 】 my 【 deposit 】 of 100 yuan. 他退了我100元押金 】
+// deposit 押金: You have to pay a deposit of $100 first. 你得先交10美元押金
 // deposit 押金: A 10% deposit is payable in advance. 预付10%的定金
 // -- payable in advance. 提前支付
 // -- deposit 押金n 存钱v 存款n
+// -- refund 退还 退钱
+
+promotion 推广 提升 促销活动
+//【 There are many promotions in the mall. 商场里有很多促销活动 】
+
+
+
+To rent a place to live. 租个地方住
+Vocabulary related to renting. 与租房有关的词汇
+Vocabulary related to coding. 与编码有关的词汇
+I'm looking for a two-bedroom apartment. 我在找一套两居室的公寓
+Is the apartment furnished? 这间公寓有家具吗？
+【 What's the process for an international student to rent an apartment here? 国际学生在这里租房的过程是什么？】
 ```
