@@ -17,8 +17,13 @@ contract 合同
 -
 refund 退还 退款
 deposit 存钱v 存款n 押金n
-【 deposit money. 存钱 】
-【 withdraw money. 取钱 】
+//【 deposit money. 存钱 】
+//【 withdraw money. 取钱 】
+-
+exchange rate. 汇率
+// What's the exchange rate for today?
+-
+proof of income. 收入证明
 -
 move in. 搬进
 move out. 搬出
@@ -41,7 +46,18 @@ unfurnished 无家具的
 floor plans. 户型图
 promotion 推广 提升 促销活动
 whole process. 整个过程
+------- ------- ------- ------- ------- ------- -------
 
+
+
+pay by ---- 支付的 方式 或 媒介
+pay in ---- 支付的 货币 或 地点
+pay for --- 为某个 物品 或 服务 付款
+pay with -- 支付的 工具 或 方式 （ pay with. = pay by. + pay in. ）
+// 1. This stuff does not support USD, please 【 pay in 】 RMB. 这个东西不支持美元，请用人民币支付
+// 2. Please 【 pay for 】 the 100 yuan item 【 in 】 US dollars. 请用美元支付这件100元的商品
+// 3.【 pay by 】 credit card. 用信用卡支付
+// 4. using a credit card to 【 pay for 】 an order is simplicity itself. 用信用卡支付订单再简单不过了
 
 
 landlord 房东 店主
@@ -80,6 +96,10 @@ deposit 押金n 存钱v 存款n
 promotion 推广 提升 促销活动
 //【 There are many promotions in the mall. 商场里有很多促销活动 】
 
+onsite 当地的
+laundry 洗衣房 洗衣店
+// Is there a laundry room onsite? 公寓有洗衣房吗？
+
 
 
 To rent a place to live. 租个地方住
@@ -87,5 +107,8 @@ Vocabulary related to renting. 与租房有关的词汇
 Vocabulary related to coding. 与编码有关的词汇
 I'm looking for a two-bedroom apartment. 我在找一套两居室的公寓
 Is the apartment furnished? 这间公寓有家具吗？
+【【 Is there a laundry room onsite? 公寓有洗衣房吗？ 】】
+【 How do I pay for my rent and deposit? 我如何付租金和押金 】
+【 Two months rent as deposit. 两个月的租金作为押金 】
 【 What's the process for an international student to rent an apartment here? 国际学生在这里租房的过程是什么？】
 ```

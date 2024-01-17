@@ -100,6 +100,8 @@
 - // **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】**
 - // **【 The variables declare using let are 【 block-scoped 】. 】**
 - // **【 can be accessed only inside. 】**
+- // -- specific 具体的
+- // -- **【 There are several specific indicators of success. 成功有几个具体的指标 】**
 -
 - 14
 - `hoist 提升 吊车`
@@ -151,6 +153,7 @@
 - `【 common sense. 常识 】`
 - `【 common symptoms. 常见症状 】`
 - `common 常见的 共同的 普通的`
+- // **【 This thing is very commonly used. 这个东西很常用 】**
 - // usage 用法: I am clear about the 【 usage 】 of this word at last. 这个词的用法我算是弄明白了
 - // usage 使用: The word 'undertaker' had long been in common usage. undertaker 一词早已广泛使用
 -
