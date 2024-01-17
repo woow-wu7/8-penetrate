@@ -1,5 +1,7 @@
 # Code Related English
 
+##### (一)
+
 - 1
 - `variable 变量`
 - `constant 常量`
@@ -16,9 +18,12 @@
 - `advantage 优点 优势`
 - `disadvantage 缺点`
 - // **【 I use Vue and React to develop projects. 】**
+- // `【 I use Vue and React tech stacks to develop projects. 我使用 Vue 和 React 技术栈开发项目 】`
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 - // ------- **【 both the keywords let and var are used to declare variables. 】**
 - // ------- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+- // ------- **【 compared to Vue, React is better. 和 Vue 相比，React 比较优秀 】**
+- // ------- **【 compared with Vue, React is better. 和 Vue 相比，React 比较优秀 】**
 -
 - 3
 - `program 程序`
@@ -254,4 +259,32 @@ communication 交流 通信
 previously 先前 之前 adv
 declare 声明`
 // previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的
+```
+
+##### (二)
+
+- 1
+- `tech stack. 技术栈`
+- // heap 堆
+- // stack 栈
+- // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
+-
+- 2
+- `compare 比较 v`
+- `compared 比较 v 比较的 adj`
+- 【 compared to. 和...比较 】
+- compared to. = compared with.
+- // **【 compared to Vue, React is better. 和 Vue 相比，React 比较优秀 】**
+- // **【 compared with Vue, React is better. 和 Vue 相比，React 比较优秀 】**
+- // -- **【 both the keywords let and var are used to declare variables. 】**
+- // -- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+
+```
+compare 比较 v
+compared 比较的 adj
+【 compared to. 和...相比 】// 这里使用了过去分词，完整的写法是 You compared to him. 你被和他做比较
+【 compared with. 和...相比 】
+// compared to him, you are better. 和他比，你比较优秀
+// compared with him, you are better. 和他比，你比较优秀
+// 这里 compared to = compared with
 ```

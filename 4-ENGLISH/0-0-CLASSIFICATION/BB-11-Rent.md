@@ -101,10 +101,11 @@ laundry 洗衣房 洗衣店
 // Is there a laundry room onsite? 公寓有洗衣房吗？
 
 
-
-To rent a place to live. 租个地方住
 Vocabulary related to renting. 与租房有关的词汇
 Vocabulary related to coding. 与编码有关的词汇
+English vocabulary related to illness 生病相关的英语词汇
+-
+To rent a place to live. 租个地方住
 I'm looking for a two-bedroom apartment. 我在找一套两居室的公寓
 Is the apartment furnished? 这间公寓有家具吗？
 【【 Is there a laundry room onsite? 公寓有洗衣房吗？ 】】
