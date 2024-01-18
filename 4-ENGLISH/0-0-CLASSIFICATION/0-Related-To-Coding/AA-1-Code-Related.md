@@ -7,18 +7,20 @@
 - `constant 常量`
 - //【 environment variable. 环境变量 】
 - // quantity 数量 量
+- // previously 之前地 adv
 - `Assign an initial value of 1 to your variable.`
-- // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
-- // **【 variable 变量: A variable is used to store information. 】**
+- // `【 primitive values. 原始值 】`
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
+- // **【 variable 变量: A variable is used to store information. 】**
+- // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
 -
 - 2
 - `develop 发展 开发`
 - `project 项目`
 - `advantage 优点 优势`
 - `disadvantage 缺点`
-- // **【 I use Vue and React to develop projects. 】**
-- // `【 I use Vue and React tech stacks to develop projects. 我使用 Vue 和 React 技术栈开发项目 】`
+- tech stacks. 技术栈
+- // **【 I use Vue and React 【 tech stacks 】 to develop projects. 我使用 Vue 和 React 技术栈开发项目 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 - // ------- **【 both the keywords let and var are used to declare variables. 】**
 - // ------- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
@@ -106,6 +108,7 @@
 - // **【 The variables declare using let are 【 block-scoped 】. 】**
 - // **【 can be accessed only inside. 】**
 - // -- specific 具体的
+- // -- indicator 指示器
 - // -- **【 There are several specific indicators of success. 成功有几个具体的指标 】**
 -
 - 14
@@ -113,7 +116,7 @@
 - `redeclare 重新声明` // declare redeclare
 - `overview 概述`
 - `occur 发生`
-- Here's the overview of the differences between let and var.
+- Here's the 【 overview 】 of the differences between let and var.
 - // **【 1. both the keywords let and var are used to declare variables. 】**
 - // **【 2. let is block-scoped. ------------------------- var is function scoped. 】**
 - // **【 3. let does not allow to 【 redeclare 】 variables. --- var allows to redeclare variables. 】**
@@ -140,7 +143,7 @@
 - // CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
 - // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
-- // DD: 【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】
+- // DD: **【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】**
 - // -- retail price. 零售价
 - // -- retail 零售 v n 零售的 adj
 -
@@ -278,6 +281,34 @@ declare 声明`
 - // **【 compared with Vue, React is better. 和 Vue 相比，React 比较优秀 】**
 - // -- **【 both the keywords let and var are used to declare variables. 】**
 - // -- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+-
+- 3
+- `primitive 原始的`
+- `【 primitive values. 原始值 】` // 原始类型的值 和 对象类型的值
+- `【 primitive man. 原始人 】`
+- `whether or. 无论是...还是...`
+- // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
+- // 【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
+-
+- 4
+- `structure 结构n 构成n`
+- `【 data structure. 数据结构 】`
+- // Understanding XML data structure. 理解 XML 数据结构
+-
+- 5
+- `equal 相等的`
+- `equally 平等的 adv`
+- `equality 相等 平等 n`
+- `【 racial equality. 种族平等 】`
+- // **【 equality 平等 n: 【 Racial equality 】 is the 【 foundation 】 of world peace. 种族平等是世界和平的基础 】**
+- // `The weight of the two objects is equal. 这两个物体的重量相等`
+- // **【 One plus one equals two. 】**
+- // **【 One ton is equal to 1000 kilograms. 一顿等于 1000 千克 】**
+- // equally 平等地 adv: Men and women should be treated 【 equally 】. 男女应该被同等对待
+-
+- 6
+- `primarily 主要地 adv` // mainly
+- **【 It's primarily used to improve performance. 它主要用于提升新能】**
 
 ```
 compare 比较 v
