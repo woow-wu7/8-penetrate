@@ -336,4 +336,8 @@ What are your strengths and weaknesses?
 // -- candidate 候选人
 // -- candy 糖果
 // -- sugar 糖
+
+5. How long have you been working here? 你在这里工作多久了？
+5. How long have you been studying here? 你在这里学习多久了？
+// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
 ```
