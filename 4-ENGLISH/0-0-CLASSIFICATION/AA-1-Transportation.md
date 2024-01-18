@@ -1781,6 +1781,8 @@ cup holder. 杯架
 - **shale gas station. 页岩气站**
 - `shale gas. 页岩气`
 - `natural gas. 天然气` // TIPS: Pay attention to pronunciation.
+- // `natural resource. 自然资源` // 1. resource 资源 资料 // 2. source 来源 源头
+- // `【 open-source module. 开源模块 】`
 - `gas = gasoline = petrol 汽油` // gas 是 gasoline 的缩写
 - `premium gas. 优质的汽油` // 93
 - `regular gas. 普通的汽油` // 87

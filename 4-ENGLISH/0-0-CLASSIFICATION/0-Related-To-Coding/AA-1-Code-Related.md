@@ -296,7 +296,7 @@ declare 声明`
 - 4
 - `structure 结构n 构成n`
 - `【 data structure. 数据结构 】`
-- // Understanding XML data structure. 理解 XML 数据结构
+- // Understanding XML 【 data structure 】. 理解 XML 数据结构
 -
 - 5
 - `equal 相等的`
@@ -320,11 +320,12 @@ declare 声明`
 - 8
 - `reference 参考`
 - `documentation 文档 n`
-- `overview 概述 纵览`
+- `overview 概述 总览`
 - **【 reference documentation. 参考文档 】**
 - **【 React reference overview. React 参考概述/参考总览 】**
 - **【 This section provides detailed 【 reference documentation 】 for working with React. 】**
 - Here's the 【 overview 】 of the differences between let and var. 下面是 let 和 var 的区别的【概述】
+- // -- detailed 详细的 adj
 -
 - 9
 - `break down. 分解 拆分 发生故障`
@@ -336,13 +337,43 @@ declare 声明`
 - 10
 - `resource 资源 资料`
 - `source 来源 源头`
-- `【 natural resource. 自然资源 】`
 - `【 open-source module. 开源模块 】`
+- `【 natural resource. 自然资源 】`
+- `【 natural gas. 天然气 】`
 - **【 'use' is a React Hook that lets you read the value of a 【 resource 】 like a Promise or context. 】**
+- **【 The 【 fossil fuels 】 ( coal and oil ) are 【 finite 】【 resources 】. 化石燃料（如煤和石油）属于有限资源 】**
 - resource 资源: The world's resource are finite. 世界的资源是有限的
-- resource 资源: The fossil fuels ( coal and oil ) are finite resources. 化石燃料（如煤和石油）属于有限资源
 - resource 资源: We depend on the Earth's resources to survive. 我们依靠地球提供的资源生存
-- source 来源: What is their main source of income? 他们的主要收入来源是什么？
+- source 来源: 【 What is their main source of income? 他们的主要收入来源是什么？ 】
+- // -- fossil 化石 n 化石的 adj
+- // -- fuel 燃料
+- // -- `【 fossil fuels. 化石燃料 】`
+- // -- `finite 有限的`
+- // -- `infinite 无线的`
+- // TIPS: pay attention to pronunciation.
+-
+- 11
+- `defer 推迟 v`
+- `deferred -> 过去式过去分词`
+- `version 版本`
+- **【 Call useDeferredValue at the top level of your component to get a 【 deferred 】 【 version 】 of that value. 】**
+-
+- 12
+- `attempt 尝试 v n`
+- React will first 【 attempt 】 a re-render with the old value.
+- The cat 【 attempts 】 to catch that fish. 那只猫咪试图抓到那条鱼
+-
+- 13
+- `stale 陈旧的`
+- `fresh 新鲜的`
+- The opposite of stale is fresh.
+- **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
+-
+- 14
+- `imperative 命令式`
+- `declarative 声明式`
+- `functional 函数式`
+- **【 Exposing your own 【 imperative 】 methods. 】**
 
 ```
 compare 比较 v
@@ -352,7 +383,9 @@ compared 比较的 adj
 // compared to him, you are better. 和他比，你比较优秀
 // compared with him, you are better. 和他比，你比较优秀
 // 这里 compared to = compared with
+```
 
+```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
 https://react.dev/reference/react
