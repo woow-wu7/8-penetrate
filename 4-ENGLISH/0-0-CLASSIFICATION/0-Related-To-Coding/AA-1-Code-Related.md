@@ -116,7 +116,9 @@
 - `redeclare 重新声明` // declare redeclare
 - `overview 概述`
 - `occur 发生`
-- Here's the 【 overview 】 of the differences between let and var.
+- 【 Here's the 【 overview 】 of the differences between let and var. 】
+- 【 reference documentation. 参考文档 】
+- 【 React reference overview. React 参考概述/参考总览 】
 - // **【 1. both the keywords let and var are used to declare variables. 】**
 - // **【 2. let is block-scoped. ------------------------- var is function scoped. 】**
 - // **【 3. let does not allow to 【 redeclare 】 variables. --- var allows to redeclare variables. 】**
@@ -286,6 +288,7 @@ declare 声明`
 - `primitive 原始的`
 - `【 primitive values. 原始值 】` // 原始类型的值 和 对象类型的值
 - `【 primitive man. 原始人 】`
+- `【 primitive culture 原始文明 】`
 - `whether or. 无论是...还是...`
 - // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
 - // 【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
@@ -308,7 +311,38 @@ declare 声明`
 -
 - 6
 - `primarily 主要地 adv` // mainly
-- **【 It's primarily used to improve performance. 它主要用于提升新能】**
+- **【 It's primarily used to improve performance. 它主要用于提升性能 】**
+-
+- 7
+- `parameter 参数`
+- **【 This function receives two parameters. 这个函数接收两个参数 】**
+-
+- 8
+- `reference 参考`
+- `documentation 文档 n`
+- `overview 概述 纵览`
+- **【 reference documentation. 参考文档 】**
+- **【 React reference overview. React 参考概述/参考总览 】**
+- **【 This section provides detailed 【 reference documentation 】 for working with React. 】**
+- Here's the 【 overview 】 of the differences between let and var. 下面是 let 和 var 的区别的【概述】
+-
+- 9
+- `break down. 分解 拆分 发生故障`
+- `section 部分 段`
+- `subsection 子部分 子段`
+- `【 break down into. 分解成... 】`
+- **【 Our The React 【 reference documentation 】 is 【 broke down into 】 functional 【 subsection 】. 】**
+-
+- 10
+- `resource 资源 资料`
+- `source 来源 源头`
+- `【 natural resource. 自然资源 】`
+- `【 open-source module. 开源模块 】`
+- **【 'use' is a React Hook that lets you read the value of a 【 resource 】 like a Promise or context. 】**
+- resource 资源: The world's resource are finite. 世界的资源是有限的
+- resource 资源: The fossil fuels ( coal and oil ) are finite resources. 化石燃料（如煤和石油）属于有限资源
+- resource 资源: We depend on the Earth's resources to survive. 我们依靠地球提供的资源生存
+- source 来源: What is their main source of income? 他们的主要收入来源是什么？
 
 ```
 compare 比较 v
@@ -318,4 +352,9 @@ compared 比较的 adj
 // compared to him, you are better. 和他比，你比较优秀
 // compared with him, you are better. 和他比，你比较优秀
 // 这里 compared to = compared with
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
+https://react.dev/reference/react
+https://zh-hans.react.dev/reference/react
 ```
