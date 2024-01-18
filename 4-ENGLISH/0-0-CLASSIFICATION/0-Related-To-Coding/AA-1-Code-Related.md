@@ -374,6 +374,9 @@ declare 声明`
 - `declarative 声明式`
 - `functional 函数式`
 - **【 Exposing your own 【 imperative 】 methods. 】**
+- 15
+- `model 模型 模特`
+- `module 模块`
 
 ```
 compare 比较 v
