@@ -296,28 +296,13 @@ declare 声明`
 - 4
 - `structure 结构n 构成n`
 - `【 data structure. 数据结构 】`
-- // Understanding XML 【 data structure 】. 理解 XML 数据结构
+- // **【 Understanding XML 【 data structure 】. 理解 XML 数据结构 】**
 -
 - 5
-- `equal 相等的`
-- `equally 平等的 adv`
-- `equality 相等 平等 n`
-- `【 racial equality. 种族平等 】`
-- // **【 equality 平等 n: 【 Racial equality 】 is the 【 foundation 】 of world peace. 种族平等是世界和平的基础 】**
-- // `The weight of the two objects is equal. 这两个物体的重量相等`
-- // **【 One plus one equals two. 】**
-- // **【 One ton is equal to 1000 kilograms. 一顿等于 1000 千克 】**
-- // equally 平等地 adv: Men and women should be treated 【 equally 】. 男女应该被同等对待
--
-- 6
-- `primarily 主要地 adv` // mainly
-- **【 It's primarily used to improve performance. 它主要用于提升性能 】**
--
-- 7
 - `parameter 参数`
 - **【 This function receives two parameters. 这个函数接收两个参数 】**
 -
-- 8
+- 6
 - `reference 参考`
 - `documentation 文档 n`
 - `overview 概述 总览`
@@ -327,14 +312,7 @@ declare 声明`
 - Here's the 【 overview 】 of the differences between let and var. 下面是 let 和 var 的区别的【概述】
 - // -- detailed 详细的 adj
 -
-- 9
-- `break down. 分解 拆分 发生故障`
-- `section 部分 段`
-- `subsection 子部分 子段`
-- `【 break down into. 分解成... 】`
-- **【 Our The React 【 reference documentation 】 is 【 broke down into 】 functional 【 subsection 】. 】**
--
-- 10
+- 7
 - `resource 资源 资料`
 - `source 来源 源头`
 - `【 open-source module. 开源模块 】`
@@ -352,6 +330,30 @@ declare 声明`
 - // -- `infinite 无线的`
 - // TIPS: pay attention to pronunciation.
 -
+-
+-
+- 8
+- `equal 相等的`
+- `equally 平等的 adv`
+- `equality 相等 平等 n`
+- `【 racial equality. 种族平等 】`
+- // **【 equality 平等 n: 【 Racial equality 】 is the 【 foundation 】 of world peace. 种族平等是世界和平的基础 】**
+- // `The weight of the two objects is equal. 这两个物体的重量相等`
+- // **【 One plus one equals two. 】**
+- // **【 One ton is equal to 1000 kilograms. 一顿等于 1000 千克 】**
+- // equally 平等地 adv: Men and women should be treated 【 equally 】. 男女应该被同等对待
+-
+- 9
+- `primarily 主要地 adv` // mainly
+- **【 It's 【 primarily 】 used to improve performance. 它【主要】用于提升性能 】**
+-
+- 10
+- `break down. 分解 拆分 发生故障`
+- `section 部分 段`
+- `subsection 子部分 子段`
+- `【 break down into. 分解成... 】`
+- **【 Our The React 【 reference documentation 】 is 【 broke down into 】 functional 【 subsection 】. 】**
+-
 - 11
 - `defer 推迟 v`
 - `deferred -> 过去式过去分词`
@@ -368,7 +370,7 @@ declare 声明`
 - `fresh 新鲜的`
 - The opposite of stale is fresh.
 - **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
--
+-g
 - 14
 - `imperative 命令式`
 - `declarative 声明式`

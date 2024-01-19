@@ -198,7 +198,9 @@
 -
 - `stock 股票` // stuck 困住
 - `stock market. 股票市场`
-- `invest in. 投资到 投资于`
+- **【 stocking 长筒袜 】**
+- **【 stock 股票 】**
+- // `invest in. 投资到 投资于`
 - // Many people don't like to invest in stocks. 许多人不喜欢投资股票
 - // This country needs investment in education. 这个国家需要对教育进行投资
 -
