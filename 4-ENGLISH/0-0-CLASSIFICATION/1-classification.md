@@ -36,6 +36,11 @@ meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
 gold medal. 金牌
 silver medal. 银牌
 bronze medal. 铜牌
+-
+prize 奖 奖品 奖励
+【 first prize. 一等奖 】
+【 second prize. 二等奖 】
+【 I won the first prize. 我中了一等奖 】
 
 steel 钢
 iron 铁

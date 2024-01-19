@@ -1469,6 +1469,9 @@ gear 齿轮 // gears
 first gear. 一档
 second gear. 二档
 third gear. 三档
+// 【 first prize. 一等奖 】
+// 【 second prize. 二等奖 】
+// 【 I won the first prize. 我中了一等奖 】
 -
 【 pedal 踏板 】
 【 gas pedal. 油门踏板 】
@@ -1556,6 +1559,9 @@ ignition 点火 点火器
 // shift gears. 换档
 // first gear. 一档
 // second gear. 二档
+// 【 first prize. 一等奖 】
+// 【 second prize. 二等奖 】
+// 【 I won the first prize. 我中了一等奖 】
 automatic transmission. 自动档
 // This car has an automatic transmission. 这辆车有自动变速器
 steering wheel. 方向盘
