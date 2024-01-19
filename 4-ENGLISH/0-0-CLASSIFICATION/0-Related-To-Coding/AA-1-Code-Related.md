@@ -291,7 +291,8 @@ declare 声明`
 - `【 primitive culture 原始文明 】`
 - `whether or. 无论是...还是...`
 - // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
-- // 【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
+- //【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
+- // -- electricity 电 n
 -
 - 4
 - `structure 结构n 构成n`
@@ -311,6 +312,7 @@ declare 声明`
 - **【 This section provides detailed 【 reference documentation 】 for working with React. 】**
 - Here's the 【 overview 】 of the differences between let and var. 下面是 let 和 var 的区别的【概述】
 - // -- detailed 详细的 adj
+- // -- provide 提供
 -
 - 7
 - `resource 资源 资料`
@@ -318,6 +320,11 @@ declare 声明`
 - `【 open-source module. 开源模块 】`
 - `【 natural resource. 自然资源 】`
 - `【 natural gas. 天然气 】`
+- `【 shale gas. 页岩气 】`
+- `【 regular gas. 普通的汽油 】` // 87
+- `【 premium gas. 优质的汽油 】` // 93
+- // model 模型 模特 --> v-model
+- // module 模块
 - **【 'use' is a React Hook that lets you read the value of a 【 resource 】 like a Promise or context. 】**
 - **【 The 【 fossil fuels 】 ( coal and oil ) are 【 finite 】【 resources 】. 化石燃料（如煤和石油）属于有限资源 】**
 - resource 资源: The world's resource are finite. 世界的资源是有限的
@@ -370,7 +377,7 @@ declare 声明`
 - `fresh 新鲜的`
 - The opposite of stale is fresh.
 - **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
--g
+  -g
 - 14
 - `imperative 命令式`
 - `declarative 声明式`
@@ -396,3 +403,34 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects
 https://react.dev/reference/react
 https://zh-hans.react.dev/reference/react
 ```
+
+##### (三)
+
+- 1
+- `customize 定制 v`
+- // `custom 定制的adj 习俗n`
+- // `customer 顾客`
+- // `【 local custom. 当地风俗 】`
+- **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
+- **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
+- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的风俗
+- //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
+-
+- 2
+- `opt 选择` // ------ 多指在几种可能性之间进行选择
+- `prefer 较喜欢` // -- 强调偏好
+- choose
+- select
+- **【 Our students can also 【 opt 】 to stay in residence. 我们的学生也可以选择住校 】**
+- **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
+- 【 Which on do you prefer? 你更喜欢哪一个 】
+-
+- 3
+- `assume 假设`
+- `suppose 假设 推断`
+- 确定性: assume > suppose
+- 总的确定性: is > think > assume > suppose > might
+- **【 【 Suppose 】 you don't want to expose the entire <input> DOM node. 】**
+- **【 This page 【 assumes 】 you have already read the Component Basics. 】**
+- //【 assume 】 you are a successful person. 假设你是一个成功的人
+- // Let's assume that it's true.
