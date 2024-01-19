@@ -10,6 +10,12 @@
 - 2024-01-11
 - The flight is 【 descending 】 now. 飞机正在降落
 -
+- 2024-01-19
+- get around. 出行
+- cycle 自行车 周期
+- cycling 骑自行车 v/n
+- //【 Cycling 】 is a cheap way to 【 get around 】. 骑自行车是一种省钱的旅游方式
+-
 -
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
