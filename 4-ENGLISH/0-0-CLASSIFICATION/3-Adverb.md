@@ -27,3 +27,6 @@
 - `obviously 明显地`
 - `obvious 明显的`
 - // He is obviously far taller than me. 他明显比我高
+-
+- `always 总是`
+- // I'm always the first one to arrive at the company. 我总是第一个到公司

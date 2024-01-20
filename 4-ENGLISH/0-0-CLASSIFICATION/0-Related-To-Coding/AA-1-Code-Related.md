@@ -412,6 +412,8 @@ compared 比较的 adj
 - 【 social media. 社交媒体 】
 - 【 statue of liberty. 自由女神像 】
 - // liberty 自由 n
+- // social 社会的 adj
+- // @media screen and (-webkit-min-device-pixel-ratio: 2 或者 3 )
 - **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
 - **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
 - // `【 obtain 获得 v 】`
@@ -479,6 +481,27 @@ compared 比较的 adj
 - `reusable 可重复使用的`
 - `flexible 灵活的`
 - **【 By using slots, our <FancyButton> is more flexible and reusable. <FancyButton> 组件更加灵活和具有可复用性 】**
+-
+- 9
+- `determine 决定 确定 v`
+- `【 determine to do sth. 决定做某事 】`
+- `【 They 【 determine 】 to start early. 他们决定早点出发 】`
+- **【 -- Your 【 final grade 】 is 【 determined 】 by the total score. 你的【最终成绩】由总分【决定】 -- 】**
+- 【 ---- These properties 【 determine 】 the final location of positioned elements. 这些属性决定位置元素的最终位置 ---- 】
+- **【 The doctor takes the patient's 【 pulse 】 to 【 determine 】 her illness. 医生通过测量病人的脉搏来【确定】她的病情】**
+- **【 You can 【 determine 】 where content should be rerendered. 你可以【决定】哪些内容应该被重渲染 】**
+- // The next step was to 【 determine 】 where the fossils fell. 下一步是确定化石落在何处
+- // -- pulse 脉搏
+- // -- fossil 化石
+- // -- grade 年级 等级 评分 成绩
+-
+- 10
+- `according to. 根据`
+- **【 【 According to 】 the 【 weather forecast 】, it will rain today. 根据天气预报，今天会下雨 】**
+- 【 The element is positioned according to the normal flow of the document. 通过正常的文档流来定位 】
+- // 【 according to. 根据 】
+- // 【 weather forecast. 天气预报 】
+- // forecast 预测
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
