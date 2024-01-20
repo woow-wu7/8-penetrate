@@ -439,6 +439,9 @@ compared 比较的 adj
 - **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
 - **【 Which one do you prefer? 你更喜欢哪一个 】**
 - // -- residence 住宅 居住 n
+- // -- `former 前者`
+- // -- `latter 后者`
+- // -- `【 Do you choose the 【 former 】or the 【 latter 】? 你选择前者还是后者 】`
 -
 - 4
 - `customize 定制 v`
@@ -464,6 +467,7 @@ compared 比较的 adj
 - 7
 - `valid 有效的 合法的`
 - `invalid 无效的`
+- // TIPS: Pay attention to pronunciation.
 - **【 You have to enter a 【 valid 】 password to open the file. 】**
 - **【 It can be any 【 valid 】 template content. 可以是任意合法的模板内容 】**
 - // `Because it will be 【 invalid 】 the next day. 明天就失效了`
