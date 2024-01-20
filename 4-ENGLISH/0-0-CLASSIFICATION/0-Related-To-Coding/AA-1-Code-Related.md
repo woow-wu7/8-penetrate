@@ -440,7 +440,8 @@ compared 比较的 adj
 - **【 Which one do you prefer? 你更喜欢哪一个 】**
 - // -- residence 住宅 居住 n
 - // -- `former 前者`
-- // -- `latter 后者`
+- // -- `latter 后者` // TIPS: Pay attention to pronunciation.
+- // -- `later 后来adv 后来的adj`
 - // -- `【 Do you choose the 【 former 】or the 【 latter 】? 你选择前者还是后者 】`
 -
 - 4
