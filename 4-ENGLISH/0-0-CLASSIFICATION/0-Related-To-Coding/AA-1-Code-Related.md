@@ -405,26 +405,22 @@ compared 比较的 adj
 ##### (三)
 
 - 1
-- `customize 定制 v`
-- // `custom 定制的adj 习俗n`
-- // `customer 顾客`
-- // `【 local custom. 当地风俗 】`
-- **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
-- **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
-- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的【风俗】
-- //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
+- `status 状态 身份 地位 n`
+- `state 状态 n`
+- `statue 雕像`
+- 【 social status. 社会地位 】
+- 【 social media. 社交媒体 】
+- 【 statue of liberty. 自由女神像 】
+- // liberty 自由 n
+- **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
+- **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
+- // `【 obtain 获得 v 】`
+- // `【 ciphertext 密文 】`
+- // `--【 encrypt 加密 v 】`
+- // `--【 decrypt 解密 v 】`
+- // It is the 【 ciphertext 】【 obtained 】 after 【 encrypting 】data such as UserID. 是 UserID 等数据经过加密后得到的密文
 -
 - 2
-- `opt 选择` // ------ 多指在几种可能性之间进行选择
-- `prefer 较喜欢` // -- 强调偏好
-- choose
-- select
-- **【 Our students can also 【 opt 】 to stay in residence. 我们的学生也可以选择住校 】**
-- **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
-- **【 Which one do you prefer? 你更喜欢哪一个 】**
-- // --residence 住宅 居住 n
--
-- 3
 - `assume 假设`
 - `suppose 假设 推断 认为`
 - 确定性: assume > suppose
@@ -434,25 +430,50 @@ compared 比较的 adj
 - //【 assume 】 you are a successful person. 假设你是一个成功的人
 - // Let's 【 assume 】 that it's true.
 -
+- 3
+- `opt 选择` // ------ 多指在几种可能性之间进行选择
+- `prefer 较喜欢` // -- 强调偏好
+- choose
+- select
+- **【 Our students can also 【 opt 】 to stay in residence. 我们的学生也可以选择住校 】**
+- **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
+- **【 Which one do you prefer? 你更喜欢哪一个 】**
+- // -- residence 住宅 居住 n
+-
 - 4
+- `customize 定制 v`
+- // `custom 定制的adj 习俗n`
+- // `customer 顾客`
+- // `【 local custom. 当地风俗 】`
+- **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
+- **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
+- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的【风俗】
+- //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
+-
+- 5
 - `overuse 滥用 过度使用 v/n`
 - **【 Do not 【 overuse 】 refs. 不要滥用 ref 】**
 - Which words or phrases do you most 【 overuse 】? 您最过度使用哪些单词或短语？
 -
-- 5
+- 6
 - `multiple 多个的 多种的 倍数`
 - **【 support 【 multiple 】 message types. 支持多种消息类型 】**
 - 【 He died of 【 multiple 】 injuries. 他死于多处受伤 】
 - // -- injury 伤害 n
 -
-- 6
-- `status 状态 身份 地位 n`
-- `state 状态 n`
-- `statue 雕像`
-- 【 social status. 社会地位 】
-- 【 statue of liberty. 自由女神像 】
-- **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
-- statue 雕像: 【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征
+- 7
+- `valid 有效的 合法的`
+- `invalid 无效的`
+- **【 You have to enter a 【 valid 】 password to open the file. 】**
+- **【 It can be any 【 valid 】 template content. 可以是任意合法的模板内容 】**
+- // `Because it will be 【 invalid 】 the next day. 明天就失效了`
+- // The official stamp showed that the document was valid. 这枚公章证明这份文件是有效的
+- // The paper will be valid after it is stamped. 文件在盖章后有效
+-
+- 8
+- `reusable 可重复使用的`
+- `flexible 灵活的`
+- **【 By using slots, our <FancyButton> is more flexible and reusable. <FancyButton> 组件更加灵活和具有可复用性 】**
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
