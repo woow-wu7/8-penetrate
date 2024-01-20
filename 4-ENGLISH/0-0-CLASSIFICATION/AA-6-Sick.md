@@ -1,5 +1,11 @@
 ###### (一) Sick
 
+- 2024-01-20
+- 1
+- tumor 肿瘤 瘤
+- // She 【 died of 】 a brain tumor. 她死于脑瘤
+-
+-
 - `medicine 医疗的 内科 --------- medical department. 内科`
 - `surgery 外科手术 外科 -------- surgical department. 外科 // surgeon 外科医生`
 - `English vocabulary related to illness 生病相关的英语词汇`

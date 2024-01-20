@@ -305,7 +305,8 @@ declare 声明`
 - **【 This function receives two parameters. 这个函数接收两个参数 】**
 -
 - 6
-- `reference 参考`
+- `reference 参考 n`
+- `refer 参考 v`
 - `documentation 文档 n`
 - `overview 概述 总览`
 - **【 reference documentation. 参考文档 】**
@@ -412,7 +413,8 @@ compared 比较的 adj
 - 【 social media. 社交媒体 】
 - 【 statue of liberty. 自由女神像 】
 - // liberty 自由 n
-- // social 社会的 adj
+- // 【 social 社会的 adj 】
+- // 【 society 社会 n 】
 - // @media screen and (-webkit-min-device-pixel-ratio: 2 或者 3 )
 - **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
 - **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
@@ -437,7 +439,7 @@ compared 比较的 adj
 - `prefer 较喜欢` // -- 强调偏好
 - choose
 - select
-- **【 Our students can also 【 opt 】 to stay in residence. 我们的学生也可以选择住校 】**
+- **【 Our students can also 【 opt 】 to stay in 【 residence 】. 我们的学生也可以选择住校 】**
 - **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
 - **【 Which one do you prefer? 你更喜欢哪一个 】**
 - // -- residence 住宅 居住 n
@@ -453,19 +455,25 @@ compared 比较的 adj
 - // `【 local custom. 当地风俗 】`
 - **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
 - **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
-- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的【风俗】
+- // It's our 【 custom 】 to 【 have dragon boat racing 】 at this 【 festival 】. 在这个节日里，赛龙舟是我们的【风俗】
 - //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
+- // -- dragon boat. 龙舟
+- // -- festival 节日
 -
 - 5
-- `overuse 滥用 过度使用 v/n`
+- `overuse 过度使用 滥用 v/n`
 - **【 Do not 【 overuse 】 refs. 不要滥用 ref 】**
 - Which words or phrases do you most 【 overuse 】? 您最过度使用哪些单词或短语？
 -
 - 6
 - `multiple 多个的 多种的 倍数`
-- **【 support 【 multiple 】 message types. 支持多种消息类型 】**
-- 【 He died of 【 multiple 】 injuries. 他死于多处受伤 】
-- // -- injury 伤害 n
+- **【 support 【 multiple 】 message types. 支持【多种】消息类型 】**
+- 【 He 【 died of 】 【 multiple 】 injuries. 他死于多处受伤 】
+- She 【 died of 】 a brain tumor. 她死于脑瘤
+- // -- injury 伤害 n ---> injuries
+- // -- died of. 死于
+- // -- die 死亡
+- // -- tumor 肿瘤
 -
 - 7
 - `valid 有效的 合法的`
@@ -476,13 +484,9 @@ compared 比较的 adj
 - // `Because it will be 【 invalid 】 the next day. 明天就失效了`
 - // The official stamp showed that the document was valid. 这枚公章证明这份文件是有效的
 - // The paper will be valid after it is stamped. 文件在盖章后有效
+- // -- stamp 邮票/印章/n 印/踩/贴邮票 v
 -
 - 8
-- `reusable 可重复使用的`
-- `flexible 灵活的`
-- **【 By using slots, our <FancyButton> is more flexible and reusable. <FancyButton> 组件更加灵活和具有可复用性 】**
--
-- 9
 - `determine 决定 确定 v`
 - `【 determine to do sth. 决定做某事 】`
 - `【 They 【 determine 】 to start early. 他们决定早点出发 】`
@@ -490,18 +494,54 @@ compared 比较的 adj
 - 【 ---- These properties 【 determine 】 the final location of positioned elements. 这些属性决定位置元素的最终位置 ---- 】
 - **【 The doctor takes the patient's 【 pulse 】 to 【 determine 】 her illness. 医生通过测量病人的脉搏来【确定】她的病情】**
 - **【 You can 【 determine 】 where content should be rerendered. 你可以【决定】哪些内容应该被重渲染 】**
-- // The next step was to 【 determine 】 where the fossils fell. 下一步是确定化石落在何处
+- // The next step was to 【 determine 】 where the 【 fossils 】 fell. 下一步是确定化石落在何处
 - // -- pulse 脉搏
 - // -- fossil 化石
 - // -- grade 年级 等级 评分 成绩
 -
-- 10
+- 9
 - `according to. 根据`
 - **【 【 According to 】 the 【 weather forecast 】, it will rain today. 根据天气预报，今天会下雨 】**
 - 【 The element is positioned according to the normal flow of the document. 通过正常的文档流来定位 】
 - // 【 according to. 根据 】
 - // 【 weather forecast. 天气预报 】
 - // forecast 预测
+-
+- 10
+- `reusable 可重复使用的`
+- `flexible 灵活的`
+- **【 By using slots, our <FancyButton> is more flexible and reusable. <FancyButton> 组件更加灵活和具有可复用性 】**
+
+##### (四)
+
+- 1
+- `except for. 除了`
+- **【 The walls were 【 bare 】【 except for 】 a clock. 墙上除了一只挂钟什么也没有 】**
+- The room was silent 【 except for 】 the TV. 除了电视的声音，那房间里寂静无声
+- // -- bare 裸露的 adj
+- // -- silent 安静的 沉默的 adj
+-
+- 2
+- `real-time 实时的`
+- `【 real-time chat. 实时聊天 】`
+- **【 you can efficiently integrate real-time chat into your client app. 您可以有效地将实时聊天集成到您的客户端应用程序中 】**
+- Get real-time assistance with your coding queries. 获得编码查询的实时帮助
+- // -- 【 integrate 整合 合并 集成 v 】
+- // -- 【 integrate into. 融入 】
+- // -- 【 Integrate into a new job. 融入新的工作环境 】
+- // -- `Integrate into society. 融入社会`
+- // -- `social 社会的 v`
+- // -- `society 社会 n`
+- // -- `【 social status. 社会地位 】`
+- // -- `【 social media. 社交媒体 】`
+-
+- 3
+- `refer 参考 v`
+- `reference 参考 n`
+- `【 refer to. 参考 】`
+- **【 For details, please refer to the documentation. 详细情况，请参考说明文档 】**
+- //【 reference documentation. 参考文档 】
+- //【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
