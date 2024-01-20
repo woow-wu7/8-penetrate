@@ -186,6 +186,50 @@
 - `supervise 监督 指导`
 - // How do you supervise this? 你怎样监督呢？
 
+##### (1) Some questions that must be asked.
+
+```
+1. The first question is definitely tell me a little bit about yourself.
+
+2. What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的成就是什么？
+// accomplish 完成 v
+// accomplishment 成就 完成 n
+// 【 major accomplishment. 重大成就 】
+
+3.
+What's your biggest weakness?
+What are your strengths and weaknesses?
+// 1
+// I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
+// --【 have a hard time doing sth. 做某事有困难 】
+// 2
+// I'm too much of a perfectionist. 我太完美主义了
+// -- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// -- I have a hard time balancing my work and life. 我很难平衡工作和生活
+// 3
+//【 I'm very punctual, so I always can meet the project deadlines. 】
+// I'm very 【 punctual 】. 我十分守时
+// -- punctual 准时的
+// 4
+// 【 He likes to 【 brag 】. 他爱吹牛 】
+// -- brag 吹嘘
+
+1. Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
+//【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
+// candidate 候选人
+// prime 主要的
+// promotion 晋级
+// -- candidate 候选人
+// -- candy 糖果
+// -- sugar 糖
+
+1. How long have you been working here? 你在这里工作多久了？
+2. How long have you been studying here? 你在这里学习多久了？
+// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
+```
+
+##### (2) Details
+
 ```
 strength 优势 强度
 weakness 劣势 虚弱
@@ -307,37 +351,4 @@ routine work. 日常工作
 contribute 贡献 捐赠
 immigrate 移民
 // Immigrants have contributed to British culture in many ways. 移民在许多方面都对英国文化有所贡献
-```
-
-##### (1) Some questions that must be asked.
-
-```
-1. The first question is definitely tell me a little bit about yourself.
-
-2. What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的成就是什么？
-// accomplish 完成 v
-// accomplishment 成就 完成 n
-// 【 major accomplishment. 重大成就 】
-
-3.
-What's your biggest weakness?
-What are your strengths and weaknesses?
-// -- I have a hard time balancing my work and life. 我很难平衡工作和生活
-// --【 have a hard time doing sth. 做某事有困难 】
-// I'm too much of a perfectionist. 我太完美主义了
-// ------- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
-// ------- I have a hard time balancing my work and life. 我很难平衡工作和生活
-
-4. Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
-//【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
-// candidate 候选人
-// prime 主要的
-// promotion 晋级
-// -- candidate 候选人
-// -- candy 糖果
-// -- sugar 糖
-
-5. How long have you been working here? 你在这里工作多久了？
-5. How long have you been studying here? 你在这里学习多久了？
-// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
 ```
