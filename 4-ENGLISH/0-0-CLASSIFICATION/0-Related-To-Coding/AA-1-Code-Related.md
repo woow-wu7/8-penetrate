@@ -293,6 +293,7 @@ declare 声明`
 - // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
 - //【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
 - // -- electricity 电 n
+- // -- primitive 原始的 adj
 -
 - 4
 - `structure 结构n 构成n`
@@ -309,10 +310,13 @@ declare 声明`
 - `overview 概述 总览`
 - **【 reference documentation. 参考文档 】**
 - **【 React reference overview. React 参考概述/参考总览 】**
-- **【 This section provides detailed 【 reference documentation 】 for working with React. 】**
-- Here's the 【 overview 】 of the differences between let and var. 下面是 let 和 var 的区别的【概述】
-- // -- detailed 详细的 adj
-- // -- provide 提供
+- **【 This 【 section 】 provides 【 detailed 】 【 reference documentation 】 for working with React. 】**
+- Here's the 【 overview 】 of the differences between let and var. 这是 let 和 var 的区别的【概述】
+- // -- detail 详情 细节 n
+- // -- 【 detailed 详细的 adj 】
+- // -- 【 provide 提供 】
+- // -- `section 部分 段`
+- // -- `subsection 子部分 子段`
 -
 - 7
 - `resource 资源 资料`
@@ -325,11 +329,12 @@ declare 声明`
 - `【 premium gas. 优质的汽油 】` // 93
 - // model 模型 模特 --> v-model
 - // module 模块
+- // v-model can be used on a component to implement a 【 two-way binding 】. v-model 可以用于组件上以实现双向绑定
 - **【 'use' is a React Hook that lets you read the value of a 【 resource 】 like a Promise or context. 】**
 - **【 The 【 fossil fuels 】 ( coal and oil ) are 【 finite 】【 resources 】. 化石燃料（如煤和石油）属于有限资源 】**
-- resource 资源: The world's resource are finite. 世界的资源是有限的
+- resource 资源: The world's 【 resource 】 are 【 finite 】. 世界的【资源】是【有限】的
 - resource 资源: We depend on the Earth's resources to survive. 我们依靠地球提供的资源生存
-- source 来源: 【 What is their main source of income? 他们的主要收入来源是什么？ 】
+- source 来源: 【 What is their main 【 source 】 of income? 他们的主要收入来源是什么？ 】
 - // -- fossil 化石 n 化石的 adj
 - // -- fuel 燃料
 - // -- `【 fossil fuels. 化石燃料 】`
@@ -337,9 +342,21 @@ declare 声明`
 - // -- `infinite 无线的`
 - // TIPS: pay attention to pronunciation.
 -
--
--
 - 8
+- `attempt 尝试 v n`
+- **【 React will first 【 attempt 】 a re-render with the old value. 】**
+- The cat 【 attempts 】 to catch that fish. 那只猫咪试图抓到那条鱼
+-
+- 9
+- `stale 陈旧的`
+- `fresh 新鲜的`
+- The opposite of stale is fresh.
+- **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
+-
+-
+-
+-
+- 10
 - `equal 相等的`
 - `equally 平等的 adv`
 - `equality 相等 平等 n`
@@ -349,43 +366,31 @@ declare 声明`
 - // **【 One plus one equals two. 】**
 - // **【 One ton is equal to 1000 kilograms. 一顿等于 1000 千克 】**
 - // equally 平等地 adv: Men and women should be treated 【 equally 】. 男女应该被同等对待
+- // -- foundation 基础 n
+- // -- racial equality. 种族平等
 -
-- 9
+- 11
 - `primarily 主要地 adv` // mainly
 - **【 It's 【 primarily 】 used to improve performance. 它【主要】用于提升性能 】**
 -
-- 10
+- 12
 - `break down. 分解 拆分 发生故障`
 - `section 部分 段`
 - `subsection 子部分 子段`
 - `【 break down into. 分解成... 】`
 - **【 Our The React 【 reference documentation 】 is 【 broke down into 】 functional 【 subsection 】. 】**
 -
-- 11
+- 13
 - `defer 推迟 v`
 - `deferred -> 过去式过去分词`
 - `version 版本`
 - **【 Call useDeferredValue at the top level of your component to get a 【 deferred 】 【 version 】 of that value. 】**
 -
-- 12
-- `attempt 尝试 v n`
-- React will first 【 attempt 】 a re-render with the old value.
-- The cat 【 attempts 】 to catch that fish. 那只猫咪试图抓到那条鱼
--
-- 13
-- `stale 陈旧的`
-- `fresh 新鲜的`
-- The opposite of stale is fresh.
-- **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
-  -g
 - 14
 - `imperative 命令式`
 - `declarative 声明式`
 - `functional 函数式`
 - **【 Exposing your own 【 imperative 】 methods. 】**
-- 15
-- `model 模型 模特`
-- `module 模块`
 
 ```
 compare 比较 v
@@ -397,13 +402,6 @@ compared 比较的 adj
 // 这里 compared to = compared with
 ```
 
-```
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
-https://react.dev/reference/react
-https://zh-hans.react.dev/reference/react
-```
-
 ##### (三)
 
 - 1
@@ -413,7 +411,7 @@ https://zh-hans.react.dev/reference/react
 - // `【 local custom. 当地风俗 】`
 - **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
 - **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
-- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的风俗
+- // It's our 【 custom 】 to have dragon boat racing at this festival. 在这个节日里，赛龙舟是我们的【风俗】
 - //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
 -
 - 2
@@ -423,14 +421,44 @@ https://zh-hans.react.dev/reference/react
 - select
 - **【 Our students can also 【 opt 】 to stay in residence. 我们的学生也可以选择住校 】**
 - **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
-- 【 Which on do you prefer? 你更喜欢哪一个 】
+- **【 Which one do you prefer? 你更喜欢哪一个 】**
+- // --residence 住宅 居住 n
 -
 - 3
 - `assume 假设`
-- `suppose 假设 推断`
+- `suppose 假设 推断 认为`
 - 确定性: assume > suppose
 - 总的确定性: is > think > assume > suppose > might
 - **【 【 Suppose 】 you don't want to expose the entire <input> DOM node. 】**
 - **【 This page 【 assumes 】 you have already read the Component Basics. 】**
 - //【 assume 】 you are a successful person. 假设你是一个成功的人
-- // Let's assume that it's true.
+- // Let's 【 assume 】 that it's true.
+-
+- 4
+- `overuse 滥用 过度使用 v/n`
+- **【 Do not 【 overuse 】 refs. 不要滥用 ref 】**
+- Which words or phrases do you most 【 overuse 】? 您最过度使用哪些单词或短语？
+-
+- 5
+- `multiple 多个的 多种的 倍数`
+- **【 support 【 multiple 】 message types. 支持多种消息类型 】**
+- 【 He died of 【 multiple 】 injuries. 他死于多处受伤 】
+- // -- injury 伤害 n
+-
+- 6
+- `status 状态 身份 地位 n`
+- `state 状态 n`
+- `statue 雕像`
+- 【 social status. 社会地位 】
+- 【 statue of liberty. 自由女神像 】
+- **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
+- statue 雕像: 【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征
+
+```
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
+https://react.dev/reference/react
+https://zh-hans.react.dev/reference/react
+https://cn.vuejs.org/guide/introduction.html
+https://vuejs.org/guide/introduction.html
+```
