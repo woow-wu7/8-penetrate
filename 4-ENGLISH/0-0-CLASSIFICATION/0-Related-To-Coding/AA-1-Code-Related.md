@@ -152,6 +152,7 @@
 - `recommended 被推荐的adj 推荐过去式v`
 - `approach 方法n 方式n 靠近v`
 - // **【 Starting in Vue 3.4, the 【 recommended 】【 approach 】to achieve this is using the defineModel() macro. 】**
+- // AA. approach 方法 n: `【 use the following 【 approach 】. 使用以下方法 】`
 - // AA. approach 靠近 v: The ship is 【 approaching 】 the shore at a high speed. 这艘船正以很快的速度靠近岸边
 - // ------------ shore 海岸
 - // BB. `------- Can you recommend a good hotel? 你能推荐一家好的酒店吗？`
@@ -591,6 +592,35 @@ compared 比较的 adj
 - **【 1. You'll have the ability to 【 snooze 】 this notification for 【 up to 】 a week. 您可以暂停此通知长达一周 】**
 - **【 2. It's up to you. 由你决定 】**
 - // -- snooze 小睡 打盹
+-
+- 8
+- `deadline 最后期限`
+- **【 This 【 snooze 】 【 period 】 only starts 【 once 】 you've signed in after the 【 deadline 】. 】**
+- // so if you're on vacation or out of office, you'll still get that one week period to set up 2FA when you're back.
+- // 1
+- // -- `【 once 一次 一旦 当...的时候 】`
+- // -- once 一旦: 【 You see how easy it is 【 once 】 the 【 decision 】 is made. 你看一旦做出抉择，事情就多容易啊 】
+- // -- once 当...的时候: 【 This snooze period only starts 【 once 】 you've signed in after the deadline. 】
+- // 2
+- // -- `snooze 小睡 打盹` // TIPS: Pay attention to pronunciation.
+- // -- `period 时期` // TIPS: Pay attention to pronunciation.
+-
+- 9
+- `repository 仓库`
+- `critical 关键的 至关重要的`
+- `【 critical repository. 关键的仓库 】`
+- **【 You become the 【 maintainer 】 of a 【 critical repository 】. 你成为一个关键存储库的维护者 】**
+- // -- repository 仓库
+- // -- critical 关键的
+- // -- `maintainer 维护者`
+- // -- `maintain 保持 维护 v`
+- // -- maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
+-
+- 10
+- `following 下列的adj 下列n 跟随v`
+- **【 In order to gain the TypeScript typings while using CommonJS imports with require() use the following approach 】**
+- // approach 方法 n 靠近 v
+- // in order to. 为了
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
