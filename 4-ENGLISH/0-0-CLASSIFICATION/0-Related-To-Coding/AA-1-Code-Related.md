@@ -332,6 +332,8 @@ declare 声明`
 - // -- 【 provide 提供 】
 - // -- `section 部分 段`
 - // -- `subsection 子部分 子段`
+- 【 refer to. 参考 】
+- 【 For details, please refer to the documentation. 详细情况，请参考说明文档 】
 -
 - 7
 - `resource 资源 资料`
@@ -564,8 +566,31 @@ compared 比较的 adj
 -
 - 4
 - `ecosystem 生态系统`
+- `【 marine ecosystem. 海洋生态系统 】`
+- **【 We should not 【 destroy 】 the 【 ecosystem 】. 我们不应该去破坏生态系统 】**
+- // -- destroy 破坏
+- // -- marine ecosystem. 海洋生态系统
+-
+- 5
 - `facial recognition. 人脸识别`
-- `additional 额外的 adj`
+- **【 【 Facial recognition 】 technology is already very 【 mature 】. 人脸识别技术已经很成熟了 】**
+- // -- face 脸 n 面对 v
+- // -- facial 面部的 adj
+- // -- recognize 识别 v
+- // -- recognition 识别 n
+- // -- `【 facial recognition. 人脸识别 】`
+- // -- mature 成熟 v 成熟的 adj
+-
+- 6
+- `roll out. 推出 出发`
+- **【 1. The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机 】**
+- **【 2. now, roll out. 出发 】**
+-
+- 7
+- `up to. 达到 接近于 由...决定`
+- **【 1. You'll have the ability to 【 snooze 】 this notification for 【 up to 】 a week. 您可以暂停此通知长达一周 】**
+- **【 2. It's up to you. 由你决定 】**
+- // -- snooze 小睡 打盹
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
