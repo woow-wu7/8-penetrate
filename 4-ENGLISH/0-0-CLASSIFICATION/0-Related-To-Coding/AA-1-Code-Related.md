@@ -10,7 +10,9 @@
 - // previously 之前地 adv
 - `Assign an initial value of 1 to your variable.`
 - // `【 primitive values. 原始值 】`
-- // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
+- // `【 primitive man. 原始人 】`
+- // `【 primitive culture. 原始文明 】`
+- // **【 【 previously 】, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 - // **【 variable 变量: A variable is used to store information. 】**
 - // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
 -
@@ -19,7 +21,8 @@
 - `project 项目`
 - `advantage 优点 优势`
 - `disadvantage 缺点`
-- tech stacks. 技术栈
+- 【 tech stacks. 技术栈 】
+- 【 high-tech: 高科技的 】
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 我使用 Vue 和 React 技术栈开发项目 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 - // ------- **【 both the keywords let and var are used to declare variables. 】**
@@ -38,6 +41,8 @@
 - // **【 I implemented a UI component library using Vite, Webpack, Typescript and Vue3. 】**
 - // Uncaught Error: 🍍: Store "counter" is built using the setup syntax and does not implement $reset().
 - // Type vs Interface -> Type cannot be extended and implemented but Interface can.
+- // uncaught 未捕获
+- // catch 抓住 捕获 -> caught
 -
 - 5
 - `advantage 优点 优势` // strength weakness
@@ -51,12 +56,19 @@
 - // probable 可能的 adj
 - // probably 可能 adv
 - // **【 The main function of this app is to help drivers to reduce the probability of accidents when they are driving. 】**
+- // 【 The probability of failure is very low. 失败的概率很低 】
+- // -- `fail 失败 v`
+- // -- `failure 失败 n 失败的人 n`
+- // -- `failed 失败的 adj / 过去式过去分词`
+- // -- **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
 -
 - 7
 - `technical support. 技术支持`
 - `such as. 例如`
-- // technical 技术的 adj
 - // **【 After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer. 】**
+- // technical 技术的 adj
+- // operate 操作 v
+- // operation 手术 行动 n
 -
 - 8
 - `track 追踪v 轨道n`
@@ -82,7 +94,7 @@
 - // 【 private property. 私有财产 】
 - // 【 private conversation. 私人谈话 】
 - // 【 personal privacy. 个人隐私 】
-- // **【 -- Recursively traverse all properties of an object. 递归遍历对象的所有属性 】**
+- // **【 -- 【 Recursively traverse 】 all 【 properties 】 of an object. 递归遍历对象的所有属性 】**
 -
 - 11
 - `communication 通信 交流`
@@ -92,13 +104,13 @@
 -
 - 12
 - `previously 先前 之前 adv` // previous previously
+- `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
 - `declare 声明` // redeclare
 - `redeclare 重复声明`
-- `previous 之前的adj 上一个adj` // TIPS: pay attention to pronunciation.
 - // **【 previously, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
-- // -- obviously 明显地
-- // -- obvious 明显的
-- // -- He is obviously far taller than me. 他明显比我高
+- // -- obvious 明显的 // ------- previous
+- // -- `obviously 明显地` // ----- previously
+- // -- `He is 【 obviously 】 far taller than me. 他明显比我高`
 -
 - 13
 - `particular 特定的 特别的 详情`
@@ -109,6 +121,7 @@
 - // **【 can be accessed only inside. 】**
 - // -- specific 具体的
 - // -- indicator 指示器
+- // -- particular 特定的 特别的
 - // -- **【 There are several specific indicators of success. 成功有几个具体的指标 】**
 -
 - 14
@@ -129,24 +142,24 @@
 - 15
 - `two-way binding. 双向绑定`
 - two-way. 双向 双向的
-- // **【 v-model can be used on a component to implement a 【 two-way binding 】. v-model 可以用于组件上以实现双向绑定 】**
+- // **【 v-model can be used on a component to 【 implement 】 a 【 two-way binding 】. v-model 可以用于组件上以实现双向绑定 】**
 - // **【 v-model can be used in two ways. 】**
 - // **【 There are two ways to use v-model. 】**
 - // Trust is a two way thing. 信任是相互的
 -
 - 16
-- `approach 方法n 方式n 靠近v`
 - `recommend 推荐 v`
 - `recommended 被推荐的adj 推荐过去式v`
+- `approach 方法n 方式n 靠近v`
 - // **【 Starting in Vue 3.4, the 【 recommended 】【 approach 】to achieve this is using the defineModel() macro. 】**
-- // AA. approach 靠近 v: The ship is approaching the shore at a high speed. 这艘船正以很快的速度靠近岸边
-- // -- shore 海岸
-- // BB. Can you recommend a good hotel? 你能推荐一家好的酒店吗？
+- // AA. approach 靠近 v: The ship is 【 approaching 】 the shore at a high speed. 这艘船正以很快的速度靠近岸边
+- // ------------ shore 海岸
+- // BB. `------- Can you recommend a good hotel? 你能推荐一家好的酒店吗？`
 - // CC: **【 The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它 】** // recommended
 - // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
 - // DD: **【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】**
-- // -- retail price. 零售价
+- // -- 【 retail price. 零售价 】
 - // -- retail 零售 v n 零售的 adj
 -
 - 17
@@ -180,7 +193,7 @@
 - 【 virtual DOM. 虚拟 DOM 】
 - `essential 本质的 adj`
 - `essentially 本质地 adv`
-- // actual
+- // actual 真实的
 - // virtual 虚拟的
 - // virtue 美德
 - // **【 【 Virtual DOM 】 is 【 essentially 】 an object in javascript. 虚拟 DOM 本质上就是一个 javascript 中的对象 】**
@@ -270,6 +283,7 @@ declare 声明`
 
 - 1
 - `tech stack. 技术栈`
+- `high-tech: 高科技的`
 - // heap 堆
 - // stack 栈
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
@@ -439,6 +453,11 @@ compared 比较的 adj
 - `prefer 较喜欢` // -- 强调偏好
 - choose
 - select
+- // prefer 更喜欢 v
+- // preferred 更喜欢的 adj / 过去分词过去式
+- //【 Set your 【 preferred 】 method to use for password when sign into Github. 设置您在登录 Github 时用于密码的首选方法 】
+- // --【 Use a preferred way to implement it. 使用较好的方法来实现它 】
+- // -- The 【 recommended 】 way to use it is through the IDE plugins. 建议通过 IDE 插件使用它
 - **【 Our students can also 【 opt 】 to stay in 【 residence 】. 我们的学生也可以选择住校 】**
 - **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
 - **【 Which one do you prefer? 你更喜欢哪一个 】**
@@ -471,7 +490,7 @@ compared 比较的 adj
 - 【 He 【 died of 】 【 multiple 】 injuries. 他死于多处受伤 】
 - She 【 died of 】 a brain tumor. 她死于脑瘤
 - // -- injury 伤害 n ---> injuries
-- // -- died of. 死于
+- // -- 【 died of. 死于 】
 - // -- die 死亡
 - // -- tumor 肿瘤
 -
@@ -542,6 +561,11 @@ compared 比较的 adj
 - **【 For details, please refer to the documentation. 详细情况，请参考说明文档 】**
 - //【 reference documentation. 参考文档 】
 - //【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】
+-
+- 4
+- `ecosystem 生态系统`
+- `facial recognition. 人脸识别`
+- `additional 额外的 adj`
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
