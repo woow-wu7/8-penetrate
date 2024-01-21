@@ -442,8 +442,8 @@ compared 比较的 adj
 - // It is the 【 ciphertext 】【 obtained 】 after 【 encrypting 】data such as UserID. 是 UserID 等数据经过加密后得到的密文
 -
 - 2
-- `assume 假设`
-- `suppose 假设 推断 认为`
+- `assume 假设 v`
+- `suppose 假设 推断 认为 v`
 - 确定性: assume > suppose
 - 总的确定性: is > think > assume > suppose > might
 - **【 【 Suppose 】 you don't want to expose the entire <input> DOM node. 】**
@@ -619,8 +619,46 @@ compared 比较的 adj
 - 10
 - `following 下列的adj 下列n 跟随v`
 - **【 In order to gain the TypeScript typings while using CommonJS imports with require() use the following approach 】**
+- // 1
 - // approach 方法 n 靠近 v
+- // approach 方法 n: `【 use the following 【 approach 】. 使用以下方法 】`
+- // approach 靠近 v: The ship is 【 approaching 】 the shore at a high speed. 这艘船正以很快的速度靠近岸边
+- // 2
 - // in order to. 为了
+
+##### (五)
+
+- 1
+- `minimal example. 最小的例子`
+- // `minimal 最小的` -> min + imal
+- // `maximal 最大的` -> max + imal
+-
+- 2
+- `thread 线程`
+- `process 线程`
+- 【 single threaded. 单线程 】
+- 【 main thread. 主线程 】
+- 【 sub thread. 子线程 】
+- **【 Why Javascript is a single-thread language. 】**
+- **【 What does it mean by Javascript is 【 single threaded 】 language. 】**
+-
+- 3
+- `invoke 调用 v`
+- **【 A function that isn't invoked will not be executed. 未调用的函数将不会被执行 】**
+- // -- invoke 调用 v
+- // -- execute 执行 v
+- // 1
+- // ---- a couple of times. 好几次
+- // ---- have no idea. 不知道
+- // ---- Chances are you have heard that statement a couple times and have no idea what it means or you don't full understand it.
+- // 2
+- // -- simplest possible form. 最简单的形式
+- // -- `【 in the simplest possible form. 用最简单的形式 】`// 固定搭配
+- // -- **【 I'm going to try to explain what it means 【 in the simplest possible form 】. 】**
+- // -- simple -> simplest // TIPS: pay attention to pronunciation.
+- // -- `【 form 表格 形态 形式 】`
+- // -- **【 form 形态: Water has there forms: gas, solid and liquid. 水有三种【形态】-气体固体液体 】**
+- // -- **【 form 形式: in the simplest possible form. 用最简单的形式 】**
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
