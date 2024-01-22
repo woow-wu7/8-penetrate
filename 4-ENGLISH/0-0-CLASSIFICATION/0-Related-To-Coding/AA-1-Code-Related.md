@@ -640,6 +640,10 @@ compared 比较的 adj
 - 2
 - `thread 线程`
 - `process 线程`
+- `-- multi 多 多种 n`
+- `-- multiple 多的 多种的 adj`
+- single-thread. 单线程
+- multi-thread. 多线程
 - 【 single threaded. 单线程 】
 - 【 main thread. 主线程 】
 - 【 sub thread. 子线程 】
@@ -648,7 +652,7 @@ compared 比较的 adj
 -
 - 3
 - `invoke 调用 v`
-- **【 A function that isn't invoked will not be executed. 未调用的函数将不会被执行 】**
+- **【 A function that isn't 【 invoked 】 will not be 【 executed 】. 未调用的函数将不会被执行 】**
 - // -- invoke 调用 v
 - // -- execute 执行 v
 - // 1
@@ -663,6 +667,53 @@ compared 比较的 adj
 - // -- `【 form 表格 形态 形式 】`
 - // -- **【 form 形态: Water has there forms: gas, solid and liquid. 水有三种【形态】-气体固体液体 】**
 - // -- **【 form 形式: in the simplest possible form. 用最简单的形式 】**
+- // -- liquid
+- // -- fluid
+-
+- 4
+- `community 社区`
+- **【 You're now a part of the 【 community 】. 您现在是社区的一部分 】**
+-
+- 5
+- `post 邮递n 邮政n 帖子n 发布v`
+- `poster 海报`
+- **【 Write your first DEV 【 Community 】【 post 】. 写下你的第一个 DEV【社区】【帖子】 】**
+- // This 【 poster 】 consists of 【 Russian 】 【 cultural 】 icons. 这张海报由俄罗斯文化象征构成
+-
+- 6
+- `behind the scene. 幕后的 在后台 adj`
+- `scene 现场 场景 景象`
+- 【 crime scene. 犯罪现场 】
+- // He is collecting 【 evidence 】 at the 【 crime scene 】. 他正在【犯罪现场】收集【证据】
+- // I like 【 urban 】 environments, especially the night scenes. 我喜欢城市的环境，尤其是夜景
+- // The sunset over the road created quite a beautiful scene. 道路尽头的日落创造了一幅美丽的景象
+- // -- `rural area. 农村`
+- // -- `urban area. 城市 市区`
+-
+- 7
+- `leak 泄漏`
+- `【 memory leak. 内存泄露 】`
+- **【 When variable is not used anymore, the memory in heaps will automatically be freed to prevent memory leaks. 】**
+- // -- leak 泄漏
+- // -- lake 湖
+- // -- 【 The programmer needs to fix the 【 memory leak 】 issue in the software. 程序员需要修复软件中的内存泄漏问题 】
+- // -- 【 water had started to 【 leak 】 into the cellar. 水已开始渗入地下室 】
+-
+- 8
+- `take up. 拿起 占用`
+- **【 They 【 take up 】memory when those DOM elements are active. 当这些 DOM 元素处于活动状态时，它们会占用内存 】**
+- // -- `【 take up. 拿起 占用 】`
+- // -- `【 pick up. 捡起 接人 】`
+- // -- pick up. 捡起: We must pick up rubbish and keep our city clean. 我们必须捡起垃圾，保持城市清洁
+- // -- pick up. 接人: I'm going to the airport to pick up my friend. = I'm going to pick up my friend at the airport.
+-
+- 9
+- `conclusion 结论 结尾 n`
+- `performance 表演 性能 n`
+- **【 【 conclusion 】: This will help improving the 【 performance 】 of your app. 】**
+- // -- help doing. 有助于做某事
+- // -- performance 表演 性能
+- // -- conclusion 结论 结尾
 
 ```
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
