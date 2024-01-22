@@ -287,6 +287,9 @@ declare 声明`
 - `high-tech: 高科技的`
 - // heap 堆
 - // stack 栈
+- // -- stack 栈 // tech stack. 技术栈
+- // -- stock 股票 // stock market. 股票市场
+- // -- stuck 陷入 // get stuck in. 陷入
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
 -
 - 2
@@ -307,7 +310,7 @@ declare 声明`
 - `whether or. 无论是...还是...`
 - // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
 - //【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
-- // -- electricity 电 n
+- // -- 【 electricity 电 n 】
 - // -- primitive 原始的 adj
 -
 - 4
@@ -322,6 +325,7 @@ declare 声明`
 - 6
 - `reference 参考 n`
 - `refer 参考 v`
+- `refer to. 参考` // For details, please refer to the documentation.\
 - `documentation 文档 n`
 - `overview 概述 总览`
 - **【 reference documentation. 参考文档 】**
@@ -537,42 +541,24 @@ compared 比较的 adj
 ##### (四)
 
 - 1
-- `except for. 除了`
-- **【 The walls were 【 bare 】【 except for 】 a clock. 墙上除了一只挂钟什么也没有 】**
-- The room was silent 【 except for 】 the TV. 除了电视的声音，那房间里寂静无声
-- // -- bare 裸露的 adj
-- // -- silent 安静的 沉默的 adj
--
-- 2
-- `real-time 实时的`
-- `【 real-time chat. 实时聊天 】`
-- **【 you can efficiently integrate real-time chat into your client app. 您可以有效地将实时聊天集成到您的客户端应用程序中 】**
-- Get real-time assistance with your coding queries. 获得编码查询的实时帮助
-- // -- 【 integrate 整合 合并 集成 v 】
-- // -- 【 integrate into. 融入 】
-- // -- 【 Integrate into a new job. 融入新的工作环境 】
-- // -- `Integrate into society. 融入社会`
-- // -- `social 社会的 v`
-- // -- `society 社会 n`
-- // -- `【 social status. 社会地位 】`
-- // -- `【 social media. 社交媒体 】`
--
-- 3
-- `refer 参考 v`
-- `reference 参考 n`
-- `【 refer to. 参考 】`
-- **【 For details, please refer to the documentation. 详细情况，请参考说明文档 】**
-- //【 reference documentation. 参考文档 】
-- //【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】
--
-- 4
 - `ecosystem 生态系统`
 - `【 marine ecosystem. 海洋生态系统 】`
 - **【 We should not 【 destroy 】 the 【 ecosystem 】. 我们不应该去破坏生态系统 】**
 - // -- destroy 破坏
 - // -- marine ecosystem. 海洋生态系统
 -
-- 5
+- 2
+- `roll out. 推出 出发`
+- **【 1. The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机 】**
+- **【 2. now, roll out. 出发 】**
+-
+- 3
+- `up to. 达到 接近于 由...决定`
+- **【 1. You'll have the ability to 【 snooze 】 this notification for 【 up to 】 a week. 您可以暂停此通知长达一周 】**
+- **【 2. It's up to you. 由你决定 】**
+- // -- snooze 小睡 打盹
+-
+- 4
 - `facial recognition. 人脸识别`
 - **【 【 Facial recognition 】 technology is already very 【 mature 】. 人脸识别技术已经很成熟了 】**
 - // -- face 脸 n 面对 v
@@ -582,18 +568,47 @@ compared 比较的 adj
 - // -- `【 facial recognition. 人脸识别 】`
 - // -- mature 成熟 v 成熟的 adj
 -
+- 5
+- `repository 仓库`
+- `critical 关键的 至关重要的`
+- `【 critical repository. 关键的仓库 】`
+- **【 You become the 【 maintainer 】 of a 【 critical repository 】. 你成为一个关键存储库的维护者 】**
+- // -- repository 仓库
+- // -- critical 关键的
+- // -- `maintainer 维护者`
+- // -- `maintain 保持 维护 v`
+- // -- maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
+-
 - 6
-- `roll out. 推出 出发`
-- **【 1. The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机 】**
-- **【 2. now, roll out. 出发 】**
+- `except for. 除了`
+- **【 The walls were 【 bare 】【 except for 】 a clock. 墙上除了一只挂钟什么也没有 】**
+- The room was silent 【 except for 】 the TV. 除了电视的声音，那房间里寂静无声
+- // -- bare 裸露的 adj
+- // -- silent 安静的 沉默的 adj
 -
 - 7
-- `up to. 达到 接近于 由...决定`
-- **【 1. You'll have the ability to 【 snooze 】 this notification for 【 up to 】 a week. 您可以暂停此通知长达一周 】**
-- **【 2. It's up to you. 由你决定 】**
-- // -- snooze 小睡 打盹
+- `real-time 实时的`
+- `【 real-time chat. 实时聊天 】`
+- **【 you can efficiently integrate real-time chat into your client app. 您可以有效地将实时聊天集成到您的客户端应用程序中 】**
+- Get real-time assistance with your coding queries. 获得编码查询的实时帮助
+- // -- 【 integrate 整合 合并 集成 v 】
+- // -- 【 integrate into. 融入 】
+- // -- **【 Integrate into a new job. 融入新的工作环境 】**
+- // -- `Integrate into society. 融入社会`
+- // -- `social 社会的 v`
+- // -- `society 社会 n`
+- // -- `【 social status. 社会地位 】`
+- // -- `【 social media. 社交媒体 】`
 -
 - 8
+- `refer 参考 v`
+- `reference 参考 n`
+- `【 refer to. 参考 】`
+- **【 For details, please refer to the documentation. 详细情况，请参考说明文档 】**
+- //【 reference documentation. 参考文档 】
+- //【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】
+-
+- 9
 - `deadline 最后期限`
 - **【 This 【 snooze 】 【 period 】 only starts 【 once 】 you've signed in after the 【 deadline 】. 】**
 - // so if you're on vacation or out of office, you'll still get that one week period to set up 2FA when you're back.
@@ -604,17 +619,6 @@ compared 比较的 adj
 - // 2
 - // -- `snooze 小睡 打盹` // TIPS: Pay attention to pronunciation.
 - // -- `period 时期` // TIPS: Pay attention to pronunciation.
--
-- 9
-- `repository 仓库`
-- `critical 关键的 至关重要的`
-- `【 critical repository. 关键的仓库 】`
-- **【 You become the 【 maintainer 】 of a 【 critical repository 】. 你成为一个关键存储库的维护者 】**
-- // -- repository 仓库
-- // -- critical 关键的
-- // -- `maintainer 维护者`
-- // -- `maintain 保持 维护 v`
-- // -- maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
 -
 - 10
 - `following 下列的adj 下列n 跟随v`

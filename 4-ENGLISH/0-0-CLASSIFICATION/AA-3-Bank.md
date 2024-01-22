@@ -1,5 +1,16 @@
 # Bank
 
+- 2024-01-22
+- decent 体面的
+- stable 稳定的
+- clerk 职员
+- // For many people, being a bank 【 clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作
+- // -- decent 体面的
+- // -- descend 下降
+- // -- ascend 上升
+- // -- The elevator descends slowly to the ground floor. 电梯缓缓的向一楼下降
+- // -- The flight is descending now. 飞机正在降落
+
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
 - **【 I appreciate your service to help me to keep healthy. 我感谢你的服务，帮助我保持健康 】**
@@ -196,8 +207,11 @@
 - // Keep the receipt as proof of purchase. 保存好收据作为购货凭证
 - // -- extends: receipt debt
 -
-- `stock 股票` // stuck 困住
+- `stock 股票`
 - `stock market. 股票市场`
+- // -- stack 栈 // tech stack. 技术栈
+- // -- stock 股票 // stock market. 股票市场
+- // -- stuck 陷入 // get stuck in. 陷入
 - **【 stocking 长筒袜 】**
 - **【 stock 股票 】**
 - // `invest in. 投资到 投资于`

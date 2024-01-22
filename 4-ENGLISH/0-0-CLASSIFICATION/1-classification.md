@@ -59,3 +59,13 @@ tin 锡
 // You need to supplement calcium, iron, zinc, tin and multiple vitamins. 你需要补充钙铁锌锡和多种维生素
 // -- supplement 补充
 ```
+
+##### (3) The Earth
+
+```
+crust 地壳 面包皮 外壳
+mantle 地幔
+
+// shell 壳 外壳
+// crust 地壳 面包皮 外壳
+```
