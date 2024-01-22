@@ -83,7 +83,8 @@ mother
 husband
 wife
 son
-daughter
+daughter 女儿
+// doctor 医生
 -
 stepfather 继父
 stepmother 继母
