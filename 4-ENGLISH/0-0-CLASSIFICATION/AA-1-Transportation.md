@@ -602,7 +602,7 @@ belt 腰带 传送带
 seatbelt 安全带
 // fasten your seat belt. 系好安全带
 // wearing a seat belt. 系好安全带
-`tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程` // tighten 勒紧
+// tightening the seat belt. 拉近安全带，指的是系好安全带的这个过程 // tighten 勒紧
 -
 turnstile 闸机
 swipe 刷卡
