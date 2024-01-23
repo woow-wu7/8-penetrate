@@ -285,12 +285,27 @@ declare 声明`
 - 1
 - `tech stack. 技术栈`
 - `high-tech: 高科技的`
+- // AA
 - // heap 堆
 - // stack 栈
 - // -- stack 栈 // tech stack. 技术栈
-- // -- stock 股票 // stock market. 股票市场
-- // -- stuck 陷入 // get stuck in. 陷入
+- // -- stock 股票 // 1. stock market. 股票市场 // 2. Many people don't like to invest in stocks.
+- // -- stuck 陷入 // 1. get stuck in. 陷入 // 2. You don't get stuck in traffic jams. 你不会陷入交通堵塞
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
+- // BB
+- // `【 See some 【 predictions 】 for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】`
+- // -- `【 prediction 预言 预测 n 】`
+- // -- `【 predict 预言 预测 v 】`
+- // -- `【 This 【 model 】 can 【 predict 】 temperatures. 这个模型可以预测温度 】`
+- // -- **【 We cannot 【 reliably 】 【 predict 】 which way the wind will be blowing. 我们无法可靠地预测风向 】**
+- // -- **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结 】**
+- // -- He 【 predicted 】 this stock would experience an increase in a few days. 他预测股票过几天就会涨
+- // ---- `reliable 可靠的 可信赖的 adj `
+- // ---- `reliably 可靠地 adv `
+- // ---- eventual 最终的 adj
+- // ---- outcome 结果 n
+- // ---- predict 预测 v
+
 -
 - 2
 - `compare 比较 v`
@@ -307,8 +322,10 @@ declare 声明`
 - `【 primitive values. 原始值 】` // 原始类型的值 和 对象类型的值
 - `【 primitive man. 原始人 】`
 - `【 primitive culture 原始文明 】`
+- 【 primeval forest. 原始森林 】 // 注意 primitive 和 primeval 的发音
 - `whether or. 无论是...还是...`
 - // **【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】**
+- // **【 【 primitive man 】 lived in the【 primeval forest 】. 原始人生活在原始森林里面 】**
 - //【 Primitive men 】 made fire by themselves since they had no 【 electricity 】.
 - // -- 【 electricity 电 n 】
 - // -- primitive 原始的 adj
@@ -320,12 +337,18 @@ declare 声明`
 -
 - 5
 - `parameter 参数`
+- `argument 参数`
+- `【 actual argument. 实参 】` // --- actual 真实的 实际的 adj
+- `【 formal parameter. 形参 】` // -- formal 形式的 正式的 adj
+- **【 What's the difference between the 【 actual arguments 】 and 【 formal parameters? 】 】**
 - **【 This function receives two parameters. 这个函数接收两个参数 】**
+- // -- what's the difference between liquid and fluid?
+- // -- What is the difference between a checking account and a savings account?
 -
 - 6
 - `reference 参考 n`
 - `refer 参考 v`
-- `refer to. 参考` // For details, please refer to the documentation.\
+- `refer to. 参考` // For details, please refer to the documentation.
 - `documentation 文档 n`
 - `overview 概述 总览`
 - **【 reference documentation. 参考文档 】**
@@ -333,7 +356,7 @@ declare 声明`
 - **【 This 【 section 】 provides 【 detailed 】 【 reference documentation 】 for working with React. 】**
 - Here's the 【 overview 】 of the differences between let and var. 这是 let 和 var 的区别的【概述】
 - // -- detail 详情 细节 n
-- // -- 【 detailed 详细的 adj 】
+- // -- `【 detailed 详细的 adj 】`
 - // -- 【 provide 提供 】
 - // -- `section 部分 段`
 - // -- `subsection 子部分 子段`
@@ -343,7 +366,7 @@ declare 声明`
 - 7
 - `resource 资源 资料`
 - `source 来源 源头`
-- `【 open-source module. 开源模块 】`
+- `【 open-source module. 开源模块 】` // module model
 - `【 natural resource. 自然资源 】`
 - `【 natural gas. 天然气 】`
 - `【 shale gas. 页岩气 】`
@@ -365,15 +388,18 @@ declare 声明`
 - // TIPS: pay attention to pronunciation.
 -
 - 8
+- `stale 陈旧的`
+- `fresh 新鲜的`
+- 【 The opposite of 【 stale 】 is 【 fresh 】. 】
+- **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
+-
+- 9
 - `attempt 尝试 v n`
 - **【 React will first 【 attempt 】 a re-render with the old value. 】**
 - The cat 【 attempts 】 to catch that fish. 那只猫咪试图抓到那条鱼
 -
-- 9
-- `stale 陈旧的`
-- `fresh 新鲜的`
-- The opposite of stale is fresh.
-- **【 Showing 【 stale 】content while 【 fresh 】 content is loading. 在新内容加载期间显示旧内容 】**
+-
+-
 -
 -
 -
@@ -432,8 +458,7 @@ compared 比较的 adj
 - `statue 雕像`
 - 【 social status. 社会地位 】
 - 【 social media. 社交媒体 】
-- 【 statue of liberty. 自由女神像 】
-- // liberty 自由 n
+- 【 statue of liberty. 自由女神像 】 // liberty 自由 n
 - // 【 social 社会的 adj 】
 - // 【 society 社会 n 】
 - // @media screen and (-webkit-min-device-pixel-ratio: 2 或者 3 )
@@ -460,6 +485,7 @@ compared 比较的 adj
 - `prefer 较喜欢` // -- 强调偏好
 - choose
 - select
+- AA
 - // prefer 更喜欢 v
 - // preferred 更喜欢的 adj / 过去分词过去式
 - //【 Set your 【 preferred 】 method to use for password when sign into Github. 设置您在登录 Github 时用于密码的首选方法 】
@@ -469,9 +495,10 @@ compared 比较的 adj
 - **【 Would you 【 prefer 】 red or white? 你喜欢喝红葡萄酒还是白葡萄酒？ 】**
 - **【 Which one do you prefer? 你更喜欢哪一个 】**
 - // -- residence 住宅 居住 n
+- // BB
+- // -- `later 后来adv 后来的adj`
 - // -- `former 前者`
 - // -- `latter 后者` // TIPS: Pay attention to pronunciation.
-- // -- `later 后来adv 后来的adj`
 - // -- `【 Do you choose the 【 former 】or the 【 latter 】? 你选择前者还是后者 】`
 -
 - 4
@@ -481,27 +508,23 @@ compared 比较的 adj
 - // `【 local custom. 当地风俗 】`
 - **【 You can 【 customize 】 the software in several ways. 你可用几种方法定制这个软件 】**
 - **【 useImperativeHandle is a React Hook that lets you 【 customize 】 the handle exposed as ref. 】**
-- // It's our 【 custom 】 to 【 have dragon boat racing 】 at this 【 festival 】. 在这个节日里，赛龙舟是我们的【风俗】
+- // `It's our 【 custom 】 to 【 have dragon boat racing 】 at this 【 festival 】. 在这个节日里，赛龙舟是我们的【风俗】`
 - //【 This is the cloths we 【 have customized 】 for you. 这是我们为您定制的衣服 】
 - // -- dragon boat. 龙舟
 - // -- festival 节日
 -
 - 5
-- `overuse 过度使用 滥用 v/n`
-- **【 Do not 【 overuse 】 refs. 不要滥用 ref 】**
-- Which words or phrases do you most 【 overuse 】? 您最过度使用哪些单词或短语？
--
-- 6
 - `multiple 多个的 多种的 倍数`
+- `died of. 死于 `
+- **【 He 【 died of 】 【 multiple 】 injuries. 他死于多处受伤 】**
 - **【 support 【 multiple 】 message types. 支持【多种】消息类型 】**
-- 【 He 【 died of 】 【 multiple 】 injuries. 他死于多处受伤 】
-- She 【 died of 】 a brain tumor. 她死于脑瘤
+- She 【 died of 】 a brain 【 tumor 】. 她死于脑瘤
 - // -- injury 伤害 n ---> injuries
 - // -- 【 died of. 死于 】
-- // -- die 死亡
+- // -- die 死亡 v
 - // -- tumor 肿瘤
 -
-- 7
+- 6
 - `valid 有效的 合法的`
 - `invalid 无效的`
 - // TIPS: Pay attention to pronunciation.
@@ -512,7 +535,7 @@ compared 比较的 adj
 - // The paper will be valid after it is stamped. 文件在盖章后有效
 - // -- stamp 邮票/印章/n 印/踩/贴邮票 v
 -
-- 8
+- 7
 - `determine 决定 确定 v`
 - `【 determine to do sth. 决定做某事 】`
 - `【 They 【 determine 】 to start early. 他们决定早点出发 】`
@@ -525,13 +548,18 @@ compared 比较的 adj
 - // -- fossil 化石
 - // -- grade 年级 等级 评分 成绩
 -
-- 9
+- 8
 - `according to. 根据`
 - **【 【 According to 】 the 【 weather forecast 】, it will rain today. 根据天气预报，今天会下雨 】**
 - 【 The element is positioned according to the normal flow of the document. 通过正常的文档流来定位 】
 - // 【 according to. 根据 】
 - // 【 weather forecast. 天气预报 】
 - // forecast 预测
+-
+- 9
+- `overuse 过度使用 滥用 v/n`
+- **【 Do not 【 overuse 】 refs. 不要滥用 ref 】**
+- Which words or phrases do you most 【 overuse 】? 您最过度使用哪些单词或短语？
 -
 - 10
 - `reusable 可重复使用的`
@@ -543,9 +571,11 @@ compared 比较的 adj
 - 1
 - `ecosystem 生态系统`
 - `【 marine ecosystem. 海洋生态系统 】`
+- `【 natural ecosystem. 自然生态系统 】`
 - **【 We should not 【 destroy 】 the 【 ecosystem 】. 我们不应该去破坏生态系统 】**
 - // -- destroy 破坏
 - // -- marine ecosystem. 海洋生态系统
+- // -- natural ecosystem. 自然生态系统
 -
 - 2
 - `roll out. 推出 出发`
@@ -580,13 +610,42 @@ compared 比较的 adj
 - // -- maintain 保持: The two countries have always maintained close relations. 这两个国家一直保持着密切关系
 -
 - 6
+- `deadline 最后期限`
+- **【 This 【 snooze 】 【 period 】 only starts 【 once 】 you've signed in after the 【 deadline 】. 】**
+- // so if you're on vacation or out of office, you'll still get that one week period to set up 2FA when you're back.
+- // 1
+- // -- `【 once 一次 一旦 当...的时候 】`
+- // -- once 一旦: 【 You see how easy it is 【 once 】 the 【 decision 】 is made. 你看一旦做出抉择，事情就多容易啊 】
+- // -- once 当...的时候: 【 This snooze period only starts 【 once 】 you've signed in after the deadline. 】
+- // 2
+- // -- `snooze 小睡 打盹` // TIPS: Pay attention to pronunciation.
+- // -- `period 时期` // TIPS: Pay attention to pronunciation.
+-
+- 7
+- `following 下列的adj 下列n 跟随v`
+- **【 In order to gain the TypeScript typings while using CommonJS imports with require() use the following approach 】**
+- // 1
+- // approach 方法 n 靠近 v
+- // approach 方法 n: `【 use the following 【 approach 】. 使用以下方法 】`
+- // approach 靠近 v: The ship is 【 approaching 】 the shore at a high speed. 这艘船正以很快的速度靠近岸边
+- // 2
+- // in order to. 为了
+- // follow approach. 下列的方式
+-
+-
+-
+-
+-
+-
+-
+- 8
 - `except for. 除了`
 - **【 The walls were 【 bare 】【 except for 】 a clock. 墙上除了一只挂钟什么也没有 】**
 - The room was silent 【 except for 】 the TV. 除了电视的声音，那房间里寂静无声
 - // -- bare 裸露的 adj
 - // -- silent 安静的 沉默的 adj
 -
-- 7
+- 9
 - `real-time 实时的`
 - `【 real-time chat. 实时聊天 】`
 - **【 you can efficiently integrate real-time chat into your client app. 您可以有效地将实时聊天集成到您的客户端应用程序中 】**
@@ -600,35 +659,13 @@ compared 比较的 adj
 - // -- `【 social status. 社会地位 】`
 - // -- `【 social media. 社交媒体 】`
 -
-- 8
+- 10
 - `refer 参考 v`
 - `reference 参考 n`
 - `【 refer to. 参考 】`
 - **【 For details, please refer to the documentation. 详细情况，请参考说明文档 】**
 - //【 reference documentation. 参考文档 】
 - //【 The Set object lets you store unique values of any type, whether 【 primitive values 】 or 【 object references 】. 】
--
-- 9
-- `deadline 最后期限`
-- **【 This 【 snooze 】 【 period 】 only starts 【 once 】 you've signed in after the 【 deadline 】. 】**
-- // so if you're on vacation or out of office, you'll still get that one week period to set up 2FA when you're back.
-- // 1
-- // -- `【 once 一次 一旦 当...的时候 】`
-- // -- once 一旦: 【 You see how easy it is 【 once 】 the 【 decision 】 is made. 你看一旦做出抉择，事情就多容易啊 】
-- // -- once 当...的时候: 【 This snooze period only starts 【 once 】 you've signed in after the deadline. 】
-- // 2
-- // -- `snooze 小睡 打盹` // TIPS: Pay attention to pronunciation.
-- // -- `period 时期` // TIPS: Pay attention to pronunciation.
--
-- 10
-- `following 下列的adj 下列n 跟随v`
-- **【 In order to gain the TypeScript typings while using CommonJS imports with require() use the following approach 】**
-- // 1
-- // approach 方法 n 靠近 v
-- // approach 方法 n: `【 use the following 【 approach 】. 使用以下方法 】`
-- // approach 靠近 v: The ship is 【 approaching 】 the shore at a high speed. 这艘船正以很快的速度靠近岸边
-- // 2
-- // in order to. 为了
 
 ##### (五)
 
