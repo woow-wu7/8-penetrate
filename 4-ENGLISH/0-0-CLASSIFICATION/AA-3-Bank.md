@@ -113,6 +113,13 @@
 - // ---- speed up.
 - // -------- fill out. 填写
 - // -------- start out. 开始
+- // 3
+- // take up. 占用
+- // pick up. 捡起 接人
+- // pull up. 停车
+- // speed up. 加速
+- // fill up. 装满
+- // speak up. 大声说
 -
 - `credit card. 信用卡`
 - `debit card. 借记卡`

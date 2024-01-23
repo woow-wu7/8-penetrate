@@ -1817,8 +1817,11 @@ cup holder. 杯架
 - 1
 - `pull over. 靠边停下`
 - // 记忆: come over.过来 + game over.结束
-- // pull up. 缓慢停下
+- // pull up. 停车
+- // speed up. 加速
 - // slow down. 减速
+- // take up. 占用
+- // pick up. 捡起 接人
 - `Slow down and then pull over. 放慢速度然后靠路边停`
 -
 -

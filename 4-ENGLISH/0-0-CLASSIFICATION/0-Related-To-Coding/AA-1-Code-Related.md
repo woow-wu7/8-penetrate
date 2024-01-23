@@ -539,7 +539,8 @@ compared 比较的 adj
 - `determine 决定 确定 v`
 - `【 determine to do sth. 决定做某事 】`
 - `【 They 【 determine 】 to start early. 他们决定早点出发 】`
-- **【 -- Your 【 final grade 】 is 【 determined 】 by the total score. 你的【最终成绩】由总分【决定】 -- 】**
+- **【 1. -- Your 【 final grades 】 are 【 determined 】 by the total score. 你的【最终成绩】由总分【决定】 -- 】**
+- **【 2. --【 Determine 】 the location of the 【 memory leak 】. 确定内存泄漏的位置 】】**
 - 【 ---- These properties 【 determine 】 the final location of positioned elements. 这些属性决定位置元素的最终位置 ---- 】
 - **【 The doctor takes the patient's 【 pulse 】 to 【 determine 】 her illness. 医生通过测量病人的脉搏来【确定】她的病情】**
 - **【 You can 【 determine 】 where content should be rerendered. 你可以【决定】哪些内容应该被重渲染 】**
@@ -677,15 +678,23 @@ compared 比较的 adj
 - **【 There is a 【 leak 】 in the app. 】**
 - // -- leak 泄漏
 - // -- lake 湖
-- // -- determine 决定 确定 v
 - // -- memory leak. 内存泄露
+- // -- `-- determine 决定 确定 v `
+- // -- `--【 The final grades are determined by the total score. 】`
+- // -- `--【 Determine 】 the location of the 【 memory leak 】. 确定内存泄漏的位置`
 - // -- **【 The programmer needs to fix the 【 memory leak 】 issue in the software. 程序员需要修复软件中的内存泄漏问题 】**
-- // -- 【 water had started to 【 leak 】 into the cellar. 水已开始渗入地下室 】
+- // -- 【 water had started to 【 leak 】 into the 【 cellar 】. 水已开始渗入地下室 】
 - // -- cellar 地窖
 -
 - 2
 - `take up. 占用`
 - `disk space. 磁盘空间`
+- // take up. 占用
+- // pick up. 捡起 接人
+- // pull up. 停车
+- // speed up. 加速
+- // fill up. 装满
+- // speak up. 大声说
 - **【 How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】 】**
 - **【 They 【 take up 】memory when those DOM elements are active. 当这些 DOM 元素处于活动状态时，它们会占用内存 】**
 - // -- `【 take up. 占用 】`
@@ -698,22 +707,25 @@ compared 比较的 adj
 - `performance 表演 性能 n`
 - **【 【 conclusion 】: This will help improving the 【 performance 】 of your app. 】**
 - **【 The 【 following 】 is a 【 summary 】 of our 【 conclusions 】. 以下是我们的结论总结 】**
-- // -- help doing. 有助于做某事
+- // help doing. 有助于做某事
 - // -- performance 表演 性能
 - // -- conclusion 结论 结尾
 - // -- `【 summary 总结 概要 】`
 - // -- `【 overview 概述 】`
-- // -- `【 following 下列的adj 下列n 】`
+- // -- `【 following 下列的adj 下列n 】` // the following approach. 下列的方式
 -
 - 4
 - `behind the scene. 幕后的 在后台 adj`
 - `scene 现场 场景 景象`
-- 【 crime scene. 犯罪现场 】
-- // He is collecting 【 evidence 】 at the 【 crime scene 】. 他正在【犯罪现场】收集【证据】
+- **【 crime scene. 犯罪现场 】**
+- // **【 He is collecting 【 evidence 】 at the 【 crime scene 】. 他正在【犯罪现场】收集【证据】 】**
+- // AA
 - // I like 【 urban 】 environments, especially the night scenes. 我喜欢城市的环境，尤其是夜景
 - // The sunset over the road created quite a beautiful scene. 道路尽头的日落创造了一幅美丽的景象
+- // BB
 - // -- `rural area. 农村`
 - // -- `urban area. 城市 市区`
+- // -- `【 Both 【 rural areas 】 and 【 urban areas 】 have their advantages and disadvantages.  】`
 -
 - 5
 - `thread 线程`
@@ -753,7 +765,7 @@ compared 比较的 adj
 - **【 You're now a part of the 【 community 】. 您现在是社区的一部分 】**
 -
 - 8
-- `post 邮递n 邮政n 帖子n 发布v`
+- `post 邮递n 邮政n ( 帖子n ) 发布v`
 - `poster 海报`
 - **【 Write your first DEV 【 Community 】【 post 】. 写下你的第一个 DEV【社区】【帖子】 】**
 - // This 【 poster 】 consists of 【 Russian 】 【 cultural 】 icons. 这张海报由俄罗斯文化象征构成
@@ -784,6 +796,15 @@ https://vuejs.org/guide/introduction.html
 - `predict 预测 预言 预告 v`
 - `prediction 预测 预言 预告 n`
 - **【 See some predictions for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】**
-- // tech 技术 技校 n
-- // tech-stack. 技术栈
-- // high tech. 高科技
+- **【 This 【 model 】 can 【 predict 】 temperatures. 这个模型可以预测温度 】**
+- // -- **【 We cannot 【 reliably 】 【 predict 】 which way the wind will be blowing. 我们无法可靠地预测风向 】**
+- // -- **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结 】**
+- // -- tech 技术 技校 n
+- // -- tech-stack. 技术栈
+- // -- high tech. 高科技
+-
+- 3
+- `freelancer 自由职业者`
+- `diverse 多样的 不同的 adj`
+- **【 He is a 【 freelancer 】, so he can work anywhere. 】**
+- **【 A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标 】**

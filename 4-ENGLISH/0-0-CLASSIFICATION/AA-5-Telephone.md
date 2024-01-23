@@ -123,6 +123,12 @@
 - // **【 pull up. 】**
 - // **【 speed up. 】**
 - // **【 fill up. 】**
+- // pull up. 停车
+- // speed up. 加速
+- // take up. 占用
+- // pick up. 捡起 接人
+- // fill up. 装满
+- // speak up. 大声说
 -
 -
 - `swipe 刷卡`

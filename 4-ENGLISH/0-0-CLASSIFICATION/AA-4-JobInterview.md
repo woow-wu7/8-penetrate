@@ -1,8 +1,12 @@
 # Job Interview
 
 - 2024-01-22
+- AA.
 - `relevant 相关的`
-- **【 Do you have relevant experience using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- // **【 Do you have relevant experience using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- BB.
+- `diverse 多样的 不同的`
+- // A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标
 -
 -
 -
@@ -22,6 +26,15 @@
 - // Which of the following is a frequent topic in small talk? 以下哪个是闲聊中经常出现的话题？
 - // -- follow 跟随 v
 - // -- following 下列的 adj
+- // 3
+- // take up. 占用
+- // pick up. 捡起 接人
+- // pull up. 停车
+- // speed up. 加速
+- // fill up. 装满
+- // speak up. 大声说
+-
+-
 -
 - `internship 实习`
 - Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习
