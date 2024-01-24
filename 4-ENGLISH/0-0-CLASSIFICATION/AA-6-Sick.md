@@ -4,6 +4,8 @@
 - 1
 - tumor 肿瘤 瘤
 - // She 【 died of 】 a brain tumor. 她死于脑瘤
+- 2
+- 【 living things. 生物 】
 -
 -
 - `medicine 医疗的 内科 --------- medical department. 内科`

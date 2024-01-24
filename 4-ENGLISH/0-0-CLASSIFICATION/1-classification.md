@@ -73,6 +73,9 @@ mantle 地幔
 ##### (5) Family relationships
 
 ```
+ancestor 祖先
+descendant 后代 // de
+-
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
 grandmother 祖母 奶奶 外婆
 grandson 孙子
@@ -120,6 +123,8 @@ widow 寡妇
 // window 窗子
 -
 relative 相对的 亲戚
+-
+neighbor 邻居
 
 
 ------- ------- ------- ------- ------- ------- -------
