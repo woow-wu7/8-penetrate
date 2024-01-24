@@ -808,3 +808,31 @@ https://vuejs.org/guide/introduction.html
 - `diverse 多样的 不同的 adj`
 - **【 He is a 【 freelancer 】, so he can work anywhere. 】**
 - **【 A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标 】**
+
+##### （七）
+
+- 1
+- `nest 鸟巢n 嵌套v`
+- `nested 嵌套的v`
+- `【 love nest. 爱巢 】`
+- // join 参加 连接
+- // query 查询 询问 问号 -> queries
+- // deeply 深的 adv
+- **【 A deeply 【 nested 】 component. 嵌套很深的组件 】**
+- **【 SQL can 【 join 】 tables or 【 nest 】 【 queries 】. SQL 可以【联接】表，也可以【嵌套】【查询】 】**
+-
+- 2
+- `distant 远的 遥远的 adj`
+- `distance 距离n`
+- `【 The most distant distance. 最遥远的距离 】`
+- // galaxy 星系 银河
+- // astronomer 天文学家
+- // parent chain. 主链 母链
+- **【 A deeply 【 nested 】 component needs something from a distant ancestor component. 】**
+- **【 【 Astronomers 】 have discovered a 【 distant 】 【 galaxy 】. 天文学家们发现了一个【遥远的】【星系】 】**
+-
+- 3
+- `not at all. 一点也不 不用谢`
+- **【 Notice although the <Footer> component may not care about these props at all. 一点也不关心这些 props 】**
+- **【 It's 【 not at all 】 difficult to learn English well. = It's not difficult to learn English well at all. 】**
+- // 最好用后面的表达

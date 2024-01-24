@@ -116,8 +116,9 @@ triplets 三胞胎
 -
 adopt 领养 收养 采用
 -
-divorce 离婚 分离
-marry 结婚
+divorce 离婚 分离 n
+marry 结婚 v // TIPS: Pay attention to Pronunciation.
+marriage 婚姻 结婚 n
 -
 widow 寡妇
 // window 窗子
