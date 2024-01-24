@@ -809,7 +809,7 @@ https://vuejs.org/guide/introduction.html
 - **【 He is a 【 freelancer 】, so he can work anywhere. 】**
 - **【 A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标 】**
 
-##### （七）
+##### (七)
 
 - 1
 - `nest 鸟巢n 嵌套v`
@@ -836,3 +836,39 @@ https://vuejs.org/guide/introduction.html
 - **【 Notice although the <Footer> component may not care about these props at all. 一点也不关心这些 props 】**
 - **【 It's 【 not at all 】 difficult to learn English well. = It's not difficult to learn English well at all. 】**
 - // 最好用后面的表达
+-
+-
+-
+-
+- 4
+- `descendant 后代 子孙`
+- `ancestor 祖先`
+- **【 A parent component can serve as a dependency provider for all its 【 descendants 】 】**
+-
+- 5
+- `regardless of. 无论 不管`
+- `make times. 腾出时间`
+- **【 【 Regardless of 】 how busy he is, he always 【 makes times 】 for his family. 不管他有多忙，他总是抽出时间和家人在一起 s 】**
+-
+- 6
+- `lookup 查找`
+- `desire 期望 愿望 n/v`
+- `desired 期望的 adj`
+- **【 The injection key is used by 【 descendant 】 components to 【 lookup 】 the 【 desired 】 value to inject. 】**
+-
+-
+-
+-
+- 7
+- `retain 保持 v`
+- **【 This allows the injector component to 【 retain 】 the reactivity connection to the provider component. 】**
+-
+- 8
+- `side effect. 副作用`
+- **【 This drug has some 【 side effects 】, such as headache and nausea. 这种药有一些副作用，如头痛和恶心 】**
+-
+- 9
+- `recommend doing. 推荐做...`
+- `be recommend to. 被推荐做...`
+- **【 The book 【 was recommend to 】 read by my teacher. 这本书是我老师推荐读的 】**
+- **【 My doctor highly recommends exercising every day to stay health. 我的医生强烈建议每天锻炼以保持健康 】**
