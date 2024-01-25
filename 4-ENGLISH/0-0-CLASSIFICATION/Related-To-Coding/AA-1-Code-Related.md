@@ -679,7 +679,7 @@ compared 比较的 adj
 - // -- leak 泄漏
 - // -- lake 湖
 - // -- memory leak. 内存泄露
-- // -- determine 决定v 确定v
+- // -- determine 决定 v 确定 v
 - // -- `-- determine 决定 确定 v `
 - // -- `--【 The final grades are determined by the total score. 】`
 - // -- `--【 Determine 】 the location of the 【 memory leak 】. 确定内存泄漏的位置`
@@ -898,3 +898,30 @@ https://vuejs.org/guide/introduction.html
 - `be recommended to. 被推荐做...`
 - **【 The book 【 was recommended to 】 read by my teacher. 这本书是我老师推荐读的 】**
 - **【 My doctor highly recommends exercising every day to stay health. 我的医生强烈建议每天锻炼以保持健康 】**
+
+##### (八)
+
+- 1
+- `set of. 一组 一套 集合`
+- **【 【 In addition to 】 the default 【 set of 】 directives. 除了默认的指令集以外 】**
+- // -- Vue also allows you to 【 register 】 your own 【 custom 】 directives.
+- // -- register 注册 v n
+- // -- custom 定制的 adj 习俗 n
+- // -- customize 定制 v
+-
+- 2
+- `form of. ...的形式`
+- `form 表单 形态`
+- // Water has there forms: gas, solid and liquid.
+- **【 We have introduced two 【 form of 】 code reused in Vue. 】**
+- **【 Leaves is the 【 plural 】 【 form of 】 leaf. leaves 是 leaf 的复数形式 】**
+- **【 Swimming is a good 【 form of 】 exercise. 游泳是很好的锻炼方式 】**
+- // Our next class will take the form of debate. 我们下一堂课将采用辩论的形式
+- // Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
+- // -- plural 复数 n 复数的 adj
+-
+- 3
+- `prefix 前缀`
+- `suffix 后缀`
+- **【 Any 【 camelCase 】 variable that starts with the v 【 prefix 】 can be used as a custom directive. 】**
+- // camelCase 驼峰命名法
