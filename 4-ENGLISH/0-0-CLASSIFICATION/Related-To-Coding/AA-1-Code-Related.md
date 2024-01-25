@@ -679,6 +679,7 @@ compared 比较的 adj
 - // -- leak 泄漏
 - // -- lake 湖
 - // -- memory leak. 内存泄露
+- // -- determine 决定v 确定v
 - // -- `-- determine 决定 确定 v `
 - // -- `--【 The final grades are determined by the total score. 】`
 - // -- `--【 Determine 】 the location of the 【 memory leak 】. 确定内存泄漏的位置`
@@ -789,23 +790,29 @@ https://vuejs.org/guide/introduction.html
 - 1
 - `relevant 相关的 有关的 adj`
 - `【 relevant data. 相关数据 】`
-- **【 Do you have 【 relevant 】 experience using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- **【 Do you have any【 relevant 】 experience in using React framework? 您是否有使用 react 框架的相关经验？ 】**
 - // Do you have the relevant experience? 你有相关的经历吗？
+- //【 Do you have any questions about the position? 】
 -
 - 2
 - `predict 预测 预言 预告 v`
 - `prediction 预测 预言 预告 n`
-- **【 See some predictions for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】**
+- **【 See some 【 predictions 】 for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】**
 - **【 This 【 model 】 can 【 predict 】 temperatures. 这个模型可以预测温度 】**
 - // -- **【 We cannot 【 reliably 】 【 predict 】 which way the wind will be blowing. 我们无法可靠地预测风向 】**
 - // -- **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结 】**
 - // -- tech 技术 技校 n
 - // -- tech-stack. 技术栈
 - // -- high tech. 高科技
+- // ---- eventual 最终的 adj
+- // ---- outcome 结果 n
+- // ---- reliable 可靠的 adj
+- // ---- reliably 可靠地 adv
 -
 - 3
 - `freelancer 自由职业者`
-- `diverse 多样的 不同的 adj`
+- `digital nomad. 数字游民`
+- `diverse 多样的 不同的 adj` // TIPS: pay attention to pronunciation.
 - **【 He is a 【 freelancer 】, so he can work anywhere. 】**
 - **【 A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标 】**
 

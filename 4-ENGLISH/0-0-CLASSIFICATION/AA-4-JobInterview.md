@@ -3,7 +3,7 @@
 - 2024-01-22
 - AA.
 - `relevant 相关的`
-- // **【 Do you have relevant experience using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- // **【 Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？ 】**
 - BB.
 - `diverse 多样的 不同的`
 - // A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标
@@ -100,7 +100,9 @@
 - // organize 组织 v
 -
 - 6.
-- `Do you have any questions about the position? 你对该职位有任何疑问吗？`
+- **【 Do you have any questions about the position? 你对该职位有任何疑问吗？ 】**
+- **【 Do you have any relevant experience in using React framework? 】**
+-
 - Yes, What are the responsibilities in this position? 这个职位的工作职责是什么？
 - `apply for position. 申请职位`
 - `apply for a loan. 申请贷款`
@@ -250,7 +252,8 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
 
 6.
-Do you have relevant experience using React framework? 您是否有使用 react 框架的相关经验？
+Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
+Do you have any questions about the position?
 ```
 
 ##### (2) Details
