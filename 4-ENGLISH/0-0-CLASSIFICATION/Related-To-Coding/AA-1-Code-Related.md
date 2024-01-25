@@ -925,3 +925,48 @@ https://vuejs.org/guide/introduction.html
 - `suffix 后缀`
 - **【 Any 【 camelCase 】 variable that starts with the v 【 prefix 】 can be used as a custom directive. 】**
 - // camelCase 驼峰命名法
+-
+-
+-
+-
+- 4
+- `in general. 一般来说 总的来说`
+- `general 一般的 总的 普遍的 将军n`
+- **【 【 in general 】, people are kind. 总的来说，人们是善良的 】**
+- **【 in general, it's not recommended to use 【 custom 】 dierctives on components. 】**
+- // custom 定制的 习俗
+- // customize 定制
+-
+- 5
+- `introduction 介绍 n`
+- `introduce 介绍 v`
+- **【 The 【 introduction 】 explains how to use the software. 这个介绍解释了如何使用这个软件 】**
+-
+- 6
+- `act as. 充当 担任...的角色`
+- **【 This actor 【 acts as 】 an important role in this 【 TV drama 】. 这个演员在这部电视剧中担任了重要的角色 】**
+- // AA
+- // -- TV drama. 电视剧
+- // -- TV play. 电视剧
+- // drama 戏 剧 戏剧
+- // BB
+- // -- actor actress
+- // -- prince princess
+- // -- headmaster headmistress
+-
+- 7
+- `along with. 和...一起  除...外`
+- **【 I will go along with you. 我将和你一起去 】**
+- **【 The install function receives the app instance 【 along with 】 【 additional 】 optoins passed to app.use() .】**
+- // additional 额外的 附加的
+-
+- 8
+- `teleport 传送 瞬间移动 v`
+- `teleportation 传送 瞬间移动 n`
+- **【 He can teleport. 他可以瞬间移动 】**
+-
+- 9
+- `ideally 理想地`
+- `idea 主意 理想`
+- **【 ideally, I would like to travel around the world. 理想情况下，我想周游世界】**
+- **【 what's your idea. 你的理想是什么？】**
