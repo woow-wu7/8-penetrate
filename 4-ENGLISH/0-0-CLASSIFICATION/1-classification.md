@@ -74,7 +74,8 @@ mantle 地幔
 
 ```
 ancestor 祖先
-descendant 后代 // de
+descendant 后代
+- // My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】. 
 -
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
 grandmother 祖母 奶奶 外婆

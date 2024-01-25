@@ -815,6 +815,18 @@ https://vuejs.org/guide/introduction.html
 - `nest 鸟巢n 嵌套v`
 - `nested 嵌套的v`
 - `【 love nest. 爱巢 】`
+- > nest
+- > A structure built by birds or insects to leave their eggs in to develop, and by some other animals to give birth or live in.
+- > 11
+- > give birth to. 生孩子
+- > -- The cat 【 gave birth to 】 there babies. 猫咪生了 3 只宝宝
+- > -- Some people 【 are willing to 】 【 give birth to 】 a second child. 有些夫妇愿意生二胎
+- > 22
+- > live in. 居住在
+- > -- The princess 【 lives in 】 the 【 castle 】. 公主住在城堡里
+- > 33
+- > be willing to do. 乐意做某事
+- > -- I'm willing to discuss the problem.
 - // join 参加 连接
 - // query 查询 询问 问号 -> queries
 - // deeply 深的 adv
@@ -825,16 +837,19 @@ https://vuejs.org/guide/introduction.html
 - `distant 远的 遥远的 adj`
 - `distance 距离n`
 - `【 The most distant distance. 最遥远的距离 】`
+- `【 The most distant distance between people is trust. 人与人之间最遥远的距离是信任 】`
 - // galaxy 星系 银河
 - // astronomer 天文学家
 - // parent chain. 主链 母链
+- **【 The most 【 distant 】 【 distance 】 between people is trust. 人与人之间最遥远的距离是信任 】**
+- **【 【 Astronomers 】 have discovered a 【 distant 】 【 galaxy 】. 【天文学家】们发现了一个【遥远的】【星系】 】**
 - **【 A deeply 【 nested 】 component needs something from a distant ancestor component. 】**
-- **【 【 Astronomers 】 have discovered a 【 distant 】 【 galaxy 】. 天文学家们发现了一个【遥远的】【星系】 】**
 -
 - 3
 - `not at all. 一点也不 不用谢`
-- **【 Notice although the <Footer> component may not care about these props at all. 一点也不关心这些 props 】**
+- **【 It's not difficult to learn English well at all. 】**
 - **【 It's 【 not at all 】 difficult to learn English well. = It's not difficult to learn English well at all. 】**
+- **【 Notice although the <Footer> component may not care about these props at all. 一点也不关心这些 props 】**
 - // 最好用后面的表达
 -
 -
@@ -843,7 +858,9 @@ https://vuejs.org/guide/introduction.html
 - 4
 - `descendant 后代 子孙`
 - `ancestor 祖先`
+- **【 My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】. 】**
 - **【 A parent component can serve as a dependency provider for all its 【 descendants 】 】**
+- // -- pirate 海盗
 -
 - 5
 - `regardless of. 无论 不管`
@@ -866,6 +883,8 @@ https://vuejs.org/guide/introduction.html
 - 8
 - `side effect. 副作用`
 - **【 This drug has some 【 side effects 】, such as headache and nausea. 这种药有一些副作用，如头痛和恶心 】**
+- // nausea 恶心 n
+- // nauseous 恶心的
 -
 - 9
 - `recommend doing. 推荐做...`
