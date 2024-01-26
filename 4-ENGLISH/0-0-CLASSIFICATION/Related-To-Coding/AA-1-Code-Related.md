@@ -23,6 +23,9 @@
 - `disadvantage 缺点`
 - 【 tech stacks. 技术栈 】
 - 【 high-tech: 高科技的 】
+- 【 a stack of. 一堆 】
+- // a stack of books. 一堆书
+- // a stack of paper. 一叠纸
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 我使用 Vue 和 React 技术栈开发项目 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 - // ------- **【 both the keywords let and var are used to declare variables. 】**
@@ -288,7 +291,7 @@ declare 声明`
 - // AA
 - // heap 堆
 - // stack 栈
-- // -- stack 栈 // tech stack. 技术栈
+- // -- stack 栈 // 1. tech stack. 技术栈 // 2. a stack of. 一堆 // 3. a stack of books. 一堆书
 - // -- stock 股票 // 1. stock market. 股票市场 // 2. Many people don't like to invest in stocks.
 - // -- stuck 陷入 // 1. get stuck in. 陷入 // 2. You don't get stuck in traffic jams. 你不会陷入交通堵塞
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
@@ -1033,6 +1036,18 @@ https://vuejs.org/guide/introduction.html
 -
 - 3
 - `precise 精确的 准确的`
+- `【 precise position. 精确定位 】`
+- **【 She gave me clear and 【 precise 】 directions. 她给了我清晰而准确的指示 】** // give directions. 指路
 - **【 Can you give a 【 precise 】 【 definition 】 of the word? 你能给这个词下个精确的定义吗？ 】**
 - // define 定义 v
 - // definition 定义 n
+- // direction 指示 方向 说明书
+- AA
+- // This 【 instrument 】 gives 【 precise 】 measurement. 这台仪器显示出精确的测量结果
+- // instrument 仪器
+- // measurement 测量 n
+- // measure 测量 v // TIPS: pay attention to pronunciation.
+-
+- 4
+- `explicit 清楚明白的 明确的`
+- **【 The map shows an 【 explicit 】 route to me. 这张地图给我指出了明确的路线 】**
