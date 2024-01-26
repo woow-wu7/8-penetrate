@@ -902,7 +902,8 @@ https://vuejs.org/guide/introduction.html
 ##### (八)
 
 - 1
-- `set of. 一组 一套 集合`
+- `set of. 一组 一套 集合` // 1.form of. // 2.set of.
+- `in addition to. 除了...外`
 - **【 【 In addition to 】 the default 【 set of 】 directives. 除了默认的指令集以外 】**
 - // -- Vue also allows you to 【 register 】 your own 【 custom 】 directives.
 - // -- register 注册 v n
@@ -912,10 +913,10 @@ https://vuejs.org/guide/introduction.html
 - 2
 - `form of. ...的形式`
 - `form 表单 形态`
-- // Water has there forms: gas, solid and liquid.
+- // 11. `Water has there forms: gas, solid and liquid.`
+- **22.【 Leaves is the 【 plural 】 【 form of 】 leaf. leaves 是 leaf 的复数形式 】**
+- **33.【 Swimming is a good 【 form of 】 exercise. 游泳是很好的锻炼方式 】**
 - **【 We have introduced two 【 form of 】 code reused in Vue. 】**
-- **【 Leaves is the 【 plural 】 【 form of 】 leaf. leaves 是 leaf 的复数形式 】**
-- **【 Swimming is a good 【 form of 】 exercise. 游泳是很好的锻炼方式 】**
 - // Our next class will take the form of debate. 我们下一堂课将采用辩论的形式
 - // Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 - // -- plural 复数 n 复数的 adj
@@ -924,7 +925,28 @@ https://vuejs.org/guide/introduction.html
 - `prefix 前缀`
 - `suffix 后缀`
 - **【 Any 【 camelCase 】 variable that starts with the v 【 prefix 】 can be used as a custom directive. 】**
-- // camelCase 驼峰命名法
+- // AA
+- // -- camelCase 驼峰命名法
+- // -- camel 骆驼
+- // BB
+- // -- case 案例
+- // -- `just in case. 以防万一`
+- // -- `in case of. 一旦`
+- // -- 11. `Bring a 【 first aid kit 】 【 just in case 】. 带上【急救箱】【以防万一】`
+- // -- 22. `【 In case of 】 【 urgency 】, call the police. 一旦发生紧急情况，打电话给警察`
+- // -- He has no clue about how to solve this complex case. 他对如何解决这个复杂的案件毫无头绪
+- // CC
+- // ---- urgency 紧急 n
+- // ---- urgent 紧急的 adj = emergency
+- // ---- emergency 紧急的 adj
+- // ---- `【 urgent supplies. 紧急物资 】`
+- // ---- `【 emergency supplies. 紧急物资 】`
+- // ---- `【 school supplies. 学习用品 】`
+- // ---- emergency brake.
+- // ---- emergency exit.
+- // ---- emergency call.
+- // ---- emergency supplies.
+
 -
 -
 -
@@ -932,32 +954,40 @@ https://vuejs.org/guide/introduction.html
 - 4
 - `in general. 一般来说 总的来说`
 - `general 一般的 总的 普遍的 将军n`
-- **【 【 in general 】, people are kind. 总的来说，人们是善良的 】**
-- **【 in general, it's not recommended to use 【 custom 】 dierctives on components. 】**
+- **11.【 【 in general 】, people are kind. 总的来说，人们是善良的 】**
+- **【 in general, it's not recommended to use 【 custom 】 directives on components. 】**
 - // custom 定制的 习俗
 - // customize 定制
 -
 - 5
 - `introduction 介绍 n`
 - `introduce 介绍 v`
+- `【 Self-introduction 自我介绍 】`
+- `【 Product introduction 产品介绍 】`
 - **【 The 【 introduction 】 explains how to use the software. 这个介绍解释了如何使用这个软件 】**
 -
 - 6
 - `act as. 充当 担任...的角色`
+- `actor 男演员 演员`
+- `actress 女演员`
 - **【 This actor 【 acts as 】 an important role in this 【 TV drama 】. 这个演员在这部电视剧中担任了重要的角色 】**
 - // AA
 - // -- TV drama. 电视剧
 - // -- TV play. 电视剧
-- // drama 戏 剧 戏剧
+- // -- drama 戏 剧 戏剧
 - // BB
 - // -- actor actress
+- // -- mister mistress 先生 女士
 - // -- prince princess
 - // -- headmaster headmistress
 -
+-
+-
+-
 - 7
 - `along with. 和...一起  除...外`
-- **【 I will go along with you. 我将和你一起去 】**
-- **【 The install function receives the app instance 【 along with 】 【 additional 】 optoins passed to app.use() .】**
+- **11.【 I will go along with you. 我将和你一起去 】**
+- **【 The install function receives the app instance 【 along with 】 【 additional 】 options passed to app.use() .】**
 - // additional 额外的 附加的
 -
 - 8
@@ -968,5 +998,6 @@ https://vuejs.org/guide/introduction.html
 - 9
 - `ideally 理想地`
 - `idea 主意 理想`
+- **11.【 what's your idea. 你的理想是什么？】**
+- **22.【 I have no idea. 我不知道 】**
 - **【 ideally, I would like to travel around the world. 理想情况下，我想周游世界】**
-- **【 what's your idea. 你的理想是什么？】**
