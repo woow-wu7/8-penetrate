@@ -8,6 +8,43 @@
 - `diverse 多样的 不同的`
 - // A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标
 -
+- 2024-01-27
+- 1
+- `make sense. 有道理`
+- // makes sense. 可以用来直接回答对面的问题。意思为 很有道理
+- // **【 -- What you said makes sense. 你说的很有道理 -- 】**
+- // **【 What he said make sense. 他说的话有道理 】**
+- // **【 What you said just now makes sense. 你刚才说的话很有道理 】**
+-
+- 2
+- `blast 爆炸`
+- // **【 The beginning of the video is a blast. 视频的开头很精彩 】**
+-
+- 3
+- isn't that obvious? 这不是很明显吗
+-
+- 4
+- `【 retail price. 零售价 】`
+- `【 retail management. 零售管理 】`
+-
+- 5
+- `revenue 收入`
+- // My revenue mainly comes from investments. 我的收入主要来自投资
+-
+- 6
+- `perspective 角度 观点`
+- **【 Every one has their own 【 perspective 】. 每个人都有自己他的观点 】**
+- **【 I'm gonna talk to you from an employer 【 perspective 】 for things. 我将从雇主的角度和你谈谈一些事情 】**
+- // gonna = going to.
+- // from another perspective. 从另一个角度
+-
+- 7
+- `teammate 队友`
+- `classmate 同学`
+- `mate 朋友 伙伴`
+- **【 soul mate. 灵魂伴侣 】**
+-
+-
 -
 -
 - `small talk. 闲聊`

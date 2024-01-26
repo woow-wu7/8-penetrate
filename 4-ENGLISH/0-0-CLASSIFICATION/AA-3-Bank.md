@@ -86,6 +86,7 @@
 -
 - `debt 债务`
 - `debit 借记 借方` // debit card. 借记卡
+- `debate 辩论`
 - // extends: debt receipt
 -
 - `deposit money. 存钱`
@@ -193,7 +194,7 @@
 - // balance 平衡 余额
 -
 - `loan 贷款`
-- `debt 债务` // debt debit
+- `debt 债务` // debt debit debate 辩论
 - `a period of. 一段时间`
 - **【 apply for a loan. 申请贷款 】**
 - **【 apply for position. 申请职位 】**

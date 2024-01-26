@@ -12,6 +12,7 @@
 - // `【 primitive values. 原始值 】`
 - // `【 primitive man. 原始人 】`
 - // `【 primitive culture. 原始文明 】`
+- // `--【 primeval forest. 原始森林 】`
 - // **【 【 previously 】, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 - // **【 variable 变量: A variable is used to store information. 】**
 - // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
@@ -163,7 +164,8 @@
 - // CC: **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】** // recommended
 - // CC: **【 This is the way we 【 recommended 】. 这是我们比较推荐的方式 】** // recommended
 - // DD: **【 Traveling is the recommended way to relax. 旅游是比较推荐的放松的方式 】**
-- // -- 【 retail price. 零售价 】
+- // -- `【 retail price. 零售价 】`
+- // -- `【 retail management. 零售管理 】`
 - // -- retail 零售 v n 零售的 adj
 -
 - 17
@@ -288,6 +290,9 @@ declare 声明`
 - 1
 - `tech stack. 技术栈`
 - `high-tech: 高科技的`
+- `a stack of. 一堆 一叠`
+- // 1. a stack of books.
+- // 2. a stack of paper.
 - // AA
 - // heap 堆
 - // stack 栈
@@ -920,9 +925,12 @@ https://vuejs.org/guide/introduction.html
 - **22.【 Leaves is the 【 plural 】 【 form of 】 leaf. leaves 是 leaf 的复数形式 】**
 - **33.【 Swimming is a good 【 form of 】 exercise. 游泳是很好的锻炼方式 】**
 - **【 We have introduced two 【 form of 】 code reused in Vue. 】**
-- // Our next class will take the form of debate. 我们下一堂课将采用辩论的形式
+- // Our next class will take the form of 【 debate 】. 我们下一堂课将采用辩论的形式
 - // Painting and dance are forms of art. 绘画和舞蹈都是艺术的一种形式
 - // -- plural 复数 n 复数的 adj
+- // -- `debate 辩论`
+- // -- `debt 债务`
+- // -- `debit 借记 借方` // debit card. 借记卡
 -
 - 3
 - `prefix 前缀`
@@ -958,10 +966,12 @@ https://vuejs.org/guide/introduction.html
 - 4
 - `in general. 一般来说 总的来说`
 - `general 一般的 总的 普遍的 将军n`
-- **11.【 【 in general 】, people are kind. 总的来说，人们是善良的 】**
+- **11.【 【 in general 】, people are 【 kind 】. 总的来说，人们是善良的 】**
 - **【 in general, it's not recommended to use 【 custom 】 directives on components. 】**
 - // custom 定制的 习俗
 - // customize 定制
+- // kind 善良的 adj 种类 n
+- // kindness 善良 n
 -
 - 5
 - `introduction 介绍 n`
@@ -1031,7 +1041,7 @@ https://vuejs.org/guide/introduction.html
 - // BB
 - // statement 声明
 - // `【 issue a statement. 发表声明 】`
-- // `【 joint statement. 联合声明 】`
+- // `【 joint statement. 联合声明 】` // joint 联合的 adj 关节 n
 - // `【 financial statement. 财务报表 】`
 -
 - 3
