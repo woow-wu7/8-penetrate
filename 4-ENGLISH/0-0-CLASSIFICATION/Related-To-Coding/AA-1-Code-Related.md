@@ -903,7 +903,7 @@ https://vuejs.org/guide/introduction.html
 
 - 1
 - `set of. 一组 一套 集合` // 1.form of. // 2.set of.
-- `in addition to. 除了...外`
+- `in addition to. 除了...外` // additional 额外的
 - **【 【 In addition to 】 the default 【 set of 】 directives. 除了默认的指令集以外 】**
 - // -- Vue also allows you to 【 register 】 your own 【 custom 】 directives.
 - // -- register 注册 v n
@@ -934,7 +934,8 @@ https://vuejs.org/guide/introduction.html
 - // -- `in case of. 一旦`
 - // -- 11. `Bring a 【 first aid kit 】 【 just in case 】. 带上【急救箱】【以防万一】`
 - // -- 22. `【 In case of 】 【 urgency 】, call the police. 一旦发生紧急情况，打电话给警察`
-- // -- He has no clue about how to solve this complex case. 他对如何解决这个复杂的案件毫无头绪
+- // -- He has no 【 clue 】 about how to solve this complex case. 他对如何解决这个复杂的案件毫无头绪
+- // ---- clue 线索
 - // CC
 - // ---- urgency 紧急 n
 - // ---- urgent 紧急的 adj = emergency
@@ -942,9 +943,9 @@ https://vuejs.org/guide/introduction.html
 - // ---- `【 urgent supplies. 紧急物资 】`
 - // ---- `【 emergency supplies. 紧急物资 】`
 - // ---- `【 school supplies. 学习用品 】`
-- // ---- emergency brake.
-- // ---- emergency exit.
-- // ---- emergency call.
+- // ---- emergency brake. ------- // brake light. // brake pedal. // hit the brake.
+- // ---- emergency exit. -------- // entrance exit
+- // ---- emergency call. -------- // make a call. // answer a call.
 - // ---- emergency supplies.
 
 -
@@ -989,6 +990,7 @@ https://vuejs.org/guide/introduction.html
 - **11.【 I will go along with you. 我将和你一起去 】**
 - **【 The install function receives the app instance 【 along with 】 【 additional 】 options passed to app.use() .】**
 - // additional 额外的 附加的
+- // in addition to. 除了...外
 -
 - 8
 - `teleport 传送 瞬间移动 v`
@@ -1001,3 +1003,36 @@ https://vuejs.org/guide/introduction.html
 - **11.【 what's your idea. 你的理想是什么？】**
 - **22.【 I have no idea. 我不知道 】**
 - **【 ideally, I would like to travel around the world. 理想情况下，我想周游世界】**
+
+##### (九)
+
+- 1
+- `trigger 触发v 触发器n 板机n`
+- **【 A single 【 spark 】 can 【 trigger 】 a forest fire. 星星之火，可以燎原 】**
+- We can use the watch function to trigger a callback 【 whenever 】 a piece of reactive state changes.
+- // mars 火星 --------- 星球
+- // spark 火花 火星 --- 火星
+- // park 公园
+- //【 whenever 每当 无论何时 】
+-
+- 2
+- `burden 负担n 负重v`
+- `【 the burden of. ...的负担 】`
+- //【 heavy burden. 重负 】
+- **【 Reduce the burden of English learning. 减轻英语学习负担 】**
+- **【 He has a heavy 【 financial 】 【 burden 】. 他有沉重的经济负担 】**
+- // AA
+- // `【 financial statement. 财务报表 】`
+- // `【 financial terms. 金融术语 】`
+- // `【 banking terms. 银行术语 】`
+- // BB
+- // statement 声明
+- // `【 issue a statement. 发表声明 】`
+- // `【 joint statement. 联合声明 】`
+- // `【 financial statement. 财务报表 】`
+-
+- 3
+- `precise 精确的 准确的`
+- **【 Can you give a 【 precise 】 【 definition 】 of the word? 你能给这个词下个精确的定义吗？ 】**
+- // define 定义 v
+- // definition 定义 n
