@@ -5,18 +5,18 @@
 - 2024-01-22
 - AA.
 - `relevant 相关的`
-- // **【 Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- // **【 Do you have any relevant experience in using the React framework? 您是否有使用 react 框架的相关经验？ 】**
 - // **【 Do you have any questions about the position? 你对该职位有任何疑问吗？ 】**
 - BB.
 - `diverse 多样的 不同的`
-- // A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标
+- // A 【 diverse 】 team can cooperate with each other and achieve a 【 common 】 goal. 多元化的团队可以相互协作，实现共同目标
 -
 - 2024-01-27
 - 1
 - `make sense. 有道理`
 - // makes sense. 可以用来直接回答对面的问题。意思为 很有道理
 - // **【 -- What you said makes sense. 你说的很有道理 -- 】** // 因为主语 What you said 是一个从句，谓语动词要用（ 单数 ）形式
-- // **【 What he said make sense. 他说的话有道理 】**
+- // **【 -- What he said make sense. 他说的话有道理 】**
 - // **【 What you said just now makes sense. 你刚才说的话很有道理 】**
 -
 - 2
@@ -29,10 +29,12 @@
 - 4
 - `【 retail price. 零售价 】`
 - `【 retail management. 零售管理 】`
+- // tail 尾巴
+- // retail 零售 零售的
 -
 - 5
 - `revenue 收入`
-- // My revenue mainly comes from investments. 我的收入主要来自投资
+- // My 【 revenue 】 mainly comes from investments. 我的收入主要来自投资
 -
 - 6
 - `perspective 角度 观点`
@@ -58,21 +60,21 @@
 - `small talk. 闲聊`
 - `start out. 开始`
 - `handshake 握手`
-- //【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
-- //【 We use small talk to find common interests. 我们用闲聊来寻找共同的兴 】
+- // **【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
+- // **【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】**
 - // 1
 - // `start out. 开始` // ---- `Most interviews will 【 start out 】 with a handshake and some 【 small talk 】`
-- // `fill out. 填写` // ----- `【 fill out 】 a deposit slip.`
+- // `fill out. 填写` // ----- `【 fill out 】 a deposit 【 slip 】.`
 - // `roll out. 推出` // ----- `The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机`
 - // fill up.
 - // pull up. // pull over.
 - // speed up.
 - // 2
-- // Which of the following is a frequent topic in small talk? 以下哪个是闲聊中经常出现的话题？
-- // -- follow 跟随 v
-- // -- following 下列的 adj
+- // Which of the 【 following 】 is a frequent topic in small talk? 以下哪个是闲聊中经常出现的话题？
+- // -- `follow 跟随 v`
+- // -- `following 下列的 adj`
 - // 3
-- // take up. 占用 // ------ How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】
+- // `take up. 占用` // ------ `How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】`
 - // pick up. 捡起 接人
 - // pull up. 停车
 - // speed up. 加速
@@ -98,15 +100,17 @@
 - // definite 确定的 肯定的 清晰的
 - // a little bit. 一点 一点点
 - 111.
-- `【 Focus on 】 education and work history. 关注教育和工作经历`
-- `【 Focus on the tone of my voice. 注意我说话的语气 】`
+- **【 Focus on 】 education and work history. 关注教育和工作经历**
+- **【 Focus on the 【 tone 】 of my voice. 注意我说话的语气 】**
 - // -- focus on. 关注 注意
+- // -- tone 音调 语调
 - // -- // TIPS: pay attention to pronunciation.
 - 222.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中
-- 1. **【 I studied at South-Central Minzu University and graduated in 2022 with a Bachelor's degree. 】**
+- // throughout 遍及 贯穿
 - 1. **【 I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013. 】**
+- 1. **【 I studied at South-Central Minzu University and graduated in 2022 with a Bachelor's degree. 】**
 - // 1
 - // Bachelor's degree. 学士学位
 - // Master's degree. 硕士学位
@@ -137,6 +141,8 @@
 - `be responsible for. 负责`
 - `My duties include...`
 - I was 【 in charge of 】 developing the app. = I was responsible for developing the app.
+- // be in charge of. 负责
+- // be responsible for. 负责
 -
 - > > > I have been working at xxx for seven years as a front-end engineer.
 - > > > I have been studying hard, but I haven't seen any progress. 我一直在努力学习，但没有看到任何进步 // progress 进展 进步
@@ -146,7 +152,7 @@
 - > > > hear of. 听说
 -
 -
-- 5. `【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】`
+- 5. `【 I have excellent 【 interpersonal 】 skills, I'm well 【 organized 】. 我有出色的人际交往能力，组织能力强 】`
 - // excellent 极好的 杰出的
 - // 【 interpersonal skill. 人际交往能力 】
 - // 【 interpersonal 人际关系的 】
@@ -168,9 +174,10 @@
 - BBB.
 - `focus on. 关注` // TIPS: pay attention to pronunciation.
 - // Focus on education and work history. 关注教育和工作经历
+- // Focus on the tone of my voice. 注意我说话的语气
 -
 - `for instance. 例如`
-- // What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+- **【 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？ 】**
 - // staff 员工
 - // stuff 东西
 - // a member of. 一员 成员
@@ -237,8 +244,8 @@
 - `-------- -------- -------- -------- -------- -------- --------
 - CCC.
 - interview 面试
-- `interviewer 面试官`
-- `interviewee 被面试者`
+- `interviewer 面试官` // employee
+- `interviewee 被面试者` // employer
 - // employment 就业
 - // unemployment 失业
 - // `employer 雇主`
@@ -316,6 +323,10 @@ What are the responsibilities in this position? 这个职位的工作职责是�
 
 8.
 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+
+9.
+What's your routine work? 你的日常工作是什么？
+How do you feel about your routine work? 你觉得你的日常工作怎么样？
 ```
 
 ##### (2) Details
