@@ -1,9 +1,12 @@
 # Job Interview
 
+##### Review
+
 - 2024-01-22
 - AA.
 - `relevant 相关的`
 - // **【 Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？ 】**
+- // **【 Do you have any questions about the position? 你对该职位有任何疑问吗？ 】**
 - BB.
 - `diverse 多样的 不同的`
 - // A 【 diverse 】 team can cooperate with each other and achieve a common goal. 多元化的团队可以相互协作，实现共同目标
@@ -12,7 +15,7 @@
 - 1
 - `make sense. 有道理`
 - // makes sense. 可以用来直接回答对面的问题。意思为 很有道理
-- // **【 -- What you said makes sense. 你说的很有道理 -- 】**
+- // **【 -- What you said makes sense. 你说的很有道理 -- 】** // 因为主语 What you said 是一个从句，谓语动词要用（ 单数 ）形式
 - // **【 What he said make sense. 他说的话有道理 】**
 - // **【 What you said just now makes sense. 你刚才说的话很有道理 】**
 -
@@ -47,15 +50,20 @@
 -
 -
 -
+-
+-
+
+##### Starting
+
 - `small talk. 闲聊`
 - `start out. 开始`
 - `handshake 握手`
 - //【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 - //【 We use small talk to find common interests. 我们用闲聊来寻找共同的兴 】
 - // 1
-- // start off. 开始
-- // start out. 开始
-- // fill out. 填写 // fill out a deposit slip.
+- // `start out. 开始` // ---- `Most interviews will 【 start out 】 with a handshake and some 【 small talk 】`
+- // `fill out. 填写` // ----- `【 fill out 】 a deposit slip.`
+- // `roll out. 推出` // ----- `The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机`
 - // fill up.
 - // pull up. // pull over.
 - // speed up.
@@ -64,7 +72,7 @@
 - // -- follow 跟随 v
 - // -- following 下列的 adj
 - // 3
-- // take up. 占用
+- // take up. 占用 // ------ How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】
 - // pick up. 捡起 接人
 - // pull up. 停车
 - // speed up. 加速
@@ -72,9 +80,15 @@
 - // speak up. 大声说
 -
 -
--
-- `internship 实习`
+- `intern 实习生 关押`
+- `internship 实习期 实习`
+- // `scholarship 奖学金`
+- // `leadership 领导力 领导`
+- // `friendship 友谊`
+- **【 【 Interns 】 are not 【 paid 】 during their 【 internship 】. 实习生在实习期间没有工资 】**
 - Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习
+- // paid 付费的 有薪金的 付费 v
+- // during 在...期间
 -
 -
 - `-------- -------- -------- -------- -------- -------- --------
@@ -83,10 +97,12 @@
 - // definitely 肯定地
 - // definite 确定的 肯定的 清晰的
 - // a little bit. 一点 一点点
+- 111.
 - `【 Focus on 】 education and work history. 关注教育和工作经历`
-- // focus on. 关注 注意
-- // Focus on the tone of my voice. 注意我说话的语气
-- // TIPS: pay attention to pronunciation.
+- `【 Focus on the tone of my voice. 注意我说话的语气 】`
+- // -- focus on. 关注 注意
+- // -- // TIPS: pay attention to pronunciation.
+- 222.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中
 - 1. **【 I studied at South-Central Minzu University and graduated in 2022 with a Bachelor's degree. 】**
@@ -102,7 +118,7 @@
 - // 【 a bachelor's degree = a degree in bachelor. 】
 - // 3
 - // Communication Engineering. 通信工程
-- 2. -
+- 333.
 - **【 I started off my career as a front-end engineer with SHOUQIANBA. 我的职业生涯始于收钱吧，担任前端工程师 】**
 - **【 I was in that job for 2 years. Then I had the opportunity to be the manager for SHOUQIANBA company. 】**
 - **【 Then I was promoted to manager. 然后我被提升为经理 】**
@@ -120,7 +136,7 @@
 - `be in charge of. 负责`
 - `be responsible for. 负责`
 - `My duties include...`
-- I was in charge of developing the app. = I was responsible for developing the app.
+- I was 【 in charge of 】 developing the app. = I was responsible for developing the app.
 -
 - > > > I have been working at xxx for seven years as a front-end engineer.
 - > > > I have been studying hard, but I haven't seen any progress. 我一直在努力学习，但没有看到任何进步 // progress 进展 进步
@@ -263,9 +279,8 @@ What are your strengths and weaknesses?
 // I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 // 2
-// I'm too much of a perfectionist. 我太完美主义了
+// I'm too much of a 【 perfectionist 】. 我太完美主义了
 // -- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
-// -- I have a hard time balancing my work and life. 我很难平衡工作和生活
 // 3
 //【 I'm very punctual, so I always can meet the project deadlines. 】
 // I'm very 【 punctual 】. 我十分守时
@@ -273,6 +288,8 @@ What are your strengths and weaknesses?
 // 4
 // 【 He likes to 【 brag 】. 他爱吹牛 】
 // -- brag 吹嘘
+// 5
+// 【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】
 
 4.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
@@ -284,13 +301,21 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // -- candy 糖果
 // -- sugar 糖
 
-5. How long have you been working here? 你在这里工作多久了？
-5. How long have you been studying here? 你在这里学习多久了？
+5.
+How long have you been working here? 你在这里工作多久了？
+How long have you been studying here? 你在这里学习多久了？
 // 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
 
 6.
 Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
 Do you have any questions about the position?
+
+7.
+What are the responsibilities in this position? 这个职位的工作职责是什么？
+//【 I was 【 in charge of 】 developing the app. = I was responsible for developing the app. 】
+
+8.
+What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
 ```
 
 ##### (2) Details

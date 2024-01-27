@@ -590,6 +590,10 @@ compared 比较的 adj
 - `roll out. 推出 出发`
 - **【 1. The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机 】**
 - **【 2. now, roll out. 出发 】**
+- // AA.
+- // `start out. 开始` // ---- `Most interviews will 【 start out 】 with a handshake and some 【 small talk 】`
+- // `fill out. 填写` // ----- `【 fill out 】 a deposit slip. 填写存款单`
+- // `roll out. 推出` // ----- `The company plans to 【 roll out 】 a new phone.`
 -
 - 3
 - `up to. 达到 接近于 由...决定`
@@ -939,6 +943,7 @@ https://vuejs.org/guide/introduction.html
 - // AA
 - // -- camelCase 驼峰命名法
 - // -- camel 骆驼
+- // -- camera 照相机
 - // BB
 - // -- case 案例
 - // -- `just in case. 以防万一`
