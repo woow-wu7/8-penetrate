@@ -58,7 +58,8 @@ blizzard. 暴风雪
 
 Advanced weather vocabulary. 高级天气词汇
 
-weather prediction. 天气预报
+【 weather prediction. 天气预报 】
+【 weather forecast. 天气预报 】
 earthquake prediction. 地震预报
 // prediction 预测 预言 预告 n
 // This great prediction is coming true. 这一伟大的预言即将成为事实

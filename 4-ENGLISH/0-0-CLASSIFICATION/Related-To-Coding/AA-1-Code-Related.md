@@ -562,7 +562,8 @@ compared 比较的 adj
 - **【 【 According to 】 the 【 weather forecast 】, it will rain today. 根据天气预报，今天会下雨 】**
 - 【 The element is positioned according to the normal flow of the document. 通过正常的文档流来定位 】
 - // 【 according to. 根据 】
-- // 【 weather forecast. 天气预报 】
+- // `【 weather forecast. 天气预报 】`
+- // `【 weather prediction. 天气预报 】`
 - // forecast 预测
 -
 - 9
@@ -1085,22 +1086,24 @@ https://vuejs.org/guide/introduction.html
 - // -- `minus` --------------- // Three minus two equals one.
 - // -- `times` --------------- // one times two equals two.
 - // -- `divided` ------------- // 8 divided by 2 is four.
+- // -- 相等用 is 和 equals 都可以
 - // 和 sum
 - // 差 difference
 - // 积 product
 - // 商 quotient
-- // ------- **减法 - 【 plus / add 】**
+- // ------- **加法 - 【 plus / add 】**
 - // ------- A. One plus one equals two.
 - // ------- B. One add one equals two.
+- // ------- C. One plus one is two.
 - // ------- **减法 - 【 minus / subtracted 】**
 - // ------- A. 9 minus 6 equals 3.
-- // ------- B. 6 subtracted from 9 is 3.
+- // ------- B. 6 【 subtracted from 】 9 is 3.
 - // ------- c. If you subtract 6 from 9, you get 3.
 - // ------- **除法 - 【 divided 】**
-- // ------- A. 10 divided by 2 equals 5.
+- // ------- A. 10 【 divided by 】 2 equals 5.
 - // ------- **乘法 - 【 times/multiplied 】**
 - // ------- A. one times two equals two.
-- // ------- B. 1 multiplied by 2 equals
+- // ------- B. 1 【 multiplied by 】 2 equals
 - CC
 - **【 I have been to Beijing three timess. 我去过北京三次 】**
 - **【 click once, then click twice. 】**
@@ -1116,6 +1119,7 @@ https://vuejs.org/guide/introduction.html
 - `hint widnow. 提示窗口`
 - // **【 I will give you a 【 hint 】 if you get stuck. 如果你遇到困难，我会给你一个提示 】**
 - // **【 You can use the hint to solve the puzzle. 你可以用这个提示来解开这个谜题 】**
+- // Can you drop me a hint? 你能给我一个暗示吗？
 - // -- puzzle 迷 疑问 难题
 -
 - 8
