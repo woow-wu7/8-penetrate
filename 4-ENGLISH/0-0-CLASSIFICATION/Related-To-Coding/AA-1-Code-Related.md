@@ -1066,3 +1066,58 @@ https://vuejs.org/guide/introduction.html
 - 4
 - `explicit 清楚明白的 明确的`
 - **【 The map shows an 【 explicit 】 route to me. 这张地图给我指出了明确的路线 】**
+-
+-
+-
+-
+- 5
+- `time 时间 次数 乘以`
+- AA
+- `a waste of time. 浪费时间`
+- // It's 【 a waste of time 】 and 【 energy 】. 那是浪费【时间】和【精力】
+- // please don't waste time. 请不要浪费时间
+- // -- energy 精力 能量
+- BB
+- `times 专门用来表示 乘法 和 次数 --> (  表示乘法时都用 times )`
+- // one times one equals one.
+- // one times two equals two.
+- // -- `plus` ---------------- // One plus one equals two.
+- // -- `minus` --------------- // Three minus two equals one.
+- // -- `times` --------------- // one times two equals two.
+- // -- `divided` ------------- // 8 divided by 2 is four.
+- // 和 sum
+- // 差 difference
+- // 积 product
+- // 商 quotient
+- // ------- **减法 - 【 plus / add 】**
+- // ------- A. One plus one equals two.
+- // ------- B. One add one equals two.
+- // ------- **减法 - 【 minus / subtracted 】**
+- // ------- A. 9 minus 6 equals 3.
+- // ------- B. 6 subtracted from 9 is 3.
+- // ------- c. If you subtract 6 from 9, you get 3.
+- // ------- **除法 - 【 divided 】**
+- // ------- A. 10 divided by 2 equals 5.
+- // ------- **乘法 - 【 times/multiplied 】**
+- // ------- A. one times two equals two.
+- // ------- B. 1 multiplied by 2 equals
+- CC
+- **【 I have been to Beijing three timess. 我去过北京三次 】**
+- **【 click once, then click twice. 】**
+-
+- 6
+- `iterate 迭代 重复 v`
+- `【 iterate through. 遍历 】`
+- // **【 【 Iterate through 】 the list. 遍历列表 】**
+- // **【 【 Iterate through 】 the list and print each item. 遍历列表并打印每个项目 】**
+-
+- 7
+- `hint 提示 暗示`
+- `hint widnow. 提示窗口`
+- // **【 I will give you a 【 hint 】 if you get stuck. 如果你遇到困难，我会给你一个提示 】**
+- // **【 You can use the hint to solve the puzzle. 你可以用这个提示来解开这个谜题 】**
+- // -- puzzle 迷 疑问 难题
+-
+- 8
+- `shorthand 简写`
+- **【 We can use 【 shorthand 】 to save time and space. 我们可以使用简写来节省时间和空间 】**
