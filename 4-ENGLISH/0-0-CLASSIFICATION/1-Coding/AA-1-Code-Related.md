@@ -950,7 +950,7 @@ https://vuejs.org/guide/introduction.html
 - // -- `just in case. 以防万一`
 - // -- `in case of. 一旦`
 - // -- 11. `Bring a 【 first aid kit 】 【 just in case 】. 带上【急救箱】【以防万一】`
-- // -- 22. `【 In case of 】 【 urgency 】, call the police. 一旦发生紧急情况，打电话给警察`
+- // -- 22. `【 In case of 】 【 urgency 】, please call the police. 一旦发生紧急情况，打电话给警察`
 - // -- He has no 【 clue 】 about how to solve this complex case. 他对如何解决这个复杂的案件毫无头绪
 - // ---- clue 线索
 - // CC
@@ -1082,6 +1082,7 @@ https://vuejs.org/guide/introduction.html
 - `times 专门用来表示 乘法 和 次数 --> (  表示乘法时都用 times )`
 - // one times one equals one.
 - // one times two equals two.
+- // **【 what is one plus one? 】**
 - // -- `plus` ---------------- // One plus one equals two.
 - // -- `minus` --------------- // Three minus two equals one.
 - // -- `times` --------------- // one times two equals two.
@@ -1116,7 +1117,7 @@ https://vuejs.org/guide/introduction.html
 -
 - 7
 - `hint 提示 暗示`
-- `hint widnow. 提示窗口`
+- `hint window. 提示窗口` // window widow
 - // **【 I will give you a 【 hint 】 if you get stuck. 如果你遇到困难，我会给你一个提示 】**
 - // **【 You can use the hint to solve the puzzle. 你可以用这个提示来解开这个谜题 】**
 - // Can you drop me a hint? 你能给我一个暗示吗？
