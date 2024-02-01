@@ -5,18 +5,27 @@
 - `radius 半径`
 - `diameter 直径`
 - `perimeter 周长`
-- **【 Diameter is equal to twice the radius. 直径等于半径的两倍 】**
+- **【 The 【 diameter 】 is equal to 【 twice 】 the 【 radius 】. 直径等于半径的两倍 】**
+- **【 The 【 diameter 】 of this circle is 30 【 centimeters 】. 】**
+- // twice 两倍 两次 adv
 -
 - `perimeter 周长`
 - `area 面积`
 - `surface area. 表面积`
-- **【 The perimeter of the rectangle is 20 meters. 】**
+- `volume 体积 音量`
+- **【 The 【 perimeter 】 of the 【 rectangle 】 is 20 meters. 】**
+- **【 What's the 【 volume 】 of the 【 cuboid 】. 】**
+- **【 How do you measure the volume of a gas? 】**
+- // Please turn the 【 volume 】 down.
+- // Can you turn the 【 volume 】 up a little bit?
+- // turn up. 开大
+- // turn down. 关小
 -
 - `vertex 顶点` // vertices 复数形式
 - `vertices 顶点`
 - `side 边`
 - `angle 角`
-- **【 A triangle has three vertices, three sides and three angles. 】**
+- **【 A triangle has three 【 vertices 】, three sides, and three angles. 】**
 -
 - `kilometer 千米` // km
 - `meter 米`
@@ -24,7 +33,7 @@
 - `millimeter 毫米` // mm
 - // perimeter 周长
 - // be equal to. 等于
-- **【 One centimeter is equal to ten millimeters. = One centimeter equals ten millimeters. 】**
+- **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. = One centimeter equals ten millimeters. 】**
 -
 - `parallel 平行的 纬线 平行地`
 - `parallelogram 平行四边形`

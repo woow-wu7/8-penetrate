@@ -6,9 +6,21 @@
 landlord 房东
 Tenant 租客
 // middleman landlord. 二房东
+// land 陆地 土地 着陆
 // evict 驱逐
 -
+renovate 翻新
 utilities 公共设施费 水电费
+-
+laundry 洗衣 洗衣店 洗衣房
+laundromat 自助洗衣店
+-
+cozy 舒适的
+stylish 时尚的
+-
+move in. 搬进
+move out. 搬出
+show you around. 带你参观
 -
 lease 租约
 // lease term. 租期
@@ -25,9 +37,6 @@ exchange rate. 汇率
 -
 proof of income. 收入证明
 -
-move in. 搬进
-move out. 搬出
--
 flat 平坦的adj 公寓n
 apartment 公寓 房间
 one-bedroom apartment. 一居室公寓
@@ -42,6 +51,7 @@ loft 楼阁
 -
 furnished 带家具的
 unfurnished 无家具的
+wardrobe 衣柜
 -
 floor plans. 户型图
 promotion 推广 提升 促销活动
@@ -63,6 +73,7 @@ pay with -- 支付的 工具 或 方式 （ pay with. = pay by. + pay in. ）
 landlord 房东 店主
 rent 租用v 房租n 租金n
 raise 增加 提高
+// EE: A person or organization that owns a building or an area of land and is paid by other people for the use of it.
 // The 【 landlord 】 【 raised 】 the 【 rent 】 again. 房东油提高房租了
 
 tenant 租客
@@ -81,6 +92,10 @@ lease 租约
 // AA: Did you 【 sign a lease 】 on your apartment yet? 你签租约了吗？
 // BB: We signed two years 【 lease 】.
 // BB: We secured a good price for those two years. So, he can't raise the rent on us next year.
+
+renovate 翻新
+【 renovate my life. 洗心革面 】
+// They are going to 【 renovate 】 the old furniture. 他们准备将旧家具整修一番
 
 refund 退还 退钱
 deposit 押金n 存钱v 存款n
@@ -112,4 +127,36 @@ Is the apartment furnished? 这间公寓有家具吗？
 【 How do I pay for my rent and deposit? 我如何付租金和押金 】
 【 Two months rent as deposit. 两个月的租金作为押金 】
 【 What's the process for an international student to rent an apartment here? 国际学生在这里租房的过程是什么？】
+```
+
+##### (二) Conversation
+
+```
+1
+I saw your 【 listing for 】 an 【 apartment 】 on Oak Street.
+// listing for. 某物的广告或清单
+
+2
+The earliest 【 appointment 】 to view the apartment is 1 PM tomorrow. // 预约
+// appoint 任命 安排 v
+// appointment 任命 约会 预约 n
+//【 make an appointment. 安排预约 】
+// Please contact my 【 secretary 】 【 to make an appointment 】. 请和我的秘书联系，预约一个时间
+// You need to 【 make an appointment 】 to see a doctor. 你看医生需要预约
+// appointment 预约: What is the latest time I can have an appointment. 最晚的预约时间是几点钟？
+// appointment 约会: I have an appointment with my doctor tomorrow. 我和医生约了明天见面
+// -- latest 最新的 最迟的
+// -- secretary 秘书
+// -- assistant 助理
+// -- attendant 服务员 乘务员
+
+3
+show you around. 带你参观
+// Let me show you around. 让我带你参观
+
+4
+The bathroom【 is attached to 】 the bedroom.
+// be attached to. 附属于 链接
+// bathroom 浴室
+// bedroom 卧室
 ```
