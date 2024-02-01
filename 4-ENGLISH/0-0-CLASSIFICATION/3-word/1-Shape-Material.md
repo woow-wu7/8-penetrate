@@ -1,8 +1,38 @@
 ##### Shapes and materials
 
-- `geometric 几何的`
-
 ##### Shape
+
+- `radius 半径`
+- `diameter 直径`
+- `perimeter 周长`
+- **【 Diameter is equal to twice the radius. 直径等于半径的两倍 】**
+-
+- `perimeter 周长`
+- `area 面积`
+- `surface area. 表面积`
+- **【 The perimeter of the rectangle is 20 meters. 】**
+-
+- `vertex 顶点` // vertices 复数形式
+- `vertices 顶点`
+- `side 边`
+- `angle 角`
+- **【 A triangle has three vertices, three sides and three angles. 】**
+-
+- `kilometer 千米` // km
+- `meter 米`
+- `centimeter 厘米` // cm
+- `millimeter 毫米` // mm
+- // perimeter 周长
+- // be equal to. 等于
+- **【 One centimeter is equal to ten millimeters. = One centimeter equals ten millimeters. 】**
+-
+- `parallel 平行的 纬线 平行地`
+- `parallelogram 平行四边形`
+- **【 Opposite sides of a 【 parallelogram 】 are 【 parallel 】 to each other. 平行四边形对边相互平行 】**
+-
+-
+-
+- **【 What's the difference between pentagon and hexagon ? 】**
 
 ```
 1
@@ -13,14 +43,18 @@ rectangle 长方形
 square 正方形 广场
 diamond 菱形 砖石
 trapezoid 梯形
-parallelogram 平行四边形
+parallelogram 平行四边形 // parallel 平行的
+-
+triangle 三角形
+equilateral triangle. 等边三角形
+isosceles triangle. 等腰三角形
 -
 oval 椭圆形
 circle 圆形
 semicircle 半圆 ------------ Half a circle.
 -
-pentagon 五边形 ------------ A shape with five sides and five angles.
-hexagon 六边形 ------------- A shape with six straight sides.
+pentagon 五边形 ------------ A shape with five sides and five angles. // pent + a + gon
+hexagon 六边形 ------------- A shape with six straight sides. // hex + a + gon
 -
 sector 扇形 部门
 heart 星形 心脏
@@ -31,7 +65,7 @@ star 五角星
 2
 solid shapes. 立体图形
 ---
-sphere 球体
+sphere 球体 领域
 cube 正方体
 cuboid 长方体
 cylinder 圆柱体
