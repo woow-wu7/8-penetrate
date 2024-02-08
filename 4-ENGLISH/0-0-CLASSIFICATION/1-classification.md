@@ -155,6 +155,20 @@ sentence 句子
 make a sentence. 造句
 ```
 
+##### (7) Ocean 四大洋
+
+```
+Pacific Ocean 太平洋
+Atlantic Ocean 大西洋
+Indian Ocean 印度洋
+Arctic Ocean 北冰洋
+
+arctic 北极的 adj
+antarctic 南极的 adj
+
+Arctic Bear 北极熊
+```
+
 # (二) Unit 单位
 
 ##### (一) Number 数量

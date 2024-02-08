@@ -206,6 +206,10 @@ I'm on the phone. 我在打电话
 - **【 current 电流 】** // current 当前的 adj 电流 n
 - **【 voltage 电压 】**
 -
+- inlet 入口 小河湾
+- outlet 出口 插座
+-
+-
 -
 -
 - 1
