@@ -41,6 +41,10 @@ prize 奖 奖品 奖励
 【 first prize. 一等奖 】
 【 second prize. 二等奖 】
 【 I won the first prize. 我中了一等奖 】
+-
+bonus 奖金
+reward 奖励
+// She received a 【 bonus 】 as a 【 reward 】 for her hard work. 她因为努力工作而获得了【奖金】作为【奖励】
 
 steel 钢
 iron 铁
