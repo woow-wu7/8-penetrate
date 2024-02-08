@@ -2,6 +2,10 @@
 
 ##### (一) Renting An Apartment in English 租房子
 
+- 1
+- `confident in. 对...有信息`
+- **【 You will become super confident in telling time in English 】**
+
 ```1111111
 landlord 房东
 Tenant 租客
@@ -137,6 +141,18 @@ I saw your 【 listing for 】 an 【 apartment 】 on Oak Street.
 // listing for. 某物的广告或清单
 
 2
+Did you want to 【 schedule 】 a viewing? 你想安排看房吗
+【 schedule 工作计划 日程安排 】
+【 behind schedule. 落后于计划 】
+// 1. We're behind schedule.
+// 1. I'm already behind the schedule.
+// 2. The schedule is tight.
+// 3. I have a busy schedule.
+// 4. I have a full schedule.
+// -- We're working to a tight schedule. 我们工作安排得很紧
+// -- My usual schedule is to work from Monday to Friday. 我通常的日程安排是周一到周五上班.
+
+3
 The earliest 【 appointment 】 to view the apartment is 1 PM tomorrow. // 预约
 // appoint 任命 安排 v
 // appointment 任命 约会 预约 n
@@ -150,11 +166,11 @@ The earliest 【 appointment 】 to view the apartment is 1 PM tomorrow. // 预�
 // -- assistant 助理
 // -- attendant 服务员 乘务员
 
-3
+4
 show you around. 带你参观
 // Let me show you around. 让我带你参观
 
-4
+5
 The bathroom【 is attached to 】 the bedroom.
 // be attached to. 附属于 链接
 // bathroom 浴室

@@ -1,4 +1,4 @@
-# classification 分类 // category 分类
+# (一) classification 分类 // category 分类
 
 ##### (1) Atom / Gas
 
@@ -140,7 +140,18 @@ neighbor 邻居
 // -- flood 洪水
 ```
 
-# Unit 单位
+##### (6) word
+
+```
+word 单词
+phrase 词语
+vocabulary 词汇
+sentence 句子
+
+make a sentence. 造句
+```
+
+# (二) Unit 单位
 
 ##### (一) Number 数量
 

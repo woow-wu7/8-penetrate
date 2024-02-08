@@ -569,9 +569,10 @@ surgical 外科的 adj
 // medicine 药n 内科n 广泛的 // medication 药，范围较窄，比如【  prescription medication. 处方药 】
 // surgery 外科手术n // surgeon 外科医生
 
-tablet 药片
+tablet 药片 平板
 pill 药丸
 capsule 胶囊
+// Don't 【 dissolve 】 the 【 tablet 】 in water.
 
 pneumonia 肺炎 n
 insomnia 失眠 n

@@ -4,15 +4,17 @@
 
 - `radius 半径`
 - `diameter 直径`
-- `perimeter 周长`
+- `circumference 周长`
 - **【 The 【 diameter 】 is equal to 【 twice 】 the 【 radius 】. 直径等于半径的两倍 】**
 - **【 The 【 diameter 】 of this circle is 30 【 centimeters 】. 】**
 - // twice 两倍 两次 adv
+- // circumference 周长
 -
-- `perimeter 周长`
+- `circumference 周长` // `perimeter 周长`
 - `area 面积`
 - `surface area. 表面积`
 - `volume 体积 音量`
+- // The 【 circumference 】 of the 【 rectangle 】 is 20 meters.
 - **【 The 【 perimeter 】 of the 【 rectangle 】 is 20 meters. 】**
 - **【 What's the 【 volume 】 of the 【 cuboid 】. 】**
 - **【 How do you measure the volume of a gas? 】**
@@ -49,7 +51,7 @@ Plane Shapes. 平面图
 ---
 triangle 三角形
 rectangle 长方形
-square 正方形 广场
+square 正方形 广场 // sphere 球体
 diamond 菱形 砖石
 trapezoid 梯形
 parallelogram 平行四边形 // parallel 平行的
@@ -96,7 +98,7 @@ semi 半
 - `There are many objects made of different materials that we use every day.`
 
 ```
-metal 金属
+metal 金属 // medal model module
 rubber 橡胶
 wood 木材
 plastic 塑料
