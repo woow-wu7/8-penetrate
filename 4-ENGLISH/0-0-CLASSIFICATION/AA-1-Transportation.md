@@ -514,6 +514,10 @@ coach Class. 经济舱 // 美国和加拿大喜欢用，coach教练
 economy class. 经济舱 // economy 经济 n
 business class. 商务舱
 first class. 头等舱
+// 【 digital economy. 数字经济 】
+// `economy 经济n 经济的adj`
+// `economic 经济的 经济学的 adj`
+// `economics 经济学 n`
 -
 queue 队列 排队
 queue up. 排队
@@ -679,8 +683,12 @@ arrive 到达 v
 
 cooperation 合作
 cooperation = co + operation
-【 economic cooperation. 经济合作 】
 【 in cooperation with. 与...合作 】
+【 economic cooperation. 经济合作 】
+-
+【 digital economy. 数字经济 】 // n
+【 economy class. 经济舱 】// adj
+-
 // cooperation 合作: Cooperation equals success. 合作意味着成功
 // 【 a report produced by the government in cooperation with the chemical industry. 政府与化工行业合作提出的一份报告 】
 // 【 The workers, in cooperation with the management, have increased output by 10 percent. 工人与厂方合作使产量增加10% 】

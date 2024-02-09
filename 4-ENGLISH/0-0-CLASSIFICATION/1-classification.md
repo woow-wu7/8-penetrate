@@ -45,6 +45,9 @@ prize 奖 奖品 奖励
 bonus 奖金
 reward 奖励
 // She received a 【 bonus 】 as a 【 reward 】 for her hard work. 她因为努力工作而获得了【奖金】作为【奖励】
+-
+【 rare metals. 稀有金属 】
+【 ore 矿石 】
 
 steel 钢
 iron 铁
