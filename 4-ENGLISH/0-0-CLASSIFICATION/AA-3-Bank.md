@@ -103,6 +103,7 @@
 - // slip 便条 滑倒
 - // deposit slip. 存款单
 - // 【 fill out a deposit slip. 填写存款单 】
+- // Please 【 fill out 】 this question 【 so that 】 we can improve our service. 请填写这份问卷调查，这样可以帮助我们改善服务
 - // 2
 - // -- fill out. 填写
 - // -- fill up. 装满
