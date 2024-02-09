@@ -29,6 +29,8 @@
 - Can I sit next to you? 我可以坐在你旁边吗？
 - The bank is next to the museum. 银行在博物馆旁边
 - // vacant 空闲的 空缺的
+- //【 vacant seat. 空位 】
+- //【 vacant land. 空地 】
 - // There is 【 a vacant / an empty 】seat in the classroom.
 -
 - 2. around here.
