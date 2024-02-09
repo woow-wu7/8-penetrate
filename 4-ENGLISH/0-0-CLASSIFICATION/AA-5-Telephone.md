@@ -1,19 +1,26 @@
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
-- // I'm on the phone. 我在打电话
-- // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
+- // **【 I'm on the phone. 我在打电话 】**
+- // **【 Turn down 】 the TV, I'm 【 on the phone 】. 把电视音量关小，我正【 在打电话 】**
+- // --【 turn down. 拒绝 关小 】
+- // -- turn down 拒绝: `Why did she 【 turn down 】 your 【 invitation 】`. // 拒绝
+- // -- turn down 关小: Please 【 turn down 】 the gas. // 关小
+- // -
+- // `invite 邀请 v`
+- // `invitation 邀请 n`
 -
 - **【 make a call. 打电话 】**
 - **【 answer a call. 接电话 】**
+- Press the green button to answer the call.
 -
 - `make a call. 打电话`
 - `make a video call. 打视频电话`
 - `Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】`
 - // 1. May I ask who is calling?
 - // 2. Thank you for your calling.
-- // 3. I'm calling to see How they are doing.
-- // 4. I just called to see How they are doing.
+- // 333. I'm calling to see How they are doing.
+- // 444. I just called to see How they are doing.
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
 - // 66. When will you call me back? 你什么时候回我电话? // call back.
 - // 66. 【 I have to hang up, can I call you back later? 】
@@ -22,24 +29,22 @@
 - // 7. My call is coming. 我的电话来了
 - `leave a message. 留言`
 -
-- `I'm on the phone. 我在打电话`
-- // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
-- // How to talk on the phone in English.
--
--
 - `The line is busy. 电话占线`
 -
 - `hang up. 挂电话`
 - // **【 I have to hang up, can I call you back later? 】**
 - // 【 to hang up and call him back later. 挂断电话，稍后再给他打电话 】
+- // 【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】
 - // I'm hanging up.
--
 -
 - Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
 - 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
 -
 -
-- **打电话**
+-
+-
+-
+- **打电话** make a call.
 - 1. May/Can/Could I/ May I【 speak to 】 Marry, please?
 - 1. Hi, I'm looking for Mary.
 - 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
@@ -47,7 +52,7 @@
 - 3. `Can you have him give me a callback, please? 你能让他回电话给我吗？`
 - 3. `When will you call me back? 你什么时候回我电话?`
 - 3. `To hang up and call him back later. 挂断电话，稍后再给他打电话`
-- **接电话**
+- **接电话** answer a call.
 - `answer the call. 接电话`
 - `Press the green button to answer the call. 按绿色按钮接听电话`
 - 1. this is Lucy. // ------------------ 不能说 I'm Lucy
@@ -68,14 +73,14 @@
 - 3. hold on for a moment. 【 Marry this is a call for you. 玛丽，这是打给你的电话 】
 - 3. Please hold, I'll put you through. 请稍等，我帮你接通
 - 4444444. sorry, she is not in. 对不起，她不在
-- 4444444. sorry, she is not here right now. Can I take a message for you?
-- 4444444. sorry, Marry is not here right now. Would you like to leave a message?
+- 4444444. **【 sorry, she is not here right now. Can I take a message for you? 】**
+- 4444444. **【 sorry, Marry is not here right now. Would you like to leave a message? 】**
 - 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
 - 4444444. sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 // at the moment. 此刻
 - 4444444. `sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了`
 - 5. 【 Thank you for your calling. 谢谢你的来电 】
-- 6666666. Could you please 【 slow down? 】可以请你说慢一点吗？
-- 6666666. Could you please 【 speak up? 】 你能大点声说吗?
+- 6666666. **【 Could you please 【 slow down? 】可以请你说慢一点吗？ 】**
+- 6666666. **【 Could you please 【 speak up? 】 你能大点声说吗? 】**
 - 7. `Ok, Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接`
 - 7. I'm hanging up. 我要挂电话了
 - **其他**
@@ -174,37 +179,59 @@ I'm on the phone. 我在打电话
 -
 -
 - `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩`
-- `charging pile. 充电桩` // pile 一堆 地桩
 - `charging port. 充电口`
+- `charging pile. 充电桩` // pile 一堆 地桩
 - `charger 充电器`
+- charge
+- recharge
+- discharge
+- -
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
-- `socket 插座`
-- `wall outlet. 壁装插座`
 - `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
+- -
+- `socket 插座`
+- `outlet 插座`
+- `wall outlet. 壁装插座`
+- // outlet 出口 插座 ----> exit
+- // inlet 入口 小湾 -----> entrance
+-
 - **【 charge 充电 要价 】**
 - **【 recharge 充电 】**
 - **【 discharge 放电 释放 排出 】**
 - `charging port. 充电口` // 1. `charging cable. 充电线` 2. `charging pile. 充电桩`
+-
 - phone case. 手机壳
 - screen protector. 手机保护膜
+-
 - `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜
 - `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
 - speaker 扬声器
 - receiver 听筒
 - microphone. 麦克风 // 1. headphone // 2. headphone jack. // 3. microscope 显微镜 // 4. telescope 望远镜
+-
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
+- `rear view mirror. 后视镜`
+- `rear view camera. 后视摄像头`
+-
 - mute button/silent button. 静音键
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
+-
 - `landscape mode. 横屏` // landscape 景观 地形 地貌
 - `portrait mode. 竖屏` // 1.charging port.充电口 // 2. charging cable. 充电线 // 3.portrait 肖像 n 竖向的 adj
+-
 - `touch screen. 触摸屏`
 - operating system. 操作系统 OS
 - `bluetooth 蓝牙`
 - `telephone booth. 电话亭` // booth tooth teeth bluetooth
+-
 - **【 current 电流 】** // current 当前的 adj 电流 n
 - **【 voltage 电压 】**
+-
+- **【 volume key = volume button. 音量键 】**
+- **【 star key. 星号键 】**
+- **【 pound key. 井号键 】**
 -
 - inlet 入口 小河湾
 - outlet 出口 插座
@@ -217,8 +244,8 @@ I'm on the phone. 我在打电话
 - 2
 - **【 I plug the charging cable into the charger, and I plug 【 the other end 】 into my phone. 】**
 - 3
-- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode.
-- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode.
+- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode. // `vibrate 震动`
+- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`
 - **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
 - **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
 - `【 Put it on speaker. 打开免提 】`
@@ -245,9 +272,10 @@ I'm on the phone. 我在打电话
 - // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
 - // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
 - // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
-- // volume key = volume button. 音量键
-- // star key. 星号键
-- // pound key. 井号键
+- // -
+- // **【 volume key = volume button. 音量键 】**
+- // **【 star key. 星号键 】**
+- // **【 pound key. 井号键 】**
 -
 -
 - `vibrate 振动`
