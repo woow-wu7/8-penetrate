@@ -1,6 +1,11 @@
 # Summarize
 
 - `Mobile phones are 【 essential 】for making calls. 手机对于打电话来说是【必不可少的】`
+- // essential 必要的 必不可少的 及其重要的
+-
+- `You have to be very 【 deft 】 in making the phone call. 你打电话必须非常熟练`
+- // deft 熟练的
+- // making the phone call. 打电话
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
@@ -17,6 +22,9 @@
 - **【 make a call. 打电话 】**
 - **【 answer a call. 接电话 】**
 - Press the green button to answer the call.
+-
+- **【 pick up. 接电话 】**
+- **【 hang up. 挂电话 】**
 -
 - `make a call. 打电话`
 - `make a video call. 打视频电话`
@@ -182,18 +190,20 @@ I'm on the phone. 我在打电话
 -
 -
 -
-- `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩`
+- `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩` // 3. `usb cable. usb数据线`
 - `charging port. 充电口`
 - `charging pile. 充电桩` // pile 一堆 地桩
 - `charger 充电器`
-- charge
-- recharge
-- discharge 放电
-- -
+- `charge 充电 收费`
+- `recharge 充电`
+- `discharge 放电`
+- in charge of = responsible for. 负责
+- // I'm 【 responsible for 】 developing apps. = I'm 【 in charge of 】 developing apps.
+-
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
 - `river bank. 河岸`
-- -
+-
 - `socket 插座`
 - `outlet 插座`
 - `wall outlet. 壁装插座`
@@ -201,15 +211,15 @@ I'm on the phone. 我在打电话
 - // inlet 入口 小湾 -----> entrance
 -
 - **【 charger 充电器 】**
-- **【 charge 充电 要价 】**
+- **【 charge 充电 收费 】**
 - **【 recharge 充电 】**
 - **【 discharge 放电 释放 排出 】**
 - `charging port. 充电口`
-- `charging cable. 充电线`
+- `charging cable. 充电线` // usb cable.
 - `charging pile. 充电桩`
 - **【 in charge of. 负责 】**
 - **【 responsible for. 负责 】**
-- // I was 【 in charge of 】 developing the app. = I was responsible for developing the app.
+- // I was 【 in charge of 】 developing apps. = I was 【 responsible for 】 developing apps.
 -
 - phone case. 手机壳
 - screen protector. 手机保护膜
@@ -228,17 +238,21 @@ I'm on the phone. 我在打电话
 - mute button/silent button. 静音键
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
+- charging cable. 数据线 // charging port. // charging pile.
 -
 - `landscape mode. 横屏` // landscape 景观 地形 地貌
 - `portrait mode. 竖屏` // 1.charging port.充电口 // 2. charging cable. 充电线 // 3.portrait 肖像 n 竖向的 adj
--
 - `touch screen. 触摸屏`
-- operating system. 操作系统 OS
+-
 - `bluetooth 蓝牙`
 - `telephone booth. 电话亭` // booth tooth teeth bluetooth
+- operating system. 操作系统 OS
 -
 - **【 current 电流 】** // current 当前的 adj 电流 n
 - **【 voltage 电压 】**
+- **【 rated voltage. 额定电压 】** // rated current. 额定电流
+- **【 rated power. 额定功率 】**
+- // **【 The 【 rated voltage 】in china is 220v. 中国的额定电压是 220v 】**
 -
 - **【 volume key = volume button. 音量键 】**
 - **【 star key. 星号键 】**
@@ -279,7 +293,9 @@ I'm on the phone. 我在打电话
 - `turn up. 开大`
 - `turn down. 关小`
 - `a little bit. 一点点 一点`
-- // a little bit 一点点: The first question is definitely tell me 【 a little bit 】 about yourself.
+- pick up. 接电话
+- hang up. 挂电话
+- // a little bit 一点点: The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself.
 - // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
 - // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
 - // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
