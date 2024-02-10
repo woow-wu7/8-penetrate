@@ -1,3 +1,7 @@
+# Summarize
+
+- `Mobile phones are 【 essential 】for making calls. 手机对于打电话来说是【必不可少的】`
+
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
@@ -184,10 +188,11 @@ I'm on the phone. 我在打电话
 - `charger 充电器`
 - charge
 - recharge
-- discharge
+- discharge 放电
 - -
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
 - `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
+- `river bank. 河岸`
 - -
 - `socket 插座`
 - `outlet 插座`
@@ -195,10 +200,16 @@ I'm on the phone. 我在打电话
 - // outlet 出口 插座 ----> exit
 - // inlet 入口 小湾 -----> entrance
 -
+- **【 charger 充电器 】**
 - **【 charge 充电 要价 】**
 - **【 recharge 充电 】**
 - **【 discharge 放电 释放 排出 】**
-- `charging port. 充电口` // 1. `charging cable. 充电线` 2. `charging pile. 充电桩`
+- `charging port. 充电口`
+- `charging cable. 充电线`
+- `charging pile. 充电桩`
+- **【 in charge of. 负责 】**
+- **【 responsible for. 负责 】**
+- // I was 【 in charge of 】 developing the app. = I was responsible for developing the app.
 -
 - phone case. 手机壳
 - screen protector. 手机保护膜

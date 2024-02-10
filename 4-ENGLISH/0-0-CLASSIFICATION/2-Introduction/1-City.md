@@ -16,4 +16,10 @@ bay 海湾
 
 inlet 入口 小河湾 // entrance
 outlet 出口 插座 // exit
+- `socket 插座`
+- `outlet 插座`
+- `wall outlet. 壁装插座`
+
+dock 码头 -> 停小船用
+pier 码头 -> 娱乐设施为主
 ```
