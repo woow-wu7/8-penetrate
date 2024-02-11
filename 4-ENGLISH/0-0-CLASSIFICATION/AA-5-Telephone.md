@@ -4,6 +4,17 @@
 - `【 Batteries 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
 - // -
+- // EE: battery: A device that produces 【 electricity 】 to provide power for radios, cars, etc.
+- // -
+- // -- `battery 电池`
+- // -- **【 electric 电的 adj 】**
+- // -- **【 electricity 电 n 】** // electricity -----> electric + ity
+- // -- **【 electrician 电工 n 】** // electrician ---> electric + ian
+- // -- `electric circuit. 电路`
+- // -- `electric kettle 电热水壶`
+- // --【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销
+- // -- Primitive men made fire by themselves since they had no electricity. 原始人没有电，只能自己生火
+- // -
 - // - essential 必不可少的 至关重要的
 - // --【 be essential for. 】对...必不可少
 - // --【 Food is essential for living things. 食物对生物来说是必不可少的 】
@@ -16,6 +27,17 @@
 - // -- bacterial 细菌
 - // -- fungus 真菌
 - // -- virus 病毒
+- // -
+- // -- microorganism 微生物 // -------- microorganism = micro + organism
+- // -- microscope 显微镜 // ----------- microscope = micro + scope
+- // -- microphone 麦克风 // ----------- microphone = micro + phone
+- // -- microwave 微波炉 // ------------ microwave = micro + wave
+-
+- 2
+- `Sorry, the subscriber you dialed is busy now. Please redial later. `
+- // -- dial 拨打
+- // -- redial 再次拨打
+- // -- subscribe 订阅
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
@@ -51,6 +73,8 @@
 - // 444. `I just called to see How they are doing.`
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
 - // 66. **【 When will you call me back? 你什么时候回我电话? 】** // call back.
+- // 66. **【 When would be a good time to call back? 】**
+- // -
 - // 66. **【 I have to hang up, can I call you back later? 】**
 - // 66. **【 To hang up and call him back later. 挂断电话，稍后再给他打电话 】**
 - // 66. **【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】**
@@ -205,7 +229,8 @@ I'm on the phone. 我在打电话
 
 - `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
 - `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
-- `Put the plug into the socket. = Insert the plug into the socket.` // Put the gas nozzle into the gas tank.
+- `Put the plug into the socket. = Insert the plug into the socket.`
+- // Put the gas nozzle into the gas tank.
 -
 -
 -
@@ -216,7 +241,7 @@ I'm on the phone. 我在打电话
 - `charge 充电 收费`
 - `recharge 充电`
 - `discharge 放电`
-- in charge of = responsible for. 负责
+- 【 in charge of = responsible for. 负责 】
 - // I'm 【 responsible for 】 developing apps. = I'm 【 in charge of 】 developing apps.
 -
 - `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
@@ -245,17 +270,37 @@ I'm on the phone. 我在打电话
 -
 - `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜
 - `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
-- // **【 earphone 耳塞式耳机 】**
-- // **【 headphone 头戴式耳机 】**
+- // **【 earphone 耳塞式耳机 】** // earphone jack.
+- // **【 headphone 头戴式耳机 】** // headphone jack.
 - // **【 microphone 麦克风 】**
+- // -- microorganism 微生物 // -------- microorganism = micro + organism
+- // -- microscope 显微镜 // ----------- microscope = micro + scope
+- // -- microphone 麦克风 // ----------- microphone = micro + phone
+- // -- microwave 微波炉 // ------------ microwave = micro + wave
+-
 - speaker 扬声器
 - receiver 听筒
 - microphone. 麦克风 // 1. headphone // 2. headphone jack. // 3. microscope 显微镜 // 4. telescope 望远镜
 -
+-
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
-- `rear view mirror. 后视镜`
-- `rear view camera. 后视摄像头`
+- -
+- // -- `rear view mirror. 后视镜`
+- // -- `rear view camera. 后视摄像头`
+- // TIPS: Pay attention to the pronunciation of the 'mirror'.
+- -
+- // **【 take pictures. 拍照 / take photos. 】** // take pictures = take photos. 拍照
+- // **【 record videos. 录像 】**
+- // **【 selfie 自拍 】**
+- // -- She likes 【 taking photos 】. 她喜欢拍照
+- // -- She likes 【 taking selfies 】. 他喜欢自拍
+- // -- She enjoys 【 taking pictures 】.
+- // -- She likes 【 recording videos 】. 她喜欢录像
+- // -
+- // **【 selfie 自拍 】**
+- // -- She likes taking selfies. 她喜欢自拍
+-
 -
 - mute button/silent button. 静音键
 - dial tone. 拨号音
