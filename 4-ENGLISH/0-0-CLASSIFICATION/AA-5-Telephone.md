@@ -12,8 +12,15 @@
 - // -- **【 electrician 电工 n 】** // electrician ---> electric + ian
 - // -- `electric circuit. 电路`
 - // -- `electric kettle 电热水壶`
+- // -- // The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
+- // -
 - // --【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销
-- // -- Primitive men made fire by themselves since they had no electricity. 原始人没有电，只能自己生火
+- // -- 【 Primitive men 】 made fire by themselves since they had no electricity. 原始人没有电，只能自己生火
+- // -- consumption 消费
+- // -- `【 primitive man. 原始人 】`
+- // -- `【 primitive culture. 原始文明 】`
+- // -- `【 primitive values. 原始值 】`
+- // -- **【 primeval forest. 原始森林 】**
 - // -
 - // - essential 必不可少的 至关重要的
 - // --【 be essential for. 】对...必不可少
@@ -36,6 +43,7 @@
 - 2
 - `Sorry, the subscriber you dialed is busy now. Please redial later. `
 - // -- dial 拨打
+- // --【 dial tone. 拨号音 】
 - // -- redial 再次拨打
 - // -- subscribe 订阅
 
@@ -136,6 +144,7 @@
 - 5. 【 Thank you for your calling. 谢谢你的来电 】
 - 6666666. **【 Could you please 【 slow down? 】可以请你说慢一点吗？ 】**
 - 6666666. **【 Could you please 【 speak up? 】 你能大点声说吗? 】**
+- 6666666. **【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】**
 - 7. `Ok, Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接`
 - 7. I'm hanging up. 我要挂电话了
 - **其他**
@@ -292,7 +301,9 @@ I'm on the phone. 我在打电话
 - -
 - // **【 take pictures. 拍照 / take photos. 】** // take pictures = take photos. 拍照
 - // **【 record videos. 录像 】**
+- // **【 make a recording. 录音 】**
 - // **【 selfie 自拍 】**
+- // record 录制 录像 录音
 - // -- She likes 【 taking photos 】. 她喜欢拍照
 - // -- She likes 【 taking selfies 】. 他喜欢自拍
 - // -- She enjoys 【 taking pictures 】.
@@ -302,28 +313,40 @@ I'm on the phone. 我在打电话
 - // -- She likes taking selfies. 她喜欢自拍
 -
 -
-- mute button/silent button. 静音键
+- mute button 静音键
+- silent button. 静音键
+-
 - dial tone. 拨号音
 - usb cable. 数据线 usb 线
 - charging cable. 数据线 // charging port. // charging pile.
 -
-- `landscape mode. 横屏` // landscape 景观 地形 地貌
-- `portrait mode. 竖屏` // 1.charging port.充电口 // 2. charging cable. 充电线 // 3.portrait 肖像 n 竖向的 adj
-- `touch screen. 触摸屏`
 -
-- `bluetooth 蓝牙`
-- `telephone booth. 电话亭` // booth tooth teeth bluetooth
+- `landscape mode. 横屏` // landscape 景观 地形 地貌
+- `portrait mode. 竖屏` // portrait 肖像 n 竖向的 adj // 1.charging port.充电口 // 2. charging cable. 充电线
+- `touch screen. 触摸屏`
+- // **【 This video has 【 landscape mode 】 and 【 portrait mode 】. 该视频有横屏模式和竖屏模式 】**
+- // -- portrait 肖像 竖向的
+- // -- landscape 景观 地形
+-
+-
+- `bluetooth 蓝牙` // tooth teeth // bluetooth
+- `telephone booth. 电话亭`
+-
 - operating system. 操作系统 OS
 -
-- **【 current 电流 】** // current 当前的 adj 电流 n
-- **【 voltage 电压 】**
+- **【 current 电流 】--> ampere 安培** // current 当前的 adj 电流 n
+- **【 voltage 电压 】--> volt 伏特**
 - **【 rated voltage. 额定电压 】** // rated current. 额定电流
 - **【 rated power. 额定功率 】**
-- // **【 The 【 rated voltage 】in china is 220v. 中国的额定电压是 220v 】**
+- // **【 The 【 rated voltage 】in China is 220 【 vote 】. 中国的额定电压是 220v 】** // voltage volt
+- // vote 伏特
+- // ampere 安培
+- // voltage 电压 = volt 伏特 + age
 -
 - **【 volume key = volume button. 音量键 】**
 - **【 star key. 星号键 】**
 - **【 pound key. 井号键 】**
+- **【 silent button. = mute button. 静音键 】**
 -
 - inlet 入口 小河湾
 - outlet 出口 插座
@@ -341,6 +364,7 @@ I'm on the phone. 我在打电话
 - **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
 - **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
 - `【 Put it on speaker. 打开免提 】`
+- `【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】`
 - 4
 - **【 full battery. 满电量 】** // ------------------ 100%
 - **【 low battery. 低电量 】** // ------------------- 10%
@@ -367,10 +391,12 @@ I'm on the phone. 我在打电话
 - // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
 - // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
 - // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
+- // turn down. 拒绝 关小: `Why did she 【 turn down 】 your invitation? 为什么她拒绝你的邀请`
 - // -
 - // **【 volume key = volume button. 音量键 】**
 - // **【 star key. 星号键 】**
 - // **【 pound key. 井号键 】**
+- // **【 mute button. = silent button. 静音键 】**
 -
 -
 - `vibrate 振动`
@@ -379,12 +405,14 @@ I'm on the phone. 我在打电话
 -
 - `silent 沉默的 安静的 adj`
 - `mute button. 静音键`
+- `silent button. 静音键`
 - // mute 沉默的 adj
 - // Set your phone to silent mode. 将手机设置为静音
 - // Put your phone on silent mode. 将手机置于振动模式
 -
 - `dial 拨号 拨`
 - // 【 dial tone. 拨号音 】
+- // **【 The subscriber you dialed is busy now, please redial later. 您拨打的用户现在正忙，请稍后再拨 】**
 - // I can't get a 【 dial tone 】 on this phone. 我在这部手机傻姑娘听不到拨号音
 -
 - `front-facing camera. 前置摄像头`
