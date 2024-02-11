@@ -52,7 +52,7 @@
 - // **【 Adults take 1 vegetarian capsule daily with water, or as directed by your health professional. 】**
 - // 成人每天服用 1 粒素食胶囊，用水送服，或按照健康专家的指示服用。
 -
-- `bacteria 细菌 n `
+- `bacteria 细菌 n ` // bacteria 复数 // bacterium 单数
 - `probiotic 益生菌`
 - `Broad spectrum probiotic. 广谱益生菌` // broad 宽阔的 // abroad 国外的
 - // a wide road. 宽阔的马路

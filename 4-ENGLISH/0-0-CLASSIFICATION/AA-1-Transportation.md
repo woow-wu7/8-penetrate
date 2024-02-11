@@ -16,6 +16,11 @@
 - cycling 骑自行车 v/n
 - //【 Cycling 】 is a cheap way to 【 get around 】. 骑自行车是一种省钱的旅游方式
 -
+- 2024-02-11
+- 【 automatic transmission. 自动变速箱 】
+- // automatic 自动的 adj
+- // transmission 传送 变速器 n
+-
 -
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
@@ -1470,6 +1475,7 @@ R reverse 倒车档
 N neutral 空档 // neutral 中性的 中立的
 D drive 前进档
 【 shift into drive. 换到驱动档 】
+【 automatic transmission. 自动变速箱 】
 
 ------- ------- ------- ------- ------- ------- -------
 手动档

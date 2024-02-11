@@ -190,7 +190,7 @@ organism 生物
 ---
 
 germs 细菌，微生物
-bacteria 细菌 n // 专指细菌
+bacteria 细菌 n // 专指细菌 // bacterium 单数 // bacteria 复数
 bacterial 细菌的 adj
 medium 中等 媒介 // TIPS: Pay attention to pronunciation.
 multiply 乘以 繁殖 // TIPS: Pay attention to pronunciation.

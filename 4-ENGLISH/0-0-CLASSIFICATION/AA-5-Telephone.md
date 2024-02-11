@@ -1,44 +1,67 @@
 # Summarize
 
 - 1
-- `【 Batteries 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
+- `【 【 Batteries 】 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
+- **【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】**
 - // -
 - // EE: battery: A device that produces 【 electricity 】 to provide power for radios, cars, etc.
+- // EE: essential: 【 necessary 】 or needed.
 - // -
 - // -- `battery 电池`
 - // -- **【 electric 电的 adj 】**
-- // -- **【 electricity 电 n 】** // electricity -----> electric + ity
-- // -- **【 electrician 电工 n 】** // electrician ---> electric + ian
+- // -- **【 electricity 电 n 】** // --- n ---> electricity ---> electric + ity
+- // -- **【 electrician 电工 n 】** // -------> electrician ---> electric + ian
 - // -- `electric circuit. 电路`
 - // -- `electric kettle 电热水壶`
 - // -- // The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
 - // -
 - // --【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销
-- // -- 【 Primitive men 】 made fire by themselves since they had no electricity. 原始人没有电，只能自己生火
-- // -- consumption 消费
+- // --【 Primitive men 】 made fire by themselves since they had no【 electricity 】. 原始人没有电，只能自己生火
+- // -
+- // -- consume 消费 消耗 v
+- // -- consumption 消费 消耗 n
+- // -- **【 fuel consumption. 油耗 】**
+- // -- **【 power consumption. 功耗 】**
+- // -- consumption: The car has low 【 fuel consumption 】. 这辆车油耗很低
+- // -- consume: The factory 【 consumes 】 【 a large amount of 】 【 electricity 】 every month.
+- // -- // `【 a large amount of. 大量的 】`
+- // -- // `She 【 has spent 】 【 a large amount of 】 time on/in this project. 她在这个项目上花费了大量时间`
+- // -
 - // -- `【 primitive man. 原始人 】`
 - // -- `【 primitive culture. 原始文明 】`
 - // -- `【 primitive values. 原始值 】`
 - // -- **【 primeval forest. 原始森林 】**
 - // -
-- // - essential 必不可少的 至关重要的
+- // - essential 必不可少的 至关重要的 // ------------ be essential for.
+- // - necessary 必要的 必须的 // ------------------- be necessary for.
 - // --【 be essential for. 】对...必不可少
-- // --【 Food is essential for living things. 食物对生物来说是必不可少的 】
+- // --【 Food 【 is essential for 】 living things. 食物对生物来说是必不可少的 】
+- // --【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】
 - // -
 - // -- `living things. 生物`
 - // -- `organism 生物`
 - // -- `microorganism 微生物` // micro + organism
 - // -
 - // **【 The 【 virus 】 is a kind of 【 microorganism 】 that we can only see through a 【 microscope 】. 】**
-- // -- bacterial 细菌
+- // -- bacteria 复数 // bacterium 细菌 单数
 - // -- fungus 真菌
 - // -- virus 病毒
 - // -
 - // -- microorganism 微生物 // -------- microorganism = micro + organism
-- // -- microscope 显微镜 // ----------- microscope = micro + scope
+- // -- microscope 显微镜 // ----------- microscope = micro + scope // telescope 望远镜
 - // -- microphone 麦克风 // ----------- microphone = micro + phone
 - // -- microwave 微波炉 // ------------ microwave = micro + wave
+- // -
+- // necessary 必要的 必须的 adj
+- // be necessary for. 对...是必须的
+- // be essential for. 对...必不可少的
+- // transistor 晶体管
+- // -- 【 food is 【 necessary 】 for animals. 食物对动物来说是必需的 】
+- // -- 【 【 transistors 】 are small but 【 necessary 】 to make computers. 晶体管虽小，可对制造电脑是必须的 】
+-
+-
+-
 -
 - 2
 - `Sorry, the subscriber you dialed is busy now. Please redial later. `
@@ -89,6 +112,9 @@
 - // 7. My call is coming. 我的电话来了
 - `leave a message. 留言`
 -
+- My phone is stuck. 我的手机卡住了
+- // stuck 卡住 困住
+-
 - `The line is busy. 电话占线`
 -
 - `hang up. 挂电话`
@@ -99,6 +125,8 @@
 -
 - Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】. 今天我要教你如何用英语打电话
 - 【 How to talk on the phone in English 】 both with a live person and with a recorded machine. 如何用英语与真人和录音电话交谈
+-
+-
 -
 -
 -
@@ -338,6 +366,7 @@ I'm on the phone. 我在打电话
 - **【 voltage 电压 】--> volt 伏特**
 - **【 rated voltage. 额定电压 】** // rated current. 额定电流
 - **【 rated power. 额定功率 】**
+- `【 power consumption. 功耗 】`
 - // **【 The 【 rated voltage 】in China is 220 【 vote 】. 中国的额定电压是 220v 】** // voltage volt
 - // vote 伏特
 - // ampere 安培
@@ -347,6 +376,7 @@ I'm on the phone. 我在打电话
 - **【 star key. 星号键 】**
 - **【 pound key. 井号键 】**
 - **【 silent button. = mute button. 静音键 】**
+- // keypad 手机上的虚拟键盘
 -
 - inlet 入口 小河湾
 - outlet 出口 插座
@@ -363,7 +393,7 @@ I'm on the phone. 我在打电话
 - **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`
 - **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
 - **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
-- `【 Put it on speaker. 打开免提 】`
+- `【 Put it on speaker. 打开免提/打开扬声器 】`
 - `【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】`
 - 4
 - **【 full battery. 满电量 】** // ------------------ 100%
@@ -400,8 +430,12 @@ I'm on the phone. 我在打电话
 -
 -
 - `vibrate 振动`
+- // EE: vibrate: to shake slightly and quickly.
 - // put your phone on vibrate mode. 把你的手机调到-振动模式
 - // Set your phone to vibrate mode. 将手机设置为振动
+-
+- slightly 稍微地 轻微地 adv
+- // The temperature has increased 【 slightly 】. 温度略有上升
 -
 - `silent 沉默的 安静的 adj`
 - `mute button. 静音键`
@@ -480,6 +514,7 @@ keypad 小键盘 按键
 star key. 星号键
 pound key. #号键
 volume key. 音量键
+silent button. = mute button. 静音键
 // pound 英镑
 // volume 体积 音量
 -

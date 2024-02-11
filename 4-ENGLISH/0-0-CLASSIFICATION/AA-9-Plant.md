@@ -154,7 +154,7 @@ air
 // -- The air is full of millions of invisible germs. 空气中充满了许多看不见的细菌
 // -- invisible 看不见的adj 看不见的人n
 // -- germs 细菌，微生物
-// -- bacteria 专指细菌
+// -- bacteria 专指细菌 // bacterium 单数 // bacteria 复数
 
 3
 water
@@ -491,7 +491,7 @@ organism 生物
 // -- microscope 显微镜
 ---
 
-bacteria 细菌 n
+bacteria 细菌 n // bacterium 单数 // bacteria 复数
 bacterial 细菌的 adj
 medium 中等 媒介
 multiply 乘以 繁殖
