@@ -69,6 +69,16 @@
 - // --【 dial tone. 拨号音 】
 - // -- redial 再次拨打
 - // -- subscribe 订阅
+-
+- 3
+- `Could you please put Mary on the phone? 你能让玛丽接电话吗?`
+- `Put it on speaker. 打开免提`
+- `put someone on hold. 让某人稍等` // on hold. 保持等待
+- // -
+- // hold on please
+- // Hold on a second. I'll get her for you. 我让她来接电话
+- // Hold on a second. Let me just check and see if she's here. 稍等一下，让我看看他在不在
+- // hold on for a moment. 【 Marry this is a call for you. 玛丽，这是打给你的电话 】
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
@@ -109,11 +119,25 @@
 - // 66. **【 I have to hang up, can I call you back later? 】**
 - // 66. **【 To hang up and call him back later. 挂断电话，稍后再给他打电话 】**
 - // 66. **【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】**
-- // 7. My call is coming. 我的电话来了
+- // -
+- // 7. **【 My phone is stuck. 我的手机卡住了 】**
+- // 7. **【 My phone is frozen. 我的手机死机了 】**
+- // -
+- // 8. My call is coming. 我的电话来了
 - `leave a message. 留言`
 -
-- My phone is stuck. 我的手机卡住了
-- // stuck 卡住 困住
+-
+- `My phone is stuck. 我的手机卡住了`
+- // stuck 卡住 困住 // get stuck in. 陷入 // ---- You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- // stock 股票 // stock market. 股票市场 // ----- Many people don't like to invest in stocks.
+- // stack 堆栈 // a stack of. 一堆 // ---------- a stack of books. 一堆书
+- // -- I use Vue and React 【 tech stacks 】 to develop projects.
+- // -
+- 【 a stack of. 一堆 】
+- 【 tech stacks. 技术栈 】
+- // -- a stack of books. 一堆书
+- // -- a stack of paper. 一叠纸
+-
 -
 - `The line is busy. 电话占线`
 -
@@ -175,6 +199,8 @@
 - 6666666. **【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】**
 - 7. `Ok, Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接`
 - 7. I'm hanging up. 我要挂电话了
+- 8888888. **【 My phone is stuck. 我的手机卡住了 】**
+- 8888888. **【 My phone is frozen. 我的手机死机了 】**
 - **其他**
 - > > How are you doing? 你好吗？过的怎么样？
 - > > How are thing going? 一切都还好吗？
@@ -407,6 +433,9 @@ I'm on the phone. 我在打电话
 - **【 full signal. 满信号 】**
 - **【 no signal. 没信号 】**
 - **【 My phone signal is not good. 我的电话信号不好 】**
+- 6
+- **【 My phone is stuck. 我的手机卡住了 】**
+- **【 My phone is frozen. 我的手机死机了 】**
 -
 -
 -
@@ -575,4 +604,12 @@ It's also a 【 headphone jack. 】
 Now we are looking at the 【 speaker and the receiver 】.
 -
 Now my phone is locked. 【 I swipe up to unlock it with my Face ID or my password. 】// swipe up. 向上滑动
+```
+
+# (四) Some conversation
+
+```
+I want to ask you if you'd like to join me and 【 take over 】 the 【 galaxy 】. 我想问你是否愿意和我一起接管银河系
+// take over. 接管 接手 接收
+// galaxy 星系 银河
 ```
