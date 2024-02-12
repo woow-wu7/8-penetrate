@@ -36,7 +36,8 @@
 - // - essential 必不可少的 至关重要的 // ------------ be essential for.
 - // - necessary 必要的 必须的 // ------------------- be necessary for.
 - // --【 be essential for. 】对...必不可少
-- // --【 Food 【 is essential for 】 living things. 食物对生物来说是必不可少的 】
+- // --【 be necessary for. 】对...必须的
+- // --【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】
 - // --【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】
 - // -
 - // -- `living things. 生物`
@@ -44,9 +45,9 @@
 - // -- `microorganism 微生物` // micro + organism
 - // -
 - // **【 The 【 virus 】 is a kind of 【 microorganism 】 that we can only see through a 【 microscope 】. 】**
-- // -- bacteria 复数 // bacterium 细菌 单数
-- // -- fungus 真菌
 - // -- virus 病毒
+- // -- fungus 真菌
+- // -- bacteria 细菌 复数 // bacterium 细菌 单数 // bacte + ria // bacte + rium
 - // -
 - // -- microorganism 微生物 // -------- microorganism = micro + organism
 - // -- microscope 显微镜 // ----------- microscope = micro + scope // telescope 望远镜
@@ -69,6 +70,18 @@
 - // --【 dial tone. 拨号音 】
 - // -- redial 再次拨打
 - // -- subscribe 订阅
+- // -
+- // later 后来 adv 后来的 adj
+- // latter 后者 后面的
+- // former 前者 前面的 ---> // EE: of or in an earlier time; before the present time or in the past.
+- // **【 Do you choose the 【 former 】or the 【 latter 】? 】**
+- // -
+- // `present 目前 目前的` n adj
+- // `represent 代表 象征` v
+- // -- **【 Our team will 【 represent 】 our school 【 in the competition 】. 】**
+-
+-
+-
 -
 - 3
 - `Could you please put Mary on the phone? 你能让玛丽接电话吗?`
