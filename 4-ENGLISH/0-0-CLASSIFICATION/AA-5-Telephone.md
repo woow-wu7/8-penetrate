@@ -1,4 +1,7 @@
-# Summarize
+# Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
+
+- How to 【 have a phone conversation 】 in English. 如何用英语进行电话交谈
+- // have a phone conversation. 进行电话交谈
 
 - 1
 - `【 【 Batteries 】 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
@@ -60,6 +63,22 @@
 - // transistor 晶体管
 - // -- 【 food is 【 necessary 】 for animals. 食物对动物来说是必需的 】
 - // -- 【 【 transistors 】 are small but 【 necessary 】 to make computers. 晶体管虽小，可对制造电脑是必须的 】
+- // -
+- // -
+- // **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
+- // -
+- // formula 公式 配方
+- // -
+- // power 功率 ---------- watt 瓦特
+- // current 电流 -------- ampere 安培
+- // voltage 电压 -------- volt 伏特
+- // -
+- // rated voltage. 额定电压
+- // rated current. 额定电流
+- // rated power. 额定功率
+- // -
+- // power consumption. 功耗
+- // fuel consumption. 油耗
 -
 -
 -
@@ -92,6 +111,23 @@
 - // Hold on a second. I'll get her for you. 我让她来接电话
 - // Hold on a second. Let me just check and see if she's here. 稍等一下，让我看看他在不在
 - // hold on for a moment. 【 Marry this is a call for you. 玛丽，这是打给你的电话 】
+-
+-
+-
+-
+- 4
+- **【 put through. 接通电话 为...接通电话 】**
+- // 1. **【 I tried to call you several times, but I couldn't 【 put through 】. 我试着给你打了好几次电话，但都没接通 】**
+- // 2. **【 Please put me through to the manager's office. 请帮我接通经理的办公室 】**
+- // 3. **【 The 【 operator 】 finally put my call through. 接线员终于帮我接通了电话 】**
+- // 4. **【 I'm sorry, I couldn't 【 put your call through 】. 【 The line was busy 】. 线路正忙 】**
+- // -
+- // -- operator 接线员 操作人员
+- // -- The line is busy. 线路正忙
+- // -
+- // -- `to phone sb = to call sb = to ring sb = to gave sb a ring`
+- // -
+- // -- You have dialed a number in order to call your friend.
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
@@ -275,30 +311,28 @@
 - dial: 【 Sorry, the subscriber you dialed is busy now. Please redial later. 您拨打的用户正忙，请稍后再拨 】
 
 ```
+
 mobile phone. 手机
 cell phone. 手机
 smartphone. 智能手机
 telephone 电话
--
-keypad 小键盘 按键
-star key. 星号键
-pound key. #号键
-// pound 英镑
--
-text message. 短信
--
-repeat 重复 -------- 不礼貌
-pardon 请再说一遍 --- 比较礼貌
-// 【 pardon 原谅 请再说一遍 】
-// 1. Pardon? I din't hear you clearly. 能再重复一遍吗？我没听清楚你说的话
-// 2.【 I beg your pardon. 请你再说一遍 】
-// 3. pardon me. 原谅我
-// 4. Would you like me to repeat that again?
 
-
+- keypad 小键盘 按键
+  star key. 星号键
+  pound key. #号键
+  // pound 英镑
+- text message. 短信
+- repeat 重复 -------- 不礼貌
+  pardon 请再说一遍 --- 比较礼貌
+  // 【 pardon 原谅 请再说一遍 】
+  // 1. Pardon? I din't hear you clearly. 能再重复一遍吗？我没听清楚你说的话
+  // 2.【 I beg your pardon. 请你再说一遍 】
+  // 3. pardon me. 原谅我
+  // 4. Would you like me to repeat that again?
 
 I'm on the phone. 我在打电话
 // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
+
 ```
 
 # (二) Mobile Phone / Cell Phone
@@ -401,15 +435,25 @@ I'm on the phone. 我在打电话
 -
 - operating system. 操作系统 OS
 -
+-
+-
 - **【 current 电流 】--> ampere 安培** // current 当前的 adj 电流 n
 - **【 voltage 电压 】--> volt 伏特**
+- **【 power 电功率 】--> watt 瓦特**
+- // **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
+- // -- formula 公式 配方
+- -
 - **【 rated voltage. 额定电压 】** // rated current. 额定电流
 - **【 rated power. 额定功率 】**
 - `【 power consumption. 功耗 】`
+- `【 fuel consumption. 油耗 】`
+- `【 rated power. 额定功率】`
 - // **【 The 【 rated voltage 】in China is 220 【 vote 】. 中国的额定电压是 220v 】** // voltage volt
 - // vote 伏特
 - // ampere 安培
 - // voltage 电压 = volt 伏特 + age
+-
+-
 -
 - **【 volume key = volume button. 音量键 】**
 - **【 star key. 星号键 】**
@@ -498,13 +542,14 @@ I'm on the phone. 我在打电话
 - // `rear 后面的 adj`
 
 ```
+
 My phone is out of battery. 我手机没电了
 My phone is out of power.
 My phone is dead.
 
 My phone is frozen. 我的手机死机了
 // freeze 冻结 v/n
-// frozen 冻结的adj / 动词时是 freeze 的过去式
+// frozen 冻结的 adj / 动词时是 freeze 的过去式
 
 My phone is stuck. 我的手机卡住了
 
@@ -531,7 +576,7 @@ Airplane mode. 飞行模式
 // Before your flight 【 takes off 】, you need to set your phone to 【 airplane mode 】.
 // -- take off. 起飞 脱掉
 // -- 起飞: take off your scarf = take your scarf off. 把围巾拿下来
-// -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午9点起飞
+// -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午 9 点起飞
 
 pile 地桩 一堆
 【 charging pile. 充电桩 】
@@ -541,16 +586,12 @@ To charge your phone. 给你的手机充电
 I need to get my phone charger.
 We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
 To charge the phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
--
-Don't stick your fingers into the holes. 别把手指伸进洞里
--
-To hang up and call him back later. 挂断电话，稍后再给他打电话
--
-Punch in my PIN. 输入我的密码
 
+- Don't stick your fingers into the holes. 别把手指伸进洞里
+- To hang up and call him back later. 挂断电话，稍后再给他打电话
+- Punch in my PIN. 输入我的密码
 
-------- ------- ------- ------- ------- ------- -------
-
+  ***
 
 keypad 小键盘 按键
 star key. 星号键
@@ -559,70 +600,69 @@ volume key. 音量键
 silent button. = mute button. 静音键
 // pound 英镑
 // volume 体积 音量
--
-charge 要价n 给...充电v
-charger 充电器
-power bank. 充电宝
--
-use cable. 充电线
-charging cable. 充电线
-// cable 电缆
-// wire 电线 导线
-// We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以把充电线插到充电器上
-// He is putting the plug into the socket. 他正把插头插入插座
-// They need to plug the laptops into a power outlet. 我们需要将笔记本电脑插入插座
-// Insert the plug into the socket. 把插头插到插座上
--
-socket 插座
-power strip. 插线板
-plug 插头n 接电源v
-plug in. 插入
-// strip 条 带
-// power strip: This is an extension to the wall outlet, and it let's you plug in three, or more electrical devices.
-// To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
--
-power strip. 插线板
-socket 插座
-wall outlet. 壁装插座
--
-microphone 麦克风
--
-【 silent mode. 静音模式 】
-【 vibration mode. 震动模式 】
-【 airplane mode. 飞行模式 】
--
-distant control. 遥控
--
-dial 拨 拨号
-dial tone. 拨号音
+
+- charge 要价 n 给...充电 v
+  charger 充电器
+  power bank. 充电宝
+- use cable. 充电线
+  charging cable. 充电线
+  // cable 电缆
+  // wire 电线 导线
+  // We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以把充电线插到充电器上
+  // He is putting the plug into the socket. 他正把插头插入插座
+  // They need to plug the laptops into a power outlet. 我们需要将笔记本电脑插入插座
+  // Insert the plug into the socket. 把插头插到插座上
+- socket 插座
+  power strip. 插线板
+  plug 插头 n 接电源 v
+  plug in. 插入
+  // strip 条 带
+  // power strip: This is an extension to the wall outlet, and it let's you plug in three, or more electrical devices.
+  // To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
+- power strip. 插线板
+  socket 插座
+  wall outlet. 壁装插座
+- microphone 麦克风
+- 【 silent mode. 静音模式 】
+  【 vibration mode. 震动模式 】
+  【 airplane mode. 飞行模式 】
+- distant control. 遥控
+- dial 拨 拨号
+  dial tone. 拨号音
+
 ```
 
 # (三) An article about mobile phone
 
 ```
+
 This is my iphone. 【 Let me introduce some parts of it. 】
 This large black area is called screen.
 You'll notice that I have 【 a front-facing camera and a rear-facing camera. 】
--
-My phone has some buttons.
-This is power button. 【【【 I just press it to wake my phone or lock it. 】】】
-These two are volume buttons. Turn the volume up and down.
-And we're not going to miss this switch. It's called ring switch or 【 silent switch 】. // silent switch. 静音开关
-Switch it on to silent mode.
-Switch it off to ring answer mode.
--
-There's a port on the bottom where I can charge my phone. // charging port. 充电口
-It's also a 【 headphone jack. 】
--
-Now we are looking at the 【 speaker and the receiver 】.
--
-Now my phone is locked. 【 I swipe up to unlock it with my Face ID or my password. 】// swipe up. 向上滑动
+
+- My phone has some buttons.
+  This is power button. 【【【 I just press it to wake my phone or lock it. 】】】
+  These two are volume buttons. Turn the volume up and down.
+  And we're not going to miss this switch. It's called ring switch or 【 silent switch 】. // silent switch. 静音开关
+  Switch it on to silent mode.
+  Switch it off to ring answer mode.
+- There's a port on the bottom where I can charge my phone. // charging port. 充电口
+  It's also a 【 headphone jack. 】
+- Now we are looking at the 【 speaker and the receiver 】.
+- Now my phone is locked. 【 I swipe up to unlock it with my Face ID or my password. 】// swipe up. 向上滑动
+
 ```
 
 # (四) Some conversation
 
 ```
+
 I want to ask you if you'd like to join me and 【 take over 】 the 【 galaxy 】. 我想问你是否愿意和我一起接管银河系
 // take over. 接管 接手 接收
 // galaxy 星系 银河
+
+```
+
+```
+
 ```

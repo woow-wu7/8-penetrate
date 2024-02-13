@@ -91,7 +91,7 @@ Date
 2022年7月21日 ------- The twenty first of July twenty twenty-two.
 ```
 
-#### (一) 星期 Week
+##### (一) 星期 Week
 
 ```
 星期一 Monday
@@ -204,20 +204,30 @@ at 时间小于 1 天 // at five o'clock // at night
 
 ##### (三) 节日 Festival
 
+- festival 节日 节日的
+
 ```
 圣诞节 Christmas // 注意发音
 感恩节 Thanksgiving
-
+-
 元旦节 New Year's Day
 植树节 Tree Planting Day
 清明节 Tomb-Sweeping Day
-劳动节 Labour Day
+劳动节 Labour Day / Labor Day
 国庆节 National Day
+-
 中秋节 Mid-Autumn Festival
+元宵节 Lantern Festival
+
 
 Mid-Autumn Festival. 中秋节
 autumn 秋天 秋天的
 mooncake 月饼
+
+lantern 灯笼
+Lantern Festival. 元宵节
+
+lunar calendar. 农历
 
 vacation 假期
 // -- vacation is over. 假期结束了

@@ -1280,6 +1280,12 @@ appreciate 欣赏 感激 v
 -
 - `first of all. 首先`
 - `second of all. 其次`
+- // **【 firstly 首先 】** // adv
+- // **【 first of all. 首先 】**
+- // **【 first up. 首先 】**
+- // -- First of all, adding new items. 首先，添加新条目
+- // -- Firstly, adding new items. 首先，添加新条目
+- // -- First up, adding new items. 首先，添加新条目
 -
 -
 - `ignition 点火器`
