@@ -1,5 +1,9 @@
 ##### Shapes and materials
 
+antonym 反义词 // ---------- ant + o + nym
+synonym 同义词 // ---------- syn + o + nym
+near-synonym 近义词
+
 ##### Shape
 
 - `radius 半径`

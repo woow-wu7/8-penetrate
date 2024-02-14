@@ -26,6 +26,9 @@
 - // -- consumption 消费 消耗 n
 - // -- **【 fuel consumption. 油耗 】**
 - // -- **【 power consumption. 功耗 】**
+- // -- **【 rated power. 额定功率 】**
+- // -- **【 rated voltage. 额定电压 】**
+- // -- **【 rated current. 额定电流 】**
 - // -- consumption: The car has low 【 fuel consumption 】. 这辆车油耗很低
 - // -- consume: The factory 【 consumes 】 【 a large amount of 】 【 electricity 】 every month.
 - // -- // `【 a large amount of. 大量的 】`
@@ -47,6 +50,13 @@
 - // -- `organism 生物`
 - // -- `microorganism 微生物` // micro + organism
 - // -
+- // -- **【 【 organisms 】 【 rely on 】 【 oxygen 】 to survive. 生物依靠氧气活着 】**
+- // -- // rely on. 依靠
+- // -- // 【 carbon dioxide. 二氧化碳 】------- CO2
+- // -- // 【 oxygen 氧气 】------------------- O
+- // -- // 【 hydrogen 氢气 】----------------- H // hy dro gen
+- // -- // 【 nitrogen 氮气 】----------------- N // ni tro gen
+- // -
 - // **【 The 【 virus 】 is a kind of 【 microorganism 】 that we can only see through a 【 microscope 】. 】**
 - // -- virus 病毒
 - // -- fungus 真菌
@@ -65,9 +75,12 @@
 - // -- 【 【 transistors 】 are small but 【 necessary 】 to make computers. 晶体管虽小，可对制造电脑是必须的 】
 - // -
 - // -
-- // **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
+- // **【 The 【 formula 】 for 【 power 】 is 【 current 】 【 multiplied 】 by 【 voltage 】. 功率的公式是电流乘以电压 】**
 - // -
-- // formula 公式 配方
+- // 【 formula 公式 配方 】
+- // 【 mathematical formula. 数学公式 】
+- // -
+- // 【 be multiplied by. 乘以 】
 - // -
 - // power 功率 ---------- watt 瓦特
 - // current 电流 -------- ampere 安培
@@ -117,9 +130,11 @@
 -
 - 4
 - **【 put through. 接通电话 为...接通电话 】**
+- //【 The operator will put you through. 接线员将为您接通电话 】
+- //【 The operator finally put my call through. 接线员终于帮我接通了电话 】
 - // 1. **【 I tried to call you several times, but I couldn't 【 put through 】. 我试着给你打了好几次电话，但都没接通 】**
 - // 2. **【 Please put me through to the manager's office. 请帮我接通经理的办公室 】**
-- // 3. **【 The 【 operator 】 finally put my call through. 接线员终于帮我接通了电话 】**
+- // 3. **【 The 【 operator 】 finally 【 put my call through 】. 接线员终于帮我接通了电话 】**
 - // 4. **【 I'm sorry, I couldn't 【 put your call through 】. 【 The line was busy 】. 线路正忙 】**
 - // -
 - // -- operator 接线员 操作人员
@@ -128,6 +143,24 @@
 - // -- `to phone sb = to call sb = to ring sb = to gave sb a ring`
 - // -
 - // -- You have dialed a number in order to call your friend.
+-
+-
+-
+-
+- 5
+- `ask for. 请求 要求 寻找`
+- // **【 I want to 【 ask for 】 a raise, but I'm afraid my boss will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我 】**
+- // ask for 要求: Tom 【 asked for 】 a pay raise. Tom 要求加薪
+- // ask for 要求: I'm afraid to 【 ask my boss for a raise 】. 我害怕向老板要求加薪
+- // -
+- // -- ask for a raise. 要求涨薪
+- // -- pay raise. 加薪
+- // -
+- // -- `turn down. 关小 拒绝`
+- // -- turn down 拒绝: `I want to 【 ask for 】 a raise, but I'm afraid my boss will 【 turn me down 】.`.
+- // -- turn down 拒绝: `Why did she 【 turn down 】 your 【 invitation 】?`. // -- 拒绝
+- // -- turn down 关小: Please 【 turn down 】 the gas. // ---------------------- 关小
+- // -- turn down 关小: Please turn the volume down. 请把音量调低些
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
@@ -136,10 +169,14 @@
 - // **【 Turn down 】 the TV, I'm 【 on the phone 】. 把电视音量关小，我正【 在打电话 】**
 - // --【 turn down. 拒绝 关小 】
 - // --【 turn up. 开大 】
+- // -- turn down 拒绝: `I want to 【 ask for 】 a raise, but I'm afraid my boss will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我`.
 - // -- turn down 拒绝: `Why did she 【 turn down 】 your 【 invitation 】?`. // -- 拒绝
 - // -- turn down 关小: Please 【 turn down 】 the gas. // ---------------------- 关小
 - // -- turn down 关小: Please turn the volume down. 请把音量调低些
 - // -- turn up 开大: Can you turn the volume up 【 a little bit 】? 你能把音量开大点儿吗
+- // ---- 【 ask for. 要求 请求 寻找 】
+- // ---- 【 ask for a raise. 要求涨薪 】
+- // ---- 【 turn down. 关小 拒绝 】
 - // -
 - // `invite 邀请 v`
 - // `invitation 邀请 n`
@@ -208,6 +245,7 @@
 - **打电话**
 - make a call.
 - 1. May/Can/Could I/ `May I【 speak to 】 Marry, please?`
+- 1. May/Can/Could I/ `May I【 speak with 】 Marry, please?`
 - 1. Hi, I'm looking for Mary.
 - 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
 - 2222222. Do you know where is she right now?
@@ -225,6 +263,7 @@
 - 1. Hi. It's Lucy. 我是 Lucy
 - 2222222. who's that? 你是谁 // -------- 不能说 who are you
 - 2222222. who's that speaking?
+- 2222222. Who's calling ? // ---------- Who is calling? // whose
 - 2222222. 【 May I ask who is calling? 请问是谁打来的？】 // Thank you for your calling. // make a call.
 - 2222222. May I have a name, please? 请告诉我名字好吗？
 - 2222222. Is this Mary? 请问你是 Mary 吗？
@@ -236,12 +275,13 @@
 - 3. Hold on a second. Let me just check and see if she's here. 稍等一下，让我看看他在不在
 - 3. hold on for a moment. 【 Marry this is a call for you. 玛丽，这是打给你的电话 】
 - 3. Please hold, I'll put you through. 请稍等，我帮你接通
-- 4444444. sorry, she is not in. 对不起，她不在
+- 4444444. **【 sorry, she is not in. 对不起，她不在 】** // She is not in at the moment.
 - 4444444. **【 sorry, she is not here right now. Can I take a message for you? 】**
 - 4444444. **【 sorry, Marry is not here right now. Would you like to leave a message? 】**
 - 4444444. `sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了`
 - 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
-- 4444444. sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 // at the moment. 此刻
+- 4444444. **【 sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 】** // at the moment. 此刻 现在
+- 4444444. **【 sorry, she is not in. 对不起，她不在 】** // She is not in at the moment.
 - 5. 【 Thank you for your calling. 谢谢你的来电 】
 - 6666666. **【 Could you please 【 slow down? 】可以请你说慢一点吗？ 】**
 - 6666666. **【 Could you please 【 speak up? 】 你能大点声说吗? 】**
@@ -250,6 +290,10 @@
 - 7. I'm hanging up. 我要挂电话了
 - 8888888. **【 My phone is stuck. 我的手机卡住了 】**
 - 8888888. **【 My phone is frozen. 我的手机死机了 】**
+- -
+- // at the moment. 现在 此刻
+- // It's very difficult to find work 【 at the moment 】. 目前很难找到工作
+- -
 - **其他**
 - > > How are you doing? 你好吗？过的怎么样？
 - > > How are thing going? 一切都还好吗？
@@ -655,14 +699,35 @@ You'll notice that I have 【 a front-facing camera and a rear-facing camera. �
 
 # (四) Some conversation
 
+```1111111
+1
+Could/Can/May I speak to Marry?
+Could/Can/May I speak with Marry?
+
+2
+
 ```
+
+```2222222
+1
+dial
+【 to dial a number. 拨号 】
+// to enter a phone number in order to call sb.
+// -- in order to. 为了
+
+2
+phone n/v
+【 to phone sb. 给某人打电话 】
+// to phone sb. = to call sb. = to ring sb. = give sb a ring.
+
+3
+to put through. 接通
+【 to ask an 【 operator 】 to 【 put you through 】. 请接线员帮你接通电话 】
+// operator 接线员 操作员
+//【 The operator will put you through. 接线员将为您接通电话 】
+//【 The operator finally put my call through. 接线员终于帮我接通了电话 】
 
 I want to ask you if you'd like to join me and 【 take over 】 the 【 galaxy 】. 我想问你是否愿意和我一起接管银河系
 // take over. 接管 接手 接收
 // galaxy 星系 银河
-
-```
-
-```
-
 ```

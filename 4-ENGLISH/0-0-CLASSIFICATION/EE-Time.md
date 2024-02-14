@@ -209,6 +209,7 @@ at 时间小于 1 天 // at five o'clock // at night
 ```
 圣诞节 Christmas // 注意发音
 感恩节 Thanksgiving
+情人节 Valentine's Day. // 【 February 14th 】 every year is 【 Valentine's Day 】.
 -
 元旦节 New Year's Day
 植树节 Tree Planting Day
@@ -218,6 +219,7 @@ at 时间小于 1 天 // at five o'clock // at night
 -
 中秋节 Mid-Autumn Festival
 元宵节 Lantern Festival
+
 
 
 Mid-Autumn Festival. 中秋节
