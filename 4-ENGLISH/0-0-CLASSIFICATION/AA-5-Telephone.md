@@ -199,7 +199,10 @@
 - // 333. `I'm calling to see How they are doing.`
 - // 444. `I just called to see How they are doing.`
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
-- // 66. **【 When will you call me back? 你什么时候回我电话? 】** // call back.
+- // 66. **【 When will you 【 call me back 】? 你什么时候回我电话? 】** = When will you give me a callback?
+- // 66. **【 I have to hang up, can I 【 call you back 】 later? 】** = I have to hang up, can I give you a callback later?
+- // 66. I have to hang up, can I call you back later? like in an hour? 大约一个小时后？
+- // 66. **【 Could you ask him to call me back? 你能叫他给我回电话吗？】**
 - // 66. **【 When would be a good time to call back? 】**
 - // -
 - // 66. **【 I have to hang up, can I call you back later? 】**
@@ -246,13 +249,17 @@
 - make a call.
 - 1. May/Can/Could I/ `May I【 speak to 】 Marry, please?`
 - 1. May/Can/Could I/ `May I【 speak with 】 Marry, please?`
-- 1. Hi, I'm looking for Mary.
+- 1. `Hi, I'm looking for Mary.`
+- // 1. look for. 寻找
+- // 2. ask for. 请求 要求 寻找
 - 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
 - 2222222. Do you know where is she right now?
-- 3. `Can you have him give me a callback, please? 你能让他回电话给我吗？`
-- 3. `When will you call me back? 你什么时候回我电话?`
-- 3. `To hang up and call him back later. 挂断电话，稍后再给他打电话`
-- 3. `I have to hang up, can I call you back later? `
+- 3. **【 I have to hang up, can I 【 call you back 】 later? 】**
+- 3. **【 When will you 【 call me back 】? 你什么时候回我电话? 】** = When will you give me a callback?
+- 3. **【 To hang up and 【 call him back 】 later. 挂断电话，稍后再给他打电话 】**
+- 3. **【 Can you have him 【 give me a callback 】, please? 你能让他回电话给我吗？ 】**
+-
+-
 - **接电话**
 - answer a call.
 - `answer the call. 接电话`
@@ -265,31 +272,49 @@
 - 2222222. who's that speaking?
 - 2222222. Who's calling ? // ---------- Who is calling? // whose
 - 2222222. 【 May I ask who is calling? 请问是谁打来的？】 // Thank you for your calling. // make a call.
-- 2222222. May I have a name, please? 请告诉我名字好吗？
+- 2222222. 【 May I have a name, please? 请告诉我名字好吗？】
 - 2222222. Is this Mary? 请问你是 Mary 吗？
 - 3. one moment please. 请稍等
 - 3. wait a second
-- 3. hold on please
+- 3. `hold on please. 请稍等`
+- 3. `hold the line please. 请稍等，别挂断电话`
+- 3. `hang on please. 请稍等`
 - 3. hold on a second
 - 3. Hold on a second. I'll get her for you. 我让她来接电话
 - 3. Hold on a second. Let me just check and see if she's here. 稍等一下，让我看看他在不在
 - 3. hold on for a moment. 【 Marry this is a call for you. 玛丽，这是打给你的电话 】
-- 3. Please hold, I'll put you through. 请稍等，我帮你接通
+- -
+- 3. `Please hold, I'll put you through. 请稍等，我帮你接通`
+-
+- 3. `Could you please tell Mary that Lucy called? 你能告诉玛丽,露西打过电话吗？ `
+- 3. `Could you please put Marry on the phone? 你能让玛丽接电话吗?`
+- -
+- 3. `【 you are breaking up. 你声音断断续续的 】`
+- 3. `【 I got cut off. 我的通话被中断了 】`
+- 3. `【 The line is busy. 线路忙 占线 】`
+- 3. `【 The reception is not good/very poor. 信号不好 】`
+- -
+- 3. My phone signal is not good. 我手机信号不好
+- 3. My phone reception is not good. 我的电话信号不好
+- -
 - 4444444. **【 sorry, she is not in. 对不起，她不在 】** // She is not in at the moment.
+- 4444444. **【 sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 】** // at the moment. 此刻 现在
 - 4444444. **【 sorry, she is not here right now. Can I take a message for you? 】**
 - 4444444. **【 sorry, Marry is not here right now. Would you like to leave a message? 】**
 - 4444444. `sorry, I'm afraid you have the wrong number. 对不起，恐怕你打错电话了`
 - 4444444. sorry, I'm afraid she's not available. 恐怕她没有空
-- 4444444. **【 sorry, I'm afraid he is out 【 at the moment 】. 对不起，恐怕他现在不在 】** // at the moment. 此刻 现在
-- 4444444. **【 sorry, she is not in. 对不起，她不在 】** // She is not in at the moment.
 - 5. 【 Thank you for your calling. 谢谢你的来电 】
+- 5. 【 I will call again latter. 我稍后再打来 】
+- 5. 【 No thanks, I'll call her back later. When will the best time to call her? Do you have a pen handy? 】
 - 6666666. **【 Could you please 【 slow down? 】可以请你说慢一点吗？ 】**
 - 6666666. **【 Could you please 【 speak up? 】 你能大点声说吗? 】**
 - 6666666. **【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】**
-- 7. `Ok, Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接`
 - 7. I'm hanging up. 我要挂电话了
-- 8888888. **【 My phone is stuck. 我的手机卡住了 】**
-- 8888888. **【 My phone is frozen. 我的手机死机了 】**
+- 7.
+- `Ok, Mr.Lee's 【 extension number 】 is 123. Please hold, 【 I will transfer you. 】 好的，李先生的分机号码是 123。请稍等，我帮你转接`
+- -- // extension number. 分机号码
+- 8888888. **【 My phone is 【 stuck 】. 我的手机【卡住了】 】**
+- 8888888. **【 My phone is 【 frozen 】. 我的手机【死机了】 】**
 - -
 - // at the moment. 现在 此刻
 - // It's very difficult to find work 【 at the moment 】. 目前很难找到工作
@@ -297,8 +322,8 @@
 - **其他**
 - > > How are you doing? 你好吗？过的怎么样？
 - > > How are thing going? 一切都还好吗？
-- > > I'm calling to see How they are doing. 我打过来是想知道他们还好吗？
-- > > I just called to see How they are doing. 我打过来是想知道他们还好吗？
+- > > 【 I'm calling to see How they are doing. 我打过来是想知道他们还好吗？ 】
+- > > 【 I just called to see How they are doing. 我打过来是想知道他们还好吗？ 】
 -
 - `Put it on speaker. 打开免提`
 - `Put sb on the phone. 让...来接电话`
@@ -310,7 +335,7 @@
 -
 - `I'm hanging up. 我要挂电话了`
 - `Extension number. 分机号码` // Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】
-- The line is busy.
+- The line is busy. 线路忙 占线
 -
 -
 -
@@ -321,14 +346,14 @@
 - Please hold for the next available agent/representative. 请稍等，等待下一位可接通的代理/代表
 - To help ensure call quality, your call might be recorded. 为了确保通话质量，您的通话可能会被录音
 - Sorry for the wait please continue to hold. 对不起，让您久等了，请稍候
-- Hello you've reached Nancy Miller please Leave me a message and I'l call you back as soon as possible.
+- Hello you've reached Nancy Miller please Leave me a message and I'll call you back as soon as possible.
 - 你好，我是南希·米勒，请留言，我会尽快给你回电话
 -
 - Hello this is the ocean clinic how can I help you? 你好，我是海洋诊所，有什么可以帮你的吗？
 - 问: `Can/May I talk to Nancy please? I'm calling to make an appointment with Dr.Nancy. 我打电话是想和菲尔医生约个时间`
 - 答: `speaking / This is she.`
 - 答: `wait a second. ... Sorry Nancy is not here now. Would you like to leave a message?`
-- 我: `No thanks I'll call her back later. When will the best time to call her? Do you have a pen handy?`
+- 我: `No thanks, I'll call her back later. When will the best time to call her? Do you have a pen handy?`
 - 我: `Can I leave a message?`
 - 1. Could you please 【 slow down? 】可以请你说慢一点吗？
 - 2. Could you please 【 speak up? 】 你能大点声说吗?
@@ -700,12 +725,42 @@ You'll notice that I have 【 a front-facing camera and a rear-facing camera. �
 # (四) Some conversation
 
 ```1111111
-1
-Could/Can/May I speak to Marry?
-Could/Can/May I speak with Marry?
+A: Let me dial this number.
+BBB: xx company. 【 How may I help 】?
+// -- dial this number. 拨这个号码
+// -- How may I help? 我能为您做些什么?
+// -- How may I help you?
 
-2
+A: Could I speak to/with Jack?
+BBB: Who's is calling please?
+// -- May I ask who is calling?
+// -- Who's that?
+// -- Who's that speaking?
+// -- May I have a name?
 
+A: This is Mad.
+BBB: All right, 【 hold the line please 】, I'm going to 【 put you through 】.
+// -- hold the line please. 请稍等，别挂电话
+// -- put you through. 为您接通电话
+
+Jack: Sorry, 【 I didn't catch that 】. You are 【 breaking up 】.
+Mad: Oh, I think 【 I got cut off 】 for a moment. I said I'm going to have a party at my place this weekend. Would you like to come?
+// 抱歉，我没听清楚，你的声音断断续续的
+// 我刚刚有一会儿没信号
+// -- for a moment. 一会儿
+// -- you are breaking up. 你说话断断续续的
+// -- I got cut off. 我的通话被中断了
+// -- I didn't catch that. 我没有听清楚
+
+Jack: Oh, 【 sounds great 】, but I'm very busy now. Can I 【 call you back 】 latter? 【 like in an hour 】?
+Mad: Sure, sure, no worries!
+// -- like in an hour. 大约一个小时后
+// -- call you back. 给您回电
+// -- sounds great. 听起来不错
+
+
+Jack: All right, bye.
+Mad: bye.
 ```
 
 ```2222222
