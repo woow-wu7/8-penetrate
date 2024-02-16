@@ -152,11 +152,31 @@
 - > > > hear of. 听说
 -
 -
+-
+-
 - 5. `【 I have excellent 【 interpersonal 】 skills, I'm well 【 organized 】. 我有出色的人际交往能力，组织能力强 】`
 - // excellent 极好的 杰出的
 - // 【 interpersonal skill. 人际交往能力 】
 - // 【 interpersonal 人际关系的 】
 - // organize 组织 v
+- -
+- `Transportation vehicles. 交通工具`
+- `Personal transportation. 个人交通工具`
+- // belong 属于
+- // belongings 财物 所有物 随身物品
+- -
+- **【 personal belongings. 私人物品 】**
+- **【 personal privacy. 个人隐私 】**
+- **【 Personal transportation. 个人交通工具 】**
+- -
+- **【 private property. 私有财产 】**
+- **【 private conversation. 私人谈话 】**
+- -
+- **【 interpersonal skill. 人际交往能力 】**
+- **【 interpersonal 人际关系的 】**
+-
+-
+-
 -
 - 6.
 - **【 Do you have any questions about the position? 你对该职位有任何疑问吗？ 】**

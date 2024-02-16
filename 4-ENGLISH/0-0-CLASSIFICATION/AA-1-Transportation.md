@@ -22,8 +22,24 @@
 - // transmission 传送 变速器 n
 -
 -
+-
+-
 - `Transportation vehicles. 交通工具`
 - `Personal transportation. 个人交通工具`
+- // belong 属于
+- // belongings 财物 所有物 随身物品
+-
+- **【 personal belongings. 私人物品 】**
+- **【 personal privacy. 个人隐私 】**
+- **【 Personal transportation. 个人交通工具 】**
+- -
+- **【 private property. 私有财产 】**
+- **【 private conversation. 私人谈话 】**
+-
+- **【 interpersonal skill. 人际交往能力 】**
+- **【 interpersonal 人际关系的 】**
+-
+-
 -
 -
 - ` You can scan your QR code for the subway to exit the turnstile. 您可以扫描二维码进入地铁，然后从闸机出来`
@@ -399,6 +415,8 @@
 - `How do I get there. 我如何到达那里?`
 -
 -
+-
+-
 - `bag 纸袋 塑料袋 包`
 - `baggage 行李` // 美国叫法
 - `luggage 行李` // 英国叫法
@@ -407,6 +425,25 @@
 - `【 airbag 安全气囊 】`
 - Your baggage ticket is on the back of your boarding pass there.
 - And just follow the signs towards baggage claim.
+- -
+- // belong 属于
+- // belongings 财物 所有物
+- // luggage 行李
+- // baggage 行李
+- // suitcase 手提箱
+- // backpack 背包
+- -
+- 【 personal belongings. 私人物品 】
+- 【 personal privacy. 个人隐私 】
+- 【 Personal transportation. 个人交通工具 】
+- -
+- 【 private property. 私有财产 】
+- 【 private conversation. 私人谈话 】
+- -
+- 【 interpersonal skill. 人际交往能力 】
+- 【 interpersonal 人际关系的 】
+-
+-
 -
 -
 - `You can't expect to learn a foreign language in a few months. 不要指望在几个月内就能学会一门外语`
@@ -1843,6 +1880,10 @@ cup holder. 杯架
 - // take up. 占用
 - // pick up. 捡起 接人
 - `Slow down and then pull over. 放慢速度然后靠路边停`
+- **【 There is a 【 sharp turn 】 【 up ahead 】, so 【 slow down 】. 前面有一个急转弯，所以减速 】**
+- // -- sharp turn. 急转弯
+- // -- up ahead. 在前面
+- // -- slow down. 减速
 -
 -
 - 2

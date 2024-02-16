@@ -85,6 +85,9 @@
 - // TypeError('Middleware must be composed of functions!')
 - // **【 This project is composed of two parts, both of which have three layers. 】**
 -
+-
+-
+-
 - 10
 - `recursive 递归的 adj`
 - `recursively 递归地 adv`
@@ -99,6 +102,24 @@
 - // 【 private conversation. 私人谈话 】
 - // 【 personal privacy. 个人隐私 】
 - // **【 -- 【 Recursively traverse 】 all 【 properties 】 of an object. 递归遍历对象的所有属性 】**
+- -
+- `Transportation vehicles. 交通工具`
+- `Personal transportation. 个人交通工具`
+- // belong 属于
+- // belongings 财物 所有物 随身物品
+- -
+- **【 personal belongings. 私人物品 】**
+- **【 personal privacy. 个人隐私 】**
+- **【 Personal transportation. 个人交通工具 】**
+- -
+- **【 private property. 私有财产 】**
+- **【 private conversation. 私人谈话 】**
+- -
+- **【 interpersonal skill. 人际交往能力 】**
+- **【 interpersonal 人际关系的 】**
+-
+-
+-
 -
 - 11
 - `communication 通信 交流`
