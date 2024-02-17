@@ -130,8 +130,10 @@
 -
 - 4
 - **【 put through. 接通电话 为...接通电话 】**
-- //【 The operator will put you through. 接线员将为您接通电话 】
-- //【 The operator finally put my call through. 接线员终于帮我接通了电话 】
+- //【 The 【 operator 】 will 【 put you through 】. 接线员将为您接通电话 】
+- //【 The 【 operator 】 finally 【 put my call through 】. 接线员终于帮我接通了电话 】
+- //【 Hold on, I will put you through. 】
+- //【 Could you please put Marry on the phone? 你能让玛丽接电话吗 】
 - // 1. **【 I tried to call you several times, but I couldn't 【 put through 】. 我试着给你打了好几次电话，但都没接通 】**
 - // 2. **【 Please put me through to the manager's office. 请帮我接通经理的办公室 】**
 - // 3. **【 The 【 operator 】 finally 【 put my call through 】. 接线员终于帮我接通了电话 】**
@@ -152,6 +154,8 @@
 - // **【 I want to 【 ask for 】 a raise, but I'm afraid my boss will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我 】**
 - // ask for 要求: Tom 【 asked for 】 a pay raise. Tom 要求加薪
 - // ask for 要求: I'm afraid to 【 ask my boss for a raise 】. 我害怕向老板要求加薪
+- // ask for 要求: `I want to 【 ask for 】 a raise, but I'm afraid my boss will 【 turn me down 】.`.
+- // ask for 寻找: `I'm 【 ask for 】 directions to the nearest supermarket. 我正在寻找去最近超市的方向`
 - // -
 - // -- ask for a raise. 要求涨薪
 - // -- pay raise. 加薪
@@ -161,6 +165,12 @@
 - // -- turn down 拒绝: `Why did she 【 turn down 】 your 【 invitation 】?`. // -- 拒绝
 - // -- turn down 关小: Please 【 turn down 】 the gas. // ---------------------- 关小
 - // -- turn down 关小: Please turn the volume down. 请把音量调低些
+-
+-
+-
+-
+- 6
+- `Verification code. 验证码`
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
