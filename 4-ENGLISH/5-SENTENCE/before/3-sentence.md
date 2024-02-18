@@ -1158,7 +1158,8 @@ China is a beautiful country with long history and colorful culture. 中国是�
 // culture 文化 培养
 // -- colony 殖民地
 
-His clothes were improper for the funeral. 他在葬礼上穿成这样是不太合适的
+His clothes were 【 improper 】 for the funeral. 他在葬礼上穿成这样是不太合适的
+His behavior was 【 improper 】 at the party. 他在聚会上的行为不适当
 // improper 不合礼仪的
 // -- proper 合适的 适当的
 // -- property 财产

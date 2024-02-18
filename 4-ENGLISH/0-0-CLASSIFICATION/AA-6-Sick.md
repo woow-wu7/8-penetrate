@@ -7,6 +7,12 @@
 - 2
 - 【 living things. 生物 】
 -
+- 2024-02-18
+- **【 inhibit 抑制 】**
+- **【 prohibit 禁止 】**
+- // `inhibit 抑制`:【 High temperatures 【 inhibit 】 bacterial/bacteria growth. 高温抑制细菌生长 】
+- // `prohibit 禁止`: 【 prohibit 】 【 insulting 】 others. 禁止侮辱他人
+-
 -
 - `medicine 医疗的 内科 --------- medical department. 内科`
 - `surgery 外科手术 外科 -------- surgical department. 外科 // surgeon 外科医生`

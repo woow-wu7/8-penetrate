@@ -21,6 +21,15 @@
 - // automatic 自动的 adj
 - // transmission 传送 变速器 n
 -
+- 2024-02-18
+- `【 tour 旅游 n 】`
+- `【 tourist 旅客 游客 旅游的 】` // tour + ist
+- `【 tourism 旅游业 】` // tour + ism
+- `-------【 tourist attraction. 旅游胜地 】`
+- `-------【 Disney resort. 迪士尼度假区 】`
+- // -- **【 During the 【 tour 】, the 【 tourists 】 visited many famous 【 attractions 】. 】**
+- // -- **【 tourism 】 is the 【 pillar industry 】 of the 【 province 】. 旅游业是该省的支柱产业**
+-
 -
 -
 -
@@ -672,6 +681,10 @@ tour 旅行 v/n
 【 tourist attraction. 旅游胜地 】
 【 tourist attraction. 旅游胜地 】
 【 tourist attraction. 旅游胜地 】
+-
+【 disney resort. 迪士尼度假区 】
+// -- resort 求助 度假胜地
+
 
 
 express 快车 表达
