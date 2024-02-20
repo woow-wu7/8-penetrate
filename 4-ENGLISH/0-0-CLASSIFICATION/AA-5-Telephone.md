@@ -10,6 +10,20 @@
 - // -
 - // EE: battery: A device that produces 【 electricity 】 to provide power for radios, cars, etc.
 - // EE: essential: 【 necessary 】 or needed.
+- // EE: virus: An 【 extremely 】 small piece of 【 organic 】 【 material 】 that cause disease in humans, animals, and plants.
+- // EE: material: A 【 physical 】 substance that things can made from many things.
+- //【 organic material. 有机材料 】
+- //【 organic food. 有机食品 】
+- // organism 生物
+- // microorganism 微生物
+- // extreme 极端的 adj
+- // extremely 极端地 adv
+- // physical 物理的 生体的 体检
+- //【 physical examination. 体检 】
+- //【 physical health. 生理健康 】
+- //【 mental health. 心理健康 】
+- //
+- // -
 - // -
 - // -- `battery 电池`
 - // -- **【 electric 电的 adj 】**
@@ -49,6 +63,13 @@
 - // -- `living things. 生物`
 - // -- `organism 生物`
 - // -- `microorganism 微生物` // micro + organism
+- // -
+- // -- `organic 有机的 器官的 生物的` // --- organic = or ga nic
+- // -- `organism 生物` // ---------------- organism = or ga nism
+- // -- 【 organic food. 有机食品 】
+- // -- 【 organic material. 有机材料 】
+- // -- 【 organic pesticides. 有机农药 】
+- // -- 【 organic garden. 有机花园 】
 - // -
 - // -- **【 【 organisms 】 【 rely on 】 【 oxygen 】 to survive. 生物依靠氧气活着 】**
 - // -- // rely on. 依靠
@@ -92,6 +113,10 @@
 - // -
 - // power consumption. 功耗
 - // fuel consumption. 油耗
+- // -
+- // -
+- // - extreme 极端的 adj 极端 n
+- // - extremely 极端地 adv
 -
 -
 -

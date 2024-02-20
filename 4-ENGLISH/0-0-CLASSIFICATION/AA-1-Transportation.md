@@ -27,6 +27,7 @@
 - `【 tourism 旅游业 】` // tour + ism
 - `-------【 tourist attraction. 旅游胜地 】`
 - `-------【 Disney resort. 迪士尼度假区 】`
+- 【 pillar industry. 支柱产业 】
 - // -- **【 During the 【 tour 】, the 【 tourists 】 visited many famous 【 attractions 】. 】**
 - // -- **【 tourism 】 is the 【 pillar industry 】 of the 【 province 】. 旅游业是该省的支柱产业**
 -
@@ -730,6 +731,9 @@ arrive 到达 v
 【 departure lounge. 候机室 】 // lounge 休息室
 // 【 departure: A computer screen shows arrival and departure times. 电脑屏幕显示出到达和离开的时间 】!!!!!!! !!!!!!! !!!!!!!
 // 【 departure: Her departure is a big loss to the school. 她这一走对学校来说是一个巨大的损失 】
+// -
+// People wait in the lounge for boarding. 人们在候机室里等待登机
+// -
 // They had received no news of him since his departure from the island. 自从他离开这座岛后，他们再没得到过他的消
 // His departure, in fact, went almost unremarked. 事实上，他的离去几乎没被注意到
 // -- unremarked 未被注意的

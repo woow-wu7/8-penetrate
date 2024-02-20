@@ -16,6 +16,7 @@
 - `bug spray. 杀虫剂`
 - `pesticide 杀虫剂`
 - `organic pesticides. 有机农药`
+- `organic food. 有机食品`
 - Samples of the water contained pesticide. 水样中含有杀虫剂
 -
 -
