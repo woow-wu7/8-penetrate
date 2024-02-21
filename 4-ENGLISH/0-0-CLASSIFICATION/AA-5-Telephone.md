@@ -10,39 +10,99 @@
 - // -
 - // EE: battery: A device that produces 【 electricity 】 to provide power for radios, cars, etc.
 - // EE: essential: 【 necessary 】 or needed.
-- // EE: virus: An 【 extremely 】 small piece of 【 organic 】 【 material 】 that cause disease in humans, animals, and plants.
 - // EE: material: A 【 physical 】 substance that things can made from many things.
+- // EE: virus: An 【 extremely 】 small piece of 【 organic 】 【 material 】 that cause disease in humans, animals, and plants.
+- // EE: recession: A period when the economy of a country is not successful and conditions for business are bad.
+- // EE: recover: To become completely well again after an illness or injury.
+- // EE: gradually: Slowly over a period of time or a distance.
+- // -
+- // organism 生物
 - //【 organic material. 有机材料 】
 - //【 organic food. 有机食品 】
-- // organism 生物
-- // microorganism 微生物
+- // -
+- // organism 生物 // organisms rely on oxygen to survive. 生物依靠氧气活着
+- // microorganism 微生物 // The virus is a kind of microorganism that we can only see through a microscope
+- // -
 - // extreme 极端的 adj
 - // extremely 极端地 adv
-- // physical 物理的 生体的 体检
-- //【 physical examination. 体检 】
-- //【 physical health. 生理健康 】
-- //【 mental health. 心理健康 】
+- // -
+- // exam 考试 检查 n
+- // examination 检查 n
+- // -
+- // physics 物理学 n
+- // physical 物理的 身体的 体检
+- // -
+- // `【 physical examination. 体检 】`
+- // `【 physical health. 生理健康 】`
+- // `【 mental health. 心理健康 】`
+- // `【 mental state. 精神状态 】`
+- // 1. **【 We should have a 【 physical examination 】every year 】. 我们应该每年做一次体检**
+- // 2. **【 Physical health 】 and 【 mental health 】 are both important. 生理健康和心理健康都很重要**
+- // 3. **【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】**
+- // 4. **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
+- // -- gradually recover. 逐渐恢复
+- // -- treatment 治疗 n
+- // -- treat 治疗 对待 v
+- -
+- // `graduation 毕业 n` // graduat + ion
+- // `graduate 毕业 v` // graduate // gradual
+- // `gradual 逐渐的 adj` // graduate // gradual
+- // `gradually 逐渐地 adv`
+- // 【 gradually recover. 逐渐恢复 】
+- // **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
+- // **【 She 【 gradually 】 【 realized 】 that she should 【 study 】 hard. 她【逐渐】【意识到】她应该努力学习了 】**
+- // --【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】
+- // --【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】
+- // -- `realize 实现 意识到`
+- // -- swamp 沼泽
+- // -- sink 下沉 -> sank
+- // -- `learn: 实际的知识或技能`
+- // -- `study: 深入研究和学术性的学习`
+- // -
+- // `recover 恢复 v` // recover cover
+- // `recovery 恢复 n`
+- // `cover 覆盖` // cover recover
+- // `recession 经济衰退`
+- // `economy 经济`
+- // **【 The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】. 经济正在从衰退中缓慢复苏 】**
+- // **【 People don't realize how 【 serious 】 this 【 recession 】 has actually been. 人们没有意识到这次衰退实际上有多严重 】**
+- // --【 We wish you a 【 speedy 】 【 recovery 】. 我们祝愿你早日康复 】
+- // -- The patient 【 recovered 】 quickly. 病人很快恢复了健康
+- // -
+- // -- `serious 严重的 严肃的`
+- // -- There was a serious car accident on the road. 路上发生了一起严重的车祸
+- // -- This could seriously injure the company's 【 reputation 】. 这可能会严重损害公司的【声誉】
+- // -
+- // `get stuck in. 陷入`
+- // 1. **【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】**
+- // 2. **【 I always 【 get stuck in 】 traffic on my way to work. 我上班路上总是遇到交通堵塞 】**
+- // 3. **【 She 【 got stuck in 】 a difficult situation and didn't know how to get out of it. 她陷入了困境，不知道如何摆脱 】**
+- // -- stuck ---- get stuck in.
+- // -- stock ---- stock market.
+- // -- stack ---- // 1.tech stack. 技术栈 // 2.a stack of books. 一堆书 // 3.a stack of paper. 一叠纸
 - //
 - // -
 - // -
 - // -- `battery 电池`
-- // -- **【 electric 电的 adj 】**
+- // -- **【 electric 电的 adj 】** // 1. electric circuit. // 2. electric kettle.
 - // -- **【 electricity 电 n 】** // --- n ---> electricity ---> electric + ity
 - // -- **【 electrician 电工 n 】** // -------> electrician ---> electric + ian
 - // -- `electric circuit. 电路`
 - // -- `electric kettle 电热水壶`
-- // -- // The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
+- // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
 - // -
-- // --【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销
-- // --【 Primitive men 】 made fire by themselves since they had no【 electricity 】. 原始人没有电，只能自己生火
+- // -- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**
+- // -- **【 Primitive men 】 made fire by themselves since they had no【 electricity 】. 原始人没有电，只能自己生火**
 - // -
 - // -- consume 消费 消耗 v
 - // -- consumption 消费 消耗 n
 - // -- **【 fuel consumption. 油耗 】**
 - // -- **【 power consumption. 功耗 】**
-- // -- **【 rated power. 额定功率 】**
-- // -- **【 rated voltage. 额定电压 】**
-- // -- **【 rated current. 额定电流 】**
+- // -- **【 rated power. 额定功率 】** // watt
+- // -- **【 rated voltage. 额定电压 】** // volt
+- // -- **【 rated current. 额定电流 】** // ampere
+- // -- **【 The 【 formula 】 for 【 power 】 is 【 current 】 【 multiplied 】 by 【 voltage 】 】**
+- // -- **【 The 【 rated voltage 】in China is 220 【 vote 】 】**
 - // -- consumption: The car has low 【 fuel consumption 】. 这辆车油耗很低
 - // -- consume: The factory 【 consumes 】 【 a large amount of 】 【 electricity 】 every month.
 - // -- // `【 a large amount of. 大量的 】`
@@ -61,15 +121,15 @@
 - // --【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】
 - // -
 - // -- `living things. 生物`
-- // -- `organism 生物`
-- // -- `microorganism 微生物` // micro + organism
+- // -- `organism 生物` // organisms rely on oxygen to survive. 生物依靠氧气活着
+- // -- `microorganism 微生物` // The virus is a kind of microorganism that we can only see through a microscope
 - // -
-- // -- `organic 有机的 器官的 生物的` // --- organic = or ga nic
 - // -- `organism 生物` // ---------------- organism = or ga nism
+- // -- `organic 有机的 器官的 生物的` // --- organic = or ga nic
 - // -- 【 organic food. 有机食品 】
 - // -- 【 organic material. 有机材料 】
-- // -- 【 organic pesticides. 有机农药 】
 - // -- 【 organic garden. 有机花园 】
+- // -- 【 organic pesticides. 有机农药 】
 - // -
 - // -- **【 【 organisms 】 【 rely on 】 【 oxygen 】 to survive. 生物依靠氧气活着 】**
 - // -- // rely on. 依靠
@@ -87,6 +147,10 @@
 - // -- microscope 显微镜 // ----------- microscope = micro + scope // telescope 望远镜
 - // -- microphone 麦克风 // ----------- microphone = micro + phone
 - // -- microwave 微波炉 // ------------ microwave = micro + wave
+- // -
+- // -- microphone
+- // -- headphone / headphone jack.
+- // -- earphone / earphone jack.
 - // -
 - // necessary 必要的 必须的 adj
 - // be necessary for. 对...是必须的
@@ -113,10 +177,6 @@
 - // -
 - // power consumption. 功耗
 - // fuel consumption. 油耗
-- // -
-- // -
-- // - extreme 极端的 adj 极端 n
-- // - extremely 极端地 adv
 -
 -
 -
@@ -219,33 +279,38 @@
 - // turn down. 拒绝 关小
 - // turn up. 开大
 -
-- **【 make a call. 打电话 】** // make a phone call. // make a video call.
+-
+- **【 make a call. 打电话 】**
 - **【 answer a call. 接电话 】**
 - // Press the green button to answer the call.
+-
+- **【 make a phone call. 接电话 】** // make a phone call. // make a video call.
+- **【 make a video call. 接电话 】**
 -
 - **【 pick up. 接电话 】**
 - **【 hang up. 挂电话 】**
 -
 - `make a call. 打电话`
+- `make a phone call. 打电话`
 - `make a video call. 打视频电话`
 - `Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】`
 - // 1. May I ask who is calling?
 - // 2. Thank you for your calling.
-- // 333. `I'm calling to see How they are doing.`
+- // 333. `I'm calling to see How they are doing. 我打电话是想看看他们过得怎么样`
 - // 444. `I just called to see How they are doing.`
 - // 5. Today I'm going to teach you how to use English to 【 make a call 】, and 【 leave a message 】
 - // 66. **【 When will you 【 call me back 】? 你什么时候回我电话? 】** = When will you give me a callback?
 - // 66. **【 I have to hang up, can I 【 call you back 】 later? 】** = I have to hang up, can I give you a callback later?
 - // 66. I have to hang up, can I call you back later? like in an hour? 大约一个小时后？
-- // 66. **【 Could you ask him to call me back? 你能叫他给我回电话吗？】**
+- // 66. **【 Could you ask him to call me back? 你能叫他给我回电话吗？】** = Could you ask him to give me a callback?
 - // 66. **【 When would be a good time to call back? 】**
 - // -
 - // 66. **【 I have to hang up, can I call you back later? 】**
 - // 66. **【 To hang up and call him back later. 挂断电话，稍后再给他打电话 】**
 - // 66. **【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】**
 - // -
-- // 7. **【 My phone is stuck. 我的手机卡住了 】**
-- // 7. **【 My phone is frozen. 我的手机死机了 】**
+- // 7. **【 My phone is stuck. 我的手机【卡住了】 】**
+- // 7. **【 My phone is frozen. 我的手机【死机了】 】**
 - // -
 - // 8. My call is coming. 我的电话来了
 - `leave a message. 留言`
@@ -254,7 +319,7 @@
 - `My phone is stuck. 我的手机卡住了`
 - // stuck 卡住 困住 // get stuck in. 陷入 // ---- You don't get stuck in traffic jams. 你不会陷入交通堵塞
 - // stock 股票 // stock market. 股票市场 // ----- Many people don't like to invest in stocks.
-- // stack 堆栈 // a stack of. 一堆 // ---------- a stack of books. 一堆书
+- // stack 堆栈 // tech stack. 技术栈 // a stack of. 一堆 // a stack of books. 一堆书
 - // -- I use Vue and React 【 tech stacks 】 to develop projects.
 - // -
 - 【 a stack of. 一堆 】
@@ -267,6 +332,7 @@
 -
 - `hang up. 挂电话`
 - // **【 I have to hang up, can I call you back later? 】**
+- // **【 I have to hang up, can I give you a callback later? 】**
 - // 【 to hang up and call him back later. 挂断电话，稍后再给他打电话 】
 - // 【 Can you have him give me a callback, please? 你能让他回电话给我吗？ 】
 - // I'm hanging up.
@@ -367,6 +433,7 @@
 - **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode.
 - **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
 - **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
+- -- vibrate 震动
 -
 - `I'm hanging up. 我要挂电话了`
 - `Extension number. 分机号码` // Mr.Lee's extension number is 123. Please hold, 【 I will transfer you. 】
@@ -421,18 +488,19 @@ cell phone. 手机
 smartphone. 智能手机
 telephone 电话
 
-- keypad 小键盘 按键
-  star key. 星号键
-  pound key. #号键
-  // pound 英镑
-- text message. 短信
-- repeat 重复 -------- 不礼貌
-  pardon 请再说一遍 --- 比较礼貌
-  // 【 pardon 原谅 请再说一遍 】
-  // 1. Pardon? I din't hear you clearly. 能再重复一遍吗？我没听清楚你说的话
-  // 2.【 I beg your pardon. 请你再说一遍 】
-  // 3. pardon me. 原谅我
-  // 4. Would you like me to repeat that again?
+keypad 小键盘 按键
+star key. 星号键
+pound key. #号键
+// pound 英镑
+text message. 短信
+
+repeat 重复 -------- 不礼貌
+pardon 请再说一遍 --- 比较礼貌
+// 【 pardon 原谅 请再说一遍 】
+// 1. Pardon? I din't hear you clearly. 能再重复一遍吗？我没听清楚你说的话
+// 2.【 I beg your pardon. 请你再说一遍 】
+// 3. pardon me. 原谅我
+// 4. Would you like me to repeat that again?
 
 I'm on the phone. 我在打电话
 // Turn down the TV, I'm on the phone. 把电视音量关小，我正在打电话
@@ -482,7 +550,7 @@ I'm on the phone. 我在打电话
 - phone case. 手机壳
 - screen protector. 手机保护膜
 -
-- `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜
+- `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜 // 3. microorganism // 4. microwave
 - `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
 - // **【 earphone 耳塞式耳机 】** // earphone jack.
 - // **【 headphone 头戴式耳机 】** // headphone jack.
@@ -500,8 +568,8 @@ I'm on the phone. 我在打电话
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
 - -
-- // -- `rear view mirror. 后视镜`
-- // -- `rear view camera. 后视摄像头`
+- `rear view mirror. 后视镜`
+- `rear view camera. 后视摄像头`
 - // TIPS: Pay attention to the pronunciation of the 'mirror'.
 - -
 - // **【 take pictures. 拍照 / take photos. 】** // take pictures = take photos. 拍照
@@ -522,6 +590,9 @@ I'm on the phone. 我在打电话
 - silent button. 静音键
 -
 - dial tone. 拨号音
+- star key.
+- pound key.
+-
 - usb cable. 数据线 usb 线
 - charging cable. 数据线 // charging port. // charging pile.
 -
@@ -535,19 +606,19 @@ I'm on the phone. 我在打电话
 -
 -
 - `bluetooth 蓝牙` // tooth teeth // bluetooth
-- `telephone booth. 电话亭`
+- `telephone booth. 电话亭` // booth // tooth
 -
 - operating system. 操作系统 OS
 -
 -
 -
+- **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
 - **【 current 电流 】--> ampere 安培** // current 当前的 adj 电流 n
 - **【 voltage 电压 】--> volt 伏特**
 - **【 power 电功率 】--> watt 瓦特**
-- // **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
-- // -- formula 公式 配方
-- -
-- **【 rated voltage. 额定电压 】** // rated current. 额定电流
+- formula 公式 配方
+- **【 rated voltage. 额定电压 】**
+- **【 rated current. 额定电流 】**
 - **【 rated power. 额定功率 】**
 - `【 power consumption. 功耗 】`
 - `【 fuel consumption. 油耗 】`

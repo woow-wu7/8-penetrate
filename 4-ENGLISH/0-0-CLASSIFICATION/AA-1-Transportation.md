@@ -73,9 +73,10 @@
 - // 1.get around
 - // 2.get stuck in. 陷入
 - // 3.stuck in. 陷入
-- // 44. -- stack 栈 // tech stack. 技术栈
+- // 44. -- stack 栈 // tech stack. 技术栈 // a stack of books. 一堆书 // a stack of paper. 一叠纸
 - // 55. -- stock 股票 // stock market. 股票市场
 - // 66. -- stuck 陷入 // get stuck in. 陷入
+- // **【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】**
 - 1. How do you usually get around? 你平时怎么出行 // How do you go to work every day?
 - 2. What's the best way to get around your hometown. 游览家乡最好的方式是什么？
 -

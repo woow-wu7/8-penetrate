@@ -320,6 +320,7 @@ declare 声明`
 - // -- stack 栈 // 1. tech stack. 技术栈 // 2. a stack of. 一堆 // 3. a stack of books. 一堆书
 - // -- stock 股票 // 1. stock market. 股票市场 // 2. Many people don't like to invest in stocks.
 - // -- stuck 陷入 // 1. get stuck in. 陷入 // 2. You don't get stuck in traffic jams. 你不会陷入交通堵塞
+- // **【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】**
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 】**
 - // BB
 - // `【 See some 【 predictions 】 for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】`

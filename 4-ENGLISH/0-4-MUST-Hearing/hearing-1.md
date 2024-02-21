@@ -29,6 +29,7 @@ imply 暗示 暗指 // implies
 actually 事实上 adv
 serious 严重的 adj
 recession 经济衰退 衰退 n
+economy 经济
 // People don't realize how serious this recession has actually been. 人们没有意识到这次衰退实际上有多严重
 
 ages ago. 很久以前
