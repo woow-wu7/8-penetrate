@@ -100,6 +100,9 @@ semi 半
 ##### Material
 
 - `There are many objects made of different materials that we use every day.`
+-
+- `rare metals. 稀有金属`
+- `rare species. 稀有物种`
 
 ```
 metal 金属 // medal model module
@@ -134,6 +137,9 @@ prize 奖 奖品 奖励
 【 second prize. 二等奖 】
 【 I won the first prize. 我中了一等奖 】
 【 【 The first prize 】 is a 【 silver medal 】. 一等奖是一个银牌 】
+-
+rare metals. 稀有金属
+rare species. 稀有物种
 -
 steel 钢
 iron 铁

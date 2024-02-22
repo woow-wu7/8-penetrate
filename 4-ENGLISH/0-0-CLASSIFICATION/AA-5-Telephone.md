@@ -8,7 +8,7 @@
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
 - **【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】**
 - // -
-- // EE: battery: A device that produces 【 electricity 】 to provide power for radios, cars, etc.
+- // EE: battery: A device that produces 【 electricity 】 to 【 provide 】 power for radios, cars, etc.
 - // EE: essential: 【 necessary 】 or needed.
 - // EE: material: A 【 physical 】 substance that things can made from many things.
 - // EE: virus: An 【 extremely 】 small piece of 【 organic 】 【 material 】 that cause disease in humans, animals, and plants.
@@ -59,18 +59,19 @@
 - // -- `learn: 实际的知识或技能`
 - // -- `study: 深入研究和学术性的学习`
 - // -
-- // `recover 恢复 v` // recover cover
+- // `recover 恢复 v` // 1.recover cover // 2.recover recession // 3. recover recovery
 - // `recovery 恢复 n`
 - // `cover 覆盖` // cover recover
-- // `recession 经济衰退`
+- // `recession 经济衰退` // recession recover
 - // `economy 经济`
+- // **【 recover your account. 恢复您的账户 】**
 - // **【 The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】. 经济正在从衰退中缓慢复苏 】**
 - // **【 People don't realize how 【 serious 】 this 【 recession 】 has actually been. 人们没有意识到这次衰退实际上有多严重 】**
 - // --【 We wish you a 【 speedy 】 【 recovery 】. 我们祝愿你早日康复 】
 - // -- The patient 【 recovered 】 quickly. 病人很快恢复了健康
 - // -
 - // -- `serious 严重的 严肃的`
-- // -- There was a serious car accident on the road. 路上发生了一起严重的车祸
+- // -- There was a 【 serious 】 car accident on the road. 路上发生了一起严重的车祸
 - // -- This could seriously injure the company's 【 reputation 】. 这可能会严重损害公司的【声誉】
 - // -
 - // `get stuck in. 陷入`
@@ -92,7 +93,12 @@
 - // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
 - // -
 - // -- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**
-- // -- **【 Primitive men 】 made fire by themselves since they had no【 electricity 】. 原始人没有电，只能自己生火**
+- // -- **【 Primitive men 】 made fire by themselves 【 since 】 they had no【 electricity 】. 原始人没有电，只能自己生火**
+- // ---- `since 自从 自...以后`
+- // ---- since + 表示时间点的词/一般过去时从句 => 是现在完成时的标志
+- // ---- since 9 o'click 从 9 点起
+- // ---- since he left 自从他离开后
+- // ---- I haven't seen Jhn since he left. 自从约翰离开后，我就没有见到过他了
 - // -
 - // -- consume 消费 消耗 v
 - // -- consumption 消费 消耗 n
@@ -256,6 +262,26 @@
 -
 - 6
 - `Verification code. 验证码`
+- `verify identity. 验证身份`
+- -
+- `verify 验证 v`
+- `verification 验证 n`
+- -
+- // **【 Make sure to enter the correct 【 verification code 】 to 【 verify 】 your 【 identity 】. 】**
+- // Please enter the 【 verification code 】 that was sent to your phone. 请输入发送到您手机的验证码
+- // -- verify 验证 校验 v
+- // -
+- // -- identity 身份 n
+- // -- dual 双重的
+- // -- `【 dual identity. 双重身份 】`
+- // -- `【 Dual nationality. 双重国籍 】`
+- // -
+- // -- odd: odd number. 奇数
+- // -- even: even number. 偶数
+- // -- The thief used a false identity. 窃贼使用的是假身份
+- // -
+- **【 generate passwords that are used as a second factor to 【 verify 】 your 【 identity 】 when 【 prompted 】 during sign-in. 】**
+- // 生成一次性密码，该密码用作登录过程中出现【提示】时【验证】您【身份】的第二个因素
 
 # (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 

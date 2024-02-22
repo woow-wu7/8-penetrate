@@ -7,6 +7,9 @@
 
 // 1
 // keyof
+// - 1. keyof 返回 T 类型上的已知公共属性名的 联合类型
+// - 2. 所以如果是 private 和 protected 属性则不会返回
+// - 3. protected 保护的adj / v过去式
 interface People {
   name: string;
   age: number;
@@ -16,6 +19,14 @@ const people22: People = {
   name: "woow_wu7",
   age: 35,
 };
+class PeopleX {
+  public name: string = ""; // ----- public 任意地方都可以访问 ( 定义name的类，子类，实例 )
+  // public address: string = "";
+  private age: number = 0; // ------ private 只能在 ( 定义name的类内部访问 )，不能在 ( 子类，实例 ) 访问
+  protected sex: string = ""; // --- protected 能在 ( 类，子类 ) 中访问，不能在 ( 实例 ) 上访问
+}
+type PeopleY = keyof PeopleX; // 相当于 type TS2 = "name"，注意: 只能返回 ( 返回 T 上已知公共属性名的 联合类型 )，即 private 和 protected 都遍历不到
+
 
 function getPeople<T, K extends keyof T>(o: T, names: K[]): T[K][] {
   return names.map((n) => o[n]);
@@ -84,6 +95,8 @@ type People8 = {
 
 // 2.4
 // 返回的是枚举中的 key =================================== 枚举中的 key
+// - 枚举是一种数据类型
+// - typeof 枚举A: 返回的是A的类型
 type People44 = keyof typeof ENumber; // 'AA' | 'BB' ++++++ key
 type People66 = `${ENumber}`; // "2" | "3" ++++++++++++++++ value // 注意: 这里 number 会转成 string
 
@@ -111,6 +124,7 @@ interface IObj {
 }
 let obj1: IObj;
 type TObj = keyof typeof obj1; // 相当于 type TObj = 'attr1' | 'attr2'
+type TObj2 = keyof IObj;
 const tobj: TObj = "attr1";
 // - 所以这里 keyof typeof interface/enum 都是可以的
 // - 即 interface 和 enum 通过 typeof 返回类型后，都可以用 keyof 获取 keys映射的联合类型 

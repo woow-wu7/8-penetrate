@@ -1,9 +1,9 @@
-# Transportation / Vehicle / Traffic / Transport
+##### Transportation / Vehicle / Traffic / Transport
 
 ##### (1) Summarize 总结 v
 
 - 2024-01-10 UPDATE
-- drunk driving. 酒驾 // drink -> drunk
+- `drunk driving. 酒驾` // drink -> drunk
 - courtesy seat. 爱心专座
 - maglev train. 磁悬浮列车
 -
@@ -11,13 +11,13 @@
 - The flight is 【 descending 】 now. 飞机正在降落
 -
 - 2024-01-19
-- get around. 出行
+- `get around. 出行`
 - cycle 自行车 周期
 - cycling 骑自行车 v/n
 - //【 Cycling 】 is a cheap way to 【 get around 】. 骑自行车是一种省钱的旅游方式
 -
 - 2024-02-11
-- 【 automatic transmission. 自动变速箱 】
+- `【 automatic transmission. 自动变速箱 】`
 - // automatic 自动的 adj
 - // transmission 传送 变速器 n
 -
@@ -30,6 +30,12 @@
 - 【 pillar industry. 支柱产业 】
 - // -- **【 During the 【 tour 】, the 【 tourists 】 visited many famous 【 attractions 】. 】**
 - // -- **【 tourism 】 is the 【 pillar industry 】 of the 【 province 】. 旅游业是该省的支柱产业**
+-
+- 2024-02-22
+- `fare 交通费用`
+- `reasonable 合理的`
+- // The 【 fare 】 for the bus trip is very 【 reasonable 】. 费用非常【合理】
+-
 -
 -
 -

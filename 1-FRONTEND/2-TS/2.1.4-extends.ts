@@ -24,13 +24,23 @@ const instanceExtended: IExtended3 = {
   name: "",
   age: 1,
   sex: "male",
+  address: '', // 报错 Object literal may only specify known properties, and 'address' does not exist in type 'IExtended3'
 };
+
+
 const instanceExtended2: IExtended1 & IExtended2 & IExtended3 = {
   // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
   name: "",
   age: 1,
   sex: "male",
 };
+type IExtended4 = IExtended1 & IExtended2 & IExtended3
+const instanceExtended3: IExtended4 = {
+  // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
+  name: "",
+  age: 1,
+  sex: "male",
+}
 
 
 // ----------------------------------------------------------------

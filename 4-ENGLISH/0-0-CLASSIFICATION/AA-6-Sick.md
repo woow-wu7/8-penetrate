@@ -8,8 +8,12 @@
 - 【 living things. 生物 】
 -
 - 2024-02-18
+- **【 exhibit 炫耀 展览 】**
 - **【 inhibit 抑制 】**
-- **【 prohibit 禁止 】**
+- **【 prohibit 禁止 】** // 通常指法律上的禁止
+- **【 prohibit doing sth. 禁止做某事 】**
+- **【 inhabit 居住于 】**
+- **【 The government 【 prohibits smoking 】 in public places. 】**
 - // `inhibit 抑制`:【 High temperatures 【 inhibit 】 bacterial/bacteria growth. 高温抑制细菌生长 】
 - // `prohibit 禁止`: 【 prohibit 】 【 insulting 】 others. 禁止侮辱他人
 -

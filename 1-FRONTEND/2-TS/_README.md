@@ -97,11 +97,11 @@ A.不同点
     - type -------> 不会新建类型，它只是给这个已有的类型 ( 取了一个新的名字 )，来 ( 引用这个类型 )
   2. 是否能 extends 和 implements
     - type -------> 不能被 ( extends继承 和 implements实现 )
-      - 但 type 可以使用 & 交叉类型 来实现 extends相同的效果
+      - 但 type 可以使用 & 交叉类型 来实现 extends 相同的效果
       - interface IA extends IB, IC
       - type TA = IB & IC
   3. 作用
-    - type 主要用于：原始值，元组，联合类型，等任何需要你手写的类型，和无法通过interface来描述的类型
+    - type 主要用于：原始值，元组，联合类型，等任何需要你手写的类型，和 无法通过interface来描述的类型
     - interface 只能用于声明 ( 对象类型 )
   4. 声明合并
     - interface 存在声明合并; 而type不能声明合并，会报错
@@ -117,7 +117,7 @@ B. 相同点
 (二)
 public private protected 的区别？
 ---
-- public 公有属性 ---- 可以在 任何地方 访问到 ---------------- 能在 声明它的 类，子类，实例 中访问到
+- public 公有属性 ---- 可以在 任何地方 访问到 ---------------- 能在 声明它的 ( 类，子类，实例 ) 中访问到
 - private 私有属性 --- 只能在声明它的 ( 类中 ) 访问到 --------- 不能在 ( 声明它的类 ) 的 ( 外部 ) 使用，比如 ( 子类 实例 子类实例 都不能访问 )
 - protected 保护属性 - 只能在声明它的 ( 类 和 子类 ) 中访问到 -- 实例不能访问，子类实例不能访问，即 ( 实例不能访问，但是子类可以访问 )
 - 注意: 这三个属性，都是以 P 开头，方便记忆
@@ -127,6 +127,7 @@ public private protected 的区别？
 // private property. 私有财产
 // private conversation. 私人谈话
 // personal privacy. 个人隐私
+// protected 保护的adj / v过去式
 
 
 (三)

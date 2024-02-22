@@ -47,8 +47,8 @@ enum Enum2 {
   B = 2 * A, // B 使用了 A 的值
   C = 3 * B, // C 使用了 B 的值
 }
-const b = Enum2.B;
-const c = Enum2.C;
+const b = Enum2.B; // 2
+const c = Enum2.C; // 6
 console.log("b", b); // 2
 console.log("c", c); // 6
 

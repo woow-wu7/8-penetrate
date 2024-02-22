@@ -1,10 +1,11 @@
 // 泛型 - 工具类型
 // - 详见: 本项目/2-FRONTEND/2-TS/_README.md/ # (二) 范型工具类型
 
-type Color1 = "red" | "yellow";
+type Color1 = "red" | "yellow" | "blue";
 interface Color2 {
   red: string;
   yellow: string;
+  blue: number;
 }
 enum color3 { // 枚举可以作为 ( 类型 )，也可以作为 ( 值 )
   one = 1,
@@ -22,6 +23,7 @@ type color4 = [number, string, symbol]
 type TRecord1 = Record<Color1, boolean>; // 鼠标 hover 查看具体的类型
 type TRecord2 = Record<keyof Color2, boolean>;
 type TRecord3 = Record<keyof Color2, Color2["red"]>;
+type TRecord33 = Record<keyof Color2, Color2["red" | "blue"]>; // type TRecord33 = { red: string | number; ... ... }
 type TRecord4 = Record<Color1, Color2>;
 type TRecord5 = Record<string, any>; // key是string类型，value是any类型
 type TRecord6 = Record<keyof any, any>; // key是string | number | symbol，value是any类型

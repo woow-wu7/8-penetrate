@@ -56,6 +56,12 @@ type EColor5 = `${EColor}`; // value ------------- type EColor5 = "999" | "1000"
 
 // 4
 type TKey = keyof any; // string | number | symbol
+
+// 5
 type TPeople7 = {
   [K in keyof any]: boolean;
 };
+// 相当于
+// type TPeople7 = {
+//   [x: string]: boolean;
+// }
