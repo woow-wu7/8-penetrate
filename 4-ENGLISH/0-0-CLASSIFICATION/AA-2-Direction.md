@@ -1,4 +1,4 @@
-# Ask For Directions 问路 / Give Directions 指路
+## Ask For Directions 问路 / Give Directions 指路
 
 - ask for directions. 问路
 - ask him for directions. 向他问路
@@ -365,6 +365,100 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 我需要一直走，在灯前左转，厕所就在街对面
 ```
 
+## Summarize
+
+- `summarize 总结`
+- // EE: summarize: to express the most important 【 facts 】 or ideas about something or someone in a 【 short and clear form 】.
+- // -- fact 事实
+- // -- short and clear form. 简洁明了的形式
+- // -- form 表格 形式 形态
+-
+-
+- `form 表单 形态 形式`
+- 【 simplest form. 最简形式 】
+- 【 short and clear form. 简洁明了的形式 】
+- **【 Water has three 【 forms 】: gas, solid and liquid. 】** // 形态
+- **【 In the 【 simplest 】 【 form 】. 用最简单的形式 】** // 形式
+- **【 A 【 short and clear form 】 is the 【 simplest form 】. 【简洁明了的形式】是【最简单的形式】 】**
+- // -- simplest 最简单
+- // -
+- // -- liquid
+- // -- fluid
+- // -
+- // -- short and clear form. 简洁明了的形式
+- // -- simplest form. 最简形式
+-
+-
+- `specific 具体的 特定的`
+- 【 specific indicator. 具体指标 】
+- 【 specific symptom. 特定症状 】
+- 【 specific place. 特定地点 】
+- // EE: specific: 【 relating to 】 one thing and not others; particular
+- **【 There are several 【 specific 】 【 indicators 】 for success. 成功有几个具体的指标 】**
+-
+-
+-
+- `appreciate 欣赏 感激`
+- **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
+- **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**
+- **【 I 【 appreciate 】 your service to help me to keep healthy. 我感谢你的服务，帮助我保持健康 】**
+- I really appreciate it. 我真的很感激
+- -
+- 【 Thank you for your cooperation. 谢谢您的合作 】
+- 【 Thank you so much for learning English with me. 】
+- 【 Thank you for calling me 】
+-
+-
+-
+- `stranger 陌生人 n`
+- `acquaintance 熟人 n`
+- **【 We went from 【 acquaintances 】to 【 strangers 】. 我们从熟人变成了陌生人 】**
+-
+-
+-
+- `How long`
+- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
+- **【 How long have you 【 known 】 each other? 你们互相认识多久了？ 】**
+- **【 How long have you 【 had 】 this car? 你拥有这辆车多久了？ 】**
+- **【 How long have you 【 had 】 these symptoms? 你出现这些症状多久了 】**
+- -
+- **【 How long have you been learning English? 】**
+- **【 I have been learning English for five years. 】**
+- -
+- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
+- **【 I have lived here for five years. 】**
+- -
+- **【 How long have you been studying here? 你在这里学习多久了？ 】**
+- **【 How long have you been working here? 你在这里工作多久了？ 】**
+- **【 How long have you been waiting for me? 你等我多久了？ 】**
+- How long have you been like this? 这样持续多久了？
+-
+-
+-
+-
+- `civilization 文明`
+- `【 human civilization. 人类文明 】`
+- `【 alien civilization. 外星文明 】`
+- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
+- **【 The technology of 【 alien civilization 】 far 【 exceeds 】 that of 【 human civilization 】. 外星文明的技术远超人类文明 】**
+- // -- city 城市
+- // -- citizen 公民
+- // -- civilization 文明
+- // -- exceed 超过 超越 v
+- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
+- // -- **【 The speed of the car 【 exceeded 】 the speed limit. 汽车的速度【超过】了限速 】**
+- // -- **【 She was 【 exceeding 】 the speed limit. 她超速驾驶 】**
+- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
+- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
+-
+-
+-
+- `live stream. 直播`
+- `live streamer. 主播`
+- **【 The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on the mobile phone. 主播正在手机上给观众直播 】**
+- // -- I'm watching his 【 live stream 】. 我正在看他的直播
+- // -- audience 听众 观众
+
 ## (一) The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
 
 - `You are welcome, It's my pleasure. 别客气，这是我的荣幸`
@@ -477,6 +571,10 @@ It can be paved maybe with asphalt or it is made of dirt or stones.
 // pave 铺路 铺
 // asphalt 沥青
 // a general term. 总称
+// -
+// pave 铺路 v
+//【 be paved with. 用...铺成 】
+// -- The road 【 is paved with 】【 asphalt 】. 这条路是用沥青铺成的
 
 
 2
@@ -506,3 +604,96 @@ a very wide street with several lanes on each side.
 ```
 
 ##### (2) preposition of place to say where a building or a location is
+
+## (三) Conversation
+
+```
+How to ask for directions in English. 如何问路
+How to give directions in English. 如何指路
+--
+
+
+(一) Different types of streets.
+1
+Let's 【 start with 】 different street types. 让我们从不同的街道类型开始
+-- 【 start with. 从...开始 以...开始  首先 第一 】
+-- start with a capital letter. 以大写字母开头
+2
+What are 【 differences 】 between avenues or roads or streets or lanes or ways or trails.
+-- different 不同的 adj
+-- difference 不同 n
+-
+-- avenue 大道
+-- lane 车道
+-- trail 小路
+-- boulevard 林荫大道
+3
+It can 【 be paved maybe with 】 【 asphalt 】 or it is made of 【 dirt 】 or stones.
+-- 【 asphalt 沥青 】
+-- 【 dirt 灰尘 泥土 肮脏 n 】
+-- 【 pave 铺路 v 】
+-- 【 be paved with. 用...铺成 】
+-- The road 【 is paved with 】【 asphalt 】. 这条路是用沥青铺成的
+4
+general term. 一般术语 通称 泛称
+
+
+
+
+(二) prepositions of place to say where a building or a location is.
+- next to.
+- near
+- across from.
+- opposite
+- between
+- on the corner of.
+1
+Building A is 【 next to 】 Building B.
+-- next to. 旁边
+-- near 傍边
+-- I see a bench 【 next to 】 a tree. = I see a bench 【 near 】 a tree. 我看见一棵树旁边有一个长凳
+2
+Building A is 【 across from 】 Building C.
+Building A is 【 opposite 】 Building C.
+-- opposite 相反的 adj / 反面 n
+-- across from. 在...的对面
+3
+Building B is 【 between 】 A and D.
+-- between 在...中间 之间
+-- There is a river 【 between 】 the two cities.
+4
+D is 【 on the corner of 】 first and second street.
+-- on the corner of. 在...的拐角处
+
+
+
+(三) A map for you to give me directions.
+// You will have to give me directions using the vocabulary and the language you have learned in this video to the end.
+
+
+
+(四) How to ask for directions in English.
+1
+if you are not looking for a 【 specific 】 place. 如果你不是在寻找一个【特定的】地方
+【 Is there a supermarket around here? 】
+【 Is there a supermarket near here? 】
+-- 【 specific 具体的 特定的 adj 】
+-- // EE: specific: 【 relating to 】 one thing and not others; particular
+-- // relate to. 涉及 有关
+-- //【 The story 【 relates to 】 a real event. 这个故事与一个真实事件有关 】
+-- // -
+-- // particular: 特别的
+-- //【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】
+2
+if you are looking for a specific place.
+【 Where is the supermarket. 】
+【 How can I get to the supermarket. 】
+3
+How are you asking these questions to? 你在向谁问这些问题
+stranger 陌生人
+acquaintance 熟人
+4
+polite 有礼貌的
+can you tell me...?
+do you know...?
+```

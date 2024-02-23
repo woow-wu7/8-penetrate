@@ -7,6 +7,30 @@
 - `【 【 Batteries 】 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
 - **【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】**
+- **【 Sleep【 is essential for 】good 【 physical health 】. 睡眠是【身体健康】必不可少的 】**
+- **【 Sleep is 【 an essential part of 】 good physical health. 睡眠是身体健康【必不可少的一部分】】**
+- -
+- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
+- **【 The technology of 【 alien civilization 】 far 【 exceeds 】 that of 【 human civilization 】. 外星文明的技术远超人类文明 】**
+- // -- `【 human civilization. 人类文明 】`
+- // -- `【 alien civilization. 外星文明 】`
+- // -- civilization 文明
+- // -- alien 外星的 adj 外星人 n
+- // -- exceed 超过 超越 v
+- // -
+- // -- `civilization 文明`
+- // -- `citizen 公民`
+- // -- city 城市
+- // -
+- // -- `an essential part of. ...的一个必不可少的部分`
+- // -- culture 文化
+- // -
+- // -- `exceed 超过 超越 v`
+- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
+- // -- **【 The speed of the car 【 exceeded 】 the speed limit. 汽车的速度【超过】了限速 】**
+- // -- **【 She was 【 exceeding 】 the speed limit. 她超速驾驶 】**
+- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
+- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
 - // -
 - // EE: battery: A device that produces 【 electricity 】 to 【 provide 】 power for radios, cars, etc.
 - // EE: essential: 【 necessary 】 or needed.
@@ -15,8 +39,12 @@
 - // EE: recession: A period when the economy of a country is not successful and conditions for business are bad.
 - // EE: recover: To become completely well again after an illness or injury.
 - // EE: gradually: Slowly over a period of time or a distance.
+- // EE: civilization: human society with its well developed 【 social organizations 】.
+- // -
+- // sleep 睡眠 n 睡觉 v
 - // -
 - // organism 生物
+- // organic 有机的
 - //【 organic material. 有机材料 】
 - //【 organic food. 有机食品 】
 - // -
@@ -40,22 +68,28 @@
 - // 2. **【 Physical health 】 and 【 mental health 】 are both important. 生理健康和心理健康都很重要**
 - // 3. **【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】**
 - // 4. **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
+- // 5. **【 The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】. 经济正在从衰退中缓慢复苏 】**
 - // -- gradually recover. 逐渐恢复
-- // -- treatment 治疗 n
+- // -- recover your account. 恢复账户
+- // -- recover 恢复
+- // -- recession 经济衰退
 - // -- treat 治疗 对待 v
+- // -- treatment 治疗 n
 - -
 - // `graduation 毕业 n` // graduat + ion
 - // `graduate 毕业 v` // graduate // gradual
 - // `gradual 逐渐的 adj` // graduate // gradual
 - // `gradually 逐渐地 adv`
 - // 【 gradually recover. 逐渐恢复 】
+- // 【 recover your account. 恢复账户 】
 - // **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
+- // **【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】**
 - // **【 She 【 gradually 】 【 realized 】 that she should 【 study 】 hard. 她【逐渐】【意识到】她应该努力学习了 】**
 - // --【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】
-- // --【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】
-- // -- `realize 实现 意识到`
 - // -- swamp 沼泽
 - // -- sink 下沉 -> sank
+- // -- `realize 实现 意识到`
+- // -
 - // -- `learn: 实际的知识或技能`
 - // -- `study: 深入研究和学术性的学习`
 - // -
@@ -65,13 +99,24 @@
 - // `recession 经济衰退` // recession recover
 - // `economy 经济`
 - // **【 recover your account. 恢复您的账户 】**
+- // **【 gradually recover. 逐渐恢复 】**
 - // **【 The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】. 经济正在从衰退中缓慢复苏 】**
 - // **【 People don't realize how 【 serious 】 this 【 recession 】 has actually been. 人们没有意识到这次衰退实际上有多严重 】**
 - // --【 We wish you a 【 speedy 】 【 recovery 】. 我们祝愿你早日康复 】
 - // -- The patient 【 recovered 】 quickly. 病人很快恢复了健康
 - // -
+- // `rear view mirror. 后视镜`
+- // `rear view camera. 后视摄像头`
+- // `front-facing camera. 前置摄像头`
+- // `rear camera. 后置摄像头`
+- // rear 后面 后面的
+- // rare 稀有的
+- // **【 rare species. 稀有物种 】**
+- // **【 rare metals. 稀有金属 】**
+- // **【 【 The 【 rare species 】 is 【 protected 】 by law. 该稀有物种受到法律保护 】 】**
+- // -
 - // -- `serious 严重的 严肃的`
-- // -- There was a 【 serious 】 car accident on the road. 路上发生了一起严重的车祸
+- // -- **【 There was a 【 serious 】 car accident on the road. 路上发生了一起严重的车祸 】**
 - // -- This could seriously injure the company's 【 reputation 】. 这可能会严重损害公司的【声誉】
 - // -
 - // `get stuck in. 陷入`
@@ -94,11 +139,11 @@
 - // -
 - // -- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**
 - // -- **【 Primitive men 】 made fire by themselves 【 since 】 they had no【 electricity 】. 原始人没有电，只能自己生火**
+- // ---- `since + 表示时间点的词/一般过去时从句 => 是现在完成时的标志`
 - // ---- `since 自从 自...以后`
-- // ---- since + 表示时间点的词/一般过去时从句 => 是现在完成时的标志
+- // ---- **【 I haven't seen Jhn since he left. 自从约翰离开后，我就没有见到过他了 】**
 - // ---- since 9 o'click 从 9 点起
 - // ---- since he left 自从他离开后
-- // ---- I haven't seen Jhn since he left. 自从约翰离开后，我就没有见到过他了
 - // -
 - // -- consume 消费 消耗 v
 - // -- consumption 消费 消耗 n

@@ -1967,6 +1967,9 @@ cup holder. 杯架
 -
 - `appreciate 感谢 欣赏`
 - I really appreciate it. 我真的很感激
+- **【 I appreciate your help. 感谢你的帮助 】**
+- **【 I really appreciate your help. 感谢你的帮助 】**
+- **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
 -
 -
 - `pleasure 高兴 荣幸`

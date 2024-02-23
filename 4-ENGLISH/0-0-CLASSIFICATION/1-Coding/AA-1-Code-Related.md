@@ -5,14 +5,15 @@
 - 1
 - `variable 变量`
 - `constant 常量`
-- //【 environment variable. 环境变量 】
+- `【 environment variable. 环境变量 】`
 - // quantity 数量 量
+- // quality 质量
 - // previously 之前地 adv
-- `Assign an initial value of 1 to your variable.`
+- `【 Assign 】 an initial value of 1 to your 【 variable 】.`
 - // `【 primitive values. 原始值 】`
 - // `【 primitive man. 原始人 】`
 - // `【 primitive culture. 原始文明 】`
-- // `--【 primeval forest. 原始森林 】`
+- // `--【 primeval forest. 原始森林 】--`
 - // **【 【 previously 】, variable were declared using the var keyword. 以前，变量是使用 var 关键字声明的 】**
 - // **【 variable 变量: A variable is used to store information. 】**
 - // **【 constant 常量: A 【 quantity 】 whose value remains unchanged is called a constant. 】**
@@ -22,11 +23,16 @@
 - `project 项目`
 - `advantage 优点 优势`
 - `disadvantage 缺点`
-- 【 tech stacks. 技术栈 】
 - 【 high-tech: 高科技的 】
+- 【 tech stacks. 技术栈 】
 - 【 a stack of. 一堆 】
 - // a stack of books. 一堆书
 - // a stack of paper. 一叠纸
+- // -
+- // get stuck in. 陷入
+- // stock market. 股票市场
+- // tech stack. 技术栈
+- // -
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 我使用 Vue 和 React 技术栈开发项目 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
 - // ------- **【 both the keywords let and var are used to declare variables. 】**
@@ -59,11 +65,12 @@
 - `reduce 减少`
 - // probable 可能的 adj
 - // probably 可能 adv
-- // **【 The main function of this app is to help drivers to reduce the probability of accidents when they are driving. 】**
-- // 【 The probability of failure is very low. 失败的概率很低 】
+- // **【 The function of this app is to help drivers to reduce the probability of accidents when they are driving. 】**
+- // **【 There is high 【 probability 】 of rain tomorrow. 明天有很大的概率会下雨 】**
+- // **【 The 【 probability 】 of failure is very low. 失败的概率很低 】**
 - // -- `fail 失败 v`
-- // -- `failure 失败 n 失败的人 n`
 - // -- `failed 失败的 adj / 过去式过去分词`
+- // -- `failure 失败 n 失败的人 n`
 - // -- **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
 -
 - 7
@@ -71,8 +78,12 @@
 - `such as. 例如`
 - // **【 After graduation, I have done many jobs, such as: technical support, operation, UI design, and front-end engineer. 】**
 - // technical 技术的 adj
+- // technical support. 技术支持
+- // -
 - // operate 操作 v
 - // operation 手术 行动 n
+- // **【 operator 接线员 操作员 】**
+- // **【 The 【 operator 】 will 【 put you through 】. 接线员将为您接通电话 】**
 -
 - 8
 - `track 追踪v 轨道n`
@@ -82,8 +93,9 @@
 - 9
 - `compose 组成`
 - `be composed of. 由...组成`
+- // **【 This project 【 is composed of 】 two parts, both of which have three layers. 】**
 - // TypeError('Middleware must be composed of functions!')
-- // **【 This project is composed of two parts, both of which have three layers. 】**
+-
 -
 -
 -
@@ -791,7 +803,7 @@ compared 比较的 adj
 - // -- **【 I'm going to try to explain what it means 【 in the simplest possible form 】. 】**
 - // -- simple -> simplest // TIPS: pay attention to pronunciation.
 - // -- `【 form 表格 形态 形式 】`
-- // -- **【 form 形态: Water has there forms: gas, solid and liquid. 水有三种【形态】-气体固体液体 】**
+- // -- **【 form 形态: Water has three forms: gas, solid and liquid. 水有三种【形态】-气体固体液体 】**
 - // -- **【 form 形式: in the simplest possible form. 用最简单的形式 】**
 - // -- liquid
 - // -- fluid

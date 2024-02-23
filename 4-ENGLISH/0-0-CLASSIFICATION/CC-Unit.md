@@ -43,6 +43,10 @@ time 时间 乘以
 
 ##### (二) Quantifier 量词
 
+- `quantity 数量`
+- `quantifier 量词/数量词`
+- quality 质量
+
 ```
 noun 名词
 pronoun 代词
@@ -53,7 +57,7 @@ irregular verb. 不规则动词
 -
 adjective 形容词
 preposition 介词
-quantifier 量词
+quantifier 量词 // quantity数量 // quality质量
 
 plural 复数
 // The verb should be in the plural. 这个动词应该用复数形式
