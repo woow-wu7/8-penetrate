@@ -1,3 +1,203 @@
+## Summarize
+
+- `inbox 收件箱`
+- `spam 垃圾邮件`
+- `【 junk email. 垃圾邮件 】`
+- `【 junk food. 垃圾食物 】`
+- `【 spam email. 垃圾邮件 】`
+- **【 There are 【 junk emails 】 in the 【 inbox 】. 收件箱里有垃圾邮件 】**
+-
+- `summarize 总结`
+- // EE: summarize: to express the most important 【 facts 】 or ideas about something or someone in a 【 short and clear form 】.
+- // -- fact 事实
+- // -- form 表格 形式 形态
+- // -- simplest form. 最简形式
+- // -- 【 short and clear form. 简洁明了的形式 】
+-
+-
+-
+- `form 表单 形态 形式`
+- 【 simplest form. 最简形式 】
+- 【 short and clear form. 简洁明了的形式 】
+- 【 in the form of. 以...的形式 】
+- **【 Water has three 【 forms 】: gas, solid and liquid. 】** // 形态
+- **【 In the 【 simplest 】 【 form 】. 用最简单的形式 】** // 形式
+- **【 A 【 short and clear form 】 is the 【 simplest form 】. 【简洁明了的形式】是【最简单的形式】 】**
+- // -- liquid
+- // -- fluid
+- -
+- `in the form of. 以...样的形式`
+- **【 The 【 bonus 】 was given 【 in the form of 】 【 cash 】. 奖金以现金的形式发放 】**
+- **【 She 【 received 】 a 【 bonus 】 【 as 】 a 【 reward 】 for her hard work. 她因为努力工作而获得了【奖金】【 作为 】【奖励】 】**
+- **【 The 【 second prize 】 is a 【 silver medal 】. 二等奖是一枚银牌 】**
+- -
+- // -- stable 稳定的
+- // -- unstable 不稳定的
+- // -
+- // -- 【 bonus 奖金 】
+- // -- 【 reward 奖励 】
+- // -- cash 现金
+- // -- prize 奖品
+- // -- medal 奖牌
+- // -- salary 工资
+- // -- performance 表演 绩效 性能
+- // -
+- // -- first prize. 一等奖
+- // -- second price. 二等奖
+- // -
+- // -- gold medal. 金牌
+- // -- silver medal. 银牌
+- // -- bronze medal. 铜牌
+-
+-
+-
+- `specific 具体的 特定的`
+- 【 specific indicator. 具体指标 】
+- 【 specific symptom. 具体症状 】
+- 【 specific place. 特定地点/具体地点 】
+- // EE: specific: 【 relating to 】 one thing and not others; particular
+- **【 There are several 【 specific indicators 】 of success. 成功有几个【 具体的指标 】 】**
+-
+-
+-
+- `appreciate 欣赏 感激`
+- **【 Appreciate your 【 encouragement 】. 】**
+- **【 Appreciate your 【 invitation 】. 】**
+- **【 Appreciate your 【 suggestion 】. 】** // TIPS: Pay attention to the pronunciation of "suggestion"
+- **【 Appreciate your 【 cooperation 】. 】**
+- **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
+- **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**
+- **【 I 【 appreciate 】 your service to help me to 【 keep healthy 】. 我感谢你的服务，帮助我保持健康 】** // keep health.
+- You are welcome, It's my pleasure. 别客气，这是我的荣幸
+- I really appreciate it. 我真的很感激
+- 【 Thank you so much for learning English with me. 】
+- 【 Thank you for your cooperation. 谢谢您的合作 】
+- 【 Thank you for your encouragement. 】
+- 【 Thank you for calling me 】
+-
+-
+-
+- `stranger 陌生人 n`
+- `acquaintance 熟人 n`
+- 【 old acquaintance. 旧相识 】
+- **【 We went from 【 acquaintances 】to 【 strangers 】. 我们从熟人变成了陌生人 】**
+-
+-
+-
+-
+-
+- `How long`
+- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
+- **【 How long have you 【 known 】 each other? 你们互相认识多久了？ 】**
+- **【 How long have you 【 had 】 this car? 你拥有这辆车多久了？ 】**
+- **【 How long have you 【 had 】 these symptoms? 你出现这些症状多久了 】**
+- -
+- **【 How long have you been learning English? 】**
+- // I have been learning English for five years.
+- -
+- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
+- // I have lived here for five years.
+- -
+- **【 How man years have you been married? 你结婚几年了？】**
+- // I have been married for a few years.
+- // I have been married for quite a long time.
+- -
+- **【 Are you married? 你结婚了吗？】** // -------- married 在这里是 adjective
+- **【 Have you been married? 你结婚了吗 】** // --- married 在这里是 verb
+- **【 How man years have you been married? 你结婚几年了？】**
+- -
+- **【 How long have you been 【 studying 】 here? 你在这里学习多久了？ 】**
+- **【 How long have you been 【 working 】 here? 你在这里工作多久了？ 】**
+- **【 How long have you been 【 learning 】 English? 】**
+- **【 How long have you been 【 waiting 】 for me? 你等我多久了？ 】**
+- How long have you been like this? 这样持续多久了？
+-
+-
+-
+-
+-
+- `civilization 文明`
+- `【 human civilization. 人类文明 】`
+- `【 alien civilization. 外星文明 】`
+- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
+- **【 The technology of 【 alien civilization 】 far 【 exceeds 】 that of 【 human civilization 】. 外星文明的技术远超人类文明 】**
+- // -- city 城市
+- // -- citizen 公民
+- // -- civilization 文明
+- // -- exceed 超过 超越 v
+- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
+- // -- **【 The speed of the car 【 exceeded 】 the 【 speed limit 】. 汽车的速度【超过】了限速 】**
+- // -- **【 She was 【 exceeding 】 the 【 speed limit 】. 她超速驾驶 】**
+- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
+- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
+-
+-
+-
+- `live stream. 直播`
+- `live streamer. 主播`
+- **【 The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on the mobile phone. 主播正在手机上给观众直播 】**
+- // -- I'm watching his 【 live stream 】. 我正在看他的直播
+- // -- audience 听众 观众
+- // -- audiences // EE: Pay attention to the pronunciation of "audiences"
+-
+-
+- `individual 个人 n / 单独的 adj`
+- **【 Pay to individual. 支付给个人 】**
+- What can you do as an individual? 作为个人你能做些什么呢？
+- Each individual flower is tiny. 每一朵花都很小
+-
+-
+-
+-
+- `a bit. 一点儿`
+- `a little bit. 一点儿`
+- **【 The first question is definitely tell me 【 a little bit 】 about yourself. 第一个问题肯定是告诉我一些关于你自己的事情 】**
+- **【 Can you turn the volume up 【 a little bit 】? 你能把音量开大点儿吗 】**
+- **【 The weather is 【 a little bit 】cold today. 】**
+- You can relax 【 a little bit 】. 你可以放松一点
+- -
+- AA: Can you speak English?
+- BB: a little bit.
+- -
+- AA: Do you hungry?
+- BB: a little bit.
+-
+-
+-
+-
+-
+- **【 Battery is like an 【 accumulator 】, storing 【 energy 】 for later use. 电池就像一个蓄能器，储存能量以备后用 】**
+- **【 【 Recursion 】 is a common technique in computer programming to handle complex tasks. 】**
+- -- // energy 精力 能力 能量
+- `accumulate 积累 积攒`
+- `accumulator 累加器 蓄电池`
+- -
+- `argument 参数` // 实参
+- `parameter 参数 ` // 形参 // TIPS: Pay attention to the pronunciation of "parameter".
+- `【 multiple parameters. 多个参数 】`
+- `【 rest parameters. 其余参数 】`
+- accept 接收 接受 ----- 主动的
+- receive 接受 收到 ---- 被动
+- **【 The 【 curring function 】 can 【 receive/accept 】 【 multiple parameters 】. 这个 curring 函数可以接收多个参数 】**
+- **【 This function receives two parameters. 这个函数接收两个参数 】**
+- -
+- `recursive 递归的 adj`
+- `recursion 递归 n`
+- 【 except for. 除了...外 】
+- 【 be assigned to. 被分配给... 】
+- **【 【 Except for 】 the first parameter, the 【 rest parameters 】【 are all assigned to 】 'recursion' function. 】**
+- **【 The 'reduce' function will report an error 【 as 】 'rest' is an empty array. 】**
+-
+-
+-
+-
+-
+- `fluent 流畅的 流利的 adj`
+- `fluently 流畅地 adv`
+- **【 My English is not 【 fluent 】, so I can't speak 【 fluently 】. 我的英语不流利，所以我不能流利地说 】**
+-
+-
+
 ## Ask For Directions 问路 / Give Directions 指路
 
 - ask for directions. 问路
@@ -364,100 +564,6 @@ BB: I need to go straight, turn left at the lights and the bathroom is across th
 我迷路了，我需要一些指引
 我需要一直走，在灯前左转，厕所就在街对面
 ```
-
-## Summarize
-
-- `summarize 总结`
-- // EE: summarize: to express the most important 【 facts 】 or ideas about something or someone in a 【 short and clear form 】.
-- // -- fact 事实
-- // -- short and clear form. 简洁明了的形式
-- // -- form 表格 形式 形态
--
--
-- `form 表单 形态 形式`
-- 【 simplest form. 最简形式 】
-- 【 short and clear form. 简洁明了的形式 】
-- **【 Water has three 【 forms 】: gas, solid and liquid. 】** // 形态
-- **【 In the 【 simplest 】 【 form 】. 用最简单的形式 】** // 形式
-- **【 A 【 short and clear form 】 is the 【 simplest form 】. 【简洁明了的形式】是【最简单的形式】 】**
-- // -- simplest 最简单
-- // -
-- // -- liquid
-- // -- fluid
-- // -
-- // -- short and clear form. 简洁明了的形式
-- // -- simplest form. 最简形式
--
--
-- `specific 具体的 特定的`
-- 【 specific indicator. 具体指标 】
-- 【 specific symptom. 特定症状 】
-- 【 specific place. 特定地点 】
-- // EE: specific: 【 relating to 】 one thing and not others; particular
-- **【 There are several 【 specific 】 【 indicators 】 for success. 成功有几个具体的指标 】**
--
--
--
-- `appreciate 欣赏 感激`
-- **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
-- **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**
-- **【 I 【 appreciate 】 your service to help me to keep healthy. 我感谢你的服务，帮助我保持健康 】**
-- I really appreciate it. 我真的很感激
-- -
-- 【 Thank you for your cooperation. 谢谢您的合作 】
-- 【 Thank you so much for learning English with me. 】
-- 【 Thank you for calling me 】
--
--
--
-- `stranger 陌生人 n`
-- `acquaintance 熟人 n`
-- **【 We went from 【 acquaintances 】to 【 strangers 】. 我们从熟人变成了陌生人 】**
--
--
--
-- `How long`
-- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
-- **【 How long have you 【 known 】 each other? 你们互相认识多久了？ 】**
-- **【 How long have you 【 had 】 this car? 你拥有这辆车多久了？ 】**
-- **【 How long have you 【 had 】 these symptoms? 你出现这些症状多久了 】**
-- -
-- **【 How long have you been learning English? 】**
-- **【 I have been learning English for five years. 】**
-- -
-- **【 How long have you 【 lived 】 here? 你在这附多久了？ 】**
-- **【 I have lived here for five years. 】**
-- -
-- **【 How long have you been studying here? 你在这里学习多久了？ 】**
-- **【 How long have you been working here? 你在这里工作多久了？ 】**
-- **【 How long have you been waiting for me? 你等我多久了？ 】**
-- How long have you been like this? 这样持续多久了？
--
--
--
--
-- `civilization 文明`
-- `【 human civilization. 人类文明 】`
-- `【 alien civilization. 外星文明 】`
-- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
-- **【 The technology of 【 alien civilization 】 far 【 exceeds 】 that of 【 human civilization 】. 外星文明的技术远超人类文明 】**
-- // -- city 城市
-- // -- citizen 公民
-- // -- civilization 文明
-- // -- exceed 超过 超越 v
-- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
-- // -- **【 The speed of the car 【 exceeded 】 the speed limit. 汽车的速度【超过】了限速 】**
-- // -- **【 She was 【 exceeding 】 the speed limit. 她超速驾驶 】**
-- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
-- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
--
--
--
-- `live stream. 直播`
-- `live streamer. 主播`
-- **【 The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on the mobile phone. 主播正在手机上给观众直播 】**
-- // -- I'm watching his 【 live stream 】. 我正在看他的直播
-- // -- audience 听众 观众
 
 ## (一) The knowledge points that must be reviewed yesterday. 昨天必须复习的知识点
 

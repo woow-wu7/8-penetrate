@@ -43,8 +43,8 @@ time 时间 乘以
 
 ##### (二) Quantifier 量词
 
-- `quantity 数量`
 - `quantifier 量词/数量词`
+- `quantity 数量`
 - quality 质量
 
 ```

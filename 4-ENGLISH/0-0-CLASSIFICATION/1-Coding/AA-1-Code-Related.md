@@ -237,6 +237,19 @@
 - // virtue 美德
 - // **【 【 Virtual DOM 】 is 【 essentially 】 an object in javascript. 虚拟 DOM 本质上就是一个 javascript 中的对象 】**
 - // The actual cost was higher than we expected. 实际成本比我们预计的要高
+-
+- 21
+- **【 Battery is like an 【 accumulator 】, storing 【 energy 】 for later use. 电池就像一个蓄能器，储存能量以备后用 】**
+- **【 【 Recursion 】 is a common technique in computer programming to handle complex tasks. 】**
+- -- // energy 精力 能力 能量
+- `accumulate 积累 积攒`
+- `accumulator 累加器 蓄电池`
+- -
+- `parameter 参数 ` // 形参 // TIPS: Pay attention to the pronunciation of "parameter".
+- `argument 参数` // 实参
+- -
+- `recursive 递归的 adj`
+- `recursion 递归 n`
 
 ```
 1
@@ -378,11 +391,12 @@ declare 声明`
 - // **【 Understanding XML 【 data structure 】. 理解 XML 数据结构 】**
 -
 - 5
-- `parameter 参数`
+- `parameter 参数` // TIPS: Pay attention to the pronunciation of "parameter".
 - `argument 参数`
-- `【 actual argument. 实参 】` // --- actual 真实的 实际的 adj
-- `【 formal parameter. 形参 】` // -- formal 形式的 正式的 adj
+- `【 actual argument. 实参 】` // --- actual 真实的 实际的 adj // 一般 argument 表示实参
+- `【 formal parameter. 形参 】` // -- formal 形式的 正式的 adj // 一般 parameter 表示形参
 - **【 What's the difference between the 【 actual arguments 】 and 【 formal parameters? 】 】**
+- **【 The 【 curring function 】 can 【 receive/accept 】 【 multiple parameters 】. 这个 curring 函数可以接收多个参数 】**
 - **【 This function receives two parameters. 这个函数接收两个参数 】**
 - // -- what's the difference between liquid and fluid?
 - // -- What is the difference between a checking account and a savings account?
@@ -688,6 +702,8 @@ compared 比较的 adj
 -
 - 8
 - `except for. 除了`
+- `be assigned to. 被分配给...`
+- **【 【 Except for 】 the first parameter, the 【 rest parameters 】【 are all assigned to 】 'recursion' function. 】**
 - **【 The walls were 【 bare 】【 except for 】 a clock. 墙上除了一只挂钟什么也没有 】**
 - The room was silent 【 except for 】 the TV. 除了电视的声音，那房间里寂静无声
 - // -- bare 裸露的 adj

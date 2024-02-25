@@ -8,7 +8,7 @@
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
 - **【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】**
 - **【 Sleep【 is essential for 】good 【 physical health 】. 睡眠是【身体健康】必不可少的 】**
-- **【 Sleep is 【 an essential part of 】 good physical health. 睡眠是身体健康【必不可少的一部分】】**
+- **【 Sleep is 【 an essential part of 】 good 【 physical health 】. 睡眠是身体健康【必不可少的一部分】】**
 - -
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
 - **【 The technology of 【 alien civilization 】 far 【 exceeds 】 that of 【 human civilization 】. 外星文明的技术远超人类文明 】**
@@ -69,8 +69,8 @@
 - // 3. **【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】**
 - // 4. **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
 - // 5. **【 The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】. 经济正在从衰退中缓慢复苏 】**
-- // -- gradually recover. 逐渐恢复
-- // -- recover your account. 恢复账户
+- // -- 【 gradually recover. 逐渐恢复 】
+- // -- 【 recover your account. 恢复账户 】
 - // -- recover 恢复
 - // -- recession 经济衰退
 - // -- treat 治疗 对待 v
@@ -82,13 +82,13 @@
 - // `gradually 逐渐地 adv`
 - // 【 gradually recover. 逐渐恢复 】
 - // 【 recover your account. 恢复账户 】
-- // **【 after 【 graduation 】, they 【 gradually 】 lost contact. 毕业之后，他们逐渐失去了联系 】**
+- // **【 after 【 graduation 】, they 【 gradually 】 lost 【 contact 】. 毕业之后，他们逐渐失去了联系 】**
 - // **【 After treatment, her 【 mental state 】【 gradually 】 【 recovered 】. 经过治疗，她的精神状态逐渐恢复了 】**
 - // **【 She 【 gradually 】 【 realized 】 that she should 【 study 】 hard. 她【逐渐】【意识到】她应该努力学习了 】**
 - // --【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】
 - // -- swamp 沼泽
 - // -- sink 下沉 -> sank
-- // -- `realize 实现 意识到`
+- // -- `realize 实现 意识到 v`
 - // -
 - // -- `learn: 实际的知识或技能`
 - // -- `study: 深入研究和学术性的学习`
@@ -116,7 +116,7 @@
 - // **【 【 The 【 rare species 】 is 【 protected 】 by law. 该稀有物种受到法律保护 】 】**
 - // -
 - // -- `serious 严重的 严肃的`
-- // -- **【 There was a 【 serious 】 car accident on the road. 路上发生了一起严重的车祸 】**
+- // -- **【 There was a 【 serious 】 car 【 accident 】 on the road. 路上发生了一起严重的车祸 】**
 - // -- This could seriously injure the company's 【 reputation 】. 这可能会严重损害公司的【声誉】
 - // -
 - // `get stuck in. 陷入`

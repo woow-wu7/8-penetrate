@@ -25,7 +25,7 @@
       // 英语
       // curry 柯里化
 
-      const curry = (add, ...params) => {
+      const curry = (fn, ...params) => {
         let allParams = [];
 
         if (params.length) allParams.push(...params);
@@ -37,7 +37,7 @@
         }
 
         // 计算
-        closure.calculate = () => add(...allParams);
+        closure.calculate = () => fn(...allParams);
 
         return closure;
       };

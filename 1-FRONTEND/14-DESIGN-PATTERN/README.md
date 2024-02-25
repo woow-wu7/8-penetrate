@@ -1,35 +1,50 @@
 # Design Pattern 设计模式
 
-- **适配器模式**
+- design 设计 // TIPS: Pay attention to the pronunciation of the 'design'
+- pattern 模式 图案
+-
+- `adapter 适配器`
+- `singleton 单例`
+- `strategy 策略`
+- `factory 工厂`
+- `facade 外观`
+- // facade 外观
+- // decade 十年
+
+- **适配器模式** // - adapter pattern
   - Adapter
   - 接口适配
   - 参数适配
   - 数据适配
-- **单例模式**
+- **单例模式** // --- singleton pattern
   - Singleton
   - 简单单例: ( 闭包 ) -- 注意同时支持单例和多例的场景，比如弹窗是单例，弹窗中还有弹窗就是多例
   - 透明单例
-- **代理模式**
+- **代理模式** // --- proxy pattern
   - Proxy
   - 事件代理
   - 缓存代理: 给 ajax 增加缓存功能
-- **策略模式**
+- **策略模式** // --- strategy pattern
   - Strategy
   - 工资计算，避免多个 if
   - 表单验证
-- **工厂模式**
+- **工厂模式** // --- factory pattern
   - Factory
   - 简单工厂
   - 抽象工厂
   - 工厂方法
-- **混入模式**
+- **混入模式** // --- mixin pattern
   - Mixin
-- **外观模式**
+- **外观模式** // --- facade pattern
   - facade
 
 ### 一些单词
 
 ```
+- design 设计
+- pattern 模式 图案
+TIPS: Pay attention to the pronunciation of the 'design'
+
 singleton 单例模式
 pattern 模式 // design pattern 设计模式
 adapter 适配 // adapter pattern 适配器模式
@@ -37,6 +52,9 @@ strategy 策略 // strategy pattern 策略模式
 facade 外观 // facade pattern 外观模式
 
 bonus 奖金
+reward 报酬 奖励
+prize 奖品 // first prize. // second prize.
+medal 奖牌 // gold medal. // silver medal. // bronze medal.
 salary 工资
 performance 绩效 性能
 
@@ -71,7 +89,7 @@ performance 绩效 性能
 - **依赖倒置原则**
   - 实现类 依赖于 接口或者抽象类
 
-# (一) 适配器模式 Adapter
+# (一) 适配器模式 Adapter ------- 适配参数/适配接口/适配地图/Node 环境
 
 - 概念: 将一个类的接口转化为用户需要的另一个接口
 - 解决: 类或对象之间 接口 不兼容的问题
@@ -377,7 +395,7 @@ console.log('a', a)
 </html>
 ```
 
-# (三) 代理模式 Proxy
+# (三) 代理模式 Proxy ----------- 代理缓存
 
 - 定义: 指给某一个对象提供一个 ( 代理对象 )，并由 ( 代理对象 ) 来控制 ( 原有对象的引用 )
 - 类比: 代理模式 有点类似 中介
@@ -442,7 +460,7 @@ console.log('a', a)
 </html>
 ```
 
-# (四) 策略模式 Strategy ------- 表单验证
+# (四) 策略模式 Strategy ------- 表单验证/绩效发放
 
 - 定义
   - ( 策略模式 ) 的主要目的就是将 ( 算法的使用 ) 和 ( 算法的实现 ) 分离开来
