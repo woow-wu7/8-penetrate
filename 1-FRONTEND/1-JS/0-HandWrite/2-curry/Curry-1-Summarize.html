@@ -7,8 +7,8 @@
   </head>
   <body>
     <script>
-      // accumulate 累积 堆积
       //【 accumulator 累积器 蓄电池 】
+      // accumulate 累积 堆积
       // -
       // argument 参数 - 实参
       //【 parameter 参数 - 形参 】
@@ -30,6 +30,31 @@
       //【 report an error. 报错 】
       // ---- The 'reduce' function will 【 report an error 】 【 as 】 'rest' is an empty array.
       // ---- When 'rest' is an empty array, The 'reduce' function will 【 report an error 】.
+      // -
+
+      // 和 sum
+      // 差 difference
+      // 积 product --------- 产品 乘积
+      // 商 quotient
+
+      //【 The sum of 】 one 【 plus 】 one is two.
+      //【 The difference of 】 nine 【 minus 】 three is six.
+      //【 The product of 】 one 【 times 】 two is two.
+      //【 The quotient of 】 nine 【 divided by  】three is three.
+
+      // ------- **加法 - 【 plus / add 】**
+      // ------- A. One plus one equals two.
+      // ------- B. One add one equals two.
+      // ------- C. One plus one is two.
+      // ------- **减法 - 【 minus / subtracted 】**
+      // ------- A. 9 minus 6 equals 3.
+      // ------- B. 6 【 subtracted from 】 9 is 3.
+      // ------- c. If you subtract 6 from 9, you get 3.
+      // ------- **除法 - 【 divided 】**
+      // ------- A. 10 【 divided by 】 2 equals 5.
+      // ------- **乘法 - 【 times/multiplied 】**
+      // ------- A. one times two equals two.
+      // ------- B. 1 【 multiplied by 】 2 equals two.
 
       const curry = (fn, ...rest) => {
         const totalParameters = [];
@@ -49,13 +74,13 @@
       };
 
       // add
-      // 1. The 'reduce' function will 【 report an error 】 【 as 】 'rest' is an empty array.
+      // 1. The 'reduce' function will 【 report an error 】 【 as 】 'rest' parameter is an empty array.
       // or When 'rest' is an empty array, The 'reduce' function will report an error.
       // But But we don't do optimization here.
-      const add = (...rest) =>
+      const getSum = (...rest) =>
         rest.reduce((accumulator, current) => accumulator + current);
 
-      const fn = curry(add, 1, 2, 3)(4, 5)(6)()(7); // curry函数可以不传第二个，第三个...参数
+      const fn = curry(getSum, 1, 2, 3)(4, 5)(6)()(7); // curry函数可以不传第二个，第三个...参数
       const result = fn.calculate();
       console.log("res: ", result);
     </script>

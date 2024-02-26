@@ -1,5 +1,17 @@
 # Code Related English
 
+##### Expand 扩展 202
+
+- `【 in/for/within a period of time. 在一段时间内 】`
+- `【 fixed frequency. 固定的频率 】`
+- 【 two key concepts. 两个关键概念 】
+- 【 instance object. 实例对象 】
+- 【 principle 原则 原理 】
+- -
+- `【 expand knowledge. 扩展知识 】`
+- // expand 扩展 扩大
+- // spend -> spent 花费
+
 ##### (一)
 
 - 1
@@ -1121,6 +1133,7 @@ https://vuejs.org/guide/introduction.html
 -
 -
 -
+-
 - 5
 - `time 时间 次数 乘以`
 - AA
@@ -1138,10 +1151,10 @@ https://vuejs.org/guide/introduction.html
 - // -- `times` --------------- // one times two equals two.
 - // -- `divided` ------------- // 8 divided by 2 is four.
 - // -- 相等用 is 和 equals 都可以
-- // 和 sum
-- // 差 difference
-- // 积 product
-- // 商 quotient
+- // `和 sum`
+- // `差 difference`
+- // `积 product`
+- // `商 quotient`
 - // ------- **加法 - 【 plus / add 】**
 - // ------- A. One plus one equals two.
 - // ------- B. One add one equals two.
@@ -1154,7 +1167,12 @@ https://vuejs.org/guide/introduction.html
 - // ------- A. 10 【 divided by 】 2 equals 5.
 - // ------- **乘法 - 【 times/multiplied 】**
 - // ------- A. one times two equals two.
-- // ------- B. 1 【 multiplied by 】 2 equals
+- // ------- B. 1 【 multiplied by 】 2 equals two.
+- // **【 和差积商 sum difference product quotient 】**
+- //【 The sum of 】 one 【 plus 】 one is two.
+- //【 The difference of 】 nine 【 minus 】 three is six.
+- //【 The product of 】 one 【 times 】 two is two.
+- //【 The quotient of 】 nine 【 divided by 】three is three.
 - CC
 - **【 I have been to Beijing three timess. 我去过北京三次 】**
 - **【 click once, then click twice. 】**

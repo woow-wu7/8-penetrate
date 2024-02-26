@@ -9,7 +9,18 @@
   <body>
     <script>
       /*
+        1
+        Some words, phrases and sentences
+        -- 【 principle 原则 原理 】
+        -- 【 instance object. 实例对象 】
+        -- 【 expand knowledge. 扩展知识 】
+        -
+        -- // expand 扩展 扩大
+        -- // spend -> spent 花费
+
+        2
         new 命令
+        - Function: Execute Constructor Function and return instance object.
         - 作用: 执行构造函数，返回实例对象
         - 返回值:
           - return 后面跟一个对象，new命令会返回这个对象
@@ -20,35 +31,52 @@
           - 加不加括号都可以
         - 继承:
           - 构造函数: 构造函数中的属性和方法，都是直接生成在实例上的，实例之间不共享，造成资源浪费
-          - 原型链: 实例能继承 constructor.prototype 上的属性和方法，多个实例可以共享，修改则相互影响
+          - 原型链: 实例能继承 constructor.prototype 上的属性和方法，多个实例可以共享，修改(引用类型的数据时)则相互影响
         - arguments
           - es5: 使用 arguments 的好处: 是在参数个数不确定的情况下，获取任意多的参数
           - es6: 在箭头函数中没有 arguments 对象，可以用 rest 参数代替，来获取 所有 或 部分 参数
         - 原理: 手写 new 命令原理
-          1.新建一个空对象
-          2.将空对象的隐式原型指向构造函数的显示原型
-          3.将构造函数中的this绑定到空对象上
-          4.执行构造函数
-          5.判断返回值，如果构造函数return一个对象，就返回构造函数返回的对象；否则返回空对象即this对象
+          1. 新建一个空对象
+          2. 将 空对象的隐式原型 指向 构造函数的显式原型
+          3. 将 构造函数中的 this 绑定到 空对象上
+          4. 执行构造函数
+          5.【 判断返回值 】，如果构造函数return一个对象，就返回构造函数返回的对象；否则返回空对象即this对象 !!!!!!!
       */
 
       /*
-        扩展: 判断数据类型的方法有哪些
+        Expand knowledge
+        判断数据类型的方法有哪些
           - 1. typeof ---------------------------------- (一共8种) number string boolean undefined symbol bigint object function
           - 2. instanceof ------------------------------ 检查 ( 右边构造函数的-原型对象 ) 是否在 ( 左右实例对象 ) 的 ( 原型链 ) 上
-          - 3. Object.prototype.toString.call() -------- 比如 '[object, String]'
+          - 3. Object.prototype.toString.call() -------- 比如  '[object String]'  '[object Array]'
           - 4. 根据对象的 constructor 来判断
+      */
+
+      /*
+        Expand Knowledge
+        Object.create()
+        -- const instance = Object.create(prototypeObject)
+        -- function: Create a new instance object, using the existing object as the prototype of the newly created object.
       */
 
       function Constructor2(name, age) {
         this.name = name;
         this.age = age;
+
+        // return "";
+
+        // return this;
         // return {};
         // return [];
-        return function () {
-          console.log("***");
-        };
-        // 如果这里没有返回值，即下面通过res判断就是undefined，则new返回this对象
+        // return [1, 2, 3];
+
+        // return function () {
+        //   console.log("***");
+        // };
+
+        // 1. 如果构造函数返回的不是一个 ( 对象 )，而是基本类型时，构造函数会返回 这个 ( 空对象，即 this 对象 )
+        // 2. 如果这里 ( 没有返回值 )，即下面通过res判断就是undefined，则new返回 this对象
+        // 3. 如果 return 直接返回了对象，则构造函数会返回这个跟着的 对象
       }
 
       const _new2 = (constructor, ...params) => {

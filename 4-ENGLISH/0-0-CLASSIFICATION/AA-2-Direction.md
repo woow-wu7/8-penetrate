@@ -207,16 +207,18 @@
 -
 - // in the direction of. 朝...方向
 - // Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？
+- // Take the subway line 18 【 in the direction of 】 Disney. 坐地铁 18 号线往迪士尼方向
 -
 -
 - `Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?`
 - 1. `Sorry, I'm new in here. 我是新来的`
 - 2. `Sorry, I'm not from around here. 我不是这附近的人`
 -
-- `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
-- `Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
+- `Take the subway line 18 【 heading towards 】 Disney. 乘坐地铁18号线前往迪士尼`
+- `Take the subway line 18 【 in the direction of 】 Disney. 坐地铁18号线往迪士尼方向`
 - `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+-
 -
 -
 -
@@ -224,22 +226,29 @@
 - AAA.
 - preposition 介词
 -
-- 1. next to.
-- The seat next to him was vacant. 他【 旁边 】的空位空者
-- Can I sit next to you? 我可以坐在你旁边吗？
-- The bank is next to the museum. 银行在博物馆旁边
+-
+- 1. `next to.`
+- **【 The seat 【 next to 】 him was 【 vacant 】. 他【 旁边 】的座位【 空者 】 】** = The seat near him was vacant.
+- **【 Can I sit 【 next to 】 you? 我可以坐在你旁边吗？ 】**
+- The bank is 【 next to 】 the museum. 银行在博物馆旁边
 - // vacant 空闲的 空缺的
-- //【 vacant seat. 空位 】
-- //【 vacant land. 空地 】
+- // `【 vacant seat. 空位 】`
+- // `【 vacant land. 空地 】`
 - // There is 【 a vacant / an empty 】seat in the classroom.
 -
-- 2. around here.
-- Is there a supermarket around here? 这【 附近 】有超市吗？
-- How long have you lived around here? 你在这附近住多久了？
 -
-- 3. go down.
-- You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
-- You can go down this street for seven blocks. 你可以沿着这条街走七个街区
+- 2. `around here.`
+- **【 Is there a supermarket 【 around here 】? 这【 附近 】有超市吗？ 】**
+- **【 How long have you lived 【 around here 】? 你在这附近住多久了？ 】**
+-
+-
+- 3. `go down. 沿着...走`
+- 3. `go along. 沿着...走`
+- 3. `go on. 沿着...走`
+- 3.  go straight down. 沿着...直走
+- 3.  go straight along. 沿着...直走
+- **【 You can 【 go down / go along 】 this street for five minutes. 你可以 【 沿着 】这条街走五分钟 】**
+- **【 You can 【 go down / go along 】 this street for 【 seven blocks 】. 你可以沿着这条街走七个街区 】**
 - go down this street = go this street down.
 - // go down the slope. // slope 斜坡
 - // go up the hill.
@@ -247,65 +256,87 @@
 - // go over the bridge.
 - // go straight on past the post office. 经过邮局后直走
 - // Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道
+- // -- straight 直的 笔直的
 -
-- 4. be familiar with.
-- Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？
-- I'm not familiar with this area. 我不熟悉这个地区
-- Excuse me, are you familiar with the street around here? where is the nearest train station?
 -
-- 5. across the street. 街对面 / cross the street. 过马路/穿过街道
-- 6. across from.
-- across from the bank = across the bank = opposite the bank. 在银行对面
+- 4. `be familiar with.`
+- **【 Are you familiar with the streets around here? 你【 熟悉 】这里的街道吗？ 】**
+- // answer1: 【 I'm not familiar with 】 this area. 我不熟悉这个地区
+- // answer2: I'm new in here.
+- // answer3: I'm not from around here.
+- **【 Excuse me, are you familiar with the street around here? 【 where is the nearest train station? 】 】**
+- **【 Excuse me, are you familiar with the street around here? 【 Do you know where the nearest train station is? 】 】**
+-
+-
+- 5. `across from.`
+- **【 across from the bank = across the bank = opposite the bank. 在银行对面 】**
+- **【【 cross the street 】, The 【 destination 】 is 【 across from 】 the street. 穿过马路，目的地就在马路对面 】**
+- // `【 across from the street. 街对面 】`
+- // `【 cross the street. 过马路/穿过街道 】`
 - // sidewalk = pavement 人行道
 - // crosswalk = zebra crossing 人行横道斑马线
 - // jaywalk 乱穿马路
-- // cross the intersection. 穿过十字路口
-- // intersection vs interaction
+- // -- cross the intersection. 穿过十字路口
+- // -- intersection vs interaction
+- // -- intersection 十字路口
+- // -- interaction 相互作用 相互影响
 -
-- 7. nearest
-- where is the nearest station? 最近的车站在哪里？
+-
+- 7. `nearest`
+- where is the nearest station? 最近的车站在哪里？ = 更礼貌的文法 Do you know where the nearest station is?
+- 更礼貌: Do you know where the nearest station is?
 - The nearest station is 2 minutes away, When you go outside, keep walking for two blocks and The station will be on your left.
-- 7. quickest
+- 7. `quickest`
 - // The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱
 -
-- 8. go past.
-- go past the hospital. 【 经过 】医院
+-
+- 8. `go past.`
+- **【 【 go past 】 the hospital. 【 经过 】医院 】**
 - Get off the bus and go past the station. 下工交车然后走过车站
 - 【 Go straight on past B. 一直往前过 B 】
-- **【 Go straight on past the post office. 经过邮局后直走 】**
+- **【 【 Go straight 】 on past the post office. 经过邮局后直走 】**
 -
-- 9. turn left = go left = make a left = take a left.
+-
+- 9. `turn left = go left = make a left = take a left.`
 - walking -> go left
 - driving -> turn left
 - 走用 go，开车用 turn
+-
 -
 - 10. !
 - make the first left. 在第一个路口左转
 - make the second left. 在第二个路口左转
 - make the first left. = go down this street for one block and make a left.
 -
-- 11. in the direction of.
+-
+- 11. `in the direction of.`
 - in the direction of. 朝...方向
 - **【 Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ 】**
 - Can you point me 【 in the direction of 】the elephants? 你能给我指大象的方向吗？
 - **【 Take the subway line 18 heading towards Disney. 乘坐地铁 18 号线前往迪士尼 】**
 - **【 Take the subway line 18 in the direction of Disney. 坐地铁 18 号线往迪士尼方向 】** // in the direction of. 朝...方向
 -
-- 12. on the corner of.
+-
+- 12. `on the corner of.`
 - on the corner of. 在...的拐角处
-- D is on the corner of first and second street. D 在第一街和第二街的拐角处
+- **【 D is on the corner of first and second street. D 在第一街和第二街的拐角处 】**
 - // kitty corner. 斜对角
+-
 -
 - 13. stay on
 - stay on the road for five minutes. 在路上停留五分钟
+-
 -
 - 14. I'm a bit lost. 我有点迷路了
 - // Excuse me, I'm a bit lost. do you know where the train station is?
 - // 1. Sorry, I'm new in here. 我是新来的
 - // 2. I'm not from around here. 我不是这附近的人
 -
+-
 - 15. go over the bridge. 过桥
 - // **【 Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道 】**
+-
+-
 -
 -
 -

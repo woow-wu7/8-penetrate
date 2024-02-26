@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      Object._create = function (prototypeObj) {
+        function Parasitism() {}
+        Parasitism.prototype = prototypeObj;
+        Parasitism.prototype.constructor = Parasitism;
+
+        return new Parasitism();
+      };
+
+      const obj = {
+        name: 1,
+      };
+
+      const obj1 = Object.create(obj);
+      const obj2 = Object._create(obj);
+      console.log("obj1: ", obj1.name);
+      console.log("obj2: ", obj2.name);
+    </script>
+  </body>
+</html>
