@@ -309,6 +309,9 @@
 - // -- **【 electric eel. 电鳗 】** // electric eel
 - // -- **【 short circuit. 短路 】**
 - // -- The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
+- // `electric circuit. 电路`
+- // `series circuit. 串联电路` // series 系列 串联
+- // `parallel circuit. 串联电路` // parallel 平行 并联
 -
 -
 - `second-hand 旧的 二手的`

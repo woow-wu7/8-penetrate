@@ -8,7 +8,27 @@
   </head>
   <body>
     <script>
-      // selection_sort 选择排序
+      // English
+      // -- bubble 泡 气泡 冒泡
+      // -- raw 生的 未加工的
+      // -- counter 计数器 柜台
+      // -
+      // -- algorithm 算法
+      // -- series 系列 串联 n
+      // -
+      // -- origin 起源 源头 n
+      // -- original 最初的 原始
+      // -
+      // -- pivot 支点
+      // TIPS: Pay attention to the pronunciation of the 'pivot'
+
+      // 1.【 This is a high performance algorithm. 这是一个性能很高的算法 】
+      // 2. Please don't 【 directly 】 operate the 【 original array 】.
+      // 3. Find the position of the minimum value in the array.
+      // 4. The 【 condition 】 for the 【 recursion 】 to end.
+
+      // selection sort
+      // 选择排序
       // O(n²)
 
       // bubble_sort = selection_sort = insert_sort =  O(n²)
@@ -23,11 +43,15 @@
 
       const arr = [1, 6, 4, 2, 5, 3, 9, 8, 7, 7];
 
-      const selectSort = (arr) => {
+      const selectionSort = (raw) => {
+        // Please don't 【 directly 】 operate the 【 original array 】.
+        const arr = [...raw];
         const len = arr.length;
 
         for (let i = 0; i < len; i++) {
+          // Find the position of the minimum value in an array.
           // i 拿出来比较的位置
+          // 这里 min 表示本轮比较的最小值的 位置
           let min = i;
 
           for (let j = i + 1; j < len; j++) {
@@ -38,6 +62,7 @@
             }
           }
 
+          // swap
           // 把当前拿出来比较的元素位置 和 最小值的位置 交换
           // 交换位置对应的值，每趟找到最小元素位置后，都和本趟第一个元素交换位置
           [arr[i], arr[min]] = [arr[min], arr[i]];
@@ -46,7 +71,7 @@
         return arr;
       };
 
-      const res = selectSort(arr);
+      const res = selectionSort(arr);
       console.log("res: ", res);
     </script>
   </body>

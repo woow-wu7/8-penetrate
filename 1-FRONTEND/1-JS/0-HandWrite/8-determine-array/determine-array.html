@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // Six methods to determine whether it is an Array.
+      // TIPS: Pay attention to the pronunciation of the 'obtain'
+      // -- 【 determine 决定 确定 判定 】
+      // -- 【 obtain 获得 】
+
+      // 1. 【 Object.prototype.isPrototypeOf() 】
+      // -- It's used to determine whether this object is the prototype object of the parameter object. 】
+
+      // 2. 【 Object.getPrototypeOf() 】
+      // --  It's used to obtain/get the prototype object of the parameter object.
+
+      const arr = [1, 2];
+      const obj = {};
+
+      // 1
+      // instanceof
+      const isArray1 = arr instanceof Array;
+      console.log("isArray1: ", isArray1);
+
+      // 2
+      // Object.prototype.toString.call()
+      const isArray2 = Object.prototype.toString.call(arr).includes("Array"); // '[object Array]'
+      console.log("isArray2: ", isArray2);
+
+      // 3
+      // Array.isArray
+      const isArray3 = Array.isArray(arr);
+      console.log("isArray3: ", isArray3);
+
+      // 4
+      // constructor
+      const isArray4 = arr.constructor === Array;
+      console.log("isArray4: ", isArray4);
+
+      // 5
+      // Object.getPrototypeOf()
+      // Function: It's used to get/obtain the prototype object of the parameter object.
+      const isArray5 = Object.getPrototypeOf(arr) === Array.prototype;
+      console.log("isArray5: ", isArray5);
+
+      // 6
+      // Object.prototype.isPrototypeOf()
+      // Function: It's used to 【 determine 】 whether this object is the prototype object of the parameter object.
+      // -- ( Array.prototype ) is an object. so it has 'isPrototypeOf' property.
+      // -- property 财产 属性
+      const isArray6 = Array.prototype.isPrototypeOf(arr);
+      console.log("isArray6: ", isArray6);
+    </script>
+  </body>
+</html>

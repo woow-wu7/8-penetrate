@@ -2,15 +2,48 @@
 
 ##### Expand 扩展 202
 
+- `determine 决定 确定 判定`
+- `parameter 参数`
+- **【 It's used to 【 determine 】 【 whether 】 this object is the prototype object of the 【 parameter 】 object. 】**
+- **【 Six methods to 【 determine 】 whether it is an Array. 判断是否是数组的 6 种方法 】**
+- **【 【 Determine 】 whether it is an Array. 】**
+-
+-
 - `【 in/for/within a period of time. 在一段时间内 】`
+- **【 a period of time. 一段时间 】**
+- **【 a period of history. 一段时间 】**
+- **【 a period of growth. 一段增长期 】**
+- **【 in a period of time. 在一段时间内 】**
+- // period 一段时间 时期
+-
+-
+- `series 系列 串联 连续 `
+- `parallel 并联`
+- **【 series circuit. 串联电路 】**
+- **【 parallel circuit. 并联电路 】**
+- **【 a series of test. 一系列测试 】**
+- // blog series. 博客系列
+-
+-
+- `algorithm 算法`
+- **【 This is a high 【 performance 】 【 algorithm 】. 这是一个性能很高的算法 】**
+-
+-
 - `【 fixed frequency. 固定的频率 】`
-- 【 two key concepts. 两个关键概念 】
-- 【 instance object. 实例对象 】
-- 【 principle 原则 原理 】
-- -
+- **【 the throttle function will only be executed once at a 【 fixed frequency 】 【 within/for/in a period of time 】. 】**
+-
+-
 - `【 expand knowledge. 扩展知识 】`
 - // expand 扩展 扩大
 - // spend -> spent 花费
+-
+- `algorithm 算法`
+- `series 系列`
+- `shuffle 洗牌 打乱顺序 v`
+- `raw 未加工的 adj`
+- `bubble 泡 气泡 冒泡`
+- `counter 计数器 柜台`
+- **【 shuffle the array. 打乱数组 】**
 
 ##### (一)
 

@@ -9,7 +9,27 @@
 
   <body>
     <script>
-      // insert_sort 插入排序
+      // English
+      // -- bubble 泡 气泡 冒泡
+      // -- raw 生的 未加工的
+      // -- counter 计数器 柜台
+      // -
+      // -- algorithm 算法
+      // -- series 系列 串联 n
+      // -
+      // -- origin 起源 源头 n
+      // -- original 最初的 原始
+      // -
+      // -- pivot 支点
+      // TIPS: Pay attention to the pronunciation of the 'pivot'
+
+      // 1.【 This is a high performance algorithm. 这是一个性能很高的算法 】
+      // 2. Please don't 【 directly 】 operate the 【 original array 】.
+      // 3. Find the position of the minimum value in the array.
+      // 4. The 【 condition 】 for the 【 recursion 】 to end.
+
+      // insert sort
+      // 插入排序
       // O(n²)
 
       // bubble_sort = selection_sort = insert_sort =  O(n²)
@@ -33,7 +53,9 @@
 
       const arr = [1, 5, 4, 2, 3, 9, 8, 6, 7];
 
-      const insertSort = (arr) => {
+      const insertSort = (raw) => {
+        const arr = [...raw];
+
         for (let i = 1; i < arr.length; i++) {
           // 1
           // i 表示后面的无序数组

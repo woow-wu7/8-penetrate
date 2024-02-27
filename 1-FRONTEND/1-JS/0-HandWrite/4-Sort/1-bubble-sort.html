@@ -8,7 +8,27 @@
   </head>
   <body>
     <script>
-      // 冒泡排序 bubble sort
+      // English
+      // -- bubble 泡 气泡 冒泡
+      // -- raw 生的 未加工的
+      // -- counter 计数器 柜台
+      // -
+      // -- algorithm 算法
+      // -- series 系列 串联 n
+      // -
+      // -- origin 起源 源头 n
+      // -- original 最初的 原始
+      // -
+      // -- pivot 支点
+      // TIPS: Pay attention to the pronunciation of the 'pivot'
+
+      // 1.【 This is a high performance algorithm. 这是一个性能很高的算法 】
+      // 2. Please don't 【 directly 】 operate the 【 original array 】.
+      // 3. Find the position of the minimum value in the array.
+      // 4. The 【 condition 】 for the 【 recursion 】 to end.
+
+      // bubble sort
+      // 冒泡排序
       // O(n²)
 
       // bubble_sort = selection_sort = insert_sort =  O(n²)
@@ -37,20 +57,25 @@
 
       const arr = [1, 5, 4, 2, 3, 9, 8, 6, 7];
 
-      let out_count = 0;
-      let in_count = 0;
+      let outCounter = 0;
+      let inCounter = 0;
 
-      const bubbleSort = (arr) => {
+      const bubbleSort = (raw) => {
+        // Please don't 【 directly 】 operate the 【 original 】 array.
+
+        const arr = [...raw];
+        // const arr = JSON.parse(JSON.stringify(raw));
+
         const len = arr.length;
 
         // ------------------------------------------------------------------- 总趟数 = 数组长度 - 1
         for (let i = 0; i < len - 1; i++) {
-          out_count++;
+          outCounter++;
           let isSortOk = true;
 
           // ----------------------------------------------------------------- 每趟比较的次数 = 总趟数 - 当前趟数
           for (let j = 0; j < len - 1 - i; j++) {
-            in_count++;
+            inCounter++;
 
             if (arr[j] > arr[j + 1]) {
               // 冒泡
@@ -67,8 +92,10 @@
 
       const res = bubbleSort(arr);
       console.log("res: ", res);
-      console.log("out_count", out_count);
-      console.log("in_count", in_count);
+      console.log("arr", arr);
+
+      console.log("outCounter", outCounter);
+      console.log("inCounter", inCounter);
     </script>
   </body>
 </html>
