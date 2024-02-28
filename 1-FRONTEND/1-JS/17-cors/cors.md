@@ -78,7 +78,6 @@ http {
       # proxy_pass 将http://localhost:8080反向代理到http://localhost:3000
       proxy_pass  http://localhost:3000;
       }
-    }
   }
 }
 ```

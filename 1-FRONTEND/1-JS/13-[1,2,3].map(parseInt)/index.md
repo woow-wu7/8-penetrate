@@ -1,19 +1,39 @@
-// [1,2,3].map(parseInt) -------------- 1 NaN NaN
-// [10,10,10,10].map(parseInt) -------- 10 NaN 2 3
+##### (一) Questions
+
+// [1,2,3].map(parseInt) -------------- [1, NaN, NaN]
+// [1,7,11].map(parseInt) -------- [1, NaN, 3]
+// [10,10,10,10].map(parseInt) -------- [10, NaN, 2, 3]
+
+##### (二) analyze 分析
 
 ```
+A.
 [1, 2, 3].map(parseInt)
 相当于
 [1, 2, 3].map(parseInt(value, index))
 相当于
-[1, 2, 3].map((value, index) => parseInt(value, index)
+[1, 2, 3].map((value, index) => parseInt(value, index))
 
 parseInt(1, 0) // 1 分析：radix=0，根据前面的字符串来判断，不是 0 或 0x 开头，都以 10 进制来解析 -- 表示把八进制1转成十进制 => 1
-parseInt(2, 1) // NaN -------------------------------------------------------------------- 第二个参数 radix 在 2-36 之间
-parseInt(3, 2) // NaN，3 不能作为二进制
+parseInt(2, 1) // NaN ------- 第二个参数 radix 在 2-36 之间
+parseInt(3, 2) // NaN ------- 3 不能作为二进制
 // 最终结果 [1, NaN, NaN]
-
 ---
+
+
+B.
+[10,10,10,10].map(parseInt)
+[10,10,10,10].map((value, index) => parseInt(value, index))
+parseInt(10, 0) // 10
+parseInt(10, 1) // NaN
+parseInt(10, 2) // 2
+parseInt(10, 3) // 3
+// 最终结果 [10, NaN, 2, 3]
+```
+
+##### (三) parseInt(string, radix)
+
+```
 
 1
 parseInt(string, radix)
@@ -35,9 +55,28 @@ parseInt(string, radix)
       - 其他类型的字符串 -------------------------- 解析为十进制的整数
 - 返回值
   - 从给定的字符串中解析出的一个十进制整数
-  - 要么是一个十进制整数
-  - 要么是 NaN
+  - 1. 要么是一个十进制整数
+  - 2. 要么是 NaN
+
 - 例子
   - parseInt('0x11') -------------- 17
   - parseInt(010, ) --------------- 8
+
+- Special case.
+  - parseInt(012, 0) ------- 10 // 当第二个参数是 ( 0 || undefined || 不传 ) 时，前面的数字以 0 开头，当8进制来解析成10进制
+  - parseInt('0x11', 0) ---- 17 // 当第二个参数是 ( 0 || undefined || 不传 ) 时, 前面的字符串以 '0x' 开头，当16进制...
+
+- examples
+  - The following examples all return number 15
+  - parseInt("0xF", 16);
+  - parseInt("F", 16);
+  - parseInt("17", 8);
+  - parseInt("015", 10); // but `parseInt('015', 8)` will return 13
+  - parseInt("15,123", 10);
+  - parseInt("FXX123", 16);
+  - parseInt("1111", 2);
+  - parseInt("15 * 3", 10);
+  - parseInt("15e2", 10);
+  - parseInt("15px", 10);
+  - parseInt("12", 13);
 ```

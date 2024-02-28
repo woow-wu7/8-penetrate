@@ -18,7 +18,8 @@
 -
 -
 - `series 系列 串联 连续 `
-- `parallel 并联`
+- `parallel 并联 平行`
+- `【 parallelogram 平行四边形 】`
 - **【 series circuit. 串联电路 】**
 - **【 parallel circuit. 并联电路 】**
 - **【 a series of test. 一系列测试 】**

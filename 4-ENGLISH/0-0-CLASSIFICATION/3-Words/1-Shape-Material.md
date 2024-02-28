@@ -43,6 +43,10 @@ near-synonym 近义词
 -
 - `parallel 平行的 纬线 平行地`
 - `parallelogram 平行四边形`
+- **【 parallelogram 平行四边形 】**
+- **【 series circuit. 串联电路 】**
+- **【 parallel circuit. 并联电路 】**
+- **【 a series of test. 一系列测试 】**
 - **【 Opposite sides of a 【 parallelogram 】 are 【 parallel 】 to each other. 平行四边形对边相互平行 】**
 -
 -
@@ -59,6 +63,10 @@ square 正方形 广场 // sphere 球体
 diamond 菱形 砖石
 trapezoid 梯形
 parallelogram 平行四边形 // parallel 平行的
+// parallel 平行的 并联
+// parallel circuit. 并联电路
+// series circuit. 串联电脑
+// electric circuit. 电路
 -
 triangle 三角形
 equilateral triangle. 等边三角形

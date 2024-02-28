@@ -119,6 +119,13 @@
 - // -- **【 There was a 【 serious 】 car 【 accident 】 on the road. 路上发生了一起严重的车祸 】**
 - // -- This could seriously injure the company's 【 reputation 】. 这可能会严重损害公司的【声誉】
 - // -
+- // -- `【 cast screen. 投射屏幕 】`
+- // -- `monitor 显示器`
+- // -- `cast 投射 投掷`
+- // -- **【 I want to 【 cast the screen 】 of my phone to the TV. 我想把手机屏幕投屏到电视上 】**
+- // -- **【 She 【 cast the screen 】of her phone to the big 【 monitor 】 for everyone to see. 】**
+- // -- **【 She 【 cast her phone screen 】to the big 【 monitor 】 for everyone to see. 】**
+- // -
 - // `get stuck in. 陷入`
 - // 1. **【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】**
 - // 2. **【 I always 【 get stuck in 】 traffic on my way to work. 我上班路上总是遇到交通堵塞 】**
