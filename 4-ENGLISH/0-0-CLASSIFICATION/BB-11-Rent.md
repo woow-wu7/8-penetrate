@@ -142,7 +142,7 @@ I saw your 【 listing for 】 an 【 apartment 】 on Oak Street.
 
 2
 Did you want to 【 schedule 】 a viewing? 你想安排看房吗
-【 schedule 工作计划 日程安排 】
+【 schedule 安排v 预定v 工作计划n 日程安排n 】
 【 behind schedule. 落后于计划 】
 // 1. We're behind schedule.
 // 1. I'm already behind the schedule.

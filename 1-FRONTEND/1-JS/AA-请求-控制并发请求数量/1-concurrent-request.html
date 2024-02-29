@@ -16,9 +16,34 @@
 
       // concurrency 并发
 
+      // schedule 安排 v 预定 v 工作计划 n 日程安排 n
+      // scheduler 调度程序 n
+
+      //【 on schedule. 按计划 按时 】
+      // -- 1. The schedule is tight. 日程安排很紧
+      // -- 2. I have a full schedule. 我的日程很满
+      // -- 3. I'm already behind the schedule. 我已经落后于进度了
+      // -
+      // -- 4.【 make a schedule. 制定一个时间表 】= set up a schedule.
+      // -- 5.【 set up a schedule. 制定一个时间表 】
+      // -- 6.【 make a good work schedule. 做好工作安排 】
+      // -- 7.【 check the schedule. 查看日程 】
+      // -
+      // -- 8.【 What's on your schedule. 你的日程安排是什么 】
+      // -
+      // -- on schedule. 按计划 按时
+      // -- The project is on schedule. 项目按计划进行
+      // -- The train arrived on schedule. 火车按时到达
+      // -
+      // The meeting has been 【 scheduled 】 【 for 】 Monday's afternoon. 会议定于星期一下午举行
+      // -
+      // I need to schedule a meeting with my boss. 我需要安排与我老板的会议
+      // I need to schedule a meeting for my boss. 我需要为我的老板安排一个会议
+
       class TaskScheduler {
         max = 10;
-        taskQueue = []; // 队列，先进先出，push shift
+        taskQueue = [];
+        // Queue -> fist in first out -> push shift
 
         constructor() {
           // 使用 setTimeout 异步是为了保证 ( 同步任务addTask已经执行完毕 )，这里表示 当任务添加完成后自动执行，对应 ( 要求3 )
@@ -68,7 +93,7 @@
       const taskScheduler = new TaskScheduler();
 
       // 1
-      // 创建任务并添加任务
+      // 创建任务 并 添加任务
       // - 一共有20个请求，只能并发10个请求的逻辑在 TaskQueue 中实现
       for (let i = 0; i < 20; i++) {
         const task = createTask(i);

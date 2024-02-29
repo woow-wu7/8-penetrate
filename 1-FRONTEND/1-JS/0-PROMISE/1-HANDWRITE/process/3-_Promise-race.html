@@ -19,8 +19,7 @@
       // 静态方法
       Promise._race = (list) => {
         return new Promise((resolve, reject) => {
-          const arr = Array.from(list);
-          arr.forEach((_promise) => {
+          Array.from(list).forEach((_promise) => {
             Promise.resolve(_promise).then(resolve, reject);
             // resolve 是 value => resolve(value) 的简写形式
           });
@@ -28,7 +27,7 @@
       };
 
       // 测试
-      const p1 = new Promise((resolve) => setTimeout(() => resolve(1), 1000));
+      const p1 = new Promise((resolve) => setTimeout(() => resolve(3), 3000));
       const p2 = new Promise((resolve) => setTimeout(() => resolve(2), 2000));
       const list = [p1, p2];
 

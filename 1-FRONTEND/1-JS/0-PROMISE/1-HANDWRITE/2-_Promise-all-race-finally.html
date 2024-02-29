@@ -24,7 +24,7 @@
       // Promise.all
       // 特点：
       //  1. 返回值: 返回一个新的 promise 对象
-      //  2. 参数: 参数是promise实例的组成的数组，成员不是promise对象会用Promise.resolve()转成promise对象
+      //  2. 参数: 参数是promise实例的组成的数组，成员 不是promise对象 会用 Promise.resolve() 转成 promise对象
       //  3. 所有fulfilled -> 整个fulfilled
       //  4. 一个rejected --> 整个rejected
 
@@ -193,7 +193,10 @@
             p.then(
               // 成功的回调
               (value) => {
-                res.push(value); // 搜集终值
+                // Data collection
+                // 搜集终值
+                res.push(value);
+
                 if (res.length === promiseArr.length) {
                   // 结束条件，终值收集满了，说明所有promise的状态都fulfilled了
                   resolve(res);
