@@ -8,6 +8,16 @@
   </head>
   <body>
     <script>
+      // English
+      // -
+      // succeed 成功 v
+      // success 成功 n
+      // successful 成功 adj
+      // -
+      // fail 失败 v
+      // failure 失败 n
+      // failed 失败 adj
+
       // Promise.retry 实现
 
       // 题目
@@ -43,7 +53,7 @@
               .catch((err) => {
                 if (errCount === times) return reject(err);
                 errCount++;
-                console.log("失败");
+                console.log("failure");
                 retry();
               });
           };
@@ -68,7 +78,7 @@
             } catch (err) {
               // 在 catch 中，说明 fetchFn 执行失败
               errCount++;
-              console.log("失败次数=>", errCount);
+              console.log("failed times =>", errCount);
 
               // 失败到达 times 次后，reject
               if (!times) {
@@ -83,15 +93,17 @@
       const fetch = () => {
         return new Promise((resolve, reject) => {
           setTimeout(() => {
-            return Math.random() - 0.9 > 0 ? resolve("成功") : reject("失败");
+            return Math.random() - 0.9 > 0
+              ? resolve("success")
+              : reject("failure");
           }, 1000);
         });
       };
 
       // test ->  Promise.retry_Promise
       Promise.retry_Promise(fetch, 3)
-        .then((res) => console.log("最终成功:", res))
-        .catch((err) => console.log("最终失败:", err));
+        .then((res) => console.log("Finally succeed:", res))
+        .catch((err) => console.log("Finally fail:", err));
 
       // test ->  Promise.retry_AsyncAwait
       // Promise.retry_AsyncAwait(fetch, 3)
