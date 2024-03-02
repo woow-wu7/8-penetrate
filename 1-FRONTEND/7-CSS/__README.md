@@ -1,4 +1,4 @@
-# CSS
+## CSS
 
 ## 一些单词
 
@@ -19,14 +19,14 @@ aspect 外观
 - absolute 绝对定位，相对于 - 距离最近的具有定位属性的父元素 ---- 脱离正常的文档流，在文档流中的位置不存在
   - 问题: 什么是具有 定位属性 的父元素？
   - 回答: 就是除了 position: static 以外的定位属性都可以
-- **fixed** 基于窗口定位
+- **【 fixed 】** 基于窗口定位
   - **`注意transform的影响，如果祖先元素设置了transform属性(非null属性值)，则fixed定位基于该祖先元素，而不是基于视口定位，即整个窗口定位`**
-- **sticky** 粘性定位
+- **【 sticky 】** 粘性定位
   - 相当于 position:sticky = position:fixed + position:relative
 
 ### (1.1) position: sticky 粘性定位
 
-- 定位的基准点
+- Location reference point. 定位的基准点
   - 相对于 ( 具有滚动条的，距离最近的祖先元素 )
   - 如果不存在这样的祖先元素，则是基于 ( viewport ) 视口进行定位
 - 表现上来看
@@ -55,6 +55,7 @@ aspect 外观
   - 问题: transform 有哪些属性 ?
   - 回答: (rotate 旋转) (translate 移动) (scale 缩放) (skew 倾斜)
   - 扩展: transform: skew; 可以实现平行四边形
+  - 扩展: 可以在 triangle 的基础上实现 sector 和 trapezoid
 - 详见
   - 1.2-transform-fixed.html
 
@@ -65,9 +66,9 @@ aspect 外观
   - visibility:hidden -- 隐藏后，占据原来的位置
 - 共同点:
   - DOM 是否存在: ( display:none ) ( visibility:hidden ) 所在的元素，真实的 DOM 仍然存在，只是页面上不显示而已，只是通过 css 的方式隐藏
-  - DOM 是否存在: ( 伪元素 ) 在 DOM 中不存在，表现上相当于当前元素的第一个子元素
+  - DOM 是否存在: ( 伪元素 ) 在 DOM 中不存在，表现上相当于 ( 当前元素的第一个子元素 )
 - 对比伪元素
-  - 伪元素: 不在 DOM 中，相当于当前元素的第一个子元素。不在 DOM 中，所以可以提升性能。比如实现分割线，图标，父元素高度塌陷等
+  - 伪元素: 不在 DOM 中，相当于当前元素的第一个子元素。- 不在 DOM 中，所以可以提升性能。比如实现分割线，图标，父元素高度塌陷等
 
 ## (三) display: inline-block; 存在间隙的原因?
 
@@ -90,12 +91,28 @@ aspect 外观
 ## (四) 画各种图形
 
 - triangle 三角形
+- right triangle. 直角三角形
+- -
 - rectangle 矩形
 - square 正方形
+- parallelogram 平行四边形 // parallel + o + gram
+- trapezoid 梯形
+- -
+- polygon 多边形
+- pentagon 五边形
+- hexagon 六边形
+- -
 - sector 扇形
 - semicircle 半圆
-- parallelogram 平行四边形
+- oval 椭圆
 - arrow 箭头
+- -
+- -
+- sphere 球
+- cube 立方体
+- cuboid 长方体
+- cylinder 圆柱
+- cone 圆锥
 
 ### (4.1) css 画三角形 -- triangle
 
@@ -352,7 +369,7 @@ HTML/CSS 画环形进度条
 
 ## (五) 盒模型
 
-- 标准盒模型 IE 盒模型
+- 标准盒模型 和 IE 盒模型
 - 标准盒模型
   - box-sizing: content-box;
   - width 和 height 只包含 ( content )
@@ -366,8 +383,8 @@ HTML/CSS 画环形进度条
   - 问题: 当用 border-radius 将盒子设置成圆后，内容会超出圆形吗？
   - 回答: 会，因为 border-radius 只会改变视觉效果，盒子占据的实际空间不会变
 - 扩展
-  - 问题: **如果一个 box 设置了 border-radius: 100%; 成为一个圆后，设置 box-shadow 是圆形的还是矩形的？**
-  - 回答:是圆形的
+  - 问题: **如果一个正方形 box 设置了 border-radius: 100%; 成为一个圆后，设置 box-shadow 是圆形的还是矩形的？**
+  - 回答: 是圆形的
   - 注意: box-shadow 和 filter: drop-shadow 的区别
   - 详见: 19-filter:drop-shadow().html
 - 扩展
@@ -1253,7 +1270,7 @@ var(变量名, 默认值)
 - 第二个参数: 表示如果变量名不存在，就使用默认值
 ```
 
-# (三十六) ios Safari 浏览器 100vh 遇到的问题
+## (三十六) ios Safari 浏览器 100vh 遇到的问题
 
 - 问题描述: 当整个页面的根元素设置了 height: 100vh 后，底部的内容被底部工具栏所遮挡
 - 原因: 因为 ios safari 浏览器的 100vh 是包含 ( 可视区域 + 地址栏 + 底部工具栏 ) 的，所以 100vh 容器的底部才会被底部的工具栏所遮挡
@@ -1655,4 +1672,29 @@ all: unset;
 ---
 
 详见: 本项目/1-FRONTEND/7-CSS/42-all:unset.html
+```
+
+## (五十一) 实现容器中两个元素在 右上角 和 右下角
+
+```
+ .container {
+  /* 右上角 和 右下角 */
+  /* top-right-corner  bottom-right-corner */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+
+  height: 500px;
+  width: 600px;
+  border: 1px solid black;
+}
+
+.right-top,
+.right-bottom {
+  width: 300px;
+  height: 200px;
+  background: red;
+}
 ```

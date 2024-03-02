@@ -12,7 +12,7 @@
         border: 1px solid red;
 
         transform: scale(1);
-        /* 这里 super1 设置了 transform 属性并且非null，则 position: fixed; 就基于了 super1 来定位，而不是视口 */
+        /* 这里 super1 设置了 transform 属性并且 非null，则 position: fixed; 就基于了 super1 来定位，而不是视口 */
 
         /* 注意: 如果祖先 super1 和 super2 都设置了 transform 属性时，fixed 定位是-就近原则，基于最近的祖先元素 */
         /* 注意: 如果祖先 super1 和 super2 都 没设置 transform 属性时，fixed 定位就基于窗口定位 */
@@ -58,6 +58,7 @@
     //   - 问题: transform 有哪些属性 ?
     //   - 回答: (rotate 旋转) (translate 移动) (scale 缩放) (skew 倾斜)
     //   - 扩展: transform: skew; 可以实现平行四边形
+    //   - 扩展: 可以在 triangle 的基础上实现 sector 和 trapezoid
     // - 详见
     //   - 1.2-transform-fixed.html
   </script>

@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Center</title>
     <style>
+      /* centered horizontally and vertically */
+
       /* 1 */
       /* 水平垂直居中 - 绝对定位 */
+
       .container1 {
         position: relative;
         width: 500px;
@@ -26,15 +29,15 @@
         /* b */
         /* 知道自身大小时 */
         /* 可以用 margin: -自身高度的负一半, -自身宽度的负一半 */
-        margin: -50px -100px;
+        /* margin: -50px -100px; */
 
-        background: yellow;
         width: 200px;
         height: 100px;
+        background: yellow;
       }
 
       /* 2 */
-      /* 水平垂直居中 - grid布局111111111111111111111111111 */
+      /* 水平垂直居中 - grid布局 111111111111111111111111111 - 1.项目上设置 */
       .container2 {
         width: 500px;
         height: 500px;
@@ -48,13 +51,13 @@
         justify-self: center;
         align-self: center;
 
-        background: yellow;
         width: 200px;
         height: 100px;
+        background: yellow;
       }
 
       /* 2 */
-      /* 水平垂直居中 - grid布局2222222222222222222222222222 */
+      /* 水平垂直居中 - grid布局 2222222222222222222222222222 - 2.容器上设置 */
       .container22 {
         width: 500px;
         height: 500px;
