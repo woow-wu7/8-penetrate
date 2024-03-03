@@ -17,6 +17,17 @@
 - // `inhibit 抑制`:【 High temperatures 【 inhibit 】 bacterial/bacteria growth. 高温抑制细菌生长 】
 - // `prohibit 禁止`: 【 prohibit 】 【 insulting 】 others. 禁止侮辱他人
 -
+- 2024-03-03
+- `evolution 进化 演变 n`
+- `revolution 革命 n`
+- `constant 常数n 不变的adj`
+- `constantly 不断地 adv`
+- evolve 进化 v
+- evolution 进化 n
+- **【 viruses are 【 constantly 】 【 evolving 】. 病毒在不断进化 】**
+- **【 【 A revolution in science and technology has changed the way that we communicate. 科技革命已经改变了我们的通信方式 】】**
+-
+-
 -
 - `medicine 医疗的 内科 --------- medical department. 内科`
 - `surgery 外科手术 外科 -------- surgical department. 外科 // surgeon 外科医生`

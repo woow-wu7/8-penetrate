@@ -9,8 +9,16 @@
   <body>
     <script>
       // 反转链表
-      // 206. 反转链表
+      // 206. 反转链表 Reverse Linked List.
       // 剑指 Offer II 024. 反转链表
+
+      // Question
+      // Given the head of a 【 singly linked list 】, reverse the list, and return the reversed list.
+
+      // English
+      // -- singly linked list. 单链表
+      // -- doubly linked list. 双向链表
+      // -- circular linked list. 环形链表
 
       /**
        * Definition for singly-linked list.
@@ -79,6 +87,7 @@
         // 这里是多个变量声明的一个技巧，数组解构赋值
 
         // 如果当前节点存在，即不存在时结束遍历，不存在就遍历到了链表结尾
+        // 遍历结束时，cur == null, 所以反转后的链表的头节点应该是 pre
         while (cur) {
           const temp = cur.next; // 用来缓存当前正序的下一个节点，因为之后会去修改cur指向pre，链表就断开了，就不知道下一个节点是指向谁了，所以先缓存起来
 

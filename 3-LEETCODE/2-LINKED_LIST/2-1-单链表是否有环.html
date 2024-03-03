@@ -8,7 +8,13 @@
   </head>
   <body>
     <script>
-      // 141. 环形链表
+      // 141. 环形链表 Linked List Cycle
+
+      // Question
+      // Given head, the head of a linked list, determine if the linked list has a cycle in it.
+      // There is a cycle in a linked list if there is some node in the list that can be reached again by 【 continuously 】 following the next pointer.
+      // Internally, pos is used to 【 denote 】 the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+      // Return true if there is a cycle in the linked list. Otherwise, return false.
 
       // 问题: 如何判断一个链表是 - 环形链表？
       // 方法: 快慢指针
@@ -16,6 +22,20 @@
       //  - 设置两个指针，从链表起始开始走，快指针一次走两步，慢指针一次走一步
       //  - 如果有一个指针走到null，则链表没环 ( 当然是快指针先null，如果没环的话 )
       //  - 如果有环，则快慢指针一定会在环中相遇
+
+      // expand
+      // What situation will never meet?
+      // -- 1. fast3 slow1
+      // -- 2. The circular linked has 6 nodes.
+      // illustration
+      // 1 2 3 4 5 6
+      // 1 S F 4 5 6 ...
+      // 1 2 S 4 5 F
+      // 1 2 F S 5 6
+      // 1 2 3 4 S F
+      // 1 2 F 4 5 S
+      // S 2 3 4 5 F
+      // 1 S F 4 5 6 ...
 
       // 原理解析：
       // 1. 如果单链表没有环，快慢指针是永远不会相遇，并且快指针的最后一个节点指向 null
@@ -65,7 +85,7 @@
         // - [1] --------------- 返回false，此时 fast.next === null
         // - 所以其实子需要  while (fast !== null && fast.next !== null ) 就可以了，因为在下一轮循环时相当于 fast !== null
         // - 我们用了  while (fast !== null && fast.next !== null && fast.next.next !== null) 这样也可以的
-        while (fast !== null && fast.next !== null && fast.next.next !== null) {
+        while (fast !== null && fast.next !== null) {
           fast = fast.next.next; // 快指针移动 2步
           slow = slow.next; // 慢指针移动 1步
 

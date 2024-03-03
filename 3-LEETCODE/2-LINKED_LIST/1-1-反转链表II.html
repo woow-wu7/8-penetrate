@@ -10,6 +10,19 @@
     <script>
       // 92. 反转链表 II
 
+      // Question
+      // Given the head of a 【 singly linked list 】 and two integers left and right where left <= right,
+      // reverse the nodes of the list from position left to position right, and return the reversed list.
+
+      // English
+      // -- singly linked list. 单链表
+      // -- doubly linked list. 双向链表
+      // -- circular linked list. 环形链表
+      // -
+      // -- traverse 遍历 v
+      // -- traversal 遍历 n
+      // -- Determine the starting location of traversal.
+
       /**
        * Definition for singly-linked list.
        * function ListNode(val, next) {
@@ -61,8 +74,10 @@
         let [pre, cur] = [null, head];
 
         // 1
+        // Determine the starting location of traversal.
         // 移动 cur 到 left 位置，即需要反转的位置，并保证 pre 在 cur 的前一个位置
         // 注意下标 left 是从 1 开始，不是 0；所以我们用下标的方式的话，需要 left-1
+        // 题目中 left 和 right 的范围是 1 <= left <= right <= n
         for (let i = 0; i < left - 1; i++) {
           pre = cur;
           cur = cur.next;
@@ -80,10 +95,11 @@
         // 上面的for我们用的是下标，这里我们用自然数，用下标的话是 for(let i = left-1-1; i < right-1; i++)
         // - 下面的代码 就和 ( 反转链表1 ) 一样的代码了
         for (let i = left - 1; i < right; i++) {
-          const temp = cur.next;
-          cur.next = pre;
-          pre = cur;
-          cur = temp;
+          const next = cur.next; // cache next node
+          cur.next = pre; // reverse
+
+          pre = cur; // move
+          cur = next;
         }
 
         // 最后修改 pre 和 cur 的指针，链接整个链表

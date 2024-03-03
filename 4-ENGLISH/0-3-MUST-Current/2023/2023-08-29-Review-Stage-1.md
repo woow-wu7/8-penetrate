@@ -15,7 +15,7 @@ Profession 职业
 - profession 职业 行业 n
 - professor 教授
 - sometime 在某时/从前的
-- heart 心 心脏 // 注意发音
+- heart 心 心脏 // 注意发音 
 - lecture 讲座
 - outnumber 多于 比...多
 // professor:【 The professor is giving a lecture on the anatomy of the heart. 教授正在讲心脏解剖课程 】 // professor 教授
