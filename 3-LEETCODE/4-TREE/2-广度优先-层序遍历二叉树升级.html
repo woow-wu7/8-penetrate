@@ -73,7 +73,7 @@
       // 1
       // while
       var levelOrder = function (root) {
-        if (!root) return []; // 边界，不然会出现 [undefined]，题目中说明 输入：root = [] 输出：[]
+        if (!root) return []; // 边界，不然会出现 [undefined]，同时也保证下面对root对操作不会报错，题目中说明 输入：root = [] 输出：[]
 
         const result = [];
         const queue = [{ ...root, level: 0 }]; // 队列 push shift
