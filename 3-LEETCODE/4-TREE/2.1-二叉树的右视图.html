@@ -8,7 +8,12 @@
   </head>
   <body>
     <script>
+      // Binary tree right side view.
       // 199. 二叉树的右视图
+
+      // Question
+      // Given the root of a binary tree,
+      // imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.
 
       // 题目
       //       给定一个二叉树的 根节点 root，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。
@@ -55,10 +60,6 @@
       // 资料
       // - https://www.cxyxiaowu.com/6920.html
 
-      // 思路
-      // - 1. 层序遍历，收集每层node
-      // - 2. 计算平均值
-
       // 思路1
       // - 1.先层序遍历 BFS，收集结果
       // - 2.然后在 ( 层序遍历结果集 ) 中找到返回每一层的最后一个元素即可
@@ -73,7 +74,10 @@
       // - 纯在 ( 层序遍历 ) 的基础上，加上 选择数组最右边成员 的逻辑
       var rightSideView = function (root) {
         // 分开遍历 树 和 层序遍历结果集
-        // 1 先层序遍历，收集每一层的node，放入 res 中
+
+        // 1
+        // level order traversal.
+        // 先层序遍历，收集每一层的node，放入 res 中
         if (!root) return [];
 
         const res = [];
@@ -95,6 +99,7 @@
           if (target.right) queue.push({ ...target.right, level: level + 1 });
         }
 
+        // assemble
         // 组装
         // return res.map(item => item.pop()) 这两种方法都是可以的 pop 和 at
         return res.map((item) => item.at(-1));

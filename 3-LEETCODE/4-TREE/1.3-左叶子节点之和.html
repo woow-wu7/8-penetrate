@@ -8,7 +8,13 @@
   </head>
   <body>
     <script>
+      // Sum of the left leaves.
       // 404. 左叶子之和
+
+      // English
+      // Given the root of a binary tree, return the sum of all left leaves.
+      // A leaf is a node with no children.
+      // A left leaf is a leaf that is the left child of another node.
 
       // 输入: root = [3,9,20,null,null,15,7]
       // 输出: 24
@@ -35,8 +41,9 @@
 
       // 注意
       // - 是叶子节点，即不能有左右孩子
+      // - 左叶子结点: 即是 叶子节点 并且 是其他节点的 左子节点
 
-      // DFS - 前序遍历
+      // DFS - 前序遍历，并在 父节点做判断
       // 1
       var sumOfLeftLeaves = function (root) {
         let sum = 0; // 收集左叶子节点和

@@ -1091,6 +1091,7 @@ https://vuejs.org/guide/introduction.html
 - // -- TV drama. 电视剧
 - // -- TV play. 电视剧
 - // -- drama 戏 剧 戏剧
+- // -- 【 drama series. 连续剧 】
 - // BB
 - // -- actor actress
 - // -- mister mistress 先生 女士
