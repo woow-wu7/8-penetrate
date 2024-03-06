@@ -27,6 +27,7 @@
 - // -- fluid
 - -
 - `in the form of. 以...样的形式`
+- **【 The 【 second prize 】 is a 【 silver medal 】 and a large 【 cash 】【 bonus 】. 【二等奖】是一枚【银牌】和大量【现金】【奖金】 】**
 - **【 The 【 bonus 】 was given 【 in the form of 】 【 cash 】. 奖金以现金的形式发放 】**
 - **【 She 【 received 】 a 【 bonus 】 【 as 】 a 【 reward 】 for her hard work. 她因为努力工作而获得了【奖金】【 作为 】【奖励】 】**
 - **【 The 【 second prize 】 is a 【 silver medal 】. 二等奖是一枚银牌 】**

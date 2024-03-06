@@ -1,70 +1,160 @@
-# Job Interview
+##### Job Interview
 
-##### Review
+##### Summarize
 
-- 2024-01-22
-- AA.
-- `relevant 相关的`
-- // **【 Do you have any relevant experience in using the React framework? 您是否有使用 react 框架的相关经验？ 】**
-- // **【 Do you have any questions about the position? 你对该职位有任何疑问吗？ 】**
-- BB.
-- `diverse 多样的 不同的`
-- // A 【 diverse 】 team can cooperate with each other and achieve a 【 common 】 goal. 多元化的团队可以相互协作，实现共同目标
--
-- 2024-01-27
 - 1
-- `make sense. 有道理`
+- `relevant 相关的 adj`
+- `relate 涉及 联系 v`
+- `related 有关的 相关的 有联系的 adj`
+- _【 relate to. 涉及 】_
+- _【 be related to. 与...有关 】_
+- -
+- _【 relevant skills. 相关技能 】_
+- _【 relevant experience. 相关经验 】_
+- _【 relevant issues. 相关问题 】_
+- _【 relevant market. 相关市场 】_
+- -
+- _【 relevant skills. 相关技能 】_
+- _【 professional skill. 专业技能 】_
+- _【 professional equipment. 专业设备 】_
+- -
+- _【 related filed. 相关领域 】_ = relevant field. 相关领域
+- _【 relevant filed. 相关领域 】_ = related field. 相关领域
+- late 晚的 迟的 adj / adv
+- relate 联系 涉及 v
+- -
+- **【 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验? 】**
+- **【 Do you have any 【 relevant experience 】 【 in 】 using the React framework? 您是否有使用 react 框架的相关经验？ 】**
+- **【 Do you have any questions about the 【 position 】? 你对该【职位】有任何疑问吗？ 】**
+- // front-end development. 前端开发
+- -
+- **【 His illness 【 is related to 】his 【 unhealthy 】【 lifestyle 】. 他的病与他不健康的【生活方式】【有关】 】**
+- **【 The problem may 【 be related to 】 the 【 software 】 update. 这个问题可能与软件更新有关 】**
+- `【 English vocabulary related to illness. 生病相关的英语词汇 】`
+- `【 Vocabulary related to coding. 与编码有关的词汇 】`
+- // -- software 软件
+- // -- hardware 硬件
+- // -
+- // -- healthy 健康的 adj
+- // -- health 健康 n
+- // -
+- // -- lifestyle 生活方式 n
+-
+-
+-
+-
+-
+- 2
+- `sense 感觉`
+- _【 Sense of ownership. 主人翁意识 】_
+- _【 Sense of responsibility 责任感 】_
+- _【 sense of security 安全感 】_
+- _【 Sense of inspiration 灵感 】_
+- _【 sense of urgency. 紧迫感 】_
+- -
+- _【 sense of smell. 嗅觉 】_
+- _【 common sense. 常识 】_
+- _【 make sense. 有道理 】_
+- -
+- 【 common sense. 常识 】
+- 【 common usage. 常见用法 】
+- 【 common vocabulary. 常用词汇 】
+- 【 common symptoms. 常见症状 】
+- -
+- **【 My 【 strength 】 is that I have【 a sense of ownership 】. 我的【优点】是我有【主人翁意识】 】**
+- // strength 长处 体力
+- // ownership 所有权 n
+- // -
+- // `ownership 所有权 n`
+- // `warship 军舰`
+- // `worship 崇拜`
+- // `internship 实习 实习期`
+- // `scholarship 奖学金`
+- // `friendship 友谊`
+- // `leadership 领导力 领导`
+- -
 - // makes sense. 可以用来直接回答对面的问题。意思为 很有道理
 - // **【 -- What you said makes sense. 你说的很有道理 -- 】** // 因为主语 What you said 是一个从句，谓语动词要用（ 单数 ）形式
 - // **【 -- What he said make sense. 他说的话有道理 】**
 - // **【 What you said just now makes sense. 你刚才说的话很有道理 】**
 -
-- 2
-- `blast 爆炸`
-- // **【 The beginning of the video is a blast. 视频的开头很精彩 】**
+-
+-
+-
 -
 - 3
-- isn't that obvious? 这不是很明显吗
+- `【 retail price. 零售价 】`
+- `【 wholesale price. 批发价 】`
+- `【 discount price. 折扣价 】`
+- // -- wholesale 批发 v n adj
+- // -- retail 零售 v n adj
+- // -
+- // -- tail 尾巴
+- // -- retail 零售 零售的
+- -
+- // -- whole 全部
+- // -- sale 出售
+- // -- wholesale 批发
+- -
+- **【 The 【 wholesale price 】 and the 【 retail price 】 of a product have a big difference. 一件商品的批发价和零售价差别很大 】**
+- **【 The 【 recommended 】 【 retail price 】 is 1000 yuan. 】**
+- It was a 【 significant 】 day because we got married on that day. 那是一个具有重大意义的日子，因为我们在那天结婚
+-
+-
+-
+-
 -
 - 4
-- `【 retail price. 零售价 】`
-- `【 retail management. 零售管理 】`
-- // tail 尾巴
-- // retail 零售 零售的
+- `revenue 收入 收益`
+- `income 收入`
+- `avenue 大街`
+- // revenue = income
+- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的【收入】主要来自【投资】 】**
+-
+-
+-
+-
 -
 - 5
-- `revenue 收入`
-- // My 【 revenue 】 mainly comes from investments. 我的收入主要来自投资
--
-- 6
-- `perspective 角度 观点`
-- **【 Every one has their own 【 perspective 】. 每个人都有自己他的观点 】**
+- `perspective 观点 角度`
+- **【 Every one has their own 【 perspective 】. 每个人都有自己他的【观点】 】**
+- **【 From my 【 perspective 】, this is the best solution. 从我的【角度】看，这是最好的解决方案 】**
+- **【 We need to look at the problem from a different perspective. 我们需要从不同的角度来看待这个问题 】**
 - **【 I'm gonna talk to you from an employer 【 perspective 】 for things. 我将从雇主的角度和你谈谈一些事情 】**
 - // gonna = going to.
+- // wanna = want to.
 - // from another perspective. 从另一个角度
 -
+-
+-
+-
+-
+- 6
+- `teammate 队友` // ------------ team + mate
+- `classmate 同学` // ----------- class + mate
+- `soulmate 知己 灵魂伴侣` // ---- soul + mate
+- `mate 朋友 伙伴 伴侣`
+- **【 She is not only my 【 classmate 】 but also my 【 soulmate 】. 她是我的同学也是我的灵魂伴侣 】**
+-
+-
+-
+-
+-
 - 7
-- `teammate 队友`
-- `classmate 同学`
-- `mate 朋友 伙伴`
-- **【 soul mate. 灵魂伴侣 】**
--
--
--
--
--
--
+- `diverse 多样的 不同的 adj`
+- **【 A 【 diverse 】 team can 【 cooperate 】 with each other and achieve a 【 common 】 goal. 多元化的团队可以相互协作，实现共同目标 】**
 
 ##### Starting
 
+- 1
 - `small talk. 闲聊`
 - `start out. 开始`
 - `handshake 握手`
-- // **【 Most interviews will 【 start out 】 with a handshake and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
+- // **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
 - // **【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】**
 - // 1
 - // `start out. 开始` // ---- `Most interviews will 【 start out 】 with a handshake and some 【 small talk 】`
-- // `fill out. 填写` // ----- `【 fill out 】 a deposit 【 slip 】.`
+- // `fill out. 填写` // ----- `【 fill out 】 a 【 deposit slip 】.`
 - // `roll out. 推出` // ----- `The company plans to 【 roll out 】 a new phone. 该公司计划【 推出 】一款新手机`
 - // fill up.
 - // pull up. // pull over.
@@ -82,20 +172,31 @@
 - // speak up. 大声说
 -
 -
-- `intern 实习生 关押`
+-
+-
+-
+- 2
+- `intern 实习生n 关押v`
 - `internship 实习期 实习`
-- // `scholarship 奖学金`
-- // `leadership 领导力 领导`
-- // `friendship 友谊`
+- -
+- `internship 实习 实习期`
+- `scholarship 奖学金`
+- `friendship 友谊`
+- `leadership 领导力 领导`
+- -
+- `worship 崇拜`
+- `warship 军舰`
+- `ownership 所有权 n`
+- -
 - **【 【 Interns 】 are not 【 paid 】 during their 【 internship 】. 实习生在实习期间没有工资 】**
-- Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习
+- **【 Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习 】**
 - // paid 付费的 有薪金的 付费 v
 - // during 在...期间
 -
 -
 - `-------- -------- -------- -------- -------- -------- --------
 - AAA.
-- `The first question is definitely tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
+- `The first question is 【 definitely 】 tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
 - // definitely 肯定地
 - // definite 确定的 肯定的 清晰的
 - // a little bit. 一点 一点点
