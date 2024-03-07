@@ -2,8 +2,18 @@
 
 - `There are many objects made of different materials that we use every day.`
 -
-- `rare metals. 稀有金属`
+- `rare metals. 稀有金属` // metal medal model module
 - `rare species. 稀有物种`
+- `rare resource. 稀有资源` // source resource
+-
+- `natural resource. 资源资源`
+- `marine resource. 海洋资源`
+- `forest resource. 森林资源`
+-
+- `rear view mirror. 后视镜`
+- `rear view camera. 后视摄像头`
+- `rear camera. 后置摄像头`
+- `front-facing camera. 前置摄像头`
 
 ```
 metal 金属 // medal model module

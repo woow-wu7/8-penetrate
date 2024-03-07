@@ -32,6 +32,11 @@
 -
 - colony 菌落 群体 殖民地
 - // This is a colony of bacteria. 这是一个细菌的菌落
+-
+-
+- `liquid 液体`
+- `fluid 液体`
+- `sap 植物中的液体`
 
 # (一)
 

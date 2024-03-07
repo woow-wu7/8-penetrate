@@ -112,7 +112,8 @@
 - // rear 后面 后面的
 - // rare 稀有的
 - // **【 rare species. 稀有物种 】**
-- // **【 rare metals. 稀有金属 】**
+- // **【 rare metals. 稀有金属 】** // metal medal model module // gold medal.金牌
+- // **【 rare resource. 稀有资源 】** // 1. natural resource. // 2. marine resource.
 - // **【 【 The 【 rare species 】 is 【 protected 】 by law. 该稀有物种受到法律保护 】 】**
 - // -
 - // -- `serious 严重的 严肃的`
@@ -145,6 +146,7 @@
 - // -- 【 electric circuit. 电路 】
 - // -- 【 series circuit. 串联电路 】
 - // -- 【 parallel circuit. 并联电路 】
+- // --_【 negative charge. 负电荷 】_
 - // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
 - // -
 - // -- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**
@@ -162,6 +164,7 @@
 - // -- **【 rated power. 额定功率 】** // watt
 - // -- **【 rated voltage. 额定电压 】** // volt
 - // -- **【 rated current. 额定电流 】** // ampere
+- // -- _【 negative charge. 负电荷 】_
 - // -- **【 The 【 formula 】 for 【 power 】 is 【 current 】 【 multiplied 】 by 【 voltage 】 】**
 - // -- **【 The 【 rated voltage 】in China is 220 【 vote 】 】**
 - // -- consumption: The car has low 【 fuel consumption 】. 这辆车油耗很低
@@ -604,6 +607,7 @@ I'm on the phone. 我在打电话
 - `charge 充电 收费`
 - `recharge 充电`
 - `discharge 放电`
+- _【 negative charge. 负电荷 】_
 - 【 in charge of = responsible for. 负责 】
 - // I'm 【 responsible for 】 developing apps. = I'm 【 in charge of 】 developing apps.
 -
