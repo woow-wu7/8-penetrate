@@ -37,6 +37,8 @@
   - Mixin
 - **外观模式** // --- facade pattern
   - facade
+- **观察者模式** // - observer pattern
+- **发布订阅模式** // publish–subscribe pattern
 
 ### 一些单词
 
@@ -45,17 +47,20 @@
 - pattern 模式 图案
 TIPS: Pay attention to the pronunciation of the 'design'
 
-singleton 单例模式
-pattern 模式 // design pattern 设计模式
-adapter 适配 // adapter pattern 适配器模式
-strategy 策略 // strategy pattern 策略模式
-facade 外观 // facade pattern 外观模式
+pattern 模式 // -------- design pattern 设计模式
+singleton 单例模式 // --- singleton pattern 单例模式
+adapter 适配 // -------- adapter pattern 适配器模式
+strategy 策略 战略 // --- strategy pattern 策略模式
+facade 外观 // --------- facade pattern 外观模式
+observer 观察者 // ----- observer pattern 观察者模式
+subscribe 订阅 // ------ publish-subscribe pattern 发布订阅模式
 
 bonus 奖金
 reward 报酬 奖励
 prize 奖品 // first prize. // second prize.
-medal 奖牌 // gold medal. // silver medal. // bronze medal.
-salary 工资
+medal 奖牌 // gold medal. // silver medal. // bronze medal. // 2. metal medal model module
+salary 工资 -- 长期的
+wage 工资 ---- 短期的
 performance 绩效 性能
 
 加减乘除 add subtract multiply divide

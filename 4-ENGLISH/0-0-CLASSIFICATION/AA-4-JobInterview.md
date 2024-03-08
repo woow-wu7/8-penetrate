@@ -1,5 +1,398 @@
 ##### Job Interview
 
+##### (1) The words that you mast know.
+
+- 1
+- > 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
+- > 【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】
+- > 【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】
+- `small talk. 闲聊`
+- _【 start out. 开始 】_
+- _【 roll out. 推出 】_
+- _【 fill out. 填写 】_
+- **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
+- **【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】**
+- // -- start out. 开始
+- // -- handshake 握手
+-
+- AA.
+- `start out. 开始` // start out. = start with.
+- `roll out. 推出`
+- `fill out. 填写`
+- **【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】**
+- **【 Let's 【 start with 】 introducing ourselves. 】**
+- **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
+- // -- introduce 介绍 v
+- // -- introducing
+- // -
+- // -- ourselves
+-
+- **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
+- **【 We need to 【 roll out 】 our 【 marketing campaign 】【 as soon as possible 】. 我们需要尽快【推出】我们的【营销活动】 】**
+- // marketing campaign. 营销活动
+- // _【 as soon as possible. 尽快 】_
+-
+- **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
+- // deposit slip. 存款单
+-
+- BB.
+- `camp 露营`
+- `campaign 活动` ---- 商业活动
+- -
+- `activity 活动 n`
+- `active 活跃的 积极的 adj`
+- _【 summer camp. 夏令营 】_
+- _【 winter camp. 冬令营 】_
+- _【 marketing campaign. 市场活动 】_
+- **【 This company has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新【推出】了一个【夏令营】【活动】 】**
+- // -- activity 活动 n
+- // -- active 活跃的 积极的 adj
+- // -
+- // -- _【 roll out. 推出 】_
+-
+-
+-
+-
+-
+-
+- 2
+- `interpersonal 人际关系的 adj` ---- inter + personal
+- `interchange 交换 v/n` ----------- inter + change
+- `interpreter 口译员` ------------- inter + preter
+- `interrupt 打断 中断` ------------- inter + rupt
+- -
+- `organize 组织 v`
+- `organization 组织 n`
+- `organizational 组织的 adj` // TIPS: Pay attention to the pronunciation of the 'organization'
+- -
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 organizational skill. 组织能力 】_
+- _【 interchange station. = transfer station. 中转站 】_
+- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】. 我有出色的【人际交往能力】和【组织能力】 】**
+-
+-
+-
+-
+-
+-
+- 3
+- `relevant 相关的 adj`
+- `relate 涉及 联系 v`
+- `related 有关的 相关的 有联系的 adj`
+- _【 relate to. 涉及 】_
+- _【 be related to. 与...有关 】_
+- -
+- _【 relevant filed. 相关领域 = related field. 】_
+- -
+- _【 relevant skills. 相关技能 】_
+- _【 relevant experience. 相关经验 】_
+- _【 relevant issues. 相关问题 】_
+- _【 relevant market. 相关市场 】_
+- -
+- _【 relevant skills. 相关技能 】_
+- _【 professional skill. 专业技能 】_
+- _【 professional equipment. 专业设备 】_
+- -
+- late 晚的 迟的 adj / adv
+- relate 联系 涉及 v
+- -
+- **【 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验? 】**
+- **【 Do you have any 【 relevant experience 】 【 in 】 using the React framework? 您是否有使用 react 框架的相关经验？ 】**
+- **【 Do you have any questions about the 【 position 】? 你对该【职位】有任何疑问吗？ 】**
+- // front-end development. 前端开发
+- -
+- **【 His illness 【 is related to 】his 【 unhealthy 】【 lifestyle 】. 他的病与他不健康的【生活方式】【有关】 】**
+- **【 The problem may 【 be related to 】 the 【 software 】 update. 这个问题可能与软件更新有关 】**
+- `【 English vocabulary related to illness. 生病相关的英语词汇 】`
+- `【 Vocabulary related to coding. 与编码有关的词汇 】`
+- // -- software 软件
+- // -- hardware 硬件
+- // -
+- // -- healthy 健康的 adj
+- // -- health 健康 n
+- // -
+- // -- lifestyle 生活方式 n
+-
+- AA.
+- `profession 职业 行业 n`
+- `professor 教授 讲师 n`
+- `professional 职业的 专业的 adj / 专家 n`
+- occupation 职业 ------- 一般职业
+- profession 职业 ------- 专业性较强的职业，需要经过训练才能完成的职业
+- > // EE: profession: Any type of work that needs 【 special 】 training or a 【 particular 】 skill.
+- > // EE: professional: relating to work that needs special training or education.
+- -
+- _【 associate professor. 副教授 】_
+- _【 associate editor. 副主编 】_
+- _【 sometime professor. 曾经的教授 】_
+- -
+- _【 professional staff. 专业人员 】_ // ------ adj
+- _【 professional skill. 专业技能 】_ // ------ adj
+- _【 professional equipment. 专业设备 】_ // - adj
+- -
+- _【 health professional. 健康专家 】_ // ----- n
+- -
+- _【 professional skill. 专业技能 】_
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 organizational skill. 组织能力 】_
+- -
+- **【 The four people have different 【 professions 】. 这四个人有着不同的【职业】 】**
+- **【 【 Since ancient times 】, teaching has been a 【 noble profession 】. 自古以来，教书就是一份高尚的【职业】 】** // 职业
+- **【 In this 【 profession 】, women 【 outnumber 】 men by two to one. 在这个【行业】，女性人数是男性的两倍 】** // 行业
+- -
+- √ **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 】**
+- X **【 He xxx professor from the associate professor. 他从副教授升级到了教授 】**
+- **【 He was a 【 sometime professor 】 of 【 physics 】 at the university. 他曾是该大学的物理学教授 】**
+- **【 The man standing in front of the whiteboard is a 【 professor 】. 站在白板前面的男人是一位教授 】**
+- -
+- **【 Builder should wear 【 professional equipment 】 to protect themselves. 建筑工人需要穿着专业装备来保护自己 】**
+- **【 She is a 【 professional archer 】 who always shoots with high 【 accuracy 】. 她是一名职业射箭手，总是射得很准 】**
+- **【 Adults take 1 vegetarian 【 capsule 】 daily with water, or as directed by your 【 health professional 】. 】**- -
+- // -- since ancient times. 自古以来
+- // -- outnumber 多于 v
+- // -
+- // -- physics 物理学
+- // -- economics 经济学
+- // -
+- // -- archer 弓箭手
+- // -- accuracy 精确度 准确度 n
+- // -- relate to. 涉及 有关
+- // -- strategy 策略 战略
+- // -- capsule 胶囊
+- // -
+- // purpose 目的 意图
+- // strategy 策略 战略
+-
+- BB.
+- `associate 联系v 副的adj 有关联的adj`
+- _【 associate with. 与...联系 】_
+- _【 associate professor. 副教授 】_
+- _【 associate editor. 副编辑 】_
+- **【 Red roses are always 【 associated with 】 love and romance. 玫瑰常与爱情浪漫相关 】**
+- **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 】**
+-
+-
+-
+-
+-
+-
+- 4
+- `promote 促进 提升`
+- _【 be promoted to. 被晋升为... 】_
+- **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 他从副教授升级到了教授. 】**
+- √ **【 【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
+- X **【 He has been promoted to leader as the excellent performance. 因为优异的表现，他晋升为了领导 】**
+- // due to. = because of. 因为 由于
+- // excellent 优秀的 杰出的
+-
+-
+- 5
+- `definitely 肯定地`
+- _【 a little bit. 一点点 】_
+- **【 The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself. 】**
+- **【 Can you turn the volume up 【 a little bit 】? 你能把音量开大点儿吗 】**
+-
+-
+- 6
+- `be in charge of. 负责` -------- 管理 控制
+- `be responsible for. 负责` ----- 责任 义务
+- **【 I was in charge of developing the app. = I was responsible for developing the app. 我负责开发这个 app 】**
+-
+-
+- 7
+- `full-time job. 全职工作`
+- `part-time job. 兼职工作`
+- `odd job. 零工`
+- **【 【 Odd job 】 is a type of 【 part-time job 】. 【零工】是【兼职工作】的一种 】**
+- // -- a type of + 单数名字/不可数名词.
+
+##### (2) Some questions that must be asked.
+
+```
+1.
+The first question is definitely tell me a little bit about yourself.
+
+2.
+What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的成就是什么？
+// accomplish 完成 v
+// accomplishment 成就 完成 n
+// 【 major accomplishment. 重大成就 】
+
+3.
+What's your biggest weakness?
+What are your strengths and weaknesses?
+// 1
+// I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
+// --【 have a hard time doing sth. 做某事有困难 】
+// 2
+// I'm too much of a 【 perfectionist 】. 我太完美主义了
+// -- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// 3
+//【 I'm very punctual, so I always can meet the project deadlines. 】
+// I'm very 【 punctual 】. 我十分守时
+// -- punctual 准时的
+// 4
+// 【 He likes to 【 brag 】. 他爱吹牛 】
+// -- brag 吹嘘
+// 5
+// 【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】
+
+4.
+Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
+//【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
+// candidate 候选人
+// prime 主要的
+// promotion 晋级
+// -- candidate 候选人
+// -- candy 糖果
+// -- sugar 糖
+
+5.
+How long have you been working here? 你在这里工作多久了？
+How long have you been studying here? 你在这里学习多久了？
+// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
+
+6.
+Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
+Do you have any questions about the position?
+
+7.
+What are the responsibilities in this position? 这个职位的工作职责是什么？
+//【 I was 【 in charge of 】 developing the app. = I was responsible for developing the app. 】
+
+8.
+What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+
+9.
+What's your routine work? 你的日常工作是什么？
+How do you feel about your routine work? 你觉得你的日常工作怎么样？
+```
+
+##### (3) Details
+
+```
+strength 优势 强度
+weakness 劣势 虚弱
+// What are your strengths and weaknesses?
+// What's your biggest weakness?
+-
+full-time job/employment. 全职工作
+part-time job/employment. 兼职工作
+-
+odd job. 零工
+// The life is hard, so you'd better get an odd job. 生活很困难，你最好去找份零时工
+// odd 奇数的
+// even 偶数的 甚至
+// 9 is an odd number, not an even number. 9 是奇数不是偶数
+-
+hire 雇用 录用 v/n
+fire 解雇 火 火灾
+-
+interview 面试
+interviewer 面试官
+interviewee 被面试者
+// employment
+// employer
+// employee
+-
+small talk. 闲聊
+// We use small talk to find common interests. 我们用闲聊来寻找共同的兴趣
+-
+take over. 接管 接收 接手
+-
+leadership 领导力 领导
+-
+anxiety 焦虑
+inbox 收件箱
+a series of test. 一系列测试
+flexibility 灵活性
+supervise 监督 v
+snapshot 简要说明
+------- ------- ------- ------- ------- ------- -------
+
+
+
+11
+AA: Thanks so much for coming in. 非常感谢您的光临
+BB: It's my pleasure, thanks so much for meeting with me. 感谢您与我见面
+AA: Of course. 【 Did you have any trouble finding the office? 你找办公室有困难吗？ 】
+BB: The direction on the website were great.
+AA: Good, 【 Would you like some coffee or water before we begin? 】
+BB: Thank you.
+AA: So, to get started, 【  why don't you tell me a little bit about yourself?  】
+// 当我旅行的时候，你能帮我做什么？
+// when I travel by myself, what things can you help me?
+
+
+22
+AA: [1] Please tell me something about yourself.
+BB: I studied at South-Central Minzu University and graduated in 2013 【 with a bachelor's degree. 】
+BB: I studied at South-Central Minzu University and graduated in 2013 【 with a  degree in bachelor. 】
+BB: I have been working at SHOUQIANBA for 10 years as a front-end engineer.
+AA: [2] Why are you leaving your current job?
+BB: my current company is very large and it is difficult to do different tasks. we have 【 routine work 】that never changes.
+BB: I'm looking for a company where I can 【 contribute more and grow 】.
+AA: Why are you interested in our company?
+BB: I can see that your company has much future 【 growth potential 发展潜力】.
+BB: I also heard your company has 【 a good reward system 】. 良好的奖励制度
+BB: I want to work for a company with opportunities and take more responsibility for my job.
+AA:【 I am with you on that. 我同意你的观点 】
+// potential 潜力n 有潜力的adj
+// reward 奖励n
+// I am with you on that. 我同意你的观点
+
+
+33
+Can you tell me how you heard about this position? 你能告诉我你是怎么听说这个职位的吗？
+What attracted you to our company? 是什么吸引了你来我们公司？
+What would you say is your greatest strength? 你说你最大的优点是什么？
+You're hired! Two words everyone loves to hear. 你被录用了！每个人都喜欢听两个词
+
+
+
+
+------- ------- ------- ------- ------- ------- -------
+anxiety 焦虑 n
+// 【 Anxiety can be caused by lack of sleep. 睡眠不足可能导致焦虑 】
+// her voice was full of anxiety. 她的声音饱含焦虑
+
+stress 压力 n
+He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
+// stress 压力n 强调v 重读v
+// -- stress 压力n: He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
+// -- stress 压力n: Stress is major problem of modern life. 压力是现代生活中的主要问题
+// -- stress 压力n: After working such a whole day, he feels a lot of stress. 这样工作一整天后，他感到压力巨大
+// The stress can be even higher. 压力可能更大
+
+for instance. 例如
+// What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+
+interview 面试
+interviewer 面试官
+interviewee 被面试者
+// employment
+// employer
+// employee
+// If the interviewer asks you how your weekend was? 如果面试官问你周末过得怎么样？
+// How war your weekend?
+
+silly 愚蠢的
+// I regretted doing such a silly thing. 我后悔做了这么愚蠢的
+// It may seem silly. 这可能看起来很傻
+
+supervise 监督 指导
+// How do you supervise this? 你怎样监督呢？
+
+routine work. 日常工作
+// routine work area. 日常工作区
+// What's your routine work? 你的日常工作是什么？
+// How do you feel about your routine work? 你觉得你的日常工作怎么样？
+
+contribute 贡献 捐赠
+immigrate 移民
+// Immigrants have contributed to British culture in many ways. 移民在许多方面都对英国文化有所贡献
+```
+
 ##### Summarize
 
 - 1
@@ -196,7 +589,7 @@
 -
 - `-------- -------- -------- -------- -------- -------- --------
 - AAA.
-- `The first question is 【 definitely 】 tell me a little bit about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
+- `The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself. 第一个问题肯定是告诉我一些关于你自己的事情`
 - // definitely 肯定地
 - // definite 确定的 肯定的 清晰的
 - // a little bit. 一点 一点点
@@ -387,190 +780,3 @@
 -
 - `supervise 监督 指导`
 - // How do you supervise this? 你怎样监督呢？
-
-##### (1) Some questions that must be asked.
-
-```
-1.
-The first question is definitely tell me a little bit about yourself.
-
-2.
-What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的成就是什么？
-// accomplish 完成 v
-// accomplishment 成就 完成 n
-// 【 major accomplishment. 重大成就 】
-
-3.
-What's your biggest weakness?
-What are your strengths and weaknesses?
-// 1
-// I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
-// --【 have a hard time doing sth. 做某事有困难 】
-// 2
-// I'm too much of a 【 perfectionist 】. 我太完美主义了
-// -- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
-// 3
-//【 I'm very punctual, so I always can meet the project deadlines. 】
-// I'm very 【 punctual 】. 我十分守时
-// -- punctual 准时的
-// 4
-// 【 He likes to 【 brag 】. 他爱吹牛 】
-// -- brag 吹嘘
-// 5
-// 【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】
-
-4.
-Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
-//【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
-// candidate 候选人
-// prime 主要的
-// promotion 晋级
-// -- candidate 候选人
-// -- candy 糖果
-// -- sugar 糖
-
-5.
-How long have you been working here? 你在这里工作多久了？
-How long have you been studying here? 你在这里学习多久了？
-// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
-
-6.
-Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
-Do you have any questions about the position?
-
-7.
-What are the responsibilities in this position? 这个职位的工作职责是什么？
-//【 I was 【 in charge of 】 developing the app. = I was responsible for developing the app. 】
-
-8.
-What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
-
-9.
-What's your routine work? 你的日常工作是什么？
-How do you feel about your routine work? 你觉得你的日常工作怎么样？
-```
-
-##### (2) Details
-
-```
-strength 优势 强度
-weakness 劣势 虚弱
-// What are your strengths and weaknesses?
-// What's your biggest weakness?
--
-full-time job/employment. 全职工作
-part-time job/employment. 兼职工作
--
-odd job. 零工
-// The life is hard, so you'd better get an odd job. 生活很困难，你最好去找份零时工
-// odd 奇数的
-// even 偶数的 甚至
-// 9 is an odd number, not an even number. 9 是奇数不是偶数
--
-hire 雇用 录用 v/n
-fire 解雇 火 火灾
--
-interview 面试
-interviewer 面试官
-interviewee 被面试者
-// employment
-// employer
-// employee
--
-small talk. 闲聊
-// We use small talk to find common interests. 我们用闲聊来寻找共同的兴趣
--
-take over. 接管 接收 接手
--
-leadership 领导力 领导
--
-anxiety 焦虑
-inbox 收件箱
-a series of test. 一系列测试
-flexibility 灵活性
-supervise 监督 v
-snapshot 简要说明
-------- ------- ------- ------- ------- ------- -------
-
-
-
-11
-AA: Thanks so much for coming in. 非常感谢您的光临
-BB: It's my pleasure, thanks so much for meeting with me. 感谢您与我见面
-AA: Of course. 【 Did you have any trouble finding the office? 你找办公室有困难吗？ 】
-BB: The direction on the website were great.
-AA: Good, 【 Would you like some coffee or water before we begin? 】
-BB: Thank you.
-AA: So, to get started, 【  why don't you tell me a little bit about yourself?  】
-// 当我旅行的时候，你能帮我做什么？
-// when I travel by myself, what things can you help me?
-
-
-22
-AA: [1] Please tell me something about yourself.
-BB: I studied at South-Central Minzu University and graduated in 2013 【 with a bachelor's degree. 】
-BB: I studied at South-Central Minzu University and graduated in 2013 【 with a  degree in bachelor. 】
-BB: I have been working at SHOUQIANBA for 10 years as a front-end engineer.
-AA: [2] Why are you leaving your current job?
-BB: my current company is very large and it is difficult to do different tasks. we have 【 routine work 】that never changes.
-BB: I'm looking for a company where I can 【 contribute more and grow 】.
-AA: Why are you interested in our company?
-BB: I can see that your company has much future 【 growth potential 发展潜力】.
-BB: I also heard your company has 【 a good reward system 】. 良好的奖励制度
-BB: I want to work for a company with opportunities and take more responsibility for my job.
-AA:【 I am with you on that. 我同意你的观点 】
-// potential 潜力n 有潜力的adj
-// reward 奖励n
-// I am with you on that. 我同意你的观点
-
-
-33
-Can you tell me how you heard about this position? 你能告诉我你是怎么听说这个职位的吗？
-What attracted you to our company? 是什么吸引了你来我们公司？
-What would you say is your greatest strength? 你说你最大的优点是什么？
-You're hired! Two words everyone loves to hear. 你被录用了！每个人都喜欢听两个词
-
-
-
-
-------- ------- ------- ------- ------- ------- -------
-anxiety 焦虑 n
-// 【 Anxiety can be caused by lack of sleep. 睡眠不足可能导致焦虑 】
-// her voice was full of anxiety. 她的声音饱含焦虑
-
-stress 压力 n
-He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
-// stress 压力n 强调v 重读v
-// -- stress 压力n: He is under a lot of stress because he has so much work to do. 有太多的工作等着做，他感到压力巨大
-// -- stress 压力n: Stress is major problem of modern life. 压力是现代生活中的主要问题
-// -- stress 压力n: After working such a whole day, he feels a lot of stress. 这样工作一整天后，他感到压力巨大
-// The stress can be even higher. 压力可能更大
-
-for instance. 例如
-// What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
-
-interview 面试
-interviewer 面试官
-interviewee 被面试者
-// employment
-// employer
-// employee
-// If the interviewer asks you how your weekend was? 如果面试官问你周末过得怎么样？
-// How war your weekend?
-
-silly 愚蠢的
-// I regretted doing such a silly thing. 我后悔做了这么愚蠢的
-// It may seem silly. 这可能看起来很傻
-
-supervise 监督 指导
-// How do you supervise this? 你怎样监督呢？
-
-routine work. 日常工作
-// routine work area. 日常工作区
-// What's your routine work? 你的日常工作是什么？
-// How do you feel about your routine work? 你觉得你的日常工作怎么样？
-
-contribute 贡献 捐赠
-immigrate 移民
-// Immigrants have contributed to British culture in many ways. 移民在许多方面都对英国文化有所贡献
-```
