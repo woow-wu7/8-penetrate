@@ -1366,6 +1366,11 @@ appreciate 欣赏 感激 v
 - 我把换档杆调到驾驶模式，这样当我把腿从刹车踏板上移开时，汽车就开始移动了
 -
 -
+-
+- _【 walking stick. 拐杖 】_
+- _【 stick shift. 换挡杆 】_
+-
+-
 - `trunk 后备箱 树干` // TIPS: Pay attention to pronunciation.
 - `gas tank. 邮箱`
 - `gas cap. 油箱盖` // gas 是 gasoline 的缩写 // take off the gas cap.取下加油盖

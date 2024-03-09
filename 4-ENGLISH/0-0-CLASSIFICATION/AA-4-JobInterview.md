@@ -56,19 +56,25 @@
 -
 -
 - 2
-- `interpersonal 人际关系的 adj` ---- inter + personal
-- `interchange 交换 v/n` ----------- inter + change
-- `interpreter 口译员` ------------- inter + preter
-- `interrupt 打断 中断` ------------- inter + rupt
+- `candidate 候选人 `
 - -
-- `organize 组织 v`
-- `organization 组织 n`
-- `organizational 组织的 adj` // TIPS: Pay attention to the pronunciation of the 'organization'
+- `interviewer 面试官 `
+- `interviewee 被面试的人 `
+- `interview 面试 v `
 - -
-- _【 interpersonal skill. 人际交往能力 】_
-- _【 organizational skill. 组织能力 】_
-- _【 interchange station. = transfer station. 中转站 】_
-- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】. 我有出色的【人际交往能力】和【组织能力】 】**
+- `employer 雇主`
+- `employee 雇员工`
+- `employ 雇用 v`
+- `employment 雇用 n`
+- `unemployment 失业 n`
+- **【 【 employer 】 as a 【 interviewer 】 is 【 interviewing 】 【 candidates 】. 雇主作为面试官，正在面试候选人 】**
+- **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- // -- personnel director. 人事总监
+- // -- sales director. 销售总监
+- -
+- **【 The 【 employer 】【 fired 】 his 【 employees 】, 【 resulting in 】 【 a large number of 】 employees losing their jobs. 】**
+- **【 The 【 employees 】 【 are very anxious about 】 【 unemployment 】. 员工们对失业感到十分焦虑 】**
+- **【 He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作 】**
 -
 -
 -
@@ -134,7 +140,7 @@
 - -
 - _【 professional skill. 专业技能 】_
 - _【 interpersonal skill. 人际交往能力 】_
-- _【 organizational skill. 组织能力 】_
+- _【 organizational skill. 组织能力 】_ // organize organization organizational
 - -
 - **【 The four people have different 【 professions 】. 这四个人有着不同的【职业】 】**
 - **【 【 Since ancient times 】, teaching has been a 【 noble profession 】. 自古以来，教书就是一份高尚的【职业】 】** // 职业
@@ -177,34 +183,85 @@
 -
 -
 - 4
-- `promote 促进 提升`
-- _【 be promoted to. 被晋升为... 】_
-- **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 他从副教授升级到了教授. 】**
-- √ **【 【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
-- X **【 He has been promoted to leader as the excellent performance. 因为优异的表现，他晋升为了领导 】**
-- // due to. = because of. 因为 由于
-- // excellent 优秀的 杰出的
+- `interpersonal 人际关系的 adj` ---- inter + personal
+- `interchange 交换 v/n` ----------- inter + change
+- `interpreter 口译员` ------------- inter + preter
+- `interrupt 打断 中断` ------------- inter + rupt
+- -
+- `organize 组织 v`
+- `organization 组织 n`
+- `organizational 组织的 adj` // TIPS: Pay attention to the pronunciation of the 'organization'
+- -
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 organizational skill. 组织能力 】_
+- _【 interchange station. = transfer station. 中转站 】_
+- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】. 我有出色的【人际交往能力】和【组织能力】 】**
 -
 -
 - 5
+- `promote 促进 提升 晋级 v`
+- `promotion 晋级 n`
+- _【 be promoted to. 被晋升为... 】_
+- **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 他从副教授升级到了教授. 】**
+- **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
+- -
+- √ **【 【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
+- X **【 He has been promoted to leader as the excellent performance. 因为优异的表现，他晋升为了领导 】**
+- // due to. = because of. 因为 由于
+- // -
+- // excellent 优秀的 杰出的 ------ excellent 强度比 outstanding 高
+- // outstanding 杰出的
+-
+-
+- 6
 - `definitely 肯定地`
 - _【 a little bit. 一点点 】_
 - **【 The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself. 】**
 - **【 Can you turn the volume up 【 a little bit 】? 你能把音量开大点儿吗 】**
 -
 -
-- 6
+- 7
 - `be in charge of. 负责` -------- 管理 控制
 - `be responsible for. 负责` ----- 责任 义务
-- **【 I was in charge of developing the app. = I was responsible for developing the app. 我负责开发这个 app 】**
+- **【 I was 【 in charge of 】developing the app. = I was responsible for developing the app. 我负责开发这个 app 】**
 -
 -
-- 7
+- 8
 - `full-time job. 全职工作`
 - `part-time job. 兼职工作`
 - `odd job. 零工`
 - **【 【 Odd job 】 is a type of 【 part-time job 】. 【零工】是【兼职工作】的一种 】**
 - // -- a type of + 单数名字/不可数名词.
+-
+-
+- 9
+- `concise 简洁的 adj`
+- `concisely 简洁地 adv`
+- _【 concise answer. 简洁的答案 】_
+- _【 speak concisely. 说法简洁 】_
+- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
+-
+-
+- 10
+- `personal 个人的 adj` --- person + al
+- `personnel 人事部门 n` -- person + nel
+- _【 sales director. 销售总监 】_
+- _【 personnel director. 人事总监 】_
+- **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- **【 【 employer 】 as a 【 interviewer 】 is 【 interviewing 】 【 candidates 】. 雇主作为面试官，正在面试候选人 】**
+- // -- director 主管 导演 董事
+- // -- “Cut!” the director shouted while shooting a film. 停，导演在拍电影时大叫道
+-
+-
+- 11
+- `proficient 精通的`
+- _【 be proficient in. 精通于... 】_
+- _【 programming language. 程序语言 】_
+- _【 development language. 开发语言 】_
+- **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】**
+- **【 I 【 am proficient in 】 front-end development. 】**
+- **【 She is proficient in multiple languages 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -213,36 +270,56 @@
 The first question is definitely tell me a little bit about yourself.
 
 2.
-What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的成就是什么？
-// accomplish 完成 v
-// accomplishment 成就 完成 n
-// 【 major accomplishment. 重大成就 】
+What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的【成就】是什么？
+The biggest 【 accomplishment 】 in this job is the completion and launch the app. 这份工作我最大的成就是完成了app的开发和上线
+// -- accomplish 完成 v
+// --【 accomplishment 成就 完成 n 】
+// --【 major accomplishment. 重大成就 】
+// -
+// -- complete 完成 v
+// -- accomplish 完成 v
 
 3.
 What's your biggest weakness?
 What are your strengths and weaknesses?
-// 1
+// AA.
 // I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
-// 2
+//
+// BB.
+//【 I have excellent interpersonal skills and organizational skills. 我有出色的【人际交往能力】和【组织能力】 】
+// -- excellent
+// -- outstanding
+// -- interpersonal skill. 人际交往能力
+// -- organizational skill. 组织能力
+//
+// CC.
 // I'm too much of a 【 perfectionist 】. 我太完美主义了
-// -- My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
-// 3
+// -- perfection 完美
+// -- perfectionist 完美主义者
+//
+// DD.
+// My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// -- a sense of ownership. 主人翁意识
+//
+// EE.
 //【 I'm very punctual, so I always can meet the project deadlines. 】
 // I'm very 【 punctual 】. 我十分守时
 // -- punctual 准时的
-// 4
+//
+// FF.
 // 【 He likes to 【 brag 】. 他爱吹牛 】
 // -- brag 吹嘘
-// 5
-// 【 I have excellent interpersonal skills, I'm well organized. 我有出色的人际交往能力，组织能力强 】
 
 4.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 //【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
-// candidate 候选人
-// prime 主要的
-// promotion 晋级
+// -- candidate 候选人
+// -- prime 主要的
+// -
+// -- promotion 晋级 n
+// -- promote 晋级 v
+// -
 // -- candidate 候选人
 // -- candy 糖果
 // -- sugar 糖
@@ -251,14 +328,19 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 How long have you been working here? 你在这里工作多久了？
 How long have you been studying here? 你在这里学习多久了？
 // 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
+// -- How long have you been learning English?
 
 6.
 Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
+Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验?
 Do you have any questions about the position?
 
 7.
 What are the responsibilities in this position? 这个职位的工作职责是什么？
-//【 I was 【 in charge of 】 developing the app. = I was responsible for developing the app. 】
+//【 I was 【 in charge of 】 developing the app. = I 【 was responsible for 】 developing the app. 】
+// -- responsibility 责任 职责 n
+// -- responsible 负责的 adj
+// -- response 响应
 
 8.
 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
@@ -266,6 +348,16 @@ What would you do, 【 for instance 】, if you found a member of staff stealing
 9.
 What's your routine work? 你的日常工作是什么？
 How do you feel about your routine work? 你觉得你的日常工作怎么样？
+// -- routine 日常的 adj / 常规 n
+// -- route 路径 路线
+
+10.
+Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
+Please answer this question 【 concisely 】
+// -- concise 简洁的 adj
+
+11.
+There are three things the candidate dose which you should try to avoid.
 ```
 
 ##### (3) Details
