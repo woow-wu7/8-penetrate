@@ -303,15 +303,23 @@
 - `electrical 电的`
 - 【 electrical power. 电源 】
 - // electrical 电的 adj 也是点的的意思
-- // -- **【 electrician 电工 n 】**
-- // -- **【 electric 电的 adj 】** // electric
-- // -- **【 electric circuit. 电路 】** // electric circuit. 电路 // circuit 电路
-- // -- **【 electric eel. 电鳗 】** // electric eel
-- // -- **【 short circuit. 短路 】**
-- // -- The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路
-- // `electric circuit. 电路`
-- // `series circuit. 串联电路` // series 系列 串联
-- // `parallel circuit. 串联电路` // parallel 平行 并联
+- **【 electrician 电工 n 】**
+- **【 electric 电的 adj 】** // electric
+- **【 electric eel. 电鳗 】** // electric eel
+- -
+- _【 short circuit. 短路 】_
+- -
+- _【 electric circuit. 电路 】_
+- _【 electric kettle. 电水壶 】_
+- _【 electric monitor. 电子监视器/电子显示器 】_
+- _【 electric eel. 电鳗 】_
+-
+- _【 electric circuit. 电路 】_
+- _【 series circuit. 串联电路 】_ // series 系列 串联
+- _【 parallel circuit. 串联电路 】_ // parallel 平行 并联
+- **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
+- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**
+-
 -
 -
 - `second-hand 旧的 二手的`
@@ -1524,6 +1532,12 @@ appreciate 欣赏 感激 v
 - `【 That was awesome. 这太棒了 】`
 - `Thank you so much for learning English with me.`
 - `gauge cluster. 仪表组`
+-
+-
+-
+- _【 apply for a position. 申请职位 】_
+- _【 apply for a loan. 申请贷款 】_
+- _【 apply for a driver license. 申请驾驶执照 】_
 
 ```
 1.【 compact car. 紧凑型汽车 】

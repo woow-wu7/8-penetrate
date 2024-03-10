@@ -143,10 +143,16 @@
 - // -- **【 electrician 电工 n 】** // -------> electrician ---> electric + ian
 - // -- `electric circuit. 电路`
 - // -- `electric kettle 电热水壶`
+- // -- `electric monitor 电子监视器/电子显示器`
+- // -
 - // -- 【 electric circuit. 电路 】
 - // -- 【 series circuit. 串联电路 】
-- // -- 【 parallel circuit. 并联电路 】
+- // -- 【 parallel circuit. 并联电路 】// parallelogram 平行四边形
+- // -
 - // --_【 negative charge. 负电荷 】_
+- // --_【 positive charge. 正电荷 】_
+- // -
+- // -- _【 short circuit. 短路 】_
 - // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
 - // -
 - // -- **【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销**

@@ -103,9 +103,11 @@
 - relate 联系 涉及 v
 - -
 - **【 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验? 】**
-- **【 Do you have any 【 relevant experience 】 【 in 】 using the React framework? 您是否有使用 react 框架的相关经验？ 】**
+- **【 Do you have any 【 relevant experience 】 【 in 】 using the React 【 framework 】? 您是否有使用 react 框架的相关经验？ 】**
 - **【 Do you have any questions about the 【 position 】? 你对该【职位】有任何疑问吗？ 】**
 - // front-end development. 前端开发
+- // frame 框 n
+- // framework 框架
 - -
 - **【 His illness 【 is related to 】his 【 unhealthy 】【 lifestyle 】. 他的病与他不健康的【生活方式】【有关】 】**
 - **【 The problem may 【 be related to 】 the 【 software 】 update. 这个问题可能与软件更新有关 】**
@@ -130,6 +132,7 @@
 - -
 - _【 associate professor. 副教授 】_
 - _【 associate editor. 副主编 】_
+- _【 associate principal. = vice principal. 副校长 】_
 - _【 sometime professor. 曾经的教授 】_
 - -
 - _【 professional staff. 专业人员 】_ // ------ adj
@@ -211,6 +214,8 @@
 - // -
 - // excellent 优秀的 杰出的 ------ excellent 强度比 outstanding 高
 - // outstanding 杰出的
+- // -
+- // prime 主要的
 -
 -
 - 6
@@ -218,12 +223,19 @@
 - _【 a little bit. 一点点 】_
 - **【 The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself. 】**
 - **【 Can you turn the volume up 【 a little bit 】? 你能把音量开大点儿吗 】**
+- // -- turn up. 开大
+- // -- turn down. 关小 拒绝
+- // -- Why did she 【 turn down 】 your invitation?
+- // -- I want to ask for a raise, but I's afraid my boss will 【 turn me down 】.
 -
 -
 - 7
-- `be in charge of. 负责` -------- 管理 控制
 - `be responsible for. 负责` ----- 责任 义务
-- **【 I was 【 in charge of 】developing the app. = I was responsible for developing the app. 我负责开发这个 app 】**
+- `be in charge of. 负责` -------- 管理 控制
+- `responsibility 责任 职责`
+- _【 a sense of responsibility. 责任感 】_
+- **【 What are the 【 responsibilities 】 in this 【 position 】? 这个职位的工作职责是什么？ 】**
+- **【 I was 【 responsible for 】 developing the app. = I was 【 in charge of 】developing the app. 我负责开发这个 app 】**
 -
 -
 - 8
@@ -237,6 +249,7 @@
 - 9
 - `concise 简洁的 adj`
 - `concisely 简洁地 adv`
+- _【 concise language. 简洁的语言 】_
 - _【 concise answer. 简洁的答案 】_
 - _【 speak concisely. 说法简洁 】_
 - **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
@@ -255,43 +268,93 @@
 -
 -
 - 11
-- `proficient 精通的`
+- `proficient 精通的 熟练的`
 - _【 be proficient in. 精通于... 】_
 - _【 programming language. 程序语言 】_
 - _【 development language. 开发语言 】_
 - **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】**
 - **【 I 【 am proficient in 】 front-end development. 】**
-- **【 She is proficient in multiple languages 】**
+- **【 She 【 is proficient in 】 multiple languages 】**
+- -
+- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- // -- programming language. 程序语言
+- // -- development language. 开发语言
+- // -- be proficient in. 精通于...
+- // -- concise language. 简洁的语言
+-
+-
+- 12
+- `accomplish 完成 v`
+- `accomplishment 成就 n`
+- **【 His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市 】**
+-
+-
+- 13
+- `applicant 申请人 n`
+- `apply 申请 v`
+- _【 apply for a position. 申请职位 】_
+- _【 apply for a loan. 申请贷款 】_
+- _【 apply for a driver license. 申请驾驶执照 】_
+- **【 This 【 applicant 】 is 【 applying for a position 】. 这个申请人正在申请职位 】**
+-
+-
+- 14
+- `contract 合同 n`
+- `contact 联系 v`
+- _【 contract deadline. 合同期限 】_
+- **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
+- // -- sign 符号 签名 v
+- // -- signature 签名 n
+- // -- assign 分配
+- // -- assignment 任务 作业
+- // -- resign 辞职
+- // -- quit 辞职
+- // -- quite
+- // -- quiet
+-
+-
+- 15
+- `creativity 创造力`
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 organizational skill. 人际交往能力 】_
+- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】**
 
 ##### (2) Some questions that must be asked.
 
 ```
 1.
-The first question is definitely tell me a little bit about yourself.
+The first question is 【 definitely 】 tell me a little bit about yourself.
 
 2.
-What's the biggest 【 accomplishment 】 from these jobs? 这些工作最大的【成就】是什么？
-The biggest 【 accomplishment 】 in this job is the completion and launch the app. 这份工作我最大的成就是完成了app的开发和上线
-// -- accomplish 完成 v
+What's the biggest 【 accomplishment 】 from this jobs? 这份工作最大的【成就】是什么？
+The biggest 【 accomplishment 】 in this job is completing the development and launch the app. 最大的成就是完成了app的开发和上线
+// --【 accomplish 完成 v 】
 // --【 accomplishment 成就 完成 n 】
 // --【 major accomplishment. 重大成就 】
 // -
 // -- complete 完成 v
 // -- accomplish 完成 v
+// -- His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市
+// -
+// -- big / biggest
 
 3.
 What's your biggest weakness?
+What's your biggest strength?
 What are your strengths and weaknesses?
 // AA.
 // I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 //
 // BB.
-//【 I have excellent interpersonal skills and organizational skills. 我有出色的【人际交往能力】和【组织能力】 】
+//【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】
 // -- excellent
 // -- outstanding
+// -
 // -- interpersonal skill. 人际交往能力
 // -- organizational skill. 组织能力
+// -
+// -- creativity 创造力 n
 //
 // CC.
 // I'm too much of a 【 perfectionist 】. 我太完美主义了
@@ -303,13 +366,14 @@ What are your strengths and weaknesses?
 // -- a sense of ownership. 主人翁意识
 //
 // EE.
-//【 I'm very punctual, so I always can meet the project deadlines. 】
-// I'm very 【 punctual 】. 我十分守时
+//【 I'm very 【 punctual 】, so I always can meet the project deadlines. 】
+// I'm very punctual. 我十分守时
 // -- punctual 准时的
 //
 // FF.
 // 【 He likes to 【 brag 】. 他爱吹牛 】
 // -- brag 吹嘘
+// -- bark 狗叫
 
 4.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
@@ -319,6 +383,8 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // -
 // -- promotion 晋级 n
 // -- promote 晋级 v
+// --【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 】
+// --【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
 // -
 // -- candidate 候选人
 // -- candy 糖果
@@ -331,36 +397,133 @@ How long have you been studying here? 你在这里学习多久了？
 // -- How long have you been learning English?
 
 6.
-Do you have any relevant experience in using React framework? 您是否有使用 react 框架的相关经验？
 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验?
+Do you have any 【 relevant experience 】 in using React framework? 您是否有使用 react 框架的相关经验？
 Do you have any questions about the position?
 
 7.
-What are the responsibilities in this position? 这个职位的工作职责是什么？
-//【 I was 【 in charge of 】 developing the app. = I 【 was responsible for 】 developing the app. 】
-// -- responsibility 责任 职责 n
+What are the 【 responsibilities 】 in this position? 这个职位的工作职责是什么？
+I【 was responsible for 】 developing the app. =  I was 【 in charge of 】 developing the app.
+// -- responsibility 职责 责任 n
 // -- responsible 负责的 adj
 // -- response 响应
+// -- 【 be responsible for. 负责 = in charge of. 】
 
 8.
-What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+What are the 【 office hours 】? 办公时间是几点
+Our office hours are from 9am to 6pm, with an hour off for lunch. Monday to Friday.
+// -- office hours. 办公时间
 
 9.
-What's your routine work? 你的日常工作是什么？
+What are your salary 【 expectations 】? 你的期望工资是多少?
+I'm expecting a salary that is competitive and in line with industry standards. 我希望薪水具有竞争力并且符合行业标准
+I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬。
+// -- expect 期望 预期 v
+// --【 expectation 期望 预期 n 】
+// -
+// -- salary
+// -- wage
+// -- bonus
+// -- reward
+// -- performance
+// -- benefit 福利
+// --【 performance bonus. 绩效奖金 】
+
+10.
+Can you tell me about the 【 benefits 】 you offer?
+// The company's【 benefit 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险
+//【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】
+// -
+// -- benefit 福利
+// -
+// -- performance bonus. 绩效奖金
+// -- medical insurance. 医疗保险
+
+
+11.
+What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
+// -- for instance. 例如
+
+12.
+What's your 【 routine 】 work? 你的日常工作是什么？
 How do you feel about your routine work? 你觉得你的日常工作怎么样？
 // -- routine 日常的 adj / 常规 n
 // -- route 路径 路线
 
-10.
+13.
 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
 Please answer this question 【 concisely 】
 // -- concise 简洁的 adj
+// --【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】
+// -- _【 development language. 开发语言 】_
+// -- _【 programming language. 程序语言 】_
 
-11.
+14.
 There are three things the candidate dose which you should try to avoid.
+
+15.
+I will take your interview. 我会安排你的面试
 ```
 
-##### (3) Details
+##### (3) conversion 1
+
+```
+Interviewing for a Job – Everyday English Dialogues
+--
+personnel director. 人事总监
+be proficient in. 精通于...
+interpersonal skills. 人际交往能力
+responsibility 职责 责任
+benefit 福利
+generous 慷慨的
+applicant 申请人
+resume 简历
+position 职位
+according to. 根据
+make a decision. 作出决定
+【 with an hour off for lunch. 有一个小时的午餐休息时间 】
+【 with + time + for + n. 在某段时间内做某事 】
+thanks for coming in to see us. 欢迎来访
+--
+contact 联系 v
+contract 合同 n
+--
+please have a seat.
+please have your seat.
+
+
+Time	Subtitle	Machine Translation
+2s	Hello, Mrs. Stevens. My name is Jane Phillips. I’m the 【 personnel director 】. 我是人事总监。
+8s	I’m pleased to meet you.	我很高兴见到你。
+10s	【 Please have a seat. 】	请坐。
+12s	Thank you.	谢谢。
+13s	【 According to 】 your 【 resume 】, you have several years of office experience.	根据您的简历，您有 多年的办公室经验。
+18s	Yes. I’ve had over ten years’ experience.	是的。 我已经有十多年的经验了。 跟
+22s	Tell me about your qualifications.	我说一下你的相关资质。
+24s	I can type over 100 words per minute. 【 I’m proficient in 】 many computer programs.	我每分钟可以打100多个字。 我精通许多计算机程序。
+30s	I have excellent 【 interpersonal skills 】, I am well organized, and I’m a very fast learner.	我拥有出色的人际交往能力， 组织能力强，而且学习速度非常快。
+37s	I see that you have excellent references. 【  Do you have any questions about the position? 】	我看到你有很好的参考资料。 您对该职位有任何疑问吗？
+43s	Yes. What are the 【 responsibilities 】 in this 【 position 】?	是的。 这个职位的职责是什么？
+47s	We’re looking for someone to supervise two office clerks, handle all the correspondence,	我们正在寻找某人来监督两名 办公室文员、处理所有信件、
+53s	arrange meetings, and manage the front office. Have you had any supervisory experience?	安排会议并管理前台办公室。 你有过监督经历吗？
+1:00	Yes. I supervised three administrators in my last position.	是的。 我 在上一个职位上监督了三名管理员。
+1:05	【 What are the office hours 】, Mrs. Phillips?	菲利普斯女士，办公时间是几点？
+1:08	8:30 to 4:30, 【 with an hour off for lunch 】.	8:30 至 4:30，午餐休息一小时。
+1:12	【 What are your salary expectations 】, Mrs. Stevens?	史蒂文斯女士，您的薪资期望是多少？
+1:16	I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬。
+1:19	Can you tell me about the 【 benefits 】 you offer?	您能告诉我您提供的福利吗？
+1:22	Yes. We provide full medical and dental coverage, a pension plan, and a three-week holiday per year.是的。 我们提供全面的医疗和牙科保险、 养老金计划以及每年三周的假期。
+1:30	That’s very 【 generous 】.	这是非常慷慨的。
+1:32	When is the position available?	该职位什么时候有空？
+1:34	We’re hoping the successful 【 applicant 】 can start at the beginning of next month.	我们希望成功的申请者可以 在下月初开始工作。
+1:39	We’ll finish our interviews tomorrow and 【 make a decision 】 by the weekend.	我们将于明天完成采访，并在周末做出决定。
+1:43	We’ll contact you next week.	我们将在下周与您联系。
+1:46	Thank you very much. 【 It’s been a pleasure meeting you 】.	非常感谢。 很高兴见到你。
+1:49	I hope to hear from you soon.	我希望尽快获得你的消息。
+1:51	【 Thanks for coming in to see us 】, Mrs. Stevens.	谢谢您来看我们，史蒂文斯夫人。
+```
+
+##### (4) Details
 
 ```
 strength 优势 强度
