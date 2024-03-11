@@ -254,6 +254,9 @@
 - _【 speak concisely. 说法简洁 】_
 - **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
+- // -- concise language. 简洁的语言
+- // -- development language. 开发语言
+- // -- programming language. 程序语言
 -
 -
 - 10
@@ -298,26 +301,66 @@
 - **【 This 【 applicant 】 is 【 applying for a position 】. 这个申请人正在申请职位 】**
 -
 -
+-
+-
+-
+-
 - 14
 - `contract 合同 n`
 - `contact 联系 v`
 - _【 contract deadline. 合同期限 】_
+- _【 sign a contract. 签合同 】_
 - **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
-- // -- sign 符号 签名 v
-- // -- signature 签名 n
-- // -- assign 分配
+-
+- AA.
+- `sign 签名v 标志n`
+- `signature 签名 n`
+- -
+- `assign 分配 v`
+- `assignment 任务 作业`
+- -
+- `resign 辞职` --------- 比较正式
+- `quit 辞职` ----------- 比较口语
+- `quite 相当 adv`
+- `quiet 安静的`
+-
+- _【 be assigned to. 被分配给... 】_
+- _【 digital signature. 数字签名 】_
+- _【 sign a contract. 签合同 】_
+-
+- **【 assign a value to an array. 】**
+- **【 assign an initial value of 1 to your variable. 】**
+- -
+- **【 I will assign some tasks to you. 我将分配一些任务给你 】**
+- **【 I have an assignment for you. 我有一项任务要交给你 】**
+- **【 The teacher assigned each of children a different task. 】**
+- -
+- **【 Except for 】 the first parameter, the 【 rest parameters 】【 are all assigned to 】 'recursion' function. 】**
+- -
+- **【 Each person's signature is unique. 】**
+-
+- **【 These three road 【 signs 】 telling us we have to go another way. 】**
+-
+- **【 After much consideration, the employee 【 resign 】 from his job. 深思熟虑后，这位员工辞职了 】**
+- // -- will = be going to.
+- // -
 - // -- assignment 任务 作业
-- // -- resign 辞职
-- // -- quit 辞职
-- // -- quite
-- // -- quiet
+- // -- homework 作业
+- // -- task 任务
 -
 -
 - 15
 - `creativity 创造力`
 - _【 interpersonal skill. 人际交往能力 】_
-- _【 organizational skill. 人际交往能力 】_
+- _【 organizational skill. 组织能力 】_
 - **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】**
+-
+-
+- 16
+- `qualification 资格 资历`
+- `certification 证明`
+- _【 job qualification. 工作资格 】_
+- _【 teacher certification. 教师资格证 】_
 
 ##### (2) Some questions that must be asked.
 
@@ -402,7 +445,7 @@ Do you have any 【 relevant experience 】 in using React framework? 您是否�
 Do you have any questions about the position?
 
 7.
-What are the 【 responsibilities 】 in this position? 这个职位的工作职责是什么？
+What are the 【 responsibilities 】 in this position? 这个职位的【工作职责】是什么？
 I【 was responsible for 】 developing the app. =  I was 【 in charge of 】 developing the app.
 // -- responsibility 职责 责任 n
 // -- responsible 负责的 adj
@@ -411,7 +454,7 @@ I【 was responsible for 】 developing the app. =  I was 【 in charge of 】 d
 
 8.
 What are the 【 office hours 】? 办公时间是几点
-Our office hours are from 9am to 6pm, with an hour off for lunch. Monday to Friday.
+Our office hours are from 9am to 6pm, 【 with an hour off for lunch 】. Monday to Friday.
 // -- office hours. 办公时间
 
 9.
@@ -430,8 +473,8 @@ I expect to be paid the going rate for this type of position.	我期望得到这
 // --【 performance bonus. 绩效奖金 】
 
 10.
-Can you tell me about the 【 benefits 】 you offer?
-// The company's【 benefit 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险
+Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你【提供】的福利吗?
+// The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险
 //【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】
 // -
 // -- benefit 福利
@@ -439,24 +482,32 @@ Can you tell me about the 【 benefits 】 you offer?
 // -- performance bonus. 绩效奖金
 // -- medical insurance. 医疗保险
 
-
 11.
+Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
+Please answer this question 【 concisely 】
+// -
+// -- concise 简洁的 adj
+// -
+// -- He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript.
+// -- be proficient in. 精通于...
+// -
+// --【 development language. 开发语言 】
+// --【 programming language. 程序语言 】
+// --【 concise language. 简洁的语言 】
+
+
+
+
+
+12.
 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
 // -- for instance. 例如
 
-12.
+13.
 What's your 【 routine 】 work? 你的日常工作是什么？
 How do you feel about your routine work? 你觉得你的日常工作怎么样？
 // -- routine 日常的 adj / 常规 n
 // -- route 路径 路线
-
-13.
-Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
-Please answer this question 【 concisely 】
-// -- concise 简洁的 adj
-// --【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】
-// -- _【 development language. 开发语言 】_
-// -- _【 programming language. 程序语言 】_
 
 14.
 There are three things the candidate dose which you should try to avoid.

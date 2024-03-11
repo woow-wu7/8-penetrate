@@ -7,7 +7,7 @@
 - `【 【 Batteries 】 【 are essential for 】 【 mobile 】 phones. 电池是手机【必不可少的】 】`
 - **【 Food 【 is essential for 】 【 living things 】. 食物对生物来说是必不可少的 】**
 - **【 Food 【 is necessary for 】 【 living things 】. 食物是生物所必须的 】**
-- **【 Sleep【 is essential for 】good 【 physical health 】. 睡眠是【身体健康】必不可少的 】**
+- **【 Sleep 【 is essential for 】good 【 physical health 】. 睡眠是【身体健康】必不可少的 】**
 - **【 Sleep is 【 an essential part of 】 good 【 physical health 】. 睡眠是身体健康【必不可少的一部分】】**
 - -
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
@@ -149,8 +149,13 @@
 - // -- 【 series circuit. 串联电路 】
 - // -- 【 parallel circuit. 并联电路 】// parallelogram 平行四边形
 - // -
-- // --_【 negative charge. 负电荷 】_
-- // --_【 positive charge. 正电荷 】_
+- // -- _【 negative charge. 负电荷 】_
+- // -- _【 positive charge. 正电荷 】_
+- // -
+- // -- _【 positive attitude. 积极的态度 】_
+- // -- _【 positive emotion. 积极的情绪 】_
+- // -- _【 positive image. 积极的形象 】_
+- // -- _【 a positive mindset. 积极的心态 】_
 - // -
 - // -- _【 short circuit. 短路 】_
 - // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
