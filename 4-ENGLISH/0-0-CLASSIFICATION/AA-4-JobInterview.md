@@ -297,8 +297,12 @@
 - `apply 申请 v`
 - _【 apply for a position. 申请职位 】_
 - _【 apply for a loan. 申请贷款 】_
-- _【 apply for a driver license. 申请驾驶执照 】_
+- _【 apply for a 【 driver's license 】. 申请驾驶执照 】_
 - **【 This 【 applicant 】 is 【 applying for a position 】. 这个申请人正在申请职位 】**
+- -
+- AA.
+- _【 driver's license. 驾驶证 】_
+- _【 license plate. 车牌 拍照 】_
 -
 -
 -
@@ -350,17 +354,43 @@
 -
 -
 - 15
-- `creativity 创造力`
+- `creativity 创造力 n`
 - _【 interpersonal skill. 人际交往能力 】_
 - _【 organizational skill. 组织能力 】_
 - **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】**
 -
 -
 - 16
+- `perfect 完美的 adj`
+- `perfection 完美 n`
+- `perfectionist 完美主义者`
+- **【 I'm a perfectionist. 我是一个完美主义者 】**
+- **【 I'm 【 too much of 】 a 【 perfectionist 】. 我太完美主义了 】**
+- // -- too much of. 过多的 过分的
+-
+-
+- 17
 - `qualification 资格 资历`
 - `certification 证明`
 - _【 job qualification. 工作资格 】_
 - _【 teacher certification. 教师资格证 】_
+-
+-
+-
+-
+- 18
+- `supervise 监督 指导`
+- **【 She has to 【 supervise 】 the children while her husband is away. 她丈夫不在时，她必须监督孩子们 】**
+- **【 The teacher will supervise the students 【 during 】 the exam. 老师将在考试期间监督学生 】**
+-
+- AA.
+- `during 在...期间`
+- **【 The 【 snack 】 bar is open 【 during 】 the whole day. 快餐店全天营业 】**
+- **【 During the 【 tour 】, the 【 tourist 】 visited many famous 【 attractions 】. 】**
+- -- generate passwords that are used as a second factor to 【 verify 】 your 【 identity 】 when 【 prompted 】 during sign-in.
+- --【 Her advice was 【 invaluable 】 to me during that difficult time. 在那个困难时期，她的建议对我来说是无价的 】
+- // -- snack 小吃
+- // -- snake 蛇
 
 ##### (2) Some questions that must be asked.
 
@@ -368,31 +398,47 @@
 1.
 The first question is 【 definitely 】 tell me a little bit about yourself.
 
+
 2.
-What's the biggest 【 accomplishment 】 from this jobs? 这份工作最大的【成就】是什么？
+What's your 【 biggest 】 【 accomplishment 】 from this job? 这份工作最大的【成就】是什么？
+What's your 【 greatest 】 【 achievement 】 from the work? 你在工作中最大的成就是什么？
 The biggest 【 accomplishment 】 in this job is completing the development and launch the app. 最大的成就是完成了app的开发和上线
+His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市
+// -
 // --【 accomplish 完成 v 】
 // --【 accomplishment 成就 完成 n 】
+// -
+// --【 personal accomplishment. 个人成就 】
+// --【 great accomplishment. 丰功伟绩 】
 // --【 major accomplishment. 重大成就 】
 // -
 // -- complete 完成 v
 // -- accomplish 完成 v
-// -- His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市
 // -
-// -- big / biggest
+// -- achievement 成就 完成
+// -- accomplishment 成就 完成
+// -
+// -- great 伟大的 著名的
+// -- greatest 最伟大的 // TIPS: Pay attention to the pronunciation of the 'greatest'.
+
 
 3.
 What's your biggest weakness?
 What's your biggest strength?
 What are your strengths and weaknesses?
+// -
+// -- weak 虚弱的 adj
+// -- weakness 弱点 软弱
+// -- weakness / weaknesses
+//
 // AA.
 // I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 //
 // BB.
 //【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】
-// -- excellent
-// -- outstanding
+// -- excellent 杰出的
+// -- outstanding 杰出的
 // -
 // -- interpersonal skill. 人际交往能力
 // -- organizational skill. 组织能力
@@ -400,27 +446,35 @@ What are your strengths and weaknesses?
 // -- creativity 创造力 n
 //
 // CC.
-// I'm too much of a 【 perfectionist 】. 我太完美主义了
-// -- perfection 完美
-// -- perfectionist 完美主义者
+// I'm 【 too much of 】 a 【 perfectionist 】. 我太完美主义了
+// -- perfect 完美的 adj
+// -- perfection 完美 n
+// --【 perfectionist 完美主义者 n 】
+// -
+// --【 too much of. 过多的 过分的 】
 //
 // DD.
 // My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// One of my strength is that I have 【 a sense of ownership 】.
 // -- a sense of ownership. 主人翁意识
 //
 // EE.
-//【 I'm very 【 punctual 】, so I always can meet the project deadlines. 】
-// I'm very punctual. 我十分守时
+//【 I'm very 【 punctual 】, so I always can 【 meet the project deadlines 】. 】
+// -- I'm very punctual. 我十分守时
 // -- punctual 准时的
+// -
+// --【 meet the deadline. 赶上最后期限 】
 //
 // FF.
 // 【 He likes to 【 brag 】. 他爱吹牛 】
-// -- brag 吹嘘
-// -- bark 狗叫
+// -- brag 吹嘘 v
+// -- bark 狗叫v 树皮n
+
 
 4.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 //【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
+// He was promoted from associate professor to professor.
 // -- candidate 候选人
 // -- prime 主要的
 // -
@@ -433,20 +487,32 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // -- candy 糖果
 // -- sugar 糖
 
+
 5.
 How long have you been working here? 你在这里工作多久了？
 How long have you been studying here? 你在这里学习多久了？
-// 【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
-// -- How long have you been learning English?
+How long have you been 【 learning 】 English?
+How long have you been 【 waiting 】 for me? 你等我多久了？
+//【 I have been working at SHOUQIANBA for 10 years as a front-end engineer. 我在 SHOUQIANBA 做了 10 年的前端工程师 】
+// -- 【 How long have you been 【 learning 】 English? 】
+// -- 【 How long have you been 【 waiting 】 for me? 你等我多久了？ 】
+
 
 6.
 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验?
-Do you have any 【 relevant experience 】 in using React framework? 您是否有使用 react 框架的相关经验？
+Do you have any 【 relevant experience 】 in using React 【 framework 】? 您是否有使用 react 框架的相关经验？
 Do you have any questions about the position?
+// -- framework 框架
+// -- frame 框架 构架
+// -
+// -- development language. 开发语言
+// -- programming language. 程序语言
+// -- concise language. 简洁的语言
+
 
 7.
-What are the 【 responsibilities 】 in this position? 这个职位的【工作职责】是什么？
-I【 was responsible for 】 developing the app. =  I was 【 in charge of 】 developing the app.
+What are the 【 responsibilities 】【 in 】 this position? 这个职位的【工作职责】是什么？
+I【 was responsible for 】 developing the apps. =  I was 【 in charge of 】 developing the apps.
 // -- responsibility 职责 责任 n
 // -- responsible 负责的 adj
 // -- response 响应
@@ -456,12 +522,17 @@ I【 was responsible for 】 developing the app. =  I was 【 in charge of 】 d
 What are the 【 office hours 】? 办公时间是几点
 Our office hours are from 9am to 6pm, 【 with an hour off for lunch 】. Monday to Friday.
 // -- office hours. 办公时间
+// -
+// --【 with one hour off. 休息一个小时 】
+// -- with one hour off for lunch. 有一个小时午餐休息时间
+
 
 9.
 What are your salary 【 expectations 】? 你的期望工资是多少?
-I'm expecting a salary that is competitive and in line with industry standards. 我希望薪水具有竞争力并且符合行业标准
-I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬。
-// -- expect 期望 预期 v
+I'm expecting a salary that is competitive and in line with 【 industry standards 】. 我希望薪水具有竞争力并且符合行业标准
+I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬
+// -
+// --【 expect 期望 预期 v 】
 // --【 expectation 期望 预期 n 】
 // -
 // -- salary
@@ -471,6 +542,10 @@ I expect to be paid the going rate for this type of position.	我期望得到这
 // -- performance
 // -- benefit 福利
 // --【 performance bonus. 绩效奖金 】
+// -
+// -- industry standard. 行业标准
+// -- standard 标准 规范
+// --【 Passport photos have strict standards. 护照照片有着严格的标准 】
 
 10.
 Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你【提供】的福利吗?
@@ -523,7 +598,6 @@ Interviewing for a Job – Everyday English Dialogues
 
 --
 personnel director. 人事总监
-be proficient in. 精通于...
 interpersonal skills. 人际交往能力
 responsibility 职责 责任
 benefit 福利
@@ -542,6 +616,25 @@ contract 合同 n
 --
 please have a seat.
 please have your seat.
+------- ------- ------- ------- ------- ------- -------
+【 be proficient in. 精通于... 】
+【 programming language. 程序语言 】
+【 development language. 开发语言 】
+【 concise language. 简洁的语言 】
+He 【 is proficient in 】 several 【 programming languages 】, includes Java, Python, Javascript.
+-
+【 supervise 监督 】
+【 office clerk. 办公室职员 】
+-
+【 arrange a meeting. = schedule a meeting. 安排会议 】
+【 arrange meetings. 】
+-
+【 pension 养老金 】
+【 pension plan. 养老金计划 】
+-
+【 generous 慷慨的 】
+------- ------- ------- ------- ------- ------- -------
+
 
 
 Time	Subtitle	Machine Translation
@@ -550,21 +643,21 @@ Time	Subtitle	Machine Translation
 10s	【 Please have a seat. 】	请坐。
 12s	Thank you.	谢谢。
 13s	【 According to 】 your 【 resume 】, you have several years of office experience.	根据您的简历，您有 多年的办公室经验。
-18s	Yes. I’ve had over ten years’ experience.	是的。 我已经有十多年的经验了。 跟
+18s	Yes.【 I’ve had over ten years’ experience 】.	是的。 我已经有十多年的经验了。 跟
 22s	Tell me about your qualifications.	我说一下你的相关资质。
 24s	I can type over 100 words per minute. 【 I’m proficient in 】 many computer programs.	我每分钟可以打100多个字。 我精通许多计算机程序。
 30s	I have excellent 【 interpersonal skills 】, I am well organized, and I’m a very fast learner.	我拥有出色的人际交往能力， 组织能力强，而且学习速度非常快。
 37s	I see that you have excellent references. 【  Do you have any questions about the position? 】	我看到你有很好的参考资料。 您对该职位有任何疑问吗？
 43s	Yes. What are the 【 responsibilities 】 in this 【 position 】?	是的。 这个职位的职责是什么？
-47s	We’re looking for someone to supervise two office clerks, handle all the correspondence,	我们正在寻找某人来监督两名 办公室文员、处理所有信件、
-53s	arrange meetings, and manage the front office. Have you had any supervisory experience?	安排会议并管理前台办公室。 你有过监督经历吗？
+47s	We’re looking for someone to 【 supervise 】 two 【 office clerks 】, handle all the correspondence,	我们正在寻找某人来监督两名 办公室文员、处理所有信件、
+53s	【 arrange meetings 】, and manage the front office. Have you had any supervisory experience?	安排会议并管理前台办公室。 你有过监督经历吗？
 1:00	Yes. I supervised three administrators in my last position.	是的。 我 在上一个职位上监督了三名管理员。
 1:05	【 What are the office hours 】, Mrs. Phillips?	菲利普斯女士，办公时间是几点？
 1:08	8:30 to 4:30, 【 with an hour off for lunch 】.	8:30 至 4:30，午餐休息一小时。
 1:12	【 What are your salary expectations 】, Mrs. Stevens?	史蒂文斯女士，您的薪资期望是多少？
 1:16	I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬。
 1:19	Can you tell me about the 【 benefits 】 you offer?	您能告诉我您提供的福利吗？
-1:22	Yes. We provide full medical and dental coverage, a pension plan, and a three-week holiday per year.是的。 我们提供全面的医疗和牙科保险、 养老金计划以及每年三周的假期。
+1:22	Yes. We provide full medical and dental coverage, a 【 pension plan 】, and a three-week holiday per year.是的。 我们提供全面的医疗和牙科保险、 养老金计划以及每年三周的假期。
 1:30	That’s very 【 generous 】.	这是非常慷慨的。
 1:32	When is the position available?	该职位什么时候有空？
 1:34	We’re hoping the successful 【 applicant 】 can start at the beginning of next month.	我们希望成功的申请者可以 在下月初开始工作。
