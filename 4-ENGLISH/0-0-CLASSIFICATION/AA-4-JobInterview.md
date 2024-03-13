@@ -19,6 +19,7 @@
 - `start out. 开始` // start out. = start with.
 - `roll out. 推出`
 - `fill out. 填写`
+- start out.
 - **【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】**
 - **【 Let's 【 start with 】 introducing ourselves. 】**
 - **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
@@ -27,11 +28,17 @@
 - // -
 - // -- ourselves
 -
+- roll out.
+- put off.
+- _【 The company has 【 put off 】 the plan 【 to 】 【 roll out 】 the new phone. 这个公司推迟了推出新手机的计划 】_
+- _【 The new phone has been 【 put off until 】 next month to roll out. 新手机被推迟到下个月发布 】_
+- -
 - **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
 - **【 We need to 【 roll out 】 our 【 marketing campaign 】【 as soon as possible 】. 我们需要尽快【推出】我们的【营销活动】 】**
 - // marketing campaign. 营销活动
 - // _【 as soon as possible. 尽快 】_
 -
+- fill out.
 - **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
 - // deposit slip. 存款单
 -
@@ -72,9 +79,10 @@
 - // -- personnel director. 人事总监
 - // -- sales director. 销售总监
 - -
-- **【 The 【 employer 】【 fired 】 his 【 employees 】, 【 resulting in 】 【 a large number of 】 employees losing their jobs. 】**
+- **【 The 【 employer 】【 fired 】 his 【 employees 】,【 resulting in 】【 a large number of 】employees【 losing 】their jobs. 】**
 - **【 The 【 employees 】 【 are very anxious about 】 【 unemployment 】. 员工们对失业感到十分焦虑 】**
 - **【 He lost his job in the wave of 【 unemployment 】. 在失业潮中，他丢掉了工作 】**
+- // -- lose / lost / losing
 -
 -
 -
@@ -92,8 +100,9 @@
 - -
 - _【 relevant skills. 相关技能 】_
 - _【 relevant experience. 相关经验 】_
-- _【 relevant issues. 相关问题 】_
+- _【 relevant field. 相关领域 】_
 - _【 relevant market. 相关市场 】_
+- _【 relevant issues. 相关问题 】_
 - -
 - _【 relevant skills. 相关技能 】_
 - _【 professional skill. 专业技能 】_
@@ -278,6 +287,7 @@
 - **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】**
 - **【 I 【 am proficient in 】 front-end development. 】**
 - **【 She 【 is proficient in 】 multiple languages 】**
+- _【 I want to 【 be proficient in 】 English so that I can communicate with people from different countries. 】_
 - -
 - **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - // -- programming language. 程序语言
@@ -361,11 +371,12 @@
 -
 -
 - 16
-- `perfect 完美的 adj`
+- `perfect 完美的 adj` // TIPS: Pay attention to the different pronunciation between 'perfect' and 'perfection'.
 - `perfection 完美 n`
 - `perfectionist 完美主义者`
 - **【 I'm a perfectionist. 我是一个完美主义者 】**
 - **【 I'm 【 too much of 】 a 【 perfectionist 】. 我太完美主义了 】**
+- _【 Pay attention to the different pronunciation between 'perfect' and 'perfection' 】_
 - // -- too much of. 过多的 过分的
 -
 -
@@ -391,6 +402,48 @@
 - --【 Her advice was 【 invaluable 】 to me during that difficult time. 在那个困难时期，她的建议对我来说是无价的 】
 - // -- snack 小吃
 - // -- snake 蛇
+-
+-
+-
+-
+- 19
+- `pension 养老金`
+- _【 pension plan. 养老金计划 】_
+- // -- pension 养老金
+- // -- medical insurance. 医疗保险
+- // -- performance bonus. 绩效奖金
+- // -- benefit 福利
+- // -
+- // -- pension 养老金
+- // -- person 人
+-
+-
+- 20
+- `dentist 牙医`
+- `dental 牙齿的`
+- _【 dental care. 口腔护理 】_
+- _【 dental brace. 牙套 】_
+- **【 The 【 dentist 】 is putting 【 dental braces 】 on the patient. 牙医生在给病人带牙套 】**
+- **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
+- // -- put on. 穿上 带上
+- // -- brace 支架 夹子 牙套
+- // -- brace / braces. // TIPS: Pay attention to the pronunciation of the 'braces'.
+-
+-
+- 21
+- `generous 慷慨的`
+- _【 generous tip. 慷慨的小费 】_
+- **【 He gave the 【 waiter 】 a 【 generous tip 】. 他给了服务员慷慨的小费 】**
+- **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
+- // -- waiter 服务员
+- // -- tip 尖端 提示 小费
+-
+-
+- 22
+- `decision 决定 决心 n`
+- `decide 决定 v`
+- _【 make a decision. 做决定 】_
+- **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -436,6 +489,19 @@ What are your strengths and weaknesses?
 // --【 have a hard time doing sth. 做某事有困难 】
 //
 // BB.
+// I 【 am proficient in 】 several 【 programming languages 】, includes Java, Python, and Javascript.
+//【 I want to 【 be proficient in 】 English 【 so that 】 I can communicate with people from different countries. 】
+// -
+// -- proficient 熟练的 精通的 adj
+// -- be proficient in. 精通于...
+// -
+// -- programming language. 程序语言
+// -- development language. 开发语言
+// -- concise language. 简洁的语言
+// -
+// -- so that. 因此
+//
+// CC.
 //【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】
 // -- excellent 杰出的
 // -- outstanding 杰出的
@@ -445,27 +511,29 @@ What are your strengths and weaknesses?
 // -
 // -- creativity 创造力 n
 //
-// CC.
+// DD.
 // I'm 【 too much of 】 a 【 perfectionist 】. 我太完美主义了
 // -- perfect 完美的 adj
 // -- perfection 完美 n
 // --【 perfectionist 完美主义者 n 】
+// -- // TIPS: Pay attention to the different pronunciation between 'perfect' and 'perfection'.
+// -- // TIPS: Pay attention to the difference in pronunciation between 'perfect' and 'perfection'.
 // -
 // --【 too much of. 过多的 过分的 】
 //
-// DD.
+// EE.
 // My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
 // One of my strength is that I have 【 a sense of ownership 】.
 // -- a sense of ownership. 主人翁意识
 //
-// EE.
+// FF.
 //【 I'm very 【 punctual 】, so I always can 【 meet the project deadlines 】. 】
 // -- I'm very punctual. 我十分守时
 // -- punctual 准时的
 // -
 // --【 meet the deadline. 赶上最后期限 】
 //
-// FF.
+// GG.
 // 【 He likes to 【 brag 】. 他爱吹牛 】
 // -- brag 吹嘘 v
 // -- bark 狗叫v 树皮n
@@ -591,7 +659,15 @@ There are three things the candidate dose which you should try to avoid.
 I will take your interview. 我会安排你的面试
 ```
 
-##### (3) conversion 1
+##### (3) Writing
+
+```
+My English name is York.
+I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
+After graduation, I have had a total of four work experiences.
+```
+
+##### (4) conversion 1
 
 ```
 Interviewing for a Job – Everyday English Dialogues
@@ -601,7 +677,6 @@ personnel director. 人事总监
 interpersonal skills. 人际交往能力
 responsibility 职责 责任
 benefit 福利
-generous 慷慨的
 applicant 申请人
 resume 简历
 position 职位
@@ -625,39 +700,50 @@ He 【 is proficient in 】 several 【 programming languages 】, includes Java
 -
 【 supervise 监督 】
 【 office clerk. 办公室职员 】
+【 clerk 职员 店员 】
 -
 【 arrange a meeting. = schedule a meeting. 安排会议 】
-【 arrange meetings. 】
+【 arrange meetings. 安排会议 】
 -
 【 pension 养老金 】
 【 pension plan. 养老金计划 】
+// person 人
+// pension 养老金
 -
 【 generous 慷慨的 】
+【 generous tip. 慷慨的小费 】
+-
+【 dentist 牙医 】
+【 dental 牙齿的 】
+【 dental care. 口腔护理 】
+【 dental brace. 牙套 】
+-
 ------- ------- ------- ------- ------- ------- -------
 
 
-
+Interviewing for a Job – Everyday English Dialogues
 Time	Subtitle	Machine Translation
-2s	Hello, Mrs. Stevens. My name is Jane Phillips. I’m the 【 personnel director 】. 我是人事总监。
+
+2s	Hello, Mrs. Stevens. My name is Jane Phillips. I’m the 【 personnel director 】. 我是【人事总监】。
 8s	I’m pleased to meet you.	我很高兴见到你。
 10s	【 Please have a seat. 】	请坐。
 12s	Thank you.	谢谢。
 13s	【 According to 】 your 【 resume 】, you have several years of office experience.	根据您的简历，您有 多年的办公室经验。
 18s	Yes.【 I’ve had over ten years’ experience 】.	是的。 我已经有十多年的经验了。 跟
-22s	Tell me about your qualifications.	我说一下你的相关资质。
+22s	Tell me about your 【 qualifications 】.	我说一下你的相关【资质】。
 24s	I can type over 100 words per minute. 【 I’m proficient in 】 many computer programs.	我每分钟可以打100多个字。 我精通许多计算机程序。
-30s	I have excellent 【 interpersonal skills 】, I am well organized, and I’m a very fast learner.	我拥有出色的人际交往能力， 组织能力强，而且学习速度非常快。
+30s	I have 【 excellent 】 【 interpersonal skills 】, I am well organized, and I’m a very fast 【 learner 】.	我拥有出色的人际交往能力， 组织能力强，而且学习速度非常快。
 37s	I see that you have excellent references. 【  Do you have any questions about the position? 】	我看到你有很好的参考资料。 您对该职位有任何疑问吗？
-43s	Yes. What are the 【 responsibilities 】 in this 【 position 】?	是的。 这个职位的职责是什么？
+43s	Yes. What are the 【 responsibilities 】 【 in 】 this 【 position 】?	是的。 这个职位的职责是什么？
 47s	We’re looking for someone to 【 supervise 】 two 【 office clerks 】, handle all the correspondence,	我们正在寻找某人来监督两名 办公室文员、处理所有信件、
 53s	【 arrange meetings 】, and manage the front office. Have you had any supervisory experience?	安排会议并管理前台办公室。 你有过监督经历吗？
-1:00	Yes. I supervised three administrators in my last position.	是的。 我 在上一个职位上监督了三名管理员。
+1:00	Yes. I 【 supervised 】 three administrators in my last position.	是的。 我 在上一个职位上监督了三名管理员。
 1:05	【 What are the office hours 】, Mrs. Phillips?	菲利普斯女士，办公时间是几点？
 1:08	8:30 to 4:30, 【 with an hour off for lunch 】.	8:30 至 4:30，午餐休息一小时。
 1:12	【 What are your salary expectations 】, Mrs. Stevens?	史蒂文斯女士，您的薪资期望是多少？
 1:16	I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬。
 1:19	Can you tell me about the 【 benefits 】 you offer?	您能告诉我您提供的福利吗？
-1:22	Yes. We provide full medical and dental coverage, a 【 pension plan 】, and a three-week holiday per year.是的。 我们提供全面的医疗和牙科保险、 养老金计划以及每年三周的假期。
+1:22	Yes. We provide full medical and 【 dental coverage 】, a 【 pension plan 】, and a three-week holiday per year.是的。 我们提供全面的医疗和牙科保险、 养老金计划以及每年三周的假期。
 1:30	That’s very 【 generous 】.	这是非常慷慨的。
 1:32	When is the position available?	该职位什么时候有空？
 1:34	We’re hoping the successful 【 applicant 】 can start at the beginning of next month.	我们希望成功的申请者可以 在下月初开始工作。
@@ -668,7 +754,7 @@ Time	Subtitle	Machine Translation
 1:51	【 Thanks for coming in to see us 】, Mrs. Stevens.	谢谢您来看我们，史蒂文斯夫人。
 ```
 
-##### (4) Details
+##### (5) Details
 
 ```
 strength 优势 强度

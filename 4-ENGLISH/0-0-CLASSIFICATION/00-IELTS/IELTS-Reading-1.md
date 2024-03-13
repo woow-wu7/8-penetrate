@@ -635,11 +635,61 @@
 -
 -
 - 3
-- `stick 粘住v 陷入v 棍n`
-- `sticky 粘性的 adj`
-- `stuck -> stick的过去式`
-- _【 walking stick. 拐杖 】_
-- _【 stick shift. 换挡杆 】_
+- `first of all. 首先`
+- `second of all. 其次`
+- // **【 firstly 首先 】** // adv
+- // **【 first of all. 首先 】**
+- // **【 first up. 首先 】** ------- 更口语化
+- **【 【 Firstly 】, I 【 would like to 】 thank everyone for coming. 首先，我要感谢大家的光临 】**
+- **【 【 First up 】, I'll introduce myself and the we can start the discussion. 】**
+- // -- would like to. = want to. 想要
+- // -- would like to. 更委婉
+- // -
+- // -- First of all, adding new items. 首先，添加新条目
+- // -- Firstly, adding new items. 首先，添加新条目
+- // -- First up, adding new items. 首先，添加新条目
+-
+-
+-
+-
+-
+-
+- 4
+- `appreciate 欣赏 感激 v`
+- `pleasure 高兴 愉快 n`
+-
+- AA.
+- appreciate
+- **【 Appreciate your 【 encouragement 】. 】**
+- **【 Appreciate your 【 suggestion 】. 】** // TIPS: Pay attention to the pronunciation of "suggestion"
+- **【 Appreciate your 【 invitation 】. 】**
+- **【 Appreciate your 【 cooperation 】. 】**
+- **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
+- **【 I 【 appreciate 】 your service to help me to 【 keep healthy 】. 我感谢你的服务，帮助我保持健康 】** // keep health.
+- **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**
+- **【 I really appreciate it. 我真的很感激 】**
+- // -- You are welcome, It's my pleasure. 别客气，这是我的荣幸
+- // --【 Thank you so much for learning English with me. 】
+- // --【 Thank you for your cooperation. 谢谢您的合作 】
+- // --【 Thank you for your encouragement. 】
+- // --【 Thank you for calling me 】
+-
+- BB.
+- pleasure
+- **【 You are welcome, It's my pleasure. 别客气，这是我的荣幸 】**
+- **【 It was a pleasure to meet you. 认识你是我的荣幸 】**
+- **【 It’s been a pleasure meeting you. 】**
 - -
-- _【 get stuck in. 陷入 】_
-- -
+- **【 Reading is my 【 greatest 】 pleasure. 阅读是我最大的乐趣 】**
+- // -- great 伟大的 大的 大
+- // -- greatest 最伟大的 最大的
+- // -- `greatest = biggest 最大的`
+- // -- _【 greatest regret. 最大的遗憾 】_
+- // -- _【 My greatest/biggest regret is not marring her. 我最大的遗憾是没有娶她 】_ // marring 是动名词形式
+- // -- _【 My greatest/biggest regret is not to marry her. 我最大的遗憾是没有娶她 】_
+- // -
+- // -- _【 What's your 【 biggest 】 【 accomplishment 】 from this job? 这份工作最大的【成就】是什么？ 】_
+- // -- _【 What's your 【 greatest 】 【 achievement 】 from the work? 你在工作中最大的成就是什么？ 】_
+- // -
+- // -- Watching TV is our only pleasure. 看电视是我们惟一的乐趣
+- // -- work and pleasure. 工作与娱乐
