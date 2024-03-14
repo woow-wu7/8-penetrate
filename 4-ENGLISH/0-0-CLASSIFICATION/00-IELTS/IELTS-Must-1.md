@@ -141,6 +141,20 @@
 - **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
 - **【 【 failure 】 is the mother of 【 success 】. 失败是成功之母 】**
 - **【 The 【 probability 】 of 【 failure 】 is very low. 【失败】的【概率】很低 】**
+-
+- AA
+- `persist in doing sth. 坚持做某事`
+- `persist 坚持 v`
+- `persistence 坚持 n`
+- _【 long-term persistence. 长期坚持 】_
+- _【 lose weight. 减肥 】_
+- _【 persist in doing sth. 坚持做某事 】_
+- **【 【 Lose weight 】 require 【 long-term persistence 】. 减肥需要长期坚持 】**
+- **【 We should 【 persist in exercising 】 and learning. 我们应该坚持锻炼和学习 】**
+- -
+- **【 If you persist, you will 【 succeed 】. 】** // --------- v -> 注意 will 后面接 动词
+- **【 If you persist, you will be 【 successful 】. 】** // --- adj
+- **【 If you persist, you will achieve 【 success 】. 】** // - n
 
 ###### 2024-03-05
 
@@ -447,7 +461,7 @@
 - // -- lose lost losing 失去 v
 - // -- win is the opposite lose.
 - // -- persistence 坚持 n
-- // -- persistent 坚持 v
+- // -- persist 坚持 v
 -
 - BB.
 - `stress 压力n 强调v`
@@ -693,3 +707,5 @@
 - // -
 - // -- Watching TV is our only pleasure. 看电视是我们惟一的乐趣
 - // -- work and pleasure. 工作与娱乐
+
+###### 2024-03-14

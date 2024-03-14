@@ -409,6 +409,7 @@
 - 19
 - `pension 养老金`
 - _【 pension plan. 养老金计划 】_
+- > // EE: 【 An amount of 】 money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill.
 - // -- pension 养老金
 - // -- medical insurance. 医疗保险
 - // -- performance bonus. 绩效奖金
@@ -416,6 +417,8 @@
 - // -
 - // -- pension 养老金
 - // -- person 人
+- // -
+- // - 【 an amount of. 一定量的 】
 -
 -
 - 20
@@ -444,6 +447,12 @@
 - `decide 决定 v`
 - _【 make a decision. 做决定 】_
 - **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
+-
+-
+- 23
+- `cover letter. 求职信`
+- `resume 简历`
+- **【 Put your 【 resume 】 into the 【 cover letter 】. 把简历放在求职信中 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -664,7 +673,42 @@ I will take your interview. 我会安排你的面试
 ```
 My English name is York.
 I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
-After graduation, I have had a total of four work experiences.
+After graduation, I have had 【 a total of 】 four work 【 experiences 】.
+【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
+I have developed many mini-programs, applications and websites, etc(et cetera).
+I 【 persist in / keep 】improving my 【 skills level 】,
+【 So / Consequently 】, I have 【 been proficient in 】 HTML, CSS, Javascript, and other front-end 【 technologies 】.
+-
+I like use Vue and React 【 tech stacks 】 to develop projects.
+My 【 preferred 】 【 tech stacks 】 include Vue and React.
+-
+and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+
+
+
+------- ------- ------- ------- ------- ------- -------
+by now. 到目前为止
+
+prefer 更喜欢 v
+preferred 更喜欢的 adj
+preference 偏爱 偏好 n
+【 have a preference for. 对...有偏好 】
+// Which one do you prefer. 你更喜欢哪个 // prefer
+// Would you prefer red or white? // prefer
+// -
+//【 Use a 【 preferred 】 way to implement it. 使用较好的方法来实现它 】// preferred adj
+//【 Set your 【 preferred 】 method to use for password when sign into Github. 设置您在登录 Github 时用于密码的首选方法 】
+// -
+//【 I 【 have a preference for 】 fruits over sweets. 比起糖果，我更喜欢水果 】
+
+keep doing sth. 持续做某事
+persist in doing sth. 坚持做某事
+// persist 坚持 v
+// persistence 坚持 n
+//【 losing weight 】 require 【 long-term 】 【 persistence 】. 减肥需要长期的坚持
+
+skill level. 技能水平
+consequently 因此
 ```
 
 ##### (4) conversion 1
