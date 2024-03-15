@@ -1,6 +1,6 @@
 # Make sentences
 
-##### 1
+##### 1 Make sentences 2024-03-13
 
 ```
 1
@@ -77,20 +77,21 @@ The new phone has been 【 put off until 】 next month to roll out.
 新手机被推迟到下个月发布
 ```
 
-##### 2
+##### 2 Make sentences 2024-03-15
 
 ```
 1
 Put your 【 resume 】 into the 【 cover letter 】.
 把你的简历放在求职信中
 // resume 简历
-// cover letter. 求职信
+//【 cover letter. 求职信 】
+
 
 2
 【 Lose weight 】 require 【 long-term persistence 】.
 减肥需要长期的坚持
 -
-We need 【 persist in exercising 】 and learning.
+We need 【 persist in exercising 】 and 【 learning 】.
 我们应该坚持锻炼和学习
 -
 // lose weight. 减肥
@@ -100,4 +101,126 @@ We need 【 persist in exercising 】 and learning.
 // persist 坚持 v
 // -
 //【 persist in doing sth. 坚持做某事 】
+
+
+3
+I plan to travel after 【 resigning 】.
+辞职后我准备去旅行
+// resign 辞职
+// quit 辞职
+// -
+// sign 签名 v
+// signature 签名 n
+// assign 分配
+// assignment 任务
+// signal 信号
+// -
+// quit
+// quite
+// quiet
+// -
+// travel 旅行 --- 长时间的旅行
+// trip 旅行 ----- 短时间的旅行
+
+
+4
+【 Mercury 】 is the 【 closest 】 【 planet 】 to the sun. 水星是距离太阳最近的行星
+The Qomolangma is the 【 highest 】 mountain in the world. 珠穆朗玛峰是世界上最高的山峰
+The 【 Nile 】 is the 【 longest 】 river in the world. 尼罗河是世界上最长的河
+-
+My 【 greatest 】 【 regret 】 is not to marry her.
+My biggest regret is not marring her.
+My biggest regret is not to marry her.
+My greatest regret is not marrying her.
+我最大的遗憾是没有娶她
+-
+// -- closest 最近的
+// -- nearest 最近的
+// -- highest 最高的
+// -- longest 最长的
+// -- greatest 最大的
+// -
+//【 closest. = nearest. = most close. 】
+// close 关闭v 接近的adj
+// closest 最近的
+// -
+// Mercury 水星
+// mercury 水银
+// -
+// planet 行星
+// -
+// great 伟大的 大的 大
+// greatest 最大的
+
+
+5
+【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway 】.
+清理楼道垃圾的通知
+-
+I'm throwing the 【 trash 】 into the 【 trash can 】.
+我把垃圾扔进垃圾桶
+-
+【 Waster paper towels 】 are 【 recyclable waste 】.
+废纸巾是可回收垃圾
+-
+// clean up. 清理
+// hallway 走廊 楼道
+// notice 通知
+// -
+// waste 浪费v 垃圾n ---- 用得最广泛
+// garbage 垃圾 --------- 1. garbage 2. garbage can.
+// trash 垃圾 ----------- 1.trash 2. trash can.
+// rubbish 垃圾 --------- 指人
+// litter 乱扔v 垃圾n ---- 指户外的小片垃圾
+// -
+// trash can. 垃圾桶
+// bin 垃圾桶
+// dustbin 垃圾桶
+// -
+// paper towel. 纸巾
+// waste paper towel. 废纸巾
+// recyclable waste. 可回收垃圾
+
+
+6
+You 【 stepped 】 on my foot.
+你踩到我的脚了
+-
+You 【 are blocking me from watching 】 TV.
+你挡到我看电视了
+-
+You 【 blocked me from crossing 】 the road.
+你挡到我过马路了
+-
+You are blocking my way.
+你挡住了我的路
+-
+// step 步n 步骤n 踩v 踏v
+// stepped 踩 踏 v --> step的过去式/过去分词
+// -
+// 【 block from doing sth. 阻碍做某事 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+把你的简历放在求职信中
+-
+减肥需要长期的坚持
+我们应该坚持锻炼和学习
+-
+辞职后我准备去旅行
+-
+水星是距离太阳最近的行星
+珠穆朗玛峰是世界上最高的山峰
+尼罗河是世界上最长的河
+我最大的遗憾是没有娶她
+-
+清理楼道垃圾的通知
+我把垃圾扔进垃圾桶
+废纸巾是可回收垃圾
+-
+我踩到你的脚了
+你挡到我看电视了
+你挡到我过马路了
+你挡住了我的路
 ```

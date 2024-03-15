@@ -1,4 +1,4 @@
-# (一) Unit 单位
+###### (一) Unit 单位
 
 ##### (一) Number 数量
 
@@ -60,7 +60,7 @@ plural 复数
 // This verb should be in the plural form. 这个动词应该用复数形式
 ```
 
-##### (1) Weight 重量
+##### (三) Weight 重量
 
 ```
 gram 克
@@ -79,7 +79,7 @@ equal 相等
 // One kilogram is equal to two jin. 一千克等于两斤
 ```
 
-##### (2) Distance 距离
+##### (四) Distance 距离
 
 ```
 kilometer 千米
@@ -102,7 +102,7 @@ The thickness of a single coin is one millimeter. 一枚硬币的厚度是一毫
 // -- millimeter 毫米
 ```
 
-##### (3) Volume 体积
+##### (五) Volume 体积
 
 ```
 liter 公
@@ -112,7 +112,7 @@ milliliter 毫升
 This bottle can be filled with 2 liters of Coke. 这个瓶子可以装两升可乐
 ```
 
-#### (4) Time 时间
+##### (六) Time 时间
 
 ```
 year 年
@@ -123,9 +123,7 @@ minute 分
 second 秒
 ```
 
-# (二) classification 分类 // category 分类
-
-##### (1) Atom / Gas
+##### (七) Atom / Gas
 
 ```
 atom 原子
@@ -142,7 +140,7 @@ carbon dioxide. 二氧化碳
 // 【 Two hydrogen atoms combine with one oxygen atom to form a water molecule. 两个氢原子和一个氧原子结合形成一个水分子 】
 ```
 
-##### (2) There meals
+##### (八) There meals
 
 ```
 breakfast 早餐
@@ -155,7 +153,7 @@ box lunch. 盒饭
 meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
 ```
 
-##### (3) Metal
+##### (九) Metal
 
 ```
 gold medal. 金牌
@@ -192,7 +190,7 @@ tin 锡
 // -- supplement 补充
 ```
 
-##### (4) The Earth
+##### (十) The Earth
 
 ```
 crust 地壳 面包皮 外壳
@@ -202,7 +200,7 @@ mantle 地幔
 // crust 地壳 面包皮 外壳
 ```
 
-##### (5) Family relationships
+##### (十一) Family relationships
 
 ```
 ancestor 祖先
@@ -272,7 +270,7 @@ neighbor 邻居
 // -- flood 洪水
 ```
 
-##### (6) word
+##### (十二) word
 
 ```
 word 单词
@@ -283,7 +281,7 @@ sentence 句子
 make a sentence. 造句
 ```
 
-##### (7) Ocean 四大洋
+##### (十三) Ocean 四大洋
 
 ```
 Pacific Ocean 太平洋

@@ -564,8 +564,8 @@
 - _【 sign in. 登陆 】_
 - _【 sign out. 登出 】_
 - -
-- `assign 分配v`
-- `assignment 任务 作业`
+- `assign 分配 v`
+- `assignment 任务 作业 n`
 - _【 be assigned to. 被分配给... 】_
 - homework 作业 -------- 英式英语
 - assignment 作业 ------ 美式英语
@@ -615,7 +615,7 @@
 - **【 After much consideration, the employee 【 resign 】 from his job. 深思熟虑后，这位员工辞职了 】**
 - **【 He 【 resigned from 】 his job to do 【 web design 】. 他辞职去做了 web 设计 】**
 - // -- travel 旅行 ------ 长时间的旅行
-- // -- trip 旅行 -------- 短时见的旅行
+- // -- trip 旅行 -------- 短时间的旅行
 -
 -
 -
@@ -708,4 +708,42 @@
 - // -- Watching TV is our only pleasure. 看电视是我们惟一的乐趣
 - // -- work and pleasure. 工作与娱乐
 
-###### 2024-03-14
+###### 2024-03-15
+
+- 1
+- `waste 浪费v 垃圾n` ------ 用的最广
+- `garbage 垃圾` ---------- 1.garbage / 2.garbage can.
+- `trash 垃圾` ------------ 1.trash / 2.trash can.
+- `rubbish 垃圾`
+- `litter 垃圾n 乱扔v` ---- 公共场所的小块垃圾
+- _【 junk food. 垃圾食品 】_
+- _【 spam email. 垃圾邮件 】_ // spam 垃圾邮件/不可数名词
+- -
+- **【 recyclable waste. 可回收垃圾 】**
+- -
+- _【 trash can. 垃圾桶 】_
+- _【 garbage can. 垃圾桶 】_
+- _【 bin 垃圾箱 箱子 】_
+- _【 dustbin 垃圾箱 垃圾桶 // 指户外的垃圾箱 】_
+- -
+- _【 watering can. 喷壶 】_
+- _【 trash can. 垃圾桶 】_
+- _【 garbage can. 垃圾桶 】_
+- -
+- **【 I'm throwing the 【 trash 】 into the 【 trash can 】. 】**
+- -
+- // -- I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶
+- take out the garbage.
+- take out the trash.
+- talk rubbish.
+-
+- AA.
+- `recycle 回收利用 v`
+- `recyclable 可回收利用的 adj`
+- _【 recyclable waste. 可回收垃圾 】_
+- _【 paper towel. 纸巾 】_
+- _【 waste paper towel. 废纸巾 】_
+- **【【 Waste paper towels 】 are 【 recyclable waste 】. 废纸巾是可回收垃圾 】**
+- // -- towel 毛巾 纸巾
+- // -- paper towel. 纸巾
+- // -- waste paper towel. 废纸巾

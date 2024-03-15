@@ -670,23 +670,48 @@ I will take your interview. 我会安排你的面试
 
 ##### (3) Writing
 
-```
+```111111111
 My English name is York.
 I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
+-
+After graduation, I have done many jobs, such as: 【 technical support 】, operation, UI design, and front-end engineer.
 After graduation, I have had 【 a total of 】 four work 【 experiences 】.
+-
 【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
 I have developed many mini-programs, applications and websites, etc(et cetera).
-I 【 persist in / keep 】improving my 【 skills level 】,
+I 【 persist in / keep 】 improving my 【 skills level 】,
 【 So / Consequently 】, I have 【 been proficient in 】 HTML, CSS, Javascript, and other front-end 【 technologies 】.
 -
-I like use Vue and React 【 tech stacks 】 to develop projects.
+I like use Vue and React 【 tech stacks 】 to develop 【 projects 】.
 My 【 preferred 】 【 tech stacks 】 include Vue and React.
 -
 and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+-
+The project I mainly want to introduce is called 《 Driver safety 》《 Full Link Tracking System 》.
+The main function of this app is to help drivers to reduce the probability of accidents when they are driving.
+```
+
+```222222222
+------- ------- ------- ------- ------- ------- -------
+
+
+
+My English name is York.
+I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
+After graduation, I have done many jobs, such as: 【 technical support 】, operation, UI design, and front-end engineer.
+【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
+I have developed many mini-programs, applications and websites, etc(et cetera).
+I like use Vue and React 【 tech stacks 】 to develop 【 projects 】.
+and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+The project I mainly want to introduce is called 《 Driver safety 》.
+The main function of this app is to help drivers to reduce the 【 probability 】 of accidents when they are driving.
 
 
 
 ------- ------- ------- ------- ------- ------- -------
+```
+
+```333333333
 by now. 到目前为止
 
 prefer 更喜欢 v
@@ -709,6 +734,13 @@ persist in doing sth. 坚持做某事
 
 skill level. 技能水平
 consequently 因此
+
+technique 技巧 n ----------- tech + ni + que
+technical 技术的 adj ------- tech + ni + cal
+technology 技术 n
+【 technical support. 技术支持 】
+
+probability 概率
 ```
 
 ##### (4) conversion 1
