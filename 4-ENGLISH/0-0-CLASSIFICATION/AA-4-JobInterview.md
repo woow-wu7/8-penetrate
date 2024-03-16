@@ -304,15 +304,17 @@
 -
 - 13
 - `applicant 申请人 n`
-- `apply 申请 v`
+- `apply 申请 v` // TIPS: Pay attention to the different pronunciation between 'applicant' and 'apply'.
 - _【 apply for a position. 申请职位 】_
 - _【 apply for a loan. 申请贷款 】_
 - _【 apply for a 【 driver's license 】. 申请驾驶执照 】_
+- **【 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】. 】**
 - **【 This 【 applicant 】 is 【 applying for a position 】. 这个申请人正在申请职位 】**
 - -
 - AA.
 - _【 driver's license. 驾驶证 】_
-- _【 license plate. 车牌 拍照 】_
+- _【 license plate. 车牌 】_
+- // -- plate 盘子 牌
 -
 -
 -
@@ -410,7 +412,7 @@
 - `pension 养老金`
 - _【 pension plan. 养老金计划 】_
 - > // EE: 【 An amount of 】 money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill.
-- // -- pension 养老金
+- // -- 【 pension 养老金 】
 - // -- medical insurance. 医疗保险
 - // -- performance bonus. 绩效奖金
 - // -- benefit 福利
@@ -424,13 +426,23 @@
 - 20
 - `dentist 牙医`
 - `dental 牙齿的`
+- `straighten 矫正`
+- _【 dental braces. 牙套 】_
+- _【 straighten teeth. 矫正牙齿 】_
 - _【 dental care. 口腔护理 】_
-- _【 dental brace. 牙套 】_
 - **【 The 【 dentist 】 is putting 【 dental braces 】 on the patient. 牙医生在给病人带牙套 】**
 - **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
+- -
+- **【 I need to wear 【 dental braces 】 to 【 straighten 】 my teeth. 我需要戴上牙套来矫正牙齿 】**
 - // -- put on. 穿上 带上
 - // -- brace 支架 夹子 牙套
 - // -- brace / braces. // TIPS: Pay attention to the pronunciation of the 'braces'.
+- // -
+- // -- straighten teeth. 矫正牙齿
+- // -- dental braces. 牙套、
+- // -
+- // -- tooth teeth
+- // -- Bluetooth 蓝牙
 -
 -
 - 21
@@ -679,7 +691,7 @@ After graduation, I have had 【 a total of 】 four work 【 experiences 】.
 -
 【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
 I have developed many mini-programs, applications and websites, etc(et cetera).
-I 【 persist in / keep 】 improving my 【 skills level 】,
+I 【 persist in / keep 】 improving my 【 skills level 】, 【 I'm a very fast learner. 】
 【 So / Consequently 】, I have 【 been proficient in 】 HTML, CSS, Javascript, and other front-end 【 technologies 】.
 -
 I like use Vue and React 【 tech stacks 】 to develop 【 projects 】.
@@ -741,6 +753,10 @@ technology 技术 n
 【 technical support. 技术支持 】
 
 probability 概率
+
+I'm a very fast 【 learner 】. 我是一个学东西很快的人
+// learn 学习 v
+// learner 学习者 n
 ```
 
 ##### (4) conversion 1

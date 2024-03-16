@@ -708,7 +708,7 @@
 - // -- Watching TV is our only pleasure. 看电视是我们惟一的乐趣
 - // -- work and pleasure. 工作与娱乐
 
-###### 2024-03-15
+###### 2024-03-16
 
 - 1
 - `waste 浪费v 垃圾n` ------ 用的最广
@@ -747,3 +747,22 @@
 - // -- towel 毛巾 纸巾
 - // -- paper towel. 纸巾
 - // -- waste paper towel. 废纸巾
+-
+-
+-
+-
+-
+-
+- 2
+- `by the weekend. 强调: 在周末之前完成某件事` -------- 最迟在周末
+- `before the weekend. 在周末之前完成某件事` --------- 不包含周末
+- `in the weekend. 强调: 在周末这段时间内发生的事`
+- _【 finish doing sth. 完成做某事 】_
+- **【 I need to complete this project 【 by the weekend 】. 我需要在周末之前完成这个项目 】** （ 最迟在周末 ）
+- **【 I need to complete this project 【 before the weekend 】. 我需要在周末之前完成这个项目 】** （ 周末之前，不包含周末 ）
+- **【 I need to complete this project 【 in the weekend 】. 我需要在周末期间完成这个项目 】**
+-
+- **【 I 【 plan to 】 【 finish reading 】 this book 【 by the weekend 】. 我计划在周末之前读完这本书 】**
+- // -- need to do sth. 需要做某事
+- // -- plan to do sth. 计划做某事
+- // -- _【 finish doing sth. 完成做某事 】_
