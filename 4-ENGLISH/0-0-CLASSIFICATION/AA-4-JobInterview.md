@@ -451,7 +451,8 @@
 - **【 He gave the 【 waiter 】 a 【 generous tip 】. 他给了服务员慷慨的小费 】**
 - **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
 - // -- waiter 服务员
-- // -- tip 尖端 提示 小费
+- // -- tip 尖端 提示 小费 技巧
+- // -- **【 tips to answer it well. 回答得好的技巧 】**
 -
 -
 - 22
@@ -465,12 +466,74 @@
 - `cover letter. 求职信`
 - `resume 简历`
 - **【 Put your 【 resume 】 into the 【 cover letter 】. 把简历放在求职信中 】**
+-
+-
+- 24
+- `as well as. 也 既...又...  以及`
+- **【 Computers require 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件 】**
+- **【 He is a mathematician 【 as well as 】 a scientist. 】**
+-
+-
+- 25
+- `self-orientation. 自我定位`
+- **【 【 Self-orientation 】 is important for personal growth and development . 自我定位对于个人成长和发展很重要 】**
+- // -- growth 成长 增长 n
+- // -- development 发展 开发 n
+-
+-
+- 26
+- `passion 激情 热情 n`
+- `passionate 激情的 热情的 adj`
+- _【 be passionate about. 对...充满激情 】_
+- **【 My strength is that I have a passion for my work. 我的优点是对工作充满激情 】** = My strength is that I'm passionate about my work.
+- **【 My strength is that I'm passionate about my work. 我的优点是对工作充满激情 】**
+- **【 He is passionate about his work. 他对工作充满激情 】**
+- // My biggest strength is that I have a sense of ownership.
+-
+-
+- 27
+- `take your time. 慢慢来`
+- _【 take your time to do sth. 满满地做某事 】_
+- **【 You should take your time to think about it before you making a decision. 在做决定之前，你应该花时间好好考虑一下 】**
+- **【 take your time and do it right. 慢慢来，把事情做好 】**
+-
+- 28
+- `integrate 融入 合并 集成`
+- _【 integrate into. 融入 】_
+- _【 integrate sth into sth. 把...融入... 】_
+- _【 Integrate into society. 融入社会 】_
+- **【 He can 【 integrate into 】 this society quickly. 他能很快融入社会 】**
+- **【 Integrate into a new job. 融入新的工作环境 】**
+- **【 you can efficiently integrate real-time chat into your client app. 您可以有效地将实时聊天集成到您的客户端应用程序中 】**
+- // -- `real-time 实时的`
+- // -- `real-time chat. 实时聊天`
+- // -
+- // -- `social 社会的 v`
+- // -- `society 社会 n`
+- // -- `【 social status. 社会地位 】`
+- // -- `【 social media. 社交媒体 】`
+- // -- primitive society. 原始社会
+- // -
+- // -- status 状态 身份 地位
+- // -- state 状态
+- // -- statue 雕像
+-
+- 29
+- `intern 实习生`
+- `internship 实习期`
+- _【 intern position. 实习岗 】_
+- **【 【 Interns 】 don't receive salaries during the 【 internship 】 【 period 】. 实习生在实习期间没有工资 】**
+- **【 Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习 】**
+- // -- period 期间 时期
 
 ##### (2) Some questions that must be asked.
 
 ```
 1.
 The first question is 【 definitely 】 tell me a little bit about yourself.
+// -
+// impress 给...留下深刻印象v 印象n
+// It's the most important step to 【 impress 】 the employer.
 
 
 2.
@@ -546,18 +609,31 @@ What are your strengths and weaknesses?
 // My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
 // One of my strength is that I have 【 a sense of ownership 】.
 // -- a sense of ownership. 主人翁意识
+// -- ownership
+// -- internship 实习期
 //
 // FF.
+// My strength is that I have a 【 passion 】 for my work. 我的优点是对工作充满激情
+// My strength is that I 【 am passionate about 】 my work.
+// -- 【 be passion about. 对...充满激情 】
+// -- strength
+// -- weakness
+// -- passion 激情 热情
+//
+// GG.
 //【 I'm very 【 punctual 】, so I always can 【 meet the project deadlines 】. 】
 // -- I'm very punctual. 我十分守时
 // -- punctual 准时的
 // -
 // --【 meet the deadline. 赶上最后期限 】
 //
-// GG.
+// HH.
 // 【 He likes to 【 brag 】. 他爱吹牛 】
 // -- brag 吹嘘 v
 // -- bark 狗叫v 树皮n
+//
+// II.
+// Because when the employer asks this question what they really want to know is how much you know about their company.
 
 
 4.
@@ -645,6 +721,8 @@ Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你
 // -
 // -- performance bonus. 绩效奖金
 // -- medical insurance. 医疗保险
+// -- 【 pension plan. 养老金计划 】
+// -- 【 mental braces. 牙套 】
 
 11.
 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
@@ -759,15 +837,23 @@ I'm a very fast 【 learner 】. 我是一个学东西很快的人
 // learner 学习者 n
 ```
 
-##### (4) conversion 1
+##### (4) Conversion 1
 
 ```
 Interviewing for a Job – Everyday English Dialogues
 
 --
 personnel director. 人事总监
+sales director. 销售总监
+-
 interpersonal skills. 人际交往能力
+organizational skills. 组织能力
+creativity 创造力
+-
 responsibility 职责 责任
+be responsible for. = in charge of. 负责
+duty 责任 职责
+-
 benefit 福利
 applicant 申请人
 resume 简历
@@ -783,7 +869,7 @@ contract 合同 n
 --
 please have a seat.
 please have your seat.
-------- ------- ------- ------- ------- ------- -------
+-
 【 be proficient in. 精通于... 】
 【 programming language. 程序语言 】
 【 development language. 开发语言 】
@@ -807,10 +893,10 @@ He 【 is proficient in 】 several 【 programming languages 】, includes Java
 -
 【 dentist 牙医 】
 【 dental 牙齿的 】
-【 dental care. 口腔护理 】
 【 dental brace. 牙套 】
--
+【 dental care. 口腔护理 】
 ------- ------- ------- ------- ------- ------- -------
+
 
 
 Interviewing for a Job – Everyday English Dialogues
@@ -846,7 +932,182 @@ Time	Subtitle	Machine Translation
 1:51	【 Thanks for coming in to see us 】, Mrs. Stevens.	谢谢您来看我们，史蒂文斯夫人。
 ```
 
-##### (5) Details
+##### (5) Conversion 2
+
+```
+stress 压力n
+stressful 压力大的 adj
+as well as. 既...又...
+tips to answer it well. 回答得好的技巧
+-
+land a job. 找到工作 获得工作
+find a job. = get a job. = land a job. 找到工作
+-
+intern 实习生
+intern position. 实习岗位
+internship 实习期
+-
+congratulation 祝贺 n
+congratulate 祝贺 v
+-
+turn on the computer. 打开电脑
+-
+uncertainly 不确定地 adv
+certainly 确定地 adv
+uncertain 不确定的 adv
+certain 确定的 adj
+-
+orientation 方向 n
+orient 朝向 v
+【 self-orientation. 自我定位 】
+-
+passion 激情 热情 n
+passionate 激情的 adj
+// what you're passionate about? 你的激情是什么
+-
+【 take your time. 慢慢来 】
+【 take your time to do sth. 慢慢地做某事 】
+------- ------- ------- ------- ------- ------- -------
+
+
+
+if English isn't your first language, interviewing can be very 【 stressful 】 and difficult.
+Job Interview Conversation - ALL you Need about Interview Questions & Answers in English
+Time	Subtitle	Machine Translation
+
+0s	foreign [Music]	外国 [音乐]英语
+7s	job interview in English do you have an English job interview	工作面试
+12s	soon if English isn't your first language interviewing can be very	如果英语不是您的母语，您很快就会有英语工作面试吗？面试 可能会非常
+17s	stressful and difficult in today's lesson we'll be giving you	紧张和困难， 在今天的课程中，我们将向您介绍
+22s	all the do's and don'ts you'll need for your next job interview as well as	所有该做和不该做的事情 您下一次工作面试的需要以及
+26s	common English job interview questions and tips to answer them well	常见的英语工作面试问题 和回答
+31s	by following these tips and tricks you'll learn important keys that will	这些问题的技巧通过遵循这些提示和技巧， 您将学到
+35s	help you land the job [Music]	有助于您找到工作的重要关键 [音乐]
+43s	what are you doing just reading a book	您在做什么， 只是在读一本书
+47s	you seem so happy today what happened I just received an interview email for	你今天看起来很高兴发生了什么事 我刚刚收到了
+52s	the marketing intern position [Music]	营销实习生职位的面试电子邮件 [音乐]
+56s	congratulations what company is that icy Media Company	恭喜那家 冰冷媒体公司
+1:02	is it a top Media Company yes it is my dream company	是哪家公司是一家顶级媒体公司是的 这是我梦想的公司
+1:08	I'm a bit worried this is the first time I have an interview	我有点担心这是 我第一次参加 面试，
+1:12	I don't know what I need to prepare don't worry I will give you some advice	我不知道我需要准备什么， 别担心，我会给你一些关于面试的建议哦，我
+1:17	about the interview oh I forgot you've been in HR for four	忘了你已经在人力资源部门工作了
+1:23	years right that's correct let's go to your room and	四年了， 没错，我们去你的房间吧
+1:27	turn on the computer I will tell you what you need to do to	打开电脑， 我告诉你面试需要做什么
+1:30	prepare and pay attention to for the interview	准备和注意事项，
+1:34	okay [Music]	好啊 [音乐]
+1:39	the first step is to introduce yourself 【 it is the most important step to impress 】	第一步是自我介绍， 这是给雇主留下深刻印象的最重要的一步
+1:44	the employer now imagine I am an interviewer and you	现在想象一下我是一名面试官， 你
+1:49	will answer my questions tell me about yourself	会回答我的问题 告诉我你自己
+1:53	my name is John Anderson I'm 22 years old	我的名字叫约翰·安德森 我今年 22 岁
+2:00	um
+2:04	sorry I don't know what to say [Music]	抱歉我不知道该说什么 [音乐]
+2:07	that's okay right now is just practice but when you	没关系， 现在只是练习，但当你
+2:11	interview you can't answer uncertainly like this	面试时，你不能不确定地回答 这样
+2:15	when you introduce yourself you need to introduce your name age the university	当你自我介绍的时候你需要 介绍你的名字年龄
+2:20	you have attended and the orientation of yourself	你就读的大学以及你自己的定位
+2:25	what do you mean when you say the orientation of myself	当你说我自己的定位是什么意思你
+2:29	orientation of yourself means what your career goals are in the future	自己的定位意味着你 未来的职业目标是什么
+2:34	you can tell employers 【 what you're passionate about 】 and why	你可以告诉雇主 你 热衷于什么以及为什么哦，
+2:39	oh I see what they want to know about is my	我明白 他们想知道的是我的
+2:43	orientation at work can you wait a moment for me to take	工作方向， 你能等一下我记笔记吗？请慢慢来，
+2:47	notes sure 【 take your time 】
+2:53	okay what's next the next question they may ask is why	好吧，接下来 他们可能会问的下一个问题是
+2:59	are you applying for this position how would you answer this question	你为什么申请 对于这个职位， 你会如何回答这个问题，
+3:04	because I really like this job this is my dream job and the salary is	因为我真的很喜欢这份工作， 这是我梦想的工作，而且薪水
+3:10	pretty high no you shouldn't answer like that	相当高， 不，你不应该这样回答，
+3:15	you should avoid the answer like I just really need a job or I need money	你应该避免这样的答案，比如我 真的需要一份工作，或者我需要钱
+3:21	why is that so because when the employer asks this	为什么会这样， 因为当雇主问这个
+3:25	question what they really want to know is how much you know about their company	问题时，他们真正想知道的 是你对他们公司了解多少，
+3:30	how this role fits into your career plan	这个职位如何适合你的职业规划，
+3:34	so how should I answer you need to spend time researching the	所以我应该如何回答 你需要花时间研究公司
+3:39	company and select a few key factors to	并选择一些
+3:42	incorporate into your answer to demonstrate that you are a good fit	纳入你的答案以 证明你适合的关键因素
+3:46	let them know that their values are aligned with your values	让他们知道他们的价值观 与你的价值观一致
+3:50	extremely useful thank you for letting me know	非常有用 谢谢你让 我知道
+3:54	you're welcome and the other most common question the	你不受欢迎 以及雇主会问你的另一个最常见的问题
+3:58	employer will ask you in a job interview is why are you a good fit for this	面试的问题 是为什么你适合这个
+4:02	position I think because my major was marketing	职位 我想因为我的专业是市场营销
+4:06	quite suitable for this position to answer this question you should talk	非常适合这个职位 回答这个问题你应该
+4:11	about your work experience but I haven't worked anywhere what could	谈谈你的工作经历 但我没有在任何地方工作过
+4:16	I put on experience you can talk about the experiences and	我可以给你提供什么经验 可以谈论
+4:21	activities you've had at University related to this job	您在大学期间与 这份工作相关的经历和活动
+4:25	is it okay to say that the employer asks this question because	吗？可以说 雇主问这个问题是因为
+4:30	they want to make sure that you can do the job	他们想确保您能够胜任 这份工作，
+4:33	as long as you show that you have skills qualified for the job that would be fine	只要您证明您具备 合格的技能 对于这份工作来说，好吧，
+4:38	okay I'll keep this in mind what else	我会记住这一点，
+4:42	in most job interviews candidates will be asked to describe their strengths and	在大多数工作面试中，候选人还会 被要求描述自己的优点和
+4:47	weaknesses let's think about that what are your	缺点， 让我们想想你的
+4:51	strengths and weaknesses how should I answer the question	优点和缺点是什么， 我应该如何回答
+4:56	your strengths and weaknesses should reflect the requirements of the job	你的优点和缺点这个问题 缺点应该 反映工作的要求，
+5:01	the strengths are the opportunity for you to express more about yourself	优点是让 你更多地表达自己的机会，
+5:06	and weaknesses are areas you need to improve on	缺点是你需要改进的领域，
+5:10	but don't let your weaknesses sound like they will impede your performance	但不要让你的缺点听起来 会阻碍你的表现，
+5:15	so that's how it is now I know how to answer those questions	所以 现在就是这样我 知道如何回答这些问题
+5:20	thanks for your advice you have saved my life	谢谢你的建议你救了我的 命
+5:23	you're welcome these are some common questions you often answer when	不客气这些是 你在面试时经常回答的一些常见问题
+5:28	interviewing to have a better answer you should	为了得到更好的答案你应该
+5:31	carefully research the company and the job position you apply for	仔细研究公司和 你申请的职位
+5:35	the most important thing is to show the employer your good attitude and	最重要 重要的是要向雇主展示 你在面试时的良好态度和
+5:39	confidence when interviewing I have noted carefully and feel more	自信 我已经仔细记录并且
+5:44	confident now thank you so much	现在感觉更有信心了 谢谢你非常祝
+5:47	good luck with the interview just do your best	面试顺利尽力而为
+5:50	[Music] please come in	[音乐]请 进来
+6:02	foreign	外国
+6:05	you've come so early yes I didn't want to be late	你来得太早了 是的我 不想迟到，请
+6:10	take a seat please thanks here's my resume	坐下， 谢谢，这是我的简历，
+6:16	let me introduce myself my name is Simon Evans	让我自我介绍一下，我叫西蒙· 埃文斯，
+6:20	I am the recruiting team leader of icy Media Company	我是冰冷媒体公司的招聘团队负责人，
+6:25	I will be your interviewer today tell me about yourself	今天我将成为你的面试官，请介绍 一下你自己，
+6:29	my name is John Anderson I'm 22 years old	我叫约翰·安德森，我是 我今年 22 岁，
+6:33	I just graduated from the University of Georgia	刚刚从佐治亚大学毕业，
+6:37	my major was marketing my goal is to grow as a marketing analyst	我的专业是营销，我的目标是 成长为一名营销分析师，
+6:43	how did you hear about this job I have known the company for a long time	您是如何得知这份工作的？ 我已经了解这家公司很长时间了，
+6:48	and always follow events on the company's website	并且始终关注该公司网站上的活动
+6:52	incidentally I saw the recruitment information for the internship position	偶然看到 实习职位的招聘信息，
+6:58	this position doesn't require too much professional experience	这个职位不需要太多的 专业经验，
+7:02	in addition this is also my field so I decided to apply for this position	而且这也是我的领域，所以我 决定申请这个职位，
+7:08	what do you think are your strengths and weaknesses	你认为你的优点和缺点是什么？
+7:11	I consider my time management to be one of my greatest strengths by far	我认为我的时间管理 到目前为止，这是我最大的优势之一，
+7:16	during my senior year I managed to maintain a 3.7 GPA	在大四的时候，我设法 保持了 3.7 的 GPA，
+7:22	while at the same time doing a lot of different activities at University	同时在大学里做了很多 不同的活动，
+7:27	specifically I volunteered was part of the student council	特别是我自愿成为 学生会的一员
+7:32	and part of the managing team of the design marketing Club	和设计管理团队的一员 营销俱乐部
+7:36	what are your weaknesses I think my weakness is that I tend to be	你的弱点是什么 我认为我的弱点是，
+7:41	overly critical of myself when I completed a project I always feel	当我完成一个项目时，我往往对自己过于挑剔 我总是觉得
+7:46	that I could have done better even though the response I received was	我可以做得更好， 即使我收到的回应是
+7:51	positive this often leads me to overwork myself	积极的， 这常常导致我自己过度劳累，
+7:54	and leaves me feeling burned out	并且 让我感到精疲力尽
+7:58	I recognize this weakness and over the past few years I have been actively	我认识到这一弱点，在 过去的几年里，我一直在积极
+8:03	working to improve that why do you think you are suitable for	努力改进， 为什么你认为自己适合
+8:06	this job I am confident that I am a good fit for	这份工作 我相信我很适合
+8:10	this position for several reasons but more specifically because of my	这个职位，原因有几个， 但更多 特别是因为我
+8:15	dedication to going above and beyond in a job	致力于在工作中超越自我，
+8:19	I am committed to learning any new skills on my own to succeed in this role	我致力于自己学习任何新 技能，以便在这个职位上取得成功，
+8:24	I know that you are seeking a self-motivated individual for this job	我知道您正在 为这份工作寻找一个自我激励的人，
+8:28	and I am that candidate after hearing your presentation and	而我就是那个候选人。 看了 你的演讲并
+8:32	reviewing your resume we think that your answers are pretty good	审阅了你的简历，我们认为你的 回答非常好，
+8:36	we will discuss and let you know our decision later	我们将讨论并让你知道我们的 决定，
+8:40	do you have any questions for me when will I get the results of the	你有什么问题要问我吗？ 我什么时候能得到
+8:44	interview results will be notified via your email	面试 结果，一周内会通过你的电子邮件通知
+8:47	within a week if I pass when will I start working	如果我通过了我什么时候开始工作
+8:53	if you pass you will start work next week	如果你通过了你下周开始工作
+8:56	thank you	谢谢你
+8:59	thank you	谢谢你
+9:05	[Music] Violet I just received the offer letter	[音乐] 紫罗兰我刚刚收到公司的录用信
+9:11	from the company congratulations is it the company that	恭喜你是
+9:16	you interviewed the other day yes I'm very happy	你那天面试的公司是的 我很 快乐
+9:20	[Music] this is my dream job all thanks to your	[音乐] 这是我梦想的工作，多亏了你的
+9:24	help I knew you could do it	帮助， 我知道你能做到，你
+9:27	when will you start working I will start working and training next	什么时候开始工作 我将在下周一开始工作和培训，
+9:31	Monday great keep on trying	继续努力，
+9:35	I will [Music]	我会 [音乐]
+9:44	thanks for watching don't forget to like share comment on my video	感谢您的观看，不要忘记 喜欢 分享我的视频评论
+9:50	please subscribe to learn English with Jessica channel to watch more helpful	请订阅与 杰西卡学英语频道观看更多有用的
+9:55	videos goodbye foreign	视频再见 外国
+9:59	[Music]	[音乐]
+```
+
+##### (6) Details
 
 ```
 strength 优势 强度
@@ -1149,6 +1410,7 @@ immigrate 移民
 - 2
 - `intern 实习生n 关押v`
 - `internship 实习期 实习`
+- _【 intern position. 实习岗位 】_
 - -
 - `internship 实习 实习期`
 - `scholarship 奖学金`

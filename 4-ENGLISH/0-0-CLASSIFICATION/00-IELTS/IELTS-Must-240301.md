@@ -402,11 +402,25 @@
 - _【 rare resource. 稀有资源 】_
 - _【 rare species. 稀有物种 】_
 - _【 rare metal. 稀有金属 】_ // metal medal model module
--
+- -
 - _【 rear view mirror. 后视镜 】_
 - _【 rear view camera. 后视摄像头 】_
 - _【 front facing camera. 前置摄像头 】_
 - _【 rear camera. 后置摄像头 】_
+- -
+- _【 natural scenery. 自然景观 】_
+- _【 natural resource. 自然资源 】_
+- _【 natural gas. 天然气 】_
+- -
+- _【 natural gas. 天然气 】_
+- _【 regular gas. 普通天然气 】_
+- _【 premium gas. 高级天然气 】_
+- -
+- _【 gas pump. 加油机 】_
+- _【 gas tank. 油箱 】_
+- _【 gas cap. 油箱盖 】_
+- _【 gas nozzle. 加油枪 】_
+- -
 - **【 a new job can be 【 a huge source of 】【 stress 】 and 【 anxiety 】. 一份新工作可能是【压力】和【焦虑】的巨大【来源】】** // source
 - **【 What is their main 【 source 】 of income? 他们的主要收入来源是什么？ 】** // source
 - -
@@ -629,19 +643,28 @@
 - `bachelor 学士 单身汉`
 - `master 硕士 主人`
 - `doctor 博士 医生`
--
+- -
 - _【 freshman 大一 】_
 - _【 sophomore 大二 】_ // -- soph + o + more
 - _【 junior 大三 】_ // ----- ju + nior
 - _【 senior 大四 】_ // ----- se + nior
--
+- -
 - `undergraduate 本科生` // under + graduate
 - `postgraduate 研究生` // post + graduate // post order traversal. 后序遍历
 - `college student. 专科生`
 - `intern 实习生`
--
+- -
 - `university 大学`
 - `college 学院`
+-
+- AA.
+- `intern 实习生`
+- `internship 实习期`
+- _【 intern position. 实习岗 】_
+- **【 Interns 】 don't receive 【 salaries 】 during the 【 internship 】 【 period 】. 实习生在实习期没有工资**
+- // -- during 在...期间
+- // -- period 时期 一段时间
+- // -- TIPS: Pay attention to the pronunciation of the word 'period'.
 -
 -
 -
@@ -766,3 +789,56 @@
 - // -- need to do sth. 需要做某事
 - // -- plan to do sth. 计划做某事
 - // -- _【 finish doing sth. 完成做某事 】_
+
+###### 2024-03-17
+
+- 1
+- `social 社会的 adj`
+- `society 社会 n`
+- _【 social status. 社会地位 】_
+- _【 social media. 社交媒体 】_
+- -
+- _【 primitive society. 原始社会 】_
+- _【 agricultural society. 农业社会 】_
+- _【 industrial society. 工业社会 】_
+-
+- AA.
+- `agriculture 农业 n` // culture 文化
+- `industry 工业 n`
+- **【 【 Agriculture 】 and 【 industry 】 are 【 equally 】 important. 农业和工业同等重要 】**
+- // -- equally 同等地 相等地
+- // -- culture 文化
+- // -- agriculture 农业
+-
+- BB.
+- `culture 文化`
+- `agriculture 农业`
+- _【 culture heritage. 文化遗产 】_ // heritage 遗产
+- **【 【 Agriculture 】 is the 【 foundation 】 of our 【 society 】. 农业是我们社会的基础 】**
+-
+- CC.
+- `status 状态 身份 地位 n`
+- `state 状态 n`
+- `statue 雕像 n`
+- _【 social status. 社会地位 】_
+- _【 statue of liberty. 自由女神像 】_ // liberty 自由 n
+- **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 通过监听聊天事件来【获取】SDK 的【状态】 】**
+- **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
+- // -- obtain 获得 v
+-
+- —
+-
+-
+-
+- 2
+- `extremely 非常地 极其地 极端地 adv`
+- `extreme 极端的 极度的 adj`
+-
+- _【 extremely important. 极其重要 】_
+- _【 extremely difficult. 极其困难 】_
+- _【 extremely dangerous. 极其危险 】_
+- _【 extremely useful. 非常有用 】_
+- -
+- _【 extreme weather. 极端天气 】_
+- _【 extreme cold. 极度寒冷 】_
+- **【 This mission/task is extremely important and dangerous. 这次任务极其重要也极其危险 】**

@@ -8,8 +8,11 @@ Pay attention to the different 【 pronunciations 】 between 'perfect' and 'per
 Pay attention to the difference 【 in 】 pronunciation 【 between 】 'perfect' and 'perfection'.
 注意 perfect 和 perfection 发音的不同
 -
-How to 【 pronounce 】 the word 'perfect'.
-'perfect'这个单词如何发音
+How to 【 pronounce 】 the word 'perfect'?
+perfect 这个单词如何发音?
+-
+Pay attention to the pronunciation of the word 'period'.
+注意 period 这个单词的发音
 -
 //【 pronounce 发音 v 】
 //【 pronunciation 发音 n 】
@@ -167,6 +170,7 @@ I plan to travel after 【 resigning 】.
 【 Mercury 】 is the 【 closest 】 【 planet 】 to the sun. 水星是距离太阳最近的行星
 The Qomolangma is the 【 highest 】 mountain in the world. 珠穆朗玛峰是世界上最高的山峰
 The 【 Nile 】 is the 【 longest 】 river in the world. 尼罗河是世界上最长的河
+It's the most important step to 【 impress 】 the employer. 这是给雇主留下深刻印象最重要的一步
 -
 My 【 greatest 】 【 regret 】 is not to marry her.
 My biggest regret is not marring her.
@@ -191,6 +195,8 @@ My greatest regret is not marrying her.
 // -
 // great 伟大的 大的 大
 // greatest 最大的
+// -
+// impress 给...留下深刻印象v 印象n
 
 
 5
@@ -259,7 +265,7 @@ You are blocking my way.
 我把垃圾扔进垃圾桶
 废纸巾是可回收垃圾
 -
-我踩到你的脚了
+你踩到我的脚了
 你挡到我看电视了
 你挡到我过马路了
 你挡住了我的路
@@ -393,4 +399,189 @@ The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on 
 -
 你为什么不通过直播学习呢?我会给你点赞的
 主播正在手机上给观众直播
+```
+
+##### 4 Make sentences 2024-03-17
+
+```
+1
+Computer requires 【 hardware 】 【 as well as 】 【 software 】.
+计算机需要硬件，同时也需要软件
+-
+He is 【 both 】 a mathematician and a scientist.
+He is a mathematician 【 as well as 】 a scientist.
+He is 【 not only 】 a mathematician 【 but also 】 a scientist.
+他除了是数学家还是科学家
+-
+// hardware 硬件
+// software 软件
+// -
+// as well as. 也 / 和 / 以及 / 除了...外
+// -
+// mathematician 数学家
+// math 数学
+// scientist 科学家
+
+
+2
+【 Interns 】 don't receive 【 salaries 】 during the 【 internship 】 【 period 】.
+实习生在实习期没有工资
+// intern 实习生
+// internship 实习期
+// period 时期 一段时间
+// TIPS: Pay attention to the pronunciation of the word 'period'.
+// -
+// intern position. 实习岗
+// -
+// during 在...期间
+
+
+3
+【 Self-orientation  】is important for personal 【 growth 】 and 【 development 】.
+自我定位对个人的成长和发展很重要
+// 【 self-orientation. 自我定位 】
+// growth 成长 n
+// development 发展 开发 n
+// -
+// orient 朝向 v
+// orientation 方向 定向 n
+
+
+4
+My strength is that I 【 am passionate about 】 my work.
+= My strength is that I have a passion for my work.
+我的优点是对工作充满激情
+-
+She has a passion for art.
+= She is passionate about art.
+她对艺术有激情
+-
+// strength 优点
+// weakness 缺点
+// -
+// 【 be passionate about. 对...充满激情 】
+// -
+// passion 激情 n
+// passionate 激情的 adj
+
+
+5
+You should 【 take your time 】 to think about it before 【 making a decision 】.
+在做决定之前，你应该花时间好好考虑一下
+// -
+//【 take your time. 慢慢来 】
+//【 take your time to do sth. 慢慢地做某事 】
+// -
+// make a decision. 做决定
+
+
+6
+Why is the charging 【 indicator 】 not lighting?
+为什么充电指示灯不亮
+// -
+// indicator 指示器
+// monitor 监视器 显示器
+
+
+7
+【 Agriculture 】 is the 【 foundation 】 of our 【 society 】.
+农业是我们社会的基础
+// -
+//【 agriculture 农业 n 】
+// culture 文化 n
+// -
+//【 foundation 基础 粉底 】
+// -
+// society 社会 n
+// social 社会的
+// -
+// social medial.
+// social status.
+// -
+// primitive society.
+
+
+8
+Why didn't you take his elevator.
+你为什么不坐这个电梯？
+
+
+9
+Our goals are 【 aligned 】.
+我们的目标是一致的
+-
+The 【 company's strategies 】 【 are aligned with 】 market trends.
+公司的战略与市场趋势相一致
+-
+// -
+// align 对齐 v
+// aligned 对齐的 adj / v过去式
+// -
+// 【 be aligned with. 与...一致 】
+// -
+// strategy 策略 战略
+//【 company's strategy. 公司战略 】
+//【 strategy pattern. 策略模式 】
+
+
+10
+This mission/task is 【 extremely 】 important and dangerous.
+这次任务极其重要也极其危险
+// -
+//【 mission 任务 使命 n 】
+// task 任务
+// assignment 任务 功课
+// -
+// extremely 极其地 非常地 adv
+// extreme 极端的 极度的 adj
+
+
+11
+Your 【 necklace 】 looks really nice.
+你的项链真好看
+-
+That sounds great/good.
+Sounds/Sound good.
+听起来不错
+-
+// necklace 项链
+// neck 颈 脖子
+
+
+12
+Let's answer for you the first question.
+让我为你回答第一个问题
+-
+Thanks for your help.
+谢谢你的帮助
+-
+Thank you so much for learning English with me.
+非常感谢你和我一起学习英语
+
+
+
+------- ------- ------- ------- ------- ------- -------
+计算机需要硬件，同时也需要软件
+他除了是数学家还是科学家
+-
+实习生在实习期没有工资
+自我定位对个人的成长和发展很重要
+-
+我的优点是对工作充满激情
+她对艺术有激情
+-
+在做决定之前，你应该花时间好好考虑一下
+为什么充电指示灯不亮
+农业是我们社会的基础
+你为什么不坐这个电梯？
+-
+我们的目标是一致的
+公司的战略与市场趋势相一致
+-
+这次任务极其重要也极其危险
+你的项链真好看
+听起来不错
+-
+让我为你回答第一个问题
+非常感谢你和我一起学习英语
 ```

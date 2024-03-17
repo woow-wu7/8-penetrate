@@ -181,7 +181,7 @@ These are examples of what most youngsters do for amusement. 这些是大多数�
 // youngsters 年轻人
 // amusement 娱乐活动
 
-This useful gadget allows you t draw a semicircle as well as a straight line. 这个有哟哦那个的小工具拿给你让你画半圆和直线
+This useful gadget allows you to draw a semicircle as well as a straight line. 这个有哟哦那个的小工具拿给你让你画半圆和直线
 // gadget 小玩意
 // semicircle 半圆形
 

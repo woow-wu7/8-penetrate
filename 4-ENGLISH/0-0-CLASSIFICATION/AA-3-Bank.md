@@ -4,6 +4,7 @@
 - decent 体面的
 - stable 稳定的
 - clerk 职员
+- `total due. 应付总额`
 - // For many people, being a bank 【 clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作
 - // -- decent 体面的
 - // -- descend 下降
