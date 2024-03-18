@@ -200,10 +200,19 @@
 - `a period of. 一段时间`
 - **【 apply for a loan. 申请贷款 】**
 - **【 apply for position. 申请职位 】**
+- **【 apply for a driver's license. 申请驾照 】**
+- **【 license plate. 车牌 】**
 - // You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年内分期归还贷款
 - // The new loan takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元
 - // -- I got a loan from the bank so that I could go on a dream vacation. 我从银行得到了一笔贷款，这样我就可以去度假了
 - // -- go on a vacation. 度假
+-
+- `applicant 申请人`
+- **【 For this position, the 【 applicant 】 is applying for a loan and driver's license. 】**
+- **【 apply for a loan. 申请贷款 】**
+- **【 apply for position. 申请职位 】**
+- **【 apply for a driver's license. 申请驾照 】**
+- **【 license plate. 车牌 】**
 -
 - `transaction 交易`
 - `【 transaction successful. 交易成功 】`

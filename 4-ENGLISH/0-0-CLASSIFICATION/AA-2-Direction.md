@@ -65,7 +65,11 @@
 - **【 Appreciate your 【 encouragement 】. 】**
 - **【 Appreciate your 【 invitation 】. 】**
 - **【 Appreciate your 【 suggestion 】. 】** // TIPS: Pay attention to the pronunciation of "suggestion"
+- **【 Appreciate your 【 advise 】. 谢谢你的建议 】**
 - **【 Appreciate your 【 cooperation 】. 】**
+- // -- suggestion 建议 n
+- // -- advise 劝告 n
+- -
 - **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
 - **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**
 - **【 I 【 appreciate 】 your service to help me to 【 keep healthy 】. 我感谢你的服务，帮助我保持健康 】** // keep health.

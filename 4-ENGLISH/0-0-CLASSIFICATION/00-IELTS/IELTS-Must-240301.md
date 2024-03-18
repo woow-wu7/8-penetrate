@@ -1,20 +1,3 @@
-###### summarize
-
-- 1
-- **【 Can you 【 make an appointment 】【 for 】 me 【 with 】 the 【 dentist 】 【 for 】 tomorrow. 】**
-- **【 High temperatures 【 inhibit 】 bacteria/bacterial growth. 】**
-- **【 The law 【 prohibit smoking 】in public places. 】**
-- **【 They 【 inhabit 】 the 【 tropical forest 】. 】**
-- **【 We finished the work 【 ahead of the schedule 】. 我们提前完成了工作 】**
-- **【 The flight was 【 behind the schedule. 】 航班晚点了 】**
-- **【 He finally has【 succeeded in achieving 】 his goal. 最终成功地实现了他的目标 】**
-- **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
-- **【 【 failure 】 is the mother of 【 success 】. 失败是成功之母 】**
-- **【 The 【 probability 】 of 【 failure 】 is very low. 【失败】的【概率】很低 】**
--
--
-- 2
-
 ###### 2024-03-01
 
 - 1
@@ -790,7 +773,7 @@
 - // -- plan to do sth. 计划做某事
 - // -- _【 finish doing sth. 完成做某事 】_
 
-###### 2024-03-17
+###### 2024-03-18
 
 - 1
 - `social 社会的 adj`
@@ -805,10 +788,12 @@
 - AA.
 - `agriculture 农业 n` // culture 文化
 - `industry 工业 n`
-- **【 【 Agriculture 】 and 【 industry 】 are 【 equally 】 important. 农业和工业同等重要 】**
+- _【 equally important. 同等重要 】_
+- **【 【 Agriculture 】 and 【 industry 】 are 【 equally important 】. 农业和工业同等重要 】**
 - // -- equally 同等地 相等地
 - // -- culture 文化
 - // -- agriculture 农业
+- // --【 equally important. 同等重要 】
 -
 - BB.
 - `culture 文化`
@@ -826,7 +811,7 @@
 - **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
 - // -- obtain 获得 v
 -
-- —
+-
 -
 -
 -
@@ -835,10 +820,78 @@
 - `extreme 极端的 极度的 adj`
 -
 - _【 extremely important. 极其重要 】_
-- _【 extremely difficult. 极其困难 】_
 - _【 extremely dangerous. 极其危险 】_
+- _【 extremely difficult. 极其困难 】_
 - _【 extremely useful. 非常有用 】_
 - -
 - _【 extreme weather. 极端天气 】_
 - _【 extreme cold. 极度寒冷 】_
-- **【 This mission/task is extremely important and dangerous. 这次任务极其重要也极其危险 】**
+- **【 This 【 mission/task 】 is 【 extremely important 】 and dangerous. 这次任务极其重要也极其危险 】**
+-
+-
+-
+-
+-
+- 3
+- `as well as. 也 既...又...  以及`
+- `as long as. 只要  和...一样长`
+- AA.
+- _【 as well as. 也 以及 既...又...】_
+- **【 Computers require 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件 】**
+- **【 He is a mathematician 【 as well as 】 a scientist. 】**
+-
+- BB.
+- _【 as long as. 只要 】_
+- **【 【 As long as 】 you 【 work hard 】, you will 【 succeed 】. 只要努力，就会成功 】**
+- **【 I'll go with you 【 as long as 】 it doesn't rain. 只要不下雨，我就和你一起去 】**
+- // -- succeed 成功 v
+- // -- successful 成功的 adj
+- // -- success 成功 n
+- // -
+- // -- fail 失败 v
+- // -- failed 失败的 adj
+- // -- failure 失败 n
+-
+- CC.
+- _【 as long as. 一样长 】_
+- **【 The road as long as that one. 这条路和那条路一样长 】**
+-
+-
+-
+-
+-
+-
+- 4
+- `specific 具体的 特定的`
+- _【 specific symptom. 具体症状 】_
+- _【 specific example. 具体例子 】_
+- -
+- _【 specific requirement. 具体要求 】_
+- -
+- _【 specific skills. 具体技能 】_
+- _【 specific purpose. 具体目的 】_
+- _【 specific situation. 具体情况 】_
+- _【 specific indicator. 具体指标 】_
+- _【 specific place. 特定地点/具体地点 】_
+- -
+- // EE: specific: 【 relating to 】 one thing and not others; particular
+- // TIPS: Pay attention to the pronunciation of the word 'specific'.
+- **【 What 【 specific symptoms 】 do you have? Please give some 【 specific examples 】. 】**
+- **【 There are several 【 specific indicators 】 of success. 成功有几个【 具体的指标 】 】**
+- // -- require 要求 需要 v
+- // -- requirement 要求 n
+-
+-
+-
+-
+-
+-
+-
+- 5
+- `qualified 合格的 adj`
+- `qualify 合格 v`
+- quality 质量
+- _【 qualified product. 合格的产品 】_
+- _【 product quality. 产品质量 】_
+- **【 We should ensure 【 product quality 】 and 【 produce 】 【 qualified products 】. 】**
+- **【 She is a 【 qualified 】 doctor. 她是一名合格的医生 】**

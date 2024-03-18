@@ -63,13 +63,20 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 I 【 have to 】 go to bed 【 right away 】.
 I must go to bed 【 immediately 】.
 我必须马上睡觉
+-
+I have to / must to leave 【 right away 】.
+我必须马上离开
+-
+The doctor came 【 right away 】.
+以上马上就来了
+-
 //【 right away. 立即 马上 】
 // -
 // immediately 立刻 马上 adv
 // immediate 立即的
 // -
 // right now. 此刻 当下
-// right away. 立即 马上
+//【 right away. 立即 马上 】
 // I need to see a doctor 【 right away 】. It's an emergency. 我必须马上看医生，这是急诊
 
 
@@ -113,6 +120,9 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 这个牙医正在给这个病人戴牙套
 -
 我必须马上睡觉
+我必须马上离开
+以上马上就来了
+-
 我最大的遗憾是没有娶她
 这个公司推迟了推出新手机的计划
 新手机被推迟到下个月发布
@@ -260,6 +270,7 @@ You are blocking my way.
 珠穆朗玛峰是世界上最高的山峰
 尼罗河是世界上最长的河
 我最大的遗憾是没有娶她
+这是给雇主留下深刻印象最重要的一步
 -
 清理楼道垃圾的通知
 我把垃圾扔进垃圾桶
@@ -323,7 +334,7 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 
 4
 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】.
-For this position, the applicant is applying for a loan and driver's license.
+For this position, the 【 applicant 】 is applying for a loan and driver's license.
 为了这个职位，这个申请人正在申请贷款和驾驶证
 // -
 //【 applicant 申请人 】
@@ -486,6 +497,10 @@ Why is the charging 【 indicator 】 not lighting?
 7
 【 Agriculture 】 is the 【 foundation 】 of our 【 society 】.
 农业是我们社会的基础
+-
+【 Agriculture 】 and 【 industry 】 are 【 equally important 】.
+农业和工业同等重要
+-
 // -
 //【 agriculture 农业 n 】
 // culture 文化 n
@@ -499,10 +514,17 @@ Why is the charging 【 indicator 】 not lighting?
 // social status.
 // -
 // primitive society.
+// -
+// agriculture 农业
+// industry 工业
+// -
+//【 equally important. 同等重要 】
+// equal 相等v 相等的 adj
+// equally 同样地 同等地 adv
 
 
 8
-Why didn't you take his elevator.
+Why didn't you take this elevator.
 你为什么不坐这个电梯？
 
 
@@ -519,7 +541,8 @@ The 【 company's strategies 】 【 are aligned with 】 market trends.
 // -
 // 【 be aligned with. 与...一致 】
 // -
-// strategy 策略 战略
+//【 strategy 策略 战略 】
+// -
 //【 company's strategy. 公司战略 】
 //【 strategy pattern. 策略模式 】
 
@@ -541,11 +564,18 @@ Your 【 necklace 】 looks really nice.
 你的项链真好看
 -
 That sounds great/good.
-Sounds/Sound good.
+Sounds good. ----- 第三人称
+Sound good. ------ 第二人称
 听起来不错
+-
+That sounds 【 interesting 】.
+听起来很有趣
 -
 // necklace 项链
 // neck 颈 脖子
+// -
+// interesting 有趣的 adj
+// interest 有趣 n
 
 
 12
@@ -572,16 +602,178 @@ Thank you so much for learning English with me.
 -
 在做决定之前，你应该花时间好好考虑一下
 为什么充电指示灯不亮
+-
 农业是我们社会的基础
+农业和工业同等重要
+-
 你为什么不坐这个电梯？
 -
 我们的目标是一致的
 公司的战略与市场趋势相一致
 -
 这次任务极其重要也极其危险
+-
 你的项链真好看
 听起来不错
+听起来很有趣
 -
 让我为你回答第一个问题
 非常感谢你和我一起学习英语
+```
+
+##### 5 Make sentences 2024-03-18
+
+```
+1
+This job 【 is not suitable for 】 me.
+这份工作不适合我
+-
+This dress 【 is suitable for 】 the party.
+-
+You 【 are suitable for 】 this 【 position 】.
+你很适合这个职位
+// -
+//【 suit 适合v 西服n 】
+//【 suitable 合适的 adj 】
+// -
+//【 be suitable for. 适合于... 】
+// -
+// dress 连衣裙
+
+
+2
+She 【 put on experience 】 through her 【 internship 】. // 注意这是 一般过去时
+She put on experience by having an internship.
+She gained experience through her internship.
+她通过实习获得经验
+// -
+// 【 put on experience. 增加经验 】
+// -
+// internship 实习期 实习 n
+// intern 实习生
+
+
+3
+I will go with you 【 as long as 】 it doesn't rain.
+只要不下雨，我就和你一起去
+-
+【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+只要努力就会成功
+-
+This road 【 as long as 】 that one.
+这条路和那条路一样长
+-
+Computer require hardware 【 as well as 】 software.
+电脑需要硬件
+// -
+// 【 as well as. 也 以及 】
+// -
+// 【 as long as. 只要 】
+// 【 as long as. 和...一样长 】
+// -
+// succeed 成功 v
+// successful 成功的 adj
+// success 成功 n
+// fail 失败 v
+// failed 失败的 adj
+// failure 失败 n
+// -
+// If you persist, you will 【 succeed 】.
+// If you persist, you will be 【 successful 】
+// If you persist, you will achieve 【 success 】
+// -
+// work hard. 努力
+// effort 努力
+
+
+4
+【 Hard work  】makes me 【 overwork 】.
+努力工作使我过度劳累
+-
+I fell 【 burned out 】 after finishing the race. // ---- burned out. 做形容词
+I fell 【 burn out 】 after finishing the race. // ------ burned out. 做动词
+跑完比赛后我精疲力竭
+Hard work makes me overwork.
+-
+// -
+// hard work. 努力工作
+// overwork 过度劳累
+// -
+// 【 overwork 过度劳累 】
+// 【 overtired 过度劳累 】
+// -
+// tire 劳累 v
+// tired 劳累的 adj
+// -
+//【 burn out. 精疲力竭 】 ----- v
+//【 burned out. 精疲力竭 】---- adj
+// -
+// burn out. ----------------- I feel 【 burn out 】 after finishing the race.
+// burned out. --------------- I feel 【 burned out 】 after finishing the race.
+// -
+// start out. ---------------- Let's 【 start out 】 by introducing ourselves.
+// roll out. ----------------- The new phone has been 【 put off until 】 next month to 【 roll out 】.
+// fill out. -----------------【 fill out 】 the deposit slip.
+
+
+5
+What 【 specific symptoms 】 do you have? Please give some 【 specific examples 】.
+你有哪些具体的症状，请举几个具体的例子
+// -
+// specific symptom. 具体症状
+// specific example. 具体例子
+// -
+// specific requirement. 具体要求
+// -
+// specific skills. 具体技能
+// specific purpose. 具体目的
+// specific situation. 具体情况
+// specific indicator. 具体指标
+// specific place. 特定地点/具体地点
+// -
+//【 require 要求 v 】
+//【 requirement 要求 n 】
+
+
+6
+She is a 【 qualified 】 doctor.
+她是一名合格的医生
+-
+We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualified products 】.
+我们应该保证产品质量，生产合格的产品
+-
+// -
+// qualify 合格 v
+//【 qualified 合格的 】
+// -
+//【 qualified product. 合格的产品 】
+//【 product quality. 产品质量 】
+// -
+// quality 质量 n
+// qualify 合格 v
+// qualified 合格的 adj
+// -
+// produce 生产 v
+
+
+
+------- ------- ------- ------- ------- ------- -------
+这份工作不适合我
+这件裙子适合参加派对
+你很适合这个职位
+-
+她通过实习获得经验
+-
+只要不下雨，我就和你一起去
+只要努力就会成功
+这条路和那条路一样长
+电脑需要硬件也需要软件
+-
+努力工作使我过度劳累
+跑完比赛后我精疲力竭
+-
+你有哪些具体的症状，请举几个具体的例子
+-
+她是一名合格的医生
+我们应该保证产品质量，生产合格的产品
 ```

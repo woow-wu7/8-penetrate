@@ -19,6 +19,9 @@
 - `start out. 开始` // start out. = start with.
 - `roll out. 推出`
 - `fill out. 填写`
+- `burn out. 精疲力竭` // ----- v
+- `burned out. 精疲力竭` // --- adj
+-
 - start out.
 - **【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】**
 - **【 Let's 【 start with 】 introducing ourselves. 】**
@@ -41,6 +44,10 @@
 - fill out.
 - **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
 - // deposit slip. 存款单
+-
+- burn out.
+- **【 I fell 【 burned out 】 after finishing the race. 】** // ---- burned out. 做形容词
+- **【 I fell 【 burn out 】 after finishing the race.】** // ------- burned out. 做动词
 -
 - BB.
 - `camp 露营`
@@ -472,6 +479,10 @@
 - `as well as. 也 既...又...  以及`
 - **【 Computers require 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件 】**
 - **【 He is a mathematician 【 as well as 】 a scientist. 】**
+- `as long as. 只要 一样长`
+- **【 I will go with you 【 as long as 】 it doesn't rain. 】**
+- **【 As long as 】 you 【 work hard 】, you will 【 succeed 】.**
+- **【 This road 【 as long as 】 that one. 】**
 -
 -
 - 25
@@ -497,6 +508,7 @@
 - **【 You should take your time to think about it before you making a decision. 在做决定之前，你应该花时间好好考虑一下 】**
 - **【 take your time and do it right. 慢慢来，把事情做好 】**
 -
+-
 - 28
 - `integrate 融入 合并 集成`
 - _【 integrate into. 融入 】_
@@ -518,6 +530,7 @@
 - // -- state 状态
 - // -- statue 雕像
 -
+-
 - 29
 - `intern 实习生`
 - `internship 实习期`
@@ -525,6 +538,68 @@
 - **【 【 Interns 】 don't receive salaries during the 【 internship 】 【 period 】. 实习生在实习期间没有工资 】**
 - **【 Alice is a collage student and 【 in her internship 】 now. 爱丽丝是一名大学生,现在正在实习 】**
 - // -- period 期间 时期
+-
+-
+- 30
+- `suit 合适v 西服 n`
+- `suitable 合适的 adj`
+- _【 be suitable for. 适合于 】_
+- **【 This job 【 is not suitable for 】 me. 】**
+- **【 This dress 【 is suitable for 】 the party. 】**
+- **【 You are suitable for the position. 】**
+-
+-
+- 31
+- `put on experience. 获得经验`
+- **【 She 【 puts on experience 】 through her internship. 她通过实习获得经验 】** = She puts on experience by taking an internship.
+- **【 She 【 gained 】 experience through her internship. 她通过实习获得经验 】**
+-
+-
+- 32
+- `recruit 招募`
+- **【 Most of the workers will be 【 recruited 】 locally. 大多数工人都会在本地招募 】**
+- // -- local 本地的 adj
+- // -- locally 本地地 adv
+-
+-
+- 33
+- `addition 添加 增加 n`
+- `additional 额外的 附加的 adj`
+- condition 条件
+- _【 in addition to. 除了...外 】_
+- **【 【 In addition to 】 my weekly wage, I got a lot of 【 tips 】. 除了每周的薪水外，我还能得到不少小费 】**
+- **【 The install function receives the app instance 【 along with 】 【 additional 】 options passed to app.use() .】**
+-
+-
+- 34
+- `hard work. 努力工作`
+- `overwork 过度劳累`
+- `overtired 过度劳累`
+- _【 burn out. 精疲力竭 】_
+- **【 【 Hard work 】 makes me 【 overwork 】. 】**
+- // -- overtired 过度劳累
+- // -- overwork = overtired.
+- // -
+- // -- tire 劳累 v
+- // -- tired 劳累的 adj
+-
+- AA
+- `burn out. 精疲力竭`
+- **【 I fell 【 burned out 】 after finishing the race. 】** // ---- burned out. 做形容词
+- **【 I fell 【 burn out 】 after finishing the race.】** // ------- burned out. 做动词
+-
+- —
+-
+-
+-
+- 35
+- `qualified 合格的 adj`
+- `qualify 合格 v`
+- quality 质量
+- _【 qualified product. 合格的产品 】_
+- _【 product quality. 产品质量 】_
+- **【 We should ensure 【 product quality 】 and 【 produce 】 【 qualified products 】. 】**
+- **【 She is a 【 qualified 】 doctor. 她是一名合格的医生 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -1029,7 +1104,7 @@ Time	Subtitle	Machine Translation
 4:02	position I think because my major was marketing	职位 我想因为我的专业是市场营销
 4:06	quite suitable for this position to answer this question you should talk	非常适合这个职位 回答这个问题你应该
 4:11	about your work experience but I haven't worked anywhere what could	谈谈你的工作经历 但我没有在任何地方工作过
-4:16	I put on experience you can talk about the experiences and	我可以给你提供什么经验 可以谈论
+4:16	I 【 put on experience 】 you can talk about the experiences and	我可以给你提供什么经验 可以谈论
 4:21	activities you've had at University related to this job	您在大学期间与 这份工作相关的经历和活动
 4:25	is it okay to say that the employer asks this question because	吗？可以说 雇主问这个问题是因为
 4:30	they want to make sure that you can do the job	他们想确保您能够胜任 这份工作，
@@ -1056,7 +1131,7 @@ Time	Subtitle	Machine Translation
 6:05	you've come so early yes I didn't want to be late	你来得太早了 是的我 不想迟到，请
 6:10	take a seat please thanks here's my resume	坐下， 谢谢，这是我的简历，
 6:16	let me introduce myself my name is Simon Evans	让我自我介绍一下，我叫西蒙· 埃文斯，
-6:20	I am the recruiting team leader of icy Media Company	我是冰冷媒体公司的招聘团队负责人，
+6:20	I am the 【 recruiting 】 team leader of icy Media Company	我是冰冷媒体公司的招聘团队负责人，
 6:25	I will be your interviewer today tell me about yourself	今天我将成为你的面试官，请介绍 一下你自己，
 6:29	my name is John Anderson I'm 22 years old	我叫约翰·安德森，我是 我今年 22 岁，
 6:33	I just graduated from the University of Georgia	刚刚从佐治亚大学毕业，
@@ -1076,7 +1151,7 @@ Time	Subtitle	Machine Translation
 7:41	overly critical of myself when I completed a project I always feel	当我完成一个项目时，我往往对自己过于挑剔 我总是觉得
 7:46	that I could have done better even though the response I received was	我可以做得更好， 即使我收到的回应是
 7:51	positive this often leads me to overwork myself	积极的， 这常常导致我自己过度劳累，
-7:54	and leaves me feeling burned out	并且 让我感到精疲力尽
+7:54	and leaves me feeling 【 burned out 】	并且 让我感到精疲力尽
 7:58	I recognize this weakness and over the past few years I have been actively	我认识到这一弱点，在 过去的几年里，我一直在积极
 8:03	working to improve that why do you think you are suitable for	努力改进， 为什么你认为自己适合
 8:06	this job I am confident that I am a good fit for	这份工作 我相信我很适合
