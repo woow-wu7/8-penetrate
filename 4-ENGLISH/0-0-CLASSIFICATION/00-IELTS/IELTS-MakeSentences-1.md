@@ -68,7 +68,7 @@ I have to / must to leave 【 right away 】.
 我必须马上离开
 -
 The doctor came 【 right away 】.
-以上马上就来了
+医生马上就来了
 -
 //【 right away. 立即 马上 】
 // -
@@ -121,7 +121,7 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 -
 我必须马上睡觉
 我必须马上离开
-以上马上就来了
+医生马上就来了
 -
 我最大的遗憾是没有娶她
 这个公司推迟了推出新手机的计划
@@ -776,4 +776,57 @@ We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualifi
 -
 她是一名合格的医生
 我们应该保证产品质量，生产合格的产品
+```
+
+##### 6 Make sentences 2024-03-19
+
+```
+1
+We walked along the 【 corridor 】 to the elevator.
+我们沿着走廊走到电梯
+-
+This 【 transportation corridor 】 connects two major cities.
+这条交通走廊连接了两个主要城市
+-
+// -
+// corridor 走廊 通道 过道 n
+//【 transportation corridor. 运输走廊 运输通道 】
+
+
+2
+The computer can 【 simulate 】【 the process of 】 his 【 wealth accumulation 】.
+电脑可以模拟他财富积累的过程
+-
+The computer can 【 simulate 】 the different weather conditions.
+计算机可以模拟不同的天气状况
+-
+He 【 accumulates 】 wealth for future use.
+他积攒财富供将来使用
+-
+// simulate 模拟 v
+// accumulate 积累 v
+//【 wealth accumulation. 财富积累 】
+//【 spiritual wealth. 精神财富 】
+// the process of. ...的过程
+// -
+// simulate 模拟 v
+// simulation 模拟 n
+// -
+// accumulate 累积 v
+// accumulation 累积 n
+// accumulator 累积器 n
+// const a = array.reduce((accumulator, current) => {})
+// -
+// wealth 财富
+//【 spiritual wealth. 精神财富 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我们沿着走廊走到电梯
+这条交通走廊连接了两个主要城市
+-
+电脑可以模拟他财富积累的过程
+计算机可以模拟不同的天气状况
+他积攒财富供将来使用
 ```

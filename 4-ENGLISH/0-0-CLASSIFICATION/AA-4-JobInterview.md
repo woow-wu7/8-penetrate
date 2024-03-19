@@ -600,6 +600,49 @@
 - _【 product quality. 产品质量 】_
 - **【 We should ensure 【 product quality 】 and 【 produce 】 【 qualified products 】. 】**
 - **【 She is a 【 qualified 】 doctor. 她是一名合格的医生 】**
+-
+-
+- 36
+- `corridor 走廊 过道 通道`
+- _【 transportation corridor. 运输通道 运输走廊 】_
+- **【 We walked along the corridor to the elevator. 我们沿着走廊走到电梯 】**
+- **【 This transportation corridor connects two major cities. 这条交通走廊连接了两个主要城市 】**
+-
+-
+- 37
+- `simulate 模拟 v`
+- `simulation 模拟 n`
+- `accumulate 累积 积攒 v`
+- _【 wealth accumulation. 财富积累 】_
+- _【 spiritual wealth. 精神积累 】_
+- _【 the process of. ...的过程 】_
+- **【 The computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】. 计算机可以模拟他财富积累的过程 】**
+- -
+- **【 The computer can 【 simulate 】 different weather conditions. 计算机可以模拟不同的天气状况 】**
+- **【 He 【 accumulates 】 wealth for future use. 他积攒财富供将来使用 】**
+- // -
+- // accumulate 累积 积攒 v
+- // accumulator 累积器 n
+- // accumulation 累积 n
+- //【 wealth accumulation. 财富积累 】
+- // -
+- // simulate 模拟 v
+- // simulation 模拟 n
+- // -
+- //【 the process of. ...的过程 】
+- // -
+- // reduce((accumulator,current) => {})
+-
+- AA.
+- `wealth 财富`
+- _【 spiritual wealth. 精神积累 】_
+- _【 wealth accumulation. 财富积累 】_
+- // **【 spiritual wealth. 精神财富 】**
+-
+- BB.
+- `spirit 精神`
+- `spiritual 精神的`
+- **【 spiritual wealth. 精神财富 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -837,7 +880,10 @@ I will take your interview. 我会安排你的面试
 
 ```111111111
 My English name is York.
-I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
+
+I graduated from South-Central Minzu University with a Bachelor's degree in 【 Communication Engineering 】 in 2013 in WuHan province.
+//【 efficiency engineering. 效率工程 】
+//【 communication engineering. 通信工程】
 -
 After graduation, I have done many jobs, such as: 【 technical support 】, operation, UI design, and front-end engineer.
 After graduation, I have had 【 a total of 】 four work 【 experiences 】.
@@ -854,6 +900,164 @@ and I also implemented a UI component 【 library 】 using Vite, Webpack, Types
 -
 The project I mainly want to introduce is called 《 Driver safety 》《 Full Link Tracking System 》.
 The main function of this app is to help drivers to reduce the probability of accidents when they are driving.
+------- ------- ------- ------- ------- ------- -------
+
+Firstly
+
+1
+-
+The main products of the first company are two map-related apps.
+第一家公司的主要的产品是两个地图相关的app
+-
+In the first company, I was 【 primarily/mainly 】 responsible for implementing the two map-related apps.
+在第一家公司我主要负责实现两个地图相关的app
+// -
+// primary 主要的 adj
+//【 primarily 主要地 adv 】
+// -
+// implement 实现 / implementing
+// -
+// relate 涉及 联系 v
+// related 相关的 adj
+-
+In the second company, I was primarily responsible for implementing the three insurance-related apps.
+在第二家公司我主要负责实现三个保险相关的app
+// -
+// insurance 保险
+
+
+2
+The main function of the first application is to draw layers on the Amap or Baidu Map, and then 【 simulate 】 the real 【 physical structures 】 such as walls or 【 corridors 】 using different shapes.
+第一个app的主要功能是在高德和百度的地图上做绘制图层，然后通过不同的形状模拟真实的物理结构，比如墙体和走廊
+// -
+// simulate 模拟
+// corridor 走廊
+// -
+// structure 结构
+// physical 物理的 身体的
+//【 real physical structure. 真实的物理结构 】
+// -
+// AA.
+// corridor 走廊 通道 过道
+//【 transportation corridor. 运输通道 】
+// -- We walked along the corridor to the elevator. 我们沿着走廊走到电梯
+// -- This transportation corridor connects two major cities. 这条交通走廊连接了两个主要城市
+// BB.
+// simulate 模拟 v
+// simulation 模拟 n
+// CC.
+// accumulate 累积 v
+// accumulation 累积 n
+// accumulator 累积器
+// The computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】.
+
+
+3
+The main function of the second application is (for) parking and 【 navigation 】.
+Which can help drivers 【 navigate 】 their cars to the 【 desired 】 【 parking spot 】 in the 【 parking lot 】,
+then track time and calculate fees.
+第二个app的主要功能是停车和导航，它可以帮助司机在停车场内将车导航到需要停放的位置，然后计时和计费
+// -
+//【 parking lot. 停车场 】
+//【 parking spot. 停车位 】
+// -
+//【 navigate 导航 v 】
+//【 navigation 导航 n 】
+// -
+//【 track time. 记录时间 】
+//【 calculate fees. 计算费用 】
+// -
+// desire 愿望 n
+// desired 期望的 adj
+// -
+// spot 斑点 场所
+
+
+
+------- ------- ------- ------- ------- ------- -------
+
+Secondly
+
+1
+In the second company, I was 【 primarily/mainly 】 responsible for implementing the three insurance-related apps.
+
+
+2
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the accidents while driving.
+第一个app的主要功能是帮助司机减少在车辆行驶过程中发生事故的概率
+// -
+//【 probability 概率 可能性 n 】
+// probable 可能的 adj
+// probably 可能地 adv
+
+3
+The main function of the second application is to 【 provide 】 a 【 online-store 】 for user to 【 purchase 】 the type of insurance they need.
+第二个app的主要功能是提供一个商城让用户购买自己需要类型的保险
+// -
+//【 online-store 网上商店 】
+// provide 提供
+// purchase 购买
+
+4
+第三个app主要功能是跟踪用户的理赔流程
+The main function of the third application is to track the user's clams 【 process 】.
+
+
+
+------- ------- ------- ------- ------- ------- -------
+
+Thirdly
+
+1
+In the third company, I was primarily responsible for implementing projects related to 【 infrastructure 】 and 【 efficiency engineering 】.
+负责实现基建和效率工程相关的项目.
+// -
+// infrastructure 基础设施 -> infra + structure
+//【 efficiency engineering. 效率工程 】
+//【 communication engineering. 通信工程 】
+// -
+// efficiency 效率 n
+// efficient 有效率的 adj
+// -
+// engineer 工程师 n
+// engineering 工程 n
+
+2
+The project I mainly want to introduce is called《 Full Link Tracking System 》.
+
+It can 【 monitor 】 the performance and errors of frontend and backend projects.
+它能检测前端和后端的性能，和错误
+// -
+// monitor 监视器 显示器 n / 监视 v
+// performance 表演 性能 绩效
+
+3
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to query 【 in the form of 】 charts.
+后端部分，它主要监测公司所有业务团队项目部署后集群容器中的性能数据，并用图表的方式显示你需要查询的性能数据
+// -
+// in the form of. 以...的形式
+// cluster 集群
+
+4
+For the font-end part consists of three layers: performance, errors, and user data.
+
+【 In terms of performance 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to parse 【 various 】 【 resources 】.
+
+In terms of errors: It can report error types and the location of errors in components to the platform, and has offline storage 【 capabilities 】.
+
+In terms of user data: It can collect user online duration, physical device information, 【 operational 】 information, etc.
+
+前端部分一共包含三层：性能，错误，和用户数据。
+性能方面：它可以监测前端项目部署后的性能数据，比如白屏时间，api请求时常，浏览器解析各种资源的时间
+错误方面: 它能把错误的类型和错误在组件中的位置上报到平台，并具有离线存储功能
+用户数据方面: 她能收集用户的在线时长，物理设备信息，操作信息等
+// -
+//【 in terms of. 在...方面 】
+// various 各种各样的
+// capability 能力
+// -
+// operation 操作 手术 运营 v
+// operational 操作的 adj
 ```
 
 ```222222222
@@ -861,17 +1065,54 @@ The main function of this app is to help drivers to reduce the probability of ac
 
 
 
-My English name is York.
-I graduated from South-Central Minzu University with a Bachelor's degree in Communication Engineering in 2013 in WuHan province.
-After graduation, I have done many jobs, such as: 【 technical support 】, operation, UI design, and front-end engineer.
-【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
+My name is York.
+( My English name is York. )
+
+I graduated from South-Central Minzu University with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
+
+After graduation, I have done many jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
+
+【 By now 】, I have 6 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
+
+I like use Vue and React 【 tech stacks 】 to develop 【 projects 】,
 I have developed many mini-programs, applications and websites, etc(et cetera).
-I like use Vue and React 【 tech stacks 】 to develop 【 projects 】.
 and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
-The project I mainly want to introduce is called 《 Driver safety 》.
-The main function of this app is to help drivers to reduce the 【 probability 】 of accidents when they are driving.
 
+(1)
+In the first company, I was 【 primarily 】 responsible for implementing the two map-related applications.
 
+The main function of the first application is to draw layers on Amap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
+
+The main function of the second application is parking and 【 navigation 】.
+Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
+
+(2)
+In the second company, I was 【 primarily/mainly 】 responsible for implementing the three insurance-related applications.
+
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the accidents while driving.
+
+The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
+
+The main function of the third application is to track the user's clams 【 process 】.
+
+(3)
+In the third company, I was primarily responsible for implementing projects related to 【 infrastructure 】 and 【 efficiency engineering 】.
+
+The project I mainly want to introduce is called《 Full Link Tracking System 》.
+
+It can 【 monitor 】 the performance and errors of frontend and backend projects.
+
+3.1
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to query 【 in the form of 】 charts.
+
+3.2
+For the font-end part consists of three layers: performance, errors, and user data.
+
+【 In term of performance 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to parse 【 various 】 resources.
+
+In terms of errors: It can report error types and the location of errors in components to the platform, and has offline storage 【 capabilities 】.
+
+In terms of user data: It can collect user online duration, physical device information, 【 operational 】 information, etc.
 
 ------- ------- ------- ------- ------- ------- -------
 ```
