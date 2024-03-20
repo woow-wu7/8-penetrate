@@ -30,8 +30,10 @@ Pay attention to the pronunciation of the word 'period'.
 2
 After graduation, I have had 【 a total of 】 four 【 work experiences 】.
 毕业之后，我一共有四段工作经历
-// -- a total of. 一共 总共
-// -- experiences / experience
+// -
+//【 a total of. 一共 总共 】
+// experiences
+// experience
 // TIPS: Pay attention to the pronunciation of the word 'experiences'
 
 
@@ -39,12 +41,13 @@ After graduation, I have had 【 a total of 】 four 【 work experiences 】.
 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous 】【 tip 】.
 他做了给这个牙医慷慨小费的决定
 -
+I need to wear 【 dental braces 】 to 【 straighten 】 my teeth.
 我需要戴牙套来矫正牙齿
-I need to wear dental braces to straighten my teeth.
 -
 This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 这个牙医正在给这个病人戴牙套
 -
+// -
 // generous 慷慨的
 // tip 尖端 提示 小费
 //【 generous tip. 慷慨的小费 】
@@ -72,11 +75,12 @@ The doctor came 【 right away 】.
 -
 //【 right away. 立即 马上 】
 // -
-// immediately 立刻 马上 adv
-// immediate 立即的
+//【 immediately 立刻 马上 adv 】
+//【 immediate 立即的 】
+// TIPS: Pay attention to the pronunciation of the word 'immediate'.
 // -
-// right now. 此刻 当下
 //【 right away. 立即 马上 】
+// right now. 此刻 当下
 // I need to see a doctor 【 right away 】. It's an emergency. 我必须马上看医生，这是急诊
 
 
@@ -92,6 +96,9 @@ My greatest regret is not marrying her.
 // -- Reading is my 【 greatest 】 【 pleasure 】. 阅读是我最大的乐趣
 // --【 What's your 【 biggest 】 【 accomplishment 】 from this job? 这份工作最大的【成就】是什么？ 】
 // --【 What's your 【 greatest 】 【 achievement 】 from the work? 你在工作中最大的成就是什么？ 】
+// -
+// marry 结婚 娶 嫁 v
+// TIPS: Pay attention to the pronunciation of the word 'marry'.
 
 
 6
@@ -102,9 +109,17 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 新手机被推迟到下个月发布
 -
 //【 put off until. 推迟到 】
-// put off. 推迟
+// 【 put off. 推迟 】
 // -
 // roll out. 推出
+// start out.
+// fill out.
+// -
+//【 burn out. 精疲力尽 】v
+//【 burned out. 精疲力尽 】adv
+// -
+// I fell 【 burned out 】 after finishing the race. // ---- burned out. 做形容词
+// I fell 【 burn out 】 after finishing the race. // ------ burned out. 做动词
 // -
 // 【 The sports meeting has been 【 put off until 】 tomorrow 【 due to 】 bad weather. 由于天气恶劣，运动会推迟到明天举行 】
 // 【 We have had to 【 put off our wedding until 】 September. 我们只得把婚期推迟到九月 】
@@ -115,6 +130,9 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 注意 perfect 和 perfection 发音的不同
 毕业之后，我一共有四段工作经历
 -
+perfect 这个单词如何发音?
+注意 period 这个单词的发音
+-
 他做了给这个牙医慷慨小费的决定
 我需要戴牙套来矫正牙齿
 这个牙医正在给这个病人戴牙套
@@ -124,8 +142,10 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 医生马上就来了
 -
 我最大的遗憾是没有娶她
+-
 这个公司推迟了推出新手机的计划
 新手机被推迟到下个月发布
+跑完比赛后我精疲力竭
 ```
 
 ##### 2 Make sentences 2024-03-15
@@ -213,14 +233,17 @@ My greatest regret is not marrying her.
 【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway 】.
 清理楼道垃圾的通知
 -
+I can 【 simulate 】 【 real physical structures 】, such as walls and 【 corridors 】.
+它可以模拟真实的物理结构，比如墙体和走廊
+-
 I'm throwing the 【 trash 】 into the 【 trash can 】.
 我把垃圾扔进垃圾桶
 -
 【 Waster paper towels 】 are 【 recyclable waste 】.
 废纸巾是可回收垃圾
 -
+//【 hallway 走廊 楼道 】// hallway corridor
 // clean up. 清理
-// hallway 走廊 楼道
 // notice 通知
 // -
 // waste 浪费v 垃圾n ---- 用得最广泛
@@ -236,6 +259,9 @@ I'm throwing the 【 trash 】 into the 【 trash can 】.
 // paper towel. 纸巾
 //【 waste paper towel. 废纸巾 】
 //【 recyclable waste. 可回收垃圾 】
+// -
+// hallway 走廊
+// corridor 走廊
 
 
 6
@@ -273,6 +299,7 @@ You are blocking my way.
 这是给雇主留下深刻印象最重要的一步
 -
 清理楼道垃圾的通知
+它可以模拟真实的物理结构，比如墙体和走廊
 我把垃圾扔进垃圾桶
 废纸巾是可回收垃圾
 -
@@ -587,6 +614,12 @@ Thanks for your help.
 -
 Thank you so much for learning English with me.
 非常感谢你和我一起学习英语
+-
+Appreciating your 【 recommendation 】.
+非常感谢你的推荐
+// -
+// recommend 推荐 v
+// recommendation 推荐 n
 
 
 
@@ -619,6 +652,7 @@ Thank you so much for learning English with me.
 -
 让我为你回答第一个问题
 非常感谢你和我一起学习英语
+非常感谢你的推荐
 ```
 
 ##### 5 Make sentences 2024-03-18
@@ -829,4 +863,150 @@ He 【 accumulates 】 wealth for future use.
 电脑可以模拟他财富积累的过程
 计算机可以模拟不同的天气状况
 他积攒财富供将来使用
+```
+
+##### 7 Make sentences 2024-03-20
+
+```
+1
+He have 【 been proficient in 】 【 data structures 】 and 【 algorithms 】.
+他精通数据结构和算法
+// -
+//【 algorithm 算法 】
+//【 data structure. 数据结构 】
+//【 be proficient in. 精通于... 】
+// -
+//【 sorting algorithm. 排序算法 】
+// I am proficient in several programming languages, including Java, Python, and JavaScript. // including 多用于举例
+// -
+// organize 组织 v
+// organization 组织 n
+// organizational 组织的 adj
+// -
+//【 data structure. 数据结构 】
+//【 organizational structure. 组织结构 】
+//【 physical structure. 物理结构 】
+
+
+2
+We should accept our own 【 mediocrity 】.
+我们应该接受自己的平庸
+-
+We are all 【 mediocre 】 people.
+我们都是平庸的人
+-
+// -
+// mediocrity 平庸 n
+// mediocre 平庸的 adj
+
+
+3
+How is your 【 relationship 】 with your boos?
+What's your relationship like with your boos?
+你和你老板的关系怎么样？
+// -
+// relation 关系 n ------------ 所有事物的关系都行
+// relationship 关系 n -------- 人和人的关系
+
+
+4
+I need to improve my 【 proficiency 】 in spoken English.
+我需要提高我的英语口语熟练度
+-
+He 【 is proficient in 】 several 【 programming languages 】, 【 including 】 Java, python, and Javascript.
+他精通多种编程语言，包括Java、python和Javascript
+-
+My job 【 includes 】 typing, making phone calls, etc(et cetera).
+My job includes typing, making phone calls, and stuff.
+My job includes typing, making phone calls, and so on.
+我的工作包括打字，打电话等等
+-
+// -
+// proficiency 熟练 精通 n
+// proficient 熟练的 精通的 adj
+// -
+// be proficient in. 精通于...
+// -
+// programming language. 程序语言
+// development language. 开发语言
+// concise language. 简洁的语言
+
+
+5
+I will have an 【 on-site interview 】 on next monday.
+我下周一有一个现场面试
+-
+I will have an 【 online interview 】 on next monday.
+我下周一有一个线上面试
+-
+// -
+//【 on-site interview. 现在面试 】
+// site 现场 网站 地点 n
+//【 on-site 现场的 adj 】
+// -
+// on-site interview. 现场面试
+// on-site training. 现场培训
+// -
+//【 training 培训 n 】
+// train 培训 v
+
+
+6
+【 As for me 】, I think this is the 【 best option 】.
+对我来说，我认为这是最佳选项
+-
+// as for me. 对我来说 至于我
+// best option. 最佳选项
+
+
+7
+My job 【 includes 】 typing, making phone calls, etc(et cetera).
+My job includes typing, making phone calls, and stuff.
+My job includes typing, making phone calls, and so on.
+我的工作包括打字，打电话等等
+// -
+// etc = et cetera. 等等 ------ 正式 书面语
+// and stuff. 等等 ------------ 非正式 口语
+// and so on. 等等 ------------ 介于上面 两者之间
+// -
+// type 类型n 打字v
+// typing 打字n / ing动词v
+// -
+// stuff 东西 物品
+// staff 员工
+
+
+8
+It can 【 simulate 】 【 real physical structures 】, such as walls and 【 corridors 】.
+它可以模拟真实的物理结构，比如墙体和走廊
+// -
+//【 simulate 模拟 】
+// real physical structure. 真实的物理结构
+// -
+//【 corridor 走廊 】
+//【 hallway 走廊 】
+// -
+//【 organizational structure. 组织结构 】
+//【 data structure. 数据结构 】
+//【 physical structure. 物理结构 】
+
+
+------- ------- ------- ------- ------- ------- -------
+他精通数据结构和算法
+它可以模拟真实的物理结构，比如墙体和走廊
+-
+我们应该接受自己的平庸
+我们都是平庸的人
+-
+你和你老板的关系怎么样？
+-
+我需要提高我的英语口语熟练度
+他精通多种编程语言，包括Java、python和Javascript
+-
+我下周一有一个现场面试
+我下周一有一个线上面试
+-
+对我来说，我认为这是最佳选项
+我的工作包括打字，打电话等等
+它可以模拟真实的物理结构，比如墙体和走廊
 ```

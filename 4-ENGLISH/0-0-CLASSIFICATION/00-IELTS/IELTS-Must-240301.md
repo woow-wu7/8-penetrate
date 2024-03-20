@@ -620,6 +620,18 @@
 -
 -
 - 2
+- `primary school. 小学`
+- `middle school. 中学`
+- `junior high school. 初中`
+- `senior high school. 高中`
+- `university 大学`
+- `college 学院 大学`
+- _【 primary school student. 小学生 】_
+- _【 middle school student. 中学生 】_
+- _【 junior high school student. 初中生 】_
+- _【 senior high school student. 高中生 】_
+- _【 college student. = university student. 大学生 】_ // college student 用的比较多
+-
 - `Bachelor's degree. 学士学位`
 - `Master's degree. 硕士学位`
 - `Doctor's degree. 博士学位`
@@ -636,11 +648,13 @@
 - `postgraduate 研究生` // post + graduate // post order traversal. 后序遍历
 - `college student. 专科生`
 - `intern 实习生`
-- -
-- `university 大学`
-- `college 学院`
 -
 - AA.
+- doctor master
+- **【 His 【 old brother 】 is 【 doctor 】, and he is a 【 master 】. 他哥哥是博士，他是硕士 】**
+- **【 His old brother has a doctor's degree and he has a master's degree. 】**
+-
+- BB.
 - `intern 实习生`
 - `internship 实习期`
 - _【 intern position. 实习岗 】_
@@ -895,3 +909,46 @@
 - _【 product quality. 产品质量 】_
 - **【 We should ensure 【 product quality 】 and 【 produce 】 【 qualified products 】. 】**
 - **【 She is a 【 qualified 】 doctor. 她是一名合格的医生 】**
+
+###### 2024-03-20
+
+- 1
+- `proficient 熟练的 精通的 adj`
+- `proficiency 熟练 精通 n`
+- _【 be proficient in. 精通于... 】_
+-
+- AA.
+- proficient
+- **【 He 【 is proficient in 】 several 【 programming languages 】, 【 including 】 Java, python, Javascript. 】**
+- **【 I am proficient in development language. 】**
+- **【 She is proficient in multiple language. 】**
+- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- // -- _【 be proficient in. 精通于... 】_
+- // -
+- // -- _【 programming language. 程序语言 】_
+- // -- _【 development language. 开发语言 】_
+- // -- _【 concise language. 简洁的语言 】_
+- // -
+- // -- including 多用于举例
+- // -- concise 简洁的
+-
+- BB.
+- proficiency
+- _【 intermediate proficiency. 中等熟练程度 】_
+- **【 I need to improve my proficiency in spoken English. 我需要提高我的英语口语熟练度 】**
+-
+-
+-
+-
+-
+-
+- 2
+- `and stuff. 等等` --------- 口语，非正式
+- `etc = et cetera 等等` ---- 书面语，正式
+- `and so on. 等等` --------- 介于上面两者之间
+- **【 My job includes 【 typing 】, making phone calls, etc(et cetera). 我的工作包括打字，打电话等等. 】**
+- **【 My job includes typing, making phone calls, 【 and stuff 】. 我的工作包括打字，打电话等等. 】**
+- **【 My job includes typing, making phone calls, and so on. 我的工作包括打字，打电话等等. 】**
+- // -
+- // type 打字 v 类型 n
+- // typing 打字 n

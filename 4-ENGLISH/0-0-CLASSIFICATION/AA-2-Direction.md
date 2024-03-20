@@ -67,8 +67,10 @@
 - **【 Appreciate your 【 suggestion 】. 】** // TIPS: Pay attention to the pronunciation of "suggestion"
 - **【 Appreciate your 【 advise 】. 谢谢你的建议 】**
 - **【 Appreciate your 【 cooperation 】. 】**
+- **【 Appreciate your 【 recommendation 】. 感谢你的推荐 】**
 - // -- suggestion 建议 n
 - // -- advise 劝告 n
+- // -- recommendation 推荐 n
 - -
 - **【 I really 【 appreciate 】 your help. 我真的很感激你的帮助 】**
 - **【 We 【 appreciate 】 your 【 cooperation 】 to 【 make payment 】. 感谢您配合付款 】**

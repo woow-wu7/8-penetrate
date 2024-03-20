@@ -10,6 +10,8 @@
 - _【 start out. 开始 】_
 - _【 roll out. 推出 】_
 - _【 fill out. 填写 】_
+- _【 burn out. 精疲力尽 】_
+- _【 burned out. 精疲力尽 】_
 - **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
 - **【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】**
 - // -- start out. 开始
@@ -19,8 +21,8 @@
 - `start out. 开始` // start out. = start with.
 - `roll out. 推出`
 - `fill out. 填写`
-- `burn out. 精疲力竭` // ----- v
-- `burned out. 精疲力竭` // --- adj
+- `burn out. 精疲力尽` // ----- v
+- `burned out. 精疲力尽` // --- adj
 -
 - start out.
 - **【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】**
@@ -288,6 +290,7 @@
 -
 - 11
 - `proficient 精通的 熟练的`
+- `proficiency 熟练 精通 n`
 - _【 be proficient in. 精通于... 】_
 - _【 programming language. 程序语言 】_
 - _【 development language. 开发语言 】_
@@ -295,12 +298,16 @@
 - **【 I 【 am proficient in 】 front-end development. 】**
 - **【 She 【 is proficient in 】 multiple languages 】**
 - _【 I want to 【 be proficient in 】 English so that I can communicate with people from different countries. 】_
+- // -- including 多用于举例
 - -
 - **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - // -- programming language. 程序语言
 - // -- development language. 开发语言
 - // -- be proficient in. 精通于...
-- // -- concise language. 简洁的语言
+- // -- concise lan
+- -
+- _【 intermediate proficiency. 中等熟练程度 】_
+- **【 I need to improve my proficiency in spoken English. 我需要提高我的英语口语熟练度 】**
 -
 -
 - 12
@@ -643,6 +650,26 @@
 - `spirit 精神`
 - `spiritual 精神的`
 - **【 spiritual wealth. 精神财富 】**
+-
+-
+- 38
+- `on-site 现场的`
+- _【 on-site interview. 现场面试 】_
+- _【 on-site training. 现场培训 】_
+- **【 I will have 【 an on-site interview 】 on next monday. 我下周一有一个现场面试 】**
+- **【 I will have 【 an online interview 】 on next monday. 我下周一有一个视频面试 】**
+-
+-
+- 39
+- `hallway 走廊`
+- `corridor 走廊`
+- **【 It can 【 simulate 】 real 【 physical structures 】, such as walls and 【 corridors 】. 模拟真实的物理结构，比如墙体和走廊 】**
+- // -
+- // simulate 模拟
+- // real physical structure. 真实的物理结构
+- // -
+- // corridor 走廊
+- // hallway 走廊
 
 ##### (2) Some questions that must be asked.
 
@@ -855,24 +882,28 @@ Please answer this question 【 concisely 】
 // --【 programming language. 程序语言 】
 // --【 concise language. 简洁的语言 】
 
-
-
-
-
 12.
+How was your 【 relationship 】 with your boss in your previous company? 在以前的公司里，你和老板的关系如何?
+// -- relation 关系 n ------- 所有事物的关系都行
+// -- relationship 关系 n --- 人和人的关系
+
+
+
+
+13.
 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
 // -- for instance. 例如
 
-13.
+14.
 What's your 【 routine 】 work? 你的日常工作是什么？
 How do you feel about your routine work? 你觉得你的日常工作怎么样？
 // -- routine 日常的 adj / 常规 n
 // -- route 路径 路线
 
-14.
+15.
 There are three things the candidate dose which you should try to avoid.
 
-15.
+16.
 I will take your interview. 我会安排你的面试
 ```
 
@@ -889,7 +920,7 @@ After graduation, I have done many jobs, such as: 【 technical support 】, ope
 After graduation, I have had 【 a total of 】 four work 【 experiences 】.
 -
 【 By now 】, I have 6 years of experience in software and 1 year of experience in UI 【 design 】.
-I have developed many mini-programs, applications and websites, etc(et cetera).
+I have developed many mini-programs, applications and websites, etc(et cetera)/and stuff/and so on.
 I 【 persist in / keep 】 improving my 【 skills level 】, 【 I'm a very fast learner. 】
 【 So / Consequently 】, I have 【 been proficient in 】 HTML, CSS, Javascript, and other front-end 【 technologies 】.
 -
@@ -1075,7 +1106,7 @@ After graduation, I have done many jobs, such as: 【 technical support 】, 【
 【 By now 】, I have 6 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
 
 I like use Vue and React 【 tech stacks 】 to develop 【 projects 】,
-I have developed many mini-programs, applications and websites, etc(et cetera).
+I have developed many mini-programs, applications and websites, etc(et cetera)/and stuff/and so on.
 and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
 (1)
@@ -1103,7 +1134,7 @@ The project I mainly want to introduce is called《 Full Link Tracking System �
 It can 【 monitor 】 the performance and errors of frontend and backend projects.
 
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to query 【 in the form of 】 charts.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to 【 query 】 【 in the form of 】 charts.
 
 3.2
 For the font-end part consists of three layers: performance, errors, and user data.
