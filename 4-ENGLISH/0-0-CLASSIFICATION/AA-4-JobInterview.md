@@ -224,6 +224,7 @@
 - `promotion 晋级 n`
 - _【 be promoted to. 被晋升为... 】_
 - **【 He was 【 promoted 】 from 【 associate professor 】 to 【 professor 】. 他从副教授升级到了教授. 】**
+- **【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
 - **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
 - -
 - √ **【 【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
@@ -670,6 +671,19 @@
 - // -
 - // corridor 走廊
 - // hallway 走廊
+-
+-
+- 40
+- `collocate 搭配 v`
+- `collocation 搭配 n` // col + location
+- `location 位置 n`
+- _【 fixed collocation. 固定搭配 】_
+- _【 common collocation. 常见搭配 】_
+- **【 There are many 【 fixed collocation 】 in English language. 英语中有很多固定搭配 】**
+- **【 We need to 【 collocate 】 the word 【 properly 】 in the sentence. 我们需要在句子中恰当地搭配这些单词 】**
+- // -
+- // proper 适当的 恰当的 adj
+- // properly 适当地 恰当地 adv
 
 ##### (2) Some questions that must be asked.
 
@@ -1030,8 +1044,10 @@ The main function of the second application is to 【 provide 】 a 【 online-s
 // purchase 购买
 
 4
-第三个app主要功能是跟踪用户的理赔流程
-The main function of the third application is to track the user's clams 【 process 】.
+第三个app主要功能是覆盖理赔的整个流程
+The main function of the third application is to cover the entire process of 【 claims 】.
+// -
+// claim 索赔 v n
 
 
 
@@ -1124,7 +1140,7 @@ The main function of the first application is to help drivers to 【 reduce 】 
 
 The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
 
-The main function of the third application is to track the user's clams 【 process 】.
+The main function of the third application is to cover the entire 【 process of 】 【 claims 】.
 
 (3)
 In the third company, I was primarily responsible for implementing projects related to 【 infrastructure 】 and 【 efficiency engineering 】.
@@ -1786,6 +1802,7 @@ immigrate 移民
 - // -- focus on. 关注 注意
 - // -- tone 音调 语调
 - // -- // TIPS: pay attention to pronunciation.
+- // -- _【 skin tone. 肤色 】_
 - 222.
 - `Throughout the interview. You can also let them know what areas you have a lot of experience.`
 - // Throughout the interview. 在整个面试过程中

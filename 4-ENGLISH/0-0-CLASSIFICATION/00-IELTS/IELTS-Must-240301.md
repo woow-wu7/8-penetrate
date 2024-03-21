@@ -935,7 +935,7 @@
 - BB.
 - proficiency
 - _【 intermediate proficiency. 中等熟练程度 】_
-- **【 I need to improve my proficiency in spoken English. 我需要提高我的英语口语熟练度 】**
+- **【 I need to improve my 【 proficiency 】 【 in 】 spoken English. 我需要提高我的英语口语熟练度 】**
 -
 -
 -
@@ -948,7 +948,59 @@
 - `and so on. 等等` --------- 介于上面两者之间
 - **【 My job includes 【 typing 】, making phone calls, etc(et cetera). 我的工作包括打字，打电话等等. 】**
 - **【 My job includes typing, making phone calls, 【 and stuff 】. 我的工作包括打字，打电话等等. 】**
-- **【 My job includes typing, making phone calls, and so on. 我的工作包括打字，打电话等等. 】**
+- **【 My job includes typing, making phone calls, 【 and so on 】. 我的工作包括打字，打电话等等. 】**
 - // -
 - // type 打字 v 类型 n
 - // typing 打字 n
+-
+-
+-
+-
+-
+-
+- 3
+- `wealth 财富 n`
+- `health 健康 n`
+- _【 accumulate wealth. 累积财富 】_
+- _【 precious wealth. 宝贵的财富 】_
+- -
+- _【 precious wealth. 宝贵的财富 】_
+- _【 precious gift. 珍贵的礼物 】_
+- _【 precious memory. 珍贵的回忆 】_
+- -
+- _【 physical health. 生理健康 】_
+- _【 mental health. 心理健康 】_
+- _【 mental state. 心理状态 】_
+- -
+- **【【 Physical health 】 and 【 mental health 】 are both 【 precious 】【 wealth 】. 生理健康和心理健康都是宝贵的财富 】**
+- **【 The computer can 【 simulate 】 【 the process of 】 his 【 wealth 】 【 accumulation 】. 计算机可以模拟他财富的积累过程 】**
+-
+- AA.
+- precious
+- _【 precious wealth. 宝贵的财富 】_
+- _【 precious gift. 珍贵的礼物 】_
+- _【 precious memory. 珍贵的回忆 】_
+- **【 This 【 precious gift 】 is her most 【 precious memory 】. 这个珍贵的礼物是她最珍贵的回忆 】**
+- **【【 Physical health 】 and 【 mental health 】 are both 【 precious 】【 wealth 】. 生理健康和心理健康都是宝贵的财富 】**
+-
+- BB.
+- accumulate
+- `accumulation 累积 n`
+- `accumulate 累积 v`
+- `accumulator 累积器 n`
+- _【 wealth accumulate. 财富积累 】_
+- **【 The computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】. 计算机可以模拟他财富的积累过程 】**
+-
+- CC.
+- simulate
+- **【 It can【 simulate 】 the real 【 physical structures 】 such as walls or 【 corridors 】 using different shapes. 】**
+- // -
+- // simulate 模拟
+- // the process of. ...的过程
+- // -
+- // _【 physical structure. 物理结构 】_
+- // _【 data structure. 数据结构 】_
+- // _【 organizational structure. 组织结构 】_
+- // -
+- // `corridor 走廊`
+- // `hallway 走廊`

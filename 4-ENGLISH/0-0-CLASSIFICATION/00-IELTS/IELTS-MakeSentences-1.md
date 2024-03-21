@@ -230,10 +230,10 @@ My greatest regret is not marrying her.
 
 
 5
-【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway 】.
+【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway / corridor 】.
 清理楼道垃圾的通知
 -
-I can 【 simulate 】 【 real physical structures 】, such as walls and 【 corridors 】.
+It can 【 simulate 】 【 real physical structures 】, such as walls and 【 corridors 】.
 它可以模拟真实的物理结构，比如墙体和走廊
 -
 I'm throwing the 【 trash 】 into the 【 trash can 】.
@@ -475,7 +475,7 @@ He is 【 not only 】 a mathematician 【 but also 】 a scientist.
 
 
 3
-【 Self-orientation  】is important for personal 【 growth 】 and 【 development 】.
+【 Self-orientation  】is important [ for / to ] personal 【 growth 】 and 【 development 】.
 自我定位对个人的成长和发展很重要
 // 【 self-orientation. 自我定位 】
 // growth 成长 n
@@ -494,13 +494,22 @@ She has a passion for art.
 = She is passionate about art.
 她对艺术有激情
 -
-// strength 优点
+She 【 has a passion for 】 traveling.
+她对旅行充满激情
+-
+She 【 has some passion for 】 traveling.
+他对旅行有一定的热情
+-
+// strength 优点 力量 体力
 // weakness 缺点
 // -
 // 【 be passionate about. 对...充满激情 】
 // -
-// passion 激情 n
+// 【 passion 激情 热情 n 】
 // passionate 激情的 adj
+// -
+//【 have a passion for. 对...有激情 】 --------- 强烈
+//【 have some passion for. 对...有一些激情 】---- 不一定强烈
 
 
 5
@@ -527,6 +536,9 @@ Why is the charging 【 indicator 】 not lighting?
 -
 【 Agriculture 】 and 【 industry 】 are 【 equally important 】.
 农业和工业同等重要
+-
+Did you put on 【 foundation 】 today?
+你今天打粉底了吗？
 -
 // -
 //【 agriculture 农业 n 】
@@ -620,6 +632,7 @@ Appreciating your 【 recommendation 】.
 // -
 // recommend 推荐 v
 // recommendation 推荐 n
+// TIPS: Pay attention to the pronunciation of the word 'recommendation'.
 
 
 
@@ -632,12 +645,15 @@ Appreciating your 【 recommendation 】.
 -
 我的优点是对工作充满激情
 她对艺术有激情
+她对旅行充满激情
+他对旅行有一定的热情
 -
 在做决定之前，你应该花时间好好考虑一下
 为什么充电指示灯不亮
 -
 农业是我们社会的基础
 农业和工业同等重要
+你今天打粉底了吗？
 -
 你为什么不坐这个电梯？
 -
@@ -834,14 +850,20 @@ The computer can 【 simulate 】【 the process of 】 his 【 wealth accumulat
 The computer can 【 simulate 】 the different weather conditions.
 计算机可以模拟不同的天气状况
 -
-He 【 accumulates 】 wealth for future use.
+He 【 accumulates 】 【 wealth 】 for future use.
 他积攒财富供将来使用
 -
+【 Physical health 】 and 【 mental health 】 are both 【 precious 】 【 wealth 】.
+生理健康和心理健康都是宝贵的财富
+-
 // simulate 模拟 v
+// simulation 模拟 n
+// -
+//【 the process of. ...的过程 】
+// -
 // accumulate 积累 v
 //【 wealth accumulation. 财富积累 】
 //【 spiritual wealth. 精神财富 】
-// the process of. ...的过程
 // -
 // simulate 模拟 v
 // simulation 模拟 n
@@ -851,8 +873,12 @@ He 【 accumulates 】 wealth for future use.
 // accumulator 累积器 n
 // const a = array.reduce((accumulator, current) => {})
 // -
+// health 健康
 // wealth 财富
 //【 spiritual wealth. 精神财富 】
+// -
+// precious 珍贵的 宝贵的 adj
+//【 precious gift. 珍贵的礼物 】
 
 
 
@@ -863,6 +889,7 @@ He 【 accumulates 】 wealth for future use.
 电脑可以模拟他财富积累的过程
 计算机可以模拟不同的天气状况
 他积攒财富供将来使用
+生理健康和心理健康都是宝贵的财富
 ```
 
 ##### 7 Make sentences 2024-03-20
@@ -889,7 +916,7 @@ He have 【 been proficient in 】 【 data structures 】 and 【 algorithms �
 
 
 2
-We should accept our own 【 mediocrity 】.
+We should 【 accept 】 our own 【 mediocrity 】.
 我们应该接受自己的平庸
 -
 We are all 【 mediocre 】 people.
@@ -898,6 +925,8 @@ We are all 【 mediocre 】 people.
 // -
 // mediocrity 平庸 n
 // mediocre 平庸的 adj
+// -
+// TIPS: Pay attention to the pronunciation of the word 'accept'.
 
 
 3
@@ -991,6 +1020,7 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 //【 physical structure. 物理结构 】
 
 
+
 ------- ------- ------- ------- ------- ------- -------
 他精通数据结构和算法
 它可以模拟真实的物理结构，比如墙体和走廊
@@ -1009,4 +1039,145 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 对我来说，我认为这是最佳选项
 我的工作包括打字，打电话等等
 它可以模拟真实的物理结构，比如墙体和走廊
+```
+
+##### 8 Make sentences 2025-03-21
+
+```
+1
+【 Physical health 】 and 【 mental health 】 are both 【 precious 】 【 wealth 】.
+生理健康和心理健康都是宝贵的财富
+-
+You are wasting precious time.
+你在浪费宝贵的时间
+-
+// -
+// health 健康 n
+// wealth 财富 n
+// -
+// physical health. 生理将康
+// mental health. 心理健康
+// -
+// precious 宝贵的 珍贵的 adj
+//【 precious gift. 珍贵的礼物 】
+//【 precious memory. 珍贵的回忆 】
+//【 precious wealth. 珍贵的财富 】
+
+
+2
+This 【 precious gift 】 is her most 【 precious memory 】.
+这个珍贵的礼物是她最珍贵的回忆
+// -
+// precious 珍贵的 宝贵的 adj
+//【 precious gift. 珍贵的礼物 】
+//【 precious memory. 珍贵的回忆 】
+//【 precious wealth. 珍贵的财富 】
+
+
+3
+There are may 【 fixed collocations 】 in English language.
+英语中有很多固定搭配
+-
+We need to 【 collocate 】 the word 【 properly 】 in the sentence.
+我们需要在句子中恰当地搭配这些单词
+// -
+// collocation 搭配 n
+// collocate 搭配 v
+// -
+// location 位置 n
+// collocation 搭配 n
+// -
+//【 fixed collocation. 固定搭配 】
+// -
+// proper 适当的 恰当的 adj
+// properly 适当地 恰当地 adv
+
+
+4
+What is the 【 working principle 】 of the 'scoped' attribute  on the style tag in Vue?
+vue 中 style 标签上的 scoped 属性的工作原理？
+-
+It's not just 【 a matter of 】money, It's 【 a matter of 】 【 principle 】.
+这不仅仅是钱的问题，这是一个原则问题
+-
+It's not a matter of 【 ability 】, but a matter of 【 attitude 】.
+这不是能力问题，而是态度问题
+-
+// -
+//【 principle 原则 原理 规范 】
+//【 working principle. 工作原理 】
+// -
+// work 工作 v n
+// working 工作 adj
+// -
+//【 a matter of. ...的问题 】
+
+
+5
+Do you know what 【 TV drama 】 he acted in?
+你知道他扮演了哪些电视剧吗？
+// -
+//【 TV drama. 电视剧 】
+// act in. 扮演
+
+
+6
+【 Focus on 】 the 【 tone 】 of my voice.
+专注于我说话的语气
+注意我说话的语气
+-
+your 【 skin tone 】 is pretty good.
+你的肤色真好
+-
+// -
+// tone 语气 语调 色调
+//【 skin tone. 肤色 】
+// -
+//【 focus on. 专注于 】
+
+
+7
+【 In some instances 】, it may take us longer to 【 get back to you 】.
+在某些情况下，我们可能需要更长时间才能回复您
+// -
+// in some instances. 在某些情况下
+// in some cases. 在某些情况下
+// -
+//【 in some instances. = in some cases. 】
+// -
+//【 get back to you. 给你回复 】
+
+
+8
+We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
+我们可以通过中介申请签证
+// -
+//【 visa 签证 】
+//【 via 通过 经过 】
+// -
+// apply for. 申请
+// -
+// agency 代理 中介 机构 n
+// agent 代理人 n
+
+
+
+------- ------- ------- ------- ------- ------- -------
+生理健康和心理健康都是宝贵的财富
+你在浪费宝贵的时间
+-
+这个珍贵的礼物是她最珍贵的回忆
+我们需要在句子中恰当地搭配这些单词
+-
+vue 中 style 标签上的 scoped 属性的工作原理是什么？
+这不仅仅是钱的问题，这是一个原则问题
+这不是能力问题，而是态度问题
+-
+你知道他扮演了哪些电视剧吗？
+-
+专注于我说话的语气/注意我说话的语气
+你的肤色真好
+-
+在某些情况下，我们可能需要更长时间才能回复您
+我们可以通过中介申请签证
 ```
