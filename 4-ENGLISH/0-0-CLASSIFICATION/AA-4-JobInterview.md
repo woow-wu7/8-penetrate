@@ -882,6 +882,8 @@ Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你
 // -- medical insurance. 医疗保险
 // -- 【 pension plan. 养老金计划 】
 // -- 【 mental braces. 牙套 】
+// -
+// -- insurance 保险 ( 是不可数名词 )
 
 11.
 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
@@ -1122,11 +1124,11 @@ After graduation, I have done many jobs, such as: 【 technical support 】, 【
 【 By now 】, I have 6 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
 
 I like use Vue and React 【 tech stacks 】 to develop 【 projects 】,
-I have developed many mini-programs, applications and websites, etc(et cetera)/and stuff/and so on.
+I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
 and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
 (1)
-In the first company, I was 【 primarily 】 responsible for implementing the two map-related applications.
+In the first company, I was 【 primarily 】 responsible for implementing the two map-related 【 applications 】.
 
 The main function of the first application is to draw layers on Amap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
 
@@ -1134,7 +1136,7 @@ The main function of the second application is parking and 【 navigation 】.
 Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
 
 (2)
-In the second company, I was 【 primarily/mainly 】 responsible for implementing the three insurance-related applications.
+In the second company, I was 【 primarily/mainly 】 in charge of implementing the three insurance-related applications.
 
 The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the accidents while driving.
 

@@ -916,6 +916,8 @@
 - `proficient 熟练的 精通的 adj`
 - `proficiency 熟练 精通 n`
 - _【 be proficient in. 精通于... 】_
+- _【 have a proficiency in. 精通于... 】_
+- 【 be proficient in. = have a proficiency in. 】
 -
 - AA.
 - proficient
@@ -934,8 +936,10 @@
 -
 - BB.
 - proficiency
+- _【 have a proficiency in. 精通于... 】_
 - _【 intermediate proficiency. 中等熟练程度 】_
 - **【 I need to improve my 【 proficiency 】 【 in 】 spoken English. 我需要提高我的英语口语熟练度 】**
+- **【 She has a proficiency in English. 她精通英语 】**
 -
 -
 -

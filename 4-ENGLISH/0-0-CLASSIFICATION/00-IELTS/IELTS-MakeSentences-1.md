@@ -360,10 +360,13 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 
 
 4
+【 For this position 】, the 【 applicant 】 is applying for a loan and driver's license.
 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】.
-For this position, the 【 applicant 】 is applying for a loan and driver's license.
 为了这个职位，这个申请人正在申请贷款和驾驶证
-// -
+-
+We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
+我们可以通过中介申请签证
+-
 //【 applicant 申请人 】
 // apply for a loan. 申请贷款
 // apply for a driver's license. 申请驾驶证
@@ -430,6 +433,7 @@ The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on 
 这个牙医正在给这个病人戴牙套
 -
 为了这个职位，这个申请人正在申请贷款和驾驶证
+我们可以通过中介申请签证
 -
 你在看谁呢？
 窗外有美丽的风景
@@ -950,6 +954,9 @@ My job includes typing, making phone calls, and stuff.
 My job includes typing, making phone calls, and so on.
 我的工作包括打字，打电话等等
 -
+She has a proficiency in English.
+她精通英语
+-
 // -
 // proficiency 熟练 精通 n
 // proficient 熟练的 精通的 adj
@@ -1032,6 +1039,7 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 -
 我需要提高我的英语口语熟练度
 他精通多种编程语言，包括Java、python和Javascript
+她精通英语
 -
 我下周一有一个现场面试
 我下周一有一个线上面试
@@ -1048,8 +1056,11 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 【 Physical health 】 and 【 mental health 】 are both 【 precious 】 【 wealth 】.
 生理健康和心理健康都是宝贵的财富
 -
-You are wasting precious time.
+You are 【 wasting 】 【 precious 】 time.
 你在浪费宝贵的时间
+-
+This 【 precious gift 】 is her most 【 precious memory 】.
+这个珍贵的礼物是她最珍贵的回忆
 -
 // -
 // health 健康 n
@@ -1058,27 +1069,20 @@ You are wasting precious time.
 // physical health. 生理将康
 // mental health. 心理健康
 // -
-// precious 宝贵的 珍贵的 adj
-//【 precious gift. 珍贵的礼物 】
-//【 precious memory. 珍贵的回忆 】
-//【 precious wealth. 珍贵的财富 】
-
-
-2
-This 【 precious gift 】 is her most 【 precious memory 】.
-这个珍贵的礼物是她最珍贵的回忆
-// -
 // precious 珍贵的 宝贵的 adj
 //【 precious gift. 珍贵的礼物 】
 //【 precious memory. 珍贵的回忆 】
 //【 precious wealth. 珍贵的财富 】
+// -
+// waste 浪费v 垃圾n
+// memory 记忆 回忆 n
 
 
-3
+2
 There are may 【 fixed collocations 】 in English language.
 英语中有很多固定搭配
 -
-We need to 【 collocate 】 the word 【 properly 】 in the sentence.
+We need to 【 collocate 】 the words 【 properly 】 in the sentence.
 我们需要在句子中恰当地搭配这些单词
 // -
 // collocation 搭配 n
@@ -1093,7 +1097,7 @@ We need to 【 collocate 】 the word 【 properly 】 in the sentence.
 // properly 适当地 恰当地 adv
 
 
-4
+3
 What is the 【 working principle 】 of the 'scoped' attribute  on the style tag in Vue?
 vue 中 style 标签上的 scoped 属性的工作原理？
 -
@@ -1104,24 +1108,25 @@ It's not a matter of 【 ability 】, but a matter of 【 attitude 】.
 这不是能力问题，而是态度问题
 -
 // -
-//【 principle 原则 原理 规范 】
+//【 principle 原则 原理 规范 n 】
 //【 working principle. 工作原理 】
 // -
 // work 工作 v n
 // working 工作 adj
+//【 working principle. 工作原理 】
 // -
 //【 a matter of. ...的问题 】
 
 
-5
-Do you know what 【 TV drama 】 he acted in?
+4
+Do you know what 【 TV drama 】 he 【 acted in】?
 你知道他扮演了哪些电视剧吗？
 // -
 //【 TV drama. 电视剧 】
 // act in. 扮演
 
 
-6
+5
 【 Focus on 】 the 【 tone 】 of my voice.
 专注于我说话的语气
 注意我说话的语气
@@ -1136,7 +1141,7 @@ your 【 skin tone 】 is pretty good.
 //【 focus on. 专注于 】
 
 
-7
+6
 【 In some instances 】, it may take us longer to 【 get back to you 】.
 在某些情况下，我们可能需要更长时间才能回复您
 // -
@@ -1148,9 +1153,13 @@ your 【 skin tone 】 is pretty good.
 //【 get back to you. 给你回复 】
 
 
-8
+7
 We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
 我们可以通过中介申请签证
+-
+For this position, the 【 applicant 】 is applying for a loan and driver's license.
+为了这个职位，这个申请人正在申请贷款和驾驶证
+-
 // -
 //【 visa 签证 】
 //【 via 通过 经过 】
@@ -1165,8 +1174,9 @@ We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
 ------- ------- ------- ------- ------- ------- -------
 生理健康和心理健康都是宝贵的财富
 你在浪费宝贵的时间
--
 这个珍贵的礼物是她最珍贵的回忆
+-
+英语中有很多固定搭配
 我们需要在句子中恰当地搭配这些单词
 -
 vue 中 style 标签上的 scoped 属性的工作原理是什么？
@@ -1177,7 +1187,51 @@ vue 中 style 标签上的 scoped 属性的工作原理是什么？
 -
 专注于我说话的语气/注意我说话的语气
 你的肤色真好
+你今天涂粉底了吗？
 -
 在某些情况下，我们可能需要更长时间才能回复您
+-
 我们可以通过中介申请签证
+为了这个职位，这个申请人正在申请贷款和驾驶证
+```
+
+##### 9 Make sentences 2025-03-22
+
+```
+1
+【 Ensure 】 the 【 air pressure 】 is within the safe 【 range 】.
+确保气压在安全区间内
+-
+// range 范围n 区间n 变化v
+// interval 间隔 间隙 n
+// -
+//【 air pressure. 气压 】
+// -
+// ensure 确保
+//【 ensure = make sure. 取保 】
+
+
+2
+This 【 method 】 is only 【 applicable 】 to 【 pure 】 digital 【 nested 】 arrays.
+这个方法只适用于纯数字嵌套数组
+-
+// applicable 适用的 adj
+// pure 纯的 纯净的 adj
+// -
+// nest 嵌套 v
+// nested 嵌套的 adj / v过去时
+// -
+// flat 平的 扁平的
+// -
+// infinite 无限的
+// finite 有限的
+// -
+// method 方法 办法
+// TIPS: Pay attention to the pronunciation of the word 'method'.
+
+
+
+------- ------- ------- ------- ------- ------- -------
+确保气压在安全区间内
+这个方法只适用于纯数字嵌套数组
 ```

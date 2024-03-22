@@ -8,6 +8,7 @@
   </head>
   <body>
     <script>
+      // 20. Valid Parentheses
       // 20. 有效的括号
 
       // 题目
@@ -28,27 +29,47 @@
       // ][)()
       // ((([]))
 
-      // - 1. 如果是 ( [ 直接入栈
-      // - 2. 如果是 ) ] 就需要配对，如果栈顶不存在对应的配对的左小括号和中括号 - 就返回false
+      // Steps
+      // - 1. 如果是 ( [ { 直接入栈
+      // - 2. 如果是 ) ] } 就需要配对，如果栈顶不存在 对应的 配对的 左小括号,中括号,大括号 - 就返回false
       // - 3. 如果第一个就是 ) ]，直接false
       // - 4. 如果都满足12，但是遍历完，栈不为空，也是false
 
       // leetcode
       // 20. 有效的括号 https://leetcode.cn/problems/valid-parentheses/
 
+      // Question
+      // -
+      // Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
+      // determine if the input string is valid.
+      // -
+      // An input string is valid if:
+      // Open 【 brackets 】 must be closed by the same type of brackets.
+      // Open brackets must be closed in the correct order.
+      // Every close bracket has a corresponding open bracket of the same type.
+
+      // English
+      // -
+      // - Parentheses 小括号 圆括号
+      // - determine 决定 确定 v
+      // -【 bracket 括号 】
+      // -
+      // -【 stack 栈 】
+      // -【 heap 堆 】
+
       /**
        * @param {string} s
        * @return {boolean}
        */
       var isValid = function (s) {
-        const stack = []; // push pop
+        const stack = []; // stack -> push pop
 
         for (let i = 0, len = s.length; i < len; i++) {
           const cur = s[i];
 
           // push
           if (cur === "(" || cur === "[" || cur === "{") {
-            stack.push(s[i]);
+            stack.push(cur);
           }
 
           // pop
@@ -61,7 +82,7 @@
             stack.pop();
           }
 
-          // 不满足上面两种情况，就是false，因为是配对的偶数
+          // 不满足上面两种情况，就是false，因为是 配对的偶数
           // - 比如一上来就是 ) ] }
           // - 比如 (])
           else return false;
