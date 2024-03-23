@@ -244,6 +244,7 @@
 - `module 模块` // open source module.
 - `medal 奖牌 奖章` // gold medal.
 - `metal 金属` // rare metal.
+- `mode 模式 方式`
 - _【 open source module. 开源模块 】_
 - _【 open source code. 开源代码 】_
 - _【 source code analysis. 源码分析 】_
@@ -669,11 +670,10 @@
 -
 -
 - 3
-- `first of all. 首先`
-- `second of all. 其次`
-- // **【 firstly 首先 】** // adv
-- // **【 first of all. 首先 】**
-- // **【 first up. 首先 】** ------- 更口语化
+- `first of all. 首先` ------------ 口语 书面语
+- `firstly 首先 第一` -------------- 书面语
+- `in the first place. 首先 第一` -- 书面语
+- `first up. 首先` ----------------- 更口语化
 - **【 【 Firstly 】, I 【 would like to 】 thank everyone for coming. 首先，我要感谢大家的光临 】**
 - **【 【 First up 】, I'll introduce myself and the we can start the discussion. 】**
 - // -- would like to. = want to. 想要
@@ -736,10 +736,12 @@
 - `trash 垃圾` ------------ 1.trash / 2.trash can.
 - `rubbish 垃圾`
 - `litter 垃圾n 乱扔v` ---- 公共场所的小块垃圾
+- `littering 乱丢废物n / vIng`
 - _【 junk food. 垃圾食品 】_
 - _【 spam email. 垃圾邮件 】_ // spam 垃圾邮件/不可数名词
 - -
 - **【 recyclable waste. 可回收垃圾 】**
+- **【 take out the garbage. 倒垃圾 】**
 - -
 - _【 trash can. 垃圾桶 】_
 - _【 garbage can. 垃圾桶 】_
@@ -750,12 +752,24 @@
 - _【 trash can. 垃圾桶 】_
 - _【 garbage can. 垃圾桶 】_
 - -
-- **【 I'm throwing the 【 trash 】 into the 【 trash can 】. 】**
+- _【 littering is prohibited. 禁止乱扔 】_
+- _【 take out the garbage. 倒垃圾 】_
+- **【【 takeing out garbage 】 does not mean 【 littering 】. 倒垃圾并不意味着乱扔垃圾 】**
 - -
+- **【 【 In principle 】, 【 littering is prohibited 】. 原则上，禁止乱扔垃圾 】**
+- **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
+- // --【 in principle. 原则上 】
+- // --【 working principle. 工作原理 】
+- // -- principle 原则 原理 规范
+- // -
+- // -- prohibit 禁止 v
+- // -- prohibited 禁止的 adj / V 过去式或分词
+-
+- **【 I'm throwing the 【 trash 】 into the 【 trash can 】. 】**
 - // -- I ran for the garden hose and filled the watering can. 我跑去拿花园水管并装满喷壶
-- take out the garbage.
-- take out the trash.
-- talk rubbish.
+- // -- _【 take out the garbage. 倒垃圾 】_
+- // -- take out the trash.
+- // -- talk rubbish.
 -
 - AA.
 - `recycle 回收利用 v`
@@ -767,6 +781,14 @@
 - // -- towel 毛巾 纸巾
 - // -- paper towel. 纸巾
 - // -- waste paper towel. 废纸巾
+-
+- BB.
+- `principle 原则 原理 规范 n`
+- _【 in principle. 原则上 】_
+- _【 working principle. 工作原理 】_
+- **【 【 In principle 】, 【 littering 】 is 【 prohibited 】. 原则上，禁止乱扔垃圾 】**
+- **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
+- **【 It's not 【 a matter of 】 money, It's a matter of 【 principle 】. 这不仅仅是钱的问题；这是一个原则问题 】**
 -
 -
 -
@@ -1008,3 +1030,73 @@
 - // -
 - // `corridor 走廊`
 - // `hallway 走廊`
+
+###### 2024-03-23
+
+- 1
+- `arrive 到达 v`
+- `arrival 到达 n`
+- _【 arrive at. 到达 ---- 小地点 - 机场 车站 等 】_
+- _【 arrive in. 到达 ---- 大地点 - 城市 国家 等 】_
+- -
+- _【 arrival time. 到达时间 】_
+- _【 departure time. 出发时间 】_
+- -
+- **【 We will 【 arrive in 】 China at 6 o'clock, then 【 arrive at 】 Shanghai at 8 o'clock. 】**
+- **【 A computer screen shows 【 arrival 】 and 【 departure 】 times. 电脑屏幕显示出到达和离开的–时间 】**
+- **【 The train 【 arrived 】 on time. 】**
+-
+- AA.
+- `depart 离开 v`
+- `departure 离开 n`
+- 【 depart departure / arrive arrival 】
+- _【 depart from A to B. 离开 A 去 B 】_
+- _【 leave A for B. 离开 A 去 B 】_
+- 【 depart from A to B. = leave A for B. 】
+- **【 We will depart from China to 【 United States 】. 我们将离开中国去美国 】**
+- **【 We will leave China for United States. 我们将离开中国去美国 】**
+- **【 The train will depart from the platform. 火车将要从站台离开 】**
+-
+- BB.
+- `leave somewhere. 离开某地`
+- `leave for somewhere. 离开去某地`
+- `leave A for B. 离开A去B`
+- leave -> left
+- // TIPS: Pay attention to the different pronunciation between 'leave' adn 'left'.
+- **【 She left Shanghai. 她离开了上海 】**
+- **【 She has left for Shanghai. 她已经去上海了 】**
+- **【 She has left Shanghai for Beijing. 她已经离开上海去北京了 】**
+-
+- CC.
+- `leave sth to sb. 把某物留给某人`
+- `leave A for B. 离开A去B`
+- **【 She left some money to her children. 她给孩子们留了一些钱 】**
+- **【 She has left Shanghai for Beijing. 她已经去上海了 】**
+-
+- DD.
+- `on time. 准时`
+- `in time. 及时`
+- _【 go to work. 去上班 】_
+- _【 get to work. 开始工作 】_
+- _【 get off work. 下班 】_
+- -
+- _【 get off work. 下班 】_
+- _【 get off the bus. 下公交车 】_
+- _【 get out of the car. 下出租车 】_
+- **【 Because he 【 got off work 】 【 on time 】, he was able to 【 get home 】 【 in time 】. 因为准时下班，他才能及时赶到家里 】**
+- **【 He 【 got out of 】 the taxi, then 【 got on 】 the bus. 他下了出租车，然后上了公交车 】**
+- **【 I 【 get in 】 a taxi, then 【 get out of 】 the taxi, then 【 get on 】 a train, then 【 get off 】 the tain. 】**
+-
+- EE.
+- `get on/off. 上下比较大的车，可以正常走出来，比如 bus/train/plane`
+- `get in/out of. 上下比较小的车，需要弯腰的车，比如 car/taxi`
+- get in a car. 上车
+- get out of a car. 下车
+- get on the bus. 上公交车
+- get off the bus. 下公交车
+- **【 I 【 get in 】 a taxi, then 【 get out of 】 the taxi, then 【 get on 】 a train, then 【 get off 】 the tain. 】**
+- // -- get up. 起床
+- // -- go to work. 上班
+- // -- get to work. 开始工作
+- // -- get off work. 下班
+- // -- get off bus. 下公交

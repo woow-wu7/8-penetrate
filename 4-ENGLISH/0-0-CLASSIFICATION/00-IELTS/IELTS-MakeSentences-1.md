@@ -1235,3 +1235,128 @@ This 【 method 】 is only 【 applicable 】 to 【 pure 】 digital 【 neste
 确保气压在安全区间内
 这个方法只适用于纯数字嵌套数组
 ```
+
+##### 10 Make sentences 2025-03-23
+
+```
+1
+I'm not sure 【 if 】 this is a 【 correct / right 】 decision.
+我不确定这是否是正确的决定
+-
+I don't know if it will run tomorrow.
+我不知道明天是否会下雨
+-
+I'll 【 check it out 】 if the package has 【 arrived 】.
+我去检查一下包裹是否已经到了
+-
+Are 【 you interested in 】 the position? = Do you have a interest in this position?
+你这对个岗位是否感兴趣？
+-
+That sounds 【 interesting 】.
+听起来很有趣
+-
+// -
+// if 如果 是否
+// -
+//【 correct 正确的adj 改正v 】
+// make a decision. 做决定
+// -
+//【 be interested in. 对...感兴趣 】
+// -
+// interest 兴趣 n
+// interested 感兴趣的 adj
+// interesting 感兴趣的 adj / vIng
+// -
+// 【 arrive 到达 v 】
+// 【 arrived 到达的 adj / vEd 】
+// 【 arrival 到达 n 】
+// -
+// arrive at. 到达 ------ 小地点 - 机场 车站 等
+// arrive in. 到达 ------ 大地点 - 城市 国家 等
+//【 arrive at the destination. 到达目的地 】
+
+
+2
+We're discussing the changes in the sales 【 chart 】 in the 【 chat 】 room.
+我们在聊天室里面讨论销售图表的变化
+-
+// -
+// chart 图表
+// chat 聊天
+// -
+//【 chat room. 聊天时 】
+//【 sales chart. 销售图表 】
+
+
+3
+【 In principle, 】 【 littering 】 is 【 prohibited 】.
+原则上，禁止乱扔垃圾
+-
+【 Takeing out garbage 】 does not mean 【 littering 】.
+倒垃圾并不意味着乱扔垃圾
+-
+// -
+//【 In principle. 原则上 】
+//【 working principle. 工作原理 】
+// -
+//【 takeing out garbage/trash. 扔垃圾 】
+// -
+// litter 乱扔v 垃圾n
+// littering 动名词
+// -
+// garbage 垃圾 n
+// trash 垃圾 n
+// waste 垃圾n 浪费v
+// garbage can. 垃圾桶
+// trash can. 垃圾桶
+
+
+4
+please 【 place 】 the book in its right 【 place 】.
+= please put the book in its right place.
+请把书放在正确的的地方
+-
+Please 【 place 】 the book on the 【 shelf 】.
+请把书放在书架上
+-
+// place 放置v 安放v 地方n 位置n
+// -
+// shelf 架子
+
+
+5
+You are 【 definitely 】 【 kidding 】 with me.
+你绝对是在和我开玩笑
+-
+Are you kidding me?
+Are you kidding 【 with 】 me?
+你在开玩我笑吧？
+-
+please don't kid with me.
+please don't 【 joke 】 with me.
+请不要开我玩笑
+-
+// kid 小孩n 开玩笑v
+// joke 笑话n 开玩笑v
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我不确定这是否是正确的决定
+我不知道明天是否会下雨
+我去检查一下包裹是否已经到了
+你这对个岗位是否感兴趣？
+听起来很有趣
+-
+我们在聊天室里面讨论销售图表的变化
+-
+原则上，禁止乱扔垃圾
+倒垃圾并不意味着乱扔垃圾
+-
+请把书放在正确的的地方
+请把书放在书架上
+-
+你绝对是在和我开玩笑
+你在开玩我笑吧？
+请不要开我玩笑
+```

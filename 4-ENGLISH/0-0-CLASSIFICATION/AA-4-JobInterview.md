@@ -1114,7 +1114,7 @@ In terms of user data: It can collect user online duration, physical device info
 
 
 
-My name is York.
+I'm York.
 ( My English name is York. )
 
 I graduated from South-Central Minzu University with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
@@ -1138,7 +1138,7 @@ Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parkin
 (2)
 In the second company, I was 【 primarily/mainly 】 in charge of implementing the three insurance-related applications.
 
-The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the accidents while driving.
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the 【 accidents 】 while driving.
 
 The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
 
@@ -1152,7 +1152,7 @@ The project I mainly want to introduce is called《 Full Link Tracking System �
 It can 【 monitor 】 the performance and errors of frontend and backend projects.
 
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to 【 query 】 【 in the form of 】 charts.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
 For the font-end part consists of three layers: performance, errors, and user data.

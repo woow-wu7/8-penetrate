@@ -7,14 +7,22 @@
 - _【 working principle. 工作原理 】_
 - _【 in principle. 原则上 】_
 - -
+- **【 【 In principle 】, 【 littering 】 is 【 prohibited 】. 原则上，禁止乱扔垃圾 】**
 - **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
-- Vue 中 style 标签上的 scoped 属性的工作原理？
+- //【 takeing out garbage/trash. 扔垃圾 】
+- // -
+- // litter 乱扔 v 垃圾 n
+- // littering 动名词
+- // -
+- // garbage 垃圾 n
+- // trash 垃圾 n
+- // waste 垃圾 n 浪费 v
+- // garbage can. 垃圾桶
+- // trash can. 垃圾桶
 - -
 - **【 It's not 【 a matter of 】 money, It's a matter of 【 principle 】. 这不仅仅是钱的问题；这是一个原则问题 】**
-- -
 - // -- work 工作 v n
 - // -- working 工作 adj
-- // -
 - // --【 a matter of. 关于 是...问题 】
 -
 - AA.
@@ -24,3 +32,16 @@
 - // -- principle 原则 原理 规范 n
 - // -- ability 能力 n
 - // -- attitude 态度 n
+-
+-
+-
+-
+-
+-
+- 2
+- `provide 提供 v`
+- `provider 提供者 n`
+-
+-
+- 3
+- `initialize `
