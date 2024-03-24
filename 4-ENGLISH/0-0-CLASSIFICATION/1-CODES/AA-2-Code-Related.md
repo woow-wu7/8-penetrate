@@ -39,9 +39,4 @@
 -
 -
 - 2
-- `provide 提供 v`
-- `provider 提供者 n`
--
--
-- 3
-- `initialize `
+- 

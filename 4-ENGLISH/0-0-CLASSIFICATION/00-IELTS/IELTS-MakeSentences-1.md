@@ -27,14 +27,23 @@ Pay attention to the pronunciation of the word 'period'.
 //【 perfect 完美的 】
 //【 prefect 省长 县长 】
 
+
 2
 After graduation, I have had 【 a total of 】 four 【 work experiences 】.
 毕业之后，我一共有四段工作经历
-// -
+-
+The company has【 a total of 】 200 【 employees 】.
+公司总共有 200 名员工
+-
 //【 a total of. 一共 总共 】
 // experiences
 // experience
 // TIPS: Pay attention to the pronunciation of the word 'experiences'
+// -
+// employ 雇佣 v
+// employment 雇佣 n
+// employer 雇主
+// employee 雇员
 
 
 3
@@ -48,9 +57,9 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 这个牙医正在给这个病人戴牙套
 -
 // -
-// generous 慷慨的
-// tip 尖端 提示 小费
+//【 generous 慷慨的 】
 //【 generous tip. 慷慨的小费 】
+// tip 尖端 提示 小费
 // -
 //【 make a decision. 做决定 】
 // -
@@ -64,24 +73,43 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 
 4
 I 【 have to 】 go to bed 【 right away 】.
-I must go to bed 【 immediately 】.
+I 【 have to 】 go to bed 【 immediately 】.
 我必须马上睡觉
 -
-I have to / must to leave 【 right away 】.
+I need to 【 see a doctor 】 【 right away 】. It's an 【 emergency 】.
+我需要马上看医生，这是急诊
+-
+I 【 have to / must to 】 【 leave 】 【 right away 】.
 我必须马上离开
 -
 The doctor came 【 right away 】.
 医生马上就来了
 -
 //【 right away. 立即 马上 】
+//【 immediately 立即地 adv 】
+// right away. = immediately
 // -
+//【 immediate 立即的 adj 】
 //【 immediately 立刻 马上 adv 】
-//【 immediate 立即的 】
 // TIPS: Pay attention to the pronunciation of the word 'immediate'.
 // -
 //【 right away. 立即 马上 】
-// right now. 此刻 当下
+//【 right now. 此刻 当下 】
 // I need to see a doctor 【 right away 】. It's an emergency. 我必须马上看医生，这是急诊
+// -
+// see a doctor. 看医生
+// emergency 紧急的
+// -
+// emergency braking. 紧急刹车 ---------- brake 刹车 v
+// emergency ventilation. 紧急通风 ------ ventilation 通过 n
+// emergency call. 紧急呼叫
+// emergency exit. 紧急出口
+// emergency treatment. 紧急治疗
+// emergency supplies. 紧急物资
+// -
+//【 urgent supplies. 紧急物资 】
+//【 emergency supplies. 紧急物资 】
+//【 school supplies. 学习用品 】
 
 
 5
@@ -109,11 +137,13 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 新手机被推迟到下个月发布
 -
 //【 put off until. 推迟到 】
-// 【 put off. 推迟 】
+//【 put off. 推迟 】
 // -
 // roll out. 推出
 // start out.
 // fill out.
+// burn out. 精疲力尽
+// burned out.
 // -
 //【 burn out. 精疲力尽 】v
 //【 burned out. 精疲力尽 】adv
@@ -129,6 +159,7 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 ------- ------- ------- ------- ------- ------- -------
 注意 perfect 和 perfection 发音的不同
 毕业之后，我一共有四段工作经历
+公司总共有 200 名员工
 -
 perfect 这个单词如何发音?
 注意 period 这个单词的发音
@@ -138,6 +169,7 @@ perfect 这个单词如何发音?
 这个牙医正在给这个病人戴牙套
 -
 我必须马上睡觉
+我需要马上看医生，这是急诊
 我必须马上离开
 医生马上就来了
 -
@@ -154,8 +186,16 @@ perfect 这个单词如何发音?
 1
 Put your 【 resume 】 into the 【 cover letter 】.
 把你的简历放在求职信中
-// resume 简历
+-
+After a long break, he finally 【 resumed 】 working.
+经过长时间的休息，他终于恢复工作了
+-
+// resume 简历n 重新开始v 继续v
 //【 cover letter. 求职信 】
+// -
+//【 take a break. 休息一下 】
+// take a break. we'll be right back 休息一下 马上回来
+// How often should you 【 give your eyes a break 】? 你应该多久让眼睛休息一下
 
 
 2
@@ -165,11 +205,12 @@ Put your 【 resume 】 into the 【 cover letter 】.
 We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 我们应该坚持锻炼和学习
 -
-// lose weight. 减肥
+//【 persist in doing sth. 坚持做某事 】
+//【 lose weight. 减肥 】
 //【 long-term persistence. 长期坚持 】
 // -
-// persistence 坚持 n
 // persist 坚持 v
+// persistence 坚持 n ---> persist + ence
 // -
 //【 persist in doing sth. 坚持做某事 】
 // -
@@ -177,7 +218,7 @@ We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 
 
 3
-I plan to travel after 【 resigning 】.
+I plan to 【 travel 】 after 【 resigning 】.
 辞职后我准备去旅行
 // resign 辞职
 // quit 辞职
@@ -197,10 +238,10 @@ I plan to travel after 【 resigning 】.
 
 
 4
-【 Mercury 】 is the 【 closest 】 【 planet 】 to the sun. 水星是距离太阳最近的行星
+【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星
 The Qomolangma is the 【 highest 】 mountain in the world. 珠穆朗玛峰是世界上最高的山峰
-The 【 Nile 】 is the 【 longest 】 river in the world. 尼罗河是世界上最长的河
-It's the most important step to 【 impress 】 the employer. 这是给雇主留下深刻印象最重要的一步
+The 【 Nile 】 is the 【 longest 】 【 river 】 in the world. 尼罗河是世界上最长的河
+It's the most important 【 step 】 to 【 impress 】 the employer. 这是给雇主留下深刻印象最重要的一步
 -
 My 【 greatest 】 【 regret 】 is not to marry her.
 My biggest regret is not marring her.
@@ -226,7 +267,14 @@ My greatest regret is not marrying her.
 // great 伟大的 大的 大
 // greatest 最大的
 // -
-// impress 给...留下深刻印象v 印象n
+// 【 impress 给...留下深刻印象v 印象n 】
+// 【 impression 印象 n 】
+// -
+// sun 太阳
+// son 儿子
+// -
+// river bank. 河岸
+// power bank. 充电宝
 
 
 5
@@ -239,10 +287,19 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 I'm throwing the 【 trash 】 into the 【 trash can 】.
 我把垃圾扔进垃圾桶
 -
-【 Waster paper towels 】 are 【 recyclable waste 】.
+【 Waste paper towels 】 are 【 recyclable waste 】.
 废纸巾是可回收垃圾
 -
-//【 hallway 走廊 楼道 】// hallway corridor
+【 In principle, 】 【 littering 】 is 【 prohibited 】.
+原则上，禁止乱扔垃圾
+-
+【 Takeing out garbage 】 doesn't mean 【 littering 】.
+倒垃圾并不意味着乱扔垃圾
+-
+//【 hallway 走廊 楼道 】
+//【 corridor 走廊 】
+//【 hallway = corridor 】
+// -
 // clean up. 清理
 // notice 通知
 // -
@@ -262,6 +319,12 @@ I'm throwing the 【 trash 】 into the 【 trash can 】.
 // -
 // hallway 走廊
 // corridor 走廊
+// -
+//【 take out garbage. 倒垃圾 】
+// -
+//【 in principle. 原则上 】
+//【 working principle. 工作原理 】
+// principle 原理 原理 规范
 
 
 6
@@ -286,6 +349,7 @@ You are blocking my way.
 
 ------- ------- ------- ------- ------- ------- -------
 把你的简历放在求职信中
+经过长时间的休息，他终于恢复工作了
 -
 减肥需要长期的坚持
 我们应该坚持锻炼和学习
@@ -302,6 +366,8 @@ You are blocking my way.
 它可以模拟真实的物理结构，比如墙体和走廊
 我把垃圾扔进垃圾桶
 废纸巾是可回收垃圾
+原则上，禁止乱扔垃圾
+倒垃圾并不意味着乱扔垃圾
 -
 你踩到我的脚了
 你挡到我看电视了
@@ -1295,6 +1361,21 @@ We're discussing the changes in the sales 【 chart 】 in the 【 chat 】 room
 【 Takeing out garbage 】 does not mean 【 littering 】.
 倒垃圾并不意味着乱扔垃圾
 -
+【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway / corridor 】.
+清理楼道垃圾的通知
+-
+It can 【 simulate 】 【 real physical structures 】, such as walls and 【 corridors 】.
+它可以模拟真实的物理结构，比如墙体和走廊
+-
+I'm throwing the 【 trash 】 into the 【 trash can 】.
+我把垃圾扔进垃圾桶
+-
+【 Waste paper towels 】 are 【 recyclable waste 】.
+废纸巾是可回收垃圾
+-
+What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue?
+vue 中 style 标签上的 scoped 属性的工作原理？
+-
 // -
 //【 In principle. 原则上 】
 //【 working principle. 工作原理 】
@@ -1312,16 +1393,17 @@ We're discussing the changes in the sales 【 chart 】 in the 【 chat 】 room
 
 
 4
-please 【 place 】 the book in its right 【 place 】.
+please 【 place 】 the book 【 in 】 its right 【 place 】.
 = please put the book in its right place.
 请把书放在正确的的地方
 -
-Please 【 place 】 the book on the 【 shelf 】.
+Please 【 place 】 the book 【 on 】 the 【 shelf 】.
 请把书放在书架上
 -
 // place 放置v 安放v 地方n 位置n
 // -
 // shelf 架子
+// TIPS: Pay attention to the pronunciation of the word 'shelf'.
 
 
 5
@@ -1352,6 +1434,12 @@ please don't 【 joke 】 with me.
 -
 原则上，禁止乱扔垃圾
 倒垃圾并不意味着乱扔垃圾
+清理楼道垃圾的通知
+它可以模拟真实的物理结构，比如墙体和走廊
+我把垃圾扔进垃圾桶
+废纸巾是可回收垃圾
+-
+vue 中 style 标签上的 scoped 属性的工作原理？
 -
 请把书放在正确的的地方
 请把书放在书架上

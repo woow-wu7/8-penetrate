@@ -6,12 +6,13 @@
 - _【 have an appointment. 有一个预约 或 有一个约会 】_
 - -
 - **【 Can you 【 make an appointment 】【 for 】 me 【 with 】 the 【 dentist 】 【 for 】 tomorrow. 】**
+- 你能帮我预约明天的牙医吗？
 - // dentist 牙科医生 牙医症所
 - // would like to. = want to.
 - > // EE: dentist: A person whose job is treating people's teeth.
 - -
-- **【 I'd like to 【 make an appointment 】 with Dr.Brown, please. 我想和布朗医生预约一下 】** // with
-- **【 I would like to 【 make an appointment 】 to see Dr.William. 我想要预约看诊威廉医生 】** // to see
+- **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】** // with
+- **【 I would like to 【 make an appointment 】 【 to see 】 Dr.William. 我想要预约看诊威廉医生 】** // to see
 - -
 - **【 I 【 made an appointment 】 for next week to discuss the project. 我预约了下周讨论这个项目 】**
 - **【 I 【 have an appointment 】 at 3 pm. 我下午 3 点有个约会 】** // have an appointment.
@@ -41,6 +42,7 @@
 - **【 Never do what is prohibited by law. 永远不要做法律禁止的事情 】**
 - -
 - inhabit
+- _【 tropical forest. 热带雨林 】_
 - **【 They 【 inhabit 】 the 【 tropical forest 】. 】**
 - **【 The buildings is now 【 inhabited 】 by birds. 】**
 - // 【 tropical forest. 热带雨林 】
@@ -377,6 +379,7 @@
 - _【 source code analysis. 源码分析 】_
 - _【 water source. 水源 】_
 - _【 power source. 电源 】_
+- _【 primary source. 主要来源 】_
 - -
 - _【 natural resource. 资源资源 】_
 - _【 marine resource. 海洋资源 】_
@@ -664,8 +667,25 @@
 - // -- period 时期 一段时间
 - // -- TIPS: Pay attention to the pronunciation of the word 'period'.
 -
+- CC.
+- `primary 主要的 初级的 小学教育的 adj`
+- _【 primary school. 小学 】_
+- _【 primary source. 主要来源 】_
+- -
+- _【 primary source. 主要来源 】_
+- _【 water source. 水源 】_
+- _【 power source. 电源 】_
+- _【 open source code. 开源代码 】_
+- _【 open source module. 开源模块 】_
+- _【 source code analysis. 源码分析 】_
 -
--
+- DD.
+- `tutor 家庭教师`
+- `professor 教授`
+- `associate professor. 副教授`
+- `headmaster 男校长`
+- `headmistress 女校长`
+- `vice principal. 副校长`
 -
 -
 -

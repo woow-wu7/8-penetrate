@@ -692,14 +692,15 @@
 The first question is 【 definitely 】 tell me a little bit about yourself.
 // -
 // impress 给...留下深刻印象v 印象n
-// It's the most important step to 【 impress 】 the employer.
+//【 It's the most important step to 【 impress 】 the employer. 】
 
 
 2.
-What's your 【 biggest 】 【 accomplishment 】 from this job? 这份工作最大的【成就】是什么？
+What's your 【 biggest 】 【 accomplishment 】 from this 【 job 】? 这份工作最大的【成就】是什么？
 What's your 【 greatest 】 【 achievement 】 from the work? 你在工作中最大的成就是什么？
-The biggest 【 accomplishment 】 in this job is completing the development and launch the app. 最大的成就是完成了app的开发和上线
-His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市
+-
+The biggest 【 accomplishment 】 in this job is 【 completing 】 the development and launch the app. 最大的成就完成app的开发和上线
+His main 【 accomplishment / achievement 】has 【 accomplished 】 the company's IPO. 他的主要成就是完成了公司上市
 // -
 // --【 accomplish 完成 v 】
 // --【 accomplishment 成就 完成 n 】
@@ -736,11 +737,13 @@ What are your strengths and weaknesses?
 //【 I want to 【 be proficient in 】 English 【 so that 】 I can communicate with people from different countries. 】
 // -
 // -- proficient 熟练的 精通的 adj
-// -- be proficient in. 精通于...
+// -- 【 be proficient in. 精通于... 】
 // -
 // -- programming language. 程序语言
 // -- development language. 开发语言
 // -- concise language. 简洁的语言
+// -- // TIPS: Pay attention to the pronunciation of the word 'program'.
+// -- // Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
 // -
 // -- so that. 因此
 //
@@ -770,6 +773,7 @@ What are your strengths and weaknesses?
 // -- a sense of ownership. 主人翁意识
 // -- ownership
 // -- internship 实习期
+// -- intern 实习生
 //
 // FF.
 // My strength is that I have a 【 passion 】 for my work. 我的优点是对工作充满激情
@@ -778,6 +782,7 @@ What are your strengths and weaknesses?
 // -- strength
 // -- weakness
 // -- passion 激情 热情
+// --【 have a passion for. 对...有激情 】
 //
 // GG.
 //【 I'm very 【 punctual 】, so I always can 【 meet the project deadlines 】. 】
@@ -798,7 +803,7 @@ What are your strengths and weaknesses?
 4.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 //【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
-// He was promoted from associate professor to professor.
+//【 He was 【 promoted 】 from associate professor to professor. 】
 // -- candidate 候选人
 // -- prime 主要的
 // -
@@ -858,6 +863,7 @@ I expect to be paid the going rate for this type of position.	我期望得到这
 // -
 // --【 expect 期望 预期 v 】
 // --【 expectation 期望 预期 n 】
+// TIPS: Pay attention to the pronunciation of the word 'expectation'.
 // -
 // -- salary
 // -- wage

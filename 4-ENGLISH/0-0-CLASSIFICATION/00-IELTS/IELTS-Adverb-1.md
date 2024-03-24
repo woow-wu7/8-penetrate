@@ -41,3 +41,7 @@
 -
 - `extremely 极端地 非常地`
 - // extremely useful. 非常有用
+-
+- `immediately 立即地 adv`
+- // I have to go to bed 【 immediately 】. 我必须马上睡觉
+- // I have to go to bed 【 right away 】. 我必须马上睡觉
