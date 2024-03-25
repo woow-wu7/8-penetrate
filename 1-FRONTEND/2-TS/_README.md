@@ -83,6 +83,27 @@ composite 合成
 
 interop 互相操作
 // esModuleInterop=true，表示node环境也可以使用 import，而不是只能 require
+
+
+联合类型 union type.
+交叉类型 intersection type.
+// -
+// union 联盟 同盟 美国
+// -
+// intersect 相交 v
+// intersection 相交 n 十字路口 n
+
+
+private 私人的 私有的 adj
+//【 private property. 私有财产 】
+//【 private conversation. 私人谈话 】
+//【 personal privacy. 个人隐私 】
+
+
+protect 保护
+protected 保护的adj / v过去式
+
+enumeration 枚举 n
 ```
 
 # (一) Typescript 常见考点
@@ -101,7 +122,7 @@ A.不同点
       - interface IA extends IB, IC
       - type TA = IB & IC
   3. 作用
-    - type 主要用于：原始值，元组，联合类型，等任何需要你手写的类型，和 无法通过interface来描述的类型
+    - type 主要用于：原始值，元组，联合类型(union type.联合类型)，等任何需要你手写的类型，和 无法通过interface来描述的类型
     - interface 只能用于声明 ( 对象类型 )
   4. 声明合并
     - interface 存在声明合并; 而type不能声明合并，会报错
@@ -112,6 +133,9 @@ A.不同点
     - interface则会显示是接口，具体的类型还需要通过在接口中查看
 B. 相同点
   1. interface 和 type 都可以有 泛型
+- english:
+  - union type. 联合类型
+  - intersection type. 交叉类型
 
 
 (二)
@@ -124,17 +148,22 @@ public private protected 的区别？
 - 详见:
   - 7
   - 本项目/1-FRONTEND/2-TS/7-public-private-protected.ts
-// private property. 私有财产
-// private conversation. 私人谈话
-// personal privacy. 个人隐私
-// protected 保护的adj / v过去式
+- english
+  - private
+    - private 私人的 私有的 adj
+    - 【 private property. 私有财产 】
+    - 【 private conversation. 私人谈话 】
+    - 【 personal privacy. 个人隐私 】
+  - protected
+    - protect 保护
+    - protected 保护的adj / v过去式
 
 
 (三)
 any 和 unknown 的区别?
 - 推荐使用 unknown 而不是 any
 - unknown
-  - unknown在使用的时候必须指定类型，即 ( unknown 必须要在判断完它是什么类型之后，才能继续用 )
+  - unknown 在使用的时候必须指定类型，即 ( unknown 必须要在判断完它是什么类型之后，才能继续用 )
   - unknown 类型，是 any 类型对应的安全类型
 - any
   - any 会绕过类型检查，对 any 类型的值执行操作之前，我们不必进行任何检查
@@ -143,8 +172,8 @@ any 和 unknown 的区别?
   - 本项目/1-FRONTEND/2-TS/3.2-Unknown类型和Any类型.ts
 // unknown
 const unk: unknown = 1;
-const product = unk * unk; // 报错，unknown在使用时必须指定 具体的类型
-const product2 = (unk as number) * (unk as number); // 正确
+const product = unk * unk; // ---------------------------- 报错，unknown在使用时必须指定 具体的类型
+const product2 = (unk as number) * (unk as number); // --- 正确
 // any
 const unk2: any = 2;
 const product3 = unk2 * unk2; // 正确，any不会进行类型检查
@@ -174,6 +203,7 @@ never 和 void 的区别
 (五) Typescript 使用过程中的一些技巧
 
 5.1
+【 enumeration 枚举 n 】
 枚举类型获取每个 key 和 value
 enum Enu {
   A = 2,
@@ -190,6 +220,7 @@ type TArr2 = [number, boolean, undefined];
 type a = TArr1[number]; // 相当于: type a = string
 type b = TArr2[number]; // 相当于: type b = number | boolean | undefined，注意是联合类型
 
+
 5.3
 获取数组类型 的 长度
 type Ttesla = ["tesla", "model 3", "model X", "model Y"];
@@ -200,25 +231,36 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 # (二) 范型工具类型
 
 - Record
-- Required
+-
 - Partial
+- Required
+-
 - Pick
 - Omit
 - Exclude
+-
 - Readonly
 - ReadonlyArray
+-
 - Parameters
 - ReturnType
 - InstanceType
+-
+- Awaited
+-
 - Uppercase Lowercase
 - // 2023/12/18 补充
 - // Required vs Partial
+- // Omit vs Pick vs Exclude
+- // Parameters vs ReturnType vs InstanceType
 - // Awaited
 - // NonNullable
 - 1.详见: 1-FRONTEND/2-TS/2-泛型工具类型.ts
 - 2.类型体操详见: 本项目/1-FRONTEND/2-TS/2-类型体操
 
 ### (1) Record
+
+- [Link-2-泛型工具类型](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2-泛型工具类型.ts)
 
 ```1
 Record
@@ -262,8 +304,10 @@ interface CatInfo {
   age: number;
   breed: string; // breed 是品种的意思
 }
-type CatName = 'miffy'| 'boris'
-const cats: Record<CatName, CatInfo> ={
+type CatName = 'miffy'| 'boris';
+type CatsR = Record<CatName, CatInfo>;
+type cats2 = Record<keyof CatsR, CatInfo> = Record<keyof CatsR, CatInfo>;
+const cats: CatsR ={
    miffy: {age: 10, breed: "Persian"},
    boris: {age:5, breed: 'Maine Coon'},
 };

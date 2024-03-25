@@ -7,13 +7,17 @@ interface Color2 {
   yellow: string;
   blue: number;
 }
-enum color3 { // 枚举可以作为 ( 类型 )，也可以作为 ( 值 )
+
+// enumeration 枚举 n
+// 枚举可以作为 ( 类型 )，也可以作为 ( 值 )
+enum color3 {
   one = 1,
   two,
-  three
+  three,
 }
-type color4 = [number, string, symbol]
+type color4 = [number, string, symbol];
 
+// ------- ------- ------- ------- ------- ------- -------
 // 1
 // Record
 // - 用于将 ( 一种类型属性 - 最终是联合类型 ) 映射到 ( 另一种类型 )
@@ -24,35 +28,46 @@ type TRecord1 = Record<Color1, boolean>; // 鼠标 hover 查看具体的类型
 type TRecord2 = Record<keyof Color2, boolean>;
 type TRecord3 = Record<keyof Color2, Color2["red"]>;
 type TRecord33 = Record<keyof Color2, Color2["red" | "blue"]>; // type TRecord33 = { red: string | number; ... ... }
+type TRecord34 = Record<keyof TRecord33, number>; //type TRecord34 = { red: number; yellow: number; blue: number; }
 type TRecord4 = Record<Color1, Color2>;
 type TRecord5 = Record<string, any>; // key是string类型，value是any类型
 type TRecord6 = Record<keyof any, any>; // key是string | number | symbol，value是any类型
 // --- 分割线 ---
-type TRecord7 = Record<keyof typeof color3, string> // 相当于 type TRecord7 = { one: string; two: string; three: string; }
-type TRecord8 = Record<`${color3}`, string> // 相当于 type TRecord8 = { 1: string; 2: string; 3: string; }
+type TRecord7 = Record<keyof typeof color3, string>; // 相当于 type TRecord7 = { one: string; two: string; three: string; }
+type TRecord8 = Record<`${color3}`, string>; // 相当于 type TRecord8 = { 1: string; 2: string; 3: string; }
 // --- 分割线 ---
-type TRecord9 = Record<color4[number], string> // 相当于 type TRecord9 = { [x: string]: string; [x: number]: string; [x: symbol]: string; }
+type TRecord9 = Record<color4[number], string>; // 相当于 type TRecord9 = { [x: string]: string; [x: number]: string; [x: symbol]: string; }
 // --- 分割线 ---
 const record1: TRecord1 = {
   red: true,
   yellow: true,
+  blue: false,
 };
 const record2: TRecord2 = {
   red: true,
   yellow: true,
+  blue: false,
 };
 const record3: TRecord3 = {
   red: "",
   yellow: "",
+  blue: "",
 };
 const record4: TRecord4 = {
   red: {
     red: "",
     yellow: "",
+    blue: 1,
   },
   yellow: {
     red: "",
     yellow: "",
+    blue: 1,
+  },
+  blue: {
+    red: "",
+    yellow: "",
+    blue: 1,
   },
 };
 const record5: TRecord5 = {
@@ -66,9 +81,12 @@ const record6: TRecord6 = {
   10: "number",
 };
 
+// ------- ------- ------- ------- ------- ------- ------- 【 Partial 和 required 相反 】
 // 2
 // Partial
 // - 将 ( 类型 ) 定义的 ( 所有属性 ) 都修改为 ( 可选的 )
+// ---- // partial 部分的 adj
+// ---- // part 部分 n
 type TPartial1 = Partial<Color2>;
 type TPartial2 = Partial<Record<"a" | "b", boolean>>;
 const partial1: TPartial1 = {
@@ -81,26 +99,29 @@ const partial2: TPartial2 = {
   // c: true, // a 和 b 属性可选，但是不能超过a和b的范围，即一个新属性 c 就会报错
 };
 
-// 3 
+// ------- ------- ------- ------- ------- ------- ------- 【 required 和 Partial 相反 】
+// 3
 // Required
+// ---- require 要求 需求 依靠 依赖 v
+// ---- required 必须的 adj
 interface Color {
   a?: number;
   b?: string;
   c: string;
 }
-type TR = Required<Color>
+type TR = Required<Color>;
 const tr: TR = {
   a: 1,
-  b: '2',
-  c: '3'
-}
+  b: "2",
+  c: "3",
+};
 
+// ------- ------- ------- ------- ------- ------- ------- Pick 和 Omit 刚好相反
 // 4
 // Pick
 // - 从类型定义的属性中，选取 ( 指定一组的属性 )，返回一个 ( 新的类型定义 )
 // - 从字面意思也能知道是 ( 摘取部分属性 )
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
-// -------------------------------------------------------------  Pick 和 Omit 刚好相反
 type TPick1 = Pick<Color2, "red">;
 type TPick2 = Pick<Color2, "red" | "yellow">;
 type TPick3 = Pick<Record<"a" | "b", number>, "b">;
@@ -125,38 +146,48 @@ const pick5: TPick5 = {
   red: 1,
 };
 
+// ------- ------- ------- ------- ------- ------- ------- Omit 和 Pick 刚好相反
 // 5
 // Omit
 // - 忽略某个属性
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
-// ------------------------------------------------------------- Pick 和 Omit 刚好相反
+// ---- omit 省略 忽略 v
+// ---- ellipsis 省略 n
 type TOmit1 = Omit<Color2, "red">;
 type TOmit2 = Omit<Record<"a" | "b" | "c", boolean>, "a" | "b">;
 const omit1: TOmit1 = {
   // 忽略 red 属性，则只剩下 yellow 属性
   yellow: "",
+  blue: 2,
 };
 const omit2: TOmit2 = {
   c: true,
 };
 
+// ------- ------- ------- ------- ------- ------- -------
 // 6
 // Exclude
 // - Exclude 就是将前面类型的与后面类型对比，( 过滤出前面独有的属性 )
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
-const exclude1: Exclude<"a" | "1" | "2", "a" | "y" | "z"> = "1"; // str 的类型是 "1" | "2"，即从前面中去除后面中有的属性
+type Exclude1 = Exclude<"a" | "1" | "2", "a" | "y" | "z">;
+type Exclude2 = Exclude<"a" | "1" | "2", "a" | "1" | "y">;
+const exclude1: Exclude1 = "1"; // str 的类型是 "1" | "2"，即从前面中去除后面中有的属性
+const exclude2: Exclude2 = "2"; // str 的类型是 "1" | "2"，即从前面中去除后面中有的属性
 
+// ------- ------- ------- ------- ------- ------- -------
 // 7
 // ReadOnly
 // - 将类型 T 中包含的属性设置为readonly，并返回一个新类型
 const readonly1: Readonly<Color2> = {
   red: "",
   yellow: "",
+  blue: 1,
 };
 readonly1.red = "11"; // 不能修改，只读，这里报错
 // 扩展
 // 除了使用 Readonly<Color2>能做到只读外，也可以直接设置 interface Color2 { readonly red: string; }
 
+// ------- ------- ------- ------- ------- ------- -------
 // 8
 // ReadonlyArray
 // 8.1
@@ -168,7 +199,7 @@ readonlyArr[0] = "11"; // 报错，类型“TReadonlyArray”中的索引签名�
 // function useEffect(effect: EffectCallback, deps?: DependencyList): void
 //   - type EffectCallback = () => (void | (() => void | undefined))
 //   - type DependencyList = ReadonlyArray<any>
-// 7.3
+// 8.3
 function foo1(arr: ReadonlyArray<string>) {
   arr.slice(); // okay
   arr.push("hello!"); // error!，只读
@@ -182,19 +213,22 @@ function foo3(arr: readonly string) {
   // 报错，仅允许对数组和元组字面量类型使用 "readonly" 类型修饰符。ts(1354)
 }
 
+// ------- ------- ------- ------- ------- ------- -------
 // 9
 // Parameters
+// ---- parameter 参数 -- 形参
+// ---- argument 参数 --- 实参
 function fn8(arg: { a: number; b: string }): void {}
 type TP1 = Parameters<typeof fn8>;
 // 相当于
-// type TP1 = [
-//   arg: {
-//     a: number;
-//     b: string;
-//   }
-// ];
+// type TP1 = [ arg: { a: number; b: string; } ];
+function fn88(a: number, b: string): void {}
+type TP2 = Parameters<typeof fn88>;
+// 相当于
+// type TP2 = [a: number, b: string]
 
-// 9
+// ------- ------- ------- ------- ------- ------- -------
+// 10
 // ReturnType
 function fn9(s: string) {
   return { a: 1, b: s };
@@ -210,13 +244,15 @@ type T16 = ReturnType<never>; // any
 type T17 = ReturnType<string>; // Error
 type T18 = ReturnType<Function>; // Error
 
-// 10
-// Uppercase
-// Lowercase
-type Name = "woow_wu7";
-type UpperName = Uppercase<Name>; // 相当于 type UpperName = "WOOW_WU7"
-
+// ------- ------- ------- ------- ------- ------- -------
 // 11
+// Awaited
+type AAA1 = Awaited<Promise<string>>; // string
+type AAA2 = Awaited<Promise<Promise<number>>>; // number - 不管嵌套有多深，都可以得到 参数类型
+type AAA3 = Awaited<boolean | Promise<number>>; //  number | boolean
+
+// ------- ------- ------- ------- ------- ------- -------
+// 12
 // InstanceType
 class Fn1 {}
 type TInstance = InstanceType<typeof Fn1>; // 相当于 type TInstance = Fn
@@ -225,15 +261,14 @@ type TInstance3 = InstanceType<never>; // any
 type TInstance4 = InstanceType<string>; // Error
 type TInstance5 = InstanceType<Function>; // Error
 
-// 12
-// Awaited
-type AAA1 = Awaited<Promise<string>>; // string
-type AAA2 = Awaited<Promise<Promise<number>>>; // number - 不管嵌套有多深，都可以得到参数类型
-type AAA3 = Awaited<boolean | Promise<number>>; //  number | boolean
-
 // 13
+// Uppercase
+// Lowercase
+type Name = "woow_wu7";
+type UpperName = Uppercase<Name>; // 相当于 type UpperName = "WOOW_WU7"
+
+// 14
 // NonNullable
 // 去除 null 和 undefined 类型
 type T0 = NonNullable<string | number | undefined>; // type T0 = string | number
 type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
-     

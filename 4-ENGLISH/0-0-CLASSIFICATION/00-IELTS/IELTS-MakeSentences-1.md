@@ -396,6 +396,8 @@ You haven't uploaded the video today, if you don't upload again, I will 【 slap
 你今天还没上传视频，如果再不上传，我就要扇你了
 // slap 扇耳光 v n
 // hit 打
+// beat 打败 击败
+// defeat 打败
 // -
 // She gave him a 【 slap 】 on the face.
 
@@ -426,14 +428,18 @@ This 【 dentist 】 is putting the 【 dental braces 】 on the patient.
 
 
 4
-【 For this position 】, the 【 applicant 】 is applying for a loan and driver's license.
+【 For this position 】, the 【 applicant 】 is 【 applying for 】 a loan and 【 driver's license 】.
 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】.
 为了这个职位，这个申请人正在申请贷款和驾驶证
 -
-We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
+We can 【 apply for 】 a 【 visa 】 【 via 】 【 an 】 【 agency 】.
 我们可以通过中介申请签证
 -
+// -
 //【 applicant 申请人 】
+//【 agent 代理人 】
+// -
+//【 apply for. 申请 】
 // apply for a loan. 申请贷款
 // apply for a driver's license. 申请驾驶证
 // apply for a position. 申请职位
@@ -441,10 +447,16 @@ We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
 // loan 贷款
 // position 位置
 // license 执照
-//【 apply for. 申请 】
 // -
 //【 license plate. 车牌 】
 // plate 盘子 牌
+// -
+// 【 visa 签证 】
+// 【 via 通过 】
+// through 通过
+// -
+// 【 agency 机构 代理 】
+// 【 agent 代理人 代理商 】
 
 
 5
@@ -487,6 +499,7 @@ The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on 
 // video 视频
 // audio 音频
 //【 audience 观众 听众 】
+// audiences
 
 
 
@@ -516,7 +529,7 @@ The 【 live streamer 】 is 【 live streaming 】 to the 【 audiences 】 on 
 Computer requires 【 hardware 】 【 as well as 】 【 software 】.
 计算机需要硬件，同时也需要软件
 -
-He is 【 both 】 a mathematician and a scientist.
+He is 【 both 】 a 【 mathematician 】 and a 【 scientist 】.
 He is a mathematician 【 as well as 】 a scientist.
 He is 【 not only 】 a mathematician 【 but also 】 a scientist.
 他除了是数学家还是科学家
@@ -547,17 +560,18 @@ He is 【 not only 】 a mathematician 【 but also 】 a scientist.
 3
 【 Self-orientation  】is important [ for / to ] personal 【 growth 】 and 【 development 】.
 自我定位对个人的成长和发展很重要
+-
 // 【 self-orientation. 自我定位 】
-// growth 成长 n
-// development 发展 开发 n
+// 【 orient 朝向 v 】
+// 【 orientation 方向 定向 n 】
 // -
-// orient 朝向 v
-// orientation 方向 定向 n
+// growth 成长 n
+// 【 development 发展 开发 n 】
 
 
 4
-My strength is that I 【 am passionate about 】 my work.
-= My strength is that I have a passion for my work.
+My strength is that I 【 have a passion for my 】work.
+= My strength is that I 【 am passionate about 】 my work.
 我的优点是对工作充满激情
 -
 She has a passion for art.
@@ -607,9 +621,15 @@ Why is the charging 【 indicator 】 not lighting?
 【 Agriculture 】 and 【 industry 】 are 【 equally important 】.
 农业和工业同等重要
 -
+【 Agriculture 】 and industry are 【 both equally important 】.
+农业和工业两者同等重要
+-
 Did you put on 【 foundation 】 today?
 你今天打粉底了吗？
 -
+// -
+//【 equally important. 同等重要 】
+//【 both equally important. 两这同等重要 】
 // -
 //【 agriculture 农业 n 】
 // culture 文化 n
@@ -723,6 +743,7 @@ Appreciating your 【 recommendation 】.
 -
 农业是我们社会的基础
 农业和工业同等重要
+农业和工业两者同等重要
 你今天打粉底了吗？
 -
 你为什么不坐这个电梯？
@@ -968,10 +989,21 @@ He 【 accumulates 】 【 wealth 】 for future use.
 1
 He have 【 been proficient in 】 【 data structures 】 and 【 algorithms 】.
 他精通数据结构和算法
+-
+I have 【 mastered 】 the 【 development language 】 of Java.
+我掌握了Java这门开发语言
+-
+I have 【 mastered 】 Java and Javascript 【 as 】 development languages.
+我已经掌握了Java和Javascript作为开发语言
+-
 // -
 //【 algorithm 算法 】
 //【 data structure. 数据结构 】
 //【 be proficient in. 精通于... 】
+// -
+// ---- master 掌握 精通 v
+// ---- master 精通的 adj
+// ---- master 主人 硕士 n
 // -
 //【 sorting algorithm. 排序算法 】
 // I am proficient in several programming languages, including Java, Python, and JavaScript. // including 多用于举例
@@ -1015,6 +1047,12 @@ I need to improve my 【 proficiency 】 in spoken English.
 He 【 is proficient in 】 several 【 programming languages 】, 【 including 】 Java, python, and Javascript.
 他精通多种编程语言，包括Java、python和Javascript
 -
+I have mastered the development language of Java.
+我掌握了Java这门开发语言
+-
+I have mastered Java and Javascript as development languages.
+我已经掌握了Java和Javascript作为开发语言
+-
 My job 【 includes 】 typing, making phone calls, etc(et cetera).
 My job includes typing, making phone calls, and stuff.
 My job includes typing, making phone calls, and so on.
@@ -1023,6 +1061,10 @@ My job includes typing, making phone calls, and so on.
 She has a proficiency in English.
 她精通英语
 -
+// -
+// ---- master 掌握 精通 v
+// ---- master 精通的 adj
+// ---- master 主人 硕士 n
 // -
 // proficiency 熟练 精通 n
 // proficient 熟练的 精通的 adj
@@ -1097,6 +1139,8 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 ------- ------- ------- ------- ------- ------- -------
 他精通数据结构和算法
 它可以模拟真实的物理结构，比如墙体和走廊
+我掌握了Java这门开发语言
+我已经掌握了Java和Javascript作为开发语言。
 -
 我们应该接受自己的平庸
 我们都是平庸的人
@@ -1106,6 +1150,9 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 我需要提高我的英语口语熟练度
 他精通多种编程语言，包括Java、python和Javascript
 她精通英语
+-
+我掌握了Java这门开发语言
+我已经掌握了Java和Javascript作为开发语言
 -
 我下周一有一个现场面试
 我下周一有一个线上面试
@@ -1447,4 +1494,90 @@ vue 中 style 标签上的 scoped 属性的工作原理？
 你绝对是在和我开玩笑
 你在开玩我笑吧？
 请不要开我玩笑
+```
+
+##### 11 Make sentences 2024-03-25
+
+```
+1
+Have you ever been to the 【 capital 】 of 【 Germany 】?
+I have been there three years ago.
+你去过德国的首都吗？
+// -
+// have been to. 去过(表经历)
+// capital 首都
+// Germany 德国
+// -
+// German 德国的 adj 德国人 n
+// Germany 德国 n
+
+
+2
+I can 【 communicate with 】 others 【 in different ways 】, such as words, 【 gestures 】, and body language.
+我可以用不同的方式和别人交流，比如言语、手势或身体语
+-
+You can't 【 beat/defeat 】 me 【 in the same way 】.
+你不可能用同样的方式打败我
+-
+We communicate by writing letters.
+我们用写信的方式进行沟通
+-
+You can【 declare 】 custom types 【 in two different ways 】.
+你可以【以两种不同的方式】【声明】自定义类型
+-
+// -
+//【 in way. 以...的方式 用...的方式 】
+//【 in different ways. 用不同的方式 以不同的方式 】
+//【 in the same way. 用同样的方式 】
+// -
+//【 communicate with sb. 与...交流 】
+// -
+// gesture 手势
+// TIPS: Pay attention to the pronunciation of the word 'gesture'.
+// -
+// 【 beat 打败 击败 】
+// 【 defeat 战胜 击败 】
+//  大多数情况 beat 和 defeat 可以互换
+// -
+// declare 声明
+
+
+3
+Please 【 rest assured 】, I will not let you down.
+请放心，我不会让您失望的
+
+
+4
+This 【 option 】 is also possible.
+这个选项也可以
+// option 选项 选择 n
+// optional 可选的 adj
+
+
+5
+The 【 algorithm 】 uses 【 enumeration 】 to search all possible 【 solutions 】.
+该算法使用枚举来搜索所有可能的解决方案
+// -
+// algorithm 算法
+// enumeration 枚举
+// -
+//【 sorting algorithm. 排序算法 】
+//【 enumeration type. 枚举类型 】
+// -
+// solution 解决方案
+
+
+
+------- ------- ------- ------- ------- ------- -------
+你去过德国的首都吗？
+-
+我可以用不同的方式和别人交流，比如言语、手势或身体语
+你不可能用同样的方式打败我
+我们用写信的方式进行沟通
+你可以【以两种不同的方式】【声明】自定义类型
+-
+请放心，我不会让您失望的
+这个选项也可以
+-
+该算法使用枚举来搜索所有可能的解决方案
 ```

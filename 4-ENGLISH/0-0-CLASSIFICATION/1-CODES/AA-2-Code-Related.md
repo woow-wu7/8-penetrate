@@ -39,4 +39,40 @@
 -
 -
 - 2
-- 
+- `algorithm 算法 n`
+- _【 sorting algorithm. 排序算法 】_
+- `enumeration 枚举` // e + nu + me + ration
+- _【 enumeration type. 枚举类型 】_
+- **【 The 【 algorithm 】 【 uses 】 an 【 enumeration 】 to search all possible solutions. 该算法使用枚举来搜索所有可能的解决方案 】**
+-
+- `union type. --------- 联合类型`
+- `intersection type. -- 交叉类型 `
+- // union 联盟 同盟 美国
+- // intersect 相交 v
+- // intersection 十字路口 相交 n
+-
+- `private 私人的 私有的 adj`
+- _【 private property. 私有财产 】_
+- _【 private conversation. 私有谈话 】_
+- _【 personal privacy. 个人隐私 】_
+- // property 财产 属性 n
+- // attribute 属性
+-
+- `protected 保护的 adj`
+- `protect 保护 v`
+-
+- `omit 省略 忽略 v`
+- `ellipsis 省略 n`
+-
+- `parameter 参数` ------ 一般用来表示 形参
+- `argument 参数 争论` --- 一般用来表示 实参
+-
+- `temporary 临时的 adj`
+- `temporarily 临时地 adv`
+- _【 temporary file. 临时文件 】_
+- _【 temporarily closed. 临时关闭 】_
+- _【 temporarily close. 临时关闭 】_
+- **【 Due to the bad weather, the 【 airport 】 has been 【 temporarily closed 】. 因为恶劣的天气，机场临时关闭 】**
+- // airport 机场
+- // air 空气 天空
+- // port 端口 港口
