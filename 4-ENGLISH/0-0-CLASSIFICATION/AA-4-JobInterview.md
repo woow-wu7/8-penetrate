@@ -909,6 +909,21 @@ How was your 【 relationship 】 with your boss in your previous company? 在�
 // -- relation 关系 n ------- 所有事物的关系都行
 // -- relationship 关系 n --- 人和人的关系
 
+13.
+What was the biggest 【 challenge 】 in your 【 last 】 job?
+What was the biggest 【 challenge 】 in your 【 previous 】 job?
+你上一份工作最大的挑战是什么？
+// -
+// challenge 挑战
+// 【 major challenge. 重大挑战 】
+// 【 biggest challenge. 最大的挑战 】
+// -
+// previous 之前的
+// last 最后的
+// -
+// previous job. 之前的工作
+// last job. 最后一份工作
+
 
 
 

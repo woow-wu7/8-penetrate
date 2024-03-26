@@ -8,7 +8,7 @@ interface IStaff {
   name: string;
   age: number;
 }
-type TS = keyof IStaff;
+type Ke = keyof IStaff;
 
 // 2
 class CStaff {
@@ -16,7 +16,9 @@ class CStaff {
   private age: number = 0; // ------ private 只能在 ( 定义name的类内部访问 )，不能在 ( 子类，实例 ) 访问
   protected sex: string = ""; // --- protected 能在 ( 类，子类 ) 中访问，不能在 ( 实例 ) 上访问
 }
-type TS2 = keyof CStaff; // 相当于 type TS2 = "name"，注意: 只能返回 ( 返回 T 上已知公共属性名的 联合类型 )，即 private 和 protected 都遍历不到
+type TS2 = keyof CStaff;
+// 相当于 type TS2 = "name"
+// 注意: 只能返回 ( 返回 T 上已知公共属性名的 联合类型 )，即 ( private 和 protected 都遍历不到 )
 
 
 

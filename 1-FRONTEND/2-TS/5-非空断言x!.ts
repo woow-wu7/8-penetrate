@@ -1,5 +1,6 @@
 // 非空断言 x!
 // - 表示排除类型是 null 和 undefined 的情况
+// - (x!)非空断言 vs (as)类型断言
 
 // 报错
 function notNullFn(arg: string | null | undefined): string {

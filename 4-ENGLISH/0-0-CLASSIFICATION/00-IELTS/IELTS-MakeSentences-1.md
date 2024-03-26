@@ -534,14 +534,26 @@ He is a mathematician 【 as well as 】 a scientist.
 He is 【 not only 】 a mathematician 【 but also 】 a scientist.
 他除了是数学家还是科学家
 -
+I will go with you 【 as long as 】 it doesn't rain.
+只要不下雨，我就和你一起去
+-
+【 as long as 】 you work hard, you will succeed.
+只要努力就会成功
+-
+This road 【 as long as 】 that one.
+这条路和那条路一样长
+-
 // hardware 硬件
 // software 软件
 // -
-// as well as. 也 / 和 / 以及 / 除了...外
+// 【 as well as. 也 以及 】 / 和 / 以及 / 除了...外
 // -
 // mathematician 数学家
 // math 数学
 // scientist 科学家
+// -
+// as long as. 只要 和...一样长
+// as well as. 也 以及
 
 
 2
@@ -708,7 +720,7 @@ That sounds 【 interesting 】.
 
 
 12
-Let's answer for you the first question.
+Let me answer for you the first question.
 让我为你回答第一个问题
 -
 Thanks for your help.
@@ -1567,6 +1579,19 @@ The 【 algorithm 】 uses 【 enumeration 】 to search all possible 【 soluti
 // solution 解决方案
 
 
+6
+This is the 【 correct 】 way to 【 traverse 】 the key attributes of an 【 enumeration 】 type.
+这是正确遍历枚举类型key属性的方法
+// -
+//【 traverse 遍历 穿过 v 】
+// enumeration 枚举 n
+// enumeration type. 枚举类型
+// -
+// correct 正确的
+// TIPS: Pay attention to the pronunciation of the word 'traverse'.
+// TIPS: Pay attention to the pronunciation of the word 'correct'.
+
+
 
 ------- ------- ------- ------- ------- ------- -------
 你去过德国的首都吗？
@@ -1579,5 +1604,92 @@ The 【 algorithm 】 uses 【 enumeration 】 to search all possible 【 soluti
 请放心，我不会让您失望的
 这个选项也可以
 -
+该算法使用枚举来搜索所有可能的解决方案
+这是正确遍历枚举类型key属性的方法
+```
+
+##### 12 Make sentences 2024-03-26
+
+```
+1
+Ary you 【 laughing at 】 me?
+你在笑我？
+-
+Who are you 【 looking at 】?
+你在看谁呢？
+-
+Are you 【 ignoring 】 me?
+你不理我？
+-
+I've been a bit 【 unlucky 】 recently.
+I've had a little bit of bad luck lately.
+我最近有点倒霉
+-
+// -
+//【 laugh at sb. 嘲笑某人 】
+// laugh 笑v 笑声n
+// -
+// ignore 忽视
+// -
+// luck 好运 n
+// lucky 幸运的 adj
+// luckily 幸运地 adv
+// -
+// recent 最近的 adj
+// recently 最近地 adv
+
+
+2
+How many 【 cows/cattle 】 do you have  on your 【 farm 】?
+你的农场有多少头牛？
+-
+How many students are there in your class.
+你们班有多少学生？
+-
+There are 60 students in our class.
+我们班有60个学生
+-
+// 【 cattle 牛 】 ------------- 总称，注意单复数同形
+// -
+// cattle 牛
+// cow 母牛 奶牛 肉牛
+// calf 小牛
+// bull 公牛
+// -
+// calf -> calves 小牛
+// -
+// farm 农场
+
+
+3
+This is the 【 correct 】 way to 【 traverse 】 the 'key' attributes of an 【 enumeration 】 type.
+这是正确遍历枚举类型 key 属性的方法
+-
+This 【 algorithm 】 uses an 【 enumeration 】 to search all possible 【 solutions 】.
+该算法使用枚举来搜索所有可能的解决方案
+-
+// -
+// correct 对的adj 修改v
+// traverse 遍历 v
+// enumeration 枚举
+// -
+// algorithm 算法
+// enumeration 枚举
+//【 sorting algorithm. 排序算法 】
+//【 enumeration type. 枚举类型 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+你在笑我？
+你在看谁呢？
+你不理我？
+我最近有点倒霉
+-
+你的农场有多少头牛？
+你们班有多少学生？
+我们班有60个学生
+-
+这是正确遍历枚举类型 key 属性的方法
 该算法使用枚举来搜索所有可能的解决方案
 ```

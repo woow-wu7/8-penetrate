@@ -45,6 +45,26 @@
 - _【 enumeration type. 枚举类型 】_
 - **【 The 【 algorithm 】 【 uses 】 an 【 enumeration 】 to search all possible solutions. 该算法使用枚举来搜索所有可能的解决方案 】**
 -
+-
+- 3
+- `traverse 遍历 v`
+- `enumeration 枚举 n`
+- `correct 正确的`
+- **【 This is the 【 correct 】 way to 【 traverse 】 the 'key' attributes of an 【 enumeration 】 type. 这是正确遍历枚举类型 key 属性的方法 】**
+- // -- 【 correct 正确的 adj 】
+- // -- 【 enumeration 枚举 n 】
+- // -- 【 enumeration type. 枚举类型 】
+- // TIPS: Pay attention to the pronunciation of the word _【 traverse 】_.
+- // TIPS: Pay attention to the pronunciation of the word _【 correct 】_.
+-
+-
+- 4
+- `specificity 独特性 n`
+- `specific 具体的 特别的 adj`
+- _【 css specificity. css 权重 】_
+-
+-
+- 5
 - `union type. --------- 联合类型`
 - `intersection type. -- 交叉类型 `
 - // union 联盟 同盟 美国
@@ -66,6 +86,9 @@
 -
 - `parameter 参数` ------ 一般用来表示 形参
 - `argument 参数 争论` --- 一般用来表示 实参
+-
+- `strategy 策略 战略`
+- _【 strategy pattern. 策略模式 】_
 -
 - `temporary 临时的 adj`
 - `temporarily 临时地 adv`

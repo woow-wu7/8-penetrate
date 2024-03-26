@@ -230,17 +230,17 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 
 # (二) 范型工具类型
 
-- Record
+- Record +
 -
 - Partial
-- Required
+- Required +
 -
 - Pick
 - Omit
 - Exclude
 -
-- Readonly
-- ReadonlyArray
+- Readonly +
+- ReadonlyArray +
 -
 - Parameters
 - ReturnType
@@ -654,16 +654,19 @@ type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
 - keyof
   - 索引类型查询操作符
   - keyof T 是 ( 索引类型查询 操作符 )，返回 ( T 上已知的公共属性名的 联合类型 )
+  - [keyof](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.1-keyof.ts)
 - in
   - 接着可以使用 [k in keyof T] 来进行遍历
   - 类型: in 可以遍历 枚举 和 联合类型
   - 值: 判断属性是否在对象中
+  - [in](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.3-in.ts)
 - typeof
   - 获取 ( 变量 或 对象 ) 的类型
 - extends
   - 范型约束: ( K extends P ) 表示即 K 继承 P，则 K 具有 P 相同的属性，其实就是约束了 K 的属性只能在 P 的范围内
 - T[K]
   - 索引访问操作符
+  - [T[K]](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.2-T[K].ts)
 - 特例
   - 结果: **keyof any** 返回 **string | number | symbol**
   - 原因: 因为不管是什么类型，它的 key 只能是 string number symbol 中的一种
