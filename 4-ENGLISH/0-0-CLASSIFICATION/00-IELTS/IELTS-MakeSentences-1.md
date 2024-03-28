@@ -781,7 +781,12 @@ Appreciating your 【 recommendation 】.
 This job 【 is not suitable for 】 me.
 这份工作不适合我
 -
+This 【 suit 】【 is suitable for 】 him.
+= this suit suits him.
+这件西服很适合他
+-
 This dress 【 is suitable for 】 the party.
+这件裙子适合参加派对
 -
 You 【 are suitable for 】 this 【 position 】.
 你很适合这个职位
@@ -796,8 +801,8 @@ You 【 are suitable for 】 this 【 position 】.
 
 2
 She 【 put on experience 】 through her 【 internship 】. // 注意这是 一般过去时
+She 【 gained 】 experience through her internship.
 She put on experience by having an internship.
-She gained experience through her internship.
 她通过实习获得经验
 // -
 // 【 put on experience. 增加经验 】
@@ -811,6 +816,7 @@ I will go with you 【 as long as 】 it doesn't rain.
 只要不下雨，我就和你一起去
 -
 【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+= As long as you work hard, you will 【 be successful 】.
 只要努力就会成功
 -
 This road 【 as long as 】 that one.
@@ -820,6 +826,7 @@ Computer require hardware 【 as well as 】 software.
 电脑需要硬件
 // -
 // 【 as well as. 也 以及 】
+// 【 as long as. 只要 】
 // -
 // 【 as long as. 只要 】
 // 【 as long as. 和...一样长 】
@@ -837,6 +844,9 @@ Computer require hardware 【 as well as 】 software.
 // -
 // work hard. 努力
 // effort 努力
+// -
+// 【 hard work. 努力 】
+// 【 overwork 过度劳累 】
 
 
 4
@@ -846,7 +856,6 @@ Computer require hardware 【 as well as 】 software.
 I fell 【 burned out 】 after finishing the race. // ---- burned out. 做形容词
 I fell 【 burn out 】 after finishing the race. // ------ burned out. 做动词
 跑完比赛后我精疲力竭
-Hard work makes me overwork.
 -
 // -
 // hard work. 努力工作
@@ -867,16 +876,21 @@ Hard work makes me overwork.
 // start out. ---------------- Let's 【 start out 】 by introducing ourselves.
 // roll out. ----------------- The new phone has been 【 put off until 】 next month to 【 roll out 】.
 // fill out. -----------------【 fill out 】 the deposit slip.
+// burn out. ----------------- I feel 【 burn out 】 after finishing the race.
 
 
 5
 What 【 specific symptoms 】 do you have? Please give some 【 specific examples 】.
 你有哪些具体的症状，请举几个具体的例子
+-
+These 【 flowers 】 are 【 special 】 to me, because they were given to me by my 【 grandmother 】.
+这些花对我来说很特别，因为它们是我奶奶送的
+-
 // -
-// specific symptom. 具体症状
-// specific example. 具体例子
+// 【 specific symptom. 具体症状 】
+// 【 specific example. 具体例子 】
 // -
-// specific requirement. 具体要求
+// 【 specific requirement. 具体要求 】
 // -
 // specific skills. 具体技能
 // specific purpose. 具体目的
@@ -886,13 +900,18 @@ What 【 specific symptoms 】 do you have? Please give some 【 specific exampl
 // -
 //【 require 要求 v 】
 //【 requirement 要求 n 】
+// -
+// specific 具体的 adj
+// special 特别的 adj
+// -
+// flower 花
 
 
 6
 She is a 【 qualified 】 doctor.
 她是一名合格的医生
 -
-We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualified products 】.
+We should 【 ensure 】 【 【 product 】 quality 】 and 【 produce 】 【 qualified products 】.
 我们应该保证产品质量，生产合格的产品
 -
 // -
@@ -906,12 +925,21 @@ We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualifi
 // qualify 合格 v
 // qualified 合格的 adj
 // -
-// produce 生产 v
+// 【 produce 生产 v 】
+// 【 product 产品 n 】
+// -
+// quality 质量 n
+// qualify 合格 v
+// qualified 合格的 adj
+// -
+// TIPS: Pay attention to the pronunciation of the word 'product'.
+// TIPS: Pay attention to the pronunciation of the word 'produce'.
 
 
 
 ------- ------- ------- ------- ------- ------- -------
 这份工作不适合我
+这件西服很适合他
 这件裙子适合参加派对
 你很适合这个职位
 -
@@ -926,6 +954,7 @@ We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualifi
 跑完比赛后我精疲力竭
 -
 你有哪些具体的症状，请举几个具体的例子
+这些花对我来说很特别，因为它们是我奶奶送的
 -
 她是一名合格的医生
 我们应该保证产品质量，生产合格的产品
@@ -935,22 +964,40 @@ We should 【 ensure 】 【 product quality 】 and 【 produce 】 【 qualifi
 
 ```
 1
-We walked along the 【 corridor 】 to the elevator.
+We 【 walked along 】 the 【 corridor 】 to the elevator.
 我们沿着走廊走到电梯
 -
 This 【 transportation corridor 】 connects two major cities.
 这条交通走廊连接了两个主要城市
 -
+It can 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】.
+它可以模拟真实的物理结构，比如墙体和走廊
+-
+The government 【 is committed to upgrading 】 the country's 【 infrastructure 】.
+政府致力于升级国家的基础设施
+-
 // -
 // corridor 走廊 通道 过道 n
 //【 transportation corridor. 运输走廊 运输通道 】
+// -
+//【 walk along. 沿着...一直走 】
+// -
+// simulate 模拟
+//【 physical structure. 物理结构 】
+// -
+// structure 结构 建筑物 n
+//【 infrastructure 基础设施 】
+// -
+//【 be committed to doing sth. 致力于做某事 】
+// -
+// upgrade 升级 提升 v
 
 
 2
 The computer can 【 simulate 】【 the process of 】 his 【 wealth accumulation 】.
 电脑可以模拟他财富积累的过程
 -
-The computer can 【 simulate 】 the different weather conditions.
+The computer can 【 simulate 】 the different weather 【 conditions 】.
 计算机可以模拟不同的天气状况
 -
 He 【 accumulates 】 【 wealth 】 for future use.
@@ -959,12 +1006,17 @@ He 【 accumulates 】 【 wealth 】 for future use.
 【 Physical health 】 and 【 mental health 】 are both 【 precious 】 【 wealth 】.
 生理健康和心理健康都是宝贵的财富
 -
+Love is a 【 precious gift 】 【 as well as 】 a 【 precious wealth 】.
+= Love is a precious gift and also a precious treasure.
+爱是宝贵的礼物也是宝贵的财富
+-
 // simulate 模拟 v
 // simulation 模拟 n
 // -
 //【 the process of. ...的过程 】
 // -
 // accumulate 积累 v
+// accumulation 积累 n
 //【 wealth accumulation. 财富积累 】
 //【 spiritual wealth. 精神财富 】
 // -
@@ -980,19 +1032,27 @@ He 【 accumulates 】 【 wealth 】 for future use.
 // wealth 财富
 //【 spiritual wealth. 精神财富 】
 // -
+// spirit 精神 n
+// spiritual 精神的 adj
+// -
 // precious 珍贵的 宝贵的 adj
 //【 precious gift. 珍贵的礼物 】
+//【 precious wealth. 珍贵的财富 】
+//【 wealth accumulation. 财富积累 】
 
 
 
 ------- ------- ------- ------- ------- ------- -------
 我们沿着走廊走到电梯
 这条交通走廊连接了两个主要城市
+它可以模拟真实的物理结构，比如墙体和走廊
+政府致力于升级国家的基础设施
 -
 电脑可以模拟他财富积累的过程
 计算机可以模拟不同的天气状况
 他积攒财富供将来使用
 生理健康和心理健康都是宝贵的财富
+爱是宝贵的礼物也是宝贵的财富
 ```
 
 ##### 7 Make sentences 2024-03-20
@@ -1692,4 +1752,35 @@ This 【 algorithm 】 uses an 【 enumeration 】 to search all possible 【 so
 -
 这是正确遍历枚举类型 key 属性的方法
 该算法使用枚举来搜索所有可能的解决方案
+```
+
+##### 13 Make sentences 2024-03-28
+
+```
+1
+This 【 suit 】 【 is suitable for 】 him.
+= This suit suits him.
+这件西服很适合他
+-
+This course 【 is suitable for 】 【 beginners 】.
+这门课适合初学者
+-
+// -
+// suit 适合 v  西服 n
+// suitable  适合的 adj
+// -
+//【 be suitable for. 适合于... 】
+// -
+// begin 开始
+// beginner 初学者
+
+
+2
+The 【 sponsor 】 【 donated 】 one 【 million 】 yuan to our company.
+赞助商给我们公司捐赠了100万元
+// -
+// sponsor 赞助商
+// donate 捐助
+// -
+// million 百万
 ```

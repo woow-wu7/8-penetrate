@@ -1,13 +1,11 @@
 {
   "tabnine.experimentalAutoImports": true,
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.iconTheme": "vscode-great-icons",
   "editor.fontSize": 14,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
-  "cSpell.languageSettings": [
-  
-  ],
+  "cSpell.languageSettings": [],
   "fileheader.configObj": {
     "autoAdd": false // koro1FileHeader 自动添加文件头部注释 默认开启
   },
@@ -28,7 +26,7 @@
   },
   "editor.mouseWheelScrollSensitivity": 0.3,
   "terminal.integrated.tabs.enabled": false,
-  "###########################################################": "#######todo-tree",
+  "###########################################################": "####### 1.todo-tree",
   "todo-tree.filtering.excludeGlobs": [
     "**/vendor/**",
     "**/node_modules/**",
@@ -46,9 +44,14 @@
   "todo-tree.general.tags": [
     "TODO",
     "FIXME",
-    "LOCAL",
-    "STORE",
+    "LOCAL_SET",
+    "LOCAL_GET",
+    "STORE_SET",
+    "STORE_GET",
     "NAVIGATE",
+    "MAJOR",
+    "TIPS",
+    "EE",
     "[x]",
     "[ ]"
   ],
@@ -65,7 +68,7 @@
       "gutterIcon": true,
       "iconColour": "Orange"
     },
-    "LOCAL": {
+    "LOCAL_SET": {
       "foreground": "white",
       "background": "#ff2c4c",
       "type": "tag",
@@ -73,7 +76,23 @@
       "gutterIcon": true,
       "iconColour": "#ff2c4c"
     },
-    "STORE": {
+    "LOCAL_GET": {
+      "foreground": "white",
+      "background": "#ff2c4c",
+      "type": "tag",
+      "icon": "database",
+      "gutterIcon": true,
+      "iconColour": "#ff2c4c"
+    },
+    "STORE_SET": {
+      "foreground": "white",
+      "background": "#00f382",
+      "type": "tag",
+      "icon": "ruby",
+      "gutterIcon": true,
+      "iconColour": "#00f382"
+    },
+    "STORE_GET": {
       "foreground": "white",
       "background": "#00f382",
       "type": "tag",
@@ -88,6 +107,31 @@
       "icon": "milestone",
       "gutterIcon": true,
       "iconColour": "#009ef3"
+    },
+    "MAJOR": {
+      "foreground": "white",
+      "background": "#00FFFF",
+      "type": "tag",
+      "icon": "flame",
+      "gutterIcon": true,
+      "iconColour": "#00FFFF"
+    },
+    "TIPS": {
+      "foreground": "white",
+      "background": "#8800ff",
+      "type": "tag",
+      "icon": "thumbsup",
+      "gutterIcon": true,
+      "iconColour": "#8800ff"
+    },
+    "EE": {
+      "foreground": "white",
+      "background": "#ff0080",
+      // "opacity": 0.7,
+      "type": "tag-and-subTag",
+      "icon": "skip",
+      "gutterIcon": true,
+      "iconColour": "#ff0080"
     },
     "[x]": {
       "foreground": "#64dd17",
@@ -110,14 +154,42 @@
   },
   "cSpell.userWords": [
     "ciphertext",
+    "countertop",
     "decompilation",
+    "myid",
     "Pinia",
+    "preter",
+    "Protocal",
+    "rupt",
     "SECRETKEY",
-    "Vuex"
+    "tencentcloud",
+    "touid",
+    "tuwen",
+    "USERID",
+    "Vuex",
+    "XSTX",
+    "Zhen",
+    "Zhening"
   ],
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "workbench.list.mouseWheelScrollSensitivity": 0.2,
-  "editor.guides.bracketPairs": true
+  "editor.guides.bracketPairs": true,
+  "terminal.integrated.mouseWheelScrollSensitivity": 0.5,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "notebook.formatOnSave.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "json.schemas": [],
+  "editor.stickyScroll.enabled": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.settings.applyToAllProfiles": []
 }

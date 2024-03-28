@@ -684,6 +684,46 @@
 - // -
 - // proper 适当的 恰当的 adj
 - // properly 适当地 恰当地 adv
+-
+-
+-
+-
+-
+- _------- The Writing Part ------- ------- ------- ------- ------- -------_
+- _------- The Writing Part ------- ------- ------- ------- ------- -------_
+-
+- 41
+- `infrastructure 基础设施`
+- `structure 结构`
+- **【 These 【 structures 】 【 are used in 】 【 infrastructure 】 . 这些结构被用于基础设施中 】**
+- // --【 be used in. 被用于 】
+- // -- **【 The computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】. 计算机可以模拟他财富积累的过程 】**
+- // -- **【 It can 【 simulate 】 real 【 physical structures 】, such as walls and 【 corridors 】. 】**
+-
+-
+- 42
+- `efficient 有效率的 adj`
+- `efficiency 效率 n`
+- _【 Efficiency engineering. 效率工程 】_
+- **【 She specializes in efficiency engineering and has helped many businesses optimize their workflows. 】**
+- **【 她专门从事效率工程，并帮助许多企业优化了工作流程 】**
+- // -- special 特别的
+- // -- specialize 专门从事
+- // -- **【 He specializes in cancer treatment and has saved many lives. 他专门研究癌症治疗，挽救了许多生命 】**
+-
+- 43
+- `monitor 监视v 监视器n`
+- `monitoring 监视n / vIng`
+-
+-
+- 44
+- `in total. 总共` ---------- 做状语
+- `a total of. 总共` -------- 做定语 - 修饰名词
+- in total
+- **【 这个项目总共需要 5 万美元的预算】**
+- **【 班级里总共有 20 名学生 】**
+- a total of
+- **【 After graduation, I have had 【 a total of 】 four 【 work experiences 】. 】**
 
 ##### (2) Some questions that must be asked.
 
@@ -1140,9 +1180,11 @@ I'm York.
 
 I graduated from South-Central Minzu University with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
 
-After graduation, I have done many jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
+After graduation, I have done many different types of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
 
-【 By now 】, I have 6 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
+【 By now 】, I have 7 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
+
+I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
 I like use Vue and React 【 tech stacks 】 to develop 【 projects 】,
 I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
@@ -1166,23 +1208,26 @@ The main function of the second application is to 【 provide 】 a 【 online-s
 The main function of the third application is to cover the entire 【 process of 】 【 claims 】.
 
 (3)
-In the third company, I was primarily responsible for implementing projects related to 【 infrastructure 】 and 【 efficiency engineering 】.
+In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 】 and 【 efficiency engineering 】.
 
-The project I mainly want to introduce is called《 Full Link Tracking System 》.
+The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
+( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
 
 It can 【 monitor 】 the performance and errors of frontend and backend projects.
 
+It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
+
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and displays the performance data you need to 【 query 】 【 in the form of 】 【 charts 】.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and 【 displays 】 the performance data you need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
 For the font-end part consists of three layers: performance, errors, and user data.
 
-【 In term of performance 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to parse 【 various 】 resources.
+【 In term of performance 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
 
-In terms of errors: It can report error types and the location of errors in components to the platform, and has offline storage 【 capabilities 】.
+【 In term of errors 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
 
-In terms of user data: It can collect user online duration, physical device information, 【 operational 】 information, etc.
+【 In term of user data 】: It can collect user online duration, physical device information, 【 operational 】 information, etc.
 
 ------- ------- ------- ------- ------- ------- -------
 ```
