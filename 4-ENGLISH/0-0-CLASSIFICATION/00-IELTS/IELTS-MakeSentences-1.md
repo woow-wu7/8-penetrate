@@ -11,8 +11,14 @@ Pay attention to the difference 【 in 】 pronunciation 【 between 】 'perfec
 How to 【 pronounce 】 the word 'perfect'?
 perfect 这个单词如何发音?
 -
+Your 【 pronunciation 】 is quite 【 standard 】.
+你的发音相当标准
+-
 Pay attention to the pronunciation of the word 'period'.
 注意 period 这个单词的发音
+-
+How to 【 spell 】 the word 'mediocrity'?
+如何拼写 mediocrity 这个单词？
 -
 //【 pronounce 发音 v 】
 //【 pronunciation 发音 n 】
@@ -158,11 +164,14 @@ The new phone has been 【 put off until 】 next month to 【 roll out 】.
 
 ------- ------- ------- ------- ------- ------- -------
 注意 perfect 和 perfection 发音的不同
+perfect 这个单词如何发音?
+你的发音相当标准
+注意 period 这个单词的发音
+-
+如何拼写 mediocrity 这个单词？
+-
 毕业之后，我一共有四段工作经历
 公司总共有 200 名员工
--
-perfect 这个单词如何发音?
-注意 period 这个单词的发音
 -
 他做了给这个牙医慷慨小费的决定
 我需要戴牙套来矫正牙齿
@@ -1065,17 +1074,21 @@ He have 【 been proficient in 】 【 data structures 】 and 【 algorithms �
 I have 【 mastered 】 the 【 development language 】 of Java.
 我掌握了Java这门开发语言
 -
-I have 【 mastered 】 Java and Javascript 【 as 】 development languages.
+I have 【 mastered 】 Java and Javascript 【 as 】【 development languages 】.
 我已经掌握了Java和Javascript作为开发语言
+-
+Have you 【 mastered 】 the content you learned yesterday.
+= Have you 【 mastered 】 【 what 】 you learned yesterday. // what 引导的宾语从句
+你掌握了昨天学的内容了吗？
 -
 // -
 //【 algorithm 算法 】
 //【 data structure. 数据结构 】
 //【 be proficient in. 精通于... 】
 // -
-// ---- master 掌握 精通 v
-// ---- master 精通的 adj
+// ---- master 掌握 v
 // ---- master 主人 硕士 n
+// ---- 【 master's degree. 硕士学位 】
 // -
 //【 sorting algorithm. 排序算法 】
 // I am proficient in several programming languages, including Java, Python, and JavaScript. // including 多用于举例
@@ -1084,9 +1097,12 @@ I have 【 mastered 】 Java and Javascript 【 as 】 development languages.
 // organization 组织 n
 // organizational 组织的 adj
 // -
-//【 data structure. 数据结构 】
 //【 organizational structure. 组织结构 】
+//【 data structure. 数据结构 】
 //【 physical structure. 物理结构 】
+// -
+// structure 结构 建筑物
+// infrastructure 基础设施
 
 
 2
@@ -1100,12 +1116,15 @@ We are all 【 mediocre 】 people.
 // mediocrity 平庸 n
 // mediocre 平庸的 adj
 // -
+//【 mediocre person. 平庸的人 】
+// -
+// TIPS: Pay attention to the different pronunciation between the 'mediocrity' and 'mediocre'.
 // TIPS: Pay attention to the pronunciation of the word 'accept'.
 
 
 3
-How is your 【 relationship 】 with your boos?
-What's your relationship like with your boos?
+How is your 【 relationship 】 with your boss?
+What's your relationship like with your boss?
 你和你老板的关系怎么样？
 // -
 // relation 关系 n ------------ 所有事物的关系都行
@@ -1113,8 +1132,12 @@ What's your relationship like with your boos?
 
 
 4
-I need to improve my 【 proficiency 】 in spoken English.
+I need to improve my 【 proficiency 】 【 in 】 spoken English.
+= I need to improve my proficiency 【 of 】 spoken English.
 我需要提高我的英语口语熟练度
+-
+Your spoken English is quite 【 proficiency 】.
+你的口语很熟练啊
 -
 He 【 is proficient in 】 several 【 programming languages 】, 【 including 】 Java, python, and Javascript.
 他精通多种编程语言，包括Java、python和Javascript
@@ -1220,6 +1243,8 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 你和你老板的关系怎么样？
 -
 我需要提高我的英语口语熟练度
+你的口语很熟练啊
+-
 他精通多种编程语言，包括Java、python和Javascript
 她精通英语
 -
@@ -1783,4 +1808,134 @@ The 【 sponsor 】 【 donated 】 one 【 million 】 yuan to our company.
 // donate 捐助
 // -
 // million 百万
+```
+
+##### 14 Make sentences 2024-03-29
+
+```
+1
+What should we 【 talk 】 about?
+我们聊点啥呢？
+-
+Who are you 【 looking at 】?
+你在看谁呢？
+-
+Who are you 【 looking for 】?
+你在找谁呢？
+-
+Ary you 【 laughing at 】 me?
+你在笑我？
+-
+// -
+// talk 说话 谈话 v n
+
+
+2
+I will 【 explain 】 my 【 viewpoint 】 from three 【 aspects 】.
+我将从三个方面解释我的观点
+// -
+// explain 解释
+// viewpoint 观点
+// aspect 方面
+
+
+3
+This 【 piece of 】 music sounds very bad.
+这首音乐太难听了
+// -
+// a piece of music. 一首音乐
+
+
+4
+I have already received these 【 raw materials 】 【 of 】 this orders 【 witch 】 have been cancelled.
+我已经收到了这些已经被被取消订单的原材料
+// -
+// raw material. 原材料
+
+
+5
+Could you help me 【 choose 】 an English name?
+你能帮我取一个英文名吗？
+// choose 选择 挑选
+
+
+6
+Your 【 pronunciation 】 is quite 【 standard 】.
+你的发音相当标准
+-
+How to 【 pronounce 】 the word 'perfect'?
+perfect 这个单词如何发音?
+-
+How to 【 spell 】 the word 'mediocrity'?
+如何拼写 mediocrity 这个单词？
+-
+// standard 标准 水平 n
+// standard 标准的 adj
+// -
+// pronounce 发音 v
+// pronunciation 发音 n
+
+
+7
+I need to improve my 【 proficiency 】 【 in 】 spoken English.
+= I need to improve my proficiency 【 of 】 spoken English.
+我需要提高我的英语口语熟练度
+-
+Your 【 spoken English 】 is quite 【 proficiency 】.
+你的口语很熟练啊
+-
+// proficiency 熟练 精通 n
+// proficient 熟练的 精通的 adj
+// be proficient in. 精通于...
+
+
+8
+I'm off today.
+我今天休息
+-
+I'm not working today.
+我今天不上班
+-
+
+
+9
+I 【 get in 】 a taxi, then 【 get out of 】 the taxi, then 【 get on 】 a bus, and finally 【 get off 】 the bus.
+我上了出租车，然后下了出租车，然后上了火车，最后下了火车
+// -
+// get in. 上车 ------------- 需要 弯腰 的 ------------ taxi/car
+// get out of. 下车 --------- 需要 弯腰 的
+// -
+// get on. 上车 ------------- 不需要 弯腰 的 ----------- bus/train/subway
+// get off. 下车 ------------ 不需要 弯腰 的
+
+
+10
+Good morning.
+Good noon.
+Good afternoon.
+Good evening.
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我们聊点啥呢？
+你在看谁呢？
+你在找谁呢？
+你在笑我？
+-
+我将从三个方面解释我的观点
+这首音乐太难听了
+我已经收到了这些已经被被取消订单的原材料
+-
+你的发音相当标准
+perfect 这个单词如何发音?
+如何拼写 mediocrity 这个单词？
+-
+我需要提高我的英语口语熟练度
+你的口语很熟练啊
+-
+我今天休息
+我今天不上班
+-
+我上了出租车，然后下了出租车，然后上了火车，最后下了火车
 ```

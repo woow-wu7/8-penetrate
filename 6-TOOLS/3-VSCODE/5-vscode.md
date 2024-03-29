@@ -6,9 +6,10 @@
 
 ```
 快捷键设置: command+k / command+s
+主题设置: command+k / command+t
 
 breadcrumb 面包屑相关快捷键
-快捷键寻找:  command +k  / command + s 调出快捷键，然后搜索 breadcrumb
+快捷键设置:  command +k  / command + s 调出快捷键，然后搜索 breadcrumb
 
 command + shift + p 显示命令
 command + shift + o 文件内快速定位

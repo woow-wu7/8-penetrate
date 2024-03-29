@@ -1044,14 +1044,14 @@
 - // simulate 模拟
 - // the process of. ...的过程
 - // -
+- // _【 organizational structure. 组织结构 】_
 - // _【 physical structure. 物理结构 】_
 - // _【 data structure. 数据结构 】_
-- // _【 organizational structure. 组织结构 】_
 - // -
 - // `corridor 走廊`
 - // `hallway 走廊`
 
-###### 2024-03-23
+###### 2024-03-29
 
 - 1
 - `arrive 到达 v`
@@ -1103,9 +1103,9 @@
 - _【 get off work. 下班 】_
 - _【 get off the bus. 下公交车 】_
 - _【 get out of the car. 下出租车 】_
+- **【 I 【 get in 】 a taxi, then 【 get out of 】 the taxi, then 【 get on 】 a train, then 【 get off 】 the tain. 】**
 - **【 Because he 【 got off work 】 【 on time 】, he was able to 【 get home 】 【 in time 】. 因为准时下班，他才能及时赶到家里 】**
 - **【 He 【 got out of 】 the taxi, then 【 got on 】 the bus. 他下了出租车，然后上了公交车 】**
-- **【 I 【 get in 】 a taxi, then 【 get out of 】 the taxi, then 【 get on 】 a train, then 【 get off 】 the tain. 】**
 -
 - EE.
 - `get on/off. 上下比较大的车，可以正常走出来，比如 bus/train/plane`
@@ -1120,3 +1120,134 @@
 - // -- get to work. 开始工作
 - // -- get off work. 下班
 - // -- get off bus. 下公交
+-
+-
+-
+-
+-
+-
+- 2
+- `tooth 牙齿`
+- `teeth 复数`
+- `dentist 牙医`
+- `dental 牙齿的 adj`
+- `oral 口腔的 adj`
+- _【 toothpaste 牙膏 】_ // paste 粘贴 v 膏 n
+- _【 toothbrush 牙刷 】_
+- _【 toothpick 牙签 】_
+- -
+- _【 dental floss. 牙线 】_ // floss 丝线
+- _【 dental braces. 牙套 】_
+- _【 dental care. 口腔护理 】_
+- _【 dental office. 牙科诊所 】_ // TIPS: Pay attention to the pronunciation of the 'office'.
+- -
+- _【 oral hygiene. 空腔卫生 】_ // oral 空腔的
+- _【 dental care. 口腔护理 】_
+- -
+- _【 Bluetooth. 蓝牙 】_
+- _【 tooth decay. 蛀牙 】_
+- _【 wisdom teeth. 智齿 】_
+- -
+- _【 toothache 牙痛 n 】_ // tooth + ache
+- _【 headache 头痛 n 】_
+- _【 backache 背痛 n 】_
+- _【 stomachache 胃痛 n 】_ // stomach 胃 // stomach + ache
+- -
+- **【 I 【 squeeze 】 the 【 toothpaste 】 onto the 【 toothbrush 】, then brush my teeth, and then use a 【 toothpick 】 to remove the stuff between my teeth. 我把牙膏挤在牙刷上，然后刷牙，再然后用牙签去掉牙缝里的东西 】**
+- -
+- **【 Both 【 dental braces 】 and 【 dental floss 】 can clean teeth. 牙套和牙线都能清洁牙齿 】**
+- -
+- **【【 Dental care 】 can 【 relieve 】 【 toothache 】. 口腔护理可以减轻牙痛 】**
+- -
+- **【 I'm going to the 【 dental office 】 for 【 dental care 】. 我要去牙科诊所做口腔护理 】**
+-
+- _【 have you ever been to the dentist? 你有去过看牙医吗？ 】_
+-
+- // -- paste 粘贴 v 膏 n
+- // -- pick 选择 挑选 v n
+- // -
+- // -- floss 丝线
+- // -- loss 失去 损失 n
+- // -
+- // -- lose 失去 v ------ lost
+- // -- loss 失去 n
+- // -
+- // -- 【 squeeze 挤压 n 】
+- // -- // TIPS: Pay attention to the pronunciation of the word 'squeeze'.
+- // -
+- // -- relieve 减轻 缓解 解除 v
+-
+-
+-
+-
+-
+-
+- 3
+- `egg 蛋 鸡蛋`
+- `eggshell 蛋壳`
+- _【 egg yolk. 蛋黄 】_ // yolk 蛋黄
+- _【 egg white. 蛋清 】_
+- _【 eggshell. 蛋清 】_
+- -
+- _【 fried egg. 煎蛋 】_ // fry 油炸 v // fried 油炸的 adj 过去式
+- _【 boiled egg. 水煮蛋 】_
+- _【 hatch egg. 孵蛋 】_
+- -
+- _【 duck egg. 鸭蛋 】_
+- _【 bird egg. 鸟蛋 】_
+- _【 goose egg. 鹅蛋 零分 】_
+-
+- AA.
+- _【 What does an egg 【 consist of 】? 鸡蛋由什么组成 】_
+- _【 What is an egg 【 composed of 】? 鸡蛋由什么组成 】_ // passive voice. 被动语态
+- _【 What is an egg 【 made of 】? 鸡蛋由什么组成 】_ // passive voice. 被动语态
+- **【 Eggs consist of 【 eggshell 】, 【 egg white 】, and 【 egg yolk 】. 鸡蛋由蛋壳，蛋清，蛋黄组成 】**
+- **【 Eggs 【 are composed of 】 【 eggshell 】, 【 egg white 】, and 【 egg yolk 】. 鸡蛋由蛋壳，蛋清，蛋黄组成 】**
+- // -
+- // -- 【 consist of. 由...组成 】
+- // -- 【 be made of. 由...制成 】----------- // passive voice. 被动语态
+- // -- 【 be composed of. 由...组成 】------- // passive voice. 被动语态
+- // TIPS: Pay attention to the pronunciation of the word 'consist'.
+- // -
+- // -- passive 被动的 消极的 adj
+- // -- active 主动的 积极的 adj
+- // -- 【 passive voice. 被动语态 】
+-
+- BB.
+- `rooster 公鸡` // 英国
+- `cock 公鸡` // 美国
+- `hen 母鸡`
+- `chick 小鸡`
+- `chicken 小鸡 鸡肉 n`
+- `crow 打鸣v 乌鸦n`
+- _【 chick 小鸡 】_
+- _【 chicken 鸡肉 】_
+- -
+- _【 get married. 结婚 】_
+- _【 give birth to. 生 】_
+- **【 The 【 rooster 】 and the 【 hen 】 【 got married 】 and 【 gave birth to 】 a 【 chick 】. 公鸡和母鸡结婚后生了一个小鸡 】**
+-
+- CC.
+- `crow 打鸣v 乌鸦n`
+- **【 【 crow 】 doesn't 【 crow 】, but 【 rooster 】 does. 乌鸦不会打鸣，而公鸡会 】**
+-
+- DD.
+- `hatch 孵化 v`
+- _【 hatch out. 孵化出 】_
+- _【 hatch into 孵化成 】_
+- **【 The baby chickens finally 【 hatch out 】. 】** // hatch out
+- **【 Eggs can 【 hatch into 】 chickens. 鸡蛋可以孵化成鸡 】** // hatch into
+-
+- EE.
+- `boil 煮v 沸腾n`
+- `boiled 沸腾的 adj / v过去式`
+- _【 boiled egg. 水煮蛋 】_
+- _【 fried egg. 煎蛋 】_
+- -
+- _【 【 prefer doing sth. 更喜欢做某事 】 】_
+- **【 Do you 【 prefer 】 eating 【 boiled egg 】 or 【 fried egg 】 ? 你喜欢吃水煮蛋还是煎蛋 】**
+- **【 Which one do you prefer. 你更喜欢哪个】**
+- // -- 【 prefer doing sth. 更喜欢做某事 】
+-
+- FF.
+- **【 He is a bad egg. 他是一个坏蛋 】**
