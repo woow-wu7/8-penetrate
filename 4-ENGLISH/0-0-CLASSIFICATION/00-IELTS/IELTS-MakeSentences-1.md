@@ -1272,9 +1272,12 @@ You are 【 wasting 】 【 precious 】 time.
 This 【 precious gift 】 is her most 【 precious memory 】.
 这个珍贵的礼物是她最珍贵的回忆
 -
+【 Waste paper towels 】 are 【 recyclable waste 】.
+废纸巾是可回收垃圾
+-
 // -
-// health 健康 n
 // wealth 财富 n
+// health 健康 n
 // -
 // physical health. 生理将康
 // mental health. 心理健康
@@ -1284,19 +1287,25 @@ This 【 precious gift 】 is her most 【 precious memory 】.
 //【 precious memory. 珍贵的回忆 】
 //【 precious wealth. 珍贵的财富 】
 // -
-// waste 浪费v 垃圾n
+// 【 waste 浪费v 垃圾n 】
 // memory 记忆 回忆 n
+// -
+//【 recyclable waste. 可回收垃圾 】
+// recycle 回收 v n
+// waste 浪费v 垃圾n
 
 
 2
-There are may 【 fixed collocations 】 in English language.
+There are many 【 fixed collocations 】 【 in 】 English language.
 英语中有很多固定搭配
 -
 We need to 【 collocate 】 the words 【 properly 】 in the sentence.
 我们需要在句子中恰当地搭配这些单词
 // -
-// collocation 搭配 n
-// collocate 搭配 v
+// collocate 搭配 v ---------- col + locate
+// collocation 搭配 n -------- col + location
+// locate 定位 v
+// location 位置 n
 // -
 // location 位置 n
 // collocation 搭配 n
@@ -1314,7 +1323,7 @@ vue 中 style 标签上的 scoped 属性的工作原理？
 It's not just 【 a matter of 】money, It's 【 a matter of 】 【 principle 】.
 这不仅仅是钱的问题，这是一个原则问题
 -
-It's not a matter of 【 ability 】, but a matter of 【 attitude 】.
+It's not 【 a matter of 】 【 ability 】, but a matter of 【 attitude 】.
 这不是能力问题，而是态度问题
 -
 // -
@@ -1329,7 +1338,7 @@ It's not a matter of 【 ability 】, but a matter of 【 attitude 】.
 
 
 4
-Do you know what 【 TV drama 】 he 【 acted in】?
+Do you know what 【 TV drama 】 he 【 acted in 】?
 你知道他扮演了哪些电视剧吗？
 // -
 //【 TV drama. 电视剧 】
@@ -1337,7 +1346,7 @@ Do you know what 【 TV drama 】 he 【 acted in】?
 
 
 5
-【 Focus on 】 the 【 tone 】 of my voice.
+【 Focus on 】 the 【 tone 】 of my 【 voice 】.
 专注于我说话的语气
 注意我说话的语气
 -
@@ -1367,7 +1376,7 @@ your 【 skin tone 】 is pretty good.
 We can 【 apply for 】 a 【 visa 】 【 via 】 an 【 agency 】.
 我们可以通过中介申请签证
 -
-For this position, the 【 applicant 】 is applying for a loan and driver's license.
+For this position, the 【 applicant 】 is applying for a 【 loan 】 and driver's license.
 为了这个职位，这个申请人正在申请贷款和驾驶证
 -
 // -
@@ -1385,6 +1394,7 @@ For this position, the 【 applicant 】 is applying for a loan and driver's lic
 生理健康和心理健康都是宝贵的财富
 你在浪费宝贵的时间
 这个珍贵的礼物是她最珍贵的回忆
+废纸巾是可回收垃圾
 -
 英语中有很多固定搭配
 我们需要在句子中恰当地搭配这些单词
@@ -1409,7 +1419,7 @@ vue 中 style 标签上的 scoped 属性的工作原理是什么？
 
 ```
 1
-【 Ensure 】 the 【 air pressure 】 is within the safe 【 range 】.
+【 Ensure 】 the 【 air pressure 】 is 【 within 】 the safe 【 range 】.
 确保气压在安全区间内
 -
 // range 范围n 区间n 变化v
@@ -1450,7 +1460,7 @@ This 【 method 】 is only 【 applicable 】 to 【 pure 】 digital 【 neste
 
 ```
 1
-I'm not sure 【 if 】 this is a 【 correct / right 】 decision.
+I'm not sure 【 if 】 this is a 【 correct / right 】【 decision 】.
 我不确定这是否是正确的决定
 -
 I don't know if it will run tomorrow.
@@ -1938,4 +1948,12 @@ perfect 这个单词如何发音?
 我今天不上班
 -
 我上了出租车，然后下了出租车，然后上了火车，最后下了火车
+```
+
+##### 14 Make sentences 2024-03-30
+
+```
+Did you have breakfast?
+Have you had breakfast?
+你吃早餐了吗
 ```

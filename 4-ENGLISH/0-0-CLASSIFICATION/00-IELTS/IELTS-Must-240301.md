@@ -624,6 +624,7 @@
 -
 -
 - 2
+- `kindergarten 幼儿园`
 - `primary school. 小学`
 - `middle school. 中学`
 - `junior high school. 初中`
@@ -640,7 +641,7 @@
 - `Master's degree. 硕士学位`
 - `Doctor's degree. 博士学位`
 - `bachelor 学士 单身汉`
-- `master 硕士 主人`
+- `master 硕士 主人 掌握`
 - `doctor 博士 医生`
 - -
 - _【 freshman 大一 】_
@@ -889,6 +890,7 @@
 -
 -
 - 3
+- `as well. 也`
 - `as well as. 也 既...又...  以及`
 - `as long as. 只要  和...一样长`
 - AA.
@@ -1162,6 +1164,7 @@
 - **【 I'm going to the 【 dental office 】 for 【 dental care 】. 我要去牙科诊所做口腔护理 】**
 -
 - _【 have you ever been to the dentist? 你有去过看牙医吗？ 】_
+- _【 I have never been to the dentist. 我从没看过牙医 】_
 -
 - // -- paste 粘贴 v 膏 n
 - // -- pick 选择 挑选 v n
@@ -1187,7 +1190,7 @@
 - `eggshell 蛋壳`
 - _【 egg yolk. 蛋黄 】_ // yolk 蛋黄
 - _【 egg white. 蛋清 】_
-- _【 eggshell. 蛋清 】_
+- _【 eggshell. 蛋壳 】_
 - -
 - _【 fried egg. 煎蛋 】_ // fry 油炸 v // fried 油炸的 adj 过去式
 - _【 boiled egg. 水煮蛋 】_
@@ -1208,10 +1211,12 @@
 - // -- 【 be made of. 由...制成 】----------- // passive voice. 被动语态
 - // -- 【 be composed of. 由...组成 】------- // passive voice. 被动语态
 - // TIPS: Pay attention to the pronunciation of the word 'consist'.
+- // ggg: dd
 - // -
+- // --【 passive voice. 被动语态 】
 - // -- passive 被动的 消极的 adj
 - // -- active 主动的 积极的 adj
-- // -- 【 passive voice. 被动语态 】
+- // -- voice 声音 语态 n
 -
 - BB.
 - `rooster 公鸡` // 英国
@@ -1221,7 +1226,7 @@
 - `chicken 小鸡 鸡肉 n`
 - `crow 打鸣v 乌鸦n`
 - _【 chick 小鸡 】_
-- _【 chicken 鸡肉 】_
+- _【 chicken 鸡肉 小鸡 】_
 - -
 - _【 get married. 结婚 】_
 - _【 give birth to. 生 】_
@@ -1244,10 +1249,25 @@
 - _【 boiled egg. 水煮蛋 】_
 - _【 fried egg. 煎蛋 】_
 - -
-- _【 【 prefer doing sth. 更喜欢做某事 】 】_
+- _【 prefer doing sth. 更喜欢做某事 】_
 - **【 Do you 【 prefer 】 eating 【 boiled egg 】 or 【 fried egg 】 ? 你喜欢吃水煮蛋还是煎蛋 】**
 - **【 Which one do you prefer. 你更喜欢哪个】**
 - // -- 【 prefer doing sth. 更喜欢做某事 】
 -
 - FF.
 - **【 He is a bad egg. 他是一个坏蛋 】**
+- **【 Don't put all your eggs in one basket. 不要孤注一掷 】**
+-
+- GG.
+- `boiling water. 开水`
+- `doneness 熟度`
+- `according to. 根据`
+- according to. 根据
+- **【 【 According to 】 your 【 resume 】, you have several years of office experience. 根据您的简历，您有 多年的办公室经验 】**
+- **【 【 According to 】 the 【 weather forecast 】, it will rain today. 根据天气预报，今天会下雨 】**
+- **【 They hire and fire workers 【 according to 】 the level of business. 他们根据业务水平雇用和解雇工人。 】**
+
+###### 2024-03-30
+
+- 1
+- `Valentine's Day. 情人节`

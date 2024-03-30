@@ -730,9 +730,11 @@
 ```
 1.
 The first question is 【 definitely 】 tell me a little bit about yourself.
+It's the most important step to 【 impress 】 the employer.
 // -
 // impress 给...留下深刻印象v 印象n
 //【 It's the most important step to 【 impress 】 the employer. 】
+
 
 
 2.
@@ -759,6 +761,7 @@ His main 【 accomplishment / achievement 】has 【 accomplished 】 the compan
 // -- greatest 最伟大的 // TIPS: Pay attention to the pronunciation of the 'greatest'.
 
 
+
 3.
 What's your biggest weakness?
 What's your biggest strength?
@@ -769,10 +772,27 @@ What are your strengths and weaknesses?
 // -- weakness / weaknesses
 //
 // AA.
-// I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
+// My【 biggest weakness 】 is that I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 //
 // BB.
+// My【 biggest strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
+// One of my strength is that I have 【 a sense of ownership 】.
+// -- a sense of ownership. 主人翁意识
+// -- ownership
+// -- internship 实习期
+// -- intern 实习生
+//
+// CC.
+// My【 biggest strength 】 is that I have a 【 passion 】 for my work. 我的优点是对工作充满激情
+// My strength is that I 【 am passionate about 】 my work.
+// -- 【 be passion about. 对...充满激情 】
+// -- strength
+// -- weakness
+// -- passion 激情 热情
+// --【 have a passion for. 对...有激情 】
+//
+// DD.
 // I 【 am proficient in 】 several 【 programming languages 】, includes Java, Python, and Javascript.
 //【 I want to 【 be proficient in 】 English 【 so that 】 I can communicate with people from different countries. 】
 // -
@@ -787,8 +807,8 @@ What are your strengths and weaknesses?
 // -
 // -- so that. 因此
 //
-// CC.
-//【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】
+// EE.
+//【 I have 【 excellent 】 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】 is not strong. 】
 // -- excellent 杰出的
 // -- outstanding 杰出的
 // -
@@ -797,7 +817,7 @@ What are your strengths and weaknesses?
 // -
 // -- creativity 创造力 n
 //
-// DD.
+// FF.
 // I'm 【 too much of 】 a 【 perfectionist 】. 我太完美主义了
 // -- perfect 完美的 adj
 // -- perfection 完美 n
@@ -806,23 +826,6 @@ What are your strengths and weaknesses?
 // -- // TIPS: Pay attention to the difference in pronunciation between 'perfect' and 'perfection'.
 // -
 // --【 too much of. 过多的 过分的 】
-//
-// EE.
-// My 【 strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
-// One of my strength is that I have 【 a sense of ownership 】.
-// -- a sense of ownership. 主人翁意识
-// -- ownership
-// -- internship 实习期
-// -- intern 实习生
-//
-// FF.
-// My strength is that I have a 【 passion 】 for my work. 我的优点是对工作充满激情
-// My strength is that I 【 am passionate about 】 my work.
-// -- 【 be passion about. 对...充满激情 】
-// -- strength
-// -- weakness
-// -- passion 激情 热情
-// --【 have a passion for. 对...有激情 】
 //
 // GG.
 //【 I'm very 【 punctual 】, so I always can 【 meet the project deadlines 】. 】
@@ -840,7 +843,25 @@ What are your strengths and weaknesses?
 // Because when the employer asks this question what they really want to know is how much you know about their company.
 
 
+
 4.
+What was the biggest 【 challenge 】 in your 【 last 】 job?
+What was the biggest 【 challenge 】 in your 【 previous 】 job?
+你上一份工作最大的挑战是什么？
+// -
+// challenge 挑战
+// 【 major challenge. 重大挑战 】
+// 【 biggest challenge. 最大的挑战 】
+// -
+// previous 之前的
+// last 最后的
+// -
+// previous job. 之前的工作
+// last job. 最后一份工作
+
+
+
+5.
 Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 //【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】
 //【 He was 【 promoted 】 from associate professor to professor. 】
@@ -857,7 +878,7 @@ Why do you think you'll be a good 【 candidate 】 for this 【 position 】?
 // -- sugar 糖
 
 
-5.
+6.
 How long have you been working here? 你在这里工作多久了？
 How long have you been studying here? 你在这里学习多久了？
 How long have you been 【 learning 】 English?
@@ -867,7 +888,7 @@ How long have you been 【 waiting 】 for me? 你等我多久了？
 // -- 【 How long have you been 【 waiting 】 for me? 你等我多久了？ 】
 
 
-6.
+7.
 Do you have any 【 relevant skills and experience 】【 relate to 】 front-end development? 有【涉及】前端的【相关】技能和相关经验?
 Do you have any 【 relevant experience 】 in using React 【 framework 】? 您是否有使用 react 框架的相关经验？
 Do you have any questions about the position?
@@ -879,7 +900,7 @@ Do you have any questions about the position?
 // -- concise language. 简洁的语言
 
 
-7.
+8.
 What are the 【 responsibilities 】【 in 】 this position? 这个职位的【工作职责】是什么？
 I【 was responsible for 】 developing the apps. =  I was 【 in charge of 】 developing the apps.
 // -- responsibility 职责 责任 n
@@ -887,7 +908,7 @@ I【 was responsible for 】 developing the apps. =  I was 【 in charge of 】 
 // -- response 响应
 // -- 【 be responsible for. 负责 = in charge of. 】
 
-8.
+9.
 What are the 【 office hours 】? 办公时间是几点
 Our office hours are from 9am to 6pm, 【 with an hour off for lunch 】. Monday to Friday.
 // -- office hours. 办公时间
@@ -896,7 +917,7 @@ Our office hours are from 9am to 6pm, 【 with an hour off for lunch 】. Monday
 // -- with one hour off for lunch. 有一个小时午餐休息时间
 
 
-9.
+10.
 What are your salary 【 expectations 】? 你的期望工资是多少?
 I'm expecting a salary that is competitive and in line with 【 industry standards 】. 我希望薪水具有竞争力并且符合行业标准
 I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬
@@ -917,7 +938,7 @@ I expect to be paid the going rate for this type of position.	我期望得到这
 // -- standard 标准 规范
 // --【 Passport photos have strict standards. 护照照片有着严格的标准 】
 
-10.
+11.
 Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你【提供】的福利吗?
 // The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险
 //【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】
@@ -931,7 +952,7 @@ Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你
 // -
 // -- insurance 保险 ( 是不可数名词 )
 
-11.
+12.
 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
 Please answer this question 【 concisely 】
 // -
@@ -944,43 +965,28 @@ Please answer this question 【 concisely 】
 // --【 programming language. 程序语言 】
 // --【 concise language. 简洁的语言 】
 
-12.
+13.
 How was your 【 relationship 】 with your boss in your previous company? 在以前的公司里，你和老板的关系如何?
 // -- relation 关系 n ------- 所有事物的关系都行
 // -- relationship 关系 n --- 人和人的关系
 
-13.
-What was the biggest 【 challenge 】 in your 【 last 】 job?
-What was the biggest 【 challenge 】 in your 【 previous 】 job?
-你上一份工作最大的挑战是什么？
-// -
-// challenge 挑战
-// 【 major challenge. 重大挑战 】
-// 【 biggest challenge. 最大的挑战 】
-// -
-// previous 之前的
-// last 最后的
-// -
-// previous job. 之前的工作
-// last job. 最后一份工作
 
 
 
-
-13.
+14.
 What would you do, 【 for instance 】, if you found a member of staff stealing? 比如说，如果你发现有职员偷东西，你会怎么办？
 // -- for instance. 例如
 
-14.
+15.
 What's your 【 routine 】 work? 你的日常工作是什么？
 How do you feel about your routine work? 你觉得你的日常工作怎么样？
 // -- routine 日常的 adj / 常规 n
 // -- route 路径 路线
 
-15.
+16.
 There are three things the candidate dose which you should try to avoid.
 
-16.
+17.
 I will take your interview. 我会安排你的面试
 ```
 
