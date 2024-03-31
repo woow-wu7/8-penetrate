@@ -811,6 +811,12 @@
 - **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
 - **【 It's not 【 a matter of 】 money, It's a matter of 【 principle 】. 这不仅仅是钱的问题；这是一个原则问题 】**
 -
+- CC.
+- `take out. 取出 扔掉`
+- _【 take out the garbage. 倒垃圾 】_
+- **【 Remember to 【 take out the garbage 】 when you go out. 出门的时候，记得把垃圾倒一下 】**
+- **【 【 take out 】 your English book from your 【 schoolbag 】. 从书包里取出你的英语书 】**
+-
 -
 -
 -

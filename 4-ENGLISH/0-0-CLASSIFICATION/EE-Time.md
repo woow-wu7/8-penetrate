@@ -1,4 +1,4 @@
-# Time
+##### Time
 
 ##### 序数词 ordinal numbers
 
@@ -217,8 +217,11 @@ at 时间小于 1 天 // at five o'clock // at night
 劳动节 Labour Day / Labor Day
 国庆节 National Day
 -
-中秋节 Mid-Autumn Festival
+春节 Spring Festival
 元宵节 Lantern Festival
+中秋节 Mid-Autumn Festival
+端午节 Dragon Boat Festival
+
 
 
 

@@ -1950,10 +1950,73 @@ perfect 这个单词如何发音?
 我上了出租车，然后下了出租车，然后上了火车，最后下了火车
 ```
 
-##### 14 Make sentences 2024-03-30
+##### 15 Make sentences 2024-03-31
 
 ```
+1
 Did you have breakfast?
 Have you had breakfast?
 你吃早餐了吗
+
+
+2
+Before 【 starting 】, you can ask me three questions first?
+开始之前，你可以先问我三个问题
+
+
+3
+Can you 【 describe 】 the 【 entire 】 【 process of 】 the brushing teeth?
+你能描述一下刷牙的整个过程吗？
+
+
+4
+with 具有 用 和
+// 4.1 具有
+// 那个具有长发的小女孩是她的女儿
+// The little girl with long hair is her daughter.
+//
+// 4.2 用
+// 我用铅笔写字
+// I write with the a pencil.
+//
+// 4.3 和
+// 谢谢你和我一起学习英语
+// Thank you for learning English with me.
+
+
+5
+take out. 取出 扔掉
+【 Remember to 【 take out the garbage 】 when you 【 go out 】. 出门的时候，记得把垃圾倒一下 】
+【 【 take out 】 the English book from your schoolbag. 从书包里取出你的英语书 】
+
+
+6
+What 【 fields 】 are you good at?
+你擅长哪些领域？
+-
+What 【 topics 】 are you good at?
+= Which topics are you good at?
+你擅长哪些话题？
+// -
+// field 领域
+
+
+7
+This is the first time I've 【 gone 】 here.
+This is the first time I've 【 been 】 here.
+It's the first time I've gone here.
+这是我第一次来这儿
+
+
+
+------- ------- ------- ------- ------- ------- -------
+你吃早餐了吗
+你能描述一下刷牙的整个过程吗？
+-
+那个具有长发的小女孩是她的女儿
+我用铅笔写字
+谢谢你和我一起学习英语
+-
+出门的时候，记得把垃圾倒一下
+从书包里取出你的英语书
 ```

@@ -1741,6 +1741,7 @@ immigrate 移民
 - // `scholarship 奖学金`
 - // `friendship 友谊`
 - // `leadership 领导力 领导`
+- // `relationship. 关系`
 - -
 - // makes sense. 可以用来直接回答对面的问题。意思为 很有道理
 - // **【 -- What you said makes sense. 你说的很有道理 -- 】** // 因为主语 What you said 是一个从句，谓语动词要用（ 单数 ）形式
