@@ -46,6 +46,8 @@
 -
 -
 -
+-
+-
 - 2
 - `friendship 友情 友谊` // suffix
 - `scholarship 奖学金`
@@ -95,15 +97,57 @@
 - `invaluable 无价的 adj`
 - **【 Her advice was 【 invaluable 】 to me during that difficult time. 在那个困难时期，她的建议对我来说是无价的 】**
 - **【 【 pirate ship 】 and 【 pirate flag 】 are both 【 invaluable 】 for 【 pirates 】. 海盗船和海盗旗对海盗来说都是无价的 】**
+-
+-
+-
+-
+-
+-
+-
+- 3
+- `makeup 化妆品`
+- _【 put on makeup. 化妆 】_
+- _【 put on foundation. 涂粉底 】_
+-
+- `lipstick 口红 唇膏` // lip stick
+- `foundation 粉底 基础`
+-
+- `ring 戒指`
+- `earrings 耳环` // ear ring
+- `necklace 项链`
+-
+- `eyelash 睫毛`
+- `eyeliner 眼线` // line 线 // liner 邮轮
+-
+-
+- AA.
+- `stick 粘贴v 棍棒n`
+- `selfie 自拍 n`
+- _【 lipstick 口红 】_
+- _【 chopstick 筷子 】_
+- _【 dipstick 量油尺 】_
+- -
+- _【 selfie stick. 自拍杆 】_
+- _【 walking stick. 拐杖 】_
+- _【 stick shift. 换挡杆 】_
+- -
+- _【 take selfies. 自拍 】_
+- _【 take pictures. = take photos. 拍照 】_
+- _【 record videos. 录像 】_
+- _【 make a recording. 录音 】_
+- -
+- **【 She 【 put on 】 her 【 ring 】 and 【 earrings 】, 【 applied 】 【 lipstick 】 and 【 foundation 】, and then started 【 taking selfies 】 with a 【 selfie stick 】. 她戴上戒指和耳环，涂上口红和粉底，拿着自拍杆自拍了起来 】**
+- -
+- **【 He has many 【 hobbies 】, such as 【 taking pictures 】,【 taking selfies 】, 【 making videos 】, and 【 making recordings 】. 他有很多兴趣爱好，比如拍照，自拍，录像，录音 】**
 
 ##### (2) Topic - Love Questions
 
 ```
 1
-How do you 【 express 】 your love to your 【 lover 】?
+How do you 【 express 】 your love to your 【 lover/daughter/family 】?
 你如何向你的爱人表达爱呢？
 -
-How do you express love?
+How do you 【 express 】 love?
 你如何表达爱呢？
 -
 // -
