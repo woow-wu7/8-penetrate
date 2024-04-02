@@ -1,7 +1,7 @@
 ##### (1) Topic - Love Summarize
 
 - 1
-- `valentine's Day. 情人节`
+- `Valentine's Day. 情人节` // TIPS: Pay attention to case sensitivity.
 - `Thanksgiving Day. 感恩节` // 11-28
 - `goddess 女神`
 - `lover 情人`
@@ -51,10 +51,19 @@
 - 2
 - `friendship 友情 友谊` // suffix
 - `scholarship 奖学金`
-- `ownership 所有权`
+- `ownership 所有权` // a sense of ownership.
 - `internship 实习 实习期 n`
 - `relationship 关系 联系`
 - `warship 军舰`
+- -
+- `soulmate 知己 灵魂伴侣` // ---- soul + mate
+- `teammate 队友` // ------------ team + mate
+- `classmate 同学` // ----------- class + mate
+- `mate 朋友 伙伴 伴侣`
+- -
+- `colleague 同事`
+- `college 学院 大学`
+-
 - **【 He 【 obtained 】 the 【 internship 】 【 opportunity 】 【 due to 】 his 【 scholarship 】, 【 sense of responsibility 】and 【 sense of ownership 】. 他因为奖学金，责任感，主人翁精神，而获得了实习机会 】**
 - // -
 - // obtain 获得 赢得 v
@@ -97,6 +106,12 @@
 - `invaluable 无价的 adj`
 - **【 Her advice was 【 invaluable 】 to me during that difficult time. 在那个困难时期，她的建议对我来说是无价的 】**
 - **【 【 pirate ship 】 and 【 pirate flag 】 are both 【 invaluable 】 for 【 pirates 】. 海盗船和海盗旗对海盗来说都是无价的 】**
+-
+-
+- DD.
+- `colleague 同事`
+- `college 学院 大学`
+- **【 My 【 colleague 】 is my 【 college 】 【 classmate 】. 我的同事是我大学同学 】**
 -
 -
 -

@@ -1,0 +1,69 @@
+###### 2024-04-01
+
+- 1
+- `positive 积极的 正数 乐观的`
+- `negative 消极的 负数 不利的`
+- `active 主动的 积极的 adj`
+- `passive 被动的 adj`
+-
+- _【 positive mindset. 积极的心态 】_
+- _【 positive emotion. 积极的情绪 】_
+- _【 positive attitude. 积极的态度 】_
+- -
+- _【 positive image. 正面的形象 】_
+- -
+- _【 positive charge. 正电荷 】_
+- _【 positive number. 正数 】_
+- -
+- _【 passive voice. 被动语态 】_ // voice 嗓音 音量 语态
+- _【 active voice. 主动语态 】_
+-
+-
+- AA.
+- `emotion 情感 情绪 n`
+- `emotional 情感的 情绪的 adj`
+- _【 be filled with. 被...充满 】_
+- **【 He is 【 a 】 very 【 emotional 】 man. 他是个很【情绪化】的人 】**
+- **【 Are you 【 an 】 【 emotional 】 man? 他是个很【情绪化】的人 】**
+- -
+- **【 He is a person in rich 【 emotions 】. 他是一个【情感】丰富的人 】** // emotion
+- **【 The movie 【 was filled with 】 【 emotion 】, making many views cry. 这部电影充满了情感，让许多观众落泪 】** // emotion
+-
+-
+- BB.
+- `quotient 商(除法)`
+- `intelligence 智力 n`
+- _【 emotional quotient. 情商 】_ // -------- EQ
+- _【 intelligence quotient. 智商】_ // ---- IQ
+- **【 Her 【 emotional quotient 】 and 【 intelligence quotient 】 are both very high. 她的情商和智商都很高 】**
+-
+-
+- CC.
+- `intelligent 聪明的 adj` // ----- intelligen + t
+- `intelligence 智力 n`// --------- intelligen + ce
+- **【 The project required 【 intelligent 】 people with high 【 intelligence 】. 这个项目需要有高智力的聪明人才 】**
+-
+-
+- DD.
+- `passive voice. 被动语态`
+- `active voice. 主动语态`
+- `passive voice. 被动语态`
+- **【 Can you explain what the 【 passive voice 】 and the 【 active voice 】 are? 你能解释一下什么是被动语态和主动语态吗？ 】**
+- // 1. Do you know when the next bus comes? 你知道下一班公共汽车什么时候来吗
+- // 1. Do you know where the nearest station is?
+- // 1. Do you know where she is right now?
+- // -
+- // 2. Can you tell me where the nearest bus stop is?
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `scene 场景 现场 n`
+- `sense 感觉`
+- `scenery 风景`
+- _【 crime scene. 犯罪现场 】_
+- **【 He is collecting 【 evidence 】 at the 【 crime scene 】. 他正在【犯罪现场】收集【证据】 】**

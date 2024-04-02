@@ -86,8 +86,8 @@ front-facing camera. 前置摄像头
 rear camera. 后置摄像头
 volume button. 音量键
 
-learn and apply immediately. 现学现卖
 【 apply 应用 申请 】
+learn and apply immediately. 现学现卖
 
 The process of learning is painful.
 = the learning process is painful, but you enjoy it.
@@ -120,7 +120,7 @@ short
 fat
 ```
 
-# (4) Topic vegetable
+# (4) Topic Plant
 
 ##### 1
 
@@ -128,7 +128,16 @@ fat
 - 2. `expression 表达 n`
 - 2. `express v`
 - 2. **【 How do you 【 express 】 your love to your 【 lover 】? 】**
--
+- 3. `nasal sound. 鼻音`
+
+```
+What is the plural of 'leaf'?
+
+sample simple
+【 This is a simple sample. 这是一个简单的样品 】
+
+sow a seed into ground/soil, water it, some day later, this seed sprout, then it can grow to leaves, and bloom, finally we can get fruit.
+```
 
 ##### 2
 

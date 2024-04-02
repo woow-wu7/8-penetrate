@@ -449,7 +449,7 @@
 - // 1. look for. 寻找
 - // 2. ask for. 请求 要求 寻找
 - 1. Hi, It's Jack, how are you? 嗨，我是杰克，你好吗？
-- 2222222. Do you know where is she right now?
+- 2222222. Do you know where she is right now?
 - 3. **【 I have to hang up, can I 【 call you back 】 later? 】**
 - 3. **【 When will you 【 call me back 】? 你什么时候回我电话? 】** = When will you give me a callback?
 - 3. **【 To hang up and 【 call him back 】 later. 挂断电话，稍后再给他打电话 】**
