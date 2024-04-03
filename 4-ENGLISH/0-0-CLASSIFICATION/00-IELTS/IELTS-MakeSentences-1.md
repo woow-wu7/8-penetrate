@@ -214,6 +214,9 @@ After a long break, he finally 【 resumed 】 working.
 We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 我们应该坚持锻炼和学习
 -
+Under 【 long-term 】 【 stress / pressure 】, the body may develop many health problems.
+在长期的压力下，身体可能出现很多毛病
+-
 //【 persist in doing sth. 坚持做某事 】
 //【 lose weight. 减肥 】
 //【 long-term persistence. 长期坚持 】
@@ -362,6 +365,7 @@ You are blocking my way.
 -
 减肥需要长期的坚持
 我们应该坚持锻炼和学习
+在长期的压力下，身体可能出现很多毛病
 -
 辞职后我准备去旅行
 -
@@ -1906,6 +1910,16 @@ I'm off today.
 I'm not working today.
 我今天不上班
 -
+What time do you 【 get off work 】?
+When do you 【 get off work 】?
+你什么时候下班
+-
+What time do you 【 get to work 】?
+你几点上班？
+-
+// -
+// get off work. 下班
+// get to work. 上班
 
 
 9
@@ -1946,6 +1960,8 @@ perfect 这个单词如何发音?
 -
 我今天休息
 我今天不上班
+你什么时候下班
+你几点上班？
 -
 我上了出租车，然后下了出租车，然后上了火车，最后下了火车
 ```

@@ -67,3 +67,12 @@
 - `scenery 风景`
 - _【 crime scene. 犯罪现场 】_
 - **【 He is collecting 【 evidence 】 at the 【 crime scene 】. 他正在【犯罪现场】收集【证据】 】**
+-
+-
+-
+-
+-
+-
+-
+- 3
+- 

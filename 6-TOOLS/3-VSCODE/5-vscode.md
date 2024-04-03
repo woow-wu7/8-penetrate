@@ -43,6 +43,8 @@ command + . 更多操作
 折叠代码块：command + option + {
 自动唤醒灯泡: ⌘。
 
+插入多行光标: Command + Option + 方向键上/下
+
 设置快捷键 (  Command + k ) + ( Command + s )
 删除每一行行尾的空格 ( Command + k ) + ( Command + x )
 折叠所有代码 ( Command + k ) + ( Command + 0 )
