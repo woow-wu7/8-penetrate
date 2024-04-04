@@ -1,26 +1,67 @@
 # Bank
 
-- 2024-01-22
-- decent 体面的
-- stable 稳定的
-- clerk 职员
-- `total due. 应付总额`
-- // For many people, being a bank 【 clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作
-- // -- decent 体面的
-- // -- descend 下降
-- // -- ascend 上升
+##### Summarize
+
+- 1
+- `credit card. 信用卡`
+- `debit card. 借记卡`
+- _【 roll out. 推出 】_
+- **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- // -- credit 信用 信贷
+- // -- debit 借记 借方
+-
+-
+- 2
+- `checking account. 支票账户`
+- `saving account. 储蓄帐户`
+- **【 There are two kinds of accounts: a 【 checking account 】 and a【 saving account. 】**
+-
+-
+- 2
+- `pay off. 还清`
+- `pack back. 偿还`
+- _【 manage to. 设法做到某事 】_
+- pay off.
+- **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
+- pay back.
+- **【 You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年的时间里【偿还】这笔贷款 】**
+- // -- debt 债务
+- // -- loan 贷款
+-
+- 1
+- `decent 体面的`
+- `stable 稳定的`
+- `clerk 店员 职员`
+- **【 He has a 【 stable 】 and 【 decent 】 job. 他有一份稳定并体面的工作 】**
+- **【 For many people, being a bank 【 clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
+- // TIPS: Pay attention to the pronunciation of the word 'stable'.
+-
+- AA.
+- `decent 体面的`
+- `descend 下降`
+- `ascend 上升`
+- **【 These stairs allow people 【 ascend 】 to the top floor and then 【 descend 】 back down. 楼梯允许人们上升到顶层，然后下降回来 】**
 - // -- The elevator descends slowly to the ground floor. 电梯缓缓的向一楼下降
 - // -- The flight is descending now. 飞机正在降落
-
+-
+- BB.
+- `appreciate 感谢`
 - **【 I appreciate your help. 谢谢你的帮忙 】**
 - **【 We appreciate your cooperation to make payment. 感谢您配合付款 】**
 - **【 I appreciate your service to help me to keep healthy. 我感谢你的服务，帮助我保持健康 】**
-- **【 take a closer look at this word. 仔细看看这个词 】**
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -
 -
 - `-------- -------- -------- -------- -------- -------- --------
+- - `total due. 应付总额`
 - AAA.
 - phrase
 -

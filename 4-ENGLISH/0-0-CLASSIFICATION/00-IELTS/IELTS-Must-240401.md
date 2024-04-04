@@ -3,8 +3,8 @@
 - 1
 - `positive 积极的 正数 乐观的`
 - `negative 消极的 负数 不利的`
-- `active 主动的 积极的 adj`
-- `passive 被动的 adj`
+- `active 主动的 积极的 adj` // --- actively
+- `passive 被动的 adj` // -------- passively
 -
 - _【 positive mindset. 积极的心态 】_
 - _【 positive emotion. 积极的情绪 】_
@@ -45,10 +45,14 @@
 -
 -
 - DD.
-- `passive voice. 被动语态`
-- `active voice. 主动语态`
-- `passive voice. 被动语态`
+- `passive 被动的 adj`
+- `active 主动的 积极的 adj`
+- `passively 被动地 adv`
+- `actively 主动地 adv`
+- _【 passive voice. 被动语态 】_
+- _【 active voice. 主动语态 】_
 - **【 Can you explain what the 【 passive voice 】 and the 【 active voice 】 are? 你能解释一下什么是被动语态和主动语态吗？ 】**
+- **【 We need to learn 【 actively 】, not 【 passively 】. 我们需要主动去学习，而不是被动去学习 】**
 - // 1. Do you know when the next bus comes? 你知道下一班公共汽车什么时候来吗
 - // 1. Do you know where the nearest station is?
 - // 1. Do you know where she is right now?
@@ -75,4 +79,4 @@
 -
 -
 - 3
-- 
+-

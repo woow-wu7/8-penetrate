@@ -12,6 +12,13 @@
 - `trunk 树干 主干`
 - `bark 树皮 狗叫`
 -
+- `flower 花`
+- `petal 花瓣`
+- `bud 花蕾`
+- `bloom 开花`
+- `pollen 花粉`
+- `pollinator 传粉者`
+-
 - `protein 蛋白质`
 - `fiber 纤维`
 - `mineral 矿物质`
@@ -22,7 +29,7 @@
 -
 - `bean 豆 豆类`
 - `soybean 大豆 黄豆`
-- `pea 豌豆` // one pea one fart. 一粒豌豆一个屁 
+- `pea 豌豆` // one pea one fart. 一粒豌豆一个屁
 -
 - `broad bean. 蚕豆 胡豆`
 - `fava bean. 蚕豆 胡豆`

@@ -87,7 +87,8 @@ rear camera. 后置摄像头
 volume button. 音量键
 
 【 apply 应用 申请 】
-learn and apply immediately. 现学现卖
+【 learn and apply immediately. 现学现卖 】
+Please do you homework immediately.
 
 The process of learning is painful.
 = the learning process is painful, but you enjoy it.
@@ -109,15 +110,19 @@ polite
 tall
 rich
 gentle
-a sense of responsibility.
+a sense of responsibility. 责任感
 a sense of ownership.
 perseverance 毅力
+accomplishment. 成就
+achievement. 成就
 --- weakness
 rude
 ugly
 poor
 short
 fat
+insomnia. 失眠
+dream 做梦
 ```
 
 # (4) Topic Plant
@@ -142,6 +147,8 @@ sow a seed into ground/soil, water it, some day later, this seed sprout, then it
 ##### 2
 
 - 1. `我们各自是对方的老师`
+// -- We are each other's teachers.
+
 - 2. `你会专门下APP来记单词吗？`
 -
 - 3. `你的词汇量大概有多少`
@@ -152,3 +159,71 @@ sow a seed into ground/soil, water it, some day later, this seed sprout, then it
 -
 - 7. `不好意思，我打断你说话了`
 - 8. `你上午到中午这段时间一般会做什么？`
+
+##### 3
+
+- 7. `你清明节有什么计划吗？`
+- // What's your plan for the QingMing festival?
+
+- 8. `你知道清明节是哪天吗？`
+- // Do you know Which day The Qingming festival is?
+
+- 9. `清明节是哪天？`
+- // Which day is the Qingming festival?
+
+1. `除了晚上8-10点外，我都有空`
+
+- // I'm free except from 8-10pm.
+
+1. `这家商店除了星期天每天都开门`
+
+- // This shop/store is open except sunday.
+- // -- store ---- 大商店
+- // -- shop ----- 小商店
+- // -- things
+- // -- clothing n
+- // -- live sthing
+- // -- 厨房用品 kitchen supplies. / things for kitchen.
+- // -- 学习用品 school supplies.
+- // -- 生活用品 household goods/items.
+- // -
+- // -- household 家庭 n 家庭的 adj
+- // -- housework 家务
+- // -- homework 家庭作业
+- // -- // 家庭作业 homework / assignment
+- // -- // 英式英语: homework 作业
+- // -- // 美式英语: assignment 作业
+- // -
+- // -- kitchen supplies:
+- // -- cupboard
+- // -- wardrobe 衣柜 // TIPS: Pay attention to pronunciation.
+- // -- cabinet 储藏柜
+- // -- closet 壁柜 衣柜 // TIPS: Pay attention to pronunciation.
+- // -- cupboard 橱柜
+- // -- electric stove. 电炉
+- // -- induction cooker. 电磁炉
+- // -- fridge / refrigerator
+- // -- bridge
+- // -- sink
+- // -- tap
+- // -- shower
+- // -- apron
+- // -- towel
+- // -- bowl
+- // -- soap
+- // -- shampoo
+- // -- basin
+-
+- 2. `叶子的复数是什么？`
+- // -- What is the plural of a leaf.
+
+- 3. `这是一个简单的样品`
+- // -- This a simple sample.
+
+- 4. `什么食物富含蛋白质？`
+- // -- What food is rich in protein.
+- // -- 【 be rich in 】
+-
+- 6. `你能描述一下刷牙的详细过程吗？`
+- // Can you describe the detail process of brushing teeth.
+- // whole/entire

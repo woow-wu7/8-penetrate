@@ -178,8 +178,14 @@ How to 【 obtain 】 the 【 opportunity 】 to win the 【 favor 】 of the �
 // favor 赞成 宠爱
 // goddess 女神
 // -
-【 prince 王子 】
-【 princess 公主 】
-【 actor 男演员 】
-【 actress 女演员 】
+// opportunity 机会
+// chance 机会
+// TIPS: pay attention to the pronunciation of the word 'chance'.
+// -
+//【 prince 王子 】
+//【 princess 公主 】
+//【 actor 男演员 】
+//【 actress 女演员 】
+//【 headmaster 男校长 】
+//【 headmistress 女校长 】
 ```
