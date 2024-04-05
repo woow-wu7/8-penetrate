@@ -1,4 +1,6 @@
-# (1) Topic Dentist
+# Topic
+
+### (1) Topic Dentist
 
 - 1. `你能描述一下刷牙的整个过程吗？`
 - // - Can you describe the whole/entire process of brushing teeth？.
@@ -60,7 +62,7 @@ kindergarten. 幼儿园
 // kinder
 ```
 
-# (2) Topic - egg
+### (2) Topic - egg
 
 - 1. `你女儿的学习成绩怎么样？` // How about your daughter's study grades
 - 2. `你女儿有哪些兴趣爱好？` // What are your daughter's interests and hobbies?
@@ -68,7 +70,7 @@ kindergarten. 幼儿园
 - 4. `你和女儿的关系怎么样？` // What's your relationship with your daughter?
 - 5. `你女儿的爸爸是个坏蛋吗？` // is your daughter's father a bad egg?
 
-# (3) Topic Love
+### (3) Topic Love
 
 - 1. `海盗船和海盗旗对海盗来说都是无价的` pirate
 - 2. `你如何向你的女儿表达爱呢？`
@@ -125,7 +127,7 @@ insomnia. 失眠
 dream 做梦
 ```
 
-# (4) Topic Plant
+### (4) Topic Plant
 
 ##### 1
 
@@ -147,7 +149,7 @@ sow a seed into ground/soil, water it, some day later, this seed sprout, then it
 ##### 2
 
 - 1. `我们各自是对方的老师`
-// -- We are each other's teachers.
+     // -- We are each other's teachers.
 
 - 2. `你会专门下APP来记单词吗？`
 -
@@ -227,3 +229,78 @@ sow a seed into ground/soil, water it, some day later, this seed sprout, then it
 - 6. `你能描述一下刷牙的详细过程吗？`
 - // Can you describe the detail process of brushing teeth.
 - // whole/entire
+
+# New Concept English 新概念英语
+
+#### Lesson 1
+
+```
+1
+Words
+-
+week n
+weekly adj.
+-
+descendant
+-
+Morning Run. 晨跑
+-
+private conversation. 私人谈话
+private property. 私人财产
+private stuff/item. 私有物品
+-
+How did you 【 pick up 】 your daughter from school？
+How did you take your daughter to go to school?
+【 get off your high horse. stop judging. 放下你的架子 】
+-
+you bet. 当然 / 
+of course. 当然 /
+make sense. 有道理 /
+-
+movie theater./cinema 电影院
+I ride a electric【 tricycle 】. 电动三轮车
+-
+bi cycle
+tri cycle
+-
+go to school. ------------- student
+go to the school. --------- anybody
+in hospital 住院 ---------- // 指病人
+in the hospital 在医院 ---- // 不一定是病人
+-
+seat 座位
+vacant seat. 空位
+-
+play n. 戏
+-
+loudly adv. 大声地
+speak loudly.
+sing loudly.
+ring.
+-
+angry adj. 生气的
+angrily adv. 生气地
+say angrily.
+angry/terrible
+-
+attention n. 注重
+Pay attention to.
+-
+【 learn and apply immediately. 现学现卖 】
+-
+bear v. 容忍
+bear n. 胸
+temper 脾气
+temporary 暂时的 临时的
+temple 寺庙
+-
+I can't bear the bear's bad 【 temper 】.
+temporary 暂时的 临时的 // I live here 【 temporarily 】.
+I live in temple temporarily.
+-
+business n. 事
+It's none of your business.
+It's none of my business.
+-
+rudely adv. 无礼地，粗鲁地
+```
