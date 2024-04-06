@@ -119,6 +119,7 @@ accomplishment. 成就
 achievement. 成就
 --- weakness
 rude
+rudely
 ugly
 poor
 short
@@ -248,17 +249,55 @@ Morning Run. 晨跑
 private conversation. 私人谈话
 private property. 私人财产
 private stuff/item. 私有物品
+property-> 1. wealth / treasure / property
+-
+1. Is our conversation a private conversation?
+2. Can you describe the fixed collocation 'private conversation' mean clearly and exactly?
+3. you can organize your expression and language.
+-
+【 learn and apply immediately. 】
+-
+associate 联系;联合;联想v / 副的 adj
+associate professor.
+joint statement. 联合声明
+You are ignoring me. 你无视我
+-
+All the words we have already reviewed
+-
+tongue twister.
+twister 龙卷风
+The twister destroys the village.
+-
+-
+horse 马
+house 房子
+-
+occur 发生
+happen 发生
 -
 How did you 【 pick up 】 your daughter from school？
 How did you take your daughter to go to school?
-【 get off your high horse. stop judging. 放下你的架子 】
+【 get off your high horse. I don't bear you. stop judging. 放下你的架子，停止审判 】
 -
-you bet. 当然 / 
+parallel 并联
+series 串联 系列
+series circuit. 串联电路
+parallel circuit. 串联电路
+【 TV drama. 电视剧 】
+【 TV series. 连续剧 】
+-
+you bet. 当然 /
 of course. 当然 /
 make sense. 有道理 /
+bravo. 哇喔
+awesome 称赞
 -
 movie theater./cinema 电影院
 I ride a electric【 tricycle 】. 电动三轮车
+-
+Can you forgive the rude behavior of that rude bear eat the deer and drink too much beer?
+behave 行为 v
+behavior 行为 n / action 行动
 -
 bi cycle
 tri cycle

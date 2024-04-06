@@ -9,23 +9,32 @@
 - `band 乐队 带子`
 - `brand 品牌 商标`
 -
-- _【 power bank. 充电宝 】_
-- _【 river bank. 河岸 】_
--
-- _【 bank teller. 银行出纳员 】_ // teller 出纳
+- _【 bank teller. 银行出纳员 】_ // teller 出纳 // tell teller
 - _【 bank manager. 银行经理 】_ // manage management manager
-- _【 fund manager. 基金经理 】_ // fun fund refund found
+- _【 fund manager. 基金经理 】_
+- // fun fund refund found
+- // fund pension
+- //【 housing fund. 住房公积金 】
+- //【 education fund. 教育基金 】
 -
 - _【 banking term. 银行术语 】_
 - _【 financial term. 金融术语 】_
-- _【 financial statement. 财务报表 】_
+- _【 financial statement. 财务报表 】_ // financial
+- _【 finance department. 财务部门 】_ // finance
 -
-- _【 power bank. 充点宝 】_
-- _【 power strip. 插线板 】_
+- _【 financial statement. 财务报表 】_
+- _【 joint statement. 联合声明 】_
+- _【 make a statement. 发表声明 】_ = issue a statement. = make a declaration.
+-
+- _【 river bank. 河岸 】_
+- _【 power bank. 充电宝 】_
+- _【 power strip. 插线板 】_ // strip socket outlet
+-
 - **【 This bank has many 【 bank tellers 】, many 【 bank managers 】, and many 【 branches 】. 银行有很多出纳员，银行经理和分行 】**
+- **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - //
 - // --【 manage 管理 设法做到 v 】
-- // --【 manage to do sth. 设法做到某事 】
+- // --【 manage to do sth. 【设法】做到某事 】
 - // -- management 管理 n
 - // -- manager 经理 管理人
 - //
@@ -56,20 +65,33 @@
 - `fund 基金`
 - `refund 退款 退还 v n`
 - `found 创建 创立`
-- **【 He found a new fun fund company. 他创建了新的有趣的基金公司 】**
+- **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
+- **【 I got a 【 refund 】 for the 【 broken 】 【 items 】. 我收到了破损物品的退款 】** // refund
+- //
+- // -- break 打破 v
+- // -- broke 过去式
+- // -- broken 打破的 adj / break 的过去分词
+- //
+- // -- item 物品 项目 一条
+- // -- stuff 东西
+- // -- staff 员工
 -
 -
 - CC.
-- `financial 金融的 财务的 财政的 adj`
+- `financial 金融的 财务的 财政的 adj` // financial finance
 - `financial term. 金融术语`
 - `financial statement. 财务报表`
-- `banking term. 银行术语`
+- `banking term. 银行术语` // term 学期 术语
 - **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】**
 - **【 There are many 【 financial terms 】 in the 【 financial statement 】. 财务报表中有很多金融术语 】**
-- // -- contain 包含
+- //
+- // -- 【 contain 包含 】
 - //
 - // -- statement 声明 报告 报表
 - // -- joint 联合的 adj 关节 n
+- // -- 【 joint statement. 联合声明 】
+- //
+- // -- term 学期 术语
 -
 -
 - DD.
@@ -81,12 +103,35 @@
 - **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】. 两位总统发表了一项联合声明 】**
 -
 -
+- EE.
+- `issue 发表v 问题n`
+- `release 发表 发布 v`
+- 大多数情况下 issue 和 release 可以互换
+-
+- // declare 声明 宣布 v
+- // declaration 声明 宣布 n
+- // TIPS: Pay attention to pronunciation of the word 'declaration'.
+- //
+- // release 发布
+- // issue 发表
+- //
+- // 【 president 总统 】
+- // TIPS: Pay attention to pronunciation of the word 'president'.
+- //
+- // TIPS: Pay attention to pronunciation of the word 'declare'.
+- // TIPS: Pay attention to pronunciation of the word 'declaration'.
+-
+-
 - FF.
 - `manage 管理 v`
 - `management 管理 n`
 - `manager 管理者 n`
-- _【 manage to do sth. 设法做成某事 】_
+- _【 fund manager. 基金经理 】_
+- _【 bank manager. 银行经理 】_
+- _【 bank teller. 银行出纳员 】_
+- _【 manage to do sth. 【设法】做成某事 】_
 - **【 I 【 managed to finish 】 the report before the 【 deadline 】. 我设法在截止日期前完成了报告 】**
+- **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
 - // -- deadline 最后期限
 -
 -
@@ -123,7 +168,9 @@
 - `pack back. 偿还`
 - > debt 债务
 - > debit 借记 借方
-- _【 manage to. 设法做到某事 】_
+- debt 债务
+- receipt 收据 发票
+- _【 manage to. 【设法】做到某事 】_
 - _【 a period of. 一段...的时间 】_
 - pay off.
 - **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
@@ -143,6 +190,7 @@
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
 - _【 deposit slip. 存款单 】_
+- **【 【 fill out 】 a deposit slip. 】**
 - **【 The machine can 【 deposit money 】 and 【 withdraw money 】. 这个机器可以存钱和取钱 】**
 -
 -
@@ -170,8 +218,7 @@
 - _【 death rate. 死亡率 】_
 - **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 -
-- **【 savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】 】**
--
+- **【 【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】 】**
 - //
 - // be related to. 与...有关
 - //
@@ -187,8 +234,8 @@
 - `revenue 收入` --- 不可数名词
 - `income 收入` ---- 不可数名词
 - avenue 大街
-- **【 My revenue mainly comes from investments. 我的收入主要来自投资 】**
-- **【 His revenue includes investments, interests, and interest rates. 他的收入包含投资，利息和利率 】**
+- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
+- **【 His 【 revenue 】 includes 【 investments 】, 【 interests 】, and 【 interest rates 】. 他的收入包含投资，利息和利率 】**
 -
 -
 - 9
@@ -200,16 +247,20 @@
 - 10
 - `loan 贷款`
 - `debt 债务`
+- receipt
+- applicant
 - _【 apply for a loan. 申请贷款 】_
-- _【 apply for position. 申请职位 】_
+- _【 apply for a position. 申请职位 】_
 - _【 apply for a driver's license. 申请驾照 】_
 - _【 license plate. 车牌 】_
-- **【 The new loan takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元 】**
+- **【 The new 【 loan 】 takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元 】**
+- // TIPS: Pay attention to the pronunciation of the word 'debt'.
+-
 -
 -
 - 11
 - `applicant 申请人`
-- **【 For this position, the 【 applicant 】 is applying for a loan and driver's license. 】**
+- **【 For this 【 position 】, the 【 applicant 】 is applying for a loan and driver's license. 】**
 -
 -
 - 12
@@ -217,22 +268,91 @@
 - `fee 费用`
 - `fare 票价`
 - _【 transaction successful. 交易成功 】_
-- **【 The 【 transaction 】 is completed after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- // complete 完成 v
 -
 -
 - 13
-- `recept 收据 发票`
-- **【 Keep the receipt as proof of purchase. 保存好收据作为购货凭证 】**
+- `receipt 收据 发票`
+- **【 Keep the 【 receipt 】 as proof of 【 purchase 】. 保存好收据作为购货凭证 】**
+- // proof 证明 证据 n
+- // debt 收据
+- // purchase 购买 v n
+- // TIPS: Pay attention to the pronunciation of the word 'receipt'.
+- // TIPS: Pay attention to the pronunciation of the word 'debt'.
 -
 -
 - 14
-- `stock 股票`
+- `stock 股票` // -- stock market. 股票市场
+- stack // -------- tech stack. 技术栈
+- stuck // -------- get stuck in. 陷入
 - _【 stock market. 股票市场 】_
 - **【 Many people don't like to invest in stocks. 许多人不喜欢投资股票 】**
 -
 -
--
 - 15
+- `finance 金融 资金 财务 n`
+- `financial 金融的 财务的 adj`
+- _【 finance department. 财务部门 】_
+- **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
+-
+-
+- 16
+- `currency 货币`
+- `cash 现金` // cash cache
+- `bill 账单 钞票`
+- `coin 硬币` // coin corn
+- **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
+-
+-
+-
+- 17 EXTEND
+- `take out. 取出`
+- 1. 【 take out 】 cash. 取出现金
+- 2. 【 take out 】 your toothbrush and toothpaste.
+-
+-
+- 18 EXTEND
+- `represent 代表` ------------- 代表任何事物
+- `stand for 代表 象征` -------- 一般用于抽象的 ( 符号 标志 )
+- **【 We use stones to 【 represent 】 money to play the game. 我们用石头代表钱来玩游戏 】**
+- **【 The 【 gesture 】 of 'V' 【 stands for 】 【 victory 】. 手势 V 代表胜利 】**
+- //
+- // -- victory 胜利 成功 n
+- // -- gesture 手势 姿势
+- //
+- // -- stand for. 代表
+- // -- represent 代表
+- //
+- // TIPS: Pay attention to the pronunciation of the word 'represent'.
+-
+-
+- 19 EXTEND
+- `automatic 自动的 adj`
+- `automatically 自动地 adv`
+-
+- `switch 转换v 开关v`
+- -
+- `recognize 识别 认出 v`
+- `identify 识别 v`
+- -
+- `identify 识别 v`
+- `identity 身份 n`
+- `【 identify identity. 识别身份 】`
+- `【 recognize identity. 识别身份 】`
+- -
+- _【 automatic identification. 自动识别 】_
+- _【 automatic switch 自动开关 】_
+- -
+- **【 This system can 【 automatically 】 【 recognize identities 】. 这个系统可以自动识别身份 】**
+-
+-
+-
+-
+-
+-
+-
+- 17
 - `decent 体面的`
 - `stable 稳定的`
 - `clerk 店员 职员`
@@ -379,6 +499,7 @@
 -
 - `bank teller. 银行出纳员`
 - `bank manager. 银行经理`
+- `fund manager. 基金经理`
 - // customer 顾客
 - // client 客户，责任比顾客要大得多
 -
@@ -665,6 +786,318 @@ fill out. 填写
 ```
 
 ##### (1) Conversation
+
+```
+Let's talk about Money in English
+-
+1
+Money
+- Money is what people use to buy and services.
+
+2
+form 表单 形态 形式
+- Money comes in different forms.
+- 1.形态: Water has three forms: gas, solid, liquid.
+- 2.形式: A short and clear form is the simplest form. 简洁明了的形式是最简单的形式
+- 3. in the form of. 以...的形式
+- 3.【 The 【 bonus 】 was given 【 in the form of 】 【 cash 】. 奖金以现金的形式发放 】
+- 4. liquid fluid sap
+
+
+
+------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- -------
+Let's talk about Money in English
+Time	Subtitle	Machine Translation
+0s	Hey everybody!	大家好！ 我
+1s	It's Ariannita la Gringa	是 Ariannita la Gringa，
+3s	and welcome back to my YouTube channel.	欢迎回到我的 YouTube 频道。
+5s	In today's video, I will teach all of you about money.	在今天的视频中，我将教大家有关金钱的知识。
+9s	And what is money?	什么是金钱？
+11s	Money is what people use to buy things or services.	金钱是人们用来购买东西或服务的东西。
+15s	For example, you can use money to buy clothes,	例如，您可以用钱购买衣服，
+19s	you can use money to buy food,	可以用钱购买食物，
+21s	or many more things.	或者更多的东西。
+22s	Money comes in different forms.	金钱有不同的形式。
+24s	For example, I am holding cash in my hand.	例如，我手里拿着现金。
+29s	This is cash and cash is the physical form of money.	这就是现金，现金是货币的实物形式。
+34s	This is cash.	这是现金。
+35s	Cash is basically bills or coins.	现金基本上是钞票或硬币。
+39s	I have some coins in my pocket.	我口袋里有一些硬币。
+41s	These are coins.	这些是硬币。
+42s	Both of these are different types of cash (bills and coins).	这两种都是不同类型的现金（纸币和硬币）。
+47s	And how do you get some more cash or a physical form of money?	如何获得更多现金或实物形式的金钱？
+51s	Well, of course, money doesn't grow on trees,	当然，钱不会长在树上，
+54s	but you can take out cash from the ATM.	但您​​可以从 ATM 机提取现金。
+57s	There's an ATM over there behind me	我身后有一台 ATM，
+59s	and that stands for automated teller machine.	代表自动柜员机。
+1:02	This is an ATM machine.	这是一台 ATM 机。
+1:04	It's a machine that lets you take out money or cash	这是一种可以让您从银行帐户中提取金钱或现金的机器，
+1:08	from your bank account and that's called withdraw	这称为“取款”，
+1:11	so you can withdraw money from the ATM.	这样您就可以从 ATM 机上取款。
+1:14	ATM stands for automated teller machine.	ATM 代表自动柜员机。
+1:17	If you have physical cash you can put in money in the ATM	如果您有实物现金，您可以在 ATM 机上存钱
+1:20	or if you want to withdraw money	；如果您想取款，
+1:23	you can take out money or have a physical copy of cash.	您可以取出现金或持有现金的实物副本。
+1:26	And you can find ATM machines outside your bank	您可以在银行外找到 ATM 机（
+1:29	like right here or you can also find it inside the bank,	就像这里一样），也可以在银行内、
+1:33	inside shopping malls, stores or even restaurants.	购物中心、商店甚至餐馆内找到 ATM 机。
+1:36	Now, what is a bank?	现在，什么是银行？
+1:39	Well, there's a bank right behind me it's called Fifth Third Bank	嗯，我身后有一家银行，叫做 Fifth Third Bank
+1:43	and there's another one to my right it's called US Bank.	，我右边还有一家银行，叫做 US Bank。
+1:46	A bank is a safe place where people can keep their money	银行是一个安全的地方，人们可以在这里保管钱，
+1:50	and you can borrow money from the bank	您可以向银行借钱，
+1:52	or you can ask the bank to lend you money.	也可以要求银行借钱给您。
+1:55	I don't have a bank account with US Bank,	我没有美国银行的银行账户，
+1:57	but I do have a bank account with Bank of America	但我有美国银行的银行账户，
+2:00	so I'm going to 【 head over 】 to the ATM	所以我要前往 ATM（
+2:03	the automated teller machine and withdraw some money	自动柜员机）并
+2:07	come along with me!	跟我一起提取一些钱！
+2:16	I'm about to walk over there to my bank	我正要去那里我的银行
+2:19	called Bank of America, but in this area they have over five banks.	叫美国银行，但在这个地区有超过五家银行。
+2:24	They have Bank of America,	他们有美国银行、
+2:25	Chase,	大通银行、
+2:26	Fifth Third,	Fifth Third、
+2:28	US Bank, and Huntington.	合众银行和亨廷顿银行。
+2:30	That's a lot of banks to be in this small area.	在这个小区域里有很多银行。
+2:32	There's almost 5,000 banks in America	美国有近 5,000 家银行，在
+2:36	and behind me this is Chase Bank.	我身后的是大通银行。
+2:38	It is one of the most common banks with over 80 million customers.	它是最常见的银行之一，拥有超过 8000 万客户。
+2:42	Go ahead and let me know down below	请在下面告诉我您
+2:44	what is the most common bank in your country.	所在国家/地区最常见的银行是哪家。
+2:46	Talking about money,	说到钱，
+2:48	what's your favorite way to spend it?	你最喜欢的花钱方式是什么？
+2:50	I enjoy spending my money on new activities	我喜欢把钱花在新的活动
+2:53	and things like learning a new language.	和学习新语言等事情上。
+2:55	And the best app to learn a new language is today's sponsor, Preply.	学习新语言的最佳应用是今天的赞助商 Preply。
+2:59	Preply is a language learning platform	Preply 是一个
+3:02	that has thousands of native tutors.	拥有数千名母语导师的语言学习平台。
+3:03	You can take lessons anytime	您可以随时上课
+3:06	and schedule a lesson that fits your budget and busy schedule.	并安排适合您预算和繁忙日程的课程。
+3:09	You can also use filters to narrow your search	您还可以使用过滤器来缩小搜索范围
+3:12	and find the perfect teacher.	并找到完美的老师。
+3:14	Preply is the best way to practice with a teacher	Preply 是与老师一起练习的最佳方式，
+3:17	who will actually motivate you	他会真正激励您
+3:18	and will make your language learning easier.	并使您的语言学习变得更轻松。
+3:21	Use my code ARIANNITA50	使用我的代码 ARIANNITA50
+3:23	for a 50% discount on your first trial.	首次试用可享受 50% 的折扣。
+3:25	Thanks to Preply for sponsoring this portion of this video.	感谢 Preply 赞助该视频的这一部分。
+3:28	Let's get back to the video!	让我们回到视频！
+3:30	I just got to my bank, Bank of America,	我刚刚到达我的银行，美国银行，
+3:33	and in order for me to be part of the bank	为了成为该银行的一员，
+3:36	I need to have a bank account	我需要有一个银行账户，
+3:37	and that's a safe place where I can keep my money in the bank.	这是我可以将钱存入银行的安全地方。
+3:41	So you can have two different accounts.	所以你可以有两个不同的帐户。
+3:43	You can have a checking account or a savings account.	您可以拥有支票账户或储蓄账户。
+3:46	Now, I'm going to walk inside the bank	现在，我要走进银行
+3:49	and check out the ATM because I want to withdraw some money	并检查 ATM，因为我想提取一些钱
+3:53	and show you guys the different bills we use in America.	并向你们展示我们在美国使用的不同钞票。
+3:59	And in order to enter the bank	为了进入银行，
+4:01	you need to be a client.	您需要成为客户。
+4:03	You can't just open up the door.	你不能只是打开门。
+4:06	No...	不……
+4:06	This door is locked.	这扇门是锁着的。
+4:07	There's a code right here to enter	这里有一个代码需要输入，
+4:09	so in order to enter the bank I need to have a debit card	因此为了进入银行，我需要一张借记卡，
+4:13	or I can just use Apple pay (my debit card on my phone).	或者我可以只使用 Apple pay（我手机上的借记卡）。
+4:17	I have my debit card on my phone	我的手机上有借记卡，
+4:19	so I can just scan it right here and walk inside.	因此我可以直接在这里扫描并走进去。
+4:24	Now I'm going to withdraw money from the ATM	现在我
+4:28	from the automated teller machine.	要从自动柜员机的 ATM 机上取款。
+4:30	And that just means I'm going to take out money from my bank account.	这只是意味着我要从我的银行帐户中取出钱。
+4:34	So in order to take out money from your bank account	因此，为了从您的银行帐户中提取资金，
+4:37	you need a debit card or I can use the one on my phone.	您需要一张借记卡，或者我可以使用手机上的借记卡。
+4:40	So now I'm going to scan it right here.	所以现在我要在这里扫描它。
+4:42	Now it says enter your PIN so I'm going to enter my pin.	现在它要求输入您的 PIN 码，所以我要输入我的 PIN 码。
+4:49	And now the screen says get cash, make deposit,	现在屏幕上显示获取现金、存款、
+4:54	check balance, or view more.	检查余额或查看更多。
+4:56	So the ATM has different functions.	所以ATM有不同的功能。
+4:59	You can deposit money if you have physical cash	如果您有实物现金，
+5:02	and that cash will go into your bank account	并且该现金将存入您的银行账户，
+5:04	or you can withdraw money	则您可以存入资金，或者您可以提取资金
+5:06	or take money out of your bank account.	或从您的银行账户中提取资金。
+5:08	I personally want to get cash	我个人想要获得现金，
+5:10	because I want to withdraw money from my bank account.	因为我想从我的银行账户中提取资金。
+5:13	Now the screen says, "How much cash do you want?".	现在屏幕上显示：“您想要多少现金？”。
+5:16	You can get $20, $40, $60, or up to $300.	您可以获得 20 美元、40 美元、60 美元或最多 300 美元。
+5:23	I am going to take out $200 from my bank account	我将从我的银行账户中取出 200 美元，
+5:27	because I wanna show you guys the different bills.	因为我想向你们展示不同的账单。
+5:30	Now the screen says, "How would you like your $200?".	现在屏幕上显示：“您想要 200 美元吗？”。
+5:34	You can have it in tens, twenties, or hundreds.	您可以拥有数十个、二十个或数百个。
+5:38	Now it says take your cash.	现在它说拿走你的现金。
+5:40	Now that I have some cash I can put it in my back pocket,	现在我有了一些现金，我可以把它放在我的后口袋里，
+5:43	but I don't want to do that because I'm in a city	但我不想这样做，因为我在一个城市
+5:47	and I wouldn't want anyone stealing that money from me	，我不希望任何人从我这里偷钱，
+5:49	so I can put it in my purse.	这样我就可以把它放在我的口袋里。 钱包。
+5:52	This is a purse or I can put the cash in my wallet.	这是一个钱包，或者我可以把现金放在钱包里。
+5:55	These are both safe places to put my money.	这些都是我放钱的安全地方。
+5:58	I just took out some money from the ATM.	我刚刚从 ATM 机上取了一些钱。
+6:01	This is cash.	这是现金。
+6:03	It's physical money.	这是实体货币。
+6:04	I wanna show you guys the different types of bills	我想向大家展示
+6:07	we use in the United States.	我们在美国使用的不同类型的账单。
+6:08	Let's start off with the first bill.	让我们从第一个账单开始。
+6:10	This is the $1 bill.	这是 1 美元的钞票。
+6:13	You can call it a single or a buck.	您可以将其称为“单”或“一美元”。
+6:16	Now the next bill is not very common.	现在下一个法案已经不太常见了。
+6:18	It's very hard to find and sometimes banks won't even have it.	它很难找到，有时银行甚至都没有。
+6:22	This is the $2 bill.	这是2美元的钞票。
+6:25	This is $2.	这是 2 美元。
+6:26	The next bill is this one.	下一个法案就是这个。
+6:29	This is a $5 bill and most bills have presidents on them.	这是一张 5 美元的钞票，大多数钞票上都印有总统。
+6:33	This is Abraham Lincoln.	这是亚伯拉罕·林肯。
+6:35	The next bill is this one.	下一个账单就是这个。
+6:37	This is a $10 bill and as I said before,	这是一张 10 美元的钞票，正如我之前所说，
+6:41	most bills have a president on them	大多数钞票上都有一位总统，
+6:43	but this is Alexander Hamilton	但这是亚历山大·汉密尔顿
+6:46	and he was never president nor did he ever run for president.	，他从未担任过总统，也从未竞选过总统。
+6:50	He was one of the founding fathers of the United States.	他是美国的开国元勋之一。
+6:53	So far I have shown you the $1 bill	到目前为止，我已经向您展示了 1 美元的钞票
+6:56	or you can call it a buck,	（或者您可以称之为 1 美元）、
+6:57	the $2 bill, $5 bill, and $10 bill.	2 美元的钞票、5 美元的钞票和 10 美元的钞票。
+7:02	I have $18 or you can say 18 bucks (18 bucks).	我有 18 美元，或者你可以说 18 美元（18 美元）。
+7:07	And what does 'buck' mean?	“降压”是什么意思？
+7:09	Well, that is slang for dollar.	嗯，这是美元的俚语。
+7:11	That is just $1.	那只是 1 美元。
+7:13	This is the next bill.	这是下一个法案。
+7:14	This is a $20 bill and this is Andrew Jackson.	这是一张 20 美元的钞票，这是安德鲁·杰克逊。
+7:19	He's on the $20 bill.	20美元的钞票上就是他。
+7:20	You can say 20 bucks or 20 dollars.	你可以说20块钱或者20美元。
+7:23	The next bill is a $50 bill	下一张是 50 美元的钞票，
+7:26	and he was the 18th President of the United States.	他是美国第 18 任总统。
+7:29	His name is Ulysses S. Grant.	他的名字叫尤利西斯·S·格兰特。
+7:32	And the last bill and the most common bill in the U.S.	美国最后一张钞票也是最常见的钞票
+7:36	is the $100 bill.	是 100 美元钞票。
+7:38	And this has Benjamin Franklin on it.	这上面有本杰明·富兰克林。
+7:42	He was a scientist, he discovered electricity,	他是一位科学家，他发现了电，
+7:45	and he was one of the founding fathers of the United States,	他是美国的开国元勋之一，
+7:48	but he was never president.	但他从未担任过总统。
+7:50	This is one of the most common bills in the U.S. so people use this a lot.	这是美国最常见的账单之一，因此人们经常使用它。
+7:54	And one of the least common bills is the $2 bill.	最不常见的纸币之一是 2 美元纸币。
+7:58	The most circulated bill or the most common bill in the U.S.	美国最流通的纸币或最常见的纸币
+8:02	is the $100 bill.	是 100 美元纸币。
+8:03	The least common bill is this one.	最不常见的账单就是这张。
+8:06	This is the $2 bill	这是 2 美元的纸币
+8:08	and it's one of the least common because it stopped printing in 1966	，是最不常见的纸币之一，因为它于 1966 年停止印刷
+8:13	for around 10 years	大约 10 年，因此
+8:14	so that's why it's one of the least common bills in the U.S.	它是美国最不常见的纸币之一。
+8:17	Another form of cash or physical money is coins.	现金或实物货币的另一种形式是硬币。
+8:21	These are coins and let's start off with the first one.	这些是硬币，让我们从第一个开始。
+8:25	This is 1 cent or you can call it a penny (penny).	这是 1 美分，也可以称为一便士（penny）。
+8:29	This is 5 cents or you can call it a nickel (nickel).	这是 5 美分，也可以称之为镍币（nickel）。
+8:34	And it's called a nickel because it's made of 25% nickel.	它之所以被称为镍，是因为它由 25% 的镍制成。
+8:38	The next coin is this one.	下一枚硬币就是这一枚。
+8:40	This is 10 cents or it's a dime (dime).	这是 10 美分或一毛钱（一毛钱）。
+8:44	And lastly, this is 25 cents.	最后，这是 25 美分。
+8:47	It's called a quarter (quarter).	称为四分之一（quarter）。
+8:50	Four quarters makes $1	四个 25 美分硬币可以赚 1 美元，
+8:52	and 100 pennies makes $1 too.	100 便士也可以赚 1 美元。
+8:55	Now, what happens if you travel across the world	现在，如果您环游世界
+8:58	and you're in a country and you want to pay with a $1 bill.	并在某个国家/地区并且想要用 1 美元的账单付款，会发生什么情况。
+9:02	Can you use it?	你能用吗？
+9:04	Well some countries might accept the US dollar,	有些国家可能会接受美元，
+9:07	but some of them won't	但有些国家则不会，
+9:08	so you'll have to use their type of currency.	因此您必须使用他们的货币类型。
+9:11	To give you some examples of different types of currencies	为了给您提供一些不同类型货币的示例，
+9:15	I have different types of currencies or cash in my hand.	我手上有不同类型的货币或现金。
+9:18	This is 50 pesos.	这是50比索。
+9:20	Pesos is the currency they use in Mexico.	比索是他们在墨西哥使用的货币。
+9:23	And this is the equivalent to $3.	这相当于 3 美元。
+9:26	50 pesos is $3.	50 比索相当于 3 美元。
+9:29	So I'll keep this bill in my piggy bank	因此，我会将这张钞票放在我的存钱罐中，
+9:31	just in case if I travel in Mexico so I can use it in person.	以防万一我在墨西哥旅行时可以亲自使用它。
+9:34	This bill is from Argentina.	这张钞票来自阿根廷。
+9:37	This is 1,000 pesos so this is equivalent to $1.	这是 1,000 比索，相当于 1 美元。
+9:42	And if I want to go to Argentina	如果我想去阿根廷
+9:45	and if I want to spend money there I will need to use this bill.	并且想在那里花钱，我将需要使用这张账单。
+9:49	This is 20,000 pesos, but this bill is from Colombia.	这是20000比索，但是这张钞票是来自哥伦比亚的。
+9:53	It's not from Mexico nor Argentina.	它不是来自墨西哥或阿根廷。
+9:56	In the United States, we use the dollar.	在美国，我们使用美元。
+9:58	And in Canada, they use the dollar as well, but they use the Canadian dollar.	在加拿大，他们也使用美元，但他们使用加元。
+10:03	And in Latin America, it's kind of similar.	在拉丁美洲，情况也类似。
+10:06	So they use pesos.	所以他们使用比索。
+10:08	This is from Argentina,	这是来自阿根廷，
+10:10	this is from Colombia,	这是来自哥伦比亚，
+10:11	and this is Mexico.	这是墨西哥。
+10:13	So Americans and Canadians use the dollar	因此，美国人和加拿大人使用美元，
+10:15	whereas some parts of Latin America they use pesos.	而拉丁美洲的某些地区则使用比索。
+10:19	In some parts of Europe, they use the euro.	在欧洲的某些地区，他们使用欧元。
+10:22	This is 10 EUR but in some countries in Europe,	这是 10 欧元，但在欧洲的一些国家，
+10:26	they do not use the euro	他们不使用欧元，
+10:27	like for example in Poland they use Złoty.	例如在波兰，他们使用兹罗提。
+10:31	This is 100 Złoty.	这是 100 兹罗提。
+10:33	In some parts of the world,	在世界某些地区，
+10:34	the currency may change over time because of inflation.	由于通货膨胀，货币可能会随着时间的推移而变化。
+10:38	For example, this is 100 bolivares	例如，这是 100 玻利瓦尔，
+10:42	and this bill is from Venezuela.	这张账单来自委内瑞拉。
+10:44	If I go to Venezuela right now and I try to pay for something	如果我现在去委内瑞拉并尝试付款，
+10:48	they will not accept this bill.	他们将不会接受此账单。
+10:50	So this bill has no value,	所以这张钞票没有价值，
+10:52	but this bill does have value in antique shops	但是这张钞票在古董店里确实有价值，
+10:55	and I can collect it for the future.	我可以将来收集它。
+10:58	And the last bill I have is this one.	我的最后一张账单就是这张。
+11:00	A lot of my subscribers come from this country.	我的很多订阅者都来自这个国家。
+11:03	Can you tell me down below in the comments	您能在下面的评论中告诉我
+11:05	where this bill is from and what it's called?	这张账单的来源和名称吗？
+11:08	If you have a lot of money you may be rich or wealthy,	如果你有很多钱，你可能会很富有或富有，
+11:12	but if you don't have any money you may be broke or poor.	但如果你没有钱，你可能会破产或贫穷。
+11:17	After earning money you may need something to do with it.	赚到钱后，您可能需要做点什么。
+11:20	You may need to spend it.	您可能需要花费它。
+11:22	So how do you spend money?	那么你怎么花钱呢？
+11:24	Well, you can save your money in a piggy bank	那么，您可以将钱存入存钱罐，
+11:27	or you can spend it on something.	也可以花在某些东西上。
+11:28	Right now, I'm going to spend some money	现在，我要花一些钱买
+11:31	on an ice cream cone.	一个蛋卷冰淇淋。 跟
+11:32	Come along with me and let's spend some money	我一起去
+11:34	at Graeters, the ice cream shop!	Graeters冰淇淋店花钱吧！
+11:40	What are some ways I can pay for my ice cream?	我可以通过哪些方式支付冰淇淋费用？
+11:43	Well, I can pay for it with bills.	嗯，我可以用账单支付。
+11:46	This is cash and this is 10 bucks,	这是现金，这是 10 美元，
+11:48	I can also use a credit card or debit card	我也可以使用信用卡或借记卡
+11:52	to pay for my ice cream,	来支付冰淇淋费用，
+11:53	and lastly, I can use a check.	最后，我可以使用支票。
+11:56	This is one of the least common ways to pay for things,	这是最不常见的支付方式之一，
+11:58	but you can use it at an ice cream shop	但您可以在冰淇淋店
+12:01	or anywhere you go.	或任何您去的地方使用它。
+12:02	But please, I don't wanna wait in line inside the ice cream shop	但是，我不想在冰淇淋店内排队
+12:05	waiting for you to sign your check	等待您签署支票，
+12:07	because you were paying with the check	因为您是用支票付款的，
+12:09	so try to use some different forms	因此请尝试使用
+12:11	like a credit card or cash to speed up the process.	信用卡或现金等不同形式来加快流程。
+12:14	I just spent $4.50 for one scoop of ice cream on a cone.	我刚刚花了 4.5 美元买了一勺甜筒冰淇淋。
+12:20	And they gave me a receipt.	他们给了我一张收据。
+12:22	So normally when you spend money you'll get a receipt.	所以一般来说，当你花钱的时候，你会得到一张收据。
+12:26	Also, when you pay for things in different states	此外，当您在不同的州付款时，
+12:28	you'll get a sales tax	您将需要缴纳销售税，
+12:30	so every time you spend money you will have an additional tax.	因此您每次花钱时都会缴纳额外的税款。
+12:34	For example, this costs $4.50,	例如，费用为 4.50 美元，
+12:37	but with tax, it'll be around $5	但含税后约为 5 美元，
+12:40	so each state will have a different tax.	因此每个州都有不同的税费。
+12:42	I withdrew some money earlier,	我之前提取了一些钱，
+12:45	but now I want to put that money back into my bank account.	但现在我想将这笔钱存回我的银行帐户。
+12:48	So now I will deposit that money (this money)	所以现在我会把这笔钱（这笔钱）存到那边的
+12:52	over there at the ATM.	ATM 机上。
+12:54	I'm going to deposit this money	我要把这笔钱存入
+12:55	at a different bank at Fifth Third.	五三银行的另一家银行。
+13:01	I can deposit cash inside my bank	我可以在银行存入现金，
+13:04	or I can deposit this at the ATM.	也可以在 ATM 机上存入现金。
+13:07	So now I have to scan this code with my Fifth Third mobile app.	所以现在我必须使用我的 Fifth Third 移动应用扫描此代码。
+13:12	Now I'm going to deposit this cash	现在我要存入这笔现金，
+13:16	and it says checks or cash.	上面写着支票或现金。
+13:18	I will click cash	我点击“现金”，
+13:20	and it says insert up to 25 bills.	它显示最多可插入 25 张钞票。
+13:27	It says insert cash and touch to finish deposit	它说插入现金并触摸即可完成存款，
+13:32	and now they're counting my cash.	现在他们正在清点我的现金。
+13:34	I just deposited money back into a different bank account	我刚刚将钱存回另一个银行帐户，
+13:38	and they gave me a receipt	他们给了我一张收据，
+13:39	with my account balance and everything on here.	上面有我的帐户余额和所有信息。
+13:42	Okay, everybody.	好的，大家。
+13:42	I hope you all enjoyed this video.	我希望你们都喜欢这个视频。
+13:44	Go ahead and give me a like and subscribe	继续给我点赞并订阅，
+13:46	and I'll see you guys next week!	我们下周再见！
+13:48	Bye!	再见！
+
+```
 
 ```
 1
