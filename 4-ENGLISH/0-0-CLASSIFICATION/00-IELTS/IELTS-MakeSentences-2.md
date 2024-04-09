@@ -367,9 +367,16 @@ This 【 shop / store 】 is open every day 【 except 】 【 Sunday 】.
 // weekly 每周的 周刊 adj
 //【 weekly meeting. 周会 】
 //【 weekly magazine. 周刊 】
+//【 weekly interest rate. 周利率 】
 // -
+// minutely 每分钟的
+// hourly 每小时的 adj
+// daily 每日的 adj
 // weekly 每周的 adj
 // monthly 每月的 adj
+// annual 每年的 adj
+// TIPS: Pay attention to the pronunciation of the word 'annual'.
+// -
 // TIPS: Pay attention to the pronunciation of the word 'magazine'.
 
 
@@ -605,4 +612,33 @@ go skiing：去滑雪
 go fishing：去钓鱼
 go dancing：去跳舞
 go climbing：去爬山
+```
+
+##### 4 Make sentences 2024-04-09
+
+```
+1
+It's a good 【 habit 】 to 【 go to bed early 】 and 【 get up early 】.
+早睡早起是一个良好的习惯
+-
+This is his 【 hobby 】, not his 【 habit 】.
+这是他的兴趣爱好，而不是他的习惯
+-
+// -
+// habit 习惯
+// go to bed.
+// get up.
+// -
+// hobby 爱好
+// habit
+
+
+2
+His performance is in a 【 floating range 】, not a fixed value.
+他的绩效在一个浮动的区间，而不是固定的值
+// -
+// floating range. 浮动的区间
+// -
+// float 浮动 v
+// floating 浮动的 adj
 ```

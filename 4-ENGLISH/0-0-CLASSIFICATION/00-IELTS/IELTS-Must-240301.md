@@ -296,7 +296,7 @@
 - // -- _【 performance 绩效 表演 】_
 - // -- **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
 - // -- **【 The company's【 benefit 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险 】**
-- // -- _【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】_
+- // -- **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
 - // -- // 注意 employee's 和 employees'
 - // -- // Performance affects the salary of employee. 绩效影响者员工的薪水
 - // -

@@ -343,3 +343,80 @@ It's none of my business.
 -
 rudely adv. 无礼地，粗鲁地
 ```
+
+#### Lesson 3 Please send me a card
+
+```
+send
+// sent
+// send postcard.
+
+spoil 摧毁
+vase 花瓶
+handicraft 手工艺品 // hand handler handle
+// destroy 摧毁
+// break 打破 // break broke broken
+// blame 责备
+// punish 惩罚 // punish sb for doing sth.
+// items/stuff/object/goods
+// -- required standing as punishment.
+// -
+// publish 发布
+// -
+// private museum.
+// private items/stuff/object/goods.
+// personal privacy. 个人隐私
+// public museum.
+// -
+// 【 behavior 行为 n / action 行动 n 】
+// 【 stress/pressure. 】
+// 【 handshake 握手 】
+// -
+//
+// waiter waitress 女服务员
+// actor actress
+// prince princess
+// -
+// assistant 助手
+// guider 指导者
+// tour guide. 导游
+// -
+// whole adj. 整个的
+// entire 整个
+// -
+// single adj. 唯一的，单一的
+//
+// -
+```
+
+#### Lesson 4 An exciting trip 激动人心的旅行
+
+```
+exciting adj. 令人兴奋的 -------- 事物
+excited adj. 兴奋的 ------------ 人
+excite 使兴奋 v
+// 1. My father is 【 excited 】 due to the 【 exciting 】 movie.
+// 2. The 【 exciting 】 movie makes you 【 excited 】.
+-
+receive v. 接受，收到
+// I received/got/obtain an exciting gift from somebody.
+-
+item 物品
+-
+firm/company 公司
+film/movie 电影
+-
+There are many different firms in the center of the city/trade.
+-
+【 trading center. 贸易中心 】
+【 Medical center. 医疗中心 】
+【 shopping center/mall. 购物中心 】
+【 training center. 训练中心 】
+// shopping center is 【 near by / next to / around 】 shopping center.
+-
+He has been there for six months
+I have been working here for eight years.
+-
+a great/large/much number of…
+// you have a much number of hair.
+```

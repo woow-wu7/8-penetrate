@@ -1,0 +1,42 @@
+# component 成分
+
+# The components of a sentence. 句子成分
+
+- 1
+- `subject 主语 主题` // subject object
+- `predicate 谓语 断言`
+- `object 宾语 对象 物体`
+- `attributive 定语 属性`
+- `adverbial 状语`
+- `complement 补语 补充`
+-
+-
+-
+-
+- 2
+- `noun 名词`
+- `pronoun 代词`
+- `verb 动词`
+- `adverb 副词`
+- `adjective 形容词`
+- `preposition 介词`
+-
+-
+-
+-
+- 3
+- `comma 逗号`
+- `period 句号 时期`
+-
+- `question mark. 问号`
+- `quotation mark. 引号`
+- `single quotation mark. 单引号`
+- `double quotation mark. 双引号`
+-
+- `greater than sign. 大于号`
+- `less than sign. 小于号`
+-
+- // -- quote 引用 v
+- // -- quotation 引用 n
+- //
+- // TIPS: Pay attention to the pronunciation of the word 'comma'.

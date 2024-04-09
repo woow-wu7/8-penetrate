@@ -9,32 +9,54 @@
 - `band 乐队 带子`
 - `brand 品牌 商标`
 -
-- _【 bank teller. 银行出纳员 】_ // teller 出纳 // tell teller
-- _【 bank manager. 银行经理 】_ // manage management manager
+- _【 bank clerk. 银行职员 】_ // ------- clerk 职员 店员
+- _【 bank teller. 银行出纳员 】_ // ---- teller 出纳 // tell teller
+- _【 bank manager. 银行经理 】_ // ----- manage management manager
 - _【 fund manager. 基金经理 】_
 - // fun fund refund found
 - // fund pension
+- // manage management manager
 - //【 housing fund. 住房公积金 】
 - //【 education fund. 教育基金 】
+- // TIPS: Pay attention to the pronunciation of the word 'housing'.
 -
 - _【 banking term. 银行术语 】_
 - _【 financial term. 金融术语 】_
 - _【 financial statement. 财务报表 】_ // financial
 - _【 finance department. 财务部门 】_ // finance
+- // TIPS: Pay attention to the pronunciation of the word 'financial'.
+- // TIPS: Pay attention to the pronunciation of the word 'finance'.
 -
 - _【 financial statement. 财务报表 】_
 - _【 joint statement. 联合声明 】_
 - _【 make a statement. 发表声明 】_ = issue a statement. = make a declaration.
+- _【 make a joint statement. 发表联合声明 】_
 -
 - _【 river bank. 河岸 】_
 - _【 power bank. 充电宝 】_
 - _【 power strip. 插线板 】_ // strip socket outlet
 -
-- **【 This bank has many 【 bank tellers 】, many 【 bank managers 】, and many 【 branches 】. 银行有很多出纳员，银行经理和分行 】**
+- **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
+- **【 This bank has 【 two kinds of accounts 】: a 【 checking account 】 and a【 savings account. 】**
 - **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+-
+- **【 For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
+-
+- **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
+-
+- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+- **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
 - //
-- // --【 manage 管理 设法做到 v 】
+- // -- `stable 稳定的`
+- // -- `decent 体面的`
+- // -- // TIPS: Pay attention to the pronunciation of the word 'stable'.
+- //
+- // -- decent 体面的
+- // -- descend 下降
+- // -- ascend 上升
+- //
 - // --【 manage to do sth. 【设法】做到某事 】
+- // -- manage 管理 设法做到 v
 - // -- management 管理 n
 - // -- manager 经理 管理人
 - //
@@ -46,7 +68,7 @@
 - // -- 名词复数，加 es 的情况:
 - // -- 1. 以 x s sh ch 结尾的单词加 es
 - // -- 2. 以 辅音字母 + y 结尾的单词，变 Y 为 I 再加 es
-- // ---3. 以 f fe 结尾的名字，变 f fe 为 v，再加 es
+- // -- 3. 以 f fe 结尾的名字，变 f fe 为 v，再加 es
 -
 -
 - AA.
@@ -64,7 +86,7 @@
 - `fun 有趣的`
 - `fund 基金`
 - `refund 退款 退还 v n`
-- `found 创建 创立`
+- `found 创建 创立 v`
 - **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
 - **【 I got a 【 refund 】 for the 【 broken 】 【 items 】. 我收到了破损物品的退款 】** // refund
 - //
@@ -75,15 +97,21 @@
 - // -- item 物品 项目 一条
 - // -- stuff 东西
 - // -- staff 员工
+- //
+- // -- item 物品 项目
+- // -- term 术语 学期
 -
 -
 - CC.
 - `financial 金融的 财务的 财政的 adj` // financial finance
 - `financial term. 金融术语`
-- `financial statement. 财务报表`
+- `financial statement. 财务报表` // financial
+- `finance department. 财务部门` // finance
 - `banking term. 银行术语` // term 学期 术语
-- **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】**
-- **【 There are many 【 financial terms 】 in the 【 financial statement 】. 财务报表中有很多金融术语 】**
+- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+-
+- **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】** // term item
+- **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
 - //
 - // -- 【 contain 包含 】
 - //
@@ -92,6 +120,13 @@
 - // -- 【 joint statement. 联合声明 】
 - //
 - // -- term 学期 术语
+- //
+- // -- finance department. 财务部
+- // -- financial statement. 财务报表
+- // -- financial term. 金融术语
+- //
+- // TIPS: Pay attention to the pronunciation of the word 'financial'.
+- // TIPS: Pay attention to the pronunciation of the word 'finance'.
 -
 -
 - DD.
@@ -100,7 +135,9 @@
 - _【 joint statement. 联合声明 】_
 - _【 financial statement. 财务报表 】_
 - _【 issue a statement. = make a statement. = issue a declaration. 发表声明 】_
+- _【 issue a joint statement. 发表联合声明 】_
 - **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】. 两位总统发表了一项联合声明 】**
+- // -- president 总统
 -
 -
 - EE.
@@ -129,10 +166,14 @@
 - _【 fund manager. 基金经理 】_
 - _【 bank manager. 银行经理 】_
 - _【 bank teller. 银行出纳员 】_
+- _【 bank clerk. 银行职员 】_
 - _【 manage to do sth. 【设法】做成某事 】_
 - **【 I 【 managed to finish 】 the report before the 【 deadline 】. 我设法在截止日期前完成了报告 】**
 - **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
 - // -- deadline 最后期限
+- // -- dead 死的 adj
+- // -- death 死 n
+- // -- die 死 v
 -
 -
 -
@@ -163,15 +204,22 @@
 -
 -
 -
+-
+-
+-
 - 4
 - `pay off. 还清`
-- `pack back. 偿还`
+- `pack back. 偿还 归还`
+-
+- > debt 债务
+- > receipt 收据 发票
+-
 - > debt 债务
 - > debit 借记 借方
-- debt 债务
-- receipt 收据 发票
+-
 - _【 manage to. 【设法】做到某事 】_
 - _【 a period of. 一段...的时间 】_
+-
 - pay off.
 - **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
 - pay back.
@@ -189,9 +237,12 @@
 - 5
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
+- deposit money. = put in money.
+- withdraw money. = take out money.
 - _【 deposit slip. 存款单 】_
 - **【 【 fill out 】 a deposit slip. 】**
 - **【 The machine can 【 deposit money 】 and 【 withdraw money 】. 这个机器可以存钱和取钱 】**
+- **【 I'm going to 【 take out 】 200$ from my bank account. 我要从我的银行账户里取出 200 美元 】**
 -
 -
 -
@@ -203,6 +254,8 @@
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - // -- post office. 邮局
+- // TIPS: Pay attention to the pronunciation of the word 'housing'.
+-
 -
 -
 -
@@ -213,14 +266,42 @@
 - 7
 - `interest 利息 兴趣 n`
 - `interest rate. 利率`
+-
+- _【 interest rate. 利率 】_
+- _【 annual interest rate. 年利率 】_
+- _【 weekly interest rate. 周利率 】_
+-
 - _【 interest rate. 利率 】_
 - _【 birth rate. 出生率 】_
 - _【 death rate. 死亡率 】_
-- **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 -
-- **【 【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】 】**
+- _【 annual bonus. 年终奖 】_
+-
+- `bonus 奖金`
+- `reward 奖励`
+- `salary 薪水` // 长时间
+- `wage 工资` // 短时间
+- `benefit 福利`
+- `performance 绩效 表演`
+-
+- **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
+- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
+-
+- **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
+- **【 The company's【 benefit 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险 】**
+- **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
+-
+- // minutely 每分钟的
+- // hourly 每小时的 adj
+- // daily 每日的 adj
+- // weekly 每周的 adj
+- // monthly 每月的 adj
+- // annual 每年的 adj
+- // TIPS: Pay attention to pronunciation 'annual'.
 - //
-- // be related to. 与...有关
+- // -- generous 慷慨的 大方的 adj
+- //
+- // -- be related to. 与...有关
 - //
 - // TIPS: Pay attention to pronunciation 'interest rates'
 -
@@ -231,23 +312,28 @@
 -
 -
 - 8
-- `revenue 收入` --- 不可数名词
-- `income 收入` ---- 不可数名词
-- avenue 大街
+- `revenue 收入 n` --- 不可数名词
+- `income 收入 n` ---- 不可数名词
+- `expenditure 支出 n`
+- > avenue 大街
 - **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
-- **【 His 【 revenue 】 includes 【 investments 】, 【 interests 】, and 【 interest rates 】. 他的收入包含投资，利息和利率 】**
+- **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
+-
+- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
 -
 -
 - 9
-- `balance 余额 平衡`
+- `balance 余额 平衡 n`
 - _【 check balance. 查看余额 】_
-- **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】**
+- **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
+- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
 -
 -
 - 10
 - `loan 贷款`
 - `debt 债务`
-- receipt
+- > debt
+- > receipt
 - applicant
 - _【 apply for a loan. 申请贷款 】_
 - _【 apply for a position. 申请职位 】_
@@ -270,16 +356,23 @@
 - _【 transaction successful. 交易成功 】_
 - **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
 - // complete 完成 v
+- // TIPS: Pay attention to the pronunciation of the word 'completed'.
+-
 -
 -
 - 13
 - `receipt 收据 发票`
+- > receipt
+- > debt
 - **【 Keep the 【 receipt 】 as proof of 【 purchase 】. 保存好收据作为购货凭证 】**
 - // proof 证明 证据 n
 - // debt 收据
 - // purchase 购买 v n
 - // TIPS: Pay attention to the pronunciation of the word 'receipt'.
 - // TIPS: Pay attention to the pronunciation of the word 'debt'.
+- //
+- // purchase 购买 ----- 书面语
+- // buy 购买
 -
 -
 - 14
@@ -294,6 +387,7 @@
 - `finance 金融 资金 财务 n`
 - `financial 金融的 财务的 adj`
 - _【 finance department. 财务部门 】_
+- _【 financial statement. 财务报表 】_
 - **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
 -
 -
@@ -303,16 +397,33 @@
 - `bill 账单 钞票`
 - `coin 硬币` // coin corn
 - **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
+- // -- current 当前的
+- // -- currency 货币
 -
 -
 -
-- 17 EXTEND
+- 17
+- `wallet 钱包` ------------ 小
+- `purse 钱包 资金` --------- 大，书面语，多用于女性
+- **【 Both wallet and purse can be used to store money. wallet 和 purse 都可以用来装钱 】**
+-
+-
+- 18
+- `transfer 转移 转让 换乘`
+- _【 straight away. 立即 】_
+- **【 I will 【 transfer 】 the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上 】**
+- // -- `right away. 立即`
+- // -- `straight away. 立即`
+- // -- `immediately. 立即`
+-
+-
+- 19 EXTEND
 - `take out. 取出`
 - 1. 【 take out 】 cash. 取出现金
 - 2. 【 take out 】 your toothbrush and toothpaste.
 -
 -
-- 18 EXTEND
+- 20 EXTEND
 - `represent 代表` ------------- 代表任何事物
 - `stand for 代表 象征` -------- 一般用于抽象的 ( 符号 标志 )
 - **【 We use stones to 【 represent 】 money to play the game. 我们用石头代表钱来玩游戏 】**
@@ -327,24 +438,33 @@
 - // TIPS: Pay attention to the pronunciation of the word 'represent'.
 -
 -
-- 19 EXTEND
+- 21 EXTEND
+- `recognize 识别 认出 v`
+- `identify 识别 v`
+-
+- `identify 识别 v`
+- `identity 身份 n`
+-
 - `automatic 自动的 adj`
 - `automatically 自动地 adv`
 -
 - `switch 转换v 开关v`
-- -
-- `recognize 识别 认出 v`
-- `identify 识别 v`
-- -
-- `identify 识别 v`
-- `identity 身份 n`
+-
 - `【 identify identity. 识别身份 】`
 - `【 recognize identity. 识别身份 】`
-- -
+-
+- _【 identify identity. 识别身份 】_
+-
 - _【 automatic identification. 自动识别 】_
 - _【 automatic switch 自动开关 】_
 - -
 - **【 This system can 【 automatically 】 【 recognize identities 】. 这个系统可以自动识别身份 】**
+-
+-
+- 22 EXTEND
+- `up to. 达到`
+- `go up to. 达到 上升到 `
+- **【 The price can 【 go up to 】 100$. 价格可能高达 100 美元 】**
 -
 -
 -
@@ -353,9 +473,13 @@
 -
 -
 - 17
+- `stable 稳定的`
+- `decent 体面的`
+-
 - `decent 体面的`
 - `stable 稳定的`
 - `clerk 店员 职员`
+-
 - **【 He has a 【 stable 】 and 【 decent 】 job. 他有一份稳定并体面的工作 】**
 - **【 For many people, being a bank 【 clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
 - // TIPS: Pay attention to the pronunciation of the word 'stable'.
@@ -457,7 +581,8 @@
 -
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
-- `deposit slip. 存款单` // fill out a deposit slip.
+- `deposit slip. 存款单`
+- // fill out a deposit slip.
 - // deposit $100 = make a deposit $100.
 - // withdraw $100 = make a withdraw 【 of 】 $100.
 - // **【 deposit $100/100 dollars 【 in 】 my checking account. 在我的账户里存 100 美元 】** // v
@@ -538,10 +663,13 @@
 - noun
 -
 - `interest 利息 兴趣`
-- `interest rate. 利率` // TIPS: Pay attention to pronunciation 'interest rates'
+- `interest rate. 利率`
+- _【 annual interest rate. 年利率 】_
+- _【 weekly interest rate. 周利率 】_
 - // earn interest. 赚利息
 - // 1. savings account is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】
 - // 2.【 interest rates 】 came down today. 利率今天下降了
+- // TIPS: Pay attention to pronunciation 'interest rates'
 -
 - `avenue 大街`
 - `revenue 收入`
