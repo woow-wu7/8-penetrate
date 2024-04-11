@@ -256,7 +256,7 @@ What did you do from 8 to 10 o'clock.
 I remember that you said you have some secrets 【 a few days ago 】.
 我记得你前几天说过你有一些秘密
 -
-I think the 【 secrets 】 maybe are some 【 positive 】 things, 【 negative 】 things, or some stresses in your life that you don't share with anyone.
+I think the 【 secrets 】 【 maybe/perhaps 】 are some 【 positive 】 things, 【 negative 】 things, or some stresses in your life that you don't share with anyone.
 我认为【秘密】也许是一些【积极的】事情、【消极的】事情，或是你不与任何人分享的生活中的一些压力
 -
 // -
@@ -267,7 +267,12 @@ I think the 【 secrets 】 maybe are some 【 positive 】 things, 【 negative
 // -
 // passive 被动的
 // active 主动的
-
+// -
+//【 share with. 和...分享 】
+// -
+// maybe ------- 口语话，可能性小
+// perhaps ----- 书面语，可能性小
+// probably ---- 可能性大 // probable probably
 
 2
 My 【 colleague 】 is my 【 college 】 【 classmate 】.
@@ -285,6 +290,14 @@ My 【 colleague 】 is my 【 college 】 【 classmate 】.
 // -
 // TIPS: Pay attention to the pronunciation of the word 'college'. // col + le + ge
 // TIPS: Pay attention to the pronunciation of the word 'finally'. // col + lea + gue
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我记得你前几天说过你有一些秘密
+我认为【秘密】也许是一些【积极的】事情、【消极的】事情，或是你不与任何人分享的生活中的一些压力
+-
+我同事是我大学同学
 ```
 
 ##### 3 Make sentences 2024-04-03
@@ -555,10 +568,10 @@ What do you want to be 【 in the future 】?
 
 
 5
-We need to learn 【 activity 】, not 【 passively 】.
+We need to learn 【 actively 】, not 【 passively 】.
 我们需要主动去学习，而不是被动去学习
 -
-Can you explain what the 【 passive voice 】 and the 【 active voice 】 are?
+Can you 【 explain 】 what the 【 passive voice 】 and the 【 active voice 】 are?
 你能解释一下什么是被动语态和主动语态吗？
 -
 // active 主动的 积极的 adj
@@ -567,8 +580,12 @@ Can you explain what the 【 passive voice 】 and the 【 active voice 】 are?
 // actively 主动地 积极地 adv
 // passively 被动地 adv
 // -
-// passive voice. 被动语态
-// active voice. 主动语态
+// 【 passive voice. 被动语态 】
+// 【 active voice. 主动语态 】
+// -
+// active 积极的 主动的 adj
+// actively 积极地 adv
+// activity 活动 n
 
 
 6
@@ -612,9 +629,27 @@ go skiing：去滑雪
 go fishing：去钓鱼
 go dancing：去跳舞
 go climbing：去爬山
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我的工作是打印文件和管理文件
+不好意思，打断一下，我有打扰到你吗？
+-
+我通常是背英语句子
+我通过背诵英语文章练习英语口语
+-
+你将来想成为什么？
+-
+我们需要主动去学习，而不是被动去学习
+你能解释一下什么是被动语态和主动语态吗？
+-
+交作业
+我需要把每个月的工资上交给老婆
+除了每周的薪水外，我还能得到不少小费
 ```
 
-##### 4 Make sentences 2024-04-09
+##### 5 Make sentences 2024-04-09
 
 ```
 1
@@ -624,21 +659,59 @@ It's a good 【 habit 】 to 【 go to bed early 】 and 【 get up early 】.
 This is his 【 hobby 】, not his 【 habit 】.
 这是他的兴趣爱好，而不是他的习惯
 -
+We should 【 develop the habit 】 of washing hands before eating.
+我们应该养成吃饭前洗手的习惯
+-
 // -
 // habit 习惯
+// -
 // go to bed.
 // get up.
 // -
-// hobby 爱好
-// habit
+// 【 hobby 爱好 】
+// 【 habit 习惯 】
+// -
+// 【 develop a habit. 养成习惯 】
 
 
 2
 His performance is in a 【 floating range 】, not a fixed value.
 他的绩效在一个浮动的区间，而不是固定的值
 // -
-// floating range. 浮动的区间
+// 【 floating range. 浮动的区间 】
 // -
 // float 浮动 v
 // floating 浮动的 adj
+
+
+3
+We should 【 have patience in doing 】 everything.
+我们做任何事情都得有耐心
+-
+Thanks for your 【 patience 】.
+感谢您的耐心
+-
+Please wait 【 patiently 】.
+请耐心等待
+-
+I 【 have no patience in waiting 】 for you.
+我没有耐心等你了
+-
+// -
+// patient 耐心的 adj  病人n
+// patiently 耐心地 adv
+// patience 耐心 n
+// -
+//【 have patience. 有耐心 】
+// -
+//【 have patience in doing sth. 做某事有耐心 】
+
+
+4
+What 【 lesson 】 did we learn yesterday.
+我们昨天学的是第几课？
+// -
+// lesson 课 课程
+// course 课程 过程
+// class 班 课
 ```

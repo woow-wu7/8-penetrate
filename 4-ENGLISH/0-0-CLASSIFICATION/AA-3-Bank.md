@@ -18,10 +18,11 @@
 - // manage management manager
 - //【 housing fund. 住房公积金 】
 - //【 education fund. 教育基金 】
+- //【 mortgage loan. 房贷 】
 - // TIPS: Pay attention to the pronunciation of the word 'housing'.
 -
 - _【 banking term. 银行术语 】_
-- _【 financial term. 金融术语 】_
+- _【 financial term. 金融术语 】_ // financial finance
 - _【 financial statement. 财务报表 】_ // financial
 - _【 finance department. 财务部门 】_ // finance
 - // TIPS: Pay attention to the pronunciation of the word 'financial'.
@@ -35,6 +36,9 @@
 - _【 river bank. 河岸 】_
 - _【 power bank. 充电宝 】_
 - _【 power strip. 插线板 】_ // strip socket outlet
+-
+- > Citibank 花旗银行
+- > Chase Bank. 大通银行
 -
 - **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
 - **【 This bank has 【 two kinds of accounts 】: a 【 checking account 】 and a【 savings account. 】**
@@ -104,10 +108,16 @@
 -
 - CC.
 - `financial 金融的 财务的 财政的 adj` // financial finance
-- `financial term. 金融术语`
+- `finance 金融 n`
+-
+- `financial term. 金融术语` // financial term. // banking term.
 - `financial statement. 财务报表` // financial
+-
 - `finance department. 财务部门` // finance
+-
 - `banking term. 银行术语` // term 学期 术语
+- `financial term. 金融术语`
+-
 - **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
 - **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】** // term item
@@ -119,7 +129,7 @@
 - // -- joint 联合的 adj 关节 n
 - // -- 【 joint statement. 联合声明 】
 - //
-- // -- term 学期 术语
+- // -- 【 term 学期 术语 】
 - //
 - // -- finance department. 财务部
 - // -- financial statement. 财务报表
@@ -137,7 +147,8 @@
 - _【 issue a statement. = make a statement. = issue a declaration. 发表声明 】_
 - _【 issue a joint statement. 发表联合声明 】_
 - **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】. 两位总统发表了一项联合声明 】**
-- // -- president 总统
+- // -- 【 president 总统 】
+- // -- 【 president 总统 】
 -
 -
 - EE.
@@ -174,7 +185,9 @@
 - // -- dead 死的 adj
 - // -- death 死 n
 - // -- die 死 v
--
+- //
+- // -- death rate. 死亡率
+- // -- birth rate. 出生率
 -
 -
 -
@@ -253,7 +266,14 @@
 - _【 education fund. 教育基金 】_
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
-- // -- post office. 邮局
+- //
+- // --【 post office. 邮局 】
+- // -- postman 邮递员
+- // -- postcard 明信片
+- // -- mail 邮件
+- // -- stamp 邮票 邮戳
+- // --【 letter 信 字母 】
+- //
 - // TIPS: Pay attention to the pronunciation of the word 'housing'.
 -
 -
@@ -284,6 +304,8 @@
 - `benefit 福利`
 - `performance 绩效 表演`
 -
+- **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
+-
 - **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 -
@@ -297,13 +319,13 @@
 - // weekly 每周的 adj
 - // monthly 每月的 adj
 - // annual 每年的 adj
-- // TIPS: Pay attention to pronunciation 'annual'.
-- //
+-
 - // -- generous 慷慨的 大方的 adj
-- //
 - // -- be related to. 与...有关
-- //
+-
+- // TIPS: Pay attention to pronunciation 'annual'.
 - // TIPS: Pay attention to pronunciation 'interest rates'
+- //
 -
 -
 -
@@ -312,14 +334,35 @@
 -
 -
 - 8
-- `revenue 收入 n` --- 不可数名词
-- `income 收入 n` ---- 不可数名词
-- `expenditure 支出 n`
+- `revenue 收入 n` ------------ 不可数名词
+- `income 收入 n` ------------- 不可数名词
+-
+- `expenditure 支出 n` -------- 大规模的支持 // --------- expenditure 支出 n
+- `expense 费用 开销 花销 n` --- 个人，小规模的支出 // ---- expense 费用 n
+- 大多数情况 expenditure 和 expense 可以互换
+-
+- `consume 消费 消耗 v`
+- `consumption 消费 消耗 n`
+-
+- _【 mortgage loan. 房贷 】_ // mortgage loan. = house loan. = home loan.
+- _【 car loan. 车贷 】_
+-
 - > avenue 大街
+- > 【 revenue interest balance budget debt loan 】
+- > 【 salary wage performance bonus reward benefit 】
 - **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
 -
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
+-
+- **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
+- // -- `mortgage loan. 房贷`
+- // -- `car loan. 车贷`
+-
+-
+-
+-
+-
 -
 -
 - 9
@@ -329,18 +372,33 @@
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
 -
 -
+-
+-
+-
+-
 - 10
 - `loan 贷款`
 - `debt 债务`
+-
 - > debt
 - > receipt
-- applicant
+-
+- applicant 申请人
+-
+- _【 mortgage loan. 房贷 】_
+- _【 car loan. 车贷 】_
+-
 - _【 apply for a loan. 申请贷款 】_
 - _【 apply for a position. 申请职位 】_
 - _【 apply for a driver's license. 申请驾照 】_
 - _【 license plate. 车牌 】_
+-
 - **【 The new 【 loan 】 takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元 】**
 - // TIPS: Pay attention to the pronunciation of the word 'debt'.
+-
+-
+-
+-
 -
 -
 -
@@ -396,6 +454,7 @@
 - `cash 现金` // cash cache
 - `bill 账单 钞票`
 - `coin 硬币` // coin corn
+- `cheque 支票`
 - **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
 - // -- current 当前的
 - // -- currency 货币
@@ -405,7 +464,7 @@
 - 17
 - `wallet 钱包` ------------ 小
 - `purse 钱包 资金` --------- 大，书面语，多用于女性
-- **【 Both wallet and purse can be used to store money. wallet 和 purse 都可以用来装钱 】**
+- **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. wallet 和 purse 都可以用来装钱 】**
 -
 -
 - 18
@@ -417,13 +476,29 @@
 - // -- `immediately. 立即`
 -
 -
-- 19 EXTEND
+-
+- 19
+- `budget 预算`
+- _【 go over budget. 超出预算 】_
+- > 【 revenue interest balance budget debt loan 】
+- > 【 salary wage performance bonus reward benefit 】
+- **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
+- // -- consume 消费 v
+- // -- consumption 消费 n
+- //
+- // -- expenditure 支出
+- // -- expense 费用
+- // -- consumption 消耗 小费 n
+-
+-
+-
+- 20 EXTEND
 - `take out. 取出`
 - 1. 【 take out 】 cash. 取出现金
 - 2. 【 take out 】 your toothbrush and toothpaste.
 -
 -
-- 20 EXTEND
+- 21 EXTEND
 - `represent 代表` ------------- 代表任何事物
 - `stand for 代表 象征` -------- 一般用于抽象的 ( 符号 标志 )
 - **【 We use stones to 【 represent 】 money to play the game. 我们用石头代表钱来玩游戏 】**
@@ -438,7 +513,9 @@
 - // TIPS: Pay attention to the pronunciation of the word 'represent'.
 -
 -
-- 21 EXTEND
+-
+-
+- 22 EXTEND
 - `recognize 识别 认出 v`
 - `identify 识别 v`
 -
@@ -461,7 +538,9 @@
 - **【 This system can 【 automatically 】 【 recognize identities 】. 这个系统可以自动识别身份 】**
 -
 -
-- 22 EXTEND
+-
+-
+- 23 EXTEND
 - `up to. 达到`
 - `go up to. 达到 上升到 `
 - **【 The price can 【 go up to 】 100$. 价格可能高达 100 美元 】**
@@ -476,8 +555,6 @@
 - `stable 稳定的`
 - `decent 体面的`
 -
-- `decent 体面的`
-- `stable 稳定的`
 - `clerk 店员 职员`
 -
 - **【 He has a 【 stable 】 and 【 decent 】 job. 他有一份稳定并体面的工作 】**

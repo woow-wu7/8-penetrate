@@ -231,9 +231,9 @@ sow a seed into ground/soil, water it, some day later, this seed sprout, then it
 - // Can you describe the detail process of brushing teeth.
 - // whole/entire
 
-# New Concept English 新概念英语
+### New Concept English 新概念英语
 
-#### Lesson 1
+### Lesson 1
 
 ```
 1
@@ -248,8 +248,15 @@ Morning Run. 晨跑
 -
 private conversation. 私人谈话
 private property. 私人财产
-private stuff/item. 私有物品
+private wealth
+private treasure
+-
+private stuff/item/object. 私有物品
 property-> 1. wealth / treasure / property
+-
+subject 主语
+predicate 谓语
+object 宾语 物体 对象 // const instance = new Object();
 -
 1. Is our conversation a private conversation?
 2. Can you describe the fixed collocation 'private conversation' mean clearly and exactly?
@@ -344,7 +351,7 @@ It's none of my business.
 rudely adv. 无礼地，粗鲁地
 ```
 
-#### Lesson 3 Please send me a card
+### Lesson 3 Please send me a card
 
 ```
 send
@@ -389,7 +396,7 @@ handicraft 手工艺品 // hand handler handle
 // -
 ```
 
-#### Lesson 4 An exciting trip 激动人心的旅行
+### Lesson 4 An exciting trip 激动人心的旅行
 
 ```
 exciting adj. 令人兴奋的 -------- 事物
@@ -419,4 +426,73 @@ I have been working here for eight years.
 -
 a great/large/much number of…
 // you have a much number of hair.
+```
+
+### Lesson 5 No wrong numbers 无错号之虞
+
+```
+make a phone/call. 打电话
+answer the phone/call. 接电话
+hang up. 挂电话
+-
+letter 新建
+email
+post office. 邮局
+postman. 邮递员
+postcard. 明信片
+stamp. 邮票
+write letter. 写信
+-
+boat.
+ship.
+-
+pigeon 鸽子
+message n. 信息
+It's a good way/method to send message.
+-
+service 服务
+-
+spare part 备件
+spare wheel. 备胎
+-
+up to now (=up till now), 到现在为止
+by now.
+-
+destination/goal
+all the same / still
+```
+
+### Lesson 6 Percy Buttons 珀西.巴顿斯
+
+```
+call v. 拜访，光顾
+call 断站拜访 v n
+-
+beggar 乞丐
+food n. 食物
+pocket n. 衣服口袋
+call v. 拜访，光顾
+----
+
+
+hand up. 举手 上交
+hand in. 交作业
+hand over. 移交
+
+
+crystal 水晶
+diamond 钻石 菱形 n adj
+shape 形状
+// I have a diamond diamond.
+
+sandals 凉鞋
+beach 海滩 沙滩
+sand 沙滩
+// I'm going to sand/beach wearing a pair of sandals.
+
+shine 闪耀 v n
+shiny 闪耀的 adj
+sensitive 敏感的
+
+maltreat 略带
 ```

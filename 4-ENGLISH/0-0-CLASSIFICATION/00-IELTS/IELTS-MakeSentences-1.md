@@ -1321,7 +1321,7 @@ We need to 【 collocate 】 the words 【 properly 】 in the sentence.
 
 
 3
-What is the 【 working principle 】 of the 'scoped' attribute  on the style tag in Vue?
+What is the 【 working principle 】 of the 'scoped' 【 attribute 】  on the style tag in Vue?
 vue 中 style 标签上的 scoped 属性的工作原理？
 -
 It's not just 【 a matter of 】money, It's 【 a matter of 】 【 principle 】.
@@ -1339,6 +1339,11 @@ It's not 【 a matter of 】 【 ability 】, but a matter of 【 attitude 】.
 //【 working principle. 工作原理 】
 // -
 //【 a matter of. ...的问题 】
+// -
+// 【 attribute 属性 】
+// 【 attributive 定语 定语的 adj 】
+// TIPS: Pay attention to the pronunciation of the word 'attribute'.
+// TIPS: Pay attention to the pronunciation of the word 'attributive'.
 
 
 4

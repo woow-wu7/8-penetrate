@@ -1,14 +1,56 @@
-# component 成分
+# Components 成分
 
 # The components of a sentence. 句子成分
 
 - 1
-- `subject 主语 主题` // subject object
+- `subject 主语 主题` // --------- subject object
 - `predicate 谓语 断言`
 - `object 宾语 对象 物体`
 - `attributive 定语 属性`
-- `adverbial 状语`
-- `complement 补语 补充`
+- `adverbial 状语` // ----------- verb adverb adverbial
+- `complement 补语n 补充v 补足v` ---- complete complement
+-
+- `clause 从句 字句 条款 n`
+- _【 attributive clause. 定语从句 】_
+- _【 adverbial clause. 状语从句 】_
+-
+-
+- AA.
+- `attribute 属性`
+- `attributive 定语 定语的`
+- _【 attributive clause. 定语从句 】_
+- **【 What is the 【 working principle 】 of the 'scoped' 【 attribute 】 on the style tag in Vue? 】**
+- // -
+- // 【 working principle. 工作原理 】
+- // -
+- // attribute 属性
+- // attributive 定语 n 定语的 adj
+-
+-
+- BB.
+- `complete 完全的adj 完成v`
+- `complement 补语n 补足v`
+- _【 make up. 组成 补足】_
+- **【 I need to 【 complete 】 this project 【 by the weekend 】. 我需要在周末之前完成这个项目 】** （ 最迟在周末 ）// complete 完成 v
+- **【 We should 【 complement 】 the knowledge that is 【 lacking 】. 我们应该补足缺乏的知识 】** // complement 补充 v 补语 n
+- // -
+- // by the weekend. ------- 最迟在周末
+- // before the weekend. --- 周末之前，不包含周末
+- // -
+- // make up. 组成 补足
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'complete'.
+- // TIPS: Pay attention to the pronunciation of the word 'complement'.
+-
+-
+- **【 In this sentence. The 【 subject 】 is 'I', The 【 predicate 】 is 'LiKE', The 【 object 】 is 'YOU'. 】**
+- **【 Which one is the 【 subject 】? Which one is 【 predicate 】? Which one the 【 object 】? 】**
+-
+- **【 【 Attributive 】, 【 adverbial 】, and 【 complement 】 have their own 【 effect/functions 】. 定语状语补语有各自的作用 】**
+-
+-
+-
+-
 -
 -
 -
@@ -17,26 +59,48 @@
 - `noun 名词`
 - `pronoun 代词`
 - `verb 动词`
-- `adverb 副词`
+- `adverb 副词` // -------------- adverb adverbial verb /// `irregular verb. 不规则动词`
+- `irregular verb. 不规则动词`
 - `adjective 形容词`
 - `preposition 介词`
+- `quantifier 量词`
+- **【 word is a noun. 'word'是一个名词 】**
+- // -
+- // verb 动词
+- // adverb 副词
+- // `irregular verb. 不规则动词`
+- // -
+- // regular 规则的 adj
+- // irregular 不规则的 adj
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'adjective'.
 -
 -
 -
 -
 - 3
 - `comma 逗号`
-- `period 句号 时期`
+- `period 句号 时期` // a period of time. 一段时间
 -
 - `question mark. 问号`
-- `quotation mark. 引号`
+- `quotation mark. 引号` // quote
 - `single quotation mark. 单引号`
 - `double quotation mark. 双引号`
 -
 - `greater than sign. 大于号`
 - `less than sign. 小于号`
 -
+- _【 a period of time. 一段时间 】_
+-
 - // -- quote 引用 v
 - // -- quotation 引用 n
 - //
 - // TIPS: Pay attention to the pronunciation of the word 'comma'.
+- // TIPS: Pay attention to the pronunciation of the word 'quote'.
+-
+-
+-
+-
+- 4
+- `passive voice. 被动语态`
+- `active voice. 主动语态`
