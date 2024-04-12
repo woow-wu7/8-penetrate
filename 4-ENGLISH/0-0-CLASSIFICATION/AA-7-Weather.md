@@ -1,9 +1,332 @@
 # Weather
 
-- `hazy 朦胧的 雾霾的 adj`
-- haze 薄雾 霾 n
-- smog 烟雾 雾霾
-- //【 Today is hazy day = It's a hazy day today.今天是雾霾天 】
+- How to talk about the weather precisely in English.
+- `rain`
+- `wind`
+- `snow`
+- `sun`
+- `clouds`
+-
+-
+-
+-
+- 1
+- > RAIN
+- `light rain. 小雨`
+- `moderate rain. 中雨` // ---- moderate 缓和 v 中等的 adj
+- `heavy rain. 大雨`
+- `torrential rain. 暴雨` // -- torrential 倾盆的 奔流的 adj
+-
+- `drizzle 毛毛雨 v n`
+- `shower 阵雨 淋浴 v n`
+- `thunder shower. 雷阵雨 n` // thunder // lightning
+- `downpour 倾盆大雨` // ------ pour 倒 灌 倾泻 v
+-
+- `storm 暴风雨`
+- `blizzard 暴风雪`
+-
+- `puddle 水坑`
+- `wet 湿的 adj`
+- `soak 侵泡 v n` // soak soap
+- `soaked 湿透的 adj` // soak 侵泡 v n
+-
+- `sweat 汗水`
+- `saliva 唾液` // TIPS: Pay attention to the pronunciation of the word 'saliva'.
+-
+- `sweat 汗水`
+- `sweater 毛衣`
+-
+- `soak 侵泡 v n`
+- `soaked 湿透的 adj`
+-
+- `soak 侵泡 v n`
+- `soap 肥皂 n`
+- **【 【 Soak 】 【 soap 】 with water. 用水侵泡肥皂 】**
+-
+- **【 Because of the rain, My whole body was 【 soaked 】 and I 【 stepped 】 in a lot of 【 puddles 】. 因为下雨，我全身都湿透了，并且踩了很多水坑 】**
+- // -
+- // step 踩 踏 v
+- // step 步 步骤 楼梯 n
+- // 【 You 【 stepped 】 on my foot. 你踩到我的脚了 】
+- // -
+- // soak 侵泡 v n
+- // soaked 湿透的 adj
+- // -
+- // puddle 水坑
+-
+- **【 The 【 weather forecast 】 says that there will be 【 light rain 】 today, 【 moderate rain 】 tomorrow, 【 heavy rain 】 【 the day after tomorrow 】, 【 torrential rain 】 【 three days from now 】. 天气预报说今天有小雨，明天有中雨，后天有大雨，大后天有暴雨 】**
+- // -
+- // 前天 the day before yesterday.
+- // 昨天 yesterday
+- // 今天 today
+- // 明天 tomorrow
+- // 后天 the day after tomorrow.
+- // 大后天 `【 three days from now. 】`
+- // -
+- // _【 weather forecast. 天气预报 】_ ---------- 口语，叫常见
+- // _【 weather predication. 天气预报 】_ ------- 书面语
+- // -
+- // light rain.
+- // moderate rain.
+- // heavy rain.
+- // torrential rain.
+-
+-
+- AA.
+- `moderate 缓和v 中等的adj`
+- _【 moderate rain. 中雨 】_
+- _【 weather forecast. 天气预报 】_
+- **【 This 【 medicine 】 can help to 【 moderate 】 the 【 symptoms 】. 这种药物可以帮助缓和症状 】** // ------ moderate 缓和 v
+- **【 The 【 weather forecast 】 says that there will be 【 moderate rain 】tomorrow. 】** // -------- moderate 中等的 adj
+- // -
+- // medicine 药 --------- 范围广
+- // medication 药 ------- 专业诊断后开的药，即有 prescription 处方
+- // -
+- // `【 oral medicine. 口服药 】`
+- // `【 oral medication. 口服药 】`
+- // -
+- // `【 Western medicine 西医 】`
+-
+-
+- BB.
+- `torrential 倾盆的 奔流的 adj`
+- _【 torrential rain. 暴雨 】_
+-
+-
+- CC.
+- `soak 侵泡 v n`
+- `soaked 湿透的 adj`
+- > soap 肥皂
+- > soak
+- To be soaked = To be 【 completely 】 wet. 完全湿透
+- **【 【 Soak 】 【 soap 】 with water. 用水侵泡肥皂 】**
+- // -
+- // complete 完成 v 完全的 adj 完整的 adj
+- // completely 完全地 完整地 adv
+- // complement 补充 v 补语 n
+-
+-
+- DD.
+- `downpour 倾盆大雨`
+- _【 a period of time. 一段时间 】_
+- _【 a short period of time. 短时间 】_
+- > downpour = To rain very heavily for a period of time.
+-
+-
+- EE.
+- `sweat 汗水`
+- `sweaty 汗水湿透的 adj`
+-
+- `sweat 汗水`
+- `sweater 毛衣`
+- `wet 弄湿v 湿的adj`
+- **【 【 Sweat 】 has 【 wet 】 the 【 sweater 】. 汗水打湿了毛衣 】**
+- // -
+- // `sweat`
+- // `sweaty 汗水湿透的 adj`
+-
+-
+-
+-
+-
+-
+-
+-
+- 2
+- > WIND
+- `breeze 微风` // breeze // freeze // drizzle
+- `hurricane 飓风` // hurry // hurricane
+- `tornado 龙卷风` // cyclone 旋风
+- `monsoon 季风`
+-
+- `strong wind. 大风`
+- `wild wind. 狂风`
+- `gust 阵风`
+- `gently 轻轻的 温和的 adj`
+-
+- _【 a gust of wind. 一阵风 】_
+-
+- AA.
+- `breeze 微风 n`
+- `freeze 冻结 严寒`
+- _【 the appearance of. ...的出现 】_
+- _【 the end of. ...的结束 】_
+- **【 【 The appearance of 】 a 【 breeze 】 【 indicates 】 【 the end of the 】 【 severe cold 】. 微风的出现，表明了严寒的结束 】**
+- // -
+- // indicate 表明
+- // -
+- // `【 severe 严峻的 adj 】`
+- // `【 severe cold. 严寒 】`
+- // -
+- // the appearance of. ...的出现
+- // the end of. ...的结束
+- // -
+- // breeze 微风
+- // freeze 冻结
+-
+-
+- BB.
+- `hurry 急忙 匆忙 v n`
+- `hurricane 飓风`
+-
+- `hurry 急忙 匆忙 v n`
+- `hurried 匆忙地 adj`
+- `hurriedly 匆忙地 adv`
+-
+- _【 hurry up. 赶紧 】_
+- **【 【 hurry up 】 【 or 】 you will miss the train. 快点，否则我们会错过火车 】**
+- **【 The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village. 飓风和龙卷风匆忙袭击了村子 】**
+- // -
+- // struck 打 撞击
+- // truck 卡车
+- // -
+- // stuck 陷入 ------ get stuck in.
+- // stock 股票 ------ stock market.
+- // stack 栈 -------- tech stack.
+-
+-
+-
+-
+-
+-
+-
+- 3
+- > WEATHER
+- `mild 温和的 adj` // mild // wild // milk
+- `humid 潮湿的` // humid // human // 用潮湿的泥土造人
+- `foggy 有雾的` // fog
+-
+- `lightning 闪电` // lightning // lighting
+- `thunder 打雷v 雷声n`
+-
+- `hail 冰雹` // It hailed yesterday and it damaged a lot of cars.
+-
+- `mild 温和的 adj`
+- `wild 野生的adj 猛烈地adv`
+- `milk 牛奶`
+-
+- `light 光n 照亮v`
+- `lighting 灯光 照明 n`
+- `lightning 闪电`
+-
+- _【 mild weather. 温和的天气 】_
+-
+- AA.
+- `humid 潮湿的 adj`
+- `moist 潮湿的 adj`
+- `damp 潮湿的 adj`
+- 三者可以互换，都表示潮湿的
+- > 【 humid 】: When the air is 【 moist 】 and 【 damp 】.
+-
+-
+- BB.
+- `hail 冰雹`
+- `damage 损害 损坏 v`
+- **【 It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars. 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- 4
+- `predict 预测 预言 v`
+- `prediction 预测 预言 n`
+-
+- `weather forecast. 天气预报`
+- `weather prediction. 天气预报`
+-
+- **【 We cannot 【 reliably 】 【 predict 】 which way the wind will be blowing. 我们无法可靠地预测风向 】**
+- **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结果 】**
+- **【 Sea some 【 predictions 】for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】**
+-
+-
+-
+- —
+-
+-
+- `a mixed bag of. 好坏参半的`
+- `play around. 玩闹 玩耍`
+- `knock over. 撞倒`
+-
+- `approach 方法 方式`
+- `tilt 倾斜`
+- `basement 地下室`
+- `damage 损害 损坏 v` // It hailed yesterday and it damaged a lot of cars.
+-
+- `temperature 温度`
+-
+- `squint 斜视 眯眼睛 v` // TIPS: Pay attention to the pronunciation of the word 'squint'.
+-
+- `dazzle 刺眼 v`
+- `dazzling 刺眼的 adj`
+-
+- `shine 闪耀 发光 v`
+- `shinning 闪耀 发光 n / vIng` // TIPS: Pay attention to the pronunciation of the word 'shinning'.
+-
+- **【 The sun is 【 shinning 】. 阳光明媚 】**
+- **【 When the sun is 【 dazzling 】, we need to 【 squint 】our eyes or wear 【 sunglasses 】. 当阳光刺眼时，我们需要眯起眼睛或者带墨镜 】**
+
+```
+exact 精确的 准确的 adj
+exactly 精确地 adv
+-
+precise 精确的 准确的
+accurate 精确的
+-
+reasonable 合理的
+-
+analyze 分析 v
+analysis 分析 n
+-
+
+
+1
+reasonable 合理的
+【 fare for. ...的费用 】
+// The 【 fare 】 【 for 】 the bus trip is very 【 reasonable 】. 费用非常【合理】
+// -
+// -- fee 费用
+// -- fare 票价 车费
+// -
+// -- fare for. ...的费用
+
+2
+exact 精确的 准确的 adj
+exactly 精确地 准确的 adv
+
+3
+particular 特别的 adj
+special 特别的
+-
+【 particular course. 特别的课程 】
+【 special course. 特别的课程 】
+-
+//【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】
+
+4
+clear 清楚的 晴朗的 adj / 清除 v
+clear weather. 天气晴朗
+// I like to 【 take a walk 】 in the park when the weather is 【 clear 】.
+
+5
+breeze 微风 n
+breezy 微风的 adj
+
+6
+advance 进展 进步 v
+advanced 先进的 高级的 高等的 adj
+【 advanced vocabulary. 高级词汇 】 // -- advanced 高级的 adj
+【 advanced equipment. 先进设备 】// ---- advanced 先进的 adj
+
+7
+developing country. 发展中国家
+developed country. 发达国家
+```
+
+# detail 1
 
 ```
 四季 Season
@@ -68,4 +391,41 @@ warm 暖和的
 // 1. The weather is warm.
 // 2. it's warm.
 // 3. it's a warm day.
+```
+
+# detail 2
+
+```
+1
+drizzle 毛毛雨 v n
+drizzling 毛毛细雨的 adj
+-
+downpour 倾盆大雨
+-
+shower 淋浴 阵雨 v n
+thundershower 雷阵雨 n
+-
+flood 洪水
+puddle 水坑
+-
+// I don't need an umbrella today, It's only 【 drizzling 】.
+// The 【 downpour 】 【 lasted 】 for several hours, causing 【 flooding 】 in the street. 这场倾盆大雨持续了几个小时，导致街道洪水泛滥
+// -- flood 洪水
+// -- 【 last 最后的adj 持续v 】
+// -- 【 last for. 持续 】
+
+3
+umbrella 雨伞
+
+4
+wet 湿的 adj
+soaked 湿透的 adj
+-
+soak 侵泡 v n
+soaked 湿透的 adj / Ved
+// This heavy rain made my whole body 【 soaked 】. 这场大雨使用全身都湿透了
+// I got 【 soaked 】 in the rain I need to change clothes. 我被雨淋湿了，我需要换衣服
+
+5 saliva 唾液
+6 puddle 水坑
 ```

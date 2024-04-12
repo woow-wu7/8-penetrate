@@ -485,7 +485,30 @@ diamond 钻石 菱形 n adj
 shape 形状
 // I have a diamond diamond.
 
-sandals 凉鞋
+sandals 凉鞋 // sand + als
+slipper 拖鞋
+sneakers. 运动鞋
+boot 靴子
+high heel.
+heel
+-
+leather shoes. 皮鞋 ------------
+tennis shoes. 网球鞋
+-
+cloth 布料;
+tablecloth 桌布
+rag 抹布 -----------------------
+wipe 擦 ------------------------
+wiper 车上的刮雨器
+swipe your card.
+scan your QR code. 扫二维码
+// Please use a rag to wipe leather shoes. 请用抹布擦皮鞋
+// Please wipe leather shoes with the rag.
+-
+sock 袜子
+Long stockings. 长筒袜
+
+-
 beach 海滩 沙滩
 sand 沙滩
 // I'm going to sand/beach wearing a pair of sandals.
@@ -495,4 +518,85 @@ shiny 闪耀的 adj
 sensitive 敏感的
 
 maltreat 略带
+```
+
+Lesson 7 Too late 为时太晚
+
+```
+detective n. 侦察
+-
+steal v. 偷
+stealer
+thief 小偷
+-
+sand 沙滩/撒子
+beach 海滩 沙滩
+-
+shape
+-
+diamond
+n. 钻石
+n. 菱形
+-
+circle 圆
+triangle
+square 正方形
+rectangle
+pentagon  ----- pent + agon
+hexagon ------- hex + agon
+oval
+trapezoid 梯形
+parallelogram 平行四边形
+// parallel 并联 平行
+// series 串联
+-
+sphere  球
+square
+cube 立方体
+cuboid 长方体
+cone 圆锥
+-
+stone 石头
+bone 骨头
+use stone to break bone.
+using stone to break bone.
+break bone with stone.
+knock
+-
+identify 识别 鉴定
+identify/recognize identity. 识别身份 // ID
+-
+detective 侦察
+-
+all morning.
+whole
+entire
+-
+at ---- at airport ----------------- 小地点
+in ---- city/provence/country ------ 大地点
+-
+parcel 包裹
+package
+baggage
+luggage
+-
+suitcase
+-
+expect 期望
+hope 希望 期望
+wish 愿望
+look forward. to sth
+look for.
+desire 欲望 渴望
+-
+ask for. 询问
+-
+go forward. 前进
+back forward. 后退
+-
+embarrass
+embarrassed
+-
+wake up. 醒来
+get up. 起床
 ```

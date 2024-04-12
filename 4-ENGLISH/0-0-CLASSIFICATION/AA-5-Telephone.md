@@ -131,6 +131,9 @@
 - // 1. **【 He 【 got stuck in 】 【 swamp 】 and 【 gradually 】【 sank 】. 他陷在了沼泽里，逐渐下沉 】**
 - // 2. **【 I always 【 get stuck in 】 traffic on my way to work. 我上班路上总是遇到交通堵塞 】**
 - // 3. **【 She 【 got stuck in 】 a difficult situation and didn't know how to get out of it. 她陷入了困境，不知道如何摆脱 】**
+- // -- truck ---- 卡车
+- // -- struck --- 打 撞击
+- // 
 - // -- stuck ---- get stuck in.
 - // -- stock ---- stock market.
 - // -- stack ---- // 1.tech stack. 技术栈 // 2.a stack of books. 一堆书 // 3.a stack of paper. 一叠纸

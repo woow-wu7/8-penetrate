@@ -142,6 +142,7 @@ every single day. 每一天
 今天 today
 明天 tomorrow
 后天 the day after tomorrow
+大后天 【 three days from now 】
 
 十年 decade
 全年 All year round.

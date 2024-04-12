@@ -75,9 +75,10 @@
 - // a stack of books. 一堆书
 - // a stack of paper. 一叠纸
 - // -
-- // get stuck in. 陷入
-- // stock market. 股票市场
-- // tech stack. 技术栈
+- // struck ---- 打 撞击
+- // stuck ----- get stuck in. 陷入
+- // stock ----- stock market. 股票市场
+- // stack ----- tech stack. 技术栈
 - // -
 - // **【 I use Vue and React 【 tech stacks 】 to develop projects. 我使用 Vue 和 React 技术栈开发项目 】**
 - // **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**

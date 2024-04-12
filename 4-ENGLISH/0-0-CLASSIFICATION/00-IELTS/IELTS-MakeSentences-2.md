@@ -714,4 +714,59 @@ What 【 lesson 】 did we learn yesterday.
 // lesson 课 课程
 // course 课程 过程
 // class 班 课
+
+
+5
+Shower has two 【 meanings 】.
+'shower'有两种意思
+-
+// mean 意思 v
+// meaning 意思 n
+// TIPS: Pay attention to the pronunciation of the word 'meaning'.
+
+
+6
+【 Sweat 】 has 【 wet 】 the 【 sweater 】.
+汗水打湿了毛衣
+-
+// sweat 汗水
+// sweater 毛衣
+// wet 弄湿v 湿的n
+
+
+7
+【 soak 】 【 soap 】 with water.
+用水侵泡肥皂
+-
+// soak 侵泡 v n
+// soap 肥皂 n
+
+
+8
+It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars.
+昨天起了冰雹，损坏了许多汽车
+-
+// hail 冰雹
+// damage 损害 损坏 v
+
+
+
+------- ------- ------- ------- ------- ------- -------
+早睡早起是一个良好的习惯
+这是他的兴趣爱好，而不是他的习惯
+我们应该养成吃饭前洗手的习惯
+-
+他的绩效在一个浮动的区间，而不是固定的值
+-
+我们做任何事情都得有耐心
+感谢您的耐心
+请耐心等待
+我没有耐心等你了
+-
+我们昨天学的是第几课？
+-
+'shower'有两种意思
+汗水打湿了毛衣
+用水侵泡肥皂
+昨天起了冰雹，损坏了许多汽车
 ```

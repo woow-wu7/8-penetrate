@@ -802,6 +802,11 @@
 - // -- stack 栈 // tech stack. 技术栈 // a stack of books. 一堆书 // a stack of paper. 一叠纸
 - // -- stock 股票 // stock market. 股票市场
 - // -- stuck 陷入 // get stuck in. 陷入
+- //
+- // -- truck ---- 卡车
+- // -- struck --- 打 撞击
+- // -- stuck 陷入 // get stuck in. 陷入
+- //
 - **【 stocking 长筒袜 】**
 - **【 stock 股票 】**
 - // `invest in. 投资到 投资于`

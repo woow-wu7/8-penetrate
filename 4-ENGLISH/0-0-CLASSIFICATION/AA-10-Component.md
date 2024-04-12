@@ -14,6 +14,9 @@
 - _【 attributive clause. 定语从句 】_
 - _【 adverbial clause. 状语从句 】_
 -
+- 【 active voice. 主动语态 】
+- 【 passive voice. 被动语态 】
+-
 -
 - AA.
 - `attribute 属性`
@@ -25,11 +28,16 @@
 - // -
 - // attribute 属性
 - // attributive 定语 n 定语的 adj
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'attributive'.
+- // TIPS: Pay attention to the pronunciation of the word 'attribute'.
+-
 -
 -
 - BB.
 - `complete 完全的adj 完成v`
 - `complement 补语n 补足v`
+- `completely 完全地adv 完整地adv`
 - _【 make up. 组成 补足】_
 - **【 I need to 【 complete 】 this project 【 by the weekend 】. 我需要在周末之前完成这个项目 】** （ 最迟在周末 ）// complete 完成 v
 - **【 We should 【 complement 】 the knowledge that is 【 lacking 】. 我们应该补足缺乏的知识 】** // complement 补充 v 补语 n
@@ -38,6 +46,10 @@
 - // before the weekend. --- 周末之前，不包含周末
 - // -
 - // make up. 组成 补足
+- // -
+- // 【 complete 完成 v 完全的 adj 完整的 adj 】
+- // 【 completely 完全地 完整地 adv 】
+- // 【 complement 补充 v 补语 n 】
 - // -
 - // TIPS: Pay attention to the pronunciation of the word 'complete'.
 - // TIPS: Pay attention to the pronunciation of the word 'complement'.
