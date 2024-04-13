@@ -248,14 +248,27 @@
 -
 -
 - 5
+- `deposit 存钱v 押金n`
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
 - deposit money. = put in money.
 - withdraw money. = take out money.
 - _【 deposit slip. 存款单 】_
-- **【 【 fill out 】 a deposit slip. 】**
+-
+- **【 A 10% 【 deposit 】 is payable 【 in advance 】. 预付 10%的定金 】**
+- **【 【 fill out 】 a 【 deposit slip 】. 】**
 - **【 The machine can 【 deposit money 】 and 【 withdraw money 】. 这个机器可以存钱和取钱 】**
 - **【 I'm going to 【 take out 】 200$ from my bank account. 我要从我的银行账户里取出 200 美元 】**
+- // in advance. 提前
+- //
+- // deposit 存钱 v 押金 n
+- // deposit slip. 存款单
+- // 
+- // take out. 取出 = withdraw.
+-
+-
+-
+-
 -
 -
 -
@@ -264,6 +277,7 @@
 - `pension 养老金`
 - _【 housing fund. 住房公积金 】_
 - _【 education fund. 教育基金 】_
+- _【 mortgage loan. 房贷 】_
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - //
@@ -437,6 +451,7 @@
 - `stock 股票` // -- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
+- struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
 - _【 stock market. 股票市场 】_
 - **【 Many people don't like to invest in stocks. 许多人不喜欢投资股票 】**
 -

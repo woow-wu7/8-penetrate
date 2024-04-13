@@ -15,7 +15,7 @@
 - `light rain. 小雨`
 - `moderate rain. 中雨` // ---- moderate 缓和 v 中等的 adj
 - `heavy rain. 大雨`
-- `torrential rain. 暴雨` // -- torrential 倾盆的 奔流的 adj
+- `torrential rain. 暴雨` // -- torrential 倾盆的 奔流的 adj // torrential // tornado
 -
 - `drizzle 毛毛雨 v n`
 - `shower 阵雨 淋浴 v n`
@@ -75,7 +75,8 @@
 - AA.
 - `moderate 缓和v 中等的adj`
 - _【 moderate rain. 中雨 】_
-- _【 weather forecast. 天气预报 】_
+- _【 weather forecast. 天气预报 】_ ---------- 口语，叫常见
+- _【 weather predication. 天气预报 】_ ------- 书面语
 - **【 This 【 medicine 】 can help to 【 moderate 】 the 【 symptoms 】. 这种药物可以帮助缓和症状 】** // ------ moderate 缓和 v
 - **【 The 【 weather forecast 】 says that there will be 【 moderate rain 】tomorrow. 】** // -------- moderate 中等的 adj
 - // -
@@ -136,7 +137,7 @@
 - > WIND
 - `breeze 微风` // breeze // freeze // drizzle
 - `hurricane 飓风` // hurry // hurricane
-- `tornado 龙卷风` // cyclone 旋风
+- `tornado 龙卷风` // cyclone 旋风 // tornado // torrential
 - `monsoon 季风`
 -
 - `strong wind. 大风`
@@ -193,11 +194,11 @@
 - 3
 - > WEATHER
 - `mild 温和的 adj` // mild // wild // milk
-- `humid 潮湿的` // humid // human // 用潮湿的泥土造人
+- `humid 潮湿的` // humid // human // 用潮湿的泥土造人 // humid mist
 - `foggy 有雾的` // fog
 -
 - `lightning 闪电` // lightning // lighting
-- `thunder 打雷v 雷声n`
+- `thunder 打雷v 雷声n` // thunder shower.
 -
 - `hail 冰雹` // It hailed yesterday and it damaged a lot of cars.
 -

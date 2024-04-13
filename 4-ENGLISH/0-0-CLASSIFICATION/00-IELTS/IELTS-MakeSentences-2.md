@@ -108,6 +108,8 @@ I like to 【 sleep in 】.
 长期熬夜会导致失眠
 -
 // -
+//【 long-term doing sth. 长时间做某事 】
+// -
 // stay up. 熬夜
 // stay up late. 熬夜
 // -
@@ -122,7 +124,6 @@ I like to 【 sleep in 】.
 // evening 晚上
 // last night. 昨晚
 // -
-// long-term doing sth. 长时间做某事
 // stay up late. 熬夜
 // insomnia 失眠
 
@@ -349,7 +350,7 @@ This 【 shop / store 】 is open every day 【 except 】 【 Sunday 】.
 【 In addition to 】 tigers, The zoo also has lions.
 动物园除了有老虎外，还有狮子
 -
-【 In addition to 】 【 taking care of 】 her baby, she also has to work.
+【 In addition to 】 【 taking care of 】 her baby, she also 【 has to 】 work.
 除了照顾孩子外，她还要工作
 -
 【 In addition to 】 my 【 weekly 】 【 wage 】, I got a lot of 【 tips 】.
@@ -360,6 +361,7 @@ This 【 shop / store 】 is open every day 【 except 】 【 Sunday 】.
 // 【 in addition to. 除了 】------ 额外添加 或 补充
 // -
 // take care of. 照顾
+// have to. 不得不
 // -
 // store 商店n 贮存v -------------- 小商店
 // shop 商店n 购物v --------------- 大商店
@@ -375,12 +377,14 @@ This 【 shop / store 】 is open every day 【 except 】 【 Sunday 】.
 // prize 奖品 // first prize. // second prize.
 // medal 奖牌 // gold medal. // silver medal. // bronze medal. // 2. metal medal model module
 // performance 绩效 性能
+// benefit 福利
 // -
 // week 周 n
 // weekly 每周的 周刊 adj
 //【 weekly meeting. 周会 】
 //【 weekly magazine. 周刊 】
 //【 weekly interest rate. 周利率 】
+//【 annual interest rate. 年利率 】
 // -
 // minutely 每分钟的
 // hourly 每小时的 adj
@@ -427,13 +431,13 @@ We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 // develop 出现(问题)
 // -
 // stress 压力 ----------------- 范围窄 ----- narrow
-// pressure 压力 压强 ----------- 范围更广 --- wide
+// pressure 压力 压强 ----------- 范围广 ----- wide
 // -
 // 【 long-term 长期的 】
 // 【 long-term persistence. 长期坚持 】
 // -
-//【 persist in doing sth. 坚持做某事 】
-// We 【 need to 】 【 persist in exercising 】 and 【 learning 】. 我们应该坚持锻炼和学习
+// 【 persist in doing sth. 坚持做某事 】
+//  We 【 need to 】 【 persist in exercising 】 and 【 learning 】. 我们应该坚持锻炼和学习
 // -
 // persist 坚持 v
 // persistence 坚持 n
@@ -458,9 +462,15 @@ Will a 【 boring 】 job make you feel 【 bored 】?
 一个无聊的工作会让你感到无聊吗？
 -
 // -
+// bored/boring COMPARE excited/exciting
+// -
 // bore 厌烦 v
 // bored 无聊的adj 厌倦的adj ---- 人的内在感受
 // boring 令人厌倦的adj --------- 事物给人带来的感觉
+// -
+// excited
+// exciting
+// 【 excited/exciting 】 区别和上面的 【 bored/boring 】 类似
 // -
 // whether 是否 ---------------- 范围比 if 广
 // if 是否 --------------------- 范围窄
@@ -523,6 +533,7 @@ Do you 【 have trouble with 】 【 insomnia 】?
 长期熬夜会导致失眠
 在长期的压力下，身体可能出现很多毛病
 减肥需要长期的坚持
+你有失眠困扰吗？
 ```
 
 ##### 4 Make sentences 2024-04-04
@@ -556,6 +567,10 @@ I 【 practice 】 oral/spoken English through 【 reciting 】 English articles
 // recite 背诵
 // sentence 句子
 // -
+// oral English. 英语口语
+// oral medicine. 口服药 ------ 所有
+// oral medication. 口服药 ---- 处方药
+// -
 // usually 通常地 adv
 // TIPS: Pay attention to the pronunciation of the word 'usually'.
 
@@ -585,7 +600,7 @@ Can you 【 explain 】 what the 【 passive voice 】 and the 【 active voice 
 // -
 // active 积极的 主动的 adj
 // actively 积极地 adv
-// activity 活动 n
+//【 activity 活动 n 】
 
 
 6
@@ -750,6 +765,32 @@ It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars.
 // damage 损害 损坏 v
 
 
+9
+【 As long as 】 work hard, you will 【 make progress in 】 your 【 studies 】.
+【 As long as 】 work hard, your study will make 【 progress 】.
+只要努力，学习就会取得进步
+-
+I have already studied hard, but I haven't seen any 【 progress 】.
+我已经努力的学习了，但是没有看到任何进步
+-
+Do you think that you have 【 made progress in 】 English?
+你认为你的英语有进步吗？
+-
+// -
+// 【 progress 进步 进展 进程 n 】
+// -
+// 【 progress bar. 进度条 】
+// -
+// 【 make progress. 进步 】
+// 【 make progress in. 在...方面取得进步 】
+// -
+// 【 as long as. 只要 / 和...一样长 】
+// -
+// make -> made
+// -
+// TIPS: Pay attention to the pronunciation of the word 'progress'.
+
+
 
 ------- ------- ------- ------- ------- ------- -------
 早睡早起是一个良好的习惯
@@ -769,4 +810,8 @@ It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars.
 汗水打湿了毛衣
 用水侵泡肥皂
 昨天起了冰雹，损坏了许多汽车
+-
+只要努力，学习就会取得进步
+我已经努力的学习了，但是没有看到任何进步
+你认为你的英语有进步吗？
 ```

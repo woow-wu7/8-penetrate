@@ -3,12 +3,12 @@
 # The components of a sentence. 句子成分
 
 - 1
-- `subject 主语 主题` // --------- subject object
+- `subject 主语 主题` ------------- subject object
 - `predicate 谓语 断言`
 - `object 宾语 对象 物体`
-- `attributive 定语 属性`
-- `adverbial 状语` // ----------- verb adverb adverbial
-- `complement 补语n 补充v 补足v` ---- complete complement
+- `attributive 定语 属性` ----------- // attribute attributive // adjective attributive
+- `adverbial 状语` ---------------- verb adverb adverbial
+- `complement 补语n 补充v 补足v` ----- complete 完成 v 完成的 adj 完全的 adj // complement
 -
 - `clause 从句 字句 条款 n`
 - _【 attributive clause. 定语从句 】_
@@ -38,7 +38,12 @@
 - `complete 完全的adj 完成v`
 - `complement 补语n 补足v`
 - `completely 完全地adv 完整地adv`
+-
+- `implement 实施 执行 v`
+- `complement 补语n 补足v`
+-
 - _【 make up. 组成 补足】_
+- **【 You have completely lost. 你已经完全输了 】**
 - **【 I need to 【 complete 】 this project 【 by the weekend 】. 我需要在周末之前完成这个项目 】** （ 最迟在周末 ）// complete 完成 v
 - **【 We should 【 complement 】 the knowledge that is 【 lacking 】. 我们应该补足缺乏的知识 】** // complement 补充 v 补语 n
 - // -

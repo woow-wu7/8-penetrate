@@ -373,6 +373,8 @@ handicraft 手工艺品 // hand handler handle
 // private museum.
 // private items/stuff/object/goods.
 // personal privacy. 个人隐私
+// personal assistant. 个人助理
+// -- items/stuff/object
 // public museum.
 // -
 // 【 behavior 行为 n / action 行动 n 】
@@ -464,7 +466,7 @@ all the same / still
 
 ### Lesson 6 Percy Buttons 珀西.巴顿斯
 
-```
+```111
 call v. 拜访，光顾
 call 断站拜访 v n
 -
@@ -493,6 +495,8 @@ high heel.
 heel
 -
 leather shoes. 皮鞋 ------------
+// wipe your leather shoes with a rag.
+//
 tennis shoes. 网球鞋
 -
 cloth 布料;
@@ -517,10 +521,36 @@ shine 闪耀 v n
 shiny 闪耀的 adj
 sensitive 敏感的
 
-maltreat 略带
+maltreat 虐待
 ```
 
-Lesson 7 Too late 为时太晚
+```222 javascript / REVIEW
+dip 蘸
+tip 提示 尖端 小费
+-
+【 dip 】 in ink with pen 【 tip 】. // tip 尖端
+I got a lot of tips.
+tip:sssss
+-
+Firstly, you should wet the rag, then wipe your leather shoes with it.
+-
+三角形 triangle
+长方形 rectangle
+正方形 square
+菱形 diamond // 砖石
+圆形 circle
+平行四边形 parallelogram // parallel series
+五边形 pentagon
+六边形 hexagon
+梯形 trapezoid
+-
+球 sphere
+正方体 cube
+长方体 cuboid
+-
+```
+
+### Lesson 7 Too late 为时太晚
 
 ```
 detective n. 侦察
@@ -599,4 +629,8 @@ embarrassed
 -
 wake up. 醒来
 get up. 起床
+-
+parents ' meeting
+Barber Shop.
+have a haircut.
 ```
