@@ -79,4 +79,74 @@
 -
 -
 - 3
+- `wipe 擦 抹 v`
+- `swipe 刷卡 刷 v`
+- `sweep 打扫`
+- > towel 毛巾 纸巾 抹布
+- > rag 抹布
 -
+- AA.
+- wipe
+- _【 wipe away. 擦掉 擦去 】_
+- **【 Please 【 wipe away 】 the 【 tears 】, and 【 continue 】 to work hard. 请擦掉眼泪，继续努力 】**
+- **【 I'm using the 【 towel 】 to wipe the 【 door 】. 】**
+- // -
+- // continue to do sth. 继续做某事
+- // wipe away. 擦掉 擦去 v
+- // -
+- // `tear 撕裂 撕碎 v`
+- // `tear 眼泪 n`
+- // TIPS: Pay attention to the pronunciation of the word 'tear'.
+- // TIPS: Pay attention to the pronunciation of the word 'tears'.
+-
+-
+- BB.
+- swipe
+- **【 Please 【 swipe 】 your card to enter and exit the station. 请刷卡入站和出站 】**
+- // -
+- // enter 进入 v
+- // exit 出去 v
+- // -
+- // entrance 入口 n
+- // exit 出口 n
+-
+-
+- CC.
+- sweep
+- mop
+- _【 sweep the floor. 扫地 】_
+- _【 mop the floor. 拖地 】_
+- **【 First 【 sweep 】 the floor with a 【 broom 】, then use a 【 mop 】 to 【 mop 】 the floor. 先用扫把扫地，然后用拖把拖地 】**
+- // -
+- // broom 扫帚
+- // mop 拖把 n 拖 v
+- // -
+- //【 sweep the floor. 扫地 】
+- //【 mop the floor. 拖地 】
+-
+-
+-
+-
+-
+-
+-
+- 4
+- `pine 松树`
+- `pine cone. 松果`
+- `pine nut. 松子`
+- > root
+- > stem
+- > leaf -> leaves
+- > trunk
+- > branch
+- > bark
+- > 【 sprout 发芽 v 新芽 n 】
+- > flower
+- > petal
+- > bud
+- > pollen
+- > fruit
+- > seed
+- **【 【 pine cone 】 【 fell down 】 from the pine tree. 】**
+- // -
+- // fall -> fell

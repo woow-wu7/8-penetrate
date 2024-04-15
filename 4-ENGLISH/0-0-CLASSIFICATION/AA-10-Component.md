@@ -4,7 +4,7 @@
 
 - 1
 - `subject 主语 主题` ------------- subject object
-- `predicate 谓语 断言`
+- `predicate 谓语 断言` ----------- predicate predict
 - `object 宾语 对象 物体`
 - `attributive 定语 属性` ----------- // attribute attributive // adjective attributive
 - `adverbial 状语` ---------------- verb adverb adverbial
@@ -31,7 +31,6 @@
 - // -
 - // TIPS: Pay attention to the pronunciation of the word 'attributive'.
 - // TIPS: Pay attention to the pronunciation of the word 'attribute'.
--
 -
 -
 - BB.
@@ -64,6 +63,13 @@
 - **【 Which one is the 【 subject 】? Which one is 【 predicate 】? Which one the 【 object 】? 】**
 -
 - **【 【 Attributive 】, 【 adverbial 】, and 【 complement 】 have their own 【 effect/functions 】. 定语状语补语有各自的作用 】**
+-
+-
+- CC.
+- `predicate 谓语 断言 n`
+- `predict 预言 预测 v`
+- `prediction 语言 预测 n`
+- _【 weather prediction. = weather forecast. 天气预报 】_
 -
 -
 -

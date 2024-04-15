@@ -30,6 +30,10 @@
 - `soak 侵泡 v n` // soak soap
 - `soaked 湿透的 adj` // soak 侵泡 v n
 -
+- `puddle 水坑`
+- `pond 池塘 水塘`
+- `pool 水溏 池塘`
+-
 - `sweat 汗水`
 - `saliva 唾液` // TIPS: Pay attention to the pronunciation of the word 'saliva'.
 -
@@ -43,7 +47,7 @@
 - `soap 肥皂 n`
 - **【 【 Soak 】 【 soap 】 with water. 用水侵泡肥皂 】**
 -
-- **【 Because of the rain, My whole body was 【 soaked 】 and I 【 stepped 】 in a lot of 【 puddles 】. 因为下雨，我全身都湿透了，并且踩了很多水坑 】**
+- **【 【 Because of 】 the rain, My whole body was 【 soaked 】 and I 【 stepped 】 in a lot of 【 puddles 】. 因为下雨，我全身都湿透了，并且踩了很多水坑 】**
 - // -
 - // step 踩 踏 v
 - // step 步 步骤 楼梯 n
@@ -53,6 +57,9 @@
 - // soaked 湿透的 adj
 - // -
 - // puddle 水坑
+- // -
+- //【 because of. 因为 】
+- // I couldn't go out because of the bad weather.
 -
 - **【 The 【 weather forecast 】 says that there will be 【 light rain 】 today, 【 moderate rain 】 tomorrow, 【 heavy rain 】 【 the day after tomorrow 】, 【 torrential rain 】 【 three days from now 】. 天气预报说今天有小雨，明天有中雨，后天有大雨，大后天有暴雨 】**
 - // -
@@ -175,7 +182,7 @@
 - `hurriedly 匆忙地 adv`
 -
 - _【 hurry up. 赶紧 】_
-- **【 【 hurry up 】 【 or 】 you will miss the train. 快点，否则我们会错过火车 】**
+- **【 【 hurry up 】 【 or 】 you will 【 miss 】 the train. 快点，否则我们会错过火车 】**
 - **【 The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village. 飓风和龙卷风匆忙袭击了村子 】**
 - // -
 - // struck 打 撞击
@@ -194,8 +201,8 @@
 - 3
 - > WEATHER
 - `mild 温和的 adj` // mild // wild // milk
-- `humid 潮湿的` // humid // human // 用潮湿的泥土造人 // humid mist
-- `foggy 有雾的` // fog
+- `humid 潮湿的` // humid // human // 用潮湿的泥土造人 // humid moist damp
+- `foggy 有雾的` // fog // mist
 -
 - `lightning 闪电` // lightning // lighting
 - `thunder 打雷v 雷声n` // thunder shower.
@@ -239,13 +246,20 @@
 - `weather forecast. 天气预报`
 - `weather prediction. 天气预报`
 -
+- `predict 预测 预言 v`
+- `predicate 谓语 n`
+- **【 This software can 【 predict 】 the position of the 【 predicate 】. 这个软件可以预测谓语的位置 】**
+-
 - **【 We cannot 【 reliably 】 【 predict 】 which way the wind will be blowing. 我们无法可靠地预测风向 】**
 - **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结果 】**
 - **【 Sea some 【 predictions 】for the new year in 【 tech 】. 看看对科技行业新年的一些预测 】**
 -
 -
 -
-- —
+-
+-
+-
+-
 -
 -
 - `a mixed bag of. 好坏参半的`

@@ -815,3 +815,242 @@ Do you think that you have 【 made progress in 】 English?
 我已经努力的学习了，但是没有看到任何进步
 你认为你的英语有进步吗？
 ```
+
+#### 6 Make sentences 2024-04-14
+
+```
+1
+We need to have 【 great 】 【 patience 】 【 with 】 the 【 patients 】.
+我们对病人需要有极大的耐心
+-
+Do you【 have enough patience to 】 learn the 【 entire 】 book?
+你有足够的耐心学完整本书吗？
+-
+Do you 【 have enough patience to 】 【 recite 】 the 【 entire 】 【 new concept English book 】?
+你有足够的耐心背完整本新概念书吗？
+-
+// -
+// 1.【 have patience 【 with 】 sb/sth. 对某人/某事有耐心 】
+// 2.【 have patience to do stm. 有耐心做某事 】
+// -
+// great 伟大的 巨大的 adj
+// -
+// recite 背诵 v
+// -
+// patient 病人n 有耐心的adj
+// patience 耐心 n
+// patiently 耐心地 adv
+// -
+// patience 耐心 n:【 Thanks for your patience. 谢谢你的耐心 】
+// patiently 耐心地 adv:【 Please wait patiently. 请耐心等待 】
+
+
+2
+It's really 【 embarrassing 】.
+真是太尴尬了
+-
+I fell 【 embarrassed 】 when I 【 forget 】 someone's name.
+当我忘记某人的名字时，我感到很尴尬
+-
+Don't 【 embarrass 】 me.
+别为难我
+-
+// -
+//【 embarrass 尴尬 为难 v 】
+// embarrassed 尴尬的 adj
+// embarrassing 令人尴尬的 adj
+// -
+// > bored boring
+// > excited exciting
+// > embarrassed embarrassing
+
+
+3
+Which 【 episode 】 have you seen of this 【 animation/cartoon 】?
+这个动画片你看到第几集了？
+-
+The 【 final 】 【 episode 】 will 【 air 】 next Sunday.
+下周日将播出最后一集
+-
+How many 【 episodes 】 does this 【 TV series 】 have 【 in total 】?
+这部连续剧一共有多少集？
+-
+Do you still remember what the first 【 episode 】 of this 【 animation 】 【 talked about 】?
+你还记得这部动画片第一集讲了什么吗？
+-
+I've just seen the eighth 【 episode 】.
+我刚看到第8集
+-
+// -
+// episode 集 一集
+// -
+//【 air 空气n 播出v 】
+// -
+// animation 动画 动画片
+// cartoon 卡通 动画片
+// -
+// 【 series 串联 连续 】
+//  Circuits are 【 divide into 】 【 series circuits 】 and 【 parallel circuits 】. 电路分为串联电路和并联电路
+// 【 TV series. 电视剧 】
+// 【 in total. 总共 】
+// -
+// final 最后的 最终的 adj
+// finally 最后地 adv
+// -
+//【 air 空气n 播出v 】
+// The air 【 contains 】 【 nitrogen 】, 【 oxygen 】, and 【 carbon dioxide 】. 空气中含有氮气，氧气，二氧化碳
+// -
+// TIPS: Pay attention to the pronunciation of the word 'episode'.
+// TIPS: Pay attention to the pronunciation of the word 'animation'.
+
+
+4
+This car 【 knocked down 】 many 【 pedestrians 】.
+这辆车【撞倒】了很多【行人】
+-
+There are many boxes that have been 【 knocked over 】 by the car. // 现在完成时 + 被动语态
+这里很多盒子都被车撞翻了
+-
+It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
+不敲门就进来是不礼貌的
+-
+// -
+//【 knock down. 撞倒 】
+//【 knock over. 撞倒 撞翻 】
+// -
+//【 knock at. 敲门 】
+// -
+//【 pedestrian 行人 】
+// -
+// polite 有礼貌的 adj
+// impolite 不礼貌的 adj
+// -
+// without 没有 缺乏
+
+
+5
+She uses 【 facial expressions 】 to 【 express 】 her 【 emotions 】.
+她用【表情】【来表】达她的【情绪】
+-
+How do you 【 express 】 your love to your 【 lover 】?
+你如何【表达】你对【爱人】的爱？
+-
+// -
+//【 expression 表达 表情 n 】
+//【 facial expression. 面部表情 】
+// -
+// express 表达 表示 v
+// expression 表达 表情 n
+// -
+// emotion 情感 情绪
+// -
+// facial 面部的 adj
+// face 脸 面部n 面对v
+
+
+6
+That cat is 【 chasing 】 the mouse.
+那只猫正在追老鼠
+-
+The mouse is 【 running away 】 everywhere because a cat is 【 chasing 】 it.
+老鼠正在到处逃跑，因为有一只猫正在追它
+-
+//【 chase 追赶 追逐 追求 v 】
+// -
+//【 run away. 逃跑 】
+// escape 逃跑 v
+
+
+7
+He 【 dived into 】 the 【 puddle 】.
+他跳入了水坑中
+-
+// -
+// dive into. 跳入 潜入 v
+// puddle 水坑
+// -
+//【 dive 跳入 潜入 v 】
+//【 drive 驾驶 开车 v 】
+// -
+// puddle 水坑
+// pond 池塘
+// pool 水池 池子
+
+
+8
+First 【 sweep 】 the floor with a 【 broom 】, then use a 【 mop 】 to 【 mop 】 the floor.
+先用扫把扫地，然后用拖把拖地
+-
+// -
+// sweep 打扫 清扫 v
+//【 sweep the floor. 扫地 】
+// -
+// 【 sweep the floor. 扫地 】
+// 【 mop the floor. 拖地 】
+// -
+// broom 扫帚
+// mop 拖把n 擦掉v
+// -
+// sweep 打扫 v
+// wipe 擦 抹 v
+// swipe 刷卡 v
+// -
+// **【 Please 【 wipe away 】 the 【 tears 】, and 【 continue 】 to work hard. 请擦掉眼泪，继续努力 】**
+// **【 I'm using the 【 towel 】 to wipe the 【 door 】. 】**
+// -
+// **【 Please 【 swipe 】 your card to enter and exit the station. 请刷卡入站和出站 】**
+// -
+// **【 First 【 sweep 】 the floor with a 【 broom 】, then use a 【 mop 】 to 【 mop 】 the floor. 先用扫把扫地，然后用拖把拖地 】**
+
+
+9
+The little girl 【 made the room a mess 】.
+小女孩把房间搞的乱七八糟的
+-
+The 【 brown bear 】 can not 【 bear 】 the little girl 【 anymore 】 because she 【 made the room a mess 】.
+这个棕熊再也不能忍受这个小女孩，因为她把房间弄得乱七八糟的
+-
+// -
+//【 make a mess. 弄得乱七八糟 】
+// mess 弄乱 弄脏 v / 混乱 n
+// -
+// anymore 不再 再也
+// -
+// brown bear. 棕熊
+// polar bear. 北极熊
+// -
+// bear 熊 忍受
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我们对病人需要有极大的耐心
+你有足够的耐心学完整本书吗？
+你有足够的耐心背完整本新概念书吗？
+-
+真是太尴尬了
+当我忘记某人的名字时，我感到很尴尬
+别为难我
+-
+这个动画片你看到第几集了？
+下周日将播出最后一集
+这部连续剧一共有多少集？
+你还记得这部动画片第一集讲了什么吗？
+我刚看到第8集
+-
+这辆车【撞倒】了很多【行人】
+这里很多盒子都被车撞翻了
+不敲门就进来是不礼貌的
+-
+她用【表情】【来表】达她的【情绪】
+你如何【表达】你对【爱人】的爱？
+-
+那只猫正在追老鼠
+老鼠正在到处逃跑，因为有一只猫正在追它
+-
+他跳入了水坑中
+先用扫把扫地，然后用拖把拖地
+-
+小女孩把房间搞的乱七八糟的
+这个棕熊再也不能忍受这个小女孩，因为她把房间弄得乱七八糟的
+```

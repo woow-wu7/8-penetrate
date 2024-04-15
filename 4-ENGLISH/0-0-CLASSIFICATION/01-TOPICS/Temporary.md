@@ -1,4 +1,4 @@
-# Topic
+### Topic
 
 ### (1) Topic Dentist
 
@@ -133,7 +133,7 @@ dream 做梦
 ##### 1
 
 - 1. `hobby 爱好`
-- 2. `expression 表达 n`
+- 2. `expression 表达 表情 n`
 - 2. `express v`
 - 2. **【 How do you 【 express 】 your love to your 【 lover 】? 】**
 - 3. `nasal sound. 鼻音`
@@ -633,4 +633,145 @@ get up. 起床
 parents ' meeting
 Barber Shop.
 have a haircut.
+-
+-
+-
+```
+
+### 8 Video bears and girl
+
+- > review
+- 1
+- `brown bear. 棕熊`
+- `polar bear. 北极熊`
+- 2
+- `sweep`
+- `wipe`
+- `swipe`
+- 3
+- `mop`
+- 4
+- `chase`
+- 5
+- `media`
+- `prize`
+- 6
+- bronze
+- brown
+- 7
+- `disappointment n`
+- `disappointed adj`
+- 8
+- `ceil`
+- `cell`
+- 9
+- `pumpkin`
+- 10
+- `squirrel`
+- 11
+- `knock at`
+- `knock over 撞翻`
+- `knock down 撞到` // pedestrian
+- `poster`
+- 12
+- `embarrass`
+- `awkward`
+- 13
+- `Distinguish 分辨` // TIPS
+- 14
+- `cliff`
+- `hill`
+- `hillside`
+- `slope`
+- `mushroom`
+- 15
+- `tidy`
+- 16
+- `Put it back in its original position`
+- 17
+- sunrise 日出
+-
+- sundown 日落`
+- sunset
+- 18
+- `claw`
+
+```
+naughty 淘气
+Episode 1
+be separated from. 和...什么分开
+Do you want to be separated from you daughter's father?
+-
+goat
+sheep
+lamb
+-
+rooster
+hen
+chick
+-
+dog
+puppy
+-
+bull
+cow
+calf
+-
+horse
+pony
+-
+rabbit
+bunny
+-
+cat
+kitten
+-
+bucket
+scarf 围巾 头巾
+supplement 补充
+hide-and-seek 捉迷藏
+-
+thoroughly pass/through the exam .
+completely through/via/pass the exam/text.
+彻底的通过考试
+-
+dive
+drive
+escape
+chase
+-
+pineapple
+pine
+pine cone.
+pine nut.
+Pine cones fall from the pine tree.
+She 【 knocked over 】 many boxes.
+-
+attack 攻击
+chase 追
+belong to. 属于
+-
+broom 扫把
+mop 拖把
+-
+prize cup
+-
+medal
+reward.
+gold medal.
+silver medal.
+bronze medal.
+-
+first prize.
+second prize.
+-
+bounce 弹跳
+expression 表达 表情 n
+grab/catch 抓住
+slope
+-
+the Lantern Festival.
+director 导演
+-
+Electronic watch. 电子表
 ```
