@@ -816,7 +816,7 @@ Do you think that you have 【 made progress in 】 English?
 你认为你的英语有进步吗？
 ```
 
-#### 6 Make sentences 2024-04-14
+##### 6 Make sentences 2024-04-14
 
 ```
 1
@@ -1053,4 +1053,62 @@ The 【 brown bear 】 can not 【 bear 】 the little girl 【 anymore 】 beca
 -
 小女孩把房间搞的乱七八糟的
 这个棕熊再也不能忍受这个小女孩，因为她把房间弄得乱七八糟的
+```
+
+##### 6 Make sentences 2024-04-16
+
+```
+1
+The 【 sweat 】 【 wet 】 the 【 sweater 】.
+汗水弄湿了毛衣
+-
+What's the opposite of 'wet'?
+湿的反义词是什么？
+-
+// -
+// sweat 汗水
+// wet 弄湿 湿的 湿
+// sweater 毛衣
+// -
+// wet dry
+// wet is the opposite of dry.
+
+
+2
+【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】 because these places have a 【 developed 】 【 tourism industry 】.
+游客喜欢去著名的旅游景点旅游，因为这些地方的旅游业发达
+-
+// -
+// tour 旅游 旅行 v n
+// tourist 游客
+// tourism 旅游业
+// -
+// 【 tourist attraction. 旅游景点 】
+// 【 tourism industry. 旅游业 】
+// 【 travel to. 去...旅游  】
+// -
+// 【 developed country. 发达国家 】
+// 【 developing country. 发展中国家 】
+// 【 develop city. 发达城市 】
+// -
+// 【 first tier city. 一线城市 】
+// 【 second tier city. 二线城市 】
+
+
+4
+He 【 left 】 her 【 alone 】 in the forest.
+他把她一个留在了森林里
+-
+// leave -> left
+// 【 leave sb alone. 把某人单独留下 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+汗水弄湿了毛衣
+湿的反义词是什么？
+-
+游客喜欢去著名的旅游景点旅游，因为这些地方的旅游业发达
+-
+他把她一个留在了森林里
 ```

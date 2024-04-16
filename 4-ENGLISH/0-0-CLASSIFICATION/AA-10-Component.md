@@ -101,7 +101,17 @@
 -
 -
 -
+-
 - 3
+- `declarative sentence. 陈述句`
+- `question sentence. 问句`
+-
+-
+-
+-
+-
+-
+- 4
 - `comma 逗号`
 - `period 句号 时期` // a period of time. 一段时间
 -
@@ -124,6 +134,6 @@
 -
 -
 -
-- 4
+- 5
 - `passive voice. 被动语态`
 - `active voice. 主动语态`
