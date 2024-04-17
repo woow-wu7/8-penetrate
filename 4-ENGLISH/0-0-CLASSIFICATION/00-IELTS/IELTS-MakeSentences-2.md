@@ -85,6 +85,9 @@ Is this your first time 【 talking about 】 the topic 【 of 】 'vegetables'?
 Are you 【 good at 】【  taking about 】 the topics 【 related to 】 'vegetables'?
 你擅长谈论蔬菜相关的话题吗？
 -
+Now it's 【 time to ga back to 】 the restaurant 【 for lunch 】.
+现在是回到餐厅吃午饭的时候了
+-
 // -
 //【 It's sb first time doing sth. 某人第一次做某事 】
 // -
@@ -235,6 +238,7 @@ What did you do from 8 to 10 o'clock.
 你擅长哪些领域？
 你擅长哪些话题？
 你擅长谈论蔬菜相关的话题吗？
+现在是回到餐厅吃午饭的时候了
 -
 我们各自是对方的老师
 -
@@ -1055,7 +1059,7 @@ The 【 brown bear 】 can not 【 bear 】 the little girl 【 anymore 】 beca
 这个棕熊再也不能忍受这个小女孩，因为她把房间弄得乱七八糟的
 ```
 
-##### 6 Make sentences 2024-04-16
+##### 6 Make sentences 2024-04-17
 
 ```
 1
@@ -1099,8 +1103,105 @@ What's the opposite of 'wet'?
 He 【 left 】 her 【 alone 】 in the forest.
 他把她一个留在了森林里
 -
+He 【 took 】 her to a 【 faraway 】 place, and 【 left 】 her there 【 alone 】.
+He 【 brought 】 her to a 【 distant 】 place, and 【 left 】her 【 alone 】 there.
+他把她带到了一个很远的地方，然后把她独自留在了那里
+-
+We still have a 【 distant 】 【 distance 】 to the 【 destination 】.
+我们离目的地还有很远的距离
+-
 // leave -> left
 // 【 leave sb alone. 把某人单独留下 】
+// -
+// take -> took
+// bring -> brought
+// leave -> left
+// -
+// 【 faraway 遥远的 adj 】
+// 【 distant 遥远的 adj 】
+// -
+// 【 distant 遥远的 】
+// 【 distance 距离 】
+// 【 distant distance. = long distance. 远距离 】
+
+
+5
+What story did you tell to your son?
+你给你儿子讲了什么故事?
+-
+What time is it now?
+现在几点了？
+-
+What do you want to eat?
+你想吃什么？
+-
+What book are you reading?
+你在读什么书？
+
+
+6
+Now it's 【 time to ga back to 】 the restaurant 【 for lunch 】.
+现在是回到餐厅吃午饭的时候了
+-
+Now it's time for us to learn English.
+现在是我们学习的时候了
+-
+It's my first time 【 going 】 here.
+It's my first time here.
+This is my first time 【 going 】 here.
+This is my first time here.
+这是我第一次来这里
+-
+Is this your first time 【 coming 】 here?
+Is this your first time here?
+Is it the first time you've gone here?
+这是你第一次来这里吗？
+-
+Is this your first time 【 taking about 】 this type of topic?
+这是你第一次谈论这种类型话题吗？
+-
+Is this your first time 【 talking about 】 the topic 【 of 】 'vegetables'?
+这是你第一次谈论'蔬菜'类型话题吗？
+-
+// -
+// 【 it's sb first time doing sth. 某人第一次做某事 】
+// -
+// 【 it's time to do sth. 是做某事的时候了 】
+// 【 go back to. 回到 返回 】
+
+
+7
+Do you plan to 【 go on a vacation 】?
+你计划去度假吗？
+-
+Do you plan to 【 travel 】?
+你计划去旅游吗？
+-
+Do you have a plan to 【 go on a vacation 】 or 【 travel 】?
+你有计划去度假或旅游吗？
+
+
+8
+This is an 【 expensive 】 【 expense 】.
+这是一笔昂贵的开支
+-
+// expensive 昂贵的
+// expense 花费 开销 ------ 常见，可做 动词 和 名词
+// expenditure 花费 开销 -- 只能做名词
+
+
+9
+Do you have anything to 【 supplement 】?
+你还有什么要【补充】的吗？
+-
+Vegetables can 【 supplement 】 【 protein 】 and 【 vitamins 】.
+蔬菜可以补充蛋白质和维生素
+-
+// -
+// 【 supplement 补充 v n 】
+// -
+// 【 protein 蛋白质 】
+// 【 vitamin 维生素  】
 
 
 
@@ -1111,4 +1212,27 @@ He 【 left 】 her 【 alone 】 in the forest.
 游客喜欢去著名的旅游景点旅游，因为这些地方的旅游业发达
 -
 他把她一个留在了森林里
+他把她带到了一个很远的地方，然后把她独自留在了那里
+我们离目的地还有很远的距离
+-
+你给你儿子讲了什么故事?
+现在几点了？
+你想吃什么？
+你在读什么书？
+-
+现在是回到餐厅吃午饭的时候了
+现在是我们学习的时候了
+这是我第一次来这里
+这是你第一次来这里吗？
+这是你第一次谈论这种类型话题吗？
+这是你第一次谈论'蔬菜'类型话题吗？
+-
+你计划去度假吗？
+你计划去旅游吗？
+你有计划去度假或旅游吗？
+-
+这是一笔昂贵的开支
+-
+你还有什么要【补充】的吗？
+蔬菜可以补充蛋白质和维生素
 ```

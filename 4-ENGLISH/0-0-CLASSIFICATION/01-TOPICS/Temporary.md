@@ -691,10 +691,27 @@ have a haircut.
 - 17
 - sunrise 日出
 -
-- sundown 日落`
+- sundown 日落
 - sunset
 - 18
 - `claw`
+
+```4月16日
+1
+trunk 后备箱 树干 行李箱
+suitcase 手提箱
+
+2
+ask for. 寻求
+ask for leave. 请假
+ask for sick leave.
+ask for personal leave.
+leave -> left
+
+3
+vaccination
+Vaccination
+```
 
 ```
 naughty 淘气
@@ -774,4 +791,52 @@ the Lantern Festival.
 director 导演
 -
 Electronic watch. 电子表
+```
+
+### Lesson 9 A cold welcome 冷遇
+
+```
+ring 钟声
+-
+minute pointer
+minute hand.
+door handle.
+-
+hand
+handle 把手n 处理v
+handler
+-
+Brake pedal. 刹车踏板
+engine/power
+electric power/power source.
+source 来源 源头
+water source.
+source 来源 源头
+resource 资源 资料
+forest resource.
+-
+plural 复数
+get together. 聚在一起 =
+pedestrian
+-
+strike 罢工 敲 / knock
+ride
+stick
+-
+supplement 补充
+-
+a crowd of people crowd the hall.
+A crowd of people crowd into a car.
+-
+You daughter refuse to study.
+-
+in 时间大于 1 天 // in spring // in May // in nineteen ninety-eight. 1998年
+on 时间等于 1 天 // on Monday // on Sunday // on the weekend // on the second. 2号
+at 时间小于 1 天 // at five o'clock // at night
+特殊情况 // in the Morning // in the afternoon // in the evening
+-
+suggestion 建议
+-
+blind area.
+Knowledge blind spots. 知识盲区
 ```

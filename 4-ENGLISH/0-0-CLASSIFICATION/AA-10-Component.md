@@ -14,9 +14,12 @@
 - _【 attributive clause. 定语从句 】_
 - _【 adverbial clause. 状语从句 】_
 -
-- 【 active voice. 主动语态 】
+- 【 active voice. 主动语态 】// ------- voice 声音 语态
 - 【 passive voice. 被动语态 】
 -
+- 【 past tense. 过去时 过去式 】// ----- tense 紧张 v / 紧张的 adj / 时态 n
+- 【 present tense. 现在时
+- 【 future tense. 将来时 】
 -
 - AA.
 - `attribute 属性`
@@ -31,7 +34,6 @@
 - // -
 - // TIPS: Pay attention to the pronunciation of the word 'attributive'.
 - // TIPS: Pay attention to the pronunciation of the word 'attribute'.
--
 -
 - BB.
 - `complete 完全的adj 完成v`
@@ -63,7 +65,6 @@
 - **【 Which one is the 【 subject 】? Which one is 【 predicate 】? Which one the 【 object 】? 】**
 -
 - **【 【 Attributive 】, 【 adverbial 】, and 【 complement 】 have their own 【 effect/functions 】. 定语状语补语有各自的作用 】**
--
 -
 - CC.
 - `predicate 谓语 断言 n`
@@ -102,12 +103,14 @@
 -
 -
 -
+-
+-
 - 3
-- `declarative sentence. 陈述句`
-- `question sentence. 问句`
--
--
--
+- `tense 紧张的adj 时态n` // -------------- tense 紧张的 时态
+- `【 past tense. 过去时 过去式 】`
+- `【 present tense. 现在时 】`
+- `【 future tense. 将来时 】`
+- **【 left is the 【 past tense 】 of leave. 'left' 是 'leave' 的过去式 】**
 -
 -
 -
@@ -133,7 +136,6 @@
 -
 -
 -
--
 - 5
-- `passive voice. 被动语态`
-- `active voice. 主动语态`
+- `declarative sentence. 陈述句`
+- `question sentence. 问句`

@@ -263,7 +263,7 @@
 - //
 - // deposit 存钱 v 押金 n
 - // deposit slip. 存款单
-- // 
+- //
 - // take out. 取出 = withdraw.
 -
 -
@@ -351,9 +351,10 @@
 - `revenue 收入 n` ------------ 不可数名词
 - `income 收入 n` ------------- 不可数名词
 -
-- `expenditure 支出 n` -------- 大规模的支持 // --------- expenditure 支出 n
-- `expense 费用 开销 花销 n` --- 个人，小规模的支出 // ---- expense 费用 n
-- 大多数情况 expenditure 和 expense 可以互换
+- `expenditure 费用 支出` -------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
+- `expense 费用 支出 v n` -------- 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
+- `expensive 昂贵的 adj`
+- // 大多数情况 expenditure 和 expense 可以互换
 -
 - `consume 消费 消耗 v`
 - `consumption 消费 消耗 n`
@@ -370,6 +371,10 @@
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
 -
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
+-
+- **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
+- **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
+-
 - // -- `mortgage loan. 房贷`
 - // -- `car loan. 车贷`
 -
