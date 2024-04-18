@@ -24,6 +24,10 @@ type color4 = [number, string, symbol];
 // - Record 的实现详见: 本项目/2-FRONTEND/2-TS/_README.md
 // -- keyof 是 索引类型查询 操作符， 返回 T 上已知的公共属性名的 联合类型
 // -- T[K] 是 索引访问 操作符，Color2["red"] = string
+// -
+// record 记录 录音 录像 v n
+// TIPS: Pay attention to the pronunciation of the word 'record'.
+// -
 type TRecord1 = Record<Color1, boolean>; // 鼠标 hover 查看具体的类型
 type TRecord2 = Record<keyof Color2, boolean>;
 type TRecord3 = Record<keyof Color2, Color2["red"]>;
@@ -84,9 +88,11 @@ const record6: TRecord6 = {
 // ------- ------- ------- ------- ------- ------- ------- 【 Partial 和 required 相反 】
 // 2
 // Partial
-// - 将 ( 类型 ) 定义的 ( 所有属性 ) 都修改为 ( 可选的 )
-// ---- // partial 部分的 adj
-// ---- // part 部分 n
+// -- 将 ( 类型 ) 定义的 ( 所有属性 ) 都修改为 ( 可选的 )
+// -
+// partial 部分的 不完整的 adj
+// part 部分 n
+// -
 type TPartial1 = Partial<Color2>;
 type TPartial2 = Partial<Record<"a" | "b", boolean>>;
 const partial1: TPartial1 = {
@@ -122,6 +128,10 @@ const tr: TR = {
 // - 从类型定义的属性中，选取 ( 指定一组的属性 )，返回一个 ( 新的类型定义 )
 // - 从字面意思也能知道是 ( 摘取部分属性 )
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
+// -
+// pick 选择 挑选 摘
+// TIPS: Pay attention to the pronunciation of the word 'record'.
+// -
 type TPick1 = Pick<Color2, "red">;
 type TPick2 = Pick<Color2, "red" | "yellow">;
 type TPick3 = Pick<Record<"a" | "b", number>, "b">;
@@ -151,8 +161,11 @@ const pick5: TPick5 = {
 // Omit
 // - 忽略某个属性
 // - 注意区分 Pick 和 Omit 和 Exclude 的区别
-// ---- omit 省略 忽略 v
-// ---- ellipsis 省略 n
+// -
+// omit 省略 忽略 v
+// ellipsis 省略 n
+// TIPS: Pay attention to the pronunciation of the word 'omit'.
+// -
 type TOmit1 = Omit<Color2, "red">;
 type TOmit2 = Omit<Record<"a" | "b" | "c", boolean>, "a" | "b">;
 const omit1: TOmit1 = {
@@ -178,6 +191,7 @@ const exclude2: Exclude2 = "2"; // str 的类型是 "1" | "2"，即从前面中�
 // 7
 // ReadOnly
 // - 将类型 T 中包含的属性设置为readonly，并返回一个新类型
+// - ( ReadOnly ) 达到的效果 和 ( as const 断言一样 )
 const readonly1: Readonly<Color2> = {
   red: "",
   yellow: "",

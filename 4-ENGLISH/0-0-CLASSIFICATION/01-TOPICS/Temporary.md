@@ -795,6 +795,36 @@ Electronic watch. 电子表
 
 ### Lesson 9 A cold welcome 冷遇
 
+- 1
+- `hour hand. 时针`
+- `minute hand. 分针`
+- `second hand. 秒针`
+-
+- `electricity 电 n`
+- `electric 电的 adj`
+- `electrician 电工`
+- > electronic 电子的 adj
+- > electric 电的 adj
+- _【 Electronic watch. 电子表 】_
+-
+- `hand`
+- `handle 处理 v 手柄 n`
+- _【 door handle. 门把手 】_
+-
+- `pointer 指针`
+- `point 指v 观点n`
+-
+- 电子表有秒针吗？
+- **【 Does the 【 electronic watch 】 have a 【 second hand 】? 】**
+-
+-
+-
+-
+-
+- 2
+- 你认为不敲门就进来是有礼貌的吗？
+- `Detox`
+
 ```
 ring 钟声
 -
@@ -839,4 +869,33 @@ suggestion 建议
 -
 blind area.
 Knowledge blind spots. 知识盲区
+```
+
+### Lesson 10 Not for jazz 不适于演奏爵士乐
+
+```
+key chain. 钥匙链
+key word.
+keyboard.
+lock
+open the lock with the key. 用钥匙开锁
+-
+music
+musical
+musician
+singer
+-
+string 弦 串
+instrument 乐器
+dashboard 仪表板
+gauge
+【 pressure gauge. 压力表  】
+-
+passive voice. 被动语态
+active voice.
+past tense. 过去时
+-
+What's the structure of the passive voice sentence? 被动语态句子的结构是什么？
+They have already slept.
+-
 ```

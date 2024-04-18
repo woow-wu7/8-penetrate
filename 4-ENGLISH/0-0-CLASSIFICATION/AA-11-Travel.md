@@ -21,9 +21,12 @@
 -
 - _【 expensive expense. 昂贵的费用 】_
 -
+- `expense 花费 开销`
+- `expenditure 花费 开销`
+-
 - **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
 -
-- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these places have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
+- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
 -
 - **【 The 【 tour guide 】 【 gave 】 the 【 tourists 】 a 【 brochure 】 after 【 buying 】 the 【 entrance ticket 】. 买完门门票后，导游给了游客们一张宣传册 】**
 - // -
@@ -41,7 +44,7 @@
 - // 【 developed city. 发达城市 】
 - // **【 【 First tier cities 】 are 【 developed cities 】. 一线城市是发达城市 】**
 - // -
-- // industry 工业 行业
+- // 【 industry 工业 行业 】
 - // 【 intense 强烈的 adj 】 // [intense/tense]
 - // 【 competition 竞争 比赛 n 】
 - // _【 intense competition. 激烈的竞争 】_
@@ -58,12 +61,13 @@
 - // _【 tourist attraction. 旅游景点/旅游胜地 】_
 - // **【 He use his 【 singing 】 to 【 attract 】 girls' 【 attention 】. 他用歌声引起女生注意 】**
 - // -
-- // history
+- // 【 history 】
 - // TIPS: Pay attention to the pronunciation of the word 'history'.
 -
 - BB.
 - `travel 旅游 旅行 v n`
 - `expense 费用 花费 v n`
+- `expenditure 费用 花费 n`
 - _【 travel agency. 旅行社 】_
 - _【 travel expenses. 旅行费用 】_ // expense // consumption
 -
@@ -113,6 +117,7 @@
 - `expense 费用 开支v n` ----- 更常见，可做 动词 和 名词
 - `expensive 贵的 adj`
 - `expenditure 费用 开支` ---- 只能做名词
+- _【 expensive expense. 昂贵的费用 】_
 - **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
 - **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
 -
@@ -171,7 +176,13 @@
 - `package 包裹`
 - `suitcase 手提箱`
 - `trunk 树干 行李箱 后备箱`
+- `carry-on. 小行李箱`
+-
 - > 【 baggage claim. 行李领取处 领取行李 】
+-
+- `check in. 登记入住 托运`
+- `carry-on. 小行李箱`
+- `【 Pick them up. 接他们 】` // pick up. 举起 接送
 -
 - _【 baggage claim. 行李领取处 领取行李 】_
 -
@@ -194,6 +205,30 @@
 - // 【 place 放置 v 地方 n 位置 n 】
 - // -
 - // TIPS: Pay attention to the pronunciation of the word 'brochure'.
+-
+- AA.
+- `pick up. 捡起 拿起 接人 v`
+- **【 We 【 put down 】 the 【 baggages 】 and went to 【 airport 】 to 【 pick up 】 the 【 tourists 】. 】**
+- // -
+- // 【 airport 机场 】
+- // 【 airline 航空公司 】
+- // 【 airplane 飞机 】
+- // 【 flight 航班 】
+- // -
+- // port 端口 港口
+- // plane 飞机
+-
+- BB.
+- `airport 飞机场`
+- `airline 航空公司`
+- `airplane 飞机`
+- `flight 航班`
+-
+- `plane 飞机` // plane airplane
+- `port 港口 端口` // airport
+- **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
+- // -
+- // park 公园 停车 停放 v
 -
 -
 -
@@ -231,9 +266,16 @@
 - `past tense. 过去式 过去时`
 - `plural 复数的adj 复数n`
 - `opposite 相反的`
-- **【 1. What's the 【 opposite 】 of wet? 】**
-- **【 2. What's the 【 plural 】 of leaf? 】**
-- **【 3. What's the 【 past tense 】 of 【 leave 】? 】**
+- **【 1. What's the 【 opposite 】 of 【 wet 】? 】** --------- [wet->dry]
+- **【 2. What's the 【 plural 】 of 【 leaf 】? 】** ---------- [leaf->leaves] // leave 离开 休假 // leaves 叶子
+- **【 3. What's the 【 past tense 】 of 【 leave 】? 】** ----- [leave->left]
+-
+- BB.
+- `leave 离开 休假`
+- `leaves 叶子 - leaf的复数是leaves`
+- _【 ask for leave. 请假 】_
+- _【 ask for 【 sick 】 leave. 请病假 】_
+- _【 ask for 【 personal 】 leave. 请事假 】_
 -
 -
 -

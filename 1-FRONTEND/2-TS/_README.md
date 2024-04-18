@@ -132,10 +132,16 @@ A.不同点
     - type会显示具体的类型
     - interface则会显示是接口，具体的类型还需要通过在接口中查看
 B. 相同点
-  1. interface 和 type 都可以有 泛型
+  1. interface 和 type 都可以有 【 泛型(Generics) 】
 - english:
   - union type. 联合类型
   - intersection type. 交叉类型
+  -
+  - union 联盟 联合
+  - intersection 十字路口 相交 交叉
+  -
+  -【 cross the intersection. 穿过十字路口 】
+  - Take a right turn at the 【 intersection 】. 在十字路口向右拐
 
 
 (二)
@@ -143,7 +149,7 @@ public private protected 的区别？
 ---
 - public 公有属性 ---- 可以在 任何地方 访问到 ---------------- 能在 声明它的 ( 类，子类，实例 ) 中访问到
 - private 私有属性 --- 只能在声明它的 ( 类中 ) 访问到 --------- 不能在 ( 声明它的类 ) 的 ( 外部 ) 使用，比如 ( 子类 实例 子类实例 都不能访问 )
-- protected 保护属性 - 只能在声明它的 ( 类 和 子类 ) 中访问到 -- 实例不能访问，子类实例不能访问，即 ( 实例不能访问，但是子类可以访问 )
+- protected 保护属性 - 只能在声明它的 ( 类 和 子类 ) 中访问到 -- ( 实例不能访问，子类实例不能访问 )，即 ( 实例不能访问，但是子类可以访问 )
 - 注意: 这三个属性，都是以 P 开头，方便记忆
 - 详见:
   - 7
@@ -157,14 +163,17 @@ public private protected 的区别？
   - protected
     - protect 保护
     - protected 保护的adj / v过去式
+    - // We should 【 protect 】 the environment.
+    - // TIPS: Pay attention to the pronunciation of the word 'protect'.
+    - // TIPS: Pay attention to the pronunciation of the word 'protected'.
 
 
 (三)
 any 和 unknown 的区别?
 - 推荐使用 unknown 而不是 any
 - unknown
-  - unknown 在使用的时候必须指定类型，即 ( unknown 必须要在判断完它是什么类型之后，才能继续用 )
-  - unknown 类型，是 any 类型对应的安全类型
+  - unknown 在 ( 使用 ) 的时候必须指定 ( 具体的类型 )，即 ( unknown 必须要在判断完它是什么类型之后，才能继续用 )
+  - unknown 类型，是 any 类型对应的 安全类型
 - any
   - any 会绕过类型检查，对 any 类型的值执行操作之前，我们不必进行任何检查
 - 详见
@@ -204,13 +213,15 @@ never 和 void 的区别
 
 5.1
 【 enumeration 枚举 n 】
+【 enumeration type. 枚举类型 】
 枚举类型获取每个 key 和 value
 enum Enu {
   A = 2,
   B,
+  C = 'C'
 }
-type People4 = keyof typeof Enu; // 'A' | 'B' ++++++ key
-type People5 = `${Enu}`; // "2" | "3" ++++++++++++++ value
+type People4 = keyof typeof Enu; // 'A' | 'B' | 'C' ++++++ key
+type People5 = `${Enu}`; // "C" | "2" | "3" ++++++++++++++ value
 // `` 为 模版字符串 语法
 
 5.2
@@ -219,13 +230,21 @@ type TArr1 = string[];
 type TArr2 = [number, boolean, undefined];
 type a = TArr1[number]; // 相当于: type a = string
 type b = TArr2[number]; // 相当于: type b = number | boolean | undefined，注意是联合类型
-
+// 对比
+// type TLen = tesla['length']; ------- 获取长度
+// type a = TArr1[number]; ------------ 获取所有成员类型的(联合类型)
 
 5.3
 获取数组类型 的 长度
 type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 // type TLen = tesla['length']
 // 相当于 type TLen = 4
+// -
+// 注意: 是 tesla['length'] 中是字符串 'length'
+// -
+// 对比
+// type TLen = tesla['length']; ------- 获取长度
+// type a = TArr1[number]; ------------ 获取所有成员类型的(联合类型)
 ```
 
 # (二) 范型工具类型

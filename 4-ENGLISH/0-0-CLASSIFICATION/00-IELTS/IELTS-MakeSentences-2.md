@@ -1059,15 +1059,21 @@ The 【 brown bear 】 can not 【 bear 】 the little girl 【 anymore 】 beca
 这个棕熊再也不能忍受这个小女孩，因为她把房间弄得乱七八糟的
 ```
 
-##### 6 Make sentences 2024-04-17
+##### 7 Make sentences 2024-04-17
 
 ```
 1
 The 【 sweat 】 【 wet 】 the 【 sweater 】.
 汗水弄湿了毛衣
 -
-What's the opposite of 'wet'?
+What's the 【 opposite 】 of 'wet'?
 湿的反义词是什么？
+-
+What's the 【 plural 】 of 【 leaf 】?
+leaf的复数是什么？
+-
+What's the 【 past tense 】 of 【 leave 】?
+leave的过去式是什么？
 -
 // -
 // sweat 汗水
@@ -1076,10 +1082,19 @@ What's the opposite of 'wet'?
 // -
 // wet dry
 // wet is the opposite of dry.
+// -
+// plural 复数n 复数的adj
+// opposite 相反的
+// -
+// past tense. 过去式 过去时
+// present tense. 现在时
+// future tense. 将来时
+// -
+// leave 离开v 休假n
 
 
 2
-【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】 because these places have a 【 developed 】 【 tourism industry 】.
+【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】 because these 【 places 】 have a 【 developed 】 【 tourism industry 】.
 游客喜欢去著名的旅游景点旅游，因为这些地方的旅游业发达
 -
 // -
@@ -1123,6 +1138,8 @@ We still have a 【 distant 】 【 distance 】 to the 【 destination 】.
 // 【 distant 遥远的 】
 // 【 distance 距离 】
 // 【 distant distance. = long distance. 远距离 】
+// -
+// place 放置v 地方n
 
 
 5
@@ -1140,11 +1157,11 @@ What book are you reading?
 
 
 6
-Now it's 【 time to ga back to 】 the restaurant 【 for lunch 】.
+Now it's 【 time to ga back to 】 the 【 restaurant 】 【 for lunch 】.
 现在是回到餐厅吃午饭的时候了
 -
 Now it's time for us to learn English.
-现在是我们学习的时候了
+现在是我们学习英语的时候了
 -
 It's my first time 【 going 】 here.
 It's my first time here.
@@ -1221,7 +1238,7 @@ Vegetables can 【 supplement 】 【 protein 】 and 【 vitamins 】.
 你在读什么书？
 -
 现在是回到餐厅吃午饭的时候了
-现在是我们学习的时候了
+现在是我们学习英语的时候了
 这是我第一次来这里
 这是你第一次来这里吗？
 这是你第一次谈论这种类型话题吗？
@@ -1235,4 +1252,125 @@ Vegetables can 【 supplement 】 【 protein 】 and 【 vitamins 】.
 -
 你还有什么要【补充】的吗？
 蔬菜可以补充蛋白质和维生素
+```
+
+##### 8 Make sentences 2024-04-18
+
+```
+1
+Does the 【 electronic watch 】 have a 【 second hand 】?
+电子表有秒针吗？
+-
+// -
+// 【 electronic watch. 电子表 】
+// -
+// hour hand. 时针
+// minute hand. 分针
+// second hand. 秒针
+// -
+// hand 手 手工
+// 【 handle 处理v 手柄n 】
+// 【 pointer 指针 】
+// -
+// 【 door handle. 门把手 】
+// -
+// point 指v 观点n
+// pointer 指针n
+
+
+2
+This car 【 knocked down 】 many 【 pedestrians 】
+这辆车【撞倒】了很多行人
+-
+This car 【 knocked over 】 many boxes.
+这辆车【撞翻】了很多盒子
+-
+It's 【 impolite 】 to came in 【 without 】 【 knocking 】 at the door.
+不敲门就进来是不礼貌的
+-
+Do you think it's 【 polite 】 to come in 【 without 】 【 knocking at 】 the door?
+你认为不敲门就进来是有礼貌的吗？
+-
+// -
+// knock down. 撞倒
+// knock over. 撞翻
+// knock at. 敲门
+// -
+// pedestrian 行人
+// -
+// polite 有礼貌的
+// impolite 没礼貌的
+// -
+// without 没有 ------ 是一个介词
+
+
+3
+What are the 【 symptoms 】 if you 【 catch a cold 】?
+What 【 symptoms 】 would you have if you 【 caught 】 a cold?
+如果你感冒了会有什么症状呢？
+-
+// -
+// have a cold. 感冒
+// catch a cold. 感冒
+// -
+// catch -> caught
+
+
+4
+We should 【 protect 】 the environment.
+我们应该保护环境
+-
+【 Citizens 】 are 【 protected 】 【 by law 】.
+公民受到法律的保护
+-
+// protect 保护 防护 v
+// protected 受保护的 adj
+// -
+// citizen 公民
+// city 城市 都市
+// -
+// law 法律
+
+
+5
+AI 【 translation software 】 dose not 【 translate 】 very 【 accurately 】.
+AI翻译软件翻译的不是很准确
+-
+My 【 pronunciation 】 is not 【 accurate 】.
+我的发音不准
+-
+Your 【 pronunciation 】 is very 【 accurate 】 and 【 standard 】.
+你的发音很准确并且很标准
+-
+How to resolve the problem that the pronunciation is not 【 accurate 】？
+如何解决发音不精确的问题？
+-
+// -
+// 【 accurate 精确的 准确的 adj 】
+// 【 accurately 精确地 准确地 adv 】
+// -
+// 【 standard 标准 规范 】
+// -
+// 【 solve 解决 处理 v 】 --------- 用的更广泛
+// 【 resolve 解决v 决心n 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+电子表有秒针吗？
+-
+这辆车【撞倒】了很多行人
+这辆车【撞翻】了很多盒子
+不敲门就进来是不礼貌的
+你认为不敲门就进来是有礼貌的吗？
+-
+如果你感冒了会有什么症状呢？
+-
+我们应该保护环境
+公民受到法律的保护
+-
+AI翻译软件翻译的不是很准确
+我的发音不准
+你的发音很准确并且很标准
+如何解决发音不精确的问题？
 ```
