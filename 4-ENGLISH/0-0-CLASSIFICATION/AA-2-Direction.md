@@ -52,7 +52,8 @@
 -
 -
 -
-- `specific 具体的 特定的`
+- `specific 具体的 特定的 adj`
+- `specificity 独特性 特异性 n` // css 的选择器的权重就是 specificity
 - 【 specific indicator. 具体指标 】
 - 【 specific symptom. 具体症状 】
 - 【 specific place. 特定地点/具体地点 】

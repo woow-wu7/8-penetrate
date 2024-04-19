@@ -45,11 +45,17 @@
       // 1. 第一次遍历，统计每个字符出现的次数
       // 2. 第二次遍历，判断每个字符出现的次数，次数为1，直接返回。( 即为第一次不重复 )
 
+      // 问题
+      // 拷问: 第一次遍历得到了map，里面记录了每个字符出现的次数，但是是无序的。如果有多个字符都只出现了一次，如何确定第一个出现的字符呢
+      // 回答: 通过第二次遍历 原字符串 来解决，从前往后遍历，第一次出现1次的字符 即 最先出现
+
       var firstUniqChar = function (s) {
         const map = new Map(); // 统计每个字符出现的次数
 
+        const len = s.length;
+
         // 存
-        for (let i = 0; i < s.length; i++) {
+        for (let i = 0; i < len; i++) {
           const cur = s[i];
           if (!map.has(cur)) map.set(cur, 1);
           else map.set(cur, map.get(cur) + 1);
@@ -57,7 +63,7 @@
 
         // 取
         // 再次遍历原字符串，如果该字符在map中只出现一次，立即返回，则是第一个只出现一次
-        for (let i = 0; i < s.length; i++) {
+        for (let i = 0; i < len; i++) {
           const cur = s[i];
           if (map.get(cur) === 1) return i;
         }

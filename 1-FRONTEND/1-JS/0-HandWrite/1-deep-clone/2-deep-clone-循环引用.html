@@ -23,18 +23,24 @@
       obj[Symbol()] = "symbol";
 
       const deepClone = (obj, map = new Map()) => {
+        // 1
+        // 保证是基本数据类型时，直接返回
+        // - typeof 返回 number string boolean undefined symbol bigint object function 一共 8 种类型
         if (typeof obj !== "object" && typeof obj !== "function") {
           return obj;
         }
 
+        // 2
+        // 从这里起都是处理 对象 类型，即 ( array object function )
         const res = Array.isArray(obj) ? [] : {};
 
-        if (map.has(obj)) {
-          return map.get(obj);
-        }
-
+        // 3
+        // 处理循环引用
+        if (map.has(obj)) return map.get(obj);
         map.set(obj, res);
 
+        // 4
+        // array object
         for (let key in obj) {
           if (obj.hasOwnProperty(key)) {
             if (typeof obj[key] === "object") {

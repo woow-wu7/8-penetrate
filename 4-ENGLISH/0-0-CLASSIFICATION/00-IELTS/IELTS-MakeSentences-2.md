@@ -45,6 +45,7 @@ Can you 【 remember 】 these words?
 // -
 // specific 具体的 adj
 // specifically 具体地 专门地 adv
+// specificity 独特性 特异性 n ---------- css选择器的权重就是 specificity
 // TIPS: Pay attention to the pronunciation of the word 'specifically'. -- a 是不发音的
 // -
 // 【 memorize 记住 v 】
@@ -85,7 +86,7 @@ Is this your first time 【 talking about 】 the topic 【 of 】 'vegetables'?
 Are you 【 good at 】【  taking about 】 the topics 【 related to 】 'vegetables'?
 你擅长谈论蔬菜相关的话题吗？
 -
-Now it's 【 time to ga back to 】 the restaurant 【 for lunch 】.
+Now it's 【 time to go back to 】 the restaurant 【 for lunch 】.
 现在是回到餐厅吃午饭的时候了
 -
 // -
@@ -181,39 +182,55 @@ How much 【 vocabulary 】 do you 【 probably 】 have?
 Do you think how many 【 vocabulary 】 it's better to start 【 oral English 】?
 你觉得具有多少词汇量开始进行口语交流比较好？
 -
+// -
 // oral English. 口语
 // spoken English. 口语
+// -
+// probable 可能的 adj
+// probably 可能地 大概的 adv
+// -
+// vocabulary 词汇量 词汇表
 
 
 8
-Excuse me for 【 interrupting 】, Can I 【 join in 】?
-不好意思【打断】一下，我能加入吗？
--
-I'm sorry to 【 disturb 】 you. 抱歉【打扰】你了
+She 【 interrupted me reading 】.
+她打断了我读书
 -
 I'm sorry 【 for 】 【 interrupting you speaking 】.
 不好意思，我打断你说话了
 -
 I'm sorry to 【 interrupt 】, Did I 【 disturb 】 you?
-不好意思，打断一下，我有打扰到你吗？
+不好意思，【打断】一下，我有【打扰】到你吗？
+-
+Excuse me for 【 interrupting 】, Can I 【 join in 】?
+不好意思【打断】一下，我能加入吗？
+-
+I'm sorry to 【 disturb 】 you.
+抱歉【打扰】你了
 -
 // -
 // 【 disturb 打扰 】
-// 【 interrupt 打断 】
+// 【 interrupt 打断 中断 】
 // -
 // 【 interrupt sb doing sth. 打断某人做某事 】
+// 【 interrupt sb doing sth. 打断某人做某事 】
+// 【 interrupt sb doing sth. 打断某人做某事 】
+
 
 9
-What did you do 【 from 】 morning 【 to 】 noon?
+What did you do 【 from 】 morning 【 to 】 【 noon 】?
 What did you do 【 between 】 morning 【 and 】 noon?
 What did you do in the period from morning to noon?
 你上午到中午这段时间做了什么？
 -
-What do you usually do from morning to noon?
-你上午到中午这段时间一般会做什么？
+What do you 【 usually 】 do from morning to noon?
+你上午到中午这段时间【一般】会做什么？
 -
 What did you do from 8 to 10 o'clock.
 你8点到10点这段时间都在干嘛呢？
+-
+// -
+// usually 通常地 一般地 adv
 
 
 
@@ -245,9 +262,10 @@ What did you do from 8 to 10 o'clock.
 你的词汇量大概有多少
 你觉得具有多少词汇量开始进行口语交流比较好？
 -
-不好意思打断一下，我能加入吗？
+她打断了我读书
 不好意思，我打断你说话了
 不好意思，打断一下，我有打扰到你吗？
+不好意思打断一下，我能加入吗？
 -
 你上午到中午这段时间做了什么？
 你上午到中午这段时间一般会做什么？
@@ -261,7 +279,7 @@ What did you do from 8 to 10 o'clock.
 I remember that you said you have some secrets 【 a few days ago 】.
 我记得你前几天说过你有一些秘密
 -
-I think the 【 secrets 】 【 maybe/perhaps 】 are some 【 positive 】 things, 【 negative 】 things, or some stresses in your life that you don't share with anyone.
+I think the 【 secrets 】 【 maybe/perhaps 】 are some 【 positive 】 things, 【 negative 】 things, or some 【 stresses 】 in your life that you don't share with anyone.
 我认为【秘密】也许是一些【积极的】事情、【消极的】事情，或是你不与任何人分享的生活中的一些压力
 -
 // -
@@ -278,6 +296,9 @@ I think the 【 secrets 】 【 maybe/perhaps 】 are some 【 positive 】 thin
 // maybe ------- 口语话，可能性小
 // perhaps ----- 书面语，可能性小
 // probably ---- 可能性大 // probable probably
+// -
+// stress 压力
+// pressure 压力
 
 2
 My 【 colleague 】 is my 【 college 】 【 classmate 】.
@@ -1306,7 +1327,7 @@ Do you think it's 【 polite 】 to come in 【 without 】 【 knocking at 】 
 
 3
 What are the 【 symptoms 】 if you 【 catch a cold 】?
-What 【 symptoms 】 would you have if you 【 caught 】 a cold?
+What the【 symptoms 】 would you have if you 【 had 】 a cold?
 如果你感冒了会有什么症状呢？
 -
 // -
@@ -1314,17 +1335,19 @@ What 【 symptoms 】 would you have if you 【 caught 】 a cold?
 // catch a cold. 感冒
 // -
 // catch -> caught
+// have -> had
 
 
 4
 We should 【 protect 】 the environment.
 我们应该保护环境
 -
-【 Citizens 】 are 【 protected 】 【 by law 】.
+【 Citizens 】 are 【 protected 】 【 by 】 【 law 】.
 公民受到法律的保护
 -
 // protect 保护 防护 v
 // protected 受保护的 adj
+// 【 public / private / protected 】
 // -
 // citizen 公民
 // city 城市 都市
@@ -1342,7 +1365,7 @@ My 【 pronunciation 】 is not 【 accurate 】.
 Your 【 pronunciation 】 is very 【 accurate 】 and 【 standard 】.
 你的发音很准确并且很标准
 -
-How to resolve the problem that the pronunciation is not 【 accurate 】？
+How to 【 resolve 】 the problem that the pronunciation is not 【 accurate 】？
 如何解决发音不精确的问题？
 -
 // -
@@ -1352,7 +1375,11 @@ How to resolve the problem that the pronunciation is not 【 accurate 】？
 // 【 standard 标准 规范 】
 // -
 // 【 solve 解决 处理 v 】 --------- 用的更广泛
-// 【 resolve 解决v 决心n 】
+// 【 resolve 解决v 决心n 】-------- Promise.resolve()
+// -
+// translate 翻译 v
+// translation 翻译 n
+// 【 translation software. 翻译软件 】
 
 
 
@@ -1374,3 +1401,56 @@ AI翻译软件翻译的不是很准确
 你的发音很准确并且很标准
 如何解决发音不精确的问题？
 ```
+
+##### 9 Make sentences 2024-04-19
+
+```
+How is your daughter's 【 academic performance 】?
+你女儿的学习成绩怎么样？
+-
+Dose reading 【 comics 】 【 affect 】 【 academic performance 】?
+看漫画会影响学习成绩吗？
+-
+// -
+// academic 学术的 学业的 学校的 adj
+//【 academic performance. 学习成绩 】
+// -
+// academic 学术的 学业的 adj
+// comic 漫画
+// -
+// affect 影响 v ---------- 直接影响
+// influence 影响 v ------- 间接影响
+```
+
+
+
+你什么时候下班
+What time do you get off work?
+
+你几点上班？
+
+
+我今天休息
+我今天不上班
+我上了出租车，然后下了出租车，然后上了火车，最后下了火车
+-
+除了晚上8-10点外，我都有空
+这家商店除了星期天每天都开门
+动物园除了有老虎外，还有狮子
+除了照顾孩子外，她还要工作
+除了每周的薪水外，我还能得到不少小费
+-
+这是一部感动人的电影
+电影院，其他人可能会称之为电影院
+-
+在长期的压力下，身体可能出现很多毛病
+减肥需要长期的坚持
+我们应该坚持锻炼和学习
+-
+我感到很无聊，因为这节课很无聊
+一个无聊的工作会让你感到无聊吗？
+-
+长期熬夜会导致失眠
+在长期的压力下，身体可能出现很多毛病
+减肥需要长期的坚持
+你有失眠困扰吗？

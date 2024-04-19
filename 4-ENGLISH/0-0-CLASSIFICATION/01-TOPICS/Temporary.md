@@ -897,5 +897,71 @@ past tense. 过去时
 -
 What's the structure of the passive voice sentence? 被动语态句子的结构是什么？
 They have already slept.
+```
+
+# Lesson 11 One good turn deserves another 礼尚往来
+
+```
+1
+我用卖可乐瓶得到的5美分来买食物
+I used 5 cents that I obtained from selling Coke bottles to buy food.
+
+
+2
+Does reading a 【 comics 】 will 【 affect / influence / impact 】 your daughter's 【 academic performance 】?
+// performance 绩效 表演 性能
+// performance bonus. 绩效奖金
+// -
+// academic 学术的
+// academic performance. 学习成绩
+// grade 成绩
+// The university offered him a scholarships, owing to his excellent grades. 由于他成绩优异，大学给他提供了奖学金
+// -
+// academic
+// comic
+
+3
+straight away. = immediately. 立即的 adv(adverb)
+
+4
+law 法律
+lawyer 律师
+judge 审判 审判员
+layer 图层 // lawyer layer
+// Citizens are protected by law.
+// 公民收到法律的保护
+
+5
+years ago. = many years ago.
+
+6
+salary --- 长期
+wage ------ 短期 // odd job. // part-time job.
+performance 绩效
+bonus 奖金
+reward 奖励
+prize
+medal
+deposit 存钱 定金
+
+7
+behavior/turn 行为
+
+8
+What things do you deserve to do?
 -
+How much money do you think is a good salary?
+How much money did you think was a good salary?
+Do you think How much money is a good salary?
+-
+steel 钢筋
+cement 水泥
+-
+effort = work hard.
+make an effort to study English, and never give up.
+-
+Stay hungry, stay foolish! 求知若饥，虚心若愚
+// laugh at. 嘲笑
+-
+
 ```

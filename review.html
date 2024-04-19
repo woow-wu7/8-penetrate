@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      const strs = ["flower", "flow", "fight"];
+
+      var longestCommonPrefix = function (strs) {
+        return strs.reduce((accumulate, cur) => {
+          let sameStr = "";
+
+          const len = Math.min(accumulate.length, cur.length);
+          for (let i = 0; i < len; i++) {
+            if (accumulate[i] === cur[i]) {
+              sameStr += accumulate[i];
+            } else break;
+          }
+
+          return sameStr;
+        });
+      };
+
+      const res = longestCommonPrefix(strs);
+      console.log("res: ", res);
+    </script>
+  </body>
+</html>
+```
+
+var count = 10
+function foo(num) { 
+  // "use strict";
+  var count = 20
+  console.log( "foo: " + num )
+  this.count++ 
+  } 
+foo.count = 0;
+for (var i=0; i<10; i++) { 
+  if (i > 5) { foo( i ) } 
+}
+console.log( foo.count )
+console.log(count)
+
+-----------------
+
+function foo() { 
+  var a = "foo a"
+  console.log( this.a ) 
+}
+function doFoo(fn) { fn() } 
+var obj = {  a: "obj a", foo: foo }  
+var a = "global a"
+foo()
+obj.foo()
+doFoo( obj.foo )
+
+
+```

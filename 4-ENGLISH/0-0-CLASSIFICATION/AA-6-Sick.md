@@ -158,7 +158,7 @@
 -
 - `blocked nose. 鼻塞`
 - `runny nose. 流鼻涕`
-- `specific symptom. 特定症状`
+- `specific symptom. 特定症状` // specific // specificity
 -
 - `heart beat. 心跳`
 - `stethoscope 听诊器`
