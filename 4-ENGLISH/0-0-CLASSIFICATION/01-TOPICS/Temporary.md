@@ -860,7 +860,7 @@ A crowd of people crowd into a car.
 -
 You daughter refuse to study.
 -
-in 时间大于 1 天 // in spring // in May // in nineteen ninety-eight. 1998年
+in 时间大于 1 天 // in spring // in May // in nineteen ninety-eight. 1998年 // in a week
 on 时间等于 1 天 // on Monday // on Sunday // on the weekend // on the second. 2号
 at 时间小于 1 天 // at five o'clock // at night
 特殊情况 // in the Morning // in the afternoon // in the evening
@@ -899,7 +899,7 @@ What's the structure of the passive voice sentence? 被动语态句子的结构�
 They have already slept.
 ```
 
-# Lesson 11 One good turn deserves another 礼尚往来
+### Lesson 11 One good turn deserves another 礼尚往来
 
 ```
 1
@@ -963,5 +963,73 @@ make an effort to study English, and never give up.
 Stay hungry, stay foolish! 求知若饥，虚心若愚
 // laugh at. 嘲笑
 -
+```
 
+### Lesson 12 Goodbye and good luck 再见，一路顺风
+
+```
+captain 船长 机长
+group leader. 组长
+team leader.
+group leader.
+-
+sail 起航 航行 v  / 帆船 n
+We are sailing with sail.
+We are sailing by sail.
+-
+port 港口 -------- 常用 （ the port is used commonly. ）
+harbor 港口 ----- 内陆 小港口
+continent 大陆
+-
+distinguish 辨别
+-
+greater than. 大于
+less than. 小于
+-
+Pacific ocean. 太平洋
+Atlantic ocean. 大西洋
+Indian ocean. 印度洋
+Arctic ocean 北冰洋
+-
+across 经过 v prep
+cross
+cross the street. 过马路
+A is across from B. A在B对面
+intersection. 十字路口
+-
+set out. 出发
+-
+hospital
+clinic
+register
+-
+be away. 离开
+be away from. 从……离开
+At the beginning of.
+At the beginning of the new 【 school term 】, your children will 【 be away from 】 you. 学期开始时，你的孩子会离你远去。
+-
+term 学期 术语
+bank clerk.
+bank teller.
+bank manager.
+We can combine 'bank' and 'term' to form new fixed collocation.
+banking term. 银行术语
+financial term. 金融术语
+power bank. 充电宝
+river bank. 河岸
+-
+take part in. 参加
+attend
+join
+enter for.
+parents ' meeting. 家长会
+-
+race 比赛
+match 比赛 匹配
+competition 比赛 竞争
+-
+Opinion 意见
+-
+What is your most proud matter / event / thing?
+What is the thing that you are most proud of?
 ```
