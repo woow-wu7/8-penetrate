@@ -14,12 +14,12 @@
 - _【 attributive clause. 定语从句 】_
 - _【 adverbial clause. 状语从句 】_
 -
-- 【 active voice. 主动语态 】// ------- voice 声音 语态
-- 【 passive voice. 被动语态 】
+- _【 active voice. 主动语态 】_ // ------- voice 声音 语态
+- _【 passive voice. 被动语态 】_
 -
-- 【 past tense. 过去时 过去式 】// ----- tense 紧张 v / 紧张的 adj / 时态 n
-- 【 present tense. 现在时
-- 【 future tense. 将来时 】
+- _【 past tense. 过去时 过去式 】_ // ----- tense 紧张 v / 紧张的 adj / 时态 n
+- _【 present tense. 现在时 】_
+- _【 future tense. 将来时 】_
 -
 - AA.
 - `attribute 属性`

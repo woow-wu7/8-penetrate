@@ -111,6 +111,9 @@ I like to 【 sleep in 】.
 【 Long-term 】 【 staying up late 】 can 【 lead to 】 【 insomnia 】.
 长期熬夜会导致失眠
 -
+Learning is 【 a process of 】 【 long-term 】 【 persistence 】 to 【 make progress 】.
+学习是一个长期坚持以取得进步的过程
+-
 // -
 //【 long-term doing sth. 长时间做某事 】
 // -
@@ -249,6 +252,7 @@ What did you do from 8 to 10 o'clock.
 我昨天熬夜了
 我喜欢睡懒觉
 长期熬夜会导致失眠
+学习是一个长期坚持以取得进步的过程
 -
 让我换一种思路
 -
@@ -432,7 +436,7 @@ a 【 movie theater 】. Other people might call this a 【 cinema 】.
 -
 // -
 // 【 movie 电影 】
-// 【 move 移动 感动 】
+// 【 move 移动 感动 v 】
 // -
 // 【 movie theater 电影院 】
 // 【 cinema 电影院 】
@@ -445,11 +449,14 @@ a 【 movie theater 】. Other people might call this a 【 cinema 】.
 Under 【 long-term 】 【 stress / pressure 】, the body 【 may 】 【 develop 】 many 【 health problems 】.
 在长期的压力下，身体可能出现很多毛病
 -
-【 losing weight 】 require 【 long-term persistence 】.
+【 losing weight 】 require 【 long-term 【 persistence 】 】.
 减肥需要长期的坚持
 -
 We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 我们应该坚持锻炼和学习
+-
+We should 【 develop the habit 】 of washing hands before eating.
+我们应该养成吃饭前洗手的习惯
 -
 // -
 // develop 发展 开发 出现(问题)
@@ -479,7 +486,7 @@ We 【 need to 】 【 persist in exercising 】 and 【 learning 】.
 
 
 5
-I feel very 【 bored 】, because this 【 class / lesson 】 is very 【 boring 】.
+I 【 feel 】 very 【 bored 】, because this 【 class / lesson 】 is very 【 boring 】.
 我感到很无聊，因为这节课很无聊
 -
 Does a 【 boring 】 job make you fell 【 bored 】?
@@ -499,6 +506,8 @@ Will a 【 boring 】 job make you feel 【 bored 】?
 // -
 // whether 是否 ---------------- 范围比 if 广
 // if 是否 --------------------- 范围窄
+// -
+// 【 feel -> felt 】
 
 
 
@@ -509,7 +518,7 @@ Will a 【 boring 】 job make you feel 【 bored 】?
 Under 【 long-term 】 【 stress / pressure 】, the body 【 may 】 【 develop 】 many 【 health problems 】.
 在长期的压力下，身体可能出现很多毛病
 -
-【 losing weight 】 require 【 long-term persistence 】.
+【 losing weight 】 require 【 long-term 【 persistence 】 】.
 减肥需要长期的坚持
 -
 Do you 【 suffer from 】 【 insomnia 】?
@@ -551,6 +560,7 @@ Do you 【 have trouble with 】 【 insomnia 】?
 在长期的压力下，身体可能出现很多毛病
 减肥需要长期的坚持
 我们应该坚持锻炼和学习
+我们应该养成吃饭前洗手的习惯
 -
 我感到很无聊，因为这节课很无聊
 一个无聊的工作会让你感到无聊吗？
@@ -585,7 +595,7 @@ I'm sorry to 【 interrupt 】, Did I 【 disturb 】 you?
 I 【 usually 】 【 recite 】 English 【 sentences 】.
 我通常是背英语句子
 -
-I 【 practice 】 oral/spoken English through 【 reciting 】 English articles.
+I 【 practice 】 oral/spoken English 【 through 】 【 reciting 】 English articles.
 我通过背诵英语文章练习英语口语
 -
 // -
@@ -702,8 +712,12 @@ This is his 【 hobby 】, not his 【 habit 】.
 We should 【 develop the habit 】 of washing hands before eating.
 我们应该养成吃饭前洗手的习惯
 -
+Under 【 long-term 】 【 stress / pressure 】, the body 【 may 】 【 develop 】 many 【 health problems 】.
+在长期的压力下，身体可能出现很多毛病
+-
 // -
 // habit 习惯
+// hobby 爱好
 // -
 // go to bed.
 // get up.
@@ -712,6 +726,11 @@ We should 【 develop the habit 】 of washing hands before eating.
 // 【 habit 习惯 】
 // -
 // 【 develop a habit. 养成习惯 】
+// 【 form a habit. 养成习惯 】
+// -
+// develop 发展 养成 出现 开发 v
+// develop 养成 v
+// develop 出现 v
 
 
 2
@@ -734,6 +753,7 @@ Thanks for your 【 patience 】.
 Please wait 【 patiently 】.
 请耐心等待
 -
+I 【 have no patience 】 to wait for you 【 anymore 】.
 I 【 have no patience in waiting 】 for you.
 我没有耐心等你了
 -
@@ -748,7 +768,7 @@ I 【 have no patience in waiting 】 for you.
 
 
 4
-What 【 lesson 】 did we learn yesterday.
+What / Which 【 lesson 】 did we learn yesterday.
 我们昨天学的是第几课？
 // -
 // lesson 课 课程
@@ -760,8 +780,18 @@ What 【 lesson 】 did we learn yesterday.
 Shower has two 【 meanings 】.
 'shower'有两种意思
 -
+This word has 【 multiple 】 【 meanings 】 and multiple 【 uses 】.
+这个单词有多种意思和多种用法
+-
+// -
 // mean 意思 v
 // meaning 意思 n
+// -
+// 【 multiple meanings. 多种意思 】
+// -
+// 【 use 使用v 用法n 】
+// 【 usage 使用n 用法n 】
+// -
 // TIPS: Pay attention to the pronunciation of the word 'meaning'.
 
 
@@ -778,8 +808,17 @@ Shower has two 【 meanings 】.
 【 soak 】 【 soap 】 with water.
 用水侵泡肥皂
 -
+The heavy rain 【 socked 】 my whole body.
+暴雨把我全身都淋湿了
+-
+// -
 // soak 侵泡 v n
 // soap 肥皂 n
+// -
+// soaked 湿透的 adj
+// -
+// soak 侵泡 v
+// soaked 湿透的 adj
 
 
 8
@@ -798,20 +837,43 @@ It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars.
 I have already studied hard, but I haven't seen any 【 progress 】.
 我已经努力的学习了，但是没有看到任何进步
 -
-Do you think that you have 【 made progress in 】 English?
+Do you think you have 【 made progress in 】 English?
 你认为你的英语有进步吗？
 -
+in the 【 process 】 of learning, 【 progress 】 is 【 quite 】 slow.
+在学习【过程】中，【进步】是相当缓慢的
+-
+The 【 approval 】【 process 】 is very slow.
+审批流程很慢
+-
+We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】.
+我们需要证明你的审批是合理的
+-
 // -
-// 【 progress 进步 进展 进程 n 】
+// 【 progress 进步 进展 v n 】
+// 【 process 过程 进行 流程 n 】
 // -
-// 【 progress bar. 进度条 】
-// -
+// - 1111111
 // 【 make progress. 进步 】
 // 【 make progress in. 在...方面取得进步 】
+// 【 progress 进步 进展 v n 】
+// 【 progress bar. 进度条 】
+// -
+// - 2222222
+// process 过程n 进程n 处理v
+// in the process of. ...的过程
+//
 // -
 // 【 as long as. 只要 / 和...一样长 】
 // -
 // make -> made
+// -
+// 【 prove 证明 】
+// 【 approve 批准 审核 v 】
+// 【 approval 批准 审核 n 】
+// -
+// 【 reasonable 合理的 adj 】
+// reason 原因
 // -
 // TIPS: Pay attention to the pronunciation of the word 'progress'.
 
@@ -821,6 +883,7 @@ Do you think that you have 【 made progress in 】 English?
 早睡早起是一个良好的习惯
 这是他的兴趣爱好，而不是他的习惯
 我们应该养成吃饭前洗手的习惯
+在长期的压力下，身体可能出现很多毛病
 -
 他的绩效在一个浮动的区间，而不是固定的值
 -
@@ -833,12 +896,18 @@ Do you think that you have 【 made progress in 】 English?
 -
 'shower'有两种意思
 汗水打湿了毛衣
+-
 用水侵泡肥皂
+暴雨把我全身都淋湿了
+-
 昨天起了冰雹，损坏了许多汽车
 -
 只要努力，学习就会取得进步
 我已经努力的学习了，但是没有看到任何进步
 你认为你的英语有进步吗？
+在学习【过程】中，【进步】是相当缓慢的
+审批流程很慢
+我们需要证明你的审批是合理的
 ```
 
 ##### 6 Make sentences 2024-04-14
@@ -1402,55 +1471,152 @@ AI翻译软件翻译的不是很准确
 如何解决发音不精确的问题？
 ```
 
-##### 9 Make sentences 2024-04-19
+##### 9 Make sentences 2024-04-21
 
 ```
+1
 How is your daughter's 【 academic performance 】?
 你女儿的学习成绩怎么样？
 -
 Dose reading 【 comics 】 【 affect 】 【 academic performance 】?
 看漫画会影响学习成绩吗？
 -
+Which 【 subject 】's 【 academic performance 】 is the best for you?
+你哪一门学科的学习成绩最好？
+-
 // -
-// academic 学术的 学业的 学校的 adj
 //【 academic performance. 学习成绩 】
+// academic 学术的 学业的 学校的 adj
 // -
 // academic 学术的 学业的 adj
 // comic 漫画
 // -
 // affect 影响 v ---------- 直接影响
 // influence 影响 v ------- 间接影响
+// -
+// 【 daughter 女儿 】
+// 【 doctor 医生 博士 】
+// -
+// 【 subject 学科 课程 主语 主题 】
+// -
+// 主语 subject
+// 谓语 predicate
+// 宾语 object
+// 定语 attributive
+// 状语 adverbial
+// 补语 complement
+
+2
+Can you 【 distinguish 】 which 【 painting 】 is 【 genuine / real 】?
+你哪一门学科的学习成绩最好？
+// -
+// 【 distinguish 区分 辨别 v 】
+// -
+// 【 painting 画 n / vIng 】
+// paint 画 涂
+// -
+// 【 genuine 真的 真正的 adj 】
+// 【 real 真正的 真实的 adj 】
+// really 真正地
+
+
+3
+Is five 【 greater than 】 three?
+5大于3吗？
+-
+Is three 【 smaller than / less than 】 five?
+3比5小吗？
+-
+Is three 【 equal 】 to three?
+3和3相等吗？
+-
+// -
+// greater than. 大于
+// less than. 小于
+// smaller than. 小于
+// -
+// 【 be equal to. 等于 】
+
+
+4
+Now 【 it's time to 】 【 go back to 】 the 【 restaurant 】 【 for 】 lunch.
+现在是回到餐厅吃午饭的时候了
+-
+Now 【 it's time to 】 【 go back home 】 to 【 do homework 】.
+现在是回家写作业的时间了
+-
+// -
+// 【 time to do sth. 是做某事的时候了 】
+// 【 go back to. 返回 回到 】
+// -
+// 【 do homework. 写作业 】
+// -
+// go back to school.
+// go back home.
+
+
+5
+Learning is a process of long-term persistence to make progress.
+学习是一个长期坚持以取得进步的过程
+-
+in the 【 process 】 of learning, 【 progress 】 is 【 quite 】 slow.
+在学习【过程】中，【进步】是相当缓慢的
+-
+Learning require 【 go through 】 【 a process of 】 【 long-term persistence 】 to 【 make progress 】.
+学习需要经过一个长期坚持的过程，才能取得进步
+-
+The 【 approval 】【 process 】 is very slow.
+审批流程很慢
+-
+【 As long as 】 work hard, you will 【 make progress in 】 your 【 studies 】.
+【 As long as 】 work hard, your study will make 【 progress 】.
+只要努力，学习就会取得进步
+-
+I have already studied hard, but I haven't seen any 【 progress 】.
+我已经努力的学习了，但是没有看到任何进步
+-
+Do you think you have 【 made progress in 】 English?
+你认为你的英语有进步吗？
+-
+// - 1
+// 【 process 过程n 进程n 流程n 处理v 】
+// 【 progress 进步 进展 v n 】
+// -
+// 【 approval process. 审批流程 】
+// -
+// in the process of. ...的过程
+// make progress in. 在...方面取得进步
+// - 2
+// 【 progress 进步 进展 进程 n 】
+// 【 progress bar. 进度条 】
+// -
+// 【 make progress. 进步 】
+// 【 make progress in. 在...方面取得进步 】
+// -
+// approve 批准 认可 同意 v
+// approve 批准 n
+// -
+// prove 证明
+// approve 批准v
+
+
+------- ------- ------- ------- ------- ------- -------
+你女儿的学习成绩怎么样？
+看漫画会影响学习成绩吗？
+你哪一门学科的学习成绩最好？
+-
+5大于3吗？
+3比5小吗？
+3和3相等吗？
+-
+现在是回到餐厅吃午饭的时候了
+现在是回家写作业的时间了
+-
+学习是一个长期坚持以取得进步的过程
+在学习【过程】中，【进步】是相当缓慢的
+学习需要经过一个长期坚持的过程，才能取得进步
+审批流程很慢
+只要努力，学习就会取得进步
+我已经努力的学习了，但是没有看到任何进步
+你认为你的英语有进步吗？
 ```
-
-
-
-你什么时候下班
-What time do you get off work?
-
-你几点上班？
-
-
-我今天休息
-我今天不上班
-我上了出租车，然后下了出租车，然后上了火车，最后下了火车
--
-除了晚上8-10点外，我都有空
-这家商店除了星期天每天都开门
-动物园除了有老虎外，还有狮子
-除了照顾孩子外，她还要工作
-除了每周的薪水外，我还能得到不少小费
--
-这是一部感动人的电影
-电影院，其他人可能会称之为电影院
--
-在长期的压力下，身体可能出现很多毛病
-减肥需要长期的坚持
-我们应该坚持锻炼和学习
--
-我感到很无聊，因为这节课很无聊
-一个无聊的工作会让你感到无聊吗？
--
-长期熬夜会导致失眠
-在长期的压力下，身体可能出现很多毛病
-减肥需要长期的坚持
-你有失眠困扰吗？

@@ -101,6 +101,7 @@
 - // quit 辞职 v
 - // quite 相当的 adj
 - // quiet 安静的 adj
+- // _【 quite quiet. 相当安静 】_
 - // -
 - // 【 understand 懂 了解 理解 】
 -
@@ -217,6 +218,10 @@
 - // -
 - // port 端口 港口
 - // plane 飞机
+- // -
+- // **【 harbor 港口 】**
+- // **【 port 港口 】**
+- // **【 airport 飞机场 】**
 -
 - BB.
 - `airport 飞机场`
@@ -226,6 +231,7 @@
 -
 - `plane 飞机` // plane airplane
 - `port 港口 端口` // airport
+- `harbor 港口`
 - **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
 - // -
 - // park 公园 停车 停放 v
@@ -268,7 +274,7 @@
 - `opposite 相反的`
 - **【 1. What's the 【 opposite 】 of 【 wet 】? 】** --------- [wet->dry]
 - **【 2. What's the 【 plural 】 of 【 leaf 】? 】** ---------- [leaf->leaves] // leave 离开 休假 // leaves 叶子
-- **【 3. What's the 【 past tense 】 of 【 leave 】? 】** ----- [leave->left]
+- **【 3. What's the 【 past tense 】 of 【 leave 】? 】** ----- [leave->left] [leave/leaves]
 -
 - BB.
 - `leave 离开 休假`

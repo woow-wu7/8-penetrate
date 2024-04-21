@@ -150,3 +150,70 @@
 - **【 【 pine cone 】 【 fell down 】 from the pine tree. 】**
 - // -
 - // fall -> fell
+
+###### 2024-04-20
+
+- 1
+- `和 sum`
+- `差 difference`
+- `积 product`
+- `商 quotient`
+-
+- `加 plus / add`
+- `减 minus / subtract`
+- `乘 times / multiply`
+- `除 divide`
+-
+- `等 equal`
+-
+- `大于 greater than.`
+- `小于 smaller than = less than.`
+-
+- 和 **【 【 The sum of 】 one 【 plus 】 one 【 equals / is 】 two. 】**
+- 差 **【 【 The difference of 】 nine 【 minus 】 three 【 equals 】 six. 】**
+- 积 **【 【 The product of 】 one 【 times 】 two is two. 】**
+- 商 **【 【 The quotient of 】 nine 【 divided by 】three is three. 】**
+-
+- 大于 **【 Is five 【 greater than 】 three? 】**
+- 小于 **【 Is three 【 smaller than / less than 】 five? 】**
+-
+- AA.
+- plus add
+- **【 One plus one 【 equals 】 two. 】**
+- **【 One plus one 【 is equal to 】 two. 】**
+- **【 One plus one is two. 】**
+- **【 One add one equals two. 】**
+- > What is one plus two?
+- > What is the result of one plus two?
+- > What's the sum of one plus one?
+-
+- BB.
+- minus subtract
+- **【 nine 【 minus 】 two 【 equals 】 seven. 】**
+- **【 nine 【 subtracted by 】 two equals seven. 】**
+- > What's the difference of nine minus two?
+-
+- CC.
+- times multiply
+- **【 Two 【 times 】 three equals six. 】**
+- **【 Two 【 multiplied by 】 three equals six 】**
+- > What's product of one times two?
+-
+- DD.
+- divide
+- **【 Ten 【 divided by 】 two equals five. 】**
+- > What's quotient of ten divided by two?
+-
+-
+- 111.
+- `time 时间 次数 乘以`
+- AA
+- `a waste of time. 浪费时间`
+- // It's 【 a waste of time 】 and 【 energy 】. 那是浪费【时间】和【精力】
+- // please don't waste time. 请不要浪费时间
+- // -- energy 精力 能量
+- BB
+- `times 专门用来表示 乘法 和 次数 --> (  表示乘法时都用 times )`
+- // one times one equals one.
+- // one times two equals two.
+- **【 I have been to Beijing three times. 我去过北京三次 】**

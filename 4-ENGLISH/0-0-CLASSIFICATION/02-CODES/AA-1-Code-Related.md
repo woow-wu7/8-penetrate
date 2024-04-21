@@ -1210,7 +1210,7 @@ https://vuejs.org/guide/introduction.html
 - //【 The product of 】 one 【 times 】 two is two.
 - //【 The quotient of 】 nine 【 divided by 】three is three.
 - CC
-- **【 I have been to Beijing three timess. 我去过北京三次 】**
+- **【 I have been to Beijing three times. 我去过北京三次 】**
 - **【 click once, then click twice. 】**
 -
 - 6

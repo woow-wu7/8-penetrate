@@ -969,6 +969,7 @@ Stay hungry, stay foolish! 求知若饥，虚心若愚
 
 ```
 captain 船长 机长
+staff captain. 副船长 // staff 员工
 group leader. 组长
 team leader.
 group leader.
@@ -981,10 +982,17 @@ port 港口 -------- 常用 （ the port is used commonly. ）
 harbor 港口 ----- 内陆 小港口
 continent 大陆
 -
-distinguish 辨别
+distinguish 区分 辨别
 -
 greater than. 大于
 less than. 小于
+smaller than. 小于
+equal
+sum ------------- add plus
+difference ------ minus
+product --------- times
+quotient -------- divided by
+-
 -
 Pacific ocean. 太平洋
 Atlantic ocean. 大西洋
@@ -1032,4 +1040,29 @@ Opinion 意见
 -
 What is your most proud matter / event / thing?
 What is the thing that you are most proud of?
+```
+
+### Lesson 13 The greenwood Boys 绿林少年
+
+```
+occasion 场合
+-
+The singers will be arriving here tomorrow by train as usually, the specific arrival time is 9 o'clock
+-
+airline 航空公司
+airport 飞机场
+airplane  飞机
+-
+For what occasions do you wear solemnly?
+在什么场合你会穿着庄重？
+-
+two thirds.
+four fifths.
+-
+primitive man.
+primitive culture.
+primeval forest.
+-
+downpour
+crisp
 ```

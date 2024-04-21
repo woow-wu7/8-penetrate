@@ -1,4 +1,20 @@
-###### (一) Sick
+# Sick
+
+- 1
+- `surgeon 外科医生`
+- `internist 内科医生`
+-
+- `pediatrician 儿科医生`
+- `gynecologist 妇科医生`
+-
+- `dentist 牙医 牙医诊所`
+-
+- `doctor 医生`
+- `nurse 护士`
+- `paramedic 护理人员`
+- `pharmacist 药剂师`
+
+##### (一) Sick Old
 
 - 2024-01-20
 - 1
@@ -237,6 +253,7 @@
 1
 The Youngest patients
 // youngest 最年轻的
+// longest 最长的
 
 【 Our class is on a mission. We want to find out what a doctor does. 我们班正在执行一项任务。我们想知道医生是做什么的 】
 // mission 任务 使命
@@ -887,7 +904,7 @@ be allergic to 对...过敏
 My shoulders are stiff 我肩膀疼
 ```
 
-##### (四) Microorganism 微生物 // micro organism
+##### (五) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
@@ -1042,3 +1059,54 @@ vital 必不可少的adj 重要部分n
 
 ![](../../images/head.png)
 ![](../../images/body.png)
+
+##### (六) Some words
+
+```
+medical 医疗的 医学的 内科的 adj
+-
+clinic 诊所
+-
+physical 身体的 物理学的 adj / 体检n
+checkup 检查 体检
+-
+insure 投保 v
+insurance 保险 n
+-
+patient 病人n 有耐心的adj
+-
+swell 膨胀 肿胀 v
+hurt 伤害 疼痛 v
+burn 燃烧 烧伤 烫伤 v n
+cut 切割 v
+-
+injure 伤害 受伤 v
+injured
+-
+break
+-
+sore thought.
+cough. 咳嗽
+runny nose. 流鼻涕
+sneeze 打喷嚏
+-
+lethargic 无精打采的
+drowsy 昏昏欲睡
+-
+vomit 呕吐
+throw  up. 呕吐
+-
+nauseous 恶心的
+diarrhea 腹泻
+itch 痒
+-
+chill 寒冷的
+hot flash 超热
+infect 传染
+stuffy 鼻塞 不通气的 adj
+clogged 鼻塞
+ache 疼痛
+stiff 僵直的
+-
+joint 关节n 联合的
+```
