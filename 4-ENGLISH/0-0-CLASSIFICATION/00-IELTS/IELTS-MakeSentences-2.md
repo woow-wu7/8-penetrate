@@ -716,21 +716,23 @@ Under 【 long-term 】 【 stress / pressure 】, the body 【 may 】 【 deve
 在长期的压力下，身体可能出现很多毛病
 -
 // -
+// 【 develop a habit. 养成习惯 】
+// 【 form a habit. 养成习惯 】
+// -
+// develop 发展 【 养成 】【 出现 】 开发 v
+// develop 养成 v
+// develop 出现 v
+-
 // habit 习惯
 // hobby 爱好
 // -
 // go to bed.
 // get up.
+// stay up late.
 // -
 // 【 hobby 爱好 】
 // 【 habit 习惯 】
 // -
-// 【 develop a habit. 养成习惯 】
-// 【 form a habit. 养成习惯 】
-// -
-// develop 发展 养成 出现 开发 v
-// develop 养成 v
-// develop 出现 v
 
 
 2
@@ -793,6 +795,7 @@ This word has 【 multiple 】 【 meanings 】 and multiple 【 uses 】.
 // 【 usage 使用n 用法n 】
 // -
 // TIPS: Pay attention to the pronunciation of the word 'meaning'.
+// TIPS: Pay attention to the pronunciation of the word 'uses'.
 
 
 6
@@ -805,10 +808,10 @@ This word has 【 multiple 】 【 meanings 】 and multiple 【 uses 】.
 
 
 7
-【 soak 】 【 soap 】 with water.
+【 soak 】the 【 soap 】 with water.
 用水侵泡肥皂
 -
-The heavy rain 【 socked 】 my whole body.
+The 【 torrential rain 】 【 socked 】 my whole body.
 暴雨把我全身都淋湿了
 -
 // -
@@ -819,6 +822,16 @@ The heavy rain 【 socked 】 my whole body.
 // -
 // soak 侵泡 v
 // soaked 湿透的 adj
+// -
+// light rain. 小雨
+// moderate rain. 中雨
+// heavy rain. 大雨
+// torrential rain. 暴雨
+// drizzle 毛毛雨
+// shower 雷阵雨
+// thunder shower. 雷阵雨
+// downpour 倾盆大雨
+// -
 
 
 8
@@ -833,6 +846,9 @@ It 【 hailed 】 yesterday and it 【 damaged 】 a lot of cars.
 【 As long as 】 work hard, you will 【 make progress in 】 your 【 studies 】.
 【 As long as 】 work hard, your study will make 【 progress 】.
 只要努力，学习就会取得进步
+-
+Learning is 【 a process of 】 【 long-term persistence 】 to 【 make progress 】.
+学习是一个长期坚持以取得进步的过程
 -
 I have already studied hard, but I haven't seen any 【 progress 】.
 我已经努力的学习了，但是没有看到任何进步
@@ -849,6 +865,10 @@ The 【 approval 】【 process 】 is very slow.
 We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】.
 我们需要证明你的审批是合理的
 -
+// -
+// make progress. 进步
+// make progress in. 在...方面有进步
+// in the process of. 在...过程中
 // -
 // 【 progress 进步 进展 v n 】
 // 【 process 过程 进行 流程 n 】
@@ -895,6 +915,7 @@ We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】.
 我们昨天学的是第几课？
 -
 'shower'有两种意思
+这个单词有多种意思和多种用法
 汗水打湿了毛衣
 -
 用水侵泡肥皂
@@ -903,6 +924,7 @@ We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】.
 昨天起了冰雹，损坏了许多汽车
 -
 只要努力，学习就会取得进步
+学习是一个长期坚持以取得进步的过程
 我已经努力的学习了，但是没有看到任何进步
 你认为你的英语有进步吗？
 在学习【过程】中，【进步】是相当缓慢的
@@ -1619,4 +1641,40 @@ Do you think you have 【 made progress in 】 English?
 只要努力，学习就会取得进步
 我已经努力的学习了，但是没有看到任何进步
 你认为你的英语有进步吗？
+```
+
+##### 10 Make sentences 2024-04-22
+
+```
+1
+We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】.
+We need to 【 maintain 】 the price 【 stable 】, not allowing it to 【 rise 】 or 【 fall 】.
+我们要保持价格的稳定，不让他上升和下降
+-
+// -
+// maintain 保持 维持 维护
+// keep 保持 ------------------- 范围更广
+// -
+// rise 上升
+// fall 下降
+// -
+// raise 增加 提高
+// rise 上升
+
+
+2
+You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】.
+你需要提前支付10%的定金
+-
+I plan to 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for buying the car.
+我打算取出所有存款去付买车的押金
+-
+// -
+// deposit 存钱v 存款n 押金n
+// -
+// ten percent. 10%
+// seventy-five percent. 75%
+// percent 一般用单数形式
+// -
+// 【 in advance. 提前 】
 ```

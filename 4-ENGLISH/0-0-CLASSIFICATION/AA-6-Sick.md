@@ -8,11 +8,128 @@
 - `gynecologist 妇科医生`
 -
 - `dentist 牙医 牙医诊所`
+- `vet 兽医 兽医诊所`
 -
 - `doctor 医生`
 - `nurse 护士`
 - `paramedic 护理人员`
+- `pharmacist 药剂师` // prescription 处方 // pharmacy 药店 // drugstore 药店
+-
+-
+- AA.
+- `surgeon 外科医生`
+- `internist 内科医生`
+- // inter 埋葬
+- // intern 实习生
+- // internship 实习 实习期
+- > 【 surgery 外科手术 n 】
+- > 【 operate 手术 n 操作 v 】// operate operation
+-
+- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other to 【 provide 】 【 comprehensive 】 【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供全面的治疗 】**
+- // -
+- // cooperate 合作 v
+- // provide 提供 v
+- // -
+- // 【 comprehensive 全面的 综合的 adj 】
+- // -
+- // cooperate 合作 v ----------- co + operate
+- // coexist 共存 v ------------- co + exist
+- //
+- // cooperation 合作 n --------- co + operation
+- // coexistence 共存 n --------- co + existence
+- // coincidence 巧合 n --------- co + incidence
+- // -
+- // > internship 实习 实习期 ---- intern + ship
+- // > scholarship 奖学金 ------- scholar + ship // scholar 学者
+- // > friendship 友谊 ---------- friend + ship
+- // > relationship 关系 -------- relation + ship
+- // > warship 军舰 ------------- war + ship
+- // -
+- // relation 关系 -------------- 强调事物之间的关系
+- // relationship 关系 ---------- 强调人与人之间的关系
+-
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `drugstore 药店`
+- `pharmacy 药房 药店`
 - `pharmacist 药剂师`
+- `prescription 处方 n`
+- `prescribe 开处方 v`
+-
+- `medicine 药 医学` ------- 什么药都可以
+- `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
+- `traditional Chinese medicine. 中药`
+- `oral medicine. 口服药`
+-
+- `inject 注射`
+- `ointment 药膏`
+-
+- `capsule 胶囊`
+- `pill 药丸`
+- `tablet 药片 平板 碑`
+-
+-
+- AA.
+- `pharmacist 药剂师`
+- `pharmacy 药店` // drugstore
+- `prescription 处方`
+- `medication 药` // medicine
+- **【 【 Patients 】 need to take the 【 prescription 】 【 prescribed 】 by 【 pharmacists 】 to the 【 pharmacy 】 to get 【 medication 】. 患者需要用药剂师开的处方去药房拿药 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- 3
+- [SYMPTOM]
+- `headache 头痛`
+- `toothache 牙痛`
+- `backache 背痛`
+- `earache 耳痛`
+- `stomachache 胃痛`
+- `tummy hurts. 肚子痛`
+-
+- `code 感冒`
+- `fever 发烧`
+- `cough 咳嗽 v n`
+- `dizzy 头晕 adj`
+- `swell 肿胀 v`
+- `inflammation 发炎 炎症 n`
+- `runny nose. 流鼻涕`
+- `blocked nose. 鼻塞`
+- `sneeze 打喷嚏`
+- `sore throat. 嗓子疼`
+- `joint pain. 关节痛`
+-
+- `nausea 恶心 n` // nauseous 恶心的 adj
+- `vomit 呕吐v 呕吐物n`
+- `throw up. 呕吐`
+- `diarrhea 腹泻 n`
+- `itch 痒 v n`
+-
+-
+-
+-
+-
+-
+-
+-
+- 4
+- `microorganism 微生物 n`
+- `organism 生物 n`
+- `germ 细菌`
+- `bacteria 细菌`
+- `fungus 真菌`
+- `virus 病毒`
 
 ##### (一) Sick Old
 

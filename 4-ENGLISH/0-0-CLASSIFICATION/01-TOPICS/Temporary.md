@@ -1065,4 +1065,63 @@ primeval forest.
 -
 downpour
 crisp
+-
+performance bonus. 绩效奖金
+attributive clause.
+adverbial clause.
+-
 ```
+
+### Lesson 14 Do you speak English?你会讲英语吗？
+
+- `amuse 娱乐 逗笑 v`
+- `amusing 有趣的 好笑的 adj`
+-
+- `france 法国`
+- `french 法语n 法国人n 法国的adj`
+-
+- _【 drive on. 继续开车 】_
+- _【 not at all. 一点也不 】_
+- _【 apart from. 除了 】_
+- _【 "neither of..." ：表示“两者都不”“没有一个......”。 】_
+
+-
+- // -- few 很少，几乎没有
+- // -- a few 一些，几个
+-
+- `wave 挥手v 浪n`
+-
+- `lift 举起n 电梯n 搭便车n`
+- `elevator 电梯`
+- `escalator 扶梯`
+-
+- `get in(into) / get out of.` ---- taxi car
+- `get on / get off.` ------- train bus plane
+- `get to work.`
+- `get off work.`
+-
+- `said` // TIPS: Pay attention to the pronunciation of the word 'said'.
+-
+-
+- “I'm always here waiting for you.” 更加强调正在进行的等待动作。
+- “I'm always here to wait for you.” 则稍微强调了等待的目的是为了等待对方。
+-
+- **【 apart from. 除了 】**
+- **【 except 除了 】**
+- **【 In addition to. 除了 】**
+- “apart from” 的用法较为灵活。
+- “except” 侧重于排除。
+- “in addition to” 侧重于添加。
+
+-
+- [learn->learnt]
+- He waved to a driver for a lift to go on a journey.
+- Have you had some/any experiences related to taking care of children?
+- `Learning  is a process of long-term persistence to make progress.`
+-
+- **【 let alone. 更不用说 】**
+- literally sleepy/tired
+- exactlly sleepy
+- definitely sleepy
+
+###

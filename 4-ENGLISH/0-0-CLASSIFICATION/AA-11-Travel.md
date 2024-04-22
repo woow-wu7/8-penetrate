@@ -251,6 +251,7 @@
 - _【 ask for 【 personal 】 leave. 请事假 】_
 -
 - _【 go on vacation. = go for a vacation. 去度假 】_
+- _【 take a tavel. = make a travel. = go on a journey. 去旅行 】_
 -
 - > 1. What did you do 【 on your vacation 】?
 - > 2. Do you plan to 【 go on a vacation 】? 度假

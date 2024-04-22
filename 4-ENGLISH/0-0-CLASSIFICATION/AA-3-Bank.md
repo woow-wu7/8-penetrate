@@ -2,6 +2,30 @@
 
 ##### Summarize
 
+- [The-words-that-are-easy-to-forget.容易忘记的词]
+- AA.
+- stable 稳定的 牢固的
+- decent 体面的
+- // 1. For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job.
+- // 2. We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】.
+- // -- stable 稳定的
+- // -- unstable 不稳定的
+- // -- rise 上升
+- // -- fall 下降
+- BB.
+- deposit 存钱 v 存款 n 定金 n
+- in advance. 提前
+- // You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10% 押金
+- // I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for buying a car.
+- // The machine can 【 deposit money 】 and 【 withdraw money 】.
+- CC.
+- president 总统
+- // The two 【 presidents 】 【 issued 】 a 【 joint statement 】
+- DD.
+- in advance. 提前
+- // You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金
+- // She finished the work 【 in advance 】. 她提前完成了工作
+
 - 1
 - `bank 银行 堤岸`
 - `branch 分行 分支 分部`
@@ -16,9 +40,9 @@
 - // fun fund refund found
 - // fund pension
 - // manage management manager
-- //【 housing fund. 住房公积金 】
-- //【 education fund. 教育基金 】
-- //【 mortgage loan. 房贷 】
+- // _【 housing fund. 住房公积金 】_
+- // _【 education fund. 教育基金 】_
+- // _【 mortgage loan. 房贷 】_
 - // TIPS: Pay attention to the pronunciation of the word 'housing'.
 -
 - _【 banking term. 银行术语 】_
@@ -30,7 +54,7 @@
 -
 - _【 financial statement. 财务报表 】_
 - _【 joint statement. 联合声明 】_
-- _【 make a statement. 发表声明 】_ = issue a statement. = make a declaration.
+- _【 make a statement. = issue a statement. = make a declaration. 发表声明 】_
 - _【 make a joint statement. 发表联合声明 】_
 -
 - _【 river bank. 河岸 】_
@@ -51,8 +75,9 @@
 - **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 - **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
 - //
-- // -- `stable 稳定的`
 - // -- `decent 体面的`
+- // -- `stable 稳定的`
+- // -- `unstable 不稳定的`
 - // -- // TIPS: Pay attention to the pronunciation of the word 'stable'.
 - //
 - // -- decent 体面的
@@ -212,6 +237,7 @@
 - `checking account. 支票账户`
 - `savings account. 储蓄帐户`
 - **【 There are 【 two kinds of accounts 】: a 【 checking account 】 and a【 savings account. 】**
+- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - // -- a kind of. 一种
 - // -- two kinds of. 两种
 -
@@ -248,23 +274,43 @@
 -
 -
 - 5
-- `deposit 存钱v 押金n`
+- `deposit 存钱v 存款n 押金n`
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
 - deposit money. = put in money.
 - withdraw money. = take out money.
 - _【 deposit slip. 存款单 】_
 -
-- **【 A 10% 【 deposit 】 is payable 【 in advance 】. 预付 10%的定金 】**
+- AA.
+- deposit 存款 n
+- deposit 押金
+- **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for【 buying 】 a car. 取所有存款去付买车的押金 】**
+- **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
+-
+- **【 How much 【 deposit 】 do you have? 你有多少存款 】**
 - **【 【 fill out 】 a 【 deposit slip 】. 】**
+-
+- BB.
+- deposit 存钱 v
 - **【 The machine can 【 deposit money 】 and 【 withdraw money 】. 这个机器可以存钱和取钱 】**
+- **【 A 10% 【 deposit 】 is payable 【 in advance 】. 预付 10%的定金 】**
 - **【 I'm going to 【 take out 】 200$ from my bank account. 我要从我的银行账户里取出 200 美元 】**
+- // -
 - // in advance. 提前
-- //
-- // deposit 存钱 v 押金 n
-- // deposit slip. 存款单
-- //
+- // -
+- // deposit 存钱 v 存款 n 押金 n
+- // 【 deposit slip. 存款单 】
+- // -
 - // take out. 取出 = withdraw.
+- // -
+- // pay 工资 n 支付 v
+- // salary
+- // wage
+- // bonus
+- // benefit
+- // reward
+- // prize
+- // medal
 -
 -
 -
@@ -275,9 +321,13 @@
 - 6
 - `fund 基金`
 - `pension 养老金`
+-
 - _【 housing fund. 住房公积金 】_
 - _【 education fund. 教育基金 】_
+- _【 pension 养老金 】_
+-
 - _【 mortgage loan. 房贷 】_
+-
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - //
@@ -311,10 +361,11 @@
 -
 - _【 annual bonus. 年终奖 】_
 -
+- `salary 薪水` // -------- 长时间
+- `wage 工资` // ---------- 短时间
+- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
 - `bonus 奖金`
 - `reward 奖励`
-- `salary 薪水` // 长时间
-- `wage 工资` // 短时间
 - `benefit 福利`
 - `performance 绩效 表演`
 -
@@ -355,6 +406,7 @@
 - `expense 费用 支出 v n` -------- 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
 - `expensive 昂贵的 adj`
 - // 大多数情况 expenditure 和 expense 可以互换
+- _【 expensive expense. 昂贵的费用 】_
 -
 - `consume 消费 消耗 v`
 - `consumption 消费 消耗 n`
@@ -364,13 +416,14 @@
 -
 - > avenue 大街
 - > 【 revenue interest balance budget debt loan 】
-- > 【 salary wage performance bonus reward benefit 】
-- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
-- **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
--
-- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
--
+- > 【 salary wage pay performance bonus reward benefit 】
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
+-
+- **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
+- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
+-
+- balance 平衡
+- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
 -
 - **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
 - **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
@@ -387,7 +440,11 @@
 - 9
 - `balance 余额 平衡 n`
 - _【 check balance. 查看余额 】_
+-
+- balance 余额
 - **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
+-
+- balance 平衡
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
 -
 -
@@ -406,6 +463,10 @@
 -
 - _【 mortgage loan. 房贷 】_
 - _【 car loan. 车贷 】_
+-
+- _【 housing fund. 住房公积金 】_
+- _【 education fund. 教育基金 】_
+- _【 pension 养老金 】_
 -
 - _【 apply for a loan. 申请贷款 】_
 - _【 apply for a position. 申请职位 】_
@@ -441,24 +502,31 @@
 - `receipt 收据 发票`
 - > receipt
 - > debt
-- **【 Keep the 【 receipt 】 as proof of 【 purchase 】. 保存好收据作为购货凭证 】**
+- **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- // -
 - // proof 证明 证据 n
 - // debt 收据
 - // purchase 购买 v n
 - // TIPS: Pay attention to the pronunciation of the word 'receipt'.
 - // TIPS: Pay attention to the pronunciation of the word 'debt'.
-- //
+- // -
 - // purchase 购买 ----- 书面语
 - // buy 购买
+- // -
+- // proof 证明 证据 n
+- // roof 房顶
+- // ceil 天花板
 -
 -
 - 14
-- `stock 股票` // -- stock market. 股票市场
+- `stock 股票`
+- `stock market. 股票市场`
+- stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
 - _【 stock market. 股票市场 】_
-- **【 Many people don't like to invest in stocks. 许多人不喜欢投资股票 】**
+- **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 -
 -
 - 15
@@ -466,7 +534,9 @@
 - `financial 金融的 财务的 adj`
 - _【 finance department. 财务部门 】_
 - _【 financial statement. 财务报表 】_
+- _【 financial term. 金融术语 】_
 - **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
+- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
 -
 - 16
@@ -484,7 +554,7 @@
 - 17
 - `wallet 钱包` ------------ 小
 - `purse 钱包 资金` --------- 大，书面语，多用于女性
-- **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. wallet 和 purse 都可以用来装钱 】**
+- **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
 -
 -
 - 18
@@ -501,7 +571,7 @@
 - `budget 预算`
 - _【 go over budget. 超出预算 】_
 - > 【 revenue interest balance budget debt loan 】
-- > 【 salary wage performance bonus reward benefit 】
+- > 【 salary wage pay performance bonus reward benefit 】
 - **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
 - // -- consume 消费 v
 - // -- consumption 消费 n
