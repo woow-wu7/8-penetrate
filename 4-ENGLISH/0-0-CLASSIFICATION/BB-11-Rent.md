@@ -166,6 +166,7 @@ The earliest 【 appointment 】 to view the apartment is 1 PM tomorrow. // 预�
 // -- assistant 助理
 // -- attendant 服务员 乘务员
 
+
 4
 show you around. 带你参观
 // Let me show you around. 让我带你参观

@@ -1123,5 +1123,132 @@ adverbial clause.
 - literally sleepy/tired
 - exactlly sleepy
 - definitely sleepy
+-
+- tour
+- // tour guide
+- // tourist attraction. 旅行景点
+- // tourism industry. 旅行业
+- // industry 工业 行业
+- travel
+- // travel agency. 旅行社
+- // travel expense. 旅游费用
+- // -
+- // expense 消费 ------- 小费
+- // expenditure 消费---- 大
+- // income/revenue 收入
+- // revenue: salary/wage/interest 利息/interest rate.利率/performance bonus./tips/benefit 福利
+- // expenditure: mortgage loan/car loan./consumption 消费/
+- // --
+- // lift
+- // elevator 电梯
+- // escalator 电动扶梯
+- // handle
+- // --
+- journey
 
-###
+### Lesson 15 Good news 佳音
+
+```
+secretary 秘书
+assistant 助理
+attendant 服务员
+-
+secret
+visit
+-
+nervous 紧张的
+tense
+past tense.
+future tense.
+present test.
+-
+firm/company
+-
+afford 提供 承担得起 买得起
+```
+
+### Lesson 16 A polite request 彬彬有礼的要求
+
+```
+park 停车 公园
+// park you car in the park.
+-
+parking lot. 停车场
+parking spot. 停车位
+// You can park the car in the parking spot of/in the parking lot. 你可以把车停在停车场的停车位
+-
+have a traffic.
+have a bad traffic.
+-
+village
+town
+This is 【 an area 】 that links cities and towns
+-
+Sweden 瑞典
+run away. 逃跑
+【 run to sp. 跑到某个地点 】
+-
+No spitting.
+No leaning.
+-
+stay at home
+-
+close / intimate
+mate  配偶
+intimate
+classmate
+teammate
+-
+contact 联系 接触
+contract 合同
+connect
+-
+sign contract. 签订合同
+it's a sign.
+-
+sign
+signature
+assign
+assignment
+resign
+// homework
+// your phone has bad signal.
+-
+quit your job = resign from your job.
+taka a break, you will be/come/go back soon.
+-
+I signed a contract with the company.
+one catty
+How much is the watermelon per catty?
+-
+punish
+publish
+audience
+-
+furtive
+furtively
+-
+Green Giant.
+the flash.
+Iron Man.
+spider man.
+Batman
+-
+iron medal.
+-
+steel
+iron
+-
+You need to rest.
+God will bless you.
+God bless you with a good dream.
+-
+anti-fan 黑粉
+-
+medal 奖牌
+metal 金属 // rare metal. // rare material.
+model 模特 模型
+module 模块 // open source module. 开元模块
+-
+harvest
+```

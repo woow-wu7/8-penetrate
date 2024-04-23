@@ -490,6 +490,7 @@ safety notice. 安全标志
 -
 attendant 服务员 乘务员
 assistant 助理 助手
+secretary 秘书
 【 flight attendant. 乘务员 】
 -
 stair 楼梯

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // 1
+      // new
+      function Cons(...args) {
+        this.a = args;
+        return args.reduce((a, b) => a + b);
+      }
+
+      function _new(fn, ...args) {
+        const obj = Object.create(fn.prototype);
+
+        const res = fn.apply(obj, args);
+        return res instanceof Object ? res : obj;
+      }
+
+      const res1 = _new(Cons, 1, 2, 3);
+      const res2 = new Cons(1, 2, 3);
+
+      console.log("res1", res1);
+      console.log("res2", res2);
+
+      // 2
+      // Object.create 模拟实现
+      function _create(obj) {
+        function Temporary() {}
+        Temporary.prototype = obj;
+        Temporary.prototype.constructor = Temporary;
+
+        return new Temporary();
+      }
+
+      // 3
+      // bind
+      Function.prototype._bind = function (obj, ...outParameters) {
+        const context = obj ? obj : globalThis;
+
+        const self = this;
+
+        if (typeof self !== "function") {
+          throw new Error("bind must be 【 invoked 】 by a function");
+        }
+
+        function callbackFn(...inParameters) {
+          const totalParameters = [...outParameters, ...inParameters];
+
+          return self.apply(
+            this instanceof self ? this : context,
+            totalParameters
+          );
+        }
+
+        function Parasitism() {}
+        Parasitism.prototype = self.prototype;
+        Parasitism.prototype.constructor = Parasitism;
+
+        callbackFn.prototype = new Parasitism();
+        callbackFn.prototype.constructor = callbackFn;
+
+        return callbackFn;
+      };
+
+      // 4
+      // call
+      Function.prototype._call = function (obj, ...parameters) {
+        const context = obj ? obj : globalThis;
+
+        context.fn = this;
+        const callback = context.fn(...parameters);
+        Reflect.deleteProperty(context, "fn");
+        return callback;
+      };
+
+      // 5
+      // apply
+      Function.prototype._apply = function (obj, parameters) {
+        const context = obj ? obj : globalThis;
+
+        context.fn = this;
+
+        const res = context.fn(...parameters);
+        Reflect.deleteProperty(context, "fn");
+
+        return res;
+      };
+
+      // 6
+      // instanceof
+
+      function _instanceof(obj, cons) {
+        let curPrototype = obj.prototype;
+        while (curPrototype) {
+          if (curPrototype === cons.prototype) return true;
+          curPrototype = curPrototype.prototype;
+        }
+
+        return false;
+      }
+
+      // 7
+      // reduce
+      Array.prototype._reduce = function (callback) {
+        
+      };
+    </script>
+  </body>
+</html>

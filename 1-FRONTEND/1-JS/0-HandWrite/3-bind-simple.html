@@ -9,8 +9,39 @@
   <body>
     <script>
       // bind function implementation.
+      // - To 【 simulate 】 【 implementation 】 of 'bind' function.
       // - 简单版
       // - See details in the '3-bind.html' file.
+
+      // 1
+      // link
+      // [bind](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/1-JS/0-HandWrite/3-bind.html)
+
+      // 2
+      // To 【 simulate 】 【 implementation 】 of 'bind' function.
+      // bind 的模拟实现
+      // 作用:
+      //  - 1.绑定调用 bind函数 的函数中的this指向
+      //  - 2.返回一个新的函数，新的函数可以是普通调用，也可以是通过new的方式调用
+      // 参数:
+      //  - 1. 第一个参数是this需要绑定的对象，如果是 ( 空，null，undefined ) 则相当于传入 ( 全局对象window|global )
+      //  - 2. 除了第一个参数外，后面的参数会作为返回函数的参数传入
+      // 特点:
+      //  - 1. 返回的函数: 可以 ( 普通调用 )，也可以通过 ( new ) 的方式调用，即可还可以是 ( 构造函数 )
+      //    - 构造函数时:
+      //      - bind时绑定的this失效，因为在构造函数中，this指向的是实例对象
+      //      - 但是传入的参数有效
+      // - 2. 参数:
+      //   - bind时，可以传入部分或全部参数，bind返回的新的函数调用时还能传入其他的部分参数
+
+      // English
+      // -
+      // invoke 调用
+      // -
+      // parasitism 寄生 n
+      // parasitic 寄生的 adj
+      // -
+      // parameter 参数
 
       Function.prototype._bind = function (obj, ...outParams) {
         const context = obj ? obj : globalThis;
@@ -19,7 +50,7 @@
 
         // 兼容性 - bind必须通过函数调用
         if (typeof self !== "function") {
-          throw new Error("bind must be invoked by a function");
+          throw new Error("bind must be 【 invoked 】 by a function");
         }
 
         // 返回的函数: 有两种调用方式
@@ -39,9 +70,10 @@
 
         function Parasitism() {}
         Parasitism.prototype = self.prototype;
-        Parasitism.prototype.constructor = Parasitism;
+        Parasitism.prototype.constructor = Parasitism; // 直接修改 prototype 指向后，一般都需要修改constructor指向，防止出错
 
         bindReturnFn.prototype = new Parasitism();
+        bindReturnFn.prototype.constructor = bindReturnFn; // 直接修改 prototype 指向后，一般都需要修改constructor指向，防止出错
 
         return bindReturnFn;
       };

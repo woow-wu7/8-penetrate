@@ -8,6 +8,7 @@
   </head>
   <body>
     <script>
+      // AA.
       // bind 的模拟实现
       // 作用:
       //  - 1.绑定调用 bind函数 的函数中的this指向
@@ -22,6 +23,16 @@
       //      - 但是传入的参数有效
       // - 2. 参数:
       //   - bind时，可以传入部分或全部参数，bind返回的新的函数调用时还能传入其他的部分参数
+
+      // BB.
+      // English
+      // -
+      // invoke 调用
+      // -
+      // parasitism 寄生 n
+      // parasitic 寄生的 adj
+      // -
+      // parameter 参数
 
       Function.prototype._bind = function (obj, ...params) {
         const context = obj ? obj : globalThis;

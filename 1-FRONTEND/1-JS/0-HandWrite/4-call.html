@@ -8,6 +8,7 @@
   </head>
   <body>
     <script>
+      // 1
       // call 方法的模拟实现
       // - 作用: 绑定函数的this指向，并且在指定的作用域中执行该函数
       // - 参数:
@@ -34,11 +35,11 @@
       Function.prototype._call = function (obj, ...params) {
         const context = obj ? obj : globalThis;
 
-        obj.fn = this;
+        context.fn = this;
 
-        const res = obj.fn(...params);
+        const res = context.fn(...params);
 
-        Reflect.deleteProperty(obj, "fn");
+        Reflect.deleteProperty(context, "fn");
 
         return res;
       };
