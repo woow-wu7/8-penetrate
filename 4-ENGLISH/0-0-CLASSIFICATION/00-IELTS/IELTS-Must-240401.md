@@ -217,3 +217,10 @@
 - // one times one equals one.
 - // one times two equals two.
 - **【 I have been to Beijing three times. 我去过北京三次 】**
+
+###### 2024-04-24
+
+- 1
+- `contact 联系 接触 v`
+- `contract 合同`
+- `contrast 对比 对照 v`

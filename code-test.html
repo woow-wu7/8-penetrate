@@ -106,9 +106,138 @@
 
       // 7
       // reduce
-      Array.prototype._reduce = function (callback) {
-        
+      const arr22 = [2, 4, 5];
+      Array.prototype._reduce = function (callback, initialValue) {
+        if (typeof callback !== "function") {
+          throw new Error(`${callback} is not a function !`);
+        }
+
+        if (!Array.isArray(this)) {
+          throw new Error(
+            "The reduce function can only be invoked by an array"
+          );
+        }
+
+        let accumulator;
+        let index = 0;
+        const arr = this;
+
+        if (initialValue === undefined || initialValue === null) {
+          accumulator = this[0];
+          index = 1;
+        } else {
+          accumulator = initialValue;
+          index = 0;
+        }
+
+        for (let i = index; i < arr.length; i++) {
+          accumulator = callback(accumulator, arr[index], index);
+        }
+
+        return accumulator;
       };
+
+      const res22 = arr22.reduce((a, b) => a + b);
+      const res222 = arr22._reduce((a, b) => a + b);
+      console.log("res -> native function / original function", res22);
+      console.log("res2 -> handwrite", res22);
+
+      // 8
+      // Promise.all
+
+      Promise._all = function (args) {
+        return new Promise((resolve, reject) => {
+          const res = [];
+          const arr = Array.from(args);
+
+          arr.forEach((item) => {
+            Promise.resolve(item).then((value) => {
+              if (res.length < arr.length) {
+                res.push(value);
+              } else {
+                return resolve(res);
+              }
+            }, reject);
+          });
+        });
+      };
+
+      // 9
+      const arr333 = [
+        { id: 1, parentId: -1 },
+        { id: 2, parentId: 1 },
+        { id: 3, parentId: 1 },
+        { id: 4, parentId: 3 },
+        { id: 5, parentId: 4 },
+      ];
+
+      const array2tree = (arr) => {
+        const res = [];
+        const map = {};
+
+        arr.forEach((item) => {
+          map[item.id] = item;
+          item.children = [];
+        });
+
+        arr.forEach((item) => {
+          if (item.parentId == -1) {
+            res.push(item);
+          } else {
+            map[item["parentId"]].children.push(item);
+          }
+        });
+
+        return res.pop();
+      };
+
+      const res3333 = array2tree(arr333);
+      console.log("Array2Tree", res3333);
+
+      // 10
+      const tree5555 = [
+        {
+          id: 1,
+          children: [
+            {
+              id: 2,
+              parentId: 1,
+            },
+            {
+              id: 3,
+              parentId: 1,
+              children: [
+                {
+                  id: 4,
+                  parentId: 3,
+                },
+              ],
+            },
+          ],
+        },
+      ];
+
+      function treeToArray(tree) {
+        const res = [];
+
+        function recursion(arr) {
+          arr.forEach((item) => {
+            res.push(item);
+
+            if (item.children?.length > 0) {
+              recursion(item.children);
+              Reflect.deleteProperty(item, "children");
+            }
+          });
+        }
+
+        recursion(tree);
+
+        return res;
+      }
+
+      const res455 = treeToArray(tree5555);
+      console.log(`res`, res455);
     </script>
   </body>
 </html>

@@ -1678,3 +1678,35 @@ I plan to 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposi
 // -
 // 【 in advance. 提前 】
 ```
+
+##### 11 Make sentences 2024-04-23
+
+```
+1
+The reduce function can only be 【 invoked / called 】 by the array.
+reduce函数只能被数组调用
+-
+ToString is the 【 native / original 】 【 function/methods 】 of the array.
+toString是数组的原生方法
+-
+// -
+// invoke 调用
+// call 调用
+// -
+// native 天生的 天然的 本地的
+// origin 起源 源头
+// original 原来的adj 最早的adj 原件n
+// -
+// source 来源 源头
+// resource 资源 资料
+// native 天生的 天然的 本地的
+// origin 起源 源头
+// original 原来的adj 最早的adj 原件n
+
+
+2
+How many people learn English in the 【 group 】?
+群里有多少人学英语？
+-
+// group 组 群 队
+```
