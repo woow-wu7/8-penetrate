@@ -224,3 +224,29 @@
 - `contact 联系 接触 v`
 - `contract 合同`
 - `contrast 对比 对照 v`
+-
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `headmaster 男校长`
+- `headmistress 女校长`
+- `actor 男演员`
+- `actress 女演员`
+- `prince  王子`
+- `princess 公主`
+-
+- `president 总统`
+- `vice-president 副总统`
+- `principal 校长`
+- `vice-principal 副校长`
+-
+- `【 deputy 副手 副职 】`
+- `deputy manager. 副经理`
+- `deputy mayor. 副市长`
+- `deputy editor. 副编辑`
+- // TIPS: Pay attention to the pronunciation of the word 'deputy'.

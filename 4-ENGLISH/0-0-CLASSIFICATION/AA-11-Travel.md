@@ -1,5 +1,71 @@
 # travel 旅行 v n
 
+- ['EXPAND']
+- [AA.]
+- `【 resident 居民 n 】` // --------- 1. local resident. 本地居民 // 2. president resident
+- `【 residential 居住的 adj 】` // -- 1. residential address. 居住地址
+- `【 residence 住宅 n 】`
+-
+- `【 reside 居住于 v 】` ------------ 人
+- `【 inhabit 居住于 v 】` ----------- 动物 和 植物
+-
+- `【 resident 居民 】`
+- `【 president 总统 】`
+-
+- > president 总统
+- > student 学生
+-
+- `inhabit 居住于 v`
+- `inhibit 抑制 v`
+- `prohibit 禁止 v `
+-
+- `accommodation 住处 n`
+-
+- _【 local residents. 本地居民 】_
+- _【 residential address. 居住地址 】_
+-
+- resident
+- residence
+- √ **【 The 【 residences 】 of the 【 local residents 】 are very beautiful. 本地居民的住宅都很漂亮 】**
+- X **【 The residences is very beautiful of the local residents. 本地居民的住宅都很漂亮 】**
+-
+- reside
+- local resident.
+- residential address.
+- **【 He doesn't 【 reside 】 here, which means that he is not a 【 local resident 】 and also doesn't have fixed 【 residential address 】. 他不居住在这里，这意味着他不是本地居民，也没有固定的居住地址 】**
+-
+- reside
+- **【 Where do you reside? = Where do you live? 】**
+-
+-
+- [BB.]
+- `voyage 航行 航海 航天 v n`
+- _【 bon voyage. 一路顺风 】_
+- **【 Wish you have a smooth journey. 】**
+-
+- [CC.]
+- `coastal 沿海的 adj`
+- _【 coastal city. 沿海城市 】_
+- _【 first tire city. 一线城市 】_
+- _【 developed city. 发达城市 】_
+- _【 developing city. 发展中城市 】_
+- _【 developed country. 发达国家 】_
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+-
+- [DD.]
+- `president 总统`
+- `resident 居民`
+- **【 The 【 president 】 is giving a 【 speech 】 to the 【 redidents 】. 总统正在给居民做演讲 】**
+- **【 The 【 residents 】 are 【 voiting 】 for the 【 president 】. 居民正在给总统选举投票 】**
+- // -
+- // vote 投票
+- // speech 演讲
+- // -
+- // 【 give a speech. 做演讲 】
+-
+-
+-
+-
 - 1
 - `tour 旅游 旅行 v n`
 - `travel 旅游 旅行 v n` ----- 长时间的旅游
@@ -8,16 +74,17 @@
 - `destination 目的地`
 -
 - AA.
-- `tour 旅游 旅行 v n` // ----------------------- tour guide. // travel agency. // travel expense.
-- `tourist 游客` -------------- tour + ist // --- tourist attraction.
-- `tourism 旅游业` ------------ tour + ism // --- tourism industry.
+- `tour 旅游 旅行 v n` // --- tour guide. // travel agency. // travel expense.
+- `tourist 游客` ------------ tour + ist // --- tourist attraction.
+- `tourism 旅游业` ---------- tour + ism // --- tourism industry.
 - _【 tour guid. 导游 】_
 - _【 tourist attraction. 旅游景点/旅游胜地 】_ // attract attraction attractive
 - _【 tourism industry. 旅游业 】_ // industry 行业 工业
-- _【 travel to sp. 去...旅游 】_
 -
 - _【 travel agency. 旅行社 】_
 - _【 travel expense. 旅行费用 】_
+-
+- _【 travel to sp. 去...旅游 】_
 -
 - _【 expensive expense. 昂贵的费用 】_
 -
@@ -104,6 +171,9 @@
 - // _【 quite quiet. 相当安静 】_
 - // -
 - // 【 understand 懂 了解 理解 】
+- // -
+- // reside 居住于 // reside inhabit
+- // resign 辞职 // resign sign assign signature assignment
 -
 - CC.
 - `destination 目的地`
@@ -144,12 +214,16 @@
 - // -
 - // 【 activity 活动 n 】
 - // 【 active 积极的 主动的 adj 】
+- // -
 - // _【 active voice. 主动语态 】_
 - // _【 passive voice. 被动语态 】_
 - // -
 - // _【 past tense. 过去时 过去式 】_ // ----- tense 紧张 v / 紧张的 adj / 时态 n
 - // _【 present tense. 现在时 】_ // ---------- `intense competition. 激烈的竞争` // tense intense
 - // _【 future tense. 将来时 】_
+- // -
+- // _【 attributive clause. 定语从句 】_
+- // _【 adverbial clause. 状语从句 】_
 - // -
 - // _【 be active in. 在...方面很积极 】_
 - // -
@@ -180,6 +254,12 @@
 - `carry-on. 小行李箱`
 -
 - > 【 baggage claim. 行李领取处 领取行李 】
+-
+- `accommodation 住处 n`
+- `residence 住宅 住所 n`
+- `resident 居民 住户n / 居住的 adj`
+- _【 local residents. 本地居民 】_
+- _【 residential adderss. 居住地址 】_
 -
 - `check in. 登记入住 托运`
 - `carry-on. 小行李箱`
@@ -273,13 +353,16 @@
 - `past tense. 过去式 过去时`
 - `plural 复数的adj 复数n`
 - `opposite 相反的`
+- plural 复数
+- parallel 并行的
+- parallelogram 平行四边形
 - **【 1. What's the 【 opposite 】 of 【 wet 】? 】** --------- [wet->dry]
 - **【 2. What's the 【 plural 】 of 【 leaf 】? 】** ---------- [leaf->leaves] // leave 离开 休假 // leaves 叶子
 - **【 3. What's the 【 past tense 】 of 【 leave 】? 】** ----- [leave->left] [leave/leaves]
 -
 - BB.
 - `leave 离开 休假`
-- `leaves 叶子 - leaf的复数是leaves`
+- `leaves 叶子 - leaf的复数是leaves` // leaves is the plural of leaf.
 - _【 ask for leave. 请假 】_
 - _【 ask for 【 sick 】 leave. 请病假 】_
 - _【 ask for 【 personal 】 leave. 请事假 】_

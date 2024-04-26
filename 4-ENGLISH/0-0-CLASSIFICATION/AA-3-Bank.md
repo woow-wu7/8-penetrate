@@ -6,21 +6,55 @@
 - AA.
 - stable 稳定的 牢固的
 - decent 体面的
-- // 1. For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job.
+- // 1. For many people, 【 being 】 a【 bank clerk 】 is a 【 stable / steady 】 and 【 decent 】 job.
 - // 2. We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】.
+- // -
 - // -- stable 稳定的
 - // -- unstable 不稳定的
+- // -
 - // -- rise 上升
 - // -- fall 下降
+- // -- 【 Rise 】 is the opposite of 【 fall 】.
+- // -
+- // -- decent 体面的
+- // -
+- // -- 【 steady relationship. 稳定的关系 】
+- // -- 【 stable relationship. 稳定的关系 】
+- // -- 【 steady price. 稳定的价格 】
+- // -- 【 stable price. 稳定的价格 】
+- // -
+- // -- steady 稳定的 持续的 adj
+- // -- stable 稳定的 牢固的 adj
+-
 - BB.
 - deposit 存钱 v 存款 n 定金 n
 - in advance. 提前
-- // You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10% 押金
+- // You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金
 - // I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for buying a car.
 - // The machine can 【 deposit money 】 and 【 withdraw money 】.
+-
 - CC.
 - president 总统
 - // The two 【 presidents 】 【 issued 】 a 【 joint statement 】
+- // -
+- // -- headmaster 男校长
+- // -- headmistress 女校长
+- // -
+- // -- principal 校长
+- // -- vice-principal 副校长
+- // -
+- // -- president 总统
+- // -- vice-president 副总统
+- // -
+- // -- prince
+- // -- princess
+- // -
+- // -- actor
+- // -- actress
+- // -
+- // -- headmaster
+- // -- headmistress
+-
 - DD.
 - in advance. 提前
 - // You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金
@@ -72,8 +106,7 @@
 -
 - **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
 -
-- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
-- **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
+- **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 - //
 - // -- `decent 体面的`
 - // -- `stable 稳定的`
@@ -143,7 +176,7 @@
 - `banking term. 银行术语` // term 学期 术语
 - `financial term. 金融术语`
 -
-- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+- **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
 - **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】** // term item
 - **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
@@ -199,11 +232,15 @@
 - `manage 管理 v`
 - `management 管理 n`
 - `manager 管理者 n`
+-
 - _【 fund manager. 基金经理 】_
+- _【 deputy manager. 副经理 】_ // deputy 副手 n 副的 adj
 - _【 bank manager. 银行经理 】_
 - _【 bank teller. 银行出纳员 】_
 - _【 bank clerk. 银行职员 】_
+-
 - _【 manage to do sth. 【设法】做成某事 】_
+-
 - **【 I 【 managed to finish 】 the report before the 【 deadline 】. 我设法在截止日期前完成了报告 】**
 - **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
 - // -- deadline 最后期限
@@ -494,6 +531,7 @@
 - _【 transaction successful. 交易成功 】_
 - **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
 - // complete 完成 v
+- // TIPS: Pay attention to the pronunciation of the word 'transaction'.
 - // TIPS: Pay attention to the pronunciation of the word 'completed'.
 -
 -
@@ -579,6 +617,18 @@
 - // -- expenditure 支出
 - // -- expense 费用
 - // -- consumption 消耗 小费 n
+-
+-
+-
+- 20
+- `contract 合同 n`
+- `contact 联系 v`
+- contrast 对比 对照 v
+- _【 sign a contract. 签合同 】_
+- _【 contract deadline. 合同期限 】_
+- **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
+- // TIPS: Pay attention to the pronunciation of the word 'contact'.
+-
 -
 -
 -

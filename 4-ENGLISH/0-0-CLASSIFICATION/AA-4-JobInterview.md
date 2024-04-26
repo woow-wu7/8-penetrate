@@ -339,6 +339,7 @@
 - 14
 - `contract 合同 n`
 - `contact 联系 v`
+- contrast 对比 对照 v
 - _【 contract deadline. 合同期限 】_
 - _【 sign a contract. 签合同 】_
 - **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
