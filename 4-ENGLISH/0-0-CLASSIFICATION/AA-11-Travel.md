@@ -2,7 +2,8 @@
 
 - ['EXPAND']
 - [AA.]
-- `【 resident 居民 n 】` // --------- 1. local resident. 本地居民 // 2. president resident
+- `【 reside 居住 v 】`
+- `【 resident 居民 n 】` // --------- 1. local resident. 本地居民 // 2. president resident student
 - `【 residential 居住的 adj 】` // -- 1. residential address. 居住地址
 - `【 residence 住宅 n 】`
 -
@@ -14,15 +15,30 @@
 -
 - > president 总统
 - > student 学生
+- > resident 居民
 -
 - `inhabit 居住于 v`
 - `inhibit 抑制 v`
 - `prohibit 禁止 v `
 -
+- `abroad 国外 adv adj n` --------- 强调地点
+- `foreign 国外的 adj` ------------ 强调性质和来源
+- `domestic 国内的 adj`
+-
 - `accommodation 住处 n`
 -
 - _【 local residents. 本地居民 】_
 - _【 residential address. 居住地址 】_
+-
+- _【 domestic flight. 国内航班 】_
+- _【 foreign flight. 国际航班 】_
+- _【 international flight. 国际航班 】_
+-
+- _【 domestic market. 国内市场 】_
+- _【 domestic flight. 国内航班 】_
+-
+- > 【 foreign company. 外企 】
+- > 【 foreign flight. 国外航班 】// domestic flight.
 -
 - resident
 - residence
@@ -55,13 +71,17 @@
 - [DD.]
 - `president 总统`
 - `resident 居民`
-- **【 The 【 president 】 is giving a 【 speech 】 to the 【 redidents 】. 总统正在给居民做演讲 】**
+- **【 The 【 president 】 is giving a 【 speech 】 to the 【 residents 】. 总统正在给居民做演讲 】**
 - **【 The 【 residents 】 are 【 voiting 】 for the 【 president 】. 居民正在给总统选举投票 】**
 - // -
 - // vote 投票
 - // speech 演讲
 - // -
 - // 【 give a speech. 做演讲 】
+- // -
+- // speech 演讲
+- // beach 沙滩 海滩
+- // sand 沙 沙滩
 -
 -
 -

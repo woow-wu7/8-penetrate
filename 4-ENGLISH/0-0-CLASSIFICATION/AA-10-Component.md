@@ -25,6 +25,8 @@
 - `attribute 属性`
 - `attributive 定语 定语的`
 - _【 attributive clause. 定语从句 】_
+- _【 adverbial clause. 状语从句 】_
+- _【 object clause. 宾语从句 】_
 - **【 What is the 【 working principle 】 of the 'scoped' 【 attribute 】 on the style tag in Vue? 】**
 - // -
 - // 【 working principle. 工作原理 】

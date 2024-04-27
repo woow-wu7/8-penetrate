@@ -3,14 +3,28 @@
 ##### Summarize
 
 - [The-words-that-are-easy-to-forget.容易忘记的词]
-- AA.
-- stable 稳定的 牢固的
-- decent 体面的
-- // 1. For many people, 【 being 】 a【 bank clerk 】 is a 【 stable / steady 】 and 【 decent 】 job.
-- // 2. We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】.
+- [AA.]
+- `【 cost 成本 费用 】`
+- `【 profit 利润 】`
+- > > cost / profit / revenue income / expenditure expense / interest / interest rate. / refund
+- > > salary wage / performance / benefit / balance / deposit / budget / consumption / consume
+- > > investment / stock / fund / bond / corn / bill / cash / receipt
+- **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
+- **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
+-
+- [BB.]
+- `【 charge 收费 要价 充电 v n 】`
+- **【 How much does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】**
+-
+- [CC.]
+- `【 stable 稳定的 牢固的 】`
+- `【 decent 体面的 】`
+- > 【 stable steady 稳定的 】
+- // 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable / steady 】 and 【 decent 】 job. 】**
+- // 2. **【 We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】. 】**
 - // -
-- // -- stable 稳定的
-- // -- unstable 不稳定的
+- // -- `stable 稳定的`
+- // -- `unstable 不稳定的`
 - // -
 - // -- rise 上升
 - // -- fall 下降
@@ -26,19 +40,24 @@
 - // -- steady 稳定的 持续的 adj
 - // -- stable 稳定的 牢固的 adj
 -
-- BB.
-- deposit 存钱 v 存款 n 定金 n
-- in advance. 提前
-- // You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金
-- // I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for buying a car.
+- [DD.]
+- `【 deposit 存钱 v 存款 n 定金 n 】`
+- `【 in advance. 提前 】`
+- // 1. **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金 】**
+- // 2. **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 【 for 】 【 buying 】 a car. 】**
 - // The machine can 【 deposit money 】 and 【 withdraw money 】.
 -
-- CC.
-- president 总统
-- // The two 【 presidents 】 【 issued 】 a 【 joint statement 】
+- [EE.]
+- `【 president 总统 】`
+- `【 resident 居民 】`
+- `【 reside 居住 v - 人 】`
+- `inhabit 居住 v - 动物`
+- // 1. **【 The 【 president 】 is giving a 【 speech 】 to the 【 residents 】. 总统正在给居民做演讲 】**
+- // 2. **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】 】**
 - // -
-- // -- headmaster 男校长
-- // -- headmistress 女校长
+- // -- headmaster 男校长 / headmistress 女校长
+- // -- prince / princess
+- // -- actor / actress
 - // -
 - // -- principal 校长
 - // -- vice-principal 副校长
@@ -46,18 +65,14 @@
 - // -- president 总统
 - // -- vice-president 副总统
 - // -
-- // -- prince
-- // -- princess
-- // -
-- // -- actor
-- // -- actress
-- // -
-- // -- headmaster
-- // -- headmistress
+- // -- `【 deputy 副手 副职 】`
+- // -- `deputy manager. 副经理`
+- // -- `deputy mayor. 副市长`
+- // -- `deputy editor. 副编辑`
 -
-- DD.
-- in advance. 提前
-- // You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金
+- [FF.]
+- `【 in advance. 提前 】`
+- // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
 
 - 1

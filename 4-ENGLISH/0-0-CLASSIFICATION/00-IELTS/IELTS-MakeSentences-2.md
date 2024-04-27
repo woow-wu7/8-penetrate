@@ -1710,3 +1710,57 @@ How many people learn English in the 【 group 】?
 -
 // group 组 群 队
 ```
+
+##### 12 Make sentences 2024-04-26
+
+```
+1
+Where do you 【 reside 】 and work?
+你在哪里居住和工作？
+-
+Animals are 【 inhabit 】 in forest, and people are 【 reside 】 in city.
+动物居住在森里，人类居住在城市
+-
+He 【 resides 】 abroad and 【 occasionally 】 【 lives in 】 the 【 domestic 】 country.
+他定居在国外，偶尔生活在国内
+-
+【 Local residents 】 【 reside 】 in the 【 local place 】.
+本地居民居住在本地
+-
+Do you work 【 in / for 】 a 【 foreign company 】?
+你在外企工作吗？// in在 for为
+-
+Have you ever worked in a 【 foreign company 】?
+你在外企工作过吗？
+-
+// -
+// reside 居住 v -------- 人
+// inhabit 居住 v ------- 动物
+// -
+// reside -------------- 定居
+// live ---------------- 生活
+// -
+// abroad 国外 adv adj n --- 强调地点
+// foreign 国外的 adj ------ 强调性质和来源
+// -
+// 【 foreign company. 外企 】
+// -
+// 【 reside abroad. 居住在国外 】
+// -
+// 【 domestic 国内的 】
+// foreign
+// abroad
+// -
+//【 Domestic Flight. 国内航班 】
+//【 International Flight. 国际航班 】
+// -
+// occasionally 偶尔
+
+
+2
+I 【 have been to 】 Beijing three times.
+我去过北京三次
+-
+I 【 have been to 】 Beijing 【 only 】【 once 】.
+我只去过北京一次
+```

@@ -34,7 +34,7 @@
 - `quotient 商(除法)`
 - `intelligence 智力 n`
 - _【 emotional quotient. 情商 】_ // -------- EQ
-- _【 intelligence quotient. 智商】_ // ---- IQ
+- _【 intelligence quotient. 智商】_ // ------ IQ
 - **【 Her 【 emotional quotient 】 and 【 intelligence quotient 】 are both very high. 她的情商和智商都很高 】**
 -
 -
@@ -158,16 +158,19 @@
 - `差 difference`
 - `积 product`
 - `商 quotient`
+- // emotional quotient. 情商 EQ
+- // intelligence quotient. 智商 IQ
 -
 - `加 plus / add`
 - `减 minus / subtract`
 - `乘 times / multiply`
 - `除 divide`
+- // multiple 多个的 adj 多种的 adj 倍数 n
 -
 - `等 equal`
 -
 - `大于 greater than.`
-- `小于 smaller than = less than.`
+- `小于 less than. = smaller than.`
 -
 - 和 **【 【 The sum of 】 one 【 plus 】 one 【 equals / is 】 two. 】**
 - 差 **【 【 The difference of 】 nine 【 minus 】 three 【 equals 】 six. 】**
@@ -176,6 +179,7 @@
 -
 - 大于 **【 Is five 【 greater than 】 three? 】**
 - 小于 **【 Is three 【 smaller than / less than 】 five? 】**
+- **【 Three is 【 greater than 】 two and 【 less than 】 four. 】**
 -
 - AA.
 - plus add
@@ -250,3 +254,31 @@
 - `deputy mayor. 副市长`
 - `deputy editor. 副编辑`
 - // TIPS: Pay attention to the pronunciation of the word 'deputy'.
+
+###### 2024-04-26
+
+- 1
+- `how long`
+-
+- [AA.]
+- **【 How long have you been 【 working 】here ? 你在这里工作多久了？ 】**
+- **【 How long have you been 【 learning 】 English? 你学英语多久了？ 】**
+- **【 How long have you been 【 waiting 】 【 for 】 me? 你等我多久了？】**
+- **【 How long have you been 【 living 】 【 in 】 this city? 你在这个城市生活多久了？】**
+- **【 How long have you been 【 running 】? 你跑步多久了？】**
+-
+- **【 How many years have you been 【 learning 】 English? 你学英语多久了？】**
+- **【 How many years have you being 【 working 】? 你工作多少年了 】**
+- // I have been working for five years.
+- // I have been learning English for five years.
+- // I have been running for 30 minutes.
+-
+- [BB.]
+- **【 How long have you 【 known 】 each other? 你们认识多久了？ 】**
+- **【 How long have you 【 had 】 these symptoms? 你出现这些症状多久了 】**
+- **【 How long have you 【 been 】 married? 你结婚多久了? 】**
+-
+-
+- **【 Are you married? 你结婚了吗？】** // -------- married 在这里是 adjective
+- **【 Have you 【 been 】 married? 你结婚了吗 】** // --- married 在这里是 verb
+- **【 How man years have you 【 been 】 married? 你结婚几年了？】**
