@@ -1842,24 +1842,42 @@ Who are you 【 looking at 】?
 Who are you 【 looking for 】?
 你在找谁呢？
 -
-Ary you 【 laughing at 】 me?
+Are you 【 laughing at 】 me?
 你在笑我？
+-
+Are you 【 joking with 】me?
+你在开我玩笑？
 -
 // -
 // talk 说话 谈话 v n
+// 【 talk about. 讨论 谈论 】
+// -
+// laugh at. 嘲笑
+// -
+// joke with sb. 开某人的玩笑
 
 
 2
 I will 【 explain 】 my 【 viewpoint 】 from three 【 aspects 】.
 我将从三个方面解释我的观点
+-
+Don't 【 complain about 】 me, I will 【 explain 】 the 【 reason 】 to you.
+不要抱怨我，我将向你解释原因
+-
 // -
 // explain 解释
 // viewpoint 观点
 // aspect 方面
+// -
+// 【 explain 解释 v 】
+// 【 complain 抱怨 v 】
+// 【 plain 平原n 纯的adj 】
+// -
+// 【 complain about. 抱怨... 】
 
 
 3
-This 【 piece of 】 music sounds very bad.
+This 【 piece of 】 music 【 sounds 】 very bad.
 这首音乐太难听了
 // -
 // a piece of music. 一首音乐
@@ -1869,7 +1887,8 @@ This 【 piece of 】 music sounds very bad.
 I have already received these 【 raw materials 】 【 of 】 this orders 【 witch 】 have been cancelled.
 我已经收到了这些已经被被取消订单的原材料
 // -
-// raw material. 原材料
+// 【 raw material. 原材料 】
+// raw 生的 未加工的 adj
 
 
 5
@@ -1900,7 +1919,7 @@ I need to improve my 【 proficiency 】 【 in 】 spoken English.
 = I need to improve my proficiency 【 of 】 spoken English.
 我需要提高我的英语口语熟练度
 -
-Your 【 spoken English 】 is quite 【 proficiency 】.
+Your 【 spoken/oral English 】 is quite 【 proficiency 】.
 你的口语很熟练啊
 -
 // proficiency 熟练 精通 n
@@ -1909,7 +1928,7 @@ Your 【 spoken English 】 is quite 【 proficiency 】.
 
 
 8
-I'm off today.
+I'm 【 off 】 today.
 我今天休息
 -
 I'm not working today.
@@ -1923,8 +1942,8 @@ What time do you 【 get to work 】?
 你几点上班？
 -
 // -
-// get off work. 下班
 // get to work. 上班
+// get off work. 下班
 
 
 9
@@ -1951,9 +1970,13 @@ Good evening.
 你在看谁呢？
 你在找谁呢？
 你在笑我？
+你在开我玩笑？
 -
 我将从三个方面解释我的观点
+不要抱怨我，我将向你解释原因
+-
 这首音乐太难听了
+你能帮我取一个英文名吗？
 我已经收到了这些已经被被取消订单的原材料
 -
 你的发音相当标准
@@ -1978,6 +2001,14 @@ perfect 这个单词如何发音?
 Did you have breakfast?
 Have you had breakfast?
 你吃早餐了吗
+-
+// -
+// have breakfast. 吃早餐
+// -
+// breakfast
+// lunch
+// brunch 早午餐
+// dinner
 
 
 2
@@ -1986,29 +2017,49 @@ Before 【 starting 】, you can ask me three questions first?
 
 
 3
-Can you 【 describe 】 the 【 entire 】 【 process of 】 the brushing teeth?
+Can you 【 describe 】 the 【 entire / whole 】 【 process of 】 【 brushing 】 teeth?
 你能描述一下刷牙的整个过程吗？
+-
+// -
+// entire
+// whole
 
 
 4
 with 具有 用 和
 // 4.1 具有
+// The little girl 【 with 】 long hair is her daughter.
 // 那个具有长发的小女孩是她的女儿
-// The little girl with long hair is her daughter.
 //
 // 4.2 用
+// I write 【 with 】 the pencil.
 // 我用铅笔写字
-// I write with the a pencil.
 //
 // 4.3 和
+// Thank you for learning English 【 with 】 me.
 // 谢谢你和我一起学习英语
-// Thank you for learning English with me.
 
 
 5
-take out. 取出 扔掉
-【 Remember to 【 take out the garbage 】 when you 【 go out 】. 出门的时候，记得把垃圾倒一下 】
-【 【 take out 】 the English book from your schoolbag. 从书包里取出你的英语书 】
+【 Remember to 【 take out the garbage 】 when you 【 go out 】.  】
+出门的时候，记得把垃圾倒一下
+-
+【 take out 】 the English book from your 【 schoolbag 】.
+从书包里取出你的英语书
+-
+// -
+// take out. 取出 扔掉
+// take out garbage. 倒垃圾
+// -
+// garbage 垃圾
+// -
+// schoolbag 书包
+// bag 包 袋
+// baggage
+// luggage
+// suitcase
+// -
+// remember to do sth. 记得去做某事
 
 
 6
@@ -2023,15 +2074,16 @@ What 【 topics 】 are you good at?
 
 
 7
+This is my first time coming here.
 This is the first time I've 【 gone 】 here.
 This is the first time I've 【 been 】 here.
-It's the first time I've gone here.
 这是我第一次来这儿
 
 
 
 ------- ------- ------- ------- ------- ------- -------
 你吃早餐了吗
+开始之前，你可以先问我三个问题
 你能描述一下刷牙的整个过程吗？
 -
 那个具有长发的小女孩是她的女儿
@@ -2040,4 +2092,9 @@ It's the first time I've gone here.
 -
 出门的时候，记得把垃圾倒一下
 从书包里取出你的英语书
+-
+你擅长哪些话题？
+你擅长哪些领域？
+-
+这是我第一次来这儿
 ```

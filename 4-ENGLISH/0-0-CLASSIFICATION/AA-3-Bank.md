@@ -15,8 +15,38 @@
 - [BB.]
 - `【 charge 收费 要价 充电 v n 】`
 - **【 How much does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】**
+- // parking lot. 停车场
+- // parking spot. 停车位
 -
 - [CC.]
+- `【 tax 税 税收 n v 】`
+- `【 individual income tax. 个人所得税 】` = personal income tax.
+- `【 housing property tax. 房产税 】`
+- `【 housing fund. 住房公积金 】`
+- **【 Everyone should 【 pay 】 their 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳个人所得税 】**
+- // -- individual 个人的 单独的 adj
+- // -- personal 个人的 私人的 adj
+-
+- [DD.]
+- `【 afford 买的起 负担得起v 】`
+- `【 owe 欠 v 】`
+- `own 拥有 v`
+- _【 own money. 欠钱 】_
+- **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
+- // -- although 虽然 尽管
+- // -
+- // -- owe 欠
+- // -- own 拥有 v 自己的 adj
+- // -
+- // -- afford 买得起
+-
+- [EE.]
+- `【 bond 债券 】`
+- `【 fund 基金 】`
+- `【 stock 股票 】`
+- **【 His 【 revenue 】 mainly comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+-
+- [FF.]
 - `【 stable 稳定的 牢固的 】`
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
@@ -40,18 +70,27 @@
 - // -- steady 稳定的 持续的 adj
 - // -- stable 稳定的 牢固的 adj
 -
-- [DD.]
+- [GG.]
 - `【 deposit 存钱 v 存款 n 定金 n 】`
 - `【 in advance. 提前 】`
-- // 1. **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金 】**
+- // 1. **【 You need to 【 pay 】 the 【 ten 【 percent 】 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金 】**
 - // 2. **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 【 for 】 【 buying 】 a car. 】**
-- // The machine can 【 deposit money 】 and 【 withdraw money 】.
+- // -- The machine can 【 deposit money 】 and 【 withdraw money 】.
+- // -- 注意 percent 都是用单数
 -
-- [EE.]
+- [HH.]
+- `【 maxed out. 刷爆 】`
+- max 最多的 adj 马克思 n
+- tax 税
+- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
+-
+- [II.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】`
-- `inhabit 居住 v - 动物`
+- `【 inhabit 居住 v - 动物 】`
+- `inhibit 抑制 v`
+- `prohibit 禁止 v`
 - // 1. **【 The 【 president 】 is giving a 【 speech 】 to the 【 residents 】. 总统正在给居民做演讲 】**
 - // 2. **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】 】**
 - // -
@@ -70,11 +109,42 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [FF.]
+- [JJ.]
+- `【 prohibit 禁止 v 】`
+- `【 inhibit 抑制 v 】`
+- `【 inhabit 居住 v - 动物 】`
+- reside 居住 -------- 人
+- resident
+- president
+- _【 prohibit doing sth. 禁止做某事 】_
+- _【 prevent sb from doing sth. 阻止某人做某事 】_
+- **【 Parking is 【 prohibited 】 in this area. 】** // prohibit
+- **【 The law 【 prohibit smoking 】in public places. 】** // prohibit
+- **【 High temperatures 【 inhibit 】 【 bacteria 】 growth. 】** // inhibit
+- **【 The buildings is now 【 inhabited 】 by birds. 】** // inhabit
+- // 【 tropical forest. 热带雨林 】
+- // 【 primeval forest. 原始森林 】
+- // -
+- // 【 primitive values. 原始值 】
+- // 【 primitive man. 原始人 】
+- // 【 primitive culture. 原始文化 】
+- // 【 primeval forest. 原始森林 】
+- // -
+- // 【 human civilization. 人类文明 】
+- // 【 alien civilization. 外星文明 】
+- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
+-
+- [KK.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
-
+-
+-
+-
+-
+-
+-
+-
 - 1
 - `bank 银行 堤岸`
 - `branch 分行 分支 分部`
@@ -507,6 +577,11 @@
 - 10
 - `loan 贷款`
 - `debt 债务`
+- **【 take out a loan. 贷款 】**
+- **【 apply for a loan. 申请贷款 】**
+- **【 mortgage loan. 房贷 】**
+-
+- **【 After 【 applying for a loan 】, you can 【 take out a loan 】 from bank. 申请贷款后，就可以向银行贷款 】**
 -
 - > debt
 - > receipt
@@ -574,6 +649,7 @@
 - 14
 - `stock 股票`
 - `stock market. 股票市场`
+- > stock bond fund
 - stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
@@ -788,6 +864,7 @@
 -
 - `refund 退款 v/n`
 - // fund 基金 资助
+- // bond 债券
 - // `We will refund your money to you in full. 我们将全额退款给您`
 -
 - PIN = personal identification number
@@ -873,6 +950,9 @@
 -
 - `fund 基金 资金`
 - `pension 养老金 退休金`
+- > 【 fund 基金 】
+- > 【 bond 债券 】
+- > 【 stock 股票 】
 - // **【 housing fund. 住房公积金 】**
 - //【 fund manager. 基金经理 】
 - // pension: She went to the post office to withdraw her pension. 她去邮局提取养老金
