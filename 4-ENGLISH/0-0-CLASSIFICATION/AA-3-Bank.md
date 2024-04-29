@@ -5,24 +5,29 @@
 - [The-words-that-are-easy-to-forget.容易忘记的词]
 - [AA.]
 - `【 cost 成本 费用 】`
-- `【 profit 利润 】`
+- `【 profit 利润 盈利 】`
 - > > cost / profit / revenue income / expenditure expense / interest / interest rate. / refund
 - > > salary wage / performance / benefit / balance / deposit / budget / consumption / consume
 - > > investment / stock / fund / bond / corn / bill / cash / receipt
+- _【 make a profit. 盈利 】_
 - **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
 - **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
+- **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 】**
+- // --【 make a profit. 盈利 】
+- // --【 barely 勉强 adv 】
 -
 - [BB.]
 - `【 charge 收费 要价 充电 v n 】`
-- **【 How much does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】**
-- // parking lot. 停车场
-- // parking spot. 停车位
+- **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】**
+- // -- parking lot. 停车场
+- // -- parking spot. 停车位
 -
 - [CC.]
 - `【 tax 税 税收 n v 】`
 - `【 individual income tax. 个人所得税 】` = personal income tax.
 - `【 housing property tax. 房产税 】`
 - `【 housing fund. 住房公积金 】`
+- `【 pension 养老金 】`
 - **【 Everyone should 【 pay 】 their 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
@@ -31,7 +36,7 @@
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
 - `own 拥有 v`
-- _【 own money. 欠钱 】_
+- _【 owe money. 欠钱 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
 - // -- although 虽然 尽管
 - // -
@@ -44,7 +49,7 @@
 - `【 bond 债券 】`
 - `【 fund 基金 】`
 - `【 stock 股票 】`
-- **【 His 【 revenue 】 mainly comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+- **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
 -
 - [FF.]
 - `【 stable 稳定的 牢固的 】`
@@ -399,7 +404,7 @@
 - `deposit 存钱v 存款n 押金n`
 - `deposit money. 存钱`
 - `withdraw money. 取钱`
-- deposit money. = put in money.
+- deposit money. = put in money. = save up money. 存钱
 - withdraw money. = take out money.
 - _【 deposit slip. 存款单 】_
 -

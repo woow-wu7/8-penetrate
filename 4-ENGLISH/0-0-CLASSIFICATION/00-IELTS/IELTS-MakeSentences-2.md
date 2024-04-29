@@ -1711,7 +1711,7 @@ How many people learn English in the 【 group 】?
 // group 组 群 队
 ```
 
-##### 12 Make sentences 2024-04-26
+##### 12 Make sentences 2024-04-29
 
 ```
 1
@@ -1763,4 +1763,51 @@ I 【 have been to 】 Beijing three times.
 -
 I 【 have been to 】 Beijing 【 only 】【 once 】.
 我只去过北京一次
+
+
+3
+I can 【 barely 】 understand what you are saying.
+我勉强能听懂你说什么
+-
+I can 【 barely 】 【 keep up with 】 your 【 pace 】.
+我勉强能跟上你的节奏
+-
+I can【 barely 】 【 make a profit 】 in the 【 stock market 】.
+我勉强能在股市中盈利
+-
+【 He's 】 spent a lot of time in 【 stock market 】, and 【 over time 】, He finally 【 make a profit 】.
+他花了很多时间在股市中，随着时间推移，他终于盈利了
+-
+I can 【 barely 】 pay my rent each month.
+我每个月几乎付不起房租
+-
+// -
+// 【 barely 勉强 adv 】
+// -
+// 【 barely 勉强 adv 】
+// bare 裸露的adj 裸露v
+// -
+// 【 keep up with. 跟上 】
+// -
+// 【 pace 节奏 步伐 速度 n 】
+// -
+// 【 make a profit. 盈利 】
+
+
+4
+【 I've 】 【 spent a lot of time on 】 my English learning.
+我花了很多时间在英语学习上
+-
+【 He's 】 spent a lot of time in 【 stock market 】, and 【 over time 】, He finally 【 make a profit 】.
+他花了很多时间在股市中，随着时间推移，他终于盈利了
+-
+// -
+// spend on. 花费...在上
+// -
+// I've = I have.
+// He's = he has.
+// -
+// 【 over time. 随着时间推移 】
+// -
+// 【 make a profit. 盈利 】
 ```
