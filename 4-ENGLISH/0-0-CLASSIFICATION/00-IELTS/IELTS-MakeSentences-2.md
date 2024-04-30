@@ -969,12 +969,17 @@ I fell 【 embarrassed 】 when I 【 forget 】 someone's name.
 当我忘记某人的名字时，我感到很尴尬
 -
 Don't 【 embarrass 】 me.
-别为难我
+别让我难堪
 -
 // -
 //【 embarrass 尴尬 为难 v 】
 // embarrassed 尴尬的 adj
 // embarrassing 令人尴尬的 adj
+--
+awkward 令人尴尬的
+// There was an awkward silence. 一阵令人尴尬的沉默
+// It was very awkward when she said no to him.
+--
 // -
 // > bored boring
 // > excited exciting
@@ -1810,4 +1815,26 @@ I can 【 barely 】 pay my rent each month.
 // 【 over time. 随着时间推移 】
 // -
 // 【 make a profit. 盈利 】
+```
+
+##### 13 Make sentences 2024-04-30
+
+```
+1
+It's really 【 embarrassing 】.
+真是太尴尬了
+-
+Don't 【 embarrass 】 me.
+别让我难堪
+-
+// -
+// 【 embarrass 尴尬 v 】
+// 【 embarrassed 尴尬的 adj 】
+// 【 embarrassing 令人尴尬的 adj 】
+// -
+// awkward 令人尴尬的
+// There was an awkward silence. 一阵令人尴尬的沉默
+// It was very awkward when she said no to him.
+
+
 ```

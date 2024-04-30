@@ -2,6 +2,43 @@
 
 ##### (1) The words that you mast know.
 
+- 1 [EXPAND]
+- `【 optimistic 乐观的 adj 】`
+- `【 pessimistic 悲观的 adj 】`
+- **【 He is a 【 optimistic 】 person. 他是一个乐观的人 】**
+- // -- She stays 【 optimistic 】, 【 despite 】 her condition. 即使身体很差，她也始终保持乐观
+- // -- Therefore, I think we should also 【 positive 】 and 【 optimistic 】attitude towards life.
+-
+- 2 [EXPAND]
+- `【 last 持续v 延续v 最后的adj 最后adv 】`
+- _【 last for. 持续 】_
+- **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
+- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
+- **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+-
+- 3 [EXPAND]
+- `【 conflict 冲突v 争执n 】`
+- _【 have a conflict with sb. 和某人发生冲突 】_
+- **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
+- // -- 【 have a conflict with sb. 和某人发生冲突 】
+-
+- 4 [EXPAND]
+- `【 requirement 需求 要求 】`
+- _【 product requirement. 产品需求 】_
+- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
+-
+- 5
+- `【 upgrade 升级 】`
+- _【 latest version. 最新版本 】_
+- **【 Please 【 upgrade 】 to the 【 latest version 】. 请升级到最新的版本 】**
+-
+-
+-
+-
+-
+-
+-
+-
 - 1
 - > 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 - > 【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】
@@ -729,6 +766,70 @@
 ##### (2) Some questions that must be asked.
 
 ```
+1. EXPAND
+What was 【 the size of 】 your team in the 【 most recent 】 job?
+最近一份工作你们团队的规模有多大？
+-
+What was 【 the size of 】 the team you 【 recently 】 【 collaborated 】 【 with 】?
+-
+What was 【 the size of 】 your 【 last company 】?
+你最后一家公司的规模有多大？
+-
+What is 【 the size of 】 the team that 【 you are in 】?
+你所在的团队规模有多大
+-
+// -
+// 【 the size of. ...的大小 】
+// 【 most recent. 最近的 】
+// -
+// 【 collaborate 合作 v 】
+// 【 cooperate 合作 v 】
+// -
+// 【 collaborate with. 和...合作 】
+// We should 【 collaborate with 】 other teams to achieve better results. 我们应该与其他团队合作以取得更好的结果
+
+
+2. EXPAND
+How long 【 will 】 the meeting 【 last 】?
+本次会议会持续多长时间？
+-
+How long 【 did 】 the meeting 【 last 】【 for 】? // for可加可不加
+本次会议持续了多长时间？
+-
+The movie 【 lasted for 】 two hours.
+电影持续了两个小时
+-
+The meeting 【 lasted for 】 【 an hour and a half 】.
+会议持续了一个半小时
+-
+// -
+// 【 last 持续v 延续v 最后的adj 最后adv 】
+// -
+// last 强调时间
+// continue
+// -
+// 【 last for. 持续 】
+// 【 The meeting 【 lasted for 】 【 an hour and a half 】.  会议持续了一个半小时 】
+
+
+3. EXPAND
+【 What would you do 】 if you 【 had a 【 conflict 】 with 】 the backend engineer?
+如果你和后端工程师发生冲突，你会怎么处理？
+-
+// -
+// conflict 冲突v 争执n
+// have a conflict with sb. 和某人有冲突
+
+
+4. EXPAND
+What 【 performance optimizations 】 have you done in code?
+你在代码方面做了哪些性能优化？
+-
+// -
+// 【 performance optimization. 性能优化 】
+
+
+
 1.
 The first question is 【 definitely 】 tell me a little bit about yourself.
 It's the most important step to 【 impress 】 the employer.

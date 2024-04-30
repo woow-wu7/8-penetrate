@@ -35,7 +35,7 @@
 - [DD.]
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
-- `own 拥有 v`
+- `own 拥有 v / 自己的 adj`
 - _【 owe money. 欠钱 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
 - // -- although 虽然 尽管
@@ -92,7 +92,7 @@
 - [II.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
-- `【 reside 居住 v - 人 】`
+- `【 reside 居住 v - 人 】` // reside resign
 - `【 inhabit 居住 v - 动物 】`
 - `inhibit 抑制 v`
 - `prohibit 禁止 v`
