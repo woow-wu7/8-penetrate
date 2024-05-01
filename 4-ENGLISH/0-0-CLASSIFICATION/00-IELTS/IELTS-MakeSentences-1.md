@@ -299,7 +299,7 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 I'm throwing the 【 trash 】 into the 【 trash can 】.
 我把垃圾扔进垃圾桶
 -
-【 Waste paper towels 】 are 【 recyclable waste 】.
+【 Waste paper towels 】 are 【 【 recyclable 】 waste 】.
 废纸巾是可回收垃圾
 -
 【 In principle, 】 【 littering 】 is 【 prohibited 】.
@@ -1136,8 +1136,8 @@ What's your relationship like with your boss?
 
 
 4
-I need to improve my 【 proficiency 】 【 in 】 spoken English.
-= I need to improve my proficiency 【 of 】 spoken English.
+I need to improve my 【 proficiency 】 【 in 】 【 spoken/oral 】 English.
+= I need to improve my 【 proficiency 】 【 of 】 【 spoken/oral 】 English.
 我需要提高我的英语口语熟练度
 -
 Your spoken English is quite 【 proficiency 】.
@@ -1276,7 +1276,7 @@ You are 【 wasting 】 【 precious 】 time.
 This 【 precious gift 】 is her most 【 precious memory 】.
 这个珍贵的礼物是她最珍贵的回忆
 -
-【 Waste paper towels 】 are 【 recyclable waste 】.
+【 Waste paper towels 】 are 【 【 recyclable 】 waste 】.
 废纸巾是可回收垃圾
 -
 // -
@@ -1478,7 +1478,7 @@ I don't know if it will run tomorrow.
 I'll 【 check it out 】 if the package has 【 arrived 】.
 我去检查一下包裹是否已经到了
 -
-Are 【 you interested in 】 the position? = Do you have a interest in this position?
+Are 【 you interested in 】 the 【 position 】? = Do you have a interest in this position?
 你这对个岗位是否感兴趣？
 -
 That sounds 【 interesting 】.
@@ -1488,7 +1488,7 @@ That sounds 【 interesting 】.
 // if 如果 是否
 // -
 //【 correct 正确的adj 改正v 】
-// make a decision. 做决定
+//【 make a decision. 做决定 】
 // -
 //【 be interested in. 对...感兴趣 】
 // -
@@ -1533,10 +1533,10 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 I'm throwing the 【 trash 】 into the 【 trash can 】.
 我把垃圾扔进垃圾桶
 -
-【 Waste paper towels 】 are 【 recyclable waste 】.
+【 Waste paper towels 】 are 【 【 recyclable 】 waste 】.
 废纸巾是可回收垃圾
 -
-What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue?
+What's the 【 working principle 】 【 of 】 the 'scoped' attribute 【 on 】 style tag 【 in 】 Vue?
 vue 中 style 标签上的 scoped 属性的工作原理？
 -
 // -
@@ -1560,17 +1560,19 @@ please 【 place 】 the book 【 in 】 its right 【 place 】.
 = please put the book in its right place.
 请把书放在正确的的地方
 -
-Please 【 place 】 the book 【 on 】 the 【 shelf 】.
+Please 【 place 】 the book 【 on 】 the 【 bookshelf 】.
 请把书放在书架上
 -
 // place 放置v 安放v 地方n 位置n
 // -
 // shelf 架子
+// 【 bookshelf 书架 】
+// -
 // TIPS: Pay attention to the pronunciation of the word 'shelf'.
 
 
 5
-You are 【 definitely 】 【 kidding 】 with me.
+You are 【 definitely 】 【 joking / kidding 】 with me.
 你绝对是在和我开玩笑
 -
 Are you kidding me?
@@ -1578,11 +1580,22 @@ Are you kidding 【 with 】 me?
 你在开玩我笑吧？
 -
 please don't kid with me.
-please don't 【 joke 】 with me.
+please don't 【 joke 】 【 with 】 me.
 请不要开我玩笑
 -
+// -
 // kid 小孩n 开玩笑v
 // joke 笑话n 开玩笑v
+// -
+// 【 joke with sb. 开某人玩笑 】
+// 【 laugh at sb. 笑某人 】
+// 【 look at sb. 看某人 】
+// 【 look for sb. 寻找某人 】
+// -
+// joke with.
+// laugh at.
+// look at.
+// look for.
 
 
 
@@ -1620,12 +1633,12 @@ Have you ever been to the 【 capital 】 of 【 Germany 】?
 I have been there three years ago.
 你去过德国的首都吗？
 // -
-// have been to. 去过(表经历)
+// 【 have been to. 去过(表经历) 】
 // capital 首都
 // Germany 德国
 // -
 // German 德国的 adj 德国人 n
-// Germany 德国 n
+// 【 Germany 德国 n 】
 
 
 2
@@ -1635,7 +1648,7 @@ I can 【 communicate with 】 others 【 in different ways 】, such as words, 
 You can't 【 beat/defeat 】 me 【 in the same way 】.
 你不可能用同样的方式打败我
 -
-We communicate by writing letters.
+We communicate 【 by 】 writing letters.
 我们用写信的方式进行沟通
 -
 You can【 declare 】 custom types 【 in two different ways 】.
@@ -1659,20 +1672,37 @@ You can【 declare 】 custom types 【 in two different ways 】.
 
 
 3
-Please 【 rest assured 】, I will not let you down.
+Please 【 rest assured 】, I will not 【 let you down 】.
 请放心，我不会让您失望的
+-
+I don't want to 【 let my parents down 】.
+我不想让我的父母失望
+-
+Will you 【 let your parents down 】 like this?
+你这样会让你父母失望吗？
+-
+// -
+// 【 let down. 使失望 】
+// 【 disappoint 是失望 】
+// -
+// 【 rest assured. 放心 】
+
 
 
 4
-This 【 option 】 is also possible.
+This 【 option 】 is also 【 possible 】.
 这个选项也可以
 // option 选项 选择 n
 // optional 可选的 adj
 
 
 5
-The 【 algorithm 】 uses 【 enumeration 】 to search all possible 【 solutions 】.
+The 【 algorithm 】 uses 【 enumeration 】 to search all 【 possible 】 【 solutions 】.
 该算法使用枚举来搜索所有可能的解决方案
+-
+Do you have any 【 solutions 】 to 【 solve 】 this problem?
+你有什么解决方案来解决这个问题吗？
+-
 // -
 // algorithm 算法
 // enumeration 枚举
@@ -1680,7 +1710,7 @@ The 【 algorithm 】 uses 【 enumeration 】 to search all possible 【 soluti
 //【 sorting algorithm. 排序算法 】
 //【 enumeration type. 枚举类型 】
 // -
-// solution 解决方案
+// 【 solution 解决方案 】
 
 
 6
@@ -1706,6 +1736,9 @@ This is the 【 correct 】 way to 【 traverse 】 the key attributes of an 【
 你可以【以两种不同的方式】【声明】自定义类型
 -
 请放心，我不会让您失望的
+我不想让我的父母失望
+你这样会让你父母失望吗？
+-
 这个选项也可以
 -
 该算法使用枚举来搜索所有可能的解决方案
@@ -1766,7 +1799,7 @@ There are 60 students in our class.
 
 
 3
-This is the 【 correct 】 way to 【 traverse 】 the 'key' attributes of an 【 enumeration 】 type.
+This is the 【 correct 】 way to 【 traverse 】 the 'key' 【 attributes 】 of an 【 enumeration 】 type.
 这是正确遍历枚举类型 key 属性的方法
 -
 This 【 algorithm 】 uses an 【 enumeration 】 to search all possible 【 solutions 】.
@@ -1816,17 +1849,24 @@ This course 【 is suitable for 】 【 beginners 】.
 //【 be suitable for. 适合于... 】
 // -
 // begin 开始
-// beginner 初学者
+//【 beginner 初学者 】
 
 
 2
-The 【 sponsor 】 【 donated 】 one 【 million 】 yuan to our company.
+The 【 sponsor 】 【 donated 】 one 【 million 】 yuan 【 to 】 our company.
 赞助商给我们公司捐赠了100万元
 // -
-// sponsor 赞助商
-// donate 捐助
+// 【 sponsor 赞助商 】
+// 【 donate 捐助 】
 // -
 // million 百万
+
+
+------- ------- ------- ------- ------- ------- -------
+这件西服很适合他
+这门课适合初学者
+-
+赞助商给我们公司捐赠了100万元
 ```
 
 ##### 14 Make sentences 2024-03-29
@@ -1855,13 +1895,18 @@ Are you 【 joking with 】me?
 // laugh at. 嘲笑
 // -
 // joke with sb. 开某人的玩笑
+// -
+// 1. look at.
+// 2. look for.
+// 3. laugh at.
+// 4. joke with.
 
 
 2
 I will 【 explain 】 my 【 viewpoint 】 from three 【 aspects 】.
 我将从三个方面解释我的观点
 -
-Don't 【 complain about 】 me, I will 【 explain 】 the 【 reason 】 to you.
+Don't 【 complain about 】 me, I will 【 explain 】 the 【 reason 】 【 to 】 you.
 不要抱怨我，我将向你解释原因
 -
 // -
@@ -1888,11 +1933,11 @@ I have already received these 【 raw materials 】 【 of 】 this orders 【 w
 我已经收到了这些已经被被取消订单的原材料
 // -
 // 【 raw material. 原材料 】
-// raw 生的 未加工的 adj
+// 【 raw 生的 未加工的 adj 】
 
 
 5
-Could you help me 【 choose 】 an English name?
+Could you help me 【 choose 】 【 an 】 English name?
 你能帮我取一个英文名吗？
 // choose 选择 挑选
 
@@ -1905,13 +1950,30 @@ How to 【 pronounce 】 the word 'perfect'?
 perfect 这个单词如何发音?
 -
 How to 【 spell 】 the word 'mediocrity'?
-如何拼写 mediocrity 这个单词？
+如何拼写 mediocrity 这个单词？ // mediocrity平庸n // mediocre 平庸的adj
+-
+We should 【 accept 】 our own 【 mediocrity 】.
+我们应该接受自己的平庸
+-
+We are all 【 mediocre 】 people.
+我们都是平庸的人
 -
 // standard 标准 水平 n
 // standard 标准的 adj
 // -
 // pronounce 发音 v
 // pronunciation 发音 n
+// -
+// mediocrity 平庸 普通 n
+// mediocre  平庸的 adj
+// -
+//【 mediocre person. 平庸的人 】
+// -
+// own 自己的adj 拥有v
+// owe 欠 v
+// -
+// TIPS: Pay attention to the pronunciation of the word 'mediocre'.  // adj
+// TIPS: Pay attention to the pronunciation of the word 'mediocrity'. // noun
 
 
 7
@@ -1919,7 +1981,7 @@ I need to improve my 【 proficiency 】 【 in 】 spoken English.
 = I need to improve my proficiency 【 of 】 spoken English.
 我需要提高我的英语口语熟练度
 -
-Your 【 spoken/oral English 】 is quite 【 proficiency 】.
+Your 【 spoken/oral English 】 is 【 quite 】 【 proficiency 】.
 你的口语很熟练啊
 -
 // proficiency 熟练 精通 n
@@ -1998,7 +2060,7 @@ perfect 这个单词如何发音?
 
 ```
 1
-Did you have breakfast?
+Did you have 【 breakfast 】?
 Have you had breakfast?
 你吃早餐了吗
 -
@@ -2012,7 +2074,7 @@ Have you had breakfast?
 
 
 2
-Before 【 starting 】, you can ask me three questions first?
+Before 【 starting 】, you can ask me three questions 【 first 】?
 开始之前，你可以先问我三个问题
 
 
@@ -2048,8 +2110,8 @@ with 具有 用 和
 从书包里取出你的英语书
 -
 // -
-// take out. 取出 扔掉
-// take out garbage. 倒垃圾
+// 【 take out. 取出 扔掉 】
+// 【 take out garbage. 倒垃圾 】
 // -
 // garbage 垃圾
 // -
@@ -2075,6 +2137,8 @@ What 【 topics 】 are you good at?
 
 7
 This is my first time coming here.
+It's my first time coming here.
+-
 This is the first time I've 【 gone 】 here.
 This is the first time I've 【 been 】 here.
 这是我第一次来这儿
@@ -2098,3 +2162,13 @@ This is the first time I've 【 been 】 here.
 -
 这是我第一次来这儿
 ```
+
++++++++++++++++++++
+我不确定这是否是正确的决定
+I can not sure if this is a correct decision.
+
+我不知道明天是否会下雨
+I don't know if it will rain tomorrow.
+
+我去检查一下包裹是否已经到了
+I will check the package if arrived.

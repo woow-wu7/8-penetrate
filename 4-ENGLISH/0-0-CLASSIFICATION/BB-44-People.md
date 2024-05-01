@@ -188,9 +188,13 @@ pilot 飞行员
 breakfast 早餐
 lunch 午餐
 brunch 早午餐 // brunch = breakfast + lunch
-supper 晚餐 // 非正式的晚餐
 dinner 晚餐 // 正式的晚餐
+supper 晚餐 // 非正式的晚餐
 
+chef 厨师
 box lunch. 盒饭
-meal 一餐 进餐 // The meal was amazingly cheap. 这餐饭便宜得出奇
+
+meal 一餐 进餐
+// How many 【 meals 】 do you 【 cook 】 every day? 你每天做几顿饭
+// The meal was amazingly cheap. 这餐饭便宜得出奇
 ```

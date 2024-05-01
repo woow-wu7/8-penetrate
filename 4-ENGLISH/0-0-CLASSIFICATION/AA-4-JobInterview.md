@@ -5,9 +5,22 @@
 - 1 [EXPAND]
 - `【 optimistic 乐观的 adj 】`
 - `【 pessimistic 悲观的 adj 】`
-- **【 He is a 【 optimistic 】 person. 他是一个乐观的人 】**
-- // -- She stays 【 optimistic 】, 【 despite 】 her condition. 即使身体很差，她也始终保持乐观
-- // -- Therefore, I think we should also 【 positive 】 and 【 optimistic 】attitude towards life.
+- `【 personality 性格 = character 】`
+- **【 He is an 【 optimistic 】 person and also a 【 freelancer 】. 它是一个乐观的人也是一个自由职业者 】**
+- **【 【 Optimistic 】 people and 【 pessimistic 】 people have different 【 personalities / characters 】. 乐观和悲观的人有不同的性格 】**
+- // -
+- // 【 personality 性格 】
+- // 【 character 性格 】
+- // 【 habit 习惯 】
+- // 【 destiny 命运 】
+- // 【 hobby 爱好 】
+- // -
+- // mistake 错误
+- // optimistic 乐观的 adj
+- // pessimistic 悲观的 adj
+- // -
+- // She stays 【 optimistic 】, 【 despite 】 her condition. 即使身体很差，她也始终保持乐观
+- // Therefore, I think we should also 【 positive 】 and 【 optimistic 】attitude towards life.
 -
 - 2 [EXPAND]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
@@ -27,10 +40,42 @@
 - _【 product requirement. 产品需求 】_
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 -
-- 5
+- 5 [EXPAND]
 - `【 upgrade 升级 】`
 - _【 latest version. 最新版本 】_
 - **【 Please 【 upgrade 】 to the 【 latest version 】. 请升级到最新的版本 】**
+-
+- 6 [EXPAND]
+- `【 freelancer 自由职业者 】`
+- lance 长矛
+- **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
+- **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
+-
+- 7 [EXPAND]
+- `【 lay off. 裁员 = layoff 】`
+- `【 economic crisis. 经济危机 】`
+- **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
+- **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】**
+- **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
+- // -
+- // crisis 危机
+- //【 economic crisis. 经济危机 】
+- // -
+- // marketing department. 市场部门
+- // finance department. 财务部门
+- // -
+- // lay -> laid
+- // -
+- // a number of. 一些
+- // a large number of. 大量的
+- // -
+- // quit 辞职 v
+- // resign 辞职
+-
+- 8 [EXPAND]
+- `【 architect 架构师 】`
+- > 【 software architect. 前端软件架构师 】
+- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 -
 -
 -
@@ -42,7 +87,7 @@
 - 1
 - > 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 - > 【 We use 【 small talk 】 to find common interests. 我们用闲聊来寻找共同的兴 】
-- > 【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】
+- > 【 Let's 【 start out 】 【 by 】 introducing ourselves. 让我们从自我介绍开始吧 】
 - `small talk. 闲聊`
 - _【 start out. 开始 】_
 - _【 roll out. 推出 】_
@@ -62,7 +107,7 @@
 - `burned out. 精疲力尽` // --- adj
 -
 - start out.
-- **【 Let's 【 start out 】 by introducing ourselves. 让我们从自我介绍开始吧 】**
+- **【 Let's 【 start out 】 by 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】**
 - **【 Let's 【 start with 】 introducing ourselves. 】**
 - **【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】**
 - // -- introduce 介绍 v

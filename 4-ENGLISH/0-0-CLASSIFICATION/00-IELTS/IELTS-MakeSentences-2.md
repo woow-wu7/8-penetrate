@@ -1835,6 +1835,8 @@ Don't 【 embarrass 】 me.
 // awkward 令人尴尬的
 // There was an awkward silence. 一阵令人尴尬的沉默
 // It was very awkward when she said no to him.
-
-
+// -
+// > bored boring
+// > excited exciting
+// > embarrassed embarrassing
 ```

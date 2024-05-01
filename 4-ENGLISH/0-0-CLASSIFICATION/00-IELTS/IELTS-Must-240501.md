@@ -1,0 +1,59 @@
+###### 2024-05-01
+
+- 1
+- `personality 性格 n` // character 性格 n
+- `habit 习惯`
+- `hobby 爱好`
+- `destiny 命运`
+- _【 develop a habit. 养成习惯 】_
+- **【 People 【 with 】 different 【 personalities 】 have different 【 hobbies 】 and 【 habits 】. 不同性格的人有不同爱好和习惯 】**
+- **【 Could you describe the 【 relationship 】 between 【 habit 】, 【 personality 】, and 【 destiny 】? 】**
+-
+- [AA.]
+- `【 personality 性格 】`
+- `【 destiny 命运 n 】`
+- **【 【 personality 】 【 determines 】 【 destiny 】. 性格决定命运 】**
+- // -- determine 决定
+- // -- It's used to 【 determine 】 【 whether 】 this object is the prototype object of the 【 parameter 】 object.
+-
+- [BB.]
+- `【 develop a habit. 养成习惯 】`
+- **【 We should 【 develop 】 the good 【 habit 】 【 of 】 【 washing hands 】 before 【 meals / eating 】. 养成吃饭前洗手的好习惯 】**
+- // -- 【 meal 进餐 v 一餐 n 】
+- // -- 【 meat 肉 】
+-
+- [CC.]
+- `【 meal 进餐v 一餐n 】` -------- 范围广，可以是任意一顿饭
+- `【 dinner 晚餐 正餐 n 】` ------ 侧重主餐，特别是晚上那顿主餐
+- **【 How many 【 meals 】 do you 【 cook 】 every day? 你每天做几顿饭？ 】**
+- **【 It's time for 【 meal 】. 现在是吃饭时间 】**
+- // -- 【 have a meal. 吃一顿饭 】
+- // -- three meals a day. 一日三餐
+-
+- [CC.]
+- `person 人`
+- `personal 个人的 adj`
+- `personally 亲自的 adv`
+- `personality 性格 n`
+- `interpersonal 人际关系的`
+- _【 personal privacy. 个人隐私 】_
+- _【 personal assistant. 个人助理 】_
+- _【 personal transportation. 个人交通工具 】_
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 private property. 私有财产 】_
+- _【 private conversation. 私人谈话 】_
+-
+- [DD.]
+- `interpersonal 人际关系的 adj` ---- inter + personal
+- `interchange 交换 v/n` ----------- inter + change
+- `interpreter 口译员` ------------- inter + preter
+- `interrupt 打断 中断` ------------- inter + rupt
+- -
+- `organize 组织 v`
+- `organization 组织 n`
+- `organizational 组织的 adj` // TIPS: Pay attention to the pronunciation of the 'organization'
+- -
+- _【 interpersonal skill. 人际交往能力 】_
+- _【 organizational skill. 组织能力 】_
+- _【 interchange station. = transfer station. 中转站 】_
+- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】. 我有出色的【人际交往能力】和【组织能力】 】**
