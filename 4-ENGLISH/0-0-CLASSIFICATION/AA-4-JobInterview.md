@@ -3,6 +3,52 @@
 ##### (1) The words that you mast know.
 
 - 1 [EXPAND]
+- `【 last 持续v 延续v 最后的adj 最后adv 】`
+- _【 last for. 持续 】_
+- **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
+- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
+- **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+-
+- 2 [EXPAND]
+- `【 lay off. 裁员 = layoff 】`
+- `【 economic crisis. 经济危机 】`
+- _【 lay off. = layoff. 裁员 】_
+- **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
+- **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】**
+- **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
+-
+- 3 [EXPAND]
+- `【 overtime 加班 】`
+-
+- 4 [EXPAND]
+- `【 intense 激烈的 强烈的 adj 】`
+- `【 cruel 残忍的 残酷的 adj 】`
+- `【 manifestation. 表现 n 】`
+- _【 intense competition. 激烈的竞争 】_
+- _【 cruel competition. 残酷的竞争 】_
+- _【 fair competition. 公平的竞争 】_
+- _【 a manifestation of. ...的表现 】_
+- **【 【 Working overtime 】 is 【 a manifestation of 】 【 cruel competition 】. 加班是残酷竞争的中一种表现 】**
+- // -- manifestation. 表现
+- // -- a manifestation of. ...的表现 ...的体现
+-
+- 5 [EXPAND]
+- `【 conflict 冲突v 争执n 】`
+- _【 have a conflict with sb. 和某人发生冲突 】_
+- **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
+- // -- 【 have a conflict with sb. 和某人发生冲突 】
+-
+- 6 [EXPAND]
+- `【 requirement 需求 要求 】`
+- _【 product requirement. 产品需求 】_
+- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
+-
+- 7 [EXPAND]
+- `【 architect 架构师 】`
+- > 【 software architect. 前端软件架构师 】
+- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
+-
+- 8 [EXPAND]
 - `【 optimistic 乐观的 adj 】`
 - `【 pessimistic 悲观的 adj 】`
 - `【 personality 性格 = character 】`
@@ -22,36 +68,18 @@
 - // She stays 【 optimistic 】, 【 despite 】 her condition. 即使身体很差，她也始终保持乐观
 - // Therefore, I think we should also 【 positive 】 and 【 optimistic 】attitude towards life.
 -
-- 2 [EXPAND]
-- `【 last 持续v 延续v 最后的adj 最后adv 】`
-- _【 last for. 持续 】_
-- **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
-- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
-- **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
--
-- 3 [EXPAND]
-- `【 conflict 冲突v 争执n 】`
-- _【 have a conflict with sb. 和某人发生冲突 】_
-- **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
-- // -- 【 have a conflict with sb. 和某人发生冲突 】
--
-- 4 [EXPAND]
-- `【 requirement 需求 要求 】`
-- _【 product requirement. 产品需求 】_
-- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
--
-- 5 [EXPAND]
+- 9 [EXPAND]
 - `【 upgrade 升级 】`
 - _【 latest version. 最新版本 】_
 - **【 Please 【 upgrade 】 to the 【 latest version 】. 请升级到最新的版本 】**
 -
-- 6 [EXPAND]
+- 10 [EXPAND]
 - `【 freelancer 自由职业者 】`
 - lance 长矛
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
-- 7 [EXPAND]
+- 11 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`
 - `【 economic crisis. 经济危机 】`
 - **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
@@ -72,10 +100,6 @@
 - // quit 辞职 v
 - // resign 辞职
 -
-- 8 [EXPAND]
-- `【 architect 架构师 】`
-- > 【 software architect. 前端软件架构师 】
-- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 -
 -
 -
@@ -363,6 +387,10 @@
 - 10
 - `personal 个人的 adj` --- person + al
 - `personnel 人事部门 n` -- person + nel
+- > personnel 人事部门
+- > personal 个人的
+- > personality 性格
+- > interpersonal 人际关系的
 - _【 sales director. 销售总监 】_
 - _【 personnel director. 人事总监 】_
 - **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
@@ -508,6 +536,8 @@
 -
 - 19
 - `pension 养老金`
+- `housing fund. 住房公积金`
+- `mortgagee loan. 房贷`
 - _【 pension plan. 养老金计划 】_
 - > // EE: 【 An amount of 】 money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill.
 - // -- 【 pension 养老金 】
@@ -666,7 +696,11 @@
 - `hard work. 努力工作`
 - `overwork 过度劳累`
 - `overtired 过度劳累`
+- > 【 work overtime. 加班 】
+- > 【 exhaust 筋疲力尽 】
+- > 【 burned out. = burn out. = burnout. 筋疲力尽 】
 - _【 burn out. 精疲力竭 】_
+- **【 【 working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽 】**
 - **【 【 Hard work 】 makes me 【 overwork 】. 】**
 - // -- overtired 过度劳累
 - // -- overwork = overtired.
@@ -679,7 +713,7 @@
 - **【 I fell 【 burned out 】 after finishing the race. 】** // ---- burned out. 做形容词
 - **【 I fell 【 burn out 】 after finishing the race.】** // ------- burned out. 做动词
 -
-- —
+-
 -
 -
 -

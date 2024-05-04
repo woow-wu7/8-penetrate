@@ -28,14 +28,17 @@
 - **【 How many 【 meals 】 do you 【 cook 】 every day? 你每天做几顿饭？ 】**
 - **【 It's time for 【 meal 】. 现在是吃饭时间 】**
 - // -- 【 have a meal. 吃一顿饭 】
-- // -- three meals a day. 一日三餐
+- // -- 【 three meals a day. 一日三餐 】
 -
 - [CC.]
 - `person 人`
 - `personal 个人的 adj`
 - `personally 亲自的 adv`
-- `personality 性格 n`
-- `interpersonal 人际关系的`
+- `【 personality 性格 n 】`
+- `【 interpersonal 人际关系的 】`
+- `【 personnel 人事部门 】`
+- > personal 个人的
+- > personnel 人事部门
 - _【 personal privacy. 个人隐私 】_
 - _【 personal assistant. 个人助理 】_
 - _【 personal transportation. 个人交通工具 】_
@@ -56,4 +59,88 @@
 - _【 interpersonal skill. 人际交往能力 】_
 - _【 organizational skill. 组织能力 】_
 - _【 interchange station. = transfer station. 中转站 】_
-- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】. 我有出色的【人际交往能力】和【组织能力】 】**
+-
+- > 【 reporter 记者 】
+- > 【 interpreter 口译员 】
+-
+- > interrupt 打断
+- > disturb 打扰
+-
+- **【 I have excellent 【 interpersonal skills 】 and 【 organizational skills 】, but my 【 creativity 】is not strong. 我有出色的【人际交往能力】和【组织能力】, 但是我的创造力不强 】**
+
+###### 2024-05-02
+
+- 1
+- `【 workload 工作量 】`
+- `【 workaholic 工作狂 adj n 】`
+-
+- `【 work overtime. 加班 】`
+- `【 mandatory overtime. 强制加班 】`
+- `【 overtime pay. 加班费 】`
+-
+- `【 day shift. 白班 】`
+- `【 night shift. 夜班 】`
+- `【 stick shift. 换挡杆 】`
+- // shift 转移 vn 换挡 vn 班 n 轮班 n
+- // 【 shift gears. 换档 】
+- // 【 selfie stick. 自拍杆 】
+-
+- `【 intense competition. 激烈的竞争 】`
+- `【 cruel competition. 残酷的竞争 】`
+- `【 fair competition. 公平的竞争 】`
+-
+- `【 exhaust 筋疲力尽 v 】` // ---- 身体上的疲劳
+- `【 burnout 精疲力尽 n 】` // ---- 心理上的疲劳 和 精神上的疲劳
+-
+- > 【 resist 抵抗 反抗 】
+- > 【 insist 坚持 】 -------------- 强调决心
+- > 【 persist 坚持 】 ------------- 强调坚持
+-
+- [AA.]
+- `【 workload 工作量 n 】`
+- `【 workaholic 工作狂 adj n 】`
+- **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- // -- work ability. 工作能力
+- // -- measure 测量 衡量
+-
+- [BB.]
+- `【 mandatory overtime. 强制加班 】`
+- `【 overtime pay. 加班费 】`
+- `【 resist 抵制 抵抗 v 】`
+- **【 We need to 【 resist 】【 mandatory overtime 】 【 without 】 【 overtime pay 】. 我们应该抵制没有加班费的强制加班 】**
+- // -- `resist 抵抗v 抵制v v 反抗 v 防腐剂 n `
+- // -- `insist 坚持`
+- // -- `persist 坚持`
+- // --【 without 没有 】
+- // TIPS: Pay attention to the pronunciation of the word 'resist'.
+-
+- [CC.]
+- `【 intense competition. 激烈的竞争 】`
+- `【 cruel competition. 激烈的竞争 】`
+- `【 fair competition. 公平的竞争 】`
+- **【 【 Intense competition 】 is not 【 fair competition 】. 激励的竞争不是公平的竞争 】**
+-
+- [DD.]
+- `【 exhaust 精疲力劲 】`
+- `【 burned out. = burn out. = burnout. 精疲力劲 】`
+- **【 【 Working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽 】**
+
+###### 2024-05-03
+
+- 1
+- `【 similar 相似的 adj 】`
+- `【 familiar 熟悉的 adj 】`
+- _【 be similar to. 与...相似 】_
+- _【 be familiar with. 熟悉... 】_
+-
+- [AA.]
+- `【 similar 相似的 adj 】`
+- `【 be similar to. 与...相似 】`
+- **【 These two roads are very 【 similar 】. 这两条路很相似 】**
+- **【 useState 【 is very similar to 】 useMemo. useState 和 useMemo 很相似 】**
+- **【 Her 【 personality 】 【 is similar to 】 【 mine 】. 她的性格和我相似 】**
+-
+- [BB.]
+- `【 familiar 熟悉的 adj 】`
+- `【 be familiar with. 熟悉... 】`
+- **【 Excuse me, 【 are you familiar with 】 the street around here? 打扰一下，你熟悉这周围的街道吗？ 】**-

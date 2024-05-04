@@ -145,6 +145,8 @@
 - _【 selfie stick. 自拍杆 】_
 - _【 walking stick. 拐杖 】_
 - _【 stick shift. 换挡杆 】_
+- `【 day shift. 白班 】`
+- `【 night shift. 夜班 】`
 - -
 - _【 take selfies. 自拍 】_
 - _【 take pictures. = take photos. 拍照 】_
