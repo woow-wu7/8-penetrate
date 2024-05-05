@@ -54,6 +54,8 @@
           for (let i = 0; i < len; i++) {
             if (pre[i] === cur[i]) samePrefix += pre[i];
             else break; // 不相等，跳出for循环
+
+            // else return samePrefix; // 注意不能在这里直接return
           }
 
           return samePrefix; // 返回当前比较的两个成员的公共前缀，继续和下一个成员做对比

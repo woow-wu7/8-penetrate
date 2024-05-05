@@ -144,3 +144,80 @@
 - `【 familiar 熟悉的 adj 】`
 - `【 be familiar with. 熟悉... 】`
 - **【 Excuse me, 【 are you familiar with 】 the street around here? 打扰一下，你熟悉这周围的街道吗？ 】**-
+
+###### 2024-05-04
+
+- 0
+- `【 used to do sth. 过去常常做某事，现在已经不再做了 】`
+-
+- `【 sb be used to sth. 某人习惯于 某事 】`
+- `【 sb be used to doing sth. 某人习惯于 做某事 】`
+-
+- `【 sth be used to do. 被用来做... 】`
+-
+- [AA.]
+- used to do sth.
+- **【 I 【 used to 】 love you. 我曾经爱过你 】**
+- **【 I 【 used to 】drink 【 beer 】. 我过去常喝啤酒 】**
+
+- **【 This tool 【 is used to 】 fix the car. 这个工具是用来修车的 】**
+-
+- **【 we are used to noise from the traffic. 】**
+- **【 I am used to getting up early. 】**
+
+- 1
+- `【 affect 影响 v 】` ------------- 直接的影响
+- `【 influence 影响 v n 】` -------- 间接的影响
+- `【 impact 影响 n 】`
+- `【 effect 影响 效果 n 】`
+-
+-
+- 2
+- `【 chief 首领 最高领导人 】`
+- `【 chef 厨师 】`
+- _【 chief architect. 首席架构师 】_
+- _【 software architect. 软件架构师 】_
+- > 【 used to be. 过去是 】
+- **【 This 【 chief architect 】 【 used to 】 be a 【 chef 】. 这个首席架构师之前是一位厨师 】**
+- // -- used to be. 过去是
+- // TIPS: Pay attention to the pronunciation of the word 'chef'.
+-
+-
+- 3
+- `【 lightning 闪电 】`
+- `【 lighter 打火机 】`
+- `【 flashlight 手电筒 】`
+- light 光 光线 明亮的 -> lighting
+-
+-
+- 4
+- `【 wealth 财富 】`
+- `【 health 健康 】`
+- `precious 宝贵的 珍贵的 adj`
+- **【 【 Mental health 】 and 【 physical health 】 are both 【 precious 】 【 wealth 】. 心理健康和生理健康都是宝贵的财富 】**
+- // -- mental health. 心理健康
+- // -- physical health. 身理健康
+- // -
+- // -- physic 物理学 n
+- // -- physical 物理的 adj
+-
+-
+- 5
+- `【 locate 定位 v 】`
+- `【 location 位置 n 】`
+- `【 collocate 搭配 v 】`
+- `【 collocation 搭配 n 】`
+- > 【 locate 定位 v 】
+- > 【 collocate 搭配 v 】
+- **【 We need to 【 locate 】 the 【 position 】 where the 【 fixed collocation 】 【 appears 】 in the sentence. 我们需要在句子中定位固定搭配出现的地方 】**
+-
+-
+- 6
+- `【 memory 回忆 记忆力 n 】`
+- `【 memorize 记住 记忆 v 】`
+- `【 remember 记得 记住 v 】`
+- `【 recite 背诵 v 】`
+- **【 She has an 【 super-strong 】【 memory 】 and can 【 remember 】 【 precious memories 】. 她有超强的记忆力，能记住珍贵的回忆 】**
+- // -- 【 super-strong. 超强的 】
+- // -- 【 previous memory. 珍贵的回忆 】
+- // -- memory 回忆 n 记忆力 n

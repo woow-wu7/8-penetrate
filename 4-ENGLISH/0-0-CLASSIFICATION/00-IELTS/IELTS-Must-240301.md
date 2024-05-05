@@ -377,9 +377,12 @@
 - _【 open source code. 开源代码 】_
 - _【 open source module. 开源模块 】_
 - _【 source code analysis. 源码分析 】_
-- _【 water source. 水源 】_
-- _【 power source. 电源 】_
-- _【 primary source. 主要来源 】_
+-
+- > 【 water source. 水源 】
+- > 【 power source. 电源 】
+- > 【 primary source. 主要来源 】
+- > // pure water. 纯净水
+- > // pure gold. 纯金
 - -
 - _【 natural resource. 资源资源 】_
 - _【 marine resource. 海洋资源 】_

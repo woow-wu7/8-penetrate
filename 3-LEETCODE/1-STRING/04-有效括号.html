@@ -67,6 +67,7 @@
 
         for (let i = 0, len = s.length; i < len; i++) {
           const cur = s[i];
+          const top = stack.at(-1);
 
           // push
           // 注意：一定是要先判断 ( [ {
@@ -77,9 +78,9 @@
           // pop
           // 如果是 ) ] } 就需要配对，栈顶必须是 ( [ {，配对就栈顶出栈
           else if (
-            (cur === ")" && stack.at(-1) === "(") ||
-            (cur === "]" && stack.at(-1) === "[") ||
-            (cur === "}" && stack.at(-1) === "{")
+            (cur === ")" && top === "(") ||
+            (cur === "]" && top === "[") ||
+            (cur === "}" && top === "{")
           ) {
             stack.pop();
           }

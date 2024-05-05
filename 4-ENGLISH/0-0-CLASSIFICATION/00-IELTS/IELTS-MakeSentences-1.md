@@ -299,7 +299,7 @@ It can 【 simulate 】 【 real physical structures 】, such as walls and 【 
 I'm throwing the 【 trash 】 into the 【 trash can 】.
 我把垃圾扔进垃圾桶
 -
-【 Waste paper towels 】 are 【 【 recyclable 】 waste 】.
+【 Waste paper towels 】 are 【 【 recyclable 】 【 waste 】 】.
 废纸巾是可回收垃圾
 -
 【 In principle, 】 【 littering 】 is 【 prohibited 】.
@@ -321,7 +321,7 @@ I'm throwing the 【 trash 】 into the 【 trash can 】.
 // rubbish 垃圾 --------- 指人
 // litter 乱扔v 垃圾n ---- 指户外的小片垃圾
 // -
-// trash can. 垃圾桶
+// 【 trash can. 垃圾桶 = trashcan. 】
 // bin 垃圾桶
 // dustbin 垃圾桶
 // -
@@ -1287,6 +1287,7 @@ This 【 precious gift 】 is her most 【 precious memory 】.
 // mental health. 心理健康
 // -
 // precious 珍贵的 宝贵的 adj
+//【 precious time. 宝贵的时间 】
 //【 precious gift. 珍贵的礼物 】
 //【 precious memory. 珍贵的回忆 】
 //【 precious wealth. 珍贵的财富 】
@@ -1308,6 +1309,10 @@ We need to 【 collocate 】 the words 【 properly 】 in the sentence.
 // -
 // collocate 搭配 v ---------- col + locate
 // collocation 搭配 n -------- col + location
+// -
+// 【 proper 适当的 恰当的 adj 】
+// 【 properly 适当地 恰当地 adv 】
+// -
 // locate 定位 v
 // location 位置 n
 // -
@@ -1315,9 +1320,7 @@ We need to 【 collocate 】 the words 【 properly 】 in the sentence.
 // collocation 搭配 n
 // -
 //【 fixed collocation. 固定搭配 】
-// -
-// proper 适当的 恰当的 adj
-// properly 适当地 恰当地 adv
+
 
 
 3
@@ -1428,7 +1431,7 @@ vue 中 style 标签上的 scoped 属性的工作原理是什么？
 
 ```
 1
-【 Ensure 】 the 【 air pressure 】 is 【 within 】 the safe 【 range 】.
+【 Ensure / Make sure 】 the 【 air pressure 】 is 【 within 】 the safe 【 range 】.
 确保气压在安全区间内
 -
 // range 范围n 区间n 变化v
@@ -1438,6 +1441,8 @@ vue 中 style 标签上的 scoped 属性的工作原理是什么？
 // -
 // ensure 确保
 //【 ensure = make sure. 取保 】
+// -
+//【 within 在...内 】
 
 
 2
@@ -1524,6 +1529,9 @@ We're discussing the changes in the sales 【 chart 】 in the 【 chat 】 room
 【 Takeing out garbage 】 does not mean 【 littering 】.
 倒垃圾并不意味着乱扔垃圾
 -
+【 take out 】 the English book from your 【 schoolbag 】.
+从书包里取出你的英语书
+-
 【 Notice 】 to 【 clean up 】 the 【 garbage 】 in the 【 hallway / corridor 】.
 清理楼道垃圾的通知
 -
@@ -1543,6 +1551,7 @@ vue 中 style 标签上的 scoped 属性的工作原理？
 //【 In principle. 原则上 】
 //【 working principle. 工作原理 】
 // -
+//【 take out. 取出 】
 //【 takeing out garbage/trash. 扔垃圾 】
 // -
 // litter 乱扔v 垃圾n
@@ -1564,6 +1573,7 @@ Please 【 place 】 the book 【 on 】 the 【 bookshelf 】.
 请把书放在书架上
 -
 // place 放置v 安放v 地方n 位置n
+// 【 place 放置v 地方n 】
 // -
 // shelf 架子
 // 【 bookshelf 书架 】
@@ -1572,15 +1582,16 @@ Please 【 place 】 the book 【 on 】 the 【 bookshelf 】.
 
 
 5
-You are 【 definitely 】 【 joking / kidding 】 with me.
+You are 【 definitely 】 【 joking / kidding 】 【 with 】 me.
 你绝对是在和我开玩笑
 -
-Are you kidding me?
+Are you 【 joking with 】 me?
 Are you kidding 【 with 】 me?
+Are you kidding me?
 你在开玩我笑吧？
 -
-please don't kid with me.
 please don't 【 joke 】 【 with 】 me.
+please don't 【 kid 】 【 with 】 me.
 请不要开我玩笑
 -
 // -
@@ -1609,7 +1620,10 @@ please don't 【 joke 】 【 with 】 me.
 我们在聊天室里面讨论销售图表的变化
 -
 原则上，禁止乱扔垃圾
+-
+从书包里取出你的英语书
 倒垃圾并不意味着乱扔垃圾
+-
 清理楼道垃圾的通知
 它可以模拟真实的物理结构，比如墙体和走廊
 我把垃圾扔进垃圾桶
@@ -2163,12 +2177,55 @@ This is the first time I've 【 been 】 here.
 这是我第一次来这儿
 ```
 
-+++++++++++++++++++
-我不确定这是否是正确的决定
-I can not sure if this is a correct decision.
+++++
+生理健康和心理健康都是宝贵的财富
+Physical health and mental health are both great wealth.
 
-我不知道明天是否会下雨
-I don't know if it will rain tomorrow.
+你在浪费宝贵的时间
+You are wasting great time.
 
-我去检查一下包裹是否已经到了
-I will check the package if arrived.
+这个珍贵的礼物是她最珍贵的回忆
+
+废纸巾是可回收垃圾
+Wast paper towel is recyclable waste.
+
+- 英语中有很多固定搭配
+  There are many fixed collocation in English language.
+
+我们需要在句子中恰当地搭配这些单词
+We need to collocation these words in the sentence.
+
+- vue 中 style 标签上的 scoped 属性的工作原理是什么？
+  What's the work principle of scoped attribute on style tag in Vue.
+
+这不仅仅是钱的问题，这是一个原则问题
+It's not only a money xxx, but it's a principle xxx.
+
+这不是能力问题，而是态度问题
+
+-
+
+你知道他扮演了哪些电视剧吗？
+Do you know which TV drama he act in?
+
+-
+
+专注于我说话的语气/注意我说话的语气
+Pay attention to my tone of voice.
+
+你的肤色真好
+Your skin color is well.
+
+你今天涂粉底了吗？
+Are you making a foundation today?
+
+-
+
+在某些情况下，我们可能需要更长时间才能回复您
+in some situations, we probably need more time to reply to you.
+
+- 我们可以通过中介申请签证
+  We can apply for the visa via agency.
+
+为了这个职位，这个申请人正在申请贷款和驾驶证
+For this position, this applicant is apply for a loan and driver's license.

@@ -44,6 +44,13 @@
       // 扩展
       // 面试题 本项目/5-INTERVIEW/8-阅文集团.html
 
+      // Attention
+      // 注意
+      // const str = 'ab';
+      // str[-1] = undefined;
+      // str[0] = 'a';
+      // str[-1]返回的是 undefined，而不是'undefined''
+
       var addBinary = function (a, b) {
         let res = "";
         let carry = 0; // 进位，carry是进位，携带的意思
@@ -53,7 +60,11 @@
 
         // 都遍历完才结束遍历
         while (ai >= 0 || bi >= 0) {
-          const va = a[ai] ? Number(a[ai]) : 0; // 这里可以换成 a[ai] ?? 0，并且在 sum 时转换类型 number[a[ai]]
+          // 1. 这里可以换成 a[ai] ?? 0，并且在 sum 时转换类型 number[a[ai]]
+          // 2. 注意这里不能是:
+          // --- 不能是: a[ai] = a[ai] ? Number(a[ai]) : 0;
+          // --- 必须: const va = a[ai] ? Number(a[ai]) : 0;
+          const va = a[ai] ? Number(a[ai]) : 0;
           const vb = b[bi] ? Number(b[bi]) : 0;
 
           let sum = va + vb + carry;

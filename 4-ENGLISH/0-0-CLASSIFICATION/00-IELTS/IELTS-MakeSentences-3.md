@@ -17,6 +17,9 @@ Which city 【 were 】 you 【 born in 】?
 She 【 was born in 】 Beijing.
 她出生在北京
 -
+Which city do you 【 like 】 【 best 】?
+你最喜欢哪座城市
+-
 I have been there many times.
 我去过那里很多次
 -
@@ -37,6 +40,8 @@ I have been there many times.
 // inhabit
 // inhibit
 // prohibit
+// -
+// good/well -> better -> best
 
 
 2
@@ -51,6 +56,9 @@ How many 【 meals 】 do you 【 cook 】 every day?
 // 【 meat 肉 】
 // -
 // chef 厨师
+// chief 首领 最高领导人
+// 【 chief architect. 首席架构师 】
+// 【 software architect. 软件架构师 】
 // -
 // breakfast 早餐
 // lunch 午餐
@@ -104,6 +112,7 @@ The 【 contest / competition / game / match  】 【 lasted for 】 two hours.
 // -
 // 【 economic crisis. 经济危机 】
 // 【 crisis 危机 n 】
+// TIPS: 经济危机和cry
 // -
 // lead -> led
 // -
@@ -189,7 +198,7 @@ Do you think this a 【 fair competition 】.
 This project was 【 delayed 】 【 due to 】 【 lack of 】 【 resources 】. // delay 客观 // put off. 主观
 由于缺乏资源，这个项目被推迟了
 -
-The man 【 suffer from 】 【 obesity 】 and lives an unhealthy 【 lifestyle 】.
+The man 【 suffer from 】 【 obesity 】 and lives an 【 unhealthy 】【 lifestyle 】.
 这个男人患有肥胖症，并且生活方式不健康
 -
 // -
@@ -218,6 +227,7 @@ The man 【 suffer from 】 【 obesity 】 and lives an unhealthy 【 lifestyle
 你定居在哪座城市
 你出生在哪个城市
 她出生在北京
+你最喜欢哪座城市
 我去过那里很多次
 -
 你一天吃几顿饭？
@@ -239,33 +249,46 @@ The man 【 suffer from 】 【 obesity 】 and lives an unhealthy 【 lifestyle
 加班让人筋疲力尽
 没有加班费是员工不愿意加班的一个原因
 我喜欢加班
+-
 缺乏锻炼是肥胖的主要原因
+由于缺乏资源，这个项目被推迟了
+这个男人患有肥胖症，并且生活方式不健康
 ```
 
-+++++
+##### 2 Make sentences 2024-05-05
 
-- 这次会议持续了一个半小时
-  This meeting lasted for an hour and a half.
-
-这次会议将持续多久呢？
-How long will this meeting last for?
-
-- 经济危机导致了大量的裁员
-  Economic xx led to a large number of lay off.
-
-- 我是一名前端软件架构师
-  I'm a front-end software exhaust.
-
-加班让人筋疲力尽
-Work overtime makes people burned out.
-
-你认为这是公平的竞争吗？
-Do you think this is a fair competition?
-
+```
+1
+What the 【 temperature 】 Where you are?
+你那儿的气温是多少？
 -
+It's 【 over 】 20 【 degrees 】 here today.
+我这里今天有20多度
+-
+// -
+// temperature 温度
+// degree 度 程度
 
-没有加班费是员工不愿意加班的一个原因
-Not having overtime pay is a reason for employees are unwilling to work overtime.
 
-我喜欢加班
-I like working overtime.
+2
+She 【 forced 】me to go to the 【 airport 】 to 【 pick her up 】.
+她强迫我去机场接她
+-
+Thousands 【 were forced to 】 【 migrate 】 from 【 rural 】areas to 【 urban 】 areas in search of work.
+成千上万的人为了寻找工作被迫从农村涌进城市
+-
+I don't like being 【 forced 】.
+我不习惯被人强迫
+-
+// -
+// 【 Pick sb up. 接某人 】
+// -
+// 【 force sb to do sth. 强迫某事做某事 】
+// 【 be forced to. 被强迫做某事 】
+// -
+// force 强迫v 力强n
+// -
+// airport 机场
+// airline 航空公司
+// airplane 飞机
+```

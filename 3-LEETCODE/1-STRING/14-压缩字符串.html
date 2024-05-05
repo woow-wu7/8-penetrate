@@ -26,10 +26,16 @@
        * @return {string}
        */
 
-      //
+      // leetcode
+      // https://leetcode.cn/problems/compress-string-lcci/description/
+
+      // English
+      // -
+      // compress 压缩
+
       var compressString = function (S) {
         let curStr = S[0];
-        let curCount = 0; // ------ aa. 初始化时是0，因为第一个字符还没有遍历
+        let curCount = 0; // ------ aa. 初始化时是0，因为第一个字符还没有遍历，【 curCount 也可以设置为 1，for循环时 i 从 1 开始 】
         let res = "";
 
         for (let i = 0; i < S.length; i++) {
@@ -37,14 +43,14 @@
             curCount++;
           } else {
             res = res + `${curStr}${curCount}`; // =========== 1. 注意：这里先进行收集，收集后还有更新两个变量的操作，所以遍历结束后，还要更新一次res
-            curStr = S[i];
+            curStr = S[i]; // 因为进入else时，i也增加了，所以i此时是下一个和不和S[i]相等的位置
             curCount = 1; // ------ aa. 注意这里重置的数量为1，不是0；因为如果是0，下一个字符只有一个的话，就会统计为0
           }
         }
 
         res = res + `${curStr}${curCount}`; // =============== 1. 最后还有更新一次res，1有说明
 
-        return res.length < S.length ? res : S; // 如果压缩的长度比没压缩还长，那就返回原字符
+        return res.length < S.length ? res : S; // 如果 压缩的长度 长于 没压缩的长度，就没有必要压缩了，就返回原字符
       };
     </script>
   </body>

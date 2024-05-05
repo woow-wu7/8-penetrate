@@ -215,7 +215,8 @@
 -
 - `light 光n 照亮v`
 - `lighting 灯光 照明 n`
-- `lightning 闪电`
+- `【 lightning 闪电 】`
+- `【 lighter 打火机 】`
 -
 - _【 mild weather. 温和的天气 】_
 -
