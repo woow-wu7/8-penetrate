@@ -89,21 +89,29 @@
 
       const getSingle = (nums) => {
         const map = {};
+
         for (let i = 0; i < nums.length; i++) {
-          if (!map[nums[i]]) {
-            map[nums[i]] = 1;
+          const cur = nums[i];
+          if (map[cur] === undefined) {
+            map[cur] = 1;
           } else {
-            map[nums[i]] += 1;
+            map[cur] += 1;
           }
         }
 
-        const keys = Object.keys(map);
-
-        for (let i = 0; i < keys.length; i++) {
-          if (map[nums[i]] === 1) {
-            return keys[i];
+        for (let j = 0; j < nums.length; j++) {
+          const cur = nums[j];
+          if (map[cur] === 1) {
+            return cur;
           }
         }
+
+        // const keys = Object.keys(map);
+        // for (let i = 0; i < keys.length; i++) {
+        //   if (map[nums[i]] === 1) {
+        //     return keys[i];
+        //   }
+        // }
       };
 
       const res2 = getSingle(arr2);

@@ -11,9 +11,9 @@
       // 原型链继承
 
       // 原理
-      // - 将子类的prototype指向父类的实例，同时修改子类的constructor让其重新指向子类
-      // - 或者说：将父类的实例 作为 子类实例 的 原型对象 ( 隐式原型 )
-      //   - 因为修改了子类prototype指向父类实例后，子类的prototype.constructor就指向了父类（修改改回来，防止引用出错）
+      // - 1. 将 ( 子类的prototype属性 ) 指向 ( 父类的实例 ) ，同时修改 ( 子类的constructor ) 让其重新指向子类
+      // - 2. 或者说：将父类的实例 作为 子类实例 的 原型对象 ( 隐式原型 )
+      //   - 3. 因为: 修改了子类prototype指向父类实例后，子类的prototype.constructor就指向了父类（修改改回来，防止引用出错）
       //   - 2021/07/24补充
       //   - 因为：具体是 ( child.constructor ) => ( Child.prototype.constructor ) => ( 父类实例的constructor，即father.constructor ) => ( Father.prototype.constructor ) => Father
       //   - 所以：当修改了prototype后，Child.prototype.constructor 指向了 Father，所以constructor需要重新指回Child

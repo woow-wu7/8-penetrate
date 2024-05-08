@@ -19,10 +19,10 @@ aspect 外观
 - absolute 绝对定位，相对于 - 距离最近的具有定位属性的父元素 ---- 脱离正常的文档流，在文档流中的位置不存在
   - 问题: 什么是具有 定位属性 的父元素？
   - 回答: 就是除了 position: static 以外的定位属性都可以
-- **【 fixed 】** 基于窗口定位
-  - **`注意transform的影响，如果祖先元素设置了transform属性(非null属性值)，则fixed定位基于该祖先元素，而不是基于视口定位，即整个窗口定位`**
-- **【 sticky 】** 粘性定位
-  - 相当于 position:sticky = position:fixed + position:relative
+- **【 fixed 】** // 基于窗口定位
+  - **`注意transform的影响，如果祖先元素设置了 transform属性(非null属性值)，则fixed定位基于该祖先元素，而不是基于视口定位，即整个窗口定位`**
+- **【 sticky 】** // 粘性定位
+  - 相当于 `position:sticky = position:fixed + position:relative`
 
 ### (1.1) position: sticky 粘性定位
 

@@ -64,3 +64,38 @@ str[1]返回的是 '0'，是字符串的'0'，使用 Boolean('0') = true
 - `compression 压缩 n`
 - [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/3-LEETCODE/1-STRING/14-压缩字符串.html)
 - [leetcode-1662](https://leetcode.cn/problems/compress-string-lcci/description/)
+
+# 9. 数组 转 树
+
+- `recursive 递归的 adj`
+- `recursion 递归 n`
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/3-LEETCODE/3-ARRAY/2-ArrayToTree.html)
+
+# 9. 树 转 数组
+
+- `recursive 递归的 adj`
+- `recursion 递归 n`
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/3-LEETCODE/3-ARRAY/2-TreeToArray.html)
+
+# 10. 有多少小于当前数字的数字 【 技巧性高 】
+
+- `arr.indexOf(parameter) 返回的是 ( 参数元素parameter ) 在数组中 ( 第一次出现的位置 )`
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/3-LEETCODE/3-ARRAY/4-有多少小于当前数字的数字.html)
+- [leetcode-1365](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+
+# 11. 判断一组数字是否连续，出现连续数字的时候以‘-’输出
+
+- `【 continue 继续 连续 v 】`
+- `【 continuous 连续的 adj 】`
+- `【 continuous number. 连续的数字 】`
+- `思路: 找出连续段的 起始点 和 结束点`
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/5-INTERVIEW/1-noCode.html)
+
+# 12. 一个整型数组，除了一个元素外，其他元素出现了出现了两次；找到这个元素
+
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/5-INTERVIEW/4-中移.html)
+
+# 13. 打家劫舍 House Robber
+
+- [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/3-LEETCODE/3-ARRAY/4-有多少小于当前数字的数字.html)
+- [leetcode-198](https://leetcode.cn/problems/house-robber/)

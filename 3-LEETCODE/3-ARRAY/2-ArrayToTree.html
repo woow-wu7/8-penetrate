@@ -11,6 +11,11 @@
       // 扩展
       // tree->array 本项目/3-LEETCODE/4-TREE/0-Tree2Array.html
 
+      // English
+      // -
+      // recursive 递归的 adj
+      // recursion 递归 n
+
       // Array to Tree
 
       // const targetTree = {
@@ -54,8 +59,9 @@
         // 1
         // 先给每项添加children属性，map中的每项的值中也就具有了children属性
         for (let i = 0; i < len; i++) {
-          arr[i].children = [];
-          map[arr[i].id] = arr[i]; // key是id，value是每一项对象
+          const cur = arr[i];
+          cur.children = [];
+          map[cur.id] = cur; // key是id，value是每一项对象
         }
 
         // 2
@@ -68,7 +74,7 @@
           } else {
             // 如果没有上面的 if 的话，会报错，因为 parentId = -1 在 map 中的key没有-1
             // 具有引用关系，所以map和原数据都会改变，因为是引用类型的数据
-            map[cur.parentId].children.push(arr[j]);
+            map[cur.parentId].children.push(cur);
           }
 
           // Reflect.deleteProperty(cur, "parentId"); // 用于删掉 parentId

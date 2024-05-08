@@ -17,14 +17,19 @@
       //   输入：nums = [8,1,2,2,3]
       //   输出：[4,0,1,1,3]
 
+      // leetcode
+      // https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+
       // ------------------------------------------------------------------------------------
       // 方法1
-      // - 思路: 先拷贝数组，生序排序，遍历原数组当前元素在有序数组的index的值，就是比该元素小的元素个数
+      // - 思路: 先拷贝数组，升序排序，遍历原数组当前元素在有序数组的index的值，就是比该元素小的元素个数
+      // - 注意点:
+      //  - 1. arr.indexOf(parameter) 返回的是 ( 参数元素parameter ) 在数组中 ( 第一次出现的位置 )
       const lessLen = (arr) => {
-        const copy = [...arr].sort((a, b) => a - b); // 升序拷贝  [1, 2, 2, 3, 8]
-        return arr.map((value) => copy.indexOf(value));
+        const copy = [...arr].sort((a, b) => a - b); // 升序拷贝  [1, 2, 2, 3, 3, 4, 8]
+        return arr.map((value) => copy.indexOf(value)); // 注意这里是 遍历原数组 arr，而不是copy，( 遍历arr在copy中找 )
       };
-      const lessLenArr = lessLen([8, 1, 2, 2, 3]);
+      const lessLenArr = lessLen([8, 1, 2, 2, 3, 3, 4]);
       console.log("lessLenArr: ", lessLenArr);
 
       // ------------------------------------------------------------------------------------
