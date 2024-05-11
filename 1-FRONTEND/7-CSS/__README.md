@@ -69,6 +69,8 @@ aspect 外观
   - DOM 是否存在: ( 伪元素 ) 在 DOM 中不存在，表现上相当于 ( 当前元素的第一个子元素 )
 - 对比伪元素
   - 伪元素: 不在 DOM 中，相当于当前元素的第一个子元素。- 不在 DOM 中，所以可以提升性能。比如实现分割线，图标，父元素高度塌陷等
+- reflow 和 repaint
+  - display:none; 会引起回流和重绘
 
 ## (三) display: inline-block; 存在间隙的原因?
 
@@ -370,6 +372,8 @@ HTML/CSS 画环形进度条
 ## (五) 盒模型
 
 - 标准盒模型 和 IE 盒模型
+  - box-sizing: border-box;
+  - box-sizing: content-box;
 - 标准盒模型
   - box-sizing: content-box;
   - width 和 height 只包含 ( content )
@@ -709,7 +713,7 @@ display: -webkit-box;
 - **常见的会引起 ( reflow 重排-回流 ) 的操作有哪些？**
   - 页面首次渲染
   - 浏览器窗口大小变化
-  - 元素尺寸和位置变化 width height position padding margin border
+  - 元素尺寸 和 位置变化 width height position padding margin border
   - fontSize
   - 显示/隐藏元素
   - 添加/删除元素

@@ -66,9 +66,9 @@
 
       var lengthOfLongestSubstring = function (s) {
         // 定义四个变量: 左右指针，当前滑动窗口的长度，滑动窗口的最大长度
-        // - 左右指针
-        // - 当前滑动窗口的长度
-        // - 滑动窗口的最大长度
+        // - 左右指针 left right
+        // - 当前滑动窗口的长度 len
+        // - 滑动窗口的最大长度 maxLen
         let left = (right = len = maxLen = 0);
 
         // set.add
@@ -91,8 +91,8 @@
             // 右指针的值在set中存在
             while (set.has(s[right])) {
               set.delete(s[left]); // 删除左指针 在 set 中的值
-              left++;
               len--;
+              left++;
             }
             //  --------------------------------------- YYY
             set.add(s[right]); // 左指针可以再移动时，将 右指针 的值添加到 set 中

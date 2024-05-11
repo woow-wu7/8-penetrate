@@ -17,6 +17,10 @@
       // - inorder 中序 ---------- 左根右
       // - postorder 后序 -------- 左右根
 
+      // English
+      // -- recursion 递归 n
+      // -- traversal 遍历 n
+
       // DFS Depth First Search 深度优先遍历
       // BFS Breadth First Search 广度优先遍历
 
@@ -43,15 +47,15 @@
         // 问题：这里为什么要再声明一个函数，而不直接使用inorderTraversal
         // 回答：因为要使 result 不被重复声明，类似充当一个闭包变量或者全局变量
         // 实现：整体思路和前序遍历的实现一样
-        function inorderTraversalFn(root) {
+        function inorderRecursionFn(root) {
           if (root) {
-            inorderTraversalFn(root.left); // 左子树的递归
+            inorderRecursionFn(root.left); // 左子树的递归
             result.push(root.val); // 根节点，最左边的叶子节点最先进入数组
-            inorderTraversalFn(root.right); // 右子树的递归
+            inorderRecursionFn(root.right); // 右子树的递归
           }
         }
 
-        inorderTraversalFn(root);
+        inorderRecursionFn(root);
 
         return result;
       };

@@ -27,6 +27,18 @@
       //  - 2-广度优先-层序遍历二叉树.html
       //  - 2-广度优先-层序遍历二叉树升级.html
 
+      // English
+      // -
+      // Breadth First Search 广度优先遍历 BFS
+      // Depth First Search 深度优先遍历 DFS
+      // -
+      // breadth 宽度 广度
+      // depth  深度
+      // -
+      // deep 深的 adj
+      // depth 深度 n
+      // -
+
       /**
        * Definition for a binary tree node.
        * function TreeNode(val, left, right) {
@@ -45,6 +57,12 @@
       // leetcode: 102. 二叉树的层序遍历
       // 举例: root, 最后要返回 [[1], [2, 5], [3, 4, 6, 7]]
       // layer: 是层的意思
+
+      // 对比
+      // 102. 层序遍历
+      // 199. 右视图 = 层序遍历 + 过滤 每个数组成员的最后一个值
+      // 637. 层平均值 = 层序遍历 + 计算 每个数组成员的平均值
+      // 513. 左下角的值 = 层序遍历 + 找到 最后一层数组的第一个值
 
       const root = {
         val: 1,
@@ -82,11 +100,11 @@
         // - level 必须从0开始，因为我们用了 res[level] = [] 来声明一个空数组
 
         while (queue.length) {
-          const target = queue.shift(); // 弹出，这里必须从前面取，因为是从左到右push的，保证顺序
+          const target = queue.shift(); // 弹出，这里必须从前面取，因为是从左到右push的，保证顺序 【 即队列是先进先出，改变原数组 】
           const level = target.level;
 
           if (!result[level]) result[level] = [];
-          result[level].push(target.val); // 注意这里不是else，新建数组后，要立即添加值
+          result[level].push(target.val); // 注意这里 不能是else，因为新建数组后，要立即添加本层的值
 
           // 注意，这里 target.left 一定要做判断，不然会无限 push，然后无限 while，死循环
           if (target.left) queue.push({ ...target.left, level: level + 1 }); // 添加

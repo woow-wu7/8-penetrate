@@ -45,6 +45,9 @@
       // ( 存在重复的节点，就删除重复的靠后的节点 ) 83. 删除排序链表中的重复元素 https://leetcode.cn/problems/remove-duplicates-from-sorted-list/
       // ( 删除倒数第N个节点 - 滑动窗口 )  19. 删除链表的倒数第 N 个结点 https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 
+      // English
+      // -- dummy 假的
+
       var removeElements = function (head, val) {
         const pre = (list = new ListNode(null)); // 新建空节点，空链表。即 dummy 虚拟节点，dummy是假，虚假的的意思
         pre.next = head; // 空节点指向head，则可以通过 pre.next 遍历整个链表
