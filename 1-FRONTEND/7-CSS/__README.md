@@ -903,7 +903,7 @@ drop-shadow(offset-x offset-y blur-radius color)
 }
 ```
 
-### (24.3) filter:grayscale() 开启悼念模式
+### (24.3) filter:grayscale() [开启悼念模式]
 
 - 英语
   - grayscale 是灰度的意思
@@ -953,7 +953,7 @@ aspect-ratio: 4/3;
 
 ## (二十六) 伪类
 
-## (26.1) :nth-of-type(number)
+## (26.1) :nth-of-type(number) 和 :nth-child 的区别？
 
 - 详见: `FRONTEND/CSS/21-nth-of-type.html`
 - p:nth-child(2) 和 p:nth-of-type(2) 的区别?
@@ -1116,7 +1116,7 @@ word-break: break-all; 单词内换行
     - filter
     - will-change
 
-## (三十) Element.offsetHeight 和 Element.clientHeight ---- border
+## (三十) Element.offsetHeight 和 Element.clientHeight ---- [border]
 
 - Element.clientHeight = ( 自身高度 ) + ( padding ) + ( 滚动条高度 )
 - Element.offsetHeight = ( 自身高度 ) + ( padding ) + ( 滚动条高度 ) + ( border 的高度 )
@@ -1130,11 +1130,14 @@ word-break: break-all; 单词内换行
   - clientHeight = height + padding + 滚动条高度
   - offsetHeight = height + padding + border + 滚动条高度
 - 详见 `2-FRONTEND/5-CSS/25-clientHeight-offsetHeight.html`
+- [相见](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/7-CSS/25-clientHeight-offsetHeight.html)
 
 ## (三十一) HTMLCollection 和 NodeList 的区别 ？
 
 ```
 NodeList 和 HTMLCollection 的区别？
+- HTMLCollection: document.getElementsByTagName()
+- NodeList: querySelectorAll()
 ---
 
 1. 动态集合 和 静态集合
@@ -1179,9 +1182,9 @@ NodeList 和 HTMLCollection 的区别？
 html和xml的区别 ?
 ---
 
-1. html中不区分大小写，xml中严格区分大小写
-2. html中属性可以不带值，xml中属性必须有值
-3. html中的标签是预定义的固有标签，不可扩展，xml中的标签不是固定的，可以自定义，可以扩展
+1. html中不区分大小写；xml中严格区分大小写
+2. html中属性可以不带值；xml中属性必须有值
+3. html中的标签是预定义的固有标签，不可扩展；xml中的标签不是固定的，可以自定义，可以扩展
 4. html是用来显示数据的，xml是用来描述数据结构，存储数据的
 
 总结:
@@ -1544,8 +1547,8 @@ vmax - viewport max 表示视窗最大值
 
 ## (四十六) 如何在页面上实现一个 圆形 可点击区域
 
-- 详见 `1-FRONTEND/7-CSS/37-circle-click-css.html`
-- 详见 `1-FRONTEND/7-CSS/37-circle-click-js.html`
+- 详见 [1-FRONTEND/7-CSS/37-circle-click-css.html](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/7-CSS/37-circle-click-css.html)
+- 详见 [1-FRONTEND/7-CSS/37-circle-click-js.html](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/7-CSS/37-circle-click-js.html)
 
 ```
 圆形 可点击区域
@@ -1676,9 +1679,10 @@ all: unset;
 ---
 
 详见: 本项目/1-FRONTEND/7-CSS/42-all:unset.html
+[local](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/7-CSS/42-all:unset.html)
 ```
 
-## (五十一) 实现容器中两个元素在 右上角 和 右下角
+## (五十一) 实现容器中两个元素在 【 右上角 和 右下角 】 和 【 左上角 和 右下角 】
 
 ```
  .container {

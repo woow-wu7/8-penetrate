@@ -35,24 +35,58 @@
       // 4. 连续上升段的终点: !set.has(xxx+1)，即 (一直+1往后遍历，直到不存在 )，即右邻居不存在
       // 5. max 统计每个上升度个数的最大值
 
+      // 对比
+      // 1. 最长连续序列
+      // 2. 判断一组数字是否连续，出现连续数字的时候以‘-’输出 [local](file:///Users/xiawu/work/personal/front-end/8-penetrate/5-INTERVIEW/1-noCode.html)
+
+      // 1
       var longestConsecutive = function (nums) {
-        const set = new Set(nums); // 去重，并 提升取值效率，因为 ( 不要求序列元素在原数组中连续 )，直接取出比较
+        const set = new Set(nums);
+        const arr = Array.from(set);
 
         let max = 0;
 
-        for (let [i, v] of set.entries()) {
-          // 左邻居: 不存在，就是某个连续段的起点
+        for (let i = 0; i < arr.length; i++) {
+          let cur = arr[i];
+          let len = 1;
+
+          if (!set.has(cur - 1)) {
+            // start
+            while (set.has(cur + 1)) {
+              // end
+              cur++; // 递归
+              len++; // 统计
+              
+              // if (len > max) max = len;
+              // 注意这个表达式不能放在这里，【 因为有 nums = [0] 这样的情况，len需要赋值给max，使 Max===1 】
+            }
+            if (len > max) max = len;
+          }
+        }
+
+        return max;
+      };
+
+      // 2
+      var longestConsecutive = function (nums) {
+        const set = new Set(nums); // ( 去重 )，并 ( 提升取值效率 )，因为 ( 不要求序列元素在原数组中连续 )，直接取出比较
+
+        let max = 0;
+
+        for (let v of set.values()) {
+          // 1.连续的起点: 左邻居: 不存在，就是某个连续段的起点
           if (!set.has(v - 1)) {
             let count = 1; // 统计 v 为起点的上升段的 长度
             let cur = v;
 
-            // 右邻居存在，不断向后+1找，直到不连续为止
+            // 2.连续的终点: 右邻居存在，不断向后+1找，直到不连续为止
             while (set.has(cur + 1)) {
               count++;
               cur++;
             }
 
             // 右邻居不存在，某个上升段结束
+            // 某个连续区间从开始到结束
             max = Math.max(max, count);
           }
         }

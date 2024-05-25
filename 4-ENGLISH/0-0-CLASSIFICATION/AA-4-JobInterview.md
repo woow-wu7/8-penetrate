@@ -842,7 +842,7 @@
 - a total of
 - **【 After graduation, I have had 【 a total of 】 four 【 work experiences 】. 】**
 
-##### (2) Some questions that must be asked.
+##### (2) **Some questions that must be asked.**
 
 ```
 1. EXPAND
@@ -1171,7 +1171,7 @@ There are three things the candidate dose which you should try to avoid.
 I will take your interview. 我会安排你的面试
 ```
 
-##### (3) Writing
+##### (3) **Writing**
 
 ```111111111
 My English name is York.

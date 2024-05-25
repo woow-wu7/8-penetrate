@@ -33,15 +33,23 @@
        * @return {boolean}
        */
 
+      // 双指针 教程
+      // https://www.bilibili.com/video/BV19f4y197yS/?spm_id_from=333.999.0.0&vd_source=a8374ac38c77856369542fc154a1e043
+
       // 方法
       // - 双指针
+      // - 原理
+      // - 1. p1指针指 向 子序列 开始位置；p2指针 指向 s 开始位置
+      // - 2. 两个串 都往后遍历，如果相等，则p1p2分别都后移
+      // - 3. 当 任意一个串遍历完，如果 p1 并未遍历完的话，就不是 子序列
+      
       var isSubsequence = function (s, t) {
         let p1 = 0;
         let p2 = 0; // 两个指针
 
         if (!s) return true;
 
-        // 遍历结束条件，s和t都遍历完
+        // 遍历结束条件，s和t 任意一个遍历完
         while (p1 < s.length && p2 < t.length) {
           if (s[p1] === t[p2]) {
             p1++;
@@ -51,7 +59,7 @@
           }
         }
 
-        // 在都遍历完的情况下，如果 p1 === s.length 说明已经匹配到了
+        // 在任意一个遍历完的情况下，如果 p1 === s.length 说明已经匹配到了
         // 因为: p1 已经遍历到 s 的串末尾的下一位了，说明最后肯定 s.length -1 有匹配到字符
         // 注意: ！！！！！！ 是 s.length 位置，不是 s.length - 1 位置。！！！！！！
         if (p1 === s.length) return true;

@@ -42,6 +42,10 @@
       // leetcode
       // https://leetcode.cn/problems/reverse-integer/
 
+      // English
+      // -
+      // remainder 余数
+
       // 在进制转换文件夹中也记录了该题目
 
       // 思路
@@ -53,13 +57,13 @@
 
       var reverse = function (x) {
         // const flag = x >= 0 ? 1 : -1;
-        const flag = x >= 0; // 正负标记，处理时用正数，最后返回结果时还原正负 true正数 false负数
+        const flag = x >= 0; // 正负标记，Boolean，处理时用正数，最后返回结果时还原正负 true正数 false负数
 
         let res = 0; // 最终结果，不断迭代
 
         let abs = Math.abs(x); // 处理时用正数
 
-        while (abs) {
+        while (abs) { // 这里最后一步 ( abs = abs - remainder ) 的到的值就是0，所以最后 abs 一定是 0，此时结束遍历
           const remainder = abs % 10; // 余数，remainder 是余数的意思
 
           // 123 ---> 3 ---> 3*10+2===32 ---> 32*10+1===321

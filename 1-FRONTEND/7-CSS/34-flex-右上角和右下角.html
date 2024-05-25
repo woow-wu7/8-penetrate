@@ -7,11 +7,16 @@
     <title>Document</title>
     <style>
       .container {
+        /* 1 */
         /* 右上角 和 右下角 */
         /* top-right-corner  bottom-right-corner */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+
+        /* 1 */
+        /* 右上角 和 右下角 */
+        /* top-right-corner  bottom-right-corner */
         align-items: flex-end;
 
         height: 500px;
@@ -25,12 +30,19 @@
         height: 200px;
         background: red;
       }
+
+      /* 2 */
+      /* 左上角 和 右下角 */
+      /* top-right-corner  bottom-right-corner */
+      .right-top {
+        align-self: flex-start;
+      }
     </style>
   </head>
   <body>
     <div class="container">
-      <div class="right-top"></div>
-      <div class="right-bottom"></div>
+      <div class="right-top">top</div>
+      <div class="right-bottom">bottom</div>
     </div>
   </body>
 </html>

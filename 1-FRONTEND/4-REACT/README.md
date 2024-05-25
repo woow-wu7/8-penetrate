@@ -257,12 +257,6 @@ useEffect(() => {
   setIsDidUpdate(true)
 })
 ---
-注意
-2023-11-16更新：
-- 因为: 其实这里用 useState + 标志符 来模拟是不对的，因为 setIsDidUpdate(true) 后会造成重新渲染，然后又会执行 useEffect
-- 所以: 最好用 ( useRef ) 或者 ( 全局变量 ) 来实现
-import { useState, useEffect, useRef } from "react";
-
 // 注意
 // 2023-11-16更新：
 // - 因为: 其实这里用 useState + 标志符 来模拟是不对的，因为 setIsDidUpdate(true) 后会造成重新渲染，然后又会执行 useEffect
