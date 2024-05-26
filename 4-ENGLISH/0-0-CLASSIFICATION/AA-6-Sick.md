@@ -1,8 +1,10 @@
 # Sick
 
+## (1) Words
+
 - 1
-- `surgeon 外科医生`
-- `internist 内科医生`
+- `surgeon 外科医生 n`
+- `internist 内科医生 n`
 -
 - `pediatrician 儿科医生`
 - `gynecologist 妇科医生`
@@ -12,25 +14,42 @@
 -
 - `doctor 医生`
 - `nurse 护士`
+- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方
 - `paramedic 护理人员`
-- `pharmacist 药剂师` // prescription 处方 // pharmacy 药店 // drugstore 药店
 -
 -
-- AA.
-- `surgeon 外科医生`
-- `internist 内科医生`
+- `surgery department. 外科`
+- `pediatrics department. 儿科`
+- `dermatology department. 皮肤科`
+-
+-
+- [AA.]
+- `【 surgeon 外科医生 】`
+- `【 internist 内科医生 】`
 - // inter 埋葬
+- // internist 内科医生
 - // intern 实习生
 - // internship 实习 实习期
-- > 【 surgery 外科手术 n 】
-- > 【 operate 手术 n 操作 v 】// operate operation
+- // -
+- // internship 实习 实习期
+- // scholarship 奖学金
+- // friendship 友谊
+- // relationship 关系
+- // warship 战舰
 -
-- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other to 【 provide 】 【 comprehensive 】 【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供全面的治疗 】**
+- > 【 surgeon 外科医生 n 】
+- > 【 surgery 外科手术 n 】 // ------------【 perform surgery. 】
+- > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 】
+-
+- _【 surgical mask. 外科口罩 医用口罩 】_
+- _【 perform surgery. 做外科手术 】_
+-
+- **【 The 【 surgeon 】 wearing a 【 surgical mask 】 is 【 performing surgery 】 on a patient. 戴着医用口罩的外科医生正在给病人做外科手术 】**
+-
+- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other to 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
 - // -
 - // cooperate 合作 v
 - // provide 提供 v
-- // -
-- // 【 comprehensive 全面的 综合的 adj 】
 - // -
 - // cooperate 合作 v ----------- co + operate
 - // coexist 共存 v ------------- co + exist
@@ -39,14 +58,15 @@
 - // coexistence 共存 n --------- co + existence
 - // coincidence 巧合 n --------- co + incidence
 - // -
-- // > internship 实习 实习期 ---- intern + ship
-- // > scholarship 奖学金 ------- scholar + ship // scholar 学者
-- // > friendship 友谊 ---------- friend + ship
-- // > relationship 关系 -------- relation + ship
-- // > warship 军舰 ------------- war + ship
-- // -
 - // relation 关系 -------------- 强调事物之间的关系
 - // relationship 关系 ---------- 强调人与人之间的关系
+-
+-
+- [BB.]
+- `【 pharmacist 药剂师 】`
+- `【 pharmacy 药房 】`
+- `【 drugstore 药店 】`
+- **【 A 【 pharmacist 】 works in a 【 pharmacy 】. 药剂师在药房工作 】**
 -
 -
 -
@@ -62,26 +82,46 @@
 - `prescription 处方 n`
 - `prescribe 开处方 v`
 -
-- `medicine 药 医学` ------- 什么药都可以
 - `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
-- `traditional Chinese medicine. 中药`
+- `medicine 药 医学` ------- 什么药都可以
 - `oral medicine. 口服药`
--
-- `inject 注射`
-- `ointment 药膏`
+- `traditional Chinese medicine. 中药`
 -
 - `capsule 胶囊`
 - `pill 药丸`
 - `tablet 药片 平板 碑`
+- `ointment 药膏`
+- `antibiotic 抗生素`
+- `oral medicine. 口服药`
+- `traditional Chinese medicine. 中药`
+- // oral English. 口语
+- // oral promise. 口头承诺
+- // oral cavity. 口腔
+-
+- `inject 注射`
+- `shot 注射`
+- `syringe 注射器 = injector`
+- `ointment 药膏`
 -
 -
-- AA.
+- [AA.]
 - `pharmacist 药剂师`
 - `pharmacy 药店` // drugstore
 - `prescription 处方`
 - `medication 药` // medicine
-- **【 【 Patients 】 need to take the 【 prescription 】 【 prescribed 】 by 【 pharmacists 】 to the 【 pharmacy 】 to get 【 medication 】. 患者需要用药剂师开的处方去药房拿药 】**
+- **【 【 Patients 】 need to take the 【 prescription 】that 【 prescribed 】 by 【 pharmacists 】 to the 【 pharmacy 】 to get 【 medication 】. 患者需要用药剂师开的处方去药房拿药 】**
 -
+- [BB.]
+- `antibiotic 抗生素`
+- `oral medicine. 口服药` // oral medicine. = oral medication.
+- `injectable medicine. 注射药` // injectable medicine. = injectable medication.
+- `pill 药丸`
+- `tablet 药片`
+- `capsule 胶囊`
+- > oral English. 口语
+- > oral cavity. 口腔
+- > oral medicine. 口服药
+- **【 【 Antibiotics 】 are a type of 【 oral medication 】 that includes various forms such as 【 capsules 】, 【 tablets 】, and 【 pills 】. 【抗生素】是一种【口服药物】，包括各种形式，如【胶囊】、【片剂】和【药丸】 】**
 -
 -
 -
@@ -90,7 +130,53 @@
 -
 -
 - 3
+- `ambulance 救护车`
+- `stretcher 担架` // stretch 伸展 拉伸 // stretcher
+- `bandage 绷带`
+- `thermometer 体温计`
+- `stethoscope 听诊器`
+- `syringe 注射器` // injector syringe // syringe needle. 针头 // syringe barrel. 针筒
+-
+- `blood pressure. 血压` // stress pressure
+- `pulse 脉搏`
+- `measure 测量`
+- `physical examination. 体检` // exam examination
+- `physical examination report. 体检报告` // report 报告 v/n
+- // stress 心理压力
+- // pressure 物理压力
+-
+-
+- [AA].
+- `【 stethoscope 听诊器 】`
+- `【 microscope 显微镜 】`
+- `【 telescope 望远镜 】`
+-
+- [BB.]
+- `【 physical examination. 体检 】`
+- `【 blood pressure. 血压 】`
+- `【 pulse 脉搏 】`
+- `【 measure 测量 v 】`
+- **【 A 【 physical examination 】 generally includes 【 blood pressure 】 and 【 pulse 】 【 measurements 】. 体检一般包括血压和脉搏测量 】**
+-
+- [CC.]
+- `【 syringe. 注射器 】`
+- `【 syringe needle. 针头 】`
+- `【 syringe barrel. 针筒 】`
+- // needle 针 针头
+- // barrel 桶 一桶
+- **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- 4
 - [SYMPTOM]
+- `【 slight 轻微的 】` // ------- slight fever. 轻微发烧
+- `【 severe 严重的 重的 】` // --- severe fever. 重感冒
 - `headache 头痛`
 - `toothache 牙痛`
 - `backache 背痛`
@@ -117,19 +203,30 @@
 - `itch 痒 v n`
 -
 -
+- [AA.]
+- `【 slight 轻微的 adj 】` // slight cold. = mild cold.
+- `【 severe 严重的 重的 adj 】` // severe cold. = bad cold.
+- > 【 category 类别 分类 n 】
+- > 【 categorize 把...分类 v】
+- _【 be categorized as. 被分类为 】_
+- **【 Colds can 【 be categorized as 】 【 severe cold 】 and 【 slight cold 】. 感冒可分为重度感冒和轻度感冒 】**
 -
 -
 -
 -
 -
 -
-- 4
+-
+-
+- 5
 - `microorganism 微生物 n`
 - `organism 生物 n`
 - `germ 细菌`
 - `bacteria 细菌`
 - `fungus 真菌`
 - `virus 病毒`
+
+## (2) Sentences
 
 ##### (一) Sick Old
 
