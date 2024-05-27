@@ -14,7 +14,7 @@
 -
 - `doctor 医生`
 - `nurse 护士`
-- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方
+- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe
 - `paramedic 护理人员`
 -
 -
@@ -43,13 +43,18 @@
 -
 - _【 surgical mask. 外科口罩 医用口罩 】_
 - _【 perform surgery. 做外科手术 】_
+- > perform 表演 执行 v
+- > performance 表演 执行 绩效 性能 n
 -
-- **【 The 【 surgeon 】 wearing a 【 surgical mask 】 is 【 performing surgery 】 on a patient. 戴着医用口罩的外科医生正在给病人做外科手术 】**
+- **【 The 【 surgeon 】 wearing a 【 surgical mask 】 is 【 performing surgery 】 【 on 】 a patient. 戴着医用口罩的外科医生正在给病人做外科手术 】**
 -
-- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other to 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
+- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other 【 to 】 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
 - // -
 - // cooperate 合作 v
 - // provide 提供 v
+- // -
+- // treat 对待 治疗
+- // treatment 治疗
 - // -
 - // cooperate 合作 v ----------- co + operate
 - // coexist 共存 v ------------- co + exist
@@ -76,14 +81,16 @@
 -
 -
 - 2
+- `clinic 诊所`
 - `drugstore 药店`
 - `pharmacy 药房 药店`
 - `pharmacist 药剂师`
-- `prescription 处方 n`
+- `prescription 处方 药方 n`
 - `prescribe 开处方 v`
+- // TIPS: Pay attention to the different pronunciations between 'prescription' and 'prescribe'.
 -
-- `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
 - `medicine 药 医学` ------- 什么药都可以
+- `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
 - `oral medicine. 口服药`
 - `traditional Chinese medicine. 中药`
 -
@@ -91,23 +98,30 @@
 - `pill 药丸`
 - `tablet 药片 平板 碑`
 - `ointment 药膏`
-- `antibiotic 抗生素`
-- `oral medicine. 口服药`
+- `【 oral medicine. 口服药 】`
+- `【 injectable medicine. 注射药 】`
 - `traditional Chinese medicine. 中药`
+- `dosage 剂量`
+- `【 instruction manual. 使用说明书 】`
+- `instruction 使用说明 说明`
+- `manual 手册 说明书`
 - // oral English. 口语
 - // oral promise. 口头承诺
 - // oral cavity. 口腔
+- // oral medicine. 口服药
 -
-- `inject 注射`
+- `inject 注射` // inject shot
 - `shot 注射`
-- `syringe 注射器 = injector`
+- `syringe 注射器 = injector` // syringe needle. // syringe barrel.
 - `ointment 药膏`
+- // barrel 桶
+- // barrier 障碍
 -
 -
 - [AA.]
 - `pharmacist 药剂师`
 - `pharmacy 药店` // drugstore
-- `prescription 处方`
+- `prescription 处方` // prescribe 开处方
 - `medication 药` // medicine
 - **【 【 Patients 】 need to take the 【 prescription 】that 【 prescribed 】 by 【 pharmacists 】 to the 【 pharmacy 】 to get 【 medication 】. 患者需要用药剂师开的处方去药房拿药 】**
 -
@@ -118,10 +132,17 @@
 - `pill 药丸`
 - `tablet 药片`
 - `capsule 胶囊`
+- `dosage 剂量`
+- `【 instruction manual. 使用说明书 】`
+- `instruction 说明 使用说明`
+- `manual 手册 说明书`
 - > oral English. 口语
 - > oral cavity. 口腔
 - > oral medicine. 口服药
-- **【 【 Antibiotics 】 are a type of 【 oral medication 】 that includes various forms such as 【 capsules 】, 【 tablets 】, and 【 pills 】. 【抗生素】是一种【口服药物】，包括各种形式，如【胶囊】、【片剂】和【药丸】 】**
+- 1. **【 【 Antibiotics 】 are a type of 【 oral medication 】 that includes various forms such as 【 capsules 】, 【 tablets 】, and 【 pills 】. 【抗生素】是一种【口服药物】，包括各种形式，如【胶囊】、【片剂】和【药丸】 】**
+- 2. **【 The 【 instruction manual 】 includes 【 dosage instruction 】 for 【 antibiotics 】. 说明书上有抗生素的剂量说明 】**
+- // -
+- // various 各种个样的 不同的 adj
 -
 -
 -
@@ -134,7 +155,7 @@
 - `stretcher 担架` // stretch 伸展 拉伸 // stretcher
 - `bandage 绷带`
 - `thermometer 体温计`
-- `stethoscope 听诊器`
+- `stethoscope 听诊器` // microscope telescope stethoscope
 - `syringe 注射器` // injector syringe // syringe needle. 针头 // syringe barrel. 针筒
 -
 - `blood pressure. 血压` // stress pressure
@@ -150,15 +171,38 @@
 - `【 stethoscope 听诊器 】`
 - `【 microscope 显微镜 】`
 - `【 telescope 望远镜 】`
+- // microorganism 微生物
+- // organism 生物
+- // organ 器官
+- // tissue 组织
+- **【 A microscope can see the organs and tissues of microorganisms. 显微镜可以看到微生物的器官和组织 】**
 -
 - [BB.]
-- `【 physical examination. 体检 】`
-- `【 blood pressure. 血压 】`
-- `【 pulse 脉搏 】`
+- `【 physical examination. 体检 】` // physical examination report.
+- `【 physical examination report. 体检报告 】`
 - `【 measure 测量 v 】`
-- **【 A 【 physical examination 】 generally includes 【 blood pressure 】 and 【 pulse 】 【 measurements 】. 体检一般包括血压和脉搏测量 】**
+- `【 pulse 脉搏 】`
+- `【 blood pressure. 血压 】`
+- `【 diastolic pressure. 舒张压 】 ` // --- dias + tolic
+- `【 systolic pressure. 收缩压 】` // ----- sys + tolic
+- > `【 artery 动脉 】`
+- > `【 vein 静脉 】`
+- **【 A 【 physical examination 】 【 generally 】 includes 【 blood pressure 】 and 【 pulse 】 【 measurements 】. 体检一般包括血压和脉搏测量 】**
+- // general 一般的 总的 普遍的 整体的
+- // generally 一般地 大体上 普通地
 -
 - [CC.]
+- `【 blood vessel. 血管 】`
+- `【 artery 动脉 n 】`
+- `【 vein 静脉 n 】`
+- `【 blood pressure. 血压 】`
+- `【 diastolic pressure. 舒张压 】 ` // --- dias + tolic
+- `【 systolic pressure. 收缩压 】` // ----- sys + tolic
+- > be divided into. 被分为...
+- **【 【 Blood vessels 】 are divided into 【 arteries 】 and 【 veins 】. 血管分为动脉和静脉 】**
+- **【 【 Blood pressure 】 is divided into 【 diastolic pressure 】 and 【 systolic pressure 】. 血压分为扩张压和收缩压 】**
+-
+- [DD.]
 - `【 syringe. 注射器 】`
 - `【 syringe needle. 针头 】`
 - `【 syringe barrel. 针筒 】`
@@ -177,6 +221,25 @@
 - [SYMPTOM]
 - `【 slight 轻微的 】` // ------- slight fever. 轻微发烧
 - `【 severe 严重的 重的 】` // --- severe fever. 重感冒
+-
+- `infect 感染 传染 v`
+- `infection 感染 传染 n` // upper respiratory tract infection. 上呼吸道感染
+- `inflammation 发炎 炎症 n`
+- `swell 肿胀 膨胀 v` // swelling 肿胀 膨胀 n // swell up. 肿胀
+- `fever 发烧`
+- `antibiotic 抗生素`
+-
+- `allergy 过敏 n`
+- `allergic 过敏的 adj` // be allergic to. 对...过敏
+- `itch 痒 v n`
+-
+- `nausea 恶心 n`
+- `nauseous 恶心的 adj`
+- `vomit 呕吐v 呕吐物n` // vomit = throw up. 呕吐
+- `throw up. 呕吐`
+-
+- `burn 燃烧 烧伤 v n`
+-
 - `headache 头痛`
 - `toothache 牙痛`
 - `backache 背痛`
@@ -211,6 +274,13 @@
 - _【 be categorized as. 被分类为 】_
 - **【 Colds can 【 be categorized as 】 【 severe cold 】 and 【 slight cold 】. 感冒可分为重度感冒和轻度感冒 】**
 -
+- [BB.]
+- `【 allergy 过敏 n 】`
+- `【 allergic 过敏的 adj 】`
+- > be allergic to. 对...过敏
+- **【 Many peoples 【 are allergic to 】 【 pollen 】. 许多人对花粉过敏 】**
+- // TIPS: Pay attention to the different pronunciations between 'allergy' and 'allergic'.
+-
 -
 -
 -
@@ -219,12 +289,21 @@
 -
 -
 - 5
-- `microorganism 微生物 n`
-- `organism 生物 n`
+- `microorganism 微生物 n` // microorganism microscope telescope stethoscope
+- `organism 生物 n` // organic 有机的 绿色的 生物的 adj // `organism` `organic`
 - `germ 细菌`
 - `bacteria 细菌`
 - `fungus 真菌`
 - `virus 病毒`
+- `【 multiply 繁殖 乘以 v 】`
+-
+- `【 disease 病 疾病 n 】`
+- `【 illness 疾病 n 】`
+- `【 cure 治疗 v n 】`
+- `【 treat 治疗 v 】`
+- `【 treatment 治疗 n 】`
+- // microorganism 微生物 n
+- // microscope telescope stethoscope
 
 ## (2) Sentences
 
