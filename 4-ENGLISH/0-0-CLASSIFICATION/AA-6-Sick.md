@@ -36,6 +36,9 @@
 - // friendship 友谊
 - // relationship 关系
 - // warship 战舰
+- // -
+- // `warship 战舰`
+- // `worship 崇拜`
 -
 - > 【 surgeon 外科医生 n 】
 - > 【 surgery 外科手术 n 】 // ------------【 perform surgery. 】
@@ -48,10 +51,11 @@
 -
 - **【 The 【 surgeon 】 wearing a 【 surgical mask 】 is 【 performing surgery 】 【 on 】 a patient. 戴着医用口罩的外科医生正在给病人做外科手术 】**
 -
-- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate 】with each other 【 to 】 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
+- **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate with 】 each other 【 to 】 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
 - // -
 - // cooperate 合作 v
 - // provide 提供 v
+- // 【 cooperate with. 和...合作 】
 - // -
 - // treat 对待 治疗
 - // treatment 治疗
@@ -71,7 +75,15 @@
 - `【 pharmacist 药剂师 】`
 - `【 pharmacy 药房 】`
 - `【 drugstore 药店 】`
+- `【 clinic 诊所 】`
 - **【 A 【 pharmacist 】 works in a 【 pharmacy 】. 药剂师在药房工作 】**
+-
+- [CC.]
+- `【 worship 崇拜 】`
+- `【 warship 战舰 】`
+- **【 He greatly 【 worship 】 the 【 pilot 】 of the 【 warship 】. 他非常崇拜战舰的飞行员 】**
+- // -- greatly 非常 adv
+- // -- pilot 飞行员 驾驶员
 -
 -
 -
@@ -100,7 +112,7 @@
 - `ointment 药膏`
 - `【 oral medicine. 口服药 】`
 - `【 injectable medicine. 注射药 】`
-- `traditional Chinese medicine. 中药`
+- `【 traditional Chinese medicine. 中药 】`
 - `dosage 剂量`
 - `【 instruction manual. 使用说明书 】`
 - `instruction 使用说明 说明`
@@ -129,6 +141,7 @@
 - `antibiotic 抗生素`
 - `oral medicine. 口服药` // oral medicine. = oral medication.
 - `injectable medicine. 注射药` // injectable medicine. = injectable medication.
+- `traditional Chinese medicine. 中药`
 - `pill 药丸`
 - `tablet 药片`
 - `capsule 胶囊`
@@ -172,7 +185,8 @@
 - `【 microscope 显微镜 】`
 - `【 telescope 望远镜 】`
 - // microorganism 微生物
-- // organism 生物
+- // organism 生物 = living things.
+- // living things. 生物
 - // organ 器官
 - // tissue 组织
 - **【 A microscope can see the organs and tissues of microorganisms. 显微镜可以看到微生物的器官和组织 】**
@@ -192,9 +206,9 @@
 - // generally 一般地 大体上 普通地
 -
 - [CC.]
-- `【 blood vessel. 血管 】`
 - `【 artery 动脉 n 】`
 - `【 vein 静脉 n 】`
+- `【 blood vessel. 血管 】`
 - `【 blood pressure. 血压 】`
 - `【 diastolic pressure. 舒张压 】 ` // --- dias + tolic
 - `【 systolic pressure. 收缩压 】` // ----- sys + tolic
@@ -291,23 +305,119 @@
 - 5
 - `microorganism 微生物 n` // microorganism microscope telescope stethoscope
 - `organism 生物 n` // organic 有机的 绿色的 生物的 adj // `organism` `organic`
+- `living things. 生物`
 - `germ 细菌`
 - `bacteria 细菌`
 - `fungus 真菌`
 - `virus 病毒`
-- `【 multiply 繁殖 乘以 v 】`
+-
+- `【 reproduce 繁殖 复制 v 】`
+- `【 reproduction 繁殖 生殖 n 】`
+- `【 inhibit 抑制 】`
+- `【 feed on. 以...为食 】`
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】`
 - `【 cure 治疗 v n 】`
 - `【 treat 治疗 v 】`
 - `【 treatment 治疗 n 】`
-- // microorganism 微生物 n
-- // microscope telescope stethoscope
+-
+- > microphone 麦克风
+- > microscope 显微镜
+- > microwave 微波炉
+- > microorganism 微生物 // organism = living things. 生物
+-
+- > microscope 显微镜
+- > telescope 望远镜
+- > stethoscope 听诊器
+-
+- > inhibit 抑制
+- > prohibit 禁止
+- > inhabit 居住于
+-
+- > inhabit 居住 v ----- 动物
+- > reside 居住 v ------ 人 // reside resign
+- > 【 reside in. 居住在... 】
+- > 【 live in. 生活在... 】
+-
+- > 【 reside 居住 v - 人 】 // reside resign
+- > 【 president 总统 】
+- > 【 resident 居民 】
+-
+- > reside 定居于 居住于 v
+- > settle 定居 解决 v
+-
+- > 【 quit 辞职 】
+- > 【 resign 辞职 】
+- > -
+- > sign 签名 v
+- > signature 签名 n
+- > assign 分配
+- > assignment 任务
+- > signal 信号
+- > -
+- > quit 辞职
+- > quite 相当的
+- > quiet 安静的 adj
+
+-
+- 1. **【 The 【 virus 】 is a kind of 【 microorganism 】 that we can only see through a 【 microscope 】 】**
+- // a kind of + 名词单数
+- // This is a kind of flower.
+-
+- 2. **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
+-
+- 3. **【 The 【 president 】 and the 【 residents 】 all 【 reside 】 in this city. 总统和居民都生活在这座城市 】**
+-
+- 4. **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
+- // -
+- // 【 feed on. 以...为食 】
 
 ## (2) Sentences
 
-##### (一) Sick Old
+```
+1
+The 【 surgeon 】 wearing a 【 surgical mask 】 is 【 performing surgery 】 【 on 】 a patient.
+戴着医用口罩的外科医生正在给病人做外科手术
+
+2
+The 【 surgeon 】 and the 【 internist 】 【 cooperate with 】 each other 【 to 】 provide treatment 【 for 】 patient.
+外科医生和内科医生相互合作，为患者提供治疗
+
+3
+The 【 pharmacist 】 works in a 【 pharmacy 】.
+药剂师在药房工作
+
+4
+【 Antibiotics 】 are a type of 【 oral medication 】 that includes various forms such as 【 capsules 】, 【 tablets 】, 【 pills 】.
+【抗生素】是一种【口服药物】，包括各种形式，如【胶囊】、【片剂】和【药丸】 】
+
+5
+【 Patients 】 need to take the 【 prescription 】 that 【 prescribed 】 by the 【 pharmacist 】 to the 【 pharmacy 】 to get 【 medication 】.
+患者需要用药剂师开的处方去药房拿药
+
+6
+The 【 virus 】 is 【 a kind of 】 【 · 】 that we can only see through a 【 microscope 】.
+【病毒】是一种我们只能通过【显微镜】才能看到的【微生物】。
+// -
+// a kind of + 名词单数
+
+7
+High temperature can 【 inhibit 】 the 【 reproduction 】 of the 【 bacterial 】.
+高温可以抑制细菌的繁殖
+
+8
+The president and the residents all live in this city.
+总统和居民都生活在这座城市
+
+9
+【 Viruses 】 are 【 feed on 】 【 bacteria 】.
+病毒以细菌为食
+// -
+// feed on. 以...为食
+```
+
+## (一) Sick Old
 
 - 2024-01-20
 - 1
@@ -540,7 +650,7 @@
 - `external 外面的 外部的`
 - `This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷`
 
-##### (一) Meet a Doctor
+## (一) Meet a Doctor
 
 ```1111111 1.1
 1
@@ -932,13 +1042,13 @@ malaria 疟疾 n
 // A new advance has been made in the control of malaria. 在控制疟疾方面已取得新的进展
 ```
 
-##### (三) Body
+## (三) Body
 
 ```
 
 ```
 
-##### (四) All
+## (四) All
 
 ```1111111
 headache 头痛
@@ -1197,11 +1307,12 @@ be allergic to 对...过敏
 My shoulders are stiff 我肩膀疼
 ```
 
-##### (五) Microorganism 微生物 // micro organism
+## (五) Microorganism 微生物 // micro organism
 
 ```
 Microorganism 微生物
 organism 生物
+living things. 生物
 // micro 微观的
 // organism 生物
 // organ 器官 机构
@@ -1353,7 +1464,7 @@ vital 必不可少的adj 重要部分n
 ![](../../images/head.png)
 ![](../../images/body.png)
 
-##### (六) Some words
+## (六) Some words
 
 ```
 medical 医疗的 医学的 内科的 adj

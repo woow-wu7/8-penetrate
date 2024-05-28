@@ -292,3 +292,31 @@ I don't like being 【 forced 】.
 // airline 航空公司
 // airplane 飞机
 ```
+
+##### 3 Make sentences 2024-05-28
+
+```
+1
+【 Viruses 】 【 feed on 】 【 bacteria 】.
+病毒以细菌为食
+-
+农民养了很多动物
+The farmer 【 raises 】 many animals.
+-
+They 【 feed 】 the horses with fresh grass.
+他们用新鲜的草喂马
+-
+// feed 饲养 喂养 为...提供食物
+// raise 养 饲养 增加 提升
+// 注意 raise 和 feed 的区别。 ( raise是养 ) ( feed是喂 )
+// -
+// feed on. 以...为食
+// -
+// feed 饲养 喂养 为...提供食物
+// field 领域 田
+// -
+// virus 病毒
+// bacteria 细菌 = term
+// fungus 真菌
+
+```
