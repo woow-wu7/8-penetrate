@@ -7,14 +7,14 @@
 - `internist 内科医生 n`
 -
 - `pediatrician 儿科医生`
-- `gynecologist 妇科医生`
+- `gynecologist 妇科医生` // gy + nec + ologist
 -
-- `dentist 牙医 牙医诊所`
+- `dentist 牙医 牙医诊所` // dental brace. // bluetooth // toothpaste toothbrush toothpick
 - `vet 兽医 兽医诊所`
 -
 - `doctor 医生`
 - `nurse 护士`
-- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe
+- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
 - `paramedic 护理人员`
 -
 -
@@ -33,16 +33,17 @@
 - // -
 - // internship 实习 实习期
 - // scholarship 奖学金
+- // relationship 关系 // --- 注意 relation(事物) 和 relationship(人与人) 之间的区别
 - // friendship 友谊
-- // relationship 关系
 - // warship 战舰
+- // worship 崇拜
 - // -
 - // `warship 战舰`
 - // `worship 崇拜`
 -
 - > 【 surgeon 外科医生 n 】
-- > 【 surgery 外科手术 n 】 // ------------【 perform surgery. 】
-- > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 】
+- > 【 surgery 外科手术 n 】 // ------------【 perform surgery. 做手术 】
+- > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 医用口罩 】
 -
 - _【 surgical mask. 外科口罩 医用口罩 】_
 - _【 perform surgery. 做外科手术 】_
@@ -57,18 +58,18 @@
 - // provide 提供 v
 - // 【 cooperate with. 和...合作 】
 - // -
-- // treat 对待 治疗
-- // treatment 治疗
+- // treat 对待 治疗 v
+- // treatment 治疗 n
 - // -
 - // cooperate 合作 v ----------- co + operate
-- // coexist 共存 v ------------- co + exist
+- // coexist 共存 和平共处 v ----- co + exist
 - //
 - // cooperation 合作 n --------- co + operation
 - // coexistence 共存 n --------- co + existence
 - // coincidence 巧合 n --------- co + incidence
 - // -
-- // relation 关系 -------------- 强调事物之间的关系
-- // relationship 关系 ---------- 强调人与人之间的关系
+- // `relation 关系 -------------- 强调事物之间的关系`
+- // `relationship 关系 ---------- 强调人与人之间的关系`
 -
 -
 - [BB.]
@@ -81,9 +82,34 @@
 - [CC.]
 - `【 worship 崇拜 】`
 - `【 warship 战舰 】`
-- **【 He greatly 【 worship 】 the 【 pilot 】 of the 【 warship 】. 他非常崇拜战舰的飞行员 】**
+- **【 He 【 greatly 】 【 worship 】 the 【 pilot 】 【 of 】 the 【 warship 】. 他非常崇拜战舰的飞行员 】**
 - // -- greatly 非常 adv
 - // -- pilot 飞行员 驾驶员
+-
+- [DD.]
+- `dentist 牙医`
+- `dental 牙齿的`
+- `【 dental braces. 牙套 】`
+- `【 dental floss. 牙线 】`
+- `Bluetooth 蓝牙` // tooth teeth 牙齿
+- _【 toothpaste 牙膏 】_ // paste 粘贴 v 膏 n
+- _【 toothbrush 牙刷 】_
+- _【 toothpick 牙签 】_
+- _【 tooth decay. 蛀牙 】_
+- -
+- _【 dental floss. 牙线 】_ // floss 丝线
+- _【 dental braces. 牙套 】_
+- _【 dental office. 牙科诊所 】_
+- _【 wisdom teeth. 智齿 】_ // wisdom 智慧 知识
+- -
+- **【 I 【 squeeze 】 the 【 toothpaste 】 onto the 【 toothbrush 】, then 【 brush 】 my teeth, and then use a 【 toothpick 】 to remove the 【 stuff 】 between my teeth. 我把牙膏挤在牙刷上，然后刷牙，再然后用牙签去掉牙缝里的东西 】**
+- -
+- **【 Both 【 dental braces 】 and 【 dental floss 】 can clean teeth. 牙套和牙线都能清洁牙齿 】**
+- -
+- **【 I'm going to the 【 dental office 】 for 【 dental care 】. 我要去牙科诊所做口腔护理 】**
+-
+- _【 have you ever been to the dentist? 你有去过看牙医吗？ 】_
+- _【 I have never been to the dentist. 我从没看过牙医 】_
 -
 -
 -
@@ -104,6 +130,7 @@
 - `medicine 药 医学` ------- 什么药都可以
 - `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
 - `oral medicine. 口服药`
+- `injectable medicine. 注射药`
 - `traditional Chinese medicine. 中药`
 -
 - `capsule 胶囊`
@@ -119,7 +146,7 @@
 - `manual 手册 说明书`
 - // oral English. 口语
 - // oral promise. 口头承诺
-- // oral cavity. 口腔
+- // oral cavity. 口腔 // cavity 腔 窟窿
 - // oral medicine. 口服药
 -
 - `inject 注射` // inject shot
@@ -139,7 +166,7 @@
 -
 - [BB.]
 - `antibiotic 抗生素`
-- `oral medicine. 口服药` // oral medicine. = oral medication.
+- `oral medicine. 口服药` // oral medicine. = oral medication. // oral promise. // oral cavity. // oral English.
 - `injectable medicine. 注射药` // injectable medicine. = injectable medication.
 - `traditional Chinese medicine. 中药`
 - `pill 药丸`
@@ -152,6 +179,7 @@
 - > oral English. 口语
 - > oral cavity. 口腔
 - > oral medicine. 口服药
+- > oral promise. 口头承诺
 - 1. **【 【 Antibiotics 】 are a type of 【 oral medication 】 that includes various forms such as 【 capsules 】, 【 tablets 】, and 【 pills 】. 【抗生素】是一种【口服药物】，包括各种形式，如【胶囊】、【片剂】和【药丸】 】**
 - 2. **【 The 【 instruction manual 】 includes 【 dosage instruction 】 for 【 antibiotics 】. 说明书上有抗生素的剂量说明 】**
 - // -
@@ -235,6 +263,7 @@
 - [SYMPTOM]
 - `【 slight 轻微的 】` // ------- slight fever. 轻微发烧
 - `【 severe 严重的 重的 】` // --- severe fever. 重感冒
+- // TIPS: Pay attention to the pronunciation of the word 'severe'.
 -
 - `infect 感染 传染 v`
 - `infection 感染 传染 n` // upper respiratory tract infection. 上呼吸道感染
@@ -294,6 +323,16 @@
 - > be allergic to. 对...过敏
 - **【 Many peoples 【 are allergic to 】 【 pollen 】. 许多人对花粉过敏 】**
 - // TIPS: Pay attention to the different pronunciations between 'allergy' and 'allergic'.
+-
+- [CC.]
+- `pollen 花粉`
+- `allergy 过敏 n` // allergic 过敏的 adj
+- `nausea 恶心` // nauseous 恶心的
+- `vomit 呕吐v 呕吐物n`
+- `swell 肿胀 v n`
+- `itch 痒 v n`
+- **【 【 pollen 】 can cause 【 allergies 】, 【 itching 】, 【 swelling 】, 【 nausea 】 and 【 vomiting 】. 花粉可以导致过敏，痒，肿胀，恶心和呕吐 】**
+-
 -
 -
 -
@@ -472,8 +511,7 @@ The president and the residents all live in this city.
 - `wellness 健康 n`
 - `wellbeing. 健康 n`
 -
--
-- `nausea 恶心`
+- - `nausea 恶心`
 - `vomit 呕吐`
 - // Nausea and vomiting are common symptoms. 恶心呕吐是常见的症状
 -

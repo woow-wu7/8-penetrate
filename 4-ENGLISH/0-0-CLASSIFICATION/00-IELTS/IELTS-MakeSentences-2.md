@@ -316,6 +316,7 @@ My 【 colleague 】 is my 【 college 】 【 classmate 】.
 // `soulmate 知己 灵魂伴侣` // ---- soul + mate
 // `teammate 队友` // ------------ team + mate
 // `classmate 同学` // ----------- class + mate
+// `approximate 近似v 近似的adj` -- approxi + mate
 // `mate 朋友 伙伴 伴侣`
 // -
 // TIPS: Pay attention to the pronunciation of the word 'college'. // col + le + ge

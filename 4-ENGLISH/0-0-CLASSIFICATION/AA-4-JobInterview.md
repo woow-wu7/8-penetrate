@@ -612,7 +612,7 @@
 - // -- growth 成长 增长 n
 - // -- development 发展 开发 n
 -
--
+-✓
 - 26
 - `passion 激情 热情 n`
 - `passionate 激情的 热情的 adj`
