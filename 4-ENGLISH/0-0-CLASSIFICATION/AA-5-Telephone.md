@@ -133,7 +133,7 @@
 - // 3. **【 She 【 got stuck in 】 a difficult situation and didn't know how to get out of it. 她陷入了困境，不知道如何摆脱 】**
 - // -- truck ---- 卡车
 - // -- struck --- 打 撞击
-- // 
+- //
 - // -- stuck ---- get stuck in.
 - // -- stock ---- stock market.
 - // -- stack ---- // 1.tech stack. 技术栈 // 2.a stack of books. 一堆书 // 3.a stack of paper. 一叠纸
@@ -666,6 +666,10 @@ I'm on the phone. 我在打电话
 -
 - `front-facing camera. 前置摄像头`
 - `rear camera. 后置摄像头`
+- `【 projector 投影仪 】` // project 项目
+- `【 webcam 网络摄像头 】`
+- // TIPS: Pay attention to the different pronunciations between 'project' and 'projector'.
+- // TIPS: Pay attention to the pronunciation of the 'webcam'.
 - -
 - `rear view mirror. 后视镜`
 - `rear view camera. 后视摄像头`

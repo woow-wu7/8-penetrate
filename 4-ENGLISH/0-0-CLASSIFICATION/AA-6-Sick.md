@@ -2,14 +2,15 @@
 
 ## (1) Words
 
-- 1
+1
+
 - `surgeon 外科医生 n`
 - `internist 内科医生 n`
 -
 - `pediatrician 儿科医生`
 - `gynecologist 妇科医生` // gy + nec + ologist
 -
-- `dentist 牙医 牙医诊所` // dental brace. // bluetooth // toothpaste toothbrush toothpick
+- `dentist 牙医 牙医诊所` // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
 - `vet 兽医 兽医诊所`
 -
 - `doctor 医生`
@@ -129,7 +130,7 @@
 -
 - `medicine 药 医学` ------- 什么药都可以
 - `medication 药` --------- 处方药，即需要 pharmacist 开 prescription
-- `oral medicine. 口服药`
+- `oral medicine. 口服药` // oral English. // oral promise. // oral cavity.
 - `injectable medicine. 注射药`
 - `traditional Chinese medicine. 中药`
 -
@@ -143,7 +144,7 @@
 - `dosage 剂量`
 - `【 instruction manual. 使用说明书 】`
 - `instruction 使用说明 说明`
-- `manual 手册 说明书`
+- `manual 手册 说明书 n / 手工的adj`
 - // oral English. 口语
 - // oral promise. 口头承诺
 - // oral cavity. 口腔 // cavity 腔 窟窿
@@ -175,7 +176,7 @@
 - `dosage 剂量`
 - `【 instruction manual. 使用说明书 】`
 - `instruction 说明 使用说明`
-- `manual 手册 说明书`
+- `manual 手册 说明书n / 手动的 手工的 adj`
 - > oral English. 口语
 - > oral cavity. 口腔
 - > oral medicine. 口服药
@@ -217,7 +218,7 @@
 - // living things. 生物
 - // organ 器官
 - // tissue 组织
-- **【 A microscope can see the organs and tissues of microorganisms. 显微镜可以看到微生物的器官和组织 】**
+- **【 A 【 microscope 】 can see the 【 organs 】 and 【 tissues 】 of 【 microorganisms 】. 显微镜可以看到微生物的器官和组织 】**
 -
 - [BB.]
 - `【 physical examination. 体检 】` // physical examination report.
@@ -267,14 +268,19 @@
 -
 - `infect 感染 传染 v`
 - `infection 感染 传染 n` // upper respiratory tract infection. 上呼吸道感染
-- `inflammation 发炎 炎症 n`
+- `【 inflame 发炎 v 】`
+- `【 inflammation 发炎 炎症 n 】`
 - `swell 肿胀 膨胀 v` // swelling 肿胀 膨胀 n // swell up. 肿胀
 - `fever 发烧`
 - `antibiotic 抗生素`
+- // TIPS: Pay attention to the pronunciation of the word 'infect'.
+- // TIPS: Pay attention to the pronunciation of the word 'inflame'.
 -
 - `allergy 过敏 n`
 - `allergic 过敏的 adj` // be allergic to. 对...过敏
 - `itch 痒 v n`
+- // TIPS: Pay attention to the pronunciation of the word 'allergy'.
+- // TIPS: Pay attention to the pronunciation of the word 'allergic'.
 -
 - `nausea 恶心 n`
 - `nauseous 恶心的 adj`
