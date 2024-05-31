@@ -157,13 +157,29 @@
 -
 - [AA.]
 - used to do sth.
+- **【 I 【 used to 】 exercise 【 regularly 】, but now I don't like exercise 【 anymore 】. 我过去常常运动，现在不爱运动了 】**
 - **【 I 【 used to 】 love you. 我曾经爱过你 】**
 - **【 I 【 used to 】drink 【 beer 】. 我过去常喝啤酒 】**
 
 - **【 This tool 【 is used to 】 fix the car. 这个工具是用来修车的 】**
 -
-- **【 we are used to noise from the traffic. 】**
-- **【 I am used to getting up early. 】**
+- **【 I 【 am used to getting 】 up early. 】**
+- **【 I 【 am used to going 】 to bed early and 【 getting 】 up early. 】**
+- **【 we 【 are used to 】 noise from the traffic. 】**
+-
+- [BB.]
+- `【 regularly 经常地 定期地 adv 】` -------- 强调规律性
+- `【 often 经常的 adv 】` ----------------- 强调频率
+- `【 regular 定期地 普通的 adj 】`
+- regular 定期的 普通的 正式的 adj
+- regularly 定期地 经常的 adv
+  -often 经常的 adv
+- 【 regular gas. 普通汽油 】
+- 【 premium gas. 优质汽油 】
+- 【 regular physical examination. 定期体检 】
+- 【 regular teacher. 正式教师 】
+- 【 irregular verb. 不规则动词 】
+- 【 regular expression. 正则表达式 】// new Regexp
 
 - 1
 - `【 affect 影响 v 】` ------------- 直接的影响
@@ -187,6 +203,10 @@
 - `【 lightning 闪电 】`
 - `【 lighter 打火机 】`
 - `【 flashlight 手电筒 】`
+-
+- `【 lighting 光n 照亮v 】`
+- `【 lightning 闪电 】`
+-
 - light 光 光线 明亮的 -> lighting
 -
 -
@@ -209,6 +229,7 @@
 - `【 collocation 搭配 n 】`
 - > 【 locate 定位 v 】
 - > 【 collocate 搭配 v 】
+- > 【 fixed collocation. 固定搭配 】
 - **【 We need to 【 locate 】 the 【 position 】 where the 【 fixed collocation 】 【 appears 】 in the sentence. 我们需要在句子中定位固定搭配出现的地方 】**
 -
 -
