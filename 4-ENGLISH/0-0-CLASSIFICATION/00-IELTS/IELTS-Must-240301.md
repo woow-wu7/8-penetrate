@@ -1155,6 +1155,11 @@
 - _【 oral hygiene. 空腔卫生 】_ // oral 空腔的
 - _【 dental care. 口腔护理 】_
 - -
+- _【 oral medicine. 口服药 】_
+- _【 oral cavity. 口腔 】_
+- _【 oral promise. 口头承诺 】_
+- _【 oral English. 口语 】_
+- -
 - _【 Bluetooth. 蓝牙 】_
 - _【 tooth decay. 蛀牙 】_
 - _【 wisdom teeth. 智齿 】_

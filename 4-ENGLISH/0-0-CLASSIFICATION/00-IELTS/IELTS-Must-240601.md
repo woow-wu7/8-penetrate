@@ -1,0 +1,111 @@
+###### 2024-06-01
+
+- 1
+- `【 subtitle 字幕 副标题 】`
+- `【 caption 字幕 说明文字 】`
+-
+- `【 chapter 章 篇章 章节 】`
+- `【 caption 字幕 说明文字 】`
+- `【 preface 前言 序言 】`
+- // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
+-
+- `【 episode 集 一集 】`
+- `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
+- `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
+- stay tuned. 继续收看 敬请关注
+-
+- `【 actress 女演员 】` // prince princess // headmaster headmistress // prince province
+- `【 actor 男演员 】`
+- `【 tractor 拖拉机 】`
+-
+- `【 act in. = act as. 扮演 】`
+- `【 participate in. 参加 】`
+-
+- `【 animation 动画 动画片 】`
+- `【 cartoon 卡通片 】`
+-
+- `【 cinema 电影院 n 】`
+- `【 movie theater. 电影院 n 】`
+- `【 movie 电影 】`
+-
+- `【 title 标题 】` // title // subtitle // caption
+- `【 preface 前言 序言 】`
+- `【 chapter 章节 】`
+- -
+- `【 tale 故事n 讲述n 】`
+- `【 story 故事 情节 】`
+- `【 novel 小说 】`
+-
+- `【 tale 故事 】`
+- `【 tail 尾巴 】`
+-
+-
+- 1. **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
+- 2. **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
+- 3. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
+- 4. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+- // --【 a total of. 总共 】
+- // -- The company has【 a total of 】 200 【 employees 】. 公司总共有 200 名员工
+- // -- After graduation, I have had 【 a total of 】 four 【 work experiences 】. 毕业之后，我一共有四段工作经历
+-
+-
+- [AA.]
+- `【 series 串联 系列 连续 】`
+- `【 parallel 平行的adj 并行的adj 纬线n 】`
+- `【 parallelogram 平行四边形 】`
+- _【 TV series. = TV drama. 电视剧 】_ // --- series 连续
+- _【 a series of test. 一系列测试 】_ // ----- series 系列
+- _【 series circuit. 串联电路 】_ // --------- series 串联
+- _【 parallel circuit. 并联电路 】_ // circuit 电路
+- _【 electric circuit. 电路 】_
+- 1. **【 【 Opposite 】 sides of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形对边相互平行 】**
+- 2. **【 【 electric circuits 】 【 are divided into 】 【 series circuits 】 and 【 parallel circuits 】. 电路分为串联电路和并联电路 】**
+- // -- 【 each other. 相互 】
+- // -- 【 be divided into. 被分为... 被分成... 】
+-
+-
+- [BB.]
+- `【 actor 男演员 】` // actor // tractor
+- `【 actress 女演员 】`
+- `【 prince 王子 】` // prince // province
+- `【 princess 公主 】`
+- `【 headmaster 男校长 】`
+- `【 headmistress 女校长 】`
+- _【 act in. 扮演 】_
+- _【 act as. 扮演 】_
+- _【 participate in. 参加 】_
+- **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+-
+-
+- [CC.]
+- `【 parallelogram 平行四边形 】` // parallel series
+- `【 diamond 菱形 砖石 】`
+- `【 trapezoid 梯形 】`
+- `【 triangle 三角形 】`
+- `【 rectangle 长方形 】`
+- `【 square 正方形 [ 广场 ] 】`
+- oval 椭圆形
+- circle 圆形
+- semicircle 半圆
+- `【 polygon 多边形 】`
+- `【 pentagon 五边形 】`
+- `【 hexagon 六边形 】`
+- sector 扇形
+- heart 心形
+- star 星形
+- `【 sphere 球 球体 】`
+- `【 cube 立方体 】` // --- cube cuboid
+- `【 cuboid 长方体 】`
+- `【 cylinder 圆柱 】`
+- `【 cone 圆锥 】`
+-
+-
+- [DD.]
+- `【 tale 故事 】`
+- `【 tail 尾巴 】`
+- `【 fairy 仙女 小精灵 】`
+- `【 Fairy tale. 童话故事 】`
+- `【 tail light. = brake light. 尾灯 】`
+- _【 fog light. 雾灯 】_
+- **【 This is a 【 fairy tale 】 【 about 】 【 tail 】. 这是一本关于尾巴的童话故事 】**
+- **【 Most little kids love to read 【 fairy tales 】. 很多小孩都喜欢童话故事 】**
