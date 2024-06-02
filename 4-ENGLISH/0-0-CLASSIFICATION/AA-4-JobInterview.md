@@ -739,7 +739,7 @@
 - `simulation 模拟 n`
 - `accumulate 累积 积攒 v`
 - _【 wealth accumulation. 财富积累 】_
-- _【 spiritual wealth. 精神积累 】_
+- _【 spiritual wealth. 精神财富 】_
 - _【 the process of. ...的过程 】_
 - **【 The computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】. 计算机可以模拟他财富积累的过程 】**
 - -

@@ -526,11 +526,17 @@ Do you 【 suffer from 】 【 insomnia 】?
 Do you 【 have trouble with 】 【 insomnia 】?
 你有失眠困扰吗？
 -
+【 insomniacs 】 【 suffer from 】 【 insomnia 】 for a long time.
+失眠症患者长期遭受失眠的困扰
+-
 // -
 // 【 long-term doing sth. 长期做某事 】
 // -
 // 【 stay up late. 熬夜 】
 // 【 insomnia 失眠 】---------------- in + som + nia
+// -
+// 【 insomnia 失眠 n 】
+// 【 insomniac 失眠症患者 n 】
 // -
 // lead to. 导致
 // -
@@ -856,6 +862,10 @@ I have already studied hard, but I haven't seen any 【 progress 】.
 -
 Do you think you have 【 made progress in 】 English?
 你认为你的英语有进步吗？
+-
+【 Do you think 】 the most important part 【 is what 】?
+Which part 【 do you think 】 is the most important?
+你认为哪个部分最重要
 -
 in the 【 process 】 of learning, 【 progress 】 is 【 quite 】 slow.
 在学习【过程】中，【进步】是相当缓慢的

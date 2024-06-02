@@ -266,19 +266,31 @@
 - `【 severe 严重的 重的 】` // --- severe fever. 重感冒
 - // TIPS: Pay attention to the pronunciation of the word 'severe'.
 -
-- `infect 感染 传染 v`
-- `infection 感染 传染 n` // upper respiratory tract infection. 上呼吸道感染
-- `【 inflame 发炎 v 】`
-- `【 inflammation 发炎 炎症 n 】`
-- `swell 肿胀 膨胀 v` // swelling 肿胀 膨胀 n // swell up. 肿胀
-- `fever 发烧`
-- `antibiotic 抗生素`
-- // TIPS: Pay attention to the pronunciation of the word 'infect'.
-- // TIPS: Pay attention to the pronunciation of the word 'inflame'.
+- `【 infect 感染 传染 v 】`
+- `【 infection 感染 传染 n 】`
+- `【 upper respiratory tract infection. 上呼吸道感染 】`
 -
-- `allergy 过敏 n`
-- `allergic 过敏的 adj` // be allergic to. 对...过敏
-- `itch 痒 v n`
+- `【 insomnia 失眠症 n 】`
+- `【 insomniac 失眠症患者 n 】`
+-
+- `【 inflame 发炎 v 】`
+- `【 inflamed 发炎的 adj 】`
+- `【 inflammation 发炎 炎症 n 】`
+-
+- `【 allergy 过敏 n 】`
+- `【 allergen 过敏原 n 】`
+- `【 allergic 过敏的 adj 】`
+- _【 be allergic to. 对...过敏 】_
+-
+- `【 scar 伤疤 】`
+- `【 wound 伤口 】`
+- `【 recover 恢复 康复 】`
+-
+- `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
+- `【 swollen 肿胀的 adj 】`
+- `【 itch 痒 v n 】`
+- `【 itchy 痒的 adj 】`
+- `【 rich 富有的adj 富人n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'allergy'.
 - // TIPS: Pay attention to the pronunciation of the word 'allergic'.
 -
@@ -286,6 +298,11 @@
 - `nauseous 恶心的 adj`
 - `vomit 呕吐v 呕吐物n` // vomit = throw up. 呕吐
 - `throw up. 呕吐`
+-
+- `fever 发烧`
+- `antibiotic 抗生素`
+- // TIPS: Pay attention to the pronunciation of the word 'infect'.
+- // TIPS: Pay attention to the pronunciation of the word 'inflame'.
 -
 - `burn 燃烧 烧伤 v n`
 -
@@ -325,12 +342,43 @@
 -
 - [BB.]
 - `【 allergy 过敏 n 】`
+- `【 allergen 过敏原 n 】`
 - `【 allergic 过敏的 adj 】`
-- > be allergic to. 对...过敏
+- > 【 be allergic to. 对...过敏 】
 - **【 Many peoples 【 are allergic to 】 【 pollen 】. 许多人对花粉过敏 】**
+- **【 【 allergy 】 is a common 【 symptom 】 【 of 】 a cold. 过敏是感冒的常见症状 】**
+- **【 【 pollen 】 and 【 dust 】 are common 【 allergens 】. 花粉和灰尘是常见的过敏原 】**
 - // TIPS: Pay attention to the different pronunciations between 'allergy' and 'allergic'.
 -
 - [CC.]
+- `【 inflame 发炎 激怒 v 】`
+- `【 inflamed 发炎的 】`
+- `【 inflammation 炎症 n 】`
+- _【 be accompanied by. 伴随有... 】_
+- **【 【 colds 】 【 are 【 usually 】 【 accompanied 】 by 】 【 fever 】 and 【 inflammation 】 . 感冒一般伴有发烧和炎症 】**
+- // -- company 公司
+- // -- accompany 伴随 陪伴
+- // -- 【 be accompanied by. 伴随有 】
+-
+- [DD.]
+- `【 swell 肿胀 v 】` // swell -> swollen
+- `【 swollen 肿胀的 adj 】`
+- `【 itch 痒 v n 】`
+- `【 itchy 发痒的 adj 】`
+- `【 rich 富裕的adj 富人n 】`
+- `【 scar 伤疤 n 】`
+- `【 wound 伤口 n 】`
+- **【 The 【 scar area 】 is both 【 swollen 】 and 【 itchy 】. 伤疤的地方既肿胀又痒 】**
+-
+- [EE.]
+- `【 recover 恢复 康复 v 】`
+- `【 recovery 恢复 康复 n 】`
+- `【 scar 伤疤 n 】`
+- `【 wound 伤口 】`
+- _【 turn into. 变成 】_
+- **【 After 【 recovery 】, the 【 wound 】 【 turned into 】 【 scar 】. 康复后伤口变成了伤疤 】**
+-
+- [FF.]
 - `pollen 花粉`
 - `allergy 过敏 n` // allergic 过敏的 adj
 - `nausea 恶心` // nauseous 恶心的
