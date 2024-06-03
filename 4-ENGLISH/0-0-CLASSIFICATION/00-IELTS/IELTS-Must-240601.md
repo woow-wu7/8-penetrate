@@ -109,3 +109,34 @@
 - _【 fog light. 雾灯 】_
 - **【 This is a 【 fairy tale 】 【 about 】 【 tail 】. 这是一本关于尾巴的童话故事 】**
 - **【 Most little kids love to read 【 fairy tales 】. 很多小孩都喜欢童话故事 】**
+
+###### 2024-06-02
+
+- 1
+- `【 relieve 减轻 缓解 v 】`
+-
+- `【 pressure 压力 】` -------- 物理压力
+- `【 stress 压力 】` ---------- 心理压力
+- `【 street 街道 】`
+-
+- `【 anxiety 焦虑 n 】`
+- `【 anxious 焦虑的 adj 】`
+-
+- `【 tension 紧张 n 】`
+- `【 tense 紧张的 adj 】`
+- `【 nervous 紧张的 adj】`
+-
+- `【 exam 考试 】`
+- `【 examination 考试 】`
+-
+- `【 massage 按摩 v n 】`
+-
+- _【 relieve stress. 缓解压力 】_ // relieve stress. = relieve pressure.
+- _【 relieve tension. 缓解紧张 】_
+- _【 relieve pain. 缓解疼痛 】_
+-
+- _【 be anxious about sth. 对...感到焦虑 】_
+-
+- 1. **【 If you are anxious about exam, you can relieve stress and relieve tension though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
+- 2. **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
+- 3. **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**

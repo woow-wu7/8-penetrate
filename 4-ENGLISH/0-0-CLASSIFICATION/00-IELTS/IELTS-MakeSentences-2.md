@@ -766,6 +766,9 @@ I 【 have no patience 】 to wait for you 【 anymore 】.
 I 【 have no patience in waiting 】 for you.
 我没有耐心等你了
 -
+We should have 【 patience 】 to 【 patient 】.
+我们对病人要有耐心
+-
 // -
 // patient 耐心的 adj  病人n
 // patiently 耐心地 adv
@@ -922,6 +925,7 @@ We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】.
 感谢您的耐心
 请耐心等待
 我没有耐心等你了
+我们对病人要有耐心
 -
 我们昨天学的是第几课？
 -

@@ -1,9 +1,8 @@
-# Sick
+## Sick
 
-## (1) Words
+## (1) Must Words
 
-1
-
+- 1
 - `surgeon 外科医生 n`
 - `internist 内科医生 n`
 -
@@ -12,6 +11,13 @@
 -
 - `dentist 牙医 牙医诊所` // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
 - `vet 兽医 兽医诊所`
+-
+- `【 specialist 专家 专科医生 】`
+- `【 expert 专家 】`
+- > 【 legal specialist. 法律专家 】
+- > 【 eye specialist. 眼科专家 】
+- > myopia 近视 n
+- > vision 视力 视野 n
 -
 - `doctor 医生`
 - `nurse 护士`
@@ -48,6 +54,8 @@
 -
 - _【 surgical mask. 外科口罩 医用口罩 】_
 - _【 perform surgery. 做外科手术 】_
+- _【 appendix surgery. 阑尾手术 】_
+-
 - > perform 表演 执行 v
 - > performance 表演 执行 绩效 性能 n
 -
@@ -126,6 +134,7 @@
 - `pharmacist 药剂师`
 - `prescription 处方 药方 n`
 - `prescribe 开处方 v`
+- `describe 描述 v`
 - // TIPS: Pay attention to the different pronunciations between 'prescription' and 'prescribe'.
 -
 - `medicine 药 医学` ------- 什么药都可以
@@ -194,6 +203,10 @@
 -
 - 3
 - `ambulance 救护车`
+- `first aid. 急救`
+- `first aid kit. 急救箱` // just in case. 以防万一
+- `urgent 紧急的 adj` // urgent = emergency
+- `emergency 紧急的 adj`
 - `stretcher 担架` // stretch 伸展 拉伸 // stretcher
 - `bandage 绷带`
 - `thermometer 体温计`
@@ -211,6 +224,7 @@
 -
 - [AA].
 - `【 stethoscope 听诊器 】`
+- `【 otoscope 耳镜 】`
 - `【 microscope 显微镜 】`
 - `【 telescope 望远镜 】`
 - // microorganism 微生物
@@ -253,6 +267,10 @@
 - // barrel 桶 一桶
 - **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
 -
+- [EE.]
+- `【 first aid kit. 急救箱 】`
+- `【 just in case. 以防万一 】`
+- **【 Bring a 【 first aid kit 】 【 just in case 】. 带上急救箱以防万一 】**
 -
 -
 -
@@ -264,11 +282,14 @@
 - [SYMPTOM]
 - `【 slight 轻微的 】` // ------- slight fever. 轻微发烧
 - `【 severe 严重的 重的 】` // --- severe fever. 重感冒
+- `【 relieve 减轻 缓解 v 】`
 - // TIPS: Pay attention to the pronunciation of the word 'severe'.
 -
 - `【 infect 感染 传染 v 】`
 - `【 infection 感染 传染 n 】`
+- `【 respiratory tract. 呼吸道 】`
 - `【 upper respiratory tract infection. 上呼吸道感染 】`
+- `【 lower respiratory tract infection. 上呼吸道感染 】`
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
@@ -284,10 +305,12 @@
 -
 - `【 scar 伤疤 】`
 - `【 wound 伤口 】`
-- `【 recover 恢复 康复 】`
+- `【 recover 恢复 康复 v 】`
+- `【 recovery 恢复 n 】`
 -
 - `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
 - `【 swollen 肿胀的 adj 】`
+-
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
 - `【 rich 富有的adj 富人n 】`
@@ -331,6 +354,8 @@
 - `diarrhea 腹泻 n`
 - `itch 痒 v n`
 -
+- `blocked nose. 鼻塞`
+- `runny nose. 流鼻涕`
 -
 - [AA.]
 - `【 slight 轻微的 adj 】` // slight cold. = mild cold.
@@ -363,6 +388,7 @@
 - [DD.]
 - `【 swell 肿胀 v 】` // swell -> swollen
 - `【 swollen 肿胀的 adj 】`
+- `【 swelling 肿胀 n 】`
 - `【 itch 痒 v n 】`
 - `【 itchy 发痒的 adj 】`
 - `【 rich 富裕的adj 富人n 】`
@@ -380,11 +406,15 @@
 -
 - [FF.]
 - `pollen 花粉`
-- `allergy 过敏 n` // allergic 过敏的 adj
-- `nausea 恶心` // nauseous 恶心的
+- `【 allergy 过敏 n 】` // allergic 过敏的 adj // allergen 过敏原 n
+- `【 allergen 过敏原 n 】`
+- `【 allergic 过敏的 adj 】`
+- `nausea 恶心 n` // nauseous 恶心的
+- `nauseous 恶心的 adj`
 - `vomit 呕吐v 呕吐物n`
 - `swell 肿胀 v n`
 - `itch 痒 v n`
+- // TIPS: Pay attention to the pronunciation of the word 'nausea'.
 - **【 【 pollen 】 can cause 【 allergies 】, 【 itching 】, 【 swelling 】, 【 nausea 】 and 【 vomiting 】. 花粉可以导致过敏，痒，肿胀，恶心和呕吐 】**
 -
 -
@@ -466,7 +496,53 @@
 - // -
 - // 【 feed on. 以...为食 】
 
-## (2) Sentences
+## (2) Must Sentences
+
+- 1
+- `【 make an appointment. 预约 】`
+- `【 in advance. 提前 】`
+- `【 check the eyes. 检查眼睛 】`
+- `【 check the vision. 检查视力 】`
+- 1. **【 I have 【 made an appointment 】 【 with 】 the doctor 【 to 】 【 check my eyes 】. 我预约了医生检查眼睛 】**
+- 2. **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】**
+- 3. **【 I would like to 【 make an appointment 】 【 to see 】 Dr. William. 我想要预约看诊威廉医生 】**
+- 4. **【 Didn't you 【 make an appointment 】 【 in advance? 】 你没有提前预约吗？ 】**
+- // -- make -> made
+-
+-
+-
+-
+-
+- 2
+- `【 fill out. 填写 】`
+- `【 hand over. 交给 移交 转交 交付 】`
+- `【 hand in. 上交 】`
+- // 【 deposit slip. 存款单 】
+- // 【 withdraw slip. 取款单 】
+- 1. **【 After 【 filling out 】 this form, 【 hand it over 】 【 to 】 the nurse. 把这张表格填好后，交给护士 】**
+- 2. **【 Please 【 fill out 】 this 【 form 】. 请填写这张表格 】**
+- 3. **【 【 hand over 】 this form to the nurse. 】. 把这张表格交给护士 】**
+- 4. **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
+-
+-
+-
+-
+-
+- 3
+- `【 across from. 在...的对面 】`
+- `【 opposite 相反的adj 在...对面 】`
+- 1. **【 The bank is 【 across from 】 the supermarket. 银行在超市对面 】**
+- 2. **【 The bank is 【 opposite 】 the supermarket. 银行在超市对面 】**
+- 3. **【 Tall is the 【 opposite 】 of the short. “高”与“矮”相反 】**
+-
+-
+-
+-
+-
+-
+- `【 I'm just not feeling good. 】`
+
+## (3) Sentences
 
 ```
 1
@@ -518,13 +594,17 @@ The president and the residents all live in this city.
 - // She 【 died of 】 a brain tumor. 她死于脑瘤
 - 2
 - 【 living things. 生物 】
+- 【 organism 生物 】
+- 【 microorganism 微生物 】
 -
 - 2024-02-18
 - **【 exhibit 炫耀 展览 】**
 - **【 inhibit 抑制 】**
 - **【 prohibit 禁止 】** // 通常指法律上的禁止
 - **【 prohibit doing sth. 禁止做某事 】**
-- **【 inhabit 居住于 】**
+- **_【 inhabit 居住 】_**
+- **_【 reside 居住 定居 】_**
+- **_【 settle 定居 】_**
 - **【 The government 【 prohibits smoking 】 in public places. 】**
 - // `inhibit 抑制`:【 High temperatures 【 inhibit 】 bacterial/bacteria growth. 高温抑制细菌生长 】
 - // `prohibit 禁止`: 【 prohibit 】 【 insulting 】 others. 禁止侮辱他人
@@ -993,7 +1073,7 @@ I like to make an appointment. 我想预约一下
 Are you open on weekends? 你们周末开门吗？
 
 2
-【 Medical insurance card. 医保卡】
+【 Medical insurance card. 医保卡 】
 // insurance 保险
 
 3

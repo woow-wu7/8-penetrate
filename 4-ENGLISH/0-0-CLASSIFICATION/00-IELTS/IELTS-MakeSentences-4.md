@@ -96,26 +96,7 @@ Why do you think you will be a good 【 candidate 】 【 for 】 this 【 posit
 // candidate 候选人
 
 
-
-------- ------- ------- ------- ------- ------- -------
-我们需要去营救在地震中受伤的难民
--
-无论你多有钱，你都必须遵守法律
-计算机可以模拟他财富积累的过程
--
-你认为哪个部分最重要
-你认为你的英语有进步吗？
-我已经努力的学习了，但是没有任何进步
-学习是一个长期坚持以取得进步的过程
-我们应该坚持锻炼和学习
-只要努力，你的学习就会取得进步
-你为什么认为你会是这个职位的好候选人？
-```
-
-##### 2 Make sentences 2024-06-02
-
-```
-1
+4
 Before 【 starting 】, you need to 【 think about 】 how to do this task.
 在开始之前，你需要想好如何去做这个任务
 -
@@ -125,7 +106,7 @@ Do you have a time?
 你有空吗？
 -
 【 Take a break 】, we'll 【 be right back 】.
-休息一下，我们马上回来。
+休息一下，我们马上回来
 -
 After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 give your eyes a break 】.
 长时间看屏幕后，需要让你的眼睛休息一下
@@ -143,7 +124,38 @@ After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 giv
 // look at. 看
 
 
-2
+5
+I don't know 【 who to contact 】?
+我不知道该联系谁
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我们需要去营救在地震中受伤的难民
+-
+无论你多有钱，你都必须遵守法律
+计算机可以模拟他财富积累的过程
+-
+你认为哪个部分最重要
+你认为你的英语有进步吗？
+我已经努力的学习了，但是没有任何进步
+学习是一个长期坚持以取得进步的过程
+我们应该坚持锻炼和学习
+只要努力，你的学习就会取得进步
+你为什么认为你会是这个职位的好候选人？
+-
+在开始之前，你需要想好如何去做这个任务
+你有空吗？
+休息一下，我们马上回来
+长时间看屏幕后，需要让你的眼睛休息一下
+-
+我不知道该联系谁
+```
+
+##### 2 Make sentences 2024-06-02
+
+```
+1
 【 allergy 】 is a 【 common 】 【 symptom 】 【 of 】 a cold.
 过敏是感冒常见的症状
 -
@@ -164,8 +176,8 @@ Are you 【 allergic 】 to 【 pollen 】?
 // 【 be allergic to. 对...过敏 】
 
 
-3
-Colds 【 are usually 【 accompanied 】 by 】 【 fever 】 and 【 inflammation 】.
+2
+【 Colds 】 【 are usually 【 accompanied 】 by 】 【 fever 】 and 【 inflammation 】.
 感冒一般伴有发烧和炎症
 -
 My feet are 【 inflamed 】.
@@ -178,10 +190,13 @@ My feet are 【 inflamed 】.
 // -
 // company 公司
 // accompany 伴随 陪伴 v
+// -
 // 【  be accompanied by. 伴随有... 】
+// -
+// cold 寒冷的 感冒
 
 
-4
+3
 【 insomniacs 】 【 suffer from 】 【 insomnia 】 【 for 】 a long time.
 失眠症患者长期遭受失眠的困扰
 -
@@ -194,4 +209,182 @@ My feet are 【 inflamed 】.
 // -
 //【 long-term doing sth. 长时间做某事 】
 //【 suffer from. 遭受 】
+
+
+4
+The 【 scar area 】 is both 【 swollen 】 and 【 itchy 】.
+伤疤的地方既肿胀又痒
+-
+After 【 recovery 】, the 【 wound 】 【 turned into 】 【 scar 】.
+康复后伤口变成了伤疤
+-
+The 【 economy 】 is slowly 【 recovering 】 from the 【 recession 】.
+经济正在从衰退中缓慢复苏
+-
+After treatment, her 【 mental state 】 is 【 【 gradually 】 recovered 】.
+经过治疗，她的精神状态逐渐恢复了 // 被动语态
+-
+// -
+// 【 scar 伤疤 】
+// 【 wound 伤口 】
+// -
+//【 swell 肿胀 v 】
+//【 swollen 肿胀的 adj 】
+//【 swelling 肿胀 n 】
+// -
+//【 itch 痒 v n 】
+//【 itchy 痒的 adj 】
+// -
+// itch 痒 v n
+// rich 富裕的adj 富裕的人n
+// rich = wealthy
+// wealth 财富
+// wealthy 富裕的adj 富裕的人
+// -
+// turn into. 变成
+// -
+// 【 recover 恢复 康复 v 】
+// 【 recovery 恢复 n 】
+// -
+// -
+// 【 recession 经济衰退 】
+// 【 economy 经济 n 】
+// -
+// 【 recover your account. 恢复您的账号 】
+// 【 gradually recover. 逐渐恢复 】
+// -
+// 【 gradual 逐渐的 adj 】
+// 【 gradually 逐渐地 adv 】
+
+
+5
+【 In addition to 】 having a 【 fever 】, he also has symptoms of 【 nausea 】 and 【 vomiting 】.
+除了发烧，他还有恶心和呕吐的症状
+-
+// -
+// nausea 恶心 反胃 n
+// vomit 呕吐v 呕吐物n
+// -
+// nausea 恶心 反胃 n
+// nauseous 恶心的 adj
+// -
+// vomit 呕吐v 呕吐物n
+// throw up. 呕吐
+// vomit = throw up.
+
+
+6
+【 antibiotics 】 can 【 reduce 】 the symptoms of 【 inflammation 】 and 【 swelling 】.
+抗生素可以减轻发炎和肿胀的症状
+-
+A 【 healthy diet 】 can 【 reduce 】 the 【 probability 】 【 of 】 getting sick.
+健康的饮食可以减少患病的概率
+-
+【 reviewing 】 can 【 increase 】 the 【 probability 】 【 of 】 finding a job.
+复习可以增加找到工作的概率
+-
+// -
+// antibiotic 抗生素n 抗生素的adj
+// -
+// reduce 减少
+// -
+// 【 healthy diet. 健康的饮食 】
+// 【 health 健康 n 】
+// 【  healthy 健康的 adj 】
+// diet 日常饮食
+// -
+// get sick. 生病
+// -
+// 【 probability 概率 n 】
+// 【 the probability of. ...的概率 】
+// -
+// 【 【 reduce 】 the probability of. 减少...的概率 】
+// 【 【 increase 】 the probability of. 增加...的概率 】
+
+
+7
+After 【 filling out 】 the form, 【 hand it over 】 【 to 】 the nurse.
+把表格填好后，交给护士
+-
+【 fill out 】 the 【 deposit slip 】.
+填写存款单
+-
+I have 【 made an appointment 】 【 with 】 the doctor 【 to 】 【 check my eyes 】.
+我预约了医生检查眼睛
+-
+Didn't you 【 make an appointment 】 【 in advance 】?
+你没有提前预约吗？
+-
+// -
+// 【 fill out. 填写 】
+// 【 hand over. 交给 转交 交付 】
+// -
+// 【 hand over. 交给 转交 交付 】
+// 【 hand in. 上交 】
+// -
+// 【 deposit slip. 存款单 】
+// 【 withdraw slip. 取款单 】
+// -
+// 【 make an appointment. 预约 】
+// 【 in advance. 提前 】
+
+
+8
+If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 【 through 】 【 exercising 】.
+如果你对考试感到焦虑，你可以通过运动来减轻压力和缓解紧张
+-
+I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain.
+我会开一些抗生素来帮你缓解疼
+-
+// -
+// 【 be anxious about sth. 对...感到焦虑 】
+// -
+// 【 anxiety 焦虑 n 】
+// 【 anxious 焦虑的 adj 】
+// -
+// 【 tension 紧张 n 】
+// 【 tense 紧张的 adj 】
+// -
+// pressure 压力
+// stress 压力
+// street 街道
+// -
+// describe 描述
+// prescribe 开处方 v
+// prescription 处方 n
+// -
+// 【 antibiotic 抗生素 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+过敏是感冒常见的症状
+许多人对花粉过敏
+你对花粉过敏吗？
+花粉和灰尘是常见的过敏原
+-
+感冒一般伴有发烧和炎症
+我的脚发炎了
+-
+失眠症患者长期遭受失眠的困扰
+长期熬夜会导致失眠
+-
+伤疤的地方既肿胀又痒
+康复后伤口变成了伤疤
+经济正在从衰退中缓慢复苏
+经过治疗，她的精神状态逐渐恢复了
+-
+除了发烧，他还有恶心和呕吐的症状
+-
+抗生素可以减轻发炎和肿胀的症状
+健康的饮食可以减少患病的概率
+复习可以增加找到工作的概率
+-
+把表格填好后，交给护士
+填写存款单
+我预约了医生检查眼睛
+你没有提前预约吗？
+-
+如果你对考试感到焦虑，你可以通过运动来减轻压力和缓解紧张
+我会开一些抗生素来帮你缓解疼
 ```

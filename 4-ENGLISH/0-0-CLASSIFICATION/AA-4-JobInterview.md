@@ -8,6 +8,7 @@
 - **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
 - **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
 - **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+- **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 -
 - 2 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`
@@ -611,8 +612,7 @@
 - **【 【 Self-orientation 】 is important for personal growth and development . 自我定位对于个人成长和发展很重要 】**
 - // -- growth 成长 增长 n
 - // -- development 发展 开发 n
--
--✓
+- -✓
 - 26
 - `passion 激情 热情 n`
 - `passionate 激情的 热情的 adj`
