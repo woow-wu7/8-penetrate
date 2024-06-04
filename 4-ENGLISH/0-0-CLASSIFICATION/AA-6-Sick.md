@@ -4,30 +4,44 @@
 
 - 1
 - `surgeon 外科医生 n`
-- `internist 内科医生 n`
+- `internist 内科医生 n` // internal 内部的 adj 内脏 n // `【 internal medicine. 内科 】`
 -
-- `pediatrician 儿科医生`
+- `pediatrician 儿科医生` // pediatrician // pediatric // paramedic
 - `gynecologist 妇科医生` // gy + nec + ologist
 -
 - `dentist 牙医 牙医诊所` // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
 - `vet 兽医 兽医诊所`
 -
-- `【 specialist 专家 专科医生 】`
-- `【 expert 专家 】`
-- > 【 legal specialist. 法律专家 】
-- > 【 eye specialist. 眼科专家 】
-- > myopia 近视 n
-- > vision 视力 视野 n
--
 - `doctor 医生`
 - `nurse 护士`
-- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
 - `paramedic 护理人员`
+- `pharmacist 药剂师` // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
+- `specialist 专家` // eye specialist. 眼科专家
+- `expert 专家`
 -
+- `pharmacy 药房` // pharmacist pharmacy
+- `drugstore 药房`
+- `clinic 诊所`
+- `ward 病房`
+- `operating room. 手术室`
 -
-- `surgery department. 外科`
-- `pediatrics department. 儿科`
-- `dermatology department. 皮肤科`
+- `【 specialist 专家 专科医生 】`
+- `【 expert 专家 】`
+- > 【 eye specialist. 眼科专家 】
+- > 【 legal specialist. 法律专家 】
+- > law 法律
+- > 【 legal 合法的 法律的 】
+- > 【 legal right. 合法权利 】
+-
+- > vision 视力 视野 n
+- > myopia 近视 n
+-
+- `【 emergency department. 急诊科 】`
+- `【 surgery department. 外科 】` // surgery
+- `【 internal medicine. 内科 】` // internal 内部的 内脏
+- `【 pediatric department. 儿科 】` // pediatric 儿科的
+- `【 dermatology department. 皮肤科 】`
+- `【 intensive care unit. 重症监护室 ICU 】` ICU
 -
 -
 - [AA.]
@@ -49,11 +63,17 @@
 - // `worship 崇拜`
 -
 - > 【 surgeon 外科医生 n 】
-- > 【 surgery 外科手术 n 】 // ------------【 perform surgery. 做手术 】
-- > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 医用口罩 】
+- > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 医用口罩 外科口罩 】
+- > 【 surgery 外科手术 n 】 // ------------【 surgery department. 外科部 】 【 perform surgery. 做手术 】
+-
+- > 【 internist 内科医生 n 】
+- > 【 internal 里面的 adj 内脏 n 】 // ----【 internal medicine. 内科部 】
 -
 - _【 surgical mask. 外科口罩 医用口罩 】_
 - _【 perform surgery. 做外科手术 】_
+-
+- _【 internal medicine. 内科部 】_
+- _【 surgery department. 外科部 】_
 - _【 appendix surgery. 阑尾手术 】_
 -
 - > perform 表演 执行 v
@@ -63,9 +83,9 @@
 -
 - **【 The 【 surgeon 】 and the 【 internist 】 【 cooperate with 】 each other 【 to 】 【 provide 】【 treatment 】 【 for 】 the 【 patient 】. 外科医生和内科医生相互合作，为患者提供治疗 】**
 - // -
-- // cooperate 合作 v
-- // provide 提供 v
+- // 【 cooperate 合作 v 】
 - // 【 cooperate with. 和...合作 】
+- // provide 提供 v
 - // -
 - // treat 对待 治疗 v
 - // treatment 治疗 n
@@ -86,11 +106,17 @@
 - `【 pharmacy 药房 】`
 - `【 drugstore 药店 】`
 - `【 clinic 诊所 】`
+- `【 ward 病房 】`
+- `【 operating room. 手术室 】`
 - **【 A 【 pharmacist 】 works in a 【 pharmacy 】. 药剂师在药房工作 】**
 -
 - [CC.]
 - `【 worship 崇拜 】`
 - `【 warship 战舰 】`
+- `relationship`
+- `friendship`
+- `scholarship`
+- `internship`
 - **【 He 【 greatly 】 【 worship 】 the 【 pilot 】 【 of 】 the 【 warship 】. 他非常崇拜战舰的飞行员 】**
 - // -- greatly 非常 adv
 - // -- pilot 飞行员 驾驶员
@@ -210,7 +236,8 @@
 - `stretcher 担架` // stretch 伸展 拉伸 // stretcher
 - `bandage 绷带`
 - `thermometer 体温计`
-- `stethoscope 听诊器` // microscope telescope stethoscope
+- `stethoscope 听诊器` // microscope telescope stethoscope otoscope
+- `otoscope 耳镜`
 - `syringe 注射器` // injector syringe // syringe needle. 针头 // syringe barrel. 针筒
 -
 - `blood pressure. 血压` // stress pressure
@@ -310,6 +337,7 @@
 -
 - `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
 - `【 swollen 肿胀的 adj 】`
+- `【 swelling 肿胀 n 】`
 -
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
@@ -336,7 +364,7 @@
 - `stomachache 胃痛`
 - `tummy hurts. 肚子痛`
 -
-- `code 感冒`
+- `cold 感冒` // cold 冷的 adj 感冒 n
 - `fever 发烧`
 - `cough 咳嗽 v n`
 - `dizzy 头晕 adj`
@@ -405,6 +433,11 @@
 - **【 After 【 recovery 】, the 【 wound 】 【 turned into 】 【 scar 】. 康复后伤口变成了伤疤 】**
 -
 - [FF.]
+- `【 benign 良性的 】`
+- `【 malignant 恶性的 】`
+- `【 tumor 肿瘤 】`
+-
+- [GG.]
 - `pollen 花粉`
 - `【 allergy 过敏 n 】` // allergic 过敏的 adj // allergen 过敏原 n
 - `【 allergen 过敏原 n 】`

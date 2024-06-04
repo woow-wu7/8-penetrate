@@ -17,7 +17,7 @@ We need to 【 rescue 】 the 【 refugees 】 who were 【 injured 】 in the �
 【 No matter 】 how 【 wealthy 】 you 【 are 】, You must 【 obey 】 the law.
 无论你多有钱，你都必须遵守法律
 -
-Computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation 】.
+Computer can 【 simulate 】 【 the process of 】 his 【 wealth 【 accumulation 】 】.
 计算机可以模拟他财富积累的过程
 -
 // -
@@ -53,6 +53,7 @@ Computer can 【 simulate 】 【 the process of 】 his 【 wealth accumulation
 Which part 【 do you think 】 is the most important?
 你认为哪个部分最重要
 -
+Do you think you have 【 made progress 】 in English?
 Do you think your English has 【 improved 】?
 你认为你的英语有进步吗？
 -
@@ -105,7 +106,7 @@ Do you have a second?
 Do you have a time?
 你有空吗？
 -
-【 Take a break 】, we'll 【 be right back 】.
+【 Take a short break 】, we'll 【 be right back 】.
 休息一下，我们马上回来
 -
 After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 give your eyes a break 】.
@@ -125,7 +126,7 @@ After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 giv
 
 
 5
-I don't know 【 who to contact 】?
+I don't know 【 who to contact 】.
 我不知道该联系谁
 
 
@@ -387,4 +388,190 @@ I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 th
 -
 如果你对考试感到焦虑，你可以通过运动来减轻压力和缓解紧张
 我会开一些抗生素来帮你缓解疼
+```
+
+##### 3 Make sentences 2024-06-03
+
+```
+1
+The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months.
+发炎，肿胀，和过敏的症状持续了2个月
+-
+This meeting 【 lasted for 】 【 one hour and a half 】.
+这场会议持续了一个半小时
+-
+How long did this meeting 【 last for 】?
+本次会议持续了多长时间？
+-
+// -
+// 【 symptom of. ...的症状 】
+// -
+// 【 last 最后的adj 持续v 】
+// 【 last for. 持续 】
+// -
+// inflame 发炎v 激怒v
+// inflammation 炎症 n
+// inflamed 发炎的 adj
+// -
+// swell 肿胀 v
+// swelling 肿胀 n
+// swollen 肿胀的 adj
+// -
+// allergy 过敏 n
+// allergen 过敏原 n
+// allergic 过敏的 adj
+// 【 be allergic to. 对...过敏 】
+
+
+2
+The 【 princess 】 is like a 【 fairy 】.
+公主像个仙女一样
+-
+This is a 【 fairy tale 】 about 【 tail 】.
+这是一本关于尾巴的童话故事
+-
+// -
+// 【 fairy 仙女 小精灵 】
+// 【 fairy tale. 童话故事 】
+// 【 fairyland 仙境 】
+// -
+// 【 fair 公平的 公正的 adj 】
+// fairy 仙女 小精灵
+// fail 失败 v
+// -
+// tale 故事
+// tail 尾巴
+// fail 失败 v
+// -
+// tale 故事
+// story 故事
+// novel 小说
+// -
+// fail 失败 v
+// failure 失败 n
+// failed 失败的 adj
+// -
+// succeed 成功 v
+// success 成功 n
+// successful 成功的 adj
+
+
+3
+This 【 competition 】 has many 【 competitors 】.
+这场比赛有很多竞争者
+-
+Is this a 【 fair 】 【 competition 】?
+这是一场公平的竞争吗？
+-
+This 【 industry 】 has 【 intense 】 【 competition 】.
+这个行业竞争很激烈
+-
+Do you think this is a 【 fair 】 【 competition 】?
+你认为这是一场公平的竞争吗？
+-
+Competition 【 is divided into 】 【 benign competition 】 and 【 malignant competition 】.
+竞争分为良性竞争和恶性竞争
+-
+We need to 【 focus on 】 the 【 harm 】 【 of 】 【 malignant tumors 】 【 to 】 patients.
+我们需要关注恶性肿瘤对患者的伤害
+-
+// -
+// compete 比赛 竞争 v
+// competition 比赛 竞争 n
+// competitor 竞争者 对手 n
+// -
+// 【 benign 良性的 adj 】
+// 【 malignant 恶性的 adj 】
+// 【 benign competition. 良性竞争 】
+// 【 malignant competition. 恶性竞争 】
+// benign tumor. 良性肿瘤
+// malignant tumor. 恶性肿瘤
+// -
+// 【 tumor 肿瘤 】
+// 【 harm 伤害 损害 v n 】
+// -
+//【 fair competition. 公平竞争 】
+//【 benign competition. 良性竞争 】
+//【 malignant competition. 恶性竞争 】
+//【 intense competition. 激烈的竞争 】
+//【 cruel competition. 残酷的竞争 】
+// -
+// intense 激烈的
+// cruel 残忍的
+// -
+// fair 公平的 公正的 adj
+// -
+// 【 fair 公平的 公正的 adj 】
+// 【 fail 失败 v 】
+// 【 fairy 仙女 小精灵 n 】
+// -
+// 【 fairy 仙女 小精灵 n 】
+// 【 fairy tale. 童话故事 】
+// 【 fairyland 仙境 】
+// -
+// 【 be divided into. 被分为... 】
+
+
+
+4
+【 Be careful 】, the floor is very 【 slippery 】.
+【 Watch out 】, the floor is 【 slick 】.
+当心，地板很滑
+// -
+// 【 slick 滑的 adj 】
+// 【 slippery 滑的 adj 】
+// -
+// 【 slip 滑倒 v 】
+// 【 slippery 滑的 adj 】
+// -
+// be careful. = watch out. 当心
+
+
+5
+This kind of ice cream tastes really bad.
+这种冰淇凌太难吃了
+// -
+// Unpalatable 难吃
+
+
+6
+We 【 encountered 】 a 【 major car accident 】.
+我们遭遇了一场重大车祸
+-
+We 【 encountered 】 a 【 torrential rain 】.
+我们遭遇了一场大暴雨
+-
+// -
+// 【 encounter 遭遇 v 】
+// 【 counter 柜台 计数器 】
+// -
+// 【 major car accident. 重大车祸 】
+// major 专业n
+// major 重大的 严重的 主要的 adj
+// -
+// 【 torrential rain. 暴雨 】
+// 【 heavy rain. 大雨 】
+// 【 moderate rain. 中雨 】
+// 【 light rain. 小雨 】
+
+
+------- ------- ------- ------- ------- ------- -------
+发炎，肿胀，和过敏的症状持续了2个月
+这场会议持续了一个半小时
+本次会议持续了多长时间？
+-
+公主像个仙女一样
+这是一本关于尾巴的童话故事
+-
+这场比赛有很多竞争者
+这是一场公平的竞争吗？
+这个行业竞争很激烈
+你认为这是一场公平的竞争吗？
+竞争分为良性竞争和恶性竞争
+-
+当心，地板很滑
+这种冰淇凌太难吃了
+-
+我们遭遇了一场重大车祸
+我们遭遇了一场大暴雨
 ```

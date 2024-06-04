@@ -107,6 +107,7 @@
 - `【 Fairy tale. 童话故事 】`
 - `【 tail light. = brake light. 尾灯 】`
 - _【 fog light. 雾灯 】_
+- _【 fairyland 仙境 n 】_
 - **【 This is a 【 fairy tale 】 【 about 】 【 tail 】. 这是一本关于尾巴的童话故事 】**
 - **【 Most little kids love to read 【 fairy tales 】. 很多小孩都喜欢童话故事 】**
 
@@ -140,3 +141,56 @@
 - 1. **【 If you are anxious about exam, you can relieve stress and relieve tension though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
 - 2. **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
 - 3. **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
+
+###### 2024-06-04
+
+- 1
+- `【 fairyland 仙境 n 】` // fairy tale. 童话故事
+- `【 island 岛 岛屿 】` // islander 岛上居民
+- `【 homeland 家园 祖国 】`
+- `【 grassland 草原 】`
+-
+- `【 Thailand 泰国 】`
+- `【 Poland 波兰 】` // TIPS: Pay attention to the pronunciation of the word 'poland'.
+- `【 England 英格兰 英国 】`
+- `【 Switzerland 瑞士 】`
+-
+- `【 freelancer 自由职业者 】`
+- `【 part-time job. 兼职 】`
+- `【 full-time job. 全职 】`
+- `【 odd job. 零工 】`
+- > 【 land a job 找到工作 】--- 结果
+- > 【 find a job 找到工作 】--- 过程
+- > 【 look for a job. 找工作 】
+-
+- `【 landlord 房东 业主 】` // middleman landlord. 二房东
+- `【 landscape 景观 地形 】` // landscape mode. 横屏 // portrait mode. 竖屏
+- `【 landscaper 景观设计师 】`
+- `【 vacant land. 空地 】`
+-
+- `【 bland 枯燥无味的 平淡的 adj 】`
+-
+-
+-
+-
+-
+-
+- 2
+- `【 fair 公平的 公正的 】`
+- `【 fairy 仙女 小精灵 】`
+- `【 fail 失败 v 】`
+-
+- `【 benign 良性的 】`
+- `【 malignant 恶性的 】`
+- `【 tumor 肿瘤 】`
+- `【 harm 伤害 损害 v n 】`
+-
+- _【 fair competition. 公平的竞争 】_
+- _【 benign competition. 良性的竞争 】_
+- _【 malignant competition. 恶性的竞争 】_
+-
+- _【 be divided into. 被分为... 】_
+-
+- **【 Competition 【 is divided into 】 【 benign competition 】 and 【 malignant competition 】. 竞争分为良性竞争和恶性竞争 】**
+-
+- **【 We need to 【 focus on 】 the 【 harm 】 【 of 】 【 malignant tumors 】 【 to 】 patients . 我们要关注恶性肿瘤对病人的伤害 】**

@@ -54,7 +54,7 @@
 - `【 pessimistic 悲观的 adj 】`
 - `【 personality 性格 = character 】`
 - **【 He is an 【 optimistic 】 person and also a 【 freelancer 】. 它是一个乐观的人也是一个自由职业者 】**
-- **【 【 Optimistic 】 people and 【 pessimistic 】 people have different 【 personalities / characters 】. 乐观和悲观的人有不同的性格 】**
+- **【 【 Optimistic 】 people and 【 pessimistic 】 people have different 【 personalities 】. 乐观和悲观的人有不同的性格 】**
 - // -
 - // 【 personality 性格 】
 - // 【 character 性格 】
