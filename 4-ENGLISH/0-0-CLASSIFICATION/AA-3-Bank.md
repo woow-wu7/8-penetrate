@@ -2,25 +2,40 @@
 
 ##### Summarize
 
-- [The-words-that-are-easy-to-forget.容易忘记的词]
+- [The-words-which(that)-are-easy-to-forget.容易忘记的词]
+-
+-
 - [AA.]
 - `【 cost 成本 费用 】`
 - `【 profit 利润 盈利 】`
+- _【 make a profit. 盈利 】_
+- _【 net profit. 净利润 】_
 - > > cost / profit / revenue income / expenditure expense / interest / interest rate. / refund
 - > > salary wage / performance / benefit / balance / deposit / budget / consumption / consume
 - > > investment / stock / fund / bond / corn / bill / cash / receipt
-- _【 make a profit. 盈利 】_
-- **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
-- **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
-- **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 】**
+- 1. **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
+- 2. **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
+- 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 】**
 - // --【 make a profit. 盈利 】
 - // --【 barely 勉强 adv 】
 -
+-
 - [BB.]
 - `【 charge 收费 要价 充电 v n 】`
-- **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】**
+- `【 charger 充电器 】`
+- `【 discharge 释放 排出 放电 】`
+- `charging port. 充电口`
+- `charging cable. 充电线` // usb cable.
+- `charging pile. 充电桩`
+- _【 be in charge of. 负责 = be responsible for. 】_
+- 1. **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
+- 2. **【 I need to 【 charge 】 the phone which has 【 no battery 】. 我需要给没有电的手机充电 】** // -- 2. charge 充电
+- 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then plug the charger into the 【 power strip 】. 】**
 - // -- parking lot. 停车场
 - // -- parking spot. 停车位
+- // -
+- // -- no battery. 没电
+- // -- in charge of. 负责 = responsible for.
 -
 - [CC.]
 - `【 tax 税 税收 n v 】`
@@ -37,7 +52,9 @@
 - `【 owe 欠 v 】`
 - `own 拥有 v / 自己的 adj`
 - _【 owe money. 欠钱 】_
+- _【 if only. 要是...就好了 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
+- **【 【 If only 】 i could 【 afford 】 this car！ 要是我能买得起这辆车就好了 】**
 - // -- although 虽然 尽管
 - // -
 - // -- owe 欠
@@ -49,6 +66,7 @@
 - `【 bond 债券 】`
 - `【 fund 基金 】`
 - `【 stock 股票 】`
+- // stocking 长筒袜
 - **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
 -
 - [FF.]
@@ -82,6 +100,8 @@
 - // 2. **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 【 for 】 【 buying 】 a car. 】**
 - // -- The machine can 【 deposit money 】 and 【 withdraw money 】.
 - // -- 注意 percent 都是用单数
+- // -- 注意 percent 都是用单数
+- // -- 注意 percent 都是用单数
 -
 - [HH.]
 - `【 maxed out. 刷爆 】`
@@ -90,6 +110,11 @@
 - **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
 -
 - [II.]
+- `【 account 账户 】`
+- `【 accountant 会计 会计师 】`
+- **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
+-
+- [JJ.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
@@ -114,7 +139,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [JJ.]
+- [KK.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -139,7 +164,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [KK.]
+- [LL.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
@@ -255,8 +280,8 @@
 -
 -
 - CC.
-- `financial 金融的 财务的 财政的 adj` // financial finance
-- `finance 金融 n`
+- `【 financial 金融的 财务的 财政的 adj 】` // financial finance
+- `【 finance 金融 n 】`
 -
 - `financial term. 金融术语` // financial term. // banking term.
 - `financial statement. 财务报表` // financial
@@ -267,6 +292,8 @@
 - `financial term. 金融术语`
 -
 - **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+-
+- **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 -
 - **【 【 financial statements 】 【 contain 】 many 【 financial terms 】. 财务报表中有很多金融术语 】** // term item
 - **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
@@ -363,8 +390,11 @@
 - 3
 - `checking account. 支票账户`
 - `savings account. 储蓄帐户`
+- `【 account 账户 】`
+- `【 accountant 会计 会计师 】`
 - **【 There are 【 two kinds of accounts 】: a 【 checking account 】 and a【 savings account. 】**
 - **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
+- **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 - // -- a kind of. 一种
 - // -- two kinds of. 两种
 -
@@ -654,12 +684,14 @@
 - 14
 - `stock 股票`
 - `stock market. 股票市场`
+- `stocking 长筒袜`
 - > stock bond fund
 - stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
 - _【 stock market. 股票市场 】_
+- **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
 - **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 -
 -

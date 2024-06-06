@@ -352,6 +352,11 @@ You 【 blocked me from crossing 】 the road.
 You are blocking my way.
 你挡住了我的路
 -
+You are 【 blocking me from going 】 up the stairs.
+You are blocking my way up the stairs.
+你挡住我上楼梯了
+-
+// -
 // step 步n 步骤n 踩v 踏v
 // stepped 踩 踏 v --> step的过去式/过去分词
 // -

@@ -669,7 +669,7 @@ I'm on the phone. 我在打电话
 - `【 projector 投影仪 】` // project 项目
 - `【 webcam 网络摄像头 】`
 - // TIPS: Pay attention to the different pronunciations between 'project' and 'projector'.
-- // TIPS: Pay attention to the pronunciation of the 'webcam'.
+- // TIPS: Pay attention to the pronunciation of the 'mirror'.
 - -
 - `rear view mirror. 后视镜`
 - `rear view camera. 后视摄像头`

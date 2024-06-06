@@ -112,7 +112,11 @@ on sundays. 在每个周日
 fortnight 两星期
 a whole day. 一整天 //  He locked himself in the room for a whole day.
 throughout the day. 一整天
-every single day. 每一天
+-
+【 every single time. 每一次 】
+-
+【 every single day. 每一天 】
+【 every other day. 每隔一天 】
 // 1
 // weekend 周末
 // weekend = saturday + sunday

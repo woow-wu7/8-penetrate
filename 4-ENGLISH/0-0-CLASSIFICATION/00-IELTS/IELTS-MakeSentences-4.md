@@ -532,6 +532,9 @@ This kind of ice cream tastes really bad.
 这种冰淇凌太难吃了
 // -
 // Unpalatable 难吃
+// -
+// This kind of + 可数名词（复数）/ 不可数名词
+// ice cream. 是不可数名词
 
 
 6
@@ -568,10 +571,80 @@ We 【 encountered 】 a 【 torrential rain 】.
 这个行业竞争很激烈
 你认为这是一场公平的竞争吗？
 竞争分为良性竞争和恶性竞争
+我们需要关注恶性肿瘤对患者的伤害
 -
 当心，地板很滑
 这种冰淇凌太难吃了
 -
 我们遭遇了一场重大车祸
 我们遭遇了一场大暴雨
+```
+
+##### 4 Make sentences 2024-06-05
+
+```
+1
+People who wear 【 stockings 】 【 usually 】 don't 【 invest in 】 【 stocks 】.
+穿长筒袜的人一般不投资股票
+// -
+// stocking 长筒袜
+// stock 股票
+// -
+// 【 invest in. 投资 】
+
+
+2
+You 【 stepped 】 on my foot.
+你踩到我的脚了
+-
+You 【 are blocking me from watching 】 TV.
+你挡到我看电视了
+-
+You 【 blocked me from crossing 】 the road.
+你挡到我过马路了
+-
+You are blocking my way.
+你挡住了我的路
+-
+You are 【 blocking me from going 】 up the 【 stairs 】.
+你挡住我上楼梯了
+-
+// -
+// 【 block sb from doing sth. 阻碍某人做某事 】
+// -
+// step 步n 步骤n 踩v 踏v
+// stepped 踩 踏 v --> step的过去式/过去分词
+// -
+// stair 楼梯
+
+
+3
+I have an interview 【 every other day 】.
+I have an interview 【 every two days 】.
+我每隔两天就有一个面试
+-
+我们正在为市场部招聘一个新员工
+We are 【 recruiting 】 a new 【 employee 】 for 【 marketing department 】.
+-
+// -
+// 【 every other day. 每隔一天 】
+// 【 every single day. 每一天 】
+// 【 every third day. 每隔三天 】
+// -
+// 【 recruit 招聘 招募 v 】
+// -
+//【 employee 员工 雇员 n 】
+//【 marketing department. 市场部 】
+
+
+4
+【 If only 】 i could 【 afford 】 this car！
+要是我能买得起这辆车就好了
+-
+【 If only 】 i could 【 find a job 】.
+要是我能找到工作就好了
+-
+// -
+// 【 if only. 要是...就好了 】
+// 【 afford 买得起 】
 ```

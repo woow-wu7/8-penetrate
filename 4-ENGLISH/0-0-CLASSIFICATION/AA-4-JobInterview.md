@@ -1,6 +1,6 @@
 ##### Job Interview
 
-##### (1) The words that you mast know.
+##### (1) **The words that you mast know.**
 
 - 1 [EXPAND]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
@@ -10,18 +10,51 @@
 - **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
 - **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 -
+-
 - 2 [EXPAND]
-- `【 lay off. 裁员 = layoff 】`
+- `【 lay off. 裁员 v 】`
+- `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
-- _【 lay off. = layoff. 裁员 】_
-- **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
-- **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】**
+- lay 放置 安放 v
+- layout 布局
+- **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
+- **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】** // lay off.
 - **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
+-
 -
 - 3 [EXPAND]
 - `【 overtime 加班 】`
+- `【 work overtime 加班 】`
+-
 -
 - 4 [EXPAND]
+- `【 marketing department. 市场部 】`
+- `【 technology department. 技术部 】`
+- `【 procurement department. 采购部 】` // procure 采购 v
+- `【 finance department. 财务部 】`
+- `【 accountant 会计 n 】` // accountant account
+-
+-
+- 5 [EXPAND]
+- `【 freelancer 自由职业者 】`
+- lance 长矛
+- **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
+- **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
+-
+-
+- 6 [EXPAND]
+- `【 requirement 需求 要求 】`
+- _【 product requirement. 产品需求 】_
+- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
+-
+-
+- 7 [EXPAND]
+- `【 architect 架构师 】`
+- > 【 software architect. 前端软件架构师 】
+- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
+-
+-
+- 8 [EXPAND]
 - `【 intense 激烈的 强烈的 adj 】`
 - `【 cruel 残忍的 残酷的 adj 】`
 - `【 manifestation. 表现 n 】`
@@ -33,23 +66,15 @@
 - // -- manifestation. 表现
 - // -- a manifestation of. ...的表现 ...的体现
 -
-- 5 [EXPAND]
+-
+- 9 [EXPAND]
 - `【 conflict 冲突v 争执n 】`
 - _【 have a conflict with sb. 和某人发生冲突 】_
 - **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
 - // -- 【 have a conflict with sb. 和某人发生冲突 】
 -
-- 6 [EXPAND]
-- `【 requirement 需求 要求 】`
-- _【 product requirement. 产品需求 】_
-- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 -
-- 7 [EXPAND]
-- `【 architect 架构师 】`
-- > 【 software architect. 前端软件架构师 】
-- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
--
-- 8 [EXPAND]
+- 10 [EXPAND]
 - `【 optimistic 乐观的 adj 】`
 - `【 pessimistic 悲观的 adj 】`
 - `【 personality 性格 = character 】`
@@ -69,18 +94,14 @@
 - // She stays 【 optimistic 】, 【 despite 】 her condition. 即使身体很差，她也始终保持乐观
 - // Therefore, I think we should also 【 positive 】 and 【 optimistic 】attitude towards life.
 -
-- 9 [EXPAND]
+-
+- 11 [EXPAND]
 - `【 upgrade 升级 】`
 - _【 latest version. 最新版本 】_
 - **【 Please 【 upgrade 】 to the 【 latest version 】. 请升级到最新的版本 】**
 -
-- 10 [EXPAND]
-- `【 freelancer 自由职业者 】`
-- lance 长矛
-- **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
-- **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
-- 11 [EXPAND]
+- 12 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`
 - `【 economic crisis. 经济危机 】`
 - **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
@@ -1373,7 +1394,7 @@ After graduation, I have done many different types of jobs, such as: 【 technic
 
 I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
-I like use Vue and React 【 tech stacks 】 to develop 【 projects 】,
+I use Vue and React 【 tech stacks 】 to develop 【 projects 】,
 I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
 and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
@@ -1386,7 +1407,7 @@ The main function of the second application is parking and 【 navigation 】.
 Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
 
 (2)
-In the second company, I was 【 primarily/mainly 】 in charge of implementing the three insurance-related applications.
+In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
 
 The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the 【 accidents 】 while driving.
 
@@ -1405,7 +1426,7 @@ It can 【 monitor 】 the performance and errors of frontend and backend projec
 It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
 
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and 【 displays 】 the performance data you need to 【 query 】 【 in the form of 】 【 charts 】.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
 For the font-end part consists of three layers: performance, errors, and user data.

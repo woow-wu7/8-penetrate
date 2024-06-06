@@ -69,6 +69,7 @@
 - // 明天 tomorrow
 - // 后天 the day after tomorrow.
 - // 大后天 `【 three days from now. 】`
+- // 每隔一天 `every other day. `
 - // -
 - // _【 weather forecast. 天气预报 】_ ---------- 口语，叫常见
 - // _【 weather predication. 天气预报 】_ ------- 书面语
