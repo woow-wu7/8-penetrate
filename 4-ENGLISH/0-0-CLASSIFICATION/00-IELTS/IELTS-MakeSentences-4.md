@@ -67,7 +67,6 @@ We should 【 persist in exercising 】 and learning.
 我们应该坚持锻炼和学习
 -
 【 As long as 】 you work hard, you will 【 make progress 】 【 in 】 your study.
-【 As long as 】 you work hard, your study will 【 make progress 】.
 只要努力，你的学习就会取得进步
 -
 Why do you think you will be a good 【 candidate 】 【 for 】 this 【 position 】?
@@ -126,8 +125,11 @@ After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 giv
 
 
 5
+I don't know who I should contact.
 I don't know 【 who to contact 】.
 我不知道该联系谁
+// -
+// should 是情态动词，后面加to
 
 
 
@@ -647,4 +649,70 @@ We are 【 recruiting 】 a new 【 employee 】 for 【 marketing department �
 // -
 // 【 if only. 要是...就好了 】
 // 【 afford 买得起 】
+```
+
+##### 5 Make sentences 2024-06-07
+
+```
+1
+We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】.
+我们将对比候选人后再联系您签合同
+-
+这两幅画形成了鲜明的对比
+The two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】.
+-
+// -
+// contrast 对比
+// contact 联系
+// contract 合同
+// -
+// 【 sign a contract. 签合同 】
+// 【 labor contract. 劳动合同 】
+// -
+// 【 sharp 锋利的 鲜明的 adj 】
+
+
+2
+He 【 shared 】 all the company 【 shares 】 with 【 every 】 employee.
+他把所有公司股份分享给了每个员工
+// -
+// 【 share 股份n 分享 】
+// -
+// 【 share sth with sb. 把...分享给... 】
+
+
+3
+【 Assets 】 are divided into 【 fixed assets 】 and 【 current assets 】.
+资产分为固定资产和浮动资产
+// -
+// 【 asset 资产 】
+// 【 property 财产 】
+// -
+// fixed assets. 固定资产
+// current asset. 流动资产
+// -
+// be divided into. 被分成 被划分为
+
+
+4
+She 【 lacks 】 confidence.
+她缺乏自信
+-
+This project 【 failed 】 due to 【 lack of 】 【 funds 】. // failed 这里是 v的过去式，不是 adjective
+这个项目因缺乏资金而失败
+-
+// -
+// lack 缺乏
+// -
+// 【 lack of. 缺乏 】
+// -
+// fund 基金 资金
+// -
+// fail 失败 v
+// failed 失败的 adj
+// failure 失败 n
+// -
+// succeed 成功 v
+// success 成功 n
+// successful 成功的 adj
 ```

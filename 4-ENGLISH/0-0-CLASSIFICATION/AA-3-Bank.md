@@ -1,4 +1,4 @@
-# Bank
+##### Bank
 
 ##### Summarize
 
@@ -15,7 +15,7 @@
 - > > investment / stock / fund / bond / corn / bill / cash / receipt
 - 1. **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
 - 2. **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
-- 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 】**
+- 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 我勉强可以在股市中盈利 】**
 - // --【 make a profit. 盈利 】
 - // --【 barely 勉强 adv 】
 -
@@ -33,9 +33,12 @@
 - 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then plug the charger into the 【 power strip 】. 】**
 - // -- parking lot. 停车场
 - // -- parking spot. 停车位
-- // -
 - // -- no battery. 没电
 - // -- in charge of. 负责 = responsible for.
+- // -- power strip. 插座
+- // -- power bank. 充电宝
+- // -- river bank. 河岸
+-
 -
 - [CC.]
 - `【 tax 税 税收 n v 】`
@@ -47,6 +50,7 @@
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
 -
+-
 - [DD.]
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
@@ -56,42 +60,43 @@
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
 - **【 【 If only 】 i could 【 afford 】 this car！ 要是我能买得起这辆车就好了 】**
 - // -- although 虽然 尽管
-- // -
 - // -- owe 欠
 - // -- own 拥有 v 自己的 adj
-- // -
 - // -- afford 买得起
 -
-- [EE.]
-- `【 bond 债券 】`
-- `【 fund 基金 】`
-- `【 stock 股票 】`
-- // stocking 长筒袜
-- **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
 -
-- [FF.]
+- [EE.]
 - `【 stable 稳定的 牢固的 】`
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
-- // 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable / steady 】 and 【 decent 】 job. 】**
-- // 2. **【 We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】. 】**
-- // -
+- 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 】**
+- 2. **【 We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】. 】**
 - // -- `stable 稳定的`
 - // -- `unstable 不稳定的`
-- // -
-- // -- rise 上升
-- // -- fall 下降
+- // -- `ascend 上升`
+- // -- `descend 下降`
+- // -- `rise 上升`
+- // -- `fall 下降`
 - // -- 【 Rise 】 is the opposite of 【 fall 】.
-- // -
 - // -- decent 体面的
-- // -
 - // -- 【 steady relationship. 稳定的关系 】
 - // -- 【 stable relationship. 稳定的关系 】
 - // -- 【 steady price. 稳定的价格 】
 - // -- 【 stable price. 稳定的价格 】
-- // -
 - // -- steady 稳定的 持续的 adj
 - // -- stable 稳定的 牢固的 adj
+-
+-
+- [FF.]
+- `【 bond 债券 】`
+- `【 fund 基金 资金 】`
+- `【 stock 股票 】`
+- `【 share 股份n 分享v 】`
+- // stocking 长筒袜
+- // stock 股票
+- // stock market 股市
+- **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+-
 -
 - [GG.]
 - `【 deposit 存钱 v 存款 n 定金 n 】`
@@ -103,18 +108,134 @@
 - // -- 注意 percent 都是用单数
 - // -- 注意 percent 都是用单数
 -
+-
 - [HH.]
 - `【 maxed out. 刷爆 】`
 - max 最多的 adj 马克思 n
 - tax 税
 - **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
 -
+-
 - [II.]
 - `【 account 账户 】`
 - `【 accountant 会计 会计师 】`
 - **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 -
+-
 - [JJ.]
+- `【 contract 合同 n 】`
+- `【 contact 联系 v 】`
+- `【 contrast 对比 对照 v 】` // contrast compare
+- _【 sign a contract. 签合同 】_
+- _【 labor contract. 劳动合同 】_
+- _【 contract deadline. 合同期限 】_
+- // TIPS: Pay attention to the pronunciation of the word 'contact'.
+- 1. **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
+- 2. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
+- 3. **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
+-
+- [KK.]
+- `【 transaction 交易 】`
+- `fee 费用`
+- `fare 票价`
+- _【 transaction successful. 交易成功 】_
+- 1. **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- 2. **【 The 【 transaction 】 was cancelled 【 due to 】 the 【 technical 】 reason. 因为技术原因，交易被取消了 】**
+- // -- due to. 因为
+- // -- 【 technical 技术的 adj 】
+- // -- 【 technology 技术 科技 n 】
+-
+-
+- [LL.]
+- `【 transfer 转移 转让 换乘 】`
+- _【 straight away. 立即 】_
+- **【 I will 【 transfer 】 the money to your 【 savings account 】【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
+- // -- `right away. 立即`
+- // -- `straight away. 立即`
+- // -- `immediately. 立即`
+-
+-
+- [MM.]
+- `【 budget 预算 】`
+- `【 consume 消费 消耗 v 】`
+- `【 consumption 消费 消耗 n 】`
+- _【 go over budget. 超出预算 】_
+- _【 go over budget. 超出预算 】_
+- _【 go over budget. 超出预算 】_
+- > 【 revenue interest balance budget debt loan 】
+- > 【 salary wage pay performance bonus reward benefit 】
+- **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
+-
+-
+- [NN.]
+- `【 currency 货币 】`
+- `【 cash 现金 】` // cash cache
+- `【 bill 账单 钞票 】`
+- `【 coin 硬币 】` // coin corn
+- `【 cheque 支票 】`
+- `【 lottery 彩票 】`
+- `【 share 股份n 分享v 】`// ------ market share. 市场占有率
+-
+- `【 salary 工资 】` -------------- 长期
+- `【 wage 工资 】` ---------------- 短期
+- `【 pay 工资 支付 】`
+- `【 bonus 奖金 】` // ------------ performance bonus. 绩效奖金
+- `【 reward 奖励 】`
+- `【 benefit 福利 】`
+- `【 performance 绩效 表演 】` // - performance bonus. 绩效奖金
+- `【 revenue = income. 收入 】`
+-
+- `【【 asset 资产 】】` // ---------- asset 资产 / property 财产 / fixed assets. // current assets.
+- `【【 share 股份n 分享v 】】` // ---- market share. 市场占有率
+- `【【 lottery 彩票 】】`
+- `【 stock 股票 】`
+- `【 cheque 支票 】`
+- `【 bond 债卷 】`
+- `【 fund 基金 】`
+-
+- _【 market share. 市场占有率 】_
+- _【 share sth with sb. 把某事分享给某人 】_
+-
+- > 【 asset 资产 】
+- > 【 property 财产 】
+- > 【 fixed assets. 固定资产 】
+- > 【 current assets. 流动资产 】
+- > **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
+-
+- 1. cash **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
+- 2. share **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- 3. asset **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
+- // -- current 当前的
+- // -- currency 货币
+- // --【 share sth with sb. 把某事分享给某人 】
+-
+-
+-
+- [OO.]
+- `wallet 钱包` ------------ 小
+- `purse 钱包 资金` --------- 大，书面语，多用于女性
+- **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
+- // -- 1. sth be used to do. 被用来做某事
+- // -- 2. used to do. 过去常常做某事，现在已经不在做了
+- // -- 3. sb be used to. 某人习惯于 某事
+- // -- 4. sb be used to doing. 某人习惯于做某事
+- // -- **【 【 He is used to taking 】 a shower in the morning. 他习惯于早上洗澡 】**
+- // -- take a shower. 洗澡
+-
+-
+- [PP.]
+- `【 marketing department. 市场部 】`
+- `【 technology department. 技术部 】`
+- `【 purchasing department. 采购部 】`
+- `【 finance department. 财务部 】`
+-
+-
+- [QQ.]
+- `【 asset 资产 】`
+- `【 real estate. 房地产 】`
+- `【 state-owned asset. 国有资产 】`
+-
+- [RR.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
@@ -139,7 +260,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [KK.]
+- [SS.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -164,7 +285,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [LL.]
+- [TT.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
@@ -200,6 +321,12 @@
 - _【 finance department. 财务部门 】_ // finance
 - // TIPS: Pay attention to the pronunciation of the word 'financial'.
 - // TIPS: Pay attention to the pronunciation of the word 'finance'.
+-
+- `【 marketing department. 市场部 】`
+- `【 technology department. 技术部 】`
+- `【 procurement department. 采购部 】` // procure 采购 v
+- `【 finance department. 财务部 】`
+- `【 accountant 会计 n 】` // accountant account
 -
 - _【 financial statement. 财务报表 】_
 - _【 joint statement. 联合声明 】_
@@ -238,7 +365,7 @@
 - // -- manager 经理 管理人
 - //
 - // -- fun 有趣的 adj 有趣 n
-- // -- fund 基金 n
+- // -- 【 fund 基金 资金 n 】
 - // -- refund 退款 v n
 - // -- found 创办 v
 - //
@@ -286,10 +413,17 @@
 - `financial term. 金融术语` // financial term. // banking term.
 - `financial statement. 财务报表` // financial
 -
-- `finance department. 财务部门` // finance
+- `【 finance department. 财务部 】`
+- `【 marketing department. 市场部 】` // 【 market share. 市场占有率 】
+- `【 technology department. 技术部 】`
+- `【 procurement department. 采购部 】` // procure 采购 v
+- `【 accountant 会计 n 】` // accountant account
 -
 - `banking term. 银行术语` // term 学期 术语
 - `financial term. 金融术语`
+-
+- _【 marketing department. 市场部 】_
+- _【 market share. 市场占有率 】_
 -
 - **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
@@ -374,8 +508,8 @@
 -
 -
 - 2
-- `credit card. 信用卡`
-- `debit card. 借记卡` // debit debt
+- `【 credit card. 信用卡 】`
+- `【 debit card. 借记卡 】` // debit debt
 - _【 roll out. 推出 】_
 - **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - // -- credit 信用 信贷
@@ -507,6 +641,10 @@
 - 7
 - `interest 利息 兴趣 n`
 - `interest rate. 利率`
+- `annual interest rate. 年利率`
+- `weekly interest rate. 周利率`
+- `birth rate. 出生率`
+- `death rate. 死亡率`
 -
 - _【 interest rate. 利率 】_
 - _【 annual interest rate. 年利率 】_
@@ -685,7 +823,7 @@
 - `stock 股票`
 - `stock market. 股票市场`
 - `stocking 长筒袜`
-- > stock bond fund
+- > stock bond fund share
 - stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
@@ -739,8 +877,8 @@
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
 - **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
-- // -- consume 消费 v
-- // -- consumption 消费 n
+- // -- consumption 消费 消耗 n
+- // -- consume 消费 消耗 v
 - //
 - // -- expenditure 支出
 - // -- expense 费用
