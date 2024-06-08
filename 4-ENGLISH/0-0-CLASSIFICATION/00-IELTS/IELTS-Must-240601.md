@@ -177,7 +177,7 @@
 -
 - 2
 - `【 fair 公平的 公正的 】`
-- `【 fairy 仙女 小精灵 】`
+- `【 fairy 仙女 小精灵 】` // fairy = fair + y // fairy tale
 - `【 fail 失败 v 】`
 -
 - `【 benign 良性的 】`
@@ -185,9 +185,13 @@
 - `【 tumor 肿瘤 】`
 - `【 harm 伤害 损害 v n 】`
 -
+- `【 fairy tale. 童话故事 】`
+- `【 fairyland. 仙境 】`
+-
 - _【 fair competition. 公平的竞争 】_
 - _【 benign competition. 良性的竞争 】_
 - _【 malignant competition. 恶性的竞争 】_
+-
 -
 - _【 be divided into. 被分为... 】_
 -
@@ -196,3 +200,23 @@
 - **【 We need to 【 focus on 】 the 【 harm 】 【 of 】 【 malignant tumors 】 【 to 】 patients . 我们要关注恶性肿瘤对病人的伤害 】**
 -
 - [AA.]
+- `fail 失败 v`
+- `failed 失败的 adj`
+- `failure 失败 失败的人n`
+- `succeed 成功 v`
+- `successful 成功的 adj`
+- `success 成功 n`
+- _【 succeed in doing sth. 成功做成某事 】_
+- 1. **【 He finally has【 succeeded in achieving 】 his goal. 最终成功地实现了他的目标 】**
+- 1. **【 I finally 【 succeeded in passing 】 the exam. 我终于成功通过了考试 】**
+- -
+- **【 If you persist, you will 【 succeed 】. 】** // --------- v -> 注意 will 后面接 动词
+- **【 If you persist, you will be 【 successful 】. 】** // --- adj
+- **【 If you persist, you will achieve 【 success 】. 】** // - n
+- -
+- **【 He is a very 【 successful 】 businessman .他是一个非常成功的商人 】**
+- **【 hard work is a key to 【 success 】. 努力工作是成功的关键 】** // the key to. ...关键
+- -
+- **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
+- **【 【 failure 】 is the mother of 【 success 】. 失败是成功之母 】**
+- **【 The 【 probability 】 of 【 failure 】 is very low. 【失败】的【概率】很低 】**

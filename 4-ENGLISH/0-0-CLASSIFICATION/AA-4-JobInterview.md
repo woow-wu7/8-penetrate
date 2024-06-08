@@ -2,72 +2,125 @@
 
 ##### (1) **The words that you mast know.**
 
-- 1 [EXPAND]
+- [AA.]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
-- _【 last for. 持续 】_
+- `【 last for. 持续 】`
 - **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
-- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
 - **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
 - **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 -
 -
-- 2 [EXPAND]
+- [BB.]
 - `【 lay off. 裁员 v 】`
 - `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
 - lay 放置 安放 v
 - layout 布局
+- 【 lay -> laid 】
 - **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
 - **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】** // lay off.
 - **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
+- **【 I have been 【 laid off 】. 我被裁员了 】**
+- **【 I was 【 laid off 】. 我被裁员了 】**
 -
 -
-- 3 [EXPAND]
+- [CC.]
+- `【 compensate 赔偿 补偿 v 】`
+- `【 compensation 赔偿 补偿 赔偿金 n 】`
+- 1. **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
+- // -- 【 a large amount of. 大量的 】
+- // -- 【 according to. 根据 】
+-
+-
+- [CC.]
 - `【 overtime 加班 】`
 - `【 work overtime 加班 】`
+- _【 suffer from. 遭受 患上 v 】_
+- **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
+- // -- 【 because of. = due to. 因为 】
+- // -- 【 suffer from. 遭受 患上 v 】
+- // -- 【 mental illness. 精神疾病 】
 -
 -
-- 4 [EXPAND]
-- `【 marketing department. 市场部 】`
-- `【 technology department. 技术部 】`
-- `【 procurement department. 采购部 】` // procure 采购 v
-- `【 finance department. 财务部 】`
-- `【 accountant 会计 n 】` // accountant account
+- [DD.]
+- `【 exhaust 筋疲力尽v 排气管n 】`
+- `【 exhausted 筋疲力尽的 adj 】`
+- `【 burn out. 精疲力竭 】`
+- _【 exhaust pipe. 排气管 】_
+- **【 【 Working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽 】**
 -
 -
-- 5 [EXPAND]
+- [EE.]
+- `【 workaholic 工作狂 】`
+- //【 voluntarily 自愿地 adv 】
+- //【 voluntary 自愿的 adj 】
+- //【 volunteer to do sth. 自愿做某事 】
+- 1. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
+- 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
+- 2. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+-
+-
+- [FF.]
+- `【 volunteer 志愿者 】`
+- `【 voluntary 自愿的 adj 】`
+- `【 voluntarily 自愿地 adv 】`
+- _【 volunteer to do sth. 自愿做某事 】_
+- 1. **【 【 Volunteers 】 are people who 【 volunteer to help 】 others. 自愿者是自愿帮助他人的人 】**
+- 2. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
+-
+-
+- [EE.]
 - `【 freelancer 自由职业者 】`
 - lance 长矛
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
 -
-- 6 [EXPAND]
-- `【 requirement 需求 要求 】`
+- [FF.]
+- `【 requirement 需求 要求 n 】`
+- `【 require 要求 需求 需要 v 】`
 - _【 product requirement. 产品需求 】_
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 -
 -
-- 7 [EXPAND]
+- [GG.]
 - `【 architect 架构师 】`
 - > 【 software architect. 前端软件架构师 】
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 -
 -
-- 8 [EXPAND]
+- [HH.]
+- `【 promotion 促进 晋升 提升 n 】`
+- `【 promote 促进 晋升 提升 v 】`
+- > 【 be promoted from xx to xx. 从...晋升为... 】
+- > 【 be promoted to. 晋升为... 】
+- > 【 get a promotion. 获得晋升 】
+- 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
+- 1. **【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
+- 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
+- 2. **【 She got a promotion. 她获得了晋升 】**
+- // -- 【 be promoted from xx to xx. 从...晋升为... 】
+- // -- 【 associate professor. 副教授 】
+- // -- 【 professor 教授 】
+-
+-
+- [HH.]
+- `【 fair 公平的 公正的 adj 】`
 - `【 intense 激烈的 强烈的 adj 】`
 - `【 cruel 残忍的 残酷的 adj 】`
 - `【 manifestation. 表现 n 】`
+- _【 fair competition. 公平的竞争 】_
 - _【 intense competition. 激烈的竞争 】_
 - _【 cruel competition. 残酷的竞争 】_
-- _【 fair competition. 公平的竞争 】_
 - _【 a manifestation of. ...的表现 】_
 - **【 【 Working overtime 】 is 【 a manifestation of 】 【 cruel competition 】. 加班是残酷竞争的中一种表现 】**
 - // -- manifestation. 表现
 - // -- a manifestation of. ...的表现 ...的体现
 -
 -
-- 9 [EXPAND]
+- [II.]
 - `【 conflict 冲突v 争执n 】`
 - _【 have a conflict with sb. 和某人发生冲突 】_
 - **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
@@ -100,6 +153,13 @@
 - _【 latest version. 最新版本 】_
 - **【 Please 【 upgrade 】 to the 【 latest version 】. 请升级到最新的版本 】**
 -
+-
+- 4 [EXPAND]
+- `【 marketing department. 市场部 】`
+- `【 technology department. 技术部 】`
+- `【 procurement department. 采购部 】` // procure 采购 v
+- `【 finance department. 财务部 】`
+- `【 accountant 会计 n 】` // accountant account
 -
 - 12 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`

@@ -1,9 +1,8 @@
 ##### Bank
 
-##### Summarize
+##### **Summarize**
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
--
 -
 - [AA.]
 - `【 cost 成本 费用 】`
@@ -91,11 +90,19 @@
 - `【 bond 债券 】`
 - `【 fund 基金 资金 】`
 - `【 stock 股票 】`
-- `【 share 股份n 分享v 】`
+- `【 lottery 彩票 】`
+- `【 share 股份n 分享v 】` // market share.市场占有率 // share sth with sb.
+- `【 asset 资产 】`
+- `【 property 财产 】`
 - // stocking 长筒袜
 - // stock 股票
 - // stock market 股市
-- **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+- 1. **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+- 2. **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- 3. **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
+- // -- 【 share 股份 n 分享 v 】
+- // -- 【 market share. 市场占有率 】
+- // -- 【 share sth with sb. 分享某物给某人 】
 -
 -
 - [GG.]
@@ -174,7 +181,7 @@
 - `【 coin 硬币 】` // coin corn
 - `【 cheque 支票 】`
 - `【 lottery 彩票 】`
-- `【 share 股份n 分享v 】`// ------ market share. 市场占有率
+- `【 share 股份n 分享v 】`// ------ market share. 市场占有率 // share sth with sb.
 -
 - `【 salary 工资 】` -------------- 长期
 - `【 wage 工资 】` ---------------- 短期
@@ -231,15 +238,28 @@
 -
 -
 - [QQ.]
+- `【 mortgage 抵押v 按揭n 房贷n 】`
+- `【 loan 贷款n 】`
+- `【 debt 债务n 】`
+- **【 He 【 mortgaged 】 his house here 【 in order to 】 【 get a loan 】 . 为了贷款他把房子抵押在了这里 】** // mortgage 抵押 v
+- **【 【 Mortgage loan 】 and 【 car loan 】 are his main 【 expenditures 】. 房贷和车贷是他的主要支出 】** // mortgage 房贷
+- // -- in order to. 为了
+- // -- get a loan. 获得贷款
+- // -- `【 expenditure = expense. 费用 支出 】`
+-
+-
+- [RR.]
 - `【 asset 资产 】`
 - `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
 -
-- [RR.]
+-
+- [SS.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
 - `【 inhabit 居住 v - 动物 】`
+- `【 settle 定居 v 】`
 - `inhibit 抑制 v`
 - `prohibit 禁止 v`
 - // 1. **【 The 【 president 】 is giving a 【 speech 】 to the 【 residents 】. 总统正在给居民做演讲 】**
@@ -260,7 +280,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [SS.]
+- [TT.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -285,7 +305,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [TT.]
+- [UU.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
@@ -697,10 +717,10 @@
 - `revenue 收入 n` ------------ 不可数名词
 - `income 收入 n` ------------- 不可数名词
 -
+- **【 expenditure = expense 费用 支出 】**
 - `expenditure 费用 支出` -------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
 - `expense 费用 支出 v n` -------- 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
 - `expensive 昂贵的 adj`
-- // 大多数情况 expenditure 和 expense 可以互换
 - _【 expensive expense. 昂贵的费用 】_
 -
 - `consume 消费 消耗 v`
@@ -748,8 +768,8 @@
 -
 -
 - 10
-- `loan 贷款`
-- `debt 债务`
+- `【 loan 贷款 】`
+- `【 debt 债务 】`
 - **【 take out a loan. 贷款 】**
 - **【 apply for a loan. 申请贷款 】**
 - **【 mortgage loan. 房贷 】**

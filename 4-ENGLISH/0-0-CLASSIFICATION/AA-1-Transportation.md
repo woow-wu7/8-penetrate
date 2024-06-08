@@ -1502,7 +1502,7 @@ appreciate 欣赏 感激 v
 - I had the steering wheel on full lock. 我把方向盘转到了底
 -
 -
-- `exhaust 排气管`
+- `exhaust 排气管n 精疲力尽v`
 - `exhaust pipe. 排气管`
 - The mechanic replaced the old exhaust pipe with a new one. 机械师用新的排气管替换了旧的
 - // replace with. 用...代替

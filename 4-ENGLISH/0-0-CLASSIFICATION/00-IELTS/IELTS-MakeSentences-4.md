@@ -651,7 +651,7 @@ We are 【 recruiting 】 a new 【 employee 】 for 【 marketing department �
 // 【 afford 买得起 】
 ```
 
-##### 5 Make sentences 2024-06-07
+##### 5 Make sentences 2024-06-08
 
 ```
 1
@@ -715,4 +715,42 @@ This project 【 failed 】 due to 【 lack of 】 【 funds 】. // failed 这�
 // succeed 成功 v
 // success 成功 n
 // successful 成功的 adj
+
+
+5
+What's wrong with your eyes?
+你的眼睛出了什么问题？
+-
+What's wrong with you?
+你怎么了？
+-
+// -
+// what's wrong with. ...怎么了
+
+
+6
+You don't need to 【 quarrel with 】her.
+你不需要和她吵架
+-
+It 【 is not necessary for 】 you 【 to 】 review 【 in advance 】.
+你没有必要提前复习
+-
+English 【 is not necessary for 】 work.
+英语对工作来说不是必须的
+-
+Food 【 is necessary for 】 【 living things 】.
+食物对生物来说是必不可少的
+-
+【 transistors 】 are small but 【 necessary 】 to make computers.
+晶体管虽小，可对制造电脑是必须的
+-
+// -
+// 【 quarrel with sb. 和某人吵架 】
+// -
+// 【 be necessary for. 必须 对...是必要的  对...必须的 】
+// -
+// 【 in advance. 提前 】
+// -
+// 【 transistor 晶体管 】
+// TIPS: Pay attention to the pronunciation of the word '【 transistor 】'.
 ```
