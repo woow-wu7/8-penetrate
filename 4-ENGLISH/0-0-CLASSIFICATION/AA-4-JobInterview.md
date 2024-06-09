@@ -5,10 +5,10 @@
 - [AA.]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - `【 last for. 持续 】`
-- **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
-- **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
-- **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
-- **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
+- 1. **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
+- 2. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+- 3. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
+- 4. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 -
 -
 - [BB.]
@@ -18,11 +18,13 @@
 - lay 放置 安放 v
 - layout 布局
 - 【 lay -> laid 】
-- **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
-- **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】** // lay off.
-- **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
+- crisis 危机
+- 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
+- 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
+- 3. **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
 - **【 I have been 【 laid off 】. 我被裁员了 】**
 - **【 I was 【 laid off 】. 我被裁员了 】**
+- // -- 【 half of. ...的一半 】
 -
 -
 - [CC.]
@@ -39,9 +41,11 @@
 - `【 work overtime 加班 】`
 - _【 suffer from. 遭受 患上 v 】_
 - **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
+- **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
 - // -- 【 because of. = due to. 因为 】
 - // -- 【 suffer from. 遭受 患上 v 】
 - // -- 【 mental illness. 精神疾病 】
+- // -- serious 严重的 adj
 -
 -
 - [DD.]
@@ -54,9 +58,9 @@
 -
 - [EE.]
 - `【 workaholic 工作狂 】`
+- `【 volunteer to do sth. 自愿做某事 】`
 - //【 voluntarily 自愿地 adv 】
 - //【 voluntary 自愿的 adj 】
-- //【 volunteer to do sth. 自愿做某事 】
 - 1. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
 - 2. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
@@ -71,27 +75,45 @@
 - 2. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
 -
 -
-- [EE.]
+- [GG.]
 - `【 freelancer 自由职业者 】`
+- `part-time job. 兼职`
+- `full-time job. 全职`
+- `odd job. 零工`
 - lance 长矛
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
 -
-- [FF.]
+- [HH.]
 - `【 requirement 需求 要求 n 】`
 - `【 require 要求 需求 需要 v 】`
 - _【 product requirement. 产品需求 】_
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 -
 -
-- [GG.]
+- [II.]
 - `【 architect 架构师 】`
-- > 【 software architect. 前端软件架构师 】
+- `【 software architect. 前端软件架构师 】`
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 -
 -
-- [HH.]
+- [JJ.]
+- `【 recruit 招聘 招募 v 】`
+- `【 resume 简历 】`
+- `【 cover letter. 求职信 】`
+- **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
+-
+-
+- [KK.]
+- `【 on-site 现场的 】`
+- _【 on-site interview. 现场面试 】_
+- _【 on-site training. 现场培训 】_
+- **【 I will have 【 an on-site interview 】 on next monday. 我下周一有一个现场面试 】**
+- **【 I will have 【 an online interview 】 on next monday. 我下周一有一个视频面试 】**
+-
+-
+- [KK.]
 - `【 promotion 促进 晋升 提升 n 】`
 - `【 promote 促进 晋升 提升 v 】`
 - > 【 be promoted from xx to xx. 从...晋升为... 】
@@ -106,7 +128,7 @@
 - // -- 【 professor 教授 】
 -
 -
-- [HH.]
+- [LL.]
 - `【 fair 公平的 公正的 adj 】`
 - `【 intense 激烈的 强烈的 adj 】`
 - `【 cruel 残忍的 残酷的 adj 】`
@@ -120,7 +142,7 @@
 - // -- a manifestation of. ...的表现 ...的体现
 -
 -
-- [II.]
+- [MM.]
 - `【 conflict 冲突v 争执n 】`
 - _【 have a conflict with sb. 和某人发生冲突 】_
 - **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**

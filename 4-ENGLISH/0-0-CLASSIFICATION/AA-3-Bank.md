@@ -30,6 +30,7 @@
 - 1. **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
 - 2. **【 I need to 【 charge 】 the phone which has 【 no battery 】. 我需要给没有电的手机充电 】** // -- 2. charge 充电
 - 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then plug the charger into the 【 power strip 】. 】**
+- 4. **【 I 【 was in charge of developing 】 the app. = I was 【 responsible for 】 developing the app. 我负责开发这个 app 】**
 - // -- parking lot. 停车场
 - // -- parking spot. 停车位
 - // -- no battery. 没电
@@ -40,20 +41,38 @@
 -
 -
 - [CC.]
+- `【 discount 打折v 折扣n 】`
+- `【 at a discount. = on sale. 打折 】`
+- `【 counter 柜台 计算器 】`
+- // account 账户
+- // accountant 会计 会计师
+- // counter 柜台
+- // discount 打折
+- _【 at a discount. 以...的折扣 / 打折的 】_
+- _【 on sale. 打折 】_
+- 1. **【 ZongZi are sold 【 at 】 a 20% 【 discount 】 【 during 】 the 【 Dragon Boat Festival 】. 粽子在端午节期间打 8 折进行出售 】**
+- 2. **【 Many clothes are 【 on sale 】 in this store. 这家商店有许多衣服在打折 】**
+- // -- 【 at a discount. 打折 】
+- // -- 【 at a 20% discount. 打折 】
+- // -- 【 Dragon Boat Festival. 端午节 】
+-
+-
+- [DD.]
 - `【 tax 税 税收 n v 】`
 - `【 individual income tax. 个人所得税 】` = personal income tax.
 - `【 housing property tax. 房产税 】`
-- `【 housing fund. 住房公积金 】`
-- `【 pension 养老金 】`
+- 【 housing fund. 住房公积金 】
+- 【 pension 养老金 】
 - **【 Everyone should 【 pay 】 their 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
 -
 -
-- [DD.]
+- [EE.]
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
-- `own 拥有 v / 自己的 adj`
+- own 拥有 v / 自己的 adj
+- owe 欠 v
 - _【 owe money. 欠钱 】_
 - _【 if only. 要是...就好了 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
@@ -64,8 +83,8 @@
 - // -- afford 买得起
 -
 -
-- [EE.]
-- `【 stable 稳定的 牢固的 】`
+- [FF.]
+- `【 stable 稳定的 牢固的 】` // stable unstable
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
 - 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 】**
@@ -86,23 +105,28 @@
 - // -- stable 稳定的 牢固的 adj
 -
 -
-- [FF.]
+- [GG.]
 - `【 bond 债券 】`
 - `【 fund 基金 资金 】`
-- `【 stock 股票 】`
-- `【 lottery 彩票 】`
+- `【 stock 股票 】` // 【 stocking 长筒袜 】// stock market. 股票市场
+- `【 lottery 彩票 】` // lottery ticket. 彩票
 - `【 share 股份n 分享v 】` // market share.市场占有率 // share sth with sb.
-- `【 asset 资产 】`
+- `【 asset 资产 】` // fixed asset. 固定资产 // current asset. 流动资产
 - `【 property 财产 】`
 - // stocking 长筒袜
 - // stock 股票
 - // stock market 股市
+- _【 consider doing sth. 考虑做某事 】_
+- _【 lottery tickets. 彩票 】_
 - 1. **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
 - 2. **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
 - 3. **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
+- 4. **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
 - // -- 【 share 股份 n 分享 v 】
 - // -- 【 market share. 市场占有率 】
 - // -- 【 share sth with sb. 分享某物给某人 】
+- // -- `【 consider doing sth. 考虑做某事 】`
+- // -- `【 lottery ticket. 彩票 】`
 -
 -
 - [GG.]
@@ -126,11 +150,15 @@
 - [II.]
 - `【 account 账户 】`
 - `【 accountant 会计 会计师 】`
-- **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
+- // counter 柜台
+- // discount 打折
+- // account 账户
+- // accountant 会计 会计师
+- **【 The 【 accountant 】 【 is responsible for 】 【 preparing 】 the 【 financial statement 】 【 for 】 the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 -
 -
 - [JJ.]
-- `【 contract 合同 n 】`
+- `【 contract 合同 n 】` // sign a contract. 签合同 // labor contract. 劳动合同
 - `【 contact 联系 v 】`
 - `【 contrast 对比 对照 v 】` // contrast compare
 - _【 sign a contract. 签合同 】_
@@ -139,7 +167,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 - 1. **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
 - 2. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
-- 3. **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
+-
 -
 - [KK.]
 - `【 transaction 交易 】`
@@ -180,8 +208,8 @@
 - `【 bill 账单 钞票 】`
 - `【 coin 硬币 】` // coin corn
 - `【 cheque 支票 】`
-- `【 lottery 彩票 】`
-- `【 share 股份n 分享v 】`// ------ market share. 市场占有率 // share sth with sb.
+- `【 lottery 彩票 】` // lottery ticket. 彩票
+- `【 share 股份n 分享v 】`// ------ 【 market share. 市场占有率 】 // 【 share sth with sb. 】
 -
 - `【 salary 工资 】` -------------- 长期
 - `【 wage 工资 】` ---------------- 短期
@@ -194,7 +222,7 @@
 -
 - `【【 asset 资产 】】` // ---------- asset 资产 / property 财产 / fixed assets. // current assets.
 - `【【 share 股份n 分享v 】】` // ---- market share. 市场占有率
-- `【【 lottery 彩票 】】`
+- `【【 lottery 彩票 】】` // lottery ticket.
 - `【 stock 股票 】`
 - `【 cheque 支票 】`
 - `【 bond 债卷 】`
@@ -203,8 +231,8 @@
 - _【 market share. 市场占有率 】_
 - _【 share sth with sb. 把某事分享给某人 】_
 -
-- > 【 asset 资产 】
 - > 【 property 财产 】
+- > 【 asset 资产 】
 - > 【 fixed assets. 固定资产 】
 - > 【 current assets. 流动资产 】
 - > **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**

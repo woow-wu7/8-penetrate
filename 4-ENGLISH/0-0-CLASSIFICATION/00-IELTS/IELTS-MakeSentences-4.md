@@ -651,7 +651,7 @@ We are 【 recruiting 】 a new 【 employee 】 for 【 marketing department �
 // 【 afford 买得起 】
 ```
 
-##### 5 Make sentences 2024-06-08
+##### 5 Make sentences 2024-06-09
 
 ```
 1
@@ -753,4 +753,49 @@ Food 【 is necessary for 】 【 living things 】.
 // -
 // 【 transistor 晶体管 】
 // TIPS: Pay attention to the pronunciation of the word '【 transistor 】'.
+
+
+7
+She 【 scolds 】 me.
+她骂我
+-
+He likes to use dirty words to 【 scold 】 people.
+他喜欢用脏话骂人
+-
+// -
+// scold 骂 责骂
+
+
+8
+We need to 【 maintain 】 【 curiosity 】.
+We need to 【 keep 】 【 curiosity 】.
+我们需要保持好奇心
+// -
+// 【 curiosity 好奇心 n 】
+// 【 curious 好奇的 adj 】
+// -
+// 【 serious 严重的 adj 】
+// -
+// 【 various 各种各样的 adj 】
+// -
+// 【 obvious 明显的 adj 】
+// -
+// 【 anxious 焦虑的 adj 】
+
+
+9
+ZongZi are sold 【 at 】 a 20% 【 discount 】 【 during 】 the 【 Dragon Boat Festival 】.
+粽子在端午节期间打 8 折进行出售
+-
+Many clothes are 【 on sale 】 in this store.
+这家商店有许多衣服在打折
+-
+// -
+// 【 at a discount. 打折 】
+// 【 at a 20% discount. 打8折 】
+// -
+// 【 on sale. 打折 】
+// 【 at a discount. = on sale. 打折 】
+// -
+// 【 Dragon Boat Festival. 端午节 】
 ```
