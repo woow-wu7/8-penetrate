@@ -195,8 +195,11 @@ dragon fruit. 火龙果
 apple 苹果
 pineapple 菠萝
 -
+raspberry 山莓
 strawberry 草莓
 blueberry 蓝莓
+blackberry 黑莓
+berry 莓
 cherry 樱桃 // cherries
 -
 orange 橙子

@@ -38,6 +38,7 @@
 -
 - `【 tale 故事 】`
 - `【 tail 尾巴 】`
+- `【 fail 失败v 】`
 -
 -
 - 1. **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
@@ -101,10 +102,11 @@
 -
 -
 - [DD.]
-- `【 tale 故事 】`
+- `【 tale 故事 】` // fairy tale.
 - `【 tail 尾巴 】`
-- `【 fairy 仙女 小精灵 】`
+- `【 fairy 仙女 小精灵 】` // fair // fairy
 - `【 Fairy tale. 童话故事 】`
+- `【 Fairyland. 仙境 】`
 - `【 tail light. = brake light. 尾灯 】`
 - _【 fog light. 雾灯 】_
 - _【 fairyland 仙境 n 】_
@@ -138,14 +140,14 @@
 -
 - _【 be anxious about sth. 对...感到焦虑 】_
 -
-- 1. **【 If you are anxious about exam, you can relieve stress and relieve tension though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
+- 1. **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
 - 2. **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
 - 3. **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
 
 ###### 2024-06-05
 
 - 1
-- `【 fairyland 仙境 n 】` // fairy tale. 童话故事
+- `【 fairyland 仙境 n 】` // fairy tale. 童话故事 // fair // fairy
 - `【 island 岛 岛屿 】` // islander 岛上居民
 - `【 homeland 家园 祖国 】`
 - `【 grassland 草原 】`
@@ -177,7 +179,7 @@
 -
 - 2
 - `【 fair 公平的 公正的 】`
-- `【 fairy 仙女 小精灵 】` // fairy = fair + y // fairy tale
+- `【 fairy 仙女 小精灵 】` // fairy = fair + y // fairy tale // fairyland
 - `【 fail 失败 v 】`
 -
 - `【 benign 良性的 】`
@@ -220,3 +222,123 @@
 - **【 As a 【 failure 】, I have a 【 failed 】 business experience. 做为一个失败者，我有一段失败的经商经历 】**
 - **【 【 failure 】 is the mother of 【 success 】. 失败是成功之母 】**
 - **【 The 【 probability 】 of 【 failure 】 is very low. 【失败】的【概率】很低 】**
+
+###### 2024-06-10
+
+- 1
+- `【 absorb 吸收 】`
+- `【 take in. 吸收 】`
+-
+- `【 release 释放 发布 排放 】`
+- `【 discharge 释放 排出 】` // charge charger discharge
+-
+- `【 soil 土壤 】`
+- `【 oil 石油 】`
+- `【 natural gas. 天然气 】`
+- `【 extract 提取 提炼 】`
+- `【 mine 开采v 我的 地雷n 矿n 】`
+-
+- `【 air 空气 】`
+- `【 gas 气体】` // natural gas. 天然气
+- `【 hydrogen 氢气 】` ----------- H
+- `【 nitrogen 氮气 】` ----------- N
+- `【 oxygen 氧气 】` ------------- O
+- `【 carbon dioxide 二氧化碳 】` -- co2
+- `【 natural gas. 天然气 】`
+-
+- `【 metal 金属 】`
+- `【 element 元素 要素 】`
+- `【 nutrition 营养 n 】`
+-
+- `【 gold 金 金色 金色的 】`
+- `【 silver 银  】`
+- `【 copper 铜  】` // `copper mine. 铜矿`
+- `【 bronze 青铜  】`
+- `【 brass 黄铜  】`
+- `【 iron 铁 】`
+- `【 steel 钢 】` // steel steal
+- _【 copper mine. 铜矿 】_
+-
+- `【 metal 金属 】` // ------- rare metal.
+- `【 medal 奖牌 奖章 】` // -- gold medal. silver medal. bronze medal.
+- `【 model 模型 模特 】` // -- box model. v-model.
+- `【 module 模块 】` // ----- open source module.
+-
+- _【 open source module. 开源模块 】_
+- _【 open source code. 开源代码 】_
+- _【 source code analysis. 源码分析 】_
+- _【 main module. 主要模块 】_
+-
+- _【 form of. ...的形式 】_
+- _【 in the form of. 以...的形式 】_
+-
+-
+-
+- [AA.]
+- `【 absorb 吸收 】`
+- `【 take in. 吸收 】`
+- `【 release 释放 发行 】`
+- `【 discharge 释放 排出 】`
+- 1. **【 Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 【 carbon dioxide 】 into the air. 植物从土壤中吸收水分，向空气中释放二氧化碳 】**
+- 2. **【 The 【 leaves 】 【 are used to 】 【 take in 】 sunlight, and the roots are used to 【 absorb 】 water. 叶子用来吸收阳光，根用来吸收水分 】**
+- 3. **【 【 electric eel 】can 【 discharge 】【 electricity 】 and use the 【 current 】 【 attack 】 smaller fish. 电鳗可以放电并利用电流攻击小鱼 】**
+- // -- `【 sth be used to do sth. 某物被用来做某事 】`
+- // -- `【 sb used to do sth. 过去常常做某事，但现在不做了 】`
+- // -- `【 sb be used to sth. 某人习惯于 某事 】`
+- // -- `【 sb be used to doing sth. 某人习惯于 做某事 】`
+- // -- I 【 used to get up 】 early. 我过去常常早起
+- // -- He 【 is used to getting up 】 early. 我习惯早起
+- // -- I have already been used to the noisy environment. 他已经习惯了噪杂的环境
+- // -- This tool 【 is used to 】 fix the car. 这个工具是用来修车的
+- //
+- // -- leaf -> leaves
+- //
+- // -- `attack 攻击`
+- // -- `attract 吸引`
+- //
+- // -- `electricity 电 电能`
+- // -- `current 电流n 当前的adj`
+- // -- `voltage 电压`
+- // -- **【 【 Electricity 】 is a great 【 consumption 】 for me every month. 每个月的电费对我来说是一笔很大的开销 】**
+- // -- **【 The 【 consumption 】 is 【 go over 】 the 【 budget 】. 消费超出预算 】**
+-
+-
+-
+- [BB.]
+- `【 soil 土壤 】`
+- `【 oil 油 石油 】`
+- `【 extract 提取 提炼 】`
+- **【 【 Oil 】 is 【 extracted 】 from the 【 soil 】. 石油是从土壤中提炼出来的 】**
+-
+-
+-
+- [CC.]
+- `【 air 空气 】`
+- `【 gas 气体 】`
+- `【 hydrogen 氢气 】`
+- `【 nitrogen 氮气 】`
+- `【 oxygen 氧体 】`
+- `【 carbon dioxide. 二氧化碳 】`
+- `【 natural gas. 天然气 】`
+- 1. **【 【 Hydrogen 】 can 【 burn 】 in 【 oxygen 】, and 【 generate 】 【 carbon dioxide 】. 氢气可以在氧气中燃烧，并生成二氧化碳 】**
+- 2. **【 【 organisms 】 【 rely on 】 【 oxygen 】 to survive. 生物依靠氧气活着 】**
+- 3. **【 The air 【 contains 】 nitrogen, oxygen, and carbon dioxide. 空气中含有氮气，氧气，二氧化碳 】**
+-
+-
+-
+- [DD.]
+- `【 metal 金属 】`
+- `【 medal 奖牌 】`
+- `【 model 模型 模特 】`
+- `【 module 模块 】`
+- > 【 rare metal. 稀有金属 】
+- _【 gold medal. 金牌 】_
+- _【 silver medal. 银牌 】_
+- _【 bronze medal. 铜牌 】_ // copper bronze brass
+- > 【 role model. 榜样 】
+- > 【 box model. 盒子模型 】
+- _【 open source module. 开源模块 】_
+- 1. **【 This 【 medal 】 【 is made of 】 【 rare metal 】. 这个奖牌使用稀有金属制作的 】**
+- 2. **【 The course 【 consists of 】 ten 【 core modules 】 and five 【 optional modules 】. 】 课程有 10 个核心模块和 1 个可选模块**
+- // -- 【 be made of. 由...制成 】----- 看得出原材料
+- // -- 【 be made from. 由...制成 】--- 看不出原材料

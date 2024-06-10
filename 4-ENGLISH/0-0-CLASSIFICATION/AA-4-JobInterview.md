@@ -19,17 +19,22 @@
 - layout 布局
 - 【 lay -> laid 】
 - crisis 危机
+- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
+- > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
 - 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
 - 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
 - 3. **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
 - **【 I have been 【 laid off 】. 我被裁员了 】**
 - **【 I was 【 laid off 】. 我被裁员了 】**
 - // -- 【 half of. ...的一半 】
+- // -- 【 economic crisis. 经济危机 】
 -
 -
 - [CC.]
 - `【 compensate 赔偿 补偿 v 】`
 - `【 compensation 赔偿 补偿 赔偿金 n 】`
+- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
+- > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
 - 1. **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
 - // -- 【 a large amount of. 大量的 】

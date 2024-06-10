@@ -138,6 +138,10 @@ carbon dioxide. 二氧化碳
 // 【 atom bomb. 原子弹 】
 // 【 A molecule is made up of atoms. 分子由原子构成 】
 // 【 Two hydrogen atoms combine with one oxygen atom to form a water molecule. 两个氢原子和一个氧原子结合形成一个水分子 】
+-
+- 1. 【 【 Hydrogen 】 can 【 burn 】 in 【 oxygen 】, and 【 generate 】 【 carbon dioxide 】. 氢气可以在氧气中燃烧，并生成二氧化碳 】
+- 2. 【 【 organisms 】 【 rely on 】 【 oxygen 】 to survive. 生物依靠氧气活着 】
+- 3. 【 The air 【 contains 】 nitrogen, oxygen, and carbon dioxide. 空气中含有氮气，氧气，二氧化碳 】
 ```
 
 ##### (八) There meals

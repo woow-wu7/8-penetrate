@@ -129,7 +129,7 @@
 - // -- `【 lottery ticket. 彩票 】`
 -
 -
-- [GG.]
+- [HH.]
 - `【 deposit 存钱 v 存款 n 定金 n 】`
 - `【 in advance. 提前 】`
 - // 1. **【 You need to 【 pay 】 the 【 ten 【 percent 】 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金 】**
@@ -140,14 +140,14 @@
 - // -- 注意 percent 都是用单数
 -
 -
-- [HH.]
+- [II.]
 - `【 maxed out. 刷爆 】`
 - max 最多的 adj 马克思 n
 - tax 税
 - **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
 -
 -
-- [II.]
+- [JJ.]
 - `【 account 账户 】`
 - `【 accountant 会计 会计师 】`
 - // counter 柜台
@@ -157,7 +157,7 @@
 - **【 The 【 accountant 】 【 is responsible for 】 【 preparing 】 the 【 financial statement 】 【 for 】 the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 -
 -
-- [JJ.]
+- [KK.]
 - `【 contract 合同 n 】` // sign a contract. 签合同 // labor contract. 劳动合同
 - `【 contact 联系 v 】`
 - `【 contrast 对比 对照 v 】` // contrast compare
@@ -169,7 +169,7 @@
 - 2. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
 -
 -
-- [KK.]
+- [LL.]
 - `【 transaction 交易 】`
 - `fee 费用`
 - `fare 票价`
@@ -181,7 +181,7 @@
 - // -- 【 technology 技术 科技 n 】
 -
 -
-- [LL.]
+- [MM.]
 - `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
 - **【 I will 【 transfer 】 the money to your 【 savings account 】【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
@@ -190,7 +190,7 @@
 - // -- `immediately. 立即`
 -
 -
-- [MM.]
+- [NN.]
 - `【 budget 预算 】`
 - `【 consume 消费 消耗 v 】`
 - `【 consumption 消费 消耗 n 】`
@@ -202,7 +202,7 @@
 - **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
 -
 -
-- [NN.]
+- [OO.]
 - `【 currency 货币 】`
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
@@ -246,7 +246,7 @@
 -
 -
 -
-- [OO.]
+- [PP.]
 - `wallet 钱包` ------------ 小
 - `purse 钱包 资金` --------- 大，书面语，多用于女性
 - **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
@@ -258,14 +258,14 @@
 - // -- take a shower. 洗澡
 -
 -
-- [PP.]
+- [QQ.]
 - `【 marketing department. 市场部 】`
 - `【 technology department. 技术部 】`
 - `【 purchasing department. 采购部 】`
 - `【 finance department. 财务部 】`
 -
 -
-- [QQ.]
+- [RR.]
 - `【 mortgage 抵押v 按揭n 房贷n 】`
 - `【 loan 贷款n 】`
 - `【 debt 债务n 】`
@@ -276,13 +276,13 @@
 - // -- `【 expenditure = expense. 费用 支出 】`
 -
 -
-- [RR.]
+- [SS.]
 - `【 asset 资产 】`
 - `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
 -
 -
-- [SS.]
+- [TT.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
@@ -308,7 +308,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [TT.]
+- [UU.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -333,7 +333,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [UU.]
+- [VV.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作

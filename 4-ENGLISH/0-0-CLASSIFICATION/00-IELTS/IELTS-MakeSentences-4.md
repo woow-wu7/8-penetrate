@@ -6,11 +6,14 @@ We need to 【 rescue 】 the 【 refugees 】 who were 【 injured 】 in the �
 我们需要去营救在地震中受伤的难民
 -
 // -
-// rescue 营救
-// refugee 难民
+// 【 rescue 营救 】
+// 【 refugee 难民 】
 // -
 // injure 使受伤 伤害 v ----- 身体
 // hurt 受伤 伤害 v --------- 身体和情感
+// -
+// heart
+// hurt
 
 
 2
@@ -22,9 +25,11 @@ Computer can 【 simulate 】 【 the process of 】 his 【 wealth 【 accumula
 -
 // -
 // 【 wealthy 富有的adj  富人n 】
-// 【 wealth 财富n 丰富n 】  // wealth health
+// 【 wealth 财富n 丰富n 】
+// -
+// wealth health
 // health 健康
-// rich = wealthy
+// rich = wealthy 富有的 adj
 // -
 // accumulate 积累 累积 v
 // accumulation 积累 累积 n
@@ -49,11 +54,11 @@ Computer can 【 simulate 】 【 the process of 】 his 【 wealth 【 accumula
 
 
 3
-【 Do you think 】 the most important part 【 is what 】?
 Which part 【 do you think 】 is the most important?
+【 Do you think 】 the most important part 【 is what 】?
 你认为哪个部分最重要
 -
-Do you think you have 【 made progress 】 in English?
+Do you think (that) you have 【 made progress 】 in English?
 Do you think your English has 【 improved 】?
 你认为你的英语有进步吗？
 -
@@ -75,8 +80,8 @@ Why do you think you will be a good 【 candidate 】 【 for 】 this 【 posit
 // -
 // 【 make progress. 进步 取得进步 】
 // -
-// progress 进步 进展 v n
-// process 过程 进程 n
+// 【 progress 进步 进展 v n 】
+// 【 process 过程 进程 n 】
 // -
 // 【 a process of. 一个...的过程 】
 // -
@@ -120,6 +125,7 @@ After 【 looking at 】 the screen 【 for 】 a long time, you need to 【 giv
 // -
 // 【 give a break. 让...休息一下 】
 // 【 give a rest. 让...休息 】
+// give your eyes a break. 让你的眼睛休息一下
 // -
 // look at. 看
 
@@ -129,7 +135,7 @@ I don't know who I should contact.
 I don't know 【 who to contact 】.
 我不知道该联系谁
 // -
-// should 是情态动词，后面加to
+// should 是情态动词，后面不加to
 
 
 
@@ -649,6 +655,23 @@ We are 【 recruiting 】 a new 【 employee 】 for 【 marketing department �
 // -
 // 【 if only. 要是...就好了 】
 // 【 afford 买得起 】
+
+
+
+------- ------- ------- ------- ------- ------- -------
+穿长筒袜的人一般不投资股票
+-
+你踩到我的脚了
+你挡到我看电视了
+你挡到我过马路了
+你挡住了我的路
+你挡住我上楼梯了
+-
+我每隔两天就有一个面试
+我们正在为市场部招聘一个新员工
+-
+要是我能买得起这辆车就好了
+要是我能找到工作就好了
 ```
 
 ##### 5 Make sentences 2024-06-09
@@ -781,6 +804,9 @@ We need to 【 keep 】 【 curiosity 】.
 // 【 obvious 明显的 adj 】
 // -
 // 【 anxious 焦虑的 adj 】
+// -
+// 【 precious 宝贵的 】
+// 【 precious stone. 宝石 】
 
 
 9
@@ -798,4 +824,70 @@ Many clothes are 【 on sale 】 in this store.
 // 【 at a discount. = on sale. 打折 】
 // -
 // 【 Dragon Boat Festival. 端午节 】
+
+
+10
+Forests contain 【 a large amount of 】 【 water resources 】.
+森林蕴含大量的水资源
+-
+【 A large number of 】 experts 【 attended 】 this meeting.
+大量专家参加了这场会议
+-
+// -
+// 【 a large amount of + 不可数名词.  大量的 】
+// 【 a large number of + 可数名词复数.  大量的 】
+// -
+// water resource. 水资源
+
+
+
+------- ------- ------- ------- ------- ------- -------
+我们将对比候选人后再联系您签合同
+这两幅画形成了鲜明的对比
+-
+他把所有公司股份分享给了每个员工
+资产分为固定资产和浮动资产
+-
+她缺乏自信
+这个项目因缺乏资金而失败
+-
+你的眼睛出了什么问题？
+你怎么了？
+-
+你不需要和她吵架
+你没有必要提前复习
+英语对工作来说不是必须的
+食物对生物来说是必不可少的
+晶体管虽小，可对制造电脑是必须的
+-
+她骂我
+他喜欢用脏话骂人
+-
+我们需要保持好奇心
+-
+粽子在端午节期间打 8 折进行出售
+这家商店有许多衣服在打折
+-
+森林蕴含大量的水资源
+大量专家参加了这场会议
+```
+
+##### 5 Make sentences 2024-06-10
+
+```
+1
+Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 【 carbon dioxide 】 【 into 】 the air.
+植物从土壤中吸收水分，向空气中排放二氧化碳
+-
+// -
+// 【 absorb 吸收 】
+// 【 release 释放 发布 排放  】
+// -
+// 【 absorb from. 从...吸收 】
+// 【 release into. 释放到 】
+// -
+// soil 土壤
+// oil 油
+// -
+// [link](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-240601.md)
 ```
