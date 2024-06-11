@@ -261,7 +261,7 @@
 -
 - `【 metal 金属 】` // ------- rare metal.
 - `【 medal 奖牌 奖章 】` // -- gold medal. silver medal. bronze medal.
-- `【 model 模型 模特 】` // -- box model. v-model.
+- `【 model 模型 模特 】` // -- role model. box model. v-model.
 - `【 module 模块 】` // ----- open source module.
 -
 - _【 open source module. 开源模块 】_
@@ -327,10 +327,10 @@
 -
 -
 - [DD.]
-- `【 metal 金属 】`
-- `【 medal 奖牌 】`
-- `【 model 模型 模特 】`
-- `【 module 模块 】`
+- `【 metal 金属 】` // rare metal.
+- `【 medal 奖牌 】` // gold medal. silver medal. bronze medal.
+- `【 model 模型 模特 】` // role model. box-model.
+- `【 module 模块 】` // open source module.
 - > 【 rare metal. 稀有金属 】
 - _【 gold medal. 金牌 】_
 - _【 silver medal. 银牌 】_
@@ -342,3 +342,44 @@
 - 2. **【 The course 【 consists of 】 ten 【 core modules 】 and five 【 optional modules 】. 】 课程有 10 个核心模块和 1 个可选模块**
 - // -- 【 be made of. 由...制成 】----- 看得出原材料
 - // -- 【 be made from. 由...制成 】--- 看不出原材料
+
+###### 2024-06-11
+
+- 1
+- `【 curiosity 好奇心 n 】`
+- `【 responsibility 责任 n 】`
+- `【 passion 激情 热情 n 】`
+-
+- `【 diligent 勤奋的 adj 】`
+- `【 generous 慷慨的 大方的 adj 】`
+- `【 modest 谦虚的 adj 】`
+- `【 calm 冷静的adj 使冷静v 】`
+-
+- `【 mature 成熟的adj 成熟v 】`
+- `【 steady 稳定的 稳重的 】`
+- `【 stable 稳定的 】`
+-
+- `【 upright 正直的 adj 】`
+- `【 optimistic 乐观的 adj 】`
+- `【 honest 诚实的 adj 】`
+- `【 kind 善良的 adj 】`
+- `【 brave 勇敢的 adj 】`
+- `【 confident 自信的 adj 】`
+- `【 sensitive 敏感的 adj 】`
+-
+-
+-
+- [AA.]
+- `【 mature 成熟的adj 成熟v 】` ----- 人和动物的成熟
+- `【 ripe 成熟的adj 】` ------------- 水果，庄稼的成熟
+- `【 steady 稳定的 稳重的 】`
+- `【 stable 稳定的 】`
+- **【 He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人 】**
+-
+-
+-
+- [BB.]
+- `【 calm 冷静的adj 使冷静v 】`
+- `【 calm down. 冷静 】`
+- _【 quarrel with sb. 和某人争吵 】_
+- **【 【 Calm down 】 first and don't 【 quarrel with 】 others. 你先冷静一下，不要和别人争吵 】**
