@@ -872,7 +872,7 @@ Forests contain 【 a large amount of 】 【 water resources 】.
 大量专家参加了这场会议
 ```
 
-##### 5 Make sentences 2024-06-10
+##### 5 Make sentences 2024-06-13
 
 ```
 1
@@ -890,4 +890,47 @@ Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 �
 // oil 油
 // -
 // [link](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-240601.md)
+
+
+2
+【 At last 】, the meeting 【 about 】 【 whether to 】 【 lay off 】 the 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour and a half 】.
+最后，关于是否裁掉整个市场部的会议持续了一个半小时
+-
+// -
+// last 最后的adj 持续v
+// 【 at last. 最后 】
+// 【 last for. 持续 】
+// -
+// 【 lay off. 裁员 v 】
+// 【 layoff. 裁员 n 】
+// -
+// 【 marketing department. 市场部 】
+// -
+// 【 an hour and a half. 一个半小时 】
+// 【 half an hour. 半个小时 】
+
+
+3
+Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】?
+你认为这个产品需求是否合理？
+// -
+// 【 reasonable 合理的 adj 】
+// 【 unreasonable 不合理的 adj 】
+// 【 reason 原因 n 】
+// -
+// 【 product requirement. 产品需求 】
+// 【 requirement 需求 n 】
+// 【 require 要求 需求 v 】
+
+
+4
+【 Traffic jams 】 【 usually 】 【 occur 】 durning 【 morning rush hour 】.
+堵车一般发生在早高峰
+// -
+// 【 rush hour. 高峰时段 】
+// 【 morning rush hour. 早高峰 】
+// -
+// 【 traffic jam. 交通堵塞 堵车 n 】
+// -
+// occur 发生
 ```

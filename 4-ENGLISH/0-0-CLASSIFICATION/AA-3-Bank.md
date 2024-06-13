@@ -51,7 +51,7 @@
 - _【 at a discount. 以...的折扣 / 打折的 】_
 - _【 on sale. 打折 】_
 - 1. **【 ZongZi are sold 【 at 】 a 20% 【 discount 】 【 during 】 the 【 Dragon Boat Festival 】. 粽子在端午节期间打 8 折进行出售 】**
-- 2. **【 Many clothes are 【 on sale 】 in this store. 这家商店有许多衣服在打折 】**
+- 2. **【 Many 【 clothes 】 are 【 on sale 】 in this store. 这家商店有许多衣服在打折 】**
 - // -- 【 at a discount. 打折 】
 - // -- 【 at a 20% discount. 打折 】
 - // -- 【 Dragon Boat Festival. 端午节 】
@@ -63,6 +63,7 @@
 - `【 housing property tax. 房产税 】`
 - 【 housing fund. 住房公积金 】
 - 【 pension 养老金 】
+- _【 pay tax. 交税 纳税 】_
 - **【 Everyone should 【 pay 】 their 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
@@ -127,6 +128,22 @@
 - // -- 【 share sth with sb. 分享某物给某人 】
 - // -- `【 consider doing sth. 考虑做某事 】`
 - // -- `【 lottery ticket. 彩票 】`
+-
+- [GG1.]
+- `【 share 股份n 分享v 】`
+- **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- [GG2.]
+- `【 assets 资产 n 】`
+- `【 property 财产 n 】`
+- _【 fixed asset. 固定资产 】_
+- _【 current asset. 流动资产 】_
+- **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
+- [GG3.]
+- `【 lottery 彩票 】`
+- `【 lottery ticket. 彩票 】`
+- **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
+- // -- 【 consider doing sth. 考虑做某事 】
+-
 -
 -
 - [HH.]
@@ -203,6 +220,26 @@
 -
 -
 - [OO.]
+- `【 fill out. 填写 】`
+- `【 deposit slip. 存款单 】`
+- `【 withdraw slip. 取款单 】`
+- _【 fill out the deposit slip. 填写存款单 】_
+- _【 fill out the form. 填写表格 】_
+- **【 Please 【 fill out 】 the 【 deposit slip 】. 请填写存款单 】**
+- **【 The doctor 【 asked me to 】 【 fill out 】 the 【 medical history form 】. 医生让我填写病历表 】**
+- // -- 【 ask sb to do sth. 让某事人做某事 】
+- // -- 【 medical history form. 病历表 】
+- // -- fill out. 填写
+-
+-
+- [PP.]
+- `【 refund 退款 】`
+- `【 compensation 赔偿 n 】`
+- `【 compensate 赔偿 v 】`
+- **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
+-
+-
+- [QQ.]
 - `【 currency 货币 】`
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
@@ -246,7 +283,7 @@
 -
 -
 -
-- [PP.]
+- [RR.]
 - `wallet 钱包` ------------ 小
 - `purse 钱包 资金` --------- 大，书面语，多用于女性
 - **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
@@ -258,14 +295,14 @@
 - // -- take a shower. 洗澡
 -
 -
-- [QQ.]
+- [SS.]
 - `【 marketing department. 市场部 】`
 - `【 technology department. 技术部 】`
 - `【 purchasing department. 采购部 】`
 - `【 finance department. 财务部 】`
 -
 -
-- [RR.]
+- [TT.]
 - `【 mortgage 抵押v 按揭n 房贷n 】`
 - `【 loan 贷款n 】`
 - `【 debt 债务n 】`
@@ -276,13 +313,13 @@
 - // -- `【 expenditure = expense. 费用 支出 】`
 -
 -
-- [SS.]
+- [UU.]
 - `【 asset 资产 】`
 - `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
 -
 -
-- [TT.]
+- [VV.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
@@ -308,7 +345,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [UU.]
+- [WW.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -333,7 +370,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [VV.]
+- [XX.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作

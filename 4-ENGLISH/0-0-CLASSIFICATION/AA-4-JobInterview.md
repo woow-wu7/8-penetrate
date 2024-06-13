@@ -5,43 +5,57 @@
 - [AA.]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - `【 last for. 持续 】`
-- 1. **【 The meeting 【 lasted for 】 【 an hour and a half 】. 会议持续了一个半小时 】**
+- `【 at last. 最后 】` = in the end. = finally.
+-
+- **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
+-
+- 1. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
 - 2. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
 - 3. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
 - 4. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
+-
 -
 -
 - [BB.]
 - `【 lay off. 裁员 v 】`
 - `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
+- 【 lay -> laid 】
 - lay 放置 安放 v
 - layout 布局
-- 【 lay -> laid 】
 - crisis 危机
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
+-
+- **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
+-
 - 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
 - 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
-- 3. **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
-- **【 I have been 【 laid off 】. 我被裁员了 】**
+- 3. **【 The 【 entire 】 【 marketing department 】 was 【 laid off 】 by company. 整个市场部门被公司裁了 】**
+- **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
 - **【 I was 【 laid off 】. 我被裁员了 】**
 - // -- 【 half of. ...的一半 】
 - // -- 【 economic crisis. 经济危机 】
+- // -- `entire 整个的`
+- // -- `whole 整个的`
+-
 -
 -
 - [CC.]
 - `【 compensate 赔偿 补偿 v 】`
 - `【 compensation 赔偿 补偿 赔偿金 n 】`
+- `【 refund 退款 】`
+- // fun fund refund found
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
 - 1. **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
-- 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
+- 2. **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
+- 3. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
 - // -- 【 a large amount of. 大量的 】
 - // -- 【 according to. 根据 】
 -
 -
-- [CC.]
+- [DD.]
 - `【 overtime 加班 】`
 - `【 work overtime 加班 】`
 - _【 suffer from. 遭受 患上 v 】_
@@ -53,25 +67,27 @@
 - // -- serious 严重的 adj
 -
 -
-- [DD.]
+- [EE.]
 - `【 exhaust 筋疲力尽v 排气管n 】`
 - `【 exhausted 筋疲力尽的 adj 】`
 - `【 burn out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
-- **【 【 Working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽 】**
+- **【 【 Working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽，除了工作狂 】**
 -
 -
-- [EE.]
+- [FF.]
 - `【 workaholic 工作狂 】`
 - `【 volunteer to do sth. 自愿做某事 】`
 - //【 voluntarily 自愿地 adv 】
 - //【 voluntary 自愿的 adj 】
-- 1. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
+- > alcohol 酒精
+- > workaholic 工作狂
+- 1. **【 【 workaholics 】 usually 【 volunteer to 【 work overtime 】 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
 - 2. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
 -
 -
-- [FF.]
+- [GG.]
 - `【 volunteer 志愿者 】`
 - `【 voluntary 自愿的 adj 】`
 - `【 voluntarily 自愿地 adv 】`
@@ -80,7 +96,7 @@
 - 2. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
 -
 -
-- [GG.]
+- [HH.]
 - `【 freelancer 自由职业者 】`
 - `part-time job. 兼职`
 - `full-time job. 全职`
@@ -90,47 +106,80 @@
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
 -
-- [HH.]
+- [II.]
 - `【 requirement 需求 要求 n 】`
 - `【 require 要求 需求 需要 v 】`
+- `【 reasonable 合理的 adj 】`
+- `【 reason 原因 n 】`
+- // 【 unreasonable 不合理的 adj 】
 - _【 product requirement. 产品需求 】_
+- **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
+- **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
--
--
-- [II.]
-- `【 architect 架构师 】`
-- `【 software architect. 前端软件架构师 】`
-- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
+- // -- 【 as soon as possible. 尽快 】
 -
 -
 - [JJ.]
+- `【 architect 架构师 】`
+- `【 software architect. 软件架构师 】`
+- **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
+-
+-
+- [KK.]
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
+- // intern 实习生 n
+- // internship 实习 实习期 n
 -
 -
-- [KK.]
+- [LL.]
 - `【 on-site 现场的 】`
+- `【 on line. 线上 】`
 - _【 on-site interview. 现场面试 】_
 - _【 on-site training. 现场培训 】_
-- **【 I will have 【 an on-site interview 】 on next monday. 我下周一有一个现场面试 】**
-- **【 I will have 【 an online interview 】 on next monday. 我下周一有一个视频面试 】**
+- **【 I will have 【 an on-site interview 】 next monday. 我下周一有一个现场面试 】**
+- **【 I will have 【 an online interview 】 next monday. 我下周一有一个视频面试 】**
 -
 -
-- [KK.]
+- [MM.]
+- `【 proficient 熟练的 精通的 adj 】`
+- `【 proficiency 熟练 精通 n 】`
+- `【 be proficient in. 精通于 】` // be proficient in. 精通于
+- _【 development language. 开发语言 】_
+- _【 programming language. 程序语言 】_
+- **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】**
+- **【 I 【 am proficient in 】 front-end development. 】**
+- **【 I think you 【 are proficient in 】 【 back-end technology 】. 我认为你很精通后端技术 】**
+-
+-
+- [NN.]
+- `【 passion 激情 热情 】`
+- `【 have a passion for. 对...有激情/热情 】`
+- **【 My 【 strength 】 is that I 【 have a passion for 】 my work. 我的优点是对工作充满激情 】**
+-
+-
+- [OO.]
 - `【 promotion 促进 晋升 提升 n 】`
 - `【 promote 促进 晋升 提升 v 】`
 - > 【 be promoted from xx to xx. 从...晋升为... 】
 - > 【 be promoted to. 晋升为... 】
 - > 【 get a promotion. 获得晋升 】
 - 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
-- 1. **【 Due to / because of 】 his excellent performance, he 【 was promoted to 】 leader. 】**
+- 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 leader. 】**
 - 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
 - 2. **【 She got a promotion. 她获得了晋升 】**
 - // -- 【 be promoted from xx to xx. 从...晋升为... 】
 - // -- 【 associate professor. 副教授 】
 - // -- 【 professor 教授 】
+- // -- excellent 杰出的 优秀的 adj
+- // -- prime 主要的
+-
+-
+-
+-
+-
 -
 -
 - [LL.]

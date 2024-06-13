@@ -2,6 +2,16 @@
 
 ##### (1) Summarize 总结 v
 
+- [AA.]
+- `【 rush hour. 高峰时段 】`
+- `【 morning rush hour. 早高峰 】`
+- `【 traffic jam. 交通堵塞 堵车 n 】`
+- **【 【 Traffic jams 】 usually 【 occur 】 durning the 【 morning rush hour 】. 堵车一般发生在早高峰 】**
+- // -- 【 traffic jam. 交通堵塞 堵车 】
+- // -- occur 发生
+- // -- 【 morning rush hour. 早高峰 】
+-
+-
 - 2024-01-10 UPDATE
 - `drunk driving. 酒驾` // drink -> drunk
 - courtesy seat. 爱心专座
