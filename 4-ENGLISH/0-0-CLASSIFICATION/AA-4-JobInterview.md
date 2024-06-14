@@ -6,9 +6,7 @@
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - `【 last for. 持续 】`
 - `【 at last. 最后 】` = in the end. = finally.
--
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
--
 - 1. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
 - 2. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
 - 3. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
@@ -26,9 +24,7 @@
 - crisis 危机
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
--
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
--
 - 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
 - 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
 - 3. **【 The 【 entire 】 【 marketing department 】 was 【 laid off 】 by company. 整个市场部门被公司裁了 】**
@@ -55,10 +51,17 @@
 - // -- 【 according to. 根据 】
 -
 -
+-
 - [DD.]
 - `【 overtime 加班 】`
 - `【 work overtime 加班 】`
 - _【 suffer from. 遭受 患上 v 】_
+- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- // except for. 除了 ------------- 排除
+- // in addition to. 除了 --------- 额外添加 或 补充
+- // 【 SUMMARY: except = except for. 】
+- // 1.【 In addition to 】 my 【 weekly 】 【 wage 】, I got a lot of 【 tips 】.
+- // 2. I'm free 【 except 】 from 8 to 10pm.
 - **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
 - // -- 【 because of. = due to. 因为 】
@@ -67,12 +70,13 @@
 - // -- serious 严重的 adj
 -
 -
+-
 - [EE.]
 - `【 exhaust 筋疲力尽v 排气管n 】`
 - `【 exhausted 筋疲力尽的 adj 】`
 - `【 burn out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
-- **【 【 Working overtime 】 makes people 【 exhausted 】. 加班让人筋疲力尽，除了工作狂 】**
+- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 -
 -
 - [FF.]
@@ -82,9 +86,11 @@
 - //【 voluntary 自愿的 adj 】
 - > alcohol 酒精
 - > workaholic 工作狂
+- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 - 1. **【 【 workaholics 】 usually 【 volunteer to 【 work overtime 】 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
 - 2. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+-
 -
 -
 - [GG.]
@@ -109,7 +115,7 @@
 - [II.]
 - `【 requirement 需求 要求 n 】`
 - `【 require 要求 需求 需要 v 】`
-- `【 reasonable 合理的 adj 】`
+- `【 reasonable 合理的 adj 】` // reasonable unreasonable
 - `【 reason 原因 n 】`
 - // 【 unreasonable 不合理的 adj 】
 - _【 product requirement. 产品需求 】_
@@ -117,21 +123,30 @@
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 - // -- 【 as soon as possible. 尽快 】
+- // -- For 【 consumers 】, this is a 【 reasonable 】 price. 对消费者来说，这是一个合理的价格
 -
 -
 - [JJ.]
 - `【 architect 架构师 】`
 - `【 software architect. 软件架构师 】`
+- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
+- // experienced 经验丰富的 adj
+- // experience 经验 n
+- // prepare to do sth. 准备做某事
 -
 -
 - [KK.]
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
+- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
 - // intern 实习生 n
 - // internship 实习 实习期 n
+- // 【 experience 经验 n 】
+- // 【 experienced 有经验的 adj 】
+- // prepare to do sth. 准备做某事
 -
 -
 - [LL.]
@@ -176,6 +191,19 @@
 - // -- excellent 杰出的 优秀的 adj
 - // -- prime 主要的
 -
+-
+- [PP.]
+- `【 efficiency 效率 n 】`
+- `【 efficient 有效率的 adj 】`
+- `【 experience 经验 n 】`
+- `【 experienced 有经验的 adj 】`
+- _【 work efficiency. 工作效率 】_
+- **【 The leader 【 requires 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
+- **【 The leader 【 asks 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
+- // 【 require sb to do sth. 要求某人做某事 】
+- // 【 ask sb to do sth. 让某人做某事 】
+- // `【 require 要求 需要 依赖 v 】`
+- // `require sb to do sth. 要求某人做某事`
 -
 -
 -
@@ -998,8 +1026,46 @@
 - **【 班级里总共有 20 名学生 】**
 - a total of
 - **【 After graduation, I have had 【 a total of 】 four 【 work experiences 】. 】**
+-
+-
+-
+-
 
-##### (2) **Some questions that must be asked.**
+##### (2) **The sentences that must be asked.**
+
+- 1
+- `【 in terms of. 在...方面 】`
+- `【 distinctive view. 独特的观点 】`
+- **【 【 in terms of 】 food, he has own 【 distinctive views 】. 在食物方面，他有自己独特的见解 】**
+- // -- 【 distinctive 独特的 adj 】
+- // -- 【 distinctive view. 独特的观点 】
+-
+-
+-
+- 2
+- `【 get back to you. 回复你 】`
+- `【 respond to you. 回复你 】`
+- `【 reply to you. 回复你 】`
+- 【 get back to you. = reply to you. = respond to you. 】
+- **【 We will 【 get back to you 】 as soon as possible. 我们将尽快回复您 】**
+- **【 We will 【 respond to you 】 as soon as possible. 我们将尽快回复您 】**
+- // -- respond 回应 响应
+- // -- reply 回复 答复
+-
+-
+-
+- 3
+- `【 for a while. 一会 一段时间 】`
+- `【 patiently 耐心地 adv 】`
+- **【 Please wait 【 for a while 】. 请稍等 】**
+- **【 Please wait 【 patiently 】. 请耐心稍等 】**
+-
+-
+-
+- 4
+-
+
+##### (3) **Some questions that must be asked.**
 
 ```
 1. EXPAND
@@ -1063,6 +1129,17 @@ What 【 performance optimizations 】 have you done in code?
 -
 // -
 // 【 performance optimization. 性能优化 】
+
+
+5. EXPAND
+What's your 【 ideal 】？
+I want to be a 【 front-end software architect 】.
+-
+// -
+// 【 ideal 理想的adj 理想n 】
+// 【 idea 想法 主意 n 】
+// -
+// 【 software architect. 软件架构师 】
 
 
 

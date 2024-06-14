@@ -872,7 +872,7 @@ Forests contain 【 a large amount of 】 【 water resources 】.
 大量专家参加了这场会议
 ```
 
-##### 5 Make sentences 2024-06-13
+##### 5 Make sentences 2024-06-14
 
 ```
 1
@@ -913,6 +913,10 @@ Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 �
 3
 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】?
 你认为这个产品需求是否合理？
+-
+For 【 consumers 】, this is a 【 reasonable 】 price.
+对消费者来说，这是一个合理的价格
+-
 // -
 // 【 reasonable 合理的 adj 】
 // 【 unreasonable 不合理的 adj 】
@@ -933,4 +937,40 @@ Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable �
 // 【 traffic jam. 交通堵塞 堵车 n 】
 // -
 // occur 发生
+
+
+5
+The leader 【 requires 】 us to improve our 【 work efficiency 】.
+领导要求我们提高工作效率
+-
+// -
+// 【 require 要求 需要 依赖 v 】
+// -
+// 【 work efficiency. 工作效率 】
+// -
+// 【 efficiency 效率 n 】
+// 【 efficient 有效率的 adj 】
+// -
+// 【 experience 经验 n 】
+// 【 experienced 有经验的 adj 】
+
+
+6
+You can 【 consider 】 buying a 【 lottery ticket 】.
+你可以考虑买一张彩票
+-
+Before 【 making a decision 】, you need to 【 consider 】 the 【 consequences 】.
+做决定前，你需要考虑后果
+-
+// -
+// 【 consider 考虑 v 】
+// 【 consider doing sth. 考虑做某事 】
+// -
+// lottery 彩票
+// 【 lottery ticket. 彩票 】
+// -
+// 【 consequence 后果 结果 】
+// 【 result 结果 后果 】
+// -
+// 【 make a decision. 做决定 】
 ```
