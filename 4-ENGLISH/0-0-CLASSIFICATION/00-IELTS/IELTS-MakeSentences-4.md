@@ -872,7 +872,7 @@ Forests contain 【 a large amount of 】 【 water resources 】.
 大量专家参加了这场会议
 ```
 
-##### 5 Make sentences 2024-06-14
+##### 6 Make sentences 2024-06-15
 
 ```
 1
@@ -973,4 +973,64 @@ Before 【 making a decision 】, you need to 【 consider 】 the 【 consequen
 // 【 result 结果 后果 】
 // -
 // 【 make a decision. 做决定 】
+
+
+7
+We need to 【 work on-site 】 to solve problems 【 promptly 】.
+我们需要现场办公以便及时地解决问题
+-
+This sign 【 prompted 】 us to keep quiet in the library.
+这个标志提示我们在图书馆需要保持安静
+-
+// -
+// 【 on-site 现场的 】
+// 【 work on-site. 现场办公 】
+// -
+// 【 prompt 及时的adj 提示v 】
+// -
+// 【 prompt sb to do sth. 提示某人做某事 促使某人做某事 】
+
+
+8
+He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】.
+他是一个非常谦虚的人，从来不炫耀自己的成就
+-
+He likes to 【 brag 】.
+他喜欢吹牛
+-
+// -
+//【 modest 谦虚的 adj 】
+//【 brag 吹牛 】
+// -
+//【 show off. 炫耀 】
+// -
+// 【 accomplishment 成就 完成 n 】
+// 【 accomplish 完成 v 】
+// -
+// achieve 实现 完成 v
+// achievement 成就 n
+// -
+// 【 achievement 成就 n 】
+// 【 accomplishment 成就 n 】
+
+
+------- ------- ------- ------- ------- ------- -------
+植物从土壤中吸收水分，向空气中排放二氧化碳
+-
+最后，关于是否裁掉整个市场部的会议持续了一个半小时
+-
+你认为这个产品需求是否合理？
+对消费者来说，这是一个合理的价格
+-
+堵车一般发生在早高峰
+领导要求我们提高工作效率
+-
+你可以考虑买一张彩票
+做决定前，你需要考虑后果
+-
+我们需要现场办公以便及时地解决问题
+这个标志提示我们在图书馆需要保持安静
+-
+他是一个非常谦虚的人，从来不炫耀自己的成就
+他喜欢吹牛
 ```

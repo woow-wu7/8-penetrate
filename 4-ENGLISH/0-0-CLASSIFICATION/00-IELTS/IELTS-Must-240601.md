@@ -383,3 +383,23 @@
 - `【 calm down. 冷静 】`
 - _【 quarrel with sb. 和某人争吵 】_
 - **【 【 Calm down 】 first and don't 【 quarrel with 】 others. 你先冷静一下，不要和别人争吵 】**
+
+###### 2024-06-15
+
+- 1
+- `【 marry 结婚 v 】`
+- `【 marriage 婚姻 结婚 n 】`
+-
+- `【 divorce 离婚 v n 】`
+-
+- `【 wedding 婚礼 n 】`
+- > 【 hold a wedding. 举办婚礼 】
+-
+- `【 matchmakers 红娘 媒人 n 】`
+-
+- `【 marriage certificate. 结婚证 】`
+- `【 divorce certificate. 离婚证 】`
+-
+- **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
+- // -- hold a wedding. 举报婚礼
+- // -- obtain 获得

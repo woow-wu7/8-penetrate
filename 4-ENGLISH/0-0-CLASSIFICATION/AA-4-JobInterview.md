@@ -76,11 +76,16 @@
 - `【 exhausted 筋疲力尽的 adj 】`
 - `【 burn out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
-- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- 2. **【 She 【 felt 】 【 burned out 】 after the 【 race 】. 比赛过后她感到筋疲力尽 】**
+- // -- 【 race 比赛 】
+- // -- 【 competition 比赛 竞争 】
+- // -- feel -> felt
 -
 -
 - [FF.]
 - `【 workaholic 工作狂 】`
+- `【 volunteer 志愿者 n 】`
 - `【 volunteer to do sth. 自愿做某事 】`
 - //【 voluntarily 自愿地 adv 】
 - //【 voluntary 自愿的 adj 】
@@ -98,8 +103,8 @@
 - `【 voluntary 自愿的 adj 】`
 - `【 voluntarily 自愿地 adv 】`
 - _【 volunteer to do sth. 自愿做某事 】_
-- 1. **【 【 Volunteers 】 are people who 【 volunteer to help 】 others. 自愿者是自愿帮助他人的人 】**
-- 2. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
+- **【 【 Volunteers 】 are people who 【 volunteer to help 】 others. 自愿者是自愿帮助他人的人 】**
+- 1. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
 -
 -
 - [HH.]
@@ -108,6 +113,7 @@
 - `full-time job. 全职`
 - `odd job. 零工`
 - lance 长矛
+- **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 -
@@ -117,7 +123,6 @@
 - `【 require 要求 需求 需要 v 】`
 - `【 reasonable 合理的 adj 】` // reasonable unreasonable
 - `【 reason 原因 n 】`
-- // 【 unreasonable 不合理的 adj 】
 - _【 product requirement. 产品需求 】_
 - **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
@@ -134,6 +139,9 @@
 - // experienced 经验丰富的 adj
 - // experience 经验 n
 - // prepare to do sth. 准备做某事
+- // 【 recruit 招聘 v 】
+- // 【 software architect. 软件架构师 】
+- // 【 a experienced software architect. 一位有经验的软件架构师 】
 -
 -
 - [KK.]
@@ -152,10 +160,17 @@
 - [LL.]
 - `【 on-site 现场的 】`
 - `【 on line. 线上 】`
+- `【 work on-site. 现场办公 】`
 - _【 on-site interview. 现场面试 】_
 - _【 on-site training. 现场培训 】_
-- **【 I will have 【 an on-site interview 】 next monday. 我下周一有一个现场面试 】**
-- **【 I will have 【 an online interview 】 next monday. 我下周一有一个视频面试 】**
+- **【 The sign 【 prompts 】 us to 【 work on-site 】 to resolve problems 【 promptly 】.【提示】我们【在现场工作】以【及时】解决问题 】**
+- 1. **【 We need to 【 work on-site 】 to solve problems 【 promptly 】. 我们需要在现场办公，以便及时解决问题 】**
+- 2. **【 I will have 【 an online interview 】 next monday. 我下周一有一个视频面试 】**
+- // -- prompt 及时的 adj 提示 v
+- // -- promptly 及时地 adv
+- // ----`【 prompt 提示v 及时的adj 】`
+- // ----` 【 prompt sb to do sth. 提示某人做某事 激励某人做某事  】`
+- // ---- **【 This sign 【 prompted 】 us to keep quiet in the library. 这个标志提示我们在图书馆内保持安静 】**
 -
 -
 - [MM.]
@@ -181,6 +196,7 @@
 - > 【 be promoted from xx to xx. 从...晋升为... 】
 - > 【 be promoted to. 晋升为... 】
 - > 【 get a promotion. 获得晋升 】
+- 【 promote vs prompt 】
 - 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
 - 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 leader. 】**
 - 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
@@ -204,6 +220,38 @@
 - // 【 ask sb to do sth. 让某人做某事 】
 - // `【 require 要求 需要 依赖 v 】`
 - // `require sb to do sth. 要求某人做某事`
+-
+-
+- [QQ.]
+- `【 modest 谦虚的 adj 】`
+- `【 show off. 炫耀 】`
+- `【 accomplishment 成就 n 】`
+- **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
+- **【 He likes to 【 show off 】 his chest muscles. 他喜欢炫耀他的胸肌 】**
+-
+-
+- [RR.]
+- `【 accomplish 完成 v 】`
+- `【 accomplishment 成就 完成 n 】` 
+- // achievement accomplishment 成就
+- **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
+- **【 His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市 】**
+-
+-
+- [SS.]
+- `【 professor 教授 n 】`
+- `【 profession 职业 行业 n 】` // profession industry 行业
+- `【 professional 职业的 adj 】`
+- > 【 professional skill. 专业技能 】
+- > 【 professional staff. 专业人员 】
+- > 【 professional equipment. 专业设备 】
+- 1. **【 teaching is her 【 profession 】. 教书是她的职业 】**
+- 1. **【 He is a 【 university 】 【 physics 】 【 professor 】. 他是大学物理教授 】**
+- 1. **【 Builder should wear 【 professional equipment 】 to protect themselves. 建筑工人需要穿着专业装备来保护自己 】**
+-
+-
+-
+-
 -
 -
 -
@@ -1092,6 +1140,9 @@ What is 【 the size of 】 the team that 【 you are in 】?
 
 
 2. EXPAND
+【 At last 】, the meeting about 【 whether 】 【 to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour and a half 】.
+最后，关于是否裁掉整个市场部的会议持续了一个半小时
+-
 How long 【 will 】 the meeting 【 last 】?
 本次会议会持续多长时间？
 -

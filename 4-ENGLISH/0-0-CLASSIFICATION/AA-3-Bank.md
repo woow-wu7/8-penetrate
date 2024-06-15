@@ -237,6 +237,11 @@
 - `【 compensation 赔偿 n 】`
 - `【 compensate 赔偿 v 】`
 - **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
+- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- // -- lay off. 裁员 v
+- // -- layoff. 裁员 n
+- // -- a large amount of. 大量的 ----- 不可数名字
+- // -- a large number of. 大量的 ----- 可数名词复数
 -
 -
 - [QQ.]
