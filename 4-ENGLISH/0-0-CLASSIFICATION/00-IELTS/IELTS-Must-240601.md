@@ -346,6 +346,10 @@
 ###### 2024-06-11
 
 - 1
+- `【 modest 谦虚的 adj 】`
+- `【 low-key. 低调的 adj 】`
+- `【 generous 慷慨的 adj 】`
+-
 - `【 curiosity 好奇心 n 】`
 - `【 responsibility 责任 n 】`
 - `【 passion 激情 热情 n 】`
@@ -392,6 +396,8 @@
 -
 - `【 divorce 离婚 v n 】`
 -
+- `【 marry 结婚 v 】`
+- `【 wed 结婚 v 】`
 - `【 wedding 婚礼 n 】`
 - > 【 hold a wedding. 举办婚礼 】
 -

@@ -7,10 +7,14 @@
 - `【 last for. 持续 】`
 - `【 at last. 最后 】` = in the end. = finally.
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
-- 1. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
-- 2. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
-- 3. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
-- 4. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
+- 1. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
+- 2. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
+- 3. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+- 4. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
+- // -- marketing department. 市场部
+- // -- technology department. 技术部
+- // -- finance department. 财务部
+- // -- purchasing department. 采购部
 -
 -
 -
@@ -19,6 +23,7 @@
 - `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
 - 【 lay -> laid 】
+- 【 lay off. vs recruit 】
 - lay 放置 安放 v
 - layout 布局
 - crisis 危机
@@ -74,13 +79,13 @@
 - [EE.]
 - `【 exhaust 筋疲力尽v 排气管n 】`
 - `【 exhausted 筋疲力尽的 adj 】`
-- `【 burn out. 精疲力竭 】`
+- `【 burned out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 - 2. **【 She 【 felt 】 【 burned out 】 after the 【 race 】. 比赛过后她感到筋疲力尽 】**
 - // -- 【 race 比赛 】
 - // -- 【 competition 比赛 竞争 】
-- // -- feel -> felt
+- // -- 【 feel -> felt 】
 -
 -
 - [FF.]
@@ -116,13 +121,16 @@
 - **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
+- // -- 【 so that. 以便 因此 】
 -
 -
 - [II.]
 - `【 requirement 需求 要求 n 】`
 - `【 require 要求 需求 需要 v 】`
-- `【 reasonable 合理的 adj 】` // reasonable unreasonable
+- `【 reasonable 合理的 adj 】`
 - `【 reason 原因 n 】`
+- // reasonable`
+- // unreasonable
 - _【 product requirement. 产品需求 】_
 - **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
@@ -148,6 +156,7 @@
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
+- 【 lay off. vs recruit 】
 - **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
 - // intern 实习生 n
@@ -224,21 +233,49 @@
 -
 - [QQ.]
 - `【 modest 谦虚的 adj 】`
-- `【 show off. 炫耀 】`
+- `【 show off. 炫耀 = flaunt 】`
 - `【 accomplishment 成就 n 】`
-- **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
-- **【 He likes to 【 show off 】 his chest muscles. 他喜欢炫耀他的胸肌 】**
+- // `modest 谦虚的 adj`
+- // `brag 吹嘘`
+- // 【 show off. = flaunt. 炫耀 】
+- **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
+- **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+- 1. **【 He likes to 【 show off 】 his chest muscles. 他喜欢炫耀他的胸肌 】**
 -
 -
 - [RR.]
+- `【 low-key. 低调的 adj 】`
+- `【 flaunt 炫耀 v = show off. 】`
+- `【 wealth 财富 n 】`
+- // 【 flaunt = show off. 炫耀 】
+- // 【 wealthy 富有的 adj 】
+- // 【 wealth 财富 n 】
+- **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
+- **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+-
+-
+-
+- [SS.]
+- `【 generous 慷慨的 adj 】`
+- `【 donate 捐赠 捐献 v 】`
+- _【 donate money. 捐钱 】_
+- **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+- **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
+- **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
+-
+-
+- [TT.]
 - `【 accomplish 完成 v 】`
-- `【 accomplishment 成就 完成 n 】` 
+- `【 accomplishment 成就 完成 n 】`
 - // achievement accomplishment 成就
 - **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市 】**
 -
 -
-- [SS.]
+- [UU.]
 - `【 professor 教授 n 】`
 - `【 profession 职业 行业 n 】` // profession industry 行业
 - `【 professional 职业的 adj 】`
@@ -248,6 +285,32 @@
 - 1. **【 teaching is her 【 profession 】. 教书是她的职业 】**
 - 1. **【 He is a 【 university 】 【 physics 】 【 professor 】. 他是大学物理教授 】**
 - 1. **【 Builder should wear 【 professional equipment 】 to protect themselves. 建筑工人需要穿着专业装备来保护自己 】**
+-
+-
+- [VV.]
+- `【 concise 简明的 简洁的 adj 】`
+- `【 concisely 简明地 简洁地 adv 】`
+- > 【 concise answer. 简洁的答案 】
+- > 【 concise language. 简洁的语言 】
+- 1. **【 a good 【 resume 】 should be 【 concise 】 and 【 focused 】. 一份好的简历应该简洁和有重点 】**
+- 2. **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- 3. **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
+- // -- concise language. 简洁的语言
+- // -- development language. 开发语言
+-
+-
+- [WW.]
+- `【 personnel 人事部门 n 】`
+- `【 personal 个人的 adj 】`
+- `【 personality 性格 】`
+- `【 interpersonal 人际关系的 adj】`
+- 【 director 导演 懂事 管理者 】
+- > 【 personnel director. 人事总监 】
+- > 【 sales director. 销售总监 】
+- _【 personal privacy. 个人隐私 】_
+- - **【 personal privacy. 个人隐私 】**
+- **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+-
 -
 -
 -

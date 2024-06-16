@@ -889,6 +889,9 @@ Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 �
 // soil 土壤
 // oil 油
 // -
+// 【 release 释放 发泄 】
+// 【 discharge 释放 放电 】
+// -
 // [link](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-240601.md)
 
 
@@ -936,7 +939,8 @@ For 【 consumers 】, this is a 【 reasonable 】 price.
 // -
 // 【 traffic jam. 交通堵塞 堵车 n 】
 // -
-// occur 发生
+// 【 occur 发生 v 】 -------- 正式
+// 【 happen 发生 v 】-------- 口语
 
 
 5
@@ -964,6 +968,9 @@ Before 【 making a decision 】, you need to 【 consider 】 the 【 consequen
 -
 // -
 // 【 consider 考虑 v 】
+// -
+// 【 consider doing sth. 考虑做某事 】
+// 【 consider doing sth. 考虑做某事 】
 // 【 consider doing sth. 考虑做某事 】
 // -
 // lottery 彩票
@@ -1014,6 +1021,80 @@ He likes to 【 brag 】.
 // 【 accomplishment 成就 n 】
 
 
+9
+He is a very 【 low-key 】 person who never 【 flaunt 】 his 【 wealth 】.
+他是一个非常低调的人，从来不炫富
+-
+She is a very 【 modest 】 person who never 【 shows off 】 her 【 accomplishment 】.
+她是一个非常谦虚的人，从来不炫耀自己的成就
+-
+He is a very 【 generous 】 person who often 【 donates 】 money to the poor.
+他是一个非常慷慨的人，经常给穷人捐款
+-
+// -
+// 【 low-key. 低调的 adj 】
+// 【 modest 谦虚的 adj 】
+// 【 generous 慷慨的 adj 】
+// -
+// 【 flaunt 炫耀 v 】
+// 【 show off. 炫耀 v 】
+// -
+// 【 donate 捐赠 捐献 v 】
+// 【 donate money. 捐钱 】
+// -
+// 【 accomplishment 成就 n 】
+// 【 achievement 成就 n 】
+// 【 accomplish 完成 】
+// 【 achieve 实现 v 】
+// -
+// wealth 财富 n
+// wealthy 富有的 adj
+
+
+
+10
+We should 【 believe in 】 our own 【 beliefs 】.
+我们要相信自己的信仰
+// -
+// 【 believe 相信 】
+// 【 belief 信仰 】
+// -
+// 【 believe in. 相信 】
+
+
+11
+He is a 【 specialist 】 in a 【 special 】 field.
+他是一个特殊领域的专家
+// -
+// 【 specialist 专家 n 】
+// 【 special 特别的 特殊的 adj 】
+// -
+// 【 expert 专家 】
+// 【 specialist 专家 】
+// -
+// 【 special field. 特殊领域 】
+
+
+12
+After they 【 obtain 】 the 【 marriage certificate 】, they prepare to 【 hold a weddings 】.
+领完结婚证后，他们准备举办婚礼
+// -
+// 【 marriage certificate. 结婚证 】
+// 【 divorce certificate. 离婚证 】
+// -
+// 【 hold a wedding. 举办婚礼 】
+// -
+// marry 结婚 n
+// marriage 婚姻 n
+// wed 结婚 v
+// wedding 婚礼 n
+// -
+// divorce 离婚 v
+// marry 结婚
+
+
+
+
 ------- ------- ------- ------- ------- ------- -------
 植物从土壤中吸收水分，向空气中排放二氧化碳
 -
@@ -1033,4 +1114,14 @@ He likes to 【 brag 】.
 -
 他是一个非常谦虚的人，从来不炫耀自己的成就
 他喜欢吹牛
+-
+他是一个非常低调的人，从来不炫富
+她是一个非常谦虚的人，从来不炫耀自己的成就
+他是一个非常慷慨的人，经常给穷人捐款
+-
+我们要相信自己的信仰
+-
+他是一个特殊领域的专家
+-
+领完结婚证后，他们准备举办婚礼
 ```
