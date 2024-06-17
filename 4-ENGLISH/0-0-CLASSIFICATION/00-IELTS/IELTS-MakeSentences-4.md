@@ -1055,9 +1055,12 @@ He is a very 【 generous 】 person who often 【 donates 】 money to the poor
 10
 We should 【 believe in 】 our own 【 beliefs 】.
 我们要相信自己的信仰
+-
+We should have 【 confidence 】 and 【 courage 】 to 【 believe 】 in our own 【 beliefs 】.
+我们要有信心和勇气去相信自己的信念
 // -
 // 【 believe 相信 】
-// 【 belief 信仰 】
+// 【 belief 信仰 信念 】
 // -
 // 【 believe in. 相信 】
 
@@ -1120,8 +1123,239 @@ After they 【 obtain 】 the 【 marriage certificate 】, they prepare to 【 
 他是一个非常慷慨的人，经常给穷人捐款
 -
 我们要相信自己的信仰
+我们要有信心和勇气去相信自己的信念
 -
 他是一个特殊领域的专家
 -
 领完结婚证后，他们准备举办婚礼
+```
+
+##### 7 Make sentences 2024-06-17
+
+```
+1
+He is a very 【 serious 】 person who is very 【 strict 】 with his students.
+他是一个很严肃的人，对学生要求很严格
+-
+A: Sorry, babe, I forgot your birthday.
+B: 【 Seriously 】?
+真的吗？
+-
+There was a 【 serious 】 car 【 accident 】 on the road.
+路上发生了一起严重的车祸
+-
+He 【 suffered from 】 a 【 serious 】 illness.
+他患上了严重的疾病
+-
+People don't 【 realize 】 how 【 serious 】 this recession has actually been.
+人们没有意识到这次衰退实际上有多严重
+-
+// -
+// 【 serious 严肃的 认真的 严重的 adj 】
+// 【 seriously 严肃地 认真地 严重的 adv 】
+// -
+// 【 be strict with. 对...很严格 】
+// 【 strict 严格的 严厉的 adj 】
+// -
+// 【 suffer from. 患上 】
+// -
+// realize 意识到
+
+
+2
+【 Even if 】 you 【 apologize 】 to me, I will not 【 forgive 】 you.
+即使你向我道歉，我也不会原谅你
+-
+I don't 【 accept 】 your 【 apology 】.
+我不接受你的道歉
+-
+You need to 【 apologize 】 【 to 】 me.
+你需要给我道歉
+-
+// -
+// 【 Even if. 即使 】
+// -
+// 【 apologize 道歉 v 】
+// 【 apology 道歉 n 】
+// -
+// 【 apologize to sb. 向某人道歉 】
+// -
+// 【 forgive 原谅 v 】
+
+
+3
+I 【 hate 】 students who 【 lie 】.
+我很讨厌撒谎的学生
+-
+Please don't 【 lie 】 to me.
+请不要对我撒谎
+-
+Please don't 【 lie 】 on the floor.
+请不要躺在地板上
+-
+// -
+// 【 hate 恨 讨厌 】
+// -
+// 【 lie 撒谎v 谎言n 躺v 】
+// -
+// lie -> lay -> lain
+
+
+4
+【 Littering 】 in 【 public places 】 will be 【 fined 】.
+公共场合乱扔东西会被罚款
+-
+He 【 was fined for 】 【 drink driving 】.
+他因酒驾而被罚款
+-
+He 【 was fined for 】 【 illegal 】 【 parking 】.
+他因乱停车而被罚款
+-
+【 Being late 】 will be 【 fined 】.
+迟到会被罚款
+-
+He 【 paid a 20 dollars fine 】.
+他支付了20美金罚款
+-
+If you 【 are late for 】 work You will be 【 fined 】.
+如果你上班迟到就会被罚款
+-
+Are you late for school?
+你上学迟到了吗？
+-
+// -
+// 【 fine 好的adj / 罚款 v n 】
+// 【 be fined for. 因...而被罚款 】
+// -
+// 【 pay a fine. 缴纳罚款 】
+// -
+// drink driving. 酒驾
+// -
+// 【 be late for. 迟到 】
+// -
+// illegal 非法的
+// legal 合法的
+// 【 illegal parking. 非法停车 】
+
+
+5
+He got the 【 courage 】 from the 【 encouragement 】 【 of 】 his 【 relatives 】.
+他从亲人的鼓励中获得了勇气
+-
+We need to 【 discourage teenagers from smoking 】.
+我们应该劝阻青少年吸烟
+-
+// -
+// 【 courage 勇气 n 】
+// 【 encourage 鼓励 v 】
+// 【 discourage 劝阻 阻碍 灰心 v 】
+// -
+// 【 discourage sb from doing sth. 阻止某人做某事 】
+// -
+// 【 relative 相对的adj 亲戚 n 】
+// -
+// encourage 鼓励 v
+// encouragement 鼓励 n
+
+
+6
+【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】.
+自由职业者不需要在办公司现场办公
+-
+The sign 【 prompts 】 us to 【 work on-site 】 to resolve problems 【 promptly 】.
+这个提示我们在现场办公以及时解决问题
+-
+// -
+// 【 work on-site. 现在办公 】
+// 【 freelancer 自由职业者 】
+// -
+// 【 prompt 提示n 迅速的 adj 】
+// 【 promptly 迅速地 adv 】
+
+
+7
+We should have 【 confidence 】 and 【 courage 】 to 【 believe 】 in our own 【 beliefs 】.
+我们要有信心和勇气去相信自己的信念
+-
+// -
+// 【 believe 相信 v 】
+// 【 belief 信仰 信念 n 】
+// -
+// 【 courage 勇气 n 】
+// 【 encourage 鼓励 v 】
+// 【 discourage 劝阻 】
+// 【 discourage sb from doing sth. 阻止某人做某事 】
+// -
+// 【 confidence 信心 自信心 自信 n 】
+// 【 confident 自信的 adj 】
+
+
+8
+My 【 colleague 】 is my 【 college 】 【 classmate 】.
+我同事是我大学同学
+-
+【 No mater 】 his parents 【 oppose 】 or 【 agree 】, he also wants to 【 date 】 his 【 college 】 classmates.
+无论家长反对还是同意，他都想和他的大学同学约会
+-
+He wants to 【 date 】 his 【 goddess 】.
+他想和他的女神约会
+-
+I 【 can't wait to 】 【 go on a date 】.
+我迫不及待想去约会
+-
+// -
+// 【 colleague 同事 】
+// 【 college 学院 大学 】
+// -
+// 【 oppose 反对 反抗 v 】
+// 【 agree 同意 v 】
+// -
+// 【 can't wait to do sth. 迫不及待做某事 】
+// 【 go on a date. 去约会 】
+// -
+// 【 date 日期n 约会v 】
+// -
+// 【 no matter. 无论 】
+// -
+// goddess 女神
+// god 神 男神
+
+
+
+
+------- ------- ------- ------- ------- ------- -------
+他是一个很严肃的人，对学生要求很严格
+真的吗？
+路上发生了一起严重的车祸
+他患上了严重的疾病
+人们没有意识到这次衰退实际上有多严重
+-
+即使你向我道歉，我也不会原谅你
+我不接受你的道歉
+你需要给我道歉
+-
+我很讨厌撒谎的学生
+请不要对我撒谎
+请不要躺在地板上
+-
+公共场合乱扔东西会被罚款
+他因酒驾而被罚款
+他因乱停车而被罚款
+迟到会被罚款
+他支付了20美金罚款
+如果你上班迟到就会被罚款
+你上学迟到了吗？
+-
+他从亲人的鼓励中获得了勇气
+我们应该劝阻青少年吸烟
+-
+自由职业者不需要在办公司现场办公
+这个提示我们在现场办公以及时解决问题
+-
+我们要有信心和勇气去相信自己的信念
+-
+我同事是我大学同学
+无论家长反对还是同意，他都想和他的大学同学约会
+他想和他的女神约会
+我迫不及待想去约会
 ```

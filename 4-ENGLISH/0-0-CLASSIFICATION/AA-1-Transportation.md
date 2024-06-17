@@ -12,6 +12,17 @@
 - // -- 【 morning rush hour. 早高峰 】
 -
 -
+- [BB.]
+- `【 fine 好的adj / 罚款 v n 】`
+- `【 be fined for. 因...而被罚款 】`
+- `【 pay a fine. 缴纳罚款 】`
+- _【 drink driving. 酒驾 】_
+- 1. **【 He was 【 fined 】 for 【 drink driving 】. 他因酒驾而被罚款 】**
+- 2. **【 【 Littering 】 in public places will be 【 fined 】. 公共场合乱扔东西会被罚款 】**
+- 3. **【 He 【 paid a 20 dollars fine 】. 他支付了 20 美元的罚款 】**
+- // The policeman fined the driver for driving too fast. 警察因那个司机超速而对他处以罚款
+-
+-
 - 2024-01-10 UPDATE
 - `drunk driving. 酒驾` // drink -> drunk
 - courtesy seat. 爱心专座

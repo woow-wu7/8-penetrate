@@ -118,7 +118,8 @@
 - `full-time job. 全职`
 - `odd job. 零工`
 - lance 长矛
-- **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
+- 1. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
+- 2. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 - // -- 【 so that. 以便 因此 】
@@ -172,6 +173,7 @@
 - `【 work on-site. 现场办公 】`
 - _【 on-site interview. 现场面试 】_
 - _【 on-site training. 现场培训 】_
+- **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - **【 The sign 【 prompts 】 us to 【 work on-site 】 to resolve problems 【 promptly 】.【提示】我们【在现场工作】以【及时】解决问题 】**
 - 1. **【 We need to 【 work on-site 】 to solve problems 【 promptly 】. 我们需要在现场办公，以便及时解决问题 】**
 - 2. **【 I will have 【 an online interview 】 next monday. 我下周一有一个视频面试 】**
@@ -256,7 +258,6 @@
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 -
 -
--
 - [SS.]
 - `【 generous 慷慨的 adj 】`
 - `【 donate 捐赠 捐献 v 】`
@@ -310,6 +311,36 @@
 - _【 personal privacy. 个人隐私 】_
 - - **【 personal privacy. 个人隐私 】**
 - **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+-
+-
+- [XX.]
+- `【 ask for leave. 请假 】`
+- `【 ask for sick leave. 请病假 】`
+- `【 ask for personal leave. 请事假 】`
+- `【 leave 离开v 休假n 】`
+- `【 leaves 叶子 -> leaf/leaves 】`
+- `【 vacation 假期 】` ----- 美式英语
+- `【 holiday 假期 】` ------ 英式英语
+- `【 business trip. 出差 】`
+- > 【 go on vacation. = go for vacation. 度假 】
+- > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
+- _【 be equal to. 等于 】_
+- 1. **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
+- 2. **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**
+- // -- centimeter 厘米 CM
+- // -- millimeter 毫米 MM
+- // -- 【 be equal to. 等于 相等 】
+- 3. **【 She 【 asked for leave 】 to 【 go on vacation 】. 她请假去度假 】**
+- 4. **【 If you're not sick, you can't 【 ask for sick leave 】, You only 【 ask for personal leave 】. 如果你没生病就不能请病假，只能请事假 】**
+- 5. **【 【 Leaves 】 is the 【 plural 】 form of 【 leaf 】. leaves 是 leaf 的复数形式 】**
+- // -- 【 form of. ...的形式 】
+- // -- 【 plural 复数的 adj 复数 n 】
+-
+-
+- [YY.]
+- `【 colleague 同事 】`
+- `【 college 学院 大学 】`
+- **【 My 【 colleague 】 is my 【 college 】 【 classmate 】. 我同事是我大学同学 】**
 -
 -
 -
@@ -1068,10 +1099,12 @@
 -
 - 38
 - `on-site 现场的`
+- `work on-site. 现在办公`
 - _【 on-site interview. 现场面试 】_
 - _【 on-site training. 现场培训 】_
-- **【 I will have 【 an on-site interview 】 on next monday. 我下周一有一个现场面试 】**
-- **【 I will have 【 an online interview 】 on next monday. 我下周一有一个视频面试 】**
+- **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- 1. **【 I will have 【 an on-site interview 】 on next monday. 我下周一有一个现场面试 】**
+- 2. **【 I will have 【 an online interview 】 on next monday. 我下周一有一个视频面试 】**
 -
 -
 - 39

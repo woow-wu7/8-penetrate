@@ -216,7 +216,7 @@
 - _【 go over budget. 超出预算 】_
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
-- **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
+- **【 The 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
 -
 -
 - [OO.]
@@ -233,6 +233,17 @@
 -
 -
 - [PP.]
+- `【 fine 好的adj / 罚款 v n 】`
+- `【 be fined for. 因...而被罚款 】`
+- `【 pay a fine. 缴纳罚款 】`
+- _【 drink driving. 酒驾 】_
+- 1. **【 He was 【 fined 】 for 【 drink driving 】. 他因酒驾而被罚款 】**
+- 2. **【 【 Littering 】 in public places will be 【 fined 】. 公共场合乱扔东西会被罚款 】**
+- 3. **【 He 【 paid a 20 dollars fine 】. 他支付了 20 美元的罚款 】**
+- // The policeman fined the driver for driving too fast. 警察因那个司机超速而对他处以罚款
+-
+-
+- [QQ.]
 - `【 refund 退款 】`
 - `【 compensation 赔偿 n 】`
 - `【 compensate 赔偿 v 】`
@@ -244,7 +255,7 @@
 - // -- a large number of. 大量的 ----- 可数名词复数
 -
 -
-- [QQ.]
+- [RR.]
 - `【 currency 货币 】`
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
@@ -288,7 +299,7 @@
 -
 -
 -
-- [RR.]
+- [SS.]
 - `wallet 钱包` ------------ 小
 - `purse 钱包 资金` --------- 大，书面语，多用于女性
 - **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
@@ -300,14 +311,14 @@
 - // -- take a shower. 洗澡
 -
 -
-- [SS.]
+- [TT.]
 - `【 marketing department. 市场部 】`
 - `【 technology department. 技术部 】`
 - `【 purchasing department. 采购部 】`
 - `【 finance department. 财务部 】`
 -
 -
-- [TT.]
+- [UU.]
 - `【 mortgage 抵押v 按揭n 房贷n 】`
 - `【 loan 贷款n 】`
 - `【 debt 债务n 】`
@@ -318,13 +329,13 @@
 - // -- `【 expenditure = expense. 费用 支出 】`
 -
 -
-- [UU.]
+- [VV.]
 - `【 asset 资产 】`
 - `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
 -
 -
-- [VV.]
+- [WW.]
 - `【 president 总统 】`
 - `【 resident 居民 】`
 - `【 reside 居住 v - 人 】` // reside resign
@@ -350,7 +361,7 @@
 - // -- `deputy mayor. 副市长`
 - // -- `deputy editor. 副编辑`
 -
-- [WW.]
+- [XX.]
 - `【 prohibit 禁止 v 】`
 - `【 inhibit 抑制 v 】`
 - `【 inhabit 居住 v - 动物 】`
@@ -375,7 +386,7 @@
 - // 【 alien civilization. 外星文明 】
 - **【 Fire is 【 an essential part of 】【 human civilization 】. 火是【人类文明】的【重要组成部分】 】**
 -
-- [XX.]
+- [YY.]
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作

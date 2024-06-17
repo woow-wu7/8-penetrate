@@ -406,6 +406,62 @@
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
 -
-- **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
-- // -- hold a wedding. 举报婚礼
+- 1. **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
+- // -- 【 hold a wedding. 举报婚礼 】
 - // -- obtain 获得
+- 2. **【 Would you like to 【 marry 】 me? 你愿意嫁给我吗？】**
+- 2. **【 I want to 【 marry 】 you. 我想娶你 】**
+
+###### 2024-06-17
+
+- 1
+- `【 ask for leave. 请假 】`
+- `【 ask for sick leave. 请病假 】`
+- `【 ask for personal leave. 请事假 】`
+-
+- `【 leave 离开v 休假n 】`
+- `【 leaves 叶子 -> leaf/leaves 】`
+-
+- `【 vacation 假期 】` ----- 美式英语
+- `【 holiday 假期 】` ------ 英式英语
+-
+- `【 business trip. 出差 】`
+-
+- > 【 go on vacation. = go for vacation. 度假 】
+- > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
+-
+-
+- [AA.]
+- `【 business trip. 出差 】`
+- _【 be equal to. 等于 】_
+- **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
+- **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**
+- // -- centimeter 厘米 CM
+- // -- millimeter 毫米 MM
+- // -- 【 be equal to. 等于 相等 】
+-
+-
+- [BB.]
+- `【 ask for leave. 请假 】`
+- `【 go on vacation. 休假 】`
+- **【 She 【 asked for leave 】 to 【 go on vacation 】. 她请假去度假 】**
+-
+-
+- [CC.]
+- `【 ask for sick leave. 请病假 】`
+- `【 ask for personal leave. 请事假 】`
+- **【 If you're not sick, you can't 【 ask for sick leave 】, You only 【 ask for personal leave 】. 如果你没生病就不能请病假，只能请事假 】**
+-
+-
+- [DD.]
+- `【 leaves 叶子 】`
+- `【 leave 离开v 休假n 】`
+- leaf -> leaves.
+- _【 form of. ...的形式 】_
+- _【 in form of. 以...的形式 】_
+- > 【 plural form. 复数形式 】
+- 1. **【 【 Leaves 】 is the 【 plural form 】 of 【 leaf 】. leaves 是 leaf 的复数形式 】**
+- 2. **【 The 【 plural 】 of child 【 is 】 children. child 的复数是 children 】**
+- 3. **【 Display performance data 【 in form of 】 charts. 用图表的方式显示性能数据 】**
+- // -- 【 form of. ...的形式 】
+- // -- 【 plural 复数的 adj 复数 n 】
