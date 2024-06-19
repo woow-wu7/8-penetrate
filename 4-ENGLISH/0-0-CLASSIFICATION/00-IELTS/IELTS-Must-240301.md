@@ -646,6 +646,7 @@
 - `bachelor 学士 单身汉`
 - `master 硕士 主人 掌握`
 - `doctor 博士 医生`
+- `【 entrance examination. 升学考试 】`
 - -
 - _【 freshman 大一 】_
 - _【 sophomore 大二 】_ // -- soph + o + more

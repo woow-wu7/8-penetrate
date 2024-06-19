@@ -75,10 +75,12 @@ People 【 with 】 different 【 personalities 】 have different 【 hobbies �
 不同性格的人有不同爱好和习惯
 -
 // -
-// habit 习惯
+// habit 习惯 // develop a habit. 养成习惯
 // hobby 爱好
 // personality 性格
-// destiny 命运
+// destiny 命运 = fate.
+// -
+//【 develop a habit. 养成习惯 】
 // -
 // personal 个人的
 // personality 性格

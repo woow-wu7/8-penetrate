@@ -15,6 +15,8 @@
 - // -- technology department. 技术部
 - // -- finance department. 财务部
 - // -- purchasing department. 采购部
+- // 【 entire 整个 ------ 语气 强 】
+- // 【 whole 整个 ------- 语气 弱 】
 -
 -
 -
@@ -22,14 +24,23 @@
 - `【 lay off. 裁员 v 】`
 - `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
+- `【 economic recession 经济衰退 】`
 - 【 lay -> laid 】
-- 【 lay off. vs recruit 】
+- > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
+- 【 economy 经济 n 】
+- 【 economic 经济的 adj 】
 - lay 放置 安放 v
 - layout 布局
 - crisis 危机
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
+-
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
+-
+- **【 【 Economic recession 】 and 【 economic crisis 】 【 led to 】 【 a large number of 】 【 layoffs 】. 经济衰退和经济危机导致了大量的裁员 】**
+-
+- **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
+-
 - 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
 - 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
 - 3. **【 The 【 entire 】 【 marketing department 】 was 【 laid off 】 by company. 整个市场部门被公司裁了 】**
@@ -37,8 +48,9 @@
 - **【 I was 【 laid off 】. 我被裁员了 】**
 - // -- 【 half of. ...的一半 】
 - // -- 【 economic crisis. 经济危机 】
-- // -- `entire 整个的`
-- // -- `whole 整个的`
+- // -- `entire 整个的 ------ 语气强`
+- // -- `whole 整个的 ------- 语气弱`
+- // -- the number of. ...的数量
 -
 -
 -
@@ -49,9 +61,9 @@
 - // fun fund refund found
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
-- 1. **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
-- 2. **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
-- 3. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
+- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- 1. **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
+- 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
 - // -- 【 a large amount of. 大量的 】
 - // -- 【 according to. 根据 】
 -
@@ -72,7 +84,7 @@
 - // -- 【 because of. = due to. 因为 】
 - // -- 【 suffer from. 遭受 患上 v 】
 - // -- 【 mental illness. 精神疾病 】
-- // -- serious 严重的 adj
+- // -- serious 严重的 adj / 严肃的 adj / 认真的 adj
 -
 -
 -
@@ -118,17 +130,17 @@
 - `full-time job. 全职`
 - `odd job. 零工`
 - lance 长矛
-- 1. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
-- 2. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 - // -- 【 so that. 以便 因此 】
 -
 -
 - [II.]
-- `【 requirement 需求 要求 n 】`
-- `【 require 要求 需求 需要 v 】`
-- `【 reasonable 合理的 adj 】`
+- `【 requirement 需求 n 】`
+- `【 require 要求 v 】`
+- `【 reasonable 合理的 adj 】` // reasonable
 - `【 reason 原因 n 】`
 - // reasonable`
 - // unreasonable
@@ -143,6 +155,7 @@
 - [JJ.]
 - `【 architect 架构师 】`
 - `【 software architect. 软件架构师 】`
+- `【 experienced 经验丰富的 adj 】`
 - **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 - // experienced 经验丰富的 adj
@@ -157,8 +170,9 @@
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
-- 【 lay off. vs recruit 】
-- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
+- 1. **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- 2. **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
 - // intern 实习生 n
 - // internship 实习 实习期 n
@@ -240,10 +254,12 @@
 - // `modest 谦虚的 adj`
 - // `brag 吹嘘`
 - // 【 show off. = flaunt. 炫耀 】
+- > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
-- 1. **【 He likes to 【 show off 】 his chest muscles. 他喜欢炫耀他的胸肌 】**
+- // -- wealth 财富
+- // -- health 健康
 -
 -
 - [RR.]
@@ -253,6 +269,7 @@
 - // 【 flaunt = show off. 炫耀 】
 - // 【 wealthy 富有的 adj 】
 - // 【 wealth 财富 n 】
+- > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
@@ -262,6 +279,7 @@
 - `【 generous 慷慨的 adj 】`
 - `【 donate 捐赠 捐献 v 】`
 - _【 donate money. 捐钱 】_
+- > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
@@ -272,6 +290,7 @@
 - `【 accomplish 完成 v 】`
 - `【 accomplishment 成就 完成 n 】`
 - // achievement accomplishment 成就
+- > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 His main 【 accomplishment / achievement 】has accomplished the company's IPO. 他的主要成就是完成了公司上市 】**
 -
@@ -293,24 +312,41 @@
 - `【 concisely 简明地 简洁地 adv 】`
 - > 【 concise answer. 简洁的答案 】
 - > 【 concise language. 简洁的语言 】
+- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - 1. **【 a good 【 resume 】 should be 【 concise 】 and 【 focused 】. 一份好的简历应该简洁和有重点 】**
-- 2. **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
-- 3. **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
+- 2. **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
 - // -- concise language. 简洁的语言
 - // -- development language. 开发语言
+-
 -
 -
 - [WW.]
 - `【 personnel 人事部门 n 】`
 - `【 personal 个人的 adj 】`
 - `【 personality 性格 】`
-- `【 interpersonal 人际关系的 adj】`
-- 【 director 导演 懂事 管理者 】
+- `【 interpersonal 人际关系的 adj】` // interchange 交换 // interpersonal 人际关系
 - > 【 personnel director. 人事总监 】
 - > 【 sales director. 销售总监 】
+- 【 director 主管 董事 导演 n 】
 - _【 personal privacy. 个人隐私 】_
-- - **【 personal privacy. 个人隐私 】**
-- **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- 1. **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- 2. **【 Please communicate 【 directly/immediately 】 with the 【 Personnel Director 】 about 【 resignation 】. 请直接和人事总监沟通离职事宜 】**
+- // -- direct 直接的 adj
+- // -- directly 直接地 adv
+- // -- 【 director 主管 董事 导演 n 】
+- // -- 【 direct = immediate 】
+- // -- 【 directly = immediately 】
+- // -- resign 辞职
+- [EXPAND-1]
+- `【 personality 性格 】`
+- `【 destiny 命运 】` = fate
+- `【 habit 习惯 】` // develop a habit. 养成习惯
+- `【 hobby 爱好 】`
+- _【 develop a habit. 养成习惯 】_
+- _【 destiny = fate. 命运 】_
+- **【 Could you 【 describe 】 the 【 relationship 】 between 【 habit 】, 【 personality 】, and 【 destiny 】? 你能描述一下习惯，性格，命运的关系吗？ 】**
+-
+-
 -
 -
 - [XX.]
@@ -321,12 +357,19 @@
 - `【 leaves 叶子 -> leaf/leaves 】`
 - `【 vacation 假期 】` ----- 美式英语
 - `【 holiday 假期 】` ------ 英式英语
+-
 - `【 business trip. 出差 】`
+- _【 on a business trip. 出差 】_
+-
 - > 【 go on vacation. = go for vacation. 度假 】
 - > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
 - _【 be equal to. 等于 】_
+-
+- **【 I 【 asked for personal leave 】 to go to the America 【 on a business trip 】 for two months. 请了事假去美国出差两个月 】**
+-
 - 1. **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
 - 2. **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**
+- 3. **【 I will go to the America 【 on a business trip 】 for two months. 我要去美国出差两个月 】**
 - // -- centimeter 厘米 CM
 - // -- millimeter 毫米 MM
 - // -- 【 be equal to. 等于 相等 】
@@ -338,6 +381,22 @@
 -
 -
 - [YY.]
+- `【 direct 直接的 adj 】`
+- `【 directly 直接地 adv 】`
+- `【 director 主管 董事 导演 】`
+- directly = immediately. 直接地 adv
+- direct = immediate. 直接地 adj
+- > 【 personnel director. 人事总监 】
+- > 【 sales director. 销售总监 】
+- 1. **【 Please communicate 【 directly 】 with the 【 Personnel Director 】 about 【 resignation 】. 请直接和人事总监沟通离职事宜 】**
+- 2. **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- // -- resign 辞职 v
+- // -- quit job. 辞职
+-
+-
+-
+-
+- [ZZ.]
 - `【 colleague 同事 】`
 - `【 college 学院 大学 】`
 - **【 My 【 colleague 】 is my 【 college 】 【 classmate 】. 我同事是我大学同学 】**
@@ -410,6 +469,7 @@
 - 12 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`
 - `【 economic crisis. 经济危机 】`
+- `【 recession 紧急衰退 】`
 - **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
 - **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】**
 - **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**
@@ -1481,6 +1541,8 @@ Our office hours are from 9am to 6pm, 【 with an hour off for lunch 】. Monday
 
 10.
 What are your salary 【 expectations 】? 你的期望工资是多少?
+I have no 【 requirement 】 for the 【 salary 】. 我对薪资没有任何有求
+-
 I'm expecting a salary that is competitive and in line with 【 industry standards 】. 我希望薪水具有竞争力并且符合行业标准
 I expect to be paid the going rate for this type of position.	我期望得到这类职位的市场价报酬
 // -
@@ -1746,20 +1808,22 @@ In terms of user data: It can collect user online duration, physical device info
 I'm York.
 ( My English name is York. )
 
-I graduated from South-Central Minzu University with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
+I graduated from South-Central Minzu 【 University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
 
-After graduation, I have done many different types of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
+After graduation, I have done many different 【 types 】 of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
 
 【 By now 】, I have 7 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
 
-I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
+// I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
 I use Vue and React 【 tech stacks 】 to develop 【 projects 】,
-I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
-and I also implemented a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+
+// I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
+
 
 (1)
-In the first company, I was 【 primarily 】 responsible for implementing the two map-related 【 applications 】.
+In the first company, I was 【 primarily 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
 
 The main function of the first application is to draw layers on Amap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
 
@@ -1769,7 +1833,7 @@ Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parkin
 (2)
 In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
 
-The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the 【 accidents 】 while driving.
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the 【 accidents 】 【 while 】 driving.
 
 The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
 
@@ -1779,23 +1843,85 @@ The main function of the third application is to cover the entire 【 process of
 In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 】 and 【 efficiency engineering 】.
 
 The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
-( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
+// ( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
 
 It can 【 monitor 】 the performance and errors of frontend and backend projects.
 
 It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
 
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all business team projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all 【 business team 】 projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
 For the font-end part consists of three layers: performance, errors, and user data.
 
-【 In term of performance 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
+【 In term of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
 
-【 In term of errors 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
+【 In term of errors lay 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
 
-【 In term of user data 】: It can collect user online duration, physical device information, 【 operational 】 information, etc.
+【 In term of user data layer 】: It can collect user online duration, physical device information, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
+
+
+--- --- --- --- --- --- --- 分割线
+1
+bachelor 学士 单身汉
+master 硕士 主人
+doctor 博士 医生
+Bachelor's degree. 学士学位
+Master's degree. 硕士学位
+Doctor's degree. 博士学位
+
+2
+graduate 毕业 v
+graduation 毕业 n
+【 entrance examination. 升学考试 】
+
+3
+universe 宇宙
+university 大学
+college 学院 大学
+colleague 同事
+
+
+4
+engineer 工程师 n
+engineering 工程 工程需 n
+【 communication engineering. 通信工程 】
+【 efficiency engineering. 效率工程 】
+
+
+5
+by now. 到目前为止
+software development. 软件开发
+primarily 主要地
+simulate 模拟 v
+corridor 走廊
+track time. 计时
+
+6
+navigate 导航 v
+navigation 导航 n
+// TIPS: Pay attention to pronunciation of the word 'navigate'.
+
+7
+parking spot. 停车位
+parking lot. 停车场
+
+8
+【 probability 概率 n 】
+【 probable 可能的 adj 】
+【 probably 可能地 adv 】
+
+9
+accident 事故
+claim 索赔
+infrastructure 基础设施 基建
+【 efficiency engineering. 效率工程 】
+【 communication engineering. 通信工程 】
+
+10
+layer 层
+mayor 市长
 
 ------- ------- ------- ------- ------- ------- -------
 ```

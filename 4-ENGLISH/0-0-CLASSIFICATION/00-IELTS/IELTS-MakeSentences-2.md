@@ -1050,9 +1050,12 @@ There are many boxes that have been 【 knocked over 】 by the car. // 现在�
 It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
 不敲门就进来是不礼貌的
 -
+Please 【 knock at 】 the door before 【 coming in / entering 】.
+进来前请先敲门
+-
 // -
-//【 knock down. 撞倒 】
 //【 knock over. 撞倒 撞翻 】
+//【 knock down. 撞倒 】
 // -
 //【 knock at. 敲门 】
 // -

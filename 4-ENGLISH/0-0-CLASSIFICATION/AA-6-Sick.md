@@ -488,8 +488,8 @@
 - > stethoscope 听诊器
 -
 - > inhibit 抑制
-- > prohibit 禁止
 - > inhabit 居住于
+- > prohibit 禁止
 -
 - > inhabit 居住 v ----- 动物
 - > reside 居住 v ------ 人 // reside resign

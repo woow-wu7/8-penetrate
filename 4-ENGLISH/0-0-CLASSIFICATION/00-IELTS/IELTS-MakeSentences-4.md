@@ -1134,7 +1134,7 @@ After they 【 obtain 】 the 【 marriage certificate 】, they prepare to 【 
 
 ```
 1
-He is a very 【 serious 】 person who is very 【 strict 】 with his students.
+He is a very 【 serious 】 person who 【 is 】 very 【 strict 】【 with 】 his students.
 他是一个很严肃的人，对学生要求很严格
 -
 A: Sorry, babe, I forgot your birthday.
@@ -1147,7 +1147,7 @@ There was a 【 serious 】 car 【 accident 】 on the road.
 He 【 suffered from 】 a 【 serious 】 illness.
 他患上了严重的疾病
 -
-People don't 【 realize 】 how 【 serious 】 this recession has actually been.
+People don't 【 realize 】 how 【 serious 】 this 【 recession 】 has actually been.
 人们没有意识到这次衰退实际上有多严重
 -
 // -
@@ -1160,6 +1160,7 @@ People don't 【 realize 】 how 【 serious 】 this recession has actually bee
 // 【 suffer from. 患上 】
 // -
 // realize 意识到
+// recession 紧急衰退
 
 
 2
@@ -1274,7 +1275,7 @@ The sign 【 prompts 】 us to 【 work on-site 】 to resolve problems 【 prom
 
 
 7
-We should have 【 confidence 】 and 【 courage 】 to 【 believe 】 in our own 【 beliefs 】.
+We should have 【 confidence 】 and 【 courage 】 to 【 believe 】 【 in 】 our own 【 beliefs 】.
 我们要有信心和勇气去相信自己的信念
 -
 // -
@@ -1358,4 +1359,204 @@ I 【 can't wait to 】 【 go on a date 】.
 无论家长反对还是同意，他都想和他的大学同学约会
 他想和他的女神约会
 我迫不及待想去约会
+```
+
+##### 8 Make sentences 2024-06-18
+
+```
+1
+The 【 president 】 and the 【 residents 】 【 reside 】 here for a long time.
+总统和居民长期居住在这里
+-
+High temperature can 【 inhibit 】 the 【 reproduction 】 of the 【 bacterial 】.
+高温可以抑制细菌的繁殖
+-
+// -
+// 【 reside 居住 】
+// 【 resident 居民 】
+// 【 president 总统 】
+// -
+// 【 reside 居住 】 ------ 人
+// 【 inhabit 居住 】------ 动物
+// 【 settle 定居 】
+// -
+// inhabit 居住
+// inhibit 抑制
+// prohibit 禁止
+// -
+// 【 reproduction 繁殖 生殖 n 】
+
+
+2
+我请了事假去美国出差两个月
+I 【 asked for personal leave 】 to go to the America 【 on a business trip 】 for two months.
+-
+I will go to the America 【 on a business trip 】 for two months.
+我要去美国出差两个月
+// -
+// 【 business trip. 出差 n 】
+// 【 on a business trip. 出差 v 】
+// -
+// 【 ask for leave. 请假 】
+// 【 ask for 【 sick 】 leave. 请病假 】
+// 【 ask for 【 personal 】 leave. 请事假 】
+
+
+3
+We should 【 remind 】 ourselves to 【 remain 】 【 awake 】 【 at all time 】.
+我们应该时刻提醒自己保持清醒
+-
+【 calm down 】, please 【 remain awake 】.
+冷静，请保持清醒
+-
+// -
+// 【 remind 提醒 v 】
+// 【 remain 保持 = keep 】
+// -
+// 【 remain awake. 保持清醒 】
+// -
+// 【 calm down. 冷静 】
+// -
+// 【 at all time. 一直 】
+
+
+4
+【 Overall 】, I 【 was satisfied with 】 the result.
+总的来说，我对这个结果很满意
+// -
+// 【 overall 总的来说 】
+// -
+// 【 be satisfied with. 对...很满意 】
+// -
+// 【 satisfy 满意 v 】
+
+
+5
+I 【 support 】 the 【 player 】who is siting 【 opposite 】 me.
+I 【 support 】 the 【 player 】 who is siting 【 across from 】 me.
+我支持坐在我对面的选手
+-
+The bank is 【 opposite 】 the supermarket.
+The bank is 【 across from 】 the supermarket.
+银行在超市的对面
+-
+The 【 opposite 】 of 【 full 】 is 【 hungry 】.
+The 【 antonym 】 of 【 full 】 is 【 hungry 】.
+【 full 】 is the antonym of 【 hungry 】.
+【 full 】 is the opposite of 【 hungry 】.
+饱的反义词是饿
+-
+【 Destiny 】 and 【 fate 】 are 【 synonyms 】.
+destiny和fate是同义词
+-
+【 Destiny 】 is a 【 synonym 】 of 【 fate 】.
+destiny是fate的同义词
+-
+// -
+// 【 opposite 相反的 】
+// 【 across from. 在...对面 】
+// -
+// 【 antonym 反义词 】-------- anto + nym
+// 【 synonym 同义词 】 ------- syno + nym
+// -
+// hungry 饿的
+// angry  生气的
+
+
+6
+The car 【 knocked down 】 many 【 pedestrians 】.
+这辆车撞倒了很多行人
+-
+He 【 accidentally 】 【 knocked over 】 the 【 vase 】.
+他不小心撞倒了花瓶
+-
+Please 【 knock at 】 the door before 【 coming in / entering 】.
+进来前请先敲门
+-
+It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
+不敲门就进来是不礼貌的
+-
+// -
+// 【 knock over. 撞倒 】
+// 【 knock down. 撞倒 】
+// 【 knock down. = knock over. 】
+// -
+// 【 knock at. 敲门 】
+// -
+// accidentally 偶然地 意外地
+// pedestrian 行人
+// vase 花瓶
+// impolite 不礼貌的 adj
+
+
+7
+The 【 bomb 】 is 【 exploded 】 【 near 】 the 【 mall 】.
+炸弹在商场附近爆炸了
+-
+If the 【 temperature 】 of the 【 light bulb 】 is too high, it may cause an 【 explosion 】.
+如果电灯泡温度过高就可能引起爆炸
+-
+// -
+// 【 explode 爆炸 v 】
+// 【 bomb 炸弹 n 】
+// -
+// 【 explosion 爆炸 n 】
+// 【 explode 爆炸 v 】
+// -
+// near 附近的adj 在附近adv prep
+
+
+8
+Please communicate 【 directly 】 with the 【 Personnel Director 】 about 【 resignation 】.
+请直接和人事总监沟通离职事宜
+-
+Can you describe the relationship between 【 habit 】, 【 personality 】 and 【 destiny 】?
+你能描述一下习惯，性格，命运的关系吗？
+-
+// -
+// 【 direct 直接的 adj 】
+// 【 directly 直接地 adv 】
+// 【 director 主管 董事 导演 n 】
+// -
+// 【 personnel director. 人事总监 】
+// 【 sales director. 销售总监 】
+// -
+// 【 personnel 人事部门 】
+// 【 personal 个人的 】
+// 【 personality 性格 】
+// 【 interpersonal 人际关系的 adj 】
+// -
+// habit 习惯
+// personality 性格
+// destiny = fate. 命运
+// hobby 爱好
+
+
+
+------- ------- ------- ------- ------- ------- -------
+总统和居民长期居住在这里
+高温可以抑制细菌的繁殖
+-
+我请了事假去美国出差两个月
+我要去美国出差两个月
+-
+我们应该时刻提醒自己保持清醒
+冷静，请保持清醒
+-
+总的来说，我对这个结果很满意
+我支持坐在我对面的选手
+银行在超市的对面
+饱的反义词是饿
+destiny和fate是同义词
+-
+这辆车撞倒了很多行人
+他不小心撞倒了花瓶
+进来前请先敲门
+不敲门就进来是不礼貌的
+-
+炸弹在商场附近爆炸了
+如果电灯泡温度过高就可能引起爆炸
+-
+请直接和人事总监沟通离职事宜
+你能描述一下习惯，性格，命运的关系吗？
 ```

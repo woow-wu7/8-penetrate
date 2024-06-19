@@ -333,6 +333,8 @@
 - `【 asset 资产 】`
 - `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
+- `【 economic crisis. 经济危机 】`
+- `【 economic recession 紧急衰退 】`
 -
 -
 - [WW.]
@@ -341,8 +343,10 @@
 - `【 reside 居住 v - 人 】` // reside resign
 - `【 inhabit 居住 v - 动物 】`
 - `【 settle 定居 v 】`
+- `inhabit 居住 v`
 - `inhibit 抑制 v`
 - `prohibit 禁止 v`
+- **【 The 【 president 】 and 【 residents 】 【 reside 】 here for a long time. 总统和居民长期居住在这里 】**
 - // 1. **【 The 【 president 】 is giving a 【 speech 】 to the 【 residents 】. 总统正在给居民做演讲 】**
 - // 2. **【 The two 【 presidents 】 【 issued 】 a 【 joint statement 】 】**
 - // -

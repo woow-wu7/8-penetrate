@@ -2,16 +2,16 @@
 
 - 1
 - `personality 性格 n` // character 性格 n
-- `habit 习惯`
+- `habit 习惯` // develop a habit. 养成习惯
 - `hobby 爱好`
-- `destiny 命运`
+- `destiny 命运` = fate
 - _【 develop a habit. 养成习惯 】_
 - **【 People 【 with 】 different 【 personalities 】 have different 【 hobbies 】 and 【 habits 】. 不同性格的人有不同爱好和习惯 】**
 - **【 Could you describe the 【 relationship 】 between 【 habit 】, 【 personality 】, and 【 destiny 】? 】**
 -
 - [AA.]
 - `【 personality 性格 】`
-- `【 destiny 命运 n 】`
+- `【 destiny 命运 n 】` = fate
 - **【 【 personality 】 【 determines 】 【 destiny 】. 性格决定命运 】**
 - // -- determine 决定
 - // -- It's used to 【 determine 】 【 whether 】 this object is the prototype object of the 【 parameter 】 object.
