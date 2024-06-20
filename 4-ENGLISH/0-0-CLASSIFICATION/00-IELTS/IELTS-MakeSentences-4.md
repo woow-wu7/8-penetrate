@@ -1361,7 +1361,7 @@ I 【 can't wait to 】 【 go on a date 】.
 我迫不及待想去约会
 ```
 
-##### 8 Make sentences 2024-06-18
+##### 8 Make sentences 2024-06-19
 
 ```
 1
@@ -1476,6 +1476,14 @@ Please 【 knock at 】 the door before 【 coming in / entering 】.
 It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
 不敲门就进来是不礼貌的
 -
+After he 【 fell down  】 then he 【 knocked over 】 the 【 pedestrians 】.
+他摔倒后又撞倒了行人
+-
+He 【 knocked over 】 the coffee cup, 【 causing 】 the coffee to 【 spill 】everywhere.
+他打翻了咖啡杯使得咖啡洒的到处都是
+-
+I didn't 【 mean to 】 【 knock you over 】.
+我不是故意撞倒你的
 // -
 // 【 knock over. 撞倒 】
 // 【 knock down. 撞倒 】
@@ -1559,4 +1567,77 @@ destiny和fate是同义词
 -
 请直接和人事总监沟通离职事宜
 你能描述一下习惯，性格，命运的关系吗？
+```
+
+##### 9 Make sentences 2024-06-20
+
+```
+1
+The 【 synonym 】 of 'revenue' is 'income', the 【 antonym 】 is 'expenditure'.
+revenue 的同义词是 income，反义词是 expenditure
+// -
+// 【 antonym 反义词 】
+// 【 synonym 同义词 】
+// -
+// revenue
+// income
+// expenditure
+
+
+2
+After he 【 fell down  】 then he 【 knocked over 】 the 【 pedestrians 】.
+他摔倒后又撞倒了行人
+-
+He 【 knocked over 】 the coffee cup, 【 causing 】 the coffee to 【 spill 】everywhere.
+他打翻了咖啡杯使得咖啡洒的到处都是
+-
+I didn't 【 mean to 】 【 knock you over 】.
+我不是故意撞倒你的
+-
+I didn't 【 mean 】 it.
+我不是故意的
+-
+-
+-
+The car 【 knocked down 】 many 【 pedestrians 】.
+这辆车撞倒了很多行人
+-
+He 【 accidentally 】 【 knocked over 】 the 【 vase 】.
+他不小心撞倒了花瓶
+-
+Please 【 knock at 】 the door before 【 coming in / entering 】.
+进来前请先敲门
+-
+It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
+不敲门就进来是不礼貌的
+-
+// -
+// 【 fall down. 摔倒 】
+// 【 fall -> fell 】
+// -
+// 【 knock over. 撞倒 】
+// 【 knock down. 撞倒 】
+// -
+// 【 mean to do. 故意做某事 】
+// -
+// pedestrian 行人
+// spill 洒 溢
+// 【 spill out. 溢出 】
+
+
+3
+After 【 retirement 】, he plans to 【 travel 】 to 【 first-tire city 】.
+退休之后他准备去一线城市旅游
+-
+// -
+// retire 退休 v
+// retirement 退休 n
+// -
+// tire 疲劳v 轮胎n
+// entire 整个的 adj
+// retire 退休
+// -
+// tear 撕碎v 眼泪n
+// tier 层 层次
+// tire 疲劳v 轮胎n
 ```

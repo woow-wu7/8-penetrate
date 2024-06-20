@@ -2,11 +2,80 @@
 
 ##### (1) Education background 教育背景 / 学历
 
+- `【 kindergarten 幼儿园 】`
+- **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
+-
+- `【 junior school. 小学 】`
+- `【 junior high school. 初中 】` // junior school. = primary school. = elementary school.
+- `【 senior high school. 高中 】`
+-
+- `【 university 大学 】`
+- `【 college 学院 大学 】`
+-
+- `【 middle school. 中学 】`
+- `【 high school. 高中 】`
+-
+- [小学]
+- `【 junior school. 小学 】`
+- `【 primary school. 小学 】`
+- `【 elementary school. 小学 】`
+- > 【 Grade One in primary school. 小学一年级 】
+- > 【 Grade Two in primary school. 小学二年级 】
+- > // 注意 Grade 和 One 都要大写
+- **【 He is a 【 Grade One 】 student in 【 primary school 】. 他是小学一年级学生 】**
+- // -- grade 等级 年级 成绩
+-
+- [初中]
+- `【 junior high school. 初中 】`
+- > 【 Grade One in junior high school. 初中一年级 】
+-
+- [高中]
+- `【 senior high school. 高中 】`
+- > 【 Grade One in senior high school. 高中一年级 】
+-
+- [大学]
+- `【 university 大学 】`
+- `【 college 大学 学院 】`
+- > 【 freshman 大一学生 】
+- > 【 sophomore 大二学生 】 // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
+- > 【 junior 大三学生 】 // ----- 年少的 下级的
+- > 【 senior 大四学生 】// ------ 年长的 资深的
+- // TIPS: Pay attention to the pronunciation of the word 'fresh'.
+-
+- [中专]
+- `【 technical secondary school. 中专学校 】`
+- **【 He is a 【 technical secondary school 】 student. 他是一个中专生 】**
+-
+- [学位]
+- `【 bachelor's degree 学士学位 】`
+- `【 master's degree. 硕士学位 】`
+- `【 doctor's degree. 博士学位 】`
+- > bachelor 学士 单身汉 // bachelorette 未婚女子
+- > master 硕士 主人
+- > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
+-
+- [其他]
+- `【 undergraduate student. 本科生 】`
+- `【 postgraduate student. 研究生 】`
+- `【 doctoral student. 博士生 】`
+-
+-
+-
+-
+- [AA.]
+- `【 kindergarten 幼儿园 】`
+- **【 She teaches English in kindergarten. 她在幼儿园教英语 】**
+-
+- [BB.]
+- `【 undergraduate student. 本科生 】`
+- `【 postgraduate student. 研究生 】`
+- // post 发布 邮寄 帖子
+- // graduate 毕业
+- **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
+- // -- elder sister. 姐姐
+- // -- sister 妹妹
+
 ```1111111
-
-```
-
-```2222222
 幼儿园 kindergarten
 小学 junior school / elementary school / primary school
 初中 junior high school

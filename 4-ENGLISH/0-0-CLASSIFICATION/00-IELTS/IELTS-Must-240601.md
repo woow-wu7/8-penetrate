@@ -416,8 +416,8 @@
 
 - 1
 - `【 ask for leave. 请假 】`
-- `【 ask for sick leave. 请病假 】`
-- `【 ask for personal leave. 请事假 】`
+- `【 ask for 【 sick 】 leave. 请病假 】`
+- `【 ask for 【 personal 】 leave. 请事假 】`
 -
 - `【 leave 离开v 休假n 】`
 - `【 leaves 叶子 -> leaf/leaves 】`
@@ -426,6 +426,7 @@
 - `【 holiday 假期 】` ------ 英式英语
 -
 - `【 business trip. 出差 】`
+- `【 on business trip. 出差 】`
 -
 - > 【 go on vacation. = go for vacation. 度假 】
 - > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
@@ -433,9 +434,11 @@
 -
 - [AA.]
 - `【 business trip. 出差 】`
+- `【 on business trip. 出差 】`
 - _【 be equal to. 等于 】_
-- **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
-- **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**
+- **【 I will go to the America 【 on a business trip 】 【 for 】 two months. 我要去美国出差两个月 】**
+- 1. **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
+- 2. **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**
 - // -- centimeter 厘米 CM
 - // -- millimeter 毫米 MM
 - // -- 【 be equal to. 等于 相等 】
@@ -445,6 +448,9 @@
 - `【 ask for leave. 请假 】`
 - `【 go on vacation. 休假 】`
 - **【 She 【 asked for leave 】 to 【 go on vacation 】. 她请假去度假 】**
+- ask for leave. 请假
+- ask for sick leave. 请病假
+- ask for personal leave. 请事假
 -
 -
 - [CC.]
@@ -465,3 +471,126 @@
 - 3. **【 Display performance data 【 in form of 】 charts. 用图表的方式显示性能数据 】**
 - // -- 【 form of. ...的形式 】
 - // -- 【 plural 复数的 adj 复数 n 】
+
+###### 2024-06-20
+
+- 1
+- `【 tire 疲劳v 轮胎n 】`
+- `【 retire 退休 v 】`
+- `【 entire 整个的 】` // entire whole
+-
+- `【 tear 眼泪n 撕碎v 】`
+- `【 tier 层 阶层 n 】` // first-tier city. // developed city. // developing city.
+- `【 tire 疲劳v 轮胎 n】`
+-
+- `【 retire 退休 v 】`
+- `【 retirement 退休 n 】`
+-
+-
+- [AA.]
+- `【 tier 层 阶层 】`
+- `【 first tier city. 一线城市 】`
+- _【 coastal city. 沿海城市 】_
+- _【 developed city. 发达城市 】_
+- _【 developing city. 发展中城市 】_
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+- // city -> cities
+-
+-
+- [BB.]
+- `【 tire 疲劳v 轮胎n 】`
+- `【 entire 真个的 adj 】`
+- `【 tear 撕碎v 眼泪n 】`
+- 1. **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
+- 2. **【 The 【 entire 】 【 tire 】 was 【 torn 】. 整个轮胎都撕裂了 】**
+- **【 The 【 entire 】 【 tire 】 was been 【 torn 】. 整个轮胎都撕裂了 】**
+- // -- tear -> torn
+-
+-
+- [CC.]
+- `【 first-tier city. 一线城市 】`
+- `【 tier 层 层级 】`
+- `【 retire 退休 v 】`
+- `【 retirement 退休 n 】`
+- **【 After 【 retirement 】, he plans to travel to 【 first-tier city 】. 退休之后，他准备去一线城市旅游 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 kindergarten 幼儿园 】`
+- **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
+-
+- `【 junior school. 小学 】`
+- `【 junior high school. 初中 】` // junior school. = primary school. = elementary school.
+- `【 senior high school. 高中 】`
+-
+- `【 university 大学 】`
+- `【 college 学院 大学 】`
+-
+- `【 middle school. 中学 】`
+- `【 high school. 高中 】`
+-
+- [小学]
+- `【 junior school. 小学 】`
+- `【 primary school. 小学 】`
+- `【 elementary school. 小学 】`
+- > 【 Grade One in primary school. 小学一年级 】
+- > 【 Grade Two in primary school. 小学二年级 】
+- > // 注意 Grade 和 One 都要大写
+- **【 He is a 【 Grade One 】 student in 【 primary school 】. 他是小学一年级学生 】**
+- // -- grade 等级 年级 成绩
+-
+- [初中]
+- `【 junior high school. 初中 】`
+- > 【 Grade One in junior high school. 初中一年级 】
+-
+- [高中]
+- `【 senior high school. 高中 】`
+- > 【 Grade One in senior high school. 高中一年级 】
+-
+- [大学]
+- `【 university 大学 】`
+- `【 college 大学 学院 】`
+- > 【 freshman 大一学生 】
+- > 【 sophomore 大二学生 】 // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
+- > 【 junior 大三学生 】 // ----- 年少的 下级的
+- > 【 senior 大四学生 】// ------ 年长的 资深的
+- // TIPS: Pay attention to the pronunciation of the word 'fresh'.
+-
+- [中专]
+- `【 technical secondary school. 中专学校 】`
+- **【 He is a 【 technical secondary school 】 student. 他是一个中专生 】**
+-
+- [学位]
+- `【 bachelor's degree 学士学位 】`
+- `【 master's degree. 硕士学位 】`
+- `【 doctor's degree. 博士学位 】`
+- > bachelor 学士 单身汉 // bachelorette 未婚女子
+- > master 硕士 主人
+- > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
+-
+- [其他]
+- `【 undergraduate student. 本科生 】`
+- `【 postgraduate student. 研究生 】`
+- `【 doctoral student. 博士生 】`
+-
+-
+-
+-
+- [AA.]
+- `【 kindergarten 幼儿园 】`
+- **【 She teaches English in kindergarten. 她在幼儿园教英语 】**
+-
+- [BB.]
+- `【 undergraduate student. 本科生 】`
+- `【 postgraduate student. 研究生 】`
+- // post 发布 邮寄 帖子
+- // graduate 毕业
+- **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
+- // -- elder sister. 姐姐
+- // -- sister 妹妹
