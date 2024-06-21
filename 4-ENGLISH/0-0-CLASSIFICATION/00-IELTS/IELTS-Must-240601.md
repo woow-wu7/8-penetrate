@@ -406,6 +406,10 @@
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
 -
+- `【 wedding photo. 结婚照 】`
+- `【 marriage certificate. 结婚证 】`
+-
+-
 - 1. **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
 - // -- 【 hold a wedding. 举报婚礼 】
 - // -- obtain 获得
@@ -476,7 +480,7 @@
 
 - 1
 - `【 tire 疲劳v 轮胎n 】`
-- `【 retire 退休 v 】`
+- `【 retire 退休 v 】` // retire retirement
 - `【 entire 整个的 】` // entire whole
 -
 - `【 tear 眼泪n 撕碎v 】`
@@ -594,3 +598,55 @@
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
 - // -- elder sister. 姐姐
 - // -- sister 妹妹
+
+###### 2024-06-21
+
+- 1
+- `【 assistant 助手 助理 】`
+- `【 attendant 服务员 】`
+- `【 secretary 秘书 】`
+-
+- `【 assist 协助 辅助 帮助 v 】`
+- `【 assistant 助手 助理 n 】`
+- `【 assistance 协助 辅助 n  】`
+-
+- `【 assist 协助 辅助 v 】`
+- `【 insist = persist. 坚持 v 】` // persist in doing sth.
+- `【 resist 抵抗 抵制 v 】`
+- // TIPS: Pay attention to the pronunciation of the word 'resist'.
+-
+- > 【 flight attendant. 空中乘务员 】
+- > 【 assist sb in doing sth. 协助某人做某事 】
+- > 【 persist in doing sth. 坚持做某事 】
+-
+-
+- [AA.]
+- `【 assist 协助 辅助 帮助 v 】`
+- `【 assistant 助手 助理 n 】`
+- `【 assistance 协助 辅助 n  】`
+- > 【 assist sb in doing sth. 协助某人做某事 】
+- > 【 persist in doing sth. 坚持做某事 】
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 task. 助理是协助他人完成任务的人 】**
+- **【 The 【 nurse 】 【 assisted 】 the doctor 【 in 】 【 performing the surgical operation 】. 护士协助医生做外科手术 】**
+- // -- 【 perform operation. 做手术 】
+- // -- 【 perform surgical operation. 做外科手术 】
+-
+-
+- [BB.]
+- `【 resist 抵制 抵抗 v 】`
+- `【 insist = persist. 坚持 v 】`
+- `【 assist 协助 辅助 v 】`
+- > mandatory overtime. 强制加班
+- > work overtime. 加班
+- > overtime pay. 加班费
+- _【 persist in doing sth. 坚持做某事 】_
+- _【 assist sb in doing sth. 协助某人做某事 】_
+- 1. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- 2. **【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】**
+-
+-
+- [CC.]
+- `【 secretary 秘书 】`
+- `【 assistant 助理 】`
+- `【 attendant 服务员 】`
+- **【 My 【 secretary 】 is his 【 assistant 】, but 【 used to be 】 【 an 】 【 attendant 】. 我的秘书是他的助手，但曾经是一个服务员 】**

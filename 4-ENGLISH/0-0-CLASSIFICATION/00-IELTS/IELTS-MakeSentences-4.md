@@ -1243,6 +1243,9 @@ Are you late for school?
 He got the 【 courage 】 from the 【 encouragement 】 【 of 】 his 【 relatives 】.
 他从亲人的鼓励中获得了勇气
 -
+【 Relatively 】 speaking, she is also my 【 relative 】.
+相对来说，她也是我亲戚
+-
 We need to 【 discourage teenagers from smoking 】.
 我们应该劝阻青少年吸烟
 -
@@ -1585,10 +1588,10 @@ revenue 的同义词是 income，反义词是 expenditure
 
 
 2
-After he 【 fell down  】 then he 【 knocked over 】 the 【 pedestrians 】.
-他摔倒后又撞倒了行人
+After he 【 fell down  】 then he 【 knocked over 】 some 【 pedestrians 】.
+他摔倒后又撞倒了一些行人
 -
-He 【 knocked over 】 the coffee cup, 【 causing 】 the coffee to 【 spill 】everywhere.
+He 【 knocked over 】 the 【 coffee 】 cup, 【 causing 】 the coffee to 【 spill 】everywhere.
 他打翻了咖啡杯使得咖啡洒的到处都是
 -
 I didn't 【 mean to 】 【 knock you over 】.
@@ -1612,6 +1615,8 @@ It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
 不敲门就进来是不礼貌的
 -
 // -
+// 【 mean to do. 故意做某事 】
+// -
 // 【 fall down. 摔倒 】
 // 【 fall -> fell 】
 // -
@@ -1620,9 +1625,11 @@ It's 【 impolite 】 to came in 【 without 】 【 knocking at 】the door.
 // -
 // 【 mean to do. 故意做某事 】
 // -
-// pedestrian 行人
+// 【 pedestrian 行人 】
 // spill 洒 溢
 // 【 spill out. 溢出 】
+// -
+// TIPS: Pay attention to the pronunciation of the word 'pedestrian'.
 
 
 3
@@ -1640,4 +1647,105 @@ After 【 retirement 】, he plans to 【 travel 】 to 【 first-tire city 】.
 // tear 撕碎v 眼泪n
 // tier 层 层次
 // tire 疲劳v 轮胎n
+```
+
+##### 10 Make sentences 2024-06-21
+
+```
+1
+Do you think the 【 product requirement 】 is 【 reasonable 】?
+你认为这个产品需要合理吗？
+-
+This 【 product 】 can 【 calculate 】 【 the product of 】 two 【 times 】 three.
+这个产品可以计算出2乘以3的乘积
+-
+【 The product of  】 two 【 times 】 three 【 is 】 six.
+2乘以3的乘积是6
+-
+// -
+// 【 product 产品 乘积 】
+// 【 reproduction 繁殖 生殖 】
+// -
+// 【 reasonable 合理的 adj 】
+// 【 reason 原因 】
+// -
+// 【 requirement 需求 】
+// 【 require 要求 】
+// -
+// produce 生产 制造 v
+// product 产品 乘积
+
+
+2
+AI is a tool 【 which 】 【 is used to 】 【 assist 】 learning.
+Ai是一个用来辅助学的工具
+-
+An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 task.
+助理是辅助他人完成任务的人
+-
+The 【 nurse 】 【 assisted 】 the doctor 【 in 】 【 performing the surgical operation 】.
+护士协助医生做外科手术
+-
+We will assist you in finding somewhere to live. 我们将帮你找个住的地方
+The businessman has an assistant to help him with his work every day. 这个商人有一名每天协助他工作的助理
+-
+// -
+// 【 assist sb in doing sth. 协助某人做某事 】
+// -
+// 【 perform an operation. 做手术 】
+// 【 perform a surgical operation. 做外科手术 】
+// -
+// 【 assist 协助 辅助 帮助 v 】
+// 【 assistant 助手 助理 n 】
+
+
+3
+My 【 secretary 】 is his 【 assistant 】, but 【 used to be 】 【 an 】 【 attendant 】.
+我的秘书是他的助手，但曾经是一个服务员
+-
+He persist in assisting her in completing the task.
+他坚持协助她完成今天的任务
+-
+An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 task.
+助理是协助他人完成任务的人
+-
+The attendants need to 【 train 】 on the 【 train 】 【 for 】 a week.
+服务员需要在火车上训练一周
+-
+// -
+// 【 assistant 助手 助理 】
+// 【 attendant 服务员 】
+// 【 secretary 秘书 】
+// -
+// 【 assist 协助 辅助 v 】
+// 【 insist = persist. 坚持 v 】
+// 【 resist 抵制 抵抗 v 】
+// -
+// 【 assist sb in doing sth. 协助某人做某事 】
+// 【 persist in doing sth. 坚持做某事 】
+// -
+// train 训练v 火车n
+
+
+4
+The company has 【 strict 】 【 regulation 】.
+公司有严格的规章制度
+-
+The traffic police is introducing traffic rules and 【 regulations 】 to us.
+交警在向我们介绍交通法规
+-
+// -
+// 【 regulation 规章制度 规则 规定 n 】
+// 【 strict 严格的 严厉的 adj 】
+// -
+// 【 regulate 调整 调节 v 】
+// 【 regulation 规章制度 规则 规定 n 】
+
+
+5
+He is alone in a another place and has no 【 relatives 】 who can help him.
+他一个人在外地，没有一个亲戚可以帮到他
+-
+【 Relatively 】 speaking, she is also my 【 relative 】.
+相对来说，她也是我亲戚
 ```

@@ -1,0 +1,61 @@
+###### Polysemy word 2024-06-21
+
+- 1
+- `【 product 产品 乘积 】`
+- `【 product requirement. 产品需求 】`
+- **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
+- **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
+- // --【 reproduction 繁殖 生殖 】
+- // --【 product 产品 乘积 】
+- // TIPS: Pay attention to the pronunciation of the word 'product'.
+-
+-
+-
+- 2
+- `【 leave 离开v 休假n 】`
+- `【 ask for leave. 请假 】`
+- `【 ask for sick leave. 请病假 】`
+- `【 ask for personal leave. 请事假 】`
+- **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
+-
+-
+-
+- 3
+- `【 train 火车n 训练v 】`
+- **【 The 【 attendants 】 need to 【 train 】 on the 【 train 】 【 for 】 a week. 服务员需要在火车上训练一周 】**
+- // -- attendant 服务员
+- // -- assistant 助手 助理
+- // -- secretary 秘书
+-
+-
+-
+- 4
+- `【 tire 疲劳v 轮胎n 】`
+- `【 get tired. 感到疲劳 变得疲劳 】`
+- > 【 tire 疲劳 v 轮胎 n 】
+- > 【 retire 退休 】
+- > 【 entire 整个 】// entire = whole.
+- > 【 tier 层 层级 】// first tier city. 一线城市
+- > 【 tear 撕碎 v 眼泪 n 】
+- **【 【 tires 】 will never 【 get tired 】. 轮胎永远不会疲劳 】**
+- **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
+-
+-
+-
+- 5
+- `【 tear 撕碎v 眼泪n 】`
+- `【 tear up. 撕碎 v 】`
+- `【 in tears. 流着泪 含着泪 】`
+- tear -> tore
+- **【 She 【 tore up 】 the 【 wedding photo 】 【 in 】 【 tears 】. 她流着眼泪撕碎了结婚照 】**
+- // -- 【 in tears. 含着泪 流着泪 】
+- // -- `【 wedding photo. 结婚照 】`
+- // -- `【 marriage certificate. 结婚证 】`
+-
+-
+-
+- 6
+- `【 relative 相对的adj 亲戚n 】`
+- `【 relatively 相对地 adj 】`
+- **【 【 Relatively 】 speaking, she is also my 【 relative 】. 相对来说，她也是我亲戚 】**
+- **【 He got the 【 courage 】 from the 【 encouragement 】 【 of 】 his 【 relatives 】. 他从亲人的鼓励中获得了勇气 】**

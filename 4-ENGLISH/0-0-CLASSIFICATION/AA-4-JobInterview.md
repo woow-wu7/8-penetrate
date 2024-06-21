@@ -51,6 +51,8 @@
 - // -- `entire 整个的 ------ 语气强`
 - // -- `whole 整个的 ------- 语气弱`
 - // -- the number of. ...的数量
+- // -- a large number of. 大量的 adj ---- 可数
+- // -- a large amount of. 大量的 adj ---- 不可数
 -
 -
 -
@@ -72,14 +74,35 @@
 - [DD.]
 - `【 overtime 加班 】`
 - `【 work overtime 加班 】`
+- `【 mandatory overtime. 强制加班 】`
+- `【 overtime pay. 加班费 】`
+-
+- > workload 工作量
+- > workaholic 工作狂
+-
+- > 【 day shift. 白班 】
+- > 【 night shift. 夜班 】
+- > 【 stick shift. 换挡杆 】
+-
+- `【 resist 抵抗 v 】`
+- `【 insist = persist 坚持 】`
+- `【 assist 协助 辅助 帮助 】`
+-
 - _【 suffer from. 遭受 患上 v 】_
-- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+-
+- 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+-
+- 2. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- // 【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
+-
+- 3. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+-
+- **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - // except for. 除了 ------------- 排除
 - // in addition to. 除了 --------- 额外添加 或 补充
 - // 【 SUMMARY: except = except for. 】
 - // 1.【 In addition to 】 my 【 weekly 】 【 wage 】, I got a lot of 【 tips 】.
 - // 2. I'm free 【 except 】 from 8 to 10pm.
-- **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
 - // -- 【 because of. = due to. 因为 】
 - // -- 【 suffer from. 遭受 患上 v 】
@@ -90,7 +113,7 @@
 -
 - [EE.]
 - `【 exhaust 筋疲力尽v 排气管n 】`
-- `【 exhausted 筋疲力尽的 adj 】`
+- `【 exhausted 筋疲力尽的 adj 】` // exhausted = burned out.
 - `【 burned out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
@@ -102,6 +125,7 @@
 -
 - [FF.]
 - `【 workaholic 工作狂 】`
+- `【 workload 工作量 】`
 - `【 volunteer 志愿者 n 】`
 - `【 volunteer to do sth. 自愿做某事 】`
 - //【 voluntarily 自愿地 adv 】
@@ -135,6 +159,7 @@
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
 - **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
 - // -- 【 so that. 以便 因此 】
+- // -- 【 work on-site. 现场办公 】
 -
 -
 - [II.]
@@ -146,6 +171,8 @@
 - // unreasonable
 - _【 product requirement. 产品需求 】_
 - **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
+- **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
+-
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
 - // -- 【 as soon as possible. 尽快 】
@@ -158,8 +185,10 @@
 - `【 experienced 经验丰富的 adj 】`
 - **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
-- // experienced 经验丰富的 adj
-- // experience 经验 n
+- // -- recruit 招聘 招募 v
+- // -- recruitment 招聘 招募 n
+- // ---- experienced 经验丰富的 adj
+- // ---- experience 经验 n
 - // prepare to do sth. 准备做某事
 - // 【 recruit 招聘 v 】
 - // 【 software architect. 软件架构师 】
@@ -210,8 +239,11 @@
 -
 -
 - [NN.]
-- `【 passion 激情 热情 】`
-- `【 have a passion for. 对...有激情/热情 】`
+- `【 passion 激情 热情 n 】`
+- `【 passionate 激情的 adj 】`
+- > 【 have a passion for. 对...有激情/热情 】
+- > 【 be passionate about sth. 对...充满激情 】
+- **【 My 【 strength 】 is that I am 【 passionate about 】 my work. 我的优点是对工作充满激情 】** ---- 这种用法更多
 - **【 My 【 strength 】 is that I 【 have a passion for 】 my work. 我的优点是对工作充满激情 】**
 -
 -
@@ -260,9 +292,10 @@
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - // -- wealth 财富
 - // -- health 健康
+- // ---- donate money. 捐款
 -
 -
-- [RR.]
+- [RR.
 - `【 low-key. 低调的 adj 】`
 - `【 flaunt 炫耀 v = show off. 】`
 - `【 wealth 财富 n 】`
@@ -324,7 +357,7 @@
 - `【 personnel 人事部门 n 】`
 - `【 personal 个人的 adj 】`
 - `【 personality 性格 】`
-- `【 interpersonal 人际关系的 adj】` // interchange 交换 // interpersonal 人际关系
+- `【 interpersonal 人际关系的 adj 】` // interchange 交换 // interpersonal 人际关系
 - > 【 personnel director. 人事总监 】
 - > 【 sales director. 销售总监 】
 - 【 director 主管 董事 导演 n 】
@@ -351,8 +384,8 @@
 -
 - [XX.]
 - `【 ask for leave. 请假 】`
-- `【 ask for sick leave. 请病假 】`
-- `【 ask for personal leave. 请事假 】`
+- `【 ask for 【 sick 】 leave. 请病假 】`
+- `【 ask for 【 personal 】 leave. 请事假 】`
 - `【 leave 离开v 休假n 】`
 - `【 leaves 叶子 -> leaf/leaves 】`
 - `【 vacation 假期 】` ----- 美式英语
@@ -366,6 +399,7 @@
 - _【 be equal to. 等于 】_
 -
 - **【 I 【 asked for personal leave 】 to go to the America 【 on a business trip 】 for two months. 请了事假去美国出差两个月 】**
+- **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
 -
 - 1. **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
 - 2. **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**

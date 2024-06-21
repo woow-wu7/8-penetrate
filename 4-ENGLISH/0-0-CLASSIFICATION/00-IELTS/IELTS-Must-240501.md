@@ -95,6 +95,7 @@
 - > 【 resist 抵抗 反抗 】
 - > 【 insist 坚持 】 -------------- 强调决心
 - > 【 persist 坚持 】 ------------- 强调坚持
+- > 【 assist 协助 辅助 帮助 】
 -
 - [AA.]
 - `【 workload 工作量 n 】`
@@ -107,7 +108,7 @@
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
 - `【 resist 抵制 抵抗 v 】`
-- **【 We need to 【 resist 】【 mandatory overtime 】 【 without 】 【 overtime pay 】. 我们应该抵制没有加班费的强制加班 】**
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - // -- `resist 抵抗v 抵制v v 反抗 v 防腐剂 n `
 - // -- `insist 坚持`
 - // -- `persist 坚持`

@@ -156,7 +156,7 @@
 - 1
 - `和 sum`
 - `差 difference`
-- `积 product`
+- `积 product` // product 产品 乘积
 - `商 quotient`
 - // emotional quotient. 情商 EQ
 - // intelligence quotient. 智商 IQ
@@ -176,12 +176,13 @@
 - 差 **【 【 The difference of 】 nine 【 minus 】 three 【 equals 】 six. 】**
 - 积 **【 【 The product of 】 one 【 times 】 two is two. 】**
 - 商 **【 【 The quotient of 】 nine 【 divided by 】three is three. 】**
+- Product **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
 -
 - 大于 **【 Is five 【 greater than 】 three? 】**
 - 小于 **【 Is three 【 smaller than / less than 】 five? 】**
 - **【 Three is 【 greater than 】 two and 【 less than 】 four. 】**
 -
-- AA.
+- [AA.]
 - plus add
 - **【 One plus one 【 equals 】 two. 】**
 - **【 One plus one 【 is equal to 】 two. 】**
@@ -191,19 +192,19 @@
 - > What is the result of one plus two?
 - > What's the sum of one plus one?
 -
-- BB.
+- [BB.]
 - minus subtract
 - **【 nine 【 minus 】 two 【 equals 】 seven. 】**
 - **【 nine 【 subtracted by 】 two equals seven. 】**
 - > What's the difference of nine minus two?
 -
-- CC.
+- [CC.]
 - times multiply
 - **【 Two 【 times 】 three equals six. 】**
 - **【 Two 【 multiplied by 】 three equals six 】**
 - > What's product of one times two?
 -
-- DD.
+- [DD.]
 - divide
 - **【 Ten 【 divided by 】 two equals five. 】**
 - > What's quotient of ten divided by two?
