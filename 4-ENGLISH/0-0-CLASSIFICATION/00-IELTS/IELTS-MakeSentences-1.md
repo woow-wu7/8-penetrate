@@ -2147,6 +2147,9 @@ with 具有 用 和
 What 【 fields 】 are you good at?
 你擅长哪些领域？
 -
+These 【 fields 】 【 mark 】 the 【 fields 】 that you are good at.
+这些字段标记了你所擅长的领域
+-
 What 【 topics 】 are you good at?
 = Which topics are you good at?
 你擅长哪些话题？

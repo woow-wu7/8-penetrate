@@ -1,4 +1,4 @@
-###### Polysemy word 2024-06-21
+###### Polysemy Word 2024-06-21
 
 - 1
 - `【 product 产品 乘积 】`
@@ -14,8 +14,8 @@
 - 2
 - `【 leave 离开v 休假n 】`
 - `【 ask for leave. 请假 】`
-- `【 ask for sick leave. 请病假 】`
-- `【 ask for personal leave. 请事假 】`
+- `【 ask for 【 sick 】 leave. 请病假 】`
+- `【 ask for 【 personal 】 leave. 请事假 】`
 - **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
 -
 -
@@ -26,6 +26,7 @@
 - // -- attendant 服务员
 - // -- assistant 助手 助理
 - // -- secretary 秘书
+- // --【 This 【 attendant 】 is my 【 assistant 】, and also his 【 secretary 】. 这个服务员是我的助手，也是他的秘书 】
 -
 -
 -
@@ -34,11 +35,13 @@
 - `【 get tired. 感到疲劳 变得疲劳 】`
 - > 【 tire 疲劳 v 轮胎 n 】
 - > 【 retire 退休 】
-- > 【 entire 整个 】// entire = whole.
-- > 【 tier 层 层级 】// first tier city. 一线城市
+- > 【 entire 整个 】// 【 entire = whole. 】
+- > 【 tier 层 层级 】// 【 first tier city. 一线城市 】
 - > 【 tear 撕碎 v 眼泪 n 】
 - **【 【 tires 】 will never 【 get tired 】. 轮胎永远不会疲劳 】**
 - **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
+- // -- get tired. 疲惫
+- // --
 -
 -
 -
@@ -59,3 +62,54 @@
 - `【 relatively 相对地 adj 】`
 - **【 【 Relatively 】 speaking, she is also my 【 relative 】. 相对来说，她也是我亲戚 】**
 - **【 He got the 【 courage 】 from the 【 encouragement 】 【 of 】 his 【 relatives 】. 他从亲人的鼓励中获得了勇气 】**
+
+###### Polysemy Word 2024-06-22
+
+- 1
+- `【 serious 严肃的 认真的 严重的 adj 】`
+- > 【 be serious about. 对...认真 】
+- > 【 be absolutely serious about. 对...绝对认真 】
+- > 【 be strict with. 对...严格】
+-
+- [AA.]
+- `【 serious 严肃的 】`
+- > 【 be strict with. 对...严格 】
+- **【 He is a very【 serious 】 person who 【 is strict with 】 his students. 她是一个严肃的人，对自己的学生要求很严格 】**
+- 1.【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 非常谦虚的人，从来不炫耀自己的成就 】
+- 2.【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】
+- 3.【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】
+-
+- [BB.]
+- `【 serious 认真的 】`
+- `【 seriously 真的吗？ 】`
+- `【 be serious about. 对...认真 】`
+- > 【 be absolutely serious about. 对...绝对认真 】
+- 1. **【 He has learned from the 【 previous 】 【 failure 】, He 【 is absolutely serious about 】 this exam. 他从上次的失败中吸取了教训，并且他对这次考试绝对是认真的 】**
+- 2. **【 A: Sorry, I forgot your birthday. B: 【 Seriously 】? 真的吗？】**
+- // -- 【 learn from. 从...中学习 从...中吸取教训 】
+- // -- 【 previous 上一次的 上一个的 adj 】
+- // -- 【 be absolutely serious about. 对...绝对认真 】
+- // ---- `fail 失败 v`
+- // ---- `failed 失败的 adj`
+- // ---- `failure 失败 失败的人 n`
+- // -- `succeed 成功 v`
+- // -- `successful 成功的 adj`
+- // -- `success 成功 n`
+-
+- [CC.]
+- `【 serious 严重的 】`
+- **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
+- **【 There was a 【 serious 】 car 【 accident 】 on the road. 路上发生了一起严重的车祸 】**
+- // -- 【 suffer from. 患上 遭受 】
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 field 领域 字段 】`
+- > 【 relevant field. 相关领域 】
+- **【 These 【 fields 】 【 mark 】 the 【 fields 】 that you are good at. 这些字段标记了你所擅长的领域 】**
+- //【 What 【 fields 】 are you good at? 你擅长哪些领域 】

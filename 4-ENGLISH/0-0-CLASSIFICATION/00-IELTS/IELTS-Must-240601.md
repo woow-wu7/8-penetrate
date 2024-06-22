@@ -392,15 +392,18 @@
 
 - 1
 - `【 marry 结婚 v 】`
-- `【 marriage 婚姻 结婚 n 】`
+- `【 marriage 婚姻 结婚 n 】` // ----【 marriage certificate. 结婚证 】
 -
-- `【 divorce 离婚 v n 】`
+- `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】
 -
 - `【 marry 结婚 v 】`
 - `【 wed 结婚 v 】`
-- `【 wedding 婚礼 n 】`
+- `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
 - > 【 hold a wedding. 举办婚礼 】
+- > 【 take a wedding photo. 拍婚纱照 】
 -
+- `【 honeymoon 蜜月 】` // honey 蜂蜜 // bee 蜜蜂 // 【 go on a honeymoon. 度蜜月 】// 【 go on a vacation. 休假 】
+- `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
 - `【 matchmakers 红娘 媒人 n 】`
 -
 - `【 marriage certificate. 结婚证 】`
@@ -410,11 +413,53 @@
 - `【 marriage certificate. 结婚证 】`
 -
 -
+- `【 selfie 自拍 】`
+- `【 selfie stick. 自拍杆 】`
+- `【 take selfie. 拍自拍照 】`
+- `【 wedding photo. 结婚照 】`
+-
+- `【 take photo. 拍照 】` = take picture.
+- `【 take selfie. 拍自拍照 】`
+- `【 take wedding photo. 拍结婚照 】`
+-
+- `【 record video. 录像 】`
+- `【 make a radio. 录音 】`
+-
+- `【 go on a honeymoon. 度蜜月 】`
+- `【 go on a vacation. 度假 】`
+-
+- `【 stepfather 继父 】`
+- `【 father-in-law. 岳父 】`
+- `【 mother-in-law. 岳母 丈母娘 】`
+-
+-
+-
+- [AA.]
 - 1. **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
 - // -- 【 hold a wedding. 举报婚礼 】
 - // -- obtain 获得
 - 2. **【 Would you like to 【 marry 】 me? 你愿意嫁给我吗？】**
 - 2. **【 I want to 【 marry 】 you. 我想娶你 】**
+-
+-
+- [BB.]
+- `【 wedding photo. 结婚照 】`
+- `【 marriage certificate. 结婚证 】`
+- `【 divorce certificate. 离婚证 】`
+- `【 honeymoon 蜜月 】`
+- `【 go on a honeymoon. 度蜜月 】`
+- **【 They plan to 【 go on a honeymoon 】 after 【 taking wedding photos 】 and getting the 【 marriage certificate 】. 他们准备拍完结婚照和领到结婚证后，就去度蜜月 】**
+- // -- 【 take photo. = take picture. 拍照 】
+- // -- 【 take wedding photo. 拍婚纱照 】
+- // -- 【 go on a honeymoon. 度蜜月 】
+- // -- 【 go on a vacation. 度假 】
+-
+-
+- [CC.]
+- `【 selfie 自拍 】`
+- `【 selfie stick. 自拍杆 】`
+- **【 She 【 takes a selfie 】 with 【 selfie stick 】, and then upload the 【 selfie 】 to 【 social platform 】.她用自拍杆进行自拍，然后把自拍照上传到了社交平台 】**
+- // He uses a selfie stick to take a selfie, and then uploads the selfie to the social platform.
 
 ###### 2024-06-17
 
@@ -433,6 +478,7 @@
 - `【 on business trip. 出差 】`
 -
 - > 【 go on vacation. = go for vacation. 度假 】
+- > 【 go on honeymoon. 度蜜月 】
 - > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
 -
 -
@@ -451,7 +497,7 @@
 - [BB.]
 - `【 ask for leave. 请假 】`
 - `【 go on vacation. 休假 】`
-- **【 She 【 asked for leave 】 to 【 go on vacation 】. 她请假去度假 】**
+- **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
 - ask for leave. 请假
 - ask for sick leave. 请病假
 - ask for personal leave. 请事假
@@ -460,6 +506,7 @@
 - [CC.]
 - `【 ask for sick leave. 请病假 】`
 - `【 ask for personal leave. 请事假 】`
+- **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
 - **【 If you're not sick, you can't 【 ask for sick leave 】, You only 【 ask for personal leave 】. 如果你没生病就不能请病假，只能请事假 】**
 -
 -
@@ -504,11 +551,15 @@
 - [BB.]
 - `【 tire 疲劳v 轮胎n 】`
 - `【 entire 真个的 adj 】`
-- `【 tear 撕碎v 眼泪n 】`
+- `【 tear 撕碎v 眼泪n 】` // tear -> tore
+- > 【 in tears. 含着泪 流着泪 】
+- **【 She 【 tore up 】 the 【 wedding photo 】 【 in 】 【 tears 】. 她流着眼泪撕碎了结婚照 】**
 - 1. **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
 - 2. **【 The 【 entire 】 【 tire 】 was 【 torn 】. 整个轮胎都撕裂了 】**
-- **【 The 【 entire 】 【 tire 】 was been 【 torn 】. 整个轮胎都撕裂了 】**
 - // -- tear -> torn
+- // -- 【 weeding photo. 结婚照 】
+- // -- 【 marriage certificate. 结婚证 】
+- // -- 【 divorce certificate. 离婚证 】
 -
 -
 - [CC.]
@@ -517,6 +568,8 @@
 - `【 retire 退休 v 】`
 - `【 retirement 退休 n 】`
 - **【 After 【 retirement 】, he plans to travel to 【 first-tier city 】. 退休之后，他准备去一线城市旅游 】**
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+-
 -
 -
 -
@@ -529,8 +582,8 @@
 - `【 kindergarten 幼儿园 】`
 - **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
 -
-- `【 junior school. 小学 】`
-- `【 junior high school. 初中 】` // junior school. = primary school. = elementary school.
+- `【 junior school. 小学 】` // junior school. = primary school. = elementary school. 小学
+- `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
 - `【 university 大学 】`
@@ -585,7 +638,6 @@
 -
 -
 -
--
 - [AA.]
 - `【 kindergarten 幼儿园 】`
 - **【 She teaches English in kindergarten. 她在幼儿园教英语 】**
@@ -598,6 +650,11 @@
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
 - // -- elder sister. 姐姐
 - // -- sister 妹妹
+-
+- [CC.]
+- `【 Grade One student in junior high school. 初中一年级学生 】`
+- `【 Grade One student in senior high school. 高中一年级学生 】`
+- **【 He is a Grade One student in 【 senior high school 】, his younger brother is a Grade one student in 【 junior high school 】, and his elder brother is a 【 sophomore 】. 他是高中一年级学生，他的弟弟是初中一年级学生，他的哥哥是大二学生 】**
 
 ###### 2024-06-21
 

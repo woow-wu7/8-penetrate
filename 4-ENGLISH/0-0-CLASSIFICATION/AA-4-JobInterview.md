@@ -88,6 +88,11 @@
 - `【 insist = persist 坚持 】`
 - `【 assist 协助 辅助 帮助 】`
 -
+- `【 assist 协助 辅助 帮助 v 】`
+- `【 assistant 助手 助理 n 】`
+- `【 attendant 服务员 】`
+- `【 secretary 秘书 】`
+-
 - _【 suffer from. 遭受 患上 v 】_
 -
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
@@ -95,7 +100,9 @@
 - 2. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - // 【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
 -
-- 3. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- 3. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+-
+- 4. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
 -
 - **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - // except for. 除了 ------------- 排除
@@ -290,12 +297,16 @@
 - **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+- **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 - // -- wealth 财富
 - // -- health 健康
 - // ---- donate money. 捐款
+- // -- 【 assist sb in doing sth. 协助某人在做某事 】
+- // -- 【 persist in doing sth. 坚持做某事 】
 -
 -
-- [RR.
+- [RR.]
 - `【 low-key. 低调的 adj 】`
 - `【 flaunt 炫耀 v = show off. 】`
 - `【 wealth 财富 n 】`
@@ -306,6 +317,8 @@
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a very 【 modest 】 person, and never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+- **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 -
 -
 - [SS.]
@@ -316,6 +329,8 @@
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - **【 He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他是一个非常谦虚的人，从来不炫耀自己的成就 】**
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 - **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
 -
 -
@@ -395,11 +410,12 @@
 - _【 on a business trip. 出差 】_
 -
 - > 【 go on vacation. = go for vacation. 度假 】
+- > 【 go on honeymoon. 度蜜月 】
 - > 【 take a travel. = make a travel. = go on a journey. 去旅行 】
 - _【 be equal to. 等于 】_
 -
-- **【 I 【 asked for personal leave 】 to go to the America 【 on a business trip 】 for two months. 请了事假去美国出差两个月 】**
 - **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
+- **【 I 【 asked for personal leave 】 to go to the America 【 on a business trip 】 for two months. 请了事假去美国出差两个月 】**
 -
 - 1. **【 a 【 business trip 】 is not equal to a 【 vacation 】. 出差不等于休假 】**
 - 2. **【 One 【 centimeter 】 is equal to ten 【 millimeters 】. 一厘米等于十毫米 】**

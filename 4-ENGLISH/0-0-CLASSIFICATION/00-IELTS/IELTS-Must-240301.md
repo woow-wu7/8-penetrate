@@ -370,8 +370,9 @@
 -
 -
 - 2
-- `source 来源 源头`
-- `resource 资源 资料`
+- `【 source 来源 源头 】`
+- `【 resource 资源 资料 】`
+-
 - _【 source of. ...的来源 】_
 - -
 - _【 open source code. 开源代码 】_
@@ -384,7 +385,7 @@
 - > // pure water. 纯净水
 - > // pure gold. 纯金
 - -
-- _【 natural resource. 资源资源 】_
+- _【 natural resource. 自然资源 】_
 - _【 marine resource. 海洋资源 】_
 - _【 forest resource. 森林资源 】_
 - _【 rare resource. 稀有资源 】_

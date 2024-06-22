@@ -1141,6 +1141,9 @@ A: Sorry, babe, I forgot your birthday.
 B: 【 Seriously 】?
 真的吗？
 -
+He is 【 absolutely serious  】 【 about 】 this exam.
+他对待这次的考试绝对是认真的
+-
 There was a 【 serious 】 car 【 accident 】 on the road.
 路上发生了一起严重的车祸
 -
@@ -1150,6 +1153,8 @@ He 【 suffered from 】 a 【 serious 】 illness.
 People don't 【 realize 】 how 【 serious 】 this 【 recession 】 has actually been.
 人们没有意识到这次衰退实际上有多严重
 -
+// -
+// 【 be serious about. 对...认真 】
 // -
 // 【 serious 严肃的 认真的 严重的 adj 】
 // 【 seriously 严肃地 认真地 严重的 adv 】
@@ -1748,4 +1753,110 @@ He is alone in a another place and has no 【 relatives 】 who can help him.
 -
 【 Relatively 】 speaking, she is also my 【 relative 】.
 相对来说，她也是我亲戚
+```
+
+##### 11 Make sentences 2024-06-22
+
+```
+1
+I 【 am passionate about 】 my work.
+I have a passion 【 for 】 my work.
+我对我的工作很有激情
+// -
+// 【 be passionate about sth. 对...充满激情 】
+// 【 have a passion for sth. 对...充满激情 】
+
+2
+I will 【 explain 】 my 【 viewpoint 】 from three 【 aspects 】.
+我将从三个方面解释我的观点
+// -
+// 【 aspect 方面 外观 】
+// -
+// viewpoint 观点
+// explain 解释
+
+
+3
+The book 【 cover 】 the 【 various aspects 】 of 【 history 】 and 【 culture 】.
+这本书涵盖了历史和文化的各个方面
+-
+【 Monitor 】 the time for the browser to 【 parse 】 the 【 various 】 【 resources 】.
+监控浏览器解析各种资源的时间
+-
+// -
+// 【 various aspects. 各个方便 】
+// 【 various resources. 各种资源 】
+// -
+// 【 various 各种各样的 】
+// 【 aspect 方面 外观 】
+// -
+// history 历史
+// culture 文化
+// -
+// 【 resource 资源 资料 】
+// 【 source 来源 源头 】
+// -
+// 【 natural resource. 自然资源 】
+// 【 marine resource. 海洋资源 】
+// 【 forest resource. 森林资源 】
+// 【 rare resource. 稀有资源 】
+// 【】
+// 【 rare species. 稀有物种 】
+// 【 rare metal. 稀有金属 】
+// 【 rare resource. 稀有资源 】
+// -
+// 【 water source. 水源 】
+// 【 power source. 电源 】
+// 【 source code analysis. 源码分析 】
+
+
+4
+These 【 fields 】 【 mark 】 the 【 fields 】 that you are good at.
+这些字段标记了你所擅长的领域
+-
+What 【 fields 】 are you good at?
+你擅长哪些领域？
+-
+// -
+// 【 field 领域 字段 n 】
+// -
+// mark 标记
+
+
+5
+They plan to 【 go on a honeymoon 】 after 【 taking wedding photos 】 and getting the 【 marriage certificate 】.
+他们准备拍完结婚照和领到结婚证后，就去度蜜月
+
+
+6
+She 【 takes a selfie 】 with 【 selfie stick 】, and then upload the 【 selfie 】 to 【 social platform 】.
+她用自拍杆进行自拍，然后把自拍照上传到了社交平台
+
+
+7
+He is a Grade One student in 【 senior high school 】, his younger brother is a Grade one student in 【 junior high school 】, and his elder brother is a 【 sophomore 】.
+他是高中一年级学生，他的弟弟是初中一年级学生，他的哥哥是大二学生
+
+
+8
+We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】.
+-
+An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks.
+助理是辅助他人完成任务的人
+-
+// -
+// 【 work overtime. 加班 】
+// 【 mandatory overtime. 强制加班 】
+// 【 overtime pay. 加班费 】
+// -
+// persist in doing sth. 坚持做某事
+// -
+// 【 resist 抵抗 反抗 v 】
+// 【 insist = persist 坚持 v 】
+// 【 assist 协助 辅助 帮助 v 】
+// -
+// 【 assist 协助 辅助 帮助 v 】
+// 【 assistant 助手  】
+// 【 attendant 服务员 】
+// 【 secretary 秘书 】
 ```
