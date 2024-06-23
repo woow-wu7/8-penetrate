@@ -1,6 +1,10 @@
 ##### Transportation / Vehicle / Traffic / Transport
 
-##### (1) Summarize 总结 v
+##### (1) **The words that you mast know.**
+
+- [AA.]
+
+##### (2) Summarize 总结 v
 
 - [AA.]
 - `【 rush hour. 高峰时段 】`
@@ -369,7 +373,7 @@
 - `downtown 市中心`
 - `hometown 家乡`
 
-##### (2) Subway/Metro/Tube/Unground 地铁
+##### (3) Subway/Metro/Tube/Unground 地铁
 
 - `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
 - `Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
@@ -1071,7 +1075,7 @@ that sounds good to me. 听起来不错
 Excuse me. Just wondering how can I get to xxxx.
 ```
 
-##### (3) Flight 航班 / airport 机场
+##### (4) Flight 航班 / airport 机场
 
 - `parking lot. 停车场`
 - `parking garage. 停车场` // underground parking garage.

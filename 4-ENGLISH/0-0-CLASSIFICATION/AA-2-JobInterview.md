@@ -77,6 +77,9 @@
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
 -
+- `【 work out. 锻炼 】`= exercise
+- `【 work overtime. 加班 】`
+-
 - > workload 工作量
 - > workaholic 工作狂
 -

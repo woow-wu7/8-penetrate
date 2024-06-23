@@ -1,6 +1,6 @@
 ##### Bank
 
-##### **Summarize**
+##### (1) **The words that you mast know.**
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -

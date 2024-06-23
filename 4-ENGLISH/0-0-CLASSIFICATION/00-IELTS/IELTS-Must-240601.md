@@ -7,9 +7,11 @@
 - `【 chapter 章 篇章 章节 】`
 - `【 caption 字幕 说明文字 】`
 - `【 preface 前言 序言 】`
+- // TIPS: pay attention to the pronunciation of the word 'caption'.
 - // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
 -
 - `【 episode 集 一集 】`
+- `【 series 连续 系列 串联 】` // 【 series 】 【 parallel 】 // 【 a series of (test). 一些列(测试) 】
 - `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
 - `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
 - stay tuned. 继续收看 敬请关注
@@ -32,13 +34,17 @@
 - `【 preface 前言 序言 】`
 - `【 chapter 章节 】`
 - -
-- `【 tale 故事n 讲述n 】`
+- `【 tale 故事n 讲述n 】` // 【 fairy tale. 童话故事 】
 - `【 story 故事 情节 】`
 - `【 novel 小说 】`
 -
 - `【 tale 故事 】`
 - `【 tail 尾巴 】`
-- `【 fail 失败v 】`
+- `【 fail 失败v 】` // fail failed failure // succeed successful success
+-
+- `【 fairy 仙女 精灵 】`
+- `【 fairy tale. 童话故事 】`
+- `【 fairyland 仙境 】`
 -
 -
 - 1. **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
@@ -234,9 +240,9 @@
 -
 - `【 soil 土壤 】`
 - `【 oil 石油 】`
-- `【 natural gas. 天然气 】`
+- `【 natural gas. 天然气 】` // natural resource. // marine resource. // forest resource. // rare resource.
 - `【 extract 提取 提炼 】`
-- `【 mine 开采v 我的 地雷n 矿n 】`
+- `【 mine 开采v 我的 地雷n 矿n 】` // 【 copper mine. 铜矿 】
 -
 - `【 air 空气 】`
 - `【 gas 气体】` // natural gas. 天然气
@@ -246,10 +252,15 @@
 - `【 carbon dioxide 二氧化碳 】` -- co2
 - `【 natural gas. 天然气 】`
 -
-- `【 metal 金属 】`
-- `【 element 元素 要素 】`
-- `【 nutrition 营养 n 】`
+- `【 natural gas. 天然气 】`
+- `【 natural resource. 资源资源 】`
+- `【 marine resource. 海洋资源 】`
+- `【 forest resource. 森林资源 】`
+- `【 rare resource. 稀有资源 】`
+- `【 rare metal. 稀有金属 】`
 -
+- `【 metal 金属 】`
+- `【 rare metal. 稀有金属 】`
 - `【 gold 金 金色 金色的 】`
 - `【 silver 银  】`
 - `【 copper 铜  】` // `copper mine. 铜矿`
@@ -263,7 +274,6 @@
 - `【 medal 奖牌 奖章 】` // -- gold medal. silver medal. bronze medal.
 - `【 model 模型 模特 】` // -- role model. box model. v-model.
 - `【 module 模块 】` // ----- open source module.
--
 - _【 open source module. 开源模块 】_
 - _【 open source code. 开源代码 】_
 - _【 source code analysis. 源码分析 】_
@@ -272,6 +282,8 @@
 - _【 form of. ...的形式 】_
 - _【 in the form of. 以...的形式 】_
 -
+- `【 element 元素 要素 】`
+- `【 nutrition 营养 n 】`
 -
 -
 - [AA.]
@@ -349,6 +361,7 @@
 - `【 modest 谦虚的 adj 】`
 - `【 low-key. 低调的 adj 】`
 - `【 generous 慷慨的 adj 】`
+- `【 serious 严肃的 认真的 严重的 adj 】`
 -
 - `【 curiosity 好奇心 n 】`
 - `【 responsibility 责任 n 】`
@@ -395,16 +408,31 @@
 - `【 marriage 婚姻 结婚 n 】` // ----【 marriage certificate. 结婚证 】
 -
 - `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】
+- `【 divorced 离婚的 adj 】`
+- `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
-- `【 marry 结婚 v 】`
-- `【 wed 结婚 v 】`
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
+- `【 wedding anniversary. 结婚周年纪念日 】`
 - > 【 hold a wedding. 举办婚礼 】
 - > 【 take a wedding photo. 拍婚纱照 】
+- > 【 take a selfie. 拍自拍照 】
+-
+- `【 first love. = puppy love. 初恋 】` // puppy 小狗
+- `【 former girlfriend. 前女友 = ex-girlfriend 】` // former 前者 以前的 adj
+- // former 前者 以前的 adj
+- // ex 前任
+- // exes. 前任(复数)
 -
 - `【 honeymoon 蜜月 】` // honey 蜂蜜 // bee 蜜蜂 // 【 go on a honeymoon. 度蜜月 】// 【 go on a vacation. 休假 】
 - `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
-- `【 matchmakers 红娘 媒人 n 】`
+- `【 go on a honeymoon. 度蜜月 】`
+- `【 go on a vacation. 度假 】`
+-
+- `【 pregnant 怀孕的 adj 】`
+- `【 pregnant woman. 孕妇 】`
+-
+- `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
+- `【 abort 流产 v 】` ----------- 主动流产 【 abort ----> abortion 】
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
@@ -412,6 +440,12 @@
 - `【 wedding photo. 结婚照 】`
 - `【 marriage certificate. 结婚证 】`
 -
+- `【 stepfather 继父 】`
+- `【 father-in-law. 岳父 】`
+- `【 mother-in-law. 岳母 丈母娘 】`
+-
+- `【 matchmakers 红娘 媒人 n 】`
+- `【 fall in love at first sight. 一见钟情 】`
 -
 - `【 selfie 自拍 】`
 - `【 selfie stick. 自拍杆 】`
@@ -425,21 +459,15 @@
 - `【 record video. 录像 】`
 - `【 make a radio. 录音 】`
 -
-- `【 go on a honeymoon. 度蜜月 】`
-- `【 go on a vacation. 度假 】`
--
-- `【 stepfather 继父 】`
-- `【 father-in-law. 岳父 】`
-- `【 mother-in-law. 岳母 丈母娘 】`
 -
 -
 -
 - [AA.]
-- 1. **【 after they 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
-- // -- 【 hold a wedding. 举报婚礼 】
-- // -- obtain 获得
+- 1. **【 after 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
 - 2. **【 Would you like to 【 marry 】 me? 你愿意嫁给我吗？】**
 - 2. **【 I want to 【 marry 】 you. 我想娶你 】**
+- // -- 【 hold a wedding. 举报婚礼 】
+- // -- obtain 获得
 -
 -
 - [BB.]
@@ -456,6 +484,43 @@
 -
 -
 - [CC.]
+- `【 break up. 分手 】` // break up. 分手 打破 解散
+- `【 divorce 离婚 】`
+- **【 This 【 divorced 】 【 couple 】 has 【 broken up 】 many times before. 这对离婚的夫妇之前分手过很多次 】**
+- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
+-
+- **【 After breaking up, should we still keep in touch with our exes? 分手后，我们还应该和前任保持联系吗？ 】**
+- // -- divorced 离婚的 adj
+- // -- divorce 离婚 v
+- // ---- 【 break -> broke -> broken 】
+- // ---- 【 break up. 分手 打碎 解散 v 】
+-
+-
+- [DD.]
+- `【 pregnant 怀孕的 adj 】`
+- `【 miscarry 流产 v 】` // miscarriage 流产 n
+- `【 abort 中止 流产 v 】` // abortion 流产 n
+- **【 【 As long as 】 you are【 pregnant 】, There is 【 a risk of 】 【 miscarriage 】. 只要怀孕就有流产的风险 】**
+- // -- 【 as long as. 只要 】
+- // -- 【 a risk of. ...的风险 】
+-
+-
+- [EE.]
+- `【 former girlfriend. = ex-girlfriend. 前女友 】`
+- `【 first love. = puppy love. 初恋 】`
+- **【 She is my 【 former girlfriend 】 and also my 【 first love 】. 她是我的前女友也是我的初恋 】**
+- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
+-
+-
+- [FF.]
+- `【 former girlfriend. 前女友 = ex-girlfriend. 】`
+- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
+- **【 She is my 【 former girlfriend 】 and also my 【 first love 】. 她是我的前女友也是我的初恋 】**
+- // -- 【 keep in touch with. 和...保持联系 】
+- // -- 【 break up. 分手 打碎 解散 v 】
+-
+-
+- [GG.]
 - `【 selfie 自拍 】`
 - `【 selfie stick. 自拍杆 】`
 - **【 She 【 takes a selfie 】 with 【 selfie stick 】, and then upload the 【 selfie 】 to 【 social platform 】.她用自拍杆进行自拍，然后把自拍照上传到了社交平台 】**
@@ -707,3 +772,39 @@
 - `【 assistant 助理 】`
 - `【 attendant 服务员 】`
 - **【 My 【 secretary 】 is his 【 assistant 】, but 【 used to be 】 【 an 】 【 attendant 】. 我的秘书是他的助手，但曾经是一个服务员 】**
+
+###### 2024-06-23
+
+- 1
+- `【 assure 保证 v 】`
+- `【 ensure 确保 v 】` // ensure = make sure. 确保
+- `【 insure 投保 v 】` // insurance 保险 // insure 投保
+-
+- `【 insure 投保 v 】`
+- `【 insurance 保险 n 】`
+-
+- `【 ensure 确保 】` // ensure = make sure. 确保
+- `【 make sure. 确保 】`
+-
+- `【 treasure 宝藏 财富 】`
+- `【 measure 测量 】`
+- `【 pressure 压力 】` // pressure // stress
+-
+-
+- [AA.]
+- `【 assure 保证 v 】`
+- `【 ensure 确保 v 】`
+- `【 insure 投保 v 】`
+- `【 insurance 保险 n 】`
+- **【 I 【 assure 】 you that I can 【 ensure 】 the 【 insurance 】 that you 【 insured 】 is safe and 【 reliable 】. 我向你保证，我能确保你投保的保险安全可靠 】**
+- // -- 【 reliable 可靠的 adj 】
+-
+-
+- [BB.]
+- `【 pressure 压力 】` // pressure = stress
+- `【 measure 测量 】`
+- `【 ensure 确保 】`
+- `【 treasure 宝藏 】`
+- **【 We should 【 measure 】 the 【 pressure 】 of the 【 equipment 】 【 in time 】 to 【 ensure 】 the 【 safety 】 of the 【 treasure 】. 我们需要及时测量设备的压力，来确保宝藏的安全 】**
+- // -- safety 安全 n
+- // -- safe 安全的 adj

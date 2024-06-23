@@ -1860,3 +1860,85 @@ An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 compl
 // 【 attendant 服务员 】
 // 【 secretary 秘书 】
 ```
+
+##### 12 Make sentences 2024-06-23
+
+```
+1
+This 【 divorced 】 【 couple 】 has 【 broken up 】 many times before.
+这对离婚的夫妇之前分手过很多次
+-
+I 【 assure 】 you that I will 【 definitely 】 gave you a happy 【 marriage 】.
+我向你保证一定给你一个幸福的婚姻
+-
+// -
+// 【 divorce 离婚 v 】
+// 【 divorced 离婚的 adj 】
+// -
+// 【 break up. 分手 打碎 解散 v 】
+// -
+// couple 夫妇
+// -
+// 【 assure 保证 确保 v 】
+// -
+// 【 definitely 肯定地 adv 】
+
+
+2
+Please 【 reserve 】 enough time to 【 make sure 】 you will not be late.
+请预留足够多的时间确保你不会迟到
+-
+Please 【 reserve 】 some time to 【 reserve 】 a table at the restaurant.
+请预留一些时间去预订餐厅的位置
+-
+// -
+// 【 reserve 预留 预定 保留 v 】
+// -
+// 【 make sure. 确保 = ensure 】
+// 【 assure 保证 】
+
+
+3
+I 【 assure 】 you that I can 【 ensure 】 the 【 insurance 】 that you 【 insured 】 is safe and 【 reliable 】.
+我向你保证，我可以确保你投保的保险是安全可靠的
+-
+We should 【 measure 】 the 【 pressure 】 of the 【 equipment 】 【 in time  】to 【 ensure 】 the 【 safety 】 of the 【 treasure 】.
+我们要及时测量设备的压力来确保保证的安全
+-
+// -
+// 【 assure 保证 v 】
+// 【 ensure 确保 v 】 = make sure.
+// 【 insure 投保 v 】
+// -
+// 【 insure 投保 v 】
+// 【 insurance 保险 n 】
+// -
+// 【 reliable 可靠的 adj 】
+// -
+// 【 treasure 宝藏 】
+// 【 measure 测量 】
+// 【 pressure 压力 】
+// -
+// safe 安全的 adj
+// safety 安全 n
+
+
+4
+I 【 doubt 】 whether he is a 【 adult 】.
+我怀疑他是否是成年人
+// -
+// 【 doubt 怀疑 v 】
+// 【 adult 成年人 】
+
+
+5
+Many people don't know what coffee is.
+很多人不知道咖啡是什么
+
+
+6
+He 【 snatched 】 my phone 【 to 】 play games.
+他抢了我的手机玩游戏
+// -
+// 【 snatch 抢 抢夺 抢走 v 】
+```

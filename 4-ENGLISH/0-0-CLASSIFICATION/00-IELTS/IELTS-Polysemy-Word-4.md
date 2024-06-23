@@ -41,7 +41,7 @@
 - **【 【 tires 】 will never 【 get tired 】. 轮胎永远不会疲劳 】**
 - **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
 - // -- get tired. 疲惫
-- // --
+- // -- tear 撕碎 v 眼泪 n
 -
 -
 -
@@ -105,11 +105,14 @@
 -
 -
 -
--
--
--
 - 2
 - `【 field 领域 字段 】`
 - > 【 relevant field. 相关领域 】
 - **【 These 【 fields 】 【 mark 】 the 【 fields 】 that you are good at. 这些字段标记了你所擅长的领域 】**
 - //【 What 【 fields 】 are you good at? 你擅长哪些领域 】
+
+###### Polysemy Word 2024-06-23
+
+- 1
+- `【 reserve 预留 预定 保留 】`
+  **【 Please 【 reserve 】 some time to 【 reserve 】 a table at the 【 restaurant 】. 请预留一些时间去预订餐厅的位置 】**
