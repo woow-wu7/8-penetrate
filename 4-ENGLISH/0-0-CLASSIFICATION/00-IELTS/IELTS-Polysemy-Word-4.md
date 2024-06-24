@@ -115,4 +115,8 @@
 
 - 1
 - `【 reserve 预留 预定 保留 】`
-  **【 Please 【 reserve 】 some time to 【 reserve 】 a table at the 【 restaurant 】. 请预留一些时间去预订餐厅的位置 】**
+- **【 Please 【 reserve 】 some time to 【 reserve 】 a table at the 【 restaurant 】. 请预留一些时间去预订餐厅的位置 】**
+- **【 Please 【 reserve 】 enough time to 【 make sure 】you will not be late. 请预留足够的时间确保你不会迟到 】**
+- // -- 【 be late for. 迟到 】
+- // -- 【 He 【 was late for 】 work. 他上班迟到了 】
+- // -- 【 Please attend the meeting on time, don't 【 be late 】. 请按时参加会议，别迟到了 】

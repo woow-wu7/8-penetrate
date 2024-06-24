@@ -14,6 +14,8 @@
 - `【 series 连续 系列 串联 】` // 【 series 】 【 parallel 】 // 【 a series of (test). 一些列(测试) 】
 - `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
 - `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
+- > 【 series 连续 系列 串联 】
+- > 【 serious 严肃的 认真的 严重的 】
 - stay tuned. 继续收看 敬请关注
 -
 - `【 actress 女演员 】` // prince princess // headmaster headmistress // prince province
@@ -47,16 +49,19 @@
 - `【 fairyland 仙境 】`
 -
 -
-- 1. **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
-- 2. **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
-- 3. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
-- 4. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+- [AA.]
+- `【 caption. 字幕 文字说明 】`
+- `【 subtitle 字幕 子标题 】`
+- **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
+- 1. **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
+- 2. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
+- 3. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
 - // --【 a total of. 总共 】
 - // -- The company has【 a total of 】 200 【 employees 】. 公司总共有 200 名员工
 - // -- After graduation, I have had 【 a total of 】 four 【 work experiences 】. 毕业之后，我一共有四段工作经历
 -
 -
-- [AA.]
+- [BB.]
 - `【 series 串联 系列 连续 】`
 - `【 parallel 平行的adj 并行的adj 纬线n 】`
 - `【 parallelogram 平行四边形 】`
@@ -71,7 +76,7 @@
 - // -- 【 be divided into. 被分为... 被分成... 】
 -
 -
-- [BB.]
+- [CC.]
 - `【 actor 男演员 】` // actor // tractor
 - `【 actress 女演员 】`
 - `【 prince 王子 】` // prince // province
@@ -84,7 +89,7 @@
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
 -
 -
-- [CC.]
+- [DD.]
 - `【 parallelogram 平行四边形 】` // parallel series
 - `【 diamond 菱形 砖石 】`
 - `【 trapezoid 梯形 】`
@@ -107,7 +112,7 @@
 - `【 cone 圆锥 】`
 -
 -
-- [DD.]
+- [EE.]
 - `【 tale 故事 】` // fairy tale.
 - `【 tail 尾巴 】`
 - `【 fairy 仙女 小精灵 】` // fair // fairy
@@ -118,6 +123,24 @@
 - _【 fairyland 仙境 n 】_
 - **【 This is a 【 fairy tale 】 【 about 】 【 tail 】. 这是一本关于尾巴的童话故事 】**
 - **【 Most little kids love to read 【 fairy tales 】. 很多小孩都喜欢童话故事 】**
+-
+-
+- [FF.]
+- `【 episode 集 一集 】`
+- `【 TV series. 电视连续剧 = TV drama. 】`
+- `【 in total. 总共 】`
+- **【 How many 【 episodes 】 does this 【 TV series 】 have 【 in total 】? 这部连续剧一共有多少集？ 】**
+- **【 Do you still 【 remember 】 what the first 【 episode 】 of the 【 animation 】 【 talk about 】. 你还记得这本动画片第一集讲了什么吗？ 】**
+- // -- talk about. 谈论 讨论
+- // -- animation 动画
+- // -- 【 in total. 总共 】
+-
+-
+- [GG.]
+- `【 serious 严肃的 认真的 严重的 】`
+- `【 series 连续 系列 串联 】` // TV series. = TV drama. 连续剧
+- **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个很严肃的人，对学生要求很严格 】**
+- **【 He 【 suffered from 】 a 【 serious 】 【 illness 】. 他患上了严重的疾病 】**
 
 ###### 2024-06-02
 
@@ -140,15 +163,25 @@
 -
 - `【 massage 按摩 v n 】`
 -
+- _【 relieve pain. 缓解疼痛 】_
 - _【 relieve stress. 缓解压力 】_ // relieve stress. = relieve pressure.
 - _【 relieve tension. 缓解紧张 】_
-- _【 relieve pain. 缓解疼痛 】_
 -
 - _【 be anxious about sth. 对...感到焦虑 】_
 -
-- 1. **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
-- 2. **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
-- 3. **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
+- [AA.]
+- `【 relieve 减轻 缓解 】`
+- `【 relieve stress. 减轻压力 】`
+- `【 relieve tension. 缓解紧张 】`
+- `【 be anxious about sth. 对...感到紧张 】`
+- **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
+- **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
+-
+-
+- [BB.]
+- `【 relieve pain. 缓解疼痛 】`
+- `【 antibiotic 抗生素 】`
+- **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
 
 ###### 2024-06-05
 
@@ -157,13 +190,15 @@
 - `【 island 岛 岛屿 】` // islander 岛上居民
 - `【 homeland 家园 祖国 】`
 - `【 grassland 草原 】`
+- // TIPS: Pay attention to the pronunciation of the word 'island'.
 -
 - `【 Thailand 泰国 】`
-- `【 Poland 波兰 】` // TIPS: Pay attention to the pronunciation of the word 'poland'.
+- `【 Poland 波兰 】`
 - `【 England 英格兰 英国 】`
 - `【 Switzerland 瑞士 】`
+- // TIPS: Pay attention to the pronunciation of the word 'poland'.
 -
-- `【 freelancer 自由职业者 】`
+- `【 freelancer 自由职业者 】` // 【 freelance 自由职业的 adj 】
 - `【 part-time job. 兼职 】`
 - `【 full-time job. 全职 】`
 - `【 odd job. 零工 】`
@@ -177,6 +212,14 @@
 - `【 vacant land. 空地 】`
 -
 - `【 bland 枯燥无味的 平淡的 adj 】`
+-
+-
+- [AA.]
+- `【 landlord 房东 业主 】`
+- `【 freelancer 自由职业者 】`
+- **【 My 【 landlord 】 is a 【 freelancer 】. 我的房东是一名自由职业者 】**
+-
+-
 -
 -
 -
@@ -206,6 +249,7 @@
 - **【 Competition 【 is divided into 】 【 benign competition 】 and 【 malignant competition 】. 竞争分为良性竞争和恶性竞争 】**
 -
 - **【 We need to 【 focus on 】 the 【 harm 】 【 of 】 【 malignant tumors 】 【 to 】 patients . 我们要关注恶性肿瘤对病人的伤害 】**
+-
 -
 - [AA.]
 - `fail 失败 v`
@@ -412,10 +456,22 @@
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
-- `【 wedding anniversary. 结婚周年纪念日 】`
+- `【 wedding dress. 婚纱 n 】`
+- `【 wedding ring. 婚戒 n 】`
+- `【 wedding photo. 结婚照 】`
+- `【 wedding anniversary. 结婚周年纪念日 】` // 【 anniversary 周年纪念日 】
 - > 【 hold a wedding. 举办婚礼 】
 - > 【 take a wedding photo. 拍婚纱照 】
 - > 【 take a selfie. 拍自拍照 】
+-
+- `【 groom 新郎 】` // -------------- mushroom 蘑菇
+- `【 bride 新娘 】` // -------------- bridge 桥
+- `【 widow 寡妇 】` //--------------- window 窗户
+- `【 pregnant woman. 孕妇 】` // ---- pregnant 怀孕的
+- `【 fairy 仙女 小精灵 】`
+- > 【 soulmate 灵魂伴侣 】
+- > 【 teammate 队友 】
+- > 【 classmate 同学 】
 -
 - `【 first love. = puppy love. 初恋 】` // puppy 小狗
 - `【 former girlfriend. 前女友 = ex-girlfriend 】` // former 前者 以前的 adj
@@ -463,6 +519,8 @@
 -
 -
 - [AA.]
+- `【 hold a wedding. 举办婚礼 】`
+- `【 marriage certificate. 结婚证 】`
 - 1. **【 after 【 obtain 】 the 【 marriage certificate 】, They prepare to 【 hold the wedding 】. 领完结婚证后，准备举办婚礼 】**
 - 2. **【 Would you like to 【 marry 】 me? 你愿意嫁给我吗？】**
 - 2. **【 I want to 【 marry 】 you. 我想娶你 】**
@@ -471,11 +529,12 @@
 -
 -
 - [BB.]
+- `【 honeymoon 蜜月 】`
 - `【 wedding photo. 结婚照 】`
+- `【 go on a honeymoon. 度蜜月 】`
+- `【 take wedding photo. 照结婚照 】`
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
-- `【 honeymoon 蜜月 】`
-- `【 go on a honeymoon. 度蜜月 】`
 - **【 They plan to 【 go on a honeymoon 】 after 【 taking wedding photos 】 and getting the 【 marriage certificate 】. 他们准备拍完结婚照和领到结婚证后，就去度蜜月 】**
 - // -- 【 take photo. = take picture. 拍照 】
 - // -- 【 take wedding photo. 拍婚纱照 】
@@ -487,9 +546,8 @@
 - `【 break up. 分手 】` // break up. 分手 打破 解散
 - `【 divorce 离婚 】`
 - **【 This 【 divorced 】 【 couple 】 has 【 broken up 】 many times before. 这对离婚的夫妇之前分手过很多次 】**
-- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
--
-- **【 After breaking up, should we still keep in touch with our exes? 分手后，我们还应该和前任保持联系吗？ 】**
+- **【 After【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
+- **【 After【 breaking up 】, should we still 【 keep in touch with 】 our 【 exes 】? 分手后，我们还应该和前任保持联系吗？ 】**
 - // -- divorced 离婚的 adj
 - // -- divorce 离婚 v
 - // ---- 【 break -> broke -> broken 】
@@ -521,6 +579,37 @@
 -
 -
 - [GG.]
+- `【 groom 新郎 】` // groom mushroom
+- `【 bride 新娘 】` // bride bridge
+- **【 The 【 groom 】 put the 【 wedding dress 】 on the 【 bride 】, put the 【 wedding ring 】 on her finger, and 【 held the wedding 】on the 【 wedding anniversary 】. 在结婚纪念日这天，新郎给新娘穿上了婚纱，带上了婚戒，举行了婚礼 】**
+- // -- wedding dress. 婚纱
+- // -- wedding ring. 婚戒
+- // -- wedding anniversary. 结婚纪念日
+- // -- hold wedding. 举行婚礼
+-
+-
+- [HH.]
+- `【 bride 新娘 】`
+- `【 pregnant woman. 孕妇 】`
+- `【 widow 寡妇 】`
+- `【 fairy 仙女 小精灵 】`
+- **【 If the 【 bride 】 can't become a 【 pregnant woman 】, she can only become a 【 widow 】. 如果一个新娘做不了孕妇，就只能做寡妇 】**
+- // -- groom 新郎
+- // -- mushroom 蘑菇
+- // -- bride 新娘
+- // -- bridge 桥
+- // -- widow 孕妇
+- // -- window 窗户
+- // -- pregnant woman. 孕妇
+-
+-
+- [II.]
+- `【 stepfather. 继父 】`
+- `【 father-in-law. 岳父 】`
+- **【 Her 【 stepfather 】 is my 【 father-in-law 】. 她的继父是我的岳父 】**
+-
+-
+- [JJ.]
 - `【 selfie 自拍 】`
 - `【 selfie stick. 自拍杆 】`
 - **【 She 【 takes a selfie 】 with 【 selfie stick 】, and then upload the 【 selfie 】 to 【 social platform 】.她用自拍杆进行自拍，然后把自拍照上传到了社交平台 】**
