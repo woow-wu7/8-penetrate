@@ -1948,18 +1948,50 @@ He 【 snatched 】 my phone 【 to 】 play games.
 ```
 1
 The 【 groom 】 put the 【 wedding dress 】 on the 【 bride 】, put the 【 wedding ring 】 on her finger, and 【 held wedding 】 on the 【 wedding anniversary 】.
-在结婚纪念日这天，新郎给新娘穿上了婚纱，带上了婚戒，举行了婚礼
+新郎给新娘穿上了婚纱，戴上了戒指，在结婚纪念日时举报了婚礼
+-
+The 【 groom 】, 【 bride 】, 【 groomsman 】, 【 bridesmaid 】 and others attended the 【 wedding 】.
+新郎，新娘，伴郎，伴娘参加了婚礼
+-
+If a 【 bride 】 can't become a 【 pregnant woman 】, she can only become a 【 widow 】.
+如果一个新娘做不了孕妇，就只能做寡妇
+-
+After 【 breaking up 】, you should not 【 keep in touch with 】 the 【 former girlfriend 】.
+分手后就不应该和前女友保持联系
+-
+Her 【 stepfather 】 is my 【 father-in-law 】.
+她的继父是我的岳父
+-
+They 【 keep in touch with 】 【 each other 】 【 via 】 internet.
+他们通过互联网来相互保持联系
+-
 // -
 // 【 groom 新郎 】
 // 【 bride 新娘 】
 // -
+// 【 groomsman 伴郎 】// groom
+// 【 bridesmaid 伴娘 】// bride
+// -
 // 【 wedding dress. 婚纱 】
 // 【 wedding ring. 婚戒 】
+// 【 wedding photo. 结婚照 】
 // 【 wedding anniversary. 结婚纪念日 】
 // -
 // 【 hold wedding. 举行婚礼 】
 // 【 wedding photo. 结婚照 】
 // 【 take wedding photo. 拍结婚照 】
+// -
+// 【 break up. 分手 打碎 解散 v 】
+// 【 keep in touch with. 和...保持联系 】
+// -
+// 【 former girlfriend. = ex-girlfriend. 前女友 】
+// -
+// 【 each other. 相互 】
+// TIPS: 注意 each others 是错误的表达，只有 each other.
+// -
+// 【 stepfather. 继父 】
+// 【 father-in-law. 岳父 】
+// 【 mother-in-law. 岳母 】
 
 
 2
@@ -1987,50 +2019,6 @@ Please 【 attend 】 the meeting 【 on time 】, don't 【 be late 】.
 
 
 3
-If a 【 bride 】 can't become a 【 pregnant woman 】, she can only become a 【 widow 】.
-如果一个新娘做不了孕妇，就只能做寡妇
--
-The 【 groom 】 put the 【 wedding dress 】 on the 【 bride 】, put the 【 wedding ring 】 on her finger, and 【 held wedding 】 on the 【 wedding anniversary 】.
-新郎给新娘穿上了婚纱，戴上了戒指，在结婚纪念日时举报了婚礼
--
-After 【 breaking up 】, you should not 【 keep in touch with 】 the 【 former girlfriend 】.
-分手后就不应该和前女友保持联系
--
-Her 【 stepfather 】 is my 【 father-in-law 】.
-她的继父是我的岳父
--
-They 【 keep in touch with 】 【 each other 】 【 via 】 internet.
-他们通过互联网来相互保持联系
--
-// -
-// 【 groom 新郎 】
-// 【 bride 新娘 】
-// -
-// 【 bride 新娘 】
-// 【 widow 寡妇 】
-// 【 pregnant woman. 孕妇 】
-// -
-// 【 wedding dress. 婚纱 】
-// 【 wedding ring. 婚戒 】
-// 【 wedding photo. 结婚照 】
-// 【 wedding anniversary. 结婚纪念日 】
-// -
-// 【 hold a wedding. 举报婚礼 】
-// -
-// 【 break up. 分手 打碎 解散 v 】
-// 【 keep in touch with. 和...保持联系 】
-// -
-// 【 former girlfriend. = ex-girlfriend. 前女友 】
-// -
-// 【 each other. 相互 】
-// TIPS: 注意 each others 是错误的表达，只有 each other.
-// -
-// 【 stepfather. 继父 】
-// 【 father-in-law. 岳父 】
-// 【 mother-in-law. 岳母 】
-
-
-4
 【 I got to go 】, 【 until next time 】.
 我得走了，下次见
 // -
@@ -2038,7 +2026,7 @@ They 【 keep in touch with 】 【 each other 】 【 via 】 internet.
 // 【 until next time. 下次见 】
 
 
-5
+4
 My 【 landlord 】 is a 【 freelancer 】.
 我的房东是一名自由职业者
 // -
@@ -2046,12 +2034,12 @@ My 【 landlord 】 is a 【 freelancer 】.
 // 【 freelancer 自由职业者 】
 
 
-6
+5
 【 In addition to 】 my weekly wage, I got a lot of 【 tips 】.
 除了每周的薪水外，我还能得到不少小费
 
 
-7
+6
 我期待和你的下一次交流
 I 【 look forward to 】 the 【 next communication 】 【 with 】 you.
 -
@@ -2065,7 +2053,7 @@ We 【 look forward to 】 your 【 response 】.
 // 【 look forward to + 代词/名词/动名词. 期待... 】
 
 
-8
+7
 I finally 【 succeed in passing 】 the 【 examination 】.
 我终于成功通过了考试
 // -
@@ -2073,4 +2061,22 @@ I finally 【 succeed in passing 】 the 【 examination 】.
 // -
 // 【 exam 考试 】
 // 【 examination 考试 】
+
+
+8
+In this 【 fairy tale 】, the 【 fairy 】 is a 【 fair 】 person.
+在这个童话故事中，仙女是一个公平的人
+// -
+// 【 fair 公平的 adj 】
+// 【 fairy 仙女 小精灵 】
+// 【 fairy tale. 童话故事 】
+
+
+9
+His 【 pressure 】 comes from long-term 【 oppression 】.
+他的压力来自长期的压迫
+// -
+// 【 oppress 压迫 欺压 v 】
+// 【 oppression 压迫 n 】
+// 【 pressure 压力 = stress. 】
 ```

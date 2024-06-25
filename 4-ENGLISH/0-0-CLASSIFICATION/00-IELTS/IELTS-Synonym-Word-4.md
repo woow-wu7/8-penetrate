@@ -4,8 +4,8 @@
 - `【 what's going on. 怎么了  】`
 - `【 what's up. 怎么了  】`
 - `【 what's wrong. 怎么了  】`
-- `【 what's happen. 怎么了  】`
-- > 【 What's going on. = What's up. = What's wrong. = What's happen. 】
+- `【 what happen. 怎么了  】`
+- > 【 What's going on. = What's up. = What's wrong. = What happen. 】
 -
 -
 - 2

@@ -11,7 +11,7 @@
 - // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
 -
 - `【 episode 集 一集 】`
-- `【 series 连续 系列 串联 】` // 【 series 】 【 parallel 】 // 【 a series of (test). 一些列(测试) 】
+- `【 series 连续 系列 串联 】` // 【 series serious 】 【 parallel 】// 【 a series of (test). 一些列(测试) 】
 - `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
 - `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
 - > 【 series 连续 系列 串联 】
@@ -27,6 +27,7 @@
 -
 - `【 animation 动画 动画片 】`
 - `【 cartoon 卡通片 】`
+- // TIPS: Pay attention to the pronunciation of the word 'animation'.
 -
 - `【 cinema 电影院 n 】`
 - `【 movie theater. 电影院 n 】`
@@ -40,13 +41,15 @@
 - `【 story 故事 情节 】`
 - `【 novel 小说 】`
 -
-- `【 tale 故事 】`
+- `【 tale 故事 】` // 【 fairy tale. 童话故事 】
 - `【 tail 尾巴 】`
 - `【 fail 失败v 】` // fail failed failure // succeed successful success
 -
+- `【 fair 公平的 公正的 adj 】`
 - `【 fairy 仙女 精灵 】`
 - `【 fairy tale. 童话故事 】`
 - `【 fairyland 仙境 】`
+- > 【 fair competition. 公平的竞争 】
 -
 -
 - [AA.]
@@ -62,7 +65,7 @@
 -
 -
 - [BB.]
-- `【 series 串联 系列 连续 】`
+- `【 series 串联 系列 连续 】` // series serious
 - `【 parallel 平行的adj 并行的adj 纬线n 】`
 - `【 parallelogram 平行四边形 】`
 - _【 TV series. = TV drama. 电视剧 】_ // --- series 连续
@@ -74,6 +77,7 @@
 - 2. **【 【 electric circuits 】 【 are divided into 】 【 series circuits 】 and 【 parallel circuits 】. 电路分为串联电路和并联电路 】**
 - // -- 【 each other. 相互 】
 - // -- 【 be divided into. 被分为... 被分成... 】
+- // -- 【 a series of test. 一系列测试 】
 -
 -
 - [CC.]
@@ -141,22 +145,37 @@
 - `【 series 连续 系列 串联 】` // TV series. = TV drama. 连续剧
 - **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个很严肃的人，对学生要求很严格 】**
 - **【 He 【 suffered from 】 a 【 serious 】 【 illness 】. 他患上了严重的疾病 】**
+-
+-
+- [HH.]
+- `【 fair 公平的 adj 】`
+- `【 fairy 仙女 小精灵 】`
+- `【 fairy tale. 故事 】`
+- **【 In this 【 fairy tale 】, the 【 fairy 】 is a 【 fair 】 person. 在这个童话故事中，仙女是一个公平的人 】**
 
 ###### 2024-06-02
 
 - 1
 - `【 relieve 减轻 缓解 v 】`
+- `【 relive pain. 减轻疼痛 】`
 -
 - `【 pressure 压力 】` -------- 物理压力
 - `【 stress 压力 】` ---------- 心理压力
 - `【 street 街道 】`
+- > press 压 按
+- > oppress 压迫 欺压
+- > pressure 压力
+-
+- `【 oppress 压迫 欺压 v 】` // oppression 压迫 n
+- `【 press 压 按 v 】`
+- `【 pressure 压力 】`
 -
 - `【 anxiety 焦虑 n 】`
 - `【 anxious 焦虑的 adj 】`
 -
+- `【 nervous 紧张的 adj 】`
 - `【 tension 紧张 n 】`
 - `【 tense 紧张的 adj 】`
-- `【 nervous 紧张的 adj】`
 -
 - `【 exam 考试 】`
 - `【 examination 考试 】`
@@ -169,7 +188,16 @@
 -
 - _【 be anxious about sth. 对...感到焦虑 】_
 -
+-
 - [AA.]
+- `【 relieve 减轻 v 】`
+- `【 relieve pain. 缓解疼痛 】`
+- `【 prescribe 开处方 v 】`
+- `【 antibiotic 抗生素 】`
+- **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
+-
+-
+- [BB.]
 - `【 relieve 减轻 缓解 】`
 - `【 relieve stress. 减轻压力 】`
 - `【 relieve tension. 缓解紧张 】`
@@ -178,10 +206,12 @@
 - **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
 -
 -
-- [BB.]
-- `【 relieve pain. 缓解疼痛 】`
-- `【 antibiotic 抗生素 】`
-- **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
+- [CC.]
+- `【 press 压 按 v 】`
+- `【 oppress 压迫 欺压 v 】`
+- `【 oppression 压迫 n 】`
+- `【 pressure 压力 】`
+- **【 His 【 pressure 】 comes from the long-term 【 oppression 】. 他的压力来自于长期的压迫 】**
 
 ###### 2024-06-05
 
@@ -450,6 +480,7 @@
 - 1
 - `【 marry 结婚 v 】`
 - `【 marriage 婚姻 结婚 n 】` // ----【 marriage certificate. 结婚证 】
+- // TIPS: Pay attention to the pronunciation of the word 'marry'.
 -
 - `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】
 - `【 divorced 离婚的 adj 】`
@@ -464,14 +495,18 @@
 - > 【 take a wedding photo. 拍婚纱照 】
 - > 【 take a selfie. 拍自拍照 】
 -
-- `【 groom 新郎 】` // -------------- mushroom 蘑菇
-- `【 bride 新娘 】` // -------------- bridge 桥
+- `【 groom 新郎 】` // -------------- mushroom 蘑菇 // ---- groom groomsman
+- `【 bride 新娘 】` // -------------- bridge 桥 // -------- bride bridesmaid
 - `【 widow 寡妇 】` //--------------- window 窗户
-- `【 pregnant woman. 孕妇 】` // ---- pregnant 怀孕的
+- `【 pregnant woman. 孕妇 】` // ---- pregnant 怀孕的 // fragment 片段
+- -
+- `【 groomsman 伴郎 】` // groom
+- `【 bridesmaid 伴娘 】` // bride
 - `【 fairy 仙女 小精灵 】`
 - > 【 soulmate 灵魂伴侣 】
 - > 【 teammate 队友 】
 - > 【 classmate 同学 】
+- // TIPS: pay attention to the pronunciation of the word 'bridesmaid'.
 -
 - `【 first love. = puppy love. 初恋 】` // puppy 小狗
 - `【 former girlfriend. 前女友 = ex-girlfriend 】` // former 前者 以前的 adj
@@ -489,18 +524,22 @@
 -
 - `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
 - `【 abort 流产 v 】` ----------- 主动流产 【 abort ----> abortion 】
+- // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
+- // TIPS: Pay attention to the pronunciation of the word 'abort'.
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
 -
 - `【 wedding photo. 结婚照 】`
+- `【 wedding anniversary. 结婚纪念日 】`
 - `【 marriage certificate. 结婚证 】`
 -
 - `【 stepfather 继父 】`
 - `【 father-in-law. 岳父 】`
 - `【 mother-in-law. 岳母 丈母娘 】`
+- // TIPS: Pay attention to the pronunciation of the word 'stepfather'.
 -
-- `【 matchmakers 红娘 媒人 n 】`
+- `【 matchmaker 红娘 媒人 n 】`
 - `【 fall in love at first sight. 一见钟情 】`
 -
 - `【 selfie 自拍 】`
@@ -556,7 +595,8 @@
 -
 - [DD.]
 - `【 pregnant 怀孕的 adj 】`
-- `【 miscarry 流产 v 】` // miscarriage 流产 n
+- `【 miscarry 流产 v 】`
+- `【 miscarriage 流产 n 】`
 - `【 abort 中止 流产 v 】` // abortion 流产 n
 - **【 【 As long as 】 you are【 pregnant 】, There is 【 a risk of 】 【 miscarriage 】. 只要怀孕就有流产的风险 】**
 - // -- 【 as long as. 只要 】
@@ -589,6 +629,15 @@
 -
 -
 - [HH.]
+- `【 groomsman 伴郎 】` // groom
+- `【 bridesmaid 伴娘 】` // bride
+- `【 groom 新郎 】`
+- `【 bride 新娘 】`
+- **【 The 【 groom 】, 【 bride 】, 【 groomsman 】, 【 bridesmaid 】 and others 【 attended 】 the 【 wedding 】. 新郎，新娘，伴郎，伴娘等参加了婚礼 】**
+-
+-
+-
+- [II.]
 - `【 bride 新娘 】`
 - `【 pregnant woman. 孕妇 】`
 - `【 widow 寡妇 】`
@@ -601,19 +650,24 @@
 - // -- widow 孕妇
 - // -- window 窗户
 - // -- pregnant woman. 孕妇
+- // -- miscarry(V) -> miscarriage(N). 流产
+- // -- abort(V) -> 
 -
 -
-- [II.]
+- [JJ.]
 - `【 stepfather. 继父 】`
 - `【 father-in-law. 岳父 】`
 - **【 Her 【 stepfather 】 is my 【 father-in-law 】. 她的继父是我的岳父 】**
 -
 -
-- [JJ.]
+- [KK.]
 - `【 selfie 自拍 】`
 - `【 selfie stick. 自拍杆 】`
 - **【 She 【 takes a selfie 】 with 【 selfie stick 】, and then upload the 【 selfie 】 to 【 social platform 】.她用自拍杆进行自拍，然后把自拍照上传到了社交平台 】**
-- // He uses a selfie stick to take a selfie, and then uploads the selfie to the social platform.
+- // -- He uses a selfie stick to take a selfie, and then uploads the selfie to the social platform.
+- // -- `【 social 社会的 社交的 】`
+- // -- `【 social media. 社交媒体 】`
+- // -- `【 social status. 社会地位 】`
 
 ###### 2024-06-17
 
