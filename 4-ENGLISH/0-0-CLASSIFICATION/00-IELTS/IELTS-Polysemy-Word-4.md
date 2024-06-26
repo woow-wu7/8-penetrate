@@ -120,3 +120,20 @@
 - // -- 【 be late for. 迟到 】
 - // -- 【 He 【 was late for 】 work. 他上班迟到了 】
 - // -- 【 Please attend the meeting on time, don't 【 be late 】. 请按时参加会议，别迟到了 】
+
+###### Polysemy Word 2024-06-26
+
+- 1
+- `【 realize 实现 意识到 v 】`
+- **【 He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了 】**
+- // -- `【 It's time to do sth. 是做...的时候了 】`
+- // -- `【 make an effort to do sth. 努力做某事 】`
+- // ---- idea 想法 n
+- // ---- ideal 理想 n 理想的 adj
+- // ---- dream 梦想 梦
+- // ---- **【 My 【 ideal 】 is to 【 realize / achieve 】 my 【 dream 】. 我的理想是实现梦想 】**
+-
+-
+- 2
+- `【 component 组成部分 成分 】`
+- **【 The 【 antibiotic 】 【 component 】 is the important 【 component 】 of this 【 medication 】. 抗生素这种成分是该药物的重要组成部分 】**

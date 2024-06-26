@@ -16,3 +16,32 @@
 - _【 physical exercise. 体育锻炼 】_ = physical work out.
 - **【 【 physical work out 】 is 【 helpful 】 for our both 【 mental health 】 and 【 physical health 】. 体育锻炼有助于心理健康和生理健康 】**
 - // --【 be helpful for. 对...有帮助 】
+-
+-
+- 3
+- `【 effort 努力 n 】`
+- `【 make effort 努力 v 】`
+- > 【 make an effort to do sth. 努力做某事 】
+- Work hard. 努力工作
+- study hard. 努力学习
+- **【 He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了 】**
+- // -- `【 realize 实现 意识到 v 】`
+- // -- `【 achieve 实现 v 】`
+- // -- 【 achieve a goal. 实现目标 】
+- // ---- 【 Sense of achievement 成就感 】
+- // ---- 【 achievement = accomplishment. 成就 】
+- // -- ideal 理想 n 理想的 adj
+- // -- dream 梦想 n
+- // -- idea 想法
+-
+-
+- 4
+- `【 be crucial for. 对...至关重要的 】`
+- `【 be essential for. 对...必不可少的 】`
+- `【 be necessary for. 对...必要 】`
+- 【 crucial 至关重要的 关键的 adj 】
+- 【 essential 必不可少的 adj 】
+- **【 batteries 【 are crucial for 】 mobile phones. 电池对手机来收至关重要 】** // crucial 至关重要的
+- **【 Water is an 【 essential 】 【 component 】 for living things. 水是构成生物必不可少的成分 】** // essential
+- **【 火是人类文明的重要组成部分 】**
+- // -- 【 component 成分 组件 部分 】

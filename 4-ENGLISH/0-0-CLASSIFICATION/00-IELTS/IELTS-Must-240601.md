@@ -486,6 +486,9 @@
 - `【 divorced 离婚的 adj 】`
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
+- `【 propose 求婚 】`
+- `【 elope 私奔 v 】` // 【 elopement 私奔 n 】 //【 eloquent 口才的 雄辩的 】
+-
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
 - `【 wedding dress. 婚纱 n 】`
 - `【 wedding ring. 婚戒 n 】`
@@ -509,7 +512,7 @@
 - // TIPS: pay attention to the pronunciation of the word 'bridesmaid'.
 -
 - `【 first love. = puppy love. 初恋 】` // puppy 小狗
-- `【 former girlfriend. 前女友 = ex-girlfriend 】` // former 前者 以前的 adj
+- `【 ex-girlfriend = former girlfriend. 前女友 】` // former 前者 以前的 adj
 - // former 前者 以前的 adj
 - // ex 前任
 - // exes. 前任(复数)
@@ -526,6 +529,10 @@
 - `【 abort 流产 v 】` ----------- 主动流产 【 abort ----> abortion 】
 - // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
 - // TIPS: Pay attention to the pronunciation of the word 'abort'.
+-
+- `【 womb 子宫 】` // 生
+- `【 tomb 坟墓 】` // 死 // grave
+- `【 fetus 胎儿 】`
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
@@ -651,7 +658,7 @@
 - // -- window 窗户
 - // -- pregnant woman. 孕妇
 - // -- miscarry(V) -> miscarriage(N). 流产
-- // -- abort(V) -> 
+- // -- abort(V) ->
 -
 -
 - [JJ.]
@@ -951,3 +958,46 @@
 - **【 We should 【 measure 】 the 【 pressure 】 of the 【 equipment 】 【 in time 】 to 【 ensure 】 the 【 safety 】 of the 【 treasure 】. 我们需要及时测量设备的压力，来确保宝藏的安全 】**
 - // -- safety 安全 n
 - // -- safe 安全的 adj
+
+###### 2024-06-26
+
+- 1
+- `【 opinion 意见 n 】`
+- `【 suggestion 建议 n 】`
+-
+- `【 opinion 意见 n 】`
+- `【 option 选项 n 】`
+- `【 optional 可选的 】`
+-
+- `【 adopt 采用 】` // 【 adopt an suggestion. 采纳建议 】
+- `【 adapt 适应 】`
+-
+- `【 realize 实现v 意识到 n 】`
+- `【 achieve 实现 v 】`
+-
+- `【 ideal 理想 n 】`
+- `【 dream 梦想 n 】`
+- `【 idea 想法 n 】`
+-
+- `【 unify 统一 v 】`
+- `【 unified 统一的 adj 】`
+-
+- `【 make an effort to do sth. 努力做某事 】`
+- `【 It's time to do sth. 是做...的时时候了 】`
+-
+-
+- [AA.]
+- `【 opinion 意见 n 】`
+- `【 suggestion 建议 n 】`
+- `【 adopt 采用 v 】`
+- `【 unify 统一 v 】`
+- **【 The leader 【 adopted 】 my 【 suggestion 】 about 【 unifying 】 the 【 opinions 】 of everyone in the company. 领导采纳了我的关于统一全公司所有人意见的建议 】**
+-
+-
+- [BB.]
+- `【 realize 实现v 意识到n 】`
+- `【 ideal 理想 n 】`
+- `【 dream 梦想 n 】`
+- `【 make an effort to do sth. 努力做某事 】`
+- `【 It's time to do sth. 是做...的时时候了 】`
+- **【 He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了 】**

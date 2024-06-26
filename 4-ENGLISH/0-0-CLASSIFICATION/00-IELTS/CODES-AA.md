@@ -1,4 +1,4 @@
-##### Code Work
+##### Codes 2024-06-26
 
 - 1
 - `【 experience 经验 体验 】`
@@ -82,8 +82,10 @@
 - // -- drive / dive
 -
 - 9
-- `【 outcome 结果 效果 】`
+- `【 outcome 结果 效果 后果 】` = consequence = result
 - `【 income 收入 = revenue 】`
+- 【 consequence 结果 后果 】
+- 【 consequence = result = outcome 】
 - **【 It's impossible to 【 predict 】 what the 【 eventual 】 【 outcome 】 will be. 无法预测最终结 】**
 - **【 As an 【 outcome 】, the 【 boxing game 】 ended in a 【 draw 】. 拳击比赛的结果是个平局 】**
 - // -- 【 boxing game. 拳击比赛 】
@@ -110,5 +112,42 @@
 - `【 personal 个人的 私人的 adj 】`
 - 【 solution 解决方案 】
 - > 【 personalized experience. 个性化体验 】
-- > 【 personalized solution. 个性化方案 】
+- > 【 personalized solution. 个性化解决方案 】
 - **【 我们会对不同客户提供不同的个性化解决方案 】**
+-
+-
+- 12
+- `【 comprehensive 综合的 adj 】`
+- `【 comprehensive solution. 综合解决方案 】`
+- 【 solution 解决方案 n 】
+- **【 He will 【 provide 】 different 【 comprehensive solutions 】 【 for 】 different customers. 我们会对不同客户提供不同的综合解决方案 】**
+-
+-
+- 13
+- `【 simplify 简化 v 】`
+- `【 simplify the process. 简化流程 】`
+- `【 simplify the development process. 简化开发流程 】`
+- **【 Our goal is 【 to 】 【 simplify the development process 】 and improve the development efficiency. 我门的目标是简化开发流程，提升开发效率 】**
+-
+-
+- 14
+- `【 unify 统一 联合 v 】`
+- `【 unified 统一的 联合的 adj 】`
+- > 【 unified standard. 统一的标准 】
+- **【 The company has 【 unified standard 】 for 【 rewards 】 and 【 punishments 】. 公司对奖励和惩罚都有统一的标准 】**
+- **【 The company needs to 【 unify 】 the 【 opinions 】 of all employees. 公司需要统一所有员工的意见 】**
+- 【 The new leader hopes to 【 unify 】 the country. 新领袖希望把国家统一起来 】
+- 【 The first emperor of Qin unified currency as part of his reforms. 秦始皇在其改革中统一了货币 】
+- // -- punish 惩罚 处罚 v
+- // -- punishment 惩罚 处罚 n
+- // -- reward 奖励 v/n 报酬 n
+- // ---- `【 opinion 意见 观点 看法 n 】`
+- // ---- `【 suggestion 建议 n 】`
+-
+-
+- 15
+- `【 ecosystem 生态系统 】`
+- `【 marine ecosystem. 海洋生态系统 】`
+- `【 natural ecosystem. 自然生态系统 】`
+- **【 We should not 【 destroy 】 the 【 ecosystem 】. 我们不应该去破坏生态系统 】**
+- This unique ecosystem may soon be under pressure. 这个独特的生态系统可能很快就会面临压力
