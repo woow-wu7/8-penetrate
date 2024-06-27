@@ -1,4 +1,4 @@
-# People
+##### People
 
 ##### (1) Education background 教育背景 / 学历
 
@@ -270,4 +270,74 @@ box lunch. 盒饭
 meal 一餐 进餐
 // How many 【 meals 】 do you 【 cook 】 every day? 你每天做几顿饭
 // The meal was amazingly cheap. 这餐饭便宜得出奇
+```
+
+##### (4) Family relationships
+
+```
+ancestor 祖先
+descendant 后代
+- // My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】.
+-
+grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
+grandmother 祖母 奶奶 外婆
+grandson 孙子
+-
+parent 父母
+father
+mother
+husband
+wife
+son
+daughter 女儿
+// doctor 医生
+-
+stepfather 继父
+stepmother 继母
+-
+uncle 叔叔
+aunt 阿姨
+cousin 表兄 表妹 堂兄 堂妹
+-
+nephew 侄子 外甥
+niece 侄女 外甥女
+// I'll go and see my 【 nephew 】 and 【 niece 】 next saturday.
+-
+sibling 兄弟姐妹
+-
+brother 兄弟
+elder brother. 哥哥 // elder 长者 长辈 年长的
+younger brother. 弟弟
+-
+sister 姐妹
+elder sister. 姐姐
+younger sister. 妹妹
+-
+twins 双胞胎
+triplets 三胞胎
+// trip 旅游
+-
+adopt 领养 收养 采用
+-
+divorce 离婚 分离 n
+marry 结婚 v // TIPS: Pay attention to Pronunciation.
+marriage 婚姻 结婚 n
+-
+widow 寡妇
+// window 窗子
+-
+relative 相对的 亲戚
+-
+neighbor 邻居
+
+
+------- ------- ------- ------- ------- ------- -------
+
+
+// grand 宏伟的 豪华的
+// elder 年长的 长者 长辈
+
+// -- blood relation. 血亲
+// -- blood 血液
+// -- flood 洪水
 ```

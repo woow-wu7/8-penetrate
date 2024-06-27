@@ -2080,3 +2080,135 @@ His 【 pressure 】 comes from long-term 【 oppression 】.
 // 【 oppression 压迫 n 】
 // 【 pressure 压力 = stress. 】
 ```
+
+##### 14 Make sentences 2024-06-27
+
+```
+1
+【 Antibiotic 】 【 component 】 is the important 【 component 】 of the 【 medication 】.
+抗生素成分是这种药物的重要组成部分
+-
+【 Sugar 】 is a common 【 component 】 of many desserts.
+糖是很多甜点最基本的成分
+-
+// -
+// 【 component 组成部分 成分 】
+// -
+// antibiotic 抗生素
+// -
+// 【 sugar 糖 】
+// 【 candy 糖果 】
+
+
+2
+The 【 purpose 】 of the 【 groom 】 is to 【 propose 】 【 to 】 the 【 bride 】.
+新郎的目的是向新娘求婚
+-
+After the 【 groom 】 【 successfully 】 【 propose 】 【 to 】 the 【 bride 】, they 【 eloped 】 together.
+新郎向新娘求婚成功后，一起私奔了
+-
+// -
+// 【 purpose 目的 意图 n 】
+// 【 propose 求婚 v 】
+// 【 propose to sb. 向某人求婚 】
+// -
+// 【 elope 私奔 】
+
+
+3
+People are 【 born 】 in the 【 womb 】 and 【 die 】 in the 【 tomb 】.
+人在子宫出生，在坟墓死去
+// -
+// 【 womb 子宫 】
+// 【 tomb 坟墓 】
+// -
+// 【 born 出生 v 】-> birth 出生 n
+// 【 die 死去 v 】-> death 死去 n
+
+
+4
+His 【 opinion 】 is to select the 【 optional 】 【 options 】.
+他的意见是选择可选的选项
+// -
+// 【 option 选项 】
+// 【 optional 可选的 】
+// -
+// 【 opinion 意见 n 】
+// suggestion 建议 n
+
+
+5
+An 【 assistant 】 is person who 【 assists 】 others 【 in 】 【 completing 】 tasks.
+助理是协助他人完成任务的人
+-
+He is a very 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】.
+他是一个非常谦虚的人，从来不炫耀自己的成就 】
+-
+He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】.
+他是一个低调的人，从来不炫富
+-
+He is a very 【 generous 】 person who often 【 donates 】 money to the poor.
+他是一个非常慷慨的人，经常给穷人捐款
+-
+He is a very 【 serious 】 person who 【 is strict with 】 his students.
+他是一个严格的人，对自己的学生要求很严格
+-
+// -
+// 【 assist 协助 辅助 v 】
+// 【 assistant 助理 n 】
+// 【 assist sb in doing sth. 协助某人做某事 】
+// -
+// modest 谦虚的
+// low-key 低调的
+// generous 慷慨的
+// 【 serious 严肃的 认真的 严重的 】
+// -
+// show off. 炫耀
+// flaunt 炫耀
+// -
+// donate 捐赠
+// donate money. 捐款
+// -
+// 【 be strict with sb. 对...很严格 】
+
+
+6
+【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】.
+先进的技术推动了先进工艺的发展
+-
+// -
+// 【 advanced technology. 先进的技术 】
+// 【 advanced craft. 先进工艺 】
+// -
+// promote 促进 提升
+
+
+7
+His 【 bravery 】 【 lies in 】 that he has the 【 courage 】 to walk through the 【 grave 】.
+他的勇敢在于他有勇气走过坟墓
+-
+The 【 fetus 】 【 is born in 】 【 womb 】, and 【 dies 】 in 【 tomb 】.
+胎儿出生在子宫，死在坟墓
+-
+【 The key to 】 success 【 lies in 】 hard work and 【 persistence 】.
+成功的关键在于努力和坚持
+-
+// -
+// 【 grave 坟墓 】= tomb
+// 【 brave 勇敢的 adj 】
+// 【 bravery 勇敢 n 】
+// -
+// 【 grave 坟墓 】
+// 【 tomb 坟墓 】
+// 【 womb 子宫 】
+// -
+// 【 courage 勇气 】
+// -
+// 【 lie in. 在于 】
+// 【 the key to. ...的关键 】
+// -
+// 【 fetus 胎儿 】
+// 【 baby 婴儿 】
+// 【 be born in. 出生在 】
+// 【 die in. 死在 】
+```

@@ -101,7 +101,11 @@
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 -
 - 2. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
-- // 【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
+- // --【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
+- // -- persist in doing sth. = insist on doing sth. 坚持做某事
+- // -- mandatory overtime. 强制加班
+- // -- overtime pay. 加班费
+- // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
 - 3. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
 -

@@ -486,8 +486,14 @@
 - `【 divorced 离婚的 adj 】`
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
-- `【 propose 求婚 】`
-- `【 elope 私奔 v 】` // 【 elopement 私奔 n 】 //【 eloquent 口才的 雄辩的 】
+- `【 propose 求婚 建议 v 】` // 【 propose 求婚 / purpose 目的 意图 】
+- `【 elope 私奔 v 】`
+- `【 purpose 目的 意图 n 】`
+- _【 propose to sb. 向某人求婚 】_
+- > 【 propose to sb. 向某人求婚 】
+- // TIPS: Pay attention to the pronunciation of the word 'propose'.
+- // TIPS: Pay attention to the pronunciation of the word 'purpose'.
+- // TIPS: Pay attention to the different pronunciation between 'propose' and 'purpose'.
 -
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
 - `【 wedding dress. 婚纱 n 】`
@@ -505,7 +511,7 @@
 - -
 - `【 groomsman 伴郎 】` // groom
 - `【 bridesmaid 伴娘 】` // bride
-- `【 fairy 仙女 小精灵 】`
+- `【 fairy 仙女 小精灵 】` // fair fairy fail tail tale
 - > 【 soulmate 灵魂伴侣 】
 - > 【 teammate 队友 】
 - > 【 classmate 同学 】
@@ -526,13 +532,24 @@
 - `【 pregnant woman. 孕妇 】`
 -
 - `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
-- `【 abort 流产 v 】` ----------- 主动流产 【 abort ----> abortion 】
+- `【 abort 流产 中止 v 】` ----------- 主动流产 【 abort ----> abortion 】
 - // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
 - // TIPS: Pay attention to the pronunciation of the word 'abort'.
 -
 - `【 womb 子宫 】` // 生
-- `【 tomb 坟墓 】` // 死 // grave
+- `【 tomb 坟墓 = grave 】` // 死 // grave
 - `【 fetus 胎儿 】`
+- `【 baby 婴儿 宝贝 】`
+- _【 be born in. 出生于 】_
+- _【 die in. 死于 】_
+- > born (V) -> birth (N)
+- > die (V) -> death (N)
+- _【 brave vs grave 】_
+-
+- `【 grave 坟墓 】` = tomb
+- `【 brave 勇敢的 adj 】`
+- `【 bravery 勇敢 n 】`
+- > 【 lie in. 在于 】
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
@@ -611,15 +628,15 @@
 -
 -
 - [EE.]
-- `【 former girlfriend. = ex-girlfriend. 前女友 】`
+- `【 ex-girlfriend. = former girlfriend. 前女友 】`
 - `【 first love. = puppy love. 初恋 】`
 - **【 She is my 【 former girlfriend 】 and also my 【 first love 】. 她是我的前女友也是我的初恋 】**
 - **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
 -
 -
 - [FF.]
-- `【 former girlfriend. 前女友 = ex-girlfriend. 】`
-- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 former girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
+- `【 ex-girlfriend. = former girlfriend. 前女友 】`
+- **【 After 【 breaking up 】, we shouldn't 【 keep in touch with 】 【 ex-girlfriend 】. 分手后，我们就不应该和前女友保持联系 】**
 - **【 She is my 【 former girlfriend 】 and also my 【 first love 】. 她是我的前女友也是我的初恋 】**
 - // -- 【 keep in touch with. 和...保持联系 】
 - // -- 【 break up. 分手 打碎 解散 v 】
@@ -675,6 +692,56 @@
 - // -- `【 social 社会的 社交的 】`
 - // -- `【 social media. 社交媒体 】`
 - // -- `【 social status. 社会地位 】`
+-
+-
+- [LL.]
+- `【 propose 求婚 v 】`
+- `【 elope 私奔 】`
+- 【 propose vs purpose 】
+- **【 After the 【 groom 】 【 successfully 】 【 propose 】 to the 【 bride 】, they 【 eloped 】 together. 新郎向新娘求婚成功后，一起私奔了 】**
+- // groom 新郎 -> groomsman
+- // bride 新娘 -> bridesmaid
+-
+- [MM.]
+- `【 purpose 目的 意图 n 】`
+- `【 propose 求婚 n 】`
+- > 【 propose to sb. 向某人求婚 】
+- **【 The 【 purpose 】 of the 【 groom 】 is to 【 propose 】 to the 【 bride 】. 新郎的目的是向新娘求婚 】**
+- **【 Can I 【 propose 】 to you? 我能向你求婚吗 】**
+-
+- [NN.]
+- `【 womb 子宫 】`
+- `【 tomb 坟墓 】` = grave // grave 坟墓 // brave 勇敢的
+- `【 fetus 胎儿 】`
+- `【 baby 婴儿 宝贝 】`
+- > 【 be born in. 出生于 】
+- > 【 die in. 死于 】
+- _【 be born in. 出生于 】_
+- _【 die in. 死于 】_
+- > born (V) -> birth (N)
+- > die (V) -> death (N)
+- **【 The 【 fetus 】 【 is born in 】 【 womb 】, and 【 dies 】 in 【 tomb 】. 胎儿出生在子宫，死在坟墓 】**
+- **【 His 【 bravery 】 【 lies in 】 that he has 【 courage 】 to walk through the 【 grave 】. 他的勇敢在于他有勇气走过坟墓 】**
+-
+-
+- [OO.]
+- `【 grave 坟墓 = tomb 】`
+- `【 brave 勇敢的 adj 】`
+- `【 bravery 勇敢 n 】`
+- `【 courage 勇气 】`
+- brave -> bravery
+- > 【 lie in. 在于 】
+- **【 His 【 bravery 】 【 lies in 】 that he has 【 courage 】 to walk through the 【 grave 】. 他的勇敢在于他有勇气走过坟墓 】**
+- **【 The 【 fetus 】 【 is born in 】 【 womb 】, and 【 dies 】 in 【 tomb 】. 胎儿出生在子宫，死在坟墓 】**
+- // -- 【 lie in. 在于 】
+- // -- brave 勇敢的 adj
+- // -- bravery 勇敢 n
+-
+-
+- [PP.]
+- `【 lie in. 在于 】`
+- `【 the key to. ...的关键 】`
+- **【 【 The key to 】 success 【 lies in 】 hard work and 【 persistence 】. 成功的关键在于努力和坚持 】**
 
 ###### 2024-06-17
 
@@ -712,6 +779,7 @@
 - [BB.]
 - `【 ask for leave. 请假 】`
 - `【 go on vacation. 休假 】`
+- `【 leave 请假 离开 v 】`
 - **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 travel. 他计划请事假离开北京去旅游 】**
 - ask for leave. 请假
 - ask for sick leave. 请病假
@@ -746,8 +814,12 @@
 - `【 entire 整个的 】` // entire whole
 -
 - `【 tear 眼泪n 撕碎v 】`
-- `【 tier 层 阶层 n 】` // first-tier city. // developed city. // developing city.
-- `【 tire 疲劳v 轮胎 n】`
+- `【 tier 层 阶层 n 】` // first-tier city. // developed city. // developing city. // coastal city.
+- `【 tire 疲劳v 轮胎 n 】`
+-
+- `【 in tears. 流着泪 含着泪 】`
+- `【 tear up. 撕毁 撕碎 v 】`
+- `【 tore up.  撕毁 撕碎 v 】` // tear -> tore
 -
 - `【 retire 退休 v 】`
 - `【 retirement 退休 n 】`
@@ -755,11 +827,12 @@
 -
 - [AA.]
 - `【 tier 层 阶层 】`
-- `【 first tier city. 一线城市 】`
-- _【 coastal city. 沿海城市 】_
-- _【 developed city. 发达城市 】_
-- _【 developing city. 发展中城市 】_
-- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+- `【 first-tier city. 一线城市 】`
+- > 【 coastal city. 沿海城市 】
+- > 【 developed city. 发达城市 】
+- > 【 developing city. 发展中城市 】
+- > 【 first-tier city. 一线城市 】
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first-tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
 - // city -> cities
 -
 -
@@ -767,8 +840,10 @@
 - `【 tire 疲劳v 轮胎n 】`
 - `【 entire 真个的 adj 】`
 - `【 tear 撕碎v 眼泪n 】` // tear -> tore
+- > 【 tear up. 撕毁 撕碎 】
 - > 【 in tears. 含着泪 流着泪 】
-- **【 She 【 tore up 】 the 【 wedding photo 】 【 in 】 【 tears 】. 她流着眼泪撕碎了结婚照 】**
+- **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**
+- **【 She 【 tore up 】 the 【 wedding photo 】 【 in tears 】. 她流着眼泪撕碎了结婚照 】** // 【 in tears. 流着泪 含着泪 】
 - 1. **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
 - 2. **【 The 【 entire 】 【 tire 】 was 【 torn 】. 整个轮胎都撕裂了 】**
 - // -- tear -> torn
@@ -783,7 +858,14 @@
 - `【 retire 退休 v 】`
 - `【 retirement 退休 n 】`
 - **【 After 【 retirement 】, he plans to travel to 【 first-tier city 】. 退休之后，他准备去一线城市旅游 】**
-- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first-tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+-
+-
+- [DD.]
+- `【 tear up. 撕毁 撕碎 】`
+- `【 in tear. 含着泪 留着泪 】`
+- tear -> tore
+- **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**
 -
 -
 -
@@ -802,7 +884,7 @@
 - `【 senior high school. 高中 】`
 -
 - `【 university 大学 】`
-- `【 college 学院 大学 】`
+- `【 college 学院 大学 】` // college 学院 大学 // colleague 同事
 -
 - `【 middle school. 中学 】`
 - `【 high school. 高中 】`
@@ -827,7 +909,7 @@
 -
 - [大学]
 - `【 university 大学 】`
-- `【 college 大学 学院 】`
+- `【 college 大学 学院 】` // college // colleague
 - > 【 freshman 大一学生 】
 - > 【 sophomore 大二学生 】 // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
 - > 【 junior 大三学生 】 // ----- 年少的 下级的
@@ -850,6 +932,7 @@
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
 - `【 doctoral student. 博士生 】`
+- **【 are you 【 an 】 【 undergraduate 】 student? 你是本科生吗？ 】**
 -
 -
 -
@@ -860,6 +943,7 @@
 - [BB.]
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
+- `【 doctoral student. 博士生 】`
 - // post 发布 邮寄 帖子
 - // graduate 毕业
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
@@ -869,12 +953,14 @@
 - [CC.]
 - `【 Grade One student in junior high school. 初中一年级学生 】`
 - `【 Grade One student in senior high school. 高中一年级学生 】`
-- **【 He is a Grade One student in 【 senior high school 】, his younger brother is a Grade one student in 【 junior high school 】, and his elder brother is a 【 sophomore 】. 他是高中一年级学生，他的弟弟是初中一年级学生，他的哥哥是大二学生 】**
+- **【 He is a Grade One student in 【 senior high school 】, his 【 younger brother 】 is a Grade one student in 【 junior high school 】, and his 【 elder brother 】 is a 【 sophomore 】. 他是高中一年级学生，他的弟弟是初中一年级学生，他的哥哥是大二学生 】**
+- // -- 【 younger brother. 弟弟 】
+- // -- 【 elder brother. 哥哥 】
 
 ###### 2024-06-21
 
 - 1
-- `【 assistant 助手 助理 】`
+- `【 assistant 助手 助理 】` // 【 assist 协助 辅助 】 // assistant 助理
 - `【 attendant 服务员 】`
 - `【 secretary 秘书 】`
 -
@@ -882,14 +968,16 @@
 - `【 assistant 助手 助理 n 】`
 - `【 assistance 协助 辅助 n  】`
 -
-- `【 assist 协助 辅助 v 】`
-- `【 insist = persist. 坚持 v 】` // persist in doing sth.
+- `【 assist 协助 辅助 v 】` // 【 assist sb in doing sth. 协助某事做某事 】
+- `【 insist = persist. 坚持 v 】` // 【 persist in doing sth. = insist on doing sth. 坚持做某事 】
 - `【 resist 抵抗 抵制 v 】`
 - // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
-- > 【 flight attendant. 空中乘务员 】
+- `【 assist sb in doing sth. 协助某事做某事 】`
 - > 【 assist sb in doing sth. 协助某人做某事 】
 - > 【 persist in doing sth. 坚持做某事 】
+- > 【 insist on doing sth. 坚持做某事 】
+- > 【 flight attendant. 空中乘务员 】
 -
 -
 - [AA.]
@@ -913,6 +1001,7 @@
 - > overtime pay. 加班费
 - _【 persist in doing sth. 坚持做某事 】_
 - _【 assist sb in doing sth. 协助某人做某事 】_
+- // TIPS: Pay attention to the pronunciation of the word 'resist'.
 - 1. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - 2. **【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】**
 -
@@ -921,7 +1010,7 @@
 - `【 secretary 秘书 】`
 - `【 assistant 助理 】`
 - `【 attendant 服务员 】`
-- **【 My 【 secretary 】 is his 【 assistant 】, but 【 used to be 】 【 an 】 【 attendant 】. 我的秘书是他的助手，但曾经是一个服务员 】**
+- **【 My 【 secretary 】 is his 【 assistant 】, but she 【 used to be 】 【 an 】 【 attendant 】. 我的秘书是他的助手，但曾经是一个服务员 】**
 
 ###### 2024-06-23
 
@@ -964,6 +1053,7 @@
 - 1
 - `【 opinion 意见 n 】`
 - `【 suggestion 建议 n 】`
+- // TIPS： Pay attention to the pronunciation of the word 'opinion'.
 -
 - `【 opinion 意见 n 】`
 - `【 option 选项 n 】`
@@ -971,17 +1061,22 @@
 -
 - `【 adopt 采用 】` // 【 adopt an suggestion. 采纳建议 】
 - `【 adapt 适应 】`
+- // TIPS： Pay attention to the pronunciation of the word 'adapt'.
 -
 - `【 realize 实现v 意识到 n 】`
-- `【 achieve 实现 v 】`
+- `【 achieve 实现 v 】` // 【 achievement = accomplishment. 成就 】
+- > achievement 成就
+- > accomplishment 成就
 -
 - `【 ideal 理想 n 】`
 - `【 dream 梦想 n 】`
 - `【 idea 想法 n 】`
 -
 - `【 unify 统一 v 】`
-- `【 unified 统一的 adj 】`
+- `【 unified 统一的 adj 】` // unified standard.
+- > 【 unified standard. 统一标准 】
 -
+- `【 effort 努力 n 】`
 - `【 make an effort to do sth. 努力做某事 】`
 - `【 It's time to do sth. 是做...的时时候了 】`
 -
@@ -992,6 +1087,7 @@
 - `【 adopt 采用 v 】`
 - `【 unify 统一 v 】`
 - **【 The leader 【 adopted 】 my 【 suggestion 】 about 【 unifying 】 the 【 opinions 】 of everyone in the company. 领导采纳了我的关于统一全公司所有人意见的建议 】**
+- **【 his 【 opinion 】 is to select the 【 optional 】 【 options 】. 他的意见是选择可选的选项 】**
 -
 -
 - [BB.]
@@ -1001,3 +1097,10 @@
 - `【 make an effort to do sth. 努力做某事 】`
 - `【 It's time to do sth. 是做...的时时候了 】`
 - **【 He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了 】**
+-
+-
+- [CC.]
+- `【 option 选项 】`
+- `【 optional 可选的 】`
+- `【 opinion 意见 】`
+- **【 his 【 opinion 】 is to select the 【 optional 】 【 options 】. 他的意见是选择可选的选项 】**
