@@ -1070,6 +1070,7 @@
 -
 - `【 ideal 理想 n 】`
 - `【 dream 梦想 n 】`
+- `【 desire 愿望 n 】`
 - `【 idea 想法 n 】`
 -
 - `【 unify 统一 v 】`
@@ -1104,3 +1105,28 @@
 - `【 optional 可选的 】`
 - `【 opinion 意见 】`
 - **【 his 【 opinion 】 is to select the 【 optional 】 【 options 】. 他的意见是选择可选的选项 】**
+
+###### 2024-06-28
+
+- 1
+- `【 special 特别的 特殊的 adj 】`
+- `【 specialist 专家 专科医生 n 】`
+- `【 specialize 专门研究 专攻 v 】`
+-
+- `【 specific 具体的 特定的 adj 】`
+- `【 specificity 独特性 】`
+- _【 specific symptom. 具体症状 】_
+- _【 specific indicator. 具体指标 】_
+- _【 specific requirement. 具体要求 】_
+- _【 specific place. 具体地点 / 特定地点 】_
+-
+- `【 expert 专家 】`
+- `【 specialist 专家 专科医生 】`
+- `【 eye specialist. 眼科专家 】`
+-
+-
+- [AA.]
+- `【 specialize 专门研究 专攻 】`
+- `【 be proficient in. 精通于 】`
+- > 【 specialize in. 专攻 专门研究 】
+- **【 Because I 【 specialize 】 【 in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**

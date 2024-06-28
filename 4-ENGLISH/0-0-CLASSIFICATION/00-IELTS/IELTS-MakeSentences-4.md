@@ -2212,3 +2212,132 @@ The 【 fetus 】 【 is born in 】 【 womb 】, and 【 dies 】 in 【 tomb 
 // 【 be born in. 出生在 】
 // 【 die in. 死在 】
 ```
+
+##### 15 Make sentences 2024-06-28
+
+```
+1
+【 According to 】 【 international standards 】, your 【 pronunciation 】 is 【 not 【 standard 】 at all 】.
+根据国际标准，你的发音一点都不标准
+-
+He was 【 not happy at all 】 after 【 getting a promotion 】.
+升职后他一点也不开心
+-
+He 【 got 】 a 【 promotion 】.
+He was 【 promoted 】. // 被动语态
+他升职了
+-
+He was 【 promoted 】 from 【 associate professor 】 to professor.
+他从副教授晋升为了教授
+-
+【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】.
+先进的技术推动了先进工艺的发展
+-
+// -
+// 【 not at all. 一点也不 】
+// -
+// 【 standard 标准 规范 水平 n 】
+// 【 international standard. 国际标准 】
+// -
+// 【 according to. 根据... 】
+// -
+// 【 promote 促进 提升 升职 v 】
+// 【 promotion 促进 提升 升职 n  】
+// -
+// 【 get promotion. 升职 】
+// 【 variable promotion 变量提升 】
+// -
+// 【 advanced technology. 先进的技术 】
+// 【 advanced craft. 先进的工艺 】
+
+
+2
+I feel 【 proud 】 to receive your 【 praise 】.
+I'm 【 proud 】 to receive your 【 praise 】.
+能得到你的称赞，我感到很自豪
+// -
+// 【 praise 赞扬 赞美 v 】
+// -
+// 【 proud 自豪的 adj 】
+// 【 be proud of. 因...而自豪 】
+
+
+3
+I 【 am familiar with 】 this city because it 【 is similar to 】 my hometown.
+我很熟悉这座城市，因为它和我老家很相似
+-
+Her 【 personality 】 【 is similar to 】 【 mine 】.
+她的性格和我相似
+// -
+// 【 be familiar with. 熟悉... 】
+// 【 be similar to. 和...相似 】
+// -
+// familiar 熟悉的 adj
+// similar 相似的 adj
+
+
+4
+This war【 involves 】 【 multiple 】 countries.
+这场战争涉及到多个国家
+-
+// -
+// 【 involve 涉及 v 】
+// 【 multiple 多个的 多种的 众多 】
+// TIPS: Pay attention to the pronunciation of the word 'involve'.
+
+
+5
+【 In order to 】 make a 【 significant 】 【 breakthrough 】, I made a 【 significant 】 decision.
+为了取得重大突破，我做了一个重要的决定
+// -
+// 【 significant 重要的 重大的 adj 】
+// 【 important 重要的 】
+// -
+// 【 breakthrough 突破 】
+// 【 make a breakthrough. 取得突破 】
+// 【 make a decision. 做决定 】
+// -
+// 【 in order to. 为了 】
+// 【 make a breakthrough. 取得突破 】
+// 【 make a decision. 做决定 】
+
+
+6
+Do you learn English 【 on the way to 】 work?
+你在去上班的路上会学英语吗？
+-
+我正在回家的路上
+I am 【 on the way 】 home.
+-
+He 【 drank 】 a cup of coffee 【 on the way to 】 the airport.
+在去机场的路上，他喝了杯咖啡
+-
+// -
+// 【 on the way to. 在去...的路上 】
+// -
+// drink -> drank
+
+
+7
+What 【 reward 】 can I get?
+我能得到什么回报呢？
+-
+We need to consider the 【 return on investment 】 【 in 】 any 【 investment 】.
+我们的任何投资都需要考虑投资回报率
+-
+// -
+// 【 reward 奖励 回报 】
+// -
+// 【 return on investment. 投资回报率 】
+
+
+8
+What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】the company?
+公司招聘本地员工的比例是多少？
+-
+What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue?
+工资占总收入的比例是多少
+// -
+// 【 proportion 比例 】
+// 【 The proportion of A to B. A和B的比例 】
+```

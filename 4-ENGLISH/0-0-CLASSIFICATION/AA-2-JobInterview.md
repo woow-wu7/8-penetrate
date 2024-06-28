@@ -2,6 +2,25 @@
 
 ##### (1) **The words that you mast know.**
 
+- [-BB.]
+- `【 specialize 专门研究 专攻 v 】`
+- `【 specialize in. 专攻 专门研究 】`
+- 【 special 特别的 特殊的 】
+- 【 specialist 专家 专科医生 】
+- **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
+- // --【 specific 具体的 特殊的 adj 】
+- // --【 specific symptom. 具体的症状 】
+- // -- `【 tech stack. 技术栈 】`
+-
+-
+- [-AA.]
+- `【 proportion 比例 】`
+- `【 the proportion of A to B. A和B的比例  】`
+- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】the company? 公司招聘本地员工的比例是多少？ 】**
+- **【 What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue? 工资占总收入的比例是多少 】**
+-
+-
 - [AA.]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - `【 last for. 持续 】`
@@ -216,6 +235,7 @@
 - > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
 - 1. **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - 2. **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
+- 3. **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
 - // intern 实习生 n
 - // internship 实习 实习期 n
@@ -268,6 +288,7 @@
 - > 【 be promoted to. 晋升为... 】
 - > 【 get a promotion. 获得晋升 】
 - 【 promote vs prompt 】
+- 【 variable promotion 变量提升 】
 - **【 【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】. 先进的技术推动了先进工艺的发展 】**
 - 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
 - 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 leader. 】**
@@ -1411,6 +1432,7 @@ I want to be a 【 front-end software architect 】.
 1.
 The first question is 【 definitely 】 tell me a little bit about yourself.
 It's the most important step to 【 impress 】 the employer.
+I 【 appreciate 】 you very much for giving me the interview 【 opportunity 】.
 // -
 // impress 给...留下深刻印象v 印象n
 //【 It's the most important step to 【 impress 】 the employer. 】
@@ -1452,7 +1474,7 @@ What are your strengths and weaknesses?
 // -- weakness / weaknesses
 //
 // AA.
-// My【 biggest weakness 】 is that I have a hard time 【 balancing 】 my work and life. 我很难平衡工作和生活
+// My【 biggest weakness 】 is that I 【 have a hard time 】 【 balancing 】 my work and life. 我很难平衡工作和生活
 // --【 have a hard time doing sth. 做某事有困难 】
 //
 // BB.
@@ -1473,6 +1495,9 @@ What are your strengths and weaknesses?
 // --【 have a passion for. 对...有激情 】
 //
 // DD.
+// Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React【 tech stack 】.
+// 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈
+// -
 // I 【 am proficient in 】 several 【 programming languages 】, includes Java, Python, and Javascript.
 //【 I want to 【 be proficient in 】 English 【 so that 】 I can communicate with people from different countries. 】
 // -

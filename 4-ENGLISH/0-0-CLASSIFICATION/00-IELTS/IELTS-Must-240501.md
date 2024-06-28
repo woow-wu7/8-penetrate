@@ -137,9 +137,10 @@
 - [AA.]
 - `【 similar 相似的 adj 】`
 - `【 be similar to. 与...相似 】`
-- **【 These two roads are very 【 similar 】. 这两条路很相似 】**
-- **【 useState 【 is very similar to 】 useMemo. useState 和 useMemo 很相似 】**
-- **【 Her 【 personality 】 【 is similar to 】 【 mine 】. 她的性格和我相似 】**
+- **【 I 【 am familiar with 】 this city because it 【 is similar to 】 my hometown. 我很熟悉这座城市，因为它和我老家很相似 】**
+- 1. **【 These two roads are very 【 similar 】. 这两条路很相似 】**
+- 2. **【 useState 【 is very similar to 】 useMemo. useState 和 useMemo 很相似 】**
+- 3. **【 Her 【 personality 】 【 is similar to 】 【 mine 】. 她的性格和我相似 】**
 -
 - [BB.]
 - `【 familiar 熟悉的 adj 】`

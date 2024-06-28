@@ -4,6 +4,20 @@
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
+-
+- [-BB.]
+- `【 return on investment. 投资回报率 】`
+- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
+-
+-
+- [-AA.]
+- `【 proportion 比例 】`
+- `【 the proportion of A to B. A和B的比例  】`
+- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- **【 What's the 【 proportion 】 【 of 】 salary to 【 total 】 revenue? 工资占总收入的比例是多少 】**
+- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
+-
+-
 - [AA.]
 - `【 cost 成本 费用 】`
 - `【 profit 利润 盈利 】`
@@ -817,7 +831,10 @@
 - > avenue 大街
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
+-
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
+-
+- **【 What's the 【 proportion 】 of salary to total revenue? 工资占总收入的比例是多少 】**
 -
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
 - **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
@@ -936,6 +953,7 @@
 - _【 stock market. 股票市场 】_
 - **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
 - **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
+- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
 -
 -
 - 15
