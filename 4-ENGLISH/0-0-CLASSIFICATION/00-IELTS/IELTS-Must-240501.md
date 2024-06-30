@@ -1,10 +1,15 @@
 ###### 2024-05-01
 
 - 1
-- `personality 性格 n` // character 性格 n
+- `【 personality 性格 n 】` // character 性格 n
 - `habit 习惯` // develop a habit. 养成习惯
 - `hobby 爱好`
 - `destiny 命运` = fate
+- -
+- `【 character 性格 特征 特点 n 】`
+- `【 personality 性格 】`
+- // TIPS: Pay attention to the pronunciation of the wold 'character'.
+- -
 - _【 develop a habit. 养成习惯 】_
 - **【 People 【 with 】 different 【 personalities 】 have different 【 hobbies 】 and 【 habits 】. 不同性格的人有不同爱好和习惯 】**
 - **【 Could you describe the 【 relationship 】 between 【 habit 】, 【 personality 】, and 【 destiny 】? 】**
@@ -23,6 +28,13 @@
 - // -- 【 meat 肉 】
 -
 - [CC.]
+- `【 character 性格 特征 特点 】`
+- `【 personality 性格 】`
+- **【 Her 【 weakness 】 【 in 】 【 personality 】 is that she likes to 【 have a fit 】. 她性格上的缺点是喜欢发脾气 】**
+- // -- 【 have a fit. 发脾气 】
+-
+-
+- [DD.]
 - `【 meal 进餐v 一餐n 】` -------- 范围广，可以是任意一顿饭
 - `【 dinner 晚餐 正餐 n 】` ------ 侧重主餐，特别是晚上那顿主餐
 - **【 How many 【 meals 】 do you 【 cook 】 every day? 你每天做几顿饭？ 】**
@@ -30,7 +42,7 @@
 - // -- 【 have a meal. 吃一顿饭 】
 - // -- 【 three meals a day. 一日三餐 】
 -
-- [CC.]
+- [EE.]
 - `person 人`
 - `personal 个人的 adj`
 - `personally 亲自的 adv`
@@ -46,7 +58,7 @@
 - _【 private property. 私有财产 】_
 - _【 private conversation. 私人谈话 】_
 -
-- [DD.]
+- [FF.]
 - `interpersonal 人际关系的 adj` ---- inter + personal
 - `interchange 交换 v/n` ----------- inter + change
 - `interpreter 口译员` ------------- inter + preter

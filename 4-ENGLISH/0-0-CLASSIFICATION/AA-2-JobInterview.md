@@ -3,10 +3,11 @@
 ##### (1) **The words that you mast know.**
 
 - [-BB.]
-- `【 specialize 专门研究 专攻 v 】`
+- `【 specialize 专攻 专门研究 v 】`
 - `【 specialize in. 专攻 专门研究 】`
 - 【 special 特别的 特殊的 】
 - 【 specialist 专家 专科医生 】
+- **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
 - **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
 - // --【 specific 具体的 特殊的 adj 】
 - // --【 specific symptom. 具体的症状 】

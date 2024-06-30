@@ -16,3 +16,15 @@
 - 3
 - `【 not at all. 一点也不 】`
 - **【 He was 【 not happy at all 】 after 【 getting a promotion 】. 升职后他一点也不开心 】**
+- **【 He was 【 not happy at all 】 after 【 He was promoted 】. 升职后他一点也不开心 】**
+-
+-
+- 4
+- `【 have a fit. 发脾气 】`
+- **【 Her 【 weakness 】 in 【 personality 】 is that she likes to 【 have a fit 】. 她性格上的缺点是喜欢发脾气 】**
+-
+-
+- 5
+- `【 what's the rush. 急什么 】` --- 更自然
+- `【 what's the hurry. 急什么 】`
+- **【 What's the 【 rush 】? The library will not close for 【 another 】 two hours. 急什么？图书馆还有一个小时才关门 】**

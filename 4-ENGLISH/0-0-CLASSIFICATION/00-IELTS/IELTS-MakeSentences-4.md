@@ -2221,6 +2221,7 @@ The 【 fetus 】 【 is born in 】 【 womb 】, and 【 dies 】 in 【 tomb 
 根据国际标准，你的发音一点都不标准
 -
 He was 【 not happy at all 】 after 【 getting a promotion 】.
+He was 【 not happy at all 】 after 【 he was promoted 】.
 升职后他一点也不开心
 -
 He 【 got 】 a 【 promotion 】.
@@ -2340,4 +2341,86 @@ What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue?
 // -
 // 【 proportion 比例 】
 // 【 The proportion of A to B. A和B的比例 】
+```
+
+##### 16 Make sentences 2024-06-29
+
+```
+1
+The person who 【 specializes in 】 a 【 special 】 field is called a 【 specialist 】.
+专攻某个特殊领域的人称为专家
+// -
+// 【 special 特别的 特殊的 adj 】
+// 【 specialize 专攻 专门研究 v 】
+// 【 specialist = expert. 专家 】
+// -
+// 【 specialize in. 专攻 专门研究 v 】
+
+
+2
+After 【 explaining 】 this clearly, she stopped 【 complaining about 】 me.
+解释清楚这件事后，她不再抱怨我了
+// -
+// 【 explain 解释 】
+// 【 complain 抱怨 】
+// -
+// 【 complain about sb. 抱怨某人 】
+// 【 stop doing sth. 停止做某事 】
+
+
+3
+This 【 fairy tale 】 tells a 【 story 】 about a 【 retail store 】.
+这个童话故事讲了一个关于零售店的故事
+// -
+// 【 tail 尾巴 】
+// 【 retail 零售 】
+// 【 tale 故事 】
+// -
+// 【 fairy tale. 童话故事 】
+// -
+// 【 retail store. 零售店 】
+// 【 retail price. 零售价 】
+// -
+// tale 故事
+// story 故事
+// novel 小说
+
+
+4
+He 【 greatly 】 【 admires 】 his boss's style of doing things.
+他很欣赏他老板做事的风格
+-
+// -
+// 【 admire 欣赏 】
+// -
+// 【 greatly 非常 adv 】 ---- 书面语
+// 【 very 非常 adv 】-------- 口语
+
+
+5
+The 【 reward 】 of the 【 first prize 】 is to be 【 awarded 】 【 the title of 】 hero.
+一等奖的报酬是被授予英雄称号
+// -
+// 【 reward 报酬n 奖赏v 】
+// 【 award 授予v 】
+// -
+// 【 the title of. ...的称号 】
+// -
+// 【 first prize. 一等奖 】
+// 【 gold/silver/bronze medal. 金银铜牌 】
+
+
+6
+Her 【 weakness 】 【 in 】 【 personality 】 is that she likes to 【 have a fit 】.
+她性格上的缺点是喜欢发脾气
+// -
+// 【 have a fit. 发脾气 】
+// -
+// 【 personality 性格 】
+// 【 character 性格 特征 特点 】
+// -
+// 【 personality = character. 性格 】
+// 【 destiny = fate. 命运 】
+// 【 habit 习惯 】
+// 【 hobby 爱好 】
 ```

@@ -11,7 +11,7 @@
 - // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
 -
 - `【 episode 集 一集 】`
-- `【 series 连续 系列 串联 】` // 【 series serious 】 【 parallel 】// 【 a series of (test). 一些列(测试) 】
+- `【 series 连续 系列 串联 】` // 【 series serious 】// 【 parallel 】// 【 a series of (test). 一些列(测试) 】
 - `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
 - `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
 - > 【 series 连续 系列 串联 】
@@ -37,13 +37,15 @@
 - `【 preface 前言 序言 】`
 - `【 chapter 章节 】`
 - -
-- `【 tale 故事n 讲述n 】` // 【 fairy tale. 童话故事 】
+- `【 tale 故事n 讲述n 】` // ---【 fairy tale. 童话故事 】
 - `【 story 故事 情节 】`
 - `【 novel 小说 】`
 -
-- `【 tale 故事 】` // 【 fairy tale. 童话故事 】
-- `【 tail 尾巴 】`
-- `【 fail 失败v 】` // fail failed failure // succeed successful success
+- `【 tale 故事 】` // ---------【 fairy tale. 童话故事 】
+- `【 tail 尾巴 】` // ---------【 tail light. = brake light. 尾灯 】
+- `【 retail 零售 v n 】` // ---【 retail price. 零售价 】// 【 retail store. 零售店 】
+- `【 detail 细节 】`
+- `【 fail 失败v 】` // -------- fail failed failure // succeed successful success
 -
 - `【 fair 公平的 公正的 adj 】`
 - `【 fairy 仙女 精灵 】`
@@ -56,9 +58,9 @@
 - `【 caption. 字幕 文字说明 】`
 - `【 subtitle 字幕 子标题 】`
 - **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
-- 1. **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
-- 2. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
-- 3. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+- **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
+- 1. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
+- 2. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
 - // --【 a total of. 总共 】
 - // -- The company has【 a total of 】 200 【 employees 】. 公司总共有 200 名员工
 - // -- After graduation, I have had 【 a total of 】 four 【 work experiences 】. 毕业之后，我一共有四段工作经历
@@ -119,6 +121,8 @@
 - [EE.]
 - `【 tale 故事 】` // fairy tale.
 - `【 tail 尾巴 】`
+- `【 retail 零售 v n 】`
+- `【 detail 细节 】`
 - `【 fairy 仙女 小精灵 】` // fair // fairy
 - `【 Fairy tale. 童话故事 】`
 - `【 Fairyland. 仙境 】`
@@ -142,7 +146,8 @@
 -
 - [GG.]
 - `【 serious 严肃的 认真的 严重的 】`
-- `【 series 连续 系列 串联 】` // TV series. = TV drama. 连续剧
+- `【 series 连续 系列 串联 】`
+- // TV series. = TV drama. 连续剧
 - **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个很严肃的人，对学生要求很严格 】**
 - **【 He 【 suffered from 】 a 【 serious 】 【 illness 】. 他患上了严重的疾病 】**
 -
@@ -152,6 +157,14 @@
 - `【 fairy 仙女 小精灵 】`
 - `【 fairy tale. 故事 】`
 - **【 In this 【 fairy tale 】, the 【 fairy 】 is a 【 fair 】 person. 在这个童话故事中，仙女是一个公平的人 】**
+-
+-
+- [II.]
+- `【 retail 零售 】` // retail price. 零售价
+- `【 tail 尾巴 】` // tail light. 尾灯 = brake light
+- `【 tale 故事 】` // fairy tale. 童话故事
+- // detail 细节
+- **【 This 【 fairy tale 】 tells a story about a 【 retail store 】. 这个童话故事讲了关于一家零售店的故事 】**
 
 ###### 2024-06-02
 
@@ -1130,3 +1143,18 @@
 - `【 be proficient in. 精通于 】`
 - > 【 specialize in. 专攻 专门研究 】
 - **【 Because I 【 specialize 】 【 in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
+-
+-
+-
+-
+-
+-
+- 2
+- `【 explain 解释 说明 】`
+- `【 complain 抱怨 】`
+- `【 complain about sb. 抱怨某人 】`
+- > 【 start doing sth. 开始做某事 】
+- **【 After 【 explaining 】 this clearly, she stopped 【 complaining about 】 me. 解释清楚这件事后，她不再抱怨我了 】**
+- **【 She 【 started complaining 】 【 without 】 listening to my explanation. 她不听我解释就开始抱怨 】**
+- // -- 【 stop doing sth. 停止做某事 】
+- // -- 【 complain about sb. 抱怨某人 】
