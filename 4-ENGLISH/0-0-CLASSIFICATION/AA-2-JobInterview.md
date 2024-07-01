@@ -328,7 +328,7 @@
 - **【 He is a very【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a very 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
-- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
 - // -- wealth 财富
 - // -- health 健康
 - // ---- donate money. 捐款
@@ -1356,8 +1356,6 @@
 What was 【 the size of 】 your team in the 【 most recent 】 job?
 最近一份工作你们团队的规模有多大？
 -
-What was 【 the size of 】 the team you 【 recently 】 【 collaborated 】 【 with 】?
--
 What was 【 the size of 】 your 【 last company 】?
 你最后一家公司的规模有多大？
 -
@@ -1379,23 +1377,15 @@ What is 【 the size of 】 the team that 【 you are in 】?
 【 At last 】, the meeting about 【 whether 】 【 to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour and a half 】.
 最后，关于是否裁掉整个市场部的会议持续了一个半小时
 -
-How long 【 will 】 the meeting 【 last 】?
-本次会议会持续多长时间？
--
 How long 【 did 】 the meeting 【 last 】【 for 】? // for可加可不加
 本次会议持续了多长时间？
 -
 The movie 【 lasted for 】 two hours.
 电影持续了两个小时
 -
-The meeting 【 lasted for 】 【 an hour and a half 】.
-会议持续了一个半小时
--
 // -
 // 【 last 持续v 延续v 最后的adj 最后adv 】
-// -
-// last 强调时间
-// continue
+// 【 last for. 持续 】
 // -
 // 【 last for. 持续 】
 // 【 The meeting 【 lasted for 】 【 an hour and a half 】.  会议持续了一个半小时 】
@@ -1407,14 +1397,13 @@ The meeting 【 lasted for 】 【 an hour and a half 】.
 -
 // -
 // conflict 冲突v 争执n
-// have a conflict with sb. 和某人有冲突
+// 【 have a conflict with sb. 和某人有冲突 】
 
 
 4. EXPAND
 What 【 performance optimizations 】 have you done in code?
 你在代码方面做了哪些性能优化？
 -
-// -
 // 【 performance optimization. 性能优化 】
 
 
@@ -1422,11 +1411,22 @@ What 【 performance optimizations 】 have you done in code?
 What's your 【 ideal 】？
 I want to be a 【 front-end software architect 】.
 -
+He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了
+-
 // -
 // 【 ideal 理想的adj 理想n 】
 // 【 idea 想法 主意 n 】
 // -
+// ideal 理想
+// dream 梦想
+// -
+// 【 It's time to do sth. 是做...的时候了 】
+// 【 make an effort to do sth. 努力做某事 】
+// -
+// realize 实现 意识到
+// -
 // 【 software architect. 软件架构师 】
+
 
 
 
@@ -1468,6 +1468,7 @@ His main 【 accomplishment / achievement 】has 【 accomplished 】 the compan
 3.
 What's your biggest weakness?
 What's your biggest strength?
+What's your 【 advantage 】?
 What are your strengths and weaknesses?
 // -
 // -- weak 虚弱的 adj
@@ -1496,11 +1497,15 @@ What are your strengths and weaknesses?
 // --【 have a passion for. 对...有激情 】
 //
 // DD.
-// Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React【 tech stack 】.
-// 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈
+// Because I 【 specialize in 】 the front-end 【 field 】, so I'm a 【 specialist 】,  I 【 am proficient in 】 the React【 tech stack 】，
+// 因为我专攻前端领域，所以是一个前端专家，我精通 rect 和 vue 技术栈
 // -
 // I 【 am proficient in 】 several 【 programming languages 】, includes Java, Python, and Javascript.
 //【 I want to 【 be proficient in 】 English 【 so that 】 I can communicate with people from different countries. 】
+// -
+// 【 special 特别的 adj 】
+// 【 specialize 专攻 v 】
+// 【 specialist = expert. 专家 】
 // -
 // -- proficient 熟练的 精通的 adj
 // -- 【 be proficient in. 精通于... 】
@@ -1892,6 +1897,8 @@ In terms of user data: It can collect user online duration, physical device info
 I'm York.
 ( My English name is York. )
 
+Firstly, I appreciate you very much 【 for 】 giving me the interview 【 opportunity 】.
+
 I graduated from South-Central Minzu 【 University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
 
 After graduation, I have done many different 【 types 】 of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
@@ -1937,13 +1944,13 @@ It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 
 For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all 【 business team 】 projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
-For the font-end part consists of three layers: performance, errors, and user data.
+For the font-end part, it's divide into three layers: performance, errors, and user data.
 
 【 In term of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
 
-【 In term of errors lay 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
+【 In term of errors layer 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
 
-【 In term of user data layer 】: It can collect user online duration, physical device information, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
+【 In term of user data layer 】: It can collect user online duration, physical 【 device 】 【 information 】, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
 
 
 --- --- --- --- --- --- --- 分割线

@@ -4,26 +4,20 @@
 - `【 subtitle 字幕 副标题 】`
 - `【 caption 字幕 说明文字 】`
 -
-- `【 chapter 章 篇章 章节 】`
-- `【 caption 字幕 说明文字 】`
-- `【 preface 前言 序言 】`
-- // TIPS: pay attention to the pronunciation of the word 'caption'.
-- // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
--
 - `【 episode 集 一集 】`
 - `【 series 连续 系列 串联 】` // 【 series serious 】// 【 parallel 】// 【 a series of (test). 一些列(测试) 】
 - `【 TV series. 电视连续剧 】` // --- TV drama. = TV series. // `series` `parallel` `parallelogram`
 - `【 TV drama. 电视剧 】` // ------- TV drama. = TV series.
-- > 【 series 连续 系列 串联 】
-- > 【 serious 严肃的 认真的 严重的 】
 - stay tuned. 继续收看 敬请关注
 -
-- `【 actress 女演员 】` // prince princess // headmaster headmistress // prince province
-- `【 actor 男演员 】`
-- `【 tractor 拖拉机 】`
+- > 【 series 连续 系列 串联 】
+- > 【 serious 严肃的 认真的 严重的 】
 -
-- `【 act in. = act as. 扮演 】`
-- `【 participate in. 参加 】`
+- `【 preface 前言 序言 】`
+- `【 chapter 章 篇章 章节 】`
+- `【 caption 字幕 说明文字 】`
+- // TIPS: pay attention to the pronunciation of the word 'caption'.
+- // TIPS: Pay attention to the different pronunciations between 'chapter' and 'caption'.
 -
 - `【 animation 动画 动画片 】`
 - `【 cartoon 卡通片 】`
@@ -33,11 +27,18 @@
 - `【 movie theater. 电影院 n 】`
 - `【 movie 电影 】`
 -
+- `【 actress 女演员 】` // prince princess // headmaster headmistress // prince province
+- `【 actor 男演员 】`
+- `【 tractor 拖拉机 】`
+-
+- `【 act in. = act as. 扮演 】`
+- `【 participate in. 参加 】`
+-
 - `【 title 标题 】` // title // subtitle // caption
 - `【 preface 前言 序言 】`
 - `【 chapter 章节 】`
 - -
-- `【 tale 故事n 讲述n 】` // ---【 fairy tale. 童话故事 】
+- `【 tale 故事n 讲述n 】` // ---【 fairy tale. 童话故事 】 // tale tail retail detail fail
 - `【 story 故事 情节 】`
 - `【 novel 小说 】`
 -
@@ -47,7 +48,7 @@
 - `【 detail 细节 】`
 - `【 fail 失败v 】` // -------- fail failed failure // succeed successful success
 -
-- `【 fair 公平的 公正的 adj 】`
+- `【 fair 公平的 公正的 adj 】` //【 fair competition. 公平竞争 】
 - `【 fairy 仙女 精灵 】`
 - `【 fairy tale. 童话故事 】`
 - `【 fairyland 仙境 】`
@@ -57,7 +58,7 @@
 - [AA.]
 - `【 caption. 字幕 文字说明 】`
 - `【 subtitle 字幕 子标题 】`
-- **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles 】. 我喜欢看有中文【字幕】的美剧 】**
+- **【 I like to watch the 【 American 】 【 TV dramas 】 【 with 】 Chinese 【 subtitles / captions 】. 喜欢看中文【字幕】美剧 】**
 - **【 This 【 TV series 】 has 【 a total of 】 20 【 episodes 】. 这部连续剧一共有 20 集 】**
 - 1. **【 This 【 actress 】 【 participated in 】 this 20-episode 【 TV series 】. 这个女演员参演了这部 20 集的连续剧 】**
 - 2. **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
@@ -67,7 +68,7 @@
 -
 -
 - [BB.]
-- `【 series 串联 系列 连续 】` // series serious
+- `【 series 串联 系列 连续 】` // series serious // a series of test. 一系列测试
 - `【 parallel 平行的adj 并行的adj 纬线n 】`
 - `【 parallelogram 平行四边形 】`
 - _【 TV series. = TV drama. 电视剧 】_ // --- series 连续
@@ -169,8 +170,11 @@
 ###### 2024-06-02
 
 - 1
-- `【 relieve 减轻 缓解 v 】`
+- `【 relieve 减轻 缓解 v 】` // 【 relieve pain. 缓解疼痛 】
 - `【 relive pain. 减轻疼痛 】`
+-
+- > 【 relieve 减轻 缓解 】
+- > 【 release 释放 发布 】
 -
 - `【 pressure 压力 】` -------- 物理压力
 - `【 stress 压力 】` ---------- 心理压力
@@ -182,16 +186,17 @@
 - `【 oppress 压迫 欺压 v 】` // oppression 压迫 n
 - `【 press 压 按 v 】`
 - `【 pressure 压力 】`
+- // TIPS: Pay attention to the pronunciation of the word 'oppress'.
 -
-- `【 anxiety 焦虑 n 】`
 - `【 anxious 焦虑的 adj 】`
+- `【 anxiety 焦虑 n 】`
 -
 - `【 nervous 紧张的 adj 】`
-- `【 tension 紧张 n 】`
 - `【 tense 紧张的 adj 】`
+- `【 tension 紧张 n 】`
 -
 - `【 exam 考试 】`
-- `【 examination 考试 】`
+- `【 examination 考试 】` // examination = exam.
 -
 - `【 massage 按摩 v n 】`
 -
@@ -208,6 +213,7 @@
 - `【 prescribe 开处方 v 】`
 - `【 antibiotic 抗生素 】`
 - **【 I will 【 prescribe 】 some 【 antibiotics 】 to help you 【 relieve 】 the pain. 我会开一些抗生素来帮你缓解疼 】**
+- **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though 【 exercising 】. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
 -
 -
 - [BB.]
@@ -215,7 +221,7 @@
 - `【 relieve stress. 减轻压力 】`
 - `【 relieve tension. 缓解紧张 】`
 - `【 be anxious about sth. 对...感到紧张 】`
-- **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though exercising. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
+- **【 If you 【 are anxious about 】 exam, you can 【 relieve stress 】 and 【 relieve tension 】 though 【 exercising 】. 如果你对考试感到焦虑，你可以通过运动来减少压力和缓解紧张 】**
 - **【 Exercise can 【 relieve stress 】 and 【 relieve tension 】. 运动可以减轻压力和缓解紧张 】**
 -
 -
@@ -229,9 +235,9 @@
 ###### 2024-06-05
 
 - 1
-- `【 fairyland 仙境 n 】` // fairy tale. 童话故事 // fair // fairy
 - `【 island 岛 岛屿 】` // islander 岛上居民
 - `【 homeland 家园 祖国 】`
+- `【 fairyland 仙境 n 】` // fairy tale. 童话故事 // fair // fairy
 - `【 grassland 草原 】`
 - // TIPS: Pay attention to the pronunciation of the word 'island'.
 -
@@ -245,14 +251,15 @@
 - `【 part-time job. 兼职 】`
 - `【 full-time job. 全职 】`
 - `【 odd job. 零工 】`
+- `【 look for a job. 找工作 】`
+- > 【 look for a job. 找工作 】
 - > 【 land a job 找到工作 】--- 结果
 - > 【 find a job 找到工作 】--- 过程
-- > 【 look for a job. 找工作 】
 -
 - `【 landlord 房东 业主 】` // middleman landlord. 二房东
+- `【 vacant land. 空地 】`
 - `【 landscape 景观 地形 】` // landscape mode. 横屏 // portrait mode. 竖屏
 - `【 landscaper 景观设计师 】`
-- `【 vacant land. 空地 】`
 -
 - `【 bland 枯燥无味的 平淡的 adj 】`
 -
@@ -261,6 +268,7 @@
 - `【 landlord 房东 业主 】`
 - `【 freelancer 自由职业者 】`
 - **【 My 【 landlord 】 is a 【 freelancer 】. 我的房东是一名自由职业者 】**
+- **【 【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公 】**
 -
 -
 -
@@ -270,9 +278,9 @@
 -
 -
 - 2
-- `【 fair 公平的 公正的 】`
+- `【 fair 公平的 公正的 】` // fair competition.
 - `【 fairy 仙女 小精灵 】` // fairy = fair + y // fairy tale // fairyland
-- `【 fail 失败 v 】`
+- `【 fail 失败 v 】` // fail failed failure // succeed successful success
 -
 - `【 benign 良性的 】`
 - `【 malignant 恶性的 】`
@@ -325,10 +333,13 @@
 - `【 release 释放 发布 排放 】`
 - `【 discharge 释放 排出 】` // charge charger discharge
 -
+- > 【 release 释放 发布 】
+- > 【 relieve 缓解 】
+-
 - `【 soil 土壤 】`
 - `【 oil 石油 】`
 - `【 natural gas. 天然气 】` // natural resource. // marine resource. // forest resource. // rare resource.
-- `【 extract 提取 提炼 】`
+- `【 extract 提取 提炼 v 】`
 - `【 mine 开采v 我的 地雷n 矿n 】` // 【 copper mine. 铜矿 】
 -
 - `【 air 空气 】`
@@ -346,7 +357,7 @@
 - `【 rare resource. 稀有资源 】`
 - `【 rare metal. 稀有金属 】`
 -
-- `【 metal 金属 】`
+- `【 metal 金属 】` // metal medal model module
 - `【 rare metal. 稀有金属 】`
 - `【 gold 金 金色 金色的 】`
 - `【 silver 银  】`
@@ -376,7 +387,7 @@
 - [AA.]
 - `【 absorb 吸收 】`
 - `【 take in. 吸收 】`
-- `【 release 释放 发行 】`
+- `【 release 释放 发行 】` // release relieve
 - `【 discharge 释放 排出 】`
 - 1. **【 Plants 【 absorb 】 water 【 from 】 the 【 soil 】 and 【 release 】 【 carbon dioxide 】 into the air. 植物从土壤中吸收水分，向空气中释放二氧化碳 】**
 - 2. **【 The 【 leaves 】 【 are used to 】 【 take in 】 sunlight, and the roots are used to 【 absorb 】 water. 叶子用来吸收阳光，根用来吸收水分 】**
@@ -499,9 +510,10 @@
 - `【 divorced 离婚的 adj 】`
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
-- `【 propose 求婚 建议 v 】` // 【 propose 求婚 / purpose 目的 意图 】
-- `【 elope 私奔 v 】`
+- `【 propose 求婚 建议 v 】` // 【 propose 求婚 / purpose 目的 意图 / pursue 追求 追逐 】
 - `【 purpose 目的 意图 n 】`
+- `【 pursue 追求 追逐 v 】`
+- `【 elope 私奔 v 】`
 - _【 propose to sb. 向某人求婚 】_
 - > 【 propose to sb. 向某人求婚 】
 - // TIPS: Pay attention to the pronunciation of the word 'propose'.
