@@ -1,1 +1,74 @@
-###### Must 2024-07-01
+###### Must 2024-07-02
+
+- 1
+- `【 produce 生产 制造 v 】`
+- `【 product 产品 n 】`
+- > 【 product requirement. 产品需求 】
+- // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
+-
+- `【 produce 生产 制造 v 】`
+- `【 reproduce 繁殖 v 】`
+- `【 reproduction 繁殖 n 】`
+-
+- `【 descendant 子孙 后代 】`
+- `【 ancestor 祖先 】`
+-
+- **【 Plants 【 produce 】 seeds to 【 reproduce 】 their 【 descendant 】. 植物产生种子用来繁殖后代 】**
+- **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
+- `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
+- > 【 supplement energy. 补充能量 】
+- > 【 school supplies. 学习用品 】
+- > 【 urgent supplies. 紧急物资 = emergency supplies. 】
+- // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
+-
+- `【 provide 提供 v 】`
+- > 【 provide sb with sth. 给某人提供某物 】
+-
+- `【 sufficient 充足的 足够的 adj 】`
+- `【 insufficient 不足的 adj 】`
+- > 【 sufficient time. 充足的时间 】
+- > 【 sufficient space. 足够的空间 】
+- > 【 self-sufficient. 子给自足的 adj 】`
+-
+- `【 abundant 丰富的 大量的 adj 】`
+- `【 sufficient 充足的 足够的 adj 】`
+- `【 be rich in. 富含... 】`
+-
+-
+- [AA.]
+- `【 provide 提供 】`
+- `【 supply 供应 供给 日常用品 】`
+- `【 sufficient 充足的 足够的 adj 】`
+- **【 The company 【 provides 】 【 sufficient 】 milk 【 supply 】. 公司提供充足的牛奶供应 】**
+- // -- 【 sufficient 足够的 adj 】
+-
+-
+- [BB.]
+- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
+- `【 supply 供应 供给 日常用品 n 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
+- `【 abundant 丰富的 大量的 adj 】` // 【 abundant protein. 丰富的蛋白质 】
+- > 【 provide sb with sth. 给某人提供某物 】
+- **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质给我们补充能量 】**
+- // -- protein 蛋白质
+- // -- meat 肉
+-
+-
+- [CC.]
+- `【 sufficient 充足的 足够的 adj 】`
+- 【 sufficient time. 充足的时间 】
+- 【 sufficient space. 足够的空间 】
+- **【 We have 【 sufficient time 】 to 【 grind 】 the 【 beans 】 into the 【 powder 】. 我们有足够的时间把豆子磨成粉 】**
+- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 我们有足够的时间把药片溶解在水里 】**
+- // --【 grind into. 磨成... 】
+- // -- dissolve 溶解
+- // -- powder 面粉
+- // -- tablet 药片
