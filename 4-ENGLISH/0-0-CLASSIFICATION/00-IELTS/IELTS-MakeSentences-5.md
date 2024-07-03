@@ -88,3 +88,57 @@ An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 compl
 // assist 协助 援助 帮助 v
 // 【 assist sb in doing sth. 协助某人做某事 】
 ```
+
+##### 3 Make sentences 2024-07-03
+
+```
+1
+Plants 【 produce 】 【 seeds 】 to 【 reproduce 】 their 【 descendants 】.
+植物产生种子来繁殖后代
+-
+We are all the 【 descendants 】 of our 【 ancestors 】.
+我们都是祖先的后代
+-
+// -
+// 【 produce 生产 制造 v 】
+// 【 reproduce 繁殖 v 】
+// -
+// 【 reproduce 繁殖 v 】
+// 【 reproduction 繁殖 n 】
+// -
+// produce 生产 制造
+// product 产品
+// -
+// 【 ancestor 祖先 】
+// 【 descendant 子孙 后代 】
+
+
+
+2
+This 【 supplier 】 【 provides 】 the 【 supply 】 of the 【 supplies 】.
+该供应商负责日常用品的供应
+-
+These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】.
+这些肉提供丰富的蛋白质来补充我们的能量
+-
+Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】.
+鸡蛋的蛋白和蛋黄都富含丰富的蛋白质
+-
+// -
+// 【 supplier 供应商 供应者 n 】
+// 【 supply 供应vn 供给vn 日常用品n 】
+// -
+// 【 provide 提供 v 】
+// -
+// 【 supplement 提供 v 】
+// 【 supplement energy. 提供能量 】
+// -
+// 【 provide sb with sth. 给某人提供某物 】
+// 【 be rich in. 富含... 】
+// -
+// 【 abundant 丰富的 大量的 】
+// -
+// egg yolk. 蛋黄
+// egg white. 蛋白
+// protein 蛋白质
+```

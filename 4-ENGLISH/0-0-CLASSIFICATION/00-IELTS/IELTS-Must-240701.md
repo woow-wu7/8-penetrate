@@ -1,10 +1,13 @@
-###### Must 2024-07-02
+###### Must 2024-07-01
 
 - 1
-- `【 produce 生产 制造 v 】`
 - `【 product 产品 n 】`
+- `【 produce 生产 制造 v 】`
+- `【 reproduce 繁殖 v 】`
+- `【 reproduction 繁殖 n 】`
 - > 【 product requirement. 产品需求 】
 - // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
+- // TIPS: Pay attention to the pronunciation of the word 'product'.
 -
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
@@ -13,8 +16,25 @@
 - `【 descendant 子孙 后代 】`
 - `【 ancestor 祖先 】`
 -
-- **【 Plants 【 produce 】 seeds to 【 reproduce 】 their 【 descendant 】. 植物产生种子用来繁殖后代 】**
+- [AA.]
+- `【 produce 生产 制造 v 】`
+- `【 reproduce 繁殖 v 】`
+- `【 descendant 子孙 后代 n 】`
+- **【 Plants 【 produce 】 seeds 【 to 】 【 reproduce 】 their 【 descendant 】. 植物产生种子用来繁殖后代 】**
 - **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
+- // -- 【 inhibit 抑制 】
+-
+- [BB.]
+- `【 ancestor 祖先 n 】`
+- `【 descendant 后代 n 】`
+- **【 We are all the 【 descendants 】 of our 【 ancestors 】. 我们都是祖先的后代 】**
+-
+- [CC.]
+- `【 product 产品 】`
+- `【 product requirement. 产品需求 】`
+- **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
+- // -- reasonable 合理的 adj
+- // -- reason 原因 n
 -
 -
 -
@@ -22,6 +42,9 @@
 -
 -
 -
+
+###### Must 2024-07-02
+
 - 2
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
 - `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
@@ -30,8 +53,15 @@
 - > 【 urgent supplies. 紧急物资 = emergency supplies. 】
 - // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
 -
+- `【 supplier 供应商 供应者 n 】`
+- `【 supply 供应vn 供给vn 日常用品n 】`
+-
 - `【 provide 提供 v 】`
 - > 【 provide sb with sth. 给某人提供某物 】
+-
+- `【 abundant 丰富的 大量的 adj 】`
+- `【 be rich in. 富含... 】`
+- `【 sufficient 充足的 足够的 adj 】`
 -
 - `【 sufficient 充足的 足够的 adj 】`
 - `【 insufficient 不足的 adj 】`
@@ -39,15 +69,17 @@
 - > 【 sufficient space. 足够的空间 】
 - > 【 self-sufficient. 子给自足的 adj 】`
 -
-- `【 abundant 丰富的 大量的 adj 】`
-- `【 sufficient 充足的 足够的 adj 】`
-- `【 be rich in. 富含... 】`
+- // EE:[supplement] something that is added to 【 something else 】 in order to improve it or complete it.
+- // EE:[supply] to provide something that is wanted or needed. often in large quantities and 【 over a long period of time 】.
+- // -- _【 something else. 其他事物 别的东西 】_
+- // -- _【 over a long period of time. 在很长一段时间内 】_
 -
 -
 - [AA.]
 - `【 provide 提供 】`
 - `【 supply 供应 供给 日常用品 】`
 - `【 sufficient 充足的 足够的 adj 】`
+- _【 provide sb with sth. 给某人提供某物 】_
 - **【 The company 【 provides 】 【 sufficient 】 milk 【 supply 】. 公司提供充足的牛奶供应 】**
 - // -- 【 sufficient 足够的 adj 】
 -
@@ -56,10 +88,11 @@
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
 - `【 supply 供应 供给 日常用品 n 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - `【 abundant 丰富的 大量的 adj 】` // 【 abundant protein. 丰富的蛋白质 】
-- > 【 provide sb with sth. 给某人提供某物 】
-- **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质给我们补充能量 】**
+- _【 provide sb with sth. 给某人提供某物 】_
+- **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质来补充我们的能量 】**
 - // -- protein 蛋白质
 - // -- meat 肉
+- // -- 【 provide sb with sth. 给某人提供某物 】
 -
 -
 - [CC.]
@@ -72,3 +105,15 @@
 - // -- dissolve 溶解
 - // -- powder 面粉
 - // -- tablet 药片
+-
+-
+- [DD.]
+- `【 supplier 供应商 供应者 n 】`
+- `【 supply 供应v 提供v 日常用品n 】`
+- `【 provide 提供 v 】`
+- **【 This 【 supplier 】 【 provides 】 the 【 supply 】 of the 【 supplies 】. 该供应商提供日常用品的供给 】**
+-
+-
+- [EE.]
+- `【 be rich in. 富含... 】`
+- **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
