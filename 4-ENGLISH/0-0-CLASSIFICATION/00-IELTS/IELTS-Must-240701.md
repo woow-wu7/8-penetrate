@@ -1,10 +1,10 @@
 ###### Must 2024-07-01
 
 - 1
-- `【 product 产品 n 】`
+- `【 product 产品 n 】` // ------- 【 product requirement. 产品需求 】
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
-- `【 reproduction 繁殖 n 】`
+- `【 reproduction 繁殖 n 】` // -- 【 sexual reproduction. 有性繁殖 】// 【 asexual reproduction. 无性繁殖 】
 - > 【 product requirement. 产品需求 】
 - // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
 - // TIPS: Pay attention to the pronunciation of the word 'product'.
@@ -12,22 +12,44 @@
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
 - `【 reproduction 繁殖 n 】`
+- > 【 sex 性 n 性交 v 】
+- > 【 sexual 性的 adj 】
+- > 【 sexual reproduction. 有性繁殖 】
+- > 【 asexual reproduction. 无性繁殖 】
+- 【 sexual asexual 】
+- 【 synchronous synchronous 】
 -
 - `【 descendant 子孙 后代 】`
 - `【 ancestor 祖先 】`
 -
+- // EE: [product] something that 【 is made to 】 be sold.
+- // EE: [produce] to make something or bring something into 【 existence 】.
+- // EE: [descendant] a person who 【 is related to 】 you and who lives after you. such as your child or 【 grandchild 】.
+- // EE: [ancestor] a person 【 related to 】 you who lived 【 a long time age 】.
+- // -- existence 存在 生存 n
+- // -- exist 存在 生存 v
+- // -- 【 be made to do sth. 被制成去做某事 】
+- // -- 【 be related to. 和...有关 】
+- // -- 【 a long time age. 很久以前 】
+-
 - [AA.]
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
+- `【 reproduction 繁殖 n 】`
 - `【 descendant 子孙 后代 n 】`
 - **【 Plants 【 produce 】 seeds 【 to 】 【 reproduce 】 their 【 descendant 】. 植物产生种子用来繁殖后代 】**
 - **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
 - // -- 【 inhibit 抑制 】
+- // -- 【 bacteria 细菌 】
+- // -- 【 fungus 真菌 】
+- // -- 【 virus 病毒 】
 -
 - [BB.]
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 n 】`
 - **【 We are all the 【 descendants 】 of our 【 ancestors 】. 我们都是祖先的后代 】**
+- // My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】.
+- // -- 【 pirate 海盗 n 】
 -
 - [CC.]
 - `【 product 产品 】`
@@ -35,6 +57,12 @@
 - **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - // -- reasonable 合理的 adj
 - // -- reason 原因 n
+-
+- [DD.]
+- `【 sexual reproduction. 有性繁殖 】`
+- `【 asexual reproduction. 无性繁殖 】`
+- **【 Some plants have both the 【 abilities 】 of 【 sexual reproduction 】 and 【 asexual reproduction 】 【 at the same time 】. 有些植物同时具有有性繁殖和无性繁殖两种繁殖能力 】**
+- // -- 【 at the same time. 同时 】
 -
 -
 -
@@ -58,13 +86,15 @@
 -
 - `【 provide 提供 v 】`
 - > 【 provide sb with sth. 给某人提供某物 】
+- _【 provide sb with sth. 给某人提供某物 】_
+- // product produce reproduce reproduction sexual asexual
 -
 - `【 abundant 丰富的 大量的 adj 】`
 - `【 be rich in. 富含... 】`
 - `【 sufficient 充足的 足够的 adj 】`
 -
 - `【 sufficient 充足的 足够的 adj 】`
-- `【 insufficient 不足的 adj 】`
+- `【 insufficient 不足的 adj 】` // in + sufficient
 - > 【 sufficient time. 充足的时间 】
 - > 【 sufficient space. 足够的空间 】
 - > 【 self-sufficient. 子给自足的 adj 】`
@@ -76,13 +106,12 @@
 -
 -
 - [AA.]
-- `【 provide 提供 】`
-- `【 supply 供应 供给 日常用品 】`
-- `【 sufficient 充足的 足够的 adj 】`
+- `【 provide 提供 】` // provide sb with sth. 给某人提供某物
+- `【 supply 供应v 供给v 日常用品n 】` // school supplies. // urgent supplies. = emergency supplies.
+- `【 sufficient 充足的 足够的 adj 】` // sufficient time. // sufficient space.
 - _【 provide sb with sth. 给某人提供某物 】_
 - **【 The company 【 provides 】 【 sufficient 】 milk 【 supply 】. 公司提供充足的牛奶供应 】**
-- // -- 【 sufficient 足够的 adj 】
--
+- // -- 【 sufficient 充足的 足够的 adj 】
 -
 - [BB.]
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
@@ -90,10 +119,13 @@
 - `【 abundant 丰富的 大量的 adj 】` // 【 abundant protein. 丰富的蛋白质 】
 - _【 provide sb with sth. 给某人提供某物 】_
 - **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质来补充我们的能量 】**
+- **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
 - // -- protein 蛋白质
 - // -- meat 肉
 - // -- 【 provide sb with sth. 给某人提供某物 】
--
+- // -- egg white.
+- // -- egg yolk.
+- // -- 【 abundant 丰富的 大量的 adj 】
 -
 - [CC.]
 - `【 sufficient 充足的 足够的 adj 】`
@@ -106,14 +138,85 @@
 - // -- powder 面粉
 - // -- tablet 药片
 -
--
 - [DD.]
 - `【 supplier 供应商 供应者 n 】`
 - `【 supply 供应v 提供v 日常用品n 】`
 - `【 provide 提供 v 】`
 - **【 This 【 supplier 】 【 provides 】 the 【 supply 】 of the 【 supplies 】. 该供应商提供日常用品的供给 】**
 -
--
 - [EE.]
 - `【 be rich in. 富含... 】`
 - **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
+- // -- egg white.
+- // -- egg yolk.
+- // -- 【 abundant 丰富的 大量的 adj 】
+-
+- [FF.]
+- `【 sufficient 充足的 足够的 adj 】`
+- `【 insufficient 不充足的 adj 】` // insufficient = in + sufficient.
+- _【 sufficient time. 充足的时间 】_
+- _【 sufficient space. 足够的空间 】_
+- **【 【 Although 】 we don't have 【 sufficient space 】, we have 【 sufficient time 】. 虽然我们没有足够的空间，但是我们有足够的时间 】**
+
+###### Must 2024-07-04
+
+- 1
+- `【 fear 害怕 v n 】`
+- `【 tear 流泪v 泪水n 撕裂v 】`
+- `【 swear 发誓 】`
+- > 【 in tears. 流着泪 含着泪 】
+- > 【 tear up. 撕毁 撕碎 】
+-
+- `【 tire 疲劳v 轮胎n 】`
+- `【 retire 退休 v 】` // ------ retire retirement
+- `【 entire 整个的 adj 】` // -- entire whole
+-
+- `【 tier 层 阶层 】` // ------- first-tier city. // developed city. // developing city. // coastal city.
+- `【 tear 撕裂v 眼泪n 】`
+- `【 tire 疲劳v 轮胎n 】`
+-
+-
+- [AA.]
+- `【 swear 发誓 v 】`
+- `【 fear 害怕 v n 】`
+- `【 tear 流泪v 泪水n 撕碎v 】`
+- **【 I 【 swear 】 that I will not 【 tear 】 【 even though 】 I 【 fear 】. 我发誓就算害怕也不会流泪 】**
+-
+- [BB.]
+- `【 tier 层 阶层 】`
+- `【 first-tier city. 一线城市 】`
+- > 【 coastal city. 沿海城市 】
+- > 【 developed city. 发达城市 】
+- > 【 developing city. 发展中城市 】
+- > 【 first-tier city. 一线城市 】
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first-tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+- // city -> cities
+-
+- [CC.]
+- `【 tire 疲劳v 轮胎n 】`
+- `【 entire 真个的 adj 】`
+- `【 tear 撕碎v 眼泪n 】` // tear -> tore
+- > 【 tear up. 撕毁 撕碎 】
+- > 【 in tears. 含着泪 流着泪 】
+- **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**
+- **【 She 【 tore up 】 the 【 wedding photo 】 【 in tears 】. 她流着眼泪撕碎了结婚照 】** // 【 in tears. 流着泪 含着泪 】
+- 1. **【 The 【 typhoon 】 【 tears 】 the 【 entire 】 【 tire 】. 台风撕裂了整个轮胎 】**
+- 2. **【 The 【 entire 】 【 tire 】 was 【 torn 】. 整个轮胎都撕裂了 】**
+- // -- tear -> torn
+- // -- 【 weeding photo. 结婚照 】
+- // -- 【 marriage certificate. 结婚证 】
+- // -- 【 divorce certificate. 离婚证 】
+-
+- [DD.]
+- `【 first-tier city. 一线城市 】`
+- `【 tier 层 层级 】`
+- `【 retire 退休 v 】`
+- `【 retirement 退休 n 】`
+- **【 After 【 retirement 】, he plans to travel to 【 first-tier city 】. 退休之后，他准备去一线城市旅游 】**
+- **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first-tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
+-
+- [EE.]
+- `【 tear up. 撕毁 撕碎 】`
+- `【 in tear. 含着泪 留着泪 】`
+- tear -> tore
+- **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**

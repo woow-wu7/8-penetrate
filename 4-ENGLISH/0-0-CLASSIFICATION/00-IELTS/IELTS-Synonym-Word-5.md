@@ -1,0 +1,21 @@
+###### Synonym word 2024-07-03
+
+- 1
+- `【 ear 耳朵 】`
+- `【 earn 赚钱 v 】`
+- `【 earnest 认真的 adj 】`
+- `【 earnestly 认真地 adv 】`
+- **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，很认真地在赚钱 】**
+-
+-
+-
+-
+-
+-
+- 2
+- `【 character 性格 特征 】`
+- `【 personality 性格 个性 】`
+- **【 【 Character 】 and 【 personality 】 are 【 synonyms 】. Character 和 personality 是同义词 】**
+- **【 【 Character 】 is the 【 synonym 】 of 【 personality 】. Character 是 personality 的同义词 】**
+- // -- synonym 同义词
+- // -- antonym 反义词

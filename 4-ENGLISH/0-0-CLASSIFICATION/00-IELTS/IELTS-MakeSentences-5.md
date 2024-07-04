@@ -64,6 +64,9 @@ He is a 【 generous 】 person who often 【 donates 】 money to the poor.
 He is a 【 serious 】 person who 【 is strict with 】 his students.
 他是一个严格的人，对自己的学生要求很严格
 -
+He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money.
+他是一个认真的人，认真的赚钱
+-
 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks.
 助理是是辅助他人完成任务的人
 -
@@ -87,6 +90,10 @@ An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 compl
 // assistant 助理 助手
 // assist 协助 援助 帮助 v
 // 【 assist sb in doing sth. 协助某人做某事 】
+// -
+// 【 earnest 认真的 adj 】
+// 【 earn 赚钱 v 】
+// 【 ear 耳朵 】
 ```
 
 ##### 3 Make sentences 2024-07-03
@@ -98,6 +105,9 @@ Plants 【 produce 】 【 seeds 】 to 【 reproduce 】 their 【 descendants 
 -
 We are all the 【 descendants 】 of our 【 ancestors 】.
 我们都是祖先的后代
+-
+Some plants have both the 【 abilities 】 of 【 sexual reproduction 】 and 【 asexual reproduction 】 【 at the some time 】.
+有些植物同时拥有有性繁殖和无性繁殖两种繁殖能力
 -
 // -
 // 【 produce 生产 制造 v 】
@@ -111,6 +121,11 @@ We are all the 【 descendants 】 of our 【 ancestors 】.
 // -
 // 【 ancestor 祖先 】
 // 【 descendant 子孙 后代 】
+// -
+// 【 sexual reproduction. 有性繁殖 】
+// 【 asexual reproduction. 无性繁殖 】
+// -
+// 【 at the same time. 同时 】
 
 
 
@@ -141,4 +156,43 @@ Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 
 // egg yolk. 蛋黄
 // egg white. 蛋白
 // protein 蛋白质
+```
+
+##### 4 Make sentences 2024-07-04
+
+```
+1
+I 【 swear 】 I will not 【 tear 】 even though I 【 fear 】.
+我发誓即使害怕我也不会流泪
+// -
+// 【 swear 发誓 v 】
+// 【 tear 流泪v 泪水n 撕碎v 】
+// 【 fear 害怕 v n 】
+// -
+// 【 even through. = even if. 即使 】
+
+
+2
+【 Which 】 university did you graduate 【 from 】?
+你毕业于哪所大学？
+
+
+3
+He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money.
+他是一个认真的人，认真的赚钱
+// -
+// 【 earnest 认真的 adj 】
+// 【 earn 赚钱 v 】
+// -
+// earnest
+// earnestly
+// -
+// 【 earnest = serious. 认真的 adj 】
+// 【 serious 严肃的 认真的 严重的 adj 】
+
+
+4
+【 Character 】 and 【 personality 】 are 【 synonyms 】.
+【 Character 】 is the 【 synonym 】 of 【 personality 】.
+character 和 personality 是同义词
 ```
