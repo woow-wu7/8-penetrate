@@ -5,13 +5,15 @@
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
 - `【 reproduction 繁殖 n 】` // -- 【 sexual reproduction. 有性繁殖 】// 【 asexual reproduction. 无性繁殖 】
+- `【 production 生产 制造 n 】`
 - > 【 product requirement. 产品需求 】
+- > 【 sexual reproduction. 有性繁殖 】
+- > 【 asexual reproduction. 无性繁殖 】
 - // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
 - // TIPS: Pay attention to the pronunciation of the word 'product'.
 -
-- `【 produce 生产 制造 v 】`
-- `【 reproduce 繁殖 v 】`
-- `【 reproduction 繁殖 n 】`
+- `【 produce 生产 制造 v 】` // --【 production 生产 制造 n 】
+- `【 reproduce 繁殖 v 】` // ----【 reproduction 繁殖 n 】
 - > 【 sex 性 n 性交 v 】
 - > 【 sexual 性的 adj 】
 - > 【 sexual reproduction. 有性繁殖 】
@@ -19,18 +21,23 @@
 - 【 sexual asexual 】
 - 【 synchronous synchronous 】
 -
-- `【 descendant 子孙 后代 】`
+- `【 descendant 子孙 后代 】` // --- abundant / descendant / attendant
 - `【 ancestor 祖先 】`
+-
+- `【 descendant 子孙 后代 】`
+- `【 attendant 服务员 】` // ------- attendant / assistant / secretary
+- `【 abundant 丰富的 大量的 adj 】`
+- `【 assistant 助手 助理 】`
 -
 - // EE: [product] something that 【 is made to 】 be sold.
 - // EE: [produce] to make something or bring something into 【 existence 】.
 - // EE: [descendant] a person who 【 is related to 】 you and who lives after you. such as your child or 【 grandchild 】.
-- // EE: [ancestor] a person 【 related to 】 you who lived 【 a long time age 】.
+- // EE: [ancestor] a person 【 related to 】 you who lived 【 a long time ago 】.
 - // -- existence 存在 生存 n
 - // -- exist 存在 生存 v
 - // -- 【 be made to do sth. 被制成去做某事 】
 - // -- 【 be related to. 和...有关 】
-- // -- 【 a long time age. 很久以前 】
+- // -- 【 a long time ago. 很久以前 】
 -
 - [AA.]
 - `【 produce 生产 制造 v 】`
@@ -45,38 +52,42 @@
 - // -- 【 virus 病毒 】
 -
 - [BB.]
+- `【 abundant 丰富的 大量的 adj 】`
+- `【 descendant 子孙 后代 】`
+- `【 attendant 服务员 】`
+- **【 The 【 Abundant 】【 mineral resources 】 can 【 enable 】 our 【 descendants 】 not to work as 【 attendants 】. 丰富的矿产资源能够使我们的子孙后代不必从事服务员的工作 】**
+- // -- 【 mine 我的 / 矿 n / 开采 v 】
+- // -- 【 mineral 矿物的 adj 】
+- // -- `【 mineral resources. 矿产资源 】`
+- // -- `【 enable 能够使 使有机会 】`
+-
+- [CC.]
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 n 】`
 - **【 We are all the 【 descendants 】 of our 【 ancestors 】. 我们都是祖先的后代 】**
 - // My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】.
 - // -- 【 pirate 海盗 n 】
 -
-- [CC.]
+- [DD.]
 - `【 product 产品 】`
 - `【 product requirement. 产品需求 】`
 - **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - // -- reasonable 合理的 adj
 - // -- reason 原因 n
 -
-- [DD.]
+- [EE.]
 - `【 sexual reproduction. 有性繁殖 】`
 - `【 asexual reproduction. 无性繁殖 】`
 - **【 Some plants have both the 【 abilities 】 of 【 sexual reproduction 】 and 【 asexual reproduction 】 【 at the same time 】. 有些植物同时具有有性繁殖和无性繁殖两种繁殖能力 】**
 - // -- 【 at the same time. 同时 】
--
--
--
--
--
--
--
 
 ###### Must 2024-07-02
 
 - 2
-- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
+- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
 - `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - > 【 supplement energy. 补充能量 】
+- > 【 supplement nutrition. 补充营养 】
 - > 【 school supplies. 学习用品 】
 - > 【 urgent supplies. 紧急物资 = emergency supplies. 】
 - // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
@@ -89,7 +100,7 @@
 - _【 provide sb with sth. 给某人提供某物 】_
 - // product produce reproduce reproduction sexual asexual
 -
-- `【 abundant 丰富的 大量的 adj 】`
+- `【 abundant 丰富的 大量的 adj 】` // abundant descendant attendant
 - `【 be rich in. 富含... 】`
 - `【 sufficient 充足的 足够的 adj 】`
 -
@@ -98,6 +109,10 @@
 - > 【 sufficient time. 充足的时间 】
 - > 【 sufficient space. 足够的空间 】
 - > 【 self-sufficient. 子给自足的 adj 】`
+-
+- `【 nutrition 营养 n 】`
+- `【 malnutrition 营养不良 n 】`
+- `【 supplement nutrition. 补充营养 】`
 -
 - // EE:[supplement] something that is added to 【 something else 】 in order to improve it or complete it.
 - // EE:[supply] to provide something that is wanted or needed. often in large quantities and 【 over a long period of time 】.
@@ -120,12 +135,16 @@
 - _【 provide sb with sth. 给某人提供某物 】_
 - **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质来补充我们的能量 】**
 - **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
+- **【 We should 【 supplement nutrition 】 and 【 supplement energy 】 【 at the same time 】. 我们需要同时补充营养和能量 】**
 - // -- protein 蛋白质
 - // -- meat 肉
 - // -- 【 provide sb with sth. 给某人提供某物 】
 - // -- egg white.
 - // -- egg yolk.
 - // -- 【 abundant 丰富的 大量的 adj 】
+- // -- `【 supplement nutrition. 补充营养 】`
+- // -- `【 supplement energy. 补充能量 】`
+- // -- _【 at the same time. 同时 】_
 -
 - [CC.]
 - `【 sufficient 充足的 足够的 adj 】`
@@ -162,6 +181,7 @@
 
 - 1
 - `【 fear 害怕 v n 】`
+- `【 fare 票价 n 】`
 - `【 tear 流泪v 泪水n 撕裂v 】`
 - `【 swear 发誓 】`
 - > 【 in tears. 流着泪 含着泪 】
@@ -181,6 +201,9 @@
 - `【 fear 害怕 v n 】`
 - `【 tear 流泪v 泪水n 撕碎v 】`
 - **【 I 【 swear 】 that I will not 【 tear 】 【 even though 】 I 【 fear 】. 我发誓就算害怕也不会流泪 】**
+- **【 I'm 【 afraid 】 that my teacher will 【 scold 】 me. 我害怕老师会骂我 】**
+- // -- 【 scold 责骂 】
+- // -- 【 be mad at. 生气 】
 -
 - [BB.]
 - `【 tier 层 阶层 】`
@@ -217,6 +240,25 @@
 -
 - [EE.]
 - `【 tear up. 撕毁 撕碎 】`
-- `【 in tear. 含着泪 留着泪 】`
+- `【 in tears. 含着泪 留着泪 】`
 - tear -> tore
 - **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**
+
+###### Must 2024-07-05
+
+- 1
+- `【 nutrition 营养 】`
+- `【 malnutrition 营养不良 】`
+-
+- `【 protein 蛋白质 n 】`
+- `【 vitamin 维生素 n 】`
+- `【 mineral 矿物质n 矿物的adj 】`
+- `【 fat 脂肪n 肥胖的adj 】`
+-
+- `【 fertilizer 肥料 】`
+-
+- `【 cell 细胞 】`
+- `【 tissue 组织 】` // tissue issue
+- `【 organ 器官 】`
+-
+- `【 absorb 吸收 】`

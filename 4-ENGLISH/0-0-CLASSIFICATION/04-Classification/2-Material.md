@@ -6,9 +6,11 @@
 - `rare species. 稀有物种`
 - `rare resource. 稀有资源` // source resource
 -
-- `natural resource. 资源资源`
+- `natural resource. 自然资源`
 - `marine resource. 海洋资源`
 - `forest resource. 森林资源`
+- `mineral resource. 矿产资源`
+- `rare resource. 稀有资源`
 -
 - `rear view mirror. 后视镜`
 - `rear view camera. 后视摄像头`

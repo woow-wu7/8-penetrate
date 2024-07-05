@@ -389,6 +389,7 @@
 - _【 marine resource. 海洋资源 】_
 - _【 forest resource. 森林资源 】_
 - _【 rare resource. 稀有资源 】_
+- _【 mineral resource. 矿产资源 】_
 - -
 - _【 rare resource. 稀有资源 】_
 - _【 rare species. 稀有物种 】_

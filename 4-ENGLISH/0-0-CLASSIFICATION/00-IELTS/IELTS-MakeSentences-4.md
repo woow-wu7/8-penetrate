@@ -1800,6 +1800,7 @@ The book 【 cover 】 the 【 various aspects 】 of 【 history 】 and 【 cu
 // 【 marine resource. 海洋资源 】
 // 【 forest resource. 森林资源 】
 // 【 rare resource. 稀有资源 】
+//【 mineral resource. 矿产资源 】
 // 【】
 // 【 rare species. 稀有物种 】
 // 【 rare metal. 稀有金属 】

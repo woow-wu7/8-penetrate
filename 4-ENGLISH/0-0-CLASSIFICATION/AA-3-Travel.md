@@ -1,4 +1,36 @@
-# travel 旅行 v n
+##### Travel 旅行 v n
+
+##### (1) **The words that you mast know.**
+
+- [AA.]
+- `【 tour 旅游 旅行 v n 】`
+- `【 tourist 游客 n 】`
+- `【 tourism 旅游业 】`
+-
+- `【 tour 旅游 旅行 v n 】`
+- `【 travel 旅游 旅行 v n 】` ---- 长时间
+- `【 trip 旅行 旅游 n 】` -------- 短时间
+- `【 journey 旅程 n 】` --------- 【 Journey to the West. 西游记 】
+- `【 destination 目的地 】`
+-
+- > 【 tour guid. 导游 】
+- > 【 tourist attraction. 旅游景点 旅游胜地 】
+- > 【 tourism industry. 旅游业 】
+-
+- > 【 travel agency. 旅行社 】
+- > 【 travel expense. 旅行费用 】
+-
+- > 【 travel around the world. 环游世界 】
+- > 【 travel around China. 环游中国 】
+- > 【 travel to sp. ...旅游 】
+-
+- **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
+-
+- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
+-
+- **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
+
+##### Others
 
 - ['EXPAND']
 - [AA.]

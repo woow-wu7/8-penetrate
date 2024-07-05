@@ -355,6 +355,7 @@
 - `【 marine resource. 海洋资源 】`
 - `【 forest resource. 森林资源 】`
 - `【 rare resource. 稀有资源 】`
+- _【 mineral resource. 矿产资源 】_
 - `【 rare metal. 稀有金属 】`
 -
 - `【 metal 金属 】` // metal medal model module

@@ -331,8 +331,9 @@
 - **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
 - **【 He is a 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
-- **【 He is a sensitive person who easily complains about others. 她是一个敏感的人，很容易抱怨他人 】**
+- **【 He is a 【 sensitive 】 person who easily 【 complains 】 about others. 她是一个敏感的人，很容易抱怨他人 】**
 - **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，认真的赚钱 】**
+- **【 He is a 【 bad-tempered 】 person who often 【 scolds 】 others. 他是一个脾气不好的人，经常骂人 】**
 - **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
 - // -- wealth 财富
 - // -- health 健康
@@ -355,6 +356,7 @@
 - **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
 - **【 He is a sensitive person who easily complains about others. 她是一个敏感的人，很容易抱怨他人 】**
 - **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，认真的赚钱 】**
+- **【 He is a 【 bad-tempered 】 person who often 【 scolds 】 others. 他是一个脾气不好的人，经常骂人 】**
 - **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 -
 -
@@ -369,6 +371,7 @@
 - **【 He is a very 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
 - **【 He is a sensitive person who easily complains about others. 她是一个敏感的人，很容易抱怨他人 】**
 - **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，认真的赚钱 】**
+- **【 He is a 【 bad-tempered 】 person who often 【 scolds 】 others. 他是一个脾气不好的人，经常骂人 】**
 - **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 - **【 He 【 made a decision 】 to give the 【 dentist 】 a 【 generous tip 】, 他做了给这个牙医慷慨的小费决定 】**
 -
