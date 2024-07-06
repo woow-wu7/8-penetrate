@@ -262,3 +262,60 @@
 - `【 organ 器官 】`
 -
 - `【 absorb 吸收 】`
+
+###### Must 2024-07-06
+
+- 1
+- `【 identity 身份 n 】`
+- `【 identify 识别 v 】`
+- > 【 identity card. 身份证 】
+- > 【 identify the identity. 识别身份 】
+- > 【 automatic identification. 自动识别 】
+-
+- `【 recognize 识别 v 】` -------- 通过熟悉度认出
+- `【 identify 识别 v 】` --------- 通过鉴定认出
+- `【 identification 识别 n 】`
+- > identify identification
+- > verify verification
+-
+- `【 identify 识别 v 】`
+- `【 verify 验证 v 】`
+- `【 validate 验证 v 】`
+- > 【 verification code. 验证码 】
+- > identify identification
+- > verify verification
+-
+- `【 verification code. 验证码 】`
+- `【 fingerprint 指纹 】`
+-
+- _【 automatic identification. 自动识别 】_
+-
+- **【 identify 】**
+- **【 verify 】**
+- **【 specify 】**
+-
+- [AA.]
+- `【 identify 识别 v 】`
+- `【 identity 身份 n 】`
+- **【 This system can 【 automatically 】 【 identify 】 the 【 identity 】. 这个系统可以自动识别身份】**
+- // -- 【 automatic 自动的 adj 】
+- // -- 【 automatically 自动地 adv 】
+-
+- [BB.]
+- `【 verify 验证 v 】`
+- `【 verification code. 验证码 】`
+- **【 Please 【 enter 】 the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct. 输入验证码验证密码是否正确 】**
+- **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
+- // -- 【 sufficient 足够的 充足的 adj 】
+- // -- memorize 记住 v
+- // -- memory 记忆 回忆 记忆力 n
+-
+-
+- —
+-
+-
+- 2
+- `【 ask for. 要求 】`
+- `【 look for. 寻找 】`
+- `【 look forward. 期待 】`
+- 【 look forward to doing sth. 期待做某事 】

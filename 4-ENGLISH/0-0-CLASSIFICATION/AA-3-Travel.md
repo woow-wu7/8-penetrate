@@ -15,10 +15,13 @@
 -
 - > 【 tour guid. 导游 】
 - > 【 tourist attraction. 旅游景点 旅游胜地 】
+- > 【 tourist resort. 旅游景点 旅游胜地 】// resort
 - > 【 tourism industry. 旅游业 】
 -
 - > 【 travel agency. 旅行社 】
 - > 【 travel expense. 旅行费用 】
+- // agent 代理人
+- // agency 代理机构
 -
 - > 【 travel around the world. 环游世界 】
 - > 【 travel around China. 环游中国 】
@@ -29,6 +32,18 @@
 - **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
 -
 - **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
+-
+-
+- [BB.]
+- `【 baggage 行李 】` ------ 美式英语
+- `【 luggage 行李 】` ------ 英式英语 正式
+- `【 package 包裹 】`
+- `【 suitcase 手提箱 】`
+- `【 briefcase 公文包 】`
+- `【 backpack 背包 】`
+- `【 trunk 树干 行李箱 后备箱 】`
+- `【 carry-on 小行李箱 】`
+- > 【 baggage claim. 行李领取处 领取行李 】
 
 ##### Others
 
@@ -161,6 +176,7 @@
 - // 【 first tier city. 一线城市 】
 - // 【 second tier city. 二线城市 】
 - // 【 developed city. 发达城市 】
+- // 【 coastal city. 沿海城市 】
 - // **【 【 First tier cities 】 are 【 developed cities 】. 一线城市是发达城市 】**
 - // -
 - // 【 industry 工业 行业 】

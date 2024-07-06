@@ -28,6 +28,13 @@ He 【 won 】 【 the first place 】 【 in 】 the 【 sports competition 】
 // gold medal. 金牌
 // -
 // medal metal model module
+
+
+
+------- ------- ------- ------- ------- ------- -------
+人们喜欢追求金钱，名声和财富
+他是一个有追求的人，正在追赶第一名
+他在体育比赛中获得了第一名，奖品是一枚金牌
 ```
 
 ##### 2 Make sentences 2024-07-02
@@ -296,4 +303,29 @@ It's very 【 embarrassed 】 to 【 embrace 】someone you don't like.
 // -
 // 【 awkward 尴尬的 】
 // 【 embarrassed 尴尬的 】
+```
+
+##### 5 Make sentences 2024-07-06
+
+```
+1
+We need to 【 associate 】 your 【 identity card 】 【 with 】 system account.
+我们需要关联你的身份证和系统账号
+-
+We 【 identify 】 your 【 identity 】 【 through 】 the camera.
+我们通过摄像头识别你的身份
+-
+Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct.
+请输入验证码来验证密码是否正确
+-
+// -
+// 【 associate A with B. 关联A和B 】
+// -
+// 【 identity 身份 】
+// 【 identify 识别 】
+// 【 identify the identity. 识别身份 】
+// -
+// 【 verification code. 验证码 】
+// -
+// 【 verify 验证 v 】
 ```

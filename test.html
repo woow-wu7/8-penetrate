@@ -12,7 +12,7 @@
 
       const findIndexs = (arr, target) => {
         const mapTwoSum = new Map();
-        
+
         for (let i = 0; i < arr.length; i++) {
           for (let j = i + 1; j < arr.length; j++) {
             twoSun.set(arr[i] + arr[j], [i, j]);
@@ -22,13 +22,22 @@
         for (let j = 0; j < arr.length; j++) {
           const cur = arr[j];
           const dif = target - cur;
-
-
         }
       };
 
       const res = findIndexs(arr, target);
       console.log("res: ", res);
+    </script>
+
+    <script>
+      // 人们喜欢追求金钱，名声和财富
+      // People like to pursue money, xxx, and wealth.
+
+      // 他是一个有追求的人，正在追赶第一名
+      // He is a pursued person, He is pursue the first place.
+
+      // 他在体育比赛中获得了第一名，奖品是一枚金牌
+      // He get the first place in the sport competition, the prize is a gold medal.
     </script>
   </body>
 </html>
