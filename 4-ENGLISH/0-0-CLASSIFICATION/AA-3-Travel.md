@@ -3,9 +3,9 @@
 ##### (1) **The words that you mast know.**
 
 - [AA.]
-- `【 tour 旅游 旅行 v n 】`
-- `【 tourist 游客 n 】`
-- `【 tourism 旅游业 】`
+- `【 tour 旅游 旅行 v n 】` // --【 tour guide. 导游 】
+- `【 tourist 游客 n 】` // -----【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】
+- `【 tourism 旅游业 】` // -----【 tourism industry. 旅游业 】
 -
 - `【 tour 旅游 旅行 v n 】`
 - `【 travel 旅游 旅行 v n 】` ---- 长时间
@@ -13,9 +13,15 @@
 - `【 journey 旅程 n 】` --------- 【 Journey to the West. 西游记 】
 - `【 destination 目的地 】`
 -
+- `【 tourist attraction. 旅游景点 旅游胜地 】`
+- `【 tourist resort. 旅游景点 旅游胜地 】`
+- `【 Disney resort. 迪士尼度假区 】`
+- `【 resort 旅游胜地 采取 求助 】`
+- `【 sort 排序 】`
+-
 - > 【 tour guid. 导游 】
 - > 【 tourist attraction. 旅游景点 旅游胜地 】
-- > 【 tourist resort. 旅游景点 旅游胜地 】// resort
+- > 【 tourist resort. 旅游景点 旅游胜地 】// resort sort
 - > 【 tourism industry. 旅游业 】
 -
 - > 【 travel agency. 旅行社 】
@@ -27,23 +33,54 @@
 - > 【 travel around China. 环游中国 】
 - > 【 travel to sp. ...旅游 】
 -
+-
 - **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
 -
 - **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
 -
+- **【 Please 【 sort 】 these 【 tourist resort 】. 请你对这些旅游胜地排序 】**
+-
 - **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
+-
+-
+-
+-
+-
 -
 -
 - [BB.]
 - `【 baggage 行李 】` ------ 美式英语
 - `【 luggage 行李 】` ------ 英式英语 正式
-- `【 package 包裹 】`
+- `【 package 包裹n 打包v 】` // pack 打包
+- > 【 baggage claim. 行李领取处 领取行李 】
+-
+- `【 briefcase 公文包 】` // brief 简明的 简短的
 - `【 suitcase 手提箱 】`
-- `【 briefcase 公文包 】`
 - `【 backpack 背包 】`
+-
 - `【 trunk 树干 行李箱 后备箱 】`
 - `【 carry-on 小行李箱 】`
-- > 【 baggage claim. 行李领取处 领取行李 】
+- `【 baggage claim. 行李领取处 领取行李 】`
+-
+- **【 The 【 luggage 】 we 【 packed 】 【 includes 】 【 backpacks 】 and 【 briefcases 】. 我们打包的行李包括背包和公文包 】**
+-
+-
+-
+-
+-
+-
+-
+- [CC.]
+- `airport 飞机场` // port
+- `airline 航空公司`
+- `airplane 飞机` // plane 平面 飞机
+- `flight 航班`
+-
+- `plane 飞机` // plane airplane
+- `port 港口 端口` // airport
+- `harbor 港口`
+-
+- **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
 
 ##### Others
 

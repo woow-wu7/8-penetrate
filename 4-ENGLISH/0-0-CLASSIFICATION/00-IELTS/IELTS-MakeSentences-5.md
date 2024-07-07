@@ -305,15 +305,18 @@ It's very 【 embarrassed 】 to 【 embrace 】someone you don't like.
 // 【 embarrassed 尴尬的 】
 ```
 
-##### 5 Make sentences 2024-07-06
+##### 6 Make sentences 2024-07-06
 
 ```
 1
 We need to 【 associate 】 your 【 identity card 】 【 with 】 system account.
 我们需要关联你的身份证和系统账号
 -
-We 【 identify 】 your 【 identity 】 【 through 】 the camera.
+We 【 identify 】 your 【 identity 】 【 through 】 the 【 camera 】.
 我们通过摄像头识别你的身份
+-
+Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 your 【 identity card 】 number is correct.
+请输入验证码来验证你的身份证号码是否正确
 -
 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct.
 请输入验证码来验证密码是否正确
@@ -328,4 +331,127 @@ Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the
 // 【 verification code. 验证码 】
 // -
 // 【 verify 验证 v 】
+```
+
+##### 7 Make sentences 2024-07-07
+
+```
+1
+People 【 look forward to 】 the government 【 asking 】 the 【 airline 】 to 【 look for 】 the 【 whereabouts 】 of the missing people.
+人们期待政府去要求航空公司去寻找失事人员的下落
+// -
+// 【 look forward to sb doing sth. 期待某人做某事 】
+// 【 ask sb to do sth. 要求某人做某事 】
+// 【 look for. 寻找 】
+// -
+// 【 whereabouts. 下落 去向 】
+// 【 airline 航空公司 】
+// -
+// 【 airline 航空公司 】
+// 【 airport 机场 】
+// 【 airplane 飞机 】
+// 【 runway 跑道 】
+
+
+2
+The 【 victory 】 of the 【 labors 】 has been written into the 【 history 】.
+劳动者的胜利已经写进历史
+-
+The 【 laboratory 】 in our 【 dormitory 】 【 is converted from 】 the 【 repository 】 of the 【 factory 】 by 【 labors 】.
+我们宿舍的实验室是工厂的仓库改装的
+-
+This 【 code repository 】 contains the many 【 directories 】.
+这个代码仓库包含了很多目录
+-
+// -
+// 【 laboratory 实验室 】
+// 【 dormitory 寝室 】
+// 【 factory 工厂 】
+// 【 repository 仓库 】
+// 【 directory 目录 】// director 导演
+// -
+// 【 victory 胜利 】
+// 【 history 历史 】
+// -
+// 【 labor 劳动 工人 】
+// 【 laboratory 实验室 】
+// -
+// TIPS: Pay attention to the pronunciation between the 'labor' and 'laboratory'.
+
+
+3
+Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number is 【 correct 】.
+请输入验证码来验证身份证号码是否正确
+-
+This system can 【 automatically 】 【 identify 】 the 【 identity 】.
+这个系统可以自动识别身份
+-
+// -
+// 【 verification code. 验证码 】
+// 【 identity card. 身份证 】
+// -
+// 【 verify 验证 v 】
+// 【 identify 识别 】
+// 【 identity 身份 】
+// -
+// automatic 自动的 adj
+// automatically 自动地 adv
+
+
+4
+I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 【 anymore 】.
+我失业了所以以后不用再值班了
+// -
+// 【 lost one's job. 失业 】
+// 【 on duty. 值班 】
+// anymore 不再
+
+
+5
+【 Minerals 】 are not 【 fertilizers 】.
+矿物质不是化肥
+// -
+// 【 mineral 矿物质 】
+// 【 fertilizer 肥料 】
+
+6
+The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】.
+专攻某个特殊领域的人称为专家
+// -
+// 【 specialize 专攻 】
+// 【 specialize in. 专攻... 】
+// -
+// 【 special 特别的 adj 】
+// 【 specialize 专攻 】
+// 【 specialist 专家 】
+
+
+7
+请对这些旅游胜地排序
+Please 【 sort 】 these 【 tourist resorts 】.
+// -
+// 【 sort 排序 】
+// 【 resort 旅游胜地 采取 求助 】
+// -
+// 【 tourist resort. 旅游胜地 】
+// 【 tourist attraction. 旅游胜地 】
+// -
+// 【 tourist resort. 旅游胜地 】
+// 【 Disney resort. 迪士尼度假区 】
+
+
+8
+The 【 luggage 】 we 【 packed 】 includes 【 backpacks 】 and 【 briefcases 】.
+我们打包的行李包括背包和公文包
+// -
+// backpack 背包
+// briefcase 公文包
+// -
+// 【 brief 简明的 简短的 】
+// 【 briefcase 公文包 】
+// -
+// luggage 包裹
+// package 包裹
+// -
+// pack 打包
 ```

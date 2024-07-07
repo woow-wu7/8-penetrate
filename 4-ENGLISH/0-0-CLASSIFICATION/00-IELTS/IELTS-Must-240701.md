@@ -60,6 +60,11 @@
 - // -- 【 mineral 矿物的 adj 】
 - // -- `【 mineral resources. 矿产资源 】`
 - // -- `【 enable 能够使 使有机会 】`
+- // -- natural resource.
+- // -- marine resource.
+- // -- forest resource.
+- // -- rare resource.
+- // -- mineral resource. 矿产资源
 -
 - [CC.]
 - `【 ancestor 祖先 n 】`
@@ -247,41 +252,49 @@
 ###### Must 2024-07-05
 
 - 1
-- `【 nutrition 营养 】`
+- `【 nutrition 营养 】` // ------------【 supplement nutrition. 补充营养 】
 - `【 malnutrition 营养不良 】`
 -
 - `【 protein 蛋白质 n 】`
 - `【 vitamin 维生素 n 】`
-- `【 mineral 矿物质n 矿物的adj 】`
+- `【 mineral 矿物质n 矿物的adj 】` // ---【 mineral resource. 矿物资源 】
 - `【 fat 脂肪n 肥胖的adj 】`
 -
-- `【 fertilizer 肥料 】`
+- `【 fertilizer 肥料 化肥 】` //【 chemical fertilizer. 化肥 】
 -
 - `【 cell 细胞 】`
 - `【 tissue 组织 】` // tissue issue
 - `【 organ 器官 】`
 -
 - `【 absorb 吸收 】`
+-
+- [AA.]
+- `【 mineral 矿物质 】` // 【 mineral resource. 矿物资源 】
+- `【 fertilizer 肥料 化肥 】`
+- **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
 
 ###### Must 2024-07-06
 
 - 1
-- `【 identity 身份 n 】`
-- `【 identify 识别 v 】`
-- > 【 identity card. 身份证 】
+- `【 identity 身份 n 】` // 【 identity card. 身份证 】
+- `【 identify 识别 v 】` // 【 identify the identity. 识别身份 】
 - > 【 identify the identity. 识别身份 】
+- > 【 identity card. 身份证 】
 - > 【 automatic identification. 自动识别 】
+-
+- `【 verify 验证 v 】`
+- `【 validate 验证 v 】` // 【 verification code. 验证码 】
+- > 【 verification code. 验证码 】
+- > identify identification
+- > verify verification
+-
+- **【 identify 识别 】** // 【 identify the identity. 识别身份 】
+- **【 verify 验证 】** // 【 verification code. 验证码 】
+- **【 specify 指定 明确说明 】**
 -
 - `【 recognize 识别 v 】` -------- 通过熟悉度认出
 - `【 identify 识别 v 】` --------- 通过鉴定认出
 - `【 identification 识别 n 】`
-- > identify identification
-- > verify verification
--
-- `【 identify 识别 v 】`
-- `【 verify 验证 v 】`
-- `【 validate 验证 v 】`
-- > 【 verification code. 验证码 】
 - > identify identification
 - > verify verification
 -
@@ -290,20 +303,17 @@
 -
 - _【 automatic identification. 自动识别 】_
 -
-- **【 identify 】**
-- **【 verify 】**
-- **【 specify 】**
--
 - [AA.]
 - `【 identify 识别 v 】`
 - `【 identity 身份 n 】`
-- **【 This system can 【 automatically 】 【 identify 】 the 【 identity 】. 这个系统可以自动识别身份】**
+- **【 This system can 【 automatically 】 【 identify 】 the 【 identity 】. 这个系统可以自动识别身份 】**
 - // -- 【 automatic 自动的 adj 】
 - // -- 【 automatically 自动地 adv 】
 -
 - [BB.]
 - `【 verify 验证 v 】`
 - `【 verification code. 验证码 】`
+- **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number is correct. 输入验证码来验证身份证号码是否正确 】**
 - **【 Please 【 enter 】 the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct. 输入验证码验证密码是否正确 】**
 - **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
 - // -- 【 sufficient 足够的 充足的 adj 】
@@ -311,11 +321,65 @@
 - // -- memory 记忆 回忆 记忆力 n
 -
 -
-- —
+-
+-
 -
 -
 - 2
-- `【 ask for. 要求 】`
+- `【 ask sb to do sth. 要求某人做某事 】`
+- `【 look forward to sb doing sth. 期待某人做某事 】`
 - `【 look for. 寻找 】`
-- `【 look forward. 期待 】`
-- 【 look forward to doing sth. 期待做某事 】
+- -
+- `【 whereabouts 下落 去向 】`
+- `【 look forward to doing. 期待做某事 】`
+- -
+- `【 airline 航空公司 】`
+- `【 airport 机场 】`
+- `【 airplane 飞机 】`
+- `【 runway 跑道 】`
+-
+- **【 People 【 look forward to 】 the government 【 asking 】 the 【 airline 】 to 【 look for 】 the 【 whereabouts 】 of the missing people. 人们期待政府去要求航空公司去寻找失事人员的下落 】**
+- // -- ask sb to do sth. 要求某人做某事
+- // -- look forward to sb doing sth. 期待某人做某事
+- // -- whereabouts 下落 去向
+
+###### Must 2024-07-07
+
+- 1
+- `【 labor 劳动 工人 n 】`
+- `【 labor day. 劳动节 】`
+- `【 laboratory 实验室 】`
+- // TIPS: Pay attention to the pronunciation between the 'labor' and 'laboratory'.
+-
+- `【 laboratory 实验室 】`
+- `【 dormitory 宿舍 】`
+- `【 factory 工厂 】`
+- `【 repository 仓库 】` // 【 code repository. 代码仓库 】
+- `【 directory 目录 】` // -【 directory 目录 】 【 director 导演 董事 主任 】 // 【 personnel director. 人事总监 】
+- `【 mandatory 强制的 adj 】`
+- `【 history 历史 】`
+- `【 victory 胜利 】`
+-
+- `【 directory 目录 】`
+- `【 director 导演 董事 主任 】`
+- > 【 sales director. 销售总监 】
+- > 【 personnel director. 人事总监 】
+-
+- [AA.]
+- `【 laboratory 实验室 】`
+- `【 dormitory 学生宿舍 】`
+- `【 repository 仓库 】`
+- `【 factory 工厂 】`
+- **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
+- // -- 【 be converted from. 由...改装而来 】
+-
+- [BB.]
+- `【 history 历史 】`
+- `【 victory 胜利 】`
+- **【 The 【 victory 】 of the 【 labors 】 has been written into the 【 history 】. 劳动人民的胜利已经写进历史 】**
+-
+- [CC.]
+- `【 directory 目录 】` // directory / director 导演董事主任
+- `【 repository 仓库 】`
+- _【 code repository. 代码仓库 】_
+- **【 This code 【 repository 】 contains many 【 directories 】. 这个代码仓库包含了很多目录 】**

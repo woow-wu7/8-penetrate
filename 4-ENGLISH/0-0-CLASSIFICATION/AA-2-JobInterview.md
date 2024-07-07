@@ -2,15 +2,22 @@
 
 ##### (1) **The words that you mast know.**
 
+- [-DD.]
+- `【 white collar. 白领 】`
+- `【 blue collar. 蓝领 】` // collar // color
+- `【 labor 工人 劳动 】` // labor laboratory // laboratory dormitory repository factory director victory history
+-
 - [-CC.]
 - `【 on duty. 值班 】`
+- `【 lose one's job. 失业 】`
+- **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
 - **【 who is 【 on duty 】 tody? 今天谁值班 】**
 -
 - [-BB.]
 - `【 specialize 专攻 专门研究 v 】`
 - `【 specialize in. 专攻 专门研究 】`
 - 【 special 特别的 特殊的 】
-- 【 specialist 专家 专科医生 】
+- 【 specialist 专家 专科医生 】 // specialist expert
 - **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
 - **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
 - // --【 specific 具体的 特殊的 adj 】
@@ -413,12 +420,16 @@
 - [WW.]
 - `【 personnel 人事部门 n 】`
 - `【 personal 个人的 adj 】`
-- `【 personality 性格 】`
+- `【 personality 性格 】` // personality = character. 性格
 - `【 interpersonal 人际关系的 adj 】` // interchange 交换 // interpersonal 人际关系
+- -
+- `【 directory 目录 】`
+- `【 director 导演 董事 主任 】`
 - > 【 personnel director. 人事总监 】
 - > 【 sales director. 销售总监 】
-- 【 director 主管 董事 导演 n 】
+- -
 - _【 personal privacy. 个人隐私 】_
+- -
 - 1. **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
 - 2. **【 Please communicate 【 directly/immediately 】 with the 【 Personnel Director 】 about 【 resignation 】. 请直接和人事总监沟通离职事宜 】**
 - // -- direct 直接的 adj
