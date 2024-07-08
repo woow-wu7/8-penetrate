@@ -718,6 +718,7 @@
 - // -- `【 social 社会的 社交的 】`
 - // -- `【 social media. 社交媒体 】`
 - // -- `【 social status. 社会地位 】`
+- // -- `【 social welfare. 社会福利 】`
 -
 -
 - [LL.]

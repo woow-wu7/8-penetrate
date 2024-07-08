@@ -2,16 +2,39 @@
 
 ##### (1) **The words that you mast know.**
 
+-
+- [-EE.]
+- `【 security 安全 】`
+- `【 social security. 社保 】` // social security. = social insurance. 社保
+- `【 social insurance. 社保 】`
+- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- > 【 social security. = social insurance. 社保 】
+- > 【 social status. 社会地位 】
+- > 【 social media. 社交媒体 】
+- > 【 social welfare. 社会福利 】
+- // TIPS: Pay attention to the pronunciation of the word 'status'.
+-
+-
 - [-DD.]
 - `【 white collar. 白领 】`
 - `【 blue collar. 蓝领 】` // collar // color
 - `【 labor 工人 劳动 】` // labor laboratory // laboratory dormitory repository factory director victory history
+- > 【 labor day. 劳动节 】
+- > 【 labor law. 劳动法 】
+- > 【 labor worker. 劳务工 】
+- > 【 labor contract. 劳动合同 】
 -
 - [-CC.]
 - `【 on duty. 值班 】`
 - `【 lose one's job. 失业 】`
-- **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
+- `【 employment rate. 就业率 】`
+- `【 unemployment rate. 失业率 】`
+- 1. **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
+- 2. **【 The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rate 】. 失业率远远高于就业率 】**
 - **【 who is 【 on duty 】 tody? 今天谁值班 】**
+- // -- 【 much higher than. 远远高于 】
+- // TIPS: Pay attention to the pronunciation of the word 'higher'.
+-
 -
 - [-BB.]
 - `【 specialize 专攻 专门研究 v 】`
@@ -1133,8 +1156,9 @@
 - // -
 - // -- `social 社会的 v`
 - // -- `society 社会 n`
-- // -- `【 social status. 社会地位 】`
-- // -- `【 social media. 社交媒体 】`
+- // -- _【 social status. 社会地位 】_
+- // -- _【 social media. 社交媒体 】_
+- // -- _【 social welfare. 社会福利 】_
 - // -- primitive society. 原始社会
 - // -
 - // -- status 状态 身份 地位

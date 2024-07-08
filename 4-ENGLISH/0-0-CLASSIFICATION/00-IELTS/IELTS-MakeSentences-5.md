@@ -455,3 +455,133 @@ The 【 luggage 】 we 【 packed 】 includes 【 backpacks 】 and 【 briefca
 // -
 // pack 打包
 ```
+
+##### 8 Make sentences 2024-07-08
+
+```
+1
+The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有劳动工人必须遵守劳动法
+-
+We must 【 comply with 】 the company 【 regulations 】.
+我们必须遵守公司规定
+-
+// -
+// 【 comply 遵守 】
+// 【 comply with. 遵守 】
+// 【 regulation 规定 规则 法规 n 】
+// -
+// 【 announce 宣布 宣告 公布 v 】
+// 【 declare 宣布 声明 】
+// -
+// 【 director 导演 主管 】
+// 【 direct 直接的 adj 】
+// 【 directly 直接地 adv 】
+// 【 directory 目录 】
+// -
+// 【 labor worker. 劳务工 】
+// 【 labor law. 劳动法 】
+// 【 labor day. 劳动节 】
+// 【 labor contract. 劳动合同 】
+
+
+2
+The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rate 】.
+失业率远远高于就业率
+// -
+// 【 much higher than. 远远高于 】
+// TIPS: Pay attention to the pronunciation of the word 'higher'.
+// -
+// 【 employment rate. 就业率 】
+// 【 unemployment rate. 失业率 】
+
+
+3
+The 【 social status 】 【 determines 】 the 【 social welfare 】. // 决定
+社会地位决定社会福利
+-
+【 slaves 】 are not 【 entitled 】 to 【 social welfare 】.
+奴隶没资格享受社会福利
+-
+Six methods to 【 determine 】 whether it is an Array. // 确定
+确定它是否为数组的六种方法
+-
+【 Determine 】 the location of the 【 memory leak 】. // 确定
+确定内存泄漏的位置
+-
+// -
+// 【 be entitle to. 有权享有 】
+// -
+// 【 determine 决定 确定 v 】
+// -
+// 【 memory leak. 内存泄露  】
+// -
+// 【 welfare 福利 】
+// 【 social welfare. 社会福利 】
+// 【 social status. 社会地位 】
+
+
+4
+【 Lack of 】 【 vitamins 】 can 【 affect 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】.
+缺乏维生素会影响器官吸收蛋白质，从而引起营养不良
+-
+// 【 vitamin 维生素 】
+// 【 protein 蛋白质 】
+// -
+// 【 malnutrition 营养不良 】
+// 【 nutrition 营养 】
+// 【 supplement nutrition. 补充营养 】
+// -
+// lead to. 导致
+// lead to. 导致 ( 过去式 )
+// -
+// 【 impact 影响 v 】
+// 【 affect 影响 v 】
+// 【 influence 影响 v 】
+// -
+// lack 缺乏
+// -
+// organ 器官
+// tissue 组织
+// cell 细胞
+
+
+5
+Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】.
+每个人都应该准时缴纳社保和个人所得税
+// -
+// 【 social security. = social insurance. 社保 】
+// 【 social status. 社会地位 】
+// 【 social medial. 社交媒体 】
+// 【 social welfare. 社会福利 】
+// -
+// 【 individual income tax. 个人所得税 】
+
+
+6
+we should 【 consider 】 the 【 return on investment 】 【 in 】 【 any 】 investment.
+我们的任何投资都需要考虑投资回报率
+// -
+// 【 return on investment. 投资回报率 】
+// 【 consider 考虑 v 】
+
+
+7
+What you said 【 just now 】 【 makes sense 】.
+你刚才说的话很有道理
+// -
+// 【 just now. 刚才 刚刚 】
+// 【 make sense. 有道理 】
+
+
+8
+Do some 【 meaningful 】 things.
+做一些有意义的事情
+-
+What's meaning of our 【 existence 】?
+我们存在的意义是什么？
+-
+// -
+// 【 meaningful 有意义的 adj 】
+// 【 meaning 意义 n 】
+```

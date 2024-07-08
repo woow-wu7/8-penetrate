@@ -849,6 +849,7 @@
 - `society 社会 n`
 - _【 social status. 社会地位 】_
 - _【 social media. 社交媒体 】_
+- _【 social welfare. 社会福利 】_
 - -
 - _【 primitive society. 原始社会 】_
 - _【 agricultural society. 农业社会 】_

@@ -4,7 +4,7 @@
 - `【 product 产品 n 】` // ------- 【 product requirement. 产品需求 】
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
-- `【 reproduction 繁殖 n 】` // -- 【 sexual reproduction. 有性繁殖 】// 【 asexual reproduction. 无性繁殖 】
+- `【 reproduction 繁殖 n 】` // -- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
 - `【 production 生产 制造 n 】`
 - > 【 product requirement. 产品需求 】
 - > 【 sexual reproduction. 有性繁殖 】
@@ -21,13 +21,13 @@
 - 【 sexual asexual 】
 - 【 synchronous synchronous 】
 -
-- `【 descendant 子孙 后代 】` // --- abundant / descendant / attendant
+- `【 descendant 子孙 后代 】` // --- abundant / descendant / attendant // assistant
 - `【 ancestor 祖先 】`
 -
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】` // ------- attendant / assistant / secretary
 - `【 abundant 丰富的 大量的 adj 】`
-- `【 assistant 助手 助理 】`
+- `【 assistant 助手 助理 】` // secretary assistant attendant
 -
 - // EE: [product] something that 【 is made to 】 be sold.
 - // EE: [produce] to make something or bring something into 【 existence 】.
@@ -93,6 +93,8 @@
 - `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - > 【 supplement energy. 补充能量 】
 - > 【 supplement nutrition. 补充营养 】
+- // nutrition 营养 n
+- // malnutrition 营养不良 n
 - > 【 school supplies. 学习用品 】
 - > 【 urgent supplies. 紧急物资 = emergency supplies. 】
 - // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
@@ -186,7 +188,7 @@
 
 - 1
 - `【 fear 害怕 v n 】`
-- `【 fare 票价 n 】`
+- `【 fare 票价 n 】` // fee 费用 // fare 票价
 - `【 tear 流泪v 泪水n 撕裂v 】`
 - `【 swear 发誓 】`
 - > 【 in tears. 流着泪 含着泪 】
@@ -252,12 +254,12 @@
 ###### Must 2024-07-05
 
 - 1
-- `【 nutrition 营养 】` // ------------【 supplement nutrition. 补充营养 】
+- `【 nutrition 营养 】` // ------------【 supplement nutrition. 补充营养 】 // 【 supplement energy. 补充能量 】
 - `【 malnutrition 营养不良 】`
 -
 - `【 protein 蛋白质 n 】`
 - `【 vitamin 维生素 n 】`
-- `【 mineral 矿物质n 矿物的adj 】` // ---【 mineral resource. 矿物资源 】
+- `【 mineral 矿物质n 矿物的adj 】` // ---【 mineral resource. 矿物资源 】// marine/natural/forest/rare/mineral resource.
 - `【 fat 脂肪n 肥胖的adj 】`
 -
 - `【 fertilizer 肥料 化肥 】` //【 chemical fertilizer. 化肥 】
@@ -268,10 +270,23 @@
 -
 - `【 absorb 吸收 】`
 -
+-
 - [AA.]
 - `【 mineral 矿物质 】` // 【 mineral resource. 矿物资源 】
 - `【 fertilizer 肥料 化肥 】`
 - **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
+-
+-
+- [BB.]
+- `【 vitamin 维生素 】`
+- `【 protein 蛋白质 】`
+- `【 malnutrition 营养不良 】`
+- **【 Lack of 【 vitamins 】 can 【 affect/impact/influence 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】. 缺乏维生素会影响器官吸收蛋白质，从而引起营养不良 】**
+- // -- lead to. 导致
+- // -- led to. 导致 ( 过去式 )
+- // ---- affect 影响
+- // ---- impact 影响
+- // ---- influence 影响
 
 ###### Must 2024-07-06
 
@@ -298,9 +313,8 @@
 - > identify identification
 - > verify verification
 -
-- `【 verification code. 验证码 】`
 - `【 fingerprint 指纹 】`
--
+- `【 verification code. 验证码 】`
 - _【 automatic identification. 自动识别 】_
 -
 - [AA.]
@@ -314,9 +328,12 @@
 - `【 verify 验证 v 】`
 - `【 verification code. 验证码 】`
 - **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number is correct. 输入验证码来验证身份证号码是否正确 】**
+-
 - **【 Please 【 enter 】 the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct. 输入验证码验证密码是否正确 】**
 - **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
 - // -- 【 sufficient 足够的 充足的 adj 】
+- // -- 【 sufficient time. 充足的时间 】
+- // -- 【 sufficient space. 足够的空间 】
 - // -- memorize 记住 v
 - // -- memory 记忆 回忆 记忆力 n
 -
@@ -346,22 +363,29 @@
 ###### Must 2024-07-07
 
 - 1
-- `【 labor 劳动 工人 n 】`
-- `【 labor day. 劳动节 】`
+- `【 labor 劳动 工人 n 】` // 【 labor day. 劳动节 】 【 labor law. 劳动法 】 【 labor contract. 劳动合同 】 【 labor worker. 】
 - `【 laboratory 实验室 】`
+- > 【 labor day. 劳动节 】
+- > 【 labor law. 劳动法 】`
+- > 【 labor worker. 劳务工 】
+- > 【 labor contract. 劳动合同 】
+- // 【 contract contact contrast 】
+- // 【 law lawyer layer 】
 - // TIPS: Pay attention to the pronunciation between the 'labor' and 'laboratory'.
 -
 - `【 laboratory 实验室 】`
 - `【 dormitory 宿舍 】`
 - `【 factory 工厂 】`
-- `【 repository 仓库 】` // 【 code repository. 代码仓库 】
-- `【 directory 目录 】` // -【 directory 目录 】 【 director 导演 董事 主任 】 // 【 personnel director. 人事总监 】
-- `【 mandatory 强制的 adj 】`
+- `【 repository 仓库 】` // -----【 code repository. 代码仓库 】
+- `【 directory 目录 】` // ------【 director 导演 董事 】 // 【 direct 直接的 】 // 【 personnel director. 人事总监 】
+- `【 mandatory 强制的 adj 】` // 【 mandatory overtime. 强制加班 】
 - `【 history 历史 】`
 - `【 victory 胜利 】`
 -
 - `【 directory 目录 】`
 - `【 director 导演 董事 主任 】`
+- `【 direct 直接的 adj 】`
+- `【 directly 直接的 adv 】`
 - > 【 sales director. 销售总监 】
 - > 【 personnel director. 人事总监 】
 -
@@ -383,3 +407,28 @@
 - `【 repository 仓库 】`
 - _【 code repository. 代码仓库 】_
 - **【 This code 【 repository 】 contains many 【 directories 】. 这个代码仓库包含了很多目录 】**
+-
+- [DD.]
+- > 【 comply with. 遵守 】
+- `【 director 导演 董事 主管 】`
+- `【 directly 直接地 adv 】` // direct
+- `【 labor law. 劳动法 】`
+- `【 labor worker. 劳务工 】`
+- _【 comply with. 遵守 】_
+- **【 The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply 】 with 【 labor laws 】. 导演直接宣布所有劳动工人必须遵守劳动法 】**
+- // -- 【 announce 宣布 宣告 】
+- // -- 【 declare 声明 宣布 】
+- // ---- `【 comply 遵守 v 】`
+- // ---- `【 comply with. 遵守 】`
+- // ---- We must 【 comply with 】 the company 【 regulations 】. 我们必须遵守公司规定
+- —
+-
+-
+-
+-
+- 2
+- `【 advanced 先进的 adj 】`
+- `【 advantage 优势 】`
+- `【 disadvantage 劣势 】`
+- > 【 in advance. 提前 】
+- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**

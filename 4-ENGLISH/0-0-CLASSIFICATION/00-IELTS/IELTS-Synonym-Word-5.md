@@ -3,7 +3,7 @@
 - 1
 - `【 ear 耳朵 】`
 - `【 earn 赚钱 v 】`
-- `【 earnest 认真的 adj 】`
+- `【 earnest 认真的 adj 】` // serious 严肃的 认真的 adj
 - `【 earnestly 认真地 adv 】`
 - **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，很认真地在赚钱 】**
 -

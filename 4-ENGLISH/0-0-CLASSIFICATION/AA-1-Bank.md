@@ -5,6 +5,39 @@
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
 -
+- [-DD.]
+- `【 security 安全 】`
+- `【 social security. 社保 】`
+- `【 social insurance. 社保 】`
+- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- // -- 【 social status. 社会地位 】
+- // -- 【 social media. 社交媒体 】
+- // -- 【 social security. 社保 】
+- // -- 【 social welfare. 社会福利 】
+-
+-
+- [-CC.]
+- `【 welfare 福利 】` // --------【 social welfare. 社会福利 】
+- `【 benefit 好处 益处 利益 】`
+- `【 bonus 奖金 】` // ----------【 performance bonus. 绩效奖金 】
+- `【 performance 绩效 表演 】` // 【 performance bonus. 绩效奖金 】
+- -
+- `【 salary 工资 】` -------------- 长期
+- `【 wage 工资 】` ---------------- 短期
+- `【 pay 工资 支付 】`
+- `【 bonus 奖金 】` // ------------ performance bonus. 绩效奖金
+- `【 reward 奖励 】`
+- -
+- > 【 social welfare. 社会福利 】
+- > 【 social status. 社会地位 】
+- > 【 social media. 社交媒体 】
+- > 【 social security. = social insurance. 社保 】
+- -
+- **【 The 【 social status 】 【 determines 】 the 【 social welfare 】. 社会地位决定了社会福利 】**
+- // -- 【 determine 决定 确定 v 】
+- // -- 【 Determine 】 the location of the 【 memory leak 】. // 确定
+-
+-
 - [-BB.]
 - `【 return on investment. 投资回报率 】`
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
@@ -78,7 +111,7 @@
 - 【 housing fund. 住房公积金 】
 - 【 pension 养老金 】
 - _【 pay tax. 交税 纳税 】_
-- **【 Everyone should 【 pay 】 their 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳个人所得税 】**
+- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
 -
@@ -281,9 +314,10 @@
 - `【 salary 工资 】` -------------- 长期
 - `【 wage 工资 】` ---------------- 短期
 - `【 pay 工资 支付 】`
+- `【 welfare 福利 】`
 - `【 bonus 奖金 】` // ------------ performance bonus. 绩效奖金
 - `【 reward 奖励 】`
-- `【 benefit 福利 】`
+- `【 benefit 好处 溢处 利益 】`
 - `【 performance 绩效 表演 】` // - performance bonus. 绩效奖金
 - `【 revenue = income. 收入 】`
 -
