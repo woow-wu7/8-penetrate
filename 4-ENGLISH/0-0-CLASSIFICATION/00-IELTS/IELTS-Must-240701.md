@@ -431,4 +431,5 @@
 - `【 advantage 优势 】`
 - `【 disadvantage 劣势 】`
 - > 【 in advance. 提前 】
+- **【 our 【 advantage 】 is that we have the 【 advanced 】 technology. 我们的优势是具有先进的技术 】**
 - **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**

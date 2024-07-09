@@ -513,7 +513,8 @@
 -
 - `【 propose 求婚 建议 v 】` // 【 propose 求婚 / purpose 目的 意图 / pursue 追求 追逐 】
 - `【 purpose 目的 意图 n 】`
-- `【 pursue 追求 追逐 v 】`
+- `【 pursue 追求 追逐 v 】` // pursue pursuit
+-
 - `【 elope 私奔 v 】`
 - _【 propose to sb. 向某人求婚 】_
 - > 【 propose to sb. 向某人求婚 】
@@ -769,6 +770,13 @@
 - `【 lie in. 在于 】`
 - `【 the key to. ...的关键 】`
 - **【 【 The key to 】 success 【 lies in 】 hard work and 【 persistence 】. 成功的关键在于努力和坚持 】**
+-
+-
+- [RR.]
+- `【 purpose 目的 意图 n 】`
+- `【 pursue 追求 追逐 v 】`
+- `【 propose 求婚 v 】`
+- **【 The 【 purpose 】 of his 【 proposing 】 was to 【 pursue 】 【 fame 】. 他求婚的目的是追求名声 】**
 
 ###### 2024-06-17
 

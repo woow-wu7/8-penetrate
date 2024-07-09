@@ -5,6 +5,9 @@
 People like to 【 pursue 】 money, 【 fame 】, and 【 wealth 】.
 人们喜欢追求金钱，名声和财富
 -
+The 【 purpose 】 of this 【 proposing 】 was to 【 pursue 】 the 【 fame 】.
+他求婚的目的是追求名声
+-
 He is a person 【 with 】 【 pursuit 】 and 【 pursuing 】 【 the first place 】.
 他是一个有追求的人，正在追赶第一名
 -
@@ -12,9 +15,17 @@ He 【 won 】 【 the first place 】 【 in 】 the 【 sports competition 】
 他在体育比赛中获得了第一名，奖品是一枚金牌
 -
 // -
+// 【 purpose 目的 意图 n 】
+// 【 pursue 追求 追逐 v 】
+// 【 propose 求婚 v 】
+// -
 // 【 pursue 追求 追赶 追逐 v 】
 // 【 pursuit 追求 追赶 追逐 n 】
 // TIPS: Pay attention to the pronunciation of the wold '【 pursue 】'.
+// -
+// 【 pursue 追求 追逐 v 】
+// 【 purpose 目的 意图 n 】
+// 【 propose 求婚 v 】
 // -
 // 【 the first place. 第一名 】
 // -
@@ -33,6 +44,7 @@ He 【 won 】 【 the first place 】 【 in 】 the 【 sports competition 】
 
 ------- ------- ------- ------- ------- ------- -------
 人们喜欢追求金钱，名声和财富
+他求婚的目的是追求名声
 他是一个有追求的人，正在追赶第一名
 他在体育比赛中获得了第一名，奖品是一枚金牌
 ```
@@ -41,8 +53,8 @@ He 【 won 】 【 the first place 】 【 in 】 the 【 sports competition 】
 
 ```
 1
-Do you have anything to 【 supplement 】?
-你还有什么要【补充】的吗？
+Do you have anything want to 【 supplement 】?
+你还有什么想要【补充】的吗？
 -
 Vegetables can 【 supplement 】 【 protein 】 and 【 vitamins 】.
 蔬菜可以补充蛋白质和维生素
@@ -53,18 +65,24 @@ If you 【 lack 】 【 protein 】 and 【 vitamins 】, you may 【 suffer fro
 // -
 // 【 supplement 补充 v n 】
 // -
-// 【 protein 蛋白质 】-------- 是不可数名词
-// 【 vitamin 维生素  】
+// 【 protein 蛋白质 】-------- 不可数 名词
+// 【 vitamin 维生素  】------- 可数 名词
 // -
 // 【 lack 缺乏 】
 // 【 luck 好运 n 】
-// 【 fortunate 幸运的 adj 】
-// 【 unfortunate 不幸的 adj 】
+// 【 fortunate 幸运的 adj 】 // --- fortunate fortunately
+// 【 unfortunate 不幸的 adj 】 // - unfortunate unfortunately
 // -
 // 【 malnutrition 营养不良 n 】
 // 【 nutrition 营养 n 】
 // 【 supplement nutrition. 补充营养 】
 // 【 supplement energy. 补充能量 】
+
+
+------- ------- ------- ------- ------- ------- -------
+你还有什么要【补充】的吗？
+蔬菜可以补充蛋白质和维生素
+如果你缺乏蛋白质和维生素的话，你可能会营养不良
 ```
 
 ##### 3 Make sentences 2024-07-03
@@ -500,6 +518,9 @@ The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rat
 The 【 social status 】 【 determines 】 the 【 social welfare 】. // 决定
 社会地位决定社会福利
 -
+People who have the 【 social status 】 also should 【 comply with 】 the company 【 regulation 】.
+有社会地位的人也应该遵守公司规定
+-
 【 slaves 】 are not 【 entitled 】 to 【 social welfare 】.
 奴隶没资格享受社会福利
 -
@@ -519,6 +540,9 @@ Six methods to 【 determine 】 whether it is an Array. // 确定
 // 【 welfare 福利 】
 // 【 social welfare. 社会福利 】
 // 【 social status. 社会地位 】
+// -
+// 【 comply with. 遵守 】
+// 【 regulation 规则 】
 
 
 4
@@ -549,6 +573,10 @@ Six methods to 【 determine 】 whether it is an Array. // 确定
 5
 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】.
 每个人都应该准时缴纳社保和个人所得税
+-
+People who have the 【 social status 】 also should 【 comply with 】 the company 【 regulation 】.
+有社会地位的人也应该遵守公司规定
+-
 // -
 // 【 social security. = social insurance. 社保 】
 // 【 social status. 社会地位 】
@@ -556,6 +584,9 @@ Everyone should pay their 【 social security 】 and 【 individual income tax 
 // 【 social welfare. 社会福利 】
 // -
 // 【 individual income tax. 个人所得税 】
+// -
+// 【 regulation 规定 】
+// 【 comply with. 遵守 】
 
 
 6
@@ -584,4 +615,15 @@ What's meaning of our 【 existence 】?
 // -
 // 【 meaningful 有意义的 adj 】
 // 【 meaning 意义 n 】
+```
+
+##### 9 Make sentences 2024-07-09
+
+```
+1
+Our 【 advantage 】 is that we have the 【 advanced 】 technology.
+我们的优势是具有先进的技术
+// -
+// 【 advantage 优势 】
+// 【 advanced 先进的 adj 】
 ```

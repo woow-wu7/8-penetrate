@@ -55,12 +55,15 @@
 - > 【 baggage claim. 行李领取处 领取行李 】
 -
 - `【 briefcase 公文包 】` // brief 简明的 简短的
-- `【 suitcase 手提箱 】`
+- `【 suitcase 手提箱 】` // 【 suitable 便携的 轻便的 adj 】
 - `【 backpack 背包 】`
 -
 - `【 trunk 树干 行李箱 后备箱 】`
 - `【 carry-on 小行李箱 】`
 - `【 baggage claim. 行李领取处 领取行李 】`
+-
+- > 【 suitable 便携的 轻便的 adj 】
+- > 【 suitcase 手提箱 n 】
 -
 - **【 The 【 luggage 】 we 【 packed 】 【 includes 】 【 backpacks 】 and 【 briefcases 】. 我们打包的行李包括背包和公文包 】**
 -
