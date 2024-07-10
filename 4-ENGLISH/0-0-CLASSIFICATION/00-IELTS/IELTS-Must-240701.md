@@ -433,3 +433,78 @@
 - > 【 in advance. 提前 】
 - **【 our 【 advantage 】 is that we have the 【 advanced 】 technology. 我们的优势是具有先进的技术 】**
 - **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+
+###### Must 2024-07-10
+
+- 1
+- `【 optimize 优化 v 】` // --------- optimize(v) / optimized(adj) / optimization(n)
+- `【 customize 定制 v 】` // -------- customize(v) / customized(adj)
+- `【 minimize 减少 最小化 v 】`
+-
+- `【 custom 习俗 风俗 n 】`
+- `【 customer 顾客 n 】`
+- `【 customize 定制 v 】`
+- `【 customized 定制的 adj / v过去式 】`
+-
+- > 【 optimize performance. 优化性能 】
+- > 【 customize development. 定制开发 】
+-
+-
+-
+-
+- [AA.]
+- `【 customer 顾客 n 】`
+- `【 customize 定制 v 】` // customized 定制的 adj
+- `【 optimize 优化 v 】` // optimization 优化 n
+- **【 we 【 are preparing to 】 【 customize 】 an 【 optimized 】 software for our 【 customers 】. 我们准备为客户定制一款经过优化的软件 】**
+-
+- [BB.]
+- `【 customize 定制 自定义 v 】`
+- `【 custom 风俗 习俗 n 】`
+- `【 customer 顾客 n 】`
+- **【 We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习俗自定义不同版本的软件 】**
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 approve 批准 同意 v 】`
+- `【 prove 证明 v 】`
+- **【 His 【 proposal 】 was 【 approved 】 because he has already 【 proven 】 its corrects. 他的方案得到了批准，因为他已经证明了改方案的正确性 】**
+- // -- 【 】
+- // -- prove -> proved -> proven
+-
+-
+-
+-
+-
+-
+-
+- 3
+- `【 retail 零售 v 】` // -------- 【 retail store. 零售店 】【 retail price. 零售价 n 】
+- `【 wholesale 批发 v 】` // ----- 【 wholesale market. 批发市场 】
+- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // 【 discount intensity. 打折力度 】
+- > 【 discount intensity. 打折力度 】
+-
+- `【 deal 处理 交易 v 】` // ----- 【 deal with. 处理 】
+- `【 dealer 经销商 n 】`
+- `【 retail store. 零售店 n 】`
+- `【 retail price. 零售价 n】`
+-
+- `【 retail 零售 v】`
+- `【 tail 尾巴 】`
+- `【 tale 故事 】` // 【 fairy tale. 童话故事 】
+-
+- `【 repository 仓库 】`
+- `【 warehouse 仓库 】`
+-
+-
+- [AA.]
+- `【 retail 零售 v 】`
+- `【 wholesale 批发 v】`
+- `【 discount 打折 v 】`
+- > 【 discount intensity. 打折力度 】
+- **【 The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different. 零售和批发打折的力度不一样 】**

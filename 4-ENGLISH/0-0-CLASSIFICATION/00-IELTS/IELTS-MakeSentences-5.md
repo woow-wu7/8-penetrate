@@ -627,3 +627,33 @@ Our 【 advantage 】 is that we have the 【 advanced 】 technology.
 // 【 advantage 优势 】
 // 【 advanced 先进的 adj 】
 ```
+
+##### 10 Make sentences 2024-07-10
+
+```
+1
+We 【 customize 】 an 【 optimized 】 software 【 for 】 our 【 customers 】.
+我们为我们的客户定制一款经过优化的软件
+-
+We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】.
+我们可以根据客户的习俗自定义不同版本的软件
+-
+// -
+// 【 custom 习俗 风俗 n 】
+// 【 customer 客户 n 】
+// 【 customize 定制 自定义 v 】
+// 【 customized 定制的 自定义的 adj 】
+// -
+// 【 optimize 优化 v 】
+// 【 optimized 优化的 adj 】
+
+
+2
+The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different.
+零售和批发的打折力度不一样
+// -
+// 【 discount intensity. 打折力度 】
+// -
+// 【 retail 零售 v 】
+// 【 wholesale 批发 v 】
+```
