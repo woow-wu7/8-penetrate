@@ -305,6 +305,7 @@
 -
 - **【 identify 识别 】** // 【 identify the identity. 识别身份 】
 - **【 verify 验证 】** // 【 verification code. 验证码 】
+- **【 simplify 简化 v 】** // 【 simplify the process. 简化流程 】
 - **【 specify 指定 明确说明 】**
 -
 - `【 recognize 识别 v 】` -------- 通过熟悉度认出
@@ -327,9 +328,7 @@
 - [BB.]
 - `【 verify 验证 v 】`
 - `【 verification code. 验证码 】`
-- **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number is correct. 输入验证码来验证身份证号码是否正确 】**
--
-- **【 Please 【 enter 】 the 【 verification code 】 to 【 verify 】 【 whether 】 the password is correct. 输入验证码验证密码是否正确 】**
+- **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number of the 【 customer 】 is correct. 输入验证码来验证顾客身份证号码是否正确 】**
 - **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
 - // -- 【 sufficient 足够的 充足的 adj 】
 - // -- 【 sufficient time. 充足的时间 】
@@ -449,20 +448,17 @@
 - > 【 optimize performance. 优化性能 】
 - > 【 customize development. 定制开发 】
 -
--
--
--
 - [AA.]
-- `【 customer 顾客 n 】`
+- `【 customer 顾客 n 】` // customer custom customize customized
 - `【 customize 定制 v 】` // customized 定制的 adj
 - `【 optimize 优化 v 】` // optimization 优化 n
-- **【 we 【 are preparing to 】 【 customize 】 an 【 optimized 】 software for our 【 customers 】. 我们准备为客户定制一款经过优化的软件 】**
+- **【 we 【 customized 】 an 【 optimized 】 software for our 【 customers 】. 我们为客户定制一款经过优化的软件 】**
 -
 - [BB.]
 - `【 customize 定制 自定义 v 】`
-- `【 custom 风俗 习俗 n 】`
+- `【 custom 风俗 习惯 习俗 n 】`
 - `【 customer 顾客 n 】`
-- **【 We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习俗自定义不同版本的软件 】**
+- **【 We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习惯自定义不同版本的软件 】**
 -
 -
 -
@@ -474,7 +470,7 @@
 - `【 approve 批准 同意 v 】`
 - `【 prove 证明 v 】`
 - **【 His 【 proposal 】 was 【 approved 】 because he has already 【 proven 】 its corrects. 他的方案得到了批准，因为他已经证明了改方案的正确性 】**
-- // -- 【 】
+- // -- 【 scheme 方案 】
 - // -- prove -> proved -> proven
 -
 -
@@ -489,7 +485,7 @@
 - `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // 【 discount intensity. 打折力度 】
 - > 【 discount intensity. 打折力度 】
 -
-- `【 deal 处理 交易 v 】` // ----- 【 deal with. 处理 】
+- `【 deal 处理 经营 交易 v 】` // -- 【 deal with. 处理 】
 - `【 dealer 经销商 n 】`
 - `【 retail store. 零售店 n 】`
 - `【 retail price. 零售价 n】`
@@ -508,3 +504,13 @@
 - `【 discount 打折 v 】`
 - > 【 discount intensity. 打折力度 】
 - **【 The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different. 零售和批发打折的力度不一样 】**
+
+###### Must 2024-07-11
+
+- 1
+- `【 comment 评论 v 】`
+- `【 recommend 推荐 v 】`
+- _【 recommend doing sth. 推荐做某事 】_
+- _【 comment on. 评论 】_
+- **【 Some 【 comments 】 we don't 【 recommend 】 you to see. 有些评论我们不推荐你去看 】**
+- **【 We don't 【 recommend 】 【 maliciously 】 【 commenting 】 【 on 】 others. 我们不推荐恶意评论他人 】**
