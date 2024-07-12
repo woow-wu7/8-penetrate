@@ -1,16 +1,21 @@
 ###### Must 2024-07-01
 
 - 1
-- `【 product 产品 n 】` // ------- 【 product requirement. 产品需求 】
+- `【 product 产品 n 】` // --------- 【 product requirement. 产品需求 】// 【 product quality. 产品质量 】
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
-- `【 reproduction 繁殖 n 】` // -- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
-- `【 production 生产 制造 n 】`
+- `【 reproduction 繁殖 n 】` // ---- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
+- `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产】
 - > 【 product requirement. 产品需求 】
+- > 【 product quality. 产品质量 】// quality quantity
+- _【 mass production. 批量生产 】_ // 名词短语
 - > 【 sexual reproduction. 有性繁殖 】
 - > 【 asexual reproduction. 无性繁殖 】
 - // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
 - // TIPS: Pay attention to the pronunciation of the word 'product'.
+- // -- _【 quantity 数量 】_
+- // -- _【 quality 质量 】_
+- // -- **【 We should ensure both the 【 quantity 】 and 【 quality 】 of the product 【 at the same time 】. 我们要同时保证产品的数量和质量 】**
 -
 - `【 produce 生产 制造 v 】` // --【 production 生产 制造 n 】
 - `【 reproduce 繁殖 v 】` // ----【 reproduction 繁殖 n 】
@@ -27,7 +32,7 @@
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】` // ------- attendant / assistant / secretary
 - `【 abundant 丰富的 大量的 adj 】`
-- `【 assistant 助手 助理 】` // secretary assistant attendant
+- `【 assistant 助手 助理 】` // 1. secretary assistant attendant // 2. assist assistant
 -
 - // EE: [product] something that 【 is made to 】 be sold.
 - // EE: [produce] to make something or bring something into 【 existence 】.
@@ -44,7 +49,7 @@
 - `【 reproduce 繁殖 v 】`
 - `【 reproduction 繁殖 n 】`
 - `【 descendant 子孙 后代 n 】`
-- **【 Plants 【 produce 】 seeds 【 to 】 【 reproduce 】 their 【 descendant 】. 植物产生种子用来繁殖后代 】**
+- **【 Plants 【 produce 】 seeds 【 to 】 【 reproduce 】 their 【 descendants 】. 植物产生种子用来繁殖后代 】**
 - **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
 - // -- 【 inhibit 抑制 】
 - // -- 【 bacteria 细菌 】
@@ -52,10 +57,18 @@
 - // -- 【 virus 病毒 】
 -
 - [BB.]
+- `【 mass production. 批量生产 】`
+- `【 product requirement. 产品需求】`
+- `【 product quality. 产品质量 】`
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
+- // -- 【 in the process of. 在...过程中 】
+-
+- [CC.]
 - `【 abundant 丰富的 大量的 adj 】`
+- `【 mineral resource. 矿产资源 】` // natural resource. // rare resource. // forest resource. // marine resource
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】`
-- **【 The 【 Abundant 】【 mineral resources 】 can 【 enable 】 our 【 descendants 】 not to work as 【 attendants 】. 丰富的矿产资源能够使我们的子孙后代不必从事服务员的工作 】**
+- **【 The 【 Abundant 】【 mineral resources 】 can 【 ensure 】 our 【 descendants 】 don't work 【 as 】 【 attendants 】. 丰富的矿产资源能够保证我们的子孙后代不从事服务员的工作 】**
 - // -- 【 mine 我的 / 矿 n / 开采 v 】
 - // -- 【 mineral 矿物的 adj 】
 - // -- `【 mineral resources. 矿产资源 】`
@@ -66,21 +79,30 @@
 - // -- rare resource.
 - // -- mineral resource. 矿产资源
 -
-- [CC.]
+- [DD.]
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 n 】`
+- 【 descendant of. ...的后代 】
 - **【 We are all the 【 descendants 】 of our 【 ancestors 】. 我们都是祖先的后代 】**
-- // My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】.
+- // -- 【 descendant of. ...的后代 】
 - // -- 【 pirate 海盗 n 】
+- // -- My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】.
 -
-- [DD.]
+- [EE.]
 - `【 product 产品 】`
 - `【 product requirement. 产品需求 】`
+- `【 product quality. 产品质量 】` // quality 质量 // quantity 数量
+- `【 mass production. 批量生产 n 】`
+- 【 reasonable 合理的 adj 】
+- 【 unreasonable 不合理的 adj 】
+- 【 reason 原因 n 】
 - **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
+- **【 The 【 product requirement 】to lower the 【 product quality 】 are unreasonable? 降低产品质量的产品需求不合理 】**`
 - // -- reasonable 合理的 adj
 - // -- reason 原因 n
 -
-- [EE.]
+- [FF.]
 - `【 sexual reproduction. 有性繁殖 】`
 - `【 asexual reproduction. 无性繁殖 】`
 - **【 Some plants have both the 【 abilities 】 of 【 sexual reproduction 】 and 【 asexual reproduction 】 【 at the same time 】. 有些植物同时具有有性繁殖和无性繁殖两种繁殖能力 】**
@@ -92,7 +114,7 @@
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
 - `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - > 【 supplement energy. 补充能量 】
-- > 【 supplement nutrition. 补充营养 】
+- > 【 supplement nutrition. 补充营养 】 // nutrition // malnutrition 营养不良
 - // nutrition 营养 n
 - // malnutrition 营养不良 n
 - > 【 school supplies. 学习用品 】
@@ -107,12 +129,11 @@
 - _【 provide sb with sth. 给某人提供某物 】_
 - // product produce reproduce reproduction sexual asexual
 -
-- `【 abundant 丰富的 大量的 adj 】` // abundant descendant attendant
+- `【 abundant 丰富的 大量的 adj 】` // ------- abundant descendant attendant assistant
 - `【 be rich in. 富含... 】`
-- `【 sufficient 充足的 足够的 adj 】`
 -
-- `【 sufficient 充足的 足够的 adj 】`
-- `【 insufficient 不足的 adj 】` // in + sufficient
+- `【 sufficient 充足的 足够的 adj 】` // ----- 【 sufficient time. 】 【 sufficient space. 】
+- `【 insufficient 不足的 adj 】` // --------- _【 insufficient 】_ in + sufficient
 - > 【 sufficient time. 充足的时间 】
 - > 【 sufficient space. 足够的空间 】
 - > 【 self-sufficient. 子给自足的 adj 】`
@@ -187,8 +208,8 @@
 ###### Must 2024-07-04
 
 - 1
-- `【 fear 害怕 v n 】`
-- `【 fare 票价 n 】` // fee 费用 // fare 票价
+- `【 fear 害怕 v n 】` // ---- 【 be afraid of. 害怕... 】
+- `【 fare 票价 n 】` // ------- fee 费用 // fare 票价
 - `【 tear 流泪v 泪水n 撕裂v 】`
 - `【 swear 发誓 】`
 - > 【 in tears. 流着泪 含着泪 】
@@ -198,9 +219,14 @@
 - `【 retire 退休 v 】` // ------ retire retirement
 - `【 entire 整个的 adj 】` // -- entire whole
 -
-- `【 tier 层 阶层 】` // ------- first-tier city. // developed city. // developing city. // coastal city.
+- `【 tier 层 阶层 】` // ------- 【 first-tier city. 】 // developed city. // developing city. // coastal city.
 - `【 tear 撕裂v 眼泪n 】`
 - `【 tire 疲劳v 轮胎n 】`
+-
+- `【 be mad at sb. 生某人的气 】`
+- `【 be angry with sb. 生某人的气 】`
+- `【 scold 责骂 】` // scold cold
+- `【 cold 冷的adj 感冒n 】`
 -
 -
 - [AA.]
@@ -208,7 +234,7 @@
 - `【 fear 害怕 v n 】`
 - `【 tear 流泪v 泪水n 撕碎v 】`
 - **【 I 【 swear 】 that I will not 【 tear 】 【 even though 】 I 【 fear 】. 我发誓就算害怕也不会流泪 】**
-- **【 I'm 【 afraid 】 that my teacher will 【 scold 】 me. 我害怕老师会骂我 】**
+- **【 I'm 【 afraid 】 my teacher will 【 scold 】 me. 我害怕老师会骂我 】**
 - // -- 【 scold 责骂 】
 - // -- 【 be mad at. 生气 】
 -
@@ -250,29 +276,37 @@
 - `【 in tears. 含着泪 留着泪 】`
 - tear -> tore
 - **【 He was 【 in tears 】 and prepared to 【 tear up 】 the 【 contract 】. 他含着泪，准备撕毁这个合同 】**
+-
+- [FF.]
+- `【 cold 感冒n 寒冷的adj 】`
+- `【 be mad at. = be angry with. 生气 】`
+- `【 scold 责骂 v 】`
+- **【 After I 【 had a code 】, she was only 【 mad 】 at me and didn't 【 scold 】 me. 我感冒后，她只是生气并没有责骂我 】**
+- // -- 【 have a cold. 感冒 】
 
 ###### Must 2024-07-05
 
 - 1
-- `【 nutrition 营养 】` // ------------【 supplement nutrition. 补充营养 】 // 【 supplement energy. 补充能量 】
+- `【 nutrition 营养 】` // ----------【 supplement nutrition. 补充营养 】 // 【 supplement energy. 补充能量 】
 - `【 malnutrition 营养不良 】`
 -
 - `【 protein 蛋白质 n 】`
 - `【 vitamin 维生素 n 】`
-- `【 mineral 矿物质n 矿物的adj 】` // ---【 mineral resource. 矿物资源 】// marine/natural/forest/rare/mineral resource.
+- `【 mineral 矿物质n 矿物的adj 】` // 【 mineral resource. 矿物资源 】// marine/natural/forest/rare/mineral resource.
 - `【 fat 脂肪n 肥胖的adj 】`
 -
-- `【 fertilizer 肥料 化肥 】` //【 chemical fertilizer. 化肥 】
+- `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
 -
 - `【 cell 细胞 】`
 - `【 tissue 组织 】` // tissue issue
 - `【 organ 器官 】`
 -
 - `【 absorb 吸收 】`
+- `【 discharge = release 释放 v 】`
 -
 -
 - [AA.]
-- `【 mineral 矿物质 】` // 【 mineral resource. 矿物资源 】
+- `【 mineral 矿物质 】` // 【 mineral resource. 矿产资源 】
 - `【 fertilizer 肥料 化肥 】`
 - **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
 -
@@ -280,7 +314,7 @@
 - [BB.]
 - `【 vitamin 维生素 】`
 - `【 protein 蛋白质 】`
-- `【 malnutrition 营养不良 】`
+- `【 malnutrition 营养不良 】` // nutrition malnutrition
 - **【 Lack of 【 vitamins 】 can 【 affect/impact/influence 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】. 缺乏维生素会影响器官吸收蛋白质，从而引起营养不良 】**
 - // -- lead to. 导致
 - // -- led to. 导致 ( 过去式 )

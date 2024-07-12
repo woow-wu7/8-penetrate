@@ -657,3 +657,49 @@ The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is diffe
 // 【 retail 零售 v 】
 // 【 wholesale 批发 v 】
 ```
+
+##### 11 Make sentences 2024-07-12
+
+```
+1
+There is a 【 sheep 】 standing on the 【 edge 】 of the 【 steep 】 【 cliff 】.
+有一只山羊站在陡峭的悬崖边上
+// -
+// 【 steep 陡峭的 adj 】
+// 【 sheep 羊 】
+// -
+// 【 steep cliff. 陡峭的悬崖 】
+// 【 cliff 悬崖 】
+// -
+// 【 edge 边缘 】
+
+
+2
+She 【 scolded 】 his child 【 coldly 】.
+她冷漠地责骂了她的小孩
+-
+She was 【 just 】 【 angry with 】 me but didn't 【 scold 】 me.
+She was 【 just 】 【 mad at 】 me but didn't 【 scold 】 me.
+她只是生我气，并没有骂我
+-
+// -
+// 【 scold 责骂 v 】
+// 【 cold 冷的 冷漠的 adj 】
+// -
+// 【 cold 冷的 冷漠的 adj 】
+// 【 coldly 冷漠地 adv 】
+// -
+// 【 be angry with sb. 生某人的气 】
+// 【 be mad at sb. 生某人的气 】
+
+
+3
+请注意别把数量和质量搞混了
+-
+We should ensure both the 【 quantity 】 and 【 quality 】 of the product 【 at the same time 】.
+我们要同时保证产品的数量和质量
+-
+// -
+// 【 quantity 数量 n 】
+// 【 quality 质量 n 】
+```

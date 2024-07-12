@@ -1954,14 +1954,14 @@ After graduation, I have done many different 【 types 】 of jobs, such as: 【
 
 // I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
-I use Vue and React 【 tech stacks 】 to develop 【 projects 】,
+I use Vue and React 【 tech stacks 】 to develop 【 projects项目 】,
 and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
 // I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
 
 
 (1)
-In the first company, I was 【 primarily 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
+In the first company, I was 【 primarily主要地 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
 
 The main function of the first application is to draw layers on Amap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
 
@@ -1971,14 +1971,14 @@ Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parkin
 (2)
 In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
 
-The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 】 of the 【 accidents 】 【 while 】 driving.
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability概率 】 of the 【 accidents 】 【 while 】 driving.
 
 The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
 
-The main function of the third application is to cover the entire 【 process of 】 【 claims 】.
+The main function of the third application is to cover the entire 【 process of 】 【 claims理赔索赔 】.
 
 (3)
-In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 】 and 【 efficiency engineering 】.
+In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure基础设施 】 and 【 efficiency engineering 】.
 
 The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
 // ( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
@@ -1993,14 +1993,18 @@ For the back-end part, It monitors the performance data in the 【 cluster 】 c
 3.2
 For the font-end part, it's divide into three layers: performance, errors, and user data.
 
-【 In term of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
+【 In terms of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
 
-【 In term of errors layer 】: It can report error types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
+【 In terms of errors layer 】: It can report 【 error 错误 】 types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
 
-【 In term of user data layer 】: It can collect user online duration, physical 【 device 】 【 information 】, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
+【 In terms of user data layer 】: It can collect user online duration, physical 【 device 】 【 information 】, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
 
 
 --- --- --- --- --- --- --- 分割线
+[ Words are easy to mispronounce. ]
+- [ error. 错误 ]
+- [ projects 项目]
+
 1
 bachelor 学士 单身汉
 master 硕士 主人
