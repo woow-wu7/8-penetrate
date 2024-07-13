@@ -13,11 +13,14 @@
 - `【 journey 旅程 n 】` --------- 【 Journey to the West. 西游记 】
 - `【 destination 目的地 】`
 -
-- `【 tourist attraction. 旅游景点 旅游胜地 】`
-- `【 tourist resort. 旅游景点 旅游胜地 】`
-- `【 Disney resort. 迪士尼度假区 】`
-- `【 resort 旅游胜地 采取 求助 】`
 - `【 sort 排序 】`
+- `【 resort 旅游胜地n 求助v 】` // 【 tourist resort. = tourist attraction. 】
+- `【 Disney resort. 迪士尼度假区 】`
+- `【 tourist resort. 旅游景点 旅游胜地 】` // tourist assort. = tourist attraction.
+- `【 tourist attraction. 旅游景点 旅游胜地 】`
+- _【 attract 吸引 v 】_
+- _【 attraction 吸引力 n 】_
+- _【 attractive 吸引的 有吸引力的 adj 】_
 -
 - > 【 tour guid. 导游 】
 - > 【 tourist attraction. 旅游景点 旅游胜地 】
@@ -26,8 +29,8 @@
 -
 - > 【 travel agency. 旅行社 】
 - > 【 travel expense. 旅行费用 】
-- // agent 代理人
-- // agency 代理机构
+- // 【 agent 代理人 】
+- // 【 agency 代理机构 】
 -
 - > 【 travel around the world. 环游世界 】
 - > 【 travel around China. 环游中国 】
@@ -51,16 +54,21 @@
 - [BB.]
 - `【 baggage 行李 】` ------ 美式英语
 - `【 luggage 行李 】` ------ 英式英语 正式
-- `【 package 包裹n 打包v 】` // pack 打包
+- `【 package 包裹n 打包v 】`
+- // 【 pack 打包 】
+- // 【 package 包裹 n 打包 v 】
+- // 【 backpack 背包 n 】
 - > 【 baggage claim. 行李领取处 领取行李 】
+- > 【 luggage claim. 行李领取处 领取行李 】
 -
-- `【 briefcase 公文包 】` // brief 简明的 简短的
+- `【 briefcase 公文包 】` //【 brief 简明的 简短的 】
 - `【 suitcase 手提箱 】` // 【 suitable 便携的 轻便的 adj 】
 - `【 backpack 背包 】`
 -
 - `【 trunk 树干 行李箱 后备箱 】`
 - `【 carry-on 小行李箱 】`
 - `【 baggage claim. 行李领取处 领取行李 】`
+- `【 luggage claim. 行李领取处 领取行李 】`
 -
 - > 【 suitable 便携的 轻便的 adj 】
 - > 【 suitcase 手提箱 n 】
@@ -74,14 +82,23 @@
 -
 -
 - [CC.]
-- `airport 飞机场` // port
-- `airline 航空公司`
-- `airplane 飞机` // plane 平面 飞机
-- `flight 航班`
+- `【 airplane 飞机 】` // plane 平面 飞机
+- `【 airport 飞机场 】` // port
+- `【 airline 航空公司 】`
+
+- `【 flight 航班 】`
+- `【 timetable 时刻表 课程表 】`
 -
-- `plane 飞机` // plane airplane
-- `port 港口 端口` // airport
-- `harbor 港口`
+- `【 port 港口 端口 】` // 【 airport 】
+- `【 harbor 港口 】`
+- `【 voyage 航行 v 】`
+-
+- `【 ship 轮船 】`
+- `【 yacht 游艇 】`
+- `【 submarine 潜水艇 】` // 【 marine resource. 海洋资源 】// 【 subtitle = caption. 字幕 】
+-
+- `【 plane = airplane 飞机 】` // plane airplane
+- `【 fighter 战士 战斗机 】`
 -
 - **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
 

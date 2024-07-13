@@ -4,10 +4,11 @@
 - `【 product 产品 n 】` // --------- 【 product requirement. 产品需求 】// 【 product quality. 产品质量 】
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
-- `【 reproduction 繁殖 n 】` // ---- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
-- `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产】
 - > 【 product requirement. 产品需求 】
 - > 【 product quality. 产品质量 】// quality quantity
+-
+- `【 reproduction 繁殖 n 】` // ---- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
+- `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产】
 - _【 mass production. 批量生产 】_ // 名词短语
 - > 【 sexual reproduction. 有性繁殖 】
 - > 【 asexual reproduction. 无性繁殖 】
@@ -65,7 +66,7 @@
 -
 - [CC.]
 - `【 abundant 丰富的 大量的 adj 】`
-- `【 mineral resource. 矿产资源 】` // natural resource. // rare resource. // forest resource. // marine resource
+- `【 mineral resource. 矿产资源 】` // natural resource. / rare resource. / forest resource. / marine resource / various resources.
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】`
 - **【 The 【 Abundant 】【 mineral resources 】 can 【 ensure 】 our 【 descendants 】 don't work 【 as 】 【 attendants 】. 丰富的矿产资源能够保证我们的子孙后代不从事服务员的工作 】**
@@ -98,7 +99,6 @@
 - 【 reason 原因 n 】
 - **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
-- **【 The 【 product requirement 】to lower the 【 product quality 】 are unreasonable? 降低产品质量的产品需求不合理 】**`
 - // -- reasonable 合理的 adj
 - // -- reason 原因 n
 -
@@ -154,10 +154,16 @@
 - `【 sufficient 充足的 足够的 adj 】` // sufficient time. // sufficient space.
 - _【 provide sb with sth. 给某人提供某物 】_
 - **【 The company 【 provides 】 【 sufficient 】 milk 【 supply 】. 公司提供充足的牛奶供应 】**
+- **【 We have 【 sufficient time 】 to 【 grind 】 the 【 beans 】 into the 【 powder 】. 我们有足够的时间把豆子磨成粉 】**
+- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 我们有足够的时间把药片溶解在水里 】**
 - // -- 【 sufficient 充足的 足够的 adj 】
+- // -- 【 sufficient time. 足够的时间 】
+- // -- 【 sufficient space. 足够的空间 】
+- // -- 【 dissolve 溶解 v 】
+- // -- 【 tablet 药片 平板 匾 】
 -
 - [BB.]
-- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】
+- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
 - `【 supply 供应 供给 日常用品 n 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - `【 abundant 丰富的 大量的 adj 】` // 【 abundant protein. 丰富的蛋白质 】
 - _【 provide sb with sth. 给某人提供某物 】_
@@ -197,6 +203,8 @@
 - // -- egg white.
 - // -- egg yolk.
 - // -- 【 abundant 丰富的 大量的 adj 】
+- // -- 【 protein 是不可数名词 】
+- // -- 【 vitamin 是可数名词 】
 -
 - [FF.]
 - `【 sufficient 充足的 足够的 adj 】`
@@ -208,7 +216,7 @@
 ###### Must 2024-07-04
 
 - 1
-- `【 fear 害怕 v n 】` // ---- 【 be afraid of. 害怕... 】
+- `【 fear 害怕 v n 】` // ---- 【 be afraid of. 害怕... 】 // be afraid of 用的比较多，而 fear 用的少
 - `【 fare 票价 n 】` // ------- fee 费用 // fare 票价
 - `【 tear 流泪v 泪水n 撕裂v 】`
 - `【 swear 发誓 】`
@@ -223,10 +231,10 @@
 - `【 tear 撕裂v 眼泪n 】`
 - `【 tire 疲劳v 轮胎n 】`
 -
-- `【 be mad at sb. 生某人的气 】`
+- `【 be mad at sb. 生某人的气 】` // 【 be mad at sb. = be angry with sb. 生某人气 】
 - `【 be angry with sb. 生某人的气 】`
-- `【 scold 责骂 】` // scold cold
-- `【 cold 冷的adj 感冒n 】`
+- `【 scold 责骂 】`
+- `【 cold 冷的adj 感冒n 】` // scold cold
 -
 -
 - [AA.]
@@ -267,7 +275,7 @@
 - `【 first-tier city. 一线城市 】`
 - `【 tier 层 层级 】`
 - `【 retire 退休 v 】`
-- `【 retirement 退休 n 】`
+- `【 retirement 退休 n 】` // retire v // retirement n
 - **【 After 【 retirement 】, he plans to travel to 【 first-tier city 】. 退休之后，他准备去一线城市旅游 】**
 - **【 【 coastal cities 】 are usually 【 developed cities 】 and【 first-tier cities 】. 沿海城市一般都是发达城市，也是一线城市 】**
 -
@@ -292,10 +300,18 @@
 -
 - `【 protein 蛋白质 n 】`
 - `【 vitamin 维生素 n 】`
-- `【 mineral 矿物质n 矿物的adj 】` // 【 mineral resource. 矿物资源 】// marine/natural/forest/rare/mineral resource.
 - `【 fat 脂肪n 肥胖的adj 】`
+- `【 mineral 矿物质n 矿物的adj 】`
+- > 【 mineral water. 矿泉水 】
+- > 【 mineral resource. 矿物资源 】
+- // 【 various resources. 各种资源 】
+- // 【 various aspects. 各种方面 】
+- // marine/natural/forest/rare/various/mineral
 -
 - `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
+- `【 chemical fertilizer 化肥 】`
+- // chemical 化学的 adj
+- // TIPS: Pay attention to the pronunciation of the word 'chemical'
 -
 - `【 cell 细胞 】`
 - `【 tissue 组织 】` // tissue issue
@@ -304,10 +320,15 @@
 - `【 absorb 吸收 】`
 - `【 discharge = release 释放 v 】`
 -
+- `【 various 各种 各种各样的 adj 】`
+- > 【 various resources. 各种资源 】
+- > 【 various aspects. 各个方面 】
+-
 -
 - [AA.]
 - `【 mineral 矿物质 】` // 【 mineral resource. 矿产资源 】
-- `【 fertilizer 肥料 化肥 】`
+- `【 fertilizer 肥料 化肥 】` // 【 chemical fertilizer 化肥 】
+- **【 【 Minerals 】 are not 【 chemical fertilizers 】. 矿物质不是化肥 】**
 - **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
 -
 -
@@ -315,12 +336,19 @@
 - `【 vitamin 维生素 】`
 - `【 protein 蛋白质 】`
 - `【 malnutrition 营养不良 】` // nutrition malnutrition
-- **【 Lack of 【 vitamins 】 can 【 affect/impact/influence 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】. 缺乏维生素会影响器官吸收蛋白质，从而引起营养不良 】**
+- **【 【 Lack of 】 【 vitamins 】 can 【 affect/impact/influence 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】. 缺乏维生素会影响器官吸收蛋白质，从而引起营养不良 】**
 - // -- lead to. 导致
 - // -- led to. 导致 ( 过去式 )
 - // ---- affect 影响
 - // ---- impact 影响
 - // ---- influence 影响
+-
+- [CC.]
+- `【 mineral water. 矿泉水 】`
+- `【 mineral resource. 矿产资源 】`
+- `【 various resources. 各种资源 】`
+- `【 various aspects. 各个方面 】`
+- **【 【 Mineral water 】 【 is rich in 】 【 various 】 【 minerals 】 矿泉水富含多种矿物质 】**
 
 ###### Must 2024-07-06
 
@@ -331,8 +359,8 @@
 - > 【 identity card. 身份证 】
 - > 【 automatic identification. 自动识别 】
 -
-- `【 verify 验证 v 】`
-- `【 validate 验证 v 】` // 【 verification code. 验证码 】
+- `【 verify 验证 v 】` // 【 verification code. 验证码 】
+- `【 validate 验证 v 】`
 - > 【 verification code. 验证码 】
 - > identify identification
 - > verify verification
@@ -434,6 +462,7 @@
 - `【 history 历史 】`
 - `【 victory 胜利 】`
 - **【 The 【 victory 】 of the 【 labors 】 has been written into the 【 history 】. 劳动人民的胜利已经写进历史 】**
+- // write -> written
 -
 - [CC.]
 - `【 directory 目录 】` // directory / director 导演董事主任
@@ -460,27 +489,28 @@
 -
 -
 - 2
-- `【 advanced 先进的 adj 】`
-- `【 advantage 优势 】`
-- `【 disadvantage 劣势 】`
+- `【 advanced 先进的 adj 】` // 【 advanced technology. 先进技术 】
+- `【 advantage 优势 优点 n 】`
+- `【 disadvantage 劣势 】` // advantage 优势 // disadvantage 劣势
 - > 【 in advance. 提前 】
 - **【 our 【 advantage 】 is that we have the 【 advanced 】 technology. 我们的优势是具有先进的技术 】**
-- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 】**
+- **【 Both frameworks have their own 【 advantages 】 and 【 disadvantages 】. 这两种框架都有自己的【优点】和【缺点】 】**
 
 ###### Must 2024-07-10
 
 - 1
-- `【 optimize 优化 v 】` // --------- optimize(v) / optimized(adj) / optimization(n)
-- `【 customize 定制 v 】` // -------- customize(v) / customized(adj)
+- `【 optimize 优化 v 】` // 【 optimize performance. 优化性能 】// ---- optimize(v) / optimized(adj) / optimization(n)
+- `【 customize 定制 v 】` //【 customize development. 定制开发 】// --- customize(v) / customized(adj)
 - `【 minimize 减少 最小化 v 】`
 -
 - `【 custom 习俗 风俗 n 】`
 - `【 customer 顾客 n 】`
-- `【 customize 定制 v 】`
+- `【 customize 定制 v 】` // 【 customize development. 定制开发 】
 - `【 customized 定制的 adj / v过去式 】`
 -
 - > 【 optimize performance. 优化性能 】
 - > 【 customize development. 定制开发 】
+- > 【 software development. 软件开发 】
 -
 - [AA.]
 - `【 customer 顾客 n 】` // customer custom customize customized
@@ -492,7 +522,7 @@
 - `【 customize 定制 自定义 v 】`
 - `【 custom 风俗 习惯 习俗 n 】`
 - `【 customer 顾客 n 】`
-- **【 We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习惯自定义不同版本的软件 】**
+- **【 We can 【 customize 】 the different 【 versions 】 of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习惯自定义不同版本的软件 】**
 -
 -
 -
@@ -520,17 +550,17 @@
 - > 【 discount intensity. 打折力度 】
 -
 - `【 deal 处理 经营 交易 v 】` // -- 【 deal with. 处理 】
-- `【 dealer 经销商 n 】`
+- `【 dealer 经销商 n 】` // ------- dealer deal
 - `【 retail store. 零售店 n 】`
 - `【 retail price. 零售价 n】`
 -
-- `【 retail 零售 v】`
+- `【 retail 零售 v 】`
 - `【 tail 尾巴 】`
 - `【 tale 故事 】` // 【 fairy tale. 童话故事 】
 -
-- `【 repository 仓库 】`
+- `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history
 - `【 warehouse 仓库 】`
--
+- **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
 -
 - [AA.]
 - `【 retail 零售 v 】`
@@ -538,6 +568,11 @@
 - `【 discount 打折 v 】`
 - > 【 discount intensity. 打折力度 】
 - **【 The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different. 零售和批发打折的力度不一样 】**
+-
+- [BB.]
+- `【 dealer 经销商 n 】`
+- `【 retail store. 零售店 】`
+- **【 The 【 goods 】 were not sold through 【 dealers 】 but were sold directly to customers by 【 retail stores 】. 商品没有经过经销商，而是零售店直接卖给消费者 】**
 
 ###### Must 2024-07-11
 

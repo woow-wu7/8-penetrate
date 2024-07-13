@@ -1993,7 +1993,7 @@ For the back-end part, It monitors the performance data in the 【 cluster 】 c
 3.2
 For the font-end part, it's divide into three layers: performance, errors, and user data.
 
-【 In terms of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various 】 resources.
+【 In terms of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various各种的 】 resources.
 
 【 In terms of errors layer 】: It can report 【 error 错误 】 types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
 
@@ -2004,6 +2004,7 @@ For the font-end part, it's divide into three layers: performance, errors, and u
 [ Words are easy to mispronounce. ]
 - [ error. 错误 ]
 - [ projects 项目]
+- [ various 各种 各种个样的 adj ] // 【 various resources. 各种资源 】 // 【 various aspect. 各个方面 】
 
 1
 bachelor 学士 单身汉

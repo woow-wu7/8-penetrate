@@ -703,3 +703,165 @@ We should ensure both the 【 quantity 】 and 【 quality 】 of the product �
 // 【 quantity 数量 n 】
 // 【 quality 质量 n 】
 ```
+
+##### 12 Make sentences 2024-07-13
+
+```
+1
+The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 the 【 mass reproduction 】.
+新的产品需求是如何在批量生产过程中提高产品质量
+-
+Plants 【 produce 】 seeds to 【 reproduce 】 their 【 descendants 】.
+植物产生种子用来繁殖后代
+// -
+// 【 product requirement. 产品需求 】
+// 【 product quality. 产品质量 】
+// 【 mass production. 批量生产 n 】
+// -
+// 【 in the process of. 在...过程中 】
+// ------
+// 【 produce 生产 v 】
+// 【 reproduce 繁殖 v 】
+// ------
+// 【 descendants 后代 】
+// abundant
+// attendant
+// assistant
+// secretary
+
+
+2
+After I 【 had a cold 】, she was only 【 mad 】 at me and didn't 【 scold 】 me.
+我感冒后，她只是生我气，并没有骂我
+// -
+// 【 scold 责骂 v 】
+// 【 cold 感冒n 寒冷的adj 】
+// 【 have a cold. 感冒 】
+// -
+// 【 be mad at sb. 生某人的气 】
+// 【 be angry with sb. 生某人的气 】
+
+
+3
+【 Lack of 】 【 vitamins 】 can 【 affect 】 the 【 organs 】 to absorb 【 protein 】, then cause 【 malnutrition 】.
+缺乏维生素会影响器官吸收蛋白质，从而引起营养不良
+// -
+// 【 vitamin 维生素 n 】 --- 可数
+// 【 protein 蛋白质 n 】 --- 不可数
+// -
+// 【 nutrition 营养 n 】
+// 【 malnutrition 营养不良 n 】
+// -
+// 【 lack of. 缺乏 】
+
+
+4
+【 Mineral water 】 【 is rich in 】 【 various 】 【 minerals 】.
+矿泉水富含各种矿物质
+-
+【 Minerals 】 are not 【 chemical fertilizers 】.
+矿物质不是化肥
+-
+The book 【 cover 】 the 【 various aspects 】 of 【 history 】 and 【 culture 】.
+这本书涵盖了历史和文化的各个方面
+-
+// -
+// 【 mineral 矿物n 矿物的adj 】
+// 【 mineral water. 矿泉水 】
+// 【 mineral resource. 矿物资源 】
+// 【 various resources. 各种资源 】
+// -
+// 【 be rich in. 富含 】
+// -
+// 【 various 各种 各种各样的 adj 】
+// 【 various aspects. 各种方面 】
+// 【 various resources. 各种资源 】
+// -
+// 【 chemical fertilizers 肥料 】
+// 【 chemical 化学的 adj 】
+// TIPS: Pay attention to the pronunciation of the word 'chemical'.
+
+
+5
+The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有的劳动工人必须遵守劳动法
+-
+We must 【 comply with 】 the company 【 regulations 】.
+我们必须遵守公司规定
+-
+// -
+// 【 comply with. 遵守 】
+// 【 comply 遵守 】
+// -
+// 【 regulation 规定 规则 n 】
+// -
+// 【 director 导演 董事 主管 】
+// 【 direct 直接的 adj 】
+// 【 directly 直接地 adv 】
+// -
+// 【 labor worker. 劳动工人 】
+// 【 labor law. 劳动法 】
+// 【 labor day. 劳动节 】
+// 【 labor contract. 劳动合同 】
+// -
+// 【 announce 宣布 】
+// 【 declare 宣布 声明 】
+
+
+6
+Our 【 advantage 】 is that we have the 【 advanced 】 technology.
+我们的优势是我们有先进的技术
+// -
+// 【 advanced 先进的 adj 】
+// 【 advantage 优势 优点 n 】
+// -
+// 【 advantage 优势 优点 n 】
+// 【 disadvantage 劣势 缺点 n 】
+// -
+// 【 advanced 先进的 】
+// 【 advanced technology. 先进的技术 】
+
+
+7
+We 【 customized 】 an 【 optimized 】 software for our 【 customers 】.
+我们为客户定制一款经过优化的软件
+-
+We can 【 customize 】 the different 【 versions 】 of the software 【 according to 】 the 【 custom 】 of our 【 customers 】.
+我们可以根据客户的习惯自定义不同版本的软件
+-
+// -
+// 【 custom 习俗 风俗 习惯 n 】
+// 【 customer 顾客 n 】
+// 【 customize 定制 v 】
+// 【 customized 定制的 adj 】
+// -
+// 【 optimize 优化 v 】
+// 【 customize 定制 v 】
+// -
+// 【 optimize performance. 优化性能 】
+// 【 customize development. 定制开发 】
+// 【 software development. 软件开发 】
+// -
+// 【 according to. 根据 】
+
+
+8
+The 【 goods 】 【 were not sold 】 through the 【 dealer 】 but were sold directly to the customers 【 by 】 the 【 retail stores 】.
+商品没有经过净销售，而是直接由零售店卖给消费者
+-
+// -
+// 【 dealer 经销商 n 】
+// 【 retail store. 零售店 】
+// -
+// 【 tail 尾巴 】
+// 【 retail 零售 v 】
+// 【 retail store. 零售店 】
+// 【 retail price. 零售价 】
+// -
+// 【 deal with. 处理 】
+// 【 dealer 经销商 n 】
+// 【 The leader will 【 deal with 】 the 【 matter 】 【 personally 】. 领导将【亲自】【处理】这件【事】 】
+// -
+// 【 wholesale 批发 v 】
+// 【 retail 零售 v】
+```
