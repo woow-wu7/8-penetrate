@@ -1,4 +1,4 @@
-##### 1 Make sentences 2024-07-01
+–##### 1 Make sentences 2024-07-01
 
 ```
 1
@@ -864,4 +864,56 @@ The 【 goods 】 【 were not sold 】 through the 【 dealer 】 but were sold
 // -
 // 【 wholesale 批发 v 】
 // 【 retail 零售 v】
+```
+
+##### 13 Make sentences 2024-07-14
+
+```
+1
+Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence.
+请注意这个介词在句子中的位置
+// -
+// 【 preposition 介词 n 】
+// 【 position 位置 职位 n 】
+
+
+2
+Sentences 【 are divided into 】 【 declarative sentences 】 and 【 interrogative sentences 】.
+句子分为陈述句和疑问句
+// -
+// 【 declarative sentence. 陈述句 】
+// 【 interrogative sentence. 疑问句 】
+// -
+// 【 be divided into. 被分为... 被分成... 】
+
+
+3
+【 Planes 】 【 take off 】 and 【 land 】 at the 【 airport 】.
+飞机在机场起飞和降落
+-
+The plane 【 taxis 】 on the 【 runway 】.
+飞机在跑道上滑行
+-
+The 【 timetable 】 【 shows / displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】.
+时刻表上显示了飞机出发和到达的时间
+-
+// -
+// 【 take off. 起飞 脱掉 】
+// 【 land 着陆v 陆地n 】
+// -
+// 【 runway 跑道 】
+// 【 taxi 滑行v 跑道v 】
+// -
+// at the airport. 在机场
+// on the runway. 在跑道上
+// -
+// 【 plane 飞机 】
+// 【 airplane 飞机 】
+// 【 airport 机场 】
+// 【 airline 航空公司 】
+// -
+// 【 flight 航班 】
+// 【 timetable 时刻表 】
+// 【 departure time. 出发时间 】
+// 【 arrival time. 到达时间 】
 ```

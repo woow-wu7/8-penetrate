@@ -3,20 +3,20 @@
 ##### (1) **The words that you mast know.**
 
 - [AA.]
-- `【 tour 旅游 旅行 v n 】` // --【 tour guide. 导游 】
-- `【 tourist 游客 n 】` // -----【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】
-- `【 tourism 旅游业 】` // -----【 tourism industry. 旅游业 】
+- `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】
+- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】
+- `【 tourism 旅游业 】` // -----------------【 tourism industry. 旅游业 】
 -
-- `【 tour 旅游 旅行 v n 】`
-- `【 travel 旅游 旅行 v n 】` ---- 长时间
-- `【 trip 旅行 旅游 n 】` -------- 短时间
-- `【 journey 旅程 n 】` --------- 【 Journey to the West. 西游记 】
+- `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
+- `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】
+- `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】
+- `【 journey 旅程 n 】` --------------- // 【 Journey to the West. 西游记 】
 - `【 destination 目的地 】`
 -
 - `【 sort 排序 】`
-- `【 resort 旅游胜地n 求助v 】` // 【 tourist resort. = tourist attraction. 】
+- `【 resort 旅游胜地n 求助v 】` // ----------【 tourist resort. = tourist attraction. 】
 - `【 Disney resort. 迪士尼度假区 】`
-- `【 tourist resort. 旅游景点 旅游胜地 】` // tourist assort. = tourist attraction.
+- `【 tourist resort. 旅游景点 旅游胜地 】` // 【 tourist assort. = tourist attraction. 】
 - `【 tourist attraction. 旅游景点 旅游胜地 】`
 - _【 attract 吸引 v 】_
 - _【 attraction 吸引力 n 】_
@@ -27,6 +27,8 @@
 - > 【 tourist resort. 旅游景点 旅游胜地 】// resort sort
 - > 【 tourism industry. 旅游业 】
 -
+- > 【 business trip. 出差 】
+-
 - > 【 travel agency. 旅行社 】
 - > 【 travel expense. 旅行费用 】
 - // 【 agent 代理人 】
@@ -35,7 +37,6 @@
 - > 【 travel around the world. 环游世界 】
 - > 【 travel around China. 环游中国 】
 - > 【 travel to sp. ...旅游 】
--
 -
 - **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
 -
@@ -52,10 +53,10 @@
 -
 -
 - [BB.]
-- `【 baggage 行李 】` ------ 美式英语
-- `【 luggage 行李 】` ------ 英式英语 正式
-- `【 package 包裹n 打包v 】`
-- // 【 pack 打包 】
+- `【 baggage 行李 】` ------ 美式英语 // ----- 【 baggage claim. 行李领取处 领取行李 】
+- `【 luggage 行李 】` ------ 英式英语 正式 // - 【 luggage claim. 行李领取处 领取行李 】
+- `【 package 包裹n 打包v 】` // -------------- 【 package design. 包装设计 】 // 【 software package. 软件包 】
+- // 【 pack 打包 v 】
 - // 【 package 包裹 n 打包 v 】
 - // 【 backpack 背包 n 】
 - > 【 baggage claim. 行李领取处 领取行李 】
@@ -72,6 +73,7 @@
 -
 - > 【 suitable 便携的 轻便的 adj 】
 - > 【 suitcase 手提箱 n 】
+- > 【 briefcase 公文包 n 】
 -
 - **【 The 【 luggage 】 we 【 packed 】 【 includes 】 【 backpacks 】 and 【 briefcases 】. 我们打包的行李包括背包和公文包 】**
 -
@@ -82,12 +84,50 @@
 -
 -
 - [CC.]
+- `【 vacation 假期 】`
+- `【 holiday 假期 】`
+- > 【 go on vacation. = go for a vacation. 去度假 】
+-
+- `【 leave 离开v 请假n 】`
+- `【 ask for leave. 请假 】`
+- `【 ask for sick leave. 请病假 】`
+- `【 ask for personal leave. 请事假 】`
+-
+- > 1. What did you do 【 on your vacation 】?
+- > 2. Do you plan to 【 go on a vacation 】? 度假
+- > 2. Do you plan to 【 travel 】? 旅游
+- > 3. Do you have a plan to 【 go on vacation 】 or 【 travel 】?
+-
+- **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 【 travel 】. 他计划请事假离开北京去旅游 】**
+- **【 【 left 】 is the 【 past tense 】 of 【 leave 】. 'left' 是 'leave' 的过去式 】**
+- // -- 【 past tense. 过去式 过去时 】
+- // 【 1. What's the 【 opposite 】 of 【 wet 】? 】 [wet->dry]
+- // 【 2. What's the 【 plural 】 of 【 leaf 】? 】[leaf->leaves] // leave 离开 休假 // leaves 叶子
+- // 【 3. What's the 【 past tense 】 of 【 leave 】? 】 [leave->left] [leave/leaves]
+-
+-
+-
+-
+-
+-
+-
+- [DD.]
 - `【 airplane 飞机 】` // plane 平面 飞机
 - `【 airport 飞机场 】` // port
 - `【 airline 航空公司 】`
+- > 【 airplane runway. 飞机跑道 】
 
 - `【 flight 航班 】`
 - `【 timetable 时刻表 课程表 】`
+- `【 take off. 起飞 脱下 】`
+- `【 taxi 滑行v 出租车n 】` // taxi slip
+- `【 airplane runway. 飞机跑道 】`
+- > 【 arrival time. 到达时间 】
+- > 【 departure time. 出发时间 】
+- // arrive 到达 v
+- // depart 离开 v
+- //【 arrival 到达 n 】
+- //【 departure 离开 n 】
 -
 - `【 port 港口 端口 】` // 【 airport 】
 - `【 harbor 港口 】`
@@ -101,6 +141,29 @@
 - `【 fighter 战士 战斗机 】`
 -
 - **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
+- **【 Planes 【 take off 】 and 【 land 】 at the airport. 飞机在机场起飞和降落 】**
+- **【 The plane 【 taxis 】 on the 【 runway 】.飞机在跑道上滑行 】**
+- **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
+- // -- 【 taxi 滑行 v 出租车 n 】
+- // -- flight 航班
+- // -- timetable 时刻表
+- // -- take off. 起飞 脱下
+- // -- land 降落 n 陆地 n
+-
+-
+-
+-
+-
+-
+-
+- [EE.]
+- `【 spring outing. 春游 n 】`
+- `【 picnic 野餐 野炊 v n 】`
+- `【 camp 露营 v n 】` // _【 summer camp. 夏令营 】_ // _【 winter camp. 冬令营 】_
+- `【 tent 帐篷 】`
+- `【 adventure 冒险 探险 v n 】`
+-
+- **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新【推出】了一个【夏令营】【活动】 】**
 
 ##### Others
 

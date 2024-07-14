@@ -2,6 +2,10 @@
 
 ##### (1) **The words that you mast know.**
 
+- [-FF.]
+- `【 position 位置 职位 n 】`
+- `【 preposition 介词 】`
+- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
 -
 - [-EE.]
 - `【 security 安全 】`

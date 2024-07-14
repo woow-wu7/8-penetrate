@@ -5,7 +5,7 @@
 - `【 produce 生产 制造 v 】`
 - `【 reproduce 繁殖 v 】`
 - > 【 product requirement. 产品需求 】
-- > 【 product quality. 产品质量 】// quality quantity
+- > 【 product quality. 产品质量 】// 【 quality 质量 】 【 quantity 数量 】 【 quantifier 量词 】
 -
 - `【 reproduction 繁殖 n 】` // ---- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
 - `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产】
