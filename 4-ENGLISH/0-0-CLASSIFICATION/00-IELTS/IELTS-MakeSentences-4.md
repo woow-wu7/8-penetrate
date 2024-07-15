@@ -1721,6 +1721,8 @@ The attendants need to 【 train 】 on the 【 train 】 【 for 】 a week.
 // 【 assistant 助手 助理 】
 // 【 attendant 服务员 】
 // 【 secretary 秘书 】
+// `【 steward 乘务员 】`
+// `【 stewardess 空姐 】`
 // -
 // 【 assist 协助 辅助 v 】
 // 【 insist = persist. 坚持 v 】

@@ -34,6 +34,8 @@
 - `【 attendant 服务员 】` // ------- attendant / assistant / secretary
 - `【 abundant 丰富的 大量的 adj 】`
 - `【 assistant 助手 助理 】` // 1. secretary assistant attendant // 2. assist assistant
+- > 【 steward 乘务员 】
+- > 【 stewardess 空姐 】
 -
 - // EE: [product] something that 【 is made to 】 be sold.
 - // EE: [produce] to make something or bring something into 【 existence 】.
@@ -583,3 +585,63 @@
 - _【 comment on. 评论 】_
 - **【 Some 【 comments 】 we don't 【 recommend 】 you to see. 有些评论我们不推荐你去看 】**
 - **【 We don't 【 recommend 】 【 maliciously 】 【 commenting 】 【 on 】 others. 我们不推荐恶意评论他人 】**
+
+###### Must 2024-07-15
+
+- 1
+- `【 past tense. 过去时 过去式  】`
+- `【 present tense. 现在时 】` // 【 present 现在 n 现在的 adj 】
+- `【 future tense. 将来时 】`
+-
+- `【 passive voice. 被动语态 】`
+- `【 active voice. 主动语态  】`
+-
+- `【 subject 主语 】`
+- `【 predicate 谓语 】`
+- `【 object 宾语 物体 对象 】`
+- `【 attributive 定语 】`
+- `【 adverbial 状语 】` // ------------ 【 adverb 副词 】 // 【 verb 动词 】
+- `【 complement 补语n 补充v 补足v 】` // 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
+-
+- `【 noun 名词 】`
+- `【 pronoun 代词 】`
+- `【 verb 动词 】` // --------------- 【 irregular verb. 不规则动词 】 【 regular verb. 规则动词 】
+- `【 adverb 副词 】` // -------------- verb adverb adverbial
+- `【 adjective 形容词 】`
+- `【 preposition 介词 】` // -------- 【 position 位置 岗位 】 【 preposition 介词 】
+- `【 quantifier 量词 】` // --------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
+-
+- `【 interrogative 疑问的adj 】`
+- `【 declarative 陈述的 adj 】`
+- _【 interrogative sentence. 疑问句 】_
+- _【 declarative sentence. 陈述句 】_
+-
+- > 【 regular verb. 规则动词】
+- > 【 irregular verb. 不规则动词 】
+-
+- `【 word 单词 】`
+- `【 phrase 短语 】`
+- `【 sentence 句子 】`
+- `【 fixed collocation. 固定搭配 】` // 【 collocation 搭配 】
+- // 【 collocation 搭配 】
+-
+- [AA.]
+- `【 position 位置 职位 n 】`
+- `【 preposition 介词 】`
+- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
+-
+- [BB.]
+- `【 past tense. 过去时 】`
+- `【 present tense. 现在时 】`
+- `【 future tense. 将来时 】`
+- **【 This sentence uses the 【 past tense 】.这个句子使用的是过去时态 】**
+-
+- [CC.]
+- `【 interrogative sentence. 疑问句 】`
+- `【 declarative sentence. 陈述句 】`
+- **【 Sentences 【 are divided into 】 【 interrogative sentences 】 and 【 declarative sentences 】. 句子分为疑问句和陈述句 】**
+- // 【 be divided into. 被分为... 】
+-
+- [DD.]
+- `【 fixed collocation. 固定搭配 】`
+- **【 There are many 【 fixed collocations 】 in English language. 英语中有很多固定搭配 】**

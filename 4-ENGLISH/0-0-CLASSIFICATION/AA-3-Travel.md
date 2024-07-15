@@ -8,19 +8,25 @@
 - `【 tourism 旅游业 】` // -----------------【 tourism industry. 旅游业 】
 -
 - `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
-- `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】
-- `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】
+- `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 // -------【 go traveling. 去旅行 】
+- `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】// --------- 【 go on a trip. = go for a trip. 去旅行 】
 - `【 journey 旅程 n 】` --------------- // 【 Journey to the West. 西游记 】
-- `【 destination 目的地 】`
+- `【 destination 目的地 】` // 【 destiny = fate 命运 】 【 destination 目的地 】
+- > 【 go traveling. 去旅行 】
+- > 【 go on a trip. = go for a trip. 去旅行 】
+- > 【 go on a vacation. = go for a vacation. 去度假 】
 -
 - `【 sort 排序 】`
 - `【 resort 旅游胜地n 求助v 】` // ----------【 tourist resort. = tourist attraction. 】
 - `【 Disney resort. 迪士尼度假区 】`
 - `【 tourist resort. 旅游景点 旅游胜地 】` // 【 tourist assort. = tourist attraction. 】
 - `【 tourist attraction. 旅游景点 旅游胜地 】`
+-
 - _【 attract 吸引 v 】_
 - _【 attraction 吸引力 n 】_
-- _【 attractive 吸引的 有吸引力的 adj 】_
+- _【 attractive 吸引的 adj 有吸引力的 adj 】_
+- _【 be attractive to. 对...很有吸引力 】_
+- // 【 be attractive to. 对...很有吸引力 】
 -
 - > 【 tour guid. 导游 】
 - > 【 tourist attraction. 旅游景点 旅游胜地 】
@@ -28,7 +34,9 @@
 - > 【 tourism industry. 旅游业 】
 -
 - > 【 business trip. 出差 】
+- > 【 go on a trip. = go for a trip. 去旅行 】
 -
+- > 【 go traveling. 去旅行 】
 - > 【 travel agency. 旅行社 】
 - > 【 travel expense. 旅行费用 】
 - // 【 agent 代理人 】
@@ -40,11 +48,14 @@
 -
 - **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
 -
-- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist attractions 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
+- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist resorts 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
 -
 - **【 Please 【 sort 】 these 【 tourist resort 】. 请你对这些旅游胜地排序 】**
 -
 - **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
+-
+- **【 The 【 tourist resorts 】 here 【 are attractive to 】 【 tourists 】. 这里的旅游胜地对游客很有吸引力 】**
+- // -- 【 be attractive to. 对...很有吸引力 】
 -
 -
 -
@@ -62,9 +73,9 @@
 - > 【 baggage claim. 行李领取处 领取行李 】
 - > 【 luggage claim. 行李领取处 领取行李 】
 -
-- `【 briefcase 公文包 】` //【 brief 简明的 简短的 】
+- `【 briefcase 公文包 】` //【 brief 简明的 简短的 】 【 brave 勇敢的 adj 】
 - `【 suitcase 手提箱 】` // 【 suitable 便携的 轻便的 adj 】
-- `【 backpack 背包 】`
+- `【 backpack 背包 】` // --【 backpack pack package 】
 -
 - `【 trunk 树干 行李箱 后备箱 】`
 - `【 carry-on 小行李箱 】`
@@ -86,7 +97,9 @@
 - [CC.]
 - `【 vacation 假期 】`
 - `【 holiday 假期 】`
-- > 【 go on vacation. = go for a vacation. 去度假 】
+- > 【 go on a vacation. = go for a vacation. 去度假 】
+- > 【 go on a trip. = go for a trip. 去旅行 】
+- > 【 go traveling. 去旅行 】
 -
 - `【 leave 离开v 请假n 】`
 - `【 ask for leave. 请假 】`
@@ -112,22 +125,42 @@
 -
 -
 - [DD.]
-- `【 airplane 飞机 】` // plane 平面 飞机
+- `【 airplane 飞机 】` // plane 飞机 平面
 - `【 airport 飞机场 】` // port
 - `【 airline 航空公司 】`
+- > 【 runway 跑道 】
 - > 【 airplane runway. 飞机跑道 】
-
-- `【 flight 航班 】`
+-
+- `【 flight 航班 】` // 【 shuttle 班车 】
 - `【 timetable 时刻表 课程表 】`
 - `【 take off. 起飞 脱下 】`
-- `【 taxi 滑行v 出租车n 】` // taxi slip
-- `【 airplane runway. 飞机跑道 】`
+- `【 land 下降v 陆地n 】`
+- `【 taxi 滑行v 出租车n 】` // ------- taxi slip
+- `【 airplane runway. 飞机跑道 】` // 【 runway 跑道 】
 - > 【 arrival time. 到达时间 】
 - > 【 departure time. 出发时间 】
 - // arrive 到达 v
 - // depart 离开 v
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
+-
+- `【 pilot 飞行员 】`
+- `【 steward 乘务员  】`
+- `【 stewardess 空姐 】`
+- > 【 assistant 助理 】
+- > 【 attendant 服务员 】
+- > 【 secretary 秘书 】 // 【 secret 秘密 】 【 secretary 】
+- > 【 steward 乘务员 】
+- > 【 stewardess 空姐 】
+-
+- `【 shuttle bus. 班车 】`
+- `【 last bus. 末班车 】`
+-
+- _【 set off. 出发 】_
+- _【 see off. 送别 】_
+- _【 take off. 起飞 脱下 】_
+- _【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 】_
+- // 在飞机起飞之前，他准备动身前往机场为他的朋友们送行
 -
 - `【 port 港口 端口 】` // 【 airport 】
 - `【 harbor 港口 】`
@@ -164,6 +197,44 @@
 - `【 adventure 冒险 探险 v n 】`
 -
 - **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新【推出】了一个【夏令营】【活动】 】**
+
+##### (2) **The phrase that you mast know.**
+
+- 1
+- `【 take off. 起飞 脱下 】`
+- `【 set off. 出发 】`
+- `【 see off. 送别 】`
+- `【 drop off. 放下 送到 】`
+- > 【 see sb off. 送别某人 】
+- **【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 在飞机起飞之前，他准备动身前往机场为他的朋友们送行 】**
+-
+- **【 I went to the airport to 【 see off 】 my friend. 我去机场送别我的朋友 】**
+- **【 I went to the airport to see my friend off. 我去机场送别我的朋友 】** // 都可以
+-
+-
+- 2
+- `【 pick up. 接人 捡起 】`
+- **【 We 【 put down 】 the 【 baggages 】 and went to 【 airport 】 to 【 pick up 】 the 【 tourists 】. 】**
+- // -- 【 put down. 放下 】
+- // -- baggage luggage
+-
+-
+- 3
+- `【 shuttle 班车 】`
+- `【 shuttle bus. 班车 】` // shuttle bus. //
+- `【 last bus. 末班车 】`
+- **【 This 【 shuttle bus 】 is the 【 last bus 】. 这辆班车是末班车 】**
+-
+-
+- 4
+- `【 drop off. 放下 送到 】`
+- **【 Could you 【 drop me off 】 at the train station? 你能在火车站让我下车吗？ 】**
+-
+-
+- 5
+- `【 check in. 登记入住 】`
+- `【 check out. 退房 】`
+- **【 You need to 【 check in 】 before you 【 check out 】. 退房之间你要登记入住 】**
 
 ##### Others
 
@@ -449,7 +520,10 @@
 - _【 local residents. 本地居民 】_
 - _【 residential adderss. 居住地址 】_
 -
-- `check in. 登记入住 托运`
+- `【 check in. 登记入住 托运 】`
+- `【 check out. 退房 】`
+-
+-
 - `carry-on. 小行李箱`
 - `【 Pick them up. 接他们 】` // pick up. 举起 接送
 -

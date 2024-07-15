@@ -9,7 +9,7 @@
 -
 - [-EE.]
 - `【 security 安全 】`
-- `【 social security. 社保 】` // social security. = social insurance. 社保
+- `【 social security. 社保 】` // 【 social security. = social insurance. 社保 】
 - `【 social insurance. 社保 】`
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - > 【 social security. = social insurance. 社保 】
@@ -152,6 +152,8 @@
 - `【 assistant 助手 助理 n 】`
 - `【 attendant 服务员 】`
 - `【 secretary 秘书 】`
+- `【 steward 乘务员 】`
+- `【 stewardess 空姐 】`
 -
 - _【 suffer from. 遭受 患上 v 】_
 -

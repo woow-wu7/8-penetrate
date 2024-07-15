@@ -917,3 +917,50 @@ The 【 timetable 】 【 shows / displays 】 the 【 departure time 】 and �
 // 【 departure time. 出发时间 】
 // 【 arrival time. 到达时间 】
 ```
+
+##### 14 Make sentences 2024-07-15
+
+```
+1
+Please don't 【 make excuses 】 for 【 failure 】.
+请不要为失败找借口
+// -
+// 【 make excuses. 找借口 】
+// -
+// failure fail failed
+// success succeed successful
+
+
+2
+I 【 bet 】 he won't 【 betray 】 you.
+我打赌他不会背叛你
+// -
+// 【 bet 打赌 v 】
+// 【 betray 背叛 v 】
+
+
+3
+Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】.
+在飞机起飞之前，他准备动身前往机场为他的朋友们送行
+// -
+// 【 take off. 起飞 脱掉 v 】
+// 【 set off. 出发  】
+// 【 see off. 送行 送别 】
+
+
+4
+This 【 shuttle bus 】 is the 【 last bus 】.
+这辆班车是末班车
+// -
+// 【 shuttle 班车 】
+// 【 shuttle bus. 班车 】
+// 【 last bus. 末班车 】
+
+
+5
+You need to 【 check in 】 before you 【 check out 】.
+退房之间你要登记入住
+// -
+// 【 check in. 登记入住 】
+// 【 check out. 退房 】
+```
