@@ -16,6 +16,8 @@
 - > 【 go on a trip. = go for a trip. 去旅行 】
 - > 【 go on a vacation. = go for a vacation. 去度假 】
 -
+- `【 scenery 风景 景色 n 】`
+-
 - `【 sort 排序 】`
 - `【 resort 旅游胜地n 求助v 】` // ----------【 tourist resort. = tourist attraction. 】
 - `【 Disney resort. 迪士尼度假区 】`
@@ -68,7 +70,7 @@
 - `【 luggage 行李 】` ------ 英式英语 正式 // - 【 luggage claim. 行李领取处 领取行李 】
 - `【 package 包裹n 打包v 】` // -------------- 【 package design. 包装设计 】 // 【 software package. 软件包 】
 - // 【 pack 打包 v 】
-- // 【 package 包裹 n 打包 v 】
+- // 【 package 包裹 n 打包 v 】// package design. // software package.
 - // 【 backpack 背包 n 】
 - > 【 baggage claim. 行李领取处 领取行李 】
 - > 【 luggage claim. 行李领取处 领取行李 】
@@ -136,6 +138,7 @@
 - `【 take off. 起飞 脱下 】`
 - `【 land 下降v 陆地n 】`
 - `【 taxi 滑行v 出租车n 】` // ------- taxi slip
+- `【 runway 跑道 】`
 - `【 airplane runway. 飞机跑道 】` // 【 runway 跑道 】
 - > 【 arrival time. 到达时间 】
 - > 【 departure time. 出发时间 】

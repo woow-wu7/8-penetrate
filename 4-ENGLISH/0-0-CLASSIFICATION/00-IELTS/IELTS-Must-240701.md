@@ -589,17 +589,22 @@
 ###### Must 2024-07-15
 
 - 1
-- `【 past tense. 过去时 过去式  】`
-- `【 present tense. 现在时 】` // 【 present 现在 n 现在的 adj 】
+- `【 past tense. 过去时 过去式  】` // 【 tense 紧张的 adj 时态 n 】
+- `【 present tense. 现在时 】` // ----【 present 现在 n 现在的 adj 】
 - `【 future tense. 将来时 】`
 -
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
 -
+- `【 interrogative sentence. 疑问句 】`
+- `【 declarative sentence. 陈述句 】`
+- _【 interrogative 疑问的 adj 】_
+- _【 declarative 陈述的 adj 】_
+-
 - `【 subject 主语 】`
 - `【 predicate 谓语 】`
 - `【 object 宾语 物体 对象 】`
-- `【 attributive 定语 】`
+- `【 attributive 定语 】` // ---------- 【 attribute 属性 】
 - `【 adverbial 状语 】` // ------------ 【 adverb 副词 】 // 【 verb 动词 】
 - `【 complement 补语n 补充v 补足v 】` // 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
 -
@@ -611,11 +616,7 @@
 - `【 preposition 介词 】` // -------- 【 position 位置 岗位 】 【 preposition 介词 】
 - `【 quantifier 量词 】` // --------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 -
-- `【 interrogative 疑问的adj 】`
-- `【 declarative 陈述的 adj 】`
-- _【 interrogative sentence. 疑问句 】_
-- _【 declarative sentence. 陈述句 】_
--
+- > 【 verb 动词 】
 - > 【 regular verb. 规则动词】
 - > 【 irregular verb. 不规则动词 】
 -
@@ -623,6 +624,7 @@
 - `【 phrase 短语 】`
 - `【 sentence 句子 】`
 - `【 fixed collocation. 固定搭配 】` // 【 collocation 搭配 】
+- `【 conversation 对话 】`
 - // 【 collocation 搭配 】
 -
 - [AA.]
