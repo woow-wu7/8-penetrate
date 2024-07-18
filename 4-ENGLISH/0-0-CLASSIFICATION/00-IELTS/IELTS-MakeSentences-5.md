@@ -1,4 +1,4 @@
-–##### 1 Make sentences 2024-07-01
+##### 1 Make sentences 2024-07-01
 
 ```
 1
@@ -963,4 +963,18 @@ You need to 【 check in 】 before you 【 check out 】.
 // -
 // 【 check in. 登记入住 】
 // 【 check out. 退房 】
+```
+
+##### 15 Make sentences 2024-07-18
+
+```
+1
+The 【 quantifier 】 【 are used to 】 【 modify 】 【 quantify 】.
+量词是用来修书数量的
+// -
+// 【 quantifier 量词 】
+// 【 quantity 数量 】
+// 【 quality 质量 】
+// -
+// 【 modify 修改 修饰 v 】
 ```

@@ -14,6 +14,7 @@
 - > 【 asexual reproduction. 无性繁殖 】
 - // TIPS: Pay attention to the different pronunciation between 'produce' and 'product'.
 - // TIPS: Pay attention to the pronunciation of the word 'product'.
+- // -- _【 quantifier 量词 】_
 - // -- _【 quantity 数量 】_
 - // -- _【 quality 质量 】_
 - // -- **【 We should ensure both the 【 quantity 】 and 【 quality 】 of the product 【 at the same time 】. 我们要同时保证产品的数量和质量 】**
@@ -63,7 +64,7 @@
 - `【 mass production. 批量生产 】`
 - `【 product requirement. 产品需求】`
 - `【 product quality. 产品质量 】`
-- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the product【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高该产品的产品质量 】**
 - // -- 【 in the process of. 在...过程中 】
 -
 - [CC.]
@@ -109,6 +110,13 @@
 - `【 asexual reproduction. 无性繁殖 】`
 - **【 Some plants have both the 【 abilities 】 of 【 sexual reproduction 】 and 【 asexual reproduction 】 【 at the same time 】. 有些植物同时具有有性繁殖和无性繁殖两种繁殖能力 】**
 - // -- 【 at the same time. 同时 】
+-
+- [GG.]
+- `【 quantifier 量词 】`
+- `【 quantity 数量 】`
+- > quality 质量
+- **【 The【 quantifier 】 【 are used to 】 【 modify 】 the 【 quantity 】.量词是用来修饰数量的 】**
+- // -- 【 modify 修饰 v 】
 
 ###### Must 2024-07-02
 
@@ -533,19 +541,6 @@
 -
 -
 - 2
-- `【 approve 批准 同意 v 】`
-- `【 prove 证明 v 】`
-- **【 His 【 proposal 】 was 【 approved 】 because he has already 【 proven 】 its corrects. 他的方案得到了批准，因为他已经证明了改方案的正确性 】**
-- // -- 【 scheme 方案 】
-- // -- prove -> proved -> proven
--
--
--
--
--
--
--
-- 3
 - `【 retail 零售 v 】` // -------- 【 retail store. 零售店 】【 retail price. 零售价 n 】
 - `【 wholesale 批发 v 】` // ----- 【 wholesale market. 批发市场 】
 - `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // 【 discount intensity. 打折力度 】
@@ -647,3 +642,80 @@
 - [DD.]
 - `【 fixed collocation. 固定搭配 】`
 - **【 There are many 【 fixed collocations 】 in English language. 英语中有很多固定搭配 】**
+
+###### Must 2024-07-18
+
+- 1
+- `【 prove 证明 v 】`
+- `【 approve 批准 同意 v 】`
+-
+- `【 credential 证书 证明 证件 n 】`
+- `【 certificate 证书 证明 证件 n 】`
+-
+- `【 authority 权威 权利 权限 n 】` // 【 authority agency. 权威机构 】
+- `【 right 权利 】`
+-
+- `【 author 作者 作家 n 】`
+- `【 authority 权威 权利 权限 n 】`
+- > 【 authority agency. 权威机构 】
+-
+-
+- [AA.]
+- `【 prove 证明 v 】`
+- `【 approve 批准 同意 v 】`
+- `【 authority 权威 权利 权限 n 】`
+- **【 Fact have 【 proved 】 that The 【 authority agency 】 has the 【 right 】 to 【 approve 】 the 【 certificate 】of the 【 author 】. 事实证明权威机构有权利批准作家的证书 】**
+-
+- [BB.]
+- `【 prove 证明 v 】`
+- `【 certificate 证书 证明 证件 n 】`
+- `【 credential 证书 证明 证件 n 】`
+- **【 You need a 【 certificate 】 to 【 prove 】 you have the 【 permission 】 to open the computer. 你需要证书来证明你有权限打开电脑 】**
+
+- **【 His 【 proposal 】 was 【 approved 】 because he has already 【 proven 】 its corrects. 他的方案得到了批准，因为他已经证明了改方案的正确性 】**
+- // -- 【 scheme 方案 】
+- // -- prove -> proved -> proven
+-
+-
+-
+-
+-
+-
+- 2
+- `【 steward 乘务员 空少 】`
+- `【 stewardess 空姐 】`
+-
+- `【 waiter 男服务员 】` // ---- wai ter ---- // water 一般只餐厅服务员
+- `【 waitress 女服务员 】` // -- wai tres
+-
+- `【 attendant 服务员 】` // --【 gas station attendant. 加油站服务员 】 【 parking attendant. 停车场管理员 】
+- `【 waiter 服务员 】` // ----- water 一般只餐厅服务员
+-
+- `【 cleaner 清洁工 n 】`
+- `【 landlord 房东 业主 n 】`
+-
+- `【 attendant 服务员 n 】`
+- `【 assistant 助理 n 】` // --【 assist 帮助 协助 】
+- `【 descendant 后代 n 】` // -【 ancestor 祖先 】
+- `【 abundant 丰富的 n 】`
+- `【 secretary 秘书 n 】` // --【 secret 秘密 】
+-
+- `【 actor 男演员 】` // actor // tractor
+- `【 actress 女演员 】`
+- `【 waiter 男服务员 】`
+- `【 waitress 女服务员 】`
+- `【 headmaster 男校长 】`
+- `【 headmistress 女校长 】`
+- `【 prince 王子 】` // prince // province
+- `【 princess 公主 】`
+-
+- > 【 secretary 秘书 n 】 // --【 secret 秘密 】
+- > 【 laboratory 实验室 n 】 // labor 【 labor day. 】 【 labor law. 】 【 labor contract. 】 【 labor worker. 】
+- > 【 dormitory 宿舍 n 】
+- > 【 repository 仓库 n 】 // -【 code repository. 代码仓库 】
+- > 【 directory 目录 n 】// ---【 file directory. 文件目录 】 // 【 sale director. 销售总监 】 // 【 personnel director. 人事总监 】
+- > 【 factory 工厂 n 】
+- > 【 victory 胜利 n 】
+- > 【 history 历史 n 】
+-
+- **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**

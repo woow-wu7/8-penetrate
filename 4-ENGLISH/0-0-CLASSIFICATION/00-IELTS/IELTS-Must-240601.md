@@ -90,6 +90,8 @@
 - `【 princess 公主 】`
 - `【 headmaster 男校长 】`
 - `【 headmistress 女校长 】`
+- `【 waiter 男服务员 】`
+- `【 waitress 女服务员 】`
 - _【 act in. 扮演 】_
 - _【 act as. 扮演 】_
 - _【 participate in. 参加 】_
