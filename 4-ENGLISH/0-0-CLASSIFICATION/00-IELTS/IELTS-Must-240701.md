@@ -2,13 +2,13 @@
 
 - 1
 - `【 product 产品 n 】` // --------- 【 product requirement. 产品需求 】// 【 product quality. 产品质量 】
-- `【 produce 生产 制造 v 】`
-- `【 reproduce 繁殖 v 】`
+- `【 produce 生产 制造 v 】` // ----- 【 produce product. 生产产品 】
+- `【 reproduce 繁殖 v 】` // ------- 【 reproduce / reproduction 】
 - > 【 product requirement. 产品需求 】
 - > 【 product quality. 产品质量 】// 【 quality 质量 】 【 quantity 数量 】 【 quantifier 量词 】
 -
 - `【 reproduction 繁殖 n 】` // ---- 【 sexual reproduction. 有性繁殖 】 // 【 asexual reproduction. 无性繁殖 】
-- `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产】
+- `【 production 生产 制造 n 】` // -- 【 mass production. 批量生产 】
 - _【 mass production. 批量生产 】_ // 名词短语
 - > 【 sexual reproduction. 有性繁殖 】
 - > 【 asexual reproduction. 无性繁殖 】
@@ -61,10 +61,10 @@
 - // -- 【 virus 病毒 】
 -
 - [BB.]
-- `【 mass production. 批量生产 】`
 - `【 product requirement. 产品需求】`
 - `【 product quality. 产品质量 】`
-- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the product【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高该产品的产品质量 】**
+- `【 mass production. 批量生产 】`
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the product 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高该产品的产品质量 】**
 - // -- 【 in the process of. 在...过程中 】
 -
 - [CC.]
@@ -123,6 +123,7 @@
 - 2
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
 - `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
+- `【 provide 提供 】` // 【 supply 供应 供给 / provide 提供 】
 - > 【 supplement energy. 补充能量 】
 - > 【 supplement nutrition. 补充营养 】 // nutrition // malnutrition 营养不良
 - // nutrition 营养 n
@@ -132,18 +133,20 @@
 - // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
 -
 - `【 supplier 供应商 供应者 n 】`
-- `【 supply 供应vn 供给vn 日常用品n 】`
--
+- `【 supply 供应vn 供给vn 日常用品n 】` // 【 supply 供应 供给 v 】 // 【 provide 提供 v】
 - `【 provide 提供 v 】`
 - > 【 provide sb with sth. 给某人提供某物 】
-- _【 provide sb with sth. 给某人提供某物 】_
 - // product produce reproduce reproduction sexual asexual
+-
+- `【 supplier 供应商 】`
+- `【 dealer 经销商 】`
+- `【 seller 销售者 】`
 -
 - `【 abundant 丰富的 大量的 adj 】` // ------- abundant descendant attendant assistant
 - `【 be rich in. 富含... 】`
 -
 - `【 sufficient 充足的 足够的 adj 】` // ----- 【 sufficient time. 】 【 sufficient space. 】
-- `【 insufficient 不足的 adj 】` // --------- _【 insufficient 】_ in + sufficient
+- `【 insufficient 不足的 adj 】` // --------- 【 insufficient 】 // in + sufficient
 - > 【 sufficient time. 充足的时间 】
 - > 【 sufficient space. 足够的空间 】
 - > 【 self-sufficient. 子给自足的 adj 】`
@@ -222,13 +225,18 @@
 - _【 sufficient time. 充足的时间 】_
 - _【 sufficient space. 足够的空间 】_
 - **【 【 Although 】 we don't have 【 sufficient space 】, we have 【 sufficient time 】. 虽然我们没有足够的空间，但是我们有足够的时间 】**
+- [GG.]
+- `【 supplier 供应商 n 】`
+- `【 dealer 经销商 n 】`
+- **【 The 【 supplier 】 【 provides 】 goods, and the 【 dealer 】 sells goods. 供应商提供商品，经销售销售商品 】**
+- // -- 【 provide 提供 】
 
 ###### Must 2024-07-04
 
 - 1
-- `【 fear 害怕 v n 】` // ---- 【 be afraid of. 害怕... 】 // be afraid of 用的比较多，而 fear 用的少
-- `【 fare 票价 n 】` // ------- fee 费用 // fare 票价
-- `【 tear 流泪v 泪水n 撕裂v 】`
+- `【 fear 害怕 v n 】` // ------- 【 be afraid of. 害怕... 】 // be afraid of 用的比较多，而 fear 用的少
+- `【 fare 票价 n 】` // ---------- fee 费用 // fare 票价
+- `【 tear 流泪v 泪水n 撕裂v 】` // 【 in tears. 流泪 】
 - `【 swear 发誓 】`
 - > 【 in tears. 流着泪 含着泪 】
 - > 【 tear up. 撕毁 撕碎 】
@@ -253,8 +261,11 @@
 - `【 tear 流泪v 泪水n 撕碎v 】`
 - **【 I 【 swear 】 that I will not 【 tear 】 【 even though 】 I 【 fear 】. 我发誓就算害怕也不会流泪 】**
 - **【 I'm 【 afraid 】 my teacher will 【 scold 】 me. 我害怕老师会骂我 】**
+- **【 I 【 swear 】 I will not 【 curse 】 others 】**
 - // -- 【 scold 责骂 】
 - // -- 【 be mad at. 生气 】
+- // -- 【 swear 发誓 咒骂 v 】
+- // -- 【 curse 咒骂 v 】
 -
 - [BB.]
 - `【 tier 层 阶层 】`
@@ -297,8 +308,8 @@
 -
 - [FF.]
 - `【 cold 感冒n 寒冷的adj 】`
-- `【 be mad at. = be angry with. 生气 】`
 - `【 scold 责骂 v 】`
+- `【 be mad at. = be angry with. 生气 】`
 - **【 After I 【 had a code 】, she was only 【 mad 】 at me and didn't 【 scold 】 me. 我感冒后，她只是生气并没有责骂我 】**
 - // -- 【 have a cold. 感冒 】
 
@@ -311,16 +322,17 @@
 - `【 protein 蛋白质 n 】`
 - `【 vitamin 维生素 n 】`
 - `【 fat 脂肪n 肥胖的adj 】`
-- `【 mineral 矿物质n 矿物的adj 】`
+- `【 mineral 矿物质n 矿物的adj 】` // 【 mineral water. 矿泉水 】 // 【 mineral resource. 矿物资源 】
 - > 【 mineral water. 矿泉水 】
 - > 【 mineral resource. 矿物资源 】
 - // 【 various resources. 各种资源 】
 - // 【 various aspects. 各种方面 】
-- // marine/natural/forest/rare/various/mineral
+- // 【 marine/natural/forest/rare/various/mineral resource 】
+- // TIPS: Pay attention to the pronunciation of the word 'fat'.
 -
 - `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
 - `【 chemical fertilizer 化肥 】`
-- // chemical 化学的 adj
+- // 【 chemical 化学的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'chemical'
 -
 - `【 cell 细胞 】`
@@ -336,7 +348,7 @@
 -
 -
 - [AA.]
-- `【 mineral 矿物质 】` // 【 mineral resource. 矿产资源 】
+- `【 mineral 矿物质 】` // ------【 mineral water. 矿泉水 】 【 mineral resource. 矿产资源 】
 - `【 fertilizer 肥料 化肥 】` // 【 chemical fertilizer 化肥 】
 - **【 【 Minerals 】 are not 【 chemical fertilizers 】. 矿物质不是化肥 】**
 - **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
@@ -541,23 +553,27 @@
 -
 -
 - 2
-- `【 retail 零售 v 】` // -------- 【 retail store. 零售店 】【 retail price. 零售价 n 】
-- `【 wholesale 批发 v 】` // ----- 【 wholesale market. 批发市场 】
-- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // 【 discount intensity. 打折力度 】
+- `【 retail 零售 v 】` // -------- 【 retail price. 零售价 n 】 // -----【 retail store. 零售店 】
+- `【 wholesale 批发 v 】` // ----- 【 wholesale price. 批发价 n 】// ---【 wholesale market. 批发市场 】
+- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // -----【 discount intensity. 打折力度 】
 - > 【 discount intensity. 打折力度 】
 -
-- `【 deal 处理 经营 交易 v 】` // -- 【 deal with. 处理 】
-- `【 dealer 经销商 n 】` // ------- dealer deal
+- `【 deal 处理 经营 交易 v 】` // - 【 deal with. 处理 】
+- `【 dealer 经销商 n 】` // ------ 【 dealer deal 】
 - `【 retail store. 零售店 n 】`
-- `【 retail price. 零售价 n】`
+- `【 retail price. 零售价 n 】`
+-
+- > 【 supplier 供应商 n 】`
+- > 【 dealer 经销商 n 】`
+- //【 seller 销售者 n 】
+-
+- `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history
+- `【 warehouse 仓库 】`
 -
 - `【 retail 零售 v 】`
 - `【 tail 尾巴 】`
 - `【 tale 故事 】` // 【 fairy tale. 童话故事 】
 -
-- `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history
-- `【 warehouse 仓库 】`
-- **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
 -
 - [AA.]
 - `【 retail 零售 v 】`
@@ -570,6 +586,12 @@
 - `【 dealer 经销商 n 】`
 - `【 retail store. 零售店 】`
 - **【 The 【 goods 】 were not sold through 【 dealers 】 but were sold directly to customers by 【 retail stores 】. 商品没有经过经销商，而是零售店直接卖给消费者 】**
+- **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
+-
+- [CC.]
+- `【 supplier 供应商 n 】`
+- `【 dealer 经销商 n 】`
+- **【 The 【 supplier 】 【 provides 】 goods, and the 【 dealer 】 sells goods. 供应商提供商品，经销售销售商品 】**
 
 ###### Must 2024-07-11
 
@@ -719,3 +741,5 @@
 - > 【 history 历史 n 】
 -
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+
+###### Must 2024-07-19

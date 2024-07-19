@@ -965,16 +965,53 @@ You need to 【 check in 】 before you 【 check out 】.
 // 【 check out. 退房 】
 ```
 
-##### 15 Make sentences 2024-07-18
+##### 15 Make sentences 2024-07-19
 
 ```
 1
-The 【 quantifier 】 【 are used to 】 【 modify 】 【 quantify 】.
-量词是用来修书数量的
+The 【 quantifier 】 【 is used to 】 【 modify 】 【 quantify 】.
+量词是用来修饰数量的
+-
+Pay attention to the 【 position 】 of the 【 preposition 】 in the sentence.
+注意介词在句子中的位置
+-
 // -
 // 【 quantifier 量词 】
 // 【 quantity 数量 】
 // 【 quality 质量 】
 // -
 // 【 modify 修改 修饰 v 】
+// -
+// 【 position 位置 n 】
+// 【 preposition 介词 n 】
+
+
+2
+The new 【 product requirement 】 is how to improve the 【 product quality 】 of the 【 product 】 【 in the process of 】 the 【 mass production 】.
+新的产品需求是如何在批量生产中提高这个产品的产品质量
+-
+// -
+// 【 product requirement. 产品需求 】
+// 【 product quality. 产品质量 】
+// -
+// 【 produce 生产 v 】
+// 【 mas production. 批量生产 】
+
+
+3
+The 【 supplier 】 【 provide 】 goods and the 【 dealer 】 sells goods.
+供应商提供商品，经销商销售商品
+// -
+// 【 supplier 供应商 】
+// 【 dealer 经销商 】
+// -
+// 【 provide 提供 v 】
+
+
+4
+I 【 swear 】 I will not 【 curse 】 others.
+我发誓不会咒骂他人
+// -
+// 【 swear 发誓 咒骂 v 】
+// 【 curse 咒骂 v 】
 ```
