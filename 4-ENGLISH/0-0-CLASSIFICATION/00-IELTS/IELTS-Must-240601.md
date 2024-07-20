@@ -575,6 +575,11 @@
 - > die (V) -> death (N)
 - _【 brave vs grave 】_
 -
+- `【 infant 婴儿 n】`
+- `【 teenager 青少年 n 】`
+- `【 adult 成年人 n 】`
+- `【 middle-aged person. 中年人 n 】`
+-
 - `【 grave 坟墓 】` = tomb
 - `【 brave 勇敢的 adj 】`
 - `【 bravery 勇敢 n 】`

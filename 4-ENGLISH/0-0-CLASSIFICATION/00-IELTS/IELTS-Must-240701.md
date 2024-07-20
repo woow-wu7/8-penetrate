@@ -319,9 +319,10 @@
 - `【 nutrition 营养 】` // ----------【 supplement nutrition. 补充营养 】 // 【 supplement energy. 补充能量 】
 - `【 malnutrition 营养不良 】`
 -
-- `【 protein 蛋白质 n 】`
-- `【 vitamin 维生素 n 】`
-- `【 fat 脂肪n 肥胖的adj 】`
+- `【 protein 蛋白质 n 】` // ------- 【 high protein. 高蛋白 】
+- `【 vitamin 维生素 n 】` // ------- 【 vitamin C. 维生素 C 】
+- `【 fat 脂肪n 肥胖的adj 】` // ----- 【 burn fat. 燃烧脂肪 】 // 【 burn 燃烧 烧毁 烧坏 v 】// `burn -> burnt`
+- `【 fiber 纤维 】` // ---------- // 【 plant fiber. 植物纤维 】
 - `【 mineral 矿物质n 矿物的adj 】` // 【 mineral water. 矿泉水 】 // 【 mineral resource. 矿物资源 】
 - > 【 mineral water. 矿泉水 】
 - > 【 mineral resource. 矿物资源 】
@@ -332,6 +333,8 @@
 -
 - `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
 - `【 chemical fertilizer 化肥 】`
+- `【 calcium 钙 n 】` // ----------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】
+- `【 iron 铁 n 】`
 - // 【 chemical 化学的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'chemical'
 -
@@ -343,7 +346,7 @@
 - `【 discharge = release 释放 v 】`
 -
 - `【 various 各种 各种各样的 adj 】`
-- > 【 various resources. 各种资源 】
+- > 【 various resources. 各种资源 】 // various/natural/marine/forest/rare/mineral resources.
 - > 【 various aspects. 各个方面 】
 -
 -
@@ -371,6 +374,12 @@
 - `【 various resources. 各种资源 】`
 - `【 various aspects. 各个方面 】`
 - **【 【 Mineral water 】 【 is rich in 】 【 various 】 【 minerals 】 矿泉水富含多种矿物质 】**
+-
+- [DD.]
+- `【 chemical fertilizer 化肥 】`
+- `【 calcium 钙 】`
+- `【 iron 铁 】`
+- **【 【 Chemical fertilizers 】 contain 【 calcium 】 and 【 iron 】. 化肥中含有钙和铁 】**
 
 ###### Must 2024-07-06
 
@@ -393,7 +402,7 @@
 - **【 specify 指定 明确说明 】**
 -
 - `【 recognize 识别 v 】` -------- 通过熟悉度认出
-- `【 identify 识别 v 】` --------- 通过鉴定认出
+- `【 identify 识别 v 】` --------- 通过鉴定认出 --- identify the identity
 - `【 identification 识别 n 】`
 - > identify identification
 - > verify verification
@@ -426,11 +435,11 @@
 -
 -
 - 2
+- `【 look for. 寻找 】`
+- `【 whereabouts 下落 去向 】`
+-
 - `【 ask sb to do sth. 要求某人做某事 】`
 - `【 look forward to sb doing sth. 期待某人做某事 】`
-- `【 look for. 寻找 】`
-- -
-- `【 whereabouts 下落 去向 】`
 - `【 look forward to doing. 期待做某事 】`
 - -
 - `【 airline 航空公司 】`
@@ -743,3 +752,55 @@
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
 
 ###### Must 2024-07-19
+
+###### Must 2024-07-20
+
+- 1
+- `【 infant 婴儿 n 】` // -------------- infant = baby. 婴儿
+- `【 teenager 青少年 n 】`
+- `【 adult 成年人 n 】` // ------------- 【 adult education. 成年教育 】
+- `【 middle-aged person. 中年人 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'infant'.
+- // TIPS: Pay attention to the pronunciation of the word 'teenager'.
+-
+- `【 born 出生 v 】` // ---- born birth // 【 be born in. 出生在... 】
+- `【 die 死亡 v 】` // ----------------- die death // -【 died in. 死亡在... 】
+- `【 pass away. 去世 v 】`
+- `【 birth 出生 n 】` // --------------- 【 birth rate. 出生率 n 】
+- `【 death 死亡 n 】` // --------------- 【 death rate. 死亡率 n 】
+- > 【 birth rate. 出生率 n 】
+- > 【 death rate. 死亡率 n 】
+- _【 be born in. 出生在... 】_
+- _【 died in. 出生在... 】_
+-
+- `【 innate 先天的 天生的 adj 】` // ---- 【 innate condition. 先天条件 】
+- `【 acquired 后天的 习得的 adj 】` // -- 【 acquired condition. 后天条件 】 // 【 acquired effort. 后天的努力 】
+- > 【 innate condition. 先天条件 】
+- > 【 acquired condition. 后天条件 】
+- > 【 acquired effort. 后天的努力 】
+-
+- `【 countryside 乡村 农村 n 】`
+- `【 city 城市 n 】`
+-
+- [AA.]
+- `【 infant 婴儿 n 】`
+- `【 be born in. 出生在... 】`
+- `【 died in. 死亡在... 】`
+- **【 The baby 【 was born in 】 the 【 countryside 】, and 【 died in 】 the city. 这个婴儿出生在农村，死在城市 】**
+-
+- [BB.]
+- `【 innate condition. 先天条件 n 】`
+- `【 acquired condition. 后天条件 n 】`
+- **【 The success of a person not only 【 determined by 】 【 innate conditions 】 but also by 【 acquired conditions 】. 一个人的成功不仅取决于先天条件，也取决于后天条件 】**
+-
+- [CC.]
+- `【 innate 天生的 先天的 adj 】`
+- `【 birth 出生 n 】`
+- **【 After 【 birth 】, we discovered her language talent was 【 innate 】.出生之后，我们发现她的语言天赋是天生的 】**
+-
+- [DD.]
+- `【 birth rate. 出生率 】`
+- `【 death rate. 出生率 】`
+- **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
+- // -- 【 interest rate. 利率 】
+- // -- 【 interest. 利息 】

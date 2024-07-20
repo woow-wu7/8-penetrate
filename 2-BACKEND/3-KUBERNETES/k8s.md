@@ -68,6 +68,42 @@ PVC 和 NAS 的使用：
 
 ```
 
+## (2) Harbor
+
+```
+1
+readNamespacedConfigMap
+- signature:
+  - readNamespacedConfigMap(name, namespace, pretty?, options?): Promise<{
+      body: V1ConfigMap;
+      response: IncomingMessage;
+    }>
+- function
+  - It used to get the specific ConfigMap in a specific namespace.
+  - 用于读取特定命名空间中指定ConfigMap的API方法
+
+
+2
+patchNamespacedConfigMap
+- signature:
+  - patchNamespacedConfigMap(name, namespace, body, pretty?, dryRun?, fieldManager?, fieldValidation?, force?, options?):       Promise<{
+      body: V1ConfigMap;
+      response: IncomingMessage;
+    }>
+- function
+  - 指定命名空间内的 ConfigMap 资源进行部分更新（patch）
+- 参数详解：
+  - name: 要更新的ConfigMap的名称。
+  - namespace: 包含目标ConfigMap的命名空间名称。
+  - body: 一个JSON对象，代表了更新后的ConfigMap的内容。通常包含data字段，其中包含了键值对形式的配置数据。
+  - pretty: 如果设置为true或"true"，则返回的输出将被格式化以提高可读性。
+  - dryRun: 如果设置，会模拟执行请求而不实际更改任何资源。可能的值有"All", "Server", 或者"Client".
+  - fieldManager: 标识正在操作此资源的系统组件或工具的名称。这有助于追踪谁在更改资源。
+  - fieldValidation: 指定如何验证字段。可能的值有"Strict", "Warning", 或者"Ignore"，分别表示严格验证、警告模式和忽略验证。
+  - force: 如果设置为true，则允许强制更新即使资源版本已改变。
+  - options: 可选参数，通常用于传递额外的HTTP请求选项。
+```
+
 #####
 
 - 1. aws s3 对象存储与 nas 的区别

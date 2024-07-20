@@ -1015,3 +1015,28 @@ I 【 swear 】 I will not 【 curse 】 others.
 // 【 swear 发誓 咒骂 v 】
 // 【 curse 咒骂 v 】
 ```
+
+##### 16 Make sentences 2024-07-20
+
+```
+1
+【 Chemical fertilizer 】 contain 【 calcium 】 and 【 iron 】.
+化肥中含有钙和铁
+-
+// -
+// 【 chemical fertilizer. 化肥 n 】
+// -
+// 【 calcium 钙 】
+// 【 iron 铁 】
+
+
+2
+【 Compared with 】 【 middle-aged 】people, he has an 【 advantage 】 【 in 】 age.
+和中男人比他有年龄上的优势
+// -
+// 【 compare with. 和...相比 】
+// -
+// 【 middle-aged people. 中年人 】
+// -
+// 【 has an advantage in. 在...方面有优势 】
+```
