@@ -17,7 +17,7 @@
 - // -- _【 quantifier 量词 】_
 - // -- _【 quantity 数量 】_
 - // -- _【 quality 质量 】_
-- // -- **【 We should ensure both the 【 quantity 】 and 【 quality 】 of the product 【 at the same time 】. 我们要同时保证产品的数量和质量 】**
+- // -- _【 The 【 quantifier 】 is used to 【 modify 】 the 【 quantity 】 of the sentence. 量词用于修饰句子的数量 】_
 -
 - `【 produce 生产 制造 v 】` // --【 production 生产 制造 n 】
 - `【 reproduce 繁殖 v 】` // ----【 reproduction 繁殖 n 】
@@ -28,15 +28,21 @@
 - 【 sexual asexual 】
 - 【 synchronous synchronous 】
 -
-- `【 descendant 子孙 后代 】` // --- abundant / descendant / attendant // assistant
+- `【 descendant 子孙 后代 】` // --- abundant / descendant / attendant // assistant // assist
 - `【 ancestor 祖先 】`
 -
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】` // ------- attendant / assistant / secretary
 - `【 abundant 丰富的 大量的 adj 】`
 - `【 assistant 助手 助理 】` // 1. secretary assistant attendant // 2. assist assistant
+- `【 secretary 秘书 】` // secret secretary
 - > 【 steward 乘务员 】
 - > 【 stewardess 空姐 】
+- > > > 【 actor / actress 】
+- > > > 【 waiter / waitress 】
+- > > > 【 prince / princess 】
+- > > > 【 headmaster / headmistress 】
+- > > > 【 steward / stewardess 】
 -
 - // EE: [product] something that 【 is made to 】 be sold.
 - // EE: [produce] to make something or bring something into 【 existence 】.
@@ -64,12 +70,12 @@
 - `【 product requirement. 产品需求】`
 - `【 product quality. 产品质量 】`
 - `【 mass production. 批量生产 】`
-- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the product 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高该产品的产品质量 】**
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the 【 product 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高该产品的产品质量 】**
 - // -- 【 in the process of. 在...过程中 】
 -
 - [CC.]
-- `【 abundant 丰富的 大量的 adj 】`
-- `【 mineral resource. 矿产资源 】` // natural resource. / rare resource. / forest resource. / marine resource / various resources.
+- `【 abundant 丰富的 大量的 adj 】` // abundant / attendant / descendant / assistant / assist
+- `【 mineral resource. 矿产资源 】` // natural./rare./forest./marine./mineral./various. resources.
 - `【 descendant 子孙 后代 】`
 - `【 attendant 服务员 】`
 - **【 The 【 Abundant 】【 mineral resources 】 can 【 ensure 】 our 【 descendants 】 don't work 【 as 】 【 attendants 】. 丰富的矿产资源能够保证我们的子孙后代不从事服务员的工作 】**
@@ -100,8 +106,8 @@
 - 【 reasonable 合理的 adj 】
 - 【 unreasonable 不合理的 adj 】
 - 【 reason 原因 n 】
+- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 of the 【 product 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
 - **【 Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
-- **【 The new 【 product requirement 】 is how to improve the 【 product quality 】 【 in the process of 】 【 mass production 】. 新的产品需求是如何在批量生产中提高产品质量 】**
 - // -- reasonable 合理的 adj
 - // -- reason 原因 n
 -
@@ -115,15 +121,15 @@
 - `【 quantifier 量词 】`
 - `【 quantity 数量 】`
 - > quality 质量
-- **【 The【 quantifier 】 【 are used to 】 【 modify 】 the 【 quantity 】.量词是用来修饰数量的 】**
+- **【 The 【 quantifier 】 【 is used to 】 【 modify 】 the 【 quantity 】of the sentence. 量词是用来修饰句子中数量 】**
 - // -- 【 modify 修饰 v 】
 
 ###### Must 2024-07-02
 
 - 2
-- `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
-- `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
-- `【 provide 提供 】` // 【 supply 供应 供给 / provide 提供 】
+- `【 supplement 补充 v n 】` // ------------【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
+- `【 supply 供应 供给 补给品 日常用品 v 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 】
+- `【 provide 提供 】` // ------------------ 【 supply 供应 供给 / provide 提供 】
 - > 【 supplement energy. 补充能量 】
 - > 【 supplement nutrition. 补充营养 】 // nutrition // malnutrition 营养不良
 - // nutrition 营养 n
@@ -133,13 +139,13 @@
 - // TIPS: Pay attention to the pronunciation between 'supplement' and 'supply'.
 -
 - `【 supplier 供应商 供应者 n 】`
-- `【 supply 供应vn 供给vn 日常用品n 】` // 【 supply 供应 供给 v 】 // 【 provide 提供 v】
+- `【 supply 供应vn 供给vn 日常用品n 】` // ----【 supply 供应 供给 v 】 // 【 provide 提供 v 】
 - `【 provide 提供 v 】`
 - > 【 provide sb with sth. 给某人提供某物 】
 - // product produce reproduce reproduction sexual asexual
 -
 - `【 supplier 供应商 】`
-- `【 dealer 经销商 】`
+- `【 dealer 经销商 】` // ------------------- 【 deal with. 处理 】
 - `【 seller 销售者 】`
 -
 - `【 abundant 丰富的 大量的 adj 】` // ------- abundant descendant attendant assistant
@@ -160,7 +166,6 @@
 - // -- _【 something else. 其他事物 别的东西 】_
 - // -- _【 over a long period of time. 在很长一段时间内 】_
 -
--
 - [AA.]
 - `【 provide 提供 】` // provide sb with sth. 给某人提供某物
 - `【 supply 供应v 供给v 日常用品n 】` // school supplies. // urgent supplies. = emergency supplies.
@@ -168,27 +173,32 @@
 - _【 provide sb with sth. 给某人提供某物 】_
 - **【 The company 【 provides 】 【 sufficient 】 milk 【 supply 】. 公司提供充足的牛奶供应 】**
 - **【 We have 【 sufficient time 】 to 【 grind 】 the 【 beans 】 into the 【 powder 】. 我们有足够的时间把豆子磨成粉 】**
-- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 我们有足够的时间把药片溶解在水里 】**
+- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 有足够的时间把药片溶解在水里 】**
 - // -- 【 sufficient 充足的 足够的 adj 】
 - // -- 【 sufficient time. 足够的时间 】
 - // -- 【 sufficient space. 足够的空间 】
 - // -- 【 dissolve 溶解 v 】
-- // -- 【 tablet 药片 平板 匾 】
+- // -- 【 tablet 药片 平板 匾 】 // tablet pill capsule
 -
 - [BB.]
 - `【 supplement 补充 v n 】` // 【 supplement energy. 补充能量 】 // 【 supplement nutrition. 补充营养 】
 - `【 supply 供应 供给 日常用品 n 】` // 【 school supplies. 学习用品 】 // 【 urgent supplies. = emergency supplies. 紧急物资 】
 - `【 abundant 丰富的 大量的 adj 】` // 【 abundant protein. 丰富的蛋白质 】
 - _【 provide sb with sth. 给某人提供某物 】_
-- **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 这些肉可以提供丰富的蛋白质来补充我们的能量 】**
-- **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
+- **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 】**
+- **【 These 【 meats 】 【 provide 】 us 【 with 】 【 abundant 】 【 protein 】 to 【 supplement energy 】. 肉可以提供丰富的蛋白质来补充我们的能量 】**
 - **【 We should 【 supplement nutrition 】 and 【 supplement energy 】 【 at the same time 】. 我们需要同时补充营养和能量 】**
 - // -- protein 蛋白质
+- // -- 【 countable noun. 可数名词 】
+- // -- 【 uncountable noun. 不可数名词 】
+- // TIPS: The 'protein' is a 【 uncountable noun 】.
 - // -- meat 肉
-- // -- 【 provide sb with sth. 给某人提供某物 】
 - // -- egg white.
 - // -- egg yolk.
+- // -- 【 provide sb with sth. 给某人提供某物 】
 - // -- 【 abundant 丰富的 大量的 adj 】
+- // -- 【 sufficient time. 充足的时间 】
+- // -- 【 sufficient space. 足够的空间 】
 - // -- `【 supplement nutrition. 补充营养 】`
 - // -- `【 supplement energy. 补充能量 】`
 - // -- _【 at the same time. 同时 】_
@@ -198,7 +208,7 @@
 - 【 sufficient time. 充足的时间 】
 - 【 sufficient space. 足够的空间 】
 - **【 We have 【 sufficient time 】 to 【 grind 】 the 【 beans 】 into the 【 powder 】. 我们有足够的时间把豆子磨成粉 】**
-- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 我们有足够的时间把药片溶解在水里 】**
+- **【 There is 【 sufficient time 】 for us to 【 dissolve 】 the 【 tablet 】 into the water. 足够的时间把药片溶解在水里 】**
 - // --【 grind into. 磨成... 】
 - // -- dissolve 溶解
 - // -- powder 面粉
@@ -209,14 +219,18 @@
 - `【 supply 供应v 提供v 日常用品n 】`
 - `【 provide 提供 v 】`
 - **【 This 【 supplier 】 【 provides 】 the 【 supply 】 of the 【 supplies 】. 该供应商提供日常用品的供给 】**
+- // -- supplier
+- // -- dealer
+- // -- seller
 -
 - [EE.]
 - `【 be rich in. 富含... 】`
 - **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含大量的蛋白质 】**
 - // -- egg white.
 - // -- egg yolk.
-- // -- 【 abundant 丰富的 大量的 adj 】
+- // -- protein is uncountable noun.
 - // -- 【 protein 是不可数名词 】
+- // -- 【 abundant 丰富的 大量的 adj 】
 - // -- 【 vitamin 是可数名词 】
 -
 - [FF.]
@@ -224,10 +238,12 @@
 - `【 insufficient 不充足的 adj 】` // insufficient = in + sufficient.
 - _【 sufficient time. 充足的时间 】_
 - _【 sufficient space. 足够的空间 】_
-- **【 【 Although 】 we don't have 【 sufficient space 】, we have 【 sufficient time 】. 虽然我们没有足够的空间，但是我们有足够的时间 】**
+- **【 Although we don't have 【 sufficient space 】, we have 【 sufficient time 】. 虽然没有足够的空间，但是有足够的时间 】**
+-
 - [GG.]
 - `【 supplier 供应商 n 】`
 - `【 dealer 经销商 n 】`
+- `【 seller 销售人员 n】`
 - **【 The 【 supplier 】 【 provides 】 goods, and the 【 dealer 】 sells goods. 供应商提供商品，经销售销售商品 】**
 - // -- 【 provide 提供 】
 
@@ -321,7 +337,7 @@
 -
 - `【 protein 蛋白质 n 】` // ------- 【 high protein. 高蛋白 】
 - `【 vitamin 维生素 n 】` // ------- 【 vitamin C. 维生素 C 】
-- `【 fat 脂肪n 肥胖的adj 】` // ----- 【 burn fat. 燃烧脂肪 】 // 【 burn 燃烧 烧毁 烧坏 v 】// `burn -> burnt`
+- `【 fat 脂肪n 肥胖的adj 】` // ----- `【 burn fat. 燃烧脂肪 】` // `【 bomb explode. 炸弹爆炸 】` // 【 burn 燃烧 v 】
 - `【 fiber 纤维 】` // ---------- // 【 plant fiber. 植物纤维 】
 - `【 mineral 矿物质n 矿物的adj 】` // 【 mineral water. 矿泉水 】 // 【 mineral resource. 矿物资源 】
 - > 【 mineral water. 矿泉水 】
@@ -330,10 +346,14 @@
 - // 【 various aspects. 各种方面 】
 - // 【 marine/natural/forest/rare/various/mineral resource 】
 - // TIPS: Pay attention to the pronunciation of the word 'fat'.
+- // _【 born 出生 v 】_ // ----- _【 be born in. 出生于 】_
+- // _【 burn 燃烧 v 】_ //------ _【 burn fat. 燃烧脂肪 】_
+- // _【 explode 爆炸 v 】_ // -- _【 bomb explode. 炸弹爆炸 】_
+- // _【 explosion 爆炸 n 】_
 -
 - `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
 - `【 chemical fertilizer 化肥 】`
-- `【 calcium 钙 n 】` // ----------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】
+- `【 calcium 钙 n 】` // ---------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】 【 pill 药丸 】 【 capsule 胶囊 】
 - `【 iron 铁 n 】`
 - // 【 chemical 化学的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'chemical'
@@ -346,20 +366,20 @@
 - `【 discharge = release 释放 v 】`
 -
 - `【 various 各种 各种各样的 adj 】`
+- `【 various resources. 各种资源 】`
+- `【 various aspects. 各个方面 】`
 - > 【 various resources. 各种资源 】 // various/natural/marine/forest/rare/mineral resources.
 - > 【 various aspects. 各个方面 】
--
 -
 - [AA.]
 - `【 mineral 矿物质 】` // ------【 mineral water. 矿泉水 】 【 mineral resource. 矿产资源 】
 - `【 fertilizer 肥料 化肥 】` // 【 chemical fertilizer 化肥 】
+- `【 chemical fertilizer. 化肥 】`
 - **【 【 Minerals 】 are not 【 chemical fertilizers 】. 矿物质不是化肥 】**
-- **【 【 Minerals 】 are not 【 fertilizers 】. 矿物质不是化肥 】**
--
 -
 - [BB.]
-- `【 vitamin 维生素 】`
-- `【 protein 蛋白质 】`
+- `【 vitamin 维生素 】` // 【 vitamin C. 维生素 C 】
+- `【 protein 蛋白质 】` // 【 high protein. 高蛋白 】
 - `【 malnutrition 营养不良 】` // nutrition malnutrition
 - **【 【 Lack of 】 【 vitamins 】 can 【 affect/impact/influence 】 【 organs 】 to 【 absorb 】 the 【 protein 】, leading to 【 malnutrition 】. 缺乏维生素会影响器官吸收蛋白质，从而引起营养不良 】**
 - // -- lead to. 导致
@@ -377,7 +397,7 @@
 -
 - [DD.]
 - `【 chemical fertilizer 化肥 】`
-- `【 calcium 钙 】`
+- `【 calcium 钙 】` // 【 calcium tablet. 钙片 】
 - `【 iron 铁 】`
 - **【 【 Chemical fertilizers 】 contain 【 calcium 】 and 【 iron 】. 化肥中含有钙和铁 】**
 
@@ -388,7 +408,6 @@
 - `【 identify 识别 v 】` // 【 identify the identity. 识别身份 】
 - > 【 identify the identity. 识别身份 】
 - > 【 identity card. 身份证 】
-- > 【 automatic identification. 自动识别 】
 -
 - `【 verify 验证 v 】` // 【 verification code. 验证码 】
 - `【 validate 验证 v 】`
@@ -399,7 +418,7 @@
 - **【 identify 识别 】** // 【 identify the identity. 识别身份 】
 - **【 verify 验证 】** // 【 verification code. 验证码 】
 - **【 simplify 简化 v 】** // 【 simplify the process. 简化流程 】
-- **【 specify 指定 明确说明 】**
+- **【 specify 指定 明确说明 】** // 【 specific symptom. 具体症状 】 // specific specify
 -
 - `【 recognize 识别 v 】` -------- 通过熟悉度认出
 - `【 identify 识别 v 】` --------- 通过鉴定认出 --- identify the identity
@@ -409,7 +428,6 @@
 -
 - `【 fingerprint 指纹 】`
 - `【 verification code. 验证码 】`
-- _【 automatic identification. 自动识别 】_
 -
 - [AA.]
 - `【 identify 识别 v 】`
@@ -421,6 +439,7 @@
 - [BB.]
 - `【 verify 验证 v 】`
 - `【 verification code. 验证码 】`
+- `【 identity card. 身份证 】`
 - **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number of the 【 customer 】 is correct. 输入验证码来验证顾客身份证号码是否正确 】**
 - **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
 - // -- 【 sufficient 足够的 充足的 adj 】
@@ -446,6 +465,12 @@
 - `【 airport 机场 】`
 - `【 airplane 飞机 】`
 - `【 runway 跑道 】`
+- > 【 take off. 起飞 】
+- > 【 land 降落 v 陆地 n 】
+- > 【 flight 航班 】
+- > 【 timetable 时间表 时刻表 】
+- > 【 arrival time. 到达时间 】
+- > 【 departure time. 离开时间 】
 -
 - **【 People 【 look forward to 】 the government 【 asking 】 the 【 airline 】 to 【 look for 】 the 【 whereabouts 】 of the missing people. 人们期待政府去要求航空公司去寻找失事人员的下落 】**
 - // -- ask sb to do sth. 要求某人做某事
@@ -473,6 +498,7 @@
 - `【 mandatory 强制的 adj 】` // 【 mandatory overtime. 强制加班 】
 - `【 history 历史 】`
 - `【 victory 胜利 】`
+- // vocabulary 词汇
 -
 - `【 directory 目录 】`
 - `【 director 导演 董事 主任 】`
@@ -508,7 +534,7 @@
 - `【 labor law. 劳动法 】`
 - `【 labor worker. 劳务工 】`
 - _【 comply with. 遵守 】_
-- **【 The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply 】 with 【 labor laws 】. 导演直接宣布所有劳动工人必须遵守劳动法 】**
+- **【 The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】【 labor laws 】. 导演直接宣布所有劳动工人必须遵守劳动法 】**
 - // -- 【 announce 宣布 宣告 】
 - // -- 【 declare 声明 宣布 】
 - // ---- `【 comply 遵守 v 】`
@@ -544,16 +570,16 @@
 - > 【 software development. 软件开发 】
 -
 - [AA.]
-- `【 customer 顾客 n 】` // customer custom customize customized
-- `【 customize 定制 v 】` // customized 定制的 adj
-- `【 optimize 优化 v 】` // optimization 优化 n
-- **【 we 【 customized 】 an 【 optimized 】 software for our 【 customers 】. 我们为客户定制一款经过优化的软件 】**
--
-- [BB.]
 - `【 customize 定制 自定义 v 】`
 - `【 custom 风俗 习惯 习俗 n 】`
 - `【 customer 顾客 n 】`
 - **【 We can 【 customize 】 the different 【 versions 】 of the software 【 according to 】 the 【 custom 】 of our 【 customers 】. 我们可以根据客户的习惯自定义不同版本的软件 】**
+-
+- [BB.]
+- `【 customer 顾客 n 】` // customer custom customize customized
+- `【 customize 定制 v 】` // customized 定制的 adj
+- `【 optimize 优化 v 】` // optimization 优化 n
+- **【 we 【 customized 】 an 【 optimized 】 software for our 【 customers 】. 我们为客户定制一款经过优化的软件 】**
 -
 -
 -
@@ -566,17 +592,19 @@
 - `【 wholesale 批发 v 】` // ----- 【 wholesale price. 批发价 n 】// ---【 wholesale market. 批发市场 】
 - `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // -----【 discount intensity. 打折力度 】
 - > 【 discount intensity. 打折力度 】
+- > 【 on sale. = discount. 打折 】
+- > 【 tail 尾巴 / retail 打折 】
 -
 - `【 deal 处理 经营 交易 v 】` // - 【 deal with. 处理 】
 - `【 dealer 经销商 n 】` // ------ 【 dealer deal 】
 - `【 retail store. 零售店 n 】`
 - `【 retail price. 零售价 n 】`
 -
-- > 【 supplier 供应商 n 】`
-- > 【 dealer 经销商 n 】`
-- //【 seller 销售者 n 】
+- > 【 supplier 供应商 n 】
+- > 【 dealer 经销商 n 】
+- > 【 seller 销售者 n 】
 -
-- `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history
+- `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history mandatory
 - `【 warehouse 仓库 】`
 -
 - `【 retail 零售 v 】`
@@ -588,11 +616,12 @@
 - `【 retail 零售 v 】`
 - `【 wholesale 批发 v】`
 - `【 discount 打折 v 】`
-- > 【 discount intensity. 打折力度 】
+- //【 discount intensity. 打折力度 】
+- //【 discount = on sale. 打折 】
 - **【 The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different. 零售和批发打折的力度不一样 】**
 -
 - [BB.]
-- `【 dealer 经销商 n 】`
+- `【 dealer 经销商 n 】` // dealer supplier seller
 - `【 retail store. 零售店 】`
 - **【 The 【 goods 】 were not sold through 【 dealers 】 but were sold directly to customers by 【 retail stores 】. 商品没有经过经销商，而是零售店直接卖给消费者 】**
 - **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
@@ -634,13 +663,13 @@
 - `【 adverbial 状语 】` // ------------ 【 adverb 副词 】 // 【 verb 动词 】
 - `【 complement 补语n 补充v 补足v 】` // 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
 -
-- `【 noun 名词 】`
+- `【 noun 名词 】` // ----------------- 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 pronoun 代词 】`
-- `【 verb 动词 】` // --------------- 【 irregular verb. 不规则动词 】 【 regular verb. 规则动词 】
-- `【 adverb 副词 】` // -------------- verb adverb adverbial
+- `【 verb 动词 】` // ----------------- 【 irregular verb. 不规则动词 】 【 regular verb. 规则动词 】
+- `【 adverb 副词 】` // ---------------- verb adverb adverbial
 - `【 adjective 形容词 】`
-- `【 preposition 介词 】` // -------- 【 position 位置 岗位 】 【 preposition 介词 】
-- `【 quantifier 量词 】` // --------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
+- `【 preposition 介词 】` // ---------- 【 position 位置 岗位 】 【 preposition 介词 】
+- `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 -
 - > 【 verb 动词 】
 - > 【 regular verb. 规则动词】
@@ -650,7 +679,8 @@
 - `【 phrase 短语 】`
 - `【 sentence 句子 】`
 - `【 fixed collocation. 固定搭配 】` // 【 collocation 搭配 】
-- `【 conversation 对话 】`
+- `【 conversation 对话 n 】`
+- `【 vocabulary. 词汇 n 】`
 - // 【 collocation 搭配 】
 -
 - [AA.]
@@ -680,11 +710,12 @@
 - `【 prove 证明 v 】`
 - `【 approve 批准 同意 v 】`
 -
-- `【 credential 证书 证明 证件 n 】`
 - `【 certificate 证书 证明 证件 n 】`
+- `【 credential 证书 证明 证件 n 】`
 -
-- `【 authority 权威 权利 权限 n 】` // 【 authority agency. 权威机构 】
 - `【 right 权利 】`
+- `【 authority 权威 权利 权限 n 】` // 【 authority agency. 权威机构 】 // 【 author 作家 作者 n 】
+- `【 authority agency. 权威机构 】`
 -
 - `【 author 作者 作家 n 】`
 - `【 authority 权威 权利 权限 n 】`
@@ -739,6 +770,8 @@
 - `【 headmistress 女校长 】`
 - `【 prince 王子 】` // prince // province
 - `【 princess 公主 】`
+- `【 steward 服务员 】`
+- `【 stewardess 空姐 】`
 -
 - > 【 secretary 秘书 n 】 // --【 secret 秘密 】
 - > 【 laboratory 实验室 n 】 // labor 【 labor day. 】 【 labor law. 】 【 labor contract. 】 【 labor worker. 】
@@ -748,10 +781,9 @@
 - > 【 factory 工厂 n 】
 - > 【 victory 胜利 n 】
 - > 【 history 历史 n 】
+- > 【 mandatory 强制的 】 // 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 -
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
-
-###### Must 2024-07-19
 
 ###### Must 2024-07-20
 
@@ -764,7 +796,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'teenager'.
 -
 - `【 born 出生 v 】` // ---- born birth // 【 be born in. 出生在... 】
-- `【 die 死亡 v 】` // ----------------- die death // -【 died in. 死亡在... 】
+- `【 die 死亡 v 】` // ----- die death // -【 died in. 死亡在... 】
 - `【 pass away. 去世 v 】`
 - `【 birth 出生 n 】` // --------------- 【 birth rate. 出生率 n 】
 - `【 death 死亡 n 】` // --------------- 【 death rate. 死亡率 n 】
@@ -778,20 +810,31 @@
 - > 【 innate condition. 先天条件 】
 - > 【 acquired condition. 后天条件 】
 - > 【 acquired effort. 后天的努力 】
+- // acquire 获得 得到 v
+- // acquired 获得的 得到的 adj / past tense.
+-
+- `【 ancestor 祖先 n 】`
+- `【 descendant 后代 n 】`
 -
 - `【 countryside 乡村 农村 n 】`
 - `【 city 城市 n 】`
+-
+- `【 born 出生 v 】` // 【 be born in. 出生在... 】
+- `【 burn 燃烧 】` // - 【 burn fat. 燃烧脂肪 】
 -
 - [AA.]
 - `【 infant 婴儿 n 】`
 - `【 be born in. 出生在... 】`
 - `【 died in. 死亡在... 】`
-- **【 The baby 【 was born in 】 the 【 countryside 】, and 【 died in 】 the city. 这个婴儿出生在农村，死在城市 】**
+- `【 countryside 乡村 农村 n 】`
+- **【 The 【 infant 】 【 was born in 】 the 【 countryside 】, and 【 died in 】 the city. 这个婴儿出生在农村，死在城市 】**
 -
 - [BB.]
 - `【 innate condition. 先天条件 n 】`
 - `【 acquired condition. 后天条件 n 】`
-- **【 The success of a person not only 【 determined by 】 【 innate conditions 】 but also by 【 acquired conditions 】. 一个人的成功不仅取决于先天条件，也取决于后天条件 】**
+- **【 The success of a person is not only 【 determined by 】 【 innate conditions 】 but also by 【 acquired conditions 】. 一个人的成功不仅取决于先天条件，也取决于后天条件 】**
+- // -- 【 determine 决定 决心 v 】
+- // -- 【 be determined by. 由...决定 】
 -
 - [CC.]
 - `【 innate 天生的 先天的 adj 】`

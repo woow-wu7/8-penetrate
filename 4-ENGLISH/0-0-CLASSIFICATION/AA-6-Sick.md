@@ -168,6 +168,12 @@
 - `oral medicine. 口服药` // oral English. // oral promise. // oral cavity.
 - `injectable medicine. 注射药`
 - `traditional Chinese medicine. 中药`
+- `【 poison 毒药 n 】`
+- `【 antidote 解药 n 】`
+- > spoil 宠坏 溺爱 v
+- > boil 煮 沸腾
+- **【 【 spoiling 】 sometimes is an 【 antidote 】, sometimes is a 【 poison 】. 溺爱有时候是解药，有时候是毒药 】**
+- **【 The 【 poison 】 becomes an 【 antidote 】 after 【 boiling 】. 毒药煮沸腾后就是解药 】**
 -
 - `capsule 胶囊`
 - `pill 药丸`

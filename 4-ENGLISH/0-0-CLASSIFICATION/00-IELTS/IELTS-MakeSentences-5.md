@@ -1040,3 +1040,54 @@ I 【 swear 】 I will not 【 curse 】 others.
 // -
 // 【 has an advantage in. 在...方面有优势 】
 ```
+
+##### 17 Make sentences 2024-07-21
+
+```
+1
+【 spoiling 】 sometimes is an 【 antidote 】, sometimes is a 【 poison 】.
+溺爱有时候是解药，有时候是毒药
+-
+The 【 poison 】 becomes an 【 antidote 】 after 【 boiling 】.
+毒药煮沸腾后就是解药
+-
+The 【 poison 】 and the 【 antidote 】 will 【 react 】.
+毒药和解药会发生反应
+-
+// -
+// 【 poison 毒药 】
+// 【 antidote 解药 】
+// -
+// 【 spoil 宠坏 溺爱 v 】
+// 【 boil 煮 沸腾 v 】
+// -
+// 【 react 使反应 v】
+
+
+2
+The 【 director 】 【 directly 】 【 announced 】 tha all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有劳动工人必须遵守劳动法
+-
+// -
+// 【 comply with. 遵守 v 】
+// -
+// 【 director 导演 董事 n 】
+// 【 directly 直接地 adv 】
+// 【 direct 直接地 adj 】
+// -
+// 【 labor law. 劳动法 】
+// 【 labor day. 劳动节 】
+// 【 labor worker. 劳动工人 】
+// 【 labor contract. 劳动合同 】
+// -
+// 【 announce 发布 宣布 v 】
+// 【 declare 声明 宣布 v 】
+
+
+3
+Some 【 comments 】 we don't 【 recommend 】 you to see.
+有些评论我们不推荐你去看
+// -
+// 【 comment 评论 n 】
+// 【 recommend 推荐 v 】
+```
