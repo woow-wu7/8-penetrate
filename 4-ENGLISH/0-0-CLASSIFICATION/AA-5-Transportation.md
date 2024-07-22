@@ -1,5 +1,120 @@
 ##### Transportation / Vehicle / Traffic / Transport
 
+##### (1) **Car**
+
+- [AA.]
+- `【 fuel 燃料 n 】`
+- `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语
+- `【 petrol 汽油 n 】` ---------- 英式英语 -------------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】
+- `【 petroleum 石油 原油 n 】` ------------------------- 【 petroleum 石油 n 】 【 petrol 汽油 n 】
+- `【 diesel 柴油 采油机 n 】`
+- `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】 【 edible 可食用的 adj 】
+- `【 edible oil. 食用油 n 】`
+- `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】 【 gas 气体 汽油 】
+- `【 natural gas. 天然气 】`
+- > 【 gas tank. 油箱 】
+- > 【 gas cap. 油箱盖 】
+- > 【 gas nozzle. 加油枪 】 // -- 【 nozzle 喷嘴 】
+- > 【 gas pump. 加油机 加油泵 】// 【 pump 抽水机 】
+- > 【 gas station. 加油站 = petrol station. = gasoline station. 】
+- // TIPS: Pay attention to the pronunciation of the word 'gasoline'.
+- // TIPS: Pay attention to the pronunciation of the word 'petroleum'.
+- // TIPS: Pay attention to the pronunciation of the word 'petrol'.
+- // TIPS: Pay attention to the pronunciation of the word 'edible'.
+-
+- `【 trunk 后备箱 树干 】`
+- `【 tank 油箱 】`
+- > 【 fill up. 加满 】
+- > 【 fill up the tank. 加满油箱 】
+- > 【 fill up the tank with gasoline. 把油箱加满汽油 】
+-
+- **【 After 【 filling up 】the 【 tank 】 with 【 gasoline 】 and 【 diesel 】 at the 【 gas station 】, put the 【 gas nozzle 】 back into the 【 gas pump 】. 在加油站把油箱加满汽油和柴油后把加油枪放回加油机 】**
+-
+-
+- [BB.]
+- `【 headlight 前灯 n 】`
+- `【 taillight 尾灯 n 】` // ---- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】
+- `【 fog light. 雾灯 n 】`
+- `【 brake light. 刹车灯 n 】` // 【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
+- `【 turn signal. 转向灯 n 】`
+-
+- > 【 beam 光束 光线 n 】
+- > 【 high beam. 远光灯 n 】
+- > 【 low beam. 远光灯 n 】
+- > 【 a beam of light. 一束光 】
+-
+- _【 brake light. 刹车灯 n 】_
+- _【 brake pedal. 刹车踏板 】_
+- _【 hit the brakes. 刹车 】_
+- _【 emergency brake. 紧急刹车 = urgent brake. 】_
+-
+- **【 The 【 headlights 】, 【 taillights 】, 【 brake lights 】 and 【 turn signal 】 of the 【 vehicle 】 are all fine, but the 【 fog lights 】 are broken.这辆车的前灯，后灯，刹车灯，转弯灯都是好的，但是雾灯坏了 】**
+- // -- 【 vehicle 车辆 n 】
+-
+- **【 【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and the 【 low beam 】. 一束光是由远光灯和近光灯共同发出 】**
+- // -- 【 emit 发出 射出 v 】
+-
+-
+- [CC.]
+- > OUTSIDE
+- `【 moon roof. 天窗 】` // ---- 【 roof 屋顶 n 】
+- `【 hood 引擎盖 n 】`
+- `【 bumper 保险杠 】` // ------- 【 bump 碰撞 v 】 【 pump 抽水机 打气筒 v 】
+- `【 fender 挡泥板 】`
+- `【 exhaust pipe. 排气管 】` // -【 exhaust 精疲力劲 v / 排气管 n 】 【 pipe 管 导管 n 】
+- `【 door handle. 车门把手 】` // 【 handrail 扶手 ( 楼梯等扶手 ) 】
+- `【 windshield. 挡风玻璃 n 】` //【 shield 盾 护罩 】
+- `【 antenna 天线 触角 】`
+-
+- `【 rear view mirror. 后视镜 n 】`
+- `【 side mirror. 侧视镜 n 】`
+- > 【 rear camera. 后置摄像头 n 】
+- > 【 front-facing camera. 前置摄像头 n 】
+-
+- `【 mileage 里程 】`
+- `【 tank 油箱 】`
+- `【 trunk 后备箱 树干 】`
+-
+- `【 tire 轮胎 累 】` // 【 tire 轮胎 n 累 v 】 【 retire 退休 v 】 【 entire 整个 adj n 】
+- `【 spare tire. 备用轮胎 】`
+- `【 flat tire. 爆胎 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'steering'.
+-
+- `【 license plate. 牌照 车牌 】`
+- `【 driver's license. 驾驶证 】`
+- `【 mechanic 机械师 】`
+-
+-
+- [DD.]
+- > INSIDE
+- `【 steering wheel. 方向盘 】`
+- `【 pedal 踏板 】`
+- `【 gas pedal. 油门踏板 】`
+- `【 brake pedal. 刹车踏板 】`
+- `【 clutch pedal. 离合器踏板 】`
+
+- `【 horn 喇叭 】`
+- `【 honk the horn. 按喇叭 】`
+-
+- `【 visor 遮阳板 】`
+- `【 cup holder. 杯架 】`
+-
+- `【 seatbelt 安全带 】`
+- `【 fasten seatbelt. 系好安全带 】`
+- `【 airbag 安全气囊 】`
+-
+- `【 gear 齿轮 n 】`
+- `【 shift gears. 换挡 】`
+- `【 stick shift. 换挡杆 】`
+- > 【 first gear. 一档 】
+- > 【 second gear. 二档 】
+-
+- `【 dashboard 仪表盘 】`
+- `【 speedometer 速度计 】`
+- `【 tachometer 转速表 】`
+- `【 temperature gauge. 温度计 】`
+- `【 pressure gauge. 压力表 】`
+
 ##### (2) Summarize 总结 v
 
 - [AA.]

@@ -1092,7 +1092,7 @@ Some 【 comments 】 we don't 【 recommend 】 you to see.
 // 【 recommend 推荐 v 】
 ```
 
-##### 17 Make sentences 2024-07-22
+##### 18 Make sentences 2024-07-22
 
 ```
 1
@@ -1150,4 +1150,51 @@ Everyone should 【 pay 】 their 【 social security 】 and 【 individual inc
 // 【 individual income tax. 个人所得税 n 】
 // -
 // 【 pay tax. 交税 】
+```
+
+##### 19 Make sentences 2024-07-23
+
+```
+1
+After 【 filling up 】 the 【 tank 】 with 【 gasoline 】 and 【 diesel 】 at the 【 gas station 】, then put the 【 gas nozzle 】 back into the 【 gas pump 】.
+在加油站把油箱加满汽油和柴油后把加油枪放回加油机
+// -
+// 【 fill up the tank. 加满油箱 】
+// 【 fill up the tank with gasoline. 把油箱加满汽油 】
+// -
+// 【 gas station. 加油站 n 】
+// 【 gas nozzle. 加油枪 】
+// 【 gas pump . 加油机 】
+// 【 gas tank. 油箱 】
+// 【 gas cap. 油箱盖 】
+// -
+// 【 gasoline 汽油 n 】
+// 【 petrol 汽油 n 】
+// 【 diesel 柴油 n 】
+// 【 petroleum 石油 原油 n 】
+// 【 edible oil. 食用油 n 】
+// 【 natural gas. 天然气 n 】
+
+
+2
+The 【 headlights 】, 【 taillights 】, 【 brake lights 】, and 【 turn signals 】 of the 【 vehicle 】 are all fine, but the 【 fog lights 】 are broken.
+这辆车的前灯，后灯，刹车灯，转弯灯都是好的，但是雾灯坏了
+-
+【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and 【 low beam 】.
+这一束光是由远光灯和近光灯共同发出的
+-
+// -
+// headlight. 前灯
+// taillight. 尾灯
+// brake light. 刹车灯 // brake pedal. // hit the brake. // emergency brake. // urgent brake.
+// turn signal. 转向灯
+// fog light. 雾灯
+// high beam. 远光灯
+// low beam. 近光灯
+// -
+// 【 high beam. 远光灯 】
+// 【 low beam. 近光灯 】
+// 【 a beam of light. 一束光 】
+// -
+// 【 emit 发出 射出 v 】
 ```
