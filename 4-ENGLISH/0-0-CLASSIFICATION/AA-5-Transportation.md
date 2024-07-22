@@ -1,9 +1,5 @@
 ##### Transportation / Vehicle / Traffic / Transport
 
-##### (1) **The words that you mast know.**
-
-- [AA.]
-
 ##### (2) Summarize 总结 v
 
 - [AA.]
@@ -1392,7 +1388,7 @@ appreciate 欣赏 感激 v
 -
 - `ignition 点火器`
 - First of all, when I'm in my car I want to start it and I start it by putting my key into the ignition.
-- 首先，当我在车里的时候，我想启动它，我把钥匙插进点火开关。
+- 首先，当我在车里的时候，我想启动它，我把钥匙插进点 s 火开关。
 -
 -
 - `stick shift. 换挡杆` // stick 棍 棒 粘住 // 【 selfie stick. 自拍杆 】
@@ -1777,8 +1773,7 @@ vents 通风口 // vent 排气口 通风口
 dashboard 仪表盘
 speedometer 速度计
 tachometer 转速表
-【 temperature gauge. 温度计 】
-【 pressure gauge. 压力表 】
+
 mileage 里程
 ignition 点火 点火器
 vague 模糊

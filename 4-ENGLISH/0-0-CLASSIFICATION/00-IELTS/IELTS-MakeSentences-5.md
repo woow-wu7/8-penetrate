@@ -1091,3 +1091,63 @@ Some 【 comments 】 we don't 【 recommend 】 you to see.
 // 【 comment 评论 n 】
 // 【 recommend 推荐 v 】
 ```
+
+##### 17 Make sentences 2024-07-22
+
+```
+1
+His band card was 【 frozen 】.
+他的银行卡被冻结了
+-
+【 Frozen 】 is the 【 past tense 】 of 【 freeze 】.
+frozen 是 freeze 的过去式
+-
+// -
+// 【 freeze 冻结 v 】
+// 【 frozen 冻结 past tense. / adj 】
+// -
+// 【 past tense. 过去时 过去式 】
+// 【 present tense. 现实时 】
+// 【 future tense. 将来时 】
+
+
+2
+The 【 weather forecast 】 says it's 【 mild 】 today and the temperature is only 【 20 degrees Celsius 】.
+天气预报说今天很温和，温度只有 20 摄氏度
+// -
+// 【 weather forecast. 天气预报 n 】
+// 【 weather predication. 天气预报 n 】
+// -
+// 【 Celsius. 摄氏度 n 】
+// 【 20 degrees Celsius. 20 摄氏度 】
+// -
+// 【 mild 温和的 adj 】
+
+
+3
+The 【 light 】 【 from 】 the 【 lighter 】 【 illuminated 】 the entire house.
+打火机发出的光照亮了整个屋子
+-
+After 【 lightning 】, there must be 【 thunder 】.
+闪电过后一定有雷声
+-
+// -
+// 【 illuminate 照亮 v 】
+// 【 illuminated 被照亮的 adj 】
+// -
+// 【 light 光 n 】
+// 【 lighter 打火机 n 】
+// -
+// 【 lightning. 闪电 n 】
+// 【 thunder 雷 雷声 n 】
+
+
+4
+Everyone should 【 pay 】 their 【 social security 】 and 【 individual income tax 】 on time.
+每个人都应该按时缴纳社保和个人所得税
+// -
+// 【 social security. 社保 n 】
+// 【 individual income tax. 个人所得税 n 】
+// -
+// 【 pay tax. 交税 】
+```

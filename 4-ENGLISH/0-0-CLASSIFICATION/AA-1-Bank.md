@@ -4,10 +4,16 @@
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
+- [EE.]
+- `【 freeze 冻结 v n 】`
+- `【 frozen 冻结的 past tense / adj 】`
+- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
+- **【 His bank card was 【 frozen 】. 他的银行卡被冻结了 】** // v
+-
 -
 - [-DD.]
 - `【 security 安全 】`
-- `【 social security. 社保 】`
+- `【 social security. 社保 】` // 【 social welfare. 社会福利 】 【 social security. 社保 】
 - `【 social insurance. 社保 】`
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- 【 social status. 社会地位 】
@@ -17,15 +23,15 @@
 -
 -
 - [-CC.]
-- `【 welfare 福利 】` // --------【 social welfare. 社会福利 】
+- `【 welfare 福利 】` // --------【 social welfare. 社会福利 】 【 social security. 社保 】
 - `【 benefit 好处 益处 利益 】`
 - `【 bonus 奖金 】` // ----------【 performance bonus. 绩效奖金 】
 - `【 performance 绩效 表演 】` // 【 performance bonus. 绩效奖金 】
 - -
-- `【 salary 工资 】` -------------- 长期
-- `【 wage 工资 】` ---------------- 短期
+- `【 salary 工资 】` ------------- 长期
+- `【 wage 工资 】` --------------- 短期
 - `【 pay 工资 支付 】`
-- `【 bonus 奖金 】` // ------------ performance bonus. 绩效奖金
+- `【 bonus 奖金 】` // ---------- 【 performance bonus. 绩效奖金 】
 - `【 reward 奖励 】`
 - -
 - > 【 social welfare. 社会福利 】

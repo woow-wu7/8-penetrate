@@ -59,6 +59,11 @@ on sundays. 在每个周日
 后天 the day after tomorrow
 大后天 【 three days from now 】
 
+前年 The year before last.
+去年 last year.
+今年 this year.
+明年 next year.
+
 星期 week
 每周 周报 weekly
 周末 weekend
@@ -91,7 +96,7 @@ every single day. 每一天
 // -- fortnight 两星期: He has had three accidents in the past fortnight. 在过去两周他出了三次事故
 // -- In a fortnight's time I will is home. 两星期后我会在家的
 
-几天 a couple of days. 
+几天 a couple of days.
 多日 multiple days.
 
 十年 decade

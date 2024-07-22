@@ -657,7 +657,7 @@
 - _【 declarative 陈述的 adj 】_
 -
 - `【 subject 主语 】`
-- `【 predicate 谓语 】`
+- `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
 - `【 object 宾语 物体 对象 】`
 - `【 attributive 定语 】` // ---------- 【 attribute 属性 】
 - `【 adverbial 状语 】` // ------------ 【 adverb 副词 】 // 【 verb 动词 】
@@ -692,6 +692,7 @@
 - `【 past tense. 过去时 】`
 - `【 present tense. 现在时 】`
 - `【 future tense. 将来时 】`
+- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. frozen 是 freeze 的过去式 】**
 - **【 This sentence uses the 【 past tense 】.这个句子使用的是过去时态 】**
 -
 - [CC.]
@@ -847,3 +848,7 @@
 - **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - // -- 【 interest rate. 利率 】
 - // -- 【 interest. 利息 】
+
+###### Must 2024-07-22
+
+- 1
