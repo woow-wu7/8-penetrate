@@ -1198,3 +1198,25 @@ The 【 headlights 】, 【 taillights 】, 【 brake lights 】, and 【 turn s
 // -
 // 【 emit 发出 射出 v 】
 ```
+
+##### 19 Make sentences 2024-07-24
+
+```
+1
+Can you 【 imagine 】 the tall 【 image 】 of a hero.
+你能想象英雄高大的形象吗
+// -
+// 【 imagine 想象 v 】
+// 【 image 形象 图像 n 】
+
+
+2
+Do you 【 remember 】 the 【 capacity 】 of the 【 memory 】?
+你记得这个内存的容量是多少吗？
+// -
+// 【 remember 记得 v】
+// 【 memory 内存 记忆 记忆力 v 】
+// -
+// 【 memorize 记住 】
+// 【 memory 内存 记忆 记忆力 v 】
+```

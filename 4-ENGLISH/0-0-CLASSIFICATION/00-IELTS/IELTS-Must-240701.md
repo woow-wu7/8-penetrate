@@ -257,7 +257,7 @@
 - > 【 in tears. 流着泪 含着泪 】
 - > 【 tear up. 撕毁 撕碎 】
 -
-- `【 tire 疲劳v 轮胎n 】`
+- `【 tire 疲劳v 轮胎n 】` // --- 【 spare tire. 备胎 】 // 【 flat tire. 爆胎 】
 - `【 retire 退休 v 】` // ------ retire retirement
 - `【 entire 整个的 adj 】` // -- entire whole
 -
@@ -849,6 +849,37 @@
 - // -- 【 interest rate. 利率 】
 - // -- 【 interest. 利息 】
 
-###### Must 2024-07-22
+###### Must 2024-07-24
 
 - 1
+- `【 memorize 记住 v 】`
+- `【 memory 记忆 记忆力 回忆 内存 n 】` // 【 memory 内存 n 】 【 capacity 容量 n 】
+-
+- `【 remember 记得 v 】` // -------------【 remember 记得 / memorize 记住 】
+- `【 recite 背诵 v 】`
+- `【 review 回顾 v 】`
+-
+- `【 imagine 想象 v 】`
+- `【 image 形象 图像 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'imagine'. // imagine
+- // TIPS: Pay attention to the pronunciation of the word 'image'. // image
+-
+- [AA.]
+- `【 remember 记得 v 】`
+- `【 memorize 记住 v 】`
+- `【 recite 背诵 v 】`
+- **【 I 【 remember 】 I 【 memorized 】 20 poems and 【 recited 】 10 【 poems 】 last year. 记得我去年记住了 20 首诗，背诵了 10 首诗 】**
+- // -- 【 poem 诗 】
+-
+- [BB.]
+- `【 imagine 想象 v 】`
+- `【 image 形象 图像 n 】`
+- **【 Can you 【 imagine 】 the tall 【 image 】 of a hero? 你能想象英雄高大的形象吗？ 】**
+- // TIPS: Pay attention to the pronunciation of the word 'imagine'.
+- // TIPS: Pay attention to the pronunciation of the word 'image'.
+-
+- [CC.]
+- `【 remember 记得 v 】`
+- `【 memory 内存 记忆 回忆  n 】`
+- **【 Do you 【 remember 】 the 【 capacity 】 of 【 the memory 】? 你记得这个内存的容量是多少吗？ 】**
+- // -- 【 capacity 容量 n 】

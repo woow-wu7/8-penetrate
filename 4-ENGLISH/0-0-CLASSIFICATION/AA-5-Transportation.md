@@ -9,7 +9,7 @@
 - `【 petroleum 石油 原油 n 】` ------------------------- 【 petroleum 石油 n 】 【 petrol 汽油 n 】
 - `【 diesel 柴油 采油机 n 】`
 - `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】 【 edible 可食用的 adj 】
-- `【 edible oil. 食用油 n 】`
+- `【 edible oil. 食用油 n 】` // -【 edible salt. 食用盐 】 【 edible oil. 食用油 】
 - `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】 【 gas 气体 汽油 】
 - `【 natural gas. 天然气 】`
 - > 【 gas tank. 油箱 】
@@ -17,18 +17,37 @@
 - > 【 gas nozzle. 加油枪 】 // -- 【 nozzle 喷嘴 】
 - > 【 gas pump. 加油机 加油泵 】// 【 pump 抽水机 】
 - > 【 gas station. 加油站 = petrol station. = gasoline station. 】
+- > 【 natural gas. 天然气 n 】
+- _【 edible salt. 食用盐 】_
+- _【 edible oil. 食用油 】_
 - // TIPS: Pay attention to the pronunciation of the word 'gasoline'.
-- // TIPS: Pay attention to the pronunciation of the word 'petroleum'.
-- // TIPS: Pay attention to the pronunciation of the word 'petrol'.
-- // TIPS: Pay attention to the pronunciation of the word 'edible'.
+- // TIPS: Pay attention to the pronunciation of the word 'petroleum'. // petroleum
+- // TIPS: Pay attention to the pronunciation of the word 'petrol'. // petrol
+- // TIPS: Pay attention to the pronunciation of the word 'edible'. // edible
 -
-- `【 trunk 后备箱 树干 】`
 - `【 tank 油箱 】`
+- `【 trunk 后备箱 树干 】`
 - > 【 fill up. 加满 】
 - > 【 fill up the tank. 加满油箱 】
 - > 【 fill up the tank with gasoline. 把油箱加满汽油 】
 -
+- `【 leak 泄漏 v n 】`
+- > 【 oil leak. 石油泄漏 】
+- > 【 memory leak. 内存泄漏 】
+-
+- [AA-01]
 - **【 After 【 filling up 】the 【 tank 】 with 【 gasoline 】 and 【 diesel 】 at the 【 gas station 】, put the 【 gas nozzle 】 back into the 【 gas pump 】. 在加油站把油箱加满汽油和柴油后把加油枪放回加油机 】**
+- [AA-02]
+- **【 【 Memory leak 】 and 【 oil leak 】 are not the same. 内存泄漏和石油泄漏是不一样的 】**
+- // -- 【 memory 记忆 记忆力 内存 n 】
+- // -- 【 memorize 记忆 记住 v 】
+- // -- 【 review 回顾 v 】
+- // -- 【 recite 背诵 v 】
+- // -- 【 remember 记得 v 】
+- // -- 【 imagine 想象 v 】
+- // -- 【 image 形象 图像 】
+-
+-
 -
 -
 - [BB.]
@@ -53,6 +72,8 @@
 -
 - **【 【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and the 【 low beam 】. 一束光是由远光灯和近光灯共同发出 】**
 - // -- 【 emit 发出 射出 v 】
+-
+-
 -
 -
 - [CC.]
@@ -85,13 +106,18 @@
 - `【 mechanic 机械师 】`
 -
 -
+-
+-
 - [DD.]
 - > INSIDE
+- `【 ignition 点火器  】` // --------- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
 - `【 steering wheel. 方向盘 】`
 - `【 pedal 踏板 】`
 - `【 gas pedal. 油门踏板 】`
 - `【 brake pedal. 刹车踏板 】`
 - `【 clutch pedal. 离合器踏板 】`
+- // TIPS: Pay attention to the pronunciation of the word 'ignite'.
+- // TIPS: Pay attention to the pronunciation of the word 'ignition'.
 
 - `【 horn 喇叭 】`
 - `【 honk the horn. 按喇叭 】`
