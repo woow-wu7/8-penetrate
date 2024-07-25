@@ -38,8 +38,10 @@
 - _【 illuminate 照明 v 】_ // ----- 【 illuminated 被照明的 adj 】
 - `【 light 光n 照亮v 】`
 - `【 lighting 灯光 照明 n 】`
-- `【 lightning 闪电 】`
+- `【 lightning 闪电 】` // -------- 【 a bolt of lightning. 一道闪电 】
 - `【 lighter 打火机 】`
+- > 【 a bolt of lightning. 一道闪电 】
+- > 【 a beam of light. 一束光 】
 -
 - [AA-01.]
 - **【 Today is 【 a 】 【 sunny/rainy/cloudy/foggy 】 day. 】**

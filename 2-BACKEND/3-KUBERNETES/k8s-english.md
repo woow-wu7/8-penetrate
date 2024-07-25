@@ -1,7 +1,18 @@
 # Kubernetes English
 
 ```
-artifact 工件 人工制品 手工艺品
 browser 浏览器
 // TIPS: Pay attention to the pronunciation of the word 'artifact'.
+
+artifact 工件 人工制品 手工艺品
+
+
+statistic 统计数据 n
+statistical 统计的 adj
+【 statistical analysis. 统计分析 】
+// We need to 【 conduct 】 a 【 detailed 】 【 statistical analysis 】 of these data. 我们需要对这些数据进行详细的统计分析
+// -- detail 细节 详情 n
+// -- detailed 详细的 adj
+// -- 【 in detail. 详细地 adv 】
+// -- You need to describe the specific symptoms 【 in detail 】. 你需要详细描述一下具体的症状
 ```

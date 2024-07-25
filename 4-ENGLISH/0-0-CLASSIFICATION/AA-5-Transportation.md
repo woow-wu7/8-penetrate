@@ -1,19 +1,20 @@
 ##### Transportation / Vehicle / Traffic / Transport
 
-##### (1) **Car**
+##### (1) **Car Words**
 
 - [AA.]
 - `【 fuel 燃料 n 】`
-- `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语
+- `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 ---- 【 gasoline station. 加油站 = petrol station. = gas station.】
 - `【 petrol 汽油 n 】` ---------- 英式英语 -------------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】
 - `【 petroleum 石油 原油 n 】` ------------------------- 【 petroleum 石油 n 】 【 petrol 汽油 n 】
 - `【 diesel 柴油 采油机 n 】`
 - `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】 【 edible 可食用的 adj 】
 - `【 edible oil. 食用油 n 】` // -【 edible salt. 食用盐 】 【 edible oil. 食用油 】
 - `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】 【 gas 气体 汽油 】
-- `【 natural gas. 天然气 】`
+- `【 natural gas. 天然气 】` ---- 【 natural/rare/marine/forest/mineral/ resource. 】
 - > 【 gas tank. 油箱 】
 - > 【 gas cap. 油箱盖 】
+- > 【 gas pedal. 油门 】
 - > 【 gas nozzle. 加油枪 】 // -- 【 nozzle 喷嘴 】
 - > 【 gas pump. 加油机 加油泵 】// 【 pump 抽水机 】
 - > 【 gas station. 加油站 = petrol station. = gasoline station. 】
@@ -32,8 +33,10 @@
 - > 【 fill up the tank with gasoline. 把油箱加满汽油 】
 -
 - `【 leak 泄漏 v n 】`
+- `【 leak out. 泄漏 v 】`
 - > 【 oil leak. 石油泄漏 】
 - > 【 memory leak. 内存泄漏 】
+- > 【 memory overflow. 内存溢出 】 // 【 overflow 溢出 v n 】
 -
 - [AA-01]
 - **【 After 【 filling up 】the 【 tank 】 with 【 gasoline 】 and 【 diesel 】 at the 【 gas station 】, put the 【 gas nozzle 】 back into the 【 gas pump 】. 在加油站把油箱加满汽油和柴油后把加油枪放回加油机 】**
@@ -46,21 +49,28 @@
 - // -- 【 remember 记得 v 】
 - // -- 【 imagine 想象 v 】
 - // -- 【 image 形象 图像 】
+- [AA-03]
+- **【 The oil 【 leaked out 】 from the tank. 油从油箱里漏了出来 】**
+- // -- 【 leak out. 泄漏 】
 -
 -
 -
 -
 - [BB.]
 - `【 headlight 前灯 n 】`
-- `【 taillight 尾灯 n 】` // ---- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】
+- `【 taillight 尾灯 n 】` // ---- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】 // 【 retail price. 零售价 】
 - `【 fog light. 雾灯 n 】`
 - `【 brake light. 刹车灯 n 】` // 【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
+- `【 high beam light. 远光灯 n 】`
+- `【 low beam light. 近光灯 n 】`
 - `【 turn signal. 转向灯 n 】`
 -
 - > 【 beam 光束 光线 n 】
-- > 【 high beam. 远光灯 n 】
-- > 【 low beam. 远光灯 n 】
-- > 【 a beam of light. 一束光 】
+- > 【 high beam. 远光灯 n 】= high beam light.
+- > 【 low beam. 远光灯 n 】 = now beam light.
+- //【 a beam of light. 一束光 】
+- //【 a bolt of lightning. 一道闪电 】
+- // light lightning lighter
 -
 - _【 brake light. 刹车灯 n 】_
 - _【 brake pedal. 刹车踏板 】_
@@ -78,14 +88,28 @@
 -
 - [CC.]
 - > OUTSIDE
-- `【 moon roof. 天窗 】` // ---- 【 roof 屋顶 n 】
-- `【 hood 引擎盖 n 】`
-- `【 bumper 保险杠 】` // ------- 【 bump 碰撞 v 】 【 pump 抽水机 打气筒 v 】
-- `【 fender 挡泥板 】`
-- `【 exhaust pipe. 排气管 】` // -【 exhaust 精疲力劲 v / 排气管 n 】 【 pipe 管 导管 n 】
-- `【 door handle. 车门把手 】` // 【 handrail 扶手 ( 楼梯等扶手 ) 】
-- `【 windshield. 挡风玻璃 n 】` //【 shield 盾 护罩 】
+- `【 mechanic 机械师 】` // -------- 【 car mechanic. 汽车修理师 】 【 lift mechanic. 电梯修理师 】 【 chemical fertilizer. 化肥 】
+- `【 license plate. 牌照 车牌 】` // 【 plate 盘子 车牌 】
+- `【 driver's license. 驾驶证 】` // 【 business license. 营业执照 】
+- `【 business license. 营业执照 】`
+- > 【 car mechanic. 汽车修理师 】
+- > 【 lift mechanic. 电梯修理师 】 // 【 lift 举起 v 电梯 n 】
+-
+- `【 windshield. 挡风玻璃 n 】` // ---【 shield 盾 护罩 】
+- `【 windshield wipers. 雨刮器 】` //【 wipers 雨刷 】 【 wipe 擦 】 【 wipe off. 擦掉 】`
+- `【 moon roof. 天窗 】` // -------- 【 roof 屋顶 n 】
+-
+- > 【 swipe 刷卡 v 】
+- > 【 wipe 擦 v 】
+- > 【 wiper 雨刷 n 】
+- > 【 windshield wipers. 雨刮器 】
+-
 - `【 antenna 天线 触角 】`
+- `【 hood 引擎盖 n 】`
+- `【 bumper 保险杠 】` // ---------- 【 bump 碰撞 v 】 【 pump 抽水机 打气筒 v 】
+- `【 fender 挡泥板 】`
+- `【 exhaust pipe. 排气管 】` // -----【 exhaust 精疲力劲 v / 排气管 n 】 【 pipe 管 导管 n 】
+- `【 door handle. 车门把手 】` // ----【 handrail 扶手 ( 楼梯等扶手 ) 】
 -
 - `【 rear view mirror. 后视镜 n 】`
 - `【 side mirror. 侧视镜 n 】`
@@ -101,33 +125,42 @@
 - `【 flat tire. 爆胎 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'steering'.
 -
-- `【 license plate. 牌照 车牌 】`
-- `【 driver's license. 驾驶证 】`
-- `【 mechanic 机械师 】`
+- [CC-01]
+- `【 side mirror. 侧视镜 n 】`
+- **【 【 Side mirror 】 to help you see 【 beside you 】 and 【 behind you 】 when you're turning and changing 【 lanes 】. 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面 】**
+- // 【 lane 车道 跑道 】
+- // 【 changing lanes. 变道 】
+- // 【 behind 在后面 】
+- // 【 beside 在傍边 】
+- // TIPS: Pay attention to pronunciation
+- [CC-02]
+- `【 mechanic 机械师 n 】`
+- **【 】**
+- [CC-03]
+- **【 Please wipe off the durty of the wiper 请擦掉雨刷上的污渍 】**
 -
 -
 -
 -
 - [DD.]
 - > INSIDE
-- `【 ignition 点火器  】` // --------- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
+- `【 ignition 点火器 点火 n 】` // --------- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
 - `【 steering wheel. 方向盘 】`
-- `【 pedal 踏板 】`
-- `【 gas pedal. 油门踏板 】`
-- `【 brake pedal. 刹车踏板 】`
-- `【 clutch pedal. 离合器踏板 】`
-- // TIPS: Pay attention to the pronunciation of the word 'ignite'.
-- // TIPS: Pay attention to the pronunciation of the word 'ignition'.
-
+-
+- `【 seatbelt 安全带 】` // ---------- 【 seat 座位 n 】 【 belt 腰带 传送带 n 】 // 【 please have a seat. 请坐 】
+- `【 fasten seatbelt. 系好安全带 】`
+- `【 fasten seat belt. 系好安全带 】`
+- `【 airbag 安全气囊 】`
+-
 - `【 horn 喇叭 】`
 - `【 honk the horn. 按喇叭 】`
 -
-- `【 visor 遮阳板 】`
-- `【 cup holder. 杯架 】`
--
-- `【 seatbelt 安全带 】`
-- `【 fasten seatbelt. 系好安全带 】`
-- `【 airbag 安全气囊 】`
+- `【 pedal 踏板 】`
+- `【 clutch pedal. 离合器踏板 】`
+- `【 gas pedal. 油门踏板 】`
+- `【 brake pedal. 刹车踏板 】`
+- // TIPS: Pay attention to the pronunciation of the word 'ignite'.
+- // TIPS: Pay attention to the pronunciation of the word 'ignition'.
 -
 - `【 gear 齿轮 n 】`
 - `【 shift gears. 换挡 】`
@@ -135,11 +168,23 @@
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
 -
+- `【 visor 遮阳板 】`
+- `【 cup holder. 杯架 】`
+-
+- `【 temperature gauge. 温度计 】` // gauge 计量器
+- `【 pressure gauge. 压力表 】`
 - `【 dashboard 仪表盘 】`
 - `【 speedometer 速度计 】`
 - `【 tachometer 转速表 】`
-- `【 temperature gauge. 温度计 】`
-- `【 pressure gauge. 压力表 】`
+-
+- [DD-01]
+- `【 visor 遮阳板】`
+- **【 A 【 visor 】 protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射` 】**
+
+##### (2) **Car Phrase**
+
+- [AA.]
+-
 
 ##### (2) Summarize 总结 v
 

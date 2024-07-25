@@ -1199,7 +1199,7 @@ The 【 headlights 】, 【 taillights 】, 【 brake lights 】, and 【 turn s
 // 【 emit 发出 射出 v 】
 ```
 
-##### 19 Make sentences 2024-07-24
+##### 19 Make sentences 2024-07-25
 
 ```
 1
@@ -1219,4 +1219,34 @@ Do you 【 remember 】 the 【 capacity 】 of the 【 memory 】?
 // -
 // 【 memorize 记住 】
 // 【 memory 内存 记忆 记忆力 v 】
+
+
+3
+Can you describe the whole process 【 in detail 】?
+你能详细描述一下整个过程吗？
+-
+You need to pay the ten percent 【 deposit 】 【 in advance 】.
+你需要提前支付百分之十的押金
+-
+You can't 【 insult 】 others 【 in public 】.
+你不能当众辱骂他人
+-
+The 【 result 】 of 【 insulting 】 others are very 【 serious 】.
+辱骂他人的后果很严重
+-
+// -
+// 【 in detail. 详细地 adv 】
+// 【 in advance. 提前 adv 】
+// 【 in public. 当众地 公开的 adv 】
+// -
+// 【 insult 辱骂 v 】
+// 【 result 后果 n 】
+// -
+// 【 deposit 押金n 存钱v 存款n 】
+
+
+4
+What time are you usually free in the evening?
+一般什么时间你晚上有空呢？
 ```
+
