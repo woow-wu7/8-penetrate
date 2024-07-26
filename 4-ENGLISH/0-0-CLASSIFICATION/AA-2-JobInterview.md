@@ -256,6 +256,8 @@
 - `【 architect 架构师 】`
 - `【 software architect. 软件架构师 】`
 - `【 experienced 经验丰富的 adj 】`
+- > 【 architect 架构师 建筑师 n 】
+- > 【 architecture 结构 建筑学 n 】
 - **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 - // -- recruit 招聘 招募 v

@@ -6,6 +6,13 @@ browser 浏览器
 
 artifact 工件 人工制品 手工艺品
 
+architect 架构师 n
+architecture 结构 建筑学 n
+
+truncate 截断
+
+assemble 装配 组装 v
+assembly 装备 组装 n
 
 statistic 统计数据 n
 statistical 统计的 adj

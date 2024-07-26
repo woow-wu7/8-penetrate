@@ -15,6 +15,7 @@
 - > 【 gas tank. 油箱 】
 - > 【 gas cap. 油箱盖 】
 - > 【 gas pedal. 油门 】
+- > 【 gas gauge. 油表 】// ------ 【 gauge 测量仪器 】
 - > 【 gas nozzle. 加油枪 】 // -- 【 nozzle 喷嘴 】
 - > 【 gas pump. 加油机 加油泵 】// 【 pump 抽水机 】
 - > 【 gas station. 加油站 = petrol station. = gasoline station. 】
@@ -50,8 +51,10 @@
 - // -- 【 imagine 想象 v 】
 - // -- 【 image 形象 图像 】
 - [AA-03]
-- **【 The oil 【 leaked out 】 from the tank. 油从油箱里漏了出来 】**
+- **【 The oil 【 leaked out 】 from the 【 tank 】. 油从油箱里漏了出来 】**
 - // -- 【 leak out. 泄漏 】
+-
+-
 -
 -
 -
@@ -63,6 +66,8 @@
 - `【 brake light. 刹车灯 n 】` // 【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
 - `【 high beam light. 远光灯 n 】`
 - `【 low beam light. 近光灯 n 】`
+- `【 a beam of light. 一束光 】`
+- `【 a bolt of lightning. 一道闪电 】`
 - `【 turn signal. 转向灯 n 】`
 -
 - > 【 beam 光束 光线 n 】
@@ -89,14 +94,16 @@
 - [CC.]
 - > OUTSIDE
 - `【 mechanic 机械师 】` // -------- 【 car mechanic. 汽车修理师 】 【 lift mechanic. 电梯修理师 】 【 chemical fertilizer. 化肥 】
+- `【 car mechanic. 汽车修理师 】`
+- `【 lift mechanic. 电梯修理师 】`
+- > 【 lift 举起 v 电梯 n 】
+-
 - `【 license plate. 牌照 车牌 】` // 【 plate 盘子 车牌 】
 - `【 driver's license. 驾驶证 】` // 【 business license. 营业执照 】
 - `【 business license. 营业执照 】`
-- > 【 car mechanic. 汽车修理师 】
-- > 【 lift mechanic. 电梯修理师 】 // 【 lift 举起 v 电梯 n 】
 -
 - `【 windshield. 挡风玻璃 n 】` // ---【 shield 盾 护罩 】
-- `【 windshield wipers. 雨刮器 】` //【 wipers 雨刷 】 【 wipe 擦 】 【 wipe off. 擦掉 】`
+- `【 windshield wipers. 雨刮器 】` //【 wipers 雨刷 】【 swipe 刷卡 】 【 wipe 擦 】 【 wipe off. 擦掉 】
 - `【 moon roof. 天窗 】` // -------- 【 roof 屋顶 n 】
 -
 - > 【 swipe 刷卡 v 】
@@ -116,9 +123,9 @@
 - > 【 rear camera. 后置摄像头 n 】
 - > 【 front-facing camera. 前置摄像头 n 】
 -
-- `【 mileage 里程 】`
-- `【 tank 油箱 】`
-- `【 trunk 后备箱 树干 】`
+- `【 smile 微笑 v n 】`
+- `【 mile 英里 n 】`
+- `【 mileage 里程 n 】`
 -
 - `【 tire 轮胎 累 】` // 【 tire 轮胎 n 累 v 】 【 retire 退休 v 】 【 entire 整个 adj n 】
 - `【 spare tire. 备用轮胎 】`
@@ -135,9 +142,19 @@
 - // TIPS: Pay attention to pronunciation
 - [CC-02]
 - `【 mechanic 机械师 n 】`
-- **【 】**
+- `【 on the side. 兼职 】` // part-time job. = on the side. 兼职
+- //【 part-time job. 兼职 】`
+- //【 full-time job. 全职 】
+- **【 He is a 【 mechanic 】 who buys and sells cars 【 on the side 】. 他是一个兼营买卖汽车的技工 】**
 - [CC-03]
-- **【 Please wipe off the durty of the wiper 请擦掉雨刷上的污渍 】**
+- `【 wipe off. 擦去 擦掉 v 】`
+- `【 windshield wipers. 雨刮器 】`
+- `【 stain 污渍 】`
+- **【 Please 【 wipe off 】 the 【 stains 】 on the 【 windshield wiper 】 请擦掉雨刷上的污渍 】**
+- [CC-04]
+- `【 mile 英里 n 】`
+- `【 mileage 里程 n 】`
+- **【 The total 【 mileage 】 of this journey is ten 【 miles 】. 这段路程的总里程是 10 英里 】**
 -
 -
 -

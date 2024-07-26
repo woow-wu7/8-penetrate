@@ -250,8 +250,9 @@
 - // TIPS: Pay attention to the pronunciation of the word 'poland'.
 -
 - `【 freelancer 自由职业者 】` // 【 freelance 自由职业的 adj 】
-- `【 part-time job. 兼职 】`
 - `【 full-time job. 全职 】`
+- `【 part-time job. 兼职 】` // 【 part-time job. = on the side. 兼职 】
+- `【 on the side. 兼职 】` // --【 part-time job. = on the side. 兼职 】
 - `【 odd job. 零工 】`
 - `【 look for a job. 找工作 】`
 - > 【 look for a job. 找工作 】

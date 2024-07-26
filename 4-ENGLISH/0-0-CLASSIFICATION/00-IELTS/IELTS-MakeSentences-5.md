@@ -1199,7 +1199,7 @@ The 【 headlights 】, 【 taillights 】, 【 brake lights 】, and 【 turn s
 // 【 emit 发出 射出 v 】
 ```
 
-##### 19 Make sentences 2024-07-25
+##### 20 Make sentences 2024-07-25
 
 ```
 1
@@ -1250,3 +1250,33 @@ What time are you usually free in the evening?
 一般什么时间你晚上有空呢？
 ```
 
+##### 20 Make sentences 2024-07-26
+
+```
+1
+He work as a restaurant waiter 【 on the side 】.
+He work as a 【 part-time 】 restaurant waiter.
+他兼职做餐厅服务员
+-
+He is a 【 mechanic 】 who buys and sells cars 【 on the side 】.
+他是一个兼营买卖汽车的技工
+// -
+// 【 on the side. 兼职 】
+// 【 part-time job. 兼职 】
+// 【 full-time job. 全职 】
+// -
+// 【 freelancer 只有职业者 】
+// -
+// 【 mechanic 机械师 技工 n 】
+
+
+2
+The total 【 mileage 】 of this journey is ten 【 miles 】.
+这段路程的总里程是 10 英里
+// -
+// 【 mile 英里 n 】
+// 【 mileage 里程 n 】
+// -
+// 【 smile 微笑 】
+// 【 mile 英里 n 】
+```
