@@ -91,6 +91,8 @@
 -
 -
 -
+-
+-
 - [CC.]
 - > OUTSIDE
 - `【 mechanic 机械师 】` // -------- 【 car mechanic. 汽车修理师 】 【 lift mechanic. 电梯修理师 】 【 chemical fertilizer. 化肥 】
@@ -155,6 +157,8 @@
 - `【 mile 英里 n 】`
 - `【 mileage 里程 n 】`
 - **【 The total 【 mileage 】 of this journey is ten 【 miles 】. 这段路程的总里程是 10 英里 】**
+- [CC-05]
+- **【 repairing the exhaust pipe let me exhausted. 修排气管让我精疲力竭 】**
 -
 -
 -
