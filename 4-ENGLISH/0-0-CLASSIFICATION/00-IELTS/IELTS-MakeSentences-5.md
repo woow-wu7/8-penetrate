@@ -1250,7 +1250,7 @@ What time are you usually free in the evening?
 一般什么时间你晚上有空呢？
 ```
 
-##### 20 Make sentences 2024-07-26
+##### 21 Make sentences 2024-07-26
 
 ```
 1
@@ -1279,4 +1279,69 @@ The total 【 mileage 】 of this journey is ten 【 miles 】.
 // -
 // 【 smile 微笑 】
 // 【 mile 英里 n 】
+```
+
+##### 22 Make sentences 2024-07-28
+
+```
+1
+【 The beam of light 】 comes from 【 a bolt of lightning 】.
+这一束光来自一道闪电
+-
+【 lighters 】 can 【 emit 】 【 light 】.
+打火机可以发光
+-
+// -
+// 【 a beam of light. 一束光 】
+// 【 a bolt of lightning. 一道闪电 】
+// -
+// 【 lightning 闪电 n 】
+// 【 lighter 打火机 n 】
+
+
+2
+The 【 electricity 】 【 generated 】 by 【 diesel generator 】 is enough to support us in finding the reason of the 【 power outage 】 at the 【 power station 】.
+柴油发电机发的电足够支撑我们找到发电站停电的原因
+-
+// -
+// 【 diesel generator. 柴油发电机 】
+// -
+// 【 power outage. 停电 断电 】
+// 【 power station. 电厂 】
+// -
+// outage 停电 n
+// mileage 里程 n
+// -
+// 【 support sb in doing sth. 支持某人做某事 】
+
+
+3
+Before stepping on the 【 gas pedal 】, we must 【 step on 】 the 【 clutch pedal 】 first.
+踩油门踏板之前我们需要先离合器踏板
+-
+We should solve this problem 【 step by step 】.
+我们应该一步一步解决这个问题
+// -
+// 【 clutch pedal. 离合器踏板 】
+// 【 gas pedal. 油门踏板 】
+// 【 brake pedal. 刹车踏板 】
+// -
+// 【 step on. 踩在...上 】
+// 【 step by step. 一步一步地 】
+
+
+4
+This type of car has 【 already 】 been 【 sold out 】.
+这种车已经售尽了
+// -
+// 【 sold out. 售尽 】
+// TIPS: 这个句子是 现在完成时 + 被动语态
+
+
+5
+Please be careful, I'm 【 reversing 】.
+请小心，我在倒车
+// -
+// 【 reverse the car. 倒车 】
+// 【 back up the car. 倒车 】
 ```

@@ -147,6 +147,9 @@
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
 -
+- _【 sold out. 售尽 】_
+- **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
+-
 - `【 pilot 飞行员 】`
 - `【 steward 乘务员  】`
 - `【 stewardess 空姐 】`

@@ -1,31 +1,54 @@
 ##### Transportation / Vehicle / Traffic / Transport
 
-##### (1) **Car Words**
+##### (1) **Car Word**
 
+- [-AA.expand]
+- `【 reverse the car. 倒车 】` // 【 reverse 颠倒 反向 反向的 adj 】
+- `【 back up the car. 倒车 】`
+-
+- [-AA.]
+- `【 reverse 反向 反面 反向的 倒车 】`
+- **【 Please be careful, I'm 【 reversing 】. 请小心，我在倒车 】**
+-
+-
+-
+-
+-
+-
 - [AA.]
 - `【 fuel 燃料 n 】`
-- `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 ---- 【 gasoline station. 加油站 = petrol station. = gas station.】
-- `【 petrol 汽油 n 】` ---------- 英式英语 -------------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】
-- `【 petroleum 石油 原油 n 】` ------------------------- 【 petroleum 石油 n 】 【 petrol 汽油 n 】
-- `【 diesel 柴油 采油机 n 】`
-- `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】 【 edible 可食用的 adj 】
+- `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 【 gasoline station. 加油站 = gas station. = petrol station. 】
+- `【 petrol 汽油 n 】` ---------- 英式英语 ------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】// 【 petrol station. 】
+- `【 petroleum 石油 原油 n 】` ------------------ 【 petroleum 石油 n 】 【 petrol 汽油 n 】
+- `【 diesel 柴油 采油机 n 】` // -【 diesel generator. 柴油发电机 】
+-
+- `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】//【 oil leak. 石油泄漏 】 【 edible 可食用的 adj 】
 - `【 edible oil. 食用油 n 】` // -【 edible salt. 食用盐 】 【 edible oil. 食用油 】
+- `【 edible salt. 食用盐 n 】`
+-
 - `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】 【 gas 气体 汽油 】
 - `【 natural gas. 天然气 】` ---- 【 natural/rare/marine/forest/mineral/ resource. 】
+- `【 shale gas. 页岩气 】`
+- _【 regular gas. 普通的汽油 】_ // 87
+- _【 premium gas. 优质的汽油 】_ // 93
 - > 【 gas tank. 油箱 】
 - > 【 gas cap. 油箱盖 】
 - > 【 gas pedal. 油门 】
-- > 【 gas gauge. 油表 】// ------ 【 gauge 测量仪器 】
-- > 【 gas nozzle. 加油枪 】 // -- 【 nozzle 喷嘴 】
-- > 【 gas pump. 加油机 加油泵 】// 【 pump 抽水机 】
-- > 【 gas station. 加油站 = petrol station. = gasoline station. 】
+- > 【 gas gauge. 油表 】// -------- 【 gauge 测量仪器 】
+- > 【 gas nozzle. 加油枪 】 // ----- 【 nozzle 喷嘴 】
+- > 【 gas pump. 加油机 加油泵 】// ---【 pump 抽水机 】
+- > 【 gas stove. 煤气灶 燃气灶 n 】---【 stove 炉子 】
+- > 【 gas station. 加油站 = gasoline station. = petrol station. 】
 - > 【 natural gas. 天然气 n 】
-- _【 edible salt. 食用盐 】_
-- _【 edible oil. 食用油 】_
+- > 【 diesel generator. 柴油发电机 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'gasoline'.
 - // TIPS: Pay attention to the pronunciation of the word 'petroleum'. // petroleum
 - // TIPS: Pay attention to the pronunciation of the word 'petrol'. // petrol
 - // TIPS: Pay attention to the pronunciation of the word 'edible'. // edible
+-
+- `【 diesel generator. 柴油发电机 n 】`
+- `【 power station. 发电站 发电厂 n 】`
+- `【 power outage. 停电 断电 】`
 -
 - `【 tank 油箱 】`
 - `【 trunk 后备箱 树干 】`
@@ -38,6 +61,10 @@
 - > 【 oil leak. 石油泄漏 】
 - > 【 memory leak. 内存泄漏 】
 - > 【 memory overflow. 内存溢出 】 // 【 overflow 溢出 v n 】
+-
+- `【 fill up. 加满 】`
+- `【 pump the gas. 加油 】`
+- `【 out of the gas. 车没油了 】`
 -
 - [AA-01]
 - **【 After 【 filling up 】the 【 tank 】 with 【 gasoline 】 and 【 diesel 】 at the 【 gas station 】, put the 【 gas nozzle 】 back into the 【 gas pump 】. 在加油站把油箱加满汽油和柴油后把加油枪放回加油机 】**
@@ -53,6 +80,12 @@
 - [AA-03]
 - **【 The oil 【 leaked out 】 from the 【 tank 】. 油从油箱里漏了出来 】**
 - // -- 【 leak out. 泄漏 】
+- [AA-04]
+- `【 diesel generator. 柴油发电机 n 】`
+- `【 power station. 发电站 发电厂 n 】`
+- `【 power outage. 停电 断电 】`
+- _【 support sb in doing sth. 支持某人做某事 】_
+- **【 The 【 electricity 】 【 generated 】 by the 【 diesel generator 】 is enough to support us in finding the reason of 【 power outage 】 at the 【 power station 】. 柴油发电机发的电足够支撑我们找到发电站停电的原因 】**
 -
 -
 -
@@ -60,10 +93,11 @@
 -
 -
 - [BB.]
-- `【 headlight 前灯 n 】`
+- `【 headlight 前灯 n 】` // ----- head 头
 - `【 taillight 尾灯 n 】` // ---- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】 // 【 retail price. 零售价 】
 - `【 fog light. 雾灯 n 】`
 - `【 brake light. 刹车灯 n 】` // 【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
+- `【 hazard light. 危险灯 双闪灯 】`
 - `【 high beam light. 远光灯 n 】`
 - `【 low beam light. 近光灯 n 】`
 - `【 a beam of light. 一束光 】`
@@ -71,22 +105,26 @@
 - `【 turn signal. 转向灯 n 】`
 -
 - > 【 beam 光束 光线 n 】
-- > 【 high beam. 远光灯 n 】= high beam light.
-- > 【 low beam. 远光灯 n 】 = now beam light.
-- //【 a beam of light. 一束光 】
-- //【 a bolt of lightning. 一道闪电 】
-- // light lightning lighter
+- > 【 high beam light. 远光灯 n 】
+- > 【 low beam light. 远光灯 n 】
+- > 【 a beam of light. 一束光 】
+- > 【 a bolt of lightning. 一道闪电 】
+- // 【 lightning 闪电 】
+- // 【 lighter 打火机 】
 -
 - _【 brake light. 刹车灯 n 】_
 - _【 brake pedal. 刹车踏板 】_
 - _【 hit the brakes. 刹车 】_
 - _【 emergency brake. 紧急刹车 = urgent brake. 】_
 -
-- **【 The 【 headlights 】, 【 taillights 】, 【 brake lights 】 and 【 turn signal 】 of the 【 vehicle 】 are all fine, but the 【 fog lights 】 are broken.这辆车的前灯，后灯，刹车灯，转弯灯都是好的，但是雾灯坏了 】**
+- **【 The 【 headlights 】, 【 taillights 】, 【 brake lights 】 and 【 turn signal 】 of the 【 vehicle 】 are all fine, but the 【 fog lights 】 are broken. 这辆车的前灯，后灯，刹车灯，转弯灯都是好的，但是雾灯坏了 】**
 - // -- 【 vehicle 车辆 n 】
 -
 - **【 【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and the 【 low beam 】. 一束光是由远光灯和近光灯共同发出 】**
 - // -- 【 emit 发出 射出 v 】
+-
+- **【 【 The beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
+- **【 【 lighters 】 can 【 emit 】 【 light 】. 打火机可以发光 】**
 -
 -
 -
@@ -107,6 +145,8 @@
 - `【 windshield. 挡风玻璃 n 】` // ---【 shield 盾 护罩 】
 - `【 windshield wipers. 雨刮器 】` //【 wipers 雨刷 】【 swipe 刷卡 】 【 wipe 擦 】 【 wipe off. 擦掉 】
 - `【 moon roof. 天窗 】` // -------- 【 roof 屋顶 n 】
+- _【 roll down the window. 摇下车窗 】_
+- _【 roll up the window. 摇起车窗 】_
 -
 - > 【 swipe 刷卡 v 】
 - > 【 wipe 擦 v 】
@@ -117,6 +157,7 @@
 - `【 hood 引擎盖 n 】`
 - `【 bumper 保险杠 】` // ---------- 【 bump 碰撞 v 】 【 pump 抽水机 打气筒 v 】
 - `【 fender 挡泥板 】`
+- `【 visor. 遮阳板 n 】`
 - `【 exhaust pipe. 排气管 】` // -----【 exhaust 精疲力劲 v / 排气管 n 】 【 pipe 管 导管 n 】
 - `【 door handle. 车门把手 】` // ----【 handrail 扶手 ( 楼梯等扶手 ) 】
 -
@@ -127,7 +168,7 @@
 -
 - `【 smile 微笑 v n 】`
 - `【 mile 英里 n 】`
-- `【 mileage 里程 n 】`
+- `【 mileage 里程 n 】` // mileage // outage
 -
 - `【 tire 轮胎 累 】` // 【 tire 轮胎 n 累 v 】 【 retire 退休 v 】 【 entire 整个 adj n 】
 - `【 spare tire. 备用轮胎 】`
@@ -145,6 +186,7 @@
 - [CC-02]
 - `【 mechanic 机械师 n 】`
 - `【 on the side. 兼职 】` // part-time job. = on the side. 兼职
+- `【 on the side. = part-time job. 兼职 】`
 - //【 part-time job. 兼职 】`
 - //【 full-time job. 全职 】
 - **【 He is a 【 mechanic 】 who buys and sells cars 【 on the side 】. 他是一个兼营买卖汽车的技工 】**
@@ -158,19 +200,24 @@
 - `【 mileage 里程 n 】`
 - **【 The total 【 mileage 】 of this journey is ten 【 miles 】. 这段路程的总里程是 10 英里 】**
 - [CC-05]
-- **【 repairing the exhaust pipe let me exhausted. 修排气管让我精疲力竭 】**
+- `【 exhaust 精疲力劲v 排气管n 】`
+- `【 exhaust pipe. 排气管 n 】`
+- **【 repairing the 【 exhaust pipe 】 let me 【 exhausted 】. 修排气管让我精疲力竭 】**
+-
+-
 -
 -
 -
 -
 - [DD.]
 - > INSIDE
-- `【 ignition 点火器 点火 n 】` // --------- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
+- `【 ignition 点火器 点火 n 】` // ---- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
 - `【 steering wheel. 方向盘 】`
 -
 - `【 seatbelt 安全带 】` // ---------- 【 seat 座位 n 】 【 belt 腰带 传送带 n 】 // 【 please have a seat. 请坐 】
 - `【 fasten seatbelt. 系好安全带 】`
 - `【 fasten seat belt. 系好安全带 】`
+- `【 wearing a seat belt. 系好安全带 】`
 - `【 airbag 安全气囊 】`
 -
 - `【 horn 喇叭 】`
@@ -194,18 +241,52 @@
 -
 - `【 temperature gauge. 温度计 】` // gauge 计量器
 - `【 pressure gauge. 压力表 】`
+- `【 speedometer 速度计 】` // speedometer
 - `【 dashboard 仪表盘 】`
-- `【 speedometer 速度计 】`
 - `【 tachometer 转速表 】`
 -
 - [DD-01]
 - `【 visor 遮阳板】`
-- **【 A 【 visor 】 protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射` 】**
+- **【 A 【 visor 】 protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射 】**
+- [DD-02]
+- `【 clutch pedal. 离合器踏板 】`
+- `【 gas pedal. 油门踏板 】`
+- `【 brake pedal. 刹车踏板 】`
+- _【 step on. 踩在...上 】_
+- **【 Before stepping on the 【 gas pedal 】, we need to 【 step on 】 the 【 clutch pedal 】 first. 踩油门踏板之前我们需要先离合器踏板 】**
 
-##### (2) **Car Phrase**
+##### (1) **Car Phrase**
 
 - [AA.]
+- `【 speed up. 加速 】`
+- `【 pull up. 减速停下 】`
+- `【 pull over. 靠边停下 】`
+- > 【 slow down. 减速 】
 -
+- [AA-01]
+- `【 speed up. 加速 】`
+- **【 The train began to 【 speed up 】 【 as 】 it left the station. 火车离开车站时开始加速 】**
+
+- [AA-02]
+- `【 pull up. 减速停下 停靠 】`
+- **【 I 【 pulled up 】close to the 【 gas pump 】. 我把车停在靠近加油泵的地方 】**
+-
+- [AA-03]
+- `【 pull over. 靠边停下 】`
+- `【 slow down. 减速 】`
+- **【 【 Slow down 】 and then 【 pull over 】. 放慢速度然后靠路边停 】**
+- **【 here is a 【 sharp turn 】 【 up ahead 】, so 【 slow down 】. 前面有一个急转弯，所以减速 】**
+-
+-
+-
+-
+-
+-
+- [BB.]
+- `【 sold out. 售尽  】`
+- **【 This type of car has 【 already 】 been 【 sold out 】. 这种车已经售尽了 】**
+
+##### (2) **Gas Station Word**
 
 ##### (2) Summarize 总结 v
 
