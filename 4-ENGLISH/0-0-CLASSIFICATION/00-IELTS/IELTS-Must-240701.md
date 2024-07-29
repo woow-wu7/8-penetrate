@@ -883,3 +883,116 @@
 - `【 memory 内存 记忆 回忆  n 】`
 - **【 Do you 【 remember 】 the 【 capacity 】 of 【 the memory 】? 你记得这个内存的容量是多少吗？ 】**
 - // -- 【 capacity 容量 n 】
+
+###### Must 2024-07-30
+
+- 1
+- `【 accent 口音 n 】`
+- `【 pronunciation 发音 n 】` // --- 【 pronounce 发音 v 】 【 pronunciation 发音 n 】
+- `【 tone 音调 声调 语调 n 】` // ---- 【 tongue 舌头 】 【 tone 音调 语调 n 】
+-
+- `【 standard 标准的adj 标准n 】`
+- `【 fluent 流利的 adj 】`
+-
+- `【 spell 拼写 v 】`
+- `【 recite 背诵 v 】`
+-
+- `【 memorize 记住 v 】` // -------- 【 memory 记忆 n 内存 n 】
+- `【 remember 记得 v 】`
+- `【 recite 背诵 v 】`
+-
+- [AA.]
+- `【 pronunciation 发音 n 】`
+- `【 accent 口音 n 】`
+- `【 tone 音调 语调 n 】`
+- **【 I think your 【 pronunciation 】, 【 accent 】, and 【 tone 】 are 【 all 】 very good. 我认为你的发音，口音，音调都很好 】**
+-
+-
+-
+-
+-
+-
+- 2
+- `【 admire 佩服 钦佩 欣赏 v 】` // -【 admire sb for doing sth. 佩服某人做某事 】 // 【 mire 泥潭 n 】 【 admire 佩服 v 】
+- `【 envy 羡慕 v 】` // -----------【 envy sb for doing sth. 羡慕某人做某事 】 // --【 navy 海军 n 】 【 envy 羡慕 v 】
+- `【 respect 尊敬 v 】`
+- > 【 admire 佩服 钦佩 v 】
+- > 【 mire 泥潭 n 】
+- > 【 envy 羡慕 v 】
+- > 【 navy 海军 n 】
+- > 【 envy sb for doing sth. 羡慕某人做某事 】
+- > 【 admire sb for doing sth. 佩服某人做某事 】
+-
+- `【 envy 羡慕 v 】` // -----------【 envy sb for doing sth. 羡慕某人做某事 】 【 navy 海军 n 】 【 envy 羡慕 v 】
+- `【 envious 羡慕的 adj 】`
+- `【 jealous 嫉妒的 adj 】` // ----【 be jealous of sb. 嫉妒某人 】
+- > 【 be jealous of sb. 嫉妒某人 】
+- _【 envious 羡慕的 adj 】_
+- _【 serious 严肃的 认真的 严重的 adj 】_
+- _【 various 各种 各种个样的 adj 】_ // 【 various aspect. 各个方面 】 【 various resources. 各种资源 】
+-
+- `【 courage 勇气 n 】` // -------- 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
+- `【 encourage 鼓励 v 】`
+- `【 discourage 阻止 劝阻 v 】` // --【 discourage sb from doing sth. 阻止某人做某事 】
+-
+- `【 pure 纯洁的 纯的 adj 】`
+- `【 plain 朴素的adj 平原n 】` // ---【 plain sailing. 一帆风顺 】
+- > 【 plain 朴素的 adj 平原 n 】
+- > 【 explain 解释 v 】
+- > 【 complain 抱怨 v 】 // --------【 complain about sb. 抱怨某人 】
+- // TIPS: Pay attention to the pronunciation of the work 'pure'.
+-
+- `【 secretly 偷偷地 adv 】` // ---- 【 secret 秘密 n 】 【 secretary 秘书 n 】 【 secretly 偷偷地 adv 】
+- `【 excellent 杰出的 优秀的 adj 】`
+- `【 rare 稀少的 adj 】` // -------- 【 rare metal. 稀有金属 】 【 rare resource. 稀有资源 】 【 rare species. 稀有物种 】
+- > 【 rare 稀少的 adj 】// ----------【 rare metal. 稀有金属 】 【 rare resource. 稀有资源 】 【 rare species. 稀有物种 】
+- > 【 rear 后方的 adj // ------------【 rear view mirror. 后视镜 】
+- > 【 first tier city. 一线城市 】
+-
+- `【 talent 天赋 才能 才华 n 】`
+-
+- // EE: [admire]: to find someone or something 【 attractive 】 and 【 pleasant 】 to look at.
+- // EE: [envy]: To 【 wish 】 that you had something that another person has.
+- // EE: [pure]: not mixed with 【 anything else 】.
+- // -- 【 pleasant 令人愉快的 adj 】
+- // -- 【 anything else. 其他任何东西 】
+-
+- [AA.]
+- `【 admire sb for doing sth. 钦佩某人做某事 】`
+- `【 courage 勇气 n 】`
+- **【 I 【 admire 】 you for having 【 courage 】 to do what you like. 我很佩服你有勇气做你喜欢做的事情 】**
+-
+- [BB.]
+- `【 navy 海军 n 】`
+- `【 envy 羡慕 v 】`
+- `【 envy sb for doing sth. 羡慕某人做某事 】`
+- **【 I 【 envy 】 the 【 navy 】 for being able to watch the sea. 我很羡慕海军可以看海 】**
+-
+- [CC.]
+- `【 encourage 鼓励 v 】`
+- `【 courage 勇气 n 】`
+- `【 discourage 阻止 劝阻 v 】`
+- **【 I didn't 【 encourage 】 you, but you have 【 courage 】, and nobody can 【 discourage 】 you. 我并没有鼓励你，而是你自己有勇气，没有人能阻止你 】**
+-
+- [DD.]
+- `【 talent 天赋 才能 n 】`
+- `【 envious 羡慕的 adj 】`
+- `【 jealous 嫉妒的 adj 】`
+- **【 Your 【 talent 】 makes me both 【 envious 】 and 【 jealous 】. 你的才华，我既羡慕又嫉妒 】**
+-
+- [EE.]
+- `【 plain 朴素的 adj 平原 n 】`
+- `【 explain 解释 v 】`
+- `【 complain 抱怨 v 】`
+- `【 pure 纯洁的 adj 】`
+- _【 complain about sb. 抱怨某人 】_
+- **【 After 【 explaining 】 this thing clearly, the 【 plain 】 her stopped 【 complaining 】 about me. 在清楚地解释了这件事之后，朴素的她不再抱怨我了 】**
+- **【 You are a 【 pure 】 and 【 plain 】 person.你是一个纯洁和朴素的人 】**
+- // -- 【 complain about sb. 抱怨某人 】
+-
+- [FF.]
+- `【 secretly 偷偷地 adv 】`
+- **【 Can you 【 secretly 】 learn English 【 while 】 working? 你能在工作的时候偷偷的学英语吗？】**
+- // -- 【 while 当...的时候 / 一会儿 n 】
+- // -- 【 for a while. 一会 】
+- // -- 【 meanwhile 与此同时 】

@@ -50,7 +50,7 @@
 -
 - `【 fair 公平的 公正的 adj 】` //【 fair competition. 公平竞争 】
 - `【 fairy 仙女 精灵 】`
-- `【 fairy tale. 童话故事 】`
+- `【 fairy tale. 童话故事 】` // fairy tale. // love story.
 - `【 fairyland 仙境 】`
 - > 【 fair competition. 公平的竞争 】
 -
