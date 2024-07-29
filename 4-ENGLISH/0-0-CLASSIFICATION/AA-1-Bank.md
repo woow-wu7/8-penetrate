@@ -4,7 +4,22 @@
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
-- [EE.]
+- [-GG.]
+- `【 ability 能力 n 】`
+- `【 liability 负债 n 】` = debt.
+- `【 repay 偿还 】`
+- **【 His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】. 他的债务超出了他偿还债务的能力范围 】**
+- // -- 【 repay debt. 偿还债务 】
+- // -- 【 beyond the scope of. 超出...的范围 】
+-
+- [-FF.]
+- `【 statistic 统计数据 统计 n 】`
+- `【 statistical 统计的 adj 】`
+- `【 statistical report. 统计报告 n 】`
+- `【 statistical analysis. 统计分析 n 】`
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+-
+- [-EE.]
 - `【 freeze 冻结 v n 】`
 - `【 frozen 冻结的 past tense / adj 】`
 - **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
@@ -385,7 +400,6 @@
 -
 - [VV.]
 - `【 asset 资产 】`
-- `【 real estate. 房地产 】`
 - `【 state-owned asset. 国有资产 】`
 - `【 economic crisis. 经济危机 】`
 - `【 economic recession 紧急衰退 】`
@@ -897,6 +911,7 @@
 - 9
 - `balance 余额 平衡 n`
 - _【 check balance. 查看余额 】_
+- _【 balance sheet. 资产负债表 】_
 -
 - balance 余额
 - **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额

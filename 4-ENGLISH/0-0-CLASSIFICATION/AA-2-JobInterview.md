@@ -3,6 +3,30 @@
 ##### (1) **The words that you mast know.**
 
 - [-FF.]
+- `【 statistic 统计数据 统计 n 】`
+- `【 statistical 统计的 adj 】`
+- `【 statistical report. 统计报告 n 】`
+- `【 statistical analysis. 统计分析 n 】`
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+-
+- [-GG.]
+- `【 employ 雇佣 v 】`
+- `【 employment 雇佣 n 】`
+- `【 unemployment 失业 n 】`
+-
+- `【 unemployment 失业 n 】`
+- `【 unemployed 失业的 adj 】`
+-
+- `【 employer 雇主 老板 n 】`
+- `【 employee 员工 n 】`
+- `【 employ 雇佣 v 】`
+- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- // -- 【 figure out. 计算出 】= calculate.
+- // -- 【 figure 数字 】= digit. = number.
+-
+-
+- [-FF.]
 - `【 position 位置 职位 n 】`
 - `【 preposition 介词 】`
 - **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
@@ -33,6 +57,8 @@
 - `【 lose one's job. 失业 】`
 - `【 employment rate. 就业率 】`
 - `【 unemployment rate. 失业率 】`
+- > 【 unemployed 失业的 adj 】
+- > 【 unemployment 失业 n 】
 - 1. **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
 - 2. **【 The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rate 】. 失业率远远高于就业率 】**
 - **【 who is 【 on duty 】 tody? 今天谁值班 】**

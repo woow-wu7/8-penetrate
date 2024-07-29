@@ -1786,7 +1786,7 @@ The book 【 cover 】 the 【 various aspects 】 of 【 history 】 and 【 cu
 监控浏览器解析各种资源的时间
 -
 // -
-// 【 various aspects. 各个方便 】
+// 【 various aspects. 各个方面 】
 // 【 various resources. 各种资源 】
 // -
 // 【 various 各种各样的 】

@@ -1,6 +1,6 @@
 # Vscode
 
-##### (一) 快捷键
+##### (一) 快捷键 Shortcut
 
 - [shortcut key](https://zhuanlan.zhihu.com/p/143979670)
 
@@ -37,7 +37,7 @@ command + . 更多操作
 查找：command + f
 替换：command + option + f
 
-添加书签：command  + option + k
+添加书签：command + option + k
 查找下一个书签: command + option + L
 
 折叠代码块：command + option + {

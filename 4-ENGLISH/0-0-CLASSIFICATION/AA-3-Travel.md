@@ -137,7 +137,7 @@
 - `【 timetable 时刻表 课程表 】`
 - `【 take off. 起飞 脱下 】`
 - `【 land 下降v 陆地n 】`
-- `【 taxi 滑行v 出租车n 】` // ------- taxi slip
+- `【 taxi 滑行v 出租车n 】` // ------ 【 hail a taxi. 打出租车 】 // taxi slip
 - `【 runway 跑道 】`
 - `【 airplane runway. 飞机跑道 】` // 【 runway 跑道 】
 - > 【 arrival time. 到达时间 】
@@ -146,11 +146,12 @@
 - // depart 离开 v
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
+- **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
 -
 - _【 sold out. 售尽 】_
 - **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
 -
-- `【 pilot 飞行员 】`
+- `【 pilot 飞行员 】` // 【 parking spot. 停车位 】 // 【 pilot 飞行员 】
 - `【 steward 乘务员  】`
 - `【 stewardess 空姐 】`
 - > 【 assistant 助理 】
@@ -158,6 +159,11 @@
 - > 【 secretary 秘书 】 // 【 secret 秘密 】 【 secretary 】
 - > 【 steward 乘务员 】
 - > 【 stewardess 空姐 】
+- // steward stewardess
+- // waiter waitress
+- // actor actress
+- // headmaster headmistress
+- // prince princess
 -
 - `【 shuttle bus. 班车 】`
 - `【 last bus. 末班车 】`

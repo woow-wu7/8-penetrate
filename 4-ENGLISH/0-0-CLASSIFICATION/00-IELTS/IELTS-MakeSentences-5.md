@@ -1345,3 +1345,201 @@ Please be careful, I'm 【 reversing 】.
 // 【 reverse the car. 倒车 】
 // 【 back up the car. 倒车 】
 ```
+
+##### 24 Make sentences 2024-07-29
+
+```
+1
+The 【 October 】 first to seventh next month is 【 National Day 】.
+下个月十月一号到十月七号是国庆节
+-
+The first letter of the word 【 'capital' 】 should be 【 capitalized 】.
+首都这个单词的第一个字母应大写
+-
+【 Valentine's Day 】 【 is divided into 】 international Valentine's Day and Chinese Valentine's Day.
+情人节分为国际情人节和中国情人节
+-
+// -
+// 【 National Day. 国庆节 】
+// 【 Valentine's Day 情人节 】
+// -
+// 【 capital 首都n 大写字母n 大写的adj 】
+// 【 capitalized 把首字母大写 v 】
+// -
+// TIPS: Pay attention to the first letters of the phrase 【 'National Day' 】 should be 【 capitalized 】.
+
+
+2
+Their love 【 story 】 is very 【 touching 】.
+他们的爱情故事很感人
+-
+Don't 【 touch 】 this 【 fairy tale 】, because their 【 love story 】 is too 【 touching 】.
+不要去触摸这个童话故事，因为他们的爱情故事太感人了
+-
+// -
+// 【 touch 触摸v 感动v 】
+// 【 touching 感人的 adj / vIng 】
+// -
+// 【 fairy tale. 童话故事 】
+// 【 love story. 爱情故事 】
+// -
+// 【 story 故事 n 】------- 【 love story. 爱情故事 】
+// 【 tale 故事 n 】-------- 【 fairy tale. 童话故事 】 // 【 fairy 仙女 】 // 【 fairyland 仙境 】 // tale tail retail wholesale
+// 【 novel 小说 n 】
+// 【 fiction 小说 n 】
+
+
+3
+-
+【 Once 】 I 【 arrive in 】 China, I must apply for a visa 【 once agin 】.
+一旦我到达中国，我必须再次申请签证
+-
+【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 【 for 】 the 【 tourist attraction 】.
+一旦你去过一次，你就会对这个旅游景点赞不绝口
+-
+【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+你要你努力工作，你就会成功
+-
+His 【 success 】 depended on 【 talent 】 and 【 effort 】.
+他的成功靠天赋和努力
+-
+// -
+// 【 once 一次 一旦 】
+// 【 once again. 再一次 】
+// -
+// 【 as long as. 只要 】
+// -
+// 【 be full of praise. 赞不绝口 】
+// -
+// 【 arrive at. 到达 v 】--- 小地点 - 机场 车站 等
+// 【 arrive in. 到达 v 】--- 大地点 - 城市 国家 等
+// -
+// 【 effort 努力 n 】
+// 【 make an effort. 努力 】
+// 【 work hard. = make a effort. 努力 】
+// -
+// 【 talent 天赋 】
+// 【 depend on. 依赖 = rely on. 】
+// -
+// success successful succeed
+// failure failed fail
+
+
+4
+We use the 【 stick shift 】 to 【 shift gears 】.
+我们使用换挡杆来换挡
+// -
+// 【 stick shift. 换挡杆 】
+// 【 shift gears. 换挡 v 】
+// 【 first gear. 一档 】
+// 【 second gear. 二档 】
+
+
+5
+Please don't 【 confuse 】 the 【 concepts 】 of 【 rejection 】 and 【 opposition 】.
+请不好混淆拒绝和反对的概念
+-
+I didn't 【 refuse 】 him, please don't 【 confuse 】 the 【 concept 】.
+我没有拒绝他，请不要混淆概念
+-
+// -
+// 【 confuse 混淆 v 】
+// 【 refuse 拒绝 v 】
+// -
+// 【 concept 概念 观念 n 】
+```
+
+##### 25 Make sentences 2024-07-31
+
+```
+1
+We need to 【 figure out 】 the 【 real 】 【 figure 】 of 【 unemployed employees 】.
+我们需要计算出失业员工的真实数字
+-
+The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】.
+统计报告做了统计分析，给出了就业率和失业率的真实数字
+-
+// -
+// 【 figure out. 计算出 】= calculate.
+// 【 figure 数字 】= digit. = number.
+// -
+// 【 employment rate. 就业率 n 】
+// 【 unemployment rate. 失业率 n 】
+// 【 unemployed employees. 失业员工 n 】
+// -
+// 【 statistical report. 统计报告 】
+// 【 statistical analysis. 统计分析 】
+// 【 statistical 统计的 adj 】
+// 【 statistic 统计 统计报告 n 】
+// -
+// -
+// 【 unemployed 失业的 adj 】
+// 【 unemployed employees. 失业员工 】
+// -
+// 【 employ 雇佣 v 】
+// 【 employment 雇佣 n 】
+// 【 unemployment 失业 n 】
+// 【 unemployed 失业的 adj 】
+// 【 unemployed employees. 失业员工 】
+// -
+// 【 employer 雇主 老板 n 】
+// 【 employee 员工 n 】
+// 【 employ 雇佣 v 】
+
+
+2
+A country has 【 large 】 【 scope 】 than a city.
+国家比城市的范围更大
+-
+This task has gone 【 beyond 】 【 the scope of 】 my 【 ability 】.
+这个任务已经超出了我的能力范围
+-
+His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】.
+他的债务超出了他偿还债务的能力范围
+-
+// -
+// 【 ability 能力 n 】
+// 【 liability 债务 n 】= debt
+// -
+// 【 scope 范围 n 】
+// 【 beyond the scope. 超出范围 】
+// 【 beyond the scope of. 超出...的范围 】
+// -
+// 【 beyond 超越 超出 preposition 】
+// 【 go beyond. 超出 】
+// -
+// 【 repay 偿还 v 】
+// 【 repay debt. 偿还债务 】
+
+
+3
+Their 【 touching 】 【 love story 】 happened 【 once upon a time 】 and had a perfect 【 ending 】.
+她们感人的爱情故事发生在很久以前，并且有个完美的结局
+-
+Don't 【 touch 】 this 【 fairy tale 】, because their 【 love story 】 is too 【 touching 】.
+不要去触摸这个童话故事，因为他们的爱情故事太感人了
+-
+// -
+// 【 once upon a time. 很久以前 】
+// -
+// 【 touch 触摸v 感动v 】
+// 【 touching 感人的 adj 】
+// 【 moving 感动的 adj 】
+//  moving = touching.
+// -
+// 【 ending 结局 】
+
+
+4
+I will 【 go to China 】 to study 【 for 】 one year 【 in 】 two months.
+我将在两个月后去中国学习一年英语
+-
+I will 【 come here 】 next week, 【 go home 】 the week after next and 【 go to school 】 next month.
+我下周来这里，下下周回家，下个月去学校
+-
+// -
+// come here.
+// come home.
+// go there.
+// go to school.
+```

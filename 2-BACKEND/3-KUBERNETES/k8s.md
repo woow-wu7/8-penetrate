@@ -1,8 +1,8 @@
-# Kubernetes
+##### Kubernetes
 
-## (1) Nas
+##### (二) NAS/OSS
 
-##### 1.1 PV 和 PVC
+##### 2.1 PV 和 PVC
 
 ```
 PV: PersistentVolume
@@ -26,7 +26,7 @@ PV 可以独立存在，等待被 PVC 使用；而 PVC 则是 Pod 访问 PV 的�
 PVC 通过声明 Pod 所需的存储资源，允许 Pod 动态绑定到合适的 PV。
 ```
 
-##### 1.2 NAS 和 PV/PVC 和 Ceph 的关系
+##### 2.2 NAS 和 PV/PVC 和 Ceph 的关系
 
 ```
 PV 和 NAS 的使用：
@@ -68,7 +68,7 @@ PVC 和 NAS 的使用：
 
 ```
 
-## (2) Harbor
+##### (三) Related to Harbor
 
 ```
 1
@@ -104,7 +104,7 @@ patchNamespacedConfigMap
   - options: 可选参数，通常用于传递额外的HTTP请求选项。
 ```
 
-#####
+##### 3 Others
 
 - 1. aws s3 对象存储与 nas 的区别
   - https://blog.csdn.net/yujiubo2008/article/details/122453009

@@ -2,13 +2,57 @@
 
 ##### (1) **Car Word**
 
-- [-AA.expand]
-- `【 reverse the car. 倒车 】` // 【 reverse 颠倒 反向 反向的 adj 】
-- `【 back up the car. 倒车 】`
+- [-BB.]
+- `【 back up the car. 倒车 = reverse the car. 】`
+- > 【 back up. 备份 倒退 】`
+- > 【 speed up. 加速 】`
+- > 【 pull up. 停车 】
+- > 【 pull over. 靠边停车 】
 -
-- [-AA.]
+- [-AA]
+- `【 reverse the car. 倒车 】` // ---------【 reverse 颠倒 反向 反向的 adj 】
+- `【 back up the car. 倒车 】`
+- `【 parking spot. 停车位 n 】`
+- `【 parking lot. 停车位 n 】`
+- > 【 pedestrian 行人 】`
+- > 【 run a red light. 闯红灯 】
+- > 【 traffic light. 交通灯 n 】
+- _【 stuck in traffic. 堵车 】_
+- _【 traffic jam. 交通堵塞 】_
+- `【 license plate. 牌照 车牌 】`
+- `【 driver's license. 驾驶证 n 】`
+- `【 business license. 营业执照 n 】`
+- `【 boarding pass. 登机牌 n 】`
+- `【 passport. 护照 n 】` -------------- 出国
+- `【 visa 签证 n 】` ------------------- 进国
+- > 【 once 一次 一旦 】
+- > 【 be full of praise. 赞不绝口 】 // --- 【 praise 赞扬 v 】
+- _【 roll down the window. 摇下车窗 】_
+- _【 roll up the window. 摇上车窗 】_
+- _【 adjust seat. 调整座位 】_
+- `【 speedometer 速度计 】`
+- `【 hail a taxi. 打出租车 】` // ----------【 hail 呼喊 冰雹 】
+- > 【 shuttle bus. 班车 】`
+- > 【 last bus. 末班车 】`
+- _【 set off. 出发 】_
+- _【 see off. 送别 】_
+- _【 take off. 起飞 脱下 】_
+- _【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 】_
+-
+- [-AA-01]
 - `【 reverse 反向 反面 反向的 倒车 】`
 - **【 Please be careful, I'm 【 reversing 】. 请小心，我在倒车 】**
+-
+- [-AA-02]
+- `【 once 一次 一旦 】`
+- **【 【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 for the tourist attraction. 一旦你去过一次，你就会对这个旅游景点赞不绝口 】**
+- **【 Once 】 I 【 arrive in 】 China, I must apply for a visa 【 once agin 】. 一旦我到达中国，我必须再次申请签证**
+- // -- 【 be full of praise. 赞不绝口 】
+-
+- [-AA-03]
+- `【 passport 护照 】`
+- `【 visa 签证 】`
+- **【 【 Passport 】 and 【 visa 】 have the same function. 护照和签证有着相同的功能 】**
 -
 -
 -
@@ -31,6 +75,7 @@
 - `【 shale gas. 页岩气 】`
 - _【 regular gas. 普通的汽油 】_ // 87
 - _【 premium gas. 优质的汽油 】_ // 93
+- _【 out of the gas. 没油了 】_
 - > 【 gas tank. 油箱 】
 - > 【 gas cap. 油箱盖 】
 - > 【 gas pedal. 油门 】
@@ -40,7 +85,11 @@
 - > 【 gas stove. 煤气灶 燃气灶 n 】---【 stove 炉子 】
 - > 【 gas station. 加油站 = gasoline station. = petrol station. 】
 - > 【 natural gas. 天然气 n 】
-- > 【 diesel generator. 柴油发电机 n 】
+- > 【 shale gas. 页岩气 】
+- > 【 regular gas. 普通的汽油 】 // 87
+- > 【 premium gas. 优质的汽油 】// 93
+- > 【 out of the gas. 没油了 】
+- // 【 diesel generator. 柴油发电机 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'gasoline'.
 - // TIPS: Pay attention to the pronunciation of the word 'petroleum'. // petroleum
 - // TIPS: Pay attention to the pronunciation of the word 'petrol'. // petrol
@@ -103,6 +152,9 @@
 - `【 a beam of light. 一束光 】`
 - `【 a bolt of lightning. 一道闪电 】`
 - `【 turn signal. 转向灯 n 】`
+- `【 run a red light. 闯红灯 】`
+- // bright 明亮的 adj
+- // bland 温和的 adj
 -
 - > 【 beam 光束 光线 n 】
 - > 【 high beam light. 远光灯 n 】
@@ -141,6 +193,8 @@
 - `【 license plate. 牌照 车牌 】` // 【 plate 盘子 车牌 】
 - `【 driver's license. 驾驶证 】` // 【 business license. 营业执照 】
 - `【 business license. 营业执照 】`
+- > 【 boarding pass. 登机牌 】
+- > 【 passport 护照 】
 -
 - `【 windshield. 挡风玻璃 n 】` // ---【 shield 盾 护罩 】
 - `【 windshield wipers. 雨刮器 】` //【 wipers 雨刷 】【 swipe 刷卡 】 【 wipe 擦 】 【 wipe off. 擦掉 】
@@ -173,7 +227,8 @@
 - `【 tire 轮胎 累 】` // 【 tire 轮胎 n 累 v 】 【 retire 退休 v 】 【 entire 整个 adj n 】
 - `【 spare tire. 备用轮胎 】`
 - `【 flat tire. 爆胎 n 】`
-- // TIPS: Pay attention to the pronunciation of the word 'steering'.
+-
+- `【 hail a taxi. 打出租车 】`
 -
 - [CC-01]
 - `【 side mirror. 侧视镜 n 】`
@@ -213,6 +268,7 @@
 - > INSIDE
 - `【 ignition 点火器 点火 n 】` // ---- 【 ignite 点燃 着火 v 】 【 ignition 点火器 n 】
 - `【 steering wheel. 方向盘 】`
+- // TIPS: Pay attention to the pronunciation of the word 'steering'.
 -
 - `【 seatbelt 安全带 】` // ---------- 【 seat 座位 n 】 【 belt 腰带 传送带 n 】 // 【 please have a seat. 请坐 】
 - `【 fasten seatbelt. 系好安全带 】`
@@ -223,6 +279,8 @@
 - `【 horn 喇叭 】`
 - `【 honk the horn. 按喇叭 】`
 -
+- `【 hail a taxi. 打出租车 】`
+-
 - `【 pedal 踏板 】`
 - `【 clutch pedal. 离合器踏板 】`
 - `【 gas pedal. 油门踏板 】`
@@ -231,10 +289,14 @@
 - // TIPS: Pay attention to the pronunciation of the word 'ignition'.
 -
 - `【 gear 齿轮 n 】`
-- `【 shift gears. 换挡 】`
-- `【 stick shift. 换挡杆 】`
+- > 【 shift gears. 换挡 】`
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
+- _【 stick shift. 换挡杆 】_
+- P park 停车档
+- R reverse 倒车档 // ---- 【 reverse the car. 倒车 = back up the car. 】
+- N neutral 空档 // ------ neutral 中性的 中立的
+- D drive 前进档
 -
 - `【 visor 遮阳板 】`
 - `【 cup holder. 杯架 】`
@@ -248,12 +310,18 @@
 - [DD-01]
 - `【 visor 遮阳板】`
 - **【 A 【 visor 】 protects the driver's eye from direct sunlight. 遮阳板可保护驾驶员的眼睛免受阳光直射 】**
+-
 - [DD-02]
 - `【 clutch pedal. 离合器踏板 】`
 - `【 gas pedal. 油门踏板 】`
 - `【 brake pedal. 刹车踏板 】`
 - _【 step on. 踩在...上 】_
 - **【 Before stepping on the 【 gas pedal 】, we need to 【 step on 】 the 【 clutch pedal 】 first. 踩油门踏板之前我们需要先离合器踏板 】**
+-
+- [DD-03]
+- `【 stick shift. 换挡杆 】`
+- `【 shift gear. 换挡 v 】`
+- **【 We use the 【 stick shift 】 to 【 shift gear 】. 我们使用换挡杆来换挡 】**
 
 ##### (1) **Car Phrase**
 
@@ -263,9 +331,10 @@
 - `【 pull over. 靠边停下 】`
 - > 【 slow down. 减速 】
 -
+-
 - [AA-01]
 - `【 speed up. 加速 】`
-- **【 The train began to 【 speed up 】 【 as 】 it left the station. 火车离开车站时开始加速 】**
+- **【 The train began to 【 speed up 】 【 as 】 it 【 left 】 the station. 火车离开车站时开始加速 】**
 
 - [AA-02]
 - `【 pull up. 减速停下 停靠 】`
@@ -276,6 +345,7 @@
 - `【 slow down. 减速 】`
 - **【 【 Slow down 】 and then 【 pull over 】. 放慢速度然后靠路边停 】**
 - **【 here is a 【 sharp turn 】 【 up ahead 】, so 【 slow down 】. 前面有一个急转弯，所以减速 】**
+-
 -
 -
 -
@@ -2455,6 +2525,7 @@ hit the brakes. 刹车
 
 4
 parking lot. 停车场
+parking spot. 停车位
 adjust my seat. 调整座位
 // Now, Where is the switch to adjust the passenger-side mirror?
 // In a parking lot in hollywood. 在好莱坞的一个停车场
@@ -2514,6 +2585,7 @@ fill up. 装满
 ##### (7) LET'S TALK IN ENGLISH / Transportation videos
 
 - `on sale. 打折`
+- `discount 打折 v n`
 - `The store has many items on sale this week. 这家商店本周有很多特价商品`
 - `All tickets go on sale this Friday. 所有票在本星期五开始销售`
 -

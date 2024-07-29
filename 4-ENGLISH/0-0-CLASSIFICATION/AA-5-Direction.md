@@ -1,3 +1,67 @@
+##### (1) **Direction Word**
+
+- [AA.]
+- `【 sidewalk = pavement. 人行道 】`
+- `【 crosswalk = zebra crossing. 人行横道 斑马线 】`
+- `【 jaywalk 乱穿马路 】`
+-
+- `【 pedestrian 行人 n 】`
+- `【 resident 居民 n 】` // ----------------【 president 总统 】 【 resistent 居民 】
+- `【 citizen 公民 n 】` // -----------------【 civilization 文明 】 【 citizen 公民 n 】 // citizen city
+- `【 run a red light. 闯红灯 】`
+- > 【 stranger 陌生人 n 】`
+- > 【 acquaintance 熟人 n 】`
+- > 【 alien 外国人 外星人 n 】`
+- > headlight // taillight // brake light. // fog light. // lighter lightning
+- > high beam light. // low beam light. // a beam of light. // a bolt of lightning.
+-
+- `【 block 街区n 阻塞v 】`
+- `【 corner 拐角 n 】`
+- `【 roundabout 环岛 n 】`
+- `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
+-
+
+- `【 grocery store. 杂货店 】`
+-
+-
+-
+- [AA.]
+- `【 next to. 在...旁边 】`
+- `【 beside 在...旁边 】`
+- > 【 next to. = beside. 在...旁边 】
+- _【 vacant seat. 空位 】_
+- _【 vacant land. 空地 】_
+- _【 wet land. 湿地 】_
+- **【 The 【 seat 】 【 next to 】 him is 【 vacant 】. 他旁边的座位是空的 】** // next to.
+- **【 There is a river 【 beside 】 the 【 village 】. 村子的旁边有一个小河 】** // beside
+- **【 【 Side mirror 】 to help you see 【 beside you 】 and 【 behind you 】 when you're turning and changing 【 lanes 】. 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面 】**
+- // -- seat 座位 n 坐 v
+- // -- Please have a seat. 请坐
+- // -- village 乡村 村庄
+- // -- lane 车道 跑道 n
+-
+-
+- [BB.]
+- `【 across from. 在...对面 】`
+- `【 opposite. 在...对面 相反的 】`
+- > 【 across from. = opposite. 在...对面 】
+- **【 The destination is 【 across from 】 the road, you can see it after 【 crossing the street 】. 目的地在马路对面，你穿过街道后就可以看到 】**
+- // -- 【 cross the street. 穿过街道 】
+-
+-
+- [CC.]
+- `【 around here. 附近 】`
+- **【 Is there a supermarket 【 around here 】? 这【 附近 】有超市吗？ 】**
+- **【 How long have you lived 【 around here 】? 你在这附近住多久了？ 】**
+-
+-
+- [DD.]
+- `【 nearest 最近的 】`
+- **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
+- **【 Do you know where the nearest station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
+-
+-
+
 ## Summarize
 
 - `inbox 收件箱`
