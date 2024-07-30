@@ -1448,6 +1448,7 @@ I didn't 【 refuse 】 him, please don't 【 confuse 】 the 【 concept 】.
 // -
 // 【 concept 概念 观念 n 】
 ```
+<<<<<<< HEAD
 
 ##### 25 Make sentences 2024-07-31
 
@@ -1543,3 +1544,5 @@ I will 【 come here 】 next week, 【 go home 】 the week after next and 【 
 // go there.
 // go to school.
 ```
+=======
+>>>>>>> 352c4855a35b82439a9e85b3ad0df9daefd4ba2c
