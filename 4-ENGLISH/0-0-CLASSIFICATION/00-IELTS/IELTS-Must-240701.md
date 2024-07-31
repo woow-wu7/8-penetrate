@@ -889,7 +889,7 @@
 - 1
 - `【 accent 口音 n 】` // ------- 【 heavy accent. 重口音 】 【 light accent. 轻口音 】 【 a heavy foreign accent. 很重的外国口音 】
 - `【 pronunciation 发音 n 】` // -【 poor pronunciation. 糟糕的发音 】 // 【 pronounce 发音 v 】 【 pronunciation 发音 n 】
-- `【 tone 音调 声调 语调 n 】` // -【 tongue 舌头 】 【 tone 音调 语调 n 】
+- `【 tone 语气 音调 n 】` // ----- 【 tongue 舌头 】 【 tone 音调 语调 n 】
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
 - > 【 a heavy foreign accent. 很重的外国口音 】
@@ -937,6 +937,8 @@
 - `【 recite repeatedly. 反复背诵 】`
 - `【 memorize 记住 v 】`
 - **【 I need to 【 recite repeatedly 】 to 【 memorize 】 these words. 我需要反复背诵才能记住这些单词 】**
+- [DD.]
+- **【 Please don't 【 talk 】 to me 【 in 】 this 【 tone 】. 请不要用这样的语气很我说话 】**
 -
 -
 -

@@ -1,1 +1,82 @@
 ###### Must 2024-08-01
+
+- 1
+- `【 in depth. 深入地 adv 】` // ------- 【 depth. 深度 】
+- `【 in detail. 详细地 adv 】`
+- `【 in turn. 依次地 adv 】`
+- `【 in advance. 提前 adv 】`
+- `【 in public. 公开的 当众地 adv 】`
+- `【 in secret. 秘密地 adv 】`
+-
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】
+- `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
+- `【 intensity 强度 n 】` ------------- 【 working intensity. 工作强度 】 【 magnetic field intensity. 磁场强度 】
+- `【 density 密度 n 】`
+- `【 concentration 浓度 n 】`
+- > 【 thick / thin 】
+- > 【 deep / shallow 】
+- _【 working intensity. 工作强度 】_
+- _【 magnetic filed intensity. 磁场强度 】_
+-
+- `【 insult 侮辱 v 】`
+- `【 consult 咨询 v 】`
+- `【 result 结果 n 】`
+-
+- `【 abuse 辱骂 v 】`
+- `【 scold 责骂 v 】` // -------------- 【 cold 感冒 n 寒冷的 adj 】 【 scold 责骂 v 】
+- `【 be mad at sb. 生某人的气 】` // ----【 be mad at sb. = be angry with sb. 生某人的气 】
+- `【 be angry with sb. 生某人的气 】`
+-
+-
+- [AA.]
+- `【 in depth. 深入地 adv 】`
+- `【 in detail. 详细地 adv 】`
+- **【 Let's 【 talk about 】 this topic 【 in depth 】 and 【 in detail 】. 让我们深入并详细地谈论这个话题 】**
+- // -- 【 talk 说话 谈话 v 】
+- // -- 【 talk about. 谈论 讨论 v 】--- not in depth.
+- // -- 【 discuss 讨论 】------------- in depth.
+-
+- [BB.]
+- `【 depth 厚度 n 】`
+- `【 deep 深的 】`
+- `【 shallow 浅的 】`
+- **【 We use 【 depth 】 to 【 measure 】 how 【 deep 】 or 【 shallow 】 something 【 is 】. 我们用深度来衡量某物是深还是浅 】**
+- // -- 【 measure 测量 衡量 v 】
+-
+- [CC.]
+- `【 insult 侮辱 v 】`
+- `【 in public. 当众地 公开的 adv 】`
+- **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
+- // -- 【 insult 辱骂 v 】
+- // -- 【 result 结果 n 】
+-
+- [DD.]
+- `【 in turn. 依次地 adv 】`
+- `【 in advance. 提前 adv 】`
+- **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
+-
+- [EE.]
+- `【 in public. 当众地 公开的 adv 】`
+- `【 in secret. 秘密地 adv 】`
+- **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
+- // -- 【 act 表演 行为 行动 v 】
+- // -- 【 action 行动 n 】
+- // -- 【 actor 演员 n 】
+- // -- 【 actress 女演员 n 】
+-
+-
+- [AAAA.]
+- **【 咨询律师得到的结果是: 不能在公共场所公开辱骂他人 】**
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 download 下载 / upload 上传 】`
+- `【 install 安装 / uninstall 卸载 】`
+- `【 set up. 设置 v 】`
+- `【 update 更新 v n  】`
+- `【 upgrade 升级 v n 】`

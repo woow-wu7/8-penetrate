@@ -60,7 +60,7 @@
 -
 -
 - [AA.]
-- `【 fuel 燃料 n 】`
+- `【 fuel 燃料 n 】` ------------ 【 fuel grade. 燃料等级 】
 - `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 【 gasoline station. 加油站 = gas station. = petrol station. 】
 - `【 petrol 汽油 n 】` ---------- 英式英语 ------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】// 【 petrol station. 】
 - `【 petroleum 石油 原油 n 】` ------------------ 【 petroleum 石油 n 】 【 petrol 汽油 n 】
@@ -292,15 +292,14 @@
 - > 【 shift gears. 换挡 】`
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
-<<<<<<< HEAD
+  > <<<<<<< HEAD
 - _【 stick shift. 换挡杆 】_
 - P park 停车档
 - R reverse 倒车档 // ---- 【 reverse the car. 倒车 = back up the car. 】
 - N neutral 空档 // ------ neutral 中性的 中立的
-- D drive 前进档
-=======
+- # D drive 前进档
 - `【 stick shift. 换挡杆 】`
->>>>>>> 352c4855a35b82439a9e85b3ad0df9daefd4ba2c
+  > > > > > > > 352c4855a35b82439a9e85b3ad0df9daefd4ba2c
 -
 - `【 visor 遮阳板 】`
 - `【 cup holder. 杯架 】`
