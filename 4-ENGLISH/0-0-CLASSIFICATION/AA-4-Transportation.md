@@ -292,14 +292,11 @@
 - > 【 shift gears. 换挡 】`
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
-  > <<<<<<< HEAD
 - _【 stick shift. 换挡杆 】_
 - P park 停车档
 - R reverse 倒车档 // ---- 【 reverse the car. 倒车 = back up the car. 】
 - N neutral 空档 // ------ neutral 中性的 中立的
-- # D drive 前进档
-- `【 stick shift. 换挡杆 】`
-  > > > > > > > 352c4855a35b82439a9e85b3ad0df9daefd4ba2c
+- D drive 前进档
 -
 - `【 visor 遮阳板 】`
 - `【 cup holder. 杯架 】`
