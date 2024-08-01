@@ -1,31 +1,45 @@
 ###### Must 2024-08-01
 
 - 1
-- `【 in depth. 深入地 adv 】` // ------- 【 depth. 深度 】
+- `【 in depth. 深入地 adv 】` // ------ 【 depth. 深度 】 【 deep 深的 adj 】 【 shallow 浅的 adj 】
 - `【 in detail. 详细地 adv 】`
 - `【 in turn. 依次地 adv 】`
 - `【 in advance. 提前 adv 】`
 - `【 in public. 公开的 当众地 adv 】`
-- `【 in secret. 秘密地 adv 】`
+- `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
+- > 【 secretary / laboratory / dormitory / repository / factory / directory / dormitory / victory / history 】
+- > 【 directory / directly / director 】 【 personnel director. 】 【 sales director. 】
+- // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
-- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】 // 【 deep copy. 深拷贝 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
 - `【 intensity 强度 n 】` ------------- 【 working intensity. 工作强度 】 【 magnetic field intensity. 磁场强度 】
 - `【 density 密度 n 】`
 - `【 concentration 浓度 n 】`
-- > 【 thick / thin 】
 - > 【 deep / shallow 】
-- _【 working intensity. 工作强度 】_
+- > 【 thick / thin 】
+- _【 working intensity. 工作强度 】_ // 【 mandatory overtime. 强制加班 】
 - _【 magnetic filed intensity. 磁场强度 】_
 -
 - `【 insult 侮辱 v 】`
-- `【 consult 咨询 v 】`
+- `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
 - `【 result 结果 n 】`
+- > 【 result 结果 n 】
+- > 【 consequence 后果 n 】
+- // TIPS: Pay attention to the pronunciation of the words 'insult' and 'consult'.
 -
+- `【 insult 侮辱 v 】`
 - `【 abuse 辱骂 v 】`
 - `【 scold 责骂 v 】` // -------------- 【 cold 感冒 n 寒冷的 adj 】 【 scold 责骂 v 】
 - `【 be mad at sb. 生某人的气 】` // ----【 be mad at sb. = be angry with sb. 生某人的气 】
 - `【 be angry with sb. 生某人的气 】`
+- // TIPS: Pay attention to the pronunciation of the words 'abuse'.
+-
+- `【 act 行动v 行为v 扮演v 】`
+- `【 action 行动 n 】` // --------------【 special action. 特别行动 】 【 urgent action. 紧急行动 】= emergency action
+- `【 actor 演员 n 】`
+- `【 actress 女演员 n 】`
+- > 【 actor actress / waiter waitress / headmaster headmistress / steward stewardess / prince princess 】
 -
 -
 - [AA.]
@@ -33,8 +47,8 @@
 - `【 in detail. 详细地 adv 】`
 - **【 Let's 【 talk about 】 this topic 【 in depth 】 and 【 in detail 】. 让我们深入并详细地谈论这个话题 】**
 - // -- 【 talk 说话 谈话 v 】
-- // -- 【 talk about. 谈论 讨论 v 】--- not in depth.
-- // -- 【 discuss 讨论 】------------- in depth.
+- // -- 【 talk about. 谈论 讨论 v 】---- not in depth.
+- // -- 【 discuss 讨论 】-------------- in depth.
 -
 - [BB.]
 - `【 depth 厚度 n 】`
@@ -46,27 +60,42 @@
 - [CC.]
 - `【 insult 侮辱 v 】`
 - `【 in public. 当众地 公开的 adv 】`
+- **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 - **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
 - // -- 【 insult 辱骂 v 】
+- // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
 - // -- 【 result 结果 n 】
+- // -- 【 consequence 后果 n 】
 -
 - [DD.]
-- `【 in turn. 依次地 adv 】`
-- `【 in advance. 提前 adv 】`
-- **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
--
-- [EE.]
 - `【 in public. 当众地 公开的 adv 】`
 - `【 in secret. 秘密地 adv 】`
+- `【 act 行动v 扮演v 】`
 - **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
-- // -- 【 act 表演 行为 行动 v 】
+- // -- 【 announce 宣布 v 】
+- // -- 【 act 行动 v 行为 表演 v 】
 - // -- 【 action 行动 n 】
 - // -- 【 actor 演员 n 】
 - // -- 【 actress 女演员 n 】
 -
+- [EE.]
+- `【 in turn. 依次地 adv 】`
+- `【 in advance. 提前 adv 】`
+- **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
+-
+- [FF.]
+- **【 A 【 consequence 】 is the 【 impact 】 【 brought 】 by a 【 result 】. 后果是一个结果带来的影响 】**
+- // -- 【 impact 影响 v 】
+- // -- 【 affect 影响 v 】
+- // -- 【 effect 影响 v 】
 -
 - [AAAA.]
-- **【 咨询律师得到的结果是: 不能在公共场所公开辱骂他人 】**
+- `【 insult 侮辱 v 】`
+- `【 abuse 辱骂 v 】`
+- `【 scold 责骂 v 】`
+- **【 The ways of 【 insulting 】 people include 【 abusing 】 and 【 scolding 】 侮辱人的方式有辱骂和责骂 】**
+-
+-
 -
 -
 -
@@ -75,8 +104,22 @@
 -
 -
 - 2
-- `【 download 下载 / upload 上传 】`
+- `【 download 下载 / upload 上传 】` --- 【 manual download. 手动下载 】 【 automatic download. 自动下载 】
 - `【 install 安装 / uninstall 卸载 】`
 - `【 set up. 设置 v 】`
+- `【 upgrade 升级 v n 】` // ----------- 【 system upgrade. 系统升级 】
 - `【 update 更新 v n  】`
-- `【 upgrade 升级 v n 】`
+- > 【 manual download. 手动下载 】
+- > 【 automatic download. 自动下载 】
+- > manual 手动的 adj
+- > manually 手动地 adv
+
+###### Must 2024-08-02
+
+- 1
+- `【 command 命令 指挥 v n 】` // ------ 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
+- `【 demand 要求v 】` // -------------- 【 strict demand. 严格的要求 】
+-
+- `【 mend 修理 n 】 `
+- `【 recommend 推荐 v 】` -------------- 【 mend 修理 n 】 【 recommend 推荐 v 】
+- `【 common 普通的 常见的 adj 】`

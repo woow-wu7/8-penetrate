@@ -82,8 +82,9 @@
 - > 【 gas gauge. 油表 】// -------- 【 gauge 测量仪器 】
 - > 【 gas nozzle. 加油枪 】 // ----- 【 nozzle 喷嘴 】
 - > 【 gas pump. 加油机 加油泵 】// ---【 pump 抽水机 】
-- > 【 gas stove. 煤气灶 燃气灶 n 】---【 stove 炉子 】
+- > 【 gas grade. 汽油等级 】
 - > 【 gas station. 加油站 = gasoline station. = petrol station. 】
+- > 【 gas stove. 煤气灶 燃气灶 n 】---【 stove 炉子 】
 - > 【 natural gas. 天然气 n 】
 - > 【 shale gas. 页岩气 】
 - > 【 regular gas. 普通的汽油 】 // 87
