@@ -12,10 +12,12 @@ official website
 middleware
 - devtool: https://juejin.cn/post/7310474225810030644
 - persist: https://juejin.cn/post/7134633741774749710
+- immer: https://docs.pmnd.rs/zustand/integrations/immer-middleware
 
 
 2.
 tutorial
+- https://juejin.cn/post/7232726594208759867
 - https://juejin.cn/post/7134633741774749710#heading-0
 ```
 

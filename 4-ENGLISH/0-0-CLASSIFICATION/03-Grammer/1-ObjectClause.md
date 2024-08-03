@@ -35,13 +35,17 @@
 
 4
 例子
-// I know who he is.
-// -
-// Can you explain what the 【 passive voice 】 and the 【 active voice 】 are? 你能解释一下什么是被动语态和主动语态吗？
-// -
-// 1. Do you know where the nearest station is?
-// 1. Do you know where she is right now?
-// 1. Do you know when the next bus comes? 你知道下一班公共汽车什么时候来吗
-// -
-// 2. Can you tell me where the nearest bus stop is?
+
+【 I know 】 who he is.
+【 I know 】 who you are.
+【 I know 】 who I am.
+
+Can 【 you explain 】 what the 【 passive voice 】 and the 【 active voice 】 are? 你能解释一下什么是被动语态和主动语态吗？
+
+1. Do 【 you know 】 where the nearest station is?
+1. Do 【 you know 】 where she is right now?
+1. Do 【 you know 】 when the next bus comes? 你知道下一班公共汽车什么时候来吗
+
+2. Can you tell 【 me 】 where the nearest bus stop is?
+// 这个 me 是间接宾语，直接宾语是 ( 整个宾语从句 where the nearest bus stop is )
 ```

@@ -651,6 +651,9 @@
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
 -
+- `【 object clause. 宾语从句 】`
+- `【 attributive clause. 定语从句 】`
+-
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
 - _【 interrogative 疑问的 adj 】_

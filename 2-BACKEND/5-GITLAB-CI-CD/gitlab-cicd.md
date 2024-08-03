@@ -34,3 +34,17 @@
 +------------------------------------------+
 
 ```
+
+##### (2) The whole process of Gitlab CI CD
+
+```
+1
+Install Gitlab Runner
+- Official website link: https://docs.gitlab.com/runner/install/linux-repository.html
+- selecting the suitable platform to install. (docker)
+  - (1) Run the register command
+  - (2) select 'Docker' tabs.
+- specific processes.
+  - docker pull gitlab/gitlab-runner
+  - docker run --rm -it -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner register
+```

@@ -2,7 +2,7 @@
 
 - 1
 - `【 in depth. 深入地 adv 】` // ------ 【 depth. 深度 】 【 deep 深的 adj 】 【 shallow 浅的 adj 】
-- `【 in detail. 详细地 adv 】`
+- `【 in detail. 详细地 adv 】` // ----- 【 detail 细节 详情 n 】
 - `【 in turn. 依次地 adv 】`
 - `【 in advance. 提前 adv 】`
 - `【 in public. 公开的 当众地 adv 】`
@@ -11,15 +11,16 @@
 - > 【 directory / directly / director 】 【 personnel director. 】 【 sales director. 】
 - // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
-- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】 // 【 deep copy. 深拷贝 】
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】 // 【 deep clone. 深拷贝 】【 deep copy. 深拷贝 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
 - `【 intensity 强度 n 】` ------------- 【 working intensity. 工作强度 】 【 magnetic field intensity. 磁场强度 】
-- `【 density 密度 n 】`
+- `【 density 密度 n 】` // ------------ 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】`
 - > 【 deep / shallow 】
 - > 【 thick / thin 】
 - _【 working intensity. 工作强度 】_ // 【 mandatory overtime. 强制加班 】
 - _【 magnetic filed intensity. 磁场强度 】_
+- > 【 population density. 人口密度 】
 -
 - `【 insult 侮辱 v 】`
 - `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
@@ -33,10 +34,12 @@
 - `【 scold 责骂 v 】` // -------------- 【 cold 感冒 n 寒冷的 adj 】 【 scold 责骂 v 】
 - `【 be mad at sb. 生某人的气 】` // ----【 be mad at sb. = be angry with sb. 生某人的气 】
 - `【 be angry with sb. 生某人的气 】`
-- // TIPS: Pay attention to the pronunciation of the words 'abuse'.
+- // TIPS: Pay attention to the pronunciation of the word 'abuse'.
+- // TIPS: Pay attention to the pronunciation of the word 'mad'.
 -
 - `【 act 行动v 行为v 扮演v 】`
 - `【 action 行动 n 】` // --------------【 special action. 特别行动 】 【 urgent action. 紧急行动 】= emergency action
+- `【 activity 活动 n 】`
 - `【 actor 演员 n 】`
 - `【 actress 女演员 n 】`
 - > 【 actor actress / waiter waitress / headmaster headmistress / steward stewardess / prince princess 】
@@ -58,8 +61,23 @@
 - // -- 【 measure 测量 衡量 v 】
 -
 - [CC.]
-- `【 insult 侮辱 v 】`
 - `【 in public. 当众地 公开的 adv 】`
+- `【 in secret. 秘密地 adv 】`
+- `【 act 行动v 扮演v 】`
+- **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
+- // -- 【 announce 宣布 v 】
+- // -- 【 declaration 声明 宣布 n 】
+- // -- 【 act 行动 v 行为 表演 v 】
+- // -- 【 action 行动 n 】
+- // -- 【 activity 活动 n 】
+- // -- 【 actor 演员 n 】
+- // -- 【 actress 女演员 n 】
+-
+- [DD.]
+- `【 insult 侮辱 v 】`
+- `【 consult 咨询 v 】`
+- `【 in public. 当众地 公开的 adv 】`
+- `【 consequence 后果 n 】`
 - **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 - **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
 - // -- 【 insult 辱骂 v 】
@@ -67,16 +85,6 @@
 - // -- 【 result 结果 n 】
 - // -- 【 consequence 后果 n 】
 -
-- [DD.]
-- `【 in public. 当众地 公开的 adv 】`
-- `【 in secret. 秘密地 adv 】`
-- `【 act 行动v 扮演v 】`
-- **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
-- // -- 【 announce 宣布 v 】
-- // -- 【 act 行动 v 行为 表演 v 】
-- // -- 【 action 行动 n 】
-- // -- 【 actor 演员 n 】
-- // -- 【 actress 女演员 n 】
 -
 - [EE.]
 - `【 in turn. 依次地 adv 】`
@@ -117,9 +125,24 @@
 ###### Must 2024-08-02
 
 - 1
-- `【 command 命令 指挥 v n 】` // ------ 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
-- `【 demand 要求v 】` // -------------- 【 strict demand. 严格的要求 】
+- `【 command 命令 指挥 v n 】` // ----- 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
+- `【 demand 要求v 】` // ------------- 【 strict demand. 严格的要求 】
 -
 - `【 mend 修理 n 】 `
-- `【 recommend 推荐 v 】` -------------- 【 mend 修理 n 】 【 recommend 推荐 v 】
+- `【 recommend 推荐 v 】` ------------ 【 mend 修理 n 】 【 recommend 推荐 v 】
 - `【 common 普通的 常见的 adj 】`
+-
+- `【 retreat 撤退 v 】`
+- `【 treat 对待 治疗 v 】`
+- > treat/retreat
+- > tire/retire -----------------------【 tire 轮胎 n 疲劳 n 】 【 retire 退休 】 // ----【 entire 整个 】
+- > produce/reproduce -----------------【 produce 生产 v 】 【 reproduce 繁殖 v 】
+- > cover/recover ---------------------【 cover 覆盖 v 】 【 recover 恢复 v 】
+- > fund/refund -----------------------【 fund 基金 n 】 【 refund 退款 v 】 // -------- 【 found 创立 建立 v 】
+-
+-
+- [AA.]
+- `【 command 命令 v n 】`
+- `【 demand 要求v 】`
+- `【 retreat 撤退 v 】`
+- **【 The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately. 新的命令要求我们立即撤退 】**

@@ -117,3 +117,89 @@ Let 【 talk about 】 this problem 【 in depth 】.
 // 【 in turn. 依次地 adv 】
 // 【 in public. 公开地 adv 】
 ```
+
+##### 1 Make sentences 2024-08-02
+
+```
+1
+【 Once 】 I 【 arrive in 】 China 【 once 】, I must 【 apply for 】 a 【 visa 】 【 once again 】.
+一旦我到达中国一次，我必须再次申请签证
+-
+【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+你要你努力工作，你就会成功
+-
+He 【 makes an effort to 】 finish the project 【 on time 】.
+他努力按时完成这个项目
+-
+// -
+// 【 once 一旦 一次 】
+// 【 once again. 再次 】
+// -
+// 【 as long as. 只要 】
+// -
+// 【 visa 签证 】
+// 【 passport 护照 】
+// 【 boarding pass. 登机牌 】
+// 【 license plate. 拍照 】
+// 【 driver's license. 驾照 】
+// 【 business license. 营业执照 】
+// -
+// 【 arrive at. 到达 】 ------ 小地点 - 机场 车站 等
+// 【 arrive in. 到达 】 ------ 大地点 - 城市 国家 等
+// -
+// 【 make an effort. 努力 】= work hard.
+// 【 work hard. 努力 】= make an effort.
+// 【 effort 努力 n 】
+// -
+// success successful succeed
+// failure failed fail
+// -
+// on time. 准时
+// in time. 及时
+
+
+2
+repairing the 【 exhaust pipe 】 let me 【 exhausted 】.
+修排气管让我精疲力竭
+-
+The factory uses both 【 big pipes 】 and 【 small tubes 】 in the production process.
+工厂在其生产过程中既使用大管道也使用小管子
+-
+// -
+// 【 exhaust pipe. 排气管 】
+// 【 exhausted. 筋疲力尽的 adj 】
+// -
+// 【 pipe 管 管道 】
+// 【 tube 管子 】
+// -
+// 【 big pipe. 大管道 】
+// 【 small tube. 小管子 】
+
+
+3
+You can select the 【 suitable products 】 【 according to 】 your 【 specific needs 】 and 【 preferences 】.
+你可以根据你的具体需要和偏好选择适合的产品
+// -
+// 【 preference 偏好 首选项 n 】
+// -
+// 【 suitable product. 合适的产品 】
+// 【 suitable 合适和 适合的 adj 】
+// 【 suit 合适 适合 v 】
+
+
+4
+The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately.
+新的命令要求我们立即撤退
+// -
+// 【 command 命令 v n 】
+// 【 demand 要求 v n 】
+// -
+// 【 retreat 撤退 v 】
+// 【 treat 对待 治疗 v】
+// -
+- treat/retreat
+- tire/retire -----------【 tire 轮胎 n 疲劳 n 】 【 retire 退休 】 // ----【 entire 整个 】
+- produce/reproduce -----【 produce 生产 v 】 【 reproduce 繁殖 v 】
+- cover/recover ---------【 cover 覆盖 v 】 【 recover 恢复 v 】
+- fund/refund -----------【 fund 基金 n 】 【 refund 退款 v 】 // -------- 【 found 创立 建立 v 】
+```

@@ -2,9 +2,29 @@
 
 ##### (1) **Car Word**
 
+- [-CC.]
+- `【 back up the car. = reverse the car. 倒车 】`
+- `【 hail a taxi. 打的 打出租车 】` // ---【 hail 招手 v 冰雹 n 】
+- `【 take the shuttle bus. 乘坐班车 】`
+- `【 honk the horn. 按喇叭 】` // -------【 horn 角 喇叭 n 】
+- `【 hit the brake. 踩刹车 】`
+- `【 hit the clutch. 踩离合 】` // ------【 clutch 离合器 】
+- `【 fasten the seatbelt. 系安全带 】`
+- `【 steering the wheel. 操纵方向盘 】`
+- `【 put into the ignition. 放入点火器 】`
+- `【 run a red light. 闯红灯 】`
+- `【 stuck in traffic. 遭遇交通堵塞 】`
+- `【 fill up the tank. 装满油箱 】` //---- fill up. // back up. // speed up. // pull up. // pull over.
+- `【 roll down the window. 摇下车窗 】` //【 roll up the window. 摇上车窗 】
+- -
+- `【 big pipe. 大管道 】`
+- `【 small tube. 小管子 】`
+-
+-
 - [-BB.]
 - `【 back up the car. 倒车 = reverse the car. 】`
 - > 【 back up. 备份 倒退 】`
+- > 【 fill up. 装满 】
 - > 【 speed up. 加速 】`
 - > 【 pull up. 停车 】
 - > 【 pull over. 靠边停车 】
@@ -12,7 +32,7 @@
 - [-AA]
 - `【 reverse the car. 倒车 】` // ---------【 reverse 颠倒 反向 反向的 adj 】
 - `【 back up the car. 倒车 】`
-- `【 parking spot. 停车位 n 】`
+- `【 parking spot. 停车位 n 】` // -------- 【 parking spot. 停车位 】 【 parking lot. 停车场 】
 - `【 parking lot. 停车位 n 】`
 - > 【 pedestrian 行人 】`
 - > 【 run a red light. 闯红灯 】
@@ -31,8 +51,8 @@
 - _【 roll up the window. 摇上车窗 】_
 - _【 adjust seat. 调整座位 】_
 - `【 speedometer 速度计 】`
-- `【 hail a taxi. 打出租车 】` // ----------【 hail 呼喊 冰雹 】
-- > 【 shuttle bus. 班车 】`
+- `【 hail a taxi. 打出租车 】` // ----------【 hail 招手 v 冰雹 n 】
+- > 【 shuttle bus. 班车 】` // ------------【 shuttle 频繁往来 v 】
 - > 【 last bus. 末班车 】`
 - _【 set off. 出发 】_
 - _【 see off. 送别 】_
@@ -45,8 +65,8 @@
 -
 - [-AA-02]
 - `【 once 一次 一旦 】`
+- **【 Once 】 I 【 arrive in 】 China 【 once 】, I must apply for a visa 【 once agin 】. 一旦我到达中国一次，我必须再次申请签证**
 - **【 【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 for the tourist attraction. 一旦你去过一次，你就会对这个旅游景点赞不绝口 】**
-- **【 Once 】 I 【 arrive in 】 China, I must apply for a visa 【 once agin 】. 一旦我到达中国，我必须再次申请签证**
 - // -- 【 be full of praise. 赞不绝口 】
 -
 - [-AA-03]
@@ -64,13 +84,13 @@
 - `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 【 gasoline station. 加油站 = gas station. = petrol station. 】
 - `【 petrol 汽油 n 】` ---------- 英式英语 ------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】// 【 petrol station. 】
 - `【 petroleum 石油 原油 n 】` ------------------ 【 petroleum 石油 n 】 【 petrol 汽油 n 】
-- `【 diesel 柴油 采油机 n 】` // -【 diesel generator. 柴油发电机 】
+- `【 diesel 柴油 采油机 n 】` // -【 diesel generator. 柴油发电机 】 【 power station. 发电厂 】 【 power outage. 停电 】 // outage 断供 停电
 -
 - `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】//【 oil leak. 石油泄漏 】 【 edible 可食用的 adj 】
 - `【 edible oil. 食用油 n 】` // -【 edible salt. 食用盐 】 【 edible oil. 食用油 】
 - `【 edible salt. 食用盐 n 】`
 -
-- `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】 【 gas 气体 汽油 】
+- `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】
 - `【 natural gas. 天然气 】` ---- 【 natural/rare/marine/forest/mineral/ resource. 】
 - `【 shale gas. 页岩气 】`
 - _【 regular gas. 普通的汽油 】_ // 87
@@ -98,7 +118,7 @@
 -
 - `【 diesel generator. 柴油发电机 n 】`
 - `【 power station. 发电站 发电厂 n 】`
-- `【 power outage. 停电 断电 】`
+- `【 power outage. 停电 断电 】` // ----- 【 outage 停电 断供 】
 -
 - `【 tank 油箱 】`
 - `【 trunk 后备箱 树干 】`
@@ -143,11 +163,11 @@
 -
 -
 - [BB.]
-- `【 headlight 前灯 n 】` // ----- head 头
-- `【 taillight 尾灯 n 】` // ---- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】 // 【 retail price. 零售价 】
+- `【 headlight 前灯 n 】` // --------- head 头
+- `【 taillight 尾灯 n 】` // -------- 【 tail 尾巴 】 【 retail 零售 v n 】 【 wholesale 批发 v n 】 // 【 retail price. 零售价 】
 - `【 fog light. 雾灯 n 】`
-- `【 brake light. 刹车灯 n 】` // 【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
-- `【 hazard light. 危险灯 双闪灯 】`
+- `【 brake light. 刹车灯 n 】` // -----【 brake pedal. 刹车踏板 】 【 hit the brake. 踩刹车 】 【 emergency brake. 紧急刹车 】
+- `【 hazard light. 危险灯 双闪灯 】` // 【 hazard 冒...的风险 v 】
 - `【 high beam light. 远光灯 n 】`
 - `【 low beam light. 近光灯 n 】`
 - `【 a beam of light. 一束光 】`
@@ -170,14 +190,14 @@
 - _【 hit the brakes. 刹车 】_
 - _【 emergency brake. 紧急刹车 = urgent brake. 】_
 -
+- **【 【 The beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
+- **【 【 lighters 】 can 【 emit 】 【 light 】. 打火机可以发光 】**
+-
 - **【 The 【 headlights 】, 【 taillights 】, 【 brake lights 】 and 【 turn signal 】 of the 【 vehicle 】 are all fine, but the 【 fog lights 】 are broken. 这辆车的前灯，后灯，刹车灯，转弯灯都是好的，但是雾灯坏了 】**
 - // -- 【 vehicle 车辆 n 】
 -
 - **【 【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and the 【 low beam 】. 一束光是由远光灯和近光灯共同发出 】**
 - // -- 【 emit 发出 射出 v 】
--
-- **【 【 The beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
-- **【 【 lighters 】 can 【 emit 】 【 light 】. 打火机可以发光 】**
 -
 -
 -
@@ -215,6 +235,8 @@
 - `【 visor. 遮阳板 n 】`
 - `【 exhaust pipe. 排气管 】` // -----【 exhaust 精疲力劲 v / 排气管 n 】 【 pipe 管 导管 n 】
 - `【 door handle. 车门把手 】` // ----【 handrail 扶手 ( 楼梯等扶手 ) 】
+- > 【 pipe 管 管道 】
+- > 【 tube 管子 】
 -
 - `【 rear view mirror. 后视镜 n 】`
 - `【 side mirror. 侧视镜 n 】`
