@@ -644,20 +644,34 @@
 ###### Must 2024-07-15
 
 - 1
-- `【 past tense. 过去时 过去式  】` // 【 tense 紧张的 adj 时态 n 】
-- `【 present tense. 现在时 】` // ----【 present 现在 n 现在的 adj 】
-- `【 future tense. 将来时 】`
+- `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj 时态 n 】
+- `【 present tense. 现在时态 】` // ----【 present 现在的 adj 】 【 current 当前的 adj 】
+- `【 future tense. 将来时态 】`
 -
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
 -
 - `【 object clause. 宾语从句 】`
 - `【 attributive clause. 定语从句 】`
+- `【 adverbial clause. 状语从句 】`
+- > what 【 clause 】 is this sentence? 这个句子是什么从句
 -
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
 - _【 interrogative 疑问的 adj 】_
 - _【 declarative 陈述的 adj 】_
+-
+- `【 antonym 反义词 n 】` ------------- anto + nym // opposite
+- `【 synonym 同义词 n 】` ------------- syno + nym
+- `【 singular 单数 单数的 】`
+- `【 plural 复数 复数的 】`
+- > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
+- > What's the 【 opposite 】of the word 'dim'? [dim->bright]
+- > What's the 【 plural 】of the word 'leaf'? [leaf->leaves]
+- > What's the 【 past tense 】 of 【 leave 】? [leave->left]
+- // 【 single 单身的 单个的 adj 】
+- // 【 singular 单数的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'plural'.
 -
 - `【 subject 主语 】`
 - `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
@@ -689,7 +703,7 @@
 - [AA.]
 - `【 position 位置 职位 n 】`
 - `【 preposition 介词 】`
-- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
+- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 【 in 】 the sentence. 请注意这个介词在句子中的位置 】**
 -
 - [BB.]
 - `【 past tense. 过去时 】`
@@ -706,7 +720,11 @@
 -
 - [DD.]
 - `【 fixed collocation. 固定搭配 】`
-- **【 There are many 【 fixed collocations 】 in English language. 英语中有很多固定搭配 】**
+- **【 There are many 【 fixed collocations 】 【 in 】 English language. 英语中有很多固定搭配 】**
+-
+- [EE.]
+- `【 object clause. 宾语从句 n 】`
+- **【 This is a object clause. 这是一个宾语从句 】**
 
 ###### Must 2024-07-18
 

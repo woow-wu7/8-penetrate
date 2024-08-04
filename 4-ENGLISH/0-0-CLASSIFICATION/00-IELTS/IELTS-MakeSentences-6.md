@@ -257,3 +257,38 @@ The 【 population 】 of this city 【 consists of 】 【 residents 】, 【 c
 // -
 // 【 consist of. 由...组成 】
 ```
+
+##### 4 Make sentences 2024-08-05
+
+```
+1
+I 【 highly 】 【 recommend 】 this bool.
+我强烈推荐这本书
+-
+The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately.
+新的命令要求我们立即撤退
+-
+// -
+// 【 highly recommend. 强烈推荐 】
+// -
+// 【 command. 命令 指挥 v 】
+// 【 demand 要求 v 】
+// -
+// 【 run a command. 运行命令 】
+// 【 command center. 指挥中心 n 】
+// -
+// 【 retreat. 撤退 v 】
+// 【 treat 治疗 对待 v 】
+
+
+2
+Selling the 【 exhibits 】 in the 【 exhibition hall 】 is 【 prohibited 】.
+禁止在展览馆内出售展品
+// -
+// 【 exhibit 展品 n / 展览v 】
+// 【 exhibition 展览 n 】
+// -
+// 【 exhibition hall. 展览馆 n 】
+// -
+// 【 prohibit sb from doing sth. 禁止某人做某事 】
+```

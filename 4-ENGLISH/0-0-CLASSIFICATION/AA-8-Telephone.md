@@ -1,3 +1,79 @@
+##### (一)
+
+##### **(1)The words that you mast know.**
+
+- 1
+- [Make-a-call]
+- `【 make a call. 打电话 】`
+- `【 make a phone call. 打电话 】`
+- `【 make a video call. 打视频电话 】`
+- `【 I'm on the phone. 我在打电话 】`
+- > 1. May/Can/Could I 【 speak to 】 Marry, please?
+- > 2. May/Can/Could I 【 speak with 】Marry, Please?
+- > 3. I'm looking for Marry.
+- > 4. Do 【 you know 】 where she is 【 right now 】?
+- // -- right now. 立刻 马上 现在
+-
+- [Answer-a-call]
+- `【 answer a call. 接电话 】` // 【 answer a call. = pick up. 接电话 】
+- `【 pick up. 接电话 】` // ----- 【 pick up. 接电话 】 【 hang up. 挂电话 】 【 hang on. 请稍等 】 【 hold on. 请稍等 】
+- `【 press the green button to answer the call. 按绿色按钮接听电话 】`
+- `【 hang on. 请稍等 】` // ------【 hold on. 稍等 】
+- `【 hang up. 挂电话 】` // ----- 【 fill up. 】 【 speed up. 】 【 pull up. 】 【 pull over. 】
+- > 1. This is Lucy.
+- > 1. This is Lucy speaking.
+- > 1. It's Lucy.
+- > 1. This is he/she.
+- > 2222. who's that?
+- > 2222. who's speaking?
+- > 2222. who's calling?
+- > 2222. May I ask who is calling?
+- > 2222. May I have a name?
+- > 2222. Is this Marry?
+- > 3. Hold on please.
+- > 3. hang on please.
+-
+-
+- > 1. May I ask who is calling?
+- > 2. Thank you for your calling.
+- > 3. I'm calling to see how they are doing. 我打电话来是想看看他们怎么样了
+- > 3. I just called to see how they are doing.
+- > 4. **【 When will you call me back later? 】**
+-
+- > 5. **【 I have to 【 hang up 】, Can I 【 call you back 】 later? 】**
+- > 5. **【 I have to 【 hang up 】 now because I 【 still 】 have some tasks need to finish, Can I 【 call you back later 】? 】**
+-
+- > 6. **【 Could you ask him to 【 call me back 】? 】**
+- > 6. **【 Could you ask him to 【 give me a call back 】? 】**
+-
+- _【 ask sb to do sth. 要求某人做某事 】_
+- _【 turn down. 关小 拒绝 】_
+- // 【 turn down. = refuse 拒绝 】
+-
+- [AA.]
+- `【 make a call. 打电话 】`
+- `【 answer a call. 接电话 】`
+- **【 Today I'm go to teach you how to use English to 【 make a call 】 and 【 answer a call 】. 今天我要教你如何用英语打电话和接电话 】**
+-
+- [BB.]
+- `【 hang up. 挂电话 】`
+- `【 call you back. 回电话 = give you a call back. 】`
+- **【 I have to 【 hang up 】 now because I 【 still 】 have some tasks need to finish, Can I 【 call you back 】 later? 我必须挂电话了，因为我还有一些任务需要完成，我能一会儿回您电话吗？ 】**
+-
+- [CC.]
+- `【 turn down. 关小v 拒绝v 】`
+- `【 turn up. 开大 】`
+- `【 I'm on the phone. 我正在打电话 】`
+- **【 【 Turn down 】 the TV, I'm on the phone. 把电视音量关小，我正在打电话 】**
+-
+- [DD.]
+- `【 turn down. 关小 拒绝 v 】`
+- `【 turn me down. = refuse me. 拒绝 】`
+- `【 ask for sb to do sth. 要求某人做某事 】`
+- 1. **【 I want to 【 ask for 】 a raise, but I'm afraid my boos will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我 】**
+- 2. **【 Why did she 【 turn down 】 your 【 invitation 】? 】**
+- 3. **【 I 【 refuse 】 to 【 turn down 】 the volume. 我拒绝关小音量 】**
+
 # Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
 
 - How to 【 have a phone conversation 】 in English. 如何用英语进行电话交谈

@@ -4,7 +4,7 @@
 - `【 in depth. 深入地 adv 】` // ------ 【 depth. 深度 】 【 deep 深的 adj 】 【 shallow 浅的 adj 】
 - `【 in detail. 详细地 adv 】` // ----- 【 detail 细节 详情 n 】
 - `【 in turn. 依次地 adv 】`
-- `【 in advance. 提前 adv 】`
+- `【 in advance. 提前 adv 】` // ------ 【 make an advance. 取得进展 】 【 advanced vocabulary. 高级词汇 】 【 advanced equipment. 先进设备 】 // advance advantage
 - `【 in public. 公开的 当众地 adv 】`
 - `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
 - > 【 secretary / laboratory / dormitory / repository / factory / directory / victory / history / mandatory 】
@@ -13,17 +13,28 @@
 - > 【 contact / contract / contrast 】
 - // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
-- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】 // 【 deep clone. 深拷贝 】【 deep copy. 深拷贝 】
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// `【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
+- `【 brightness 亮度 n 】` ------------ 【 bright / dim 】
 - `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
-- `【 density 密度 n 】` // ------------ 【 population density. 人口密度 】
-- `【 concentration 浓度 n 】` --------- 【 high concentration. 高浓度 】
-- > 【 deep / shallow 】
-- > 【 thick / thin 】
-- _【 work intensity. 工作强度 】_ // 【 mandatory overtime. 强制加班 】
-- _【 high work intensity. 工作强度高 】_
-- _【 population density. 人口密度 】_
+- `【 density 密度 n 】` --------------- 【 population density. 人口密度 】
+- `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid-fluid solid
+- `【 length 长度 n 】` ---------------- 【 long / short 】 --- `【 long / longer / longest 】` --- 【 longest river. 最长的河流 】
+- `【 width 宽度 n 】` ----------------- 【 wide / narrow 】
+- `【 height 高度 n 】` ---------------- 【 high / low 】------ `【 high / higher / highest 】`---- 【 highest mountain. 最高的山 】
+- `【 speed 速度 n 】` ----------------- 【 fast / slow 】
 - > 【 workload 】 / 【 workaholic 】 / 【 work intensity. 】 / 【 work overtime. 】 / 【 mandatory overtime. 】 / 【 overtime pay. 】
+- > 【 work intensity. 工作强度 】
+- > 【 high work intensity. 工作强度高 】
+- > 【 population density. 人口密度 】
+- > 【 liquid concentration. 液体浓度 】
+- // dim 暗淡的 昏暗的 adj
+- // slow 慢的 adj
+- // narrow 窄的 adj
+- // The 【 opposite 】 of the word 'wide' is 'narrow'.
+- // The 【 antonym 】 of the word 'dim' is 'bright'.
+- // The 【 plural 】 of the word 'leaf' is 'leaves'.
+- // What 【 clause 】 is this sentence?
 -
 - `【 insult 侮辱 v 】`
 - `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
@@ -81,6 +92,7 @@
 - `【 consult 咨询 v 】`
 - `【 in public. 当众地 公开的 adv 】`
 - `【 consequence 后果 n 】`
+- > 【 consult about sth. 咨询某事 】
 - **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 - **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
 - // -- 【 insult 辱骂 v 】
@@ -116,13 +128,20 @@
 - `【 be angry with sb. 生某人的气 】`
 - `【 have a cold. 感冒 】`
 - **【 After I 【 had a cold 】, she was only 【 mad 】 at me and didn't 【 scold 】 me. 我感冒后，她只是生我气，并没有骂我 】**
+- // -- be mad at sb. = be angry with sb. 生某人的气
 - // -- 【 scold 责骂 v 】
 - // -- 【 abuse 辱骂 v 】
 - // -- 【 insult 侮辱 】
 - // -- 【 consult 咨询 】
 - // -- 【 result 结果 n 】
 - // -- 【 consequence 后果 n 】
-- // -- be mad at sb. = be angry with sb. 生某人的气
+-
+- [DDDD.]
+- **【 The 【 Nile 】 is the 【 longest 】 【 river 】 in the world. 尼罗河是世界上最长的河 】**
+- **【 The 【 Qomolangma 】 is the 【 highest 】 【 mountain 】 in the world. 珠穆朗玛峰是世界上最高的山峰 】**
+- **【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星**
+- // -- 【 plant 植物 】
+- // -- 【 planet 行星 】
 -
 -
 -
@@ -141,21 +160,30 @@
 - `【 upgrade 升级 v n 】` // ----------- 【 system upgrade. 系统升级 】
 - `【 update 更新 v n  】`
 - > 【 manual download. 手动下载 】
-- > 【 automatic download. 自动下载 】
-- > 【 automatic control. 自动控制 】 // 【 automatically down. 自动下载 v 】
+- > 【 automatic download. 自动下载 n 】 // 【 automatically download. 自动下载 v 】
+- > 【 automatic control. 自动控制 】
 - > manual 手动的 adj
 - > manually 手动地 adv
 - > automatic 自动的 adj
 - > automatically 自动地 adv
 -
+- `【 account 账号 n 】`
+- `【 accountant 会计 n 】`
+- `【 discount 打折 n 】` = on sale.
+- `【 counter 柜台 】`
+-
 - [AA.]
 - **【 This 【 set of 】 system can 【 automatically download 】, install, update, upgrade. 这套系统会自动下载，自动安装，自动更新，自动升级 】**
+- // -- 【 a set of makeup. 一套化妆品 】
 
 ###### Must 2024-08-02
 
 - 1
-- `【 command 命令 指挥 v n 】` // ----- 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
+- `【 command 命令 指挥 v n 】` // ----- 【 run a command. 运行命令 】 【 command center. 指挥中心 】 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
 - `【 demand 要求v 】` // ------------- 【 strictly demand. 严格要求 v 】 【 strict demand. 严格的要求 】 // demand = require.
+- `【 recommend 推荐 v 】` ------------ 【 highly recommend. 强烈推荐 】 //【 introduce 介绍 v 】
+- > 【 run a command. 运行命令 】 ------ command 命令
+- > 【 command center. 指挥中心 】------ command 指挥
 - > 【 demand 要求 v 】
 - > 【 require 要求 v 】
 - > 【 demand sb to do sth. = require sb to do sth. 要求某人做某事 】
@@ -171,35 +199,52 @@
 - > produce/reproduce -----------------【 produce 生产 v 】 【 reproduce 繁殖 v 】
 - > cover/recover ---------------------【 cover 覆盖 v 】 【 recover 恢复 v 】
 - > fund/refund -----------------------【 fund 基金 n 】 【 refund 退款 v 】 // -------- 【 found 创立 建立 v 】
+- // 【 fun / fund / refund / found 】
+- // 【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 】
 -
 -
 - [AA.]
-- `【 command 命令 v n 】`
-- `【 demand 要求v 】` // -------------- demand = require.
-- `【 retreat 撤退 v 】` // ------------ 【 treat 对待 治疗 v 】 【 retreat 撤退 v 】
+- `【 command 命令 指挥 v n 】` // ----- 【 run a command. 运行命令 】
+- `【 demand 要求v 】` // ------------- 【 demand = require 】
+- `【 retreat 撤退 v 】` // ----------- 【 treat 对待 治疗 v 】 【 retreat 撤退 v 】
 - `【 treat 对待 治疗 v 】`
 - **【 The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately. 新的命令要求我们立即撤退 】**
 - // -- 【 demand sb to do sth. 要求某人做某人 】
 - // -- 【 require sb to do sth. 要求某人做某人 】
 - // -- 【 immediately = directly. 立即的 adj 】
+- // -- 【 immediately = directly. = right away. 立即 立刻 】
+-
+- [BB.]
+- **【 I 【 highly recommend 】 this book. 我强烈推荐这本书 】**
 
 ###### Must 2024-08-04
 
 - 1
-- `【 inhabit 居住于 v 】` // ------ 【 reside 居住于 v 】 【 inhabit 居住于 v 】
+- `【 inhabit 栖息于 v 】` // ------ 【 reside 居住于 v 】 【 inhabit 居住于 v 】
 - `【 inhibit 抑制 v 】`
-- `【 prohibit 禁止 v 】` // ------- 【 forbid 禁止 v 】 【 prohibit 禁止 v 】
+- `【 prohibit 禁止 v 】` // ------- 【 forbid 禁止 v 】 【 prohibit 禁止 v 】 // 【 prohibit sb from doing sth. 禁止某人做某事 】
+- `【 exhibit 展览v 展览品 n 】` // - 【 exhibition 展览 n 】 【 exhibition hall. 展览馆 】 【 art exhibition. 艺术展览 】
+- > 【 exhibit 展览 v 】
+- > 【 exhibition 展览 n 】
+- > 【 exhibition hall. 展览馆 n 】
+- > 【 art exhibition. 艺术展览 】
+- _【 prohibit sb from doing sth. 禁止某人做某事 】_
+- // hall 走廊 大厅
+- // TIPS: Pay attention to the different pronunciation between 'exhibit' and 'exhibition'.
 -
-- `【 inhabit 居住于 v 】` ---------- 动物
+- `【 inhabit 栖息于 v 】` ---------- 动物
 - `【 reside 居住于 v 】` ----------- 人
 - `【 settle 定居 v 】`
+- > 【 reside in. 居住在... 】
+- > 【 inhabit in. 栖息于... 】
+- > 【 live in. 生活在... 】
 -
-- `【 reside 居住于 v 】`
+- `【 reside 居住于 v 】` // ------- 【 reside 居住于 定居于 v 】 【 settle 定居 v 】
 - `【 residence 住宅 n 】`
 - `【 resident 居民 n 】` // -------【 local resident. 本地居民 】 【 foreign resident. 外地居民 】
 - `【 president 总统 n 】` // ----- 【 vice president. 副总统 】
 -
-- `【 resident 居民 n 】`
+- `【 resident 居民 n 】` // -------【 resident 居民 n 】 【 residence 住宅 n 】 【 reside 定居 v 】 【 president 总统 n 】
 - `【 citizen 市民 n 】`
 - `【 immigrant 移民 n 】`
 - `【 migrate 移民 v 】`
@@ -209,15 +254,15 @@
 - `【 reside 居住于 v 】`
 - `【 resident 居民 n 】`
 - `【 president 总统 n 】`
-- **【 The 【 president 】 and the 【 residents 】 all 【 reside 】 in this city. 总统和居民都生活在这座城市 】**
-- **【 Animals are 【 inhabit 】 in forest, and people are 【 reside 】 in city. 动物居住在森里，人类居住在城市 】**
+- **【 The 【 president 】 and the 【 residents 】 【 all 】 【 reside in 】 this city. 总统和居民都生活在这座城市 】**
+- **【 Animals are 【 inhabit in 】 forest, and people are 【 reside in 】 city. 动物居住在森里，人类居住在城市 】**
 -
 - [BB.]
 - `【 inhibit 抑制 v 】`
 - `【 prohibit 禁止 v 】`
 - `【 inhabit 居住于 v 】`
 - > 【 precious 珍贵的 adj 】
-- **【 Bringing drugs which 【 inhibit 】 animal growth is 【 prohibited 】 because many 【 precious animals 】 【 inhabit 】 here. 携带抑制动物生长的药物是被禁止的，因为这里有许多珍稀动物栖息 】**
+- **【 Bringing drugs which 【 inhibit 】 animal 【 growth 】 is 【 prohibited 】 because many 【 precious animals 】 【 inhabit 】 here. 携带抑制动物生长的药物是被禁止的，因为这里有许多珍稀动物栖息 】**
 -
 - [CC.]
 - `【 resident 居民 n 】`
@@ -226,3 +271,14 @@
 - `【 consist of. 由...组成 】`
 - **【 The population of this city 【 consists of 】 【 residents 】, 【 citizens 】 and 【 immigrants 】. 这个城市的人口由居民，市民，移民组成 】**
 - // -- 【 consist of. 由...组成 】
+-
+- [AAAA.]
+- `【 exhibit 展览 v 】`
+- `【 exhibition 展览 n 】`
+- `【 exhibition hall. 展览馆 n 】` // 【 hall 走廊 大厅 n 】
+- `【 prohibit 禁止 v 】`
+- **【 selling the 【 exhibits 】 in the 【 exhibition hall 】 is 【 prohibited 】. 禁止在展览馆内出售展品 】**
+
+###### Must 2024-08-05
+
+-
