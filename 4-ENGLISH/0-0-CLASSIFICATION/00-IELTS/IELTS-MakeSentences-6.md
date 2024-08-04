@@ -118,7 +118,7 @@ Let 【 talk about 】 this problem 【 in depth 】.
 // 【 in public. 公开地 adv 】
 ```
 
-##### 1 Make sentences 2024-08-02
+##### 2 Make sentences 2024-08-02
 
 ```
 1
@@ -202,4 +202,58 @@ The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately.
 - produce/reproduce -----【 produce 生产 v 】 【 reproduce 繁殖 v 】
 - cover/recover ---------【 cover 覆盖 v 】 【 recover 恢复 v 】
 - fund/refund -----------【 fund 基金 n 】 【 refund 退款 v 】 // -------- 【 found 创立 建立 v 】
+```
+
+##### 3 Make sentences 2024-08-04
+
+```
+1
+【 Mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】.
+强制加班意味着工作强度很大，并且没有加班费
+-
+We should persist in 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】.
+我们要坚持抵制没有加班费的加班
+-
+Does your company 【 require 】 【 mandatory overtime 】?
+你们公司要求强制加班吗？
+-
+// -
+// 【 depth / thickness / intensity / density / concentration 】
+// -
+
+
+2
+The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately.
+新的命令要求我们立即撤退
+// -
+// 【 command 命令 v 】
+// 【 demand 要求 v 】
+// -
+// 【 demand sb to do sth. 要求某人做某事 】 = require sb to do sth.
+// 【 demand = require. 要求  】
+// -
+// 【 retreat 撤退 v 】
+// 【 treat 对待 治疗 v 】
+
+
+3
+Bringing drugs which 【 inhibit 】 animal growth is 【 prohibited 】 because there are many 【 precious animals 】 【 inhabit 】 here.
+携带抑制动物生长的药物是被禁止的，因为这里有许多珍稀动物栖息
+// -
+// 【 inhibit 抑制 v 】
+// 【 prohibit 禁止 v 】
+// 【 inhabit 居住于 v 】
+// -
+// 【 precious 珍贵的 adj 】
+
+
+4
+The 【 population 】 of this city 【 consists of 】 【 residents 】, 【 citizens 】, and 【 immigrants 】.
+这个城市的人口由居民，市民，移民组成
+// -
+// 【 resident 居民 n 】
+// 【 citizen 市民 n 】
+// 【 immigrant 移民 n 】
+// -
+// 【 consist of. 由...组成 】
 ```

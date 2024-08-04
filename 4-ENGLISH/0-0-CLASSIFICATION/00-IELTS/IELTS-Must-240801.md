@@ -7,20 +7,23 @@
 - `【 in advance. 提前 adv 】`
 - `【 in public. 公开的 当众地 adv 】`
 - `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
-- > 【 secretary / laboratory / dormitory / repository / factory / directory / dormitory / victory / history 】
+- > 【 secretary / laboratory / dormitory / repository / factory / directory / victory / history / mandatory 】
 - > 【 directory / directly / director 】 【 personnel director. 】 【 sales director. 】
+- > 【 labor / laboratory 】 【 labor day. 】 【 labor law. 】 【 labor contract. 】
+- > 【 contact / contract / contrast 】
 - // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
 - `【 depth 深度 n 】` ----------------- 【 deep / shallow 】 // 【 deep clone. 深拷贝 】【 deep copy. 深拷贝 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
-- `【 intensity 强度 n 】` ------------- 【 working intensity. 工作强度 】 【 magnetic field intensity. 磁场强度 】
+- `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 - `【 density 密度 n 】` // ------------ 【 population density. 人口密度 】
-- `【 concentration 浓度 n 】`
+- `【 concentration 浓度 n 】` --------- 【 high concentration. 高浓度 】
 - > 【 deep / shallow 】
 - > 【 thick / thin 】
-- _【 working intensity. 工作强度 】_ // 【 mandatory overtime. 强制加班 】
-- _【 magnetic filed intensity. 磁场强度 】_
-- > 【 population density. 人口密度 】
+- _【 work intensity. 工作强度 】_ // 【 mandatory overtime. 强制加班 】
+- _【 high work intensity. 工作强度高 】_
+- _【 population density. 人口密度 】_
+- > 【 workload 】 / 【 workaholic 】 / 【 work intensity. 】 / 【 work overtime. 】 / 【 mandatory overtime. 】 / 【 overtime pay. 】
 -
 - `【 insult 侮辱 v 】`
 - `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
@@ -84,7 +87,7 @@
 - // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
 - // -- 【 result 结果 n 】
 - // -- 【 consequence 后果 n 】
--
+- // -- 【 consult about sth. 咨询某事 】
 -
 - [EE.]
 - `【 in turn. 依次地 adv 】`
@@ -103,6 +106,26 @@
 - `【 scold 责骂 v 】`
 - **【 The ways of 【 insulting 】 people include 【 abusing 】 and 【 scolding 】 侮辱人的方式有辱骂和责骂 】**
 -
+- [BBBB.]
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
+-
+- [CCCC.]
+- `【 be mad at sb. 生某人气 】`
+- `【 be angry with sb. 生某人的气 】`
+- `【 have a cold. 感冒 】`
+- **【 After I 【 had a cold 】, she was only 【 mad 】 at me and didn't 【 scold 】 me. 我感冒后，她只是生我气，并没有骂我 】**
+- // -- 【 scold 责骂 v 】
+- // -- 【 abuse 辱骂 v 】
+- // -- 【 insult 侮辱 】
+- // -- 【 consult 咨询 】
+- // -- 【 result 结果 n 】
+- // -- 【 consequence 后果 n 】
+- // -- be mad at sb. = be angry with sb. 生某人的气
+-
+-
+-
 -
 -
 -
@@ -112,21 +135,30 @@
 -
 -
 - 2
-- `【 download 下载 / upload 上传 】` --- 【 manual download. 手动下载 】 【 automatic download. 自动下载 】
+- `【 download 下载 / upload 上传 】` --- 【 manual download. 手动下载 】 【 automatic download. 自动下载 】 // 【 automatic control. 自动控制 】
 - `【 install 安装 / uninstall 卸载 】`
 - `【 set up. 设置 v 】`
 - `【 upgrade 升级 v n 】` // ----------- 【 system upgrade. 系统升级 】
 - `【 update 更新 v n  】`
 - > 【 manual download. 手动下载 】
 - > 【 automatic download. 自动下载 】
+- > 【 automatic control. 自动控制 】 // 【 automatically down. 自动下载 v 】
 - > manual 手动的 adj
 - > manually 手动地 adv
+- > automatic 自动的 adj
+- > automatically 自动地 adv
+-
+- [AA.]
+- **【 This 【 set of 】 system can 【 automatically download 】, install, update, upgrade. 这套系统会自动下载，自动安装，自动更新，自动升级 】**
 
 ###### Must 2024-08-02
 
 - 1
 - `【 command 命令 指挥 v n 】` // ----- 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
-- `【 demand 要求v 】` // ------------- 【 strict demand. 严格的要求 】
+- `【 demand 要求v 】` // ------------- 【 strictly demand. 严格要求 v 】 【 strict demand. 严格的要求 】 // demand = require.
+- > 【 demand 要求 v 】
+- > 【 require 要求 v 】
+- > 【 demand sb to do sth. = require sb to do sth. 要求某人做某事 】
 -
 - `【 mend 修理 n 】 `
 - `【 recommend 推荐 v 】` ------------ 【 mend 修理 n 】 【 recommend 推荐 v 】
@@ -143,6 +175,54 @@
 -
 - [AA.]
 - `【 command 命令 v n 】`
-- `【 demand 要求v 】`
-- `【 retreat 撤退 v 】`
+- `【 demand 要求v 】` // -------------- demand = require.
+- `【 retreat 撤退 v 】` // ------------ 【 treat 对待 治疗 v 】 【 retreat 撤退 v 】
+- `【 treat 对待 治疗 v 】`
 - **【 The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately. 新的命令要求我们立即撤退 】**
+- // -- 【 demand sb to do sth. 要求某人做某人 】
+- // -- 【 require sb to do sth. 要求某人做某人 】
+- // -- 【 immediately = directly. 立即的 adj 】
+
+###### Must 2024-08-04
+
+- 1
+- `【 inhabit 居住于 v 】` // ------ 【 reside 居住于 v 】 【 inhabit 居住于 v 】
+- `【 inhibit 抑制 v 】`
+- `【 prohibit 禁止 v 】` // ------- 【 forbid 禁止 v 】 【 prohibit 禁止 v 】
+-
+- `【 inhabit 居住于 v 】` ---------- 动物
+- `【 reside 居住于 v 】` ----------- 人
+- `【 settle 定居 v 】`
+-
+- `【 reside 居住于 v 】`
+- `【 residence 住宅 n 】`
+- `【 resident 居民 n 】` // -------【 local resident. 本地居民 】 【 foreign resident. 外地居民 】
+- `【 president 总统 n 】` // ----- 【 vice president. 副总统 】
+-
+- `【 resident 居民 n 】`
+- `【 citizen 市民 n 】`
+- `【 immigrant 移民 n 】`
+- `【 migrate 移民 v 】`
+-
+-
+- [AA.]
+- `【 reside 居住于 v 】`
+- `【 resident 居民 n 】`
+- `【 president 总统 n 】`
+- **【 The 【 president 】 and the 【 residents 】 all 【 reside 】 in this city. 总统和居民都生活在这座城市 】**
+- **【 Animals are 【 inhabit 】 in forest, and people are 【 reside 】 in city. 动物居住在森里，人类居住在城市 】**
+-
+- [BB.]
+- `【 inhibit 抑制 v 】`
+- `【 prohibit 禁止 v 】`
+- `【 inhabit 居住于 v 】`
+- > 【 precious 珍贵的 adj 】
+- **【 Bringing drugs which 【 inhibit 】 animal growth is 【 prohibited 】 because many 【 precious animals 】 【 inhabit 】 here. 携带抑制动物生长的药物是被禁止的，因为这里有许多珍稀动物栖息 】**
+-
+- [CC.]
+- `【 resident 居民 n 】`
+- `【 citizen 市民 n 】`
+- `【 immigrant 移民 n 】`
+- `【 consist of. 由...组成 】`
+- **【 The population of this city 【 consists of 】 【 residents 】, 【 citizens 】 and 【 immigrants 】. 这个城市的人口由居民，市民，移民组成 】**
+- // -- 【 consist of. 由...组成 】

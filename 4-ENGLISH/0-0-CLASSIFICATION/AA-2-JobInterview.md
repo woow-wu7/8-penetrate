@@ -2,6 +2,25 @@
 
 ##### (1) **The words that you mast know.**
 
+- [-GG.]
+- `【 work intensity. 工作强度 】`
+- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
+- `【 density 密度 n 】` // -------- 【 population density. 人口密度 】
+- `【 concentration 浓度 n 】` // -- 【 high concentration. 高浓度 】
+- > 【 workload 工作量 】
+- > 【 workaholic 工作狂 】
+- > 【 work intensity. 工作强度 】
+- > 【 work overtime. 加班 】
+- > 【 mandatory overtime. 强制加班 】
+- > 【 overtime pay. 加班费 】
+- _【 work intensity. 工作强度 】_
+- _【 population density. 人口密度 】_
+- _【 high concentration. 高浓度 】_
+- > 【 depth / thickness / intensity / density / concentration 】
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
+-
 - [-FF.]
 - `【 statistic 统计数据 统计 n 】`
 - `【 statistical 统计的 adj 】`
@@ -186,15 +205,17 @@
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 -
 - 2. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+-
+- 3. **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - // --【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
 - // -- persist in doing sth. = insist on doing sth. 坚持做某事
 - // -- mandatory overtime. 强制加班
 - // -- overtime pay. 加班费
 - // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
-- 3. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+- 4. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
 -
-- 4. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- 5. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
 -
 - **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - // except for. 除了 ------------- 排除
@@ -1558,7 +1579,11 @@ What are your strengths and weaknesses?
 //
 // AA.
 // My【 biggest weakness 】 is that I 【 have a hard time 】 【 balancing 】 my work and life. 我很难平衡工作和生活
+// --【 How do you balance your 【 personal 】 and 【 professional 】 life. 如何平衡个人与职业生活 】 // I think this expression is better
 // --【 have a hard time doing sth. 做某事有困难 】
+// -- // profession 职业 n
+// -- // professional 职业的 adj
+// -- // professor 教授
 //
 // BB.
 // My【 biggest strength 】 is that I have 【 a sense of ownership 】. 我的优点是我有主人翁意识
