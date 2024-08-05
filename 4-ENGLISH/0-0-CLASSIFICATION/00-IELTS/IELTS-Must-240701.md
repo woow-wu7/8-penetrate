@@ -651,7 +651,7 @@
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
 -
-- `【 object clause. 宾语从句 】`
+- `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
 - > what 【 clause 】 is this sentence? 这个句子是什么从句
@@ -724,7 +724,8 @@
 -
 - [EE.]
 - `【 object clause. 宾语从句 n 】`
-- **【 This is a object clause. 这是一个宾语从句 】**
+- `【 attributive clause. 定语从句 】`
+- **【 Is this an 【 object clause 】 or 【 attributive clause 】? 这是宾语从句还是定语从句？ 】**
 
 ###### Must 2024-07-18
 

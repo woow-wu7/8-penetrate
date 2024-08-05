@@ -38,7 +38,8 @@
 -
 -
 - [DD.]
-- `【 associate 联系 联想 关联 v 】`
+- `【 associate 关联 v 】`
+- `【 association 关联 n 】`
 - `【 associate with. 关联  与...交往 】` // 【 associate A with B. 关联 A 和 B 】
 - `【 be associate with. 与...有关 】`
 - > 【 associate professor. 副教授 】

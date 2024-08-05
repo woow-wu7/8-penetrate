@@ -15,10 +15,10 @@
 -
 - `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// `【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
-- `【 brightness 亮度 n 】` ------------ 【 bright / dim 】
+- `【 brightness 亮度 n 】` ------------ 【 bright / dim 】 // -`【 dim = dark. 】`
 - `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 - `【 density 密度 n 】` --------------- 【 population density. 人口密度 】
-- `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid-fluid solid
+- `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid/fluid solid
 - `【 length 长度 n 】` ---------------- 【 long / short 】 --- `【 long / longer / longest 】` --- 【 longest river. 最长的河流 】
 - `【 width 宽度 n 】` ----------------- 【 wide / narrow 】
 - `【 height 高度 n 】` ---------------- 【 high / low 】------ `【 high / higher / highest 】`---- 【 highest mountain. 最高的山 】
@@ -28,13 +28,17 @@
 - > 【 high work intensity. 工作强度高 】
 - > 【 population density. 人口密度 】
 - > 【 liquid concentration. 液体浓度 】
-- // dim 暗淡的 昏暗的 adj
+- _【 shallow breath. 浅呼吸 】_
+- _【 shallow sleep. 浅睡眠 】_
+- // dim 暗淡的 昏暗的 adj // ----------- 【 dim = dark. 昏暗的 adj 】
 - // slow 慢的 adj
 - // narrow 窄的 adj
+- // shallow 浅的 adj // --------------- 【 shallow breath. 浅呼吸 】 【 shallow sleep. 浅睡眠 】
 - // The 【 opposite 】 of the word 'wide' is 'narrow'.
 - // The 【 antonym 】 of the word 'dim' is 'bright'.
 - // The 【 plural 】 of the word 'leaf' is 'leaves'.
 - // What 【 clause 】 is this sentence?
+- // TIPS: Pay attention to the pronunciation of the word 'population'.
 -
 - `【 insult 侮辱 v 】`
 - `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
@@ -108,7 +112,8 @@
 -
 - [FF.]
 - **【 A 【 consequence 】 is the 【 impact 】 【 brought 】 by a 【 result 】. 后果是一个结果带来的影响 】**
-- // -- 【 impact 影响 v 】
+- // -- 【 influence 影响 v n 】 // 动词和名词都能用，所以尽量使用这个单词
+- // -- 【 impact 影响 n 】
 - // -- 【 affect 影响 v 】
 - // -- 【 effect 影响 v 】
 -
@@ -194,11 +199,12 @@
 -
 - `【 retreat 撤退 v 】`
 - `【 treat 对待 治疗 v 】`
-- > treat/retreat
-- > tire/retire -----------------------【 tire 轮胎 n 疲劳 n 】 【 retire 退休 】 // ----【 entire 整个 】
-- > produce/reproduce -----------------【 produce 生产 v 】 【 reproduce 繁殖 v 】
-- > cover/recover ---------------------【 cover 覆盖 v 】 【 recover 恢复 v 】
-- > fund/refund -----------------------【 fund 基金 n 】 【 refund 退款 v 】 // -------- 【 found 创立 建立 v 】
+- > treat/retreat ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
+- > tail/retail -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】】// - 【 retail store. 零售店 】
+- > tire/retire -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ----【 entire 整个 】
+- > cover/recover ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
+- > fund/refund -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】
+- > produce/reproduce -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
 - // 【 fun / fund / refund / found 】
 - // 【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 】
 -
@@ -279,6 +285,63 @@
 - `【 prohibit 禁止 v 】`
 - **【 selling the 【 exhibits 】 in the 【 exhibition hall 】 is 【 prohibited 】. 禁止在展览馆内出售展品 】**
 
-###### Must 2024-08-05
+###### Must 2024-08-06
 
+- 1
+- `【 influence 影响 v n 】` // -------------- 【 profound influence. 深远的影响 】 // 【 have an influence on sb. 对某人有影响 】
+- `【 impact 影响 v n 】`
+- `【 affect 影响 v 】`
+- `【 effect 影响 n 】`
+- > 【 profound influence. 深远的影响 】
+- > 【 positive influence. 正面影响 】
+- > 【 negative influence. 负面影响 】
+- _【 have an influence on sb. 对某人有影响 】_
 -
+- `【 introverted 内向的 adj 】` // ---------- 【 introverted personality. 内向性格 】
+- `【 extroverted 外向的 adj 】` // ---------- 【 extroverted = outgoing. 外向的 adj 】
+- // external 外面的 外部的
+- // `This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷`
+-
+- `【 positive 积极的 乐观的 正面的 adj 】`
+- `【 negative 消极的 悲观的 负面的 adj  】`
+-
+- [AA.]
+- `【 introverted personality. 内向性格 】`
+- `【 profound influence. 深远的影响 】`
+- _【 have an influence on sb. 对某人有影响 】_
+- **【 His 【 introverted personality 】 had a 【 profound influence 】 【 on 】 her. 他内向的性格给她造成了深远的影响 】**
+-
+-
+-
+-
+-
+-
+- 2
+- `【 grocery store. 杂货店 】`
+- `【 convenience store. 便利店 】`
+- `【 restaurant. 餐馆 饭店 】`
+- `【 laundry 洗衣店 】`
+- `【 retail store. 零售店 】`
+- `【】`
+- 洗衣店
+- // store 商店 n 贮存 v -------------- 小商店
+- // shop 商店 n 购物 v --------------- 大商店
+- `【 dealer 经销商 n 】` // ------ 【 dealer deal 】
+- `【 retail store. 零售店 n 】`
+- barbershop 理发店
+- bakery 面包店
+-
+- `【 drugstore 药店 】`
+- `【 Pharmacy 药店 】` // ------------------- 【 pharmacist 药剂师 】
+- `【 clinic 诊所  】` // -------------------- 【 in a clinic. 】 【 in a hospital. 】
+-
+- `【 takeout 外卖 n 】`
+- `【 delivery 快递 n 】` // ----------------- 【 deliver 传递 传送 v 】
+-
+- [AA.]
+- **【 My 【 takeout 】 and 【 delivery 】 【 arrived 】 【 at the same time 】.我的外卖和快递同时到了 】**
+- // -- takeout 外卖 n
+- // -- delivery 快递 n
+- // -- at the same time. 同时
+- // -- 【 arrive 到达 v 】
+- // -- 【 arrival 到达 n 】

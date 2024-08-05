@@ -292,3 +292,26 @@ Selling the 【 exhibits 】 in the 【 exhibition hall 】 is 【 prohibited �
 // -
 // 【 prohibit sb from doing sth. 禁止某人做某事 】
 ```
+
+##### 5 Make sentences 2024-08-06
+
+```
+1
+His 【 introverted personality 】 had a 【 profound influence 】 【 on 】 her.
+他内向的性格给她造成了深远的影响
+// -
+// 【 introverted personality. 内向性格 n 】
+// 【 extroverted personality. 外向性格 n 】
+// -
+// 【 profound influence. 深远的影响 】
+// -
+// 【 have an influence on sb. 对某人有影响 】
+
+
+2
+Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause 】?
+这是一个宾语从句还是一个定语从句？
+// -
+// 【 object clause. 宾语从句 】
+// 【 attributive clause. 定语从句 】
+```
