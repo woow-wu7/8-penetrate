@@ -315,3 +315,34 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 // 【 object clause. 宾语从句 】
 // 【 attributive clause. 定语从句 】
 ```
+
+##### 6 Make sentences 2024-08-07
+
+```
+1
+【 Completely opposite 】, I already 【 completely understand 】 your idea.
+完全相反，我已经完全理解了你的想法
+// -
+// 【 completely understand. 完全理解 】
+// 【 completely opposite. 完全相反 】= on the contrary.
+// on the contrary. = completely opposite.
+// -
+// 【 complete 完成v 完全的adj 】= finish
+// 【 completely 完全地 adv 】
+
+
+2
+You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】.
+你可以用连接词连接宾语从句和定语从句
+-
+Please lean this file 【 in conjunction with 】 that file.
+请把这个文件和那个文件结合起来学习
+-
+// -
+// 【 in conjunction with. 结合... 】
+// -
+// 【 conjunction 连接词 】
+// -
+// 【 object clause. 宾语从句 】
+// 【 attributive clause. 定语从句 】
+```

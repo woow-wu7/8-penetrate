@@ -590,19 +590,28 @@
 - 2
 - `【 retail 零售 v 】` // -------- 【 retail price. 零售价 n 】 // -----【 retail store. 零售店 】
 - `【 wholesale 批发 v 】` // ----- 【 wholesale price. 批发价 n 】// ---【 wholesale market. 批发市场 】
-- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // -----【 discount intensity. 打折力度 】
+- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // -----【 discount intensity. 打折力度 】 【 work intensity. 工作强度 】
 - > 【 discount intensity. 打折力度 】
 - > 【 on sale. = discount. 打折 】
 - > 【 tail 尾巴 / retail 打折 】
+- > 【 count / account / accountant / discount / counter 】
+-
+- `【 treat/retreat 】` ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
+- `【 tail/retail 】` -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】】// - 【 retail store. 零售店 】 【 retail price. 零售价 n 】
+- `【 tire/retire 】` -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ----【 entire 整个 = whole. 】
+- `【 cover/recover 】` ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
+- `【 fund/refund 】` -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】 【 fun / fund / refund / found 】
+- `【 produce/reproduce 】` -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
+- > 【 fun / fund / refund / found 】
+-
+- > 【 supplier 供应商 n 】
+- > 【 dealer 经销商 n 】
+- > 【 seller 销售者 n 】
 -
 - `【 deal 处理 经营 交易 v 】` // - 【 deal with. 处理 】
 - `【 dealer 经销商 n 】` // ------ 【 dealer deal 】
 - `【 retail store. 零售店 n 】`
 - `【 retail price. 零售价 n 】`
--
-- > 【 supplier 供应商 n 】
-- > 【 dealer 经销商 n 】
-- > 【 seller 销售者 n 】
 -
 - `【 repository 仓库 】` // repository directory laboratory dormitory factory victory history mandatory
 - `【 warehouse 仓库 】`
@@ -663,6 +672,7 @@
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
+- `【 conjunction 连接词 】` ----------- 【 in conjunction with. 结合... 】
 - `【 singular 单数 单数的 】`
 - `【 plural 复数 复数的 】`
 - > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
@@ -696,9 +706,12 @@
 - `【 phrase 短语 】`
 - `【 sentence 句子 】`
 - `【 fixed collocation. 固定搭配 】` // 【 collocation 搭配 】
-- `【 conversation 对话 n 】`
+- `【 conversation 对话 n 】` // ------ 【 conversation 交谈 】 【 conversion 转换 】
 - `【 vocabulary. 词汇 n 】`
 - // 【 collocation 搭配 】
+- > 【 convert 转换 v 】
+- > 【 conversion 转换 n 】
+- > 【 conversation 交谈 n 】
 -
 - [AA.]
 - `【 position 位置 职位 n 】`
@@ -711,6 +724,11 @@
 - `【 future tense. 将来时 】`
 - **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. frozen 是 freeze 的过去式 】**
 - **【 This sentence uses the 【 past tense 】.这个句子使用的是过去时态 】**
+- // [antonym]: What's the antonym of the word 'dim'?
+- // [synonum]: What's the synonym of the word 'dim'?
+- // [opposite]: What's the opposite of the word 'dim'?
+- // [plural]: What's the plural of the word 'leaf'?
+- // [past-tense]: What's the past tense of the word 'freeze'？
 -
 - [CC.]
 - `【 interrogative sentence. 疑问句 】`
@@ -726,6 +744,12 @@
 - `【 object clause. 宾语从句 n 】`
 - `【 attributive clause. 定语从句 】`
 - **【 Is this an 【 object clause 】 or 【 attributive clause 】? 这是宾语从句还是定语从句？ 】**
+-
+- [FF.]
+- `【 conjunction 连接词 】`
+- `【 in conjunction with. 结合... 】`
+- **【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 你可以用连接词连接宾语从句和定语从句 】**
+- **【 Please lean this file 【 in conjunction with 】 that file. 请把这个文件和那个文件结合起来学习 】**
 
 ###### Must 2024-07-18
 

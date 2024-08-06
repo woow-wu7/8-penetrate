@@ -4,7 +4,7 @@
 - `【 in depth. 深入地 adv 】` // ------ 【 depth. 深度 】 【 deep 深的 adj 】 【 shallow 浅的 adj 】
 - `【 in detail. 详细地 adv 】` // ----- 【 detail 细节 详情 n 】
 - `【 in turn. 依次地 adv 】`
-- `【 in advance. 提前 adv 】` // ------ 【 make an advance. 取得进展 】 【 advanced vocabulary. 高级词汇 】 【 advanced equipment. 先进设备 】 // advance advantage
+- `【 in advance. 提前 adv 】` // ------ 【 advanced vocabulary. 高级词汇 】 【 advanced equipment. 先进设备 】 // advance advantage
 - `【 in public. 公开的 当众地 adv 】`
 - `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
 - > 【 secretary / laboratory / dormitory / repository / factory / directory / victory / history / mandatory 】
@@ -13,9 +13,9 @@
 - > 【 contact / contract / contrast 】
 - // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
-- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// `【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// `【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】 【 shallow sleep. 浅睡 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
-- `【 brightness 亮度 n 】` ------------ 【 bright / dim 】 // -`【 dim = dark. 】`
+- `【 brightness 亮度 n 】` ------------ 【 bright / dim and dark 】 // `【 dim = dark. 】`
 - `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 - `【 density 密度 n 】` --------------- 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid/fluid solid
@@ -31,14 +31,18 @@
 - _【 shallow breath. 浅呼吸 】_
 - _【 shallow sleep. 浅睡眠 】_
 - // dim 暗淡的 昏暗的 adj // ----------- 【 dim = dark. 昏暗的 adj 】
-- // slow 慢的 adj
-- // narrow 窄的 adj
 - // shallow 浅的 adj // --------------- 【 shallow breath. 浅呼吸 】 【 shallow sleep. 浅睡眠 】
 - // The 【 opposite 】 of the word 'wide' is 'narrow'.
 - // The 【 antonym 】 of the word 'dim' is 'bright'.
 - // The 【 plural 】 of the word 'leaf' is 'leaves'.
-- // What 【 clause 】 is this sentence?
+- // What 【 clause 】 is this sentence? // object clause. 宾语从句 // clause 从句
 - // TIPS: Pay attention to the pronunciation of the word 'population'.
+- // EE: [antonym] a word that means the opposite of another word.
+- // EE: [synonym] a word that has the same or nearly the same meaning as another word.
+- // EE: [opposite] completely different.
+- // [completelyOpposite.完全相反]
+- // [completelyUnderstand.完全理解]
+- // Completely opposite, I already completely understand your idea. 完全相反，我已经完全理解了你的想法
 -
 - `【 insult 侮辱 v 】`
 - `【 consult 咨询 v 】` // ------------ 【 consult about sth. 咨询某事 】
@@ -84,12 +88,7 @@
 - `【 act 行动v 扮演v 】`
 - **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
 - // -- 【 announce 宣布 v 】
-- // -- 【 declaration 声明 宣布 n 】
-- // -- 【 act 行动 v 行为 表演 v 】
-- // -- 【 action 行动 n 】
-- // -- 【 activity 活动 n 】
-- // -- 【 actor 演员 n 】
-- // -- 【 actress 女演员 n 】
+- // -- 【 declaration 声明 n 】
 -
 - [DD.]
 - `【 insult 侮辱 v 】`
@@ -113,9 +112,9 @@
 - [FF.]
 - **【 A 【 consequence 】 is the 【 impact 】 【 brought 】 by a 【 result 】. 后果是一个结果带来的影响 】**
 - // -- 【 influence 影响 v n 】 // 动词和名词都能用，所以尽量使用这个单词
-- // -- 【 impact 影响 n 】
+- // -- 【 impact 影响 v n 】
 - // -- 【 affect 影响 v 】
-- // -- 【 effect 影响 v 】
+- // -- 【 effect 影响 效果 v 】
 -
 - [AAAA.]
 - `【 insult 侮辱 v 】`
@@ -124,6 +123,7 @@
 - **【 The ways of 【 insulting 】 people include 【 abusing 】 and 【 scolding 】 侮辱人的方式有辱骂和责骂 】**
 -
 - [BBBB.]
+- `【 work intensity. 工作强度 】`
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
@@ -147,6 +147,7 @@
 - **【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星**
 - // -- 【 plant 植物 】
 - // -- 【 planet 行星 】
+- // -- 【 closest 最近的 adj 】
 -
 -
 -
@@ -189,7 +190,7 @@
 - `【 recommend 推荐 v 】` ------------ 【 highly recommend. 强烈推荐 】 //【 introduce 介绍 v 】
 - > 【 run a command. 运行命令 】 ------ command 命令
 - > 【 command center. 指挥中心 】------ command 指挥
-- > 【 demand 要求 v 】
+- > 【 demand 要求 v 】 = require.
 - > 【 require 要求 v 】
 - > 【 demand sb to do sth. = require sb to do sth. 要求某人做某事 】
 -
@@ -205,8 +206,17 @@
 - > cover/recover ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
 - > fund/refund -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】
 - > produce/reproduce -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
+- // 【 supplier / dealer / seller 】
 - // 【 fun / fund / refund / found 】
 - // 【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 】
+-
+- `【 retail 零售 v 】` // -------- 【 retail price. 零售价 n 】 // -----【 retail store. 零售店 】
+- `【 wholesale 批发 v 】` // ----- 【 wholesale price. 批发价 n 】// ---【 wholesale market. 批发市场 】
+- `【 discount 打折 v 】` // ------ 【 discount store. 折扣店 】 // -----【 discount intensity. 打折力度 】 【 work intensity. 工作强度 】
+- > 【 count / account / accountant / discount / counter 】
+- > 【 supplier 供应商 n 】
+- > 【 dealer 经销商 n 】
+- > 【 seller 销售者 n 】
 -
 -
 - [AA.]
@@ -310,26 +320,28 @@
 - `【 profound influence. 深远的影响 】`
 - _【 have an influence on sb. 对某人有影响 】_
 - **【 His 【 introverted personality 】 had a 【 profound influence 】 【 on 】 her. 他内向的性格给她造成了深远的影响 】**
+
+###### Must 2024-08-07
+
+- 1
+- `【 store 商店n 存储v 】` ------ 大商店，一般这两个可以呼唤
+- `【 shop 商店n 购物v 】` ------- 小商店
 -
--
--
--
--
--
-- 2
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`
+- `【 barber shop. 理发店 】`
+-
 - `【 restaurant. 餐馆 饭店 】`
 - `【 laundry 洗衣店 】`
+-
+- `【 bar 酒吧 n 】`
+- `【 nightclub. 夜店 】`
+-
 - `【 retail store. 零售店 】`
-- `【】`
-- 洗衣店
-- // store 商店 n 贮存 v -------------- 小商店
-- // shop 商店 n 购物 v --------------- 大商店
-- `【 dealer 经销商 n 】` // ------ 【 dealer deal 】
+- `【 supplier 供应商 n 】`
+- `【 dealer 经销商 n 】` // ----------------- 【 dealer deal 】 【 deal with. 处理 】
+- `【 seller 卖方 n 】`
 - `【 retail store. 零售店 n 】`
-- barbershop 理发店
-- bakery 面包店
 -
 - `【 drugstore 药店 】`
 - `【 Pharmacy 药店 】` // ------------------- 【 pharmacist 药剂师 】
