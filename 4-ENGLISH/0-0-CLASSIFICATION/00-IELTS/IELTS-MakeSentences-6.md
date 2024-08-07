@@ -316,7 +316,7 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 // 【 attributive clause. 定语从句 】
 ```
 
-##### 6 Make sentences 2024-08-07
+##### 6 Make sentences 2024-08-08
 
 ```
 1
@@ -335,14 +335,41 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】.
 你可以用连接词连接宾语从句和定语从句
 -
-Please lean this file 【 in conjunction with 】 that file.
+Please learn this file 【 in conjunction with 】 that file.
 请把这个文件和那个文件结合起来学习
 -
 // -
 // 【 in conjunction with. 结合... 】
 // -
-// 【 conjunction 连接词 】
+// 【 conjunction 连接词 n 】
+// 【 connect 连接 v 】
 // -
 // 【 object clause. 宾语从句 】
 // 【 attributive clause. 定语从句 】
+// -
+// TIPS: Pay attention to pronunciation of the word 'conjunction'.
+// TIPS: Pay attention to pronunciation of the word 'file'.
+
+
+3
+The 【 advantage 】 of the 【 video tutorials 】 in the 【 online tutorials 】 is 【 convenience 】.
+在在线教程中，视频教程的优势在于方便
+// -
+// 【 video tutorial. 视频教程 n 】
+// 【 online tutorial. 在线教程 n 】
+
+
+4
+The government 【 revoked 】 this driver's license.
+政府撤销了他的驾照
+// -
+// revoke 撤销
+
+
+5
+I like to buy things at 【 chain stores 】 and 【 specialty stores 】.
+我喜欢在连锁店和专卖店买东西
+// -
+// 【 chain store. 连锁店 n 】
+// 【 specialty store. 专卖店 n 】
 ```

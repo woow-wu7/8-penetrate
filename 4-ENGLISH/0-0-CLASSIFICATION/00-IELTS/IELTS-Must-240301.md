@@ -360,8 +360,7 @@
 - **【 We have introduced two 【 form of 】 code reused in Vue. 】** // form of.
 - // -- 【 liquid 液体 】
 - // -- 【 fluid 液体 】
-- // -- 【 sap 植物的汁液 】
-- // -
+- // -- 【 sap 植物的汁液 】 【 slap 扇耳光 】
 - // -- exercise 锻炼 // TIPS: Pay attention to the pronunciation of the 'exercise'.
 -
 -

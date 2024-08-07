@@ -672,7 +672,7 @@
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
-- `【 conjunction 连接词 】` ----------- 【 in conjunction with. 结合... 】
+- `【 conjunction 连接词 】` ----------- 【 in conjunction with. 结合... 】 // 【 connect 连接 v 】 【 conjunction 连接词 n 】
 - `【 singular 单数 单数的 】`
 - `【 plural 复数 复数的 】`
 - > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
@@ -746,7 +746,7 @@
 - **【 Is this an 【 object clause 】 or 【 attributive clause 】? 这是宾语从句还是定语从句？ 】**
 -
 - [FF.]
-- `【 conjunction 连接词 】`
+- `【 conjunction 连接词 】` // connect conjunction
 - `【 in conjunction with. 结合... 】`
 - **【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 你可以用连接词连接宾语从句和定语从句 】**
 - **【 Please lean this file 【 in conjunction with 】 that file. 请把这个文件和那个文件结合起来学习 】**

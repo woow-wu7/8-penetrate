@@ -307,8 +307,8 @@
 - > 【 negative influence. 负面影响 】
 - _【 have an influence on sb. 对某人有影响 】_
 -
-- `【 introverted 内向的 adj 】` // ---------- 【 introverted personality. 内向性格 】
-- `【 extroverted 外向的 adj 】` // ---------- 【 extroverted = outgoing. 外向的 adj 】
+- `【 introverted 内向的 adj 】` // ---------- 【 introverted personality. 内向性格 】 // --- in + troverted
+- `【 extroverted 外向的 adj 】` // ---------- 【 extroverted = outgoing. 外向的 adj 】// --- ex + troverted
 - // external 外面的 外部的
 - // `This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷`
 -
@@ -320,28 +320,38 @@
 - `【 profound influence. 深远的影响 】`
 - _【 have an influence on sb. 对某人有影响 】_
 - **【 His 【 introverted personality 】 had a 【 profound influence 】 【 on 】 her. 他内向的性格给她造成了深远的影响 】**
+-
+- [BB.]
+- `【 introverted 】`
+- **【 【 Introverted person 】 and 【 extroverted person 】 have different 【 personalities 】. 内向的人和外向的人有不同的性格 】**
 
 ###### Must 2024-08-07
 
 - 1
-- `【 store 商店n 存储v 】` ------ 大商店，一般这两个可以呼唤
-- `【 shop 商店n 购物v 】` ------- 小商店
+- `【 store 商店n 存储v 】` ------ 一般这两个可以互换
+- `【 shop 商店n 购物v 】` ------- 一般这两个可以互换
 -
+- `【 chain store. 连锁店 】` // ------------ 【 chain reaction. 连锁反应 】 【 chain store. 连锁店 】
+- `【 specialty store. 专卖店 】` // -------- 【 special 特别的 adj 】 【 specialty 专业 专长 】 // 【 specialty = major. 专业 】
+- `【 department store. 百货商场 】` // ----- 【 finance department. 财务部 】 【 department store. 百货商场 】
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`
+- `【 retail store. 零售店 】`
+- `【 drugstore 药店 】` // ----------------- 【 drugstore = pharmacy. 药店 】
+- `【 bookstore 书店 】`
+- > 【 major 专业 专业课 n 】 // ------------- 【 major = specialty. 专业 】
+- > 【 specialty 专业 专长 n 】// ------------ 【 specialty = major 专业 】
+-
 - `【 barber shop. 理发店 】`
--
-- `【 restaurant. 餐馆 饭店 】`
-- `【 laundry 洗衣店 】`
--
 - `【 bar 酒吧 n 】`
 - `【 nightclub. 夜店 】`
+- `【 laundry 洗衣店 】`
+- `【 restaurant. 餐馆 饭店 】`
 -
-- `【 retail store. 零售店 】`
-- `【 supplier 供应商 n 】`
-- `【 dealer 经销商 n 】` // ----------------- 【 dealer deal 】 【 deal with. 处理 】
+- `【 retail store. 零售店 】` // ------------ 【 tail / retail 】 【 retail price. 】 【 retail store. 】
+- `【 supplier 供应商 n 】` // --------------- 【 supplier / supply / supplement 补充 v / complement 补语 n 】
+- `【 dealer 经销商 n 】` // ----------------- 【 dealer / deal 】 【 deal with. 处理 v 】 【 deal 处理 经营 v 】
 - `【 seller 卖方 n 】`
-- `【 retail store. 零售店 n 】`
 -
 - `【 drugstore 药店 】`
 - `【 Pharmacy 药店 】` // ------------------- 【 pharmacist 药剂师 】
@@ -357,3 +367,8 @@
 - // -- at the same time. 同时
 - // -- 【 arrive 到达 v 】
 - // -- 【 arrival 到达 n 】
+-
+- [BB.]
+- `【 chain store. 连锁店 】`
+- `【 specialty store. 专卖店 】`
+- **【 I like to buy things at 【 chain stores 】 and 【 specialty stores 】. 我喜欢在连锁店和专卖店买东西 】**
