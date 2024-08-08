@@ -316,12 +316,15 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 // 【 attributive clause. 定语从句 】
 ```
 
-##### 6 Make sentences 2024-08-08
+##### 6 Make sentences 2024-08-09
 
 ```
 1
-【 Completely opposite 】, I already 【 completely understand 】 your idea.
+【 Completely opposite 】, I already 【 completely understand 】 your 【 idea 】.
 完全相反，我已经完全理解了你的想法
+-
+My 【 ideal 】 is to 【 achieve 】 my 【 dream 】.
+我的理想是实现梦想
 // -
 // 【 completely understand. 完全理解 】
 // 【 completely opposite. 完全相反 】= on the contrary.
@@ -329,6 +332,16 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 // -
 // 【 complete 完成v 完全的adj 】= finish
 // 【 completely 完全地 adv 】
+// 【 complement 补充 】 // 【 complement nutrition. 补充营养 】 【 complement energy. 补充能量 】
+// 【 supply 供应 v 】 // 【 supplier 供应商 n 】 【 dealer 经销售 n 】 【 seller 销售员 n 】
+// -
+// 【 idea 想法 n 】
+// 【 ideal 理想的 adj / 理想 n 】
+// -
+// 【 ideal 理想 n 】
+// 【 dream 梦想 n 】
+// -
+// 【 ideal condition. 理想的条件 】
 
 
 2
@@ -354,19 +367,75 @@ Please learn this file 【 in conjunction with 】 that file.
 3
 The 【 advantage 】 of the 【 video tutorials 】 in the 【 online tutorials 】 is 【 convenience 】.
 在在线教程中，视频教程的优势在于方便
+-
+My 【 tutorial 】 was given to me 【 by 】 my 【 tutor 】.
+我的教程是我的家庭教师给我的
+-
 // -
 // 【 video tutorial. 视频教程 n 】
 // 【 online tutorial. 在线教程 n 】
+// -
+// 【 tutor 家庭教师 导师 n 】
+// 【 tutorial 教程 n 】
 
 
 4
-The government 【 revoked 】 this driver's license.
+The 【 extroverts 】 have the 【 extroverted personalities 】, and the 【 introverts 】 have the 【 introverted personalities 】.
+外向的人有外向的性格，内向的人有内向的性格
+-
+Can you describe the relationship between the 【 habit 】, 【 personality 】, and 【 destiny 】?
+你能描述一下习惯，性格，命运的关系吗？
+
+// -
+// 【 introvert 内向的人 n 】
+// 【 extrovert 外向的人 n 】
+// -
+// 【 introverted 内向的 adj 】
+// 【 extroverted 外向的 adj 】
+// -
+// 【 introverted personality. 内向的性格 】
+// 【 extroverted personality. 外向的性格 】
+// -
+// 【 personality 性格 n 】=====> character = personality. 性格
+// 【 destiny 命运 n 】=========> destiny = fate. 命运 // 【  destination 目的地 n 】 // 【 destiny 命运 n 】
+// 【 habit 习惯 n 】
+// 【 hobby 爱好 n 】
+// -
+// EE [introvert] Someone who is shy, quiet, and prefer to spend time alone rather than often being with other people.
+// EE [extrovert] An 【 energetic 】 person who enjoys being with other people.
+// TIPS: Pay attention to the pronunciation of the word 'character'.
+
+
+5
+Different 【 synonyms 】 are used to 【 describe 】 different 【 sceneries 】 in different 【 scenes 】.
+不同的同义词用于描述不同场景中的不同景色
+-
+The 【 accident scene 】 is also a 【 crime scene 】.
+事故现场同时也是犯罪现场
+-
+// -
+// 【 scene 场景 现场 n 】
+// 【 scenery 风景 景色 n 】
+// -
+// 【 crime scene. 犯罪现场 】
+// 【 accident scene. 事故现场 】
+//  crime 罪 罪行 n
+// -
+// 【 antonym 反义词 n 】
+// 【 synonym 同义词 n 】
+// -
+// TIPS: Pay attention to the pronunciation of the word 'scene'.
+// TIPS: Pay attention to the pronunciation of the word 'scenery'.
+
+
+6
+The government 【 revoked 】 this 【 driver's license 】.
 政府撤销了他的驾照
 // -
 // revoke 撤销
 
 
-5
+7
 I like to buy things at 【 chain stores 】 and 【 specialty stores 】.
 我喜欢在连锁店和专卖店买东西
 // -

@@ -1513,7 +1513,8 @@ What 【 performance optimizations 】 have you done in code?
 What's your 【 ideal 】？
 I want to be a 【 front-end software architect 】.
 -
-He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 他突然意识到是时候去努力实现自己的理想和梦想了
+He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 
+他突然意识到是时候去努力实现自己的理想和梦想了
 -
 // -
 // 【 ideal 理想的adj 理想n 】

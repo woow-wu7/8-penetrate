@@ -60,6 +60,8 @@ Install Gitlab Runner
       docker exec -it gitlab-runner /bin/bash
   - 4. 注册runner
       gitlab-runner register
+      执行上上面这条命令后，将会进入下面的 [注册流程]
+  - 5. 注册的具体流程如下:
 
 注册流程
 
@@ -90,4 +92,12 @@ docker run --rm -it -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitla
    node // 镜像，主要作用是如果在 ( .gitlab-ci.yml ) 文件中没有指定image，就会使用这里指定的image
 
 输入完以上命令，会提示注册成功，同时在 => gitlab网站对应的项目/setting/CICD/Runners/Specific Runners中获取token中会显示刚刚注册的runner
+```
+
+##### (3) The .gitlab-ci.yml
+
+- [How-to-config-tutorial](https://juejin.cn/post/6897884843275714567#heading-14)
+
+```
+
 ```

@@ -28,8 +28,15 @@
 - > 【 high work intensity. 工作强度高 】
 - > 【 population density. 人口密度 】
 - > 【 liquid concentration. 液体浓度 】
+-
 - _【 shallow breath. 浅呼吸 】_
 - _【 shallow sleep. 浅睡眠 】_
+-
+- _【 scale 秤 尺寸 n 】_
+- _【 kitchen scale. 厨房秤 】_
+- _【 spring scale. 弹簧秤 】_
+- _【 balance scale. 天平 】_
+-
 - // dim 暗淡的 昏暗的 adj // ----------- 【 dim = dark. 昏暗的 adj 】
 - // shallow 浅的 adj // --------------- 【 shallow breath. 浅呼吸 】 【 shallow sleep. 浅睡眠 】
 - // The 【 opposite 】 of the word 'wide' is 'narrow'.
@@ -163,6 +170,7 @@
 - `【 download 下载 / upload 上传 】` --- 【 manual download. 手动下载 】 【 automatic download. 自动下载 】 // 【 automatic control. 自动控制 】
 - `【 install 安装 / uninstall 卸载 】`
 - `【 set up. 设置 v 】`
+- `【 configure 配置 v 】` // ----------- 【 configuration. 配置 n 】 【 configure 配置 v 】
 - `【 upgrade 升级 v n 】` // ----------- 【 system upgrade. 系统升级 】
 - `【 update 更新 v n  】`
 - > 【 manual download. 手动下载 】
@@ -307,10 +315,16 @@
 - > 【 negative influence. 负面影响 】
 - _【 have an influence on sb. 对某人有影响 】_
 -
+- `【 introvert 内向的人 n 】`
+- `【 extrovert 外向的人 n 】`
 - `【 introverted 内向的 adj 】` // ---------- 【 introverted personality. 内向性格 】 // --- in + troverted
 - `【 extroverted 外向的 adj 】` // ---------- 【 extroverted = outgoing. 外向的 adj 】// --- ex + troverted
+- > 【 introverted personality. 内向的性格 】
+- > 【 extroverted personality. 外向的性格 】
+- // EE [introvert] Someone who is shy, quiet, and prefer to spend time alone rather than often being with other people.
+- // EE [extrovert] An 【 energetic 】 person who enjoys being with other people.
 - // external 外面的 外部的
-- // `This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷`
+- // This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷
 -
 - `【 positive 积极的 乐观的 正面的 adj 】`
 - `【 negative 消极的 悲观的 负面的 adj  】`
@@ -322,8 +336,11 @@
 - **【 His 【 introverted personality 】 had a 【 profound influence 】 【 on 】 her. 他内向的性格给她造成了深远的影响 】**
 -
 - [BB.]
-- `【 introverted 】`
-- **【 【 Introverted person 】 and 【 extroverted person 】 have different 【 personalities 】. 内向的人和外向的人有不同的性格 】**
+- `【 introvert 内向的人 n 】`
+- `【 extrovert 外向的人 n 】`
+- `【 introverted 内向的 adj 】`
+- `【 extroverted 外向的 adj 】`
+- **【 【 Introverts 】 have the 【 introverted personalities 】, and 【 extroverts 】 have the 【 extroverted personalities 】. 内向的人有内向的性格， 外向的人有外向的性格 】**
 
 ###### Must 2024-08-07
 
@@ -372,3 +389,52 @@
 - `【 chain store. 连锁店 】`
 - `【 specialty store. 专卖店 】`
 - **【 I like to buy things at 【 chain stores 】 and 【 specialty stores 】. 我喜欢在连锁店和专卖店买东西 】**
+
+###### Must 2024-08-09
+
+- 1
+- `【 gunpowder 火药 n 】`
+- > 【 powder 粉 粉末 n 】
+- > 【 flour 面粉 n 】
+- > 【 flower 花 n 】
+-
+- `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
+- `【 bomb 炸弹 n 】` // ---------------- 【 atom bomb. 原子弹 】 // 【 bomb / burn 】 // 【 burn out. 燃尽 】
+- `【 atom bomb. 原子弹 n 】`
+- `【 missile 导弹 n 】` // ------------- 【 missile 导弹 n 】 【 mission 使命 n 】 【 dismiss 解雇 v 】 【 miss 错过 想念 v / 小姐 n 】
+- `【 bullet 子弹 n 】`
+- `【 cannon 大炮 炮弹 n 】`
+- `【 burn 燃烧 v 】` // ---------------- 【 burn fat. 燃烧脂肪 】 【 burn out. = exhausted. 精疲力尽的 adj 】
+- `【 explode 爆炸 v 】` // ------------- 【 explosion 爆炸 n 】 【 explode 爆炸 v 】
+- > 【 bomb 炸弹 n 】
+- > 【 tomb 坟墓 n 】
+- > 【 womb 子宫 】
+-
+- `【 missile 导弹 n 】`
+- `【 miss 错过v 想念v 小姐n 】`
+- `【 dismiss 解雇 v 】` ------------------ 【 lay off. 裁员 v 】 【 dismiss 解雇 v 】 【 dissolve 溶解 v 解散 v 】
+- `【 mission 使命 n 】`
+- > 【 dismiss 解雇 v 】
+- > 【 dissolve 解散 v / 溶解 v 】
+-
+- `【 submarine 潜艇 n 】`
+- `【 soldier 士兵 n 】`
+- `【 sailor 水手 n 】`
+- `【 pilot 飞行员 n 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'bomb'. [bomb]
+- // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb]
+- // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb]
+- // TIPS: Pay attention to the pronunciation of the word 'bullet'.
+-
+-
+- [AA.]
+- `【 dismiss 解雇 v 】`
+- `【 dissolve 解散 v / 溶解 v 】`
+- `【 miss 想念v 错过v 小姐n 】`
+- **【 After she was 【 dismissed 】, the company was also 【 dissolved 】, but she 【 misses 】 her 【 colleagues 】 right now. 在她被解雇后，公司也解散了，但她现在想念她的同事 】**
+-
+- [BB.]
+- `【 bomb 炸弹 n 】`
+- `【 explode 爆炸 v 】`
+- **【 The 【 bomb 】 【 exploded 】 here. 炸弹在这里爆炸了 】**
