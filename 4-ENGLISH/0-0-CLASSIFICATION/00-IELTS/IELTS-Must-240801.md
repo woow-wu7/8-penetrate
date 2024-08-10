@@ -322,6 +322,7 @@
 - > 【 positive influence. 正面影响 】
 - > 【 negative influence. 负面影响 】
 - _【 have an influence on sb. 对某人有影响 】_
+- > 【 profound / found / fun / fund / refund 】
 -
 - `【 introvert 内向的人 n 】`
 - `【 extrovert 外向的人 n 】`
@@ -334,8 +335,8 @@
 - // external 外面的 外部的
 - // This medicine is just for external use, so we can't spray it into our mouth. 这种药只能外用，因此我们不能往嘴里喷
 -
-- `【 positive 积极的 乐观的 正面的 adj 】`
-- `【 negative 消极的 悲观的 负面的 adj  】`
+- `【 positive 积极的 乐观的 正面的 adj 】` // --【 positive / active 主动的 】
+- `【 negative 消极的 悲观的 负面的 adj  】` // -【 negative / passive 被动的 】
 -
 - [AA.]
 - `【 introverted personality. 内向性格 】`
@@ -349,19 +350,25 @@
 - `【 introverted 内向的 adj 】`
 - `【 extroverted 外向的 adj 】`
 - **【 【 Introverts 】 have the 【 introverted personalities 】, and 【 extroverts 】 have the 【 extroverted personalities 】. 内向的人有内向的性格， 外向的人有外向的性格 】**
+-
+- [CC.]
+- `【 profound 深远的 adj 】`
+- `【 found 创建 v 】`
+- `【 fun / fund / refund 】`
+- **【 Under his 【 profound 】 【 influence 】, she 【 found 】 a new 【 fun 】 【 fund 】 company. 在他的深刻影响下，她创建了一家新的有趣的基金公司 】**
 
 ###### Must 2024-08-07
 
 - 1
-- `【 store 商店n 存储v 】` ------ 一般这两个可以互换
-- `【 shop 商店n 购物v 】` ------- 一般这两个可以互换
+- `【 store 商店n 存储v 】` ------ 可互换 ---- 【 storage 存储 n 】 【 store 商店 n 存储 v 】
+- `【 shop 商店n 购物v 】` ------- 可以换
 -
 - `【 chain store. 连锁店 】` // ------------ 【 chain reaction. 连锁反应 】 【 chain store. 连锁店 】
 - `【 specialty store. 专卖店 】` // -------- 【 special 特别的 adj 】 【 specialty 专业 专长 】 // 【 specialty = major. 专业 】
 - `【 department store. 百货商场 】` // ----- 【 finance department. 财务部 】 【 department store. 百货商场 】
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`
-- `【 retail store. 零售店 】`
+- `【 retail store. 零售店 】` // ----------- 【 tail / retail supplier dealer seller 】
 - `【 drugstore 药店 】` // ----------------- 【 drugstore = pharmacy. 药店 】
 - `【 bookstore 书店 】`
 - > 【 major 专业 专业课 n 】 // ------------- 【 major = specialty. 专业 】
@@ -370,7 +377,7 @@
 - `【 barber shop. 理发店 】`
 - `【 bar 酒吧 n 】`
 - `【 nightclub. 夜店 】`
-- `【 laundry 洗衣店 】`
+- `【 laundry 洗衣店 】` // ------------------ 【 boundary 边界 n 】 【 laundry 洗衣店 n 】 【 washing machine. 洗衣机 n 】
 - `【 restaurant. 餐馆 饭店 】`
 -
 - `【 retail store. 零售店 】` // ------------ 【 tail / retail 】 【 retail price. 】 【 retail store. 】
@@ -383,7 +390,7 @@
 - `【 clinic 诊所  】` // -------------------- 【 in a clinic. 】 【 in a hospital. 】
 -
 - `【 takeout 外卖 n 】`
-- `【 delivery 快递 n 】` // ----------------- 【 deliver 传递 传送 v 】
+- `【 delivery 快递 n 】` // ----------------- 【 deliver 传递 传送 v 】 【 delivery 快递 n 】
 -
 - [AA.]
 - **【 My 【 takeout 】 and 【 delivery 】 【 arrived 】 【 at the same time 】.我的外卖和快递同时到了 】**
@@ -401,30 +408,20 @@
 ###### Must 2024-08-09
 
 - 1
-- `【 gunpowder 火药 n 】`
+- `【 gunpowder 火药 n 】` // ---------- 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】
+- `【 firecracker 鞭炮 n 】`
+- `【 firework 烟花 n 】` // ----------- 【 firecracker 鞭炮 n 】 【 firework 烟花 n 】
 - > 【 powder 粉 粉末 n 】
-- > 【 flower 花 n 】
 - > 【 flour 面粉 n 】
+- > 【 flower 花 n 】
 -
-- `【 weigh 称重 v 】`
-- `【 weight 重量 n 】`
-- `【 scale 称 尺寸 n 】`
-- > 【 weigh out. 称重 v 】
+- `【 weigh 称重 v 】` // --------------- 【 weigh out. 称重 v 】
+- `【 weight 重量 n 】` // -------------- 【 lose weight. 减肥 v 】
+- `【 scale 称 尺寸 n 】` // -------------【 spring scale. 弹簧秤 】 【 balance scale. 天平 】 【 kitchen scale. 厨房秤 】
 - > 【 spring scale. 弹簧秤 】 // ------- 【 spring 春天 弹簧 n 】
 - > 【 balance scale. 天平 】 // -------- 【 balance 平衡 余额 n 】
 - > 【 kitchen scale. 厨房秤 】
--
-- `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
-- `【 bomb 炸弹 n 】` // ---------------- 【 atom bomb. 原子弹 】 // 【 bomb / burn 】 // 【 burn out. 燃尽 】
-- `【 atom bomb. 原子弹 n 】`
-- `【 missile 导弹 n 】` // ------------- 【 missile 导弹 n 】 【 mission 使命 n 】 【 dismiss 解雇 v 】 【 miss 错过 想念 v / 小姐 n 】
-- `【 bullet 子弹 n 】`
-- `【 cannon 大炮 炮弹 n 】`
-- `【 burn 燃烧 v 】` // ---------------- 【 burn fat. 燃烧脂肪 】 【 burn out. = exhausted. 精疲力尽的 adj 】
-- `【 explode 爆炸 v 】` // ------------- 【 explosion 爆炸 n 】 【 explode 爆炸 v 】
-- > 【 bomb 炸弹 n 】
-- > 【 tomb 坟墓 n 】
-- > 【 womb 子宫 】
+- > 【 weigh out. 称重 v 】
 -
 - `【 missile 导弹 n 】`
 - `【 miss 错过v 想念v 小姐n 】`
@@ -433,16 +430,38 @@
 - > 【 dismiss 解雇 v 】
 - > 【 dissolve 解散 v / 溶解 v 】
 -
+- `【 bomb 炸弹 n 】` // ---------------- 【 atom bomb. 原子弹 】 // 【 bomb / burn 】 // 【 burn out. 燃尽 】
+- `【 atom bomb. 原子弹 n 】`
+- `【 bullet 子弹 n 】` // -------------- 【 bulletproof vest. 防弹背心 】
+- `【 bulletproof vest. 防弹背心 】` // -- 【 proof 证据 n 】 【 roof 屋顶 】 // 【 prove 证明 v 】 【 approve 批准 v 】 【 improve 提升 v 】
+- `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
+- `【 missile 导弹 n 】` // ------------- 【 missile 导弹 n 】 【 mission 使命 n 】 【 dismiss 解雇 v 】 【 miss 错过 想念 v / 小姐 n 】
+- `【 cannon 炮弹 大炮 n 】`
+- `【 burn 燃烧 v 】` // ---------------- 【 burn fat. 燃烧脂肪 】 【 burn down. 烧毁 】 【 burn out. = exhausted. 精疲力尽的 adj 】
+- `【 explode 爆炸 v 】` // ------------- 【 explosion 爆炸 n 】 【 explode 爆炸 v 】
+- `【 explosion 爆炸 n 】` // ----------- 【 explosion sound. 爆炸声 n 】
+- > 【 bomb 炸弹 n 】
+- > 【 tomb 坟墓 n 】
+- > 【 womb 子宫 】
+- _【 explosion sound. 爆炸声 】_
+- _【 burn fat. 燃烧脂肪 】_
+- _【 burn down. 烧毁 】_
+- // 【 vest 背心 】
+- // 【 proof 证明 证据 n 】 【 roof 房顶 n 】
+- // 【 prove 证明 v 】 【 approve 批准 v 】 【 improve 提升 v 】
+- // proof = evidence.
+-
 - `【 submarine 潜艇 n 】`
 - `【 soldier 士兵 n 】`
 - `【 sailor 水手 n 】`
 - `【 pilot 飞行员 n 】`
 -
-- // TIPS: Pay attention to the pronunciation of the word 'bomb'. [bomb]
-- // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb]
+- // TIPS: Pay attention to the pronunciation of the word 'bomb'. [bomb] /bɑːm/
+- // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb] /tuːm/
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb]
-- // TIPS: Pay attention to the pronunciation of the word 'bullet'.
-- // TIPS: Pay attention to the pronunciation of the word 'dissolve'.
+- // TIPS: Pay attention to the pronunciation of the word 'bullet'. [bullet] /ˈbʊl.ɪt/
+- // TIPS: Pay attention to the pronunciation of the word 'dissolve'. [dissolve] /dɪˈzɑːlv/
+- // TIPS: Pay attention to the pronunciation of the word 'vest'. [vest] /vest/
 -
 -
 - [AA.]
@@ -450,22 +469,124 @@
 - `【 dissolve 解散 v / 溶解 v 】`
 - `【 miss 想念v 错过v 小姐n 】`
 - **【 After she was 【 dismissed 】, the company was also 【 dissolved 】, but she 【 misses 】 her 【 colleagues 】 right now. 在她被解雇后，公司也解散了，但她现在想念她的同事 】**
+- // -- 【 colleague 同事 n 】
+- // -- 【 college 大学 学院 n 】
 -
 - [BB.]
-- `【 bomb 炸弹 n 】`
-- `【 explode 爆炸 v 】`
-- // 【 explosion. 爆炸 n 】
-- **【 The 【 bomb 】 【 exploded 】 here. 炸弹在这里爆炸了 】**
+- `【 miss 想念v 错过v 小姐n 】`
+- `【 mission 使命 n 】`
+- `【 dismiss 解雇 v 】`
+- **【 【 Miss 】 Chen, please don't 【 miss 】 our company because our company's 【 mission 】 is not to 【 dismiss 】 any employee. 程女士，不要错过我们公司，因为我们公司的使命是不解雇任意一名员工 】**
 -
 - [CC.]
-- `【 scale 秤 n 】`
-- `【 weigh 称重 v 】` // ------------ 【 weigh 称重 v 】 【 weight 重量 n 】
+- `【 bomb 炸弹 n 】`
+- `【 explode 爆炸 v 】`
+- `【 explosion. 爆炸 n 】`
+- **【 After the 【 bomb 】 【 exploded 】 there, a very 【 loud 】 【 explosion sound 】 was heard. 炸弹在那里爆炸后，传来了很大的爆炸声 】**
+- // -- 【 explosion sound. 爆炸声 n 】
+-
+- [DD.]
+- `【 scale 秤 n 】` // -------------- 【 spring scale. 弹簧秤 】 【 balance scale. 天平 】
+- `【 weigh 称重 v 】` // ------------ 【 weigh 称重 v 】 【 weight 重量 n 】 【 lose weight. 减肥 】
 - `【 charge 收费 要价 充电 v 】`
 - `【 accordingly 相应的 照着 adv 】`
-- **【 The 【 restaurant 】 will use a 【 scale 】 to 【 weigh 】 your food, and 【 charge 】 you 【 accordingly 】. 餐厅会用秤来称你食物的重量，然后进行相应的收费 】**
+- **【 The 【 restaurant 】 will use a 【 spring scale 】 to 【 weigh 】 your food, and 【 charge 】 you 【 accordingly 】. 餐厅会用弹簧秤来称你食物的重量，然后进行相应的收费 】**
+- // -- 【 according to. 根据 】
+- // -- 【 accord 符合 v 协议 n 】
+- // -- 【 accordingly. 照着 相应的 adv 】
+-
+- [EE.]
+- `【 weigh 称重 v 】`
+- `【 weight 重量 n 】`
+- `【 lose weight. 减肥 v 】`
+- **【 She 【 confirmed 】 whether she 【 succeeded in losing 】 【 weight 】 by 【 weighing 】 herself. 她通过称重来确认是否减肥成功 】**
+- // -- 【 confirm 确认 证实 v 】
+- // -- 【 succeed in doing sth. 成功做某事 】
+-
+- [FF]
+- `【 proof 证据 n 】` = evidence.
+- `【 prove 证明 v 】`
+- `【 theory 理论 n 】`
+- **【 Please use 【 proof 】 to 【 prove 】 your 【 theory 】 is correct. 请用证据证明你的理论是对的 】**
+- // -- 【 theory 理论 n 】
+- // -- 【 evidence 证据 n 】= proof
 
-###### Must 2024-08-10
+###### Must 2024-08-11
 
-```
-
-```
+- 1
+- `【 license 许可证 执照 n 】`
+- `【 certificate 证书 n 】` // -------- 正式，常见
+- `【 credentials 证书 n 】` // -------- 非正式，不常见
+-
+- [license.]
+- `【 driver's license. 驾驶证 n 】`
+- `【 business license. 营业执照 n 】`
+- > 【 revoke a license. 撤销执照 】
+- > 【 revoke 撤销 v 】
+-
+- [certificate.]
+- `【 marriage certificate. 结婚证 n 】`
+- `【 divorce certificate. 离婚证 n 】`
+- `【 appointment certificate. 任命书 】`
+- `【 tax registration certificate. 税务登记证 n 】`
+- > 【 individual income tax. 个人所得税 n 】
+- > 【 additional tax. 附加税 】
+- > 【 register 注册 v 】
+- > 【 registration 注册 n 】
+- // 【 sign in. 登入 】
+- // 【 sign out. 登出 】
+- // 【 sign up. 注册 】
+- _【 in addition to. 除了 】_ // ---------- 补充
+- _【 except for. 除了 】_ // -------------- 排除
+-
+- [verb.]
+- `【 approve 批准 v 】` // --------------- 【 approvement 批准 n 】 // ----------- 【 get approved. 获得批准 】
+- `【 apply 申请 v 】` // ----------------- 【 application 申请 应用程序 n 】
+- `【 appoint 任命 v 】` // --------------- 【 appointment 任命 n 】
+- `【 authorize 授权 v 】` // ------------- 【 authorization 授权 n 】
+- > 【 prove 证明 v 】
+- > 【 approve 批准 v 】
+- > 【 improve 提高 v 】
+- > roof 屋顶
+- > proof 证据
+- > evidence 证据 // --------------------- 【 evidence. = proof. 证据 】
+- > fireproof vest. 防弹背心
+-
+- [other.]
+- `【 license plate. 车牌号 牌照 n 】`
+- `【 boarding pass. 登机牌 n 】`
+- `【 passport. 护照 n 】`
+- `【 visa. 签证 n 】` // ----------------- 【 study visa. 学生签证 】 【 tourist visa. 旅游签证 】 【 business visa. 商业签证 】
+- > 【 study visa. 学生签证 】
+- > 【 tourist visa. 旅游签证 】
+- > 【 business visa. 商业签证 】
+- > tour guide. / tourist attraction. / tourist resort. / tourist visa. / tourism industry. / travel agency. / business trip.
+-
+- // TIPS: Pay attention to the pronunciation of the word 'application'. [application]
+-
+-
+- [AA.]
+- `【 approve 批准 v 】`
+- `【 apply 申请 v 】`
+- `【 appoint 任命 v 】`
+- `【 authorize 授权 v 】`
+- **【 He 【 approved 】 my 【 application 】, 【 appointed 】 and 【 authorized 】 me. 他批准了我的申请，任命并授权了我 】**
+- // TIPS: Pay attention to the pronunciation of the word 'application'. [application]
+-
+- [BB.]
+- `【 prove 证明 v 】`
+- `【 improve 提高 v 】`
+- `【 approve 批准 v 】`
+- `【 get approved. 获得批准 】`
+- **【 The 【 fact 】 【 proves 】 that 【 as long as 】 you 【 improve 】 yourself, you will 【 get approved 】. 事实明证，只要提高自己，就会获得批准 】**
+- // -- 【 get approved. 获取批准 】
+- // -- 【 as long as. 只要 】
+- // -- 【 once 一旦 一次 】
+-
+- [CC.]
+- `【 proof 证据 n 】` = evidence.
+- `【 prove 证明 v 】`
+- `【 theory 理论 n 】`
+- **【 Please use 【 proof 】 to 【 prove 】 your 【 theory 】 is correct. 请用证据证明你的理论是对的 】**
+- // -- 【 theory 理论 n 】
+- // -- 【 evidence 证据 n 】= proof

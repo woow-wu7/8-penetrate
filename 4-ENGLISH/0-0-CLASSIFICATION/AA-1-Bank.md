@@ -128,10 +128,13 @@
 - [DD.]
 - `【 tax 税 税收 n v 】`
 - `【 individual income tax. 个人所得税 】` = personal income tax.
+- `【 additional tax. 附加税 】`
 - `【 housing property tax. 房产税 】`
+- _【 pay tax. 交税 纳税 】_
+- _【 in addition to. 除了 】_ // ---------- 补充
+- _【 except for. 除了 】_ // -------------- 排除
 - 【 housing fund. 住房公积金 】
 - 【 pension 养老金 】
-- _【 pay tax. 交税 纳税 】_
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj

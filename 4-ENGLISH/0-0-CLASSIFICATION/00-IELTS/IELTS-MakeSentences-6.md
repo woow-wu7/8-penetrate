@@ -459,8 +459,79 @@ I like to buy things at 【 chain stores 】 and 【 specialty stores 】.
 // 【 specialty store. 专卖店 n 】
 ```
 
-##### 7 Make sentences 2024-08-10
+##### 7 Make sentences 2024-08-11
 
 ```
+1
+【 Miss 】 Chen, please don't 【 miss 】 our company because our company's 【 mission 】 is not 【 to 】 【 dismiss 】 any employ.
+程女士，不要错过我们公司，因为我们公司的使命是不解雇任意一名员工
+-
+After she was 【 dismissed 】, the company was also 【 dissolved 】, but she 【 misses 】 her colleagues right now.
+在她被解雇后，公司也解散了，但她现在想念她的同事
+-
+// -
+// 【 miss 错过v 想念v 小姐n 】
+// 【 mission 使命 n 】
+// 【 dismiss 解雇 v 】
+// 【 missile 导弹 n 】
+// -
+// 【 dismiss 解雇 v 】
+// 【 dissolve 解散 溶解 v 】
 
+
+2
+After the 【 bomb 】 【 exploded 】 there, a very 【 loud 】 【 explosion sound 】 was heard.
+炸弹在那里爆炸后，传来了很大的爆炸声
+// -
+// 【 bomb 炸弹 n 】
+// 【 explode 爆炸 v 】
+// -
+// 【 explosion sound. 爆炸声 n 】
+// 【 explosion 爆炸 n 】
+// 【 explode 爆炸 v 】
+// -
+// 【 bomb 炸弹 n 】
+// 【 tomb 坟墓 n 】
+// 【 womb 子宫 n 】
+
+
+3
+He 【 approved 】 my 【 application 】, 【 appointed 】 and 【 authorized 】 me.
+他批准了我的申请，任命并授权了我
+-
+The fact 【 proves 】 that 【 as long as 】 you 【 improve 】 yourself, you will 【 get approved 】.
+事实明证，只要提高自己，就会获得批准
+-
+Please use 【 proof 】 to 【 prove 】 your 【 theory 】 is correct.
+请用证据证明你的理论是对的
+-
+// -
+// 【 approve 批准 v 】
+// 【 apply 申请 v 】
+// 【 appoint 任命 v 】
+// 【 authorize 授权 v 】
+// -
+// 【 application 申请n 应用n 】
+// 【 appointment 任命 n 】
+// 【 authorization 授权 n 】
+// -
+// 【 as long as. 只要 】
+// 【 get approved. 获得批准 】
+// -
+// 【 proof 证据 n 】 = evidence
+// 【 roof 屋顶 n 】
+// 【 prove 证明 v 】 【 approve 批准 v 】 【 improve 提升 v 】
+
+
+4
+Under his 【 profound 】 【 influence 】, she 【 found 】 a new 【 fun 】 【 fund 】 company.
+在他的深刻影响下，她创建了一家新的有趣的基金公司
+// -
+// 【 profound 深远的 adj 】
+// 【 found 创建 v 】
+// 【 fun 有趣的 adj 】
+// 【 fund 基金 n 】
+// 【 refund 退款 n 】
+// -
+// 【 profound influence. 深远的影响 】
 ```

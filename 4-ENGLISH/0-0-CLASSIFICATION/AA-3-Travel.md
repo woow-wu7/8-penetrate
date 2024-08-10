@@ -4,8 +4,11 @@
 
 - [AA.]
 - `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】
-- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】
+- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】
 - `【 tourism 旅游业 】` // -----------------【 tourism industry. 旅游业 】
+- > 【 tourist visa. 旅游签证 】
+- > 【 study visa. 学生签证 】
+- > 【 business visa. 商业签证 】
 -
 - `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
 - `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 // -------【 go traveling. 去旅行 】
