@@ -320,7 +320,7 @@ Is this 【 an 】 【 object clause 】 or 【 an 】 【 attributive clause �
 
 ```
 1
-【 Completely opposite 】, I already 【 completely understand 】 your 【 idea 】.
+【 Completely opposite 】, I 【 already 】 【 completely understand 】 your 【 idea 】.
 完全相反，我已经完全理解了你的想法
 -
 My 【 ideal 】 is to 【 achieve 】 my 【 dream 】.
@@ -368,8 +368,8 @@ Please learn this file 【 in conjunction with 】 that file.
 The 【 advantage 】 of the 【 video tutorials 】 in the 【 online tutorials 】 is 【 convenience 】.
 在在线教程中，视频教程的优势在于方便
 -
-My 【 tutorial 】 was given to me 【 by 】 my 【 tutor 】.
-我的教程是我的家庭教师给我的
+The 【 tutorial 】 was given to me 【 by 】 my 【 tutor 】.
+这个教程是我的家庭教师给我的
 -
 // -
 // 【 video tutorial. 视频教程 n 】
@@ -383,7 +383,7 @@ My 【 tutorial 】 was given to me 【 by 】 my 【 tutor 】.
 The 【 extroverts 】 have the 【 extroverted personalities 】, and the 【 introverts 】 have the 【 introverted personalities 】.
 外向的人有外向的性格，内向的人有内向的性格
 -
-Can you describe the relationship between the 【 habit 】, 【 personality 】, and 【 destiny 】?
+Can you 【 describe 】 the 【 relationship 】 between the 【 habit 】, 【 personality 】, and 【 destiny 】?
 你能描述一下习惯，性格，命运的关系吗？
 
 // -
@@ -396,8 +396,8 @@ Can you describe the relationship between the 【 habit 】, 【 personality 】
 // 【 introverted personality. 内向的性格 】
 // 【 extroverted personality. 外向的性格 】
 // -
-// 【 personality 性格 n 】=====> character = personality. 性格
-// 【 destiny 命运 n 】=========> destiny = fate. 命运 // 【  destination 目的地 n 】 // 【 destiny 命运 n 】
+// 【 personality 性格 n 】=====> 【 character = personality. 性格 】
+// 【 destiny 命运 n 】=========> 【 destiny = fate. 命运 】 // 【  destination 目的地 n 】 // 【 destiny 命运 n 】
 // 【 habit 习惯 n 】
 // 【 hobby 爱好 n 】
 // -
@@ -431,8 +431,24 @@ The 【 accident scene 】 is also a 【 crime scene 】.
 6
 The government 【 revoked 】 this 【 driver's license 】.
 政府撤销了他的驾照
+-
+The new 【 command 】 【 demands 】 us to 【 retreat 】 immediately.
+新的命令要求我们立即撤退
+-
+I 【 strongly recommend 】 that you 【 watch 】 this movie.
+我强烈推荐你看这部电影
+-
 // -
-// revoke 撤销
+// 【 revoke 撤销 v 】
+// 【 retreat 撤退 v 】
+// -
+// 【 command 命令 控制 n 】
+// 【 demand 要求 v 】
+// -
+// 【 recommend 推荐 v 】 --------- 语气较强
+// 【 suggest 建议 v 】 ----------- 语气较弱
+// -
+// 【 strongly recommend. 强烈推荐 】
 
 
 7
@@ -441,4 +457,10 @@ I like to buy things at 【 chain stores 】 and 【 specialty stores 】.
 // -
 // 【 chain store. 连锁店 n 】
 // 【 specialty store. 专卖店 n 】
+```
+
+##### 7 Make sentences 2024-08-10
+
+```
+
 ```

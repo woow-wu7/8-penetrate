@@ -195,25 +195,33 @@
 - 1
 - `【 command 命令 指挥 v n 】` // ----- 【 run a command. 运行命令 】 【 command center. 指挥中心 】 【 obey order. 服从命令 】 【 disobey order. 违抗命令 】
 - `【 demand 要求v 】` // ------------- 【 strictly demand. 严格要求 v 】 【 strict demand. 严格的要求 】 // demand = require.
-- `【 recommend 推荐 v 】` ------------ 【 highly recommend. 强烈推荐 】 //【 introduce 介绍 v 】
+- `【 recommend 推荐 v 】` ------------ 【 strongly recommend. 强烈推荐 】 //【 introduce 介绍 v 】
 - > 【 run a command. 运行命令 】 ------ command 命令
 - > 【 command center. 指挥中心 】------ command 指挥
 - > 【 demand 要求 v 】 = require.
 - > 【 require 要求 v 】
 - > 【 demand sb to do sth. = require sb to do sth. 要求某人做某事 】
+- _【 strongly recommend. 强烈推荐 】_ //【 strongly recommend. = highly recommend. 】
 -
 - `【 mend 修理 n 】 `
-- `【 recommend 推荐 v 】` ------------ 【 mend 修理 n 】 【 recommend 推荐 v 】
+- `【 recommend 推荐 v 】` ------------ 【 mend 修理 n 】 【 recommend 推荐 v 】 【 strongly recommend. 强烈推荐 】
 - `【 common 普通的 常见的 adj 】`
 -
-- `【 retreat 撤退 v 】`
 - `【 treat 对待 治疗 v 】`
-- > treat/retreat ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
-- > tail/retail -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】】// - 【 retail store. 零售店 】
-- > tire/retire -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ----【 entire 整个 】
-- > cover/recover ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
-- > fund/refund -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】
-- > produce/reproduce -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
+- `【 retreat 撤退 v 】`
+- `【 revoke 撤销 v  】`
+- `【 refuse 拒绝 v 】`
+- `【 rescue 营救 v 】`
+- `【 reference 参考 引用 v 】`
+- > treat/retreat ---------------------【 treat 对待 治疗 v 】 // ------【 retreat 撤退 v 】
+- > tail/retail -----------------------【 tail 尾巴 n 】 // ------------【 retail 零售 v 】】// - 【 retail store. 零售店 】
+- > tire/retire -----------------------【 tire 轮胎 n 疲劳 n 】// ------ 【 retire 退休 】 // ----【 entire 整个 】
+- > cover/recover ---------------------【 cover 覆盖 v 】// ------------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
+- > fund/refund -----------------------【 fund 基金 n 】 // ------------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】
+- > produce/reproduce -----------------【 produce 生产 v 】 // ---------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
+- > pair/repair ---------------------- 【 pair 一对 一双 n 】// ---------【 repair 修理 修复 v 】
+- > port/report -----------------------【 port 港口 端口 n 】 // --------【 report 汇报 报告 n 】
+- > form/reform -----------------------【 form 形成 v 构成 v 表格 v 形态 n 】 // 【 reform 改革 】
 - // 【 supplier / dealer / seller 】
 - // 【 fun / fund / refund / found 】
 - // 【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 】
@@ -319,7 +327,7 @@
 - `【 extrovert 外向的人 n 】`
 - `【 introverted 内向的 adj 】` // ---------- 【 introverted personality. 内向性格 】 // --- in + troverted
 - `【 extroverted 外向的 adj 】` // ---------- 【 extroverted = outgoing. 外向的 adj 】// --- ex + troverted
-- > 【 introverted personality. 内向的性格 】
+- > 【 introverted personality. 内向的性格 】// 【 personality = character. 性格 】 // ------【 character 性格 特征】
 - > 【 extroverted personality. 外向的性格 】
 - // EE [introvert] Someone who is shy, quiet, and prefer to spend time alone rather than often being with other people.
 - // EE [extrovert] An 【 energetic 】 person who enjoys being with other people.
@@ -395,8 +403,16 @@
 - 1
 - `【 gunpowder 火药 n 】`
 - > 【 powder 粉 粉末 n 】
-- > 【 flour 面粉 n 】
 - > 【 flower 花 n 】
+- > 【 flour 面粉 n 】
+-
+- `【 weigh 称重 v 】`
+- `【 weight 重量 n 】`
+- `【 scale 称 尺寸 n 】`
+- > 【 weigh out. 称重 v 】
+- > 【 spring scale. 弹簧秤 】 // ------- 【 spring 春天 弹簧 n 】
+- > 【 balance scale. 天平 】 // -------- 【 balance 平衡 余额 n 】
+- > 【 kitchen scale. 厨房秤 】
 -
 - `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
 - `【 bomb 炸弹 n 】` // ---------------- 【 atom bomb. 原子弹 】 // 【 bomb / burn 】 // 【 burn out. 燃尽 】
@@ -426,6 +442,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb]
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb]
 - // TIPS: Pay attention to the pronunciation of the word 'bullet'.
+- // TIPS: Pay attention to the pronunciation of the word 'dissolve'.
 -
 -
 - [AA.]
@@ -437,4 +454,18 @@
 - [BB.]
 - `【 bomb 炸弹 n 】`
 - `【 explode 爆炸 v 】`
+- // 【 explosion. 爆炸 n 】
 - **【 The 【 bomb 】 【 exploded 】 here. 炸弹在这里爆炸了 】**
+-
+- [CC.]
+- `【 scale 秤 n 】`
+- `【 weigh 称重 v 】` // ------------ 【 weigh 称重 v 】 【 weight 重量 n 】
+- `【 charge 收费 要价 充电 v 】`
+- `【 accordingly 相应的 照着 adv 】`
+- **【 The 【 restaurant 】 will use a 【 scale 】 to 【 weigh 】 your food, and 【 charge 】 you 【 accordingly 】. 餐厅会用秤来称你食物的重量，然后进行相应的收费 】**
+
+###### Must 2024-08-10
+
+```
+
+```
