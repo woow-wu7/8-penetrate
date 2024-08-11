@@ -236,7 +236,7 @@
 -
 -
 - [AA.]
-- `【 command 命令 指挥 v n 】` // ----- 【 run a command. 运行命令 】
+- `【 command 命令 指挥 v n 】` // ----- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
 - `【 demand 要求v 】` // ------------- 【 demand = require 】
 - `【 retreat 撤退 v 】` // ----------- 【 treat 对待 治疗 v 】 【 retreat 撤退 v 】
 - `【 treat 对待 治疗 v 】`
@@ -247,6 +247,8 @@
 - // -- 【 immediately = directly. = right away. 立即 立刻 】
 -
 - [BB.]
+- `【 recommend 推荐 v 】`
+- `【 highly recommend. 强烈推荐 】`
 - **【 I 【 highly recommend 】 this book. 我强烈推荐这本书 】**
 
 ###### Must 2024-08-04
@@ -261,20 +263,22 @@
 - > 【 exhibition hall. 展览馆 n 】
 - > 【 art exhibition. 艺术展览 】
 - _【 prohibit sb from doing sth. 禁止某人做某事 】_
+- // 【 prohibit 禁止 v 】----- 正式
+- // 【 forbid 禁止 v 】------- 非正式
 - // hall 走廊 大厅
 - // TIPS: Pay attention to the different pronunciation between 'exhibit' and 'exhibition'.
 -
 - `【 inhabit 栖息于 v 】` ---------- 动物
-- `【 reside 居住于 v 】` ----------- 人
+- `【 reside 居住于 v 】` ----------- 人 // `【 reside in. 居住于 】`
 - `【 settle 定居 v 】`
 - > 【 reside in. 居住在... 】
 - > 【 inhabit in. 栖息于... 】
 - > 【 live in. 生活在... 】
 -
-- `【 reside 居住于 v 】` // ------- 【 reside 居住于 定居于 v 】 【 settle 定居 v 】
-- `【 residence 住宅 n 】`
+- `【 reside 居住于 v 】` // -------【 reside 居住于 定居于 v 】 【 settle 定居 v 】 【 inhabit 栖息于 v 】
 - `【 resident 居民 n 】` // -------【 local resident. 本地居民 】 【 foreign resident. 外地居民 】
 - `【 president 总统 n 】` // ----- 【 vice president. 副总统 】
+- `【 residence 住宅 n 】`
 -
 - `【 resident 居民 n 】` // -------【 resident 居民 n 】 【 residence 住宅 n 】 【 reside 定居 v 】 【 president 总统 n 】
 - `【 citizen 市民 n 】`
@@ -286,8 +290,12 @@
 - `【 reside 居住于 v 】`
 - `【 resident 居民 n 】`
 - `【 president 总统 n 】`
+- > 【 reside in. 居住于 v 】
+- > 【 inhabit in. 栖息于 v 】
 - **【 The 【 president 】 and the 【 residents 】 【 all 】 【 reside in 】 this city. 总统和居民都生活在这座城市 】**
 - **【 Animals are 【 inhabit in 】 forest, and people are 【 reside in 】 city. 动物居住在森里，人类居住在城市 】**
+- // -- 【 reside in. 居住于 v 】
+- // -- 【 inhabit in. 栖息于 v 】
 -
 - [BB.]
 - `【 inhibit 抑制 v 】`
@@ -295,6 +303,10 @@
 - `【 inhabit 居住于 v 】`
 - > 【 precious 珍贵的 adj 】
 - **【 Bringing drugs which 【 inhibit 】 animal 【 growth 】 is 【 prohibited 】 because many 【 precious animals 】 【 inhabit 】 here. 携带抑制动物生长的药物是被禁止的，因为这里有许多珍稀动物栖息 】**
+- // -- 【 precious 珍贵的 adj 】
+- // -- 【 precious gift. 珍贵的礼物 】
+- // -- 【 precious stone. 宝石 】 = gem
+- // -- _【 gem 宝石 / gym 健身房 】_
 -
 - [CC.]
 - `【 resident 居民 n 】`
@@ -308,16 +320,17 @@
 - `【 exhibit 展览 v 】`
 - `【 exhibition 展览 n 】`
 - `【 exhibition hall. 展览馆 n 】` // 【 hall 走廊 大厅 n 】
+- `【 art exhibition. 艺术展 】`
 - `【 prohibit 禁止 v 】`
 - **【 selling the 【 exhibits 】 in the 【 exhibition hall 】 is 【 prohibited 】. 禁止在展览馆内出售展品 】**
 
 ###### Must 2024-08-06
 
 - 1
-- `【 influence 影响 v n 】` // -------------- 【 profound influence. 深远的影响 】 // 【 have an influence on sb. 对某人有影响 】
+- `【 influence 影响 v n 】` // -------------- `【 profound influence. 深远的影响 】` // 【 have an influence on sb. 对某人有影响 】
 - `【 impact 影响 v n 】`
 - `【 affect 影响 v 】`
-- `【 effect 影响 n 】`
+- `【 effect 影响 效果 n 】`
 - > 【 profound influence. 深远的影响 】
 - > 【 positive influence. 正面影响 】
 - > 【 negative influence. 负面影响 】
@@ -360,11 +373,11 @@
 ###### Must 2024-08-07
 
 - 1
-- `【 store 商店n 存储v 】` ------ 可互换 ---- 【 storage 存储 n 】 【 store 商店 n 存储 v 】
-- `【 shop 商店n 购物v 】` ------- 可以换
+- `【 store 商店n 存储v 】` ------ 可互换 ---- // 【 storage 存储 n 】 【 store 商店 n 存储 v 】
+- `【 shop 商店n 购物v 】` ------- 可以换 ---- // 【 go shopping. 去购物 】
 -
 - `【 chain store. 连锁店 】` // ------------ 【 chain reaction. 连锁反应 】 【 chain store. 连锁店 】
-- `【 specialty store. 专卖店 】` // -------- 【 special 特别的 adj 】 【 specialty 专业 专长 】 // 【 specialty = major. 专业 】
+- `【 specialty store. 专卖店 】` // -------- 【 special 特别的 adj 】 【 specialty 专业 专长 】 // `【 specialty = major. 专业 】`
 - `【 department store. 百货商场 】` // ----- 【 finance department. 财务部 】 【 department store. 百货商场 】
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`
@@ -373,12 +386,16 @@
 - `【 bookstore 书店 】`
 - > 【 major 专业 专业课 n 】 // ------------- 【 major = specialty. 专业 】
 - > 【 specialty 专业 专长 n 】// ------------ 【 specialty = major 专业 】
+- _【 chain reaction. 连锁反应 】_
+- _【 chain store. 连锁店 】_
 -
-- `【 barber shop. 理发店 】`
+- `【 barber shop. 理发店 】` // ------------- 【 barber 理发师 n 】
 - `【 bar 酒吧 n 】`
 - `【 nightclub. 夜店 】`
 - `【 laundry 洗衣店 】` // ------------------ 【 boundary 边界 n 】 【 laundry 洗衣店 n 】 【 washing machine. 洗衣机 n 】
 - `【 restaurant. 餐馆 饭店 】`
+- > 【 boundary line. 边界线 n 】
+- > 【 national boundary. 国界 n 】
 -
 - `【 retail store. 零售店 】` // ------------ 【 tail / retail 】 【 retail price. 】 【 retail store. 】
 - `【 supplier 供应商 n 】` // --------------- 【 supplier / supply / supplement 补充 v / complement 补语 n 】
@@ -391,12 +408,13 @@
 -
 - `【 takeout 外卖 n 】`
 - `【 delivery 快递 n 】` // ----------------- 【 deliver 传递 传送 v 】 【 delivery 快递 n 】
+- > 【 deliver 运送 交付 v 】
 -
 - [AA.]
+- `【 takeout 外卖 n 】`
+- `【 delivery 快递 n 】`
 - **【 My 【 takeout 】 and 【 delivery 】 【 arrived 】 【 at the same time 】.我的外卖和快递同时到了 】**
-- // -- takeout 外卖 n
-- // -- delivery 快递 n
-- // -- at the same time. 同时
+- // -- 【 at the same time. 同时 】
 - // -- 【 arrive 到达 v 】
 - // -- 【 arrival 到达 n 】
 -
@@ -411,9 +429,10 @@
 - `【 gunpowder 火药 n 】` // ---------- 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】
 - `【 firecracker 鞭炮 n 】`
 - `【 firework 烟花 n 】` // ----------- 【 firecracker 鞭炮 n 】 【 firework 烟花 n 】
-- > 【 powder 粉 粉末 n 】
 - > 【 flour 面粉 n 】
 - > 【 flower 花 n 】
+- > 【 powder 粉 粉末 n 】// ----------- 【 gunpowder 火药 n 】
+- > 【 power 力 动力 功率 n 】----------- 【 power station. 电厂 n 】 【 power outage. 断电 】 // 【 power bank. 充电宝 】 【 power strip. 插座 】
 -
 - `【 weigh 称重 v 】` // --------------- 【 weigh out. 称重 v 】
 - `【 weight 重量 n 】` // -------------- 【 lose weight. 减肥 v 】
@@ -429,17 +448,18 @@
 - `【 mission 使命 n 】`
 - > 【 dismiss 解雇 v 】
 - > 【 dissolve 解散 v / 溶解 v 】
+- > 【 lay off. 裁员 】
 -
 - `【 bomb 炸弹 n 】` // ---------------- 【 atom bomb. 原子弹 】 // 【 bomb / burn 】 // 【 burn out. 燃尽 】
 - `【 atom bomb. 原子弹 n 】`
 - `【 bullet 子弹 n 】` // -------------- 【 bulletproof vest. 防弹背心 】
 - `【 bulletproof vest. 防弹背心 】` // -- 【 proof 证据 n 】 【 roof 屋顶 】 // 【 prove 证明 v 】 【 approve 批准 v 】 【 improve 提升 v 】
-- `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
-- `【 missile 导弹 n 】` // ------------- 【 missile 导弹 n 】 【 mission 使命 n 】 【 dismiss 解雇 v 】 【 miss 错过 想念 v / 小姐 n 】
-- `【 cannon 炮弹 大炮 n 】`
 - `【 burn 燃烧 v 】` // ---------------- 【 burn fat. 燃烧脂肪 】 【 burn down. 烧毁 】 【 burn out. = exhausted. 精疲力尽的 adj 】
 - `【 explode 爆炸 v 】` // ------------- 【 explosion 爆炸 n 】 【 explode 爆炸 v 】
 - `【 explosion 爆炸 n 】` // ----------- 【 explosion sound. 爆炸声 n 】
+- `【 ammunition 弹药 n 】` // ---------- 【 ammunition depot. 弹药库 】
+- `【 cannon 炮弹 大炮 n 】`
+- `【 missile 导弹 n 】` // ------------- 【 missile 导弹 n 】 【 mission 使命 n 】 【 dismiss 解雇 v 】 【 miss 错过 想念 v / 小姐 n 】
 - > 【 bomb 炸弹 n 】
 - > 【 tomb 坟墓 n 】
 - > 【 womb 子宫 】
@@ -447,9 +467,10 @@
 - _【 burn fat. 燃烧脂肪 】_
 - _【 burn down. 烧毁 】_
 - // 【 vest 背心 】
-- // 【 proof 证明 证据 n 】 【 roof 房顶 n 】
+- // 【 proof 证明 证据 n 】 【 roof 房顶 n 】 【 evidence 证据 n 】
 - // 【 prove 证明 v 】 【 approve 批准 v 】 【 improve 提升 v 】
-- // proof = evidence.
+- // proof = evidence. 证据
+- // get approved. 获得批准
 -
 - `【 submarine 潜艇 n 】`
 - `【 soldier 士兵 n 】`
@@ -482,6 +503,7 @@
 - `【 bomb 炸弹 n 】`
 - `【 explode 爆炸 v 】`
 - `【 explosion. 爆炸 n 】`
+- `【 explosion sound. 爆炸声 n 】`
 - **【 After the 【 bomb 】 【 exploded 】 there, a very 【 loud 】 【 explosion sound 】 was heard. 炸弹在那里爆炸后，传来了很大的爆炸声 】**
 - // -- 【 explosion sound. 爆炸声 n 】
 -
@@ -499,7 +521,7 @@
 - `【 weigh 称重 v 】`
 - `【 weight 重量 n 】`
 - `【 lose weight. 减肥 v 】`
-- **【 She 【 confirmed 】 whether she 【 succeeded in losing 】 【 weight 】 by 【 weighing 】 herself. 她通过称重来确认是否减肥成功 】**
+- **【 She 【 confirmed 】 whether she 【 succeeded in losing 】 【 weight 】 【 by 】 【 weighing 】 herself. 她通过称重来确认是否减肥成功 】**
 - // -- 【 confirm 确认 证实 v 】
 - // -- 【 succeed in doing sth. 成功做某事 】
 -
@@ -514,17 +536,42 @@
 ###### Must 2024-08-11
 
 - 1
-- `【 license 许可证 执照 n 】`
-- `【 certificate 证书 n 】` // -------- 正式，常见
-- `【 credentials 证书 n 】` // -------- 非正式，不常见
+- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 approval 批准 n 】 // ----------- 【 get approved. 获得批准 】
+- `【 improve 提升 v 】`
+- `【 prove 证明 v 】`
+- > roof 屋顶
+- > proof 证据
+- > evidence 证据 // --------------------- 【 evidence. = proof. 证据 】
+- > 【 moon roof. 天窗 】
+- > 【 fireproof vest. 防弹背心 】
+- _【 get approved. 获得批准 】_
 -
-- [license.]
+- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 get approved. 获得批准 】 // ------【 approval 批准 n 】
+- `【 apply 申请 v 】` // ----------------- 【 application 申请 n 应用程序 n 】
+- `【 appoint 任命 v 】` // --------------- 【 appointment 任命 n 】
+- `【 authorize 授权 v 】` // ------------- 【 authorization 授权 n 】
+- > 【 apply 申请 v 】
+- > 【 application 申请 n 应用 n 】
+- > 【 application form. 申请表 】
+- _【 fill out. 填写 】_ // --------------- Please 【 fill out 】 the 【 application form 】. // fill out a deposit slip.
+- _【 fill up. 装满 】_ // ---------------- Please 【 fill up 】 the 【 gas tank 】 【 with 】 【 gasoline 】 and 【 diesel 】.
+- _【 take up. 占 占用 花费 】_ // ------------ Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间
+- _【 pick up. 接人 捡起 】_ // ------------ I 【 pick up 】 my car key to 【 pick her up 】. 我拿起我的车钥匙去接她
+- _【 speak up. 大声说 】_ // -------------- Please 【 speak out 】 and 【 speak up 】. // ----- `【 speaker mode. 扬声器模式 】` `【 vibrate mode. 振动模式 】`
+- //【 speed up. 加速 】
+- //【 pull up. 减速停下 】// -------------- Please【 pull up 】 the car 【 close to 】 the 【 gas pump 】.
+- //【 pull over. 靠边停下 】// ------------ Slow down, pull over. 减速，靠边停车
+- // **【 most of. 大部分的 大多数的 adj 】**
+-
+- `【 license 许可证 执照 n 】`
+- `【 certificate 证书 n 】` // ----------- 正式，常见
+- `【 credentials 证书 n 】` // ----------- 非正式，不常见
+-
 - `【 driver's license. 驾驶证 n 】`
 - `【 business license. 营业执照 n 】`
 - > 【 revoke a license. 撤销执照 】
 - > 【 revoke 撤销 v 】
 -
-- [certificate.]
 - `【 marriage certificate. 结婚证 n 】`
 - `【 divorce certificate. 离婚证 n 】`
 - `【 appointment certificate. 任命书 】`
@@ -539,20 +586,6 @@
 - _【 in addition to. 除了 】_ // ---------- 补充
 - _【 except for. 除了 】_ // -------------- 排除
 -
-- [verb.]
-- `【 approve 批准 v 】` // --------------- 【 approvement 批准 n 】 // ----------- 【 get approved. 获得批准 】
-- `【 apply 申请 v 】` // ----------------- 【 application 申请 应用程序 n 】
-- `【 appoint 任命 v 】` // --------------- 【 appointment 任命 n 】
-- `【 authorize 授权 v 】` // ------------- 【 authorization 授权 n 】
-- > 【 prove 证明 v 】
-- > 【 approve 批准 v 】
-- > 【 improve 提高 v 】
-- > roof 屋顶
-- > proof 证据
-- > evidence 证据 // --------------------- 【 evidence. = proof. 证据 】
-- > fireproof vest. 防弹背心
--
-- [other.]
 - `【 license plate. 车牌号 牌照 n 】`
 - `【 boarding pass. 登机牌 n 】`
 - `【 passport. 护照 n 】`
@@ -571,6 +604,7 @@
 - `【 appoint 任命 v 】`
 - `【 authorize 授权 v 】`
 - **【 He 【 approved 】 my 【 application 】, 【 appointed 】 and 【 authorized 】 me. 他批准了我的申请，任命并授权了我 】**
+- // -- 【 application 申请 n 应用 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'application'. [application]
 -
 - [BB.]
@@ -590,3 +624,20 @@
 - **【 Please use 【 proof 】 to 【 prove 】 your 【 theory 】 is correct. 请用证据证明你的理论是对的 】**
 - // -- 【 theory 理论 n 】
 - // -- 【 evidence 证据 n 】= proof
+-
+- [DD.]
+- `【 vibrate mode. 震动模式 】`
+- `【 speaker mode. 扬声器模式 】`
+- `【 switch 开关n 切换v 】`
+- **【 Please 【 switch 】 your phone from the 【 vibrate mode 】 to the 【 speaker mode 】. 请把手机从震动模式调到扬声器模式 】**
+- **【 Set your phone to 【 vibrate mode 】. 设置手机为震动模式 】**
+-
+- [EE.]
+- `【 take up. 占 占用 花费 占据 v  】`
+- `【 electricity bill. 电费 n 】`
+- `【 a large part of. 大部分 】`
+- **【 The 【 electricity bill 】 【 takes up 】 【 a large part of 】 my 【 expenditure 】. 电费占了我很大一笔支出 】**
+- **【 Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间 】**
+- **【 The table 【 takes up 】 a lot of space in the room. 这个桌子占据了房间的大多数空间 】**
+- // -- 【 expenditure. 支出 n 】
+- // -- 【 consumption 消费 消耗 n 】

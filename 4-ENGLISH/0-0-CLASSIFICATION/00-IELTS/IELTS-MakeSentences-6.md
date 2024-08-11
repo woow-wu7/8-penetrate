@@ -535,3 +535,84 @@ Under his 【 profound 】 【 influence 】, she 【 found 】 a new 【 fun �
 // -
 // 【 profound influence. 深远的影响 】
 ```
+
+##### 8 Make sentences 2024-08-12
+
+```
+1
+Please 【 switch 】 your phone from the 【 vibrate mode 】 to the 【 speaker mode 】.
+请把手机从震动模式调到扬声器模式
+-
+Set your phone to 【 vibrate mode 】.
+设置手机为震动模式
+-
+// -
+// 【 vibrate 震动 v 】
+// 【 vibration 震动 n 】
+// -
+// 【 vibrate mode. 震动模式 】
+// 【 speaker mode. 扬声器模式 】
+// 【 switch 开关n 切换v 】
+
+
+2
+The 【 electricity 】 【 generated 】 【 by 】 the 【 diesel generator 】 is enough to 【 support us in finding 】 the reason of 【 power outage 】 at the 【 power station 】.
+柴油发电机发的电足够支撑我们找到发电站停电的原因
+-
+// -
+// 【 power outage. 断电 】
+// 【 power station. 电厂 】
+// -
+// 【 support sb in doing sth. 支持某人做某事 】
+// -
+// 【 electricity 电 n 】
+// 【 electric 电的 adj 】
+
+
+3
+We should 【 persist 】 in 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】.
+我们要坚持抵制没有加班费的强制加班
+-
+An 【 assistant 】 is a person who 【 assists 】 others in completing tasks.
+助理是是辅助他人完成任务的人
+-
+// -
+// 【 persist in doing sth. = insist in doing sth. 坚持做某事 】
+// 【 assist in doing sth. 协助某人做某事 】
+// -
+// 【 resist 抵抗 抵制 v 】
+// 【 resistance 抵抗n 电阻n 】
+// -
+// 【 assist 协助 v 】
+// 【 assistant 助手 n 】
+// -
+// 【 resist 抵抗 抵制 v 】
+// 【 insist 坚持 v 】 ---------- insist in doing sth. = persist in doing sth. 坚持做某事
+// 【 assist 协助 v 】----------- assist in doing sth. 协助某人做某事
+
+
+4
+The 【 electricity bill 】 【 takes up 】 【 a large part of 】 my 【 expenditure 】.
+电费占了我很大一笔支出
+-
+Learning 【 takes up 】 most of my time.
+学习占据了我大部分时间
+-
+The table 【 takes up 】 a lot of space in the room.
+桌子占了房间很大的空间
+-
+// -
+// 【 take up. 占 占据 v 】
+// 【 fill up. 】
+// 【 pick up. 】
+// 【 speak up. 】
+// 【 pull up. 】
+// 【 speed up. 】
+// -
+// 【 electricity bill. 电费 n 】
+// -
+// 【 a large part of. 很大的一部分 】
+// -
+// 【 expenditure 支出 n 】
+// 【 consumption 消费 n 】
+```

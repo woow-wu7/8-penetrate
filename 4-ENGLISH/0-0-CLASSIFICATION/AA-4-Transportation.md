@@ -2,89 +2,17 @@
 
 ##### (1) **Car Word**
 
-- [-CC.]
-- `【 back up the car. = reverse the car. 倒车 】`
-- `【 hail a taxi. 打的 打出租车 】` // ---【 hail 招手 v 冰雹 n 】
-- `【 take the shuttle bus. 乘坐班车 】`
-- `【 honk the horn. 按喇叭 】` // -------【 horn 角 喇叭 n 】
-- `【 hit the brake. 踩刹车 】`
-- `【 hit the clutch. 踩离合 】` // ------【 clutch 离合器 】
-- `【 fasten the seatbelt. 系安全带 】`
-- `【 steering the wheel. 操纵方向盘 】`
-- `【 put into the ignition. 放入点火器 】`
-- `【 run a red light. 闯红灯 】`
-- `【 stuck in traffic. 遭遇交通堵塞 】`
-- `【 fill up the tank. 装满油箱 】` //---- fill up. // back up. // speed up. // pull up. // pull over.
-- `【 roll down the window. 摇下车窗 】` //【 roll up the window. 摇上车窗 】
-- -
-- `【 big pipe. 大管道 】`
-- `【 small tube. 小管子 】`
--
--
-- [-BB.]
-- `【 back up the car. 倒车 = reverse the car. 】`
-- > 【 back up. 备份 倒退 】`
-- > 【 fill up. 装满 】
-- > 【 speed up. 加速 】`
-- > 【 pull up. 停车 】
-- > 【 pull over. 靠边停车 】
--
-- [-AA]
-- `【 reverse the car. 倒车 】` // ---------【 reverse 颠倒 反向 反向的 adj 】
-- `【 back up the car. 倒车 】`
-- `【 parking spot. 停车位 n 】` // -------- 【 parking spot. 停车位 】 【 parking lot. 停车场 】
-- `【 parking lot. 停车位 n 】`
-- > 【 pedestrian 行人 】`
-- > 【 run a red light. 闯红灯 】
-- > 【 traffic light. 交通灯 n 】
-- _【 stuck in traffic. 堵车 】_
-- _【 traffic jam. 交通堵塞 】_
-- `【 license plate. 牌照 车牌 】`
-- `【 driver's license. 驾驶证 n 】`
-- `【 business license. 营业执照 n 】`
-- `【 boarding pass. 登机牌 n 】`
-- `【 passport. 护照 n 】` -------------- 出国
-- `【 visa 签证 n 】` ------------------- 进国
-- > 【 once 一次 一旦 】
-- > 【 be full of praise. 赞不绝口 】 // --- 【 praise 赞扬 v 】
-- _【 roll down the window. 摇下车窗 】_
-- _【 roll up the window. 摇上车窗 】_
-- _【 adjust seat. 调整座位 】_
-- `【 speedometer 速度计 】`
-- `【 hail a taxi. 打出租车 】` // ----------【 hail 招手 v 冰雹 n 】
-- > 【 shuttle bus. 班车 】` // ------------【 shuttle 频繁往来 v 】
-- > 【 last bus. 末班车 】`
-- _【 set off. 出发 】_
-- _【 see off. 送别 】_
-- _【 take off. 起飞 脱下 】_
-- _【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 】_
--
-- [-AA-01]
-- `【 reverse 反向 反面 反向的 倒车 】`
-- **【 Please be careful, I'm 【 reversing 】. 请小心，我在倒车 】**
--
-- [-AA-02]
-- `【 once 一次 一旦 】`
-- **【 Once 】 I 【 arrive in 】 China 【 once 】, I must apply for a visa 【 once agin 】. 一旦我到达中国一次，我必须再次申请签证**
-- **【 【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 for the tourist attraction. 一旦你去过一次，你就会对这个旅游景点赞不绝口 】**
-- // -- 【 be full of praise. 赞不绝口 】
--
-- [-AA-03]
-- `【 passport 护照 】`
-- `【 visa 签证 】`
-- **【 【 Passport 】 and 【 visa 】 have the same function. 护照和签证有着相同的功能 】**
--
--
--
--
--
--
 - [AA.]
-- `【 fuel 燃料 n 】` ------------ 【 fuel grade. 燃料等级 】
+- `【 fuel 燃料 n 】` ------------ 【 fuel grade. 燃料等级 】 【 fuel consumption. 油耗 】 【 fossil fuel. 化石燃料 】
 - `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 【 gasoline station. 加油站 = gas station. = petrol station. 】
 - `【 petrol 汽油 n 】` ---------- 英式英语 ------- 【 petrol 汽油 n 】 【 petroleum 石油 n 】// 【 petrol station. 】
 - `【 petroleum 石油 原油 n 】` ------------------ 【 petroleum 石油 n 】 【 petrol 汽油 n 】
 - `【 diesel 柴油 采油机 n 】` // -【 diesel generator. 柴油发电机 】 【 power station. 发电厂 】 【 power outage. 停电 】 // outage 断供 停电
+- > 【 fuel grade. 燃料等级 】
+- > 【 fuel consumption. 油耗 】
+- > 【 fossil fuel. 化石燃料 】
+- > 【 fossil energy. 化石能源 】
+- > 【 fossil 化石 n 】
 -
 - `【 oil 各种油 n 】` ----------- 【 edible oil. 食用油 】//【 oil leak. 石油泄漏 】 【 edible 可食用的 adj 】
 - `【 edible oil. 食用油 n 】` // -【 edible salt. 食用盐 】 【 edible oil. 食用油 】
@@ -92,7 +20,7 @@
 -
 - `【 gas 气体 汽油 n 】` -------- 【 natural gas. 天然气 】【 gasoline 汽油 n 】
 - `【 natural gas. 天然气 】` ---- 【 natural/rare/marine/forest/mineral/ resource. 】
-- `【 shale gas. 页岩气 】`
+- `【 shale gas. 页岩气 】` ------ 【 shell 壳 】 【 shale 页岩 】
 - _【 regular gas. 普通的汽油 】_ // 87
 - _【 premium gas. 优质的汽油 】_ // 93
 - _【 out of the gas. 没油了 】_
@@ -155,7 +83,7 @@
 - `【 power station. 发电站 发电厂 n 】`
 - `【 power outage. 停电 断电 】`
 - _【 support sb in doing sth. 支持某人做某事 】_
-- **【 The 【 electricity 】 【 generated 】 by the 【 diesel generator 】 is enough to support us in finding the reason of 【 power outage 】 at the 【 power station 】. 柴油发电机发的电足够支撑我们找到发电站停电的原因 】**
+- **【 The 【 electricity 】 【 generated 】 by the 【 diesel generator 】 is enough to 【 support us in finding 】 the reason of 【 power outage 】 at the 【 power station 】. 柴油发电机发的电足够支撑我们找到发电站停电的原因 】**
 -
 -
 -
@@ -345,6 +273,85 @@
 - `【 stick shift. 换挡杆 】`
 - `【 shift gear. 换挡 v 】`
 - **【 We use the 【 stick shift 】 to 【 shift gear 】. 我们使用换挡杆来换挡 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- [-CC.]
+- `【 back up the car. = reverse the car. 倒车 】`
+- `【 hail a taxi. 打的 打出租车 】` // ---【 hail 招手 v 冰雹 n 】
+- `【 take the shuttle bus. 乘坐班车 】`
+- `【 honk the horn. 按喇叭 】` // -------【 horn 角 喇叭 n 】
+- `【 hit the brake. 踩刹车 】`
+- `【 hit the clutch. 踩离合 】` // ------【 clutch 离合器 】
+- `【 fasten the seatbelt. 系安全带 】`
+- `【 steering the wheel. 操纵方向盘 】`
+- `【 put into the ignition. 放入点火器 】`
+- `【 run a red light. 闯红灯 】`
+- `【 stuck in traffic. 遭遇交通堵塞 】`
+- `【 fill up the tank. 装满油箱 】` //---- fill up. // back up. // speed up. // pull up. // pull over.
+- `【 roll down the window. 摇下车窗 】` //【 roll up the window. 摇上车窗 】
+- -
+- `【 big pipe. 大管道 】`
+- `【 small tube. 小管子 】`
+-
+-
+- [-BB.]
+- `【 back up the car. 倒车 = reverse the car. 】`
+- > 【 back up. 备份 倒退 】`
+- > 【 fill up. 装满 】
+- > 【 speed up. 加速 】`
+- > 【 pull up. 停车 】
+- > 【 pull over. 靠边停车 】
+-
+- [-AA]
+- `【 reverse the car. 倒车 】` // ---------【 reverse 颠倒 反向 反向的 adj 】
+- `【 back up the car. 倒车 】`
+- `【 parking spot. 停车位 n 】` // -------- 【 parking spot. 停车位 】 【 parking lot. 停车场 】
+- `【 parking lot. 停车位 n 】`
+- > 【 pedestrian 行人 】`
+- > 【 run a red light. 闯红灯 】
+- > 【 traffic light. 交通灯 n 】
+- _【 stuck in traffic. 堵车 】_
+- _【 traffic jam. 交通堵塞 】_
+- `【 license plate. 牌照 车牌 】`
+- `【 driver's license. 驾驶证 n 】`
+- `【 business license. 营业执照 n 】`
+- `【 boarding pass. 登机牌 n 】`
+- `【 passport. 护照 n 】` -------------- 出国
+- `【 visa 签证 n 】` ------------------- 进国
+- > 【 once 一次 一旦 】
+- > 【 be full of praise. 赞不绝口 】 // --- 【 praise 赞扬 v 】
+- _【 roll down the window. 摇下车窗 】_
+- _【 roll up the window. 摇上车窗 】_
+- _【 adjust seat. 调整座位 】_
+- `【 speedometer 速度计 】`
+- `【 hail a taxi. 打出租车 】` // ----------【 hail 招手 v 冰雹 n 】
+- > 【 shuttle bus. 班车 】` // ------------【 shuttle 频繁往来 v 】
+- > 【 last bus. 末班车 】`
+- _【 set off. 出发 】_
+- _【 see off. 送别 】_
+- _【 take off. 起飞 脱下 】_
+- _【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 】_
+-
+- [-AA-01]
+- `【 reverse 反向 反面 反向的 倒车 】`
+- **【 Please be careful, I'm 【 reversing 】. 请小心，我在倒车 】**
+-
+- [-AA-02]
+- `【 once 一次 一旦 】`
+- **【 Once 】 I 【 arrive in 】 China 【 once 】, I must apply for a visa 【 once agin 】. 一旦我到达中国一次，我必须再次申请签证**
+- **【 【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 for the tourist attraction. 一旦你去过一次，你就会对这个旅游景点赞不绝口 】**
+- // -- 【 be full of praise. 赞不绝口 】
+-
+- [-AA-03]
+- `【 passport 护照 】`
+- `【 visa 签证 】`
+- **【 【 Passport 】 and 【 visa 】 have the same function. 护照和签证有着相同的功能 】**
 
 ##### (1) **Car Phrase**
 
