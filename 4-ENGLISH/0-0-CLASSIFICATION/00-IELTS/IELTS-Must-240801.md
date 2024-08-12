@@ -13,15 +13,16 @@
 - > 【 contact / contract / contrast 】
 - // TIPS: Pay attention to the pronunciation of the word 'depth'.
 -
-- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// `【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】 【 shallow sleep. 浅睡 】
+- `【 depth 深度 n 】` ----------------- 【 deep / shallow 】// --------`【 deep / deeper / deepest 】` // 【 deep clone. 深拷贝 】 【 shallow sleep. 浅睡 】
 - `【 thickness 厚度 n 】` ------------- 【 thick / thin 】
 - `【 brightness 亮度 n 】` ------------ 【 bright / dim and dark 】 // `【 dim = dark. 】`
 - `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 - `【 density 密度 n 】` --------------- 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid/fluid solid
-- `【 length 长度 n 】` ---------------- 【 long / short 】 --- `【 long / longer / longest 】` --- 【 longest river. 最长的河流 】
+- `【 humidity 湿度 n 】` -------------- 【 wet / dry 】 // ----------- `【 humid 潮湿的 adj 】`
+- `【 length 长度 n 】` ---------------- 【 long / short 】 ----------- `【 long / longer / longest 】` --- 【 longest river. 最长的河流 】
 - `【 width 宽度 n 】` ----------------- 【 wide / narrow 】
-- `【 height 高度 n 】` ---------------- 【 high / low 】------ `【 high / higher / highest 】`---- 【 highest mountain. 最高的山 】
+- `【 height 高度 n 】` ---------------- 【 high / low 】-------------- `【 high / higher / highest 】`---- 【 highest mountain. 最高的山 】
 - `【 speed 速度 n 】` ----------------- 【 fast / slow 】
 - > 【 workload 】 / 【 workaholic 】 / 【 work intensity. 】 / 【 work overtime. 】 / 【 mandatory overtime. 】 / 【 overtime pay. 】
 - > 【 work intensity. 工作强度 】
@@ -536,26 +537,27 @@
 ###### Must 2024-08-11
 
 - 1
-- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 approval 批准 n 】 // ----------- 【 get approved. 获得批准 】
+- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 get approved. 获得批准 】 // 【 approval 批准 n 】
 - `【 improve 提升 v 】`
 - `【 prove 证明 v 】`
-- > roof 屋顶
-- > proof 证据
-- > evidence 证据 // --------------------- 【 evidence. = proof. 证据 】
+- > 【 roof 屋顶 】 // -------------------- 【 moon roof. 天窗 】
+- > 【 proof 证据 】// -------------------- 【 fireproof vest. 防弹背心 】 【 firecracker 鞭炮 n 】
+- > 【 evidence 证据 】 // ---------------- 【 evidence. = proof. 证据 】
 - > 【 moon roof. 天窗 】
 - > 【 fireproof vest. 防弹背心 】
+- > 【 firecracker 鞭炮 n 】
 - _【 get approved. 获得批准 】_
 -
-- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 get approved. 获得批准 】 // ------【 approval 批准 n 】
-- `【 apply 申请 v 】` // ----------------- 【 application 申请 n 应用程序 n 】
+- `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 get approved. 获得批准 】// 【 approval 批准 n 】
+- `【 apply 申请 v 】` // ---------------- `【 application 申请 n 应用程序 n 】` // --------------- 【 application form. 申请表 】 // fill out the application form.
 - `【 appoint 任命 v 】` // --------------- 【 appointment 任命 n 】
 - `【 authorize 授权 v 】` // ------------- 【 authorization 授权 n 】
-- > 【 apply 申请 v 】
-- > 【 application 申请 n 应用 n 】
+- > 【 apply 申请 v 】// ------------------ 【 application 申请 n 应用程序 n 】 // ---------------- 【 application form. 申请表 】// fill out the application form.
+- > 【 application 申请 n 应用程序 n 】
 - > 【 application form. 申请表 】
-- _【 fill out. 填写 】_ // --------------- Please 【 fill out 】 the 【 application form 】. // fill out a deposit slip.
+- _【 fill out. 填写 】_ // --------------- Please 【 fill out 】 the 【 application form 】. // - 【 fill out 】 a 【 deposit slip 】.
 - _【 fill up. 装满 】_ // ---------------- Please 【 fill up 】 the 【 gas tank 】 【 with 】 【 gasoline 】 and 【 diesel 】.
-- _【 take up. 占 占用 花费 】_ // ------------ Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间
+- _【 take up. 占 占用 花费 】_ // --------- Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间
 - _【 pick up. 接人 捡起 】_ // ------------ I 【 pick up 】 my car key to 【 pick her up 】. 我拿起我的车钥匙去接她
 - _【 speak up. 大声说 】_ // -------------- Please 【 speak out 】 and 【 speak up 】. // ----- `【 speaker mode. 扬声器模式 】` `【 vibrate mode. 振动模式 】`
 - //【 speed up. 加速 】
@@ -577,7 +579,7 @@
 - `【 appointment certificate. 任命书 】`
 - `【 tax registration certificate. 税务登记证 n 】`
 - > 【 individual income tax. 个人所得税 n 】
-- > 【 additional tax. 附加税 】
+- > 【 additional tax. 附加税 】// ------- 【 additional condition. 附加条件 】 【 additional tax. 附加税 】 // -- 【 addition 附加 n 】 【 additional 附加的 adj 】
 - > 【 register 注册 v 】
 - > 【 registration 注册 n 】
 - // 【 sign in. 登入 】
@@ -594,6 +596,13 @@
 - > 【 tourist visa. 旅游签证 】
 - > 【 business visa. 商业签证 】
 - > tour guide. / tourist attraction. / tourist resort. / tourist visa. / tourism industry. / travel agency. / business trip.
+-
+- `【 addition 附加 n 】`
+- `【 additional 附加的 adj 】`
+- _【 additional tax. 附加税 】_
+- _【 additional condition. 附加条件 】_
+- > 【 in addition to. 除了 】------------ 补充
+- > 【 except for. 除了 】---------------- 排除
 -
 - // TIPS: Pay attention to the pronunciation of the word 'application'. [application]
 -
@@ -641,3 +650,86 @@
 - **【 The table 【 takes up 】 a lot of space in the room. 这个桌子占据了房间的大多数空间 】**
 - // -- 【 expenditure. 支出 n 】
 - // -- 【 consumption 消费 消耗 n 】
+-
+- [FF.]
+- `【 in addition to. 除了 】` ----- 补充
+- `【 except for. 除了 】` --------- 排除
+- `【 additional condition. 附件条件 n 】`
+- `【 additional tax. 附加税 n 】`
+- > addition 附加 n
+- > condition 条件 n
+- **【 In addition to the additional conditions, There are additional taxes. 除了附件条件，还有附加税 】**
+
+###### Must 2024-08-13
+
+- 1
+- `【 electricity 电 n 】` // -------------【 electricity bill. 电费 n 】
+- `【 electric 电的 adj 】`
+- > 【 electric current. 电流 n 】
+- > 【 electric voltage. 电压 n 】
+- > 【 electric resistance. 电阻 n 】 // - 【 resist 抵抗 v 】 【 resistance 抵抗 n 】
+- > 【 electric appliance. 电器 n 】 // -- 【 appliance 电器 n 】
+- > 【 electric circuit. 电路 n 】 // ---- 【 circuit 电路 n 】
+- > 【 electric eel. 电鳗 n 】
+- _【 electricity bill. 电费 】_
+- // TIPS: Pay attention to the pronunciation of the word 'resist'. [resist]
+- // TIPS: Pay attention to the pronunciation of the word 'resistance'. [resistance]
+-
+- `【 current 电流 n 】` // --------------- ampere 安培
+- `【 voltage 电压 n 】` // --------------- volt 伏特
+- `【 resistance 电阻 n 】` // ------------ ohm 欧姆
+- `【 power 功率 n 】` // ----------------- watt 瓦特
+- > 【 rated voltage. 额定电压 n 】// ---- 【 rate 速率 n 评价 v 】 【 rated 额定的 adj 】
+- > 【 rated current. 额定电流 n 】
+- > 【 rated power. 额定功率 n 】
+- _【 expenditure 支出 n 】_ // --------- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
+- _【 consumption 消费 消耗 n 】_ // ----- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
+- _【 fuel consumption. 油耗 】_ // ----- 【 fossil fuel. 化石燃料 】 【 fuel consumption. 油耗 n 】 【 fuel grade. 燃料等级 n 】
+- _【 power consumption. 功耗 】_
+-
+- `【 circuit 电路 n 】`
+- `【 short circuit. 短路 n 】`
+- > 【 parallel circuit. 并联电路 】// --- 【 parallelogram 平行四边形 】
+- > 【 series circuit. 串联电路 】 // ---- 【 a series of test. 一系列测试 】
+- > 【 a series of test. 一系列测试 】
+-
+- `【 power station. 电厂 n 】`
+- `【 power outage. 断电 n 】` // ------ 【 outage 断电 n 】
+- `【 power consumption. 功耗 n 】`
+- `【 power bank. 充电宝 n 】` // ------ 【 river bank. 河岸 】 【 bank / branch 】
+- `【 power strip. 插座 n 】` // ------- 【 outlet 插座 n 】 【 wall outlet. 壁式插座 】
+- > 【 power 力 动力 功率 n 】------【 power station. 电厂 n 】 【 power outage. 断电 】 【 power consumption. 功耗 】 // 【 power bank. 充电宝 】 【 power strip. 插座 】
+- > 【 powder 粉 粉末 n 】// ------【 gunpowder 火药 n 】
+-
+- `【 resist 抵抗 抵制 v 】` // ---------- 【 resistance 电阻 n 抵抗 n 】 【 resist 抵抗 抵制 v 】
+- `【 insist. = persist. 坚持 v 】` // - `【 persist in doing sth. = insist in doing sth. 坚持做某事 】`
+- `【 assist 协助 v 】` // ------------- `【 assist in doing sth. 协助某人做某事 】` //【 assistant 助手 n 】 【 assist 协助 v 】
+- > 【 assistant 助手 n 】
+- > 【 attendant 服务员 n 】 // ---------- 【 attendant 服务员 n 】 【 descendant 子孙 】 【 abundant 丰富的 adj 】
+- > 【 secretary 秘书 n 】
+- > 【 steward 乘服员 n 】 // ------------ 【 steward 乘服员 n 】 【 stewardess. 空姐 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'resist'. [resist]
+- // TIPS: Pay attention to the pronunciation of the word 'resistance'. [resistance]
+-
+-
+- [AA.]
+- `【 persist in doing sth. 坚持做某事 】`
+- `【 insist in doing sth. 坚持做某事 】`
+- `【 resist 抵制 抵抗 v 】`
+- `【 resistance 抵抗n 电阻n 】`
+- **【 We should 【 persist 】 in 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
+-
+- [BB.]
+- `【 electricity bill. 电费 n 】`
+- `【 take up. 占 占用 花费 占据 v  】`
+- `【 a large part of. 大部分 】`
+- **【 The 【 electricity bill 】 【 takes up 】 【 a large part of 】 my 【 expenditure 】. 电费占了我很大一笔支出 】**
+- **【 Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间 】**
+- **【 The table 【 takes up 】 a lot of space in the room. 这个桌子占据了房间的大多数空间 】**
+- // -- 【 expenditure. 支出 n 】
+- // -- 【 consumption 消费 消耗 n 】
+-
+- [CC.]
+- `【 assist 协助 v 】`
+- `【 assistant 助手 n 】`
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**

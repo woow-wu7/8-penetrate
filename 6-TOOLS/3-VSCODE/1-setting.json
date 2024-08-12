@@ -1,8 +1,7 @@
 {
   "tabnine.experimentalAutoImports": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "vscode-great-icons",
-  "editor.fontSize": 14,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
   "cSpell.languageSettings": [],
@@ -26,7 +25,7 @@
   },
   "editor.mouseWheelScrollSensitivity": 0.3,
   "terminal.integrated.tabs.enabled": false,
-  "###########################################################": "####### 1.todo-tree",
+  "###############################################################################": "####### 1.todo-tree-start",
   "todo-tree.filtering.excludeGlobs": [
     "**/vendor/**",
     "**/node_modules/**",
@@ -43,6 +42,7 @@
   "todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^)\\s*($TAGS)|^//\\s*\\[x\\]|^//\\s*\\[ \\])",
   "todo-tree.general.tags": [
     "TODO",
+    "MARK",
     "FIXME",
     "LOCAL_SET",
     "LOCAL_GET",
@@ -67,6 +67,14 @@
       "icon": "pencil",
       "gutterIcon": true,
       "iconColour": "Orange"
+    },
+    "MARK": {
+      "foreground": "white",
+      "background": "#ff2c4c",
+      "type": "tag",
+      "icon": "history",
+      "gutterIcon": true,
+      "iconColour": "#ff2c4c"
     },
     "LOCAL_SET": {
       "foreground": "white",
@@ -118,6 +126,15 @@
     },
     "TIPS": {
       "foreground": "white",
+      "background": "#ff0048",
+      "type": "tag",
+      // "type": "capture-groups:1",
+      "icon": "thumbsup",
+      "gutterIcon": true,
+      "iconColour": "#ff0048"
+    },
+    "TIPS2": {
+      "foreground": "white",
       "background": "#8800ff",
       "type": "tag",
       "icon": "thumbsup",
@@ -142,6 +159,12 @@
       "background": "#592c2c"
     }
   },
+  "#################################################################################": "####### 1.todo-tree-end",
+  "##############################################################################": "####### 2.tailwind-start",
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "###########################################################################": "####### 2.tailwind-end",
   "gitlens.graph.layout": "editor",
   "gitlens.graph.minimap.additionalTypes": [
     "localBranches",
@@ -153,15 +176,24 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cSpell.userWords": [
+    "antd",
     "ciphertext",
+    "clsx",
     "countertop",
     "decompilation",
+    "favourite",
+    "immer",
+    "Mobaxterm",
     "myid",
+    "nextjs",
     "Pinia",
     "preter",
     "Protocal",
+    "rainforest",
+    "repositoryserver",
     "rupt",
     "SECRETKEY",
+    "strs",
     "tencentcloud",
     "touid",
     "tuwen",
@@ -169,10 +201,12 @@
     "Vuex",
     "XSTX",
     "Zhen",
-    "Zhening"
+    "Zhening",
+    "zukeeper",
+    "Zustand"
   ],
   "[typescript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.list.mouseWheelScrollSensitivity": 0.2,
   "editor.guides.bracketPairs": true,
@@ -191,5 +225,8 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.settings.applyToAllProfiles": []
+  "workbench.settings.applyToAllProfiles": [],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "codesandbox.currentWorkspace": "4d83fc6c-9685-4ff6-af9e-398fa8d2c65c",
+  "editor.fontSize": 14
 }

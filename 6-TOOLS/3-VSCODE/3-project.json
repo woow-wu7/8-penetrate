@@ -7,20 +7,6 @@
     "enabled": true
   },
   {
-    "name": "spine-web",
-    "rootPath": "/Users/xiawu/work/company/front-end/spine-web",
-    "paths": [],
-    "tags": [],
-    "enabled": true
-  },
-  {
-    "name": "xiaoshumall",
-    "rootPath": "/Users/xiawu/work/company/front-end/xiaoshumall",
-    "paths": [],
-    "tags": [],
-    "enabled": true
-  },
-  {
     "name": "pc-data-acquisition-analysis-system",
     "rootPath": "/Users/xiawu/work/company/front-end/pc-data-acquisition-analysis-system",
     "paths": [],
@@ -93,6 +79,90 @@
   {
     "name": "4-joyo-lingjing-h5",
     "rootPath": "/Users/xiawu/work/company/front-end/4-joyo-lingjing-h5",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "4-doctor-app",
+    "rootPath": "/Users/xiawu/work/company/front-end/4-doctor-app",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "4-spine-web",
+    "rootPath": "/Users/xiawu/work/company/front-end/4-spine-web",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "crm-pc-client-web",
+    "rootPath": "/Users/xiawu/work/company/front-end/crm-pc-client-web",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "crm-pc-client",
+    "rootPath": "/Users/xiawu/work/company/front-end/crm-pc-client",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "crm-agency-lite",
+    "rootPath": "/Users/xiawu/work/company/front-end/crm-agency-lite",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "7-element-source-code-analysis",
+    "rootPath": "/Users/xiawu/work/personal/front-end/7-element-source-code-analysis",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "7-element-plus-source-code-analysis",
+    "rootPath": "/Users/xiawu/work/personal/front-end/7-element-plus-source-code-analysis",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "cloud",
+    "rootPath": "/Users/xiawu/work/company/front-end/cloud",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "7-a-hooks2.0-source-code-analysis",
+    "rootPath": "/Users/xiawu/work/company/front-end/7-a-hooks2.0-source-code-analysis",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "5-next-learning",
+    "rootPath": "/Users/xiawu/work/personal/front-end/5-next-learning",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "ms_cloud_ai",
+    "rootPath": "/Users/xiawu/work/company/front-end/ms_cloud_ai",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "mscloud-web",
+    "rootPath": "/Users/xiawu/work/company/front-end/mscloud-web",
     "paths": [],
     "tags": [],
     "enabled": true

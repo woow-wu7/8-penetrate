@@ -1,5 +1,6 @@
 ### NextAuth
 
+- [NextAuth guides]([https://authjs.dev/guides/debugging])
 - [NextAuth 官网](https://authjs.dev/getting-started/authentication/credentials)
 - [NextJs 官网](https://nextjs.org/docs/getting-started/installation)
 

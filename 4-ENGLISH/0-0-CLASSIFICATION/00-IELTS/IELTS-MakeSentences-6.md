@@ -616,3 +616,60 @@ The table 【 takes up 】 a lot of space in the room.
 // 【 expenditure 支出 n 】
 // 【 consumption 消费 n 】
 ```
+
+##### 9 Make sentences 2024-08-13
+
+```
+1
+All 【 conditions 】 【 signed 】 【 in addition to 】 the 【 additional conditions 】, there are 【 additional taxes 】.
+签署的所有条件，除了附加条件，还有附加税
+// -
+// 【 addition 附加 n 】
+// 【 additional 附件的 adj 】
+// -
+// 【 addition 附加 n 】
+// 【 condition 条件 n 】
+// -
+// 【 additional condition. 附加条件 n 】
+// 【 additional taxes. 附加税 n 】
+// -
+// 【 sign 签名 v 】
+// 【 signature 签名 n 】
+// 【 sign contract. 签合同 】
+// -
+// 【 in addition to. 除了 】------ 补充
+// 【 except for. 除了 】---------- 排除
+
+
+
+2
+【 Professional manager 】 is also 【 a kind of 】 【 profession 】.
+职业经理人也是一种职业
+-
+Different 【 professions 】 【 correspond to 】 different 【 specialties 】.
+不同职业对应不同的专业
+-
+In the 【 professional field 】, we need 【 professional talents 】 with 【 professional skills 】.
+在专业的领域需我们要专业的人才拥有专业的技能
+-
+A 【 specialist 】 is a person who 【 specializes in 】 one 【 professional field 】.
+专家是专攻某个特专业领域的人
+-
+// -
+// 【 profession 职业 n 】
+// 【 professional manager. 职业经理人 n 】
+// -
+// 【 profession 职业 n 】
+// 【 professional 职业的 专业的 adj 】
+// -
+// 【 professional field. 专业领域 n 】
+// 【 professional talent. 专业人才 n 】
+// 【 professional skill. 专业技能 n 】
+// -
+// 【 specialist 专家 n 】
+// 【 specialize 专攻 v 】
+// 【 specialize in. 专攻 v 】
+// -
+// 【 correspond 对应 符合 v 】
+// 【 correspond to 对应 符合 v 】
+```

@@ -5,10 +5,9 @@
 - _【 make an appointment. 预约 】_
 - _【 have an appointment. 有一个预约 或 有一个约会 】_
 - -
-- **【 Can you 【 make an appointment 】【 for 】 me 【 with 】 the 【 dentist 】 【 for 】 tomorrow. 】**
-- 你能帮我预约明天的牙医吗？
-- // dentist 牙科医生 牙医症所
-- // would like to. = want to.
+- **【 Can you 【 make an appointment 】【 for 】 me 【 with 】 the 【 dentist 】 【 for 】 tomorrow. 你能帮我预约明天的牙医吗？ 】**
+- // -- dentist 牙科医生 牙医症所
+- // -- would like to. = want to.
 - > // EE: dentist: A person whose job is treating people's teeth.
 - -
 - **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】** // with
