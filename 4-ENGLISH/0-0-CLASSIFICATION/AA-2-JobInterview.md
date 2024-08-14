@@ -2134,7 +2134,7 @@ by now. 到目前为止
 
 prefer 更喜欢 v
 preferred 更喜欢的 adj
-preference 偏爱 偏好 n
+preference 偏爱 偏好 首选项 n
 【 have a preference for. 对...有偏好 】
 // Which one do you prefer. 你更喜欢哪个 // prefer
 // Would you prefer red or white? // prefer

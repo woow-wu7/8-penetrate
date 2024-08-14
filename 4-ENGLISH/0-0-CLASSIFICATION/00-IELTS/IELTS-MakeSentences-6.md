@@ -673,3 +673,100 @@ A 【 specialist 】 is a person who 【 specializes in 】 one 【 professional
 // 【 correspond 对应 符合 v 】
 // 【 correspond to 对应 符合 v 】
 ```
+
+##### 10 Make sentences 2024-08-14
+
+```
+1
+For this 【 specific goal 】, do you have 【 any 】 【 specific measure 】 to 【 achieve 】 it?
+对于这个具体的目标，你有什么具体的措施去实现它吗？
+-
+Do you have 【 any 】 【 specific measures 】 to 【 measure 】 the depth of the water?
+你有什么具体的措施去测量水的深度吗？
+-
+The 【 humidity sensor 】 can 【 measure 】 the 【 humidity 】 of the air.
+湿度传感器可以测量空气的湿度
+-
+// -
+// 【 specific measure. 具体的措施 n 】
+// 【 specific goal. 具体的目标 n 】
+// -
+// 【 measure 测量v 措施n 】
+// -
+// 【 humidity 湿度 n 】
+// 【 humid 潮湿的 adj 】
+// -
+// some 用在疑问句中表示 ------ 期待肯定的回答 ---- 一些
+// any 用在疑问句中表示 ------- 中立或否定 ------- 任何
+// Is there 【 any 】 milk in the 【 fridge 】? 冰箱里还有牛奶吗？
+
+
+2
+【 Professional manager 】 is also a kind of 【 profession 】.
+职业经理人也是一种职业
+-
+The 【 professional manager 】 has 【 occupied 】 the 【 occupation 】.
+职业经理人占领了这个职业
+-
+The 【 specialist 】 is a person who 【 specializes in 】 one 【 special 】 field.
+专家是专攻某个特殊领域的人
+-
+An 【 assistant 】 is a person who 【 assist 】 others in completing their tasks.
+助理是是辅助他人完成任务的人
+-
+// -
+// 【 professional manager. 职业经理人 n 】
+// -
+// 【 occupation 职业 n 】
+// 【 profession 职业 n 】
+// 【 specialty 专业 n 】
+// 【 major 专业 n 】
+// -
+// occupy
+// occupation
+// -
+// profession
+// professional
+// professor
+// -
+// special
+// specialist = expert
+// specialty = major
+// specialize / specialize in.
+// -
+// specific
+// specific measure.
+
+
+3
+I have no 【 preference 】 【 for 】 【 any 】 city.
+我对任何城市都没有偏好
+-
+Which one do you 【 prefer 】?
+你更喜欢哪一个?
+-
+Do you 【 prefer 】 eating 【 boiled egg 】 or 【 fried egg 】 ?
+你喜欢吃水煮蛋还是煎蛋
+// -
+// 【 prefer 更喜欢 v 】
+// 【 preference 偏好 n / 首选项 n 】
+// -
+// 【 have a preference for. 对...有偏好 】
+// 【 prefer doing sth. 更喜欢做某事 】
+// -
+// boiled egg. 水煮蛋
+// fried egg. 煎蛋
+// boil 煮 v
+// fry 煎 油炸 v
+
+
+4
+【 Chip 】 is 【 cheaper 】 than 【 chip 】.
+薯条比芯片便宜
+-
+// -
+// 【 chip 芯片 薯条 n 】
+// 【 cheap 便宜的 adj 】
+// -
+// 【 crisp 薯片 】
+```

@@ -19,7 +19,7 @@
 - `【 intensity 强度 n 】` ------------- 【 work intensity. 工作强度 】 【 work overtime. 加班 】 【 mandatory overtime. 强制加班 】 【 overtime pay. 加班费 】
 - `【 density 密度 n 】` --------------- 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】` --------- 【 liquid concentration. 液体浓度 】 【 high concentration. 高浓度 】 // gas liquid/fluid solid
-- `【 humidity 湿度 n 】` -------------- 【 wet / dry 】 // ----------- `【 humid 潮湿的 adj 】`
+- `【 humidity 湿度 n 】` -------------- 【 wet / dry 】 // ----------- `【 humid 潮湿的 adj 】` // **【 humidity sensor. 湿度传感器 】**
 - `【 length 长度 n 】` ---------------- 【 long / short 】 ----------- `【 long / longer / longest 】` --- 【 longest river. 最长的河流 】
 - `【 width 宽度 n 】` ----------------- 【 wide / narrow 】
 - `【 height 高度 n 】` ---------------- 【 high / low 】-------------- `【 high / higher / highest 】`---- 【 highest mountain. 最高的山 】
@@ -29,6 +29,8 @@
 - > 【 high work intensity. 工作强度高 】
 - > 【 population density. 人口密度 】
 - > 【 liquid concentration. 液体浓度 】
+-
+- _【 humidity sensor. 湿度传感器 】_
 -
 - _【 shallow breath. 浅呼吸 】_
 - _【 shallow sleep. 浅睡眠 】_
@@ -366,7 +368,7 @@
 - **【 【 Introverts 】 have the 【 introverted personalities 】, and 【 extroverts 】 have the 【 extroverted personalities 】. 内向的人有内向的性格， 外向的人有外向的性格 】**
 -
 - [CC.]
-- `【 profound 深远的 adj 】`
+- `【 profound 深远的 adj 】` // ---- 【 profound influence. 深远的影响 】
 - `【 found 创建 v 】`
 - `【 fun / fund / refund 】`
 - **【 Under his 【 profound 】 【 influence 】, she 【 found 】 a new 【 fun 】 【 fund 】 company. 在他的深刻影响下，她创建了一家新的有趣的基金公司 】**
@@ -378,7 +380,7 @@
 - `【 shop 商店n 购物v 】` ------- 可以换 ---- // 【 go shopping. 去购物 】
 -
 - `【 chain store. 连锁店 】` // ------------ 【 chain reaction. 连锁反应 】 【 chain store. 连锁店 】
-- `【 specialty store. 专卖店 】` // -------- 【 special 特别的 adj 】 【 specialty 专业 专长 】 // `【 specialty = major. 专业 】`
+- `【 specialty store. 专卖店 】` // -------- 【 specialty 专业 n 】 【 special 特别的 adj 】 // `【 specialty = major. 专业 】` `【 profession = occupation. 职业 】`
 - `【 department store. 百货商场 】` // ----- 【 finance department. 财务部 】 【 department store. 百货商场 】
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`
@@ -414,6 +416,7 @@
 - [AA.]
 - `【 takeout 外卖 n 】`
 - `【 delivery 快递 n 】`
+- `【 deliver 运送 交付 v 】`
 - **【 My 【 takeout 】 and 【 delivery 】 【 arrived 】 【 at the same time 】.我的外卖和快递同时到了 】**
 - // -- 【 at the same time. 同时 】
 - // -- 【 arrive 到达 v 】
@@ -427,7 +430,7 @@
 ###### Must 2024-08-09
 
 - 1
-- `【 gunpowder 火药 n 】` // ---------- 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】
+- `【 gunpowder 火药 n 】` // ---------- 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】 【 powder 粉 粉末 n 】
 - `【 firecracker 鞭炮 n 】`
 - `【 firework 烟花 n 】` // ----------- 【 firecracker 鞭炮 n 】 【 firework 烟花 n 】
 - > 【 flour 面粉 n 】
@@ -437,7 +440,7 @@
 -
 - `【 weigh 称重 v 】` // --------------- 【 weigh out. 称重 v 】
 - `【 weight 重量 n 】` // -------------- 【 lose weight. 减肥 v 】
-- `【 scale 称 尺寸 n 】` // -------------【 spring scale. 弹簧秤 】 【 balance scale. 天平 】 【 kitchen scale. 厨房秤 】
+- `【 scale 称 尺寸 n 】` // -------------【 spring scale. 弹簧秤 】 【 balance scale. 天平 】 【 kitchen scale. 厨房秤 】 【 kitchen items. 厨房用品 】
 - > 【 spring scale. 弹簧秤 】 // ------- 【 spring 春天 弹簧 n 】
 - > 【 balance scale. 天平 】 // -------- 【 balance 平衡 余额 n 】
 - > 【 kitchen scale. 厨房秤 】
@@ -667,7 +670,7 @@
 - `【 electric 电的 adj 】`
 - > 【 electric current. 电流 n 】
 - > 【 electric voltage. 电压 n 】
-- > 【 electric resistance. 电阻 n 】 // - 【 resist 抵抗 v 】 【 resistance 抵抗 n 】
+- > 【 electric resistance. 电阻 n 】 // - 【 resist 抵抗 v 】 【 resistance 抵抗 n 】 // 【 resist / insist / persist / assist 】
 - > 【 electric appliance. 电器 n 】 // -- 【 appliance 电器 n 】
 - > 【 electric circuit. 电路 n 】 // ---- 【 circuit 电路 n 】
 - > 【 electric eel. 电鳗 n 】
@@ -682,8 +685,8 @@
 - > 【 rated voltage. 额定电压 n 】// ---- 【 rate 速率 n 评价 v 】 【 rated 额定的 adj 】
 - > 【 rated current. 额定电流 n 】
 - > 【 rated power. 额定功率 n 】
-- _【 expenditure 支出 n 】_ // --------- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
-- _【 consumption 消费 消耗 n 】_ // ----- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
+- `【 expenditure 支出 n 】` // --------- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
+- `【 consumption 消费 消耗 n 】` // ----- 【 expenditure 支出 n 】 【 consumption 消费 消耗 n 】
 - _【 fuel consumption. 油耗 】_ // ----- 【 fossil fuel. 化石燃料 】 【 fuel consumption. 油耗 n 】 【 fuel grade. 燃料等级 n 】
 - _【 power consumption. 功耗 】_
 -
@@ -721,7 +724,7 @@
 -
 - [BB.]
 - `【 electricity bill. 电费 n 】`
-- `【 take up. 占 占用 花费 占据 v  】`
+- `【 take up. 占 占用 花费 占据 v  】` // -- take up. / fill up. / pick up. / speak up. / pull up. / speed up.
 - `【 a large part of. 大部分 】`
 - **【 The 【 electricity bill 】 【 takes up 】 【 a large part of 】 my 【 expenditure 】. 电费占了我很大一笔支出 】**
 - **【 Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间 】**
@@ -733,3 +736,87 @@
 - `【 assist 协助 v 】`
 - `【 assistant 助手 n 】`
 - **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+
+###### Must 2024-08-14
+
+- 1
+- `【 profession 职业 n 】` // ---------专业职业-------- 【 professional 职业的 专业的 adj 】 【 professor 教授 】
+- `【 occupation 职业 占有 n 】` // -----一般职业-------- 【 occupy 占领 v 】 【 occupation 占领 n / 职业 n 】
+- `【 specialty 专业 n 】` // ------------------ 【 specialty store. 专卖店 】 // 【 specialty = major. 专业 】 // 【 specialty / major / profession 】
+- `【 major 专业 n 】`
+- `【 industry 行业 n 】`
+- > 【 specialty = major. 专业 】
+- > 【 occupation = profession. 职业 】
+-
+- `【 professional 职业的 专业的 adj 】` // ----- 【 professional manager. 职业经理人 n 】
+- `【 professor 教授 n 】`
+- `【 profession 职业 n 】` // ----------------- 【 profession = occupation 】 【 specialty = major 】
+- _【 professional manager. 职业经理人 】_
+- > 【 professional field. 专业领域 n 】
+- > 【 professional skill. 专业技能 n 】
+- > 【 professional talent. 专业人才 n 】 // --- 【 talent 天赋 才能 天才 人才 】
+- > 【 professional equipment. 专业设备 n 】
+- > 【 professional thief. 专业小偷 n 】
+-
+- `【 expert 专家 n 】` // -------------------- 【 expert = specialist. 专家 】
+- `【 specialist 专家 n 】`
+- `【 specialize 专攻 v 】` // ---------------- 【 specialize in. 专攻 v 】
+- `【 specialty 专业 n 】` // ----------------- 【 specialty store. 专卖店 】 // 【 specialty / major / profession 】
+- `【 special 特别的 adj 】`
+- > 【 eye specialist. 眼科专家 】
+-
+- `【 special 特别的 adj 】`
+- `【 specific 具体的 adj 】`
+- > 【 specific symptom. 具体的症状 n 】
+- > 【 specific goal. 具体的目标 n 】
+- > 【 specific measure. 具体的措施 】// ---- 【 measure 测量 v 措施 n 】
+-
+-
+- [AA.]
+- `【 professional field. 专业领域 】`
+- `【 professional talent. 专业人才 】`
+- `【 professional skill. 专业技能 】`
+- **【 In 【 professional fields 】, we need 【 professional talents 】 with 【 professional skills 】. 在专业的领域需我们要专业的人才拥有专业的技能 】**
+-
+- [BB.]
+- `【 specialist 专家 n 】`
+- `【 specialize in. 专攻 v 】`
+- `【 special field. 特殊领域 n 】`
+- **【 A 【 specialist 】 is a person who 【 specializes in 】 a 【 special field 】. 专家是专攻一个特殊领域的人 】**
+-
+- [CC.]
+- `【 specific goal. 具体的目标 n 】`
+- `【 specific measure. 具体的措施 n 】`
+- **【 For this 【 specific goal 】, Do you have any 【 specific measures 】 to 【 achieve 】 it? 对于这个具体的目标，你有什么具体的措施去实现它吗？ 】**
+- // -- 【 measure 测量 v 措施 n 】
+-
+- [DD.]
+- `【 measure 测量 v / 措施 n 】`
+- `【 specific measure. 具体的措施 n 】`
+- **【 Do you have 【 any 】 【 specific measures 】 to 【 measure 】 the 【 depth 】 of the water? 你有什么具体的措施去测量水的深度吗？】**
+- // some 用在疑问句中表示 ------ 期待肯定的回答 ---- 一些
+- // any 用在疑问句中表示 ------- 中立或否定 ------- 任何
+-
+- [EE.]
+- `【 professional manager. 职业经理人 n 】`
+- `【 profession 职业 n 】`
+- `【 professor 教授 n 】`
+- **【 【 Professional managers 】 and 【 professors 】 are two different 【 professions 】. 职业经理人和教授是两种不同的职业 】**
+- **【 【 Professional manager 】 is also 【 a kind of 】 【 profession 】. 职业经理人也是一种职业 】**
+-
+- [FF.]
+- `【 profession 职业 n 】`
+- `【 specialty 专业 n 】` = major. 专业
+- **【 Different 【 professions 】 【 correspond 】 to different 【 specialties 】. 不同职业对应不同的专业 】**
+- // -- 【 correspond 对应 符合 v 】
+- // -- 【 correspond to. 对应 v 】
+-
+- [GG.]
+- `【 occupation 职业 n / 占有 n 】` ------- 一般职业
+- `【 profession 职业 n 】` --------------- 专业职业
+- occupation / occupy
+- **【 The 【 professional manager 】 【 occupied 】 the 【 occupation 】. 职业经理人占领了这个职业 】**
+-
+- [HH.]
+- **【 There are different professions and different specialties in different industries. 不同的行业有不同的职业和不同的专业 】**
+- **【 Different industries have different occupations and different specialities. 不同的行业有不同的职业和不同的专业 】**
