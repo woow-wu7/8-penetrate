@@ -820,3 +820,86 @@
 - [HH.]
 - **【 There are different professions and different specialties in different industries. 不同的行业有不同的职业和不同的专业 】**
 - **【 Different industries have different occupations and different specialities. 不同的行业有不同的职业和不同的专业 】**
+
+###### Must 2024-08-15
+
+- 1
+- `【 meal 一餐 进餐 n 】` // -------------------------------------------【 meal / meat 】
+- `【 meat 肉 n 】`
+- `【 breakfast 早餐 n 】`
+- `【 lunch 午餐 n 】`
+- `【 brunch 早午餐 n 】` ---------------- brunch = breakfast + lunch.
+- `【 dinner 晚餐 n 】` ----------------- 正式的晚餐 // ---------------- 【 dinner / supper 】
+- `【 supper 晚餐 n 】` ----------------- 非正式的晚餐 // --------------- 【 super 超级的 adj 】 【 supper 晚餐 】 【 suffer 遭受 v 】
+- > 【 two dishes. 两道菜 】
+- > 【 two courses. 两道菜 】
+- _【 suffer 遭受 v 】_
+- _【 supper 晚餐 n 】_
+- _【 super 超级的 adj 】_
+-
+- `【 chef 厨师 n 】`
+- `【 kitchen items. 厨房用品 】` // ---- 【 kitchen scale. 厨房秤 】 【 spring scale. 弹簧秤 】 【 balance scale. 天平 】
+- `【 ingredient 原料 成分  n 】` // ---- 【 active ingredient. 有效成分 】 【 essential ingredient. 必要成分 】 【 food ingredient. 食材 】
+- `【 material 材料 n 】` // ----------- 【 raw material. 原材料 】 【 organic material. 有机材料 】
+- > 【 active ingredient. 有效成分 】
+- > 【 essential ingredient. 必要成分 】
+- > 【 food ingredient. 食材 】
+- _【 raw material. 原材料 】_
+- _【 organic material. 有机材料 】_
+- _【 organic food. 有机食品 】_
+- // TIPS：Pay attention to the pronunciation of the word 'chef'. [chef]
+- // TIPS：Pay attention to the pronunciation of the word 'ingredient'. [ingredient]
+- // TIPS：Pay attention to the pronunciation of the word 'raw'. [raw]
+-
+- `【 cut 切 v 】` // ------------------ 【 cutting board. 切菜板 】 【 blackboard 黑板 】 【 boarding pass. 登机牌 】 【 dashboard 仪表盘 】
+- `【 slice 切片 v / 片 n 】`
+- `【 peel 削皮 v 】` // --------------- 【 peeler. 削皮器 】
+- `【 chop 切碎 v 】`
+- `【 mince 剁碎 v 】`
+- `【 grind 磨碎 v 】`
+- > 【 cutting board. 切菜板 n 】
+- > 【 billboard 广告牌 n 】
+- > 【 blackboard 黑板 n 】
+- > 【 dashboard 仪表盘 n 】
+- > 【 cupboard 橱柜 n 】
+- _【 boarding pass. 登机牌 】_
+- _【 passport 护照 / visa 签证 】_
+- // TIPS：Pay attention to the pronunciation of the word 'cupboard'. [cupboard]
+-
+- `【 boil 煮 v 】` // ------------------- 【 boiled egg. 水煮蛋 】
+- `【 fry 油炸 油煎 v 】` // -------------- 【 fried egg. 煎鸡蛋 】
+- `【 steam 蒸v 蒸发v 蒸汽n 】` // -------- 【 steamed egg. 蒸蛋 】 // -- 【 gas / liquid / fluid / steam / sap / slap 】
+- `【 stew 顿 v 】`
+- `【 roast 烤 烘烤 v 】`
+- > 【 deep-fry. 油炸 】
+- > 【 pan-fry. 煎 】
+- > 【 Stir-fry. 炒 】// ----------------- 【 stir 搅拌 v 】
+-
+-
+- [AA.]
+- `【 meal 一餐n 进餐v 】`
+- `【 dish 菜 一道菜 n 】`
+- **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有 7 道菜 】**
+- **【 Seven 【 dishes 】 are enough to eat for a day. 7 个菜足够吃一天了 】**
+-
+- [BB.]
+- `【 ingredient 成分 原料 n 】`
+- `【 food ingredient. 食材 n 】`
+- `【 chef 厨师 n 】`
+- `【 dish 菜 一道菜 n 】`
+- **【 These 【 food ingredients 】 are enough for 【 chef 】 to make seven 【 dishes 】. 这些食材足够厨师做出 7 道菜了 】**
+- // -- 【 be enough for. 对...来说足够 】
+-
+- [CC.]
+- `【 ingredient 原料 成分 n 】`
+- `【 material 材料 n 】`
+- `【 chef 厨师 n 】`
+- `【 dish 菜 一道菜 n 】`
+- **【 These 【 ingredients 】 and 【 materials 】 are enough for 【 chef 】 to make seven 【 dishes 】. 这些原料和材料足够厨师做出 7 道菜了 】**
+- // -- 【 be enough for. 对...来说足够 】
+-
+- [DD.]
+- `【 chip 芯片 薯条 n 】`
+- `【 cheap 便宜的 adj 】`
+- `【 crisp 薯片 】`
+- **【 The 【 Chip 】 is 【 cheaper 】 than the【 chip 】. 薯条比芯片便宜 】**
