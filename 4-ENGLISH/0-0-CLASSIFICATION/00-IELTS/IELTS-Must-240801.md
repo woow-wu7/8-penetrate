@@ -90,6 +90,7 @@
 - `【 deep 深的 】`
 - `【 shallow 浅的 】`
 - **【 We use 【 depth 】 to 【 measure 】 how 【 deep 】 or 【 shallow 】 something 【 is 】. 我们用深度来衡量某物是深还是浅 】**
+- **【 What 【 scheme 】 will you use and what 【 measure 】 will you 【 take 】 to 【 measure 】 the 【 depth 】 of water? 用什么方案和采取什么措施来测量水的深度？ 】**
 - // -- 【 measure 测量 衡量 v 】
 -
 - [CC.]
@@ -536,6 +537,12 @@
 - **【 Please use 【 proof 】 to 【 prove 】 your 【 theory 】 is correct. 请用证据证明你的理论是对的 】**
 - // -- 【 theory 理论 n 】
 - // -- 【 evidence 证据 n 】= proof
+-
+- [GG.]
+- `【 missile 导弹 n 】`
+- `【 aggressive war. 侵略战争 n 】`
+- `【 launch 发射 发动 v  】`
+- **【 They 【 launched 】 the 【 aggressive war 】 【 with 】 【 missiles 】. 他们用导弹发动了侵略战争 】**
 
 ###### Must 2024-08-11
 
@@ -903,3 +910,105 @@
 - `【 cheap 便宜的 adj 】`
 - `【 crisp 薯片 】`
 - **【 The 【 Chip 】 is 【 cheaper 】 than the【 chip 】. 薯条比芯片便宜 】**
+
+###### Must 2024-08-17
+
+- 1
+- `【 summary 概要 总结 n 】` // -------------- 【 in summary. 总之 】= in conclusion. // ---【 summarize 总结 概要 v 】 【 summary 概要 总结 n 】
+- `【 conclusion 结论 n 】` // --------------- 【 in conclusion. 总之 】= in summary. // ---【 clue 线索 n 】
+- `【 consequence 后果 n 】` // -------------- 【 result. 结果 n 】 【 consequence. 后果 n 】
+- `【 scheme 方案 n 】` // ------------------- 【 color scheme. 配色方案 】
+- `【 measure 措施 n / 测量v 】` // ---------- `【 specific measure. 具体措施 】` `【 take measure. 采取措施 】` // ---------【 take note. 做笔记 】 【 take measure. 】
+- `【 regulation 规定 规则 规章制度 n 】` ------ 【 strict regulation. 严格的规定 】 【 comply with regulation. 遵守规定 】 // 【 regulate 规定 v 】
+- > 【 summer 夏天 n 】 // ------------------- 【 summer camp. 夏令营 】
+- > 【 summary 概要 总结 n 】 // -------------- 【 in summary. = in conclusion. 总之 】
+- > 【 summarize 概要 总结 v 】
+- > in summary. = in conclusion. 总之
+- // summarize / summary
+- // regulate / regulation
+- // -
+- // 【 conclusion 结论 】--------------------- 【 clue 线索 n 】 【 conclusion 结论 n 】
+- // 【 clue 线索 】
+-
+- `【 comply 遵守 v 】` // -------------------- 【 comply with regulation. 遵守规定 】// ---- 【 comply with. 遵守 】------- comply with regulation. 遵守规定
+- `【 apply 申请 v 】` // --------------------- 【 application 申请 n 应用程序 n 】 // ------- 【 apply for. 申请 】--------- apply for a loan. 申请贷款
+- `【 supply 供应 v 】` // -------------------- 【 school supplies. 学习用品 】 【 emergency supplies. 紧急用品 】 // 【 supply / supplier / supplement 】
+- `【 multiply 乘以 繁殖 v 】` // -------------- 【 multiple 倍数 n 】 【 multiply 乘以 v / 繁殖 v 】
+- > 【 multiple 倍数 并联 n 】// --------------- **【 The multiple of. ...的倍数 】**
+- > 【 multiply 乘以 v / 繁殖 v 】 // ---------- **【 multiplied by. 乘以 】**
+-
+- `【 regulation 规定 规则 规章制度 n 】`
+- `【 regulate 规定 v 】`
+- `【 stipulate 规定 v 】` --------------------- 用的多
+- `【 stipulation 规定 n 】`
+- > 【 comply with regulation. 遵守规定 】
+- > 【 strict regulation. 严格的规定 】
+- // comply with. 遵守 v
+- // apply for. 申请 v
+-
+- `【 take measure. 采取措施 】` // ------------ 【 measure 测量 v 措施 n 】 // 【 specific measure. 具体措施 】
+- `【 take action. 采取行动 】`
+- `【 take suggestion. 采纳建议 】` // --------- 【 adopt suggestion. 采纳建议 】
+- `【 take self. 自拍 】`
+- `【 take photo. 拍照 】` = take picture.
+- `【 take note. 做笔记 】` = make note.
+- `【 take medicine. 吃药 】`
+- > 【 take an examination. 参加考试 】--------- 【 take an examination. = take an exam. 参加考试 】
+- > 【 take a break. 休息一下 】// ------------- 【 take a break. we'll be right back 休息一下 马上回来 】
+- > 【 take a nap. 小睡一会 】
+- > 【 take a peek. 偷看一眼 】 // ------------- 【 peek at. 偷看 】 【 look at. 看 】 // -------【 peek 偷看 v 】
+- > 【 take a shower. 洗澡 】// --------------- 【 take a shower. = take a bath. 洗澡 】// ----【 bath 洗澡 浴缸 n 】
+- _【 take up. 占据 占用 v 】_
+- _【 take off. 起飞 / 脱下 v 】_
+- _【 take over. 接受 接管 】_
+- _【 take out. 取出 】_
+- _【 take in. 吸收 】_
+- _【 takeout. 外卖 】_
+- // 【 form a habit. 养成习惯 】
+- // 【 develop a habit. 养成习惯 】
+-
+- `【 concise 简洁的 adj 】`
+- `【 concept 概念 观念 n 】`
+- `【 concern 担心 忧虑 n 】`
+- `【 concert 音乐会 n 】`
+- `【 concentration 浓度 n 】`
+- `【 concrete 混凝土 n 】`
+-
+-
+- [AA.]
+- `【 in summary. = in conclusion. 总之 】`
+- `【 in concise language. 用简洁语言 】`
+- `【 summarize 总结 概要 v 】`
+- `【 summary 总结 概要 n 】`
+- `【 conclusion 结论 n 】`
+- `【 concise 简洁的 adj 】`
+- **【 【 in summary 】, please 【 summarize 】 the 【 concept 】 and 【 conclusion 】 【 in 】 【 concise 】 language. 总之，请用简洁的语言总结一下这个概念和结论 】**
+-
+- [BB.]
+- `【 scheme 方案 n 】`
+- `【 measure 措施 n / 测量 v 】`
+- > 【 take measure. 采取措施 】
+- **【 What 【 scheme 】 will you use and what 【 measure 】 will you 【 take 】 to 【 measure 】 the 【 depth 】 of water? 用什么方案和采取什么措施来测量水的深度？ 】**
+-
+- [CC.]
+- `【 stipulate 规定 v 】`
+- `【 take scheme. 采取方案 】`
+- `【 take measure. 采取措施 】`
+- `【 comply with. 遵守 v 】`
+- `【 regulation 规定 规则 规章制度 n 】`
+- **【 The school 【 stipulates 】 that we should 【 take all schemes 】 and 【 take all measures 】 to 【 make 】 students to 【 comply with 】 the 【 regulations 】. 学校规定采取有所有方案和所有措施让学生遵守规章制度 】**
+-
+- [DD.]
+- `【 take measure. 采取措施 】`
+- `【 take action. 采取行动 】`
+- `【 take picture. = take photo. 拍照 】`
+- `【 take a shower. = take a bath. 洗澡 】` // take a shower. = take a bath.
+- **【 We should 【 take measures 】 and 【 take actions 】 to 【 take pictures 】 to prevent being 【 peeking at 】 when 【 taking a shower 】. 我们要采取措施和采取行动进行拍照，防止洗澡时被偷看 】**
+- // 【 prevent doing sth. 阻止做某事 】
+- // 【 peek at. 偷看 】
+-
+- [EE.]
+- `【 value 值 n 】`
+- `【 multiplied by. 乘以 】`
+- `【 the multiple of. ...的倍数 】`
+- **【 The 【 value 】 of Five 【 multiplied by 】 three is 【 the multiple of 】 five. 五乘以三后的值是五的倍数 】**

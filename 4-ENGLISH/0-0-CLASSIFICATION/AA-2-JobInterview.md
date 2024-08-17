@@ -1513,7 +1513,7 @@ What 【 performance optimizations 】 have you done in code?
 What's your 【 ideal 】？
 I want to be a 【 front-end software architect 】.
 -
-He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】. 
+He 【 suddenly 】 【 realized 】 that 【 it was time to 】 【 make an effort to 】 【 realize 】 his 【 ideals 】 and 【 dreams 】.
 他突然意识到是时候去努力实现自己的理想和梦想了
 -
 // -
@@ -1996,7 +1996,7 @@ In terms of user data: It can collect user online duration, physical device info
 // operational 操作的 adj
 ```
 
-```222222222
+```222222222 / Whole / Important
 ------- ------- ------- ------- ------- ------- -------
 
 
@@ -2129,7 +2129,42 @@ mayor 市长
 ------- ------- ------- ------- ------- ------- -------
 ```
 
-```333333333
+```333333333 / Summary / Base
+Name:
+- York(伍侠)
+
+Background:
+- I graduated from【 South-Central Minzu University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】, it's a 【 key university 】.
+
+Experience:
+- I have done many different types of jobs, such as: 【 technical support 】, 【 operation 】,【  UI design 】, and 【 Front-End engineer 】.
+-  I have 7 years of experience in 【 software development 】 and 1 year of experience in 【 UI design 】
+
+Source-Code-Analysis:
+- react17
+- vue2
+- redux
+- ahooks
+- axios
+- Element-UI
+- badjs
+
+Tech Stacks:
+- React: react, nextjs, nestjs, redux, zustand, antd, umi
+- Vue: Vue3, pinia, vite
+- specification: kusky, lint-staged, eslint, tslint, commitlint, prettier, editorconfig
+- Java: spring-boot, spring-cloud, mybatis, mysql, redis, lombok, swagger2
+- Server: centos7, docker, gitlab-ci/cd, kubernetes
+
+Others:
+Blog(掘金) --------------------- https://juejin.cn/user/1063982989065799/posts
+Github ------------------------ https://github.com/woow-wu7
+Implement-UI-Component-Library  http://120.53.220.141:8090
+Leetcode-200+ ----------------  https://leetcode.cn/u/woow-wu7/
+UI-Design-Work ---------------  https://www.zcool.com.cn/u/14257640
+```
+
+```444444444
 by now. 到目前为止
 
 prefer 更喜欢 v

@@ -770,3 +770,21 @@ Do you 【 prefer 】 eating 【 boiled egg 】 or 【 fried egg 】 ?
 // -
 // 【 crisp 薯片 】
 ```
+
+##### 11 Make sentences 2024-08-16
+
+```
+1
+They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】.
+他们用导弹发动了侵略战争
+// -
+// 【 aggress 侵虐 v 】
+// 【 aggressive war. 侵略战争 n 】
+// -
+// 【 missile 导弹 n 】
+// 【 mission 使命 n 】
+// 【 dismiss 解雇 v 】// lay off. 裁员
+// 【 miss 想念 错过 小姐 】
+// -
+// 【 launch 发射 发动 v 】
+```
