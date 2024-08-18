@@ -1,31 +1,55 @@
 ##### (1) **Direction Word**
 
 - [AA.]
-- `【 sidewalk = pavement. 人行道 】`
+- `【 sidewalk = pavement. = footway. 人行道 】`
 - `【 crosswalk = zebra crossing. 人行横道 斑马线 】`
 - `【 jaywalk 乱穿马路 】`
+- > 【 bikeway 自行车车道 】 // ------------- 【 bike 自行车 n 】 【 bicycle 自行车 n 】
+- > 【 footway 人行道 】
+- > 【 subway 地铁 】
+- > 【 driveway 车道 】
 -
 - `【 pedestrian 行人 n 】`
-- `【 resident 居民 n 】` // ----------------【 president 总统 】 【 resistent 居民 】
-- `【 citizen 公民 n 】` // -----------------【 civilization 文明 】 【 citizen 公民 n 】 // citizen city
-- `【 run a red light. 闯红灯 】`
+- `【 resident 居民 n 】` // ----------------【 president 总统 】 【 resistent 居民 】 // ---- 【 president / resident / reside 】
+- `【 citizen 公民 n 】` // -----------------【 civilization 文明 】 【 citizen 公民 n 】 // --【 citizen / city / civilization 】
+- `【 immigrant 移民 n 】` // ---------------【 migrate 移民 迁移 v 】 // --------------------【 migrate / immigrant 】
+- `【 refugee 难民 n 】` // -----------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
+- `【 bystander 旁观者 n 】` // -------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
+- `【 crowd 人群 群从 n / 拥挤v 】`
 - > 【 stranger 陌生人 n 】`
-- > 【 acquaintance 熟人 n 】`
+- > 【 acquaintance 熟人 n 】` // ---------- 【 old acquaintance. 老熟人 n 】
 - > 【 alien 外国人 外星人 n 】`
 - > headlight // taillight // brake light. // fog light. // lighter lightning
 - > high beam light. // low beam light. // a beam of light. // a bolt of lightning.
+- //【 run a red light. 闯红灯 】
+-
+- `【 civilization 文明 】` // ------------- 【 city / citizen / civilization 】
+- > 【 human civilization. 人类文明 】`
+- > 【 alien civilization. 外星文明 】`
 -
 - `【 block 街区n 阻塞v 】`
 - `【 corner 拐角 n 】`
 - `【 roundabout 环岛 n 】`
 - `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
 -
-
-- `【 grocery store. 杂货店 】`
+-
+- [AA-01]
+- `【 acquaintance 熟人 n 】`
+- `【 stranger 陌生人 n 】`
+- **【 We changed from 【 acquaintance 】 to 【 stranger 】. 我们从熟人变成陌生人 】**
+- // -- 【 change from A to B. 】 从 A 变成了 B
+-
+- [AA-02]
+- `【 alien civilization. 外星文明 n 】`
+- `【 human civilization. 人类文明 n 】`
+- **【 【 Alien civilizations 】 are more advanced than 【 human civilizations 】. 外星文明比人类文明更先进 】**
+- // -- 【 advanced 先进的 高级的 adj 】
 -
 -
 -
-- [AA.]
+-
+-
+- [BB.]
 - `【 next to. 在...旁边 】`
 - `【 beside 在...旁边 】`
 - > 【 next to. = beside. 在...旁边 】
@@ -41,7 +65,7 @@
 - // -- lane 车道 跑道 n
 -
 -
-- [BB.]
+- [CC.]
 - `【 across from. 在...对面 】`
 - `【 opposite. 在...对面 相反的 】`
 - > 【 across from. = opposite. 在...对面 】
@@ -49,13 +73,13 @@
 - // -- 【 cross the street. 穿过街道 】
 -
 -
-- [CC.]
+- [DD.]
 - `【 around here. 附近 】`
 - **【 Is there a supermarket 【 around here 】? 这【 附近 】有超市吗？ 】**
 - **【 How long have you lived 【 around here 】? 你在这附近住多久了？ 】**
 -
 -
-- [DD.]
+- [EE.]
 - `【 nearest 最近的 】`
 - **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
 - **【 Do you know where the nearest station 【 is 】?. 你知道最近的车站在哪里吗？ 】**

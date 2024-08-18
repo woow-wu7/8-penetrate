@@ -914,58 +914,37 @@
 ###### Must 2024-08-17
 
 - 1
-- `【 summary 概要 总结 n 】` // -------------- 【 in summary. 总之 】= in conclusion. // ---【 summarize 总结 概要 v 】 【 summary 概要 总结 n 】
-- `【 conclusion 结论 n 】` // --------------- 【 in conclusion. 总之 】= in summary. // ---【 clue 线索 n 】
-- `【 consequence 后果 n 】` // -------------- 【 result. 结果 n 】 【 consequence. 后果 n 】
-- `【 scheme 方案 n 】` // ------------------- 【 color scheme. 配色方案 】
-- `【 measure 措施 n / 测量v 】` // ---------- `【 specific measure. 具体措施 】` `【 take measure. 采取措施 】` // ---------【 take note. 做笔记 】 【 take measure. 】
-- `【 regulation 规定 规则 规章制度 n 】` ------ 【 strict regulation. 严格的规定 】 【 comply with regulation. 遵守规定 】 // 【 regulate 规定 v 】
-- > 【 summer 夏天 n 】 // ------------------- 【 summer camp. 夏令营 】
-- > 【 summary 概要 总结 n 】 // -------------- 【 in summary. = in conclusion. 总之 】
+- `【 regulation 规定 规则 规章制度 n 】` - 【 comply with regulation. 遵守规定 】 【 strict regulation. 严格的规定 】 // 【 regulate 规定 v 】
+- `【 summary 总结 概要 n 】` // --------- 【 in summary. 总之 】 // 【 summarize 总结 概要 v 】
+- `【 conclusion 结论 n 】` // ---------- 【 clue 线索 n 】
+- `【 consequence 后果 n 】` // --------- 【 result. 结果 n 】 【 consequence. 后果 n 】
+- `【 scheme 方案 n 】` // -------------- 【 color scheme. 配色方案 】
+- `【 measure 措施 n / 测量v 】` // ----- `【 specific measure. 具体措施 】` `【 take measure. 采取措施 】` 【 take note. 做笔记 】
+- > 【 summer 夏天 n 】 // -------------- 【 summer camp. 夏令营 】
+- > 【 summary 概要 总结 n 】 // --------- 【 in summary. = in conclusion. 总之 】
 - > 【 summarize 概要 总结 v 】
-- > in summary. = in conclusion. 总之
-- // summarize / summary
-- // regulate / regulation
-- // -
-- // 【 conclusion 结论 】--------------------- 【 clue 线索 n 】 【 conclusion 结论 n 】
-- // 【 clue 线索 】
+- // 【 conclusion 结论 】--------------- 【 clue 线索 n 】 【 conclusion 结论 n 】
 -
-- `【 comply 遵守 v 】` // -------------------- 【 comply with regulation. 遵守规定 】// ---- 【 comply with. 遵守 】------- comply with regulation. 遵守规定
-- `【 apply 申请 v 】` // --------------------- 【 application 申请 n 应用程序 n 】 // ------- 【 apply for. 申请 】--------- apply for a loan. 申请贷款
+- `【 comply 遵守 v 】` // -------------------- 【 comply with regulation. 遵守规定 】 【 strictly comply with. 严格遵守 】--- strictly comply with the regulation.
+- `【 apply 申请 v 】` // --------------------- 【 application 申请 n 应用程序 n 】 // ------- 【 apply for. 申请 】---------- apply for a loan. 申请贷款
 - `【 supply 供应 v 】` // -------------------- 【 school supplies. 学习用品 】 【 emergency supplies. 紧急用品 】 // 【 supply / supplier / supplement 】
-- `【 multiply 乘以 繁殖 v 】` // -------------- 【 multiple 倍数 n 】 【 multiply 乘以 v / 繁殖 v 】
-- > 【 multiple 倍数 并联 n 】// --------------- **【 The multiple of. ...的倍数 】**
-- > 【 multiply 乘以 v / 繁殖 v 】 // ---------- **【 multiplied by. 乘以 】**
+- `【 multiply 乘以 v 】` // ------------------ 【 multiple 倍数 n 】 【 multiply 乘以 v / 繁殖 v 】
+- > 【 multiple 倍数 并联 n / 多个的 adj 】// --- **【 The multiple of. ...的倍数 】** 【 multiple parameter. 多个参数 】
+- > 【 multiply 乘以 繁殖 v 】 // -------------- **【 multiplied by. 乘以 】**
+-
+- `【 deduce 推断 推论 v 】` // ----------- 【 infer = deduce. 推断 推论 v 】 // 【 deduce the reason. = infer the reason.推断原因 】
+- `【 reduce 减少 v 】`
+- `【 produce 生产 v 】` // -------------- 【 reproduce 繁殖 v 】 【 produce. 生产 v 】
+- `【 introduce 介绍 v 】`
 -
 - `【 regulation 规定 规则 规章制度 n 】`
 - `【 regulate 规定 v 】`
-- `【 stipulate 规定 v 】` --------------------- 用的多
+- `【 stipulate 规定 v 】` ---------------- 用的多
 - `【 stipulation 规定 n 】`
-- > 【 comply with regulation. 遵守规定 】
+- > 【 strictly comply with the regulation. 严格遵守规定 】
 - > 【 strict regulation. 严格的规定 】
 - // comply with. 遵守 v
 - // apply for. 申请 v
--
-- `【 take measure. 采取措施 】` // ------------ 【 measure 测量 v 措施 n 】 // 【 specific measure. 具体措施 】
-- `【 take action. 采取行动 】`
-- `【 take suggestion. 采纳建议 】` // --------- 【 adopt suggestion. 采纳建议 】
-- `【 take self. 自拍 】`
-- `【 take photo. 拍照 】` = take picture.
-- `【 take note. 做笔记 】` = make note.
-- `【 take medicine. 吃药 】`
-- > 【 take an examination. 参加考试 】--------- 【 take an examination. = take an exam. 参加考试 】
-- > 【 take a break. 休息一下 】// ------------- 【 take a break. we'll be right back 休息一下 马上回来 】
-- > 【 take a nap. 小睡一会 】
-- > 【 take a peek. 偷看一眼 】 // ------------- 【 peek at. 偷看 】 【 look at. 看 】 // -------【 peek 偷看 v 】
-- > 【 take a shower. 洗澡 】// --------------- 【 take a shower. = take a bath. 洗澡 】// ----【 bath 洗澡 浴缸 n 】
-- _【 take up. 占据 占用 v 】_
-- _【 take off. 起飞 / 脱下 v 】_
-- _【 take over. 接受 接管 】_
-- _【 take out. 取出 】_
-- _【 take in. 吸收 】_
-- _【 takeout. 外卖 】_
-- // 【 form a habit. 养成习惯 】
-- // 【 develop a habit. 养成习惯 】
 -
 - `【 concise 简洁的 adj 】`
 - `【 concept 概念 观念 n 】`
@@ -1012,3 +991,71 @@
 - `【 multiplied by. 乘以 】`
 - `【 the multiple of. ...的倍数 】`
 - **【 The 【 value 】 of Five 【 multiplied by 】 three is 【 the multiple of 】 five. 五乘以三后的值是五的倍数 】**
+-
+- [AAA.]
+- `【 clue 线索 n 】`
+- `【 conclusion 结论 n 】`
+- **【 This 【 clue 】 can help us to 【 deduce 】 the 【 conclusion 】.这个线索可以帮助我们推导结论 】**
+
+###### Must 2024-08-18
+
+- 1
+- `【 take measure. 采取措施 】` // ------------ 【 measure 测量 v 措施 n 】 // 【 specific measure. 具体措施 】
+- `【 take action. 采取行动 】`
+- `【 take note. 做笔记 】` = make note.
+- `【 take selfie. 自拍 】`
+- `【 take photo. 拍照 】` = take picture.
+- `【 take medicine. 吃药 】`
+- > 【 take a break. 休息一下 】// ------------- 【 take a break. we'll be right back 休息一下 马上回来 】
+- > 【 take a shower. 洗澡 】// --------------- 【 take a shower. = take a bath. 洗澡 】// ----【 bath 洗澡 浴缸 n 】
+- > 【 take a nap. 小睡一会 】
+- > 【 take a peek. 偷看一眼 】 // ------------- 【 peek at. 偷看 】 【 look at. 看 】 // -------【 peek 偷看 v 】
+- > 【 take an examination. 参加考试 】--------- 【 take an examination. = take an exam. 参加考试 】
+- _【 take over. 接手 接管 v 】_
+- _【 take up. 占据 占用 v 】_
+- _【 take off. 起飞 / 脱下 v 】_
+- _【 take in. 吸收 】_
+- _【 take out. 取出 】_ // -------------------- 【 take out the takeout. 取出外卖 】
+- _【 takeout. 外卖 】_ // --------------------- 【 take out the takeout. 取出外卖 】 // 【 takeout cabinet. 外卖柜 】 【 cabinet 柜子 n 】
+- // **【 form a habit. 养成习惯 】=【 develop a habit. 养成习惯 】**
+- // **【 take out the takeout. 取出外卖 】**
+- // **【 takeout cabinet. 外卖柜 】**
+-
+- // TIPS: Pay attention to the pronunciation of the word 'nap'. [nap]
+- // TIPS: Pay attention to the pronunciation of the word 'bath'. [bath]
+-
+-
+- [AA.]
+- `【 take action. 采取行动 】`
+- `【 take measure. 采取措施 】`
+- `【 measure 措施n 测量v 】`
+- **【 We should 【 take action 】 and 【 take effective measures 】 to 【 measure 】 the 【 depth 】 of the water? 我们应该采取行动，采取有效的措施去测量水的深度 】**
+- // -- effective -- effectively ------ effect
+- // -- efficient -- efficiently ------ efficiency
+- // -- 【 take effective measure. 采取有效措施 】
+-
+- [BB.]
+- `【 take note. 做笔记 】`
+- `【 take selfie. 拍自拍照 】`
+- `【 take photo. 拍照 】`
+- **【 Please 【 take notes 】: 【 taking a selfie 】 is not equal to 【 taking a photo 】. 请做笔记：自拍不等于拍照 】**
+- // -- 【 be equal to. 等于 】
+-
+- [CC.]
+- `【 take a break. 休息一下 】`
+- `【 take a shower. 洗澡 】`
+- `【 take a nap. 小睡一会 】`
+- > take a shower. = take a bath. 洗澡
+- **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
+- // -- 【 take a shower. = take a bath. 洗澡 】
+-
+- [DD.]
+- `【 take over. 接手 接管 v 】`
+- `【 take up. 占用 占据 v 】`
+- **【 【 Taking over 】 the old project has 【 taken up 】 a lot of my time. 接手这个老项目占用了我大量的时间 】**
+-
+- [EE.]
+- `【 take out. 取出 】`
+- `【 takeout. 外卖 】`
+- `【 takeout cabinet. 外卖柜 】`
+- **【 I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】. 我想从外卖柜里拿出我的外卖 】**
