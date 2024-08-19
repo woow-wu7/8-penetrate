@@ -4,14 +4,14 @@
 
 ```
 1
-Pay attention to the different 【 pronunciations 】 between 'perfect' and 'perfection.
+Pay attention to the different 【 pronunciations 】 between 'perfect' and 'perfection'.
 Pay attention to the difference 【 in 】 pronunciation 【 between 】 'perfect' and 'perfection'.
 注意 perfect 和 perfection 发音的不同
 -
 How to 【 pronounce 】 the word 'perfect'?
 perfect 这个单词如何发音?
 -
-Your 【 pronunciation 】 is quite 【 standard 】.
+Your 【 pronunciation 】 is 【 quite 】 【 standard 】.
 你的发音相当标准
 -
 Pay attention to the pronunciation of the word 'period'.
@@ -38,7 +38,7 @@ How to 【 spell 】 the word 'mediocrity'?
 After graduation, I have had 【 a total of 】 four 【 work experiences 】.
 毕业之后，我一共有四段工作经历
 -
-The company has【 a total of 】 200 【 employees 】.
+The 【 company 】 has【 a total of 】 200 【 employees 】.
 公司总共有 200 名员工
 -
 //【 a total of. 一共 总共 】
@@ -50,6 +50,17 @@ The company has【 a total of 】 200 【 employees 】.
 // employment 雇佣 n
 // employer 雇主
 // employee 雇员
+// -
+// interview -------- interviewer ------------ interviewee
+// employ ----------- employer --------------- employee
+// assign ----------- assigner --------------- assignee
+// -
+// deploy 部署 v
+// deployment 部署 n
+// -
+// TIPS: Pay attention to the pronunciation of the word 'employ'. [employ]
+// TIPS: Pay attention to the pronunciation of the word 'assignee'. [assignee]
+// TIPS: Pay attention to the pronunciation of the word 'company'. [company]
 
 
 3

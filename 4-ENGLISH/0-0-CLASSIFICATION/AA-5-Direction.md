@@ -23,13 +23,15 @@
 - // headlight / taillight / brake light. / fog light. / lighter lightning
 - // high beam light. // low beam light. // a beam of light. // a bolt of lightning.
 - //【 run a red light. 闯红灯 】
+- // EE: [acquaintance] A person that you know but who is not a close friend.
+- // TIPS: Pay attention to the pronunciation of the word 'resident'. [resident]
 -
 - `【 acquaintance 熟人 n 】`
 - _【 acquaintance 熟人 n 】_
 - _【 substance 物质 n 】_
 - _【 distance 距离 n 】_ // --------------- 【 distant 远的 adj 】 【 distance 距离 n 】
-- _【 instance 例子 实例 n 】_ // ------------【 example = instance. 例子 】
-- _【 resistance 电阻 n 】_
+- _【 instance 例子 实例 n 】_ // ----------- 【 example = instance. 例子 】
+- _【 resistance 电阻 n 】_ // ------------- 【 resident / resistance / resist 】
 -
 - `【 civilization 文明 】` // ------------- 【 city / citizen / civilization 】
 - > 【 human civilization. 人类文明 】`
@@ -70,6 +72,7 @@
 - `【 corner 拐角 n 】`
 - `【 roundabout 环岛 n 】`
 - `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
+- // TIPS: Pay attention to the pronunciation of the word 'intersection'. [intersection]
 -
 - `【 intersection 十字路口 】`
 - `【 interaction 相互作用 】`
@@ -81,8 +84,8 @@
 - `【 longest 最长的 adj 】`
 - `【 greatest 最大的 adj 】`
 - > nearest: where is the 【 nearest 】 station? 最近的车站在哪里？
-- > closest:【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星
-- > longest: The 【 Nile 】 is the 【 longest 】 【 river 】 in the world. 尼罗河是世界上最长的河
+- > closest:【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星 // ----- 【 Mercury 水星 】 // 【 planet / plant 】
+- > longest: The 【 Nile 】 is the 【 longest 】 【 river 】 in the world. 尼罗河是世界上最长的河 // --------- 【 Nile 尼罗河 】
 - > greatest: My 【 greatest 】 【 regret 】 is not to marry her.
 - > hightest: The Qomolangma is the 【 highest 】 mountain in the world. 珠穆朗玛峰是世界上最高的山峰
 -
@@ -100,9 +103,9 @@
 - **【 There is a river 【 beside 】 the 【 village 】. 村子的旁边有一个小河 】** // beside
 - **【 【 Side mirror 】can help you see 【 beside you 】 and 【 behind you 】 when you're turning and changing 【 lanes 】. 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面 】**
 - // -- 【 Please have a seat. 请坐 】
+- // -- 【 lane 车道 跑道 n 】
 - // -- seat 座位 n 坐 v
 - // -- village 乡村 村庄
-- // -- lane 车道 跑道 n
 -
 -
 - [DD.]
@@ -135,10 +138,10 @@
 - `【 go on. 沿着...走 】`
 - `【 follow. 沿着 跟随 v 】`
 - > 【 go straight along. 沿着...直走 】
-- _【 go down the slope. 沿着斜坡往下走 】_
-- _【 go up the hill. 上山去 】_
-- _【 go through the tunnel. 穿过隧道 】_
-- _【 go over the bridge. 过桥 】_ // 【 go over the budget. 超出预算 】
+- _【 【 go down 】 the slope. 沿着斜坡往下走 】_ // ---- 【 slope 斜坡 n 】
+- _【 【 go up 】 the hill. 上山去 】_ // -------------- 【 hill 山丘 n 】
+- _【 【 go through 】 the tunnel. 穿过隧道 】_ // ----- 【 tunnel 隧道 n 】
+- _【 【 go over 】 the bridge. 过桥 】_ // ----------- 【 go over the budget. 超出预算 】 // go over. // take over.
 - _【 go straight on past the post office. 经过邮局后直走 】_
 - 1. **【 You can 【 go down / go along 】 this street 【 for 】 five minutes. 你可以 【 沿着 】这条街走五分钟 】**
 - 1. **【 You can 【 go down / go along 】 this street 【 for 】 【 five blocks 】. 你可以沿着这条街走五个街区 】**
@@ -155,7 +158,7 @@
 -
 - [II.]
 - `【 in the direction of. 朝...的方向 】`
-- 1. **【 Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ 】**
+- 1. **【 Can you point me 【 in the direction of 】the 【 exit 】? 你能给我指出口的方向吗？ 】**
 - 2. **【 Take the subway line 18 【 in the direction of 】 【 Disney 】. 坐地铁 18 号线往迪士尼方向 】**
 - 2. **【 Take the subway line 18 【 heading towards 】 【 Disney 】. 乘坐地铁 18 号线前往迪士尼 】**
 -
@@ -176,19 +179,28 @@
 - `【 be familiar with. 熟悉 v 】`
 - `【 be similar to. 相似 v 】`
 - **【 Are you 【 familiar with 】 the streets 【 around 】 here? 你熟悉这里的街道吗？ 】**
+- **【 I 【 am familiar with 】 this city because it 【 is similar to 】 my hometown. 我很熟悉这座城市，因为它和我老家很相似 】**
 -
 -
 - [MM.]
 - `【 I'm a bit lost. 我有点迷路了 】`
-- **【 Excuse me, 【 I'm a bit lost 】. do you know where the train station 【 is 】? 对不起，我有点迷路了。你知道火车站在哪里吗？ 】**
+- **【 Excuse me, 【 I'm a bit lost 】. do you know where the 【 train station 】 【 is 】? 对不起，我有点迷路了。你知道火车站在哪里吗？ 】**
 -
 -
 - [NN.]
-- `【 nearest 最近的 adj 】`
-- `【 quickest. 最快的 adj 】`
+- `【 nearest 最近的 adj 】` = 【 nearest = closest. 】
+- `【 closest 最近的 adj 】` = 【 nearest = closest. 】
+- `【 longest 最长的 adj 】`
+- `【 greatest 最大的 adj 】`
+- `【 quickest 】`
 - 1. nearest **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
 - 1. nearest **【 Do you know where the 【 nearest 】 station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
-- 2. quickest **【 The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱 】**
+- 2. quickest **【 The 【 quickest 】 way to receive love is to give love. 得到爱最快的方法就是付出爱 】**
+-
+-
+- [OO.]
+- `【 between  在...之间 】`
+- **【 Building B is 【 between 】 A and D. 】** B 在 A 和 D 之间
 
 ## Summarize
 

@@ -1059,3 +1059,23 @@
 - `【 takeout. 外卖 】`
 - `【 takeout cabinet. 外卖柜 】`
 - **【 I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】. 我想从外卖柜里拿出我的外卖 】**
+
+###### Must 2024-08-20
+
+- 1
+- `【 leave 离开v 请假n 】`
+- `【 ask for leave. 请假 】`
+- `【 ask for 【 sick 】 leave. 请病假 】`
+- `【 ask for 【 personal 】 leave. 请事假 】`
+- `【 ask for 【 annual 】 leave. 请年假 】`
+- `【 ask for 【 maternity 】 leave. 请产假 】`
+-
+- `【 vacation 假期 】`
+- `【 holiday 假期 】`
+- `【 Statutory holiday. 法定节假日 】` // ------------------ 【 statutory 法定的 adj 】
+- > 【 go on a vacation. = go for a vacation. 去度假 】
+- > 【 go on a trip. = go for a trip. 去旅行 】
+- > 【 go traveling. 去旅行 】
+-
+- `【 pregnant 怀孕的 adj 】`
+- `【 pregnant woman. 孕妇 】`
