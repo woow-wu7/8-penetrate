@@ -1,13 +1,13 @@
-##### (1) **Direction Word**
+##### (1) **The direction words that you mast know.** // ask for directions. // give directions.
 
 - [AA.]
 - `【 sidewalk = pavement. = footway. 人行道 】`
 - `【 crosswalk = zebra crossing. 人行横道 斑马线 】`
 - `【 jaywalk 乱穿马路 】`
 - > 【 bikeway 自行车车道 】 // ------------- 【 bike 自行车 n 】 【 bicycle 自行车 n 】
-- > 【 footway 人行道 】
-- > 【 subway 地铁 】
+- > 【 footway 人行道 】 // ---------------- 【 footway. = sidewalk. = pavement. 人行道 】
 - > 【 driveway 车道 】
+- > 【 subway 地铁 】
 -
 - `【 pedestrian 行人 n 】`
 - `【 resident 居民 n 】` // ----------------【 president 总统 】 【 resistent 居民 】 // ---- 【 president / resident / reside 】
@@ -15,23 +15,25 @@
 - `【 immigrant 移民 n 】` // ---------------【 migrate 移民 迁移 v 】 // --------------------【 migrate / immigrant 】
 - `【 refugee 难民 n 】` // -----------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
 - `【 bystander 旁观者 n 】` // -------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
-- `【 crowd 人群 群从 n / 拥挤v 】`
+- `【 crowd 人群 群从 n / 拥挤v 】` // -------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
+- `【 alien 外国人 外星人 n 】` // -----------【 alien civilization. 外星文明 】
 - > 【 stranger 陌生人 n 】`
 - > 【 acquaintance 熟人 n 】` // ---------- 【 old acquaintance. 老熟人 n 】
-- > 【 alien 外国人 外星人 n 】`
-- > headlight // taillight // brake light. // fog light. // lighter lightning
-- > high beam light. // low beam light. // a beam of light. // a bolt of lightning.
+- > 【 old acquaintance. 老熟人 n 】
+- // headlight / taillight / brake light. / fog light. / lighter lightning
+- // high beam light. // low beam light. // a beam of light. // a bolt of lightning.
 - //【 run a red light. 闯红灯 】
+-
+- `【 acquaintance 熟人 n 】`
+- _【 acquaintance 熟人 n 】_
+- _【 substance 物质 n 】_
+- _【 distance 距离 n 】_ // --------------- 【 distant 远的 adj 】 【 distance 距离 n 】
+- _【 instance 例子 实例 n 】_ // ------------【 example = instance. 例子 】
+- _【 resistance 电阻 n 】_
 -
 - `【 civilization 文明 】` // ------------- 【 city / citizen / civilization 】
 - > 【 human civilization. 人类文明 】`
 - > 【 alien civilization. 外星文明 】`
--
-- `【 block 街区n 阻塞v 】`
-- `【 corner 拐角 n 】`
-- `【 roundabout 环岛 n 】`
-- `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
--
 -
 - [AA-01]
 - `【 acquaintance 熟人 n 】`
@@ -40,51 +42,153 @@
 - // -- 【 change from A to B. 】 从 A 变成了 B
 -
 - [AA-02]
+- `【 instance 实例 例子 n = example. 】`
+- `【 distant 远的 遥远的 adj 】`
+- `【 distance 距离 n 】`
+- **【 The 【 instance 】 tells us that there is a 【 distant 】 【 distance 】 between 【 strangers 】 and 【 acquaintances 】. 这个例子告诉我们，陌生人和熟人之间有很遥远的距离 】**
+-
+- [AA-03]
 - `【 alien civilization. 外星文明 n 】`
 - `【 human civilization. 人类文明 n 】`
-- **【 【 Alien civilizations 】 are more advanced than 【 human civilizations 】. 外星文明比人类文明更先进 】**
+- **【 【 Alien civilizations 】 are more 【 advanced 】 than 【 human civilizations 】. 外星文明比人类文明更先进 】**
 - // -- 【 advanced 先进的 高级的 adj 】
+-
+- [AA-04]
+- `【 crowd into. 涌入 v 】`
+- `【 concert 音乐会 演唱会 n 】`
+- `【 crowd 人群 群众 n 】`
+- **【 Fans 【 crowd into 】 the 【 concert 】. 粉丝涌入演唱会 】**
+-
 -
 -
 -
 -
 -
 - [BB.]
+- `【 intersection 十字路口 】` // ---------- 【 intersection point. 交点 】
+- `【 block 街区n 阻塞v 】`
+- `【 corner 拐角 n 】`
+- `【 roundabout 环岛 n 】`
+- `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
+-
+- `【 intersection 十字路口 】`
+- `【 interaction 相互作用 】`
+- > 【 intersection point. 交点 】
+- > 【 interaction design. 交互设计 】
+-
+- `【 nearest 最近的 adj 】` = 【 nearest = closest. 】
+- `【 closest 最近的 adj 】` = 【 nearest = closest. 】
+- `【 longest 最长的 adj 】`
+- `【 greatest 最大的 adj 】`
+- > nearest: where is the 【 nearest 】 station? 最近的车站在哪里？
+- > closest:【 Mercury 】 is the 【 closest 】 【 planet 】 to the 【 sun 】. 水星是距离太阳最近的行星
+- > longest: The 【 Nile 】 is the 【 longest 】 【 river 】 in the world. 尼罗河是世界上最长的河
+- > greatest: My 【 greatest 】 【 regret 】 is not to marry her.
+- > hightest: The Qomolangma is the 【 highest 】 mountain in the world. 珠穆朗玛峰是世界上最高的山峰
+-
+-
+-
+-
+- [CC.]
 - `【 next to. 在...旁边 】`
 - `【 beside 在...旁边 】`
 - > 【 next to. = beside. 在...旁边 】
-- _【 vacant seat. 空位 】_
+- _【 vacant seat. 空位 】_ // 【 have a seat. 请坐 】
 - _【 vacant land. 空地 】_
 - _【 wet land. 湿地 】_
 - **【 The 【 seat 】 【 next to 】 him is 【 vacant 】. 他旁边的座位是空的 】** // next to.
 - **【 There is a river 【 beside 】 the 【 village 】. 村子的旁边有一个小河 】** // beside
-- **【 【 Side mirror 】 to help you see 【 beside you 】 and 【 behind you 】 when you're turning and changing 【 lanes 】. 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面 】**
+- **【 【 Side mirror 】can help you see 【 beside you 】 and 【 behind you 】 when you're turning and changing 【 lanes 】. 侧视镜，当你转弯和变道时，可以帮助你看清你的旁边和后面 】**
+- // -- 【 Please have a seat. 请坐 】
 - // -- seat 座位 n 坐 v
-- // -- Please have a seat. 请坐
 - // -- village 乡村 村庄
 - // -- lane 车道 跑道 n
 -
 -
-- [CC.]
+- [DD.]
 - `【 across from. 在...对面 】`
 - `【 opposite. 在...对面 相反的 】`
+- `【 across from the bank = across the bank = opposite the bank. 在银行对面 】`
 - > 【 across from. = opposite. 在...对面 】
-- **【 The destination is 【 across from 】 the road, you can see it after 【 crossing the street 】. 目的地在马路对面，你穿过街道后就可以看到 】**
+- > 【 antonym / synonym / opposite 】
+- **【 The 【 destination 】 is 【 across from 】 the road, you can see it after 【 crossing the road 】. 目的地在马路对面，你穿过马路后就可以看到 】**
 - // -- 【 cross the street. 穿过街道 】
 -
 -
-- [DD.]
-- `【 around here. 附近 】`
-- **【 Is there a supermarket 【 around here 】? 这【 附近 】有超市吗？ 】**
-- **【 How long have you lived 【 around here 】? 你在这附近住多久了？ 】**
--
--
 - [EE.]
-- `【 nearest 最近的 】`
-- **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
-- **【 Do you know where the nearest station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
+- `【 around here. 附近 】`
+- `【 around 周围 n 】`
+- **【 Is there a supermarket 【 around here 】? 这【 附近 】有超市吗？ 】**
+- **【 How long have you 【 lived 】 【 around here 】? 你在这附近住多久了？ 】**
+- **【 Are you 【 familiar with 】 the streets 【 around here 】 ? 你熟悉这附近的街道吗？ 】**
 -
 -
+- [FF.]
+- `【 on the corner of. 在...的拐角处 】`
+- `【 kitty corner. 斜对角 n 】`
+- **【 The D is 【 on the corner of 】 first and second street. D 在第一街和第二街的拐角处 】**
+-
+-
+- [JJ.]
+- `【 go down. 沿着...走 】`
+- `【 go along. 沿着...走 】`
+- `【 go on. 沿着...走 】`
+- `【 follow. 沿着 跟随 v 】`
+- > 【 go straight along. 沿着...直走 】
+- _【 go down the slope. 沿着斜坡往下走 】_
+- _【 go up the hill. 上山去 】_
+- _【 go through the tunnel. 穿过隧道 】_
+- _【 go over the bridge. 过桥 】_ // 【 go over the budget. 超出预算 】
+- _【 go straight on past the post office. 经过邮局后直走 】_
+- 1. **【 You can 【 go down / go along 】 this street 【 for 】 five minutes. 你可以 【 沿着 】这条街走五分钟 】**
+- 1. **【 You can 【 go down / go along 】 this street 【 for 】 【 five blocks 】. 你可以沿着这条街走五个街区 】**
+- 2. **【 Trains 【 go over the bridge 】 to 【 cross the river 】, but cars 【 go through the tunnel 】. 火车在桥上过河，汽车则穿越隧道 】**
+-
+-
+- [HH.]
+- `【 go straight. 直走 】`
+- `【 go straight ahead. 一直往前走 】`
+- `【 go past. 经过 】`
+- **【 【 Go straight 】 and 【 go past 】 the bank, and then you will see the school. 直走然后经过银行，然后你就会看到学校 】**
+- **【 【 Go straight ahead 】 and turn left 【 at the first crossing 】.一直往前走，在第一个十字路口左转 】**
+-
+-
+- [II.]
+- `【 in the direction of. 朝...的方向 】`
+- 1. **【 Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？ 】**
+- 2. **【 Take the subway line 18 【 in the direction of 】 【 Disney 】. 坐地铁 18 号线往迪士尼方向 】**
+- 2. **【 Take the subway line 18 【 heading towards 】 【 Disney 】. 乘坐地铁 18 号线前往迪士尼 】**
+-
+-
+- [JJ.]
+- `【 go past. 经过 v 】`
+- `【 go straight. 直走 v 】`
+- **【 【 Go straight 】 and 【 go past 】 the bank, and then you will see the school. 直走然后经过银行，然后你就会看到学校 】**
+-
+-
+- [KK.]
+- `【 turn left. = go left. = make a left. = take a left. 左转 】`
+- // walking -> go left
+- // driving -> turn left
+-
+-
+- [LL.]
+- `【 be familiar with. 熟悉 v 】`
+- `【 be similar to. 相似 v 】`
+- **【 Are you 【 familiar with 】 the streets 【 around 】 here? 你熟悉这里的街道吗？ 】**
+-
+-
+- [MM.]
+- `【 I'm a bit lost. 我有点迷路了 】`
+- **【 Excuse me, 【 I'm a bit lost 】. do you know where the train station 【 is 】? 对不起，我有点迷路了。你知道火车站在哪里吗？ 】**
+-
+-
+- [NN.]
+- `【 nearest 最近的 adj 】`
+- `【 quickest. 最快的 adj 】`
+- 1. nearest **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
+- 1. nearest **【 Do you know where the 【 nearest 】 station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
+- 2. quickest **【 The quickest way to receive love is to give love. 得到爱最快的方法就是付出爱 】**
 
 ## Summarize
 

@@ -663,22 +663,31 @@
 - `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
-- > what 【 clause 】 is this sentence? 这个句子是什么从句
+- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 -
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
 - _【 interrogative 疑问的 adj 】_
 - _【 declarative 陈述的 adj 】_
 -
+- `【 conjunction 连词 连接词 n 】` --- 【 in conjunction with. 结合... 】 // 【 connect 连接 v 】 【 conjunction 连接词 n 】
+- `【 auxiliary verb. 助动词 n 】`
+- `【 part of speech. 词性 n 】` ----- 【 What's 【 part of speech 】 of this word? 这个单词是什么词性？ 】 // 【 speech 演讲 讲话 n 】
+- > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
+- > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
+-
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
-- `【 conjunction 连接词 】` ----------- 【 in conjunction with. 结合... 】 // 【 connect 连接 v 】 【 conjunction 连接词 n 】
 - `【 singular 单数 单数的 】`
 - `【 plural 复数 复数的 】`
 - > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
 - > What's the 【 opposite 】of the word 'dim'? [dim->bright]
+- > What's the 【 synonym 】of the word 'dim'? [dim->dark]
+- > What's the 【 singular 】of the word 'leaves'? [leaves->leaf]
 - > What's the 【 plural 】of the word 'leaf'? [leaf->leaves]
 - > What's the 【 past tense 】 of 【 leave 】? [leave->left]
+- > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
+- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 - // 【 single 单身的 单个的 adj 】
 - // 【 singular 单数的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'plural'.
@@ -697,8 +706,11 @@
 - `【 adjective 形容词 】`
 - `【 preposition 介词 】` // ---------- 【 position 位置 岗位 】 【 preposition 介词 】
 - `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
+- `【 conjunction 连词 】` // ---------- 【 in conjunction with. 结合... 】 // Please learn this file 【 in conjunction with 】 that file.
+- `【 auxiliary verb. 助动词 】`
 -
-- > 【 verb 动词 】
+- `【 verb 动词 】`
+- > 【 auxiliary verb. 助动词 】 // ---- 【 auxiliary verb. 助动词 n 】 // 【 auxiliary 辅助的 adj 】
 - > 【 regular verb. 规则动词】
 - > 【 irregular verb. 不规则动词 】
 -
@@ -750,6 +762,10 @@
 - `【 in conjunction with. 结合... 】`
 - **【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 你可以用连接词连接宾语从句和定语从句 】**
 - **【 Please lean this file 【 in conjunction with 】 that file. 请把这个文件和那个文件结合起来学习 】**
+-
+- [GG.]
+- `【 auxiliary verb. 助动词 n 】`
+- **【 'Do' is an 【 auxiliary 】. Do 是一个助动词 】**
 
 ###### Must 2024-07-18
 
