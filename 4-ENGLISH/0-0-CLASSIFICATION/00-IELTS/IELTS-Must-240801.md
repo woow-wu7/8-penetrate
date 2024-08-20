@@ -1015,7 +1015,7 @@
 - _【 take up. 占据 占用 v 】_
 - _【 take off. 起飞 / 脱下 v 】_
 - _【 take in. 吸收 】_
-- _【 take out. 取出 】_ // -------------------- 【 take out the takeout. 取出外卖 】
+- _【 take out. 取出 】_ // -------------------- 【 take out the takeout. 取出外卖 】 // 【 take out the garbage. 搞垃圾 】
 - _【 takeout. 外卖 】_ // --------------------- 【 take out the takeout. 取出外卖 】 // 【 takeout cabinet. 外卖柜 】 【 cabinet 柜子 n 】
 - // **【 form a habit. 养成习惯 】=【 develop a habit. 养成习惯 】**
 - // **【 take out the takeout. 取出外卖 】**

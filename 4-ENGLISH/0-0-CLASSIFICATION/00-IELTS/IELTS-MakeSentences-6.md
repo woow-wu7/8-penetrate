@@ -788,3 +788,184 @@ They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】.
 // -
 // 【 launch 发射 发动 v 】
 ```
+
+##### 分割线 ------- ------- ------- ------- ------- ------- -------
+
+##### 12 Make sentences 2024-08-21
+
+```
+1
+Remember to 【 take out the garbage 】 when you 【 go out 】.
+出门的时候，记得把垃圾倒一下
+-
+请从书包里取出你的英语书
+Please 【 take out 】 your English book from you 【 schoolbag 】.
+-
+我的外卖和快递同时到了
+My 【 takeout 】 and 【 delivery 】 【 arrived 】 at the same time.
+-
+我想从外卖柜里拿出我的外卖
+I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】.
+-
+// -
+// 【 take out. 取出 】
+// 【 take out the garbage. 倒垃圾 】
+// 【 takeout 外卖 】
+// -
+// delivery 快递 n
+// deliver 递送 v
+
+
+2
+This is my first time here.
+这是我第一次来这儿
+-
+I was only fifteen years old when I went there 【 for the first time 】.
+当我第一次去那里的时候，我只有十五岁
+-
+They 【 hit it off 】 when they met 【 for the first time 】.
+他们第一次见面就一见如故
+-
+// -
+// 【 for the first time. 第一次 】
+// -
+// 【 hit it off. 一见如故 】
+
+
+3
+Please don't 【 complain about 】 me, I will 【 explain 】 the reason   【 to 】 you.
+请不要抱怨我，我将向你解释原因
+-
+After 【 explaining 】 this thing 【 clearly 】, she stopped 【 complaining about me 】.
+解释清楚这件事后，她不再抱怨我了
+-
+I will 【 explain 】 my 【 viewpoint 】 for three 【 aspects 】.
+我将从三个方面解释我的观点
+-
+wish you a 【 plain sailing 】.
+祝你一帆风顺
+-
+// -
+// 【 complain about. 抱怨... 】
+// 【 complain about sb. 抱怨某人 】
+// -
+// 【 plain sailing. 一帆风顺 】
+// -
+// complain 抱怨 v
+// explain 解释 v
+// plain 平原 朴素的 adj
+// -
+// aspect 方面 n
+
+
+4
+The 【 sponsor 】 【 donated 】 one 【 million 】 yuan to our company.
+赞助商捐了100万元给我们公司
+// -
+// 【 sponsor 赞助商 n 】
+// 【 donate 捐赠 v 】
+// -
+
+
+5
+This 【 algorithm 】 uses 【 enumeration 】 to 【 declare 】 【 variables 】.
+这个算法使用枚举来声明变量
+// -
+// 【 algorithm 算法 n 】
+// 【 enumeration 枚举 n 】
+// -
+// 【 declare 声明 v 】
+// 【 variable 变量 n 】
+
+
+6
+【 Physical health 】 and 【 mental health 】 are both 【 precious wealth 】.
+生理健康和心理健康都是宝贵的财富
+-
+I think you are a person 【 with 】 a lot of 【 thoughts 】 and 【 ideas 】.
+我认为你是一个很有思想和想法的人
+-
+// -
+// 【 thought 思想 思考 想法 n 】 / past tense.
+// 【 thoughtful 体贴的 adj 】
+// 【 think 想 v 】
+// -
+// 【 thought leader. 思想领袖 】
+// -
+// 【 physical health. 生理健康 n 】
+// 【 mental health. 精神健康 n 】
+// -
+// 【 precious 宝贵的 珍贵的 adj 】
+// -
+// wealth 财富
+// health 健康
+
+
+7
+Your 【 tone 】 is very 【 offensive 】
+你说话的语气让人很反感
+// -
+// 【 tone 语气 语调 】
+
+
+8
+【 Choose 】 to be a tool person is also a 【 choice 】.
+选择做一个工具人，也是一种选择
+-
+Do you 【 choose 】 the 【 former 】 or the 【 latter 】?
+你选择前者还是后者
+-
+【 In some cases 】, 【 choice 】 is more important than 【 effort 】.
+在某些情况下，选择比努力更重要
+-
+// -
+// 【 choose 选择 v 】
+// 【 choice 选择 n 】
+// -
+// 【 choice 选择 n 】
+// 【 effort 努力 n 】
+// -
+// 【 former 前者n 前者的adj 】
+// 【 latter 后者n 后者的adj 】---------------- latter later
+// -
+// 【 make an effort. 努力 】
+// -
+// 【 in some cases. 在某些情况下 】
+// -
+
+
+9
+We can apply for a 【 visa 】 【 via 】 an 【 agency 】.
+我们可以通过中介申请签证
+// -
+// 【 visa 签证 n 】
+// 【 via 通过 v 】
+// -
+// 【 study vias. 学习签证 】
+// 【 student vias. 学生签证 】
+// 【 tourist vias. 旅游签证 】
+// 【 business vias. 商业签证 】
+// 【 work vias. 工作签证 】
+// -
+// 【 agency 代理机构  n 】
+// 【 agent 代理人 n 】
+
+
+10
+We need to 【 determine 】 whether the file is 【 exist 】 in a 【 recursive 】 way.
+我们需要用递归的方式判断这个文件是否存在
+-
+【 According to 】 her 【 tone 】 and 【 accent 】, we can 【 infer 】 and 【 judge 】 that she 【 views 】 me as a tool person.
+根据她的语气和口音，我们可以推断和判断她把我看作一个工具人
+-
+// -
+// 【 infer 推断 v 】
+// 【 judge 判断v 法官n 】
+// 【 determine 决定 决心 判断 v 】
+// -
+// 【 tone 语气 n 】
+// 【 accent 口音 n 】
+// -
+// 【 exist 存在 v 】
+// 【 judge by. 根据...判断 】
+```

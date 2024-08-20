@@ -2164,6 +2164,9 @@ These 【 fields 】 【 mark 】 the 【 fields 】 that you are good at.
 What 【 topics 】 are you good at?
 = Which topics are you good at?
 你擅长哪些话题？
+-
+你想谈什么话题？
+What topic do you want talk about?
 // -
 // field 领域
 
