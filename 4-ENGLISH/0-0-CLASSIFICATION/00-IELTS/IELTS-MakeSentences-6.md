@@ -799,7 +799,7 @@ Remember to 【 take out the garbage 】 when you 【 go out 】.
 出门的时候，记得把垃圾倒一下
 -
 请从书包里取出你的英语书
-Please 【 take out 】 your English book from you 【 schoolbag 】.
+Please 【 take out 】 your English book from you 【 q,.schoolbag 】.
 -
 我的外卖和快递同时到了
 My 【 takeout 】 and 【 delivery 】 【 arrived 】 at the same time.
@@ -891,11 +891,13 @@ I think you are a person 【 with 】 a lot of 【 thoughts 】 and 【 ideas �
 // 【 think 想 v 】
 // -
 // 【 thought leader. 思想领袖 】
+// 【 thought 思想 想法 n 】
 // -
 // 【 physical health. 生理健康 n 】
 // 【 mental health. 精神健康 n 】
 // -
 // 【 precious 宝贵的 珍贵的 adj 】
+// 【 precious wealth. 宝贵的财富 】
 // -
 // wealth 财富
 // health 健康
@@ -924,6 +926,7 @@ Do you 【 choose 】 the 【 former 】 or the 【 latter 】?
 // -
 // 【 choice 选择 n 】
 // 【 effort 努力 n 】
+// 【 make an effort. 努力 】
 // -
 // 【 former 前者n 前者的adj 】
 // 【 latter 后者n 后者的adj 】---------------- latter later
@@ -947,7 +950,7 @@ We can apply for a 【 visa 】 【 via 】 an 【 agency 】.
 // 【 business vias. 商业签证 】
 // 【 work vias. 工作签证 】
 // -
-// 【 agency 代理机构  n 】
+// 【 agency 代理机构  n 】 // an agency.
 // 【 agent 代理人 n 】
 
 
@@ -961,7 +964,7 @@ We need to 【 determine 】 whether the file is 【 exist 】 in a 【 recursiv
 // -
 // 【 infer 推断 v 】
 // 【 judge 判断v 法官n 】
-// 【 determine 决定 决心 判断 v 】
+// 【 determine 判断 决定 决心 v 】
 // -
 // 【 tone 语气 n 】
 // 【 accent 口音 n 】

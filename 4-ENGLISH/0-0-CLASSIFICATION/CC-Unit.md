@@ -4,10 +4,11 @@
 
 ```
 million 百万
+【 100 million. 一亿 】
 // TIPS:
 // - 1. two million. ( 不能是 two millions )
 // - 2. millions of. 表示数百万，这时才需要加复数
-// million 百万:【 This is a continent with a population of 200 million. 这是一个拥有2亿人口的大陆 】
+// million 百万:【 This is a 【 continent 】 with a population of 【 200 million 】. 这是一个拥有2亿人口的大陆 】
 // million 百万:【 The bones of dinosaurs lay underground for millions of years. 恐龙的骨头在地下埋藏了数百万年 】
 // -- bone 骨头:【 Dogs and puppies love to chew on bones. 狗和小狗喜欢咬骨头 】
 // -- chew 咀嚼: He can chew on this. 它可以咬这个

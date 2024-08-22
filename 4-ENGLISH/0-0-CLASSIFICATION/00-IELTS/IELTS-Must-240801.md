@@ -1079,3 +1079,10 @@
 -
 - `【 pregnant 怀孕的 adj 】`
 - `【 pregnant woman. 孕妇 】`
+
+###### Must 2024-08-22
+
+- 1
+- `【 in a hurry. 急忙 忙于... 】`
+- `【 take your time. 慢慢来 】`
+- **【 I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】. 我不赶时间，请慢慢吃 】**

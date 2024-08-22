@@ -507,23 +507,26 @@
 
 - 1
 - `【 marry 结婚 v 】`
-- `【 marriage 婚姻 结婚 n 】` // ----【 marriage certificate. 结婚证 】
+- `【 marriage 婚姻 结婚 n 】` // ----【 marriage certificate. 结婚证 】 【 propose marriage. 求婚 】 // 【 divorce certificate. 离婚证 】
 - // TIPS: Pay attention to the pronunciation of the word 'marry'.
 -
-- `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】
-- `【 divorced 离婚的 adj 】`
+- `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】 【 divorce rate. 离婚率 】 `【 divorced 离婚的 adj 】`
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
-- `【 propose 求婚 建议 v 】` // 【 propose 求婚 / purpose 目的 意图 / pursue 追求 追逐 】
+- `【 propose 求婚 v 】` // ------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
 - `【 purpose 目的 意图 n 】`
-- `【 pursue 追求 追逐 v 】` // pursue pursuit
--
-- `【 elope 私奔 v 】`
+- `【 pursue 追求 追逐 v 】` // ------【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
 - _【 propose to sb. 向某人求婚 】_
-- > 【 propose to sb. 向某人求婚 】
-- // TIPS: Pay attention to the pronunciation of the word 'propose'.
-- // TIPS: Pay attention to the pronunciation of the word 'purpose'.
+- // TIPS: Pay attention to the pronunciation of the word 'propose'. [propose]
+- // TIPS: Pay attention to the pronunciation of the word 'purpose'. [purpose]
+- // TIPS: Pay attention to the pronunciation of the word 'pursue'. [pursue]
 - // TIPS: Pay attention to the different pronunciation between 'propose' and 'purpose'.
+-
+- `【 elope 私奔 v 】` // -----------【 slope 斜坡 n 】 【 elope 私奔 v 】 【 envelope 信封 n 】
+- `【 fiancee 未婚妻 n 】`
+- > 【 elope 私奔 v 】
+- > 【 slope 斜坡 n 】
+- > 【 envelope 信封 n 】
 -
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
 - `【 wedding dress. 婚纱 n 】`
@@ -532,42 +535,29 @@
 - `【 wedding anniversary. 结婚周年纪念日 】` // 【 anniversary 周年纪念日 】
 - > 【 hold a wedding. 举办婚礼 】
 - > 【 take a wedding photo. 拍婚纱照 】
+- > 【 take a photo. = take a picture. 拍照 】
 - > 【 take a selfie. 拍自拍照 】
+- > 【 take action. / take measure. / take notes. / take a break. / take a shower. / take a nap. / take over. / take up. / take out. / takeout. 】
 -
-- `【 groom 新郎 】` // -------------- mushroom 蘑菇 // ---- groom groomsman
-- `【 bride 新娘 】` // -------------- bridge 桥 // -------- bride bridesmaid
-- `【 widow 寡妇 】` //--------------- window 窗户
-- `【 pregnant woman. 孕妇 】` // ---- pregnant 怀孕的 // fragment 片段
-- -
+- `【 groom 新郎 】` // --------------【 groomsman 伴郎 n 】 // ---- mushroom 蘑菇
+- `【 bride 新娘 】` // --------------【 bridesmaid 伴娘 n 】// ---- bridge 桥
+- `【 widow 寡妇 】` //---------------【 window 窗户 】
+- `【 fiancee 未婚妻 n 】`
+- `【 pregnant woman. 孕妇 n 】` // -- pregnant 怀孕的 // fragment 片段
+- // TIPS: Pay attention to the pronunciation of the word 'fiancee'. [fiancee]
+-
 - `【 groomsman 伴郎 】` // groom
 - `【 bridesmaid 伴娘 】` // bride
-- `【 fairy 仙女 小精灵 】` // fair fairy fail tail tale
+- `【 fairy 仙女 小精灵 】` // fair fairy fail tail tale // 【 fairy tale. 童话故事 】 【 fairyland 仙境 n 】
 - > 【 soulmate 灵魂伴侣 】
 - > 【 teammate 队友 】
 - > 【 classmate 同学 】
+- > 【 roommate 室友 】
 - // TIPS: pay attention to the pronunciation of the word 'bridesmaid'.
 -
-- `【 first love. = puppy love. 初恋 】` // puppy 小狗
-- `【 ex-girlfriend = former girlfriend. 前女友 】` // former 前者 以前的 adj
-- // former 前者 以前的 adj
-- // ex 前任
-- // exes. 前任(复数)
--
-- `【 honeymoon 蜜月 】` // honey 蜂蜜 // bee 蜜蜂 // 【 go on a honeymoon. 度蜜月 】// 【 go on a vacation. 休假 】
-- `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
-- `【 go on a honeymoon. 度蜜月 】`
-- `【 go on a vacation. 度假 】`
--
-- `【 pregnant 怀孕的 adj 】`
-- `【 pregnant woman. 孕妇 】`
--
-- `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
-- `【 abort 流产 中止 v 】` ----------- 主动流产 【 abort ----> abortion 】
-- // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
-- // TIPS: Pay attention to the pronunciation of the word 'abort'.
--
-- `【 womb 子宫 】` // 生
-- `【 tomb 坟墓 = grave 】` // 死 // grave
+- `【 womb 子宫 】` // ----------- 生 born
+- `【 tomb 坟墓 = grave 】` // --- 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
+- `【 bomb 炸弹 n 】` // --------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
 - `【 fetus 胎儿 】`
 - `【 baby 婴儿 宝贝 】`
 - _【 be born in. 出生于 】_
@@ -576,15 +566,36 @@
 - > die (V) -> death (N)
 - _【 brave vs grave 】_
 -
-- `【 infant 婴儿 n】`
-- `【 teenager 青少年 n 】`
-- `【 adult 成年人 n 】`
-- `【 middle-aged person. 中年人 n 】`
+- `【 pregnant woman. 孕妇 】`
+- `【 pregnant 怀孕的 adj 】`
+-
+- `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
+- `【 abort 流产 中止 v n 】` ----- 主动流产 【 abort ----> abortion 】
+- // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
+- // TIPS: Pay attention to the pronunciation of the word 'abort'.
 -
 - `【 grave 坟墓 】` = tomb
 - `【 brave 勇敢的 adj 】`
 - `【 bravery 勇敢 n 】`
 - > 【 lie in. 在于 】
+-
+- `【 first love. = puppy love. 初恋 】` // puppy 小狗
+- `【 ex-girlfriend = former girlfriend. 前女友 】` // former 前者 以前的 adj
+- > ex 前任
+- > exes. 前任(复数)
+- > former 前者 以前的 adj
+- > latter 后者 较后的 adj
+-
+- `【 honeymoon 蜜月 】` // honey 蜂蜜 // bee 蜜蜂 // 【 go on a honeymoon. 度蜜月 】// 【 go on a vacation. 休假 】
+- `【 go on a honeymoon. 度蜜月 】`
+- `【 go on a vacation. 度假 】`
+- `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
+-
+- `【 infant 婴儿 n】`
+- `【 teenager 青少年 n 】`
+- `【 adult 成年人 n 】`
+- `【 middle-aged person. 中年人 n 】`
+-
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
@@ -614,6 +625,28 @@
 - `【 make a radio. 录音 】`
 -
 -
+- [-AA.]
+- `【 envelope 信封 n 】`
+- `【 elope 私奔 v 】`
+- `【 slope 斜坡 n 】`
+- **【 He 【 picked up 】 the 【 envelope 】, 【 ran down 】 the 【 slope 】 and prepared to 【 elope 】 【 with 】 his 【 fiancee 】. 他拿起信封，跑下斜坡，准备和他的未婚妻私奔 】**
+- // -- 【 pick up. 捡起 接人 v 】
+- // -- 【 fiancee 未婚妻 n 】
+-
+- [-BB.]
+- `【 propose 求婚 v 】`
+- `【 purpose 目的 n 】`
+- `【 pursue 追求 v 】`
+- > 【 pursue happiness. 追求幸福 】
+- **【 The 【 purpose 】 of 【 proposing 】 is to 【 pursue happiness 】and 【 pursue dream 】. 求婚的目的是追求幸福和最求梦想 】**
+-
+- [-CC.]
+- `【 brave 勇敢 adj 】` ----- 【 bravely 勇敢地 adv 】
+- `【 grave 坟墓 n 】`
+- `【 courage 勇气 n 】`
+- `【 encourage 鼓励 v 】`
+- `【 discourage 阻碍 v 】`
+- **【 He 【 bravely 】 opened the 【 grave 】. 他勇敢地打开了坟墓 】**
 -
 -
 - [AA.]
@@ -737,6 +770,8 @@
 - **【 After the 【 groom 】 【 successfully 】 【 propose 】 to the 【 bride 】, they 【 eloped 】 together. 新郎向新娘求婚成功后，一起私奔了 】**
 - // groom 新郎 -> groomsman
 - // bride 新娘 -> bridesmaid
+-
+-
 -
 - [MM.]
 - `【 purpose 目的 意图 n 】`

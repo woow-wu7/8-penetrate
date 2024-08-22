@@ -2,18 +2,21 @@
   "name": "8-penetrate",
   "version": "1.0.0",
   "author": "woow_wu7",
-  "contributors": [{
-    "name": "woow_wu7",
-    "email": "woow.wu7@gmail.com",
-    "url": "https://github.com/woow-wu7"
-  }],
+  "contributors": [
+    {
+      "name": "woow_wu7",
+      "email": "woow.wu7@gmail.com",
+      "url": "https://github.com/woow-wu7"
+    }
+  ],
   "description": "> learning > 算法，前端，设计模式，英语，面试",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cnpm run dev",
     "dev": "cross-env NODE_ENV=development webpack serve --config=1-FRONTEND/8-WEBPACK/webpack.config.js",
-    "build:dev": "cross-env NODE_ENV=development webpack --config=1-FRONTEND/8-WEBPACK/webpack.config.js"
+    "build:dev": "cross-env NODE_ENV=development webpack --config=1-FRONTEND/8-WEBPACK/webpack.config.js",
+    "node": "node 2-BACKEND/1-NODE/node.js"
   },
   "repository": {
     "type": "git",

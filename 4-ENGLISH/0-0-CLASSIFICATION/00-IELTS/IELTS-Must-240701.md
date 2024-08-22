@@ -656,16 +656,16 @@
 - `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj 时态 n 】
 - `【 present tense. 现在时态 】` // ----【 present 现在的 adj 】 【 current 当前的 adj 】
 - `【 future tense. 将来时态 】`
-- // 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
-- // 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
+- > 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
+- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 -
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
 -
-- `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 n 】
+- `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
-- // 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
+- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 -
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
@@ -710,6 +710,8 @@
 - `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 - `【 conjunction 连词 】` // ---------- 【 in conjunction with. 结合... 】 // Please learn this file 【 in conjunction with 】 that file.
 - `【 auxiliary verb. 助动词 】`
+- > What's the 【 position 】 of the 【 preposition 】 in the sentence?
+- > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
 -
 - `【 verb 动词 】`
 - > 【 auxiliary verb. 助动词 】 // ---- 【 auxiliary verb. 助动词 n 】 // 【 auxiliary 辅助的 adj 】
