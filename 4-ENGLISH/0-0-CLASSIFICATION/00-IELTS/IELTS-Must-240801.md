@@ -7,6 +7,9 @@
 - `【 in advance. 提前 adv 】` // ------ 【 advanced vocabulary. 高级词汇 】 【 advanced equipment. 先进设备 】 // advance advantage
 - `【 in public. 公开的 当众地 adv 】`
 - `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
+- `【 in total. 总共 adv 】`
+- `【 on purpose. 故意地 adv 】`
+-
 - > 【 secretary / laboratory / dormitory / repository / factory / directory / victory / history / mandatory 】
 - > 【 directory / directly / director 】 【 personnel director. 】 【 sales director. 】
 - > 【 labor / laboratory 】 【 labor day. 】 【 labor law. 】 【 labor contract. 】
@@ -100,6 +103,16 @@
 - **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
 - // -- 【 announce 宣布 v 】
 - // -- 【 declaration 声明 n 】
+-
+- [-DD.]
+- `【 in total. 总共 adv 】`
+- `【 episode 集 n 】`
+- `【 TV series. = TV drama. 电视剧 】`
+- **【 How many 【 episodes 】 of this 【 TV series 】 【 in total 】? 这部电视剧一共有多少集？ 】**
+-
+- [-DD.]
+- `【 on purpose. 故意地 adv 】`
+- **【 I know you are ignoring me 【 on purpose 】. 我知道你是故意不理我. 】**
 -
 - [DD.]
 - `【 insult 侮辱 v 】`

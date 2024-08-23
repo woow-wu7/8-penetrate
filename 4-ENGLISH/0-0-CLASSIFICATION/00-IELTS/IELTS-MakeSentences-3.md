@@ -8,7 +8,7 @@ Which city do you 【 live in 】?
 Which city do you 【 work in 】?
 你在哪个城市工作
 -
-Which city do you 【 reside 】in?
+Which city do you 【 reside in 】?
 你定居在哪座城市
 -
 Which city 【 were 】 you 【 born in 】?

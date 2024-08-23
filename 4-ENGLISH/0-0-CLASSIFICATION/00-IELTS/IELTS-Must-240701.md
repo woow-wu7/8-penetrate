@@ -710,12 +710,14 @@
 - `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 - `【 conjunction 连词 】` // ---------- 【 in conjunction with. 结合... 】 // Please learn this file 【 in conjunction with 】 that file.
 - `【 auxiliary verb. 助动词 】`
+- `【 regular verb. 规则动词 】`
+- `【 irregular verb. 不规则动词 】`
 - > What's the 【 position 】 of the 【 preposition 】 in the sentence?
 - > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
 -
 - `【 verb 动词 】`
 - > 【 auxiliary verb. 助动词 】 // ---- 【 auxiliary verb. 助动词 n 】 // 【 auxiliary 辅助的 adj 】
-- > 【 regular verb. 规则动词】
+- > 【 regular verb. 规则动词 】
 - > 【 irregular verb. 不规则动词 】
 -
 - `【 tone 语气 音调 n 】`

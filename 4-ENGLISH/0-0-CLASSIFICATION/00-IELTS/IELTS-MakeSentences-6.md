@@ -799,7 +799,7 @@ Remember to 【 take out the garbage 】 when you 【 go out 】.
 出门的时候，记得把垃圾倒一下
 -
 请从书包里取出你的英语书
-Please 【 take out 】 your English book from you 【 q,.schoolbag 】.
+Please 【 take out 】 your English book from your 【 schoolbag 】.
 -
 我的外卖和快递同时到了
 My 【 takeout 】 and 【 delivery 】 【 arrived 】 at the same time.
@@ -833,13 +833,13 @@ They 【 hit it off 】 when they met 【 for the first time 】.
 
 
 3
-Please don't 【 complain about 】 me, I will 【 explain 】 the reason   【 to 】 you.
+Please don't 【 complain about 】 me, I will 【 explain 】 the reason  【 to 】 you.
 请不要抱怨我，我将向你解释原因
 -
 After 【 explaining 】 this thing 【 clearly 】, she stopped 【 complaining about me 】.
 解释清楚这件事后，她不再抱怨我了
 -
-I will 【 explain 】 my 【 viewpoint 】 for three 【 aspects 】.
+I will 【 explain 】 my 【 viewpoint 】 【 from 】 three 【 aspects 】.
 我将从三个方面解释我的观点
 -
 wish you a 【 plain sailing 】.
@@ -971,4 +971,38 @@ We need to 【 determine 】 whether the file is 【 exist 】 in a 【 recursiv
 // -
 // 【 exist 存在 v 】
 // 【 judge by. 根据...判断 】
+```
+
+##### 13 Make sentences 2024-08-23
+
+```
+1
+How many 【 episodes 】 of this 【 TV series 】 【 in total 】?
+这部电视剧一共有多少集？
+-
+I know you are ignoring me 【 on purpose 】.
+我知道你是故意不理我
+-
+// -
+// 【 in total. 总共 adv 】
+// 【 on purpose. 故意地 adv 】
+// -
+// 【 episode 集 n 】
+// 【 TV series. = TV drama. 电视剧 n 】
+
+
+2
+He 【 bravely 】 opened the 【 grave 】.
+他勇敢地打开了坟墓
+// -
+// 【 brave 勇敢地 adj 】
+// 【 grave 坟墓 n 】
+// -
+// 【 womb 子宫 n 】
+// 【 tomb = grave. 坟墓 】
+// 【 bomb 炸弹 n 】
+// -
+// womb 子宫 n
+// fetus 胎儿 n
+// infant 婴儿 n
 ```

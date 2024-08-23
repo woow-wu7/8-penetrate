@@ -140,7 +140,7 @@
 - > 【 go straight along. 沿着...直走 】
 - _【 【 go down 】 the slope. 沿着斜坡往下走 】_ // ---- 【 slope 斜坡 n 】
 - _【 【 go up 】 the hill. 上山去 】_ // -------------- 【 hill 山丘 n 】
-- _【 【 go through 】 the tunnel. 穿过隧道 】_ // ----- 【 tunnel 隧道 n 】
+- _【 【 go through 】 the 【 tunnel 】. 穿过隧道 】_ // ----- 【 tunnel 隧道 n 】
 - _【 【 go over 】 the bridge. 过桥 】_ // ----------- 【 go over the budget. 超出预算 】 // go over. // take over.
 - _【 go straight on past the post office. 经过邮局后直走 】_
 - 1. **【 You can 【 go down / go along 】 this street 【 for 】 five minutes. 你可以 【 沿着 】这条街走五分钟 】**

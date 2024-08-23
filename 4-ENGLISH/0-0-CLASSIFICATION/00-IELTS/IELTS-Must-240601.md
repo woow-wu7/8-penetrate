@@ -21,7 +21,7 @@
 -
 - `【 animation 动画 动画片 】`
 - `【 cartoon 卡通片 】`
-- // TIPS: Pay attention to the pronunciation of the word 'animation'.
+- // TIPS: Pay attention to the pronunciation of the word 'animation'. [animation]
 -
 - `【 cinema 电影院 n 】`
 - `【 movie theater. 电影院 n 】`
@@ -37,7 +37,7 @@
 - `【 title 标题 】` // title // subtitle // caption
 - `【 preface 前言 序言 】`
 - `【 chapter 章节 】`
-- -
+-
 - `【 tale 故事n 讲述n 】` // ---【 fairy tale. 童话故事 】 // tale tail retail detail fail
 - `【 story 故事 情节 】`
 - `【 novel 小说 】`
@@ -92,6 +92,8 @@
 - `【 headmistress 女校长 】`
 - `【 waiter 男服务员 】`
 - `【 waitress 女服务员 】`
+- `【 steward 空少 n  】`
+- `【 stewardess 空姐 n 】`
 - _【 act in. 扮演 】_
 - _【 act as. 扮演 】_
 - _【 participate in. 参加 】_
@@ -514,9 +516,10 @@
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
 - `【 propose 求婚 v 】` // ------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
-- `【 purpose 目的 意图 n 】`
+- `【 purpose 目的 意图 n 】` // --- `【 on purpose. 故意的 adv 】`
 - `【 pursue 追求 追逐 v 】` // ------【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
 - _【 propose to sb. 向某人求婚 】_
+- _【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】_
 - // TIPS: Pay attention to the pronunciation of the word 'propose'. [propose]
 - // TIPS: Pay attention to the pronunciation of the word 'purpose'. [purpose]
 - // TIPS: Pay attention to the pronunciation of the word 'pursue'. [pursue]
@@ -525,7 +528,7 @@
 - `【 elope 私奔 v 】` // -----------【 slope 斜坡 n 】 【 elope 私奔 v 】 【 envelope 信封 n 】
 - `【 fiancee 未婚妻 n 】`
 - > 【 elope 私奔 v 】
-- > 【 slope 斜坡 n 】
+- > 【 slope 斜坡 n 】 // -----------【 slide 滑行 v / 滑梯 n 】 // 【 slide -> slid 】
 - > 【 envelope 信封 n 】
 -
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
@@ -541,10 +544,11 @@
 -
 - `【 groom 新郎 】` // --------------【 groomsman 伴郎 n 】 // ---- mushroom 蘑菇
 - `【 bride 新娘 】` // --------------【 bridesmaid 伴娘 n 】// ---- bridge 桥
-- `【 widow 寡妇 】` //---------------【 window 窗户 】
 - `【 fiancee 未婚妻 n 】`
+- `【 widow 寡妇 】` //---------------【 window 窗户 】
 - `【 pregnant woman. 孕妇 n 】` // -- pregnant 怀孕的 // fragment 片段
 - // TIPS: Pay attention to the pronunciation of the word 'fiancee'. [fiancee]
+- // TIPS: Pay attention to the pronunciation of the word 'pregnant'. [pregnant]
 -
 - `【 groomsman 伴郎 】` // groom
 - `【 bridesmaid 伴娘 】` // bride
@@ -557,27 +561,30 @@
 -
 - `【 womb 子宫 】` // ----------- 生 born
 - `【 tomb 坟墓 = grave 】` // --- 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
-- `【 bomb 炸弹 n 】` // --------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
+- `【 embryo 胚胎n 胚胎的 adj 】`
 - `【 fetus 胎儿 】`
-- `【 baby 婴儿 宝贝 】`
+- `【 infant 婴儿 n 】` // -------【 baby 婴儿 宝贝 】
+- > 【 womb 子宫 】
+- > 【 tomb 坟墓 】
+- > 【 bomb 炸弹 n 】` // --------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
+- _【 brave vs grave 】_
 - _【 be born in. 出生于 】_
 - _【 die in. 死于 】_
-- > born (V) -> birth (N)
-- > die (V) -> death (N)
-- _【 brave vs grave 】_
--
-- `【 pregnant woman. 孕妇 】`
-- `【 pregnant 怀孕的 adj 】`
+- _【 born (V) -> birth (N) 】_
+- _【 die (V) -> death (N) 】_
+- // TIPS: Pay attention to th pronunciation of the word 'infant'. [infant]
 -
 - `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
 - `【 abort 流产 中止 v n 】` ----- 主动流产 【 abort ----> abortion 】
 - // TIPS: Pay attention to the pronunciation of the word 'miscarry'.
 - // TIPS: Pay attention to the pronunciation of the word 'abort'.
 -
-- `【 grave 坟墓 】` = tomb
-- `【 brave 勇敢的 adj 】`
-- `【 bravery 勇敢 n 】`
-- > 【 lie in. 在于 】
+- `【 honeymoon 蜜月 】` // 【 honey 蜂蜜 宝贝 】 【 bee 蜜蜂 】 // 【 go on a honeymoon. 度蜜月 】 【 go on a vacation. 休假 】
+- `【 Valentine's day. 情人节 】`
+- `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
+- > 【 go on a honeymoon. 度蜜月 】`
+- > 【 go on a vacation. 度假 】`
+- > 【 moon roof. 玻璃天窗 】
 -
 - `【 first love. = puppy love. 初恋 】` // puppy 小狗
 - `【 ex-girlfriend = former girlfriend. 前女友 】` // former 前者 以前的 adj
@@ -586,16 +593,15 @@
 - > former 前者 以前的 adj
 - > latter 后者 较后的 adj
 -
-- `【 honeymoon 蜜月 】` // honey 蜂蜜 // bee 蜜蜂 // 【 go on a honeymoon. 度蜜月 】// 【 go on a vacation. 休假 】
-- `【 go on a honeymoon. 度蜜月 】`
-- `【 go on a vacation. 度假 】`
-- `【 wedding anniversary. 结婚周年纪念日 】` // anniversary 周年纪念日
--
-- `【 infant 婴儿 n】`
+- `【 infant 婴儿 n 】`
 - `【 teenager 青少年 n 】`
 - `【 adult 成年人 n 】`
 - `【 middle-aged person. 中年人 n 】`
 -
+- `【 grave 坟墓 】` = tomb
+- `【 brave 勇敢的 adj 】`
+- `【 bravery 勇敢 n 】`
+- > 【 lie in. 在于 】
 -
 - `【 marriage certificate. 结婚证 】`
 - `【 divorce certificate. 离婚证 】`
@@ -638,6 +644,7 @@
 - `【 purpose 目的 n 】`
 - `【 pursue 追求 v 】`
 - > 【 pursue happiness. 追求幸福 】
+- > 【 pursue dream. 最求梦想 】
 - **【 The 【 purpose 】 of 【 proposing 】 is to 【 pursue happiness 】and 【 pursue dream 】. 求婚的目的是追求幸福和最求梦想 】**
 -
 - [-CC.]
