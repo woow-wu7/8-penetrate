@@ -1,13 +1,19 @@
-##### (1) **The direction words that you mast know.** // ask for directions. // give directions.
+##### (1) **The direction words that you mast know.** // --- ask for directions. // give directions.
 
 - [AA.]
 - `【 sidewalk = pavement. = footway. 人行道 】`
 - `【 crosswalk = zebra crossing. 人行横道 斑马线 】`
 - `【 jaywalk 乱穿马路 】`
-- > 【 bikeway 自行车车道 】 // ------------- 【 bike 自行车 n 】 【 bicycle 自行车 n 】
 - > 【 footway 人行道 】 // ---------------- 【 footway. = sidewalk. = pavement. 人行道 】
+- > 【 bikeway 自行车车道 】 // ------------- 【 bike 自行车 n 】 【 bicycle 自行车 n 】
 - > 【 driveway 车道 】
 - > 【 subway 地铁 】
+- > 【 highway = freeway. 高速公路 】
+- // 【 high-speed rail. 高铁 】 // -------- 【 rail / trail / tail / retail / tale / taller 】
+- // 【 express train. 快车 】
+- _【 express 表达 v / 特快的 adj 】_
+- _【 experience 经验 体验 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'express'. [express]
 -
 - `【 pedestrian 行人 n 】`
 - `【 resident 居民 n 】` // ----------------【 president 总统 】 【 resistent 居民 】 // ---- 【 president / resident / reside 】
@@ -17,7 +23,7 @@
 - `【 bystander 旁观者 n 】` // -------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - `【 crowd 人群 群从 n / 拥挤v 】` // -------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
 - `【 alien 外国人 外星人 n 】` // -----------【 alien civilization. 外星文明 】
-- > 【 stranger 陌生人 n 】`
+- > 【 stranger 陌生人 n 】` // -------------【 strange 奇怪的 陌生的 adj 】 【 strangely 奇怪地 adv 】
 - > 【 acquaintance 熟人 n 】` // ---------- 【 old acquaintance. 老熟人 n 】
 - > 【 old acquaintance. 老熟人 n 】
 - // headlight / taillight / brake light. / fog light. / lighter lightning
@@ -43,6 +49,12 @@
 - **【 We changed from 【 acquaintance 】 to 【 stranger 】. 我们从熟人变成陌生人 】**
 - // -- 【 change from A to B. 】 从 A 变成了 B
 -
+- [AA-01]
+- `【 strange 奇怪的 陌生的 adj 】`
+- `【 stranger 陌生人 n 】`
+- `【 strangely 奇怪地 adv 】`
+- **【 【 Strangely 】, She isn't a 【 strange 】 【 stranger 】. 奇怪的是她并不是一个陌生的陌生人 】**
+-
 - [AA-02]
 - `【 instance 实例 例子 n = example. 】`
 - `【 distant 远的 遥远的 adj 】`
@@ -54,6 +66,7 @@
 - `【 human civilization. 人类文明 n 】`
 - **【 【 Alien civilizations 】 are more 【 advanced 】 than 【 human civilizations 】. 外星文明比人类文明更先进 】**
 - // -- 【 advanced 先进的 高级的 adj 】
+- // -- 【 in advance. 提前 】
 -
 - [AA-04]
 - `【 crowd into. 涌入 v 】`
@@ -67,17 +80,18 @@
 -
 -
 - [BB.]
+- `【 junction 交叉路口 】` ------------------ 三面的检查 T // -------- 【 junction station. 枢纽站 n 】
+- `【 intersection 十字路口 】` -------------- 四面的交叉 + // -------- 【 intersection point. 交点 n 】
+- `【 interaction 相互作用 】` -------------- 【 interaction design. 交互设计 】
+- > 【 intersection point. 交点 】
+- > 【 interaction design. 交互设计 】
+-
 - `【 intersection 十字路口 】` // ---------- 【 intersection point. 交点 】
 - `【 block 街区n 阻塞v 】`
 - `【 corner 拐角 n 】`
 - `【 roundabout 环岛 n 】`
 - `【 avenue 大道 n 】` // ------------------【 revenue 收入 】 【 avenue 大道 】
 - // TIPS: Pay attention to the pronunciation of the word 'intersection'. [intersection]
--
-- `【 intersection 十字路口 】`
-- `【 interaction 相互作用 】`
-- > 【 intersection point. 交点 】
-- > 【 interaction design. 交互设计 】
 -
 - `【 nearest 最近的 adj 】` = 【 nearest = closest. 】
 - `【 closest 最近的 adj 】` = 【 nearest = closest. 】
@@ -138,10 +152,10 @@
 - `【 go on. 沿着...走 】`
 - `【 follow. 沿着 跟随 v 】`
 - > 【 go straight along. 沿着...直走 】
-- _【 【 go down 】 the slope. 沿着斜坡往下走 】_ // ---- 【 slope 斜坡 n 】
-- _【 【 go up 】 the hill. 上山去 】_ // -------------- 【 hill 山丘 n 】
-- _【 【 go through 】 the 【 tunnel 】. 穿过隧道 】_ // ----- 【 tunnel 隧道 n 】
-- _【 【 go over 】 the bridge. 过桥 】_ // ----------- 【 go over the budget. 超出预算 】 // go over. // take over.
+- _【 【 go down 】 the slope. 沿着斜坡往下走 】_ // ----【 slope 斜坡 n 】 【 elope 私奔 n 】 【 envelope 信封 n 】
+- _【 【 go up 】 the hill. 上山去 】_ // --------------【 hill 山丘 n 】
+- _【 【 go through 】 the 【 tunnel 】. 穿过隧道 】_ // 【 tunnel 隧道 n 】
+- _【 【 go over 】 the bridge. 过桥 】_ // ------------【 go over the budget. 超出预算 】 // go over. // take over.
 - _【 go straight on past the post office. 经过邮局后直走 】_
 - 1. **【 You can 【 go down / go along 】 this street 【 for 】 five minutes. 你可以 【 沿着 】这条街走五分钟 】**
 - 1. **【 You can 【 go down / go along 】 this street 【 for 】 【 five blocks 】. 你可以沿着这条街走五个街区 】**
@@ -149,15 +163,19 @@
 -
 -
 - [HH.]
-- `【 go straight. 直走 】`
-- `【 go straight ahead. 一直往前走 】`
+- `【 go straight. 直走 】` // ---------------------- 【 go straight. = go straight on. 直走 】
 - `【 go past. 经过 】`
+- `【 go straight on past. 直走并经过... 】`
+- > 【 go straight on. = go straight. 直走 】
+- > 【 go straight ahead. 一直往前走 】`
+- _【 go straight on past the post office. 经过邮局后直走 】_
 - **【 【 Go straight 】 and 【 go past 】 the bank, and then you will see the school. 直走然后经过银行，然后你就会看到学校 】**
 - **【 【 Go straight ahead 】 and turn left 【 at the first crossing 】.一直往前走，在第一个十字路口左转 】**
 -
 -
 - [II.]
 - `【 in the direction of. 朝...的方向 】`
+- `【 heading towards. 朝...方向 】`
 - 1. **【 Can you point me 【 in the direction of 】the 【 exit 】? 你能给我指出口的方向吗？ 】**
 - 2. **【 Take the subway line 18 【 in the direction of 】 【 Disney 】. 坐地铁 18 号线往迪士尼方向 】**
 - 2. **【 Take the subway line 18 【 heading towards 】 【 Disney 】. 乘坐地铁 18 号线前往迪士尼 】**
@@ -174,20 +192,31 @@
 - // walking -> go left
 - // driving -> turn left
 -
--
 - [LL.]
+- `【 take/make a first left. 在第一个路口左转 】`
+- `【 take/make a second left. 在第二个路口左转 】`
+- **【 【 Go straight on past 】 the bank and then 【 take a second left 】. 一直往前走，经过银行，然后在第二个路口向左转 】**
+-
+-
+-
+- [MM.]
 - `【 be familiar with. 熟悉 v 】`
 - `【 be similar to. 相似 v 】`
 - **【 Are you 【 familiar with 】 the streets 【 around 】 here? 你熟悉这里的街道吗？ 】**
 - **【 I 【 am familiar with 】 this city because it 【 is similar to 】 my hometown. 我很熟悉这座城市，因为它和我老家很相似 】**
 -
 -
-- [MM.]
+- [NN.]
 - `【 I'm a bit lost. 我有点迷路了 】`
 - **【 Excuse me, 【 I'm a bit lost 】. do you know where the 【 train station 】 【 is 】? 对不起，我有点迷路了。你知道火车站在哪里吗？ 】**
 -
 -
-- [NN.]
+- [OO.]
+- `【 between  在...之间 】`
+- **【 Building B is 【 between 】 A and D. 】** B 在 A 和 D 之间
+-
+-
+- [PP.]
 - `【 nearest 最近的 adj 】` = 【 nearest = closest. 】
 - `【 closest 最近的 adj 】` = 【 nearest = closest. 】
 - `【 longest 最长的 adj 】`
@@ -196,11 +225,28 @@
 - 1. nearest **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
 - 1. nearest **【 Do you know where the 【 nearest 】 station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
 - 2. quickest **【 The 【 quickest 】 way to receive love is to give love. 得到爱最快的方法就是付出爱 】**
--
--
-- [OO.]
-- `【 between  在...之间 】`
-- **【 Building B is 【 between 】 A and D. 】** B 在 A 和 D 之间
+
+##### (2) **The direction sentences that you mast know.** // ask for directions. // give directions.
+
+```
+1
+Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?
+- 1. Sorry, I'm new in here. 我是新来的
+- 2. Sorry, I'm not from around here. 我不是这附近的人
+
+
+2
+take/make the first left. 在第一个路口左转
+take/make the second left. 在第二个路口左转
+
+
+3
+You can 【 take the elevator to 】 the 5th floor.
+You can 【 take the stairs to 】the 2nd floor.
+You can 【 take the stairs to 】 the 【 basement 】. 你可以走楼梯到地下室
+// I can take you to the elevator.
+// I can take you to where you want to go.
+```
 
 ## Summarize
 
@@ -429,7 +475,7 @@
 - `Take the subway line 18 【 heading towards 】 Disney. 乘坐地铁18号线前往迪士尼`
 - `Take the subway line 18 【 in the direction of 】 Disney. 坐地铁18号线往迪士尼方向`
 - `Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
-- `Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
+- `Just take the train 【 heading toward 】 Manhattan. 只需乘坐开往曼哈顿的7号列车`
 -
 -
 -
@@ -581,7 +627,8 @@
 - // The avenue had never been paved, and deep mud made it impassable in winter.
 -
 - `pretend 假装`
-- // `Let's pretend you are in Australia. 让我们假装你在澳大利亚`
+- // `Let's pretend you are 【 in Australia 】. 让我们假装你在澳大利亚`
+- // `I pretended to study hard, but actually i chatted on my phone. 我假装很努力的学习，但是实际上我在手机上聊天`
 - // Just pretend you fell. 假装你摔倒了
 -
 - quickest 最快的

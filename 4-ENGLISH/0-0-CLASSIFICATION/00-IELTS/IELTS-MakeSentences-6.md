@@ -1006,3 +1006,48 @@ He 【 bravely 】 opened the 【 grave 】.
 // fetus 胎儿 n
 // infant 婴儿 n
 ```
+
+##### 14 Make sentences 2024-08-24
+
+```
+1
+【 Strangely 】, she isn't a 【 strange 】 【 stranger 】.
+奇怪的是她并不是一个陌生的陌生人
+-
+We changed from 【 strangers 】 to 【 acquaintances 】.
+我们从陌生人变成了熟人
+-
+// -
+// 【 strange 奇怪的 陌生的 adj 】
+// 【 stranger 陌生人 n 】
+// 【 strangely 奇怪地 adv 】
+// -
+// 【 stranger 陌生人 n 】
+// 【 acquaintance 熟人 n 】
+
+
+2
+If it's not an 【 urgent 】 situation, please don't 【 pretend 】 to ignore me, I just want to 【 urge 】 you to study.
+如果不是紧急情况的话请不要假装不理我，我只想敦促你学习
+// -
+// 【 urge 敦促 v 】
+// 【 urgent 紧急的 adj 】
+
+
+3
+我不赶时间，请慢慢吃
+I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】.
+// -
+// 【 in a hurry. 急忙 忙于... 】`
+// 【 take your time. 慢慢来 】`
+
+
+4
+【 Go straight on past 】 the bank and then 【 take a second left 】.
+一直往前走，经过银行，然后在第二个路口向左转
+// -
+// 【 go straight. 直走 】
+// 【 go past. 经过 】
+// -
+// 【 go straight on past. 直走经过... 】
+```

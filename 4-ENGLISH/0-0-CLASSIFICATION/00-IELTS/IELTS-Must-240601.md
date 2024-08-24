@@ -552,18 +552,22 @@
 -
 - `【 groomsman 伴郎 】` // groom
 - `【 bridesmaid 伴娘 】` // bride
+- `【 matchmaker 红娘 媒人 n 】`
 - `【 fairy 仙女 小精灵 】` // fair fairy fail tail tale // 【 fairy tale. 童话故事 】 【 fairyland 仙境 n 】
+- `【 fall in love at first sight. 一见钟情 】`
 - > 【 soulmate 灵魂伴侣 】
+- > 【 playmate 玩伴 】
 - > 【 teammate 队友 】
+- > 【 workmate = colleague. 同事 】
 - > 【 classmate 同学 】
 - > 【 roommate 室友 】
 - // TIPS: pay attention to the pronunciation of the word 'bridesmaid'.
 -
-- `【 womb 子宫 】` // ----------- 生 born
-- `【 tomb 坟墓 = grave 】` // --- 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
-- `【 embryo 胚胎n 胚胎的 adj 】`
+- `【 womb 子宫 】` // -------------- 生 born
+- `【 tomb 坟墓 = grave 】` // ------ 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
+- `【 embryo 胚胎n 胚胎的 adj 】`// --【 embryo stage. 胚胎阶段 】
 - `【 fetus 胎儿 】`
-- `【 infant 婴儿 n 】` // -------【 baby 婴儿 宝贝 】
+- `【 infant 婴儿 n 】` // ----------【 baby 婴儿 宝贝 】
 - > 【 womb 子宫 】
 - > 【 tomb 坟墓 】
 - > 【 bomb 炸弹 n 】` // --------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
@@ -573,6 +577,7 @@
 - _【 born (V) -> birth (N) 】_
 - _【 die (V) -> death (N) 】_
 - // TIPS: Pay attention to th pronunciation of the word 'infant'. [infant]
+- // TIPS: Pay attention to th pronunciation of the word 'embryol'. [embryol]
 -
 - `【 miscarry 流产 v 】` -------- 意外流产 【 miscarry -> miscarriage 】
 - `【 abort 流产 中止 v n 】` ----- 主动流产 【 abort ----> abortion 】
@@ -593,6 +598,7 @@
 - > former 前者 以前的 adj
 - > latter 后者 较后的 adj
 -
+- `【 fetus 胎儿 n 】`
 - `【 infant 婴儿 n 】`
 - `【 teenager 青少年 n 】`
 - `【 adult 成年人 n 】`
@@ -614,9 +620,6 @@
 - `【 father-in-law. 岳父 】`
 - `【 mother-in-law. 岳母 丈母娘 】`
 - // TIPS: Pay attention to the pronunciation of the word 'stepfather'.
--
-- `【 matchmaker 红娘 媒人 n 】`
-- `【 fall in love at first sight. 一见钟情 】`
 -
 - `【 selfie 自拍 】`
 - `【 selfie stick. 自拍杆 】`

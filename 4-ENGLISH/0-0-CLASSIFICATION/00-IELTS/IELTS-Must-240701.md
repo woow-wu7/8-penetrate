@@ -723,6 +723,7 @@
 - `【 tone 语气 音调 n 】`
 - `【 pronunciation 发音 n 】`
 - `【 accent 口音 n 】`
+- `【 idiom 成语 方言 n 】`
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
 - > 【 a heavy foreign accent. 很重的外国口音 】

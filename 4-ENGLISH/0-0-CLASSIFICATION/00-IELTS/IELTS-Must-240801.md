@@ -563,6 +563,7 @@
 - `【 approve 批准 v 】` // --------------- 【 approved 批准的 adj 】 【 get approved. 获得批准 】 // 【 approval 批准 n 】
 - `【 improve 提升 v 】`
 - `【 prove 证明 v 】`
+- `【 proof 证据 n = evidence. 】`
 - > 【 roof 屋顶 】 // -------------------- 【 moon roof. 天窗 】
 - > 【 proof 证据 】// -------------------- 【 fireproof vest. 防弹背心 】 【 firecracker 鞭炮 n 】
 - > 【 evidence 证据 】 // ---------------- 【 evidence. = proof. 证据 】
@@ -691,6 +692,7 @@
 - > 【 electric current. 电流 n 】
 - > 【 electric voltage. 电压 n 】
 - > 【 electric resistance. 电阻 n 】 // - 【 resist 抵抗 v 】 【 resistance 抵抗 n 】 // 【 resist / insist / persist / assist 】
+- > 【 electric power. 电功率 n 】
 - > 【 electric appliance. 电器 n 】 // -- 【 appliance 电器 n 】
 - > 【 electric circuit. 电路 n 】 // ---- 【 circuit 电路 n 】
 - > 【 electric eel. 电鳗 n 】

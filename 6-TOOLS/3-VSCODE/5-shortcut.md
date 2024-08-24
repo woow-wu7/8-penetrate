@@ -7,6 +7,19 @@
 ```
 快捷键设置: command+k / command+s
 主题设置: command+k / command+t
+设置: command + ,
+
+查找: command + f
+查找后下一个: command + g
+查找后上一个: command + shift + g
+
+展开/收缩左侧菜单: command + b
+// 提示: 当光标在代码中时，比如在md中，command+b是强调加黑的效果
+// 所以: 我们需要用 command+shift+e，先选中左侧菜单，在 command+b 显示隐藏
+
+
+--
+
 
 breadcrumb 面包屑相关快捷键
 快捷键设置:  command +k  / command + s 调出快捷键，然后搜索 breadcrumb
