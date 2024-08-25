@@ -47,30 +47,6 @@
     "title": "EL-PLUS",
     "type": "group"
   },
-  "group-lhx5ok5d": {
-    "color": "purple",
-    "createTime": 1684657673473,
-    "id": "group-lhx5ok5d",
-    "tabs": [
-      {
-        "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
-        "title": "youzan/vant: A lightweight, customizable Vue UI library for mobile web apps.",
-        "url": "https://github.com/youzan/vant"
-      },
-      {
-        "favIconUrl": "https://fastly.jsdelivr.net/npm/@vant/assets/logo.png",
-        "title": "Vant 4 - 轻量、可定制的移动端组件库",
-        "url": "https://vant-contrib.gitee.io/vant/#/zh-CN"
-      },
-      {
-        "favIconUrl": "https://sourcegraph.com/favicon.ico",
-        "title": "youzan/vant - Sourcegraph",
-        "url": "https://sourcegraph.com/github.com/youzan/vant"
-      }
-    ],
-    "title": "Vant",
-    "type": "group"
-  },
   "group-lhxej18n": {
     "color": "cyan",
     "createTime": 1684672532231,
@@ -252,79 +228,10 @@
     "title": "TIM",
     "type": "group"
   },
-  "group-lyr65epb": {
-    "color": "red",
-    "createTime": 1721300962223,
-    "id": "group-lyr65epb",
-    "tabs": [
-      {
-        "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
-        "title": "woow-wu7 (7)",
-        "url": "https://github.com/woow-wu7"
-      },
-      {
-        "favIconUrl": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png",
-        "title": "Sentence Classification: User Query",
-        "url": "https://chatgpt.com/c/54db247e-bbc8-483f-a262-905c50d46131"
-      },
-      {
-        "favIconUrl": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
-        "title": "移动端对话 - 豆包",
-        "url": "https://www.doubao.com/chat/61949222658"
-      },
-      {
-        "favIconUrl": "https://chat.deepseek.com/favicon.svg",
-        "title": "DeepSeek",
-        "url": "https://chat.deepseek.com/"
-      },
-      {
-        "favIconUrl": "https://shared-https.ydstatic.com/images/favicon.ico",
-        "title": "我发誓不会咒骂他人",
-        "url": "https://www.youdao.com/result?word=%E6%88%91%E5%8F%91%E8%AA%93%E4%B8%8D%E4%BC%9A%E5%92%92%E9%AA%82%E4%BB%96%E4%BA%BA&lang=en"
-      },
-      {
-        "favIconUrl": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon.ico",
-        "title": "百度翻译-200种语言互译、沟通全世界！",
-        "url": "https://fanyi.baidu.com/#zh/en/%E6%88%91%E5%8F%91%E8%AA%93%E4%B8%8D%E4%BC%9A%E5%92%92%E9%AA%82%E4%BB%96%E4%BA%BA"
-      },
-      {
-        "favIconUrl": "https://www.gstatic.com/translate/favicon.ico",
-        "title": "Google 翻译",
-        "url": "https://translate.google.com.hk/?hl=zh-CN&sl=zh-CN&tl=en&text=%E6%88%91%E5%8F%91%E8%AA%93%E4%B8%8D%E4%BC%9A%E5%92%92%E9%AA%82%E4%BB%96%E4%BA%BA&op=translate"
-      },
-      {
-        "favIconUrl": "https://static.deepl.com/img/favicon/favicon_32.png",
-        "title": "DeepL翻译：全世界最准确的翻译",
-        "url": "https://www.deepl.com/zh/translator#en/zh/product%0Aproduce%0Areproduce%0Aproduction%0Areproduction%0A-%0Aproduct%20requirement.%0Aproduct%20quality.%0A-%0Asexual%20reproduction.%0Aasexual%20reproduction.%0A-%0Adescendant%0Aancestor%0A-%0Aquantity%0Aquantifier%0Aquality%0A-%0AThe%20new%20product%20requirement%20is%20how%20to%20improve%20the%20product%20quality%20of%20the%20product%20in%20the%20process%20of%20the%20mass%20production.%0A-%0APlants%20produce%20the%20seeds%20to%20reproduce%20their%20descendants.%0A-%0AThe%20mineral%20resorces%20can%20ensure%20our%20descendants%20don't%20do%20the%20job%20as%20attendants.%0A-%0AThe%20quantifiers%20are%20used%20to%20modify%20the%20quantities."
-      },
-      {
-        "favIconUrl": "https://dictionary.cambridge.org/zhs/external/images/favicon.ico?version=6.0.27",
-        "title": "RETAIL中文(简体)翻译：剑桥词典",
-        "url": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/retail"
-      },
-      {
-        "favIconUrl": "https://youglish.com/images/logo.png",
-        "title": "Projects | 67523 pronunciations of Projects in American English",
-        "url": "https://youglish.com/pronounce/projects/english/us"
-      },
-      {
-        "favIconUrl": "https://www.merriam-webster.com/favicon.svg",
-        "title": "Quotient Definition & Meaning - Merriam-Webster",
-        "url": "https://www.merriam-webster.com/dictionary/quotient?pronunciation&lang=en_us&dir=q&file=quotie01"
-      },
-      {
-        "favIconUrl": "https://zh.forvo.com/favicon.ico",
-        "title": "“twelve”的发音：如何用英语发音“twelve”",
-        "url": "https://zh.forvo.com/word/twelve/#en"
-      }
-    ],
-    "title": "EN",
-    "type": "group"
-  },
-  "group-lytmn6fk": {
+  "group-lytn4mjx": {
     "color": "purple",
-    "createTime": 1721449597520,
-    "id": "group-lytmn6fk",
+    "createTime": 1721450411565,
+    "id": "group-lytn4mjx",
     "tabs": [
       {
         "favIconUrl": "data:image/png;base64,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",
@@ -377,66 +284,187 @@
         "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=kubernetes%2Fclient-go%3A%20Go%20client%20for%20Kubernetes.&pos=0&uri=https://github.com/kubernetes/client-go?tab=readme-ov-file"
       }
     ],
-    "title": "K8s",
+    "title": "Work-k8s",
     "type": "group"
   },
-  "group-lytmp8hn": {
-    "color": "blue",
-    "createTime": 1721449693499,
-    "id": "group-lytmp8hn",
+  "group-m09axxrh": {
+    "color": "purple",
+    "createTime": 1724574185261,
+    "id": "group-m09axxrh",
     "tabs": [
       {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA89JREFUWEfNlztIXEEUhs9YpZItA4Jsr2i6ID6SVlRS+yLlohYpVSxSiVqmUNky4APLoGLtC5Mu+OhXRbBctEl3wzfxX2bv3r17F2TJwGUfd+ac//znP2dmnL2MKIremNl7M8u/PHr1mp+PZvbLOfdbRh1foijKmdlnM+OzFaNsZt+dc2UB+NJC5woQEEUXRdE7M/vUirATfBwDoGBmb7MCODs7s/39fbu7u/NLxsbGbGBgwDo7O7OaCOeVAPA1y0oczszM2MnJieVyOf+Uy2X/4HxpackmJiaymKqakwnA09OT9fX1GZ9zc3M2Oztr7e3t3tD19bWNj49bqVSynp4ePwdAk5OTmZjJBGB+ft42NjZsd3fXRkdHKxHgbHl52b+DEQAADLYuLy89ENbwf72RCgAHW1tbtr6+bkNDQ7a5uVmxg9OVlRWfgqmpKVtbW6uwwiS0Qsp4f35+XlcjdQGEDjCIA6iH8kKh4CME1OLioqeaAWClht8w0d/f7xk4PDxMJCERwM7OjnfCQlQOzcVi0YuMqIgOxxIdjmADtmCDd6oKpe/h4aEKXKUTJlVBV1eXtbW1eeqIdHh4uArA4OCgd07EMEWK9BsQOJ+enraFhQU7ODjwIr24uLDu7u4aFmoYUPRHR0eeWqJNAgDVREf0pIYUiXb+xzFAEC0gZS+OoAaAKHt+fvZzkwDQC2AIUYp+wIbUEwhpoTwZmVNAjkF/f39fF4BEKcEBQlGrIUkDq6urXkMScUMGoAtjNzc3nkJUTxMKRSgNhMZwdHt76/+CobAzjoyMeC1hM6wS5takAGF1dHRU5RVQ0A3NREuXi7ddADAQHiwiRgURT2MIPLEMpQOiwKDEpVILRaf6p2x7e3v9fNEuAAoqtJdahqKdSaRhb2+vUkLalBAXBul0AGOwT6QBSNJBaiPCwfb2tldyvMGIZpoVhqFZKYgzEC/thinQApoHDKABlMyAflhQN+Q3I9RACIB39BHK9urqKl4EtSJkhlKQpgHeSdHaN+IpoHIADuDMnVAQVTppOxksIFhtTFQKjIkBbLFNsyVrw2rYBzQBo+xkGKSNhkeu8HSUz+erNibWay9BJ2gnXvsNNaAJdETaKyJk6wUEwHiILH46Yp0amRpXTdJjfzQ8EREtux264DvRAIBNBvWLmfB0RGWQuiyjIYAkI2GOSQFDmw7AiD6N9ngKuBH9s9LEgA1SdHp66lfBhI7oTZh5hIGPZvahiUWvOfUHALiUcjlp1b1QAZSdc9/+j8upIL3cE7miZ76qNZkPjkccGn465/6w9i9S5NwWCDadCwAAAABJRU5ErkJggg==",
+        "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+        "title": "woow-wu7 (7)",
+        "url": "https://github.com/woow-wu7"
+      },
+      {
+        "favIconUrl": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png",
         "title": "ChatGPT - Code Copilot",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=ChatGPT%20-%20Code%20Copilot&pos=0&uri=https://chatgpt.com/g/g-2DQzU5UZl-code-copilot/c/73956365-6905-4679-9949-e0684d8e2527"
+        "url": "https://chatgpt.com/g/g-2DQzU5UZl-code-copilot/c/3dac3603-07f7-4abe-a61a-53c3458f54d4"
       },
       {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAopJREFUWEfFl02LUmEUx39jFANNJVSuZLalWKAMaIy9UUjgSqU+QS+CS/0WgsuxmVq5LBRnEUrUogxCSMFSqC/gwmpRkUiRNMdUrnfU+zxoeDZ3cc/5n9/Vc85znjX07AhwGjgDOICtYfg7oAN8Ab4Cf1Rl1xQdzwIXgHNDAAGZZpJYAD4BH4DPVvpWACeBy8BF4JiVmOn9L+A9UAG+z4qdB3AeuAWc0kxsdv8GlIGP03RmAVwCbgK2BZOPwvvAC+CtWW8agCQPLSmxWea5GcIMIEV2Z4lfbgaQX+LJsEgH74wAJ4C7gBTe/7QfwCNAnhMAYUNfKwH4fD48Hg+5XE7J3+Akc+OZEUCGywPgqI7S/v4+wWAQl8tFpyNzSNl+A3syuEZ/wY2DKg0qh0uVhkKUSiVsNhuZTIZkMqkTLr5vDmbMSwGQqSZfL9NOydbX16lUKmxt/ZvE3W4Xv99Ps9lUih86yZTcFQBJHNep/Hg8TjabnUhWLBaJRCI6ANIRDwXADdxWjXQ4HNRqNZxO50RIv98nHA5TLsvQU7anAnANuKoakk6nSaVSU93r9Trb29v0ej1VudcCIGrHVSLcbjfVapWNjY2Z7olEgp2dHRU58fmpBZDP54lGo3PF2+02Xq9XtS0HANeBK1bIxraz8tVoy1dKRWhuOysAjbYcFKFlG05rOysIhbYct+HcQbS5uUmj0cBut1vlPPQ+FotRKBRmxY0HkTjMHMWBQAARkj7XtVarNe+gGo9i0ZUt977uYaQLZPCXw2hXFljjPqB9HC8AcOg4Fi1ZSO4NnwtoW4bKhvx42kIikStdyUboK11KjRArW8tHECu9mIwgVno1M5bzyi6n5p5a+vX8L5ZEuQ4Sas3vAAAAAElFTkSuQmCC",
-        "title": "MetaStone Cloud OS",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=MetaStone%20Cloud%20OS&pos=0&uri=http://localhost:3000/cloud/nasmanager?nasName=zsstest&namespace=default"
+        "favIconUrl": "https://chat.deepseek.com/favicon.svg",
+        "title": "DeepSeek",
+        "url": "https://chat.deepseek.com/coder"
       },
       {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAopJREFUWEfFl02LUmEUx39jFANNJVSuZLalWKAMaIy9UUjgSqU+QS+CS/0WgsuxmVq5LBRnEUrUogxCSMFSqC/gwmpRkUiRNMdUrnfU+zxoeDZ3cc/5n9/Vc85znjX07AhwGjgDOICtYfg7oAN8Ab4Cf1Rl1xQdzwIXgHNDAAGZZpJYAD4BH4DPVvpWACeBy8BF4JiVmOn9L+A9UAG+z4qdB3AeuAWc0kxsdv8GlIGP03RmAVwCbgK2BZOPwvvAC+CtWW8agCQPLSmxWea5GcIMIEV2Z4lfbgaQX+LJsEgH74wAJ4C7gBTe/7QfwCNAnhMAYUNfKwH4fD48Hg+5XE7J3+Akc+OZEUCGywPgqI7S/v4+wWAQl8tFpyNzSNl+A3syuEZ/wY2DKg0qh0uVhkKUSiVsNhuZTIZkMqkTLr5vDmbMSwGQqSZfL9NOydbX16lUKmxt/ZvE3W4Xv99Ps9lUih86yZTcFQBJHNep/Hg8TjabnUhWLBaJRCI6ANIRDwXADdxWjXQ4HNRqNZxO50RIv98nHA5TLsvQU7anAnANuKoakk6nSaVSU93r9Trb29v0ej1VudcCIGrHVSLcbjfVapWNjY2Z7olEgp2dHRU58fmpBZDP54lGo3PF2+02Xq9XtS0HANeBK1bIxraz8tVoy1dKRWhuOysAjbYcFKFlG05rOysIhbYct+HcQbS5uUmj0cBut1vlPPQ+FotRKBRmxY0HkTjMHMWBQAARkj7XtVarNe+gGo9i0ZUt977uYaQLZPCXw2hXFljjPqB9HC8AcOg4Fi1ZSO4NnwtoW4bKhvx42kIikStdyUboK11KjRArW8tHECu9mIwgVno1M5bzyi6n5p5a+vX8L5ZEuQ4Sas3vAAAAAElFTkSuQmCC",
-        "title": "localhost",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=localhost&pos=0&uri=http://localhost:3000/api/v1/nas/content?nasName=zsstest&namespace=default"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABJFJREFUWEfFlm1sU1Ucxp//uW3Xje62LDrHJhjIMnHGNyBEo4maLbAW/GIchhhfgsbJB0Juix+QTFFcCI61mW84FLIEkgUXnGTQNjiiQR0EF4wSUPeBhEWT0TDsy9iWrvf8zR12bde9dVvC/XjOeZ7nd17+5x7CHf7oDudjRgCXFtvEJPsCXvv5XGFdWqSGwTLgc5yeSjsjQI0WfZ3AZXHkHT3js16daPRmC5sP1tHoxPaNb4dXJXR6zsT0+0mf2jF3AE9kPRiPE9Gw1JUjQi+4Kcyx1TrjAYCXgKAQIJn4ukgofyqLYz0jtxaVmXTexCCTWYe/s9n+y5wBqrZfv8esWN8aM2DoJCjOzPlTGhKPQpKJCUTEozZp97X7aHjOAIawxh2rBWRlrmcAUH4Kem1nptPNeAYM8QZPeLXOtDFXAAX03Smv2j0vAOe2ARVmZSuDrEkjIYCnH7FgbaUJDhW4EQYuXEng3KU4EjItjqFLRRw8vb8wNOctcHoiTmasTRrctVjgvdcKUH6vyPLs7ZPY0zqEG5F0CnEl6C1snxOAcxvnwRLxMJPZMLCagGbNhmUlmeEXei4iFLqBVY8+jBEUQ2seRDxxO5IYbLPoze37iiKTQUx7BlzuaIUEb04Ka5+1YMvG8Z2AlBLbtZ3o7r4wNsRisaBhzy70RtfixI/x8TyTwp0nGx0XcwZYr4WriejJpPATzZax9P5gF+rrGzJ8VYeKA4eOQ2seGm8not8CTeq3OQPUeP59HiweSgo79qqwWlI2n39xGIcOHcny7ThxHHVNpvF2Qbjqb7JnDzS2aLoScXoiLzGjPDmmfY8KW0FKcfZsNzTPrgyLktIStLW14cX6aHo59Ae9jpacV8DpjrzCwPKksKGuAKsqUjMz2j/a/zGOHbt91RcVFaFx3/tIWFei/su0LQCHAl7HgTkARLcweGlS+MSDFry7JXUIk+39/aGxKqioWAGr1YoPDg/h3OX/y+B2JQwEfPZPcwaocYfrACpJF3o2F6B6TeYqpPd39STQ1JaavdEnQDG/V/XmDOByR90SXJguNG6Al51WvPCMBaY0DqPuv/khjiOBEaRfQ2Nahh702T/MCaD2a1YGz0ffYWMCk3xqgcBj95tQZANuDgK//pVAdCgrelxpVm81du4uzVya6apg3Y5YsZBy63RVkkufIEurvyn/2kTNlGXo0sJrJNGGXEKmG0sKdQUa1Z9nDTDxDpg/iLwW9C5unRWAc1vsbpjkVuNVM//glINQlBZ/o60/3TMrgJnJ6Qm/Coj7FjJ8rByZ+k55C1uNt1rSOwugxj1YBehPLXR4yi/zmZYF4HKHd0pQ2i9nYVEEOO73OvZOuQIuT/QNyVxG4AQT/wEoIZBuEqyUG+2zwTGe6QD3KlL0sTBuYrmEgZXGM10Q/eNvUr+aEqBW4/yYjC0rFIV9E5/T63aElysS1QwqnfRWYzARX17E9H27z34zfYzhe4tiS4vVgb7W3ctHpgSYzQyrtJEVeRSvZKAYkHkMikHIv/OHlUsdn6kDs/GYF0AuATONXdA6nylssv7/AIFSpzBg8lscAAAAAElFTkSuQmCC",
-        "title": "标注-资源总览 拷贝-恢复的-云平台UI - 蓝湖",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E6%A0%87%E6%B3%A8-%E8%B5%84%E6%BA%90%E6%80%BB%E8%A7%88%20%E6%8B%B7%E8%B4%9D-%E6%81%A2%E5%A4%8D%E7%9A%84-%E4%BA%91%E5%B9%B3%E5%8F%B0UI%20-%20%E8%93%9D%E6%B9%96&pos=0&uri=https://lanhuapp.com/web/#/item/project/detailDetach?tid=9a2e5354-dbee-4e4a-8b5e-07bf6b5e8f2d&pid=15992155-d17b-4198-a14f-a90d24ed7772&project_id=15992155-d17b-4198-a14f-a90d24ed7772&image_id=8f9e45f3-7508-4865-88f3-a8f53a940131&fromEditor=true&type=image"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABZNJREFUWEfFV1tsFGUU/s4/s5fQLWKxBUO3RXvdIlQxqNEYsUUSTAQ1wRgU9EEfMDGCmpAYjeXFGAwJ4UViNEYKGuXBFw3EsMUQDVGLRMReti30ysUWFArtduaf/+i/29nuZRZaauIkm2xmzjnf93/fOWd2Cf/zRdn4DNBQY+0DzMIJt7T9PFt+ut6ZR6uXmcLnL4v+8Ut2vRwCOqC/IbKZBELhw+0fzJaAzu9rjLwmmOeFWzq235AAr4cxeLH2bR0YUGJncXHbOB2Ac7NEzqxcHDRFcJvO95O5pyR6apgA5dbLUaCvMfKYYH4wGSAOztaGvsbIKsH8kK6mhIqWHY79SADnJ9AQ2UYEPzELEI2Ho+07bvb0CTsbI6+AUESKDQW6XN7Sviu9XkoBBsSlNZWhMcvckghgJJ5ZwtpVcfj05ZmS0PWwHuTamcofv7ojfGxw3FOBoYbIcgV+wn3IRIoUHy090nE0XbbpkhlaVXePUmptRjzxT+Fo5yFPAv2rIltJ8dwMAoxz4Zb2j6cLmh7X31j7BjFCqXqCHGa6Uh5t251D4PzqZQW2tN70AtLjo+d5uiro2EtrKgvHJsytILBrp/s9HpDvVx7stvU0JHzWCQMNkYeJeGUqOIPJzKZBj/LQcN1SNtRar3qK8U35kY7jGiLVhL0NkZcE43YiFpmegRm4Vhbt2DkTG/obal8koNwzR9CYu+TIlXb46cg7LFnmJGgJwWzF+ZAjfTaTlZrhfISCQsSNIG1iwPKKUWDDV+jsLtrfPZoctf1VdxsjtA493iWFAEZ6BeJX9Ta5sQ5zioCiUgWVL7YClrgNUXTFWhMEnL3VW+HDXHQKGyPK5wVhxYX9Zzd8msyNrpJKVsLP3qHzWKKWDGYeMDd2fUr8VV1IWfL1VNFWYigW2ScVJjBw0pAENvMSmCS3sEaxoKn+SsX7WWIFmZg02tgY207cXFOjwM+mghQptLJ2Puc98dcFkuMXKT8BAL5ClsXlbGYcQBPToCtIwZxqciFwkGRzzTMEjmSc6m+W6MwE0nbKOKmR05TXBO15SSVLfzBLJZ1cL2zMSbeX9N0r5DTXvgVk+a4hzsJCH/yZcpM625afAAtyFtU5Rs7pS4SNO5Qvt4FJ0cRnNctMwU8BmlHaDtAkfmeJMUrJqfvgQo9p29c8GlUAgRA780vZyCAdYon6Kd+Tz5JYwlDfJTfh3gUFStzyKhiBjGQDjGOswJQqKi1hn495T0NRmGWwME1+nb+cGCJruTEs4VgfoqA3uQcSJBjk7KteR0B9xv6Os8QJMpHm/FCnocjJLKr9L13qOCmy+g1wLyv4psgncAgdRnfsADUlDZki0AShb1rN1fUG8GTKEg08Agud8LskhvvJsccow+tACNb8xcqfKKs/FSxRktnIUtHXgRc6T+rDUmLDphFIVwLfw1CDVVsAKkhZ0sUSl5IF46MkRwbIdEVJdH+1I/3+ScBiWKhEkkzyGhU9sV14F+wCuw88fxW7DO3m2pUC6pGEJXqx/JZsSmGS6jshYBiTNhjghVWKdJNCkMJ9TLCT3ivCD77nY9F8y8uTgNsTmi1/URFW0twAcBCSFH5lTYUu9pGcGE32hhkgVVLhCDhg3M8KRAaYHdvA58Hnuk7n3ZxeFngFcxOEqqh6GUQLMM6OOk6mtMkZOUOGlv/WMtgFc5UPNSwxj0wwXzA2de25HvB1LchOdC3hfdUrFONxDFJcDXDwfEzAcUiV3+WQWgQLYQSEQ9/Sps5WTdrt9FkrkF4g8fJS9mZxSgTPHRfK9CvMX8ImInxNiIlP0NV/eTrAM1LA6wRyf826iSgtsR2m0GruMTbEvszu8P/MghxLJuXlj+6svtob8Be+134qfbanAzxrBRKT0vTvDDTp5Tb1V2sm4Dr2H5xReeh63p7fAAAAAElFTkSuQmCC",
-        "title": "Sign in · GitLab",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Sign%20in%20%C2%B7%20GitLab&pos=0&uri=https://10.128.118.251:9080/users/sign_in"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,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",
-        "title": "色彩 - Ant Design",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E8%89%B2%E5%BD%A9%20-%20Ant%20Design&pos=0&uri=https://ant.design/docs/spec/colors-cn"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA91JREFUWEftlk1vE1cUhs97x56ZJg0RJKpcQVXUVaFlgSCJE1oRJykJrdQuoKibVkL0f2D+BwgJNoiPBUhAQpM4qCWfVF3QQldVq4JqoaQopDbjseeecsczZjyxPWM22TAre3TnnOe+5z3nXtAWP9ji/PQG4PUUYEb2TL162dPEBHC7JW0P4GXiyCRx1gQo4wN4gYdzbJZsezfrMiUZnSqWcLiAhMgbpP85l4FFaq16YijSFsDAXOUQnPIQQXuridSWxnI5qZk/zmVQcUEiIGIBZLMsJg/Zx0nQHrAbVioAFd4HEbL6u5qS851sXJr+DOstIZjRGsDbQf+sNS4YaS957Zvwfw9AgkmAeJ3KxoWFCfxLzIIAF1o9akPZLOTRW2w0B/CSD84UdzJp3xOcB4D2kC1pSUPrFuzsJxLvR0E4bF9cHtu2FlbiyFS+87ne3RcJkJ6xjiKBxwuHjQfhIAO58ieQcrQRhP8O4KJG4s67q8lHV07ApsusDfVYuyTwlZBypWUJDtznpLH23/b58a6nSjZXvpf97s8AJWN6tjhArE2ohGFfBN8pEGbaECBdMrYT4cniSPJcLBM2NZJX2/6cfVBI/sL3QL0hiaUgVr4IdI4lKvZ5tbFNAK5BGk01b/qpXQdb0DdU37T1QQL0JRO6W01DZl6VmnFtJYO82tgrgFDPqsBzh0lXwYbvkl2XONzf3v+vL7P+d0/xYyDxIYh7pYTpDirBFhNWKyg/lF2dv/18EGVf1SqAF0DVXGwUPkpwcm+jAMyV399b6/jVNVMTiGCrxdkA/EB9OU4Jp3QMQG8rCVV/V5hurIyZf/jybypJGyV0FRia2nhHJvSTRORKFjSTN0xdhwfNJAVuLmf0++EhU4OJMYbVWleB9Gz5FBHvFOBnkskGqIsZHVGtRXAmF0c6lpq1qNpYqeftZ27NmzwYmi4OSiH6BPP1+TXzMZ2Ao8z0T295j0PyiA8SnPsuefVMAAsxs5RJ/hTe+eDd0j6u8K7FUfN2q/MA6dyL4W32+sqd8VQhHKR/+nmPBv1b1VrqAAr1cg2CSP4lof0iSs46TGEyO3uJtX0g5+zCaMeTlgDqQLj9OUqbDOUNmcFJ3kHJ0nfREFV8XxkJXlweMaeijuRaFzQskWeksR+4u4DSNwykfF8oQ/rf+O+UQm6pJD2auKdfDQ+tRjmiR/Grm1Ci7FifOhD9wW6pC8rOC9aS80vDiXtRF5EafKuer/OEqy/YvZKRvZsrMiU170oGLsAWeUMPXMliXMeqbdjOE6e346wJ5GwPoDaltupa3o5aMde+ngIxg8dZ9gbgf2EkXJQX70NyAAAAAElFTkSuQmCC",
-        "title": "Border Radius - Tailwind CSS",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Border%20Radius%20-%20Tailwind%20CSS&pos=0&uri=https://tailwindcss.com/docs/border-radius"
-      },
-      {
-        "favIconUrl": "https://react.dev/favicon-32x32.png",
-        "title": "<form> – React",
-        "url": "https://react.dev/reference/react-dom/components/form"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA9NJREFUWEfFl28otWcYwH+vziQzaTPTO7TMB/NBVlpaEnoz1sQ08yfKny/URKQsUfKFonwQKSWUpmiRFstHSVJOkkntTSfvWxMaM514srnunUePs/M8z7E9tqtO58N9P9f1u69/93U/IzgJAd4GEoEPgPeACOAN3+c3wCXwC3AIvATOgFs79c9sNsj6c+Bj4EMgEhAYKxGjF8DPwDbwGvjD7AMrgLeADCANCLc7icn6FeAGNoDfAu0xA3gfyAMS/qFh/888wI/AK/+FQAAS4y+Adxwyrqs5BZZ8OXKv2h9ATv7lExg3Qnxv9IQRQGL+lYNuN3OghGNOzwkdQP5f3MXpU4fdbqZuHViV6tAB4oBy4M3/COB34DvgSADk9/ldgqSbGU9JSSErK4uQkBC2trbY3Nw05czIyCAtLY2dnR3W1+WgprIF/CDG3wUqgSizrQ0NDYyOjqrl3d1dysrK2NvbC7i9u7ubtrY2hoeH6ezstAL4FZgRgE+Az6w6nBFANC4uLlJbW8vZmXTbh9LS0kJ9fT2Tk5MMDAzYdcwVAfga+Mhqpw5wdHSEy+UiNjaWvr4+urq60DTtwac1NTXKQ/Pz84yPj9ul1E8C8I1d3esAy8vLLCwsMDg4qBQ3NjYyNTX1wEhJSQkFBQWsrKwwNyfVZimnAvAtEBqMBwSgtLSUnp4eWltb8Xg86rQbG9Lq/5Lc3FwyMzNVAq6uSqVZyrUAdPsqwXSn0QOFhYVERUUxPT1Nfn4+a2trVFRUIOERSU9PJzU1VSWrVbX4jKk+8CiAoqIirq+vlZHZ2VmSk5NVrJubm7m6uiIpKYnExEQODw85ODiw84ACeFQIdADRXFxczMTEBBEREbS3tzM0NERMTAzR0dGcnJxwfHxsB6BC8KgkNAJIY+ro6KC3t1eVZHV1tYp7eHi48pLX67UDUEkYdBlKEhoBRLucfmxsjMrKStX9JCn39/ftDOvrqgyDbkSBAESTxFzyQRJwZmZGlefFhUxlliKjm2pEQbdiMwAxk52drdp1WFiY6hMjIyPc3lrOpPetOKjLSAxIZguEmeLy8nKamppUPvT396sStZD7y0j2OHIdh4aGUldXR05OjipByQ29P/iBPLiOZc2xgSQyMpKqqiri4+PZ3t5maWlJ9Qc/+dtAIuuOjWRyWeXl5an5we12q+owhC3gSKYDOjaUJiQkqC55eXmpytJ3dctkbDqU6hCOjeVxcXGqKYnx8/Pz05ubG9ux3OiJf/0wkRAIgKZpHq/XG/TDRIdw5GnmcrncmqY9+mmmQ/yvj1Nj5TzZ8/xPCxKZOuVVJncAAAAASUVORK5CYII=",
-        "title": "Routing: Route Handlers | Next.js",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Routing%3A%20Route%20Handlers%20%7C%20Next.js&pos=0&uri=https://nextjs.org/docs/app/building-your-application/routing/route-handlers#supported-http-methods"
-      },
-      {
-        "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAi1JREFUWEflls1q1FAUx//nJhmLKxeiJZOZZJLMWCqICFrBpVK7U1GKC0HXuu4riC/hM7gq+NGCLvwoFOpGEBozmWRmfAVbM/dIpCM6nU4CzSULs7s5l3t+93z87yFMfJbVXoLOK5P/p62FHH2I4+6bsW2+2VzUtNqikGwzi1QK2avB+BxFX6OjzqNSABxnrgHjPoPtaY6Y8GXQDV4AGE3aSwGot/x7xDg/K2pS0PthuLtROkCa7u2I2skneSljJjno7T4D8PPvvceOwJ4hvhsjupsHkNlZx/NBEPRLBUh1nYXka0UASMj1JAy3SwWoPgJzxo7Yl7k1IKXkYRw+BZCWGoFMByzbuwOiCzlpeNePgreld8GBEAnT8VYF6NxUHWC5PeiF69Nsh7pgvuFeNnTtZpGikqPRx0Ecbo73nm22XV3jS2MlBMmY5P5WkiTDwkpYxHGZew5FYMbhZFmuT7pwAWlKiFOZxA67wevjABUCqNfdjjBwnSHOTFTwpyQKXqkE0CzbWwbRlelOeKsffXupCoAs27s9u70UAliOtwLQ0uzbKQIwO53T+JE+FkLk1IgigILKBgKUFKFRt/01Ihj5xaUgAo6z4KRIH+Y7//3Cl98Fdad9kcC3/l+AylMA+CcaLVpjZi0/DQpqIHNqtfwHYHiVAZiu20SKR5UJUXZz023fyJ92FaXgIPTUcLxVBi0cnQq1AJlfajj+MgNXq3iO//isciD5ZwBSMZL9ApPUPjDon91gAAAAAElFTkSuQmCC",
-        "title": "Radix UI",
-        "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Radix%20UI&pos=0&uri=https://www.radix-ui.com/"
+        "favIconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01AKUdEM1qP6BQVaYhT_!!6000000005487-2-tps-512-512.png",
+        "title": "通义tongyi.ai_你的全能AI助手",
+        "url": "https://tongyi.aliyun.com/qianwen/?sessionId=a29b291b8afa4c7c954e99e9f2408ad3"
       }
     ],
-    "title": "Wrok-cloud",
+    "title": "Code",
+    "type": "group"
+  },
+  "group-m09b78z6": {
+    "color": "blue",
+    "createTime": 1724574619698,
+    "id": "group-m09b78z6",
+    "tabs": [
+      {
+        "favIconUrl": "https://www.phind.com/images/favicon.png",
+        "title": "Phind",
+        "url": "https://www.phind.com/search?home=true"
+      },
+      {
+        "favIconUrl": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png",
+        "title": "Next.js Cookies Usage",
+        "url": "https://chatgpt.com/c/a24586ea-7583-4330-b1c6-fb654b1b9fdd"
+      },
+      {
+        "favIconUrl": "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg",
+        "title": "Gemini",
+        "url": "https://gemini.google.com/app/e6824bdde894aa38"
+      },
+      {
+        "favIconUrl": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+        "title": "手机 & 插件端对话 - 豆包",
+        "url": "https://www.doubao.com/chat/61949222658"
+      },
+      {
+        "favIconUrl": "https://chat.deepseek.com/favicon.svg",
+        "title": "DeepSeek",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "favIconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01AKUdEM1qP6BQVaYhT_!!6000000005487-2-tps-512-512.png",
+        "title": "通义tongyi.ai_你的全能AI助手",
+        "url": "https://tongyi.aliyun.com/qianwen/?sessionId=a29b291b8afa4c7c954e99e9f2408ad3"
+      },
+      {
+        "favIconUrl": "https://claude.ai/favicon.ico",
+        "title": "Claude",
+        "url": "https://claude.ai/login?returnTo=%2F%3F"
+      }
+    ],
+    "title": "AI",
+    "type": "group"
+  },
+  "group-m09b7ud9": {
+    "color": "purple",
+    "createTime": 1724574647421,
+    "id": "group-m09b7ud9",
+    "tabs": [
+      {
+        "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+        "title": "woow-wu7 (7)",
+        "url": "https://github.com/woow-wu7"
+      },
+      {
+        "favIconUrl": "https://www.phind.com/images/favicon.png",
+        "title": "Phind",
+        "url": "https://www.phind.com/search?home=true"
+      },
+      {
+        "favIconUrl": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png",
+        "title": "ChatGPT - Code Copilot",
+        "url": "https://chatgpt.com/g/g-2DQzU5UZl-code-copilot/c/3dac3603-07f7-4abe-a61a-53c3458f54d4"
+      },
+      {
+        "favIconUrl": "https://chat.deepseek.com/favicon.svg",
+        "title": "DeepSeek",
+        "url": "https://chat.deepseek.com/coder"
+      },
+      {
+        "favIconUrl": "https://img.alicdn.com/imgextra/i1/O1CN01AKUdEM1qP6BQVaYhT_!!6000000005487-2-tps-512-512.png",
+        "title": "通义tongyi.ai_你的全能AI助手",
+        "url": "https://tongyi.aliyun.com/qianwen/?sessionId=a29b291b8afa4c7c954e99e9f2408ad3"
+      }
+    ],
+    "title": "Code",
+    "type": "group"
+  },
+  "group-m09b88v5": {
+    "color": "red",
+    "createTime": 1724574666209,
+    "id": "group-m09b88v5",
+    "tabs": [
+      {
+        "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+        "title": "woow-wu7 (7)",
+        "url": "https://github.com/woow-wu7"
+      },
+      {
+        "favIconUrl": "https://www.phind.com/images/favicon.png",
+        "title": "Phind",
+        "url": "https://www.phind.com/search?home=true"
+      },
+      {
+        "favIconUrl": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png",
+        "title": "关于浪费的评价",
+        "url": "https://chatgpt.com/c/93391db0-0590-46eb-82a6-c79d812b6cda"
+      },
+      {
+        "favIconUrl": "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg",
+        "title": "Gemini",
+        "url": "https://gemini.google.com/app/e6824bdde894aa38"
+      },
+      {
+        "favIconUrl": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+        "title": "手机 & 插件端对话 - 豆包",
+        "url": "https://www.doubao.com/chat/61949222658"
+      },
+      {
+        "favIconUrl": "https://chat.deepseek.com/favicon.svg",
+        "title": "DeepSeek",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "favIconUrl": "https://shared-https.ydstatic.com/images/favicon.ico",
+        "title": "expired",
+        "url": "https://www.youdao.com/result?word=expired&lang=en"
+      },
+      {
+        "favIconUrl": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon.ico",
+        "title": "百度翻译-200种语言互译、沟通全世界！",
+        "url": "https://fanyi.baidu.com/#en/zh/Autonomous%20coding%20agent%20right%20in%20your%20IDE%2C%20capable%20of%20creating%2Fediting%20files%2C%20executing%20commands%2C%20and%20more%20with%20your%20permission%20e"
+      },
+      {
+        "favIconUrl": "https://www.gstatic.com/translate/favicon.ico",
+        "title": "Google 翻译",
+        "url": "https://translate.google.com.hk/?hl=zh-CN&sl=en&tl=zh-CN&text=Claude&op=translate"
+      },
+      {
+        "favIconUrl": "https://static.deepl.com/img/favicon/favicon_32.png",
+        "title": "DeepL翻译：全世界最准确的翻译",
+        "url": "https://www.deepl.com/zh/translator#en/zh-hans/marry%0A-%0AI%20called%20you%20as%20soon%20as%20I%20got%20off%20the%20plane%2C%20I'm%20in%20a%20hurry%2C%20Please%20contact%20me%20as%20soon%20as%20possible.%0A%0A%0A%0A"
+      },
+      {
+        "favIconUrl": "https://dictionary.cambridge.org/zhs/external/images/favicon.ico?version=6.0.31",
+        "title": "RESIDUAL在剑桥英语词典中的解释及翻译",
+        "url": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/residual"
+      },
+      {
+        "title": "youglish.com",
+        "url": "https://youglish.com/pronounce/profund/english"
+      },
+      {
+        "favIconUrl": "https://www.merriam-webster.com/favicon.svg",
+        "title": "Quotient Definition & Meaning - Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/quotient?pronunciation&lang=en_us&dir=q&file=quotie01"
+      }
+    ],
+    "title": "EN",
     "type": "group"
   },
   "meta": { "name": "tab-groups", "version": 1 }

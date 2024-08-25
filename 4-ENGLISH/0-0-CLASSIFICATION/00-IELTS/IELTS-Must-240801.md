@@ -455,7 +455,7 @@
 - > 【 flour 面粉 n 】
 - > 【 flower 花 n 】
 - > 【 powder 粉 粉末 n 】// ----------- 【 gunpowder 火药 n 】
-- > 【 power 力 动力 功率 n 】----------- 【 power station. 电厂 n 】 【 power outage. 断电 】 // 【 power bank. 充电宝 】 【 power strip. 插座 】
+- > 【 power 力 动力 功率 n 】----------- 【 power station. 电厂 n 】 【 power outage. 断电 】 【 power consumption. 】// 【 power bank. 】 【 power strip. 】
 -
 - `【 weigh 称重 v 】` // --------------- 【 weigh out. 称重 v 】
 - `【 weight 重量 n 】` // -------------- 【 lose weight. 减肥 v 】
@@ -687,7 +687,7 @@
 - `【 additional tax. 附加税 n 】`
 - > addition 附加 n
 - > condition 条件 n
-- **【 In addition to the additional conditions, There are additional taxes. 除了附件条件，还有附加税 】**
+- **【 【 In addition to 】 the 【 additional conditions 】, There are 【 additional taxes 】. 除了附件条件，还有附加税 】**
 
 ###### Must 2024-08-13
 
@@ -810,6 +810,7 @@
 - `【 specialize in. 专攻 v 】`
 - `【 special field. 特殊领域 n 】`
 - **【 A 【 specialist 】 is a person who 【 specializes in 】 a 【 special field 】. 专家是专攻一个特殊领域的人 】**
+- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是辅助他人完成任务的人 】**
 -
 - [CC.]
 - `【 specific goal. 具体的目标 n 】`
@@ -1024,12 +1025,13 @@
 - `【 take action. 采取行动 】`
 - `【 take note. 做笔记 】` = make note.
 - `【 take selfie. 自拍 】`
-- `【 take photo. 拍照 】` = take picture.
+- `【 take photo. 拍照 】` = take picture. = take a wedding photo.
 - `【 take your time. 慢慢来 】`
 - `【 take a screenshot. 截图 截屏 】`
-- > 【 take a rest. 休息一下 = take a break.】
+- > 【 take a rest. 休息一下 = take a break. 】
 - > 【 take a break. 休息一下 】// ------------- 【 take a break. we'll be right back 休息一下 马上回来 】
 - > 【 take a shower. 洗澡 】// --------------- 【 take a shower. = take a bath. 洗澡 】// ----【 bath 洗澡 浴缸 n 】
+- > 【 take a bath. 洗澡 】
 - > 【 take a nap. 小睡一会 】
 - > 【 take a peek. 偷看一眼 】 // ------------- 【 peek at. 偷看 】 【 look at. 看 】 // -------【 peek 偷看 v 】
 - > 【 take an examination. 参加考试 】--------- 【 take an examination. = take an exam. 参加考试 】
@@ -1065,7 +1067,7 @@
 -
 - [CC.]
 - `【 take a break. 休息一下 】` = take a rest. 休息一会
-- `【 take a shower. 洗澡 】`
+- `【 take a shower. 洗澡 】` = take a bath. 洗澡
 - `【 take a nap. 小睡一会 】`
 - > take a shower. = take a bath. 洗澡
 - **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
@@ -1115,7 +1117,96 @@
 - `【 take your time. 慢慢来 】`
 - **【 I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】. 我不赶时间，请慢慢吃 】**
 
-###### Must 2024-08-25
+###### Must 2024-08-26
 
 - 1
-- `【 waste 浪费v 废物n 垃圾n 】` --------- 
+- `【 garbage 垃圾 n 】` // -------------- 【 garbage can. = garbage bin. 垃圾桶 】 【 garbage bag. 】 【 garbage truck. 垃圾车 】 【 garbage dump. 垃圾场 】
+- `【 trash 垃圾 n 】` // ---------------- 【 trash can. 垃圾桶 】 【 trash bin. 垃圾桶 】
+- `【 rubbish 垃圾 n 】`
+- `【 litter 垃圾n 乱扔v 】` // -----------【 no littering. 禁止乱扔 】 【 no leaning. 禁止依靠 】// 公共场所的没有在垃圾桶中的垃圾
+- `【 waste 垃圾n 浪费v 废物n 】` // -------【 recyclable waste. 回收垃圾 】 【 residual waste. 干垃圾 】 // 用的最广
+- > 【 waste 浪费 v 废物 n 垃圾 n 】
+- > 【 recyclable waste. 可回收垃圾 】 // -- 【 recyclable 可回收的 adj 】 【 recycle 回收 v 】
+- > 【 residual waste. 干垃圾 】` // ------ 【 residual value. 剩余价值 】 【 residual 剩余的 残留的 adj / 剩余 残渣 n 】
+- > 【 wet waste. 湿垃圾 】` // ----------- 【 household food waste. = wet waste. 湿垃圾 n 】
+- _【 a wast of time. 浪费时间 】_
+- _【 a waste of money. 浪费金钱 】_
+- _【 a waste of life. 浪费生命 】_
+- // 【 residual value. 剩余价值 】
+- // 【 residual waste. 干垃圾 】
+-
+- `【 garbage 垃圾 n 】`
+- `【 garbage bag. 垃圾袋 n 】`
+- `【 garbage can. 垃圾桶 n 】` // -------- garbage can. = garbage bin. = trash bin. = trash can.
+- `【 garbage truck. 垃圾车 n 】`
+- `【 garbage dump. 垃圾场 垃圾堆 n 】` // - 【 dumpling 饺子 n 】 【 dump 倾倒 v / 垃圾场 n 垃圾堆 n 】
+- `【 take out the garbage. 倒垃圾 】`
+- `【 dustbin 垃圾箱 n 】`
+- > 【 bin 箱子 n 】
+- > 【 truck 卡车 n 】// ------------------ 【 tractor 拖拉机 n 】 【 truck 卡车 n 】
+- > 【 dust 灰尘 粉尘 n 】
+- > 【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】
+- // 【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】
+- // 【 dumpling 饺子 n 】
+-
+- `【 junk food. 垃圾食品 n 】`
+- `【 junk mail. 垃圾邮件 n 】`
+- > 【 inbox 收件箱 n 】
+-
+- `【 dirty 脏的adj  / 弄脏v  肮脏下流的adj 】`
+- `【 clean 干净的adj  / 打扫v  】`
+- `【 messy 乱的 adj 】`
+- > 【 clean 干净的 adj / 打扫 v 】`
+- > 【 clean up. 打扫 清理 v 】
+-
+- `【 take out the garbage. 倒垃圾 】`
+- `【 no littering. 禁止乱扔 】`
+- `【 on leaning. 静止依靠 】`
+-
+-
+- [AA.]
+- `【 garbage 垃圾 n 】`
+- `【 garbage bag. 垃圾袋 n 】`
+- `【 garbage can. 垃圾箱 n 】`
+- `【 garbage truck. 垃圾车 n 】`
+- `【 garbage dump. 垃圾场 垃圾堆 n 】`
+- // 【 throw into. 扔进 】
+- **【 Please 【 throw 】 the 【 garbage 】 into the 【 garbage bag 】, then put the 【 garbage bag 】 into the 【 garbage can 】, after that, the 【 garbage truck 】 will 【 take 】 it to the 【 garbage dump 】. 请把垃圾扔进垃圾袋，然后把垃圾袋放进垃圾桶，之后，垃圾车会把它送到垃圾场 】**
+-
+- [BB.]
+- `【 waste 垃圾n 浪费v 】`
+- `【 residual waste. 干垃圾 】`
+- `【 wet waste. 湿垃圾 】`
+- `【 recyclable waste. 可回收垃圾 】`
+- // 【 residual value. 剩余价值 】
+- **【 【 Waste 】 is divided into 【 residual waste 】, 【 wet waste 】, 【 recyclable waste 】. 垃圾分为干垃圾，湿垃圾，可回收垃圾 】**
+-
+- [CC.]
+- `【 dump 倾倒 v / 垃圾场 n 垃圾堆 n 】`
+- `【 dumpling 饺子 n 】`
+- // 【 expire 过期 到期 v 】
+- // 【 expired 过期的 到期的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'expire'. [expire]
+- // TIPS: Pay attention to the pronunciation of the word 'expired'. [expired]
+- **【 Please 【 dump 】 the 【 expired 】 【 dumplings 】 into the 【 garbage can 】. 请把过期的饺子倒在垃圾桶里 】**
+-
+- [DD.]
+- `【 messy 乱的 adj 】`
+- `【 dirty 脏的 adj 】`
+- `【 clean up. 打扫 清扫 v 】`
+- **【 Please 【 clean up 】 the 【 messy 】 and 【 dirty 】 room. 请把这又乱又脏的房间打扫干净 】**
+-
+- [EE.]
+- `【 a matter of. ...的问题 】`
+- `【 principle 原则 原理 规范 n 】`
+- `【 working principle. 工作原理 】`
+- `【 in principle. 原则上 】`
+- > 【 no matter. 无论 】
+- **【 【 In principle 】, it's not just【 a matter of 】 money, It's a matter of 【 principle 】. 原则上，这不仅仅是钱的问题；这是一个原则问题 】**
+- **【 【 In principle 】, 【 littering 】 is 【 prohibited 】. 原则上，禁止乱扔垃圾 】**
+- **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
+-
+- [FF.]
+- **【 【 Waste paper towels 】 are 【 recyclable waste 】. 废纸巾是可回收垃圾 】**
+- **【 He is just 【 a piece of trash 】, wasting time, money, life. 他就是个垃圾，浪费时间，浪费金钱，浪费生命 】**
+- **【 Remember to 【 take out the garbage 】 when you go out. 出门的时候，记得把垃圾倒一下 】**

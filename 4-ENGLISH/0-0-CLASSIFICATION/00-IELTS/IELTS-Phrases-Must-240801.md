@@ -12,23 +12,55 @@
 -
 -
 -
--
--
 - 2
 - `【 as soon as. 一...就... 】`
 - `【 as soon as possible. 尽快 】`
--
-- `【 as far as. 就...而言 】`
 - `【 as long as. 只要 / 和...一样长 】`
 - `【 as well as. 也 】`
-- `【 as soon as. 一...就... 】`
+- `【 as far as...is concerned. 就...而言 】`
+- > 【 concern 关心 n / 担心 v 】
+- > 【 thanks for your concern. 感谢你关心 】
 -
 - [AA.]
-- **【 I called you 【 as soon as 】 I 【 got off 】 the plane, please 【 pick me up 】 【 as soon as possible 】. 我飞完飞机就打电话给你，请尽快接我 】**
-- **【 I called you 【 as soon as 】 I 【 went back home 】, I'm 【 in a hurry 】, please contact me 【 as soon as possible 】. 我一回家就给你打电话了，我很急，请尽快联系我 】**
+- `【 as soon as. 一...就 】`
+- `【 as soon as possible. 尽快 】`
+- **【 I called you 【 as soon as 】 I 【 got off 】 the plane, please 【 pick me up 】 【 as soon as possible 】. 请尽快接我 】**
+- **【 I called you 【 as soon as 】 I 【 went back home 】, I'm 【 in a hurry 】, please contact me 【 as soon as possible 】. 】**
 - // get in. 上车 ------------- 需要 弯腰 的 ------------ taxi/car
 - // get out of. 下车 --------- 需要 弯腰 的
 - // get on. 上车 ------------- 不需要 弯腰 的 ----------- bus/train/subway
 - // get off. 下车 ------------ 不需要 弯腰 的
 -
 - [BB.]
+- `【 as for as ... is concerned. 就...而言 】`
+- `【 as long as. 只要 】`
+- **【 【 As far as 】 the sentence "【 As long as 】 you work hard, you will succeed." 【 is concerned 】, I don't think it is entirely correct. 只要努力就会成功，就这句话而言，我认为也不是全对 】**
+- // -- 【 concern 关心 n / 有关 v 】
+- // -- 【 thanks for your concern. 感谢你关心 】
+-
+- [CC.]
+- `【 as well as. 也 】`
+- **【 【 Miss 】 Chen knows English 【 as well as 】 Chinese. 】**
+
+###### Must Phrases 2024-08-26
+
+- 1
+- `【 a matter of. ...的问题 】`
+- `【 no matter. 无论 】`
+- `【 principle. 原则 原理 n 】`
+- `【 work principle. 工作原理 n 】`
+- `【 in principle. 原则上 】`
+- **【 【 In principle 】, It's not just 【 a matter of 】 money, It's 【 a matter of 】 【 principle 】. 原则上，这不仅仅是钱的问题，这是一个原则问题 】**
+- **【 无论是金钱还是地位，都很重要 】**
+-
+-
+-
+- 2
+- `【 put off. 推迟 】`
+- `【 put off until. 推迟到 】`
+- `【 last for. 持续 】`
+- **【 The company 【 issue an announcement 】 that the new phone will be 【 put off until 】 next month to 【 roll out 】. 发布公告，x 将推迟到下个月发布 】**
+- **【 This meeting 【 last for 】 two hours, and we 【 finally 】 decide to 【 put off 】 the 【 competition 】 【 until 】 next month. 这次会议持续了两个小时，我们最终决定将比赛推迟到下个月 】**
+- // -- 【 issue an announcement. 发布公告 】
+- // -- 【 announce 宣布 v 】
+- // -- [ roll out. 发布 v ]

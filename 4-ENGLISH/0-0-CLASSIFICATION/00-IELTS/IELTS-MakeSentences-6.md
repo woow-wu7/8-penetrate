@@ -35,7 +35,7 @@ I'm a 【 ordinary 】 person.
 This meeting 【 last for 】 two hours, and we 【 finally 】 decide to 【 put off 】 the 【 competition 】 【 until 】 next month.
 这次会议持续了两个小时，我们最终决定将比赛推迟到下个月
 -
-The company 【 issue an announcement 】 that the new phone will be 【 put off until 】 next monty to 【 roll out 】.
+The company 【 issue an announcement 】 that the new phone will be 【 put off until 】 next month to 【 roll out 】.
 公司发布公告，新手机将推迟到下个月发布
 -
 The company has 【 put off 】 the plan 【 to 】 【 roll out 】 the new phone.
@@ -855,9 +855,11 @@ wish you a 【 plain sailing 】.
 // -
 // complain 抱怨 v
 // explain 解释 v
-// plain 平原 朴素的 adj
+// plain 平原n  朴素的 adj
 // -
 // aspect 方面 n
+// -
+// TIPS: Pay attention to the pronunciation of the word 'aspect'. [aspect].
 
 
 4
@@ -1089,6 +1091,8 @@ We changed from 【 strangers 】 to 【 acquaintances 】.
 // -
 // 【 stranger 陌生人 n 】
 // 【 acquaintance 熟人 n 】
+// -
+// 【 old acquaintance. 老熟人 n 】
 
 
 2
@@ -1157,6 +1161,9 @@ I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal
 // take up.
 // take your time.
 // take a screenshot.
+// -
+// 【 meal 餐 n 】
+// 【 meat 肉 n 】
 
 
 2
@@ -1198,6 +1205,9 @@ Computers require 【 hardware 】 【 as well as 】 【 software 】.
 // get out of. 下车 --------- 需要 弯腰 的
 // get on. 上车 ------------- 不需要 弯腰 的 ----------- bus/train/subway
 // get off. 下车 ------------ 不需要 弯腰 的
+// -
+// 【 hardware 硬件 n 】
+// 【 software 软件 n 】
 
 
 4
