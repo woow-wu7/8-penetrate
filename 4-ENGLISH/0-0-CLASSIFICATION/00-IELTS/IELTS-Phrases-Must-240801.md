@@ -1,0 +1,34 @@
+###### Must Phrases 2024-08-25
+
+- 1
+- `【 for a while. 一段时间 一阵子 一会儿 】`
+- 一段时间: **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
+- 一段时间: **【 We haven't reviewed the topic 【 related to 】 phone 【 for a while 】. 我们有一段时间没有复习有关电话的主题了 】**
+- 一会 **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
+- **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
+- // -- 【 take a rest. 休息一会 】
+- // -- 【 take a break. 休息一会 】
+- // -- 【 related to. 有关 】
+-
+-
+-
+-
+-
+- 2
+- `【 as soon as. 一...就... 】`
+- `【 as soon as possible. 尽快 】`
+-
+- `【 as far as. 就...而言 】`
+- `【 as long as. 只要 / 和...一样长 】`
+- `【 as well as. 也 】`
+- `【 as soon as. 一...就... 】`
+-
+- [AA.]
+- **【 I called you 【 as soon as 】 I 【 got off 】 the plane, please 【 pick me up 】 【 as soon as possible 】. 我飞完飞机就打电话给你，请尽快接我 】**
+- **【 I called you 【 as soon as 】 I 【 went back home 】, I'm 【 in a hurry 】, please contact me 【 as soon as possible 】. 我一回家就给你打电话了，我很急，请尽快联系我 】**
+- // get in. 上车 ------------- 需要 弯腰 的 ------------ taxi/car
+- // get out of. 下车 --------- 需要 弯腰 的
+- // get on. 上车 ------------- 不需要 弯腰 的 ----------- bus/train/subway
+- // get off. 下车 ------------ 不需要 弯腰 的
+-
+- [BB.]

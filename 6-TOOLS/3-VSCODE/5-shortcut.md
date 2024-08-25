@@ -1,6 +1,6 @@
 # Vscode
 
-##### (一) 快捷键 Shortcut
+##### (一) 快捷键 Shortcut key
 
 - [shortcut key](https://zhuanlan.zhihu.com/p/143979670)
 

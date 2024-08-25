@@ -798,14 +798,14 @@ They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】.
 Remember to 【 take out the garbage 】 when you 【 go out 】.
 出门的时候，记得把垃圾倒一下
 -
-请从书包里取出你的英语书
 Please 【 take out 】 your English book from your 【 schoolbag 】.
+请从书包里取出你的英语书
 -
-我的外卖和快递同时到了
 My 【 takeout 】 and 【 delivery 】 【 arrived 】 at the same time.
+我的外卖和快递同时到了
 -
-我想从外卖柜里拿出我的外卖
 I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】.
+我想从外卖柜里拿出我的外卖
 -
 // -
 // 【 take out. 取出 】
@@ -814,17 +814,19 @@ I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】.
 // -
 // delivery 快递 n
 // deliver 递送 v
+// -
+// 【 cabinet 储藏柜 】
 
 
 2
 This is my first time here.
 这是我第一次来这儿
 -
-I was only fifteen years old when I went there 【 for the first time 】.
-当我第一次去那里的时候，我只有十五岁
--
 They 【 hit it off 】 when they met 【 for the first time 】.
 他们第一次见面就一见如故
+-
+I was only fifteen years old when I went there 【 for the first time 】.
+当我第一次去那里的时候，我只有十五岁
 -
 // -
 // 【 for the first time. 第一次 】
@@ -971,32 +973,85 @@ We need to 【 determine 】 whether the file is 【 exist 】 in a 【 recursiv
 // -
 // 【 exist 存在 v 】
 // 【 judge by. 根据...判断 】
+
+
+------- ------- ------- ------- ------- ------- -------
+出门的时候，记得把垃圾倒一下
+请从书包里取出你的英语书
+我的外卖和快递同时到了
+我想从外卖柜里拿出我的外卖
+-
+这是我第一次来这儿
+当我第一次去那里的时候，我只有十五岁
+他们第一次见面就一见如故
+-
+请不要抱怨我，我将向你解释原因
+解释清楚这件事后，她不再抱怨我了
+我将从三个方面解释我的观点
+祝你一帆风顺
+-
+赞助商捐了100万元给我们公司
+-
+这个算法使用枚举来声明变量
+-
+生理健康和心理健康都是宝贵的财富
+我认为你是一个很有思想和想法的人
+-
+你说话的语气让人很反感
+-
+选择做一个工具人，也是一种选择
+你选择前者还是后者
+在某些情况下，选择比努力更重要
+-
+我们可以通过中介申请签证
+-
+我们需要用递归的方式判断这个文件是否存在
+根据她的语气和口音，我们可以推断和判断她把我看作一个工具人
 ```
 
 ##### 13 Make sentences 2024-08-23
 
 ```
 1
+Please don't be 【 in a hurry 】, there are only two of us 【 in total 】, we won't 【 be late 】.
+请别着急，总共就我们两个人，我们不会迟到的
+-
 How many 【 episodes 】 of this 【 TV series 】 【 in total 】?
 这部电视剧一共有多少集？
 -
 I know you are ignoring me 【 on purpose 】.
 我知道你是故意不理我
 -
+I'm not 【 in a hurry 】, please 【 take your time 】 and 【 enjoy your meal 】.
+我不赶时间，请慢慢吃
+-
 // -
 // 【 in total. 总共 adv 】
+// 【 in a hurry. 急忙 急 忙 adv 】
 // 【 on purpose. 故意地 adv 】
 // -
 // 【 episode 集 n 】
 // 【 TV series. = TV drama. 电视剧 n 】
+// -
+// 【 take your time. 慢慢来 】
+// -
+// 【 be late. 迟到 】
 
 
 2
+I didn't 【 encourage 】 you, but you have 【 courage 】, and nobody can 【 discourage 】 you.
+我并没有鼓励你，而是你自己有勇气，没有人能阻止你
+-
 He 【 bravely 】 opened the 【 grave 】.
 他勇敢地打开了坟墓
+-
+// -
+// 【 encourage 鼓励 v 】
+// 【 courage 勇气 n 】
+// 【 discourage 阻碍 v 】
 // -
 // 【 brave 勇敢地 adj 】
-// 【 grave 坟墓 n 】
+// 【 grave 坟墓 n 】= tomb.
 // -
 // 【 womb 子宫 n 】
 // 【 tomb = grave. 坟墓 】
@@ -1005,6 +1060,16 @@ He 【 bravely 】 opened the 【 grave 】.
 // womb 子宫 n
 // fetus 胎儿 n
 // infant 婴儿 n
+
+
+------- ------- ------- ------- ------- ------- -------
+请别着急，总共就我们两个人，我们不会迟到的
+这部电视剧一共有多少集？
+我知道你是故意不理我
+我不赶时间，请慢慢吃
+-
+我并没有鼓励你，而是你自己有勇气，没有人能阻止你
+他勇敢地打开了坟墓
 ```
 
 ##### 14 Make sentences 2024-08-24
@@ -1050,4 +1115,120 @@ I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal
 // 【 go past. 经过 】
 // -
 // 【 go straight on past. 直走经过... 】
+
+
+------- ------- ------- ------- ------- ------- -------
+奇怪的是她并不是一个陌生的陌生人
+我们从陌生人变成了熟人
+如果不是紧急情况的话请不要假装不理我，我只想敦促你学习
+我不赶时间，请慢慢吃
+一直往前走，经过银行，然后在第二个路口向左转
+```
+
+##### 15 Make sentences 2024-08-25
+
+```
+1
+Please don't 【 make decisions 】 【 in a hurry 】.
+请不要匆忙做决定
+-
+我不赶时间，请慢慢吃
+I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】.
+-
+// -
+// 【 in a hurry. 充忙地 急 adv 】
+// -
+// 【 take your time. 慢慢来 】
+// -
+// 【 make decision. 做决定 】
+// -
+// take measure.
+// take actions.
+// take notes.
+// take photo.
+// take picture.
+// take wedding photo.
+// take a rest.
+// take a break.
+// take a shower.
+// take a bath.
+// take a nap.
+// take over.
+// take up.
+// take your time.
+// take a screenshot.
+
+
+2
+My wife is three months 【 pregnant 】.
+我老婆怀孕3个月了
+-
+My wife 【 is pregnant 】 for three months.
+我老婆怀孕3个月了
+-
+// -
+// 【 be pregnant. 怀孕 】
+
+
+3
+It rained 【 as soon as 】 I went out.
+我一出去就下雨了
+-
+I called you 【 as soon as 】 I 【 got off 】 the plane. please 【 pick me up 】 【 as soon as possible 】.
+我一下飞机就给你打电话了，请尽快来接我
+-
+I called you 【 as soon as 】 I went back home, I'm 【 in a hurry 】, please contact me 【 as soon as possible 】.
+我一回家就给你打电话了，我很急，请尽快联系我
+-
+【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+只要努力，就会成功
+-
+Computers require 【 hardware 】 【 as well as 】 【 software 】.
+计算机需要硬件，同时也需要软件
+-
+// -
+// 【 as soon as. 一...就 】
+// 【 as soon as possible. 尽快 】
+// -
+// 【 as long as. 只要 】
+// 【 as well as. 也 以及 】
+// 【 once 一旦 】
+// -
+// get in. 上车 ------------- 需要 弯腰 的 ------------ taxi/car
+// get out of. 下车 --------- 需要 弯腰 的
+// get on. 上车 ------------- 不需要 弯腰 的 ----------- bus/train/subway
+// get off. 下车 ------------ 不需要 弯腰 的
+
+
+4
+Let me send the 【 screenshot 】 of the 【 shortcut keys 】 to you.
+让我把快捷键截图发给你
+-
+After you 【 take screenshots 】, send the all 【 screenshots 】 to me.
+你截图后，把所有的截图都发给我
+-
+// -
+// 【 take a screenshot. 截屏 截图 】
+// 【 screenshot 截屏 截图 n 】
+// 【 shot 射击 发射 v 】
+// -
+// 【 shortcut key. 快捷键 n 】
+// 【 screenshot 截屏 截图 n 】
+// -
+// 【 short 短的 】/ long
+// 【 shot 射击 发射 v 】
+
+
+------- ------- ------- ------- ------- ------- -------
+请不要匆忙做决定
+我不赶时间，请慢慢吃
+-
+我老婆怀孕3个月了
+-
+我一出去就下雨了
+我一下飞机就给你打电话了，请尽快来接我
+我一回家就给你打电话了，我很急，请尽快联系我
+-
+你截图后，把所有的截图都发给我
+让我把快捷键截图发给你
 ```

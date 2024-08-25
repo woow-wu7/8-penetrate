@@ -8,6 +8,7 @@
 - `【 in public. 公开的 当众地 adv 】`
 - `【 in secret. 秘密地 adv 】` // ----- 【 secret 秘密 n 】 【 secretary 秘书 】 【 secretly 偷偷地 秘密地 adv 】
 - `【 in total. 总共 adv 】`
+- `【 in a hurry. 匆忙地 忙 急 adv 】`
 - `【 on purpose. 故意地 adv 】`
 -
 - > 【 secretary / laboratory / dormitory / repository / factory / directory / victory / history / mandatory 】
@@ -113,6 +114,10 @@
 - [-DD.]
 - `【 on purpose. 故意地 adv 】`
 - **【 I know you are ignoring me 【 on purpose 】. 我知道你是故意不理我. 】**
+-
+- [-DD.]
+- `【 in a hurry. 匆忙地 忙 急 adv 】`
+- **【 Please don't 【 make decisions 】 【 in a hurry 】. 请不要匆忙做决定 】**
 -
 - [DD.]
 - `【 insult 侮辱 v 】`
@@ -1020,7 +1025,9 @@
 - `【 take note. 做笔记 】` = make note.
 - `【 take selfie. 自拍 】`
 - `【 take photo. 拍照 】` = take picture.
-- `【 take medicine. 吃药 】`
+- `【 take your time. 慢慢来 】`
+- `【 take a screenshot. 截图 截屏 】`
+- > 【 take a rest. 休息一下 = take a break.】
 - > 【 take a break. 休息一下 】// ------------- 【 take a break. we'll be right back 休息一下 马上回来 】
 - > 【 take a shower. 洗澡 】// --------------- 【 take a shower. = take a bath. 洗澡 】// ----【 bath 洗澡 浴缸 n 】
 - > 【 take a nap. 小睡一会 】
@@ -1057,11 +1064,12 @@
 - // -- 【 be equal to. 等于 】
 -
 - [CC.]
-- `【 take a break. 休息一下 】`
+- `【 take a break. 休息一下 】` = take a rest. 休息一会
 - `【 take a shower. 洗澡 】`
 - `【 take a nap. 小睡一会 】`
 - > take a shower. = take a bath. 洗澡
 - **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
+- **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
 - // -- 【 take a shower. = take a bath. 洗澡 】
 -
 - [DD.]
@@ -1074,6 +1082,11 @@
 - `【 takeout. 外卖 】`
 - `【 takeout cabinet. 外卖柜 】`
 - **【 I want to 【 take out 】 my 【 takeout 】 from the 【 takeout cabinet 】. 我想从外卖柜里拿出我的外卖 】**
+-
+- [FF.]
+- `【 take your time. 慢慢来 】`
+- `【 in a hurry. 急 充忙 adv 】`
+- **【 I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】. 我不赶时间，请慢慢吃 】**
 
 ###### Must 2024-08-20
 
@@ -1101,3 +1114,8 @@
 - `【 in a hurry. 急忙 忙于... 】`
 - `【 take your time. 慢慢来 】`
 - **【 I'm not 【 in a hurry 】, please 【 take your time 】and 【 enjoy your meal 】. 我不赶时间，请慢慢吃 】**
+
+###### Must 2024-08-25
+
+- 1
+- `【 waste 浪费v 废物n 垃圾n 】` --------- 

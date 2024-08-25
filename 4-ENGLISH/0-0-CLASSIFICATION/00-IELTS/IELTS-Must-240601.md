@@ -546,7 +546,7 @@
 - `【 bride 新娘 】` // --------------【 bridesmaid 伴娘 n 】// ---- bridge 桥
 - `【 fiancee 未婚妻 n 】`
 - `【 widow 寡妇 】` //---------------【 window 窗户 】
-- `【 pregnant woman. 孕妇 n 】` // -- pregnant 怀孕的 // fragment 片段
+- `【 pregnant woman. 孕妇 n 】` // -- pregnant 怀孕的 // fragment 片段 // My wife is three months 【 pregnant 】. 我老婆怀孕 3 个月了
 - // TIPS: Pay attention to the pronunciation of the word 'fiancee'. [fiancee]
 - // TIPS: Pay attention to the pronunciation of the word 'pregnant'. [pregnant]
 -
@@ -1197,35 +1197,7 @@
 ###### 2024-06-28
 
 - 1
-- `【 special 特别的 特殊的 adj 】`
-- `【 specialist 专家 专科医生 n 】`
-- `【 specialize 专门研究 专攻 v 】`
--
-- `【 specific 具体的 特定的 adj 】`
-- `【 specificity 独特性 】`
-- _【 specific symptom. 具体症状 】_
-- _【 specific indicator. 具体指标 】_
-- _【 specific requirement. 具体要求 】_
-- _【 specific place. 具体地点 / 特定地点 】_
--
-- `【 expert 专家 】`
-- `【 specialist 专家 专科医生 】`
-- `【 eye specialist. 眼科专家 】`
--
--
-- [AA.]
-- `【 specialize 专门研究 专攻 】`
-- `【 be proficient in. 精通于 】`
-- > 【 specialize in. 专攻 专门研究 】
-- **【 Because I 【 specialize 】 【 in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
--
--
--
--
--
--
-- 2
-- `【 explain 解释 说明 】`
+- `【 explain 解释 说明 v 】`
 - `【 complain 抱怨 】`
 - `【 complain about sb. 抱怨某人 】`
 - > 【 start doing sth. 开始做某事 】
