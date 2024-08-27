@@ -1242,3 +1242,65 @@ After you 【 take screenshots 】, send the all 【 screenshots 】 to me.
 你截图后，把所有的截图都发给我
 让我把快捷键截图发给你
 ```
+
+##### 16 Make sentences 2024-08-26
+
+```
+1
+Can you 【 drop me off 】 at the library 【 on your way home 】?
+你回家的路上能让我在图书馆下车吗?
+// -
+// 【 drop off. 放下 卸下 送到 v 】
+
+
+2
+I want to try, but I'm sure whether I can 【 be competent for 】 this job.
+我想尝试一下，但我不确定我是否可以胜任这份工作
+-
+I have the ability and 【 confidence 】 to 【 be competent for 】 this job.
+我有能力和信心胜任这份工作
+-
+// -
+// 【 competent 胜任的 adj 】
+// 【 be competent for. 胜任... 】
+// -
+// 【 confidence 信心 自信 n 】
+
+
+3
+Please 【 dump 】 the 【 expired 】 【 dumpling 】 into the 【 garbage can 】.
+请把过期的饺子倒在垃圾桶里
+-
+【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】.
+对于布料和衣服来说，没有过期这一说法，只有过时一说
+-
+This food is 【 expired 】, not 【 out of date 】.
+这个食物是过期了，不是过时了
+-
+This style of 【 clothes 】 is 【 out of date 】.
+这种款式的衣服已经过时了
+-
+The 【 hairstyle 】 is completely 【 out of style 】.
+这种发型已经过时了
+-
+【 Clothes 】 【 are made of 】 【 cloths 】.
+衣服是用布料制成的
+-
+// -
+// 【 out of date. 过时的 adj 】 -------- 可以是很多领域
+// 【 out of style. 过时的 adj 】 ------- 专指时尚领域
+// 【 expired 过期的 adj 】
+// -
+// 【 expire 到期 过期 失效 v 】
+// 【 expired 过期的 失效的 adj 】
+// -
+// 【 dump 倒 v  / 垃圾场 n 】
+// 【 dumpling 饺子 n 】
+// -
+// 【 cloth 布 布料 n 】
+// 【 clothes 衣服 n 】
+// TIPS: Pay attention to the different pronunciations between 'cloth' and 'clothes'. [cloth] [clothe]
+// -
+// 【 be made of. 由...制成 】 --------- 可以看到原材料
+// 【 be made from. 有...制成 】 ------- 看不出原材料
+```

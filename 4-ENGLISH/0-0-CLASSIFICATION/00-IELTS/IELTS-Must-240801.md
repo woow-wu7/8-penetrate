@@ -1123,8 +1123,8 @@
 - `【 garbage 垃圾 n 】` // -------------- 【 garbage can. = garbage bin. 垃圾桶 】 【 garbage bag. 】 【 garbage truck. 垃圾车 】 【 garbage dump. 垃圾场 】
 - `【 trash 垃圾 n 】` // ---------------- 【 trash can. 垃圾桶 】 【 trash bin. 垃圾桶 】
 - `【 rubbish 垃圾 n 】`
-- `【 litter 垃圾n 乱扔v 】` // -----------【 no littering. 禁止乱扔 】 【 no leaning. 禁止依靠 】// 公共场所的没有在垃圾桶中的垃圾
-- `【 waste 垃圾n 浪费v 废物n 】` // -------【 recyclable waste. 回收垃圾 】 【 residual waste. 干垃圾 】 // 用的最广
+- `【 litter 垃圾n 乱扔v 】` // -----------【 no littering. 禁止乱扔 】 【 no leaning. 禁止依靠 】// ---------- 公共场所的没有在垃圾桶中的垃圾
+- `【 waste 垃圾n 浪费v 废物n 】` // -------【 recyclable waste. 回收垃圾 】 【 residual waste. 干垃圾 】 // -- 用的最广
 - > 【 waste 浪费 v 废物 n 垃圾 n 】
 - > 【 recyclable waste. 可回收垃圾 】 // -- 【 recyclable 可回收的 adj 】 【 recycle 回收 v 】
 - > 【 residual waste. 干垃圾 】` // ------ 【 residual value. 剩余价值 】 【 residual 剩余的 残留的 adj / 剩余 残渣 n 】
@@ -1137,7 +1137,7 @@
 -
 - `【 garbage 垃圾 n 】`
 - `【 garbage bag. 垃圾袋 n 】`
-- `【 garbage can. 垃圾桶 n 】` // -------- garbage can. = garbage bin. = trash bin. = trash can.
+- `【 garbage can/bin. 垃圾桶 n 】` // --------- garbage can. = garbage bin. = trash bin. = trash can.
 - `【 garbage truck. 垃圾车 n 】`
 - `【 garbage dump. 垃圾场 垃圾堆 n 】` // - 【 dumpling 饺子 n 】 【 dump 倾倒 v / 垃圾场 n 垃圾堆 n 】
 - `【 take out the garbage. 倒垃圾 】`
@@ -1162,6 +1162,10 @@
 - `【 take out the garbage. 倒垃圾 】`
 - `【 no littering. 禁止乱扔 】`
 - `【 on leaning. 静止依靠 】`
+-
+- `【 expired 过期的 adj 】`
+- `【 out of date. 过时的 adj 】`
+- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服来说，没有过期这一说法，只有过时一说 】**
 -
 -
 - [AA.]
@@ -1207,6 +1211,14 @@
 - **【 What's the 【 working principle 】 of the 'scoped' attribute on style tag in Vue? 】**
 -
 - [FF.]
+- `【 expired 过期的 adj 】`
+- `【 out of date. 过时的 adj 】`
+- `【 out of style. 过时的 adj 】`
+- **【 Cloths and clothes are not expired, only out of date. 布料和衣服，没有过期一说，只有过时一说 】**
+- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服来说，没有过期这一说法，只有过时一说 】**
+- **【 The food is 【 expired 】, not 【 out of date 】. 这个食物是过期了，不是过时了 】**
+-
+- [GG.]
 - **【 【 Waste paper towels 】 are 【 recyclable waste 】. 废纸巾是可回收垃圾 】**
 - **【 He is just 【 a piece of trash 】, wasting time, money, life. 他就是个垃圾，浪费时间，浪费金钱，浪费生命 】**
 - **【 Remember to 【 take out the garbage 】 when you go out. 出门的时候，记得把垃圾倒一下 】**

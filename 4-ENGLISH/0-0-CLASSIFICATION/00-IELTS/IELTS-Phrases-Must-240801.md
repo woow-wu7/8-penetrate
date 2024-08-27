@@ -5,6 +5,7 @@
 - 一段时间: **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
 - 一段时间: **【 We haven't reviewed the topic 【 related to 】 phone 【 for a while 】. 我们有一段时间没有复习有关电话的主题了 】**
 - 一会 **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
+- 一会 **【 I just wait for you for a while. 我仅仅等了你一会 】**
 - **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
 - // -- 【 take a rest. 休息一会 】
 - // -- 【 take a break. 休息一会 】
@@ -64,3 +65,18 @@
 - // -- 【 issue an announcement. 发布公告 】
 - // -- 【 announce 宣布 v 】
 - // -- [ roll out. 发布 v ]
+
+###### Must Phrases 2024-08-27
+
+- 1
+- `【 competent 胜任的 adj 】`
+- `【 be competent for. 胜任... 】`
+- **【 I want to try, but I'm not sure whether I can 【 be competent for 】 this job. 我想尝试，但是不确定是否能胜任这份工作 】**
+-
+-
+- 2
+- `【 expired 过期的 adj 】`
+- `【 out of date. 过时的 adj 】`
+- `【 out of style. 过时的 adj 】`
+- **【 The food is 【 expired 】, not 【 out of date 】. 这个食物是过期了，不是过时了 】**
+- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服来说，没有过期这一说法，只有过时一说**

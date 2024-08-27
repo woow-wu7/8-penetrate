@@ -225,6 +225,12 @@
 - 1. nearest **【 where is the 【 nearest 】 station? 最近的车站在哪里？ 】**
 - 1. nearest **【 Do you know where the 【 nearest 】 station 【 is 】?. 你知道最近的车站在哪里吗？ 】**
 - 2. quickest **【 The 【 quickest 】 way to receive love is to give love. 得到爱最快的方法就是付出爱 】**
+-
+- [QQ.]
+- `【 drop off. 放下 卸下 送到 】`
+- **【 Can you 【 drop me off 】 at the library 【 on your way home 】? 你回家的路上能让我在图书馆下车吗? 】**
+- // -- 【 on the way. 在路上 】
+- // -- 【 drop off. 放下 卸下 v 】
 
 ##### (2) **The direction sentences that you mast know.** // ask for directions. // give directions.
 
