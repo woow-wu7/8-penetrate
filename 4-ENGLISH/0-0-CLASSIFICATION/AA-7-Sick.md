@@ -4,9 +4,9 @@
 
 - [11.]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
+- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 counter 柜台 n 计数器 n 】
 - `【 drugstore. 药房 药店 n 】`
-- `【 pharmacy. 药房 药店 n 】`
-- `【 ward 病房 n 】` // ------------------------ 【 reward 奖励 n 】 【 steward 乘务员 n 】 【 awkward 尴尬的 adj 】 【 coward 胆小鬼 n 】 【 forward 向前 】
+- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // 【 awkward / coward / reward / steward / forward 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
@@ -19,20 +19,20 @@
 -
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
-- `【 emergency room. 急诊室 】` ---------------- 【 ER 】
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
+- `【 emergency room. 急诊室 】` ---------------- 【 ER 】
 - `【 waiting room. 候诊室 】`
-- `【 registration office/desk. 挂号处 】` ------ 【 register 登记 注册 v 】 【 registration 登记 注册 n 】
-- > 【 registration office。 = registration desk。 挂号处 n 】
-- // TIPS: Pay attention to the pronunciation of the word 'register'. [register]
+- `【 registration office/desk. 挂号处 】` ------ 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
+- > 【 registration office. = registration desk. 挂号处 n 】
+- // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
 - // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
 -
 - `【 ward 病房 n 】`
 - `【 reward 奖励 n 】`
 - > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
-- > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
 - > 【 coward 胆小鬼 n 】
+- > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
 - > 【 afterward 后来 adv 】
 - > 【 forward 向前的 adj adv 】
 - > 【 backward 向后的 adj adv 】
@@ -47,8 +47,37 @@
 - // 【 form/reform 】` -----------------------【 form 形成 v 表格 v 】 // -- 【 reform 改革 】
 - // 【 ward/reward 】` -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
 - // 【 fun / fund / refund / found 】
+-
+- `【 register 登记 注册 挂号 v  】`
+- `【 registration office/desk. 挂号处 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
 - // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
+-
+- [AA.]
+- `【 patient 病人 n 】`
+- `【 clinic 诊所 n 】`
+- `【 pharmacy 药店 n 】`
+- `【 ward 病房 n 】`
+- **【 The are many 【 patients 】 in the 【 clinic 】, 【 pharmacy 】, and 【 ward 】. 诊所，药房，病房都有很多病人 】**
+-
+- [BB.]
+- `【 ward 病房 n 】`
+- `【 make a ward round. 查房 】`
+- **【 The doctor is 【 making a ward round 】 in the 【 ward 】. 医生正在病房查房 】**
+-
+- [CC.]
+- `【 awkward 尴尬的 adj 】` = embarrassed
+- `【 coward 胆小鬼 n 】`
+- `【 reward 奖励 n 】`
+- `【 ward 病房 n 】`
+- `【 embarrassed 尴尬的 adj 】`
+- **【 We were very 【 embarrassed 】 because this 【 coward 】 received a 【 reward 】 from the doctor in the 【 ward 】. 我们很尴尬，因为这个胆小鬼在病房得到了医生的奖励 】**
+-
+- [DD.]
+- `【 register 登记 注册 挂号 v 】`
+- `【 registration office/desk. 挂号处 】`
+- `【 see a doctor. 看医生 】`
+- **【 Before 【 seeing the doctor 】, you need to go to the 【 registration office 】 to 【 register 】. 看医生前你需要先去挂号处挂号 】**
 -
 -
 -
@@ -57,26 +86,38 @@
 -
 -
 - [22.]
-- `【 poison 毒药 n 】`
-- `【 antidote 解药 n 】`
+- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】
+- `【 antidote 解药 n 】` // --------------- 【 antidote 解药 n 】 【 detoxify 解毒 v 】
+- `【 detoxify 解毒 v 】`
+- > 【 poison gas. 毒气 有毒气体 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
+- // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify]
 -
-- `【 medication 处方药 n 】` // ---------- 【 prescribe medication. 开处方 】
-- `【 medicine 药 n 】` // --------------- 【 oral medicine. 口服药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 吃药 】
+- `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方 】
+- `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
 - > 【 oral medicine. 口服药 n 】
-- > 【 injectable medicine. 注射药 n 】 // - 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】
+- > 【 external medicine. 外用药 n 】 // ---- 【 external 外部的 adj 】 【 internal 内部的 adj 】
+- > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】
 - > 【 traditional Chinese medicine. 中药 n 】
-- > 【 western medicine. 西药 n 】// ----- 【 western 西方的 adj 】
+- > 【 western medicine. 西药 n 】// -------- 【 western 西方的 adj 】 【 west 西方 n 】
 - > 【 take medicine. 吃药 】
 - // TIPS: Pay attention to the pronunciation of the word 'inject'. [inject]
+- // TIPS: Pay attention to the pronunciation of the word 'injectable'. [injectable]
 -
 - `【 capsule 胶囊 n 】`
 - `【 pill 药丸 n 】`
 - `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
 - `【 ointment 药膏 n 】`
-- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
+- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 band 乐队 】 【 bind 绑定 v 】 // 【 bandage 绷带 n 】
 - `【 cough syrup. 止咳糖浆 n 】`
 - `【 granule preparation. 冲剂 n 】`
+- > 【 bandage 绷带 n 】
+- > 【 band 乐队 n 】
+- > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】
+- > 【 bank 银行 n 】
+- > 【 branch 分支 分行 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'ointment' [ointment]
+- // TIPS: Pay attention to the pronunciation of the word 'capsule' [capsule]
 -
 - `【 dosage 药量 n 】`
 - `【 maximum dosage. 最大剂量 n 】`
@@ -88,7 +129,12 @@
 - `【 oral medicine. 口服药 n 】`
 - `【 oral promise. 口头承诺 】`
 -
-- // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
+- [AA.]
+- `【 antidote 解药 n 】`
+- `【 detoxify 解毒 n 】`
+- `【 poison 毒药 毒 n 】`
+- **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
+-
 -
 -
 -
