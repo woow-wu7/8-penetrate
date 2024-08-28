@@ -244,6 +244,8 @@
 - > pair/repair ---------------------- 【 pair 一对 一双 n 】// ---------【 repair 修理 修复 v 】
 - > port/report -----------------------【 port 港口 端口 n 】 // --------【 report 汇报 报告 n 】
 - > form/reform -----------------------【 form 形成 v 构成 v 表格 v 形态 n 】 // 【 reform 改革 】
+- > form/reform -----------------------【 form 形成 v 表格 v 】 // -- 【 reform 改革 】
+- > ward/reward -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
 - // 【 supplier / dealer / seller 】
 - // 【 fun / fund / refund / found 】
 - // 【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 】

@@ -1,5 +1,110 @@
 ## Sick
 
+##### (1) **The direction words that you mast know.**
+
+- [11.]
+- `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
+- `【 drugstore. 药房 药店 n 】`
+- `【 pharmacy. 药房 药店 n 】`
+- `【 ward 病房 n 】` // ------------------------ 【 reward 奖励 n 】 【 steward 乘务员 n 】 【 awkward 尴尬的 adj 】 【 coward 胆小鬼 n 】 【 forward 向前 】
+- > 【 dental clinic. 牙医诊所 】
+- > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
+- > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
+- // 【 private property. 私人财产 n 】
+- // 【 private conversation. 私人谈话 】
+- // 【 personal privacy. 个人隐私 】
+- // _【 dental clinic. 牙医诊所 】_
+- // _【 dental floss. 牙线 】_
+- // _【 dental braces. 牙套 】_
+-
+- `【 outpatient department. 门诊部 】` // -------【 patient 病人 n 】 【 patience 耐心 n 】
+- `【 inpatient department. 住院部 】`
+- `【 emergency room. 急诊室 】` ---------------- 【 ER 】
+- `【 operating room. 手术室 】` ---------------- 【 OR 】
+- `【 waiting room. 候诊室 】`
+- `【 registration office/desk. 挂号处 】` ------ 【 register 登记 注册 v 】 【 registration 登记 注册 n 】
+- > 【 registration office。 = registration desk。 挂号处 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'register'. [register]
+- // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
+- // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
+-
+- `【 ward 病房 n 】`
+- `【 reward 奖励 n 】`
+- > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
+- > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
+- > 【 coward 胆小鬼 n 】
+- > 【 afterward 后来 adv 】
+- > 【 forward 向前的 adj adv 】
+- > 【 backward 向后的 adj adv 】
+- // 【 treat/retreat 】` ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
+- // 【 tail/retail 】` -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】// - 【 retail store. 零售店 】 【 retail price. 零售价 n 】
+- // 【 tire/retire 】` -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ---【 entire 整个 = whole. 】
+- // 【 cover/recover 】` ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// --【 gradually recover. 逐渐恢复 】
+- // 【 fund/refund 】` -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // --【 found 创立 建立 v 】 【 fun / fund / refund / found 】
+- // 【 produce/reproduce 】` -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// 【 sexual reproduction. 有性繁殖 】
+- // 【 pair/repair 】` ---------------------- 【 pair 一对 一双 n 】// ------【 repair 修理 修复 v 】
+- // 【 port/report 】` -----------------------【 port 港口 端口 n 】 // -----【 report 汇报 报告 n 】
+- // 【 form/reform 】` -----------------------【 form 形成 v 表格 v 】 // -- 【 reform 改革 】
+- // 【 ward/reward 】` -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
+- // 【 fun / fund / refund / found 】
+- // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
+- // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
+-
+-
+-
+-
+-
+-
+-
+- [22.]
+- `【 poison 毒药 n 】`
+- `【 antidote 解药 n 】`
+-
+- `【 medication 处方药 n 】` // ---------- 【 prescribe medication. 开处方 】
+- `【 medicine 药 n 】` // --------------- 【 oral medicine. 口服药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 吃药 】
+- > 【 oral medicine. 口服药 n 】
+- > 【 injectable medicine. 注射药 n 】 // - 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】
+- > 【 traditional Chinese medicine. 中药 n 】
+- > 【 western medicine. 西药 n 】// ----- 【 western 西方的 adj 】
+- > 【 take medicine. 吃药 】
+- // TIPS: Pay attention to the pronunciation of the word 'inject'. [inject]
+-
+- `【 capsule 胶囊 n 】`
+- `【 pill 药丸 n 】`
+- `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
+- `【 ointment 药膏 n 】`
+- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
+- `【 cough syrup. 止咳糖浆 n 】`
+- `【 granule preparation. 冲剂 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'ointment' [ointment]
+-
+- `【 dosage 药量 n 】`
+- `【 maximum dosage. 最大剂量 n 】`
+-
+- `【 instruction 说明 使用说明 n 】`
+- `【 instruction manual. 使用说明书 n 】` // 【 manual 手册 说明书 n 】
+-
+- `【 oral 口头的 adj 】`
+- `【 oral medicine. 口服药 n 】`
+- `【 oral promise. 口头承诺 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
+-
+-
+-
+-
+-
+-
+-
+- [33.]
+-
+-
+-
+-
+-
+-
+-
+
 ## (1) Must Words
 
 - 1

@@ -602,6 +602,10 @@
 - `【 cover/recover 】` ---------------------【 cover 覆盖 v 】// ---------【 recover 恢复 v 】// -- 【 gradually recover. 逐渐恢复 】 // gradually 逐渐地 adv
 - `【 fund/refund 】` -----------------------【 fund 基金 n 】 // ---------【 refund 退款 v 】 // -- 【 found 创立 建立 v 】 【 fun / fund / refund / found 】
 - `【 produce/reproduce 】` -----------------【 produce 生产 v 】 // ------【 reproduce 繁殖 v 】// -【 sexual reproduction. 有性繁殖 】
+- `【 pair/repair 】` ---------------------- 【 pair 一对 一双 n 】// ------【 repair 修理 修复 v 】
+- `【 port/report 】` -----------------------【 port 港口 端口 n 】 // -----【 report 汇报 报告 n 】
+- `【 form/reform 】` -----------------------【 form 形成 v 表格 v 】 // -- 【 reform 改革 】
+- `【 ward/reward 】` -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
 - > 【 fun / fund / refund / found 】
 -
 - > 【 supplier 供应商 n 】
