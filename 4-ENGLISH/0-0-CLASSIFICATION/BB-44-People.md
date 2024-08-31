@@ -3,10 +3,10 @@
 ##### (1) Education background 教育背景 / 学历
 
 - `【 kindergarten 幼儿园 】`
-- **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
+- > 【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】
 -
-- `【 junior school. 小学 】`
-- `【 junior high school. 初中 】` // junior school. = primary school. = elementary school.
+- `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】
+- `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
 - `【 university 大学 】`
@@ -17,13 +17,12 @@
 -
 - [小学]
 - `【 junior school. 小学 】`
-- `【 primary school. 小学 】`
+- `【 primary school. 小学 】` // ------------------- 【 primary source. 初选 】 【 primary school. 小学 】 // 【 elect / election 】
 - `【 elementary school. 小学 】`
-- > 【 Grade One in primary school. 小学一年级 】
-- > 【 Grade Two in primary school. 小学二年级 】
-- > // 注意 Grade 和 One 都要大写
-- **【 He is a 【 Grade One 】 student in 【 primary school 】. 他是小学一年级学生 】**
-- // -- grade 等级 年级 成绩
+- > 【 Grade One in primary school. 小学一年级 】 // -- 注意 Grade 和 One 都要大写
+- > 【 Grade Two in primary school. 小学二年级 】// --- 注意 Grade 和 One 都要大写
+- > 【 He is a 【 Grade One 】 student 【 in 】 【 primary school 】. 他是小学一年级学生 】
+- > grade 等级 年级 成绩
 -
 - [初中]
 - `【 junior high school. 初中 】`
@@ -49,31 +48,57 @@
 - [学位]
 - `【 bachelor's degree 学士学位 】`
 - `【 master's degree. 硕士学位 】`
-- `【 doctor's degree. 博士学位 】`
+- `【 doctor's degree. 博士学位 】` // ------------------ 【 doctoral student. 博士生 n 】
 - > bachelor 学士 单身汉 // bachelorette 未婚女子
 - > master 硕士 主人
 - > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
+- > 【 doctoral students. 博士生 n 】
 -
 - [其他]
+- `【 overseas student. 留学生 】` = international student.
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
 - `【 doctoral student. 博士生 】`
+- `【 He is a 【 Grade One student 】 【 in 】 【 primary school 】. 他是小学一年级学生 】`
+-
+- `【 education 教育 学历 n 】`
+- `【 education background. 学历 n 】`
+-
+- `【 graduate 毕业v 毕业生n 】`
+- `【 graduation 毕业 n 】`
+- `【 graduation ceremony. 毕业典礼 】`
+- `【 undergraduate student. 本科生 】`
+- `【 postgraduate student. 研究生 】`
+- > 【 graduation ceremony. 毕业典礼 】
+- > 【 opening ceremony. 开学庆典 】
+- > 【 closing ceremony. 闭幕式 】
+- > 【 award ceremony. 颁奖典礼 】 // ------------------- 【 ward / reward / awkward / coward / afterward / forward / backward 】
+-
+-
 -
 -
 -
 -
 - [AA.]
 - `【 kindergarten 幼儿园 】`
-- **【 She teaches English in kindergarten. 她在幼儿园教英语 】**
+- **【 She teaches English in 【 kindergarten 】. 她在幼儿园教英语 】**
 -
 - [BB.]
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
-- // post 发布 邮寄 帖子
-- // graduate 毕业
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
+- // post 发布 邮寄 帖子
+- // graduate 毕业 v
+- // graduation 毕业 n
 - // -- elder sister. 姐姐
 - // -- sister 妹妹
+-
+- [CC.]
+- `【 primary school. = elementary school. = junior school. 小学 】`
+- `【 primary election. 初选 】`
+- `【 elect 选举 v 】`
+- `【 election 选举 n 】`
+- **【 He passed the 【 primary election 】 for this 【 primary school 】. 他通过了这所小学的初选 】**
 
 ```1111111
 幼儿园 kindergarten

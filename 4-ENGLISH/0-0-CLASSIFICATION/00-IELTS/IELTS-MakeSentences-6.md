@@ -1304,3 +1304,34 @@ The 【 hairstyle 】 is completely 【 out of style 】.
 // 【 be made of. 由...制成 】 --------- 可以看到原材料
 // 【 be made from. 有...制成 】 ------- 看不出原材料
 ```
+
+##### 17 Make sentences 2024-08-29
+
+```
+1
+He passed the 【 primary selection 】 for this 【 primary school 】.
+他通过了这所小学的初选
+// -
+// 【 primary school. 小学 n 】
+// 【 primary election. 初选 v 】
+// -
+// 【 elect 选举 v 】
+// 【 election 选举 n 】
+// -
+// primary school. = elementary school. = junior school. 小学
+
+
+2
+Before you 【 check into  】 the hotel, you need to 【 register 】 first and 【 fill out  】 the 【 registration form 】 .
+入住酒店之前你需要先登记，再填写登记表
+-
+Before 【 seeing the doctor 】, you need to go to the 【 registration office 】 to 【 register 】.
+看医生前你需要先去挂号处挂号
+// -
+// 【 check into. 入住 】
+// 【 register 登记 v 】
+// 【 registration form. 登记表 】
+// 【 registration office / desk. 挂号处 n 】
+// -
+// 【 see a doctor. 看医生 】
+```

@@ -1,12 +1,12 @@
 ## Sick
 
-##### (1) **The direction words that you mast know.**
+## (1) **The Sick words that you mast know.**
 
 - [11.]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
-- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 counter 柜台 n 计数器 n 】
-- `【 drugstore. 药房 药店 n 】`
-- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // 【 awkward / coward / reward / steward / forward 】
+- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】// --------------【 counter 柜台 n 计数器 n 】
+- `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 dealer / supplier / seller 】
+- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / reward / steward / forward 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
@@ -22,8 +22,12 @@
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】
 - `【 waiting room. 候诊室 】`
-- `【 registration office/desk. 挂号处 】` ------ 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
+- `【 registration form. 登记表 】`
+- `【 registration office/desk. 挂号处 】` ------ 【 fill out the registration form. 填写登记表 】 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
+- > 【 register 登记 注册 挂号 v 】
+- > 【 registration 登记 注册 挂号 n 】
 - > 【 registration office. = registration desk. 挂号处 n 】
+- > 【 fill out the registration form. 填写登记表 】
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
 - // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
@@ -50,22 +54,31 @@
 -
 - `【 register 登记 注册 挂号 v  】`
 - `【 registration office/desk. 挂号处 n 】`
+- `【 registration form. 登记表 n 】` // -------【 fill out the registration form. 填写登记表 】
+- `【 fill out the registration form. 填写登记表 】`
 - // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
 - // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
 -
 - [AA.]
+- `【 register 登记 注册 挂号 v 】`
+- `【 registration office/desk. 挂号处 】`
+- `【 registration form. 登记表 】`
+- `【 see a doctor. 看医生 】`
+- **【 Before 【 seeing a doctor 】, you need to go to the 【 registration office 】 to 【 register 】, then 【 fill out 】 the 【 registration form 】. 看医生前你需要去挂号处挂号，在填写登记表 】**
+-
+- [BB.]
 - `【 patient 病人 n 】`
 - `【 clinic 诊所 n 】`
 - `【 pharmacy 药店 n 】`
 - `【 ward 病房 n 】`
-- **【 The are many 【 patients 】 in the 【 clinic 】, 【 pharmacy 】, and 【 ward 】. 诊所，药房，病房都有很多病人 】**
+- **【 There are many 【 patients 】 in the 【 clinic 】, 【 pharmacy 】, and 【 ward 】. 诊所，药房，病房都有很多病人 】**
 -
-- [BB.]
+- [CC.]
 - `【 ward 病房 n 】`
 - `【 make a ward round. 查房 】`
 - **【 The doctor is 【 making a ward round 】 in the 【 ward 】. 医生正在病房查房 】**
 -
-- [CC.]
+- [DD.]
 - `【 awkward 尴尬的 adj 】` = embarrassed
 - `【 coward 胆小鬼 n 】`
 - `【 reward 奖励 n 】`
@@ -73,11 +86,12 @@
 - `【 embarrassed 尴尬的 adj 】`
 - **【 We were very 【 embarrassed 】 because this 【 coward 】 received a 【 reward 】 from the doctor in the 【 ward 】. 我们很尴尬，因为这个胆小鬼在病房得到了医生的奖励 】**
 -
-- [DD.]
-- `【 register 登记 注册 挂号 v 】`
-- `【 registration office/desk. 挂号处 】`
-- `【 see a doctor. 看医生 】`
-- **【 Before 【 seeing the doctor 】, you need to go to the 【 registration office 】 to 【 register 】. 看医生前你需要先去挂号处挂号 】**
+- [EE.]
+- `【 check into. 入住 v 】`
+- `【 register 登记 v 】`
+- `【 registration form. 登记表 n 】`
+- `【 fill out. 填写 v 】`
+- **【 Before 【 checking into 】 the hotel, you need to 【 register 】 first and 【 fill out 】 the 【 registration form 】. 入住酒店前需要先登记并填写登记表 】**
 -
 -
 -
@@ -86,14 +100,16 @@
 -
 -
 - [22.]
-- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】
+- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote 解药 n 】 【 detoxify 解毒 v 】
+- `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】
 - `【 detoxify 解毒 v 】`
 - > 【 poison gas. 毒气 有毒气体 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
 - // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify]
+- // TIPS: Pay attention to the pronunciation of the word 'venom'. [venom]
 -
-- `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方 】
+- `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方药 】
 - `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
 - > 【 oral medicine. 口服药 n 】
 - > 【 external medicine. 外用药 n 】 // ---- 【 external 外部的 adj 】 【 internal 内部的 adj 】
@@ -108,16 +124,19 @@
 - `【 pill 药丸 n 】`
 - `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
 - `【 ointment 药膏 n 】`
-- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 band 乐队 】 【 bind 绑定 v 】 // 【 bandage 绷带 n 】
-- `【 cough syrup. 止咳糖浆 n 】`
-- `【 granule preparation. 冲剂 n 】`
+- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
+- `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
+- `【 granule preparation. 冲剂 n 】` // - 【 granule 颗粒 n 】
 - > 【 bandage 绷带 n 】
-- > 【 band 乐队 n 】
+- > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
 - > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'ointment' [ointment]
 - // TIPS: Pay attention to the pronunciation of the word 'capsule' [capsule]
+- // TIPS: Pay attention to the pronunciation of the word 'syrup'. [syrup]
+- // TIPS: Pay attention to the pronunciation of the word 'granule'. [granule]
+- // TIPS: Pay attention to the pronunciation of the word 'bandage'. [bandage]
 -
 - `【 dosage 药量 n 】`
 - `【 maximum dosage. 最大剂量 n 】`
@@ -141,14 +160,48 @@
 -
 -
 -
--
 - [33.]
+- `【 species 物种 种 n 】`
+- `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】
+- `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
+- `【 ecosystem 生态系统 n 】`
+- `【 biology 生物学 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'evaluate'. [evaluate]
+-
+- `【 organism 生物 n 】` --------------------- 【 organism = living things. 生物 n 】
+- `【 microorganism 微生物 n 】` // ----------- 【 microorganism = microbe. 微生物 n 】
+- `【 living things. 生物 】`
+- `【 microbe. 微生物 n 】`
+- `【 germ 细菌 n 】` ------------------------- 【 germ = bacteria. 细菌 n 】
+- `【 bacteria 细菌 n 】`
+- `【 fungus 真菌 n 】`
+- `【 virus 病毒 n 】`
+-
+- `【 disease 病 疾病 n 】`
+- `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
+- `【 cure 治疗 v n 】`
+- `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
+- `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
+-
+- `【 cell 细胞 n 】`
+- `【 tissue 组织 n 】`
+- `【 organ 器官 n 】`
+-
+- > microphone 麦克风
+- > microscope 显微镜
+- > microwave 微波炉
+- > microorganism 微生物 // organism = living things. 生物
+- // microscope 显微镜
+- // telescope 望远镜
+- // stethoscope 听诊器
 -
 -
 -
 -
 -
 -
+-
+- [44.]
 -
 
 ## (1) Must Words
