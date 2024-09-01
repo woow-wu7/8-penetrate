@@ -5,18 +5,22 @@
 - [1111111.]
 - [PLACE]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
-- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】// --------------【 counter 柜台 n 计数器 n 】
+- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】// --------------【 counter 柜台 n 计数器 n 】 // 【 pharmacy / pharmacist 】
 - `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 dealer / supplier / seller 】
 - `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / reward / steward / forward 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
-- // 【 private property. 私人财产 n 】
-- // 【 private conversation. 私人谈话 】
-- // 【 personal privacy. 个人隐私 】
+- // _【 eye specialist. 眼科专家 】_
+- // _【 specialist clinic. 专科诊所 】_
 - // _【 dental clinic. 牙医诊所 】_
 - // _【 dental floss. 牙线 】_
 - // _【 dental braces. 牙套 】_
+- // 【 private property. 私人财产 n 】
+- // 【 private conversation. 私人谈话 】
+- // 【 personal privacy. 个人隐私 】
+- // _【 pharmacy = drugstore. 药房 】_
+- // _【 pharmacist 药剂师 n 】_
 -
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
@@ -100,6 +104,7 @@
 -
 -
 -
+-
 - [2222222.]
 - [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
@@ -126,11 +131,11 @@
 - `【 pill 药丸 n 】`
 - `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
 - `【 ointment 药膏 n 】`
-- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
+- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 【 first aid. 急救 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
 - > 【 bandage 绷带 n 】
 - > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
-- > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】
+- > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】 【 this is a brand-new brand. 这是一个崭新的品牌 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'ointment' [ointment]
@@ -170,7 +175,21 @@
 - [CC.]
 - `【 manual transmission. 手动档 n 】`
 - `【 automatic transmission. 自动档 n 】`
-- **【 Cars are divide into 【 manual transmission 】 and 【 manual transmission 】. 汽车分为手动档和自动档 】**
+- **【 Cars are divide into 【 manual transmission 】 and 【 automatic transmission 】. 汽车分为手动档和自动档 】**
+-
+- [DD.]
+- `【 brand 品牌 n 】`
+- `【 brand-new 崭新的 adj 】`
+- **【 This is a 【 brand-new 】 【 brand 】. 这是一个崭新的品牌 】**
+-
+- [EE.]
+- `【 bandage 绷带 n 】`
+- `【 band-aid. 创可贴 n 】`
+- `【 brand 品牌 n 】`
+- `【 band 乐队n 】`
+- **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
+-
+-
 -
 -
 -
@@ -183,7 +202,7 @@
 - `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】 // 【 the theory of evolution. 进化论 n 】
 - `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
 - `【 ecosystem 生态系统 n 】` // ------------- 【 natural ecosystem. 自然生态系统 n 】 【 marine ecosystem. 海生生态系统 n 】
-- `【 biology 生物学 n 】`
+- `【 biology 生物学 n 】` // ----------------- 【 biology laboratory. 生物实验室 n 】
 - > 【 danger 危险 n 】
 - > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
 - > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】
@@ -192,23 +211,24 @@
 - _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】
 - // _【 natural gas. 天然气 】_
 - // _【 natural ecosystem. 自然生态系统 n 】_
+- > 【 labor / laboratory / directory / repository / secretary / dormitory / factory / victory / history / mandatory 】
 - // TIPS: Pay attention to the pronunciation of the word 'evaluate'. [evaluate]
 - // TIPS: Pay attention to the pronunciation of the word 'evolution'. [evolution]
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species]
 -
-- `【 organism 生物 n 】` --------------------- 【 organism = living things. 生物 n 】
-- `【 microorganism 微生物 n 】` // ----------- 【 microorganism = microbe. 微生物 n 】
-- `【 living things. 生物 】`
-- `【 microbe. 微生物 n 】`
-- `【 germ 细菌 n 】` ------------------------- 【 germ = bacteria. 细菌 n 】
+- `【 organism 生物 n 】` --------------------- 1.【 organism = living things. 生物 n 】
+- `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】
+- `【 germ 细菌 n 】` ------------------------- 3.【 germ = bacteria. 细菌 n 】
 - `【 bacteria 细菌 n 】`
 - `【 fungus 真菌 n 】`
-- `【 virus 病毒 n 】`
+- `【 virus 病毒 n 】` // --------------------- 【 influenza virus. 流感病毒 n 】 // 【 influenza 】 【 flu 】 【 fluent 】 【 fluent 】
+- `【 living things. 生物 】`
+- `【 microbe. 微生物 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'microbe'. [microbe]
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
-- `【 cure 治疗 v n 】` // -------------------- 【 cure = treat. 治疗 v 】
+- `【 cure 治疗 v n 】` // -------------------- 4.【 cure = treat. 治疗 v 】
 - `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
 - > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】
@@ -221,8 +241,8 @@
 - `【 tissue 组织 n 】`
 - `【 organ 器官 n 】`
 -
-- `【 endanger 危及 v 】`
-- `【 endangered 濒危的 adj 】` // ----------- 【 endangered species. 濒危物种 n 】
+- `【 endanger 危及 v 】` // ----------------- 【 endanger life. 危及生命 】
+- `【 endangered 濒危的 adj 】` // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
 - `【 danger 危险 n 】`
 - `【 dangerous 危险的 adj 】`
 -
@@ -238,6 +258,7 @@
 - `【 evaluate 评价 v 】`
 - `【 evolution 进化 n 】`
 - `【 species 物种 n 】`
+- `【 reproduction 繁殖 n 】`
 - **【 How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖? 】**
 -
 - **【 How do you 【 evaluate 】 the theory of 【 evolution 】? 如何评价进化论 】**
@@ -250,6 +271,7 @@
 - `【 dangerous 危险的 adj 】`
 - **【 Going to 【 dangerous 】 places to 【 rescue 】 【 endangered animals 】 may 【 endanger 】 our 【 lives 】. 去危险的地方解救去解救濒危动物可能会危及我们的生命 】**
 - **【 Endangered species 】 are the 【 rare species 】. 濒危物种就是稀有物种**
+- **【 This is a 【 dangerous 】 operation 【 with 】 a high 【 probability 】 of 【 endangering 】 life. 这是一项危险的操作，极有可能危及生命 】**
 - // -- 【 rare species. 稀有物种 n 】
 - // -- 【 rescue 援救 解救 v 】
 - // -- 【 life -> lives. 生命 生活 n 】
@@ -265,7 +287,9 @@
 -
 -
 -
-- [44.]
+-
+-
+- [4444444.]
 - [SYMPTOM]
 - `【 slight 轻微的 adj 】`
 - `【 severe 严重的 adj 】`
@@ -286,11 +310,16 @@
 - `【 runny nose. 流鼻涕 】`
 - `【 stuffy nose. 鼻塞 】`
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
+- `【 rhinitis 鼻炎 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
 -
 - `【 nausea 恶心 n 】`
+- `【 vomiting 呕吐 n 】`
 - `【 vomit 呕吐v 呕吐物n 】` = throw up. 呕吐
-- `【 diarrhea 腹泻 n】`
+- `【 diarrhea 腹泻 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
+- // TIPS: Pay attention to the pronunciation of the word 'vomit'. [vomit]
+- // TIPS: Pay attention to the pronunciation of the word 'vomiting'. [vomiting]
 -
 - `【 inflame 发炎 v 】`
 - `【 inflamed 发炎的 adj 】`
@@ -305,10 +334,11 @@
 - _【 pollen 花粉 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'allergic'. [allergic]
 - // TIPS: Pay attention to the pronunciation of the word 'allergen'. [allergen]
+- // TIPS: Pay attention to the pronunciation of the word 'pollen'. [pollen]
 -
 - `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
 - `【 swollen 肿胀的 adj 】`
-- `【 swelling 肿胀 n 】`
+- `【 swelling 肿胀 n 】` // ----------------- 【 swelling / willing 】
 - > 【 well 好 adv / 井 n 】 // -------------- 【 water well. 水井 】
 - > 【 swell 肿胀 v n 】
 -
@@ -333,6 +363,99 @@
 - `【 allergen 过敏原 n 】`
 - **【 If you 【 are allergic to 】 【 pollen 】,【 then 】 【 pollen 】 is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
 - // -- 【 then 然后 那么 adv 】
+-
+- [CC.]
+- `【 inflammation 炎症 发炎 n 】`
+- `【 swelling 肿胀 n 】`
+- `【 allergy 过敏 n 】`
+- **【 【 Inflammation 】 and 【 swelling 】 are the main symptoms of 【 allergies 】. 发炎和肿胀是过敏的主要症状 】**
+- **【 If you 【 are allergic to 】 【 pollen 】, 【 then 】 the pollen is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
+-
+- [DD.]
+- `【 antibiotic 抗生素 n 】`
+- `【 nausea 恶心 n 】`
+- `【 vomiting 呕吐 n 】`
+- // vomit. 呕吐
+- **【 【 Antibiotics 】 can not 【 treat 】 【 nausea 】 and 【 vomiting 】. 抗生素不能治疗恶心和呕吐 】**
+-
+-
+-
+-
+-
+-
+-
+-
+- [5555555.]
+- [PEOPLE]
+- `【 surgeon 外科医生 n 】`
+- `【 internist 内科医生 n 】` // internal 内部的 adj 内脏 n // `【 internal medicine. 内科 】`
+-
+- `【 pediatrician 儿科医生 】` // pediatrician // pediatric // paramedic
+- `【 gynecologist 妇科医生 】` // gy + nec + ologist
+- > 【 pregnant woman. 孕妇 n 】
+- > 【 widow 寡妇 n 】
+-
+- `【 dentist 牙医 牙医诊所 】` // dental clinic. // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
+- `【 vet 兽医 兽医诊所 】`
+-
+- `【 doctor 医生 】`
+- `【 nurse 护士 】`
+- `【 paramedic 护理人员 】`
+- `【 pharmacist 药剂师` 】 // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
+- `【 specialist 专家 】` // 【 eye specialist. 眼科专家 】 【 specialist clinic. 专科诊所 】
+- `【 expert 专家 】`
+- > 【 special / specialist / specialty / specialize in. 】
+- > 【 specialty store. 专卖店 n 】
+- > 【 specialist = expert 专家 】
+-
+-
+-
+-
+-
+-
+-
+- [6666666.]
+- [OTHER]
+- `【 ambulance 救护车 】`
+- `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】
+- `【 first aid kit. 急救箱 n  】` // ----------- 【 just in case. 以防万一 】
+- `【 band-aid. 创可贴 】`
+- `【 bandage 绷带 n 】`
+- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher
+-
+- `【 thermometer 体温计 温度计 n 】` // --------- 【 meter 米 n / 计量器 n 】 【 Celsius 摄氏的 adj 】
+- `【 stethoscope 听诊器 】` // ----------------- 【 microscope / telescope / stethoscope / otoscope 】
+- `【 otoscope 耳镜 】`
+- `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
+- > 【 syringe 注射器 】
+- > 【 syringe needle. 针头 n 】 // ------------- 【 needle 针 针头 n 】 【 thread 线 螺纹 n 】
+- > 【 syringe barrel. 针筒 n 】
+- _【 40 degrees Celsius. 40 摄氏度 n 】_
+- _【 body temperature. 体温 n 】_
+-
+- `【 blood pressure. 血压 】` // --------------- 【 stress / pressure 】
+- `【 pulse 脉搏 】`
+- `【 measure 测量v / 措施 n 】`
+- `【 physical examination. 体检 】` // ---------- exam examination
+- `【 physical examination report. 体检报告 】` // report 报告 v/n
+-
+- [AA.]
+- `【 thermometer 体温计 n 】`
+- `【 body temperature 体温 n 】`
+- `【 40 degrees Celsius. 40 摄氏度 】`
+- **【 The 【 thermometer 】 shows that his 【 body temperature 】 is 【 40 degrees Celsius 】. 体温计显示他的体温是 40 摄氏度 】**
+-
+- [BB.]
+- `【 syringe 注射器 n 】`
+- `【 syringe needle. 针头 n 】`
+- `【 syringe barrel. 针筒 n 】`
+- **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
+-
+- [CC.]
+- `【 ambulance 救护车 n 】`
+- `【 first aid. 急救 n 】`
+- `【 first aid kit. 急救箱 n 】`
+- **【 【 Ambulances 】 and 【 first aid kits 】 can both 【 be used for 】 【 first aid 】. 救护车和急救箱都可以用于急救 】**
 
 ## (1) Must Words
 
