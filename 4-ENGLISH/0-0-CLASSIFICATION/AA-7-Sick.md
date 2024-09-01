@@ -2,7 +2,8 @@
 
 ## (1) **The Sick words that you mast know.**
 
-- [11.]
+- [1111111.]
+- [PLACE]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
 - `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】// --------------【 counter 柜台 n 计数器 n 】
 - `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 dealer / supplier / seller 】
@@ -99,7 +100,8 @@
 -
 -
 -
-- [22.]
+- [2222222.]
+- [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】
@@ -126,7 +128,6 @@
 - `【 ointment 药膏 n 】`
 - `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
-- `【 granule preparation. 冲剂 n 】` // - 【 granule 颗粒 n 】
 - > 【 bandage 绷带 n 】
 - > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
 - > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】
@@ -139,14 +140,20 @@
 - // TIPS: Pay attention to the pronunciation of the word 'bandage'. [bandage]
 -
 - `【 dosage 药量 n 】`
-- `【 maximum dosage. 最大剂量 n 】`
+- `【 maximum dosage. 最大药量 n 】`
+- `【 daily dosage. 每日药量 n 】`
 -
 - `【 instruction 说明 使用说明 n 】`
-- `【 instruction manual. 使用说明书 n 】` // 【 manual 手册 说明书 n 】
+- `【 instruction manual. 使用说明书 n 】` // 【 manual 手动的 adj 说明书 n 】
+- > 【 manual 手动的 adj 说明书 n 】
+- > 【 automatic 自动的 adj 】
+- > 【 manual transmission. 手动档 n 】
+- > 【 automatic transmission. 自动档 n 】 //【 data transmission. 数据传输 n 】
 -
 - `【 oral 口头的 adj 】`
 - `【 oral medicine. 口服药 n 】`
 - `【 oral promise. 口头承诺 】`
+- `【 oral english. 口语 】`
 -
 - [AA.]
 - `【 antidote 解药 n 】`
@@ -154,19 +161,40 @@
 - `【 poison 毒药 毒 n 】`
 - **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
 -
+- [BB.]
+- `【 instruction manual. 说明书 n 】`
+- `【 maximum daily dosage. 每日最大剂量 】`
+- `【 oral medicine. 口服药 n 】`
+- **【 The 【 instruction manual 】 【 states 】 the 【 maximum daily dosage 】 of this 【 oral medicine 】. 说明书上说明了这种口服药每天的最大药量 】**
+-
+- [CC.]
+- `【 manual transmission. 手动档 n 】`
+- `【 automatic transmission. 自动档 n 】`
+- **【 Cars are divide into 【 manual transmission 】 and 【 manual transmission 】. 汽车分为手动档和自动档 】**
 -
 -
 -
 -
 -
 -
-- [33.]
-- `【 species 物种 种 n 】`
-- `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】
+- [3333333.]
+- [SPECIES]
+- `【 species 物种 种 n 】` // ---------------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
+- `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】 // 【 the theory of evolution. 进化论 n 】
 - `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
-- `【 ecosystem 生态系统 n 】`
+- `【 ecosystem 生态系统 n 】` // ------------- 【 natural ecosystem. 自然生态系统 n 】 【 marine ecosystem. 海生生态系统 n 】
 - `【 biology 生物学 n 】`
+- > 【 danger 危险 n 】
+- > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
+- > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】
+- > 【 dangerous 危险的 adj 】
+- _【 evaluate 评价 v 】_
+- _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】
+- // _【 natural gas. 天然气 】_
+- // _【 natural ecosystem. 自然生态系统 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'evaluate'. [evaluate]
+- // TIPS: Pay attention to the pronunciation of the word 'evolution'. [evolution]
+- // TIPS: Pay attention to the pronunciation of the word 'species'. [species]
 -
 - `【 organism 生物 n 】` --------------------- 【 organism = living things. 生物 n 】
 - `【 microorganism 微生物 n 】` // ----------- 【 microorganism = microbe. 微生物 n 】
@@ -176,16 +204,27 @@
 - `【 bacteria 细菌 n 】`
 - `【 fungus 真菌 n 】`
 - `【 virus 病毒 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'microbe'. [microbe]
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
-- `【 cure 治疗 v n 】`
+- `【 cure 治疗 v n 】` // -------------------- 【 cure = treat. 治疗 v 】
 - `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
+- > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】
+- > 【 recovery 恢复 n 】// ------------------- 【 recovery period. 恢复期 n 】
+- > 【 recover health. 恢复健康 】
+- > 【 recovery period. 恢复期 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'period'. [period]
 -
 - `【 cell 细胞 n 】`
 - `【 tissue 组织 n 】`
 - `【 organ 器官 n 】`
+-
+- `【 endanger 危及 v 】`
+- `【 endangered 濒危的 adj 】` // ----------- 【 endangered species. 濒危物种 n 】
+- `【 danger 危险 n 】`
+- `【 dangerous 危险的 adj 】`
 -
 - > microphone 麦克风
 - > microscope 显微镜
@@ -195,6 +234,31 @@
 - // telescope 望远镜
 - // stethoscope 听诊器
 -
+- [AA.]
+- `【 evaluate 评价 v 】`
+- `【 evolution 进化 n 】`
+- `【 species 物种 n 】`
+- **【 How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖? 】**
+-
+- **【 How do you 【 evaluate 】 the theory of 【 evolution 】? 如何评价进化论 】**
+-
+- [BB.]
+- `【 endanger 危及 v 】`
+- `【 endangered 濒危的 adj 】`
+- `【 endangered species. 濒危物种 n 】`
+- `【 danger 危险 n 】`
+- `【 dangerous 危险的 adj 】`
+- **【 Going to 【 dangerous 】 places to 【 rescue 】 【 endangered animals 】 may 【 endanger 】 our 【 lives 】. 去危险的地方解救去解救濒危动物可能会危及我们的生命 】**
+- **【 Endangered species 】 are the 【 rare species 】. 濒危物种就是稀有物种**
+- // -- 【 rare species. 稀有物种 n 】
+- // -- 【 rescue 援救 解救 v 】
+- // -- 【 life -> lives. 生命 生活 n 】
+-
+- [CC.]
+- `【 recover health. 恢复健康 n 】`
+- `【 recovery period. 恢复期 n 】`
+- `【 a period of time. 一段时间 】`
+- **【 【 The period of time 】 to 【 recover health 】 is called 【 recovery period 】. 恢复健康的那段时间被称为恢复期 】**
 -
 -
 -
@@ -202,7 +266,73 @@
 -
 -
 - [44.]
+- [SYMPTOM]
+- `【 slight 轻微的 adj 】`
+- `【 severe 严重的 adj 】`
+- `【 relieve 减轻 缓解 v 】` // ------------- 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】
 -
+- `【 headache 头痛 n 】`
+- `【 toothache 牙痛 n 】`
+- `【 backache 背痛 n 】`
+- `【 stomachache 胃痛 n 】`
+- `【 earache 耳朵痛 n 】`
+-
+- `【 cold 感冒n 冷的adj 】`
+- `【 fever 发烧 n 】`
+- `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
+- `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
+- `【 sore throat. 嗓子痛 n 】`
+- `【 sneeze 打喷嚏v 喷嚏n 】`
+- `【 runny nose. 流鼻涕 】`
+- `【 stuffy nose. 鼻塞 】`
+- `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
+-
+- `【 nausea 恶心 n 】`
+- `【 vomit 呕吐v 呕吐物n 】` = throw up. 呕吐
+- `【 diarrhea 腹泻 n】`
+- // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
+-
+- `【 inflame 发炎 v 】`
+- `【 inflamed 发炎的 adj 】`
+- `【 inflammation 发炎 炎症 n 】`
+-
+- `【 antibiotic 抗生素 】`
+-
+- `【 allergy 过敏 n 】`
+- `【 allergen 过敏原 n 】`
+- `【 allergic 过敏的 adj 】`
+- _【 be allergic to. 对...过敏 】_
+- _【 pollen 花粉 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'allergic'. [allergic]
+- // TIPS: Pay attention to the pronunciation of the word 'allergen'. [allergen]
+-
+- `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
+- `【 swollen 肿胀的 adj 】`
+- `【 swelling 肿胀 n 】`
+- > 【 well 好 adv / 井 n 】 // -------------- 【 water well. 水井 】
+- > 【 swell 肿胀 v n 】
+-
+- `【 itch 痒 v n 】`
+- `【 itchy 痒的 adj 】`
+- `【 rich 富有的adj 富人n 】`
+-
+- `【 insomnia 失眠症 n 】`
+- `【 insomniac 失眠症患者 n 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
+- // TIPS: Pay attention to the pronunciation of the word 'severe'. [severe]
+-
+- [AA.]
+- `【 antibiotic 抗生素 n 】`
+- `【 relieve 减轻 缓解 v 】`
+- `【 inflammation 炎症 n 】`
+- **【 【 Antibiotics 】 can 【 relieve 】 【 inflammation 】. 抗生素可以缓解炎症 】**
+-
+- [BB.]
+- `【 be allergic to. 对...过敏 】`
+- `【 allergen 过敏原 n 】`
+- **【 If you 【 are allergic to 】 【 pollen 】,【 then 】 【 pollen 】 is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
+- // -- 【 then 然后 那么 adv 】
 
 ## (1) Must Words
 

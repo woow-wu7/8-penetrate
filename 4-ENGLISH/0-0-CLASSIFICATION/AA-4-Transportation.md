@@ -24,6 +24,8 @@
 - _【 regular gas. 普通的汽油 】_ // 87
 - _【 premium gas. 优质的汽油 】_ // 93
 - _【 out of the gas. 没油了 】_
+- _【 natural gas. 天然气 n 】_
+- _【 natural ecosystem. 自然生态系统 n 】_
 - > 【 gas tank. 油箱 】
 - > 【 gas cap. 油箱盖 】
 - > 【 gas pedal. 油门 】
@@ -240,6 +242,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'ignition'.
 -
 - `【 gear 齿轮 n 】`
+- `【 manual transmission. 手动档 】`
+- `【 automatic transmission. 自动挡 】`
 - > 【 shift gears. 换挡 】`
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
@@ -273,6 +277,11 @@
 - `【 stick shift. 换挡杆 】`
 - `【 shift gear. 换挡 v 】`
 - **【 We use the 【 stick shift 】 to 【 shift gear 】. 我们使用换挡杆来换挡 】**
+-
+- [DD-04]
+- `【 manual transmission. 手动挡 】`
+- `【 automatic transmission. 自动挡 】`
+- **【 Cars are divided into 【 manual transmission 】 and 【 automatic transmission 】. 汽车有手动档和自动档之分 】**
 -
 -
 -
