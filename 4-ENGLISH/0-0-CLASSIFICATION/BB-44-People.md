@@ -71,8 +71,8 @@
 - `【 postgraduate student. 研究生 】`
 - > 【 graduation ceremony. 毕业典礼 】
 - > 【 opening ceremony. 开学庆典 】
-- > 【 closing ceremony. 闭幕式 】
 - > 【 award ceremony. 颁奖典礼 】 // ------------------- 【 ward / reward / awkward / coward / afterward / forward / backward 】
+- > 【 closing ceremony. 闭幕式 】
 -
 -
 -

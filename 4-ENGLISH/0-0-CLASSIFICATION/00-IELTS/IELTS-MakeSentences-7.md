@@ -278,3 +278,60 @@ A 【 syringe 】 consists of the 【 syringe needle 】 and the 【 syringe bar
 注射器由针头和针筒组成
 救护车和急救箱都可以用于急救
 ```
+
+##### 3 Make sentences 2024-09-03
+
+```
+1
+We must 【 comply with 】 the company's 【 regulations 】.
+我们必须遵守公司规定
+-
+The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有劳动工人必须遵守劳动法
+-
+// -
+// 【 comply with the law. 遵守法律 】
+// 【 comply with the labor law. 遵守劳动法 】
+// 【 comply with the regulation. 遵守规定 】
+// -
+// 【 comply 遵守 】
+// 【 comply with. 遵守 】
+// 【 regulation 规定 规则 法规 n 】
+// -
+// 【 announce 宣布 宣告 公布 v 】
+// 【 declare 宣布 声明 】
+// -
+// 【 director 导演 主管 】
+// 【 direct 直接的 adj 】
+// 【 directly 直接地 adv 】
+// 【 directory 目录 】
+// -
+// 【 labor worker. 劳务工 】
+// 【 labor law. 劳动法 】
+// 【 labor day. 劳动节 】
+// 【 labor contract. 劳动合同 】
+
+
+2
+If you can't get the 【 graduation certificate 】, you need to stay at school 【 for 】 an 【 extra year 】.
+如果你拿不到毕业证书，你就需要在学校多呆一年
+-
+The student was 【 awarded 】 her 【 certificate 】 during the 【 graduation ceremony 】.
+这位毕业生在毕业典礼上被授予毕业证书
+-
+At the 【 award ceremony 】, he was 【 awarded 】 【 the title of 】 hero.
+在颁奖典礼上，他被授予英雄称号
+-
+// -
+// 【 graduation certificate. 毕业证书 n 】
+// 【 graduation ceremony. 毕业典礼 n 】
+// 【 award ceremony. 颁奖典礼 】
+// 【 closing ceremony. 闭幕式 】
+// -
+// 【 extra 额外的 adj 】
+// 【 an extra year. 额外的一年 】= an additional year.
+// 【 an additional year. 额外的一年 】
+// -
+// 【 award 奖n 授予v 】
+// 【 the title of. ...的称号 】
+```

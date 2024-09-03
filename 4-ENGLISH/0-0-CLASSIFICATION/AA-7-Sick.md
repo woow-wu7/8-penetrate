@@ -39,6 +39,7 @@
 -
 - `【 ward 病房 n 】`
 - `【 reward 奖励 n 】`
+- `【 award 奖品 n 】`
 - > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
 - > 【 coward 胆小鬼 n 】
 - > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
