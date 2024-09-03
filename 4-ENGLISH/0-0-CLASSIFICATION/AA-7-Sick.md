@@ -39,12 +39,18 @@
 -
 - `【 ward 病房 n 】`
 - `【 reward 奖励 n 】`
+- `【 award 奖n 授予v 】` // ------------------ 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
 - > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
 - > 【 coward 胆小鬼 n 】
 - > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
 - > 【 afterward 后来 adv 】
 - > 【 forward 向前的 adj adv 】
 - > 【 backward 向后的 adj adv 】
+- _【 award winner. 获奖者 n 】_
+- _【 award ceremony. 颁奖典礼 n 】_
+- _【 graduation ceremony. 毕业典礼 n 】_
+- _【 opening ceremony. 开幕式 n 】_
+- _【 closing ceremony. 闭幕式 n 】_
 - // 【 treat/retreat 】` ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
 - // 【 tail/retail 】` -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】// - 【 retail store. 零售店 】 【 retail price. 零售价 n 】
 - // 【 tire/retire 】` -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ---【 entire 整个 = whole. 】
@@ -265,6 +271,7 @@
 -
 - [BB.]
 - `【 endanger 危及 v 】`
+- `【 endanger life. 危及生命 】`
 - `【 endangered 濒危的 adj 】`
 - `【 endangered species. 濒危物种 n 】`
 - `【 danger 危险 n 】`
