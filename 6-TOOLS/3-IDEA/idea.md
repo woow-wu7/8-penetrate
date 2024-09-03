@@ -1,4 +1,4 @@
-##### Java
+##### IDEA
 
 ##### (1) Software Install
 

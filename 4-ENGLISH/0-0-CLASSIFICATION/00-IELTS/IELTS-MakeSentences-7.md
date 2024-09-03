@@ -316,16 +316,20 @@ The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor w
 If you can't get the 【 graduation certificate 】, you need to stay at school 【 for 】 an 【 extra year 】.
 如果你拿不到毕业证书，你就需要在学校多呆一年
 -
+At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of 】 hero.
+在颁奖典礼上，这个获奖者被授予英雄称号
+-
+The 【 reward 】 that the 【 award winner 】 【 received 】 is a 【 gold medal 】.
+获奖者获得的奖励是一枚金牌
+-
 The student was 【 awarded 】 her 【 certificate 】 during the 【 graduation ceremony 】.
 这位毕业生在毕业典礼上被授予毕业证书
--
-At the 【 award ceremony 】, he was 【 awarded 】 【 the title of 】 hero.
-在颁奖典礼上，他被授予英雄称号
 -
 // -
 // 【 graduation certificate. 毕业证书 n 】
 // 【 graduation ceremony. 毕业典礼 n 】
 // 【 award ceremony. 颁奖典礼 】
+// 【 opening ceremony. 开幕式 】
 // 【 closing ceremony. 闭幕式 】
 // -
 // 【 extra 额外的 adj 】
@@ -333,5 +337,15 @@ At the 【 award ceremony 】, he was 【 awarded 】 【 the title of 】 hero.
 // 【 an additional year. 额外的一年 】
 // -
 // 【 award 奖n 授予v 】
+// 【 award ceremony. 颁奖典礼 n 】
+// 【 award winner. 获奖者 n 】
+// 【 be awarded sth. 被授予... 】
+// -
 // 【 the title of. ...的称号 】
+// -
+// 【 gold medal. 金牌 n 】
+// 【 silver medal. 银牌 n 】
+// 【 bronze medal. 铜牌 n 】
+// -
+// 【 ward / reward / award / coward / awkward = embarrassed / afterward / forward / backward 】
 ```
