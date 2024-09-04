@@ -114,10 +114,13 @@
 - [2222222.]
 - [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
-- `【 antidote 解药 n 】` // --------------- 【 antidote 解药 n 】 【 detoxify 解毒 v 】
+- `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】
 - `【 detoxify 解毒 v 】`
 - > 【 poison gas. 毒气 有毒气体 n 】
+- _【 antidote 解药 n 】_
+- _【 antibiotic 抗生素 n 】_
+- _【 anti-inflammatory drug. 消炎药 】_
 - // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
 - // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify]
 - // TIPS: Pay attention to the pronunciation of the word 'venom'. [venom]
@@ -139,6 +142,7 @@
 - `【 ointment 药膏 n 】`
 - `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 【 first aid. 急救 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
+- `【 anti-inflammatory drug. 消炎药 】`
 - > 【 bandage 绷带 n 】
 - > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
 - > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】 【 this is a brand-new brand. 这是一个崭新的品牌 】
@@ -208,7 +212,9 @@
 - `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】 // 【 the theory of evolution. 进化论 n 】
 - `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
 - `【 ecosystem 生态系统 n 】` // ------------- 【 natural ecosystem. 自然生态系统 n 】 【 marine ecosystem. 海生生态系统 n 】
-- `【 biology 生物学 n 】` // ----------------- 【 biology laboratory. 生物实验室 n 】
+- `【 biology 生物学 n 】` // ----------------- 【 biology laboratory. 生物实验室 n 】 // 【 biotic 生物的 adj 】
+- _【 biology 生物学 n 】_
+- _【 biotic 生物的 adj 】_
 - > 【 danger 危险 n 】
 - > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
 - > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】
@@ -314,25 +320,24 @@
 - `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
 - `【 sore throat. 嗓子痛 n 】`
 - `【 sneeze 打喷嚏v 喷嚏n 】`
-- `【 runny nose. 流鼻涕 】`
-- `【 stuffy nose. 鼻塞 】`
+- `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
+- `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
-- `【 rhinitis 鼻炎 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
 -
-- `【 nausea 恶心 n 】`
-- `【 vomiting 呕吐 n 】`
-- `【 vomit 呕吐v 呕吐物n 】` = throw up. 呕吐
-- `【 diarrhea 腹泻 n 】`
-- // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
-- // TIPS: Pay attention to the pronunciation of the word 'vomit'. [vomit]
-- // TIPS: Pay attention to the pronunciation of the word 'vomiting'. [vomiting]
 -
+- `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】
+- > 【 antibiotic 抗生素 n 】
+- > 【 antidote 解药 n 】
+- > 【 anti-inflammatory drug. 消炎药 】
+- _【 relieve 减轻 缓解 v 】_
+-
+- `【 inflammation 发炎 炎症 n 】`
 - `【 inflame 发炎 v 】`
 - `【 inflamed 发炎的 adj 】`
-- `【 inflammation 发炎 炎症 n 】`
--
-- `【 antibiotic 抗生素 】`
+- > 【 anti-inflammatory drug. 消炎药 】
+- > 【 antibiotic 抗生素 n 】
+- > 【 antidote 解药 n 】
 -
 - `【 allergy 过敏 n 】`
 - `【 allergen 过敏原 n 】`
@@ -349,6 +354,14 @@
 - > 【 well 好 adv / 井 n 】 // -------------- 【 water well. 水井 】
 - > 【 swell 肿胀 v n 】
 -
+- `【 nausea 恶心 n 】`
+- `【 vomiting 呕吐 n 】` // ----------------- 【 vomit 呕吐 v 】
+- `【 vomit 呕吐v 呕吐物n 】` = throw up. 呕吐
+- `【 diarrhea 腹泻 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
+- // TIPS: Pay attention to the pronunciation of the word 'vomit'. [vomit]
+- // TIPS: Pay attention to the pronunciation of the word 'vomiting'. [vomiting]
+-
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
 - `【 rich 富有的adj 富人n 】`
@@ -361,9 +374,12 @@
 -
 - [AA.]
 - `【 antibiotic 抗生素 n 】`
+- `【 antidote 解药 n 】`
 - `【 relieve 减轻 缓解 v 】`
 - `【 inflammation 炎症 n 】`
-- **【 【 Antibiotics 】 can 【 relieve 】 【 inflammation 】. 抗生素可以缓解炎症 】**
+- `【 allergy 过敏 n 】`
+- `【 swelling 肿胀 n 】`
+- **【 【 Antibiotics 】 are 【 a kind of 】 【 antidote 】 that can 【 relieve 】 【 inflammation 】, 【 allergy 】 and 【 swelling 】. 抗生素是一种解药，可以缓解炎症，过敏和肿胀 】**
 -
 - [BB.]
 - `【 be allergic to. 对...过敏 】`

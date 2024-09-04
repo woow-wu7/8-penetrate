@@ -169,3 +169,12 @@ K8s工具：Kubernetes
 彩虹颜色括号：Rainbow Brackets
 阿里代码规约检测：Alibaba Java Coding Guidelines
 ```
+
+##### (5) IDEA don't have java 11 options
+
+- [tutorial](https://blog.csdn.net/zhangfuping123456789/article/details/138729360)
+
+```
+1
+新建时，在 spring boot 面板上的 【 Server URL 】换成阿里云的地址 【 https://start.aliyun.com 】
+```

@@ -1,4 +1,11 @@
-##### Mysql
+##### (1) Navicat / Download and Install
+
+```
+1. Download and Install
+- 1. Baidu online disk: 1-MAC/1-Navicat Premium 16.0.6汉化版.dmg
+- 2. Installation tutorial: https://www.qinchao.site/kaifagongju/24.html
+- 3. 先安装navicat, 弹窗报错时，再右键点击 ( 已破损修复 ) 弹出 terminal.
+```
 
 ##### (1) Mysql / Download and Install
 
@@ -35,15 +42,6 @@ run the following command
 5
 test
 - mysql --version
-```
-
-##### (1) Navicat / Download and Install
-
-```
-1. Download and Install
-- 1. Baidu online disk: 1-MAC/1-Navicat Premium 16.0.6汉化版.dmg
-- 2. Installation tutorial: https://www.qinchao.site/kaifagongju/24.html
-- 3. 先安装navicat, 弹窗报错时，再右键点击 ( 已破损修复 ) 弹出 terminal.
 ```
 
 ##### (2) Mysql / 常用命令

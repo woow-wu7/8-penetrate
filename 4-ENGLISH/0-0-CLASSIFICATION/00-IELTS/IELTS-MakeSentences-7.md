@@ -98,6 +98,9 @@ This is a 【 dangerous 】 operation 【 with 】 a high 【 probability 】 of
 
 
 7
+【 Antibiotics 】 are 【 a kind of 】 【 antidote 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】.
+抗生素是一种解药，可以缓解炎症，过敏和肿胀
+-
 【 Antibiotics 】 can 【 relieve 】 【 inflammation 】.
 抗生素可以缓解炎症
 // -
@@ -137,6 +140,7 @@ If you 【 are allergic to 】 【 pollen 】, 【 then 】 the pollen is the �
 -
 恢复健康的那段时间被称为恢复期
 -
+抗生素是一种解药，可以缓解炎症，过敏和肿胀
 抗生素可以缓解炎症
 -
 如果你对花粉过敏，那么花粉就是过敏原
@@ -279,7 +283,7 @@ A 【 syringe 】 consists of the 【 syringe needle 】 and the 【 syringe bar
 救护车和急救箱都可以用于急救
 ```
 
-##### 3 Make sentences 2024-09-03
+##### 3 Make sentences 2024-09-04
 
 ```
 1
@@ -348,4 +352,59 @@ The student was 【 awarded 】 her 【 certificate 】 during the 【 graduatio
 // 【 bronze medal. 铜牌 n 】
 // -
 // 【 ward / reward / award / coward / awkward = embarrassed / afterward / forward / backward 】
+
+
+3
+The 【 luggage 】 we 【 packed 】 includes 【 backpacks 】 and 【 briefcases 】.
+我们打包的行李包括背包和公文包
+-
+The 【 brief 】 letter explains why she wants to 【 quit 】.
+这简短的信解释了她为何想辞职
+-
+// -
+// backpack 背包
+// briefcase 公文包
+// -
+// 【 brief 简明的 简短的 】
+// 【 briefcase 公文包 】
+// -
+// luggage 包裹
+// package 包裹
+// -
+// pack 打包
+```
+
+##### 4 Make sentences 2024-09-05
+
+```
+1
+【 Antibiotics 】 are 【 an ingredient of 】【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】.
+抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀
+-
+If you 【 are allergic to 】 【 pollen 】, then the 【 pollen 】 is the 【 allergen 】.
+如果你对花粉过敏，那么花粉就是过敏原
+// -
+// 【 antibiotic 抗生素 n 】
+// 【 antidote 解药 n 】
+// 【 anti-inflammatory drug. 消炎药 n 】
+// -
+// 【 an ingredient of. ...的一种成分 】
+// -
+// 【 relive 减轻 缓解 v 】
+// -
+// 【 inflammation 炎症 n 】
+// 【 allergy 过敏 n 】 通常用复数形式
+// 【 swelling 肿胀 n 】
+// -
+// -
+// 【 allergy 过敏 n 】
+// 【 allergen 过敏原 n 】
+// 【 be allergic to. 对...过敏 】
+// -
+// 【 pollen 花粉 n 】
+// 【 bee 蜜蜂 n 】
+// 【 honey 蜂蜜 爱人 n 】
+
+
+2
 ```
