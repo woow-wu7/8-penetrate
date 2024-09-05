@@ -453,5 +453,6 @@ How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of �
 
 
 3
+The symptoms of this cold include: fever, headache, cough, sneeze, sore throat, runny nose, stuffy nose, dizziness.
 他感冒的症状包括: 发烧，头痛，咳嗽，打喷嚏，嗓子痛，流鼻涕，鼻塞，头晕
 ```
