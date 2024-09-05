@@ -1,4 +1,4 @@
-##### IDEA
+##### Java
 
 ##### (1) Java / Software Install
 
@@ -85,6 +85,7 @@ decompress and change
 config environment variables
 - 1. vi ~/.bash_profile
 - 2. add the following code in the '.bash_profile' file:
+- 3. Pay attention: the path should be the same as the one you set in the settings.xml file.
 export MAVEN_HOME=/Users/xiawu/work/plugins/apache-maven-3.9.9
 export PATH=$PATH:$MAVEN_HOME/bin
 
@@ -122,15 +123,16 @@ click the link at the bottom of the page to download
 
 
 2
-After installing, then to config.
+Set environment variable. After installing, then to config.
 - cd /etc/paths.d
 - vim .bash_profile
-
+- // if the command is readonly, we should run this command: $ sudo vim .bash_profile
 
 3
 add the following contents.
 - export PATH=$PATH:/usr/local/mysql/bin
 - export PATH=$PATH:/usr/local/mysql/support-files
+- // if the command is readonly, we should run this command: $ sudo vim .bash_profile
 
 
 4
