@@ -8,4 +8,9 @@
 - 找到find: shell command: install code command in PATH.
 - 打开open: code .
 - 教程tutorial: https://www.freecodecamp.org/chinese/news/how-to-open-visual-studio-code-from-your-terminal/
+
+
+2
+格式化代码时 - 设置缩进为4格
+command . / 搜索 editor.tabSize
 ```

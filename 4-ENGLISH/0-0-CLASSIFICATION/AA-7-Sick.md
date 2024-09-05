@@ -257,6 +257,9 @@
 - `【 endangered 濒危的 adj 】` // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
 - `【 danger 危险 n 】`
 - `【 dangerous 危险的 adj 】`
+- > 【 endanger life. 危及生命 】
+- > 【 endangered species. 濒危物种 n 】
+- > 【 endangered animals. 濒危动物 n 】
 -
 - > microphone 麦克风
 - > microscope 显微镜
@@ -316,12 +319,12 @@
 -
 - `【 cold 感冒n 冷的adj 】`
 - `【 fever 发烧 n 】`
-- `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
-- `【 sore throat. 嗓子痛 n 】`
-- `【 sneeze 打喷嚏v 喷嚏n 】`
+- `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
 - `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】
+- `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
+- `【 sneeze 打喷嚏v 喷嚏n 】`
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
 -
@@ -356,8 +359,9 @@
 -
 - `【 nausea 恶心 n 】`
 - `【 vomiting 呕吐 n 】` // ----------------- 【 vomit 呕吐 v 】
-- `【 vomit 呕吐v 呕吐物n 】` = throw up. 呕吐
-- `【 diarrhea 腹泻 n 】`
+- `【 vomit 呕吐v 呕吐物n 】` = 【 throw up. 呕吐 】
+- > 【 vomit 呕吐 v 呕吐物 n 】
+- > 【 throw up. 呕吐 】
 - // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
 - // TIPS: Pay attention to the pronunciation of the word 'vomit'. [vomit]
 - // TIPS: Pay attention to the pronunciation of the word 'vomiting'. [vomiting]
@@ -379,7 +383,7 @@
 - `【 inflammation 炎症 n 】`
 - `【 allergy 过敏 n 】`
 - `【 swelling 肿胀 n 】`
-- **【 【 Antibiotics 】 are 【 a kind of 】 【 antidote 】 that can 【 relieve 】 【 inflammation 】, 【 allergy 】 and 【 swelling 】. 抗生素是一种解药，可以缓解炎症，过敏和肿胀 】**
+- **【 【 Antibiotics 】 are 【 an ingredient of 】 【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】. 抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀 】**
 -
 - [BB.]
 - `【 be allergic to. 对...过敏 】`
@@ -400,6 +404,18 @@
 - `【 vomiting 呕吐 n 】`
 - // vomit. 呕吐
 - **【 【 Antibiotics 】 can not 【 treat 】 【 nausea 】 and 【 vomiting 】. 抗生素不能治疗恶心和呕吐 】**
+-
+- [EE.]
+- `【 cold 感冒n 冷的adj 】`
+- `【 fever 发烧 n 】`
+- `【 headache 头痛 n 】`
+- `【 cough 咳嗽 n 】`
+- `【 sneeze 打喷嚏v 喷嚏n 】`
+- `【 sore throat. 嗓子痛 n 】`
+- `【 runny nose. 流鼻涕 】`
+- `【 stuffy nose. 鼻塞 】`
+- `【 dizziness 头晕 n 】`
+- **【 The symptoms of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，头痛，咳嗽，打喷嚏，嗓子痛，流鼻涕，鼻塞，头晕 】**
 -
 -
 -

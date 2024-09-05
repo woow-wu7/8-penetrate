@@ -408,3 +408,51 @@ If you 【 are allergic to 】 【 pollen 】, then the 【 pollen 】 is the �
 
 2
 ```
+
+##### 5 Make sentences 2024-09-06
+
+```
+1
+The 【 common ingredient 】 of the 【 raw material 】 is 【 carbon 】.
+这个原材料的常见成分是碳
+-
+The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】
+这张桌子的材料是木头，成分是碳
+-
+// -
+// 【 common ingredient. 常见成分 n 】
+// 【 raw material. 原材料 n 】
+// -
+// 【 ingredient 成分 原料 n 】
+// 【 common ingredient. 常见成分 n 】
+// 【 active ingredient. 活性成分 n 】
+// -
+// 【 material 材料 n 】
+// 【 raw material. 原材料 n 】
+// 【 building material. 建筑材料 n 】
+// -
+// 【 carbon 碳 n 】
+
+
+2
+How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】?
+你如何评价物种的进化和繁殖
+// -
+// 【 evaluate 评价 v 】
+// 【 evolution 进化 n 】
+// 【 reproduction 繁殖 n 】
+// -
+// 【 species 物种 n 】
+// 【 endangered species. 濒危物种 n 】
+// 【 rare species. 稀有物种 n 】
+// -
+// 【 endanger 危及 v 】
+// 【 endangered 濒危的 adj 】
+// 【 endanger life. 危及生命 】
+///【 endangered species. 濒危物种 n 】
+
+
+3
+The symptoms of this cold include: fever, headache, cough, sneeze, sore throat, runny nose, stuffy nose, dizziness.
+他感冒的症状包括: 发烧，头痛，咳嗽，打喷嚏，嗓子痛，流鼻涕，鼻塞，头晕
+```
