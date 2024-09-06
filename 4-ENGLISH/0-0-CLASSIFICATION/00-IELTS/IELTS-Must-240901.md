@@ -12,7 +12,7 @@
 - `【 ingredient 成分 原料 n  】`
 - `【 wood 木材 木头 n 】`
 - `【 carbon 碳 n 】`
-- **【 The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】. 这张桌子的材料是木头，成分是碳。 】**
+- **【 The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】. 这张桌子的材料是木头，成分是碳 】**
 -
 - [BB.]
 - `【 common ingredient. 常见成分 n 】`
