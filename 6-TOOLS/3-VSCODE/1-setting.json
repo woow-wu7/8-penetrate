@@ -3,7 +3,6 @@
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "vscode-great-icons",
   "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
   "cSpell.languageSettings": [],
   "fileheader.configObj": {
     "autoAdd": false // koro1FileHeader 自动添加文件头部注释 默认开启
@@ -177,22 +176,28 @@
   },
   "cSpell.userWords": [
     "antd",
+    "bodymovin",
     "ciphertext",
     "clsx",
     "countertop",
     "decompilation",
     "favourite",
     "immer",
+    "installerhome",
     "Mobaxterm",
     "myid",
+    "Navicat",
     "nextjs",
     "Pinia",
     "preter",
     "Protocal",
     "rainforest",
+    "readdir",
     "repositoryserver",
     "rupt",
     "SECRETKEY",
+    "sonner",
+    "standlone",
     "strs",
     "tencentcloud",
     "touid",
@@ -223,10 +228,12 @@
   "json.schemas": [],
   "editor.stickyScroll.enabled": false,
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "workbench.settings.applyToAllProfiles": [],
   "liveServer.settings.donotShowInfoMsg": true,
   "codesandbox.currentWorkspace": "4d83fc6c-9685-4ff6-af9e-398fa8d2c65c",
-  "editor.fontSize": 14
+  "editor.fontSize": 14,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.tabSize": 2
 }

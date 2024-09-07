@@ -1,5 +1,5 @@
 {
-  // Place your 全局 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
   // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
   // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
   // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
@@ -7,31 +7,65 @@
   // Placeholders with the same ids are connected.
   // Example:
   // "Print to console": {
-  //  "scope": "javascript,typescript",
-  //  "prefix": "log",
-  //  "body": [
-  //    "console.log('$1');",
-  //    "$2"
-  //  ],
-  //  "description": "Log output to console"
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
   // }
-  // todo-tree
+  // ----------------------------------------------------------------
+  // ----------------------------------------------------------------
+  // 0
+  // console
+  "cloo": {
+    "prefix": "cloo",
+    "body": ["console.log('[${1:first}]-------', ${2:second})"]
+  },
+  // 1
+  // Todo-Tree
   "tdt": {
     "prefix": "tdt",
-    "body": ["// TODO: ${1:text}"]
+    "body": ["// TIPS: ${1:text}"],
+    "description": "tips"
   },
-  "tdl": {
-    "prefix": "tdl",
-    "body": ["// LOCAL: ${1:text}"]
+  "tde": {
+    "prefix": "tde",
+    "body": ["// EE: ${1:text}"],
+    "description": "english"
   },
-  "tds": {
-    "prefix": "tds",
-    "body": ["// STORE: ${1:text}"]
+  "tdlg": {
+    "prefix": "tdlg",
+    "body": ["// LOCAL_GET: ${1:text}"],
+    "description": "localstorage get"
   },
-  "tdn": {
-    "prefix": "tdn",
-    "body": ["// NAVIGATE: ${1:text}"]
+  "tdls": {
+    "prefix": "tdls",
+    "body": ["// LOCAL_SET: ${1:text}"],
+    "description": "localstorage set"
   },
+  "tdsg": {
+    "prefix": "tdsg",
+    "body": ["// STORE_GET: ${1:text}"],
+    "description": "storage get"
+  },
+  "tdss": {
+    "prefix": "tdss",
+    "body": ["// STORE_SET: ${1:text}"],
+    "description": "storage set"
+  },
+  "tdng": {
+    "prefix": "tdss",
+    "body": ["// NAVIGATE_GET: ${1:text}"],
+    "description": "navigate get"
+  },
+  "tdns": {
+    "prefix": "tdtdnsn",
+    "body": ["// NAVIGATE_SET: ${1:text}"],
+    "description": "navigate set"
+  },
+  // 2
   // React 组件
   "rafcei": {
     "prefix": "rafcei",
@@ -48,6 +82,7 @@
       "export default ${1:FunctionName};"
     ]
   },
+  // 3
   // const相关
   "const a = data": {
     "prefix": "cbs",
@@ -61,6 +96,7 @@
     "prefix": "cob",
     "body": ["const ${1:obj} = { ${2: key} : ${3: value} }"]
   },
+  // 4
   // let相关
   "let a = data": {
     "prefix": "lbs",
@@ -74,6 +110,7 @@
     "prefix": "lob",
     "body": ["let ${1:obj} = ${2:{}}"]
   },
+  // 5
   // return相关
   "return rebs": {
     "prefix": "rebs",
@@ -87,6 +124,7 @@
     "prefix": "rear",
     "body": ["return [${1:key}]"]
   },
+  // 6
   // style相关
   // less
   "import styles from './styles.less'": {
