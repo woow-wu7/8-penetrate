@@ -1,4 +1,4 @@
-##### Java
+##### Navicat
 
 ##### (1) Java / Software Install
 
@@ -156,6 +156,8 @@ test
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### (2) Mysql / 常用命令
 
 ```
@@ -275,3 +277,40 @@ sout System.out.println()
 
 - docker 安装 mysql 并访问 https://juejin.cn/post/6892390655126241287#heading-4
 - docker 部署 mysql https://juejin.cn/post/6844904099024994312#heading-27
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### (8) Hot Update
+
+- [我的博客-热更新](https://juejin.cn/post/6929145638898794503#heading-18)
+
+```
+1
+maven
+<!-- spring-boot-devtools 从新构建 -->
+<!--实现重新构建，快捷键：command + f9 则可以重新构建，不需要在重新run-->
+<!-- 要实现热更新还需要设置两个地方，具体见我的博客 -->
+<!-- 博客地址：https://juejin.cn/post/6929145638898794503 -->
+<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-devtools</artifactId>
+  <scope>runtime</scope>
+  <optional>true</optional>
+</dependency>
+
+
+2
+IDEA setting
+setting => Build,Execution,Deployment => Compiler => 勾上Build project automaticallly
+
+3
+Command + shift + A 调出 action
+
+4
+在 action 中搜索 Registry
+
+5
+在 Registry 中勾选 compiler.autoMake.allow.when.app.running
+```

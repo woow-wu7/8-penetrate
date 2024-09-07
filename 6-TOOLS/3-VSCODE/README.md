@@ -1,4 +1,6 @@
-# Readme
+##### Vscode
+
+##### (1) code .
 
 ```
 1
@@ -8,9 +10,26 @@
 - 找到find: shell command: install code command in PATH.
 - 打开open: code .
 - 教程tutorial: https://www.freecodecamp.org/chinese/news/how-to-open-visual-studio-code-from-your-terminal/
+```
 
+##### (2) format 格式化
 
+```
 2
 格式化代码时 - 设置缩进为4格
-command . / 搜索 editor.tabSize
+- 输入: command ,
+- 搜索: editor.tabSize
+
+
+2.1
+English
+-
+format 格式化v 格式n
+-
+【 format the disk. 格式化磁盘 】
+-
+【 file format. 文件格式 】
+【 data format. 数据格式 】
+-
+// After 【 formatting the disk 】, use the text 【 file format 】. 格式化磁盘后，使用txt文件格式
 ```
