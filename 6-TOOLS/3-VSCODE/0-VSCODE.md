@@ -33,3 +33,18 @@ format 格式化v 格式n
 -
 // After 【 formatting the disk 】, use the text 【 file format 】. 格式化磁盘后，使用txt文件格式
 ```
+
+##### (3) 鼠标滚动页面的距离
+
+```
+鼠标滚动页面的距离
+- setting中输入: Mouse Wheel Scroll Sensitivity
+- 0.5
+```
+
+##### (4) Explorer 左侧菜单项不见了
+
+```
+command + shift + p
+然后输入命令: View: Reset View Locations
+```

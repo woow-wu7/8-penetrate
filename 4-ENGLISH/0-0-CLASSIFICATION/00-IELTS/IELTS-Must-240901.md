@@ -1,8 +1,9 @@
 ###### Must 2024-09-05
 
 - 1
-- `【 ingredient 成分 原料 n 】` // ----------------------- 【 common ingredient. 常见成分 n 】 【 active ingredient. 活性成分 n 】
+- `【 ingredient 成分 原料 n 】` // ----------------------- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】
 - `【 material 材料 n 】` // ----------------------------- 【 raw material. 原材料 n 】 【 building material. 建筑材料 n 】
+-
 - `【 form 形成v 构成v 表n 形态n 】`
 - `【 compose 组成 v 】`
 - `【 consist of. 由...组成 】`
@@ -12,9 +13,56 @@
 - `【 ingredient 成分 原料 n  】`
 - `【 wood 木材 木头 n 】`
 - `【 carbon 碳 n 】`
+- > 【 carbon dioxide. 二氧化碳 n 】
+- > 【 oxygen. 氧气 n 】
+- > 【 hydrogen. 氢 n 】
+- > 【 nitrogen. 氮 n 】
 - **【 The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】. 这张桌子的材料是木头，成分是碳 】**
 -
 - [BB.]
 - `【 common ingredient. 常见成分 n 】`
 - `【 raw material. 原材料 n 】`
 - **【 The 【 common ingredient 】 of the 【 raw materia 】 is 【 carbon 】. 这个原材料的常见成分是碳 】**
+
+###### Must 2024-09-08
+
+- 1
+- `【 relationship 关系 n 】` // ------------------------ 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
+- `【 internship 实习 n 】` // -------------------------- 【 intern 实习生 】 【 intern position. 实习岗 】
+- `【 leadership 领导力 n 】`
+- // strength 长处 体力
+- // ownership 所有权 n
+- // -
+- // `ownership 所有权 n`
+- // `warship 军舰`
+- // `worship 崇拜`
+- // `internship 实习 实习期`
+- // `scholarship 奖学金`
+- // `friendship 友谊`
+- // `leadership 领导力 领导`
+- // `relationship. 关系`
+- - `intern 实习生n 关押v`
+- `internship 实习期 实习`
+- _【 intern position. 实习岗位 】_
+- -
+- `internship 实习 实习期`
+- `scholarship 奖学金`
+- `friendship 友谊`
+- `leadership 领导力 领导`
+- -
+- `worship 崇拜`
+- `warship 军舰`
+- `ownership 所有权 n`
+- -- `【 ship 轮船 】`
+- // `warship 战舰`
+- // `worship 崇拜`
+- - _【 pirate ship. 海盗船 】_
+- _【 pirate flag. 海盗旗 】_
+- - 2
+- `friendship 友情 友谊` // suffix
+- `scholarship 奖学金`
+- `ownership 所有权` // a sense of ownership.
+- `internship 实习 实习期 n`
+- `relationship 关系 联系`
+- `warship 军舰`
+- -
