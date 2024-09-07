@@ -1,5 +1,14 @@
 ##### Mac
 
+##### (1) applications
+
+```
+1. Thor Launcher.
+2. MonitorControlLit.
+3. Scroll Reverser.
+4. Rectangle
+```
+
 ##### (1) View process and Kill process
 
 ```

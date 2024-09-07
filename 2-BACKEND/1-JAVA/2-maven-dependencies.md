@@ -177,3 +177,47 @@ public class UserController {
     }
 }
 ```
+
+##### (2) Jackson
+
+- [Official website instruction documents.](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods/jackson.html)
+
+```java Install Jackson. 1
+1
+install
+- 'spring-boot-starter-web' already included the 'jackson', so we don't need to install it again.
+
+<!-- spring-boot-starter-web -->
+<!-- web场景启动器 -->
+<!-- 内置了 jackson -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+```
+
+```java Globally format data through jackson. 2
+2
+Globally format data.
+
+# jackson
+# - globally format data through jackson.
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+```
+
+```java Separately format data through jackson. 2
+2
+Separately format data.
+
+public class MusicTestBean {
+    public String name;
+    public String album;
+    public String singer;
+
+    @JsonFormat(pattern = "yyyy/MM/dd HH:mm:ss", timezone = "GMT+8") // @JsonFormat
+    public Date time;
+}
+```
