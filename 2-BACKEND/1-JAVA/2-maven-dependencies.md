@@ -178,7 +178,7 @@ public class UserController {
 }
 ```
 
-##### (2) Jackson
+##### (2) Jackson / common annotations / install
 
 - [Official website instruction documents.](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods/jackson.html)
 
@@ -208,16 +208,42 @@ spring:
     time-zone: GMT+8
 ```
 
-```java Separately format data through jackson. 2
+```java Separately format data through jackson. 3
 2
 Separately format data.
+- @JsonFormat(pattern = "yyyy/MM/dd HH:mm:ss", timezone = "GMT+8")
+- @JsonPropertyOrder({"name", "singer", "album",  "time"})
+- @JsonProperty("music_singer")
+- @JsonInclude(JsonInclude.Include.NON_NULL) // If the value is none, then it will not be return;
+- @JsonIgnore // Do not return this field
 
+
+@JsonPropertyOrder({"name", "singer", "album",  "time"})
 public class MusicTestBean {
+
+    @JsonInclude(JsonInclude.Include.NON_NULL) // If the value is none, then it will not be return;
+    public Integer id;
+
     public String name;
+
+    @JsonIgnore // Do not return this field
     public String album;
+
+    @JsonProperty("music_singer")
     public String singer;
 
     @JsonFormat(pattern = "yyyy/MM/dd HH:mm:ss", timezone = "GMT+8") // @JsonFormat
     public Date time;
 }
+```
+
+```java Common Annotations. 4
+Common Annotations
+
+Jackson
+- @JsonFormat(pattern = "yyyy/MM/dd HH:mm:ss", timezone = "GMT+8")
+- @JsonPropertyOrder({"name", "singer", "album",  "time"})
+- @JsonProperty("music_singer")
+- @JsonInclude(JsonInclude.Include.NON_NULL) // If the value is none, then it will not be return;
+- @JsonIgnore // Do not return this field
 ```

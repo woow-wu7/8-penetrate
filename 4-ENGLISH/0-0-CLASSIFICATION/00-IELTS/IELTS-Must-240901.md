@@ -30,6 +30,7 @@
 - `【 relationship 关系 n 】` // ------------------------ 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
 - `【 internship 实习 n 】` // -------------------------- 【 intern 实习生 】 【 intern position. 实习岗 】
 - `【 leadership 领导力 n 】`
+- ``
 - // strength 长处 体力
 - // ownership 所有权 n
 - // -
