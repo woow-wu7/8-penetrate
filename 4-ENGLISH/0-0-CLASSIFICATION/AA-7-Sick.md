@@ -5,9 +5,9 @@
 - [1111111.]
 - [PLACE]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
-- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】// --------------【 counter 柜台 n 计数器 n 】 // 【 pharmacy / pharmacist 】
-- `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 dealer / supplier / seller 】
-- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / reward / steward / forward 】
+- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 pharmacist 药剂师 / pharmacy 药房 】 // 【 counter 柜台 n 计数器 n 】
+- `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 supplier / dealer / seller 】
+- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / award / reward / steward / forward 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
@@ -32,13 +32,14 @@
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
 - > 【 registration office. = registration desk. 挂号处 n 】
+- > 【 registration form. 登记表 n 】
 - > 【 fill out the registration form. 填写登记表 】
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
 - // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
 -
 - `【 ward 病房 n 】`
-- `【 reward 奖励 n 】`
+- `【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】
 - `【 award 奖n 授予v 】` // ------------------ 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
 - > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
 - > 【 coward 胆小鬼 n 】
@@ -48,9 +49,11 @@
 - > 【 backward 向后的 adj adv 】
 - _【 award winner. 获奖者 n 】_
 - _【 award ceremony. 颁奖典礼 n 】_
-- _【 graduation ceremony. 毕业典礼 n 】_
-- _【 opening ceremony. 开幕式 n 】_
-- _【 closing ceremony. 闭幕式 n 】_
+- > 【 graduation ceremony. 毕业典礼 n 】
+- > 【 opening ceremony. 开幕式 n 】
+- > 【 closing ceremony. 闭幕式 n 】
+- _【 first prize. 一等奖 】_
+- _【 first place. 第一名 】_
 - // 【 treat/retreat 】` ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
 - // 【 tail/retail 】` -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】// - 【 retail store. 零售店 】 【 retail price. 零售价 n 】
 - // 【 tire/retire 】` -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ---【 entire 整个 = whole. 】
@@ -78,18 +81,25 @@
 - **【 Before 【 seeing a doctor 】, you need to go to the 【 registration office 】 to 【 register 】, then 【 fill out 】 the 【 registration form 】. 看医生前你需要去挂号处挂号，在填写登记表 】**
 -
 - [BB.]
+- `【 award 授予v 奖n 】`
+- `【 award ceremony. 颁奖典礼 n 】`
+- `【 award winner. 获奖者 n 】`
+- `【 the title of. ...的称号 】`
+- **【 At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of the 】 hero. 在颁奖典礼上，这个获奖者被授予英雄称号 】**
+-
+- [CC.]
 - `【 patient 病人 n 】`
 - `【 clinic 诊所 n 】`
 - `【 pharmacy 药店 n 】`
 - `【 ward 病房 n 】`
 - **【 There are many 【 patients 】 in the 【 clinic 】, 【 pharmacy 】, and 【 ward 】. 诊所，药房，病房都有很多病人 】**
 -
-- [CC.]
+- [DD.]
 - `【 ward 病房 n 】`
 - `【 make a ward round. 查房 】`
 - **【 The doctor is 【 making a ward round 】 in the 【 ward 】. 医生正在病房查房 】**
 -
-- [DD.]
+- [EE.]
 - `【 awkward 尴尬的 adj 】` = embarrassed
 - `【 coward 胆小鬼 n 】`
 - `【 reward 奖励 n 】`
@@ -97,7 +107,7 @@
 - `【 embarrassed 尴尬的 adj 】`
 - **【 We were very 【 embarrassed 】 because this 【 coward 】 received a 【 reward 】 from the doctor in the 【 ward 】. 我们很尴尬，因为这个胆小鬼在病房得到了医生的奖励 】**
 -
-- [EE.]
+- [FF.]
 - `【 check into. 入住 v 】`
 - `【 register 登记 v 】`
 - `【 registration form. 登记表 n 】`
@@ -114,7 +124,7 @@
 - [2222222.]
 - [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
-- `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
+- `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】
 - `【 detoxify 解毒 v 】`
 - > 【 poison gas. 毒气 有毒气体 n 】
@@ -241,8 +251,9 @@
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
 - `【 cure 治疗 v n 】` // -------------------- 4.【 cure = treat. 治疗 v 】
-- `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
+- `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
+- > 【 cover 覆盖 v 】
 - > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】
 - > 【 recovery 恢复 n 】// ------------------- 【 recovery period. 恢复期 n 】
 - > 【 recover health. 恢复健康 】
@@ -320,6 +331,7 @@
 - `【 cold 感冒n 冷的adj 】`
 - `【 fever 发烧 n 】`
 - `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
+- `【 headache 头痛 n 】`
 - `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
 - `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】
@@ -415,7 +427,7 @@
 - `【 runny nose. 流鼻涕 】`
 - `【 stuffy nose. 鼻塞 】`
 - `【 dizziness 头晕 n 】`
-- **【 The symptoms of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，头痛，咳嗽，打喷嚏，嗓子痛，流鼻涕，鼻塞，头晕 】**
+- **【 The symptoms of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏 】**
 -
 -
 -

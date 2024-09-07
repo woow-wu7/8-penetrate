@@ -456,3 +456,118 @@ How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of �
 The symptoms of this cold include: fever, headache, cough, sneeze, sore throat, runny nose, stuffy nose, dizziness.
 他感冒的症状包括: 发烧，头痛，咳嗽，打喷嚏，嗓子痛，流鼻涕，鼻塞，头晕
 ```
+
+##### 6 Make sentences 2024-09-07
+
+```
+1
+Before 【 seeing a doctor 】, you need to go to the 【 registration office 】 to 【 register 】, and then 【 fill out  】 the 【 registration form 】.
+看医生前你需要去挂号处挂号，在填写登记表
+-
+The doctor is 【 making a ward round 】 in the 【 ward 】.
+医生正在病房查房
+-
+At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of 】 hero.
+在颁奖典礼上，这个获奖者被授予英雄称号
+-
+-
+// -
+// 【 register 登记 注册 挂号 v 】
+// 【 registration 登记 注册 挂号 n 】
+// 【 registration form. 登记表 n 】
+// 【 registration office / desk. 挂号处 n 】
+// -
+// 【 see a doctor. 看医生 】
+// 【 fill out. 填写 v 】
+// 【 fill out the registration form. 填写登记表 】
+// -
+// 【 make a ward round. 查房 v 】
+// -
+// 【 award 授予v 奖n 】
+// 【 award ceremony. 颁奖典礼 n 】
+// 【 award winner. 获奖者 n 】
+// -
+// 【 the title of. ...的称号 】
+
+
+2
+The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the poison.
+解药可以解毒药的毒
+// -
+// 【 poison 毒 毒药 n 】
+// 【 antidote 解药 n 】
+// 【 detoxify 解毒 v 】
+
+
+3
+This is  a 【 brand-new 】 【 brand 】.
+这是一个崭新的品牌
+-
+The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all useful.
+这个品牌的绷带和创可贴都很好用
+-
+// -
+// 【 brand 品牌 n 】
+// 【 brand-new. 崭新的 adj 】
+// -
+// 【 bandage 绷带 n 】
+// 【 band-aid 创可贴 n 】
+// 【 brand 品牌 n 】
+
+
+4
+How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】?
+你如何评价物种的进化和繁殖
+-
+Going to 【 dangerous 】 places to 【 rescue 】 【 endangered animals 】 may 【 endanger 】 our 【 lives 】.
+去危险的地方解救去解救濒危动物可能会危及我们的生命
+-
+// -
+// 【 evaluate 评价 v 】
+// 【 evolution 进化 n 】
+// 【 the theory of evolution. 进化论 n 】
+// -
+// 【 species 种类 n 】
+// 【 endangered species. 濒危物种 n 】
+// 【 rare species. 稀有物种 n 】
+// -
+// 【 rescue 营救 v 】
+
+
+5
+The symptoms of his 【 cold 】 include: 【 fever 】, 【 cough 】, 【 headache 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】, 【 sneeze 】.
+他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏
+// -
+// 【 cold 感冒 n 】
+// -
+// 【 fever 发烧 n 】
+// 【 cough 咳嗽 n 】
+// 【 headache 头痛 n 】
+// 【 sore throat. 嗓子痛 n 】
+// 【 runny nose. 流鼻涕 n 】
+// 【 stuffy nose. 鼻塞 n
+// -
+// 【 dizziness. 头晕 n 】
+// 【 sneeze 打喷嚏 n 】
+
+
+6
+The 【 materia 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】.
+这张桌子的材料是木头，成分是碳
+-
+The 【 common ingredient 】 of the 【 raw material 】 is carbon.
+这个原材料的常见成分是碳
+-
+// -
+// 【 ingredient 成分 原料 n 】
+// 【 material 材料 n 】
+// -
+// 【 carbon 碳 n 】
+// 【 carbon dioxide. 二氧化碳 】------- CO2
+// 【 oxygen 氧气 】------------------- O
+// 【 hydrogen 氢气 】----------------- H // hy dro gen
+// 【 nitrogen 氮气 】----------------- N // ni tro gen
+// -
+// 【 common ingredient. 常见成分 n 】
+// 【 raw material. 原材料 n 】
+```

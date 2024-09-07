@@ -17,6 +17,10 @@
 // 提示: 当光标在代码中时，比如在md中，command+b是强调加黑的效果
 // 所以: 我们需要用 command+shift+e，先选中左侧菜单，在 command+b 显示隐藏
 
+展开折叠代码: command+k + command+0   /   command+k + command+j
+展开折叠一个函数的所有代码: command+k + command+]  /   command+k + command+[
+展开折叠单签位置代码: command+option+[   / command+option+]
+
 
 --
 
