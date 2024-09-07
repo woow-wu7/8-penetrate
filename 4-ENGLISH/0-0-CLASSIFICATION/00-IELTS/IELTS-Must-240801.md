@@ -191,7 +191,7 @@
 - 2
 - `【 download 下载 / upload 上传 】` --- 【 manual download. 手动下载 】 【 automatic download. 自动下载 】 // 【 automatic control. 自动控制 】
 - `【 install 安装 / uninstall 卸载 】`
-- `【 set up. 设置 v 】`
+- `【 set up. 建立 设置 设立 v 】`
 - `【 configure 配置 v 】` // ----------- 【 configuration. 配置 n 】 【 configure 配置 v 】
 - `【 upgrade 升级 v n 】` // ----------- 【 system upgrade. 系统升级 】
 - `【 update 更新 v n  】`
