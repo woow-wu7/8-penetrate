@@ -3,6 +3,10 @@
 - 1
 - `【 ingredient 成分 原料 n 】` // ----------------------- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】
 - `【 material 材料 n 】` // ----------------------------- 【 raw material. 原材料 n 】 【 building material. 建筑材料 n 】
+- > 【 active ingredient. 有效成分 n 】
+- > 【 common ingredient. 常见成分 n 】
+- > 【 raw material. 原材料 n 】
+- > 【 building material. 建筑材料 n 】
 -
 - `【 form 形成v 构成v 表n 形态n 】`
 - `【 compose 组成 v 】`
@@ -21,49 +25,51 @@
 -
 - [BB.]
 - `【 common ingredient. 常见成分 n 】`
+- `【 active ingredient. 活性成分 n 】`
 - `【 raw material. 原材料 n 】`
-- **【 The 【 common ingredient 】 of the 【 raw materia 】 is 【 carbon 】. 这个原材料的常见成分是碳 】**
+- **【 Both the 【 common ingredient 】 and 【 active ingredient 】 of the 【 raw material 】 are 【 carbon 】. 这个原材料的常见成分和活性成分都是碳 】**
+- // -- 【 caron 碳 n 】// carbon is a uncountable noun.
+- // -- 【 carbon dioxide. 二氧化碳 n 】--- CO2
+- // -- 【 oxygen. 氧气 n 】--------------- O
+- // -- 【 hydrogen. 氢 n 】--------------- H
+- // -- 【 nitrogen. 氮 n 】--------------- N
 
 ###### Must 2024-09-08
 
 - 1
+- `【 internship 实习 实习期 n 】` // -------------------------- 【 internship position. 实习岗 】 【 intern 实习生 】
+- `【 scholarship 奖学金 n 】`
+- > 【 internship position. 实习岗 n 】
+- > 【 internship 实习期 n 实习 n 】
+- > 【 intern 实习生 n 】
+- > 【 graduate 毕业生 n / 毕业 v 】
+-
 - `【 relationship 关系 n 】` // ------------------------ 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
-- `【 internship 实习 n 】` // -------------------------- 【 intern 实习生 】 【 intern position. 实习岗 】
+- `【 ownership 所有权 n 】` // --------------------------【 a sense of ownership. 主人翁意识 n 】
+- `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
-- ``
-- // strength 长处 体力
-- // ownership 所有权 n
-- // -
-- // `ownership 所有权 n`
-- // `warship 军舰`
-- // `worship 崇拜`
-- // `internship 实习 实习期`
-- // `scholarship 奖学金`
-- // `friendship 友谊`
-- // `leadership 领导力 领导`
-- // `relationship. 关系`
-- - `intern 实习生n 关押v`
-- `internship 实习期 实习`
-- _【 intern position. 实习岗位 】_
-- -
-- `internship 实习 实习期`
-- `scholarship 奖学金`
-- `friendship 友谊`
-- `leadership 领导力 领导`
-- -
-- `worship 崇拜`
-- `warship 军舰`
-- `ownership 所有权 n`
-- -- `【 ship 轮船 】`
-- // `warship 战舰`
-- // `worship 崇拜`
-- - _【 pirate ship. 海盗船 】_
-- _【 pirate flag. 海盗旗 】_
-- - 2
-- `friendship 友情 友谊` // suffix
-- `scholarship 奖学金`
-- `ownership 所有权` // a sense of ownership.
-- `internship 实习 实习期 n`
-- `relationship 关系 联系`
-- `warship 军舰`
-- -
+-
+- `【 worship 崇拜 v n 】`
+- `【 warship 战舰 n 】`
+- > 【 ship 船 n 】
+- > 【 pirate ship. 海盗船 】
+- > 【 pirate flag. 海盗旗 】 // ------------------------ 【 pirate. 海盗 n 】
+- _【 navy 海军 n 】_
+- _【 envy 羡慕 嫉妒 v 】_
+- _【 envy sb for doing sth. 羡慕某人做某事 】_
+-
+- [AA.]
+- `【 intern 实习生 n 】`
+- `【 internship 实习期n 实习n 】`
+- `【 internship position. 实习岗 n 】`
+- `【 scholarship 奖学金 n 】`
+- **【 The 【 intern 】 received a 【 scholarship 】 for his 【 internship position 】 during his 【 internship 】. 这名实习生在实习期间因其实习岗位获得了一项奖学金 】**
+- // TIPS: Pay attention to the pronunciation of the word 'during.' [during]
+-
+- [BB.]
+- `【 worship 崇拜 v n 】`
+- `【 warship 战舰 n 】`
+- **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 崇拜开战舰的海军和开海盗船的海盗 】**
+- // -- 【 greatly 非常 adv 】
+- // -- 【 navy 海军 n 】
+- // -- 【 envy 羡慕 嫉妒 v 】

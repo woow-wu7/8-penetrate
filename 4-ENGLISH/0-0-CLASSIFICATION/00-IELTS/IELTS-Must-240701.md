@@ -665,6 +665,8 @@
 -
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`
+- > 【 actively pursue. 主动追求 v 】
+- > 【 passively accept. 被动接受 v 】
 -
 - `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
@@ -677,14 +679,15 @@
 - _【 declarative 陈述的 adj 】_
 -
 - `【 conjunction 连词 连接词 n 】` --- 【 in conjunction with. 结合... 】 // 【 connect 连接 v 】 【 conjunction 连接词 n 】
-- `【 auxiliary verb. 助动词 n 】`
 - `【 part of speech. 词性 n 】` ----- 【 What's 【 part of speech 】 of this word? 这个单词是什么词性？ 】 // 【 speech 演讲 讲话 n 】
+- `【 auxiliary verb. 助动词 n 】`
+- `【 countable verb. 可数名词 n 】` -- 【 uncountable verb. 不可数名词 n 】
 - > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
-- `【 singular 单数 单数的 】`
+- `【 singular 单数 单数的 】` // ------ 【 every single day. 每一天 】
 - `【 plural 复数 复数的 】`
 - > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
 - > What's the 【 opposite 】of the word 'dim'? [dim->bright]
@@ -696,7 +699,7 @@
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 - // 【 single 单身的 单个的 adj 】
 - // 【 singular 单数的 adj 】
-- // TIPS: Pay attention to the pronunciation of the word 'plural'.
+- // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural]
 -
 - `【 subject 主语 】`
 - `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
@@ -706,7 +709,7 @@
 - `【 complement 补语n 补充v 补足v 】` // 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
 -
 - `【 noun 名词 】` // ----------------- 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
-- `【 pronoun 代词 】`
+- `【 pronoun 代词 】` // -------------- 【 personal pronoun. 人称代词 n 】 【 possessive pronoun. 物主代词 n 】 【 reflexive pronoun. 反身代词 】
 - `【 verb 动词 】` // ----------------- 【 irregular verb. 不规则动词 】 【 regular verb. 规则动词 】
 - `【 adverb 副词 】` // ---------------- verb adverb adverbial
 - `【 adjective 形容词 】`
@@ -716,21 +719,33 @@
 - `【 auxiliary verb. 助动词 】`
 - `【 regular verb. 规则动词 】`
 - `【 irregular verb. 不规则动词 】`
+- `【 countable noun. 可数名词 n 】`
+- `【 uncountable noun. 不可数名词 n 】`
 - > What's the 【 position 】 of the 【 preposition 】 in the sentence?
 - > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
+-
+- `【 noun 名词 n 】`
+- `【 countable noun. 可数名词 n 】`
+- `【 uncountable noun. 不可数名词 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'countable'. [countable]
 -
 - `【 verb 动词 】`
 - > 【 auxiliary verb. 助动词 】 // ---- 【 auxiliary verb. 助动词 n 】 // 【 auxiliary 辅助的 adj 】
 - > 【 regular verb. 规则动词 】
 - > 【 irregular verb. 不规则动词 】
+- // TIPS: Pay attention to the pronunciation of the word 'auxiliary'. [auxiliary]
 -
-- `【 tone 语气 音调 n 】`
+- `【 tone 语气 音调 n 】` // ----------- 【 tone / tongue 】
+- `【 tongue 舌头 】`
 - `【 pronunciation 发音 n 】`
 - `【 accent 口音 n 】`
 - `【 idiom 成语 方言 n 】`
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
 - > 【 a heavy foreign accent. 很重的外国口音 】
+- // TIPS: Pay attention to the pronunciation of the word 'tone'. [tone]
+- // TIPS: Pay attention to the pronunciation of the word 'tongue'. [tongue]
+- // TIPS: Pay attention to the pronunciation of the word 'idiom'. [idiom]
 -
 - `【 word 单词 】`
 - `【 phrase 短语 】`
@@ -779,11 +794,23 @@
 - `【 conjunction 连接词 】` // connect conjunction
 - `【 in conjunction with. 结合... 】`
 - **【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 你可以用连接词连接宾语从句和定语从句 】**
-- **【 Please lean this file 【 in conjunction with 】 that file. 请把这个文件和那个文件结合起来学习 】**
+- **【 Please learn this file 【 in conjunction with 】 that file. 请把这个文件和那个文件结合起来学习 】**
 -
 - [GG.]
 - `【 auxiliary verb. 助动词 n 】`
-- **【 'Do' is an 【 auxiliary 】. Do 是一个助动词 】**
+- **【 'Do' is 【 an 】 【 auxiliary 】. Do 是一个助动词 】**
+-
+- [HH.]
+- `【 passive voice. 被动语态 n 】`
+- `【 active voice. 主动语态 n 】`
+- > 【 actively pursue. 主动争取 】
+- > 【 passively accept. 被动接受 】
+- **【 We should 【 actively 】 【 pursue 】, not 【 passively 】 【 accept 】. 我们应该主动争取，不应该被动接受 】**
+-
+- [JJ.]
+- `【 countable noun. 可数名词 n 】`
+- `【 uncountable noun. 不可数名词 n 】`
+- **【 【 nouns 】 can 【 be divided into 】 【 countable nouns 】 and 【 uncountable nouns 】. 名词分为可数名词和不可数名词 】**
 
 ###### Must 2024-07-18
 

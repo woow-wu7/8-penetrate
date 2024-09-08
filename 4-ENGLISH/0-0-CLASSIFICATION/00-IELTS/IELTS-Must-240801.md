@@ -1143,13 +1143,12 @@
 - `【 garbage truck. 垃圾车 n 】`
 - `【 garbage dump. 垃圾场 垃圾堆 n 】` // - 【 dumpling 饺子 n 】 【 dump 倾倒 v / 垃圾场 n 垃圾堆 n 】
 - `【 take out the garbage. 倒垃圾 】`
-- `【 dustbin 垃圾箱 n 】`
+- `【 dustbin 垃圾箱 n 】` // ------------- 【 dust 灰尘 n 】 【 bin 箱子 n 】
+- _【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】_
+- _【 dumpling 饺子 n 】_
+- > 【 truck 卡车 n 】// ------------------ 【 tractor 拖拉机 n 】 【 truck 卡车 n 】 // 【 garbage truck. 垃圾车 n 】
 - > 【 bin 箱子 n 】
-- > 【 truck 卡车 n 】// ------------------ 【 tractor 拖拉机 n 】 【 truck 卡车 n 】
 - > 【 dust 灰尘 粉尘 n 】
-- > 【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】
-- // 【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】
-- // 【 dumpling 饺子 n 】
 -
 - `【 junk food. 垃圾食品 n 】`
 - `【 junk mail. 垃圾邮件 n 】`
@@ -1162,12 +1161,17 @@
 - > 【 clean up. 打扫 清理 v 】
 -
 - `【 take out the garbage. 倒垃圾 】`
-- `【 no littering. 禁止乱扔 】`
+- `【 no littering. 禁止乱扔 】` // --------- 【 litter 垃圾 】// 公共场所的没有在垃圾桶中的垃圾
 - `【 on leaning. 静止依靠 】`
 -
 - `【 expired 过期的 adj 】`
 - `【 out of date. 过时的 adj 】`
-- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服来说，没有过期这一说法，只有过时一说 】**
+- `【 date 日期n 约会n 】`
+- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服，没有过期这一说，只有过时一说 】**
+- // -- 【 cloth 布料 n 】
+- // -- 【 clothes 衣服 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'cloth'. [cloth]
+- // TIPS: Pay attention to the pronunciation of the word 'clothes'. [clothes]
 -
 -
 - [AA.]

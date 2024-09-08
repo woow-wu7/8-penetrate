@@ -571,3 +571,77 @@ The 【 common ingredient 】 of the 【 raw material 】 is carbon.
 // 【 common ingredient. 常见成分 n 】
 // 【 raw material. 原材料 n 】
 ```
+
+##### 7 Make sentences 2024-09-09
+
+```
+1
+Both the 【 common ingredient 】 and the 【 active ingredient 】 of the 【 raw material 】 are 【 carbon 】.
+这个原材料的常见成分和活性成分都是碳
+// -
+// 【 ingredient 成分 原料 n 】
+// 【 material 材料 n 】
+// -
+// 【 common ingredient. 常见成分 n 】
+// 【 active ingredient. 活性成分 n 】
+// -
+// 【 raw material. 原材料 n 】
+// -
+// 【 carbon 碳 n 】 // Carbon is a uncountable noun.
+
+
+2
+We should 【 actively pursue, 】 not 【 passively accept 】.
+我们应该主动争取，不应该被动接受
+// -
+// 【 actively pursue. 主动争取 】
+// 【 passively accept. 被动接受 】
+// -
+// 【 passive voice. 被动语态 n 】
+// 【 active voice. 主动语态 n 】
+// -
+// pursue 追求 追逐 v
+// accept 接受 v
+
+
+3
+Nouns can 【 be divided into 】 【 countable nouns 】 and 【 uncountable nouns 】.
+名词分为可数名词和不可数名词
+-
+'Do' is 【 an 】 【 auxiliary verb 】.
+Do 是一个助动词
+-
+// -
+// 【 countable noun. 可数名词 n 】
+// 【 uncountable noun. 不可数名词 n 】
+// -
+// 【 auxiliary verb. 助动词 n 】 // an
+
+
+4
+The 【 intern 】 received the 【 scholarship 】 【 for 】 his 【 internship position 】 【 during 】 his 【 internship 】.
+这个实习生在实习期间在实习岗获得了奖学金
+// -
+// 【 intern 实习生 n 】
+// 【 internship 实习期n  实习n 】
+// 【 internship position. 实习岗 n 】
+// -
+// 【 scholarship 奖学金 n 】
+
+
+5
+I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate 】 the 【 warships 】 and the 【 pirate 】 who 【 sail 】 the 【 pirate ships 】.
+我很崇拜开战舰的海军和开海盗船的海盗
+// -
+// 【 worship 崇拜 v 】
+// 【 warship 战舰 n 】
+// -
+// 【 navy 海军 n 】
+// 【 envy 羡慕 嫉妒 v 】
+// -
+// 【 pirate 海盗 n 】
+// 【 pirate ship. 海盗船 n 】
+// 【 pirate flag. 海盗旗 n 】
+// -
+// 【 greatly 非常 adv 】
+```
