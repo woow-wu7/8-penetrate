@@ -15,7 +15,7 @@ Install homebrew
 - 2. Access the link above to copy the code and then save it in a file named 'homebrew-installer.sh'
 
 (三)
-- 1. $ /bin/bash install.sh
+- 1. $ /bin/bash homebrew-installer.sh
 - 2. execute the command above to install homebrew.
 
 (四)
