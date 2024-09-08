@@ -38,7 +38,7 @@
 
 - 1
 - `【 internship 实习 实习期 n 】` // -------------------------- 【 internship position. 实习岗 】 【 intern 实习生 】
-- `【 scholarship 奖学金 n 】`
+- `【 scholarship 奖学金 n 】` // ----------------------------- 【 scholar 学者 n 】
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】
