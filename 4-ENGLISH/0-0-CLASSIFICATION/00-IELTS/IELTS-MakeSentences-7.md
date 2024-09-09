@@ -645,3 +645,60 @@ I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate 】 the 【 w
 // -
 // 【 greatly 非常 adv 】
 ```
+
+##### 8 Make sentences 2024-09-10
+
+```
+1
+I also 【 greatly 】 【 worship 】 the 【 idol 】 that she 【 once 】 【 worshiped 】.
+我也十分崇拜她曾经崇拜的偶像
+-
+I 【 greatly 】 【 worship 】 the 【 navy 】 who operate the 【 warships 】 and the 【 pirate 】 who sail the 【 pirate ship 】.
+我非常崇拜开战舰的海军和开海盗船的海盗
+-
+// -
+// 【 worship 崇拜 v 】
+// 【 worship idol. 崇拜偶像  】
+// 【 super idol. 超级偶像 n 】
+// -
+// 【 once 曾经 一次 adv 】------------ 用户肯定句
+// 【 ever 曾经 永远 adv 】------------ 用户否定句
+// -
+// 【 greatly 非常 adv 】
+// 【 greatly appreciate. 非常感谢 】
+// 【 greatly worship. 非常崇拜 】
+// -
+// 【 warship 战舰 n 】
+// 【 worship 崇拜 v 】
+// -
+// 【 navy 海军 n 】
+// 【 envy 羡慕 嫉妒 v 】
+// -
+// 【 pirate 海盗 n 】
+// 【 pirate ship. 海盗船 n 】
+// 【 pirate flag. 海盗旗 n 】
+
+
+2
+We should 【 sprint 】 【 at full speed 】 【 in spring 】.
+我们应该在春天全速冲刺
+// -
+// 【 sprint 冲刺 v 】
+// 【 spring 春天n 秤n 】
+// -
+// 【 at full speed. 全速 n 】
+// -
+// 【 spring scale. 弹簧秤 n 】
+// 【 balance scale. 天平 n 】
+
+
+3
+Please 【 paste 】 the 【 poster 】 on the wall.
+请把海报粘贴到墙上
+// -
+// 【 paste 粘贴v 糊状物n 】
+// 【 stick 粘贴v 棍棒n 】
+// -
+// 【 paste 粘贴v 糊状物n 】
+// 【 poster 海报 n 】
+```

@@ -7,6 +7,10 @@
 - > 【 common ingredient. 常见成分 n 】
 - > 【 raw material. 原材料 n 】
 - > 【 building material. 建筑材料 n 】
+- _【 actively pursue. 主动追求 】_ // ---------------------【 pursue 追求 追逐 v 】
+- _【 passively accept. 被动接受 】_
+- _【 active voice. 主动语态 】_
+- _【 passive voice. 被动语态 】_
 -
 - `【 form 形成v 构成v 表n 形态n 】`
 - `【 compose 组成 v 】`
@@ -22,11 +26,13 @@
 - > 【 hydrogen. 氢 n 】
 - > 【 nitrogen. 氮 n 】
 - **【 The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】. 这张桌子的材料是木头，成分是碳 】**
+- // -- 【 carbon 碳 n 】carbon is a uncountable noun.
 -
 - [BB.]
 - `【 common ingredient. 常见成分 n 】`
 - `【 active ingredient. 活性成分 n 】`
 - `【 raw material. 原材料 n 】`
+- `【 build material. 建筑材料 n 】`
 - **【 Both the 【 common ingredient 】 and 【 active ingredient 】 of the 【 raw material 】 are 【 carbon 】. 这个原材料的常见成分和活性成分都是碳 】**
 - // -- 【 caron 碳 n 】// carbon is a uncountable noun.
 - // -- 【 carbon dioxide. 二氧化碳 n 】--- CO2
@@ -42,21 +48,35 @@
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】
+- > 【 internal 内部的 adj 】
 - > 【 graduate 毕业生 n / 毕业 v 】
 -
 - `【 relationship 关系 n 】` // ------------------------ 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
 - `【 ownership 所有权 n 】` // --------------------------【 a sense of ownership. 主人翁意识 n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
+- > 【 stable relationship. 稳定的关系 n 】
+- > 【 steady relationship. 稳定的关系 n 】
+- > 【 a sense of ownership. 主人翁意识 n 】
 -
-- `【 worship 崇拜 v n 】`
+- `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
 - `【 warship 战舰 n 】`
+- _【 idol 偶像 n 】_
+- _【 worship idol. 崇拜偶像 】_
+- _【 super idol. 超级偶像 】_
+- _【 idol of worship. 崇拜的偶像 】_
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
-- > 【 pirate flag. 海盗旗 】 // ------------------------ 【 pirate. 海盗 n 】
+- > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
 - _【 navy 海军 n 】_
 - _【 envy 羡慕 嫉妒 v 】_
 - _【 envy sb for doing sth. 羡慕某人做某事 】_
+- > 【 worship 崇拜 v n 】
+- > 【 admire 钦佩 欣赏 赞赏 v 】
+-
+- `【 internal 内部的 adj 】`
+- `【 intern 实习生 n 】`
+- `【 internship 实习期n 实习n 】`
 -
 - [AA.]
 - `【 intern 实习生 n 】`
@@ -73,3 +93,16 @@
 - // -- 【 greatly 非常 adv 】
 - // -- 【 navy 海军 n 】
 - // -- 【 envy 羡慕 嫉妒 v 】
+-
+- [CC.]
+- `【 worship 崇拜 v 】`
+- `【 super idol 超级偶像 n 】`
+- `【 worship idol. 崇拜偶像 】`
+- `【 once 曾经 一次 adv 】` ------ 用于肯定句
+- `【 ever 曾经 永远 adv 】` ------ 用于否定句
+- `【 idol 偶像 n 】`
+- **【 I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像 】**
+
+###### Must 2024-09-10
+
+- `【 station 车站 站 n 】`

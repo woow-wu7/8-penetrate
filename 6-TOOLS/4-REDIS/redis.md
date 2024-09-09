@@ -144,9 +144,28 @@ $ redis-cli shutdown -------------- turn off redis.
 $ brew services info redis ------- check the status
 ```
 
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### (4) Usage / string list set zset hash
 
 ```
+(一) 重要重要重要!!!
+配置redis: 找到redis配置文件路径
+- 1. 输入命令: $ redis-cli INFO
+- 2. 找到: config_file ------ ( config_file:/opt/homebrew/etc/redis.conf )
+- 3. 输入命令: $ vim /opt/homebrew/etc/redis.conf
+- 4. 添加: requirepass yourpassword
+- 5. 重启: $ brew services restart redis
+
+(二) 当你设置了密码后，用命令行终端时，输入 redis-cli 后
+- 你需要输入 AUTH yourPassword
+- 之后就可以使用 redis 了
+
+(三) AnotherRedisDesktopManager 客户端管理软件来管理 redis
+- 1. official website: https://github.com/qishibo/AnotherRedisDesktopManager/releases
+- 2. 输入 host port password 即可
 
 1
 string
@@ -188,4 +207,99 @@ hash => 键值对，【 适合用来存 - 对象 】
 Redis中的Hashes类型可以看成具有String Key和String Value的map容器，所以适合存储值是对象的信息，比如 username
 hset key fild value 为指定的key设定field/value对（键值对）
 hgetall key 获取key中的所有filed-vaule
+```
+
+##### (5) SpringBoot uses Redis
+
+- [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
+
+```
+1
+maven
+<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-data-redis</artifactId>
+</dependency>
+
+
+2
+application.properties 或 application.yml
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    password: xxxx
+
+
+3
+RedisConfig
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.data.redis.connection.RedisConnectionFactory;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.serializer.StringRedisSerializer;
+@Configuration
+public class RedisConfig {
+    @Bean
+    public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory redisConnectionFactory) {
+        RedisTemplate<String, Object> template = new RedisTemplate<>();
+        template.setConnectionFactory(redisConnectionFactory);
+        template.setKeySerializer(new StringRedisSerializer());
+        template.setValueSerializer(new StringRedisSerializer());
+        return template;
+    }
+}
+
+
+4
+service
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.stereotype.Service;
+@Service
+public class RedisService {
+    @Autowired
+    private RedisTemplate<String, Object> redisTemplate;
+
+    public void setValue(String key, String value) {
+        redisTemplate.opsForValue().set(key, value);
+    }
+
+    public String getValue(String key) {
+        return (String) redisTemplate.opsForValue().get(key);
+    }
+
+    public void deleteKey(String key) {
+        redisTemplate.delete(key);
+    }
+}
+
+
+5
+RedisController
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+@RestController
+@RequestMapping("/redis")
+public class RedisController {
+    @Autowired
+    private RedisService redisService;
+
+    @PostMapping("/set")
+    public String setValue(@RequestParam String key, @RequestParam String value) {
+        redisService.setValue(key, value);
+        return "Value set successfully";
+    }
+
+    @GetMapping("/get")
+    public String getValue(@RequestParam String key) {
+        return redisService.getValue(key);
+    }
+
+    @DeleteMapping("/delete")
+    public String deleteKey(@RequestParam String key) {
+        redisService.deleteKey(key);
+        return "Key deleted successfully";
+    }
+}
 ```

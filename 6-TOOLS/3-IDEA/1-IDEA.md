@@ -1,6 +1,6 @@
 ##### Idea
 
-##### (1) Java / Software Install
+##### (1) Java / Download and Install
 
 - [java-11](https://www.oracle.com/java/technologies/downloads/#java11-mac) // 滚动到最底部
 - [java-11-tutorial](https://javaziliao.com/post/931.html)
@@ -190,6 +190,10 @@ test
 - // source F:\workSpace\coldchain.sql
 ```
 
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### (3) IDEA / A detailed tutorial about configuring JAVA 11 with IDEA.
 
 ```
@@ -234,7 +238,7 @@ test
 通过这些步骤,您应该能够在IntelliJ IDEA中成功设置和使用Java 11。这个过程允许您利用最新的Java功能和改进,在您的项目中充分发挥Java 11的优势。
 ```
 
-##### (4) IDEA / Plugins
+##### (3) IDEA / Plugins
 
 - [tutorial](https://cloud.tencent.com/developer/article/2433153)
 
@@ -260,7 +264,7 @@ K8s工具：Kubernetes
 新建时，在 spring boot 面板上的 【 Server URL 】换成阿里云的地址 【 https://start.aliyun.com 】
 ```
 
-##### (5) IDEA / Shortcut Keys
+##### (3) IDEA / Shortcut Keys
 
 ```
 Option + Enter 显示意向动作和快速修复代码
@@ -274,18 +278,26 @@ Control + Option + I 自动缩进线
 sout System.out.println()
 ```
 
-##### (6) ERROR / IDEA don't have java 11 options
+##### (3) IDEA / 文件和菜单不联动
+
+```
+文件和菜单不联动？
+- 点击: 菜单栏的 [三个点] 菜单
+- 选择: Behavior / Always select opened file.
+```
+
+##### (3) IDEA / ERROR / don't have java 11 options
 
 - [tutorial](https://blog.csdn.net/zhangfuping123456789/article/details/138729360)
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
 
 ##### (7) Docker / 部署 mysql
 
 - docker 安装 mysql 并访问 https://juejin.cn/post/6892390655126241287#heading-4
 - docker 部署 mysql https://juejin.cn/post/6844904099024994312#heading-27
-
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### ------- ------- ------- ------- ------- ------- -------
 
 ##### (8) Hot Update
 

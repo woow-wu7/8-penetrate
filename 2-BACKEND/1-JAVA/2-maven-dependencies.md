@@ -307,3 +307,8 @@ public class MusicTestControllerTest {
 
 }
 ```
+
+#### (4) Redis / spring-boot-starter-data-redis
+
+- [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/6-TOOLS/4-REDIS/redis.md)
+- [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
