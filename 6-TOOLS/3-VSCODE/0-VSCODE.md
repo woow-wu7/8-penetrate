@@ -1,6 +1,6 @@
 ##### Vscode
 
-##### (1) code .
+##### (1) code . / Open Vscode
 
 ```
 1
@@ -12,7 +12,26 @@
 - 教程tutorial: https://www.freecodecamp.org/chinese/news/how-to-open-visual-studio-code-from-your-terminal/
 ```
 
-##### (2) format 格式化
+##### (2) Function / Inlay Hints
+
+```
+1. command + ,
+2. type the keyword: inlay hints.
+3. select the 'Typescript' option in the menu at the left of the screen.
+3. check all options.
+```
+
+##### (2) Function / Explorer.compact fold
+
+```
+问题: vscode在左边菜单中，当文件夹只有一个时，会和上级文件夹同行
+解决: 如果你不希望在同一行，command+, 然后搜索 Explorer.compact fold，然后去掉勾选
+- 1. command + ,
+- 2. search Explorer.compact fold
+- 3. uncheck the checkbox.
+```
+
+##### (2) Function / Format 格式化
 
 ```
 2
@@ -42,7 +61,7 @@ format 格式化v 格式n
 - 0.5
 ```
 
-##### (4) Explorer 左侧菜单项不见了
+##### (5) Explorer 左侧菜单项不见了
 
 ```
 command + shift + p
