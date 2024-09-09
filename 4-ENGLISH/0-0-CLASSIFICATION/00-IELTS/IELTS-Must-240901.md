@@ -74,6 +74,7 @@
 - > 【 worship 崇拜 v n 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
+- `【 external 外部的 adj 】` // ------------- 【 external medicine. 外用药 n 】
 - `【 internal 内部的 adj 】`
 - `【 intern 实习生 n 】`
 - `【 internship 实习期n 实习n 】`
