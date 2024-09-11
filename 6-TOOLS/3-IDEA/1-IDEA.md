@@ -243,6 +243,11 @@ test
 - [tutorial](https://cloud.tencent.com/developer/article/2433153)
 
 ```
+1
+日志颜色: Grep Console
+- 安装后
+- 在 左侧设置中菜单中找到 / 其他设置 / Grep Console
+
 Java代码格式规范：CheckStyle
 自动生成序列图插件：SequenceDiagram
 快捷键提示工具：Key promoter X
