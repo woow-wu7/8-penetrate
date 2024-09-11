@@ -702,3 +702,47 @@ Please 【 paste 】 the 【 poster 】 on the wall.
 // 【 paste 粘贴v 糊状物n 】
 // 【 poster 海报 n 】
 ```
+
+##### 8 Make sentences 2024-09-12
+
+```
+1
+He din't 【 contradict 】 the 【 internal contradiction 】 between us.
+他没有反驳我们之间的内部矛盾
+// -
+// 【 contradict 反驳 v 】
+// 【 contradiction 矛盾 n 】
+// -
+// 【 internal contradiction. 内部矛盾 n 】
+
+
+2
+I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】.
+我也十分崇拜她曾经崇拜的偶像
+-
+【 Once 】 I 【 arrive in 】 China, I must 【 apply for 】 a 【 visa 】 【 via 】 the 【 agency 】 【 once agin 】.
+一旦我到了中国，我必须再次通过中介机构申请签证
+-
+I 【 greatly 】 【 worship 】 the 【 navy 】 who operate the 【 warship 】 and the 【 pirate 】 who sail the 【 pirate ship 】.
+我非常崇拜开战舰的海军和开海盗船的海盗
+-
+// -
+// 【 worship 崇拜 v 】
+// 【 warship 战舰 n 】
+// 【 internship / scholarship / relationship / friendship / ownership 】
+// 【 internship position. 实习岗n 】 【 the sense of the ownership. 主人翁意识 n 】
+// -
+// 【 once 曾经adv 一次n 一旦adv 】 -------- 用在肯定句中
+// 【 ever 曾经adv 】--------------------- 用在否定句中
+// -
+// 【 visa 签证 n 】
+// 【 via 通过 】= through
+// -
+// 【 greatly 非常 adv 】
+// 【 idol 偶像 】
+// -
+// 【 navy 海军  n 】
+// 【 pirate 海盗 n 】
+// 【 pirate ship. 海盗船 n 】
+// 【 pirate flag. 海盗旗 n 】
+```

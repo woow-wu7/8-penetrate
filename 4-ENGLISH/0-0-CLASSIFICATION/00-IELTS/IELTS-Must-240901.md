@@ -27,6 +27,7 @@
 - > 【 nitrogen. 氮 n 】
 - **【 The 【 material 】 of the table is 【 wood 】, and its 【 ingredient 】 is 【 carbon 】. 这张桌子的材料是木头，成分是碳 】**
 - // -- 【 carbon 碳 n 】carbon is a uncountable noun.
+- // -- 【 wood 木头 木材 n 】
 -
 - [BB.]
 - `【 common ingredient. 常见成分 n 】`
@@ -43,16 +44,20 @@
 ###### Must 2024-09-08
 
 - 1
-- `【 internship 实习 实习期 n 】` // -------------------------- 【 internship position. 实习岗 】 【 intern 实习生 】
-- `【 scholarship 奖学金 n 】` // ----------------------------- 【 scholar 学者 n 】
+- `【 internship 实习 实习期 n 】` // -----------【 internship position. 实习岗 】 【 intern 实习生 】
+- `【 scholarship 奖学金 n 】` // ------------- 【 scholar 学者 n 】
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
-- > 【 intern 实习生 n 】
-- > 【 internal 内部的 adj 】
-- > 【 graduate 毕业生 n / 毕业 v 】
+- > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
+- > 【 internal 内部的 adj 】 // -------------- 【 internal contradiction. 内部矛盾 n 】
+- > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
+- _【 contradict 反驳 v 】_ // ---------------- 【 contradict oneself. 自相矛盾 】
+- _【 contradiction 矛盾 n 】_ // ------------- 【 make contradiction to sth. 对...进行反驳 】
+- _【 internal contradiction. 内部矛盾 n 】_
+- _【 internal structure. 内部结构 n 】_
 -
-- `【 relationship 关系 n 】` // ------------------------ 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
-- `【 ownership 所有权 n 】` // --------------------------【 a sense of ownership. 主人翁意识 n 】
+- `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
+- `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - > 【 stable relationship. 稳定的关系 n 】
@@ -103,7 +108,18 @@
 - `【 ever 曾经 永远 adv 】` ------ 用于否定句
 - `【 idol 偶像 n 】`
 - **【 I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像 】**
+-
+- [DD.]
+- `【 contradict 反驳 v 】`
+- `【 contradiction 矛盾 n 】`
+- `【 internal contradiction. 内部矛盾 n 】`
+- **【 He didn't 【 contradict 】 the 【 internal contradictions 】 between us. 他对我们之间的矛盾没有进行任何反驳 】**
 
-###### Must 2024-09-10
+###### Must 2024-09-12
 
-- `【 station 车站 站 n 】`
+- 1
+- `【 overcome 克服 v 】`
+- `【 overlook 忽视 忽略 v n 】`
+- `【 overcoat 大衣 n 】`
+-
+- `【 take over. 接收 接管 v 】`
