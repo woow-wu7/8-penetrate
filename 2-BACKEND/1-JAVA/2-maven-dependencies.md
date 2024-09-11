@@ -308,7 +308,54 @@ public class MusicTestControllerTest {
 }
 ```
 
-#### (4) Redis / spring-boot-starter-data-redis
+##### (4) Redis / spring-boot-starter-data-redis
 
 - [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/6-TOOLS/4-REDIS/redis.md)
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
+
+##### (4) Mysql and JPA (X)
+
+```
+1
+maven
+<!-- 8 -->
+<!-- spring-boot-starter-data-jpa -->
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-jpa</artifactId>
+    <version>3.3.3</version>
+</dependency>
+
+<!-- 9 -->
+<!-- mysql connector 驱动 -->
+<!-- mysql驱动注意点：( mysql驱动版本 ) 要和 ( mysql版本) 一致 -->
+<!--- 利用 mybatis 操作mysql需要三个库 ( mysql + jdbc + mybatis ) -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.30</version>
+    <scope>runtime</scope>
+</dependency>
+
+
+
+2
+在 application.yml 中配置如下
+spring:
+  datasource:
+    # 1. 只要装了 ( mysql驱动 ) 和 ( jdbc数据库连接池 )，并且在这里配置好 ( 数据库连接池相关的配置项 ) 就能连接数据库
+    # 2. mysql驱动 => mysql-connector-java
+    # 3. jdbc连接池 => spring-boot-starter-jdbc
+    # 4. 更进一步：还可以使用 ( Druid数据源 + MyBatis )
+    url: jdbc:mysql://localhost:3306/1-personal_music?serverTimezone=GMT%2B8&useSSL=false
+    username: root
+    password: rootroot
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: validate
+    database: mysql
+    show-sql: true
+```
