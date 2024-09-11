@@ -24,7 +24,7 @@ Install homebrew
 - 3. Run these two commands above in your terminal to add Homebrew to your PATH.
 
 (五)
-- 1. $ homebrew --version
+- 1. $ brew --version
 - 2. How to verify whether 'homebrew' is installed successfully? run the command above in bash terminal.
 
 (六)
@@ -33,7 +33,7 @@ Install homebrew
 
 (七)
 - 1. automatic: $ brew services start redis
-- 1. manual: $ redis-server /usr/local/etc/redis.conf
+- 1. manual: $ redis-server /opt/homebrew/etc/redis.conf
 - 2. start redis
 
 (八)
@@ -61,11 +61,11 @@ PID: 13169
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 
 (十一) 重要重要重要!!!
-配置redis: 找到redis配置文件路径
+配置redis密码: 找到redis配置文件路径
 - 1. 输入命令: $ redis-cli INFO
 - 2. 找到: config_file ------ ( config_file:/opt/homebrew/etc/redis.conf )
 - 3. 输入命令: $ vim /opt/homebrew/etc/redis.conf
-- 4. 添加: requirepass yourpassword
+- 4. 最底部添加: requirepass yourpassword
 - 5. 重启: $ brew services restart redis
 
 (十二) 当你设置了密码后，用命令行终端时，输入 redis-cli 后
@@ -76,10 +76,14 @@ PID: 13169
 - 1. official website: https://github.com/qishibo/AnotherRedisDesktopManager/releases
 - 2. 输入 host port password 即可
 
+(十四) 如何权限不够，可以用一下命令来设置比较高的权限
+- 确保 /var/run 目录有正确的权限
+- $ sudo chmod 777 /var/run
 
-(十四) How to use redis
 
-14.1
+(十五) How to use redis
+
+15.1
 string
 // $ set name 'woow_wu7'
 // $ get name
@@ -91,7 +95,7 @@ string
 // 不支持中文，如果想要支持中文，可以使用 $ redis-cli --raw
 
 
-14.2
+15.2
 list => 链表 (相当于数据那样的数据) -- 【 元素可重复 】
 $ lpush key value1 value2 在key所关联的list的头部 ( 插入 ) 所有value值
 $ rpush key value1 value2 在key所关联的list的头部 ( 插入 ) 所有value值
@@ -100,7 +104,7 @@ $ lpushx key value 当key存在时才leftpush，如果不加x不存在时会新�
 $ lpop key 返回并弹出指定的key关联的链表中的第一个元素，即头部元素
 
 
-14.3
+15.3
 set => 是数组加链表 ------------------【 元素不能重复 】
 sadd key value1 value2 向set中添加数据，如果该key的值已有则不会 重复添加 l`
 smembers key 获取set中所有的成员
@@ -108,13 +112,13 @@ scard key 获取set中成员的数量
 srem key member1、member2 删除set中指定的成员
 
 
-14.4
+15.4
 zset
 zset中的每一个成员都会有一个分 数(score)与之关联，Redis正是通过分数来为集合中的成员进行从小到大的排序
 zadd key score member score2 member2 将所有成员以及该成员的 分数存放到sorted-set中
 
 
-14.5
+15.5
 hash => 键值对，【 适合用来存 - 对象 】
 Redis中的Hashes类型可以看成具有String Key和String Value的map容器，所以适合存储值是对象的信息，比如 username
 hset key fild value 为指定的key设定field/value对（键值对）
