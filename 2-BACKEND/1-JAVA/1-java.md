@@ -269,7 +269,11 @@ K8s工具：Kubernetes
 ```
 Option + Enter 显示意向动作和快速修复代码
 
+Command + [ 上一步
+Command + ] 下一步
 Command + P 方法参数提示
+
+Command + Option + B 跳转到实现
 Command + Option + L 代码格式化
 
 Control + Option + O 优化 import

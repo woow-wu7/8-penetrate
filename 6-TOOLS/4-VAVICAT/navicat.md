@@ -1,6 +1,5 @@
 ##### Navicat
 
-
 ##### (1) Java / Download and Install
 
 - [java-11](https://www.oracle.com/java/technologies/downloads/#java11-mac) // 滚动到最底部
@@ -270,7 +269,11 @@ K8s工具：Kubernetes
 ```
 Option + Enter 显示意向动作和快速修复代码
 
+Command + [ 上一步
+Command + ] 下一步
 Command + P 方法参数提示
+
+Command + Option + B 跳转到实现
 Command + Option + L 代码格式化
 
 Control + Option + O 优化 import

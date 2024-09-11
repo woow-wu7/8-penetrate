@@ -627,6 +627,7 @@
 - > 【 tourist visa. 旅游签证 】
 - > 【 business visa. 商业签证 】
 - > tour guide. / tourist attraction. / tourist resort. / tourist visa. / tourism industry. / travel agency. / business trip.
+- //【 Once 】 I 【 arrive in 】 China, I must 【 apply for 】 a 【 visa 】 【 via 】 the 【 agency 】 【 once agin 】.
 -
 - `【 addition 附加 n 】`
 - `【 additional 附加的 adj 】`
