@@ -745,4 +745,12 @@ I 【 greatly 】 【 worship 】 the 【 navy 】 who operate the 【 warship �
 // 【 pirate 海盗 n 】
 // 【 pirate ship. 海盗船 n 】
 // 【 pirate flag. 海盗旗 n 】
+
+
+3
+We don't 【 overlook 】 this problem, we should 【 overcome 】 it.
+我们不能忽视这个问题，而是要克服这个问题
+// -
+// 【 overlook 忽视 v 】
+// 【 overcome 克服 v 】
 ```

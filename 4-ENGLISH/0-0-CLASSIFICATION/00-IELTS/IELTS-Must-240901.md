@@ -120,6 +120,50 @@
 - 1
 - `【 overcome 克服 v 】`
 - `【 overlook 忽视 忽略 v n 】`
-- `【 overcoat 大衣 n 】`
 -
+- `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】
+- `【 overwork 劳累过度 v n 】`
+- `【 overtime 加班 超时 adj n 】`
+-
+- `【 overall 总体的 adj 】` // --------------- 【 overall architecture. 整体结构 】
+- `【 overview 概述 总览 n 】`
+- `【 overcoat 大衣 n 】`
+- `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
+-
+- `【 pull over. 靠边停下 】`
+- `【 knock over. 撞倒 】`
 - `【 take over. 接收 接管 v 】`
+-
+-
+- [AA.]
+- `【 overlook 忽视 v 】`
+- `【 overcome 克服 v 】`
+- **【 We don't 【 overlook 】 this problem, we should 【 overcome 】 it. 我们不能忽视这个问题，而是要克服这个问题 】**
+-
+- [BB.]
+- **【 加班不止累，还透支身体 】**
+-
+- `documentation 文档 n`
+- `overview 概述 总览`
+- **【 reference documentation. 参考文档 】**
+- **【 React reference overview. React 参考概述/参考总览 】**
+- **【 This 【 section 】 provides 【 detailed 】 【 reference documentation 】 for working with React. 】**
+- Here's the 【 overview 】 of the differences between let and var. 这是 let 和 var 的区别的【概述】
+
+---
+
+- _【 annual bonus. 年终奖 】_
+-
+- `salary 薪水` // -------- 长时间
+- `wage 工资` // ---------- 短时间
+- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
+- `bonus 奖金`
+- `reward 奖励`
+- `benefit 福利`
+- `performance 绩效 表演`
+
+
+ VALUES('HOME_PAGE_BOX_APP', 'COS18 CEA Additional Allowance Application', 'SYSTEM', now(), 'SYSTEM', NULL, 0);
+
+ VALUES('HOME_PAGE_BOX_REC', 'COS18 CEA Additional Allowance Receipt Submission', 'SYSTEM', now(), 'SYSTEM', NULL, 0);
+
