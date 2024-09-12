@@ -703,7 +703,7 @@ Please 【 paste 】 the 【 poster 】 on the wall.
 // 【 poster 海报 n 】
 ```
 
-##### 8 Make sentences 2024-09-12
+##### 9 Make sentences 2024-09-12
 
 ```
 1
@@ -745,4 +745,57 @@ I 【 greatly 】 【 worship 】 the 【 navy 】 who operate the 【 warship �
 // 【 pirate 海盗 n 】
 // 【 pirate ship. 海盗船 n 】
 // 【 pirate flag. 海盗旗 n 】
+
+
+3
+We don't 【 overlook 】 this problem, we should 【 overcome 】 it.
+我们不能忽视这个问题，而是要克服这个问题
+// -
+// 【 overlook 忽视 v 】
+// 【 overcome 克服 v 】
+```
+
+##### 10 Make sentences 2024-09-13
+
+```
+1
+【 The key to 】 【 overcoming difficulties 】 and 【 overcome fear 】 is not to 【 overlook details 】.
+克服困难和克服恐惧的关键是不能忽略细节
+// -
+// 【 overcome difficult. 克服困难 】
+// 【 overcome fear. 克服恐惧 】
+// -
+// 【 overlook detail. 忽视细节 】
+// -
+// 【 the key to doing sth. 做某事的关键... 】
+
+
+2
+【 Working overtime 】 not only makes you tired but also 【 overdraw 】 your body.
+加班不止让你累，还透你的支身体
+// -
+// 【 work overtime. 加班 】
+// 【 overdraw 透支 v 】
+
+
+3
+This is an 【 general overview 】 of the 【 overall structure 】.
+这是对整体结构的概述
+// -
+// 【 general overview. 总体概括 n 】
+// 【 overall structure. 整体结构 n 】
+// -
+// 【 general 一般的 总的 普遍的 adj 】
+// 【 overview 概述 n 】
+
+
+
+4
+Please 【 pull over 】 to the side, don't 【 knock over 】 the 【 pedestrian 】.
+请靠边停车，别撞到行人
+// -
+// 【 pull over. 靠边停车 v 】
+// 【 knock over. 撞倒 v 】
+// -
+// 【 pedestrian 行人 n 】
 ```

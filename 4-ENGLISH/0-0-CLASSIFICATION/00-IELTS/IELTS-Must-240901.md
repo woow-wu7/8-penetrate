@@ -118,8 +118,74 @@
 ###### Must 2024-09-12
 
 - 1
-- `【 overcome 克服 v 】`
-- `【 overlook 忽视 忽略 v n 】`
-- `【 overcoat 大衣 n 】`
+- `【 overcome 克服 v 】` // ----------------- 【 overcome fear. 克服恐惧 】 【 overcome difficult. 克服困难 】
+- `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】
+- > 【 overcome fear. 克服恐惧 】
+- > 【 overcome difficult. 克服困难 】
+- > 【 overlook = ignore. 忽略 】
+- > 【 overlook detail. = ignore detail. 忽略细节 】
+- _【 detail 细节 n 】_
+- _【 tail 尾巴 n 】_
+- _【 retail 零售 n 零售的 adj 】_ // --------- 【 retail price. 零售价 】
+- _【 wholesale 批发 n 批发的 adj 】_ // ------ 【 wholesale price. 批发价 】
 -
+- `【 overview 概述 总览 n 】` // ------------- 【 general overview. 总体概述 】
+- `【 overall 总体的 adj 】` // --------------- 【 overall structure. 整体结构 】
+- > 【 general 一般的 总的 普遍的 adj 】
+- > 【 general overview. 总体概述 n 】
+- > 【 overall structure. 整体结构 n 】
+-
+- `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】
+- `【 overtime 加班 超时 adj n 】`
+- `【 overwork 劳累过度 v n 】`
+- > 【 overdraw body. 透支身体 】
+- > 【 overdraw credit card. 透支信用卡 】
+- _【 draw 绘画 抽签 v 】_
+-
+- `【 overcoat 大衣 n 】`
+- `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
+-
+- `【 knock over. 撞倒 】`
+- `【 pull over. 靠边停下 】`
 - `【 take over. 接收 接管 v 】`
+-
+-
+- [AA.]
+- `【 overcome 克服 v 】`
+- `【 overlook 忽视 v 】`
+- `【 overcome difficult. 克服困难 】`
+- `【 overcome fear. 克服恐惧 】`
+- `【 overlook detail. = ignore detail. 忽略细节 】` = ignore detail.
+- > 【 the key to doing sth. 做某事的关键... 】
+- **【 【 The key to 】 【 overcoming difficulties 】 and 【 overcoming fear 】 is not to 【 overlook details 】. 克服困难和克服恐惧的关键是不能忽略细节 】**
+- **【 We don't 【 overlook 】 this problem, we should 【 overcome 】 it. 我们不能忽视这个问题，而是要克服这个问题 】**
+- // -- 【 the key to doing sth. 做某事的关键... 】
+-
+- [BB.]
+- `【 work overtime. 加班 】`
+- `【 overdraw 透支 v 】`
+- **【 【 Working overtime 】 not only 【 makes you tired 】 but also 【 overdraws 】 your body. 加班不止让你累，还透你的支身体 】**
+-
+- [CC.]
+- `【 overview 概述 n 】` // an
+- `【 general overview. 总体概述 n 】`
+- `【 overall structure. 整体结构 】`
+- **【 This is an 【 general overview 】 of the 【 overall structure 】. 这是对整体结构的总体概述 】**
+-
+- [DD.]
+- `【 pull over. 靠边停车 】`
+- `【 knock over. 撞倒 v 】`
+- **【 Please 【 pull over 】to the side, don't 【 knock over 】 the 【 pedestrian 】. 请靠边停车，别撞到行人 】**
+- // -- 【 pedestrian. 行人 n 】
+
+###### Must 2024-09-13
+
+- 1
+- _【 annual bonus. 年终奖 】_
+- `salary 薪水` // -------- 长时间
+- `wage 工资` // ---------- 短时间
+- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
+- `bonus 奖金`
+- `reward 奖励`
+- `benefit 福利`
+- `performance 绩效 表演`
