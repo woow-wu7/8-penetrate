@@ -217,7 +217,7 @@ hgetall key 获取key中的所有filed-vaule
 
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
 
-```
+```java
 1
 maven
 <dependency>
