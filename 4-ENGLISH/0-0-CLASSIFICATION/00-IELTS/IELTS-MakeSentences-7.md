@@ -799,3 +799,22 @@ Please 【 pull over 】 to the side, don't 【 knock over 】 the 【 pedestria
 // -
 // 【 pedestrian 行人 n 】
 ```
+
+##### 11 Make sentences 2024-09-14
+
+```
+1
+They had many 【 contradictions 】 【 in the process of 】 【 getting along 】.
+他们在相处过程中发生了很多矛盾
+-
+We should learn to 【 get along peacefully with 】 others.
+我们要学会与别人和平相处
+-
+// -
+// 【 contradict 矛盾 反驳 v 】
+// 【 contradiction 矛盾 反驳 n 】
+// 【 internal contradiction. 内部矛盾 n 】
+// -
+// 【 get along with sb. 与某人相处 】
+// 【 get along peacefully with sb. 与某人和平相处 】
+```

@@ -17,8 +17,8 @@
 - `【 consist of. 由...组成 】`
 -
 - [AA.]
-- `【 material 材料 n 】`
-- `【 ingredient 成分 原料 n  】`
+- `【 material 材料 n 】` // raw material. // build material.
+- `【 ingredient 成分 原料 n  】` // common ingredient. // active ingredient.
 - `【 wood 木材 木头 n 】`
 - `【 carbon 碳 n 】`
 - > 【 carbon dioxide. 二氧化碳 n 】
@@ -33,7 +33,7 @@
 - `【 common ingredient. 常见成分 n 】`
 - `【 active ingredient. 活性成分 n 】`
 - `【 raw material. 原材料 n 】`
-- `【 build material. 建筑材料 n 】`
+- `【 building material. 建筑材料 n 】`
 - **【 Both the 【 common ingredient 】 and 【 active ingredient 】 of the 【 raw material 】 are 【 carbon 】. 这个原材料的常见成分和活性成分都是碳 】**
 - // -- 【 caron 碳 n 】// carbon is a uncountable noun.
 - // -- 【 carbon dioxide. 二氧化碳 n 】--- CO2
@@ -49,10 +49,10 @@
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
-- > 【 internal 内部的 adj 】 // -------------- 【 internal contradiction. 内部矛盾 n 】
+- > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】`
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
-- _【 contradict 反驳 v 】_ // ---------------- 【 contradict oneself. 自相矛盾 】
-- _【 contradiction 矛盾 n 】_ // ------------- 【 make contradiction to sth. 对...进行反驳 】
+- _【 contradict 矛盾 反驳 v 】_
+- _【 contradiction 矛盾 反驳 n 】_ // ------------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
 - _【 internal contradiction. 内部矛盾 n 】_
 - _【 internal structure. 内部结构 n 】_
 -
@@ -66,10 +66,13 @@
 -
 - `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
 - `【 warship 战舰 n 】`
+- > 【 worship idol. 崇拜偶像 】
+- > 【 greatly worship. 非常崇拜 】
+- > 【 greatly appreciate. 非常感谢 】
 - _【 idol 偶像 n 】_
 - _【 worship idol. 崇拜偶像 】_
 - _【 super idol. 超级偶像 】_
-- _【 idol of worship. 崇拜的偶像 】_
+- _【 the idol of worship. 崇拜的偶像 】_
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
 - > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
@@ -79,17 +82,13 @@
 - > 【 worship 崇拜 v n 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
-- `【 external 外部的 adj 】` // ------------- 【 external medicine. 外用药 n 】
-- `【 internal 内部的 adj 】`
-- `【 intern 实习生 n 】`
-- `【 internship 实习期n 实习n 】`
 -
 - [AA.]
 - `【 intern 实习生 n 】`
 - `【 internship 实习期n 实习n 】`
 - `【 internship position. 实习岗 n 】`
 - `【 scholarship 奖学金 n 】`
-- **【 The 【 intern 】 received a 【 scholarship 】 for his 【 internship position 】 during his 【 internship 】. 这名实习生在实习期间因其实习岗位获得了一项奖学金 】**
+- **【 The 【 intern 】 received a 【 scholarship 】 for his 【 internship position 】 during his 【 internship 】. 实习生在实习期间因其实习岗位获得了一项奖学金 】**
 - // TIPS: Pay attention to the pronunciation of the word 'during.' [during]
 -
 - [BB.]
@@ -104,16 +103,27 @@
 - `【 worship 崇拜 v 】`
 - `【 super idol 超级偶像 n 】`
 - `【 worship idol. 崇拜偶像 】`
-- `【 once 曾经 一次 adv 】` ------ 用于肯定句
-- `【 ever 曾经 永远 adv 】` ------ 用于否定句
+- `【 once 曾经 一次 一旦 adv 】` ------ 用于肯定句
+- `【 ever 曾经 永远 adv 】` ---------- 用于否定句
 - `【 idol 偶像 n 】`
 - **【 I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像 】**
+- // -- 【 once 曾经 一次 一旦 adv 】
 -
 - [DD.]
 - `【 contradict 反驳 v 】`
 - `【 contradiction 矛盾 n 】`
 - `【 internal contradiction. 内部矛盾 n 】`
 - **【 He didn't 【 contradict 】 the 【 internal contradictions 】 between us. 他对我们之间的矛盾没有进行任何反驳 】**
+-
+- [EE.]
+- `【 contradiction 矛盾 n 】`
+- `【 internal contradiction. 内部矛盾 n 】`
+- `【 get along with sb. 与某人相处 】`
+- `【 get along peacefully with sb. 与某人和平相处 】`
+- **【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处过程中发生了很多矛盾 】**
+- **【 We should learn to 【 get along peacefully with 】 others. 我们要学会与别人和平相处 】**
+- // -- 【 get along with sb. 与某人相处 】
+- // -- 【 get along peacefully with sb. 与某人和平相处 】
 
 ###### Must 2024-09-12
 
@@ -181,11 +191,39 @@
 ###### Must 2024-09-13
 
 - 1
-- _【 annual bonus. 年终奖 】_
-- `salary 薪水` // -------- 长时间
-- `wage 工资` // ---------- 短时间
-- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
-- `bonus 奖金`
-- `reward 奖励`
-- `benefit 福利`
-- `performance 绩效 表演`
+- `【 allowance 津贴 补助 n 】` // ------------- 【 Travel allowance. 差旅津贴 n 】
+- `【 welfare 福利n 福利的adj 】` // ----------- 【 social welfare. 社会福利 n 】 【 welfare state. 福利国家 】 // -- 【 fare 票价 / fee 费用 】
+- `【 benefit 福利n 】`
+- > 【 social welfare. 社会福利 n 】
+- > 【 high welfare state. 高福利国家 n 】
+- _【 fare 票价 n 】_
+- _【 fee 费用 n 】_
+-
+- `【 salary 薪水 】` // -------- 长时间
+- `【 wage 工资 】` // ---------- 短时间
+- `【 pay 工资n 支付v 】` -------- 长时间 和 短时间 都可以
+- `【 bonus 奖金 】` // -------------------------- 【 performance bonus. 绩效奖金 】 【 annual bonus. 年终奖 n 】= year-end bonus.
+- `【 performance 绩效 表演 】` // ---------------- 【 performance bonus. 绩效奖金 】
+- `【 reward 奖励 】`
+- `【 benefit 福利n 】`
+- `【 revenue = income. 收入 】`
+-
+- `【 currency 货币 】`
+- `【 cash 现金 】` // cash cache
+- `【 bill 账单 钞票 】`
+- `【 coin 硬币 】` // coin corn
+- `【 cheque 支票 】`
+- `【 lottery 彩票 】` //
+- `【 share 股份n 分享v 】`// -----------------------【 market share. 市场占有率 】
+-
+- `【 asset 资产 】` // ----------------------------【 asset 资产 / property 财产 / fixed assets. // current assets. 】
+- `【 share 股份n 分享v 】` // ----------------------【 share sth with sb. 】
+- `【 lottery 彩票 】` // --------------------------【 lottery ticket. 彩票 】
+- `【 cheque 支票 】`
+- `【 bond 债卷 】`
+- `【 fund 基金 】`
+-
+- [AA.]
+- `【 allowance 津贴 补助 n 】`
+- `【 welfare 福利n 福利的adj 】`
+- **【 【 Allowance 】 is also 【 a kind of 】 【 social welfare 】. 补助也是一种社会福利 】**
