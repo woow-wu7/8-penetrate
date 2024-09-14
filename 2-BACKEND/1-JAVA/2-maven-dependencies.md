@@ -253,7 +253,7 @@ Jackson
 - [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/6-TOOLS/4-REDIS/redis.md)
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
 
-##### (4) Mysql and JPA (X)
+##### (4) JPA / Mysql
 
 ```
 1
@@ -264,7 +264,9 @@ maven
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-data-jpa</artifactId>
-    <version>3.3.3</version>
+    // <version>3.3.3</version>
+    // 注意：这里不要指定版本，因为我遇到了报错: 如下
+    // Parameter 0 of constructor in com.example.backreviewjava.service.MusicJpaService required a bean named 'entityManagerFactory' not be found.
 </dependency>
 
 <!-- 9 -->
@@ -298,9 +300,14 @@ spring:
       ddl-auto: validate
     database: mysql
     show-sql: true
+
+
+
+3
+
 ```
 
-##### (4) Mybatis
+##### (4) Mybatis / Mysql JDBC
 
 - [tutorial](https://juejin.cn/post/6929145638898794503#heading-22)
 

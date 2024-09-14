@@ -799,3 +799,42 @@ Please 【 pull over 】 to the side, don't 【 knock over 】 the 【 pedestria
 // -
 // 【 pedestrian 行人 n 】
 ```
+
+##### 11 Make sentences 2024-09-14
+
+```
+1
+They had many 【 contradictions 】 【 in the process of 】 【 getting along 】.
+他们在相处过程中发生了很多矛盾
+-
+We should learn to 【 get along peacefully with 】 others.
+我们要学会与别人和平相处
+-
+// -
+// 【 contradict 矛盾 反驳 v 】
+// 【 contradiction 矛盾 反驳 n 】
+// 【 internal contradiction. 内部矛盾 n 】
+// -
+// 【 get along with sb. 与某人相处 】
+// 【 get along peacefully with sb. 与某人和平相处 】
+```
+
+##### 14 Make sentences 2024-09-15
+
+```
+1
+-
+The 【 social phenomenon 】 in a high 【 welfare state 】 is that everyone has high 【 social status 】 and high 【 social welfare 】.
+高福利国家的社会现象是每个人都有很高的社会地位和很高的社会福利
+-
+The 【 social welfare 】 of the 【 welfare state 】 is very good.
+福利国家的社会福利很好
+// -
+// 【 social phenomenon. 社会现象 n 】
+// 【 social contradiction. 社会矛盾 n 】
+// 【 social welfare. 社会福利 n 】
+// 【 social status. 社会地位 n 】
+// -
+// 【 welfare state. 福利国家 n 】
+// 【 social welfare. 社会福利 n 】
+```
