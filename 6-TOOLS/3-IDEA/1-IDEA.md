@@ -242,11 +242,12 @@ test
 
 - [tutorial](https://cloud.tencent.com/developer/article/2433153)
 
-```
+```All Plugins
 1
 日志颜色: Grep Console
-- 安装后
+- 安装 Grep Console 后
 - 在 左侧设置中菜单中找到 / 其他设置 / Grep Console
+- 同时在 运行面板左侧 有Grep-Console的图标，可以进行详细设置
 
 Java代码格式规范：CheckStyle
 自动生成序列图插件：SequenceDiagram

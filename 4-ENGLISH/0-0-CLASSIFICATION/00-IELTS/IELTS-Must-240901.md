@@ -152,11 +152,13 @@
 - > 【 general overview. 总体概述 n 】
 - > 【 overall structure. 整体结构 n 】
 -
-- `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】
+- `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】 // 【 lottery draw. 】 【 lottery ticket. 】
 - `【 overtime 加班 超时 adj n 】`
 - `【 overwork 劳累过度 v n 】`
 - > 【 overdraw body. 透支身体 】
 - > 【 overdraw credit card. 透支信用卡 】
+- > 【 lottery draw. 抽奖 v 】
+- > 【 lottery ticket. 彩票 n 】
 - _【 draw 绘画 抽签 v 】_
 -
 - `【 overcoat 大衣 n 】`
@@ -200,7 +202,7 @@
 - 1
 - `【 welfare 福利n 福利的adj 】` // ----------- 【 social welfare. 社会福利 n 】 【 welfare state. 福利国家 】 // -- 【 fare 票价 / fee 费用 】
 - `【 benefit 福利 利益 n 】`
-- `【 allowance 津贴 补助 n 】` // ------------- 【 Travel allowance. 差旅津贴 n 】
+- `【 allowance 津贴 补助 n 】` // ------------- 【 travel allowance. 差旅津贴 n 】
 - > 【 social welfare. 社会福利 n 】
 - > 【 welfare state. 福利国家 n 】
 - > 【 high welfare state. 高福利国家 n 】
@@ -220,7 +222,8 @@
 - `【 benefit = welfare. 福利 】`
 - `【 revenue = income. 收入 】`
 - > 【 prize 奖 奖金 奖品 n 】
-- > 【 first prize. 一等奖 】
+- > 【 first prize. 一等奖 n 】 【 first place. 第一名 n 】
+- > 【 first place. 第一名 n 】
 - > 【 award ceremony. 颁奖典礼 n 】
 - > 【 award winner. 获奖者 n 】
 - _【 gold medal. 金牌 n 】_
@@ -233,15 +236,21 @@
 - `【 bill 账单 钞票 】`
 - `【 coin 硬币 】` // 【 coin 硬币 / corn 玉米 】
 - `【 cheque 支票 】`
-- `【 lottery 彩票 】` //
+- `【 lottery 彩票 】` // --------------------------【 lottery ticket. 彩票 】 【 lottery draw. 抽奖 】
 - `【 share 股份n 分享v 】`// -----------------------【 market share. 市场占有率 】
+- > 【 lottery draw. 抽奖 n 】
+- > 【 lottery ticket. 彩票 n 】
 -
-- `【 asset 资产 】` // ----------------------------【 asset 资产 / property 财产 / fixed assets. // current assets. 】
-- `【 share 股份n 分享v 】` // ----------------------【 share sth with sb. 】
-- `【 lottery 彩票 】` // --------------------------【 lottery ticket. 彩票 】
+- `【 asset 资产 】` // ----------------------------【 fixed asset. 固定资产 n 】 【 current asset. 浮动资产 n 】 // 【 asset 资产 / property 财产 】
+- `【 share 股份n 分享v 】` // ----------------------【 share sth with sb. 给某人分享某事 】
+- `【 lottery 彩票 】` // --------------------------【 lottery ticket. 彩票 】 【 lottery draw. 抽奖 v 】
 - `【 cheque 支票 】`
 - `【 bond 债卷 】`
 - `【 fund 基金 】` // ---------------------------- 【 found / profound 】 【 fun / fund / refund 】
+- > 【 fixed asset. 固定资产 n 】
+- > 【 current asset. 浮动资产 n 】
+- > 【 current 目前的 adj / 电流 流 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'asset'. [asset-资产]
 -
 -
 - [AA.]
@@ -266,29 +275,46 @@
 - `【 bill 账单 纸币 n 】`
 - `【 cash 现金 n 】`
 - **【 【 Bills 】 and the 【 coins 】Both are 【 cash 】. 钞票和硬币都是现金 】**
+-
+- [EE.]
+- `【 lottery ticket. 彩票 n 】`
+- `【 lottery draw. 抽奖 v 】`
+- `【 overdraw 透支 v 】`
+- **【 The 【 lottery ticket 】 for 【 this period 】 is 【 in the process of 】 【 lottery draw 】. 这期彩票正在抽奖 】**
+- // 【 this period. 本期 n 】
+- // 【 in the process of. 在...的过程中 】
 
 ###### Must 2024-09-15
 
 - 1
 - `【 social phenomenon. 社会现象 n 】` // -------- 【 common phenomenon. 常见现象 n 】 【 rare phenomenon. 罕见现象 n 】 【 natural phenomenon. 自然现象 n 】
-- `【 social contradiction. 社会矛盾 n 】`
+- `【 social contradiction. 社会矛盾 n 】` // ----- 【 family contradiction. 家庭矛盾 n 】
 - `【 social welfare. 社会福利 n 】` // ----------- 【 welfare state. 福利国家 n 】
 - `【 social status. 社会地位 n 】` // ------------ 【 status / state / statue 】
 - > 【 social phenomenon. 社会现象 】
 - > 【 common phenomenon. 普遍现象 】
 - > 【 rare phenomenon. 罕见现象 】
 - > 【 natural phenomenon. 自然现象 】
+- // TIPS: Pay attention to the pronunciation of the word 'contradiction'. [contradiction-矛盾]
 -
-- `【 status 身份 状态 地位 n 】` // --------------- 【 social status. 社会地位 n 】 【 social welfare. 社会福利 n 】 【 social phenomenon. 社会现象 n 】
-- `【 state 状态 国家 n 】` // -------------------- 【 welfare state. 福利国家 n 】
-- `【 statue 雕像 n 】` // ----------------------- 【 statue of liberty. 自由女神像 】
--
+- `【 status 身份 状态 地位 n 】` // --------------- 【 social status. 】 【 social welfare. 】 【 social phenomenon. 】 【 social contradiction. 社会矛盾 】
+- `【 state 状态 国家 n 】` // -------------------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
+- `【 statue 雕像 n 】` // ----------------------- 【 statue of liberty. 自由女神像 】 【 bronze statue. 铜像 n 】
+- > 【 bronze statue. 铜像 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'statue'. [statue-雕像]
 -
 -
 - [AA.]
 - `【 social phenomenon. 社会现象 n 】`
+- `【 social contradiction. 社会矛盾 n 】`
 - `【 social status. 社会地位 n 】`
 - `【 social welfare. 社会福利 n 】`
 - `【 welfare state. 福利国家 n 】`
-- **【 The 【 social phenomenon 】 in a high 【 welfare state 】 is that everyone has a high s【 social status 】 and high 【 social welfare 】. 高福利国家的社会现象是每个人都有很高的社会地位和很高的社会福利 】**
+- **【 The 【 social phenomenon 】 in a high 【 welfare state 】 is that everyone has a high 【 social status 】 and high 【 social welfare 】. 高福利国家的社会现象是每个人都有很高的社会地位和很高的社会福利 】**
+-
+- [BB.]
+- `【 natural phenomenon. 自然现象 n 】`
+- `【 common phenomenon. 常见现象 n 】`
+- `【 rare phenomenon. 罕见现象 n 】`
+- `【 social phenomenon. 社会现象 n 】`
+- **【 This 【 natural phenomenon 】 isn't a 【 common phenomenon 】 but a 【 rare phenomenon 】. 这种自然现象不是一种常见现象是一种罕见现象 】**

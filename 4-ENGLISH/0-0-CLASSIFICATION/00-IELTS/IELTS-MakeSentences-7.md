@@ -827,6 +827,9 @@ We should learn to 【 get along peacefully with 】 others.
 The 【 social phenomenon 】 in a high 【 welfare state 】 is that everyone has high 【 social status 】 and high 【 social welfare 】.
 高福利国家的社会现象是每个人都有很高的社会地位和很高的社会福利
 -
+This 【 natural phenomenon 】isn't a 【 common phenomenon 】 but a 【 rare phenomenon 】.
+这种自然现象不是一种常见现象是一种罕见现象
+-
 The 【 social welfare 】 of the 【 welfare state 】 is very good.
 福利国家的社会福利很好
 // -
@@ -835,6 +838,62 @@ The 【 social welfare 】 of the 【 welfare state 】 is very good.
 // 【 social welfare. 社会福利 n 】
 // 【 social status. 社会地位 n 】
 // -
+// 【 natural phenomenon. 自然现象 n 】
+// 【 common phenomenon. 常见现象 n 】
+// 【 rare phenomenon. 罕见现象 n 】
+// 【 social phenomenon. 社会现象 n 】
+// 【 social welfare. 社会福利 n 】
+// -
 // 【 welfare state. 福利国家 n 】
 // 【 social welfare. 社会福利 n 】
+// -
+// 【 fare 票价 n 】
+// 【 fee 费用 n 】
+
+
+2
+The 【 lottery ticket 】 for 【 this period 】 is 【 in the process of 】 【 lottery draw 】.
+这期彩票正在抽奖
+// -
+// 【 lottery ticket. 彩票 n 】
+// 【 lottery draw. 抽奖 v 】
+// -
+// 【 overdraw body. 透支身体 】
+// 【 overdraw credit card. 透支信用卡 】
+// 【 overdraw 透支 v 】
+// 【 lottery draw. 抽奖 v 】
+// -
+// 【 this period. 本期 n 】
+// 【 in the process of. 在...的过程中 】
+
+
+3
+【 Bills 】 and the 【 coins 】Both are 【 cash 】.
+钞票和硬币都是现金
+
+
+4
+【 Cloths 】 and 【 clothes 】 are not 【 expired 】, only 【 out of date 】.
+布料和衣服，没有过期一说，只有过时一说
+-
+【 Please 【 dump 】 the 【 expired 】 【 dumplings 】 into the 【 garbage can 】.
+请把过期的饺子倒在垃圾桶里
+-
+【 Waste 】 is divided into 【 residual waste 】, 【 wet waste 】, 【 recyclable waste 】.
+垃圾分为干垃圾，湿垃圾，可回收垃圾
+-
+// -
+// 【 cloth 布料 n 】
+// 【 clothes 衣服 n 】
+// -
+// 【 expire 过期 v 】
+// 【 expired 过期的 adj 】
+// 【 out of date. 过期的 adj 】
+// -
+// 【 dump 倒v 垃圾场n 】
+// 【 dumpling 饺子 n 】
+// -
+// 【 waste 垃圾 n / 浪费 v 】
+// 【 recyclable waste. 可回收垃圾 】
+// 【 residual waste. 干垃圾 】
 ```

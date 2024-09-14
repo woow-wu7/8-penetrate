@@ -1221,9 +1221,13 @@
 - `【 expired 过期的 adj 】`
 - `【 out of date. 过时的 adj 】`
 - `【 out of style. 过时的 adj 】`
-- **【 Cloths and clothes are not expired, only out of date. 布料和衣服，没有过期一说，只有过时一说 】**
+- **【 【 Cloths 】 and 【 clothes 】 are not expired, only 【 out of date 】. 布料和衣服，没有过期一说，只有过时一说 】**
 - **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服来说，没有过期这一说法，只有过时一说 】**
 - **【 The food is 【 expired 】, not 【 out of date 】. 这个食物是过期了，不是过时了 】**
+- // 【 cloth 布料 n 】
+- // 【 clothes 衣服 】
+- // TIPS: Pay attention to the pronunciation of the word 'cloth'. [cloth-布料]
+- // TIPS：Pay attention to the pronunciation of the word 'clothes'. [clothes-衣服]
 -
 - [GG.]
 - **【 【 Waste paper towels 】 are 【 recyclable waste 】. 废纸巾是可回收垃圾 】**
