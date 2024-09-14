@@ -818,7 +818,6 @@ We should learn to 【 get along peacefully with 】 others.
 // 【 get along with sb. 与某人相处 】
 // 【 get along peacefully with sb. 与某人和平相处 】
 ```
-<<<<<<< HEAD
 
 ##### 14 Make sentences 2024-09-15
 
@@ -839,5 +838,3 @@ The 【 social welfare 】 of the 【 welfare state 】 is very good.
 // 【 welfare state. 福利国家 n 】
 // 【 social welfare. 社会福利 n 】
 ```
-=======
->>>>>>> db1f345e015a522d81dedb49e01d4bcd285b1023
