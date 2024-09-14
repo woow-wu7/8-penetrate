@@ -158,36 +158,65 @@ test
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (2) Mysql / 常用命令
+##### (2) SpringBoot / 目录最佳实践
 
-```
-1.
-重启mysql
-- systemctl restart mysqld
-- 扩展:
-  - 问题: 遇到问题，当我们输入 mysql -u root -p 并输入密码后报错
-  - 报错: ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
-  - 分析: 出现 access denied 报错，有几种可能性
-    - 1. mysql停止服务了，没有启动 ------- systemctl restart mysqld 重启即可
-    - 2. root用户密码错误 --------------- (using password: YES) 表示密码错误
+###### 2.1 目录最佳实践
 
-2.
-链接数据库: mysql -u root -p
-退出数据库: quit;
-退出数据库(容器): exit
+```go 2.1 目录最佳实践
+src
+├── main
+│   └── java
+│       └── com.example.demo
+│           ├── controller
+│           ├── service
+│           ├── dao/repository
+│           ├── model/entity/dto
+│           ├── config
+│           └── utils
 
-3.
-查看所有数据库: show databases;
-使用数据库: use xxx;
-当前正在使用的数据库: select database();
-查看当前数据库中的表: show tables;
-创建数据库: create database xxx;
-删除数据库: drop database xxx;
 
-4.
-向mysql的某个数据库中导入 ( .sql ) 文件
-- source 数据库表的.sql文件路径
-- // source F:\workSpace\coldchain.sql
+1
+Entity:
+  - 和数据库一一对应
+DTO:
+  - 数据简化: DTO 可以包含比实体类更少的属性，只包含必要的字段，从而简化数据传输
+  - 数据聚合: DTO 可以包含来自多个实体类的数据，用于聚合不同来源的信息
+
+
+2
+DAO:
+  - DAO接口: interface UserDao
+  - DAO实现类: UserDaoImpl implements UserDao
+  - Class => implements => interface
+// DAO 接口
+// - interface
+public interface UserDao {
+  User findById(Long id);
+  List<User> findAll();
+  void save(User user);
+  void delete(Long id);
+}
+// DAO 实现类
+// - implements
+// - @Repository
+@Repository
+public class UserDaoImpl implements UserDao {
+  @Override
+  public User findById(Long id) {}
+  @Override
+  public List<User> findAll() {}
+  ...
+}
+
+
+3
+Repository:
+  - 继承接口: Repository 通常是一个继承自 CrudRepository 或 JpaRepository 等接口的接口
+  - 自动实现: Spring Data 会自动生成 Repository 接口中声明的方法实现，不需要编写具体的实现代码
+@Repository
+public interface UserRepository extends JpaRepository<User, Long> {
+  List<User> findByUsername(String username); // Spring Data 自动提供实现
+}
 ```
 
 ##### ------- ------- ------- ------- ------- ------- -------
@@ -242,7 +271,13 @@ test
 
 - [tutorial](https://cloud.tencent.com/developer/article/2433153)
 
-```
+```All Plugins
+1
+日志颜色: Grep Console
+- 安装 Grep Console 后
+- 在 左侧设置中菜单中找到 / 其他设置 / Grep Console
+- 同时在 运行面板左侧 有Grep-Console的图标，可以进行详细设置
+
 Java代码格式规范：CheckStyle
 自动生成序列图插件：SequenceDiagram
 快捷键提示工具：Key promoter X
@@ -298,12 +333,48 @@ sout System.out.println()
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (7) Docker / 部署 mysql
+##### (4) Mysql / 常用命令
+
+```
+1.
+重启mysql
+- systemctl restart mysqld
+- 扩展:
+  - 问题: 遇到问题，当我们输入 mysql -u root -p 并输入密码后报错
+  - 报错: ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+  - 分析: 出现 access denied 报错，有几种可能性
+    - 1. mysql停止服务了，没有启动 ------- systemctl restart mysqld 重启即可
+    - 2. root用户密码错误 --------------- (using password: YES) 表示密码错误
+
+2.
+链接数据库: mysql -u root -p
+退出数据库: quit;
+退出数据库(容器): exit
+
+3.
+查看所有数据库: show databases;
+使用数据库: use xxx;
+当前正在使用的数据库: select database();
+查看当前数据库中的表: show tables;
+创建数据库: create database xxx;
+删除数据库: drop database xxx;
+
+4.
+向mysql的某个数据库中导入 ( .sql ) 文件
+- source 数据库表的.sql文件路径
+- // source F:\workSpace\coldchain.sql
+```
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### (5) Docker / 部署 mysql
 
 - docker 安装 mysql 并访问 https://juejin.cn/post/6892390655126241287#heading-4
 - docker 部署 mysql https://juejin.cn/post/6844904099024994312#heading-27
 
-##### (8) Hot Update
+##### (5) Hot Update
 
 - [我的博客-热更新](https://juejin.cn/post/6929145638898794503#heading-18)
 

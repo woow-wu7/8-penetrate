@@ -152,7 +152,7 @@ $ brew services info redis ------- check the status
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (4) Usage / string list set zset hash
+##### (4) Redis Usage / string list set zset hash
 
 ```
 (一) 重要重要重要!!!
@@ -213,7 +213,7 @@ hset key fild value 为指定的key设定field/value对（键值对）
 hgetall key 获取key中的所有filed-vaule
 ```
 
-##### (5) SpringBoot uses Redis
+##### (5) Redis / SpringBoot uses Redis
 
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
 
