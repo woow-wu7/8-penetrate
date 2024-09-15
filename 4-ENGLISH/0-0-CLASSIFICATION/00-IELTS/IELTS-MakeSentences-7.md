@@ -819,7 +819,7 @@ We should learn to 【 get along peacefully with 】 others.
 // 【 get along peacefully with sb. 与某人和平相处 】
 ```
 
-##### 14 Make sentences 2024-09-15
+##### 14 Make sentences 2024-09-16
 
 ```
 1
@@ -896,4 +896,50 @@ The 【 lottery ticket 】 for 【 this period 】 is 【 in the process of 】 
 // 【 waste 垃圾 n / 浪费 v 】
 // 【 recyclable waste. 可回收垃圾 】
 // 【 residual waste. 干垃圾 】
+
+
+5
+This 【 statue 】 【 symbolize 】 the 【 freedom 】.
+这个雕像象征着自由
+-
+This 【 statue 】 has a high 【 historical status 】 .
+这个雕像有很高的历史地位
+-
+The 【 free 】 person 【 desires 】 【 freedom 】.
+自由的人渴望自由
+-
+// -
+// 【 statue 雕像 n 】
+// 【 status 身份 状态 地位 n 】
+// -
+// 【 social status. 社会地位 】
+// 【 historical status. 历史地位 n 】
+// -
+// 【 symbolize 象征 v 】
+// 【 symbol 象征 符号 n 】
+// -
+// 【 freedom 自由 n 】
+// 【 free 自由的adj / 自由地adv 】
+// -
+// 【 desire 渴望 愿望 v n 】
+
+
+6
+【 Free trial 】 means that all the goods can 【 be taken away 】 【 for free 】.
+免费试用意味着所有善品都可以免费带走
+// -
+// 【 free trial. 免费试用 n 】
+// 【 for free. 免费 adv 】
+// -
+// 【 be taken away. 带走 v 】
+
+7
+Both the 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】.
+冰柜和冰箱都结冰了
+// -
+// 【 freezer. 冰柜 n 】
+// 【 refrigerator. 冰箱 n 】
+// -
+// 【 freeze 结冰v 】
+// 【 frozen. 结冰的adj / v_past_tense 】
 ```

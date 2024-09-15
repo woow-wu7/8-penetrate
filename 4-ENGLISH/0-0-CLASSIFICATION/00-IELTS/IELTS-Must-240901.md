@@ -18,8 +18,9 @@
 -
 - > 【 common ingredient. 常见成分 n 】
 - > 【 common phenomenon. 常见现象 n 】
-- > 【 common usage. 常用用法 n 】
-- > 【 common sense. 常识 n 】
+- > 【 common usage. 常用用法 n 】 // --------------------- 【 usage 用法 使用 n 】
+- > 【 common sense. 常识 n 】 // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'usage'. [usage-使用/用法-n]
 -
 - [AA.]
 - `【 material 材料 n 】` // raw material. // building material.
@@ -54,12 +55,14 @@
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
-- > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】
+- > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】 【 family contradiction. 】
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
 - _【 contradict 矛盾 反驳 v 】_
 - _【 contradiction 矛盾 反驳 n 】_ // ------------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
-- _【 internal contradiction. 内部矛盾 n 】_
 - _【 internal structure. 内部结构 n 】_
+- _【 internal contradiction. 内部矛盾 n 】_
+- _【 social contradiction. 社会矛盾 n 】_
+- _【 family contradiction. 家庭矛盾 n 】_
 -
 - `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
 - `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】
@@ -194,6 +197,7 @@
 - [DD.]
 - `【 pull over. 靠边停车 】`
 - `【 knock over. 撞倒 v 】`
+- `【 pedestrian 行人 n 】`
 - **【 Please 【 slow down 】 and【 pull over 】to the side, don't 【 knock over 】 the 【 pedestrian 】. 请靠边停车，别撞到行人 】**
 - // -- 【 pedestrian. 行人 n 】
 
@@ -287,20 +291,29 @@
 ###### Must 2024-09-15
 
 - 1
+- `【 social 社会的 社交的 adj 】`
 - `【 social phenomenon. 社会现象 n 】` // -------- 【 common phenomenon. 常见现象 n 】 【 rare phenomenon. 罕见现象 n 】 【 natural phenomenon. 自然现象 n 】
-- `【 social contradiction. 社会矛盾 n 】` // ----- 【 family contradiction. 家庭矛盾 n 】
+- `【 social contradiction. 社会矛盾 n 】` // ----- 【 family contradiction. 家庭矛盾 n 】 【 internal contradiction. 内部矛盾 n 】
 - `【 social welfare. 社会福利 n 】` // ----------- 【 welfare state. 福利国家 n 】
-- `【 social status. 社会地位 n 】` // ------------ 【 status / state / statue 】
-- > 【 social phenomenon. 社会现象 】
+- `【 social status. 社会地位 n 】` // ------------ 【 historical status. 历史地位 n 】 【 social statue. 社会地位 n 】 【 status / state / statue 】
+- > 1. 【 phenomenon. 现象 n 】
+- > 【 natural phenomenon. 自然现象 】
 - > 【 common phenomenon. 普遍现象 】
 - > 【 rare phenomenon. 罕见现象 】
-- > 【 natural phenomenon. 自然现象 】
+- > 【 social phenomenon. 社会现象 】
+- 2.  _【 contradiction 矛盾 n 】_
+- _【 social contradiction. 社会矛盾 n 】_
+- _【 family contradiction. 家庭矛盾 n 】_
+- _【 internal contradiction. 内部矛盾 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'contradiction'. [contradiction-矛盾]
 -
-- `【 status 身份 状态 地位 n 】` // --------------- 【 social status. 】 【 social welfare. 】 【 social phenomenon. 】 【 social contradiction. 社会矛盾 】
-- `【 state 状态 国家 n 】` // -------------------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
-- `【 statue 雕像 n 】` // ----------------------- 【 statue of liberty. 自由女神像 】 【 bronze statue. 铜像 n 】
+- `【 statue 雕像 n 】` // ----------------------- 【 bronze statue. 铜像 n 】 【 statue of liberty. 自由女神像 】
+- `【 status 身份 状态 地位 n 】` // -------------- 【 social status. 社会地位 n 】 【 historical status. 历史地位 n 】
+- `【 state 状态 国家 n 】` // ------------------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
 - > 【 bronze statue. 铜像 n 】
+- > 【 statue of liberty. 自由女神像 n 】 // ------ 【 liberty 自由 n 】 【 freedom 自由 n 】
+- _【 social status. 社会地位 n 】_
+- _【 historical status. 历史地位 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'statue'. [statue-雕像]
 -
 -
@@ -318,3 +331,59 @@
 - `【 rare phenomenon. 罕见现象 n 】`
 - `【 social phenomenon. 社会现象 n 】`
 - **【 This 【 natural phenomenon 】 isn't a 【 common phenomenon 】 but a 【 rare phenomenon 】. 这种自然现象不是一种常见现象是一种罕见现象 】**
+-
+- [CC.]
+- `【 symbol 象征 符号 n 】`
+- `【 symbolize 象征 v 】`
+- `【 statue 雕像 n 】`
+- `【 freedom = liberty. 自由 n 】`
+- **【 This 【 statue 】 【 symbolizes 】 【 freedom 】. 这个雕像象征着自由 】**
+- // -- 【 symbolize 象征 v 】
+- // -- 【 symbol 象征 符号 n 】
+- // -- free 自由的 adj / 自由地 adv
+- // -- freedom 自由 n
+
+###### Must 2024-09-16
+
+- 1
+- `【 free 自由的adj / 自由地adv 】` // ------------ 【 free will. 自由意志 n 】 【 free fall. 自由落体 n 】 【 free trial. 免费使用 】
+- `【 freedom 自由 n 】` // -----------------------【 freedom of speech. 言论自由 n 】
+- > 【 free will. 自由意志 n 】
+- > 【 free fall. 自由落体 n 】
+- > 【 free trial. 免费试用 】 // ------------------ 【 trial 试用 实验 n v 】 // 【 trial / rail 】
+- > 【 free time. 空闲时间 】
+- _【 for free. 免费地 adv 】_
+- _【 free trial. 免费试用 】_
+- _【 freedom of speech. 言论自由 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'trial'. [trial-试用/试验-vn]
+-
+- `【 freeze 结冰 冻结 v n 】` // ------------------ 【 frozen 冻结的 adj / 动词时是 freeze 的过去式 】
+- `【 freezer 冰柜 冷冻柜 n 】`
+- > 【 freezer 冰柜 冷冻柜 n 】
+- > 【 refrigerator 冰箱 】` // fridge 也是冰箱的意思
+-
+- `【 freelancer 自由职业者 n 】`
+- `【 freeway = highway. 高速公路 n 】`
+- > 【 high speed rail. 高铁 n 】
+- > 【 high way. = freeway. 高速公路 n 】
+-
+- [AA.]
+- `【 free 自由的adj 自由地adv 】`
+- `【 freedom 自由 n 】`
+- `【 desire 渴望 愿望 v n 】`
+- **【 The 【 free 】 person 【 desires 】 【 freedom 】. 自由的人渴望自由 】**
+-
+- [BB.]
+- `【 free trial. 免费试用 n 】`
+- `【 for free. 自由地 adv 】`
+- `【 be taken away. 被带走 】`
+- **【 【 Free trial 】 means that all the goods can 【 be taken away 】 【 for free 】. 免费试用意味着所有善品都可以免费带走 】**
+-
+- [CC.]
+- `【 freezer 冰柜 n 】`
+- `【 refrigerator 冰箱 n 】`
+- `【 frozen 结冰的adj / v过去式 】` // freeze 结冰 v
+- **【 Both The 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】. 冰柜和冰箱都结冰了 】**
+-
+- 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
