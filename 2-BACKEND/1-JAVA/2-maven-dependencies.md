@@ -1,9 +1,12 @@
 ##### Mavens Dependencies
 
-##### (1) Swagger / specification 3 / swagger3 / oOpenAPI 3
+##### (1) Swagger3 / specification 3 / swagger3 / oOpenAPI 3
 
 - [swapper-official-website](https://swagger.io/docs/specification/about/)
 - [各注解说明地址](https://editor.swagger.io/?_gl=1*1zyvee*_gcl_au*NjM3NDU4MDczLjE3MjU2ODMwNDE.)
+- [本项目关于 Swagger3 注解例子](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
+
+##### 1.1 Swagger3 / install and configuration
 
 ```java swagger install and configuration 123
 1
@@ -33,45 +36,48 @@ access address
 // http://localhost:xxxx/swagger-ui/index.html
 ```
 
+##### 1.2 Swagger3 / annotations
+
+- [AllAnnotate-所有注解](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
+
 ```java some annotations 4
-4
 一些注解
 
-// 1
-// @RequestMapping 可以映射任何 HTTP 方法（GET、POST、PUT、DELETE 等）。
-// @GetMapping 专门用于映射 HTTP GET 请求。
+1
+swagger3 annotation
+- @Tag(mame, description)
+- @Operation(summary, description)
+-
+- @ApiResponses(value)
+- @ApiResponse(responseCode, description) @Content @Schema @ArraySchema
+-
+- @Parameter
+- @RequestBody 这个注解在 SpringBoot 中也存存，用来说明 post 请求的body 参数
 
-// 2
-// parameters
-// - path parameters
-// - query parameters
-// - request header parameters
+2
+@RequestMapping 可以映射任何 HTTP 方法（GET、POST、PUT、DELETE 等）
+@GetMapping 专门用于映射 HTTP GET 请求。
 
-// 3
-/**
- * @Controller 可以返回html页面
- * @RestController 不能返回html页面，返回的内容就是return的内容
- * 1. @RestController = @Controller + @ResponseBody
- * 2. 如果一个controller，一些页面要返回html，一些又要返回return的内容，就需要用 @Controller注解controller返回html，然后在要返回的return的方法上加上@ResponseBody来返回return后面的内容
- */
+3
+parameters
+- path parameters ------------------- @PathVariable
+- query parameters  ----------------- @RequestParam
+- request header parameters --------- @RequestHeader
 
-// 4
-// swagger3 annotation
-// - @Tag(mame, description)
-// - @Operation(summary, description)
-// -
-// - @ApiResponses(value)
-// - @ApiResponse(responseCode, description) // @Content @Schema @ArraySchema
-// -
-// - @Parameter
-// - @RequestBody 这个注解在 SpringBoot 中也存存，用来说明 post 请求的body 参数
+4
+@Controller 可以返回html页面
+@RestController 不能返回html页面，返回的内容就是return的内容
+1. @RestController = @Controller + @ResponseBody
+2. 如果一个controller，一些页面要返回html，一些又要返回return的内容，就需要用 @Controller注解controller返回html，然后在要返回的return的方法上加上@ResponseBody来返回return后面的内容
 
-// 5
-// Spring boot
-// - @RequestBody
-// - @PathVariable
 
+5
+Spring boot
+- @RequestBody
+- @PathVariable
 ```
+
+##### 1.2 Swagger3 / examples
 
 ```java swagger3 examples 5
 5
@@ -178,6 +184,10 @@ public class UserController {
 }
 ```
 
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### (2) Jackson / common annotations / install
 
 - [Official website instruction documents.](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-controller/ann-methods/jackson.html)
@@ -253,9 +263,18 @@ Jackson
 - [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/6-TOOLS/4-REDIS/redis.md)
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
 
-##### (3) JPA / Mysql
+##### ------- ------- ------- ------- ------- ------- -------
 
-```
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### (4) JPA / Mysql
+
+##### 4.1 JPA / JPA 业务的标准流程 / ControllerInterface -> ControllerClass -> ServiceInterface -> ServiceClass -> RepositoryInterface
+
+- [业务整体流程] `【 ControllerInterface -> ControllerClass -> ServiceInterface -> ServiceClass -> RepositoryInterface 】`
+- [JPA 常见注解](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
+
+```java / JPA 业务的标准流程
 1
 maven
 <!-- 8 -->
@@ -283,7 +302,7 @@ maven
 
 
 2
-在 application.yml 中配置如下
+配置: 在 application.yml 中配置如下
 spring:
   datasource:
     # 1. 只要装了 ( mysql驱动 ) 和 ( jdbc数据库连接池 )，并且在这里配置好 ( 数据库连接池相关的配置项 ) 就能连接数据库
@@ -307,27 +326,11 @@ spring:
 
 ```
 
-```JPA 常见注解
-JPA
+##### ------- ------- ------- ------- ------- ------- -------
 
-1. @Entity
-2. @Table("music")
+##### ------- ------- ------- ------- ------- ------- -------
 
-3. @Id
-3. @GeneratedValue(strategy = GenerationType.IDENTITY)
-
-4. @Column(name = "name", nullable = false, unique = true, length = 512)
-// name: The 'name' represents the field that is mapped to the database.
-// nullable: The 'nullable=false' means that the 'name' is not null.
-// unique: The 'unique=true' field means this field is unique in the database.
-// length: The 'length=512' field means the max length of this field is 512.
-TIPS: the 'music_name' field correspond to the 'name' field in the database.
--- map: 地图n 映射v
--- correspond: 对应 相当于 类似于
--- 【 correspond to. 和...相对应 】
-```
-
-##### (3) Mybatis / Mysql JDBC
+##### (5) Mybatis / Mysql JDBC
 
 - [tutorial](https://juejin.cn/post/6929145638898794503#heading-22)
 
@@ -377,7 +380,7 @@ spring:
     password: rootroot
 ```
 
-##### (4) SpringBoot starter test / 单元测试 Unit Test
+##### (6) SpringBoot starter test / 单元测试 Unit Test
 
 - Check the 'lightning' icon, and the test cases will not be executed.
 

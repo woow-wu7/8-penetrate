@@ -1,5 +1,13 @@
 ##### Java
 
+- [2-maven-dependencies-所有注解和知识点-点这里](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- Swagger3
+- Jackson
+- Redis
+- JPA
+- Mybatis
+- SpringBootStartTest
+
 ##### (1) Java / Download and Install
 
 - [java-11](https://www.oracle.com/java/technologies/downloads/#java11-mac) // 滚动到最底部
@@ -481,6 +489,10 @@ src
 │           ├── model/entity/dto
 │           ├── config
 │           └── utils
+│           └── jpa
+│               └── entity
+│               └── repository
+
 
 
 1
@@ -529,6 +541,17 @@ Repository:
 public interface UserRepository extends JpaRepository<User, Long> {
   List<User> findByUsername(String username); // Spring Data 自动提供实现
 }
+
+
+4
+PO（Persistent Object，持久化对象）--------------- 与数据库中的表结构相对应的对象，通常包含与数据库表字段对应的属性，以及用于数据库操作的方法，如保存、更新、删除等
+VO（Value Object，值对象）------------------------ 在不同的系统层之间传递数据，在表示层（如网页、客户端界面）展示数
+BO（Business Object，业务对象）-------------------- 将复杂的业务逻辑封装在 BO 中，使业务逻辑与其他层（如表示层、数据访问层）分离
+-
+DAO（Data Access Object，数据访问对象）------------- repository
+DTO（Data Transfer Object，数据传输对象）
+-
+POJO（Plain Old Java Object，简单传统的 Java 对象）-- 可以在不同的项目和环境中复用，提高代码的可重用性
 ```
 
 ##### 2.2 SpringBoot / Maven Dependencies / 用到的 Maven 各种依赖
@@ -623,10 +646,17 @@ Option + Enter
 - 显示意向动作和快速修复代码
 
 2
+Command + Option + B 跳转到实现
+Command + Option + L 代码格式化
+
+3
+Control + Option + O 优化 import
+
+4
 Command + E
 - 显示最近访问过的文件
 
-3
+5
 Command 1 ～ 0
 - 各种工具栏工具
 
