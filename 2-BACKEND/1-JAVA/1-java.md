@@ -615,10 +615,21 @@ K8s工具：Kubernetes
 新建时，在 spring boot 面板上的 【 Server URL 】换成阿里云的地址 【 https://start.aliyun.com 】
 ```
 
-##### (3) IDEA / Shortcut Keys
+##### (3) IDEA / 【 Shortcut Keys 】
 
 ```
-Option + Enter 显示意向动作和快速修复代码
+1
+Option + Enter
+- 显示意向动作和快速修复代码
+
+2
+Command + E
+- 显示最近访问过的文件
+
+3
+Command 1 ～ 0
+- 各种工具栏工具
+
 
 Command + [ 上一步
 Command + ] 下一步

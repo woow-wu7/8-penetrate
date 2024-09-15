@@ -307,6 +307,26 @@ spring:
 
 ```
 
+```JPA 常见注解
+JPA
+
+1. @Entity
+2. @Table("music")
+
+3. @Id
+3. @GeneratedValue(strategy = GenerationType.IDENTITY)
+
+4. @Column(name = "name", nullable = false, unique = true, length = 512)
+// name: The 'name' represents the field that is mapped to the database.
+// nullable: The 'nullable=false' means that the 'name' is not null.
+// unique: The 'unique=true' field means this field is unique in the database.
+// length: The 'length=512' field means the max length of this field is 512.
+TIPS: the 'music_name' field correspond to the 'name' field in the database.
+-- map: 地图n 映射v
+-- correspond: 对应 相当于 类似于
+-- 【 correspond to. 和...相对应 】
+```
+
 ##### (3) Mybatis / Mysql JDBC
 
 - [tutorial](https://juejin.cn/post/6929145638898794503#heading-22)
