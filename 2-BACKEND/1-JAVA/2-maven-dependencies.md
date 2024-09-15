@@ -248,12 +248,12 @@ Jackson
 - @JsonIgnore // Do not return this field
 ```
 
-##### (4) Redis / spring-boot-starter-data-redis
+##### (3) Redis / spring-boot-starter-data-redis
 
 - [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/6-TOOLS/4-REDIS/redis.md)
 - [implement a little function](https://juejin.cn/post/6933224825200574478#heading-26)
 
-##### (4) JPA / Mysql
+##### (3) JPA / Mysql
 
 ```
 1
@@ -307,7 +307,7 @@ spring:
 
 ```
 
-##### (4) Mybatis / Mysql JDBC
+##### (3) Mybatis / Mysql JDBC
 
 - [tutorial](https://juejin.cn/post/6929145638898794503#heading-22)
 
@@ -357,7 +357,7 @@ spring:
     password: rootroot
 ```
 
-##### (5) SpringBoot starter test / 单元测试 Unit Test
+##### (4) SpringBoot starter test / 单元测试 Unit Test
 
 - Check the 'lightning' icon, and the test cases will not be executed.
 

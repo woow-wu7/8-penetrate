@@ -158,9 +158,9 @@ test
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (2) SpringBoot / 目录最佳实践
+##### (2) SpringBoot / 目录最佳实践 / 用到的 Maven 各种依赖
 
-###### 2.1 目录最佳实践
+##### 2.1 目录最佳实践
 
 ```go 2.1 目录最佳实践
 src
@@ -218,6 +218,10 @@ public interface UserRepository extends JpaRepository<User, Long> {
   List<User> findByUsername(String username); // Spring Data 自动提供实现
 }
 ```
+
+##### 2.2 Maven Dependencies / 用到的 Maven 各种依赖
+
+- [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
