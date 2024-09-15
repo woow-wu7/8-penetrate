@@ -487,12 +487,14 @@ src
 Entity:
   - 和数据库一一对应
 DTO:
+  - [Data Transfer Object. 数据传输对象]
   - 数据简化: DTO 可以包含比实体类更少的属性，只包含必要的字段，从而简化数据传输
   - 数据聚合: DTO 可以包含来自多个实体类的数据，用于聚合不同来源的信息
 
 
 2
 DAO:
+  - [Data Access Object. 数据访问对象]
   - DAO接口: interface UserDao
   - DAO实现类: UserDaoImpl implements UserDao
   - Class => implements => interface
@@ -518,6 +520,8 @@ public class UserDaoImpl implements UserDao {
 
 
 3
+// Repository
+// - extends
 Repository:
   - 继承接口: Repository 通常是一个继承自 CrudRepository 或 JpaRepository 等接口的接口
   - 自动实现: Spring Data 会自动生成 Repository 接口中声明的方法实现，不需要编写具体的实现代码
