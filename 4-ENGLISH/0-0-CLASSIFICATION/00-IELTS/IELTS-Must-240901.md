@@ -204,14 +204,19 @@
 ###### Must 2024-09-13
 
 - 1
-- `【 welfare 福利n 福利的adj 】` // ----------- 【 social welfare. 社会福利 n 】 【 welfare state. 福利国家 】 // -- 【 fare 票价 / fee 费用 】
+- `【 welfare 福利n 福利的adj 】` // ------ 【 social welfare. 社会福利 n 】 【 welfare state. 福利国家 】 【 state secret. 国家机密 】 // -- 【 fare 票价 / fee 费用 】
 - `【 benefit 福利 利益 n 】`
-- `【 allowance 津贴 补助 n 】` // ------------- 【 travel allowance. 差旅津贴 n 】
+- `【 allowance 津贴 补助 n 】` // -------- 【 travel allowance. 差旅津贴 n 】
 - > 【 social welfare. 社会福利 n 】
 - > 【 welfare state. 福利国家 n 】
 - > 【 high welfare state. 高福利国家 n 】
 - _【 fare 票价 n 】_
 - _【 fee 费用 n 】_
+- > 【 state 状态 n / 国家 n / 陈述 v 】
+- > 【 good state. 良好的状态 n 】
+- > 【 welfare state. 福利国家 n 】
+- > 【 state secret. 国家机密 n 】
+- > 【 state-owned assets. 国有资产 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'allow'. [allow-允许]
 - // TIPS: Pay attention to the pronunciation of the word 'allowance'. [allowance-津贴]
 -
@@ -309,7 +314,12 @@
 -
 - `【 statue 雕像 n 】` // ----------------------- 【 bronze statue. 铜像 n 】 【 statue of liberty. 自由女神像 】
 - `【 status 身份 状态 地位 n 】` // -------------- 【 social status. 社会地位 n 】 【 historical status. 历史地位 n 】
-- `【 state 状态 国家 n 】` // ------------------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
+- `【 state 状态 国家 n / 陈述v 】` // ------------ 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
+- _【 state 状态 n / 国家 n / 陈述 v 】_
+- _【 good state. 良好的状态 n 】_
+- _【 welfare state. 福利国家 n 】_
+- _【 state secret. 国家机密 n 】_
+- _【 state-owned assets. 国有资产 n 】_
 - > 【 bronze statue. 铜像 n 】
 - > 【 statue of liberty. 自由女神像 n 】 // ------ 【 liberty 自由 n 】 【 freedom 自由 n 】
 - _【 social status. 社会地位 n 】_
@@ -342,6 +352,12 @@
 - // -- 【 symbol 象征 符号 n 】
 - // -- free 自由的 adj / 自由地 adv
 - // -- freedom 自由 n
+-
+- [DD.]
+- `【 state 状态n 国家n 陈述v 】`
+- `【 state secret. 国家机密 n 】`
+- `【 welfare state. 福利国家 n 】`
+- **【 Please 【 state 】 the 【 state secrets 】 of the 【 welfare state 】 【 in detail. 】 请你详细陈述一下福利国家的国家机密 】**
 
 ###### Must 2024-09-16
 
@@ -387,3 +403,34 @@
 -
 - 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
+
+###### Must 2024-09-17
+
+- 1
+- `【 county 县 n 】`
+- `【 country 国家n / 国家的 adj 】` // ------------- 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】
+- `【 countryside 乡村 农村 n 】`
+- > 【 developed country. 发达国家 n 】
+- > 【 developing country. 发展中国家 n 】
+-
+- `【 count 计数 v 】`
+- `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
+- `【 counter 计数器 柜台 n 】` // ------------------ 【 service counter. 服务台 n 】 【 bank counter. 银行柜台 n 】
+- `【 encounter 遭遇 v n 】`
+-
+- `【 account 账号 n 】`
+- `【 accountant 会计 n 】`
+-
+- `【 nation 国家 名族 n 】` // --------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
+- `【 nationality 国籍 民族 n 】` // ---------------- 【 dual nationality. 双重国籍 】
+- `【 national 国家的 民族的 adj 】`
+- > 【 destination 目的地 】
+- > 【 examination 考试 检查 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'nation'. [nation-国家/名族]
+- // TIPS: Pay attention to the pronunciation of the word 'nationality'. [nationality-国籍]
+-
+- `nationality 国籍`
+- `dual 双重的` // dual nationality. 双重国籍
+- `identity 身份 相同` // dual identity. 双重身份
+- `at the reception desk. 在接待处`
+- `at the reception counter. 在接待处`

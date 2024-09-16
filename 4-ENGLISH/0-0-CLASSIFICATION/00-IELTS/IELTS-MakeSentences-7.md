@@ -819,7 +819,7 @@ We should learn to 【 get along peacefully with 】 others.
 // 【 get along peacefully with sb. 与某人和平相处 】
 ```
 
-##### 14 Make sentences 2024-09-16
+##### 12 Make sentences 2024-09-16
 
 ```
 1
@@ -942,4 +942,15 @@ Both the 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】.
 // -
 // 【 freeze 结冰v 】
 // 【 frozen. 结冰的adj / v_past_tense 】
+```
+
+##### 13 Make sentences 2024-09-17
+
+```
+1
+请你详细陈述一下福利国家的国家机密
+
+
+2
+我的入职日期是明天，我害怕错过时间
 ```

@@ -29,8 +29,12 @@
 - JpaRepository.count()
 - JpaRepository.countAll()
 - repository.existsById(1L); // --------------------------- check whether is exist.
+- // 同时也支持自定义查询，比如模糊查询
+- // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
+- // @Query("SELECT m FROM MusicJpaEntity m WHERE " + "m.name LIKE %:keyword% OR " + "m.singer LIKE %:keyword% OR " + "m.album LIKE %:keyword%")
+- // List<MusicJpaEntity> searchByKeyword(@Param("keyword") String keyword);
 
-##### (1) SpringBoot
+##### (1) SpringBoot Annotation.
 
 ##### 1.1 @RequestMapping
 
@@ -263,6 +267,34 @@ public class MusicJpaServiceImpl implements MusicJpaService {
 }
 ```
 
+##### 2.4 JPA / 模糊查询 fuzzy query
+
+```java / JPA 模糊查询 fuzzy query
+package com.example.backreviewjava.jpa.repository;
+
+import com.example.backreviewjava.jpa.entity.MusicJpaEntity;
+import org.springframework.data.repository.query.Param;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+
+@Repository
+public interface MusicJpaRepository extends JpaRepository<MusicJpaEntity, Integer> {
+
+    // 自定义 JPQL 查询，对 name, singer 和 album 进行模糊查询
+    // -- 第一个 m 是别名代表的实体
+    // -- 第二个 m 是给 MusicJpaEntity 去了一个别名
+    @Query("SELECT m FROM MusicJpaEntity m WHERE " +
+            "m.name LIKE %:keyword% OR " +
+            "m.singer LIKE %:keyword% OR " +
+            "m.album LIKE %:keyword%")
+    List<MusicJpaEntity> searchByKeyword(@Param("keyword") String keyword);
+}
+```
+
 ##### ------- ------- ------- ------- ------- ------- -------
 
 ##### ------- ------- ------- ------- ------- ------- -------
@@ -340,4 +372,32 @@ public interface MusicJpaApi {
     @RequestMapping(value = "/music/{id}", method = RequestMethod.DELETE)
     public void deleteMusic(@PathVariable Integer id);
 }
+```
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### (4) SpringBoot knowledge
+
+##### 4.1 Static Resource / SpringBoot knowledge
+
+```
+Position: application.yml
+-
+
+spring:
+  # 2.3
+  # static resource
+  # 2.3.1
+  # spring.web.resources.static-locations: classpath:/static/;
+  # -- this indicates the location of the static resources.
+  # 2.3.2
+  # spring.mvc.static-path-pattern: /resources/**
+  # -- this indicates the request path to access the static resource.
+  web:
+    resources:
+      static-locations: classpath:/custom-static/,classpath:/public/,classpath:/resources/,classpath:/static/
+  mvc:
+    static-path-pattern: "/resources/**"
 ```
