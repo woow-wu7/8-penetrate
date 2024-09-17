@@ -64,12 +64,13 @@
 - _【 social contradiction. 社会矛盾 n 】_
 - _【 family contradiction. 家庭矛盾 n 】_
 -
-- `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 】 【 steady relationship. 稳定的关系 】
+- `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 = steady relationship. 】 // 【 physical relationship. 肉体关系 】
 - `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - > 【 stable relationship. 稳定的关系 n 】
 - > 【 steady relationship. 稳定的关系 n 】
+- > 【 physical relationship. 肉体关系 n 】
 - > 【 a sense of ownership. 主人翁意识 n 】
 -
 - `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
@@ -457,6 +458,7 @@
 - `【 dual 双的 双重的 adj 】`
 - `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
 - `【 dual identities. 双重身份 n 】` // ------------ 【 identity 身份 / identify 识别 】
+- > 【 dual purpose. 双重目的 】
 -
 - [AA.]
 - `【 account 账户 n 】`

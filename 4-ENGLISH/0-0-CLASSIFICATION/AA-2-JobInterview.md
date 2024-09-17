@@ -1168,6 +1168,7 @@
 - 24
 - `as well as. 也 既...又...  以及`
 - **【 Computers require 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件 】**
+- **【 He good at math 【 as well as 】 science.】**
 - **【 He is a mathematician 【 as well as 】 a scientist. 】**
 - `as long as. 只要 一样长`
 - **【 I will go with you 【 as long as 】 it doesn't rain. 】**

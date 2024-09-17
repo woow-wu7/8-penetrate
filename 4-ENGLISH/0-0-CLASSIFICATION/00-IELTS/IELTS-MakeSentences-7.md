@@ -948,29 +948,109 @@ Both the 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】.
 
 ```
 1
+Please 【 state 】 the 【 state secret 】 of the 【 welfare state 】 【 in detail 】.
 请你详细陈述一下福利国家的国家机密
+// -
+// 【 state 状态n 国家n 陈述v 】
+// 【 state secret. 国家机密 n 】
+// 【 welfare state. 福利国家 n 】
+// -
+// 【 in detail. 详细地 adv 】
+// 【 overlook detail. 忽略细节 】
+// 【 detailed plan. 详细计划 n 】
+// 【 detailed report. 详细报告 n 】
 
 
 2
+My 【 start date 】 is tomorrow, I 【 am afraid of missing 】 the time.
 我的入职日期是明天，我害怕错过时间
+// -
+// 【 start date. 入职日期 开始日期 n 】
+// 【 be afraid of doing. 害怕做某事 】
 
 
 3
+The 【 account 】 of the 【 accountant 】 has 【 encountered 】 an 【 attack 】.
 这个会计的账号遭遇了攻击
+// -
+// 【 account 账户 n 】
+// 【 accountant. 会计 n 】
+// -
+// 【 encounter 遭遇 v 】
+// 【 counter 计算器 柜台 n 】// 【 bank counter. 银行柜台 n 】
+// 【 count 计数 n 】
+// 【 discount 打折 v n 】
 
 
 4
+Every 【 country 】 has its own 【 national flag 】 and 【 national anthem 】.
 每个国家都有自己的国旗和国歌
 -
+He has 【 dual nationality 】 and 【 dual identities 】.
 他有双重国籍和双重身份
 -
+This 【 country 】 has many 【 provinces 】, cities, 【 districts 】 and 【 counties 】.
 这个国家有很多省，市，区，县
+-
+// -
+// 【 nation 国家 民族 n 】
+// 【 national 国家的 名族的 adj 】
+// 【 nationality 国籍 n 】
+// -
+// 【 national flag. 国旗 n 】
+// 【 national anthem. 国歌 n 】
+// -
+// 【 foreign nationality. 外国国籍 n 】
+// 【 dual nationality. 双重国籍 】
+// 【 dual identities. 双重身份 】 // 【 identity / identity 】 // 【 identity card. 身份证 】
+// -
+// 【 country 国家 n 】
+// 【 county 县 n 】
+// 【 district 区 区域 地区 n 】
 
 
 5
+The 【 free 】 person desires 【 freedom 】.
 自由的人渴望自由
+// -
+// 【 free 自由的 adj adv 】
+// 【 freedom 自由 n 】
+// -
+// 【 desire freedom. 渴望自由 】
+// -
+// 【 free will. 自由意志 n 】
+// 【 free fall. 自由落体 n 】
+// 【 free trial. 免费试用 】 // --------【 trial 测试 试验 v n 】  【 trial / rail 】
+// 【 free time. 空闲时间 n 】 // -------【 in my free time. 在我空闲的时间 】
 
 
 6
+Both 【 freezer 】 and 【 refrigerator 】 are 【 frozen 】.
 冰柜和冰箱都结冰了
+// -
+// 【 freeze 结冰 冻结 v 】
+// 【 freezer 冰柜 n 】
+// -
+// 【 freeze -> frozen 过去分词 】
+
+
+7
+【 Ordinary 】 people 【 live 】 ordinary 【 lives 】.
+普通的人过着普通的生活
+// 【 ordinary 普通的 adj 】
+
+
+8
+He is good at 【 math 】 【 as well as 】 【 science 】.
+他擅长数学和科学
+-
+【 As long as 】 you 【 work hard 】, you will 【 succeed 】.
+只要你努力，就会成功
+-
+// -
+// 【 as well as. 也 以及 】
+// 【 as long as. 只要 】
+// -
+// 【 math 数学 n 】
+// 【 science 科学 n 】
 ```

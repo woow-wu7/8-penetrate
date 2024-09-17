@@ -42,3 +42,15 @@
 - // -- 【 overlook 忽略 v 】
 - // -- 【 overlook detail. 忽略细节 】
 - // TIPS: Pay attention to the pronunciation of the word 'detail'. [detail-详情-细节]
+
+##### IELTS Work 2024-01-18
+
+- 1
+- `【 carbon 碳n 副本n 】`
+- `【 carbon copy. 抄送 】`
+- `【 blind carbon copy. 秘送 】`
+- > 【 carbon dioxide. 二氧化碳 】------- CO2
+- > 【 oxygen 氧气 】------------------- O
+- > 【 hydrogen 氢气 】----------------- H // hy dro gen
+- > 【 nitrogen 氮气 】----------------- N // ni tro gen
+- **【 When you send an email, please 【 carbon copy 】 and 【 blind carbon copy 】 me. 发邮件时请你抄送和秘送我 】**
