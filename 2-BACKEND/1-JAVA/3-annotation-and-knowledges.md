@@ -33,6 +33,14 @@
 - // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
 - // @Query("SELECT m FROM MusicJpaEntity m WHERE " + "m.name LIKE %:keyword% OR " + "m.singer LIKE %:keyword% OR " + "m.album LIKE %:keyword%")
 - // List<MusicJpaEntity> searchByKeyword(@Param("keyword") String keyword);
+-
+- 4. Interceptor 拦截器
+- HandlerInterceptor // ----------------------- 1. 创建拦截器类，自定义拦截规则 ( @Component ) ( public class RequestInterceptor implements HandlerInterceptor )
+  - preHandle // ------------------------------ 在目标方法执行前执行，即 controller 方法执行前执行
+  - postHandle // ----------------------------- 在目标方法执行完成后执行
+  - afterCompletion // ------------------------ 在页面渲染后执行
+- WebMvcConfigurer // ------------------------- 2. 注册拦截器 ( @Configuration ) ( public class WebConfig implements WebMvcConfigurer )
+- // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
 
 ##### (1) SpringBoot Annotation.
 
@@ -380,9 +388,87 @@ public interface MusicJpaApi {
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (4) 【【 SpringBoot knowledge 】】
+##### (4) 【【 SpringBoot All knowledge 】】 [SpringBoot-All-Knowledge]
 
-##### 4.1 Access Static Resource / SpringBoot knowledge
+##### 4.1 目录最佳实践 / SpringBoot 目录最佳实践
+
+```go 目录最佳实践
+src
+├── main
+│   └── java
+│       └── com.example.demo
+│           ├── controller
+│           ├── service
+│           ├── dao/repository
+│           ├── model/entity/dto
+│           ├── config
+│           └── utils
+│           └── jpa
+│               └── entity
+│               └── repository
+
+
+
+1
+Entity:
+  - 和数据库一一对应
+DTO:
+  - [Data Transfer Object. 数据传输对象]
+  - 数据简化: DTO 可以包含比实体类更少的属性，只包含必要的字段，从而简化数据传输
+  - 数据聚合: DTO 可以包含来自多个实体类的数据，用于聚合不同来源的信息
+
+
+2
+DAO:
+  - [Data Access Object. 数据访问对象]
+  - DAO接口: interface UserDao
+  - DAO实现类: UserDaoImpl implements UserDao
+  - Class => implements => interface
+// DAO 接口
+// - interface
+public interface UserDao {
+  User findById(Long id);
+  List<User> findAll();
+  void save(User user);
+  void delete(Long id);
+}
+// DAO 实现类
+// - implements
+// - @Repository
+@Repository
+public class UserDaoImpl implements UserDao {
+  @Override
+  public User findById(Long id) {}
+  @Override
+  public List<User> findAll() {}
+  ...
+}
+
+
+3
+// Repository
+// - extends
+Repository:
+  - 继承接口: Repository 通常是一个继承自 CrudRepository 或 JpaRepository 等接口的接口
+  - 自动实现: Spring Data 会自动生成 Repository 接口中声明的方法实现，不需要编写具体的实现代码
+@Repository
+public interface UserRepository extends JpaRepository<User, Long> {
+  List<User> findByUsername(String username); // Spring Data 自动提供实现
+}
+
+
+4
+PO（Persistent Object，持久化对象）--------------- 与数据库中的表结构相对应的对象，通常包含与数据库表字段对应的属性，以及用于数据库操作的方法，如保存、更新、删除等
+VO（Value Object，值对象）------------------------ 在不同的系统层之间传递数据，在表示层（如网页、客户端界面）展示数
+BO（Business Object，业务对象）-------------------- 将复杂的业务逻辑封装在 BO 中，使业务逻辑与其他层（如表示层、数据访问层）分离
+-
+DAO（Data Access Object，数据访问对象）------------- repository
+DTO（Data Transfer Object，数据传输对象）
+-
+POJO（Plain Old Java Object，简单传统的 Java 对象）-- 可以在不同的项目和环境中复用，提高代码的可重用性
+```
+
+##### 4.2 Static Resource / Access Static Resource / SpringBoot knowledge
 
 ```
 Position: application.yml
@@ -404,7 +490,7 @@ spring:
   # -- configuration 配置 n
 ```
 
-##### 4.2 Upload File
+##### 4.3 Upload / Upload File
 
 - [tutorial-link/controller](https://github.com/woow-wu7/5-back-review-java/blob/main/src/main/java/com/example/backreviewjava/controller/impl/FileUploadApiController.java)
 - - [tutorial-link/html](https://github.com/woow-wu7/5-back-review-java/blob/main/src/main/resources/templates/fileUpload.html)
@@ -494,7 +580,9 @@ import java.io.IOException;
 // ------ ( http://localhost:9999/upload-api/getTemplate )
 // -- 2. resources/templates/fileUpload.html
 // ------ The 'th:action="@{/upload-api/by-template}"' attribute in form tag should math the 'uploadFileByTemplate' function.
-// -- 3.
+// 2
+// 注意：前端上传组件的name="aaa"，是和java中的 @RequestPart("aaa") 对应的
+// 注意: "/upload-api/by-template" 需要和 fileUpload.html 中的 'th:action="@{/upload-api/by-template}"' 匹配
 @Controller
 @Slf4j
 @RequestMapping("/upload-api")
@@ -551,6 +639,81 @@ public class FileUploadApiController {
     ) {
         System.out.println(avatars);
         return "上传成功";
+    }
+}
+```
+
+##### 4.4 Interceptor 拦截器 / 1.创建拦截器 2.注册拦截器
+
+```java 4.4.1 创建拦截器
+4.4.1
+创建拦截器
+-
+package com.example.backreviewjava.interceptor;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Component;
+import org.springframework.web.servlet.HandlerInterceptor;
+import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.util.Collections;
+@Component
+@Slf4j
+public class RequestInterceptor implements HandlerInterceptor {
+    // 1
+    // preHandle
+    // 目标方法执行之前执行
+    @Override
+    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+        System.out.println("preHandle拦截器 - HTTP Method: " + request.getMethod());
+        System.out.println("preHandle拦截器 - Request URL: " + request.getRequestURL());
+        System.out.println("preHandle拦截器 - Query Parameters: " + request.getQueryString());
+        System.out.println("preHandle拦截器 - Request Parameters: " + request.getParameterMap());
+        System.out.println("preHandle拦截器 - Request Headers: " + Collections.list(request.getHeaderNames()));
+        return true; // true 表示放行，false表示拦截
+    }
+    // 2
+    // postHandle
+    // 目标方法执行完成之后执行
+    @Override
+    public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
+        System.out.println("postHandle拦截器 - Response Status: " + response.getStatus());
+        System.out.println("postHandle拦截器 - Response Headers: " + response.getHeaderNames());
+    }
+    // 3
+    // 页面渲染以后执行
+    @Override
+    public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
+        System.out.println("afterCompletion拦截器");
+        if (ex != null) {
+            // 错误信息
+            System.out.println("afterCompletion拦截器 - Exception Occurred: " + ex.getMessage());
+        }
+    }
+}
+```
+
+```java 4.4.2 注册拦截器
+4.4.2
+注册拦截器
+-
+package com.example.backreviewjava.config;
+
+import com.example.backreviewjava.interceptor.RequestInterceptor;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+@Configuration
+public class WebConfig  implements WebMvcConfigurer {
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+        registry.addInterceptor(new RequestInterceptor())
+                .addPathPatterns("/**") // 拦截 => 拦截所有请求，包括静态资源
+                .excludePathPatterns("/", "/login", "css/**", "/fonts/**", "/images/**", "/js/**"); // 放行，放行了static文件夹下的所有静态资源
+        // 问题：如何能访问到 resources/static/images/8.jpg
+        // 回答：http://localhost:7777/images/8.jpg
     }
 }
 ```

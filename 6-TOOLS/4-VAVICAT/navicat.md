@@ -466,9 +466,9 @@ public class RedisController {
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (2) SpringBoot / 目录最佳实践
+##### (2) SpringBoot / 目录最佳实践 / 用到的 Maven 各种依赖
 
-###### 2.1 目录最佳实践
+##### 2.1 SpringBoot / 目录最佳实践
 
 ```go 2.1 目录最佳实践
 src
@@ -481,18 +481,24 @@ src
 │           ├── model/entity/dto
 │           ├── config
 │           └── utils
+│           └── jpa
+│               └── entity
+│               └── repository
+
 
 
 1
 Entity:
   - 和数据库一一对应
 DTO:
+  - [Data Transfer Object. 数据传输对象]
   - 数据简化: DTO 可以包含比实体类更少的属性，只包含必要的字段，从而简化数据传输
   - 数据聚合: DTO 可以包含来自多个实体类的数据，用于聚合不同来源的信息
 
 
 2
 DAO:
+  - [Data Access Object. 数据访问对象]
   - DAO接口: interface UserDao
   - DAO实现类: UserDaoImpl implements UserDao
   - Class => implements => interface
@@ -518,6 +524,8 @@ public class UserDaoImpl implements UserDao {
 
 
 3
+// Repository
+// - extends
 Repository:
   - 继承接口: Repository 通常是一个继承自 CrudRepository 或 JpaRepository 等接口的接口
   - 自动实现: Spring Data 会自动生成 Repository 接口中声明的方法实现，不需要编写具体的实现代码
@@ -525,7 +533,24 @@ Repository:
 public interface UserRepository extends JpaRepository<User, Long> {
   List<User> findByUsername(String username); // Spring Data 自动提供实现
 }
+
+
+4
+PO（Persistent Object，持久化对象）--------------- 与数据库中的表结构相对应的对象，通常包含与数据库表字段对应的属性，以及用于数据库操作的方法，如保存、更新、删除等
+VO（Value Object，值对象）------------------------ 在不同的系统层之间传递数据，在表示层（如网页、客户端界面）展示数
+BO（Business Object，业务对象）-------------------- 将复杂的业务逻辑封装在 BO 中，使业务逻辑与其他层（如表示层、数据访问层）分离
+-
+DAO（Data Access Object，数据访问对象）------------- repository
+DTO（Data Transfer Object，数据传输对象）
+-
+POJO（Plain Old Java Object，简单传统的 Java 对象）-- 可以在不同的项目和环境中复用，提高代码的可重用性
 ```
+
+##### 2.2 SpringBoot / Maven Dependencies / 用到的 Maven 各种依赖
+
+- [用到的 Maven 各种依赖-work-link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [用到的 Maven 各种依赖-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [SpringBoot 所有知识点-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
@@ -607,10 +632,32 @@ K8s工具：Kubernetes
 新建时，在 spring boot 面板上的 【 Server URL 】换成阿里云的地址 【 https://start.aliyun.com 】
 ```
 
-##### (3) IDEA / Shortcut Keys
+##### (3) IDEA / 【【 Shortcut Keys 】】[Shortcut-Keys]
 
 ```
-Option + Enter 显示意向动作和快速修复代码
+1
+Option + Enter
+- 显示意向动作和快速修复代码
+
+2
+Command + Option + B 跳转到实现
+Command + Option + L 代码格式化
+
+3
+Control + Option + O 优化 import
+
+4
+Command + E
+- 显示最近访问过的文件
+
+5
+Command 1 ～ 0
+- 各种工具栏工具
+
+6
+Command + Shift + F 全局查找
+Command + Shift + A 打开 Actions 窗口
+
 
 Command + [ 上一步
 Command + ] 下一步
