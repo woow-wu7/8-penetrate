@@ -1,6 +1,8 @@
 ##### Java
 
-- [2-maven-dependencies-所有注解和知识点-点这里](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [SpringBoot 所有知识点-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
+- [2-maven-dependencies-所有注解和知识点-点这里-work-link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [2-maven-dependencies-所有注解和知识点-点这里-work-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
 - Swagger3
 - Jackson
 - Redis
@@ -556,7 +558,9 @@ POJO（Plain Old Java Object，简单传统的 Java 对象）-- 可以在不同�
 
 ##### 2.2 SpringBoot / Maven Dependencies / 用到的 Maven 各种依赖
 
-- [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [用到的 Maven 各种依赖-work-link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [用到的 Maven 各种依赖-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+- [SpringBoot 所有知识点-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
@@ -638,7 +642,7 @@ K8s工具：Kubernetes
 新建时，在 spring boot 面板上的 【 Server URL 】换成阿里云的地址 【 https://start.aliyun.com 】
 ```
 
-##### (3) IDEA / 【 Shortcut Keys 】
+##### (3) IDEA / 【【 Shortcut Keys 】】
 
 ```
 1

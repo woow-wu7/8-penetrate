@@ -1,12 +1,12 @@
 ##### Annotation 注解 以及 各种知识点
 
 - 1. SpringBoot
-- @RequestMapping ---- Use this '@RequestMapping' annotation preferentially because it can highlight the HTTP method. and it's similar to @RequestParam...
+- @RequestMapping ---- Use '@RequestMapping' annotation preferentially because it can highlight the HTTP method. and it's similar to @RequestParam...
 - @RequestParam
 - @RequestBody
 - @RequestHeader
 - @PathVariable
-- @RequestPart ------ 用于处理多部分表单数据
+- @RequestPart ------ 用于处理多部分表单数据，用在 multipart/form-data 表单提交请求的方法上，上传文件功能请看 【 4.2 Upload File 】
 -
 - 2. Swagger
 - @Tag(name, description)
@@ -378,9 +378,11 @@ public interface MusicJpaApi {
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (4) SpringBoot knowledge
+##### ------- ------- ------- ------- ------- ------- -------
 
-##### 4.1 Static Resource / SpringBoot knowledge
+##### (4) 【【 SpringBoot knowledge 】】
+
+##### 4.1 Access Static Resource / SpringBoot knowledge
 
 ```
 Position: application.yml
@@ -388,16 +390,167 @@ Position: application.yml
 
 spring:
   # 2.3
-  # static resource
+  # Configure static resources.
   # 2.3.1
-  # spring.web.resources.static-locations: classpath:/static/;
-  # -- this indicates the location of the static resources.
+  # spring.web.resources.static-locations: classpath:/custom-static/,classpath:/public/,classpath:/resources/,classpath:/static/
+  # -- this indicates the location of the directory for static resources.
+  # -- ( custom-static/public/resources/static ) the all directories are static resources.
   # 2.3.2
   # spring.mvc.static-path-pattern: /resources/**
   # -- this indicates the request path to access the static resource.
-  web:
-    resources:
-      static-locations: classpath:/custom-static/,classpath:/public/,classpath:/resources/,classpath:/static/
-  mvc:
-    static-path-pattern: "/resources/**"
+  # -- http://localhost:9999/resources/logo.png can access the static image.
+  # English
+  # -- configure 配置 v
+  # -- configuration 配置 n
+```
+
+##### 4.2 Upload File
+
+- [tutorial-link/controller](https://github.com/woow-wu7/5-back-review-java/blob/main/src/main/java/com/example/backreviewjava/controller/impl/FileUploadApiController.java)
+- - [tutorial-link/html](https://github.com/woow-wu7/5-back-review-java/blob/main/src/main/resources/templates/fileUpload.html)
+
+```java 1 Config / Upload File
+1
+maven
+-
+<!-- spring-boot-starter-thymeleaf -->
+<!-- 主要用于显示resources/templates中的html -->
+<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-thymeleaf</artifactId>
+</dependency>
+
+
+
+2
+pom.xml
+-
+spring
+  # 2.6
+  # spring-boot-starter-thymeleaf
+  # 主要用于显示resources/templates中的html
+  thymeleaf:
+    cache: false
+    mode: HTML
+```
+
+```java Complete
+
+
+3
+resources/templates/fileUpload.html
+-
+<!DOCTYPE html>
+<!--注意：xmls:th 的值-->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div>测试页面</div>
+<!-- th:action="@{/upload}" 提交的controller对应的path，即和controller的请求路径对应 -->
+<!-- enctype="multipart/form-data" -->
+<form th:action="@{/upload-api/by-template}" method="post" enctype="multipart/form-data">
+    <div>
+        <span>单头像上传</span>
+        <input type="file" name="single">
+    </div>
+    <div>
+        <!-- name=multiple 表示开启多个上传 -->
+        <span>多头像上传</span>
+        <input type="file" name="multiple" multiple>
+    </div>
+    <button type="submit">上传</button>
+</form>
+</body>
+</html>
+
+
+
+
+4
+controller
+-
+package com.example.backreviewjava.controller.impl;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestPart;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
+import java.io.File;
+import java.io.IOException;
+// 1
+// Pay attention
+// -- make sure to use '@Controller' to instead of the '@RestController' when implementing upload function.
+// -- @Controller
+// 2
+// Detailed Process
+// -- 1. FileUploadApiController
+// ------ We should return the 'fileUpload' html template through the handleFile function firstly.
+// ------ ( http://localhost:9999/upload-api/getTemplate )
+// -- 2. resources/templates/fileUpload.html
+// ------ The 'th:action="@{/upload-api/by-template}"' attribute in form tag should math the 'uploadFileByTemplate' function.
+// -- 3.
+@Controller
+@Slf4j
+@RequestMapping("/upload-api")
+public class FileUploadApiController {
+    // 1
+    @RequestMapping(value = "/getTemplate", method = RequestMethod.GET)
+    public String handleFile(
+    ) {
+        // 1. 这里返回的是 resources/templates/fileUpload.html
+        // 2. 需要安装 spring-boot-starter-thymeleaf 这个maven依赖
+        // 3. -- 所以我们启动项目后，需要首先访问 http://localhost:9999/upload-api/getTemplate 来打开文件上传页面
+        // 3. -- 然后提交表单，提交的路径是 'th:action="@{/upload-api/by-template}"' 对应 "/upload-api/by-template" 这个路径的方法 uploadFileByTemplate
+        return "fileUpload";
+    }
+    // 2
+    // 注意: "/upload-api/by-template" 需要和 fileUpload.html 中的 'th:action="@{/upload-api/by-template}"' 匹配
+    @RequestMapping(value = "/by-template", method = RequestMethod.POST)
+    public String uploadFileByTemplate(
+            @RequestPart("single") MultipartFile single,
+            @RequestPart("multiple") MultipartFile[] multiple
+    ) throws IOException {
+        log.warn("上传的单文件{}", single);
+        log.warn("上传的多文件{}", multiple);
+        if (!single.isEmpty()) {
+            // originalFilename: 获取原始文件名
+            // transferTo: 保存到 ( Users/xiawu/work/personal... ) 文件夹
+            String originalFilename = single.getOriginalFilename();
+            log.warn("上传单文件文件名是:{}", originalFilename);
+            single.transferTo(new File("/Users/xiawu/work/personal/back-end/back-review-java/src/main/resources/templates/files" + originalFilename));
+        }
+        if (multiple.length > 0) {
+            for (MultipartFile file : multiple) { // for循环
+                if (!file.isEmpty()) {
+                    String originalFilename = file.getOriginalFilename(); // 原始文件名
+                    long size = file.getSize()/1024; // 文件大小，默认但是为字节，1MB = 1024KB = 1024 * 1024 byte
+                    log.info("文件名{}. 大小{}KB", originalFilename, size);
+                    file.transferTo(new File("/Users/xiawu/work/personal/back-end/back-review-java/src/main/resources/templates/files" + originalFilename));
+                }
+            }
+        }
+        return "fileUpload"; // 返回 fileUpload.html
+    }
+    // (3)
+    // 前后端分离的接口
+    // 注意点
+    // 1. consumes 一定要设置成 "multipart/form-data" 因为前端 antd 中的 Upload 组件是用的 form-data 方式在上传
+    // 2. 前端上传时 Upload 组件一定要设置 name 属性，因为 name 的值是和这里的 @RequestPart("前端name属性的值") 一一对应
+    // 3. consume 是消费的意思
+    @RequestMapping(value = "/byfronten", consumes = "multipart/form-data", method = RequestMethod.POST)
+    @ResponseBody // 因为用的是 @controler，因为要返回html，而这里我们需要返回前后端分离后的数据，所以加上 @ResponseBody
+    public String frontendUpload(
+            // @RequestParam("file") MultipartFile avatars
+            @RequestPart("file") MultipartFile avatars
+    ) {
+        System.out.println(avatars);
+        return "上传成功";
+    }
+}
 ```
