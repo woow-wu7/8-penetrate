@@ -478,7 +478,7 @@ public class RedisController {
 
 ##### (2) SpringBoot / 目录最佳实践 / 用到的 Maven 各种依赖
 
-##### 2.1 SpringBoot / 目录最佳实践
+##### 2.1 SpringBoot / 目录最佳实践 [目录最佳实践]
 
 ```go 2.1 目录最佳实践
 src
@@ -490,6 +490,7 @@ src
 │           ├── dao/repository
 │           ├── model/entity/dto
 │           ├── config
+│           ├── interceptor
 │           └── utils
 │           └── jpa
 │               └── entity

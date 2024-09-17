@@ -138,16 +138,21 @@
 ###### Must 2024-09-12
 
 - 1
-- `【 overcome 克服 v 】` // ----------------- 【 overcome fear. 克服恐惧 】 【 overcome difficult. 克服困难 】
+- `【 overcome 克服 v 】` // ----------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 encounter difficulty. 遇到困难 】
 - `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】
 - > 【 overcome fear. 克服恐惧 】
-- > 【 overcome difficult. 克服困难 】
+- > 【 overcome difficulty. 克服困难 】
+- > 【 encounter difficulty. 遇到困难 】
 - > 【 overlook = ignore. 忽略 】
 - > 【 overlook detail. = ignore detail. 忽略细节 】
+- > 【 detailed plan. 详细计划 】
+- > 【 detailed report. 详细报告 】
 - _【 detail 细节 n 】_
 - _【 tail 尾巴 n 】_
 - _【 retail 零售 n 零售的 adj 】_ // --------- 【 retail price. 零售价 】
 - _【 wholesale 批发 n 批发的 adj 】_ // ------ 【 wholesale price. 批发价 】
+- [difficulty-困难-n]
+- [difficult-困难地-adj]
 -
 - `【 overview 概述 总览 n 】` // ------------- 【 general overview. 总体概述 】
 - `【 overall 总体的 adj 】` // --------------- 【 overall structure. 整体结构 】
@@ -363,14 +368,18 @@
 
 - 1
 - `【 free 自由的adj / 自由地adv 】` // ------------ 【 free will. 自由意志 n 】 【 free fall. 自由落体 n 】 【 free trial. 免费使用 】
-- `【 freedom 自由 n 】` // -----------------------【 freedom of speech. 言论自由 n 】
+- `【 freedom 自由 n 】` // ----------------------- 【 desire freedom. 渴望自由 】 【 freedom of speech. 言论自由 n 】
 - > 【 free will. 自由意志 n 】
 - > 【 free fall. 自由落体 n 】
 - > 【 free trial. 免费试用 】 // ------------------ 【 trial 试用 实验 n v 】 // 【 trial / rail 】
 - > 【 free time. 空闲时间 】
 - _【 for free. 免费地 adv 】_
 - _【 free trial. 免费试用 】_
+- _【 desire freedom. 渴望自由 】_ // -------------- 【 desire 愿望 渴望 v n 】
 - _【 freedom of speech. 言论自由 n 】_
+- > 【 willing 心甘情愿的 adj 】
+- > 【 unwilling 不愿意的 adj 】
+- > 【 free will. 自由意志 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'trial'. [trial-试用/试验-vn]
 -
 - `【 freeze 结冰 冻结 v n 】` // ------------------ 【 frozen 冻结的 adj / 动词时是 freeze 的过去式 】
@@ -381,7 +390,11 @@
 - `【 freelancer 自由职业者 n 】`
 - `【 freeway = highway. 高速公路 n 】`
 - > 【 high speed rail. 高铁 n 】
-- > 【 high way. = freeway. 高速公路 n 】
+- > 【 highway. = freeway. 高速公路 n 】
+- > 【 footway = pavement. 人行道 n 】
+- > 【 bikeway 自行车道 n 】
+- > 【 driveway 车道 n 】
+- > 【 subway 地铁 n 】
 -
 - [AA.]
 - `【 free 自由的adj 自由地adv 】`
@@ -404,33 +417,72 @@
 - 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
 
-###### Must 2024-09-17
+###### Must 2024-09-18
 
 - 1
-- `【 county 县 n 】`
+- `【 county 县 n 】` // -------------------------- 【 county court. 县法院 n 】
 - `【 country 国家n / 国家的 adj 】` // ------------- 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】
 - `【 countryside 乡村 农村 n 】`
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
+- _【 county court. 县法院 n 】_
+- > 【 country / province / city / district 区 / county 】
+- > 【 district 区 区域 地区 n 】
 -
 - `【 count 计数 v 】`
 - `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 service counter. 服务台 n 】 【 bank counter. 银行柜台 n 】
-- `【 encounter 遭遇 v n 】`
+- `【 encounter 遭遇 v n 】` // -------------------- 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
+- > 【 encounter difficulty. 遭遇困难 n 】
+- > 【 overcome difficulty. 克服困难 】
 -
 - `【 account 账号 n 】`
 - `【 accountant 会计 n 】`
 -
 - `【 nation 国家 名族 n 】` // --------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
-- `【 nationality 国籍 民族 n 】` // ---------------- 【 dual nationality. 双重国籍 】
-- `【 national 国家的 民族的 adj 】`
+- `【 national 国家的 民族的 adj 】` // -------------- 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national asset. 国有资产 】
+- `【 nationality 国籍 民族 n 】` // ---------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
+- _【 national flag. 国旗 n 】_
+- _【 national anthem. 国歌 n 】_ // --------------- 【 anthem 国歌 n 】
+- _【 national asset. 国有资产 n 】_
 - > 【 destination 目的地 】
 - > 【 examination 考试 检查 n 】
+- _【 foreign nationality. 外国国籍 n 】_
+- _【 dual nationality. 双重国籍 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'anthem'. [anthem-国歌]
 - // TIPS: Pay attention to the pronunciation of the word 'nation'. [nation-国家/名族]
+- // TIPS: Pay attention to the pronunciation of the word 'national'. [national-国家的-名族的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'nationality'. [nationality-国籍]
 -
-- `nationality 国籍`
-- `dual 双重的` // dual nationality. 双重国籍
-- `identity 身份 相同` // dual identity. 双重身份
-- `at the reception desk. 在接待处`
-- `at the reception counter. 在接待处`
+- `【 dual 双的 双重的 adj 】`
+- `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
+- `【 dual identities. 双重身份 n 】` // ------------ 【 identity 身份 / identify 识别 】
+-
+- [AA.]
+- `【 account 账户 n 】`
+- `【 accountant 会计 会计师 n 】`
+- `【 encounter 遭遇 v 】`
+- **【 The 【 account 】 of the 【 accountant 】 has 【 encountered 】 an 【 attack 】. 这个会计的账号遭遇了攻击 】**
+- // -- 【 attack 攻击 v n 】
+-
+- [BB.]
+- `【 country 国家 n 】`
+- `【 national flag. 国旗 n 】`
+- `【 national anthem. 国歌 n 】`
+- **【 Every 【 country 】 has its own 【 national flag 】 and 【 national anthem 】. 每个国家都有自己的国旗和国歌 】**
+- // -- 【 anthem 国歌 n 】
+- // -- 【 national anthem. 国歌 n 】
+-
+- [CC.]
+- `【 dual nationality. 双重国籍 n 】`
+- `【 dual identities. 双重身份 n 】`
+- **【 He has【 dual nationality 】 and 【 dual identities 】. 他有双重国籍和双重身份 】**
+-
+- [DD.]
+- `【 country 国家 n 】`
+- `【 province 省 n 】`
+- `【 city 市 n 】`
+- `【 district 区 n 】`
+- `【 county 县 n 】`
+- **【 This 【 country 】 has many 【 provinces 】, 【 cities 】, 【 districts 】, and 【 counties 】. 这个国家有很多省，市，区，县 】**
+- // -- 【 district 区 地区 区域 n 】
