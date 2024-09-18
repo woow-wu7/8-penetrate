@@ -259,6 +259,8 @@
 - `【 resident 居民 n 】` // --------- 1. local resident. 本地居民 // 2. president resident student
 - `【 residential 居住的 adj 】` // -- 1. residential address. 居住地址
 - `【 residence 住宅 n 】`
+- > 【 residential strict. 居民区 n 】
+- > 【 residential address. 居住地址 n 】
 -
 - `【 reside 居住于 v 】` ------------ 人
 - `【 inhabit 居住于 v 】` ----------- 动物 和 植物
