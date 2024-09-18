@@ -54,3 +54,22 @@
 - > 【 hydrogen 氢气 】----------------- H // hy dro gen
 - > 【 nitrogen 氮气 】----------------- N // ni tro gen
 - **【 When you send an email, please 【 carbon copy 】 and 【 blind carbon copy 】 me. 发邮件时请你抄送和秘送我 】**
+-
+-
+- 2
+- `【 primarily 主要地 adv 】`
+- `【 primary 主要的 adj / 初选n  】`
+- > 【 primary responsibility. 主要责任 n 】
+- > 【 primary election. 初选 n 】
+- > 【 primary school. = elementary school. = junior school. 小学 】
+- **【 I 【 am primarily responsible for 】 implementing the two maps related applications. 我主要负责实现两个地图相关的 app 】**
+- // -- 【 be responsible for. 负责... 】
+- // -- 【 primarily . 主要地 adv 】
+- // TIPS: Pay attention to the pronunciation of the word 'primarily'. [primarily-主要地-adv]
+- // TIPS: Pay attention to the pronunciation of the word 'primary'. [primary-主要的-adj]
+-
+-
+- 3
+- `【 discard 丢弃 v 】`
+- **【 We shouldn't discard our traditional  我们不应该轻易丢弃我们国家的传统 】**
+- **【 but one of the versions will be discarded. 但是其中一个版本将被丢弃 】**

@@ -12,3 +12,12 @@
 - // -- 【 strict regulation. 严格的规定 n 】
 - // -- resident 居民 n
 - // -- president 总统 n
+-
+-
+- 2
+- `【 recover 恢复 v 】`
+- `【 revert 恢复 v 】`
+- > 【 recover health. 恢复健康 】
+- > 【 recover strength. 恢复体力 】
+- > 【 recover economy. 恢复经济 】
+- **【 他恢复健康后，就恢复体力了 】**
