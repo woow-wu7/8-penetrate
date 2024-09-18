@@ -369,14 +369,15 @@
 
 - 1
 - `【 free 自由的adj / 自由地adv 】` // ------------ 【 free will. 自由意志 n 】 【 free fall. 自由落体 n 】 【 free trial. 免费使用 】
-- `【 freedom 自由 n 】` // ----------------------- 【 desire freedom. 渴望自由 】 【 freedom of speech. 言论自由 n 】
+- `【 freedom 自由 n 】` // ----------------------- 【 desire freedom. 渴望自由 】 【 pursue freedom. 追求自由 】 【 freedom of speech. 言论自由 n 】
 - > 【 free will. 自由意志 n 】
 - > 【 free fall. 自由落体 n 】
 - > 【 free trial. 免费试用 】 // ------------------ 【 trial 试用 实验 n v 】 // 【 trial / rail 】
-- > 【 free time. 空闲时间 】
-- _【 for free. 免费地 adv 】_
-- _【 free trial. 免费试用 】_
+- > 【 free time. 空闲时间 】 // ------------------- 【 in free time. 在空闲时间 】
+- 【 for free. 免费地 adv 】
+- 【 free trial. 免费试用 】
 - _【 desire freedom. 渴望自由 】_ // -------------- 【 desire 愿望 渴望 v n 】
+- _【 pursue freedom. 追求自由 】_
 - _【 freedom of speech. 言论自由 n 】_
 - > 【 willing 心甘情愿的 adj 】
 - > 【 unwilling 不愿意的 adj 】
@@ -423,7 +424,7 @@
 - 1
 - `【 county 县 n 】` // -------------------------- 【 county court. 县法院 n 】 // 【 court 法院 n 】
 - `【 country 国家n / 国家的 adj 】` // ------------ 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】 // 【 developed|developing country. 】
-- `【 countryside 乡村 农村 n 】`
+- `【 countryside 乡村 农村 n 】` // -------------- 【 in the countryside. 在乡村 】
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
 - _【 county court. 县法院 n 】_
@@ -431,15 +432,18 @@
 - > 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
 - > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 -
-- `【 count 计数 v 】`
+- `【 count 计数 v 】` // -------------------------- 【 count down. 倒计时 】
 - `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
 - `【 encounter 遭遇 v n 】` // -------------------- 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
 - > 【 encounter difficulty. 遭遇困难 n 】
 - > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
+- _【 count down. 倒计时 】_
+- > 【 bank counter. 银行柜台 n 】
+- > 【 service counter. 服务台 n 】
 -
 - `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
-- `【 accountant 会计 n 】`
+- `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
 -
 - `【 nation 国家 名族 n 】` // --------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
 - `【 national 国家的 民族的 adj 】` // -------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
@@ -462,7 +466,7 @@
 - `【 dual 双的 双重的 adj 】`
 - `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
 - `【 dual identities. 双重身份 n 】` // ------------ 【 identity 身份 / identify 识别 】
-- `【 dual purpose. 双重目的 】`
+- `【 dual purpose. 双重目的 】` // ----------------- 【 purpose / propose / pursue 】
 -
 - `【 district 区 地区 区域 n 】` // ---------------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
 - `【 strict 严格的 adj 】` // --------------------- 【 strict regulation. 严格的规定 n 】
@@ -481,6 +485,14 @@
 - _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'migrate'. [migrate-移民-v]
 - // TIPS: Pay attention to the pronunciation of the word 'immigrant'. [immigrant-移民-n]
+-
+- `【 regular 定期地 规则的 普通的 adj 】` // -------- 【 regular verb. 规则动词 】 【 regular gas. 普通汽油 】 【 regular check-up. 定期检查 】
+- `【 regulate 规定 v 】`
+- `【 regulation 规定 n 】` // --------------------- 【 strict regulation. 严格的规定 n 】
+- > 【 regular check-up. 定期检查 】
+- > 【 regular verb. 规则动词 】// 【 irregular verb. 非规则动词 】
+- > 【 regular gas. 普通汽油 】
+- _【 strict regulation. 严格的规定 】_ // 【 strict / district 】
 -
 -
 - [AA.]
