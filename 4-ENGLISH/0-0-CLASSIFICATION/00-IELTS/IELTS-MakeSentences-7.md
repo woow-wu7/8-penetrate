@@ -1054,3 +1054,10 @@ He is good at 【 math 】 【 as well as 】 【 science 】.
 // 【 math 数学 n 】
 // 【 science 科学 n 】
 ```
+
+##### 14 Make sentences 2024-09-19
+
+```
+1
+商业区和居民区对居民都有严格的规定
+```

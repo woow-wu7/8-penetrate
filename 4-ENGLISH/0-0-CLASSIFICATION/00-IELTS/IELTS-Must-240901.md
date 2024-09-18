@@ -421,44 +421,67 @@
 ###### Must 2024-09-18
 
 - 1
-- `【 county 县 n 】` // -------------------------- 【 county court. 县法院 n 】
-- `【 country 国家n / 国家的 adj 】` // ------------- 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】
+- `【 county 县 n 】` // -------------------------- 【 county court. 县法院 n 】 // 【 court 法院 n 】
+- `【 country 国家n / 国家的 adj 】` // ------------ 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】 // 【 developed|developing country. 】
 - `【 countryside 乡村 农村 n 】`
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
 - _【 county court. 县法院 n 】_
 - > 【 country / province / city / district 区 / county 】
-- > 【 district 区 区域 地区 n 】
+- > 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
+- > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 -
 - `【 count 计数 v 】`
 - `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
-- `【 counter 计数器 柜台 n 】` // ------------------ 【 service counter. 服务台 n 】 【 bank counter. 银行柜台 n 】
+- `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
 - `【 encounter 遭遇 v n 】` // -------------------- 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
 - > 【 encounter difficulty. 遭遇困难 n 】
-- > 【 overcome difficulty. 克服困难 】
+- > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
 -
-- `【 account 账号 n 】`
+- `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
 - `【 accountant 会计 n 】`
 -
 - `【 nation 国家 名族 n 】` // --------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
-- `【 national 国家的 民族的 adj 】` // -------------- 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national asset. 国有资产 】
+- `【 national 国家的 民族的 adj 】` // -------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
 - `【 nationality 国籍 民族 n 】` // ---------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
 - _【 national flag. 国旗 n 】_
 - _【 national anthem. 国歌 n 】_ // --------------- 【 anthem 国歌 n 】
 - _【 national asset. 国有资产 n 】_
+- _【 National Day. 国庆节 n 】_ // ----------------- 注意都需要大写
 - > 【 destination 目的地 】
 - > 【 examination 考试 检查 n 】
 - _【 foreign nationality. 外国国籍 n 】_
 - _【 dual nationality. 双重国籍 n 】_
+- _【 dual identities. 双重身份 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'anthem'. [anthem-国歌]
 - // TIPS: Pay attention to the pronunciation of the word 'nation'. [nation-国家/名族]
 - // TIPS: Pay attention to the pronunciation of the word 'national'. [national-国家的-名族的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'nationality'. [nationality-国籍]
+- // TIPS: Pay attention to the pronunciation of the word 'destination'. [destination-目的地]
 -
 - `【 dual 双的 双重的 adj 】`
 - `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
 - `【 dual identities. 双重身份 n 】` // ------------ 【 identity 身份 / identify 识别 】
-- > 【 dual purpose. 双重目的 】
+- `【 dual purpose. 双重目的 】`
+-
+- `【 district 区 地区 区域 n 】` // ---------------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
+- `【 strict 严格的 adj 】` // --------------------- 【 strict regulation. 严格的规定 n 】
+- > 【 business district. 商业区 n 】
+- > 【 residential district. 居民区 n 】
+- > 【 residential address. 居民地址 n 】
+- _【 residential 居民的 adj 】_
+- _【 resident 居民 n 】_
+- _【 president 总统 n 】_
+- _【 citizen 市民 】_
+- _【 pedestrian 行人 n 】_
+- _【 immigrant 移民 n 】_ // -----------------------【 migrate 移民 迁移 v 】 // --------------------【 migrate / immigrant 】
+- _【 refugee 难民 n 】_ // -------------------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
+- _【 bystander 旁观者 n 】_ // ---------------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
+- _【 alien 外国人 外星人 n 】_ // -------------------【 alien civilization. 外星文明 】
+- _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'migrate'. [migrate-移民-v]
+- // TIPS: Pay attention to the pronunciation of the word 'immigrant'. [immigrant-移民-n]
+-
 -
 - [AA.]
 - `【 account 账户 n 】`
@@ -488,3 +511,11 @@
 - `【 county 县 n 】`
 - **【 This 【 country 】 has many 【 provinces 】, 【 cities 】, 【 districts 】, and 【 counties 】. 这个国家有很多省，市，区，县 】**
 - // -- 【 district 区 地区 区域 n 】
+-
+- [EE.]
+- `【 strict 严格的 adj 】`
+- `【 district 区 地区 区域 n 】`
+- `【 business district. 商业区 n 】`
+- `【 residential district. 住宅区 n 】`
+- `【 strict regulation. 严格的规定 】`
+- **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
