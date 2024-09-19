@@ -503,6 +503,9 @@
 - > 【 regular gas. 普通汽油 】
 - _【 strict regulation. 严格的规定 】_ // 【 strict / district 】
 -
+- `【 encounter 遭遇 v 】` // ---------------------- 【 encounter difficulty. 遭遇困难 】
+- `【 suffer 遭受 v 】` // ------------------------- 【 suffer setback. 遭受挫折 】
+-
 -
 - [AA.]
 - `【 account 账户 n 】`
@@ -541,14 +544,29 @@
 - `【 strict regulation. 严格的规定 】`
 - **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
 
-###### Must 2024-0919
+###### Must 2024-09-19
 
 - 1
-- `【 setback 挫折 n 】`
-- `【 drawback 缺点 n 】` // --------------------- 【 minor drawback. 小缺点 】
+- `【 setback 挫折 n 】` // ---------------------- 【 suffer setback. 遭受挫折 】 // 【 encounter difficulty. 遭遇困难 】
+- `【 drawback 缺点 n 】` // --------------------- 【 minor drawback. 小缺点 】 【 overdraw body. 透支身体 】
+- `【 kickback 回扣 n 】`
+- `【 feedback 反馈 n 】`
+- `【 look back. 回顾 v = review 】`
 -
 - `【 backstroke 仰泳 v n 】`
-- `【  backpack 背包 】`
+- `【 backpack 背包 】`
+-
+- [AA.]
+- `【 drawback 缺点 n 】`
+- `【 kickback 回扣 n 】`
+- `【 feedback 反馈 n 】`
+- **【 The 【 drawback 】 of this store is that there is no 【 kickback 】 and no 【 feedback 】. 这家店的缺点是没有任何回扣和任何反馈 】**
+-
+- [BB.]
+- `【 drawback 缺点 n 】`
+- `【 setback 挫折 n 】`
+- > 【 suffer setback. 遭受挫折 】
+- **【 His 【 drawback 】 is that he easily gives up after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
 
 His short arms are his biggest drawback. he's struggling to reach the toilet paper. 他的短胳膊是他最大的缺点，他很努力额去够厕所纸
 // drawback 缺点
