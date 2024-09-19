@@ -766,7 +766,7 @@
 - `【 count 计数 】` // -------------------【 count down 倒计时 】
 - `【 discount 打折 v 】`
 - `【 counter 计数器 柜台 】` // -----------【 bank counter. 银行柜台 n 】
-- `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】
+- `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 overcome difficulty. 克服困难 】
 - `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】
 - `【 accountant 会计 n 】` // ----------- 【 junior accountant. 初级会计 n 】 【 senior accountant. 高级会计 n 】
 - `【 county 县 n 】` // -----------------【 county court. 县法院 n 】
@@ -826,6 +826,11 @@
 - `【 countable noun. 可数名词 n 】`
 - `【 uncountable noun. 不可数名词 n 】`
 - **【 【 nouns 】 can 【 be divided into 】 【 countable nouns 】 and 【 uncountable nouns 】. 名词分为可数名词和不可数名词 】**
+-
+- [HH.]
+- `【 encounter difficulty. 遭遇困难 v 】`
+- `【 overcome difficulty. 克服困难 v 】`
+- **【 When we 【 encounter a difficulty 】, we should 【 overcome the difficulty 】. 当我们遭遇困难，我们就需要去克服困难 】**
 
 ###### Must 2024-07-18
 

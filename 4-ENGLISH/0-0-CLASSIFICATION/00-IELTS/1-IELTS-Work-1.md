@@ -81,3 +81,46 @@
 - > 【 reveal the truth. 揭示真相 】
 - > 【 reveal the answer. 揭示答案 】
 - **【 Please 【 reveal the truth 】 and 【 reveal the answer 】. 请你揭示真相和揭示答案 】**
+
+##### IELTS Work 2024-01-20
+
+- 1
+- `【 register 注册 v 】` // ------------------- 【 register trademark. 注册商标 】
+- `【 pleased 高兴 adj 】` // ------------------ 【 please 请 v 】
+- **【 I 【 am pleased to 】 inform you that you can 【 register the trademark 】. 很高兴地通知你，你可以注册商标了 】**
+- // TIPS: Pay attention to the pronunciation of th word 'register'. [register-注册-v]
+-
+- 2
+- `【 configure 配置 v 】` // ------------------【 configure firewall. 配置防火墙 】
+- `【 configuration 配置 n 】` // ------------- 【 configuration file. 配置文件 n 】
+- `【 profile 配置文件 n 】`
+-
+- 3
+- `【 be pleased to do sth. 很高兴做某事 】`
+- `【 take a moment to do sht. 花一点时间做某事 】`
+- `【 reach out to sb. 联系某人 】`
+- **【 I 【 am pleased to 】 inform you to 【 take a moment 】 to finish your task. 很高兴的通知你去花一点时间完成你的任务 】**
+- **【 I 【 am pleased to 】 inform you that you can 【 register the trademark 】. 很高兴地通知你，你可以注册商标了 】**
+- **【 I 【 was pleased to 】 receive your email. 我很高兴收到你的电子邮件 】**
+-
+- 4
+- `【 grant 授予 允许 v 】` // ----- 上下级
+- `【 allow 允许 v 】` // --------- 广泛
+- `【 approve 批准 同意 v 】`
+-
+- 5
+- `【 legend 图例 传说 传奇 n 】` // ------------ 【 urban legend. 都市传说 n 】
+- `【 legendary 传说的 传奇的 adj 】` // -------- 【 legendary figure. 传奇人物 n 】 【 Legendary athlete. 传奇运动员 n 】
+-
+- 6
+- `【 intermediate 中间的 中级的 adj 】`
+- > 【 intermediate state. 中间阶段 】
+- > 【 Intermediate step. 中间步骤】
+-
+- 7
+- `【 suspend 暂停 中止 v 】`
+- `【 pause 暂停 v n 】`
+-
+- 8
+- `【 locate 定位 v 】`
+- `【 location 位置 n 】`

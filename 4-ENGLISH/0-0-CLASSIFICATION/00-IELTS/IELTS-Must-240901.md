@@ -423,8 +423,8 @@
 ###### Must 2024-09-18
 
 - 1
-- `【 county 县 n 】` // -------------------------- 【 county court. 县法院 n 】 // 【 court 法院 n 】
-- `【 country 国家n / 国家的 adj 】` // ------------ 【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】 // 【 developed|developing country. 】
+- `【 county 县 n 】` // --------------------------【 county government. 县镇府 n 】 【 county court. 县法院 n 】 // 【 court 法院 n 】
+- `【 country 国家n / 国家的 adj 】` // ------------【 nation / state / country 】 // 【 state 状态 国家 n / 陈述 v 】 // 【 developed|developing country. 】
 - `【 countryside 乡村 农村 n 】` // -------------- 【 in the countryside. 在乡村 】
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
@@ -434,11 +434,12 @@
 - > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 -
 - `【 count 计数 v 】` // -------------------------- 【 count down. 倒计时 】
-- `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
+- `【 discount 打折 v n 】` // --------------------- 【 discount coupon. 折扣劵 n 】 【 discount rate. 折扣率 n 】 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
-- `【 encounter 遭遇 v n 】` // -------------------- 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
+- `【 encounter 遭遇 v n 】` // -------------------- 【 encounter setback. 遭遇挫折 n 】 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
 - `【 countable 可数的 adj 】` // ------------------ 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 uncountable 不可数的 adj 】`
+- > 【 encounter setback. 遭遇挫折 n 】
 - > 【 encounter difficulty. 遭遇困难 n 】
 - > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
 - > 【 overcome fear. 克服恐惧 n 】
@@ -447,6 +448,8 @@
 - > 【 service counter. 服务台 n 】
 - _【 countable noun. 可数名词 】_
 - _【 uncountable noun. 不可数名词 】_
+- > 【 discount coupon. 折扣劵 n 】
+- > 【 discount rate. 折扣率 n 】
 -
 - `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
 - `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
@@ -537,3 +540,16 @@
 - `【 residential district. 住宅区 n 】`
 - `【 strict regulation. 严格的规定 】`
 - **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
+
+###### Must 2024-0919
+
+- 1
+- `【 setback 挫折 n 】`
+- `【 drawback 缺点 n 】` // --------------------- 【 minor drawback. 小缺点 】
+-
+- `【 backstroke 仰泳 v n 】`
+- `【  backpack 背包 】`
+
+His short arms are his biggest drawback. he's struggling to reach the toilet paper. 他的短胳膊是他最大的缺点，他很努力额去够厕所纸
+// drawback 缺点
+// toilet 马桶 厕所
