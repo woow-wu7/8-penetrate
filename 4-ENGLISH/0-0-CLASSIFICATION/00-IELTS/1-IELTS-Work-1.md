@@ -43,22 +43,22 @@
 - // -- 【 overlook detail. 忽略细节 】
 - // TIPS: Pay attention to the pronunciation of the word 'detail'. [detail-详情-细节]
 
-##### IELTS Work 2024-01-18
+##### IELTS Work 2024-01-19
 
 - 1
-- `【 carbon 碳n 副本n 】`
+- `【 carbon 碳n 副本n 】` // -----------------【 carbon copy. 抄送 】 【 blind carbon copy. 秘送 】
 - `【 carbon copy. 抄送 】`
 - `【 blind carbon copy. 秘送 】`
-- > 【 carbon dioxide. 二氧化碳 】------- CO2
-- > 【 oxygen 氧气 】------------------- O
-- > 【 hydrogen 氢气 】----------------- H // hy dro gen
-- > 【 nitrogen 氮气 】----------------- N // ni tro gen
+- > 【 carbon dioxide. 二氧化碳 】-------------- CO2
+- > 【 oxygen 氧气 】--------------------------- O
+- > 【 hydrogen 氢气 】------------------------- H // hy dro gen
+- > 【 nitrogen 氮气 】------------------------- N // ni tro gen
 - **【 When you send an email, please 【 carbon copy 】 and 【 blind carbon copy 】 me. 发邮件时请你抄送和秘送我 】**
 -
 -
 - 2
 - `【 primarily 主要地 adv 】`
-- `【 primary 主要的 adj / 初选n  】`
+- `【 primary 主要的 adj / 初选n  】` // -------- 【 primary school. 小学 】 【 primary responsibility. 主要责任 n 】
 - > 【 primary responsibility. 主要责任 n 】
 - > 【 primary election. 初选 n 】
 - > 【 primary school. = elementary school. = junior school. 小学 】
@@ -71,5 +71,13 @@
 -
 - 3
 - `【 discard 丢弃 v 】`
-- **【 We shouldn't discard our traditional  我们不应该轻易丢弃我们国家的传统 】**
-- **【 but one of the versions will be discarded. 但是其中一个版本将被丢弃 】**
+- **【 We shouldn't 【 discard 】 the 【 traditions 】 of our country easily. 我们不应该轻易丢弃我们国家的传统 】**
+- **【 but one of the versions will be 【 discarded 】. 但是其中一个版本将被丢弃 】**
+- // -- 【 tradition 传统 n 】
+-
+-
+- 4
+- `【 reveal 揭示 显示 透露 v 】` // ------------- 【 reveal the truth. 揭示真相 n 】 【 reveal the answer. 揭示答案 】
+- > 【 reveal the truth. 揭示真相 】
+- > 【 reveal the answer. 揭示答案 】
+- **【 Please 【 reveal the truth 】 and 【 reveal the answer 】. 请你揭示真相和揭示答案 】**

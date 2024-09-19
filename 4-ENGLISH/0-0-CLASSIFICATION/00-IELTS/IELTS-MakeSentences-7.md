@@ -1055,9 +1055,17 @@ He is good at 【 math 】 【 as well as 】 【 science 】.
 // 【 science 科学 n 】
 ```
 
-##### 14 Make sentences 2024-09-19
+##### 14 Make sentences 2024-09-20
 
 ```
 1
 商业区和居民区对居民都有严格的规定
+
+
+2
+我们不应该轻易丢弃我们国家的传统
+
+
+3
+请你揭示真相和揭示答案
 ```

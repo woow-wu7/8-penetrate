@@ -305,7 +305,7 @@
 - `【 social 社会的 社交的 adj 】`
 - `【 social phenomenon. 社会现象 n 】` // -------- 【 common phenomenon. 常见现象 n 】 【 rare phenomenon. 罕见现象 n 】 【 natural phenomenon. 自然现象 n 】
 - `【 social contradiction. 社会矛盾 n 】` // ----- 【 family contradiction. 家庭矛盾 n 】 【 internal contradiction. 内部矛盾 n 】
-- `【 social welfare. 社会福利 n 】` // ----------- 【 welfare state. 福利国家 n 】
+- `【 social welfare. 社会福利 n 】` // ----------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
 - `【 social status. 社会地位 n 】` // ------------ 【 historical status. 历史地位 n 】 【 social statue. 社会地位 n 】 【 status / state / statue 】
 - > 1. 【 phenomenon. 现象 n 】
 - > 【 natural phenomenon. 自然现象 】
@@ -317,6 +317,7 @@
 - _【 family contradiction. 家庭矛盾 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'contradiction'. [contradiction-矛盾]
+- // TIPS: Pay attention to the pronunciation of the word 'phenomenon'. [phenomenon-现象]
 -
 - `【 statue 雕像 n 】` // ----------------------- 【 bronze statue. 铜像 n 】 【 statue of liberty. 自由女神像 】
 - `【 status 身份 状态 地位 n 】` // -------------- 【 social status. 社会地位 n 】 【 historical status. 历史地位 n 】
@@ -436,11 +437,16 @@
 - `【 discount 打折 v n 】` // --------------------- 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
 - `【 encounter 遭遇 v n 】` // -------------------- 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
+- `【 countable 可数的 adj 】` // ------------------ 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
+- `【 uncountable 不可数的 adj 】`
 - > 【 encounter difficulty. 遭遇困难 n 】
 - > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
+- > 【 overcome fear. 克服恐惧 n 】
 - _【 count down. 倒计时 】_
 - > 【 bank counter. 银行柜台 n 】
 - > 【 service counter. 服务台 n 】
+- _【 countable noun. 可数名词 】_
+- _【 uncountable noun. 不可数名词 】_
 -
 - `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
 - `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
@@ -471,14 +477,14 @@
 - `【 district 区 地区 区域 n 】` // ---------------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
 - `【 strict 严格的 adj 】` // --------------------- 【 strict regulation. 严格的规定 n 】
 - > 【 business district. 商业区 n 】
-- > 【 residential district. 居民区 n 】
+- > 【 residential district. 居民区 n 】 // -------- 【 resident / residential 】
 - > 【 residential address. 居民地址 n 】
 - _【 residential 居民的 adj 】_
 - _【 resident 居民 n 】_
 - _【 president 总统 n 】_
 - _【 citizen 市民 】_
 - _【 pedestrian 行人 n 】_
-- _【 immigrant 移民 n 】_ // -----------------------【 migrate 移民 迁移 v 】 // --------------------【 migrate / immigrant 】
+- _【 immigrant 移民 n 】_ // ----------------------- `【 migrate 移民 迁移 v 】` // --------------------【 migrate / immigrant 】
 - _【 refugee 难民 n 】_ // -------------------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
 - _【 bystander 旁观者 n 】_ // ---------------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - _【 alien 外国人 外星人 n 】_ // -------------------【 alien civilization. 外星文明 】
@@ -486,11 +492,11 @@
 - // TIPS: Pay attention to the pronunciation of the word 'migrate'. [migrate-移民-v]
 - // TIPS: Pay attention to the pronunciation of the word 'immigrant'. [immigrant-移民-n]
 -
-- `【 regular 定期地 规则的 普通的 adj 】` // -------- 【 regular verb. 规则动词 】 【 regular gas. 普通汽油 】 【 regular check-up. 定期检查 】
+- `【 regular 定期地 规则的 普通的 adj 】` // -------- 【 regular check-up. 定期检查 】 【 regular verb. 规则动词 】 【 regular gas. 普通汽油 】
 - `【 regulate 规定 v 】`
 - `【 regulation 规定 n 】` // --------------------- 【 strict regulation. 严格的规定 n 】
 - > 【 regular check-up. 定期检查 】
-- > 【 regular verb. 规则动词 】// 【 irregular verb. 非规则动词 】
+- > 【 regular verb. 规则动词 】// 【 irregular verb. 非规则动词 】 // 【 auxiliary verb. 助动词 n 】
 - > 【 regular gas. 普通汽油 】
 - _【 strict regulation. 严格的规定 】_ // 【 strict / district 】
 -

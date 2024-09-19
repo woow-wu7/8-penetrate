@@ -672,6 +672,7 @@
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
+- > 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
 -
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
@@ -680,10 +681,11 @@
 -
 - `【 conjunction 连词 连接词 n 】` --- 【 in conjunction with. 结合... 】 // 【 connect 连接 v 】 【 conjunction 连接词 n 】
 - `【 part of speech. 词性 n 】` ----- 【 What's 【 part of speech 】 of this word? 这个单词是什么词性？ 】 // 【 speech 演讲 讲话 n 】
-- `【 auxiliary verb. 助动词 n 】`
-- `【 countable verb. 可数名词 n 】` -- 【 uncountable verb. 不可数名词 n 】
+- `【 auxiliary verb. 助动词 n 】` // -- 【 auxiliary / regular / irregular 】
+- `【 countable noun. 可数名词 n 】` -- 【 uncountable noun. 不可数名词 n 】
 - > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
+- // TIPS: Pay attention to the pronunciation of the word 'adjective'. [auxiliary-辅助的-adj]
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
@@ -697,9 +699,9 @@
 - > What's the 【 past tense 】 of 【 leave 】? [leave->left]
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
-- // 【 single 单身的 单个的 adj 】
+- // 【 single 单身的 单个的 adj 】 ----- 【 every single day. 每一天 】
 - // 【 singular 单数的 adj 】
-- // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural]
+- // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
 -
 - `【 subject 主语 】`
 - `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
@@ -717,12 +719,13 @@
 - `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 - `【 conjunction 连词 】` // ---------- 【 in conjunction with. 结合... 】 // Please learn this file 【 in conjunction with 】 that file.
 - `【 auxiliary verb. 助动词 】`
-- `【 regular verb. 规则动词 】`
+- `【 regular verb. 规则动词 】` // ----- 【 regular 普通的 规则的 定时的 】 // 1. regular gas. // 2. regular check-up. // regular verb. irregular verb.
 - `【 irregular verb. 不规则动词 】`
-- `【 countable noun. 可数名词 n 】`
+- `【 countable noun. 可数名词 n 】` // - 【 count / discount / counter / encounter / account / accountant / county / country / countryside 】
 - `【 uncountable noun. 不可数名词 n 】`
 - > What's the 【 position 】 of the 【 preposition 】 in the sentence?
 - > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
+- // TIPS: Pay attention to the pronunciation of the word 'adjective'. [adjective-形容词-n]
 -
 - `【 noun 名词 n 】`
 - `【 countable noun. 可数名词 n 】`
@@ -738,14 +741,14 @@
 - `【 tone 语气 音调 n 】` // ----------- 【 tone / tongue 】
 - `【 tongue 舌头 】`
 - `【 pronunciation 发音 n 】`
-- `【 accent 口音 n 】`
+- `【 accent 口音 n 】` // ------------- 【 heavy accent. 重口音 】 【 light accent. 轻口音 】
 - `【 idiom 成语 方言 n 】`
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
 - > 【 a heavy foreign accent. 很重的外国口音 】
-- // TIPS: Pay attention to the pronunciation of the word 'tone'. [tone]
-- // TIPS: Pay attention to the pronunciation of the word 'tongue'. [tongue]
-- // TIPS: Pay attention to the pronunciation of the word 'idiom'. [idiom]
+- // TIPS: Pay attention to the pronunciation of the word 'tone'. [tone-语调]
+- // TIPS: Pay attention to the pronunciation of the word 'tongue'. [tongue-舌头]
+- // TIPS: Pay attention to the pronunciation of the word 'idiom'. [idiom-成语]
 -
 - `【 word 单词 】`
 - `【 phrase 短语 】`
@@ -757,6 +760,18 @@
 - > 【 convert 转换 v 】
 - > 【 conversion 转换 n 】
 - > 【 conversation 交谈 n 】
+-
+- `【 countable noun. 可数名词 】`
+- `【 uncountable noun. 不可数名词 】`
+- `【 count 计数 】` // -------------------【 count down 倒计时 】
+- `【 discount 打折 v 】`
+- `【 counter 计数器 柜台 】` // -----------【 bank counter. 银行柜台 n 】
+- `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】
+- `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】
+- `【 accountant 会计 n 】` // ----------- 【 junior accountant. 初级会计 n 】 【 senior accountant. 高级会计 n 】
+- `【 county 县 n 】` // -----------------【 county court. 县法院 n 】
+- `【 country 国家 n 】` // ------------- 【 developing country. 发展中国家 n 】 【 developed country. 开发中国家 n 】 【 country / state / nation 】
+- `【 countryside 乡村 n 】`
 -
 - [AA.]
 - `【 position 位置 职位 n 】`
