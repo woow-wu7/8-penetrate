@@ -1072,6 +1072,10 @@ He is good at 【 math 】 【 as well as 】 【 science 】.
 
 4
 当我们遭遇困难，我们就需要去克服困难
+-
+他的缺点是遭受挫折后容易放弃
+-
+任何严重的挫折都不能打败他
 
 
 5
@@ -1080,4 +1084,42 @@ He is good at 【 math 】 【 as well as 】 【 science 】.
 很高兴地通知你，你可以注册商标了
 -
 很高兴收到了你的邮件
+
+
+6
+在家用电器中，冰柜和冰箱这都结冰了
+
+
+7
+这家店的缺点是没有任何回扣和任何反馈
+-
+他反馈了这件商品的很多小缺点
+
+
+8
+【 National Day 】 will be coming 【 in a few days 】.
+再过几天就是国庆节了
+-
+这些种子几天后就会发芽
+-
+油漆味几天后就会逐渐消失
+The 【 paint smell 】 will 【 fade away 】 【 in a few days 】.
+-
+// -
+// 【 in a few days. 过几天 几天后 】
+// -
+// 【 fade away. 逐渐消失 】
+// 【 disappear. 消失 v 】
+
+
+9
+After 【 graduation 】, they 【 gradually 】 lost contact.
+毕业之后，他们逐渐失去了联系
+-
+He 【 gradually 】 【 improved 】 his English grades.
+他逐渐提高了英语成绩
+-
+// -
+// 【 graduation 毕业 n 】
+// 【 gradually 逐渐地 adv 】
 ```

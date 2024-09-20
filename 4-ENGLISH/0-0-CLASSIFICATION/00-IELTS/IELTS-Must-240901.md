@@ -391,13 +391,14 @@
 - > 【 refrigerator 冰箱 】` // fridge 也是冰箱的意思
 -
 - `【 freelancer 自由职业者 n 】`
-- `【 freeway = highway. 高速公路 n 】`
-- > 【 high speed rail. 高铁 n 】
+- `【 freeway = highway. 高速公路 n 】` // -------- `【 highway 高速公路 n 】`
+- > 【 high speed rail. 高铁 n 】 // ------------- `【 high speed rail. 高铁 n 】`
 - > 【 highway. = freeway. 高速公路 n 】
 - > 【 footway = pavement. 人行道 n 】
 - > 【 bikeway 自行车道 n 】
 - > 【 driveway 车道 n 】
 - > 【 subway 地铁 n 】
+- > 【 railway 铁路 n 】
 -
 - [AA.]
 - `【 free 自由的adj 自由地adv 】`
@@ -415,7 +416,8 @@
 - `【 freezer 冰柜 n 】`
 - `【 refrigerator 冰箱 n 】`
 - `【 frozen 结冰的adj / v过去式 】` // freeze 结冰 v
-- **【 Both The 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】. 冰柜和冰箱都结冰了 】**
+- **【 In the 【 household appliances 】, both the 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】. 在家用电器中，冰柜和冰箱这都结冰了 】**
+- // -- 【 household appliance. 家用电器 n 】
 -
 - 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
@@ -428,18 +430,19 @@
 - `【 countryside 乡村 农村 n 】` // -------------- 【 in the countryside. 在乡村 】
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
+- _【 county government. 县政府 n 】_
 - _【 county court. 县法院 n 】_
-- > 【 country / province / city / district 区 / county 】
+- > 【 country / province / city / district 区 / county 县 】
 - > 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
 - > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 -
 - `【 count 计数 v 】` // -------------------------- 【 count down. 倒计时 】
-- `【 discount 打折 v n 】` // --------------------- 【 discount coupon. 折扣劵 n 】 【 discount rate. 折扣率 n 】 【 at a discount. = on sale. 打折 】
+- `【 discount 打折 v n 】` // --------------------- **【 discount coupon. 折扣劵 n 】** 【 discount rate. 折扣率 n 】 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
-- `【 encounter 遭遇 v n 】` // -------------------- 【 encounter setback. 遭遇挫折 n 】 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
+- `【 encounter 遭遇 v n 】` // -------------------- **【 encounter setback. 遭遇挫折 n 】** 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
 - `【 countable 可数的 adj 】` // ------------------ 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 uncountable 不可数的 adj 】`
-- > 【 encounter setback. 遭遇挫折 n 】
+- > 【 encounter setback. 遭遇挫折 n 】 // 【 suffer setback. 遭受挫折 n 】
 - > 【 encounter difficulty. 遭遇困难 n 】
 - > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
 - > 【 overcome fear. 克服恐惧 n 】
@@ -448,8 +451,9 @@
 - > 【 service counter. 服务台 n 】
 - _【 countable noun. 可数名词 】_
 - _【 uncountable noun. 不可数名词 】_
-- > 【 discount coupon. 折扣劵 n 】
+- > 【 discount coupon. 折扣劵 n 】 // ------------- 【 coupon. 优惠券 n 】
 - > 【 discount rate. 折扣率 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'coupon'. [coupon-优惠卷-n]
 -
 - `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
 - `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
@@ -503,7 +507,7 @@
 - > 【 regular gas. 普通汽油 】
 - _【 strict regulation. 严格的规定 】_ // 【 strict / district 】
 -
-- `【 encounter 遭遇 v 】` // ---------------------- 【 encounter difficulty. 遭遇困难 】
+- `【 encounter 遭遇 v 】` // ---------------------- 【 encounter setback. 遭遇挫折 】 【 encounter difficulty. 遭遇困难 】
 - `【 suffer 遭受 v 】` // ------------------------- 【 suffer setback. 遭受挫折 】
 -
 -
@@ -547,27 +551,55 @@
 ###### Must 2024-09-19
 
 - 1
-- `【 setback 挫折 n 】` // ---------------------- 【 suffer setback. 遭受挫折 】 // 【 encounter difficulty. 遭遇困难 】
-- `【 drawback 缺点 n 】` // --------------------- 【 minor drawback. 小缺点 】 【 overdraw body. 透支身体 】
-- `【 kickback 回扣 n 】`
-- `【 feedback 反馈 n 】`
+- `【 setback 挫折 n 】` // ----------------------- 【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】 【 serious setback. 严重挫折 】
+- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 【 overdraw your body. 透支你的身体 】
+- `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
+- `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
 - `【 look back. 回顾 v = review 】`
+- > 【 major / minor / patch / alpha / beta 】
 -
 - `【 backstroke 仰泳 v n 】`
 - `【 backpack 背包 】`
 -
 - [AA.]
-- `【 drawback 缺点 n 】`
+- `【 drawback 缺点 n 】` // 【 minor drawback. 小缺点 】
 - `【 kickback 回扣 n 】`
 - `【 feedback 反馈 n 】`
+- > 【 give feedback on. 反馈... 】
 - **【 The 【 drawback 】 of this store is that there is no 【 kickback 】 and no 【 feedback 】. 这家店的缺点是没有任何回扣和任何反馈 】**
+- **【 He 【 gave feedback on 】 many 【 minor drawbacks 】 of this product. 他反馈了这件商品的很多小缺点 】**
+- // -- 【 give feedback on. 反馈... 】
 -
 - [BB.]
 - `【 drawback 缺点 n 】`
 - `【 setback 挫折 n 】`
 - > 【 suffer setback. 遭受挫折 】
 - **【 His 【 drawback 】 is that he easily gives up after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
+-
+- [CC.]
+- `【 setback 挫折 n 】`
+- `【 serious setback. 严重的挫折 】`
+- **【 No 【 serious setback 】 can 【 defeat 】 him. 任何严重的挫折都不能打败他 】**
+- // -- 【 serious 严肃的 认真的 严重的 adj 】
+- // -- 【 defeat 打败 v 】
 
 His short arms are his biggest drawback. he's struggling to reach the toilet paper. 他的短胳膊是他最大的缺点，他很努力额去够厕所纸
 // drawback 缺点
 // toilet 马桶 厕所
+
+###### Must 2024-09-21
+
+- 1
+- `【 fade away. 逐渐消失 v 】` // ------------------- 【 fade away. = gradually disappear. 逐渐消失 v 】
+- `【 gradually disappear. 逐渐消失 v 】`
+- `【 disappear 消失 v 】`
+- > 【 gradually recover. 逐渐恢复 v 】
+- > 【 gradually improve. 逐渐改善 v 】 // ------------【 improve 提高 改善 v 】`
+-
+- `【 appear 出现 v 】`
+- `【 gradually appear. 逐渐出现 v 】`
+- > 【 gradually 逐渐地 adv 】`
+- > 【 graduation 毕业 v 】` // --------------------- 【 graduate 毕业 v 】
+-
+- [AA.]
+- **【 after 【 graduation 】, they 【 gradually 】 lost 【 contact 】. 毕业之后，他们逐渐失去了联系 】**

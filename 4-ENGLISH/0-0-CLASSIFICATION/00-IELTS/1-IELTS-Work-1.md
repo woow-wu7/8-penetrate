@@ -92,7 +92,7 @@
 -
 - 2
 - `【 configure 配置 v 】` // ------------------【 configure firewall. 配置防火墙 】
-- `【 configuration 配置 n 】` // ------------- 【 configuration file. 配置文件 n 】
+- `【 configuration 配置 n 】` // ------------- 【 configuration file. 配置文件 n 】 // 【 strict regulation. 严格的规定 】 // 【 business district. 商业区 】
 - `【 profile 配置文件 n 】`
 -
 - 3
@@ -124,3 +124,9 @@
 - 8
 - `【 locate 定位 v 】`
 - `【 location 位置 n 】`
+
+##### IELTS Work 2024-01-21
+
+- 1
+- `【 assistant 助理 n v 】`
+- `【 assistance 帮助 n 】`
