@@ -130,3 +130,30 @@
 - 1
 - `【 assistant 助理 n v 】`
 - `【 assistance 帮助 n 】`
+-
+- 2
+- `archive 档案n 存档v`
+-
+- 3
+- `terminate 终止 结束v`
+- `terminated 终止的adj / the past tense of the verb.`
+-
+- 4
+- `encrypt 加密 v`
+-
+- 5
+- `cargo 货物 n`
+-
+- 6
+- `retention 保持 保留 n`
+-
+- 7
+- `azure 天蓝色的adj / 天蓝色n`
+-
+- 8
+- `principal 校长n 主要的adj`
+-
+- 9
+- `applicant 申请人`
+- **【 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】. 】**
+- 我们可以通过中介申请签证

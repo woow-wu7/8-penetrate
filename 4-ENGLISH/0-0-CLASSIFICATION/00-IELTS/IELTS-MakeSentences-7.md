@@ -1122,4 +1122,14 @@ He 【 gradually 】 【 improved 】 his English grades.
 // -
 // 【 graduation 毕业 n 】
 // 【 gradually 逐渐地 adv 】
+
+
+9
+这名申请人正在申请这个职位的贷款和驾驶执照
+This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's license 】 for this position.
+-
+我们可以通过中介申请签证
+// -
+// 【 applicant 申请人 n 】
+// 【 apply for. 申请 v 】
 ```
