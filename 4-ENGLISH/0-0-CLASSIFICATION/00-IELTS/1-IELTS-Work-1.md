@@ -161,3 +161,12 @@
 - `applicant 申请人`
 - **【 This 【 applicant 】 is 【 applying for 】 a 【 loan 】 and a【 driver's license 】 for the 【 position 】. 】**
 - 我们可以通过中介申请签证
+
+##### IELTS Work 2024-01-22
+
+- 1
+- `【 interpreter 解释器 口译员 n 】`
+-
+- 2
+- `【 anonymous 匿名的 adj 】`
+- `【 anonymity 匿名 n 】`
