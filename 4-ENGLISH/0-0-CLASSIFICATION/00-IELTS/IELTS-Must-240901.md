@@ -555,11 +555,25 @@
 - `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 【 overdraw your body. 透支你的身体 】
 - `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
 - `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
-- `【 look back. 回顾 v = review 】`
-- > 【 major / minor / patch / alpha / beta 】
+- `【 look back. 回顾 v 】` // -------------------- `【 look back on sth. 回顾... 】` // 【 look back. = review 回顾 v 】
+- _【 major / minor / patch / alpha / beta 】_
+- _【 minor drawback. 小缺点 n 】_
+- > 【 serious setback. 严重挫折 】
+- > 【 suffer setback. 遭受挫折 】
+- > 【 encounter setback. 遭遇挫折 】
+- _【 look back. = review 回顾 】_
+- _【 book back on sth. 回顾某事 】_
 -
-- `【 backstroke 仰泳 v n 】`
+- `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
+- `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】
+- `【 backache 背痛 】`
+- `【 backbone 脊柱 n 】`
 - `【 backpack 背包 】`
+- `【 backstroke 仰泳 v n 】`
+-
+- `【 back up. 备份 v 】` // -----------------------【 back up. 备份 v 】 【 backup. 备份 n 】
+- `【 back down. 让步 v 】`
+- `【 pay back. 归还 偿还 v 】`
 -
 - [AA.]
 - `【 drawback 缺点 n 】` // 【 minor drawback. 小缺点 】
@@ -574,6 +588,7 @@
 - `【 drawback 缺点 n 】`
 - `【 setback 挫折 n 】`
 - > 【 suffer setback. 遭受挫折 】
+- > 【 encounter setback. 遭遇挫折 】
 - **【 His 【 drawback 】 is that he easily gives up after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
 -
 - [CC.]
@@ -582,6 +597,21 @@
 - **【 No 【 serious setback 】 can 【 defeat 】 him. 任何严重的挫折都不能打败他 】**
 - // -- 【 serious 严肃的 认真的 严重的 adj 】
 - // -- 【 defeat 打败 v 】
+-
+- [DD.]
+- `【 look back on sth. 回顾某事 】`
+- **【 Let me 【 go back 】 to the classroom to 【 book back on 】 what learned yesterday. 让我回到教室回顾一下昨天知识 】**
+-
+- [EE.]
+- `【 back up. 备份 v 】`
+- `【 backup 备份 n 】`
+- `【 backtrack】`
+- **【 Please 【 back up 】 this file 【 for 】 【 backtrack 】. 备份这份文件用来回溯 】**
+-
+- [FF.]
+- `【 backbone 脊柱 n 】`
+- `【 backpack 背包 n 】`
+- **【 There are 【 backbones 】 in his 【 backpack 】. 他的背包里装着脊柱 】**
 
 His short arms are his biggest drawback. he's struggling to reach the toilet paper. 他的短胳膊是他最大的缺点，他很努力额去够厕所纸
 // drawback 缺点
@@ -591,10 +621,12 @@ His short arms are his biggest drawback. he's struggling to reach the toilet pap
 
 - 1
 - `【 fade away. 逐渐消失 v 】` // ------------------- 【 fade away. = gradually disappear. 逐渐消失 v 】
-- `【 gradually disappear. 逐渐消失 v 】`
+- `【 gradually disappear. 逐渐消失 v 】` // --------- 【 gradually recover. 逐渐恢复 v 】 【 gradually improve. 逐渐改善 v 】
 - `【 disappear 消失 v 】`
-- > 【 gradually recover. 逐渐恢复 v 】
-- > 【 gradually improve. 逐渐改善 v 】 // ------------【 improve 提高 改善 v 】`
+- > 【 gradually recover. 逐渐恢复 v 】 // ------------【 body gradually recover. 身体逐渐恢复 】
+- > 【 gradually improve. 逐渐改善 v 】 // ------------【 condition gradually improve. 病情逐渐改善 】 【 improve 提高 改善 v 】`
+- > 【 gradually disappear 】// ----------------------【 symptom gradually disappear. 症状逐渐消失 】
+- // TIPS: Pay attention to the pronunciation of the word 'gradually'. [gradually-逐渐地-adv]
 -
 - `【 appear 出现 v 】`
 - `【 gradually appear. 逐渐出现 v 】`
@@ -602,4 +634,19 @@ His short arms are his biggest drawback. he's struggling to reach the toilet pap
 - > 【 graduation 毕业 v 】` // --------------------- 【 graduate 毕业 v 】
 -
 - [AA.]
+- `【 graduation 毕业 n 】`
+- `【 gradually 逐渐的 adv 】`
 - **【 after 【 graduation 】, they 【 gradually 】 lost 【 contact 】. 毕业之后，他们逐渐失去了联系 】**
+-
+- [BB.]
+- `【 gradually disappear. 逐渐消失 v 】`
+- `【 gradually disappear into. 逐渐消失在...】`
+- **【 He 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 他逐渐消失在人群中 】**
+-
+- [CC.]
+- `【 gradually improve. 逐渐改善 v 】`
+- `【 gradually recover. 逐渐恢复 v 】`
+- `【 gradually fade away. 逐渐消失 v = gradually disappear. 】`
+- **【 His 【 condition 】 【 gradually 】 【 improved 】, his body 【 gradually recovered, 】 his symptoms 【 gradually fade away 】. 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失 】**
+- // 【 condition 病情 条件 n 】
+- // 【 improve 改善 改进 提高 v 】
