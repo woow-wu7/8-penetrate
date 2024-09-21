@@ -13,7 +13,7 @@
 5. Raycast
 ```
 
-##### (1) View process and Kill process 傻进程
+##### (1) View process and Kill process 杀进程
 
 ```
 1

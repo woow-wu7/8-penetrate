@@ -16,3 +16,9 @@ If your device doesn't has the 'brew' tool, You can run the 【 following 】 co
 Verify whether the 'python' is installed ok, using the following command:
 - $ python3 --version
 ```
+
+##### (2) Module
+
+```
+1. os
+```

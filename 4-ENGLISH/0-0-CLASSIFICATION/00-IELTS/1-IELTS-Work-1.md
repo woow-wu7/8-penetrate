@@ -166,7 +166,34 @@
 
 - 1
 - `【 interpreter 解释器 口译员 n 】`
+- `【 reporter 记者 】`
+- `【 report 报告n / 举报 v 】`
+- **【 He is a 【 reporter 】 and also 【 an 】 【 interpreter 】. 他是记者同时也是口译员 】** // ------------------- report 报告 n
+- **【 We can use the 【 anonymous letter 】 to 【 anonymously report 】 others. 我们可以用匿名信匿名举报他人 】** // report 举报 v
+- // TIPS: Pay attention to the pronunciation of the word 'interpreter'. [interpreter-口译员-n]
 -
 - 2
-- `【 anonymous 匿名的 adj 】`
+- `【 anonymous 匿名的 adj 】` // --------------- 【 anonymous letter. 匿名信 n 】 // 【 anonymously report. 匿名举报 v 】
 - `【 anonymity 匿名 n 】`
+- > 【 anonymous letter. 匿名信 n 】
+- > 【 anonymously report . 匿名举报 v 】
+- > 【 report 报告 n / 举报 v 】
+- > 【 reporter 记者 n 】
+- **【 We can use the 【 anonymous letter 】 to 【 anonymously report 】 others. 我们可以用匿名信匿名举报他人 】**
+- // TIPS: Pay attention to the pronunciation of the word 'letter'. [letter-信-n]
+-
+- 3
+- `【 urge 催促 敦促 v 】`
+- `【 urgent 紧急的 adj = emergency 】` // ------ 【 urgent supplies. = emergency supplies. 紧急物质 】
+- `【 urgency 催促 紧急 n 】`
+- > 【 urgent supplies. 紧急物资 n 】
+- > 【 urgent retreat. 紧急撤退 n 】 = emergency retreat.
+- _【 treat 对待 治疗 v 】_
+- _【 retreat 撤退 v 】_ // --------------------- 【 retreat immediately. 立即撤退 】
+- **【 My leader 【 urged 】 me to complete the task. 我的领导催促我去完成任务 】**
+- **【 The 【 command 】 requires us to 【 retreat 】 【 immediately 】 after 【 recovery 】. 这个命令要求我们康复后立即撤退 】**
+- // -- 【 urge 催促 v 】
+- // -- 【 recover 恢复 康复 v 】
+- // -- 【 recovery 恢复 n 】
+- // -- 【 command 命令 n / 指挥 v 】
+- // -- 【 retreat immediately. 立即撤退 v 】
