@@ -1,12 +1,16 @@
 ##### Mac
 
-##### (1) applications
+##### (1) Applications
+
+- [有道云笔记链接](https://note.youdao.com/web/#/file/recent/note/WEBaad2feadd11c06ba3c517549eb116427/)
 
 ```
 1. Thor Launcher.
 2. MonitorControlLit.
 3. Scroll Reverser.
 4. Rectangle
+
+5. Raycast
 ```
 
 ##### (1) View process and Kill process 傻进程
