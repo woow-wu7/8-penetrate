@@ -253,8 +253,11 @@
 - `【 cheque 支票 】`
 - `【 lottery 彩票 】` // --------------------------【 lottery ticket. 彩票 】 【 lottery draw. 抽奖 】
 - `【 share 股份n 分享v 】`// -----------------------【 market share. 市场占有率 】
-- > 【 lottery draw. 抽奖 n 】
+- > 【 lottery draw. 抽奖 n 】 // ----------------- 【 overdraw your body. 透支你的身体 】 【 drawback 缺点 】
 - > 【 lottery ticket. 彩票 n 】
+- _【 drawback 缺点 v 】_ // ---------------------- 【 minor drawback. 小缺点 】
+- _【 overdraw 透支 v 】_ // ---------------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 】
+- _【 lottery draw. 抽奖 】_
 -
 - `【 asset 资产 】` // ----------------------------【 fixed asset. 固定资产 n 】 【 current asset. 浮动资产 n 】 // 【 asset 资产 / property 财产 】
 - `【 share 股份n 分享v 】` // ----------------------【 share sth with sb. 给某人分享某事 】
@@ -298,6 +301,11 @@
 - **【 The 【 lottery ticket 】 for 【 this period 】 is 【 in the process of 】 【 lottery draw 】. 这期彩票正在抽奖 】**
 - // 【 this period. 本期 n 】
 - // 【 in the process of. 在...的过程中 】
+-
+- [FF.]
+- `【 drawback 缺点 n 】` // 【 minor drawback. 小缺点 】
+- `【 overdraw 透支 v 】`
+- **【 The 【 drawback 】 of 【 working overtime 】 is that it can 【 overdraw 】 your body. 加班的缺点是会透支你的身体 】**
 
 ###### Must 2024-09-15
 
@@ -316,13 +324,14 @@
 - _【 social contradiction. 社会矛盾 n 】_
 - _【 family contradiction. 家庭矛盾 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
+- _【 external medicine. 外用药 】_
 - // TIPS: Pay attention to the pronunciation of the word 'contradiction'. [contradiction-矛盾]
 - // TIPS: Pay attention to the pronunciation of the word 'phenomenon'. [phenomenon-现象]
 -
 - `【 statue 雕像 n 】` // ----------------------- 【 bronze statue. 铜像 n 】 【 statue of liberty. 自由女神像 】
 - `【 status 身份 状态 地位 n 】` // -------------- 【 social status. 社会地位 n 】 【 historical status. 历史地位 n 】
 - `【 state 状态 国家 n / 陈述v 】` // ------------ 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
-- _【 state 状态 n / 国家 n / 陈述 v 】_
+- _【 state 状态 n / 国家 n / 陈述 v 】_ // ------- 【 state / country (county) / nation (national nationality) 】
 - _【 good state. 良好的状态 n 】_
 - _【 welfare state. 福利国家 n 】_
 - _【 state secret. 国家机密 n 】_
@@ -399,6 +408,8 @@
 - > 【 driveway 车道 n 】
 - > 【 subway 地铁 n 】
 - > 【 railway 铁路 n 】
+- _【 high speed rail. 高铁 】_
+- _【 highway 高速公路 = freeway 】_
 -
 - [AA.]
 - `【 free 自由的adj 自由地adv 】`
@@ -435,11 +446,14 @@
 - > 【 country / province / city / district 区 / county 县 】
 - > 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
 - > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
+- _【 social welfare. 社会福利 】_
+- _【 welfare state. 福利国家 】_
+- _【 state secret. 国家机密 n 】_
 -
 - `【 count 计数 v 】` // -------------------------- 【 count down. 倒计时 】
 - `【 discount 打折 v n 】` // --------------------- **【 discount coupon. 折扣劵 n 】** 【 discount rate. 折扣率 n 】 【 at a discount. = on sale. 打折 】
 - `【 counter 计数器 柜台 n 】` // ------------------ 【 bank counter. 银行柜台 n 】 【 service counter. 服务台 n 】
-- `【 encounter 遭遇 v n 】` // -------------------- **【 encounter setback. 遭遇挫折 n 】** 【 encounter difficulty. 遭遇困难 n 】 【 overcome difficulty. 克服困难 】
+- `【 encounter 遭遇 v n 】` // -------------------- **【 encounter setback. 遭遇挫折 】** 【 encounter difficulty. 遭遇困难 】 【 overcome difficulty. 克服困难 】
 - `【 countable 可数的 adj 】` // ------------------ 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 uncountable 不可数的 adj 】`
 - > 【 encounter setback. 遭遇挫折 n 】 // 【 suffer setback. 遭受挫折 n 】
@@ -509,6 +523,7 @@
 -
 - `【 encounter 遭遇 v 】` // ---------------------- 【 encounter setback. 遭遇挫折 】 【 encounter difficulty. 遭遇困难 】
 - `【 suffer 遭受 v 】` // ------------------------- 【 suffer setback. 遭受挫折 】
+- > 【 suffer from. 遭受 v 】
 -
 -
 - [AA.]
@@ -551,14 +566,14 @@
 ###### Must 2024-09-19
 
 - 1
-- `【 setback 挫折 n 】` // ----------------------- 【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】 【 serious setback. 严重挫折 】
-- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 【 overdraw your body. 透支你的身体 】
+- `【 setback 挫折 n 】` // ----------------------- 【 serious setback. 严重挫折 】 // --【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】
+- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】
 - `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
 - `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
 - `【 look back. 回顾 v 】` // -------------------- `【 look back on sth. 回顾... 】` // 【 look back. = review 回顾 v 】
 - _【 major / minor / patch / alpha / beta 】_
 - _【 minor drawback. 小缺点 n 】_
-- > 【 serious setback. 严重挫折 】
+- > 【 serious setback. 严重挫折 】 // -------------【 serious 严肃的 认真的 严重的 adj 】
 - > 【 suffer setback. 遭受挫折 】
 - > 【 encounter setback. 遭遇挫折 】
 - _【 look back. = review 回顾 】_
@@ -567,9 +582,8 @@
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】
 - `【 backache 背痛 】`
-- `【 backbone 脊柱 n 】`
+- `【 backbone 脊柱 n 】` // ---------------------- 【 bone 骨头 】
 - `【 backpack 背包 】`
-- `【 backstroke 仰泳 v n 】`
 -
 - `【 back up. 备份 v 】` // -----------------------【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 back down. 让步 v 】`
@@ -589,7 +603,7 @@
 - `【 setback 挫折 n 】`
 - > 【 suffer setback. 遭受挫折 】
 - > 【 encounter setback. 遭遇挫折 】
-- **【 His 【 drawback 】 is that he easily gives up after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
+- **【 His 【 drawback 】 is that he easily 【 gives up 】 after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
 -
 - [CC.]
 - `【 setback 挫折 n 】`
@@ -600,12 +614,13 @@
 -
 - [DD.]
 - `【 look back on sth. 回顾某事 】`
-- **【 Let me 【 go back 】 to the classroom to 【 book back on 】 what learned yesterday. 让我回到教室回顾一下昨天知识 】**
+- **【 Let me 【 go back 】 to the classroom to 【 look back on 】 what learned yesterday. 让我回到教室回顾一下昨天知识 】**
+- // -- 【 look back on. 回顾 v 】
 -
 - [EE.]
 - `【 back up. 备份 v 】`
 - `【 backup 备份 n 】`
-- `【 backtrack】`
+- `【 backtrack 回溯 v 】`
 - **【 Please 【 back up 】 this file 【 for 】 【 backtrack 】. 备份这份文件用来回溯 】**
 -
 - [FF.]
@@ -613,19 +628,21 @@
 - `【 backpack 背包 n 】`
 - **【 There are 【 backbones 】 in his 【 backpack 】. 他的背包里装着脊柱 】**
 
-His short arms are his biggest drawback. he's struggling to reach the toilet paper. 他的短胳膊是他最大的缺点，他很努力额去够厕所纸
-// drawback 缺点
-// toilet 马桶 厕所
-
 ###### Must 2024-09-21
 
 - 1
 - `【 fade away. 逐渐消失 v 】` // ------------------- 【 fade away. = gradually disappear. 逐渐消失 v 】
 - `【 gradually disappear. 逐渐消失 v 】` // --------- 【 gradually recover. 逐渐恢复 v 】 【 gradually improve. 逐渐改善 v 】
 - `【 disappear 消失 v 】`
-- > 【 gradually recover. 逐渐恢复 v 】 // ------------【 body gradually recover. 身体逐渐恢复 】
-- > 【 gradually improve. 逐渐改善 v 】 // ------------【 condition gradually improve. 病情逐渐改善 】 【 improve 提高 改善 v 】`
-- > 【 gradually disappear 】// ----------------------【 symptom gradually disappear. 症状逐渐消失 】
+- _【 improve 提升 改善 v 】_
+- > 【 gradually recover. 逐渐恢复 v 】 // ------------【 body gradually recover. 身体逐渐恢复 】 // ---- 【 gradually recover strength. 逐渐恢复体力 】
+- > 【 gradually improve. 逐渐改善 v 】 // ------------【 condition gradually improve. 病情逐渐改善 】 // 【 improve 提高 改善 v 】 // 【 condition 病情 条件 n 】
+- > 【 gradually disappear. 逐渐消失 】// -------------【 symptom gradually disappear. 症状逐渐消失 】
+- _【 recover health. 恢复健康 】_
+- _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】
+- _【 recover economy. 恢复经济 】_
+- // 【 supplement nutrition. 补充营养 】
+- // 【 supplement energy. 补充能量 】
 - // TIPS: Pay attention to the pronunciation of the word 'gradually'. [gradually-逐渐地-adv]
 -
 - `【 appear 出现 v 】`
@@ -647,6 +664,9 @@ His short arms are his biggest drawback. he's struggling to reach the toilet pap
 - `【 gradually improve. 逐渐改善 v 】`
 - `【 gradually recover. 逐渐恢复 v 】`
 - `【 gradually fade away. 逐渐消失 v = gradually disappear. 】`
-- **【 His 【 condition 】 【 gradually 】 【 improved 】, his body 【 gradually recovered, 】 his symptoms 【 gradually fade away 】. 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失 】**
+- **【 His 【 condition 】 【 gradually 】 【 improved 】, his body 【 gradually recovered 】, his symptoms 【 gradually disappear 】. 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失 】**
 - // 【 condition 病情 条件 n 】
 - // 【 improve 改善 改进 提高 v 】
+- // 【 condition gradually improve. 病情逐渐改善 】
+- // 【 body gradually recover. 身体逐渐恢复 】
+- // 【 symptom gradually disappear. 症状逐渐消失 】
