@@ -1059,15 +1059,28 @@ He is good at 【 math 】 【 as well as 】 【 science 】.
 
 ```
 1
+There are 【 strict regulations 】 for 【 residents 】 in both 【 business districts 】 and 【 residential districts 】.
 商业区和居民区对居民都有严格的规定
+-
+// -
+// 【 strict regulation. 严格的规定 n 】
+// 【 business district. 商务区 n 】
+// 【 residential district. 住宅区 n 】
 
 
 2
+We should't 【 discard 】 the 【 traditions 】 of our country easily.
 我们不应该轻易丢弃我们国家的传统
+// -
+// 【 discard 丢弃 v 】
 
 
 3
+please 【 reveal the truth 】 and 【 reveal the answer 】.
 请你揭示真相和揭示答案
+// -
+// 【 reveal the truth. 揭示真相 】
+// 【 reveal the answer. 揭示答案 】
 
 
 4
@@ -1116,12 +1129,26 @@ The 【 paint smell 】 will 【 fade away 】 【 in a few days 】.
 After 【 graduation 】, they 【 gradually 】 lost contact.
 毕业之后，他们逐渐失去了联系
 -
-He 【 gradually 】 【 improved 】 his English grades.
+He 【 gradually 】 【 improved 】 his English 【 grades 】.
 他逐渐提高了英语成绩
+-
+He 【 gradually 】 【 disappear into  】the crowd.
+他逐渐消失在人群中
+-
+His 【 condition 】 【 gradually improved 】, his body 【 gradually recovered 】, his symptoms 【 gradually disappeared 】.
+他的病情逐渐改善，身体逐渐恢复，症状逐渐消失
 -
 // -
 // 【 graduation 毕业 n 】
 // 【 gradually 逐渐地 adv 】
+// -
+// 【 gradually improve. 逐渐提高 / 逐渐改善 v 】
+// 【 gradually recover. 逐渐恢复 v 】
+// 【 gradually disappear. 逐渐消失 v 】
+// -
+// 【 grade 年级 成绩 n 】
+// -
+// 【 condition 条件 病情 n 】
 
 
 9
@@ -1155,4 +1182,18 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 任何严重的挫折都不能打败他
 -
 他的缺点是遭受挫折后容易放弃
+
+
+3
+我的领导催促我去完成任务
+
+
+4
+他是记者同时也是口译员
+-
+我们可以用匿名信匿名举报他人
+
+
+5
+这个命令要求我们康复后立即撤退
 ```
