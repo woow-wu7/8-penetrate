@@ -30,3 +30,17 @@
 - // -- 【 fly into. 飞进... 】
 - // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
 - // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
+
+##### IELTS Similar 2024-09-22
+
+```
+1
+involve 涉及
+participate
+-
+multiple 倍数 n / 多个的 多种的 adj
+multiply 乘 乘以 v / 多种地 adv
+// Two multiplied by eight is a multiple of four.  2乘以8是4的倍数
+// multiple 多个的: This war 【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
+// multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
+```
