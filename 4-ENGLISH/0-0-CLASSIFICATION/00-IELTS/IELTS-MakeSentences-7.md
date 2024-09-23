@@ -1084,11 +1084,27 @@ please 【 reveal the truth 】 and 【 reveal the answer 】.
 
 
 4
+When we 【 encounter a difficulty 】, we need to 【 overcome the difficulty 】.
 当我们遭遇困难，我们就需要去克服困难
 -
+His 【 drawback 】 is that he easily gives up after suffering 【 setbacks 】.
 他的缺点是遭受挫折后容易放弃
 -
+No 【 serious setback 】  can 【 defeat 】 him.
 任何严重的挫折都不能打败他
+-
+// -
+// 【 drawback 缺点 n 】
+// 【 setback 挫折 n  】
+// -
+// 【 suffer setback. 遭受挫折 】
+// 【 encounter setback. 遇到挫折 】
+// 【 serious setback. 严重的挫折 】
+// -
+// 【 defeat 打败 击败 v 】
+// -
+// 【 encounter difficulty. 遭遇困难 】
+// 【 overcome difficulty. 克服困难 】
 
 
 5
@@ -1161,7 +1177,7 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 // 【 apply for. 申请 v 】
 ```
 
-##### 14 Make sentences 2024-09-22
+##### 15 Make sentences 2024-09-22
 
 ```
 1
@@ -1196,4 +1212,16 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 
 5
 这个命令要求我们康复后立即撤退
+
+
+6
+一只乌鸦飞进了人群
+
+
+7
+他正在发烧
+
+
+8
+加班的缺点是会透支你的身体
 ```
