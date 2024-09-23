@@ -197,3 +197,35 @@
 - // -- 【 recovery 恢复 n 】
 - // -- 【 command 命令 n / 指挥 v 】
 - // -- 【 retreat immediately. 立即撤退 v 】
+
+##### IELTS Work 2024-01-23
+
+- 1
+- `【 real-time. 实时的 adj 】`
+- `【 in real time. 实时地 adj  】`
+- _【 real-time. 实时的 adj 】_
+- > 【 update data in real time. 实时更新 】
+- > 【 communicate in real time. 实时交流 】
+- > 【 process in real time. 实时处理 】
+- 1. **【 We can 【 communicate in real time 】 and 【 update data in real time 】 through this platform. 我们可以通过这个平台实时交流和实时更新数据 】**
+- 2. **【 These 【 real-time data 】 are updated 【 in real time 】. 这些实时的数据是实时更新的 】**
+-
+- 2
+- `【 ascend 上升 v 】`
+- `【 descend 下降 v 】`
+- > 【 ascending 上升的 adj 】
+- > 【 descending 下降的 adj 】
+-
+- 3
+- `【 cursor 光标 n 】`
+-
+- 4
+- `【 archive 档案n 存档v 】`
+- **【 Please 【 archive 】 the 【 archive 】. 请存档档案 】**
+-
+- 5
+- `【 retrieve 检索 v 】`
+- `【 retrieval 检索 n 】`
+-
+- 6
+- `【 enumerate 枚举 】`

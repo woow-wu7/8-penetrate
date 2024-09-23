@@ -1177,13 +1177,13 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 // 【 apply for. 申请 v 】
 ```
 
-##### 15 Make sentences 2024-09-22
+##### 15 Make sentences 2024-09-24
 
 ```
 1
 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失
 -
-他逐渐消失在人群中
+这只乌鸦逐渐消失在人群中
 -
 毕业之后，他们逐渐失去了联系
 
@@ -1227,5 +1227,15 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 
 
 9
-这场战争涉及到多个国家
+我们应该打败并战胜强大的对手
+
+
+10
+我们可以通过这个平台实时交流和实时更新数据
+-
+这些实时的数据是实时更新的
+
+
+11
+请存档档案
 ```
