@@ -637,7 +637,7 @@ We 【 customize 】 an 【 optimized 】 software 【 for 】 our 【 customers
 -
 We can 【 customize 】 different versions of the software 【 according to 】 the 【 custom 】 of our 【 customers 】.
 我们可以根据客户的习俗自定义不同版本的软件
--
+- 
 // -
 // 【 custom 习俗 风俗 n 】
 // 【 customer 客户 n 】
@@ -649,7 +649,7 @@ We can 【 customize 】 different versions of the software 【 according to 】
 
 
 2
-The 【 discount intensity 】 for 【 retail 】 and 【 wholesale 】 is different.
+The 【 discount intensity 】 for 【 retail 】 and 【 whol esale 】 is different.
 零售和批发的打折力度不一样
 // -
 // 【 discount intensity. 打折力度 】
