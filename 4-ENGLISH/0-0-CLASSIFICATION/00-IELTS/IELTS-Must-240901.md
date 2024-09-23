@@ -139,11 +139,14 @@
 ###### Must 2024-09-12
 
 - 1
-- `【 overcome 克服 v 】` // ----------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 encounter difficulty. 遇到困难 】
+- `【 overcome 克服 战胜 v 】` // ------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 encounter difficulty. 遇到困难 】
 - `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】
 - > 【 overcome fear. 克服恐惧 】
 - > 【 overcome difficulty. 克服困难 】
 - > 【 encounter difficulty. 遇到困难 】
+- _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
+- _【 defeat opponent. 打败对手 】_
+- _【 strong opponent. 强大的对手 】_
 - > 【 overlook = ignore. 忽略 】
 - > 【 overlook detail. = ignore detail. 忽略细节 】
 - > 【 detailed plan. 详细计划 】
@@ -206,6 +209,15 @@
 - `【 pedestrian 行人 n 】`
 - **【 Please 【 slow down 】 and【 pull over 】to the side, don't 【 knock over 】 the 【 pedestrian 】. 请靠边停车，别撞到行人 】**
 - // -- 【 pedestrian. 行人 n 】
+-
+- [EE.]
+- `【 defeat 打败  v 】`
+- `【 overcome 克服 战胜 v 】`
+- `【 opponent 对手 n 】`
+- `【 strong opponent. 强大的对手 n 】`
+- **【 We should 【 defeat 】 and 【 overcome 】 【 strong opponents 】. 我们应该打败并战胜强大的对手 】**
+- // -- 【 opponent 对手 n 】
+- // -- 【 component 组件 n 】
 
 ###### Must 2024-09-13
 
@@ -658,7 +670,9 @@
 - [BB.]
 - `【 gradually disappear. 逐渐消失 v 】`
 - `【 gradually disappear into. 逐渐消失在...】`
-- **【 He 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 他逐渐消失在人群中 】**
+- **【 The 【 crow 】 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 这只乌鸦逐渐消失在人群中 】**
+- // -- 【 crow 乌鸦 n 】
+- // -- 【 crowd 人群 n 】
 -
 - [CC.]
 - `【 gradually improve. 逐渐改善 v 】`
