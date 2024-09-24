@@ -228,4 +228,22 @@
 - `【 retrieval 检索 n 】`
 -
 - 6
-- `【 enumerate 枚举 】`
+- `【 enumerate 枚举 列举 v 】`
+- `【 enumeration 枚举 n 】`
+
+```
+refactor 重构 n
+```
+
+##### IELTS Work 2024-01-24
+
+- 1
+- `【 greater than. 大于 】`
+- `【 less than. 小于 】`
+-
+- 2
+- `【 justification 正当理由 n 】`
+-
+- 3
+- `【 invent 发明 v 】`
+- `【 inventory 库存 清单 n 】`

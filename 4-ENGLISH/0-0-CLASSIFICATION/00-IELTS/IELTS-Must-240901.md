@@ -51,21 +51,22 @@
 
 - 1
 - `【 internship 实习 实习期 n 】` // -----------【 internship position. 实习岗 】 【 intern 实习生 】
-- `【 scholarship 奖学金 n 】` // ------------- 【 scholar 学者 n 】
+- `【 scholarship 奖学金 n 】` // ------------- 【 full scholarship. 全额奖学金 n 】 【 scholar 学者 n 】
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
 - > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】 【 family contradiction. 】
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
 - _【 contradict 矛盾 反驳 v 】_
-- _【 contradiction 矛盾 反驳 n 】_ // ------------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
+- _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
 - _【 social contradiction. 社会矛盾 n 】_
 - _【 family contradiction. 家庭矛盾 n 】_
+- > 【 full scholarship. 全额奖学金 n 】
 -
 - `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 = steady relationship. 】 // 【 physical relationship. 肉体关系 】
-- `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】
+- `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - > 【 stable relationship. 稳定的关系 n 】
@@ -85,10 +86,11 @@
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
 - > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
+- > 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national assets. 国有资产 n 】 【 Nation Day. 国庆节 n 】
 - _【 navy 海军 n 】_
 - _【 envy 羡慕 嫉妒 v 】_
 - _【 envy sb for doing sth. 羡慕某人做某事 】_
-- > 【 worship 崇拜 v n 】
+- > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
 -
@@ -101,7 +103,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'during.' [during]
 -
 - [BB.]
-- `【 worship 崇拜 v n 】`
+- `【 worship 崇拜 v n 】` // 【 worship idol. 崇拜偶像 】
 - `【 warship 战舰 n 】`
 - **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 崇拜开战舰的海军和开海盗船的海盗 】**
 - // -- 【 greatly 非常 adv 】
@@ -124,6 +126,8 @@
 - `【 contradict 反驳 v 】`
 - `【 contradiction 矛盾 n 】`
 - `【 internal contradiction. 内部矛盾 n 】`
+- `【 family contradiction. 家庭矛盾 n 】`
+- `【 social contradiction. 社会矛盾 n 】`
 - **【 He didn't 【 contradict 】 the 【 internal contradictions 】 between us. 他对我们之间的矛盾没有进行任何反驳 】**
 -
 - [EE.]
@@ -139,10 +143,11 @@
 ###### Must 2024-09-12
 
 - 1
-- `【 overcome 克服 战胜 v 】` // ------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 encounter difficulty. 遇到困难 】
+- `【 overcome 克服 战胜 v 】` // ------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 overcome opponent. 战胜对手 】
 - `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】
 - > 【 overcome fear. 克服恐惧 】
 - > 【 overcome difficulty. 克服困难 】
+- > 【 overcome opponent. 战胜对手 】 // ------ 【 opponent 对手 敌手 n 】 【 component 组件 n 】
 - > 【 encounter difficulty. 遇到困难 】
 - _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
 - _【 defeat opponent. 打败对手 】_
@@ -151,7 +156,7 @@
 - > 【 overlook detail. = ignore detail. 忽略细节 】
 - > 【 detailed plan. 详细计划 】
 - > 【 detailed report. 详细报告 】
-- _【 detail 细节 n 】_
+- _【 detail 细节 n 】_ // ------------------- 【 in detail. 详细地 adv 】 【 detailed 详细地 adj 】 // 【 detailed plan. 详细的计划 】 【 detailed report. 详细的报告 】
 - _【 tail 尾巴 n 】_
 - _【 retail 零售 n 零售的 adj 】_ // --------- 【 retail price. 零售价 】
 - _【 wholesale 批发 n 批发的 adj 】_ // ------ 【 wholesale price. 批发价 】
@@ -172,6 +177,8 @@
 - > 【 lottery draw. 抽奖 v 】
 - > 【 lottery ticket. 彩票 n 】
 - _【 draw 绘画 抽签 v 】_
+- _【 overdraw 透支 v 】_ // ----------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 n 】
+- _【 drawback 缺点 】_ // ------------------- 【 minor drawback. 小缺点 n 】
 -
 - `【 overcoat 大衣 n 】`
 - `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
@@ -189,6 +196,7 @@
 - `【 overlook detail. = ignore detail. 忽略细节 】` = ignore detail.
 - > 【 the key to doing sth. 做某事的关键... 】
 - **【 【 The key to 】 【 overcoming difficulties 】 and 【 overcoming fear 】 is not to 【 overlook details 】. 克服困难和克服恐惧的关键是不能忽略细节 】**
+- **【 We need to overcome difficulty and overcome fear to overcome our opponents. 我们需要克服困难、克服恐惧去战胜对手 】**
 - **【 We don't 【 overlook 】 this problem, we should 【 overcome 】 it. 我们不能忽视这个问题，而是要克服这个问题 】**
 - // -- 【 the key to doing sth. 做某事的关键... 】
 -
@@ -218,6 +226,9 @@
 - **【 We should 【 defeat 】 and 【 overcome 】 【 strong opponents 】. 我们应该打败并战胜强大的对手 】**
 - // -- 【 opponent 对手 n 】
 - // -- 【 component 组件 n 】
+- // -- 【 strong opponent. 强大的对手 n 】
+- // -- 【 overcome opponent. 战胜对手 】
+- // -- 【 defeat opponent. 打败对手 】
 
 ###### Must 2024-09-13
 
@@ -472,6 +483,7 @@
 - > 【 encounter difficulty. 遭遇困难 n 】
 - > 【 overcome difficulty. 克服困难 】 ------------ 【 overcome / overlook / overview / overall / overdraw / overtime / overwork 】
 - > 【 overcome fear. 克服恐惧 n 】
+- > 【 overcome opponent. 战胜对手 】
 - _【 count down. 倒计时 】_
 - > 【 bank counter. 银行柜台 n 】
 - > 【 service counter. 服务台 n 】
@@ -574,6 +586,12 @@
 - `【 residential district. 住宅区 n 】`
 - `【 strict regulation. 严格的规定 】`
 - **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
+-
+- [FF.]
+- `【 overcome difficulty. 克服困难 v 】`
+- `【 overcome fear. 克服恐惧 v 】`
+- `【 overcome opponent. 战胜对手 v 】`
+- **【 We need to 【 overcome difficulty 】 and 【 overcome fear 】 to 【 overcome opponent 】. 我们需要克服困难和克服恐惧去战胜对手 】**
 
 ###### Must 2024-09-19
 
@@ -676,8 +694,8 @@
 -
 - [CC.]
 - `【 gradually improve. 逐渐改善 v 】`
-- `【 gradually recover. 逐渐恢复 v 】`
-- `【 gradually fade away. 逐渐消失 v = gradually disappear. 】`
+- `【 gradually recover. 逐渐恢复 v 】` // 【 recover strength. 恢复体力 】
+- `【 fade away. 逐渐消失 v = gradually disappear. 】`
 - **【 His 【 condition 】 【 gradually 】 【 improved 】, his body 【 gradually recovered 】, his symptoms 【 gradually disappear 】. 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失 】**
 - // 【 condition 病情 条件 n 】
 - // 【 improve 改善 改进 提高 v 】

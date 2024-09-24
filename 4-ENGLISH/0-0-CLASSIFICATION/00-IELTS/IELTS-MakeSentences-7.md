@@ -1239,3 +1239,20 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 11
 请存档档案
 ```
+
+##### 16 Make sentences 2024-09-25
+
+```
+1
+我们需要克服困难和克服恐惧去战胜对手
+
+
+2
+I 【 used to be 】 a teacher.
+I was 【 once 】 a teacher.
+我曾经是一位老师
+-
+She 【 used to 】 【 lived in 】 【 Paris 】.
+She 【 once 】 【 lived in 】 Paris.
+她曾经住在巴黎
+```
