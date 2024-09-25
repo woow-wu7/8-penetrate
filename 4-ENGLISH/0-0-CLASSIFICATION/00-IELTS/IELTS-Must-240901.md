@@ -64,6 +64,7 @@
 - _【 social contradiction. 社会矛盾 n 】_
 - _【 family contradiction. 家庭矛盾 n 】_
 - > 【 full scholarship. 全额奖学金 n 】
+- > 【 be full of. 充满 】
 -
 - `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 = steady relationship. 】 // 【 physical relationship. 肉体关系 】
 - `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
@@ -99,7 +100,11 @@
 - `【 internship 实习期n 实习n 】`
 - `【 internship position. 实习岗 n 】`
 - `【 scholarship 奖学金 n 】`
-- **【 The 【 intern 】 received a 【 scholarship 】 for his 【 internship position 】 during his 【 internship 】. 实习生在实习期间因其实习岗位获得了一项奖学金 】**
+- **【 The 【 intern 】 【 is full of 】 【 strength 】 and received a 【 full scholarship 】 for his 【 internship position 】 during his 【 internship 】. 这个实习生充满了力量， 在实习期实习岗中获得了全额奖学金 】**
+- // -- 【 be full of. 充满 v 】
+- // -- 【 strength 力量 体力 n 】
+- // -- 【 be full of strength. 充满力量 】
+- // -- 【 full scholarship. 全额奖学金 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'during.' [during]
 -
 - [BB.]
@@ -597,9 +602,7 @@
 
 - 1
 - `【 setback 挫折 n 】` // ----------------------- 【 serious setback. 严重挫折 】 // --【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】
-- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】
-- `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
-- `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
+- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 】
 - `【 look back. 回顾 v 】` // -------------------- `【 look back on sth. 回顾... 】` // 【 look back. = review 回顾 v 】
 - _【 major / minor / patch / alpha / beta 】_
 - _【 minor drawback. 小缺点 n 】_
@@ -608,6 +611,9 @@
 - > 【 encounter setback. 遭遇挫折 】
 - _【 look back. = review 回顾 】_
 - _【 book back on sth. 回顾某事 】_
+-
+- `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
+- `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
 -
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】
@@ -633,7 +639,7 @@
 - `【 setback 挫折 n 】`
 - > 【 suffer setback. 遭受挫折 】
 - > 【 encounter setback. 遭遇挫折 】
-- **【 His 【 drawback 】 is that he easily 【 gives up 】 after suffering 【 setbacks 】. 他的缺点是遭受挫折后容易放弃 】**
+- **【 His 【 minor drawback 】 is that he easily 【 gives up 】 after suffering 【 setbacks 】. 他的小缺点是遭受挫折后容易放弃 】**
 -
 - [CC.]
 - `【 setback 挫折 n 】`
@@ -680,6 +686,14 @@
 - > 【 gradually 逐渐地 adv 】`
 - > 【 graduation 毕业 v 】` // --------------------- 【 graduate 毕业 v 】
 -
+- `【 strength 强度 力量 力气 n 】`
+- > 【 physical strength. 体力 】
+- > 【 recover physical strength. 恢复体力 】
+- > 【 mental strength. 精神力量 】
+- > 【 military force. 军事力量 】 【 military 军事的 adj 军队 n 】
+- **【 He 【 is full of 】 【 physical strength 】 and don't need to 【 recover physical strength 】. 他的体力很充沛，不需要恢复体力 】**
+- // -- 【 be full of. 充满 】
+-
 - [AA.]
 - `【 graduation 毕业 n 】`
 - `【 gradually 逐渐的 adv 】`
@@ -702,3 +716,8 @@
 - // 【 condition gradually improve. 病情逐渐改善 】
 - // 【 body gradually recover. 身体逐渐恢复 】
 - // 【 symptom gradually disappear. 症状逐渐消失 】
+-
+- [DD.]
+- `【 academic performance. 学习成绩 n 】`
+- `【 gradually improve. 逐渐提高 v 】`
+- **【 His 【 academic performance 】 【 gradually improved 】. 他的学习成绩逐渐提高了 】**

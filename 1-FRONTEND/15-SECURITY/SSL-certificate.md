@@ -16,7 +16,7 @@
 
 ##### (1.1) 生成 SSL 的 CSR 方式一 / 不用配置文件
 
-```javascript 1. 生成SSL的CSR 方式一 不用配置文件
+```java 1. 生成SSL的CSR 方式一 不用配置文件
 生成SSL的CSR 1
 -
 
@@ -44,7 +44,7 @@ openssl req -new -key private.key -out certificate.csr
 
 ##### (1.2) 生成 SSL 的 CSR 方式二 / 配置文件
 
-```javascript 2. 生成SSL的CSR 方式二 配置文件
+```java 2. 生成SSL的CSR 方式二 配置文件
 2.1
 openssl.cnf
 -

@@ -1240,7 +1240,7 @@ This 【 applicant 】 【 is apply for 】 a 【 loan 】 and 【 driver's lice
 请存档档案
 ```
 
-##### 16 Make sentences 2024-09-25
+##### 16 Make sentences 2024-09-26
 
 ```
 1
@@ -1255,4 +1255,26 @@ I was 【 once 】 a teacher.
 She 【 used to 】 【 lived in 】 【 Paris 】.
 She 【 once 】 【 lived in 】 Paris.
 她曾经住在巴黎
+
+
+3
+皮肤是感觉器官
+
+
+4
+他的体力很充沛，不需要恢复体力
+-
+他充满了力量
+
+
+5
+他的学习成绩逐渐提高了
+
+
+6
+他的小缺点是遭受挫折后容易放弃
+
+
+7
+这个实习生充满了力量，在实习期实习岗中获得了全额奖学金
 ```
