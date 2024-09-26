@@ -617,6 +617,7 @@
 -
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】
+-
 - `【 backache 背痛 】`
 - `【 backbone 脊柱 n 】` // ---------------------- 【 bone 骨头 】
 - `【 backpack 背包 】`
@@ -645,8 +646,10 @@
 - `【 setback 挫折 n 】`
 - `【 serious setback. 严重的挫折 】`
 - **【 No 【 serious setback 】 can 【 defeat 】 him. 任何严重的挫折都不能打败他 】**
+- **【 Let's 【 look back on / review 】 the 【 serious setback 】 that he 【 suffered 】. 让我们回顾一下他遭受的严重挫折 】**
 - // -- 【 serious 严肃的 认真的 严重的 adj 】
-- // -- 【 defeat 打败 v 】
+- // -- 【 defeat 打败 v / overcome 战胜 克服 v 】
+- // -- 【 serious setback. 严重挫折 n 】
 -
 - [DD.]
 - `【 look back on sth. 回顾某事 】`
@@ -677,8 +680,9 @@
 - _【 recover health. 恢复健康 】_
 - _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】
 - _【 recover economy. 恢复经济 】_
-- // 【 supplement nutrition. 补充营养 】
+- // 【 supplement nutrition. 补充营养 】 // ----------【 supplement 补充 v / supplier / dealer / seller 】
 - // 【 supplement energy. 补充能量 】
+- // 【 recover strength. 恢复体力 】
 - // TIPS: Pay attention to the pronunciation of the word 'gradually'. [gradually-逐渐地-adv]
 -
 - `【 appear 出现 v 】`
@@ -686,11 +690,11 @@
 - > 【 gradually 逐渐地 adv 】`
 - > 【 graduation 毕业 v 】` // --------------------- 【 graduate 毕业 v 】
 -
-- `【 strength 强度 力量 力气 n 】`
+- `【 strength 力量 强度 力气 n 】`
+- > 【 military force. 军事力量 】 // ---------------- 【 military 军事的 adj 军队 n 】
 - > 【 physical strength. 体力 】
 - > 【 recover physical strength. 恢复体力 】
 - > 【 mental strength. 精神力量 】
-- > 【 military force. 军事力量 】 【 military 军事的 adj 军队 n 】
 - **【 He 【 is full of 】 【 physical strength 】 and don't need to 【 recover physical strength 】. 他的体力很充沛，不需要恢复体力 】**
 - // -- 【 be full of. 充满 】
 -
@@ -721,3 +725,9 @@
 - `【 academic performance. 学习成绩 n 】`
 - `【 gradually improve. 逐渐提高 v 】`
 - **【 His 【 academic performance 】 【 gradually improved 】. 他的学习成绩逐渐提高了 】**
+-
+- [EE.]
+- `【 supplement nutrition. 补充营养 v 】`
+- `【 supplement energy. 补充能量 v 】`
+- `【 recover physical strength. 恢复体力 v】`
+- **【 【 Supplementing nutrition 】 and 【 supplementing energy 】 can 【 recover physical strength 】. 补充营养和补充能量能够恢复体力 】**
