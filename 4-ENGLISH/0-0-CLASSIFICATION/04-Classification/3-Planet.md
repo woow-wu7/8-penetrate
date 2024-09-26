@@ -1,12 +1,36 @@
 # Planet
 
-- `planet 行星`
-- `plant 植物 工厂`
-- `plan 计划`
+- 1
+- `【 solar 太阳的 adj 】`
+- `【 solar calendar. 阳历 n 】` // -------------- 【 lunar calendar. 阴历 】
+- `【 solar system. 太阳系 n 】` // -------------- 【 galactic system. 银河系 n 】
+- > 【 solar calendar. 阳历 公历 n 】
+- > 【 lunar calendar. 阴历 农历 n 】
+- _【 solar system. 太阳系 】_
+- _【 galactic system. 银河系 n 】_
+- // TIPS: Pay attention to the pronunciation of word 'calendar'. [calendar-日历-n]
+- // TIPS: Pay attention to the pronunciation of word 'galactic'. [galactic-银河的-adj]
+-
+-
+- 2
+- `【 orbit 轨道 n 】`
+- `【 track 轨道 n / 追踪 v 】`
+-
+-
+- 3
+- `【 planet 行星 n 】`
+- `【 plant 植物 工厂 n 】`
+- `【 plan 计划 v 】`
+- > 【 explain 解释 v 】`
+- > 【 complain 抱怨 v 】`
+- > 【 complaint 抱怨 n 】
 
 ```
 Solar System. 太阳系
 Galactic System. 银河系
+-
+solar calendar. 阳历
+lunar calendar. 阴历
 -
 universe 宇宙
 galaxy 星系 银河 n
@@ -17,6 +41,7 @@ human civilization. 人类文明
 alien civilization. 外星文明
 -
 lunar calendar. 阴历 农历
+solar calendar. 阳历
 lunar 月球的 月亮的
 -
 galactic 星系的 银河的 adj
