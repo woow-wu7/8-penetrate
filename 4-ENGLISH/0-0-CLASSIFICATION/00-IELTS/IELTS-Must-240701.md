@@ -769,9 +769,21 @@
 - `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 overcome difficulty. 克服困难 】
 - `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】
 - `【 accountant 会计 n 】` // ----------- 【 junior accountant. 初级会计 n 】 【 senior accountant. 高级会计 n 】
-- `【 county 县 n 】` // -----------------【 county court. 县法院 n 】
-- `【 country 国家 n 】` // ------------- 【 developing country. 发展中国家 n 】 【 developed country. 开发中国家 n 】 【 country / state / nation 】
+- `【 county 县 n 】` // ------------------【 county court. 县法院 n 】
+- `【 country 国家 n 】` // -------------- 【 developing country. 发展中国家 n 】 【 developed country. 开发中国家 n 】 【 country / state / nation 】
 - `【 countryside 乡村 n 】`
+-
+- `【 greater than. 大于 】` // ---------- 【 greater than sign. 大于符号 n 】
+- `【 less than. 小于 】` // ------------- 【 less than sign. 小于符号 n 】
+- > 【 greater than sign. 大于符号 n 】
+- > 【 less than sign. 大于符号 n 】
+- **【 Four is 【 greater than 】 three and 【 less than 】 five. 4 大于 3 小于 5 】**
+-
+- `【 prefix 前缀 n 】`
+- `【 suffix 后缀 n 】`
+- `【 start with. 以...开头 】`
+- `【 end with. 以...开头 】`
+- **【 The word 'good' starts with the prefix 'g' and ends with the suffix 'd'. good 这个单词以前缀 g 开头，以 d 后缀结尾 】**
 -
 - [AA.]
 - `【 position 位置 职位 n 】`
