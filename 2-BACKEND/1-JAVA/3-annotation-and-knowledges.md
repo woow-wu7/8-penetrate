@@ -24,23 +24,40 @@
 - JpaRepository.findAll()
 - JpaRepository.findById(id)
 - JpaRepository.findAllById(Arrays.asList(1L, 2L));
-- JpaRepository.save(entity) // --------------------------- create / update
+- JpaRepository.save(entity) // --------------- create / update
 - JpaRepository.deleteById(id)
 - JpaRepository.count()
 - JpaRepository.countAll()
-- repository.existsById(1L); // --------------------------- check whether is exist.
+- repository.existsById(1L); // --------------- check whether is exist.
 - // 同时也支持自定义查询，比如模糊查询
 - // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
 - // @Query("SELECT m FROM MusicJpaEntity m WHERE " + "m.name LIKE %:keyword% OR " + "m.singer LIKE %:keyword% OR " + "m.album LIKE %:keyword%")
 - // List<MusicJpaEntity> searchByKeyword(@Param("keyword") String keyword);
 -
-- 4. Interceptor 拦截器
+- 4. Lombok
+- @Data // ------------------------------------ Generate getter() and setter() function automatically. such as toString()、equals() 和 hashCode()
+- @Builder // --------------------------------- Person.builder().name("John").age(30).build();
+- @DataAllArgsConstructor // ------------------ It's a constructor with full parameters.
+- @NoArgsConstructor // ----------------------- It's a constructor with no parameters.
+-
+- 5. Interceptor 拦截器
 - HandlerInterceptor // ----------------------- 1. 创建拦截器类，自定义拦截规则 ( @Component ) ( public class RequestInterceptor implements HandlerInterceptor )
   - preHandle // ------------------------------ 在目标方法执行前执行，即 controller 方法执行前执行
   - postHandle // ----------------------------- 在目标方法执行完成后执行
   - afterCompletion // ------------------------ 在页面渲染后执行
 - WebMvcConfigurer // ------------------------- 2. 注册拦截器 ( @Configuration ) ( public class WebConfig implements WebMvcConfigurer )
 - // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
+-
+- 6. Attribute Binding. 属性绑定
+- @Component
+- @ConfigurationProperties(prefix = "spring.datasource")
+- // 1. Through '@Component' you can get the component value in any where.
+- // 2. Through '@ConfigurationProperties(prefix = "spring.datasource")' you can inject the value of spring.datasource in 'application.yml'.
+- // 3. // TIPS: The more secure way is to use ENVIRONMENT.
+-
+- 7. 环境变量 -> It can replace the 'Attribute Binding'.
+- // position: ------------------------------- run / edit configurations / Modify Options / Environment variables
+- // usage: ---------------------------------- username: ${DB_USERNAME} // in application.yml file
 
 ##### (1) SpringBoot Annotation.
 
