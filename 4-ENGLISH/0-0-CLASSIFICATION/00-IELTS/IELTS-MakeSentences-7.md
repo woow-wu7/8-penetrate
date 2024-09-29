@@ -1296,3 +1296,54 @@ She 【 once 】 【 lived in 】 Paris.
 11
 good 这个单词以前缀 g 开头，以 d 后缀结尾
 ```
+
+##### 17 Make sentences 2024-09-29
+
+```
+1
+【 Social status 】 is very important 【 in 】 【 modern society 】.
+社会地位在现代社会中很重要
+// -
+// 【 social status. 社会地位 n 】
+// 【 modern society. 现代社会 n 】
+// -
+// 【 social 社会的 adj 】
+// 【 society 社会 n 】
+
+
+2
+This 【 instrument 】 can 【 track 】 the 【 traces 】 【 left by 】 【 trucks 】.
+这个仪器可以追踪卡车留下的痕迹
+// -
+// 【 trace 踪迹v / 痕迹n 】
+// 【 track 追踪v /  轨道n  】
+// 【 truck 卡车 n 】
+// 【 garbage truck. 垃圾车 n 】
+// -
+// 【 instrument 乐器 仪器 仪表 n 】
+// 【 equipment 装备 设备 n 】
+// 【 device 设备 n 】
+// -
+// 【 left by. 由...留下 】
+
+
+3
+The 【 plan 】 is to 【 establish 】 a 【 plant 】 on the 【 planet 】.
+该计划准备在行星上建立工厂
+-
+They 【 established 】 the 【 cooperative relationship 】.
+他们确立了合作关系
+-
+// -
+// 【 planet 行星 n 】
+// 【 plant 植物 工厂 n 】
+// 【 plan 计划 v n 】
+// -
+// 【 establish 确立 建立 v 】
+// 【 establish the romantic relationship. 确立恋爱关系 】
+// 【 establish the cooperative relationship. 确立合作关系 】
+// -
+// 【 cooperate 合作 v  】
+// 【 cooperative 合作的 adj 】
+// 【 cooperation 合作 n 】
+```

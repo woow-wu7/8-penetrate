@@ -44,3 +44,7 @@ multiply 乘 乘以 v / 多种地 adv
 // multiple 多个的: This war 【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
 // multiply 繁殖: 【 It's possible to multiply these bacterial in the laboratory. 在实验室里繁殖这些细菌是可能的 】
 ```
+
+##### IELTS Similar 2024-09-29
+- 1
+- ``

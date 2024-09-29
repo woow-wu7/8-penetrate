@@ -57,7 +57,6 @@
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
 - > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】 【 family contradiction. 】
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
-- _【 contradict 矛盾 反驳 v 】_
 - _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
@@ -65,14 +64,25 @@
 - _【 family contradiction. 家庭矛盾 n 】_
 - > 【 full scholarship. 全额奖学金 n 】
 - > 【 be full of. 充满 】
+- _【 social 社会的 adj 】_ // ----------------- 【 social status. 社会地位 】
+- _【 society 社会 n 】_ // -------------------- 【 modern society. 现代社会 】
+- _【 social status. 社会地位 】_
+- _【 social media. 社交媒体 】_
+- _【 social welfare. 社会福利 】_
+- _【 social contradiction. 社会矛盾 】_
+- _【 social phenomenon. 社会现象 】_
+- // TIPS: Pay attention to the pronunciation of the word 'society'. [society-社会-n]
 -
-- `【 relationship 关系 n 】` // -------------- 【 stable relationship. 稳定的关系 = steady relationship. 】 // 【 physical relationship. 肉体关系 】
-- `【 ownership 所有权 n 】` // ----------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
+- `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
+- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - > 【 stable relationship. 稳定的关系 n 】
 - > 【 steady relationship. 稳定的关系 n 】
 - > 【 physical relationship. 肉体关系 n 】
+- > 【 cooperative relationship. 合作关系 n 】 
+- // 【 establish the cooperative relationship. 建立合作关系 】  // cooperate cooperation cooperative
+- // 【 establish the romantic relationship. 确立了恋爱关系 】
 - > 【 a sense of ownership. 主人翁意识 n 】
 -
 - `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
@@ -144,6 +154,11 @@
 - **【 We should learn to 【 get along peacefully with 】 others. 我们要学会与别人和平相处 】**
 - // -- 【 get along with sb. 与某人相处 】
 - // -- 【 get along peacefully with sb. 与某人和平相处 】
+-
+- [FF.]
+- `【 social status. 社会地位 n 】`
+- `【 modern society. 现代社会 n 】`
+- **【 【 Social status 】 is very important in 【 modern society 】. 社会地位在现代社会中很重要 】**
 
 ###### Must 2024-09-12
 
