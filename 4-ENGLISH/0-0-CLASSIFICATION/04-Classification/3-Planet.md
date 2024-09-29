@@ -1,8 +1,8 @@
 # Planet
 
 - 1
-- `【 solar 太阳的 adj 】` // -------------------- 【 solar calendar. 阳历 】 【 solar system. 太阳系 】 【 solar energy. 太阳能 】
-- `【 lunar 月亮的 adj 】` // -------------------- 【 lunar calendar. 阴历 】 【 lunar module. 登月舱 】
+- `【 solar 太阳的 adj 】- sun` // -------------- 【 solar calendar. 阳历 】 【 solar system. 太阳系 】 【 solar energy. 太阳能 】
+- `【 lunar 月亮的 adj 】- moon` // -------------- 【 lunar calendar. 阴历 】 【 lunar module. 登月舱 】
 - _【 solar calendar. 阳历 n 】_ // -------------- 【 lunar calendar. 阴历 】
 - _【 solar system. 太阳系 n 】_ // -------------- 【 galactic system. 银河系 n 】
 - _【 solar energy. 太阳能 】_ // ---------------- 【 supplement energy. 补充能量 】
@@ -11,6 +11,7 @@
 - > 【 lunar module. 登月舱 n 】
 - _【 solar system. 太阳系 】_
 - _【 galactic system. 银河系 n 】_
+- > 【 model / module / mode / medal 】
 - // TIPS: Pay attention to the pronunciation of word 'calendar'. [calendar-日历-n]
 - // TIPS: Pay attention to the pronunciation of word 'galactic'. [galactic-银河的-adj]
 -
@@ -21,6 +22,11 @@
 - // -- 【 combine 结合 联合 合并 v 】
 - // -- 【 integrate 整合 合并 v 】
 - // -- 【 integrate into society. 融入社会 v 】
+-
+- [BB.]
+- `【 lunar module. 登月舱 n 】` // -------------- 【 model / module / mode / medal 】
+- `【 land 陆地n 登陆着陆 v 】`
+- **【 The 【 lunar module 】 successfully 【 landed 】 on the 【 moon 】. 登月舱成功着陆在月球上 】**
 -
 -
 -
@@ -45,7 +51,7 @@
 - > 【 explain 解释 v 】
 - > 【 complain 抱怨 v 】
 - > 【 complaint 抱怨 n 】
-- **【 This 【 plan 】 is to 【 establish 】 a 【 plant 】 on the 【 planet 】. 该计划准备在行星上建立工厂 】**
+- **【 This 【 plan 】 is to 【 establish 】 a 【 plant 】 【 on 】 the 【 planet 】. 该计划准备在行星上建立工厂 】**
 - // -- 【 establish 建立 确立 v 】
 - // -- 【 cooperate 合作 v 】
 - // -- 【 cooperation 合作 n 】
@@ -75,6 +81,20 @@
 - `【 Pluto 冥王星 】`
 - **【 【 Venus 】 and 【 Mars 】 are the two 【 planets 】 【 closest to 】 the Earth. 金星和火星是离地球最近的两颗行星 】**
 - // -- 【 be closest to. 离...最近 】
+-
+-
+-
+- 6
+- `【 spaceship 宇宙飞船 n 】`
+- `【 spaceman 宇航员 】` // --------------------- 【 astronaut 宇航员 n 】
+- `【 universe 宇宙 n = cosmos 】` // ------------【 cosmos 宇宙 n 】
+- `【 cosmic rays. 宇宙射线 】` // --------------- 【 cosmic 宇宙的 adj 】
+- > 【 spaceship / internship / scholarship / worship / warship / relationship / ownership / leadership / friendship 】
+- _【 cosmos 宇宙 n 】_ = universe
+- _【 cosmic 宇宙的 adj 】_
+- _【 cosmic ray. 宇宙射线 n 】_
+- // TIPS: Pay attention to the pronunciation of word 'cosmos'. [cosmos-宇宙-n]
+- // TIPS: Pay attention to the pronunciation of word 'cosmic'. [cosmic-宇宙的-adj]
 
 ```
 Solar System. 太阳系

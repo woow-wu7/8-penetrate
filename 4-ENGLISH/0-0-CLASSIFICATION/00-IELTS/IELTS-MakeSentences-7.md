@@ -1344,6 +1344,14 @@ They 【 established 】 the 【 cooperative relationship 】.
 // 【 establish the cooperative relationship. 确立合作关系 】
 // -
 // 【 cooperate 合作 v  】
-// 【 cooperative 合作的 adj 】
+// 【 cooperative 合作的 adj 】 // 【 cooperative relationship. 合作关系 n 】
 // 【 cooperation 合作 n 】
+
+
+4
+The 【 lunar module 】 successfully 【 landed 】 on the moon.
+登月舱成功着陆在月球上
+// -
+// 【 lunar module. 登陆仓 n 】
+// 【 land 陆地n 登陆/着陆 v 】
 ```

@@ -73,18 +73,6 @@
 - _【 social phenomenon. 社会现象 】_
 - // TIPS: Pay attention to the pronunciation of the word 'society'. [society-社会-n]
 -
-- `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
-- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
-- `【 friendship 友情 友谊 n 】`
-- `【 leadership 领导力 n 】`
-- > 【 stable relationship. 稳定的关系 n 】
-- > 【 steady relationship. 稳定的关系 n 】
-- > 【 physical relationship. 肉体关系 n 】
-- > 【 cooperative relationship. 合作关系 n 】 
-- // 【 establish the cooperative relationship. 建立合作关系 】  // cooperate cooperation cooperative
-- // 【 establish the romantic relationship. 确立了恋爱关系 】
-- > 【 a sense of ownership. 主人翁意识 n 】
--
 - `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
 - `【 warship 战舰 n 】`
 - > 【 worship idol. 崇拜偶像 】
@@ -103,6 +91,19 @@
 - _【 envy sb for doing sth. 羡慕某人做某事 】_
 - > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
+-
+- `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
+- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
+- `【 friendship 友情 友谊 n 】`
+- `【 leadership 领导力 n 】`
+- `【 spaceship 宇宙飞船 】` // ----------- 【 spaceman 宇航员 n 】
+- > 【 stable relationship. 稳定的关系 n 】
+- > 【 steady relationship. 稳定的关系 n 】
+- > 【 physical relationship. 肉体关系 n 】
+- > 【 cooperative relationship. 合作关系 n 】
+- // 【 establish the cooperative relationship. 建立合作关系 】 // cooperate cooperation cooperative
+- // 【 establish the romantic relationship. 确立了恋爱关系 】
+- > 【 a sense of ownership. 主人翁意识 n 】
 -
 -
 - [AA.]
@@ -699,6 +700,8 @@
 - // 【 supplement energy. 补充能量 】
 - // 【 recover strength. 恢复体力 】
 - // TIPS: Pay attention to the pronunciation of the word 'gradually'. [gradually-逐渐地-adv]
+- // TIPS: Pay attention to the pronunciation of the word 'economy'. [economy-经济-n] // ------------- [restore-economy-恢复经济]
+- // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // ------- [economic-crisis-经济危机]
 -
 - `【 appear 出现 v 】`
 - `【 gradually appear. 逐渐出现 v 】`
