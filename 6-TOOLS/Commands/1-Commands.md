@@ -24,6 +24,6 @@ find . -type f
 
 4
 > file_sizes.txt
-// > : --------------------- It means to write the result that be executed to the specified directory.
-// file_sizes.txt: --------- It means the file that should be written.
+// > : -------------------- It means to write the result that be executed to the specified directory.
+// file_sizes.txt: -------- It means the file that should be written.
 ```
