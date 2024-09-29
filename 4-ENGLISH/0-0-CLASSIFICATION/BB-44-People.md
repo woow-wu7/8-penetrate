@@ -55,6 +55,11 @@
 - > 【 doctoral students. 博士生 n 】
 -
 - [其他]
+- `【 academic performance. 学习成绩 】`
+- > 【 economic structure. 经济结构 】
+- > 【 economic recession. 经济衰退 】
+- > 【 economic crisis. 经济危机 】
+-
 - `【 overseas student. 留学生 】` = international student.
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
