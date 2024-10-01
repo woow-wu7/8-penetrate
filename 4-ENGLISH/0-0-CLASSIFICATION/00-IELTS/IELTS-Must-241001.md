@@ -5,6 +5,7 @@
 - `【 recover 恢复 康复 v 】` // -------------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover account. 恢复账号 】
 - These two words can be completely interchanged.
 - > 【 store 储存 v 商店 n / restore 恢复 v 】
+- > 【 restore 恢复 修复 v 】
 - > 【 restore order. 恢复秩序 】
 - > 【 restore confidence. 恢复自信 】
 - _【 recover health. 恢复健康 = restore health. 】_
@@ -14,13 +15,14 @@
 - > 【 confident 自信的 adj / confidence 自信 n 】 // ----- 【 enhance confidence. 增强信心 】
 - > 【 health 健康 n / healthy 健康的 adj 】 // ----------- 【 keep healthy. 保持健康 】
 -
-- `【 academic 学习的 学术的 adj 】` // -------------------- 【 academic performance. 学习成绩 】
+- `【 academic 学习的 学术的 adj 】` // -------------------- 【 academic performance. 学习成绩 】 【 academic research. 学术研究 】
 - `【 economic 经济的 adj 】` // -------------------------- 【 economic crisis. 】 【 economic recession. 】 【 economic structure. 】 【 economy / economic 】
 - > 【 academic performance. 学习成绩 n 】
-- _【 restore economy. = recover economy. 恢复经济 】_
+- > 【 academic research. 学术研究 n 】
 - _【 economic structure. 经济结构 】_
 - _【 economic crisis. 经济危机 】_
 - _【 economic recession. 经济衰退 】_
+- _【 restore economy. = recover economy. 恢复经济 】_
 - // TIPS: Pay attention to the pronunciation of the word 'academic'. [academic-学术的-adj] // [academic-performance-学习成绩]
 - // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
 -
@@ -28,7 +30,7 @@
 - [AA.]
 - `【 academic performance. 学习成绩 n 】`
 - `【 gradually improve. 逐渐提高 v 】`
-- **【 His 【 academic performance 】 【 gradually improved 】. 他的学习成绩逐渐提高了 】**
+- **【 Both His 【 academic performance 】 adn 【 academic research 】 【 gradually improved 】. 他的学习成绩和学术研究都逐渐提高了 】**
 - // -- 【 performance 表演 v 性能 n 绩效 n 】
 -
 - [BB.]
@@ -50,20 +52,39 @@
 ###### Must 2024-10-02
 
 - 1
-- `【 shut down. 关闭 停业 v 】`
+- `【 shut down. 关闭 停业 v 】` // ------------ 【 shut down the 【 nuclear reactor 】for 【 safety reason 】. 因为安全原因关闭核反应堆 】
 - `【 shut up. 闭嘴 v 】`
-- `【 shuttle bus. 班车 】`
+- `【 shuttle bus. 班车 区间车 n 】`
 - > 【 rush hour. 高峰期 】
 - > 【 morning rush hour. 早高峰 】
 - > 【 rush hour for traffic. 交通高峰 】
+- _【 nuclear reactor. 核反应堆 】_
+- _【 safety reason. 安全原因 】_
+-
+- `【 shortcoming. 缺点 短处 n 】` // ---------- 【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness 】
+- `【 shortcut key. 快捷键 n 】`
+- `【 short circuit. 短路 】`
+- `【 take a short break. 休息一下 v 】`
+- > 【 acknowledge shortcoming. 承认缺点 】
+- > 【 expose shortcoming. 暴露缺点 】
+- _【 shortcoming 缺点 短处 n 】_ // ------------ short 短
+- _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
 -
 - `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
 - `【 shortcut key. 快捷键 n 】`
+-
+- `【 knowledge 知识 n 】`
+- `【 acknowledge 承认 v 】` // --------------- 【 acknowledge error. 承认错误 】
+- > 【 acknowledge error. 承认错误 】
 -
 - [AA.]
 - `【 shut up. 闭嘴 v 】`
 - `【 shut down. 关闭 停业 v 】`
 - **【 Please 【 shut up 】, this company is not 【 shut down 】. 请闭嘴，这家公司没有停业 】** // 注意是被动语态
+- **【 They 【 shut down 】 the 【 nuclear reactor 】 for the 【 safety reason 】. 出于安全原因，他们关闭了核反应堆 】**
+- // -- 【 nuclear 原子能的 adj 】
+- // -- _【 nuclear reactor. 核反应堆 】_
+- // -- _【 safety reason. 安全原因 】_
 -
 - [BB.]
 - `【 screenshot. 截屏 n 】`
@@ -72,6 +93,33 @@
 - **【 Please send me the 【 screenshot 】 about the 【 shuttle bus 】 by using 【 shortcut keys 】. 请用快捷键把关于班车的截图发给我 】**
 -
 - [CC.]
-- `【 rush hour traffic. 交通高峰 】`
+- `【 rush hour for traffic. 交通高峰 】`
 - `【 this time tomorrow. 明天这个时间 】`
-- **【 【 This time tomorrow 】 must be the 【 rush hour traffic 】. 明天这个时候一定是堵车高峰期 】**
+- **【 【 This time tomorrow 】 must be the 【 rush hour for traffic 】. 明天这个时候一定是堵车高峰期 】**
+-
+- [DD.]
+- `【 rush hour for traffic. 交通高峰 】`
+- **【 I left early to avoid the 【 rush hour for traffic 】. 我提早出发以避开交通高峰 】**
+-
+- [EE.1]
+- `【 acknowledge 承认 】`
+- `【 shortcoming 缺点 n 】`
+- `【 weakness 弱点 n 】`
+- **【 He 【 acknowledged 】 his 【 shortcomings 】 and 【 weaknesses 】. 他承认了他的缺点和弱点 】**
+-
+- [EE.2]
+- `【 acknowledge 承认 v 】`
+- `【 shuttle bus. 班车 区间车 n 】`
+- **【 He 【 acknowledged 】 that he had 【 never 】 taken a 【 shuttle bus 】. 他承认了他从来没有坐过公班车 】**
+-
+- [EE.3]
+- `【 acknowledge 承认 v 】`
+- `【 knowledge 知识 n 】`
+- **【 He 【 acknowledged 】 that He had learned 【 a lot of 】 【 knowledge 】. 他承认他学会了很多知识 】**
+- // -- 【 a lot of. = much. 】when it modify a noun.
+-
+- [EE.4]
+- `【 expose shortcoming. 暴露缺点 】`
+- `【 acknowledge shortcoming. 承认缺点 】`
+- `【 shuttle bus. 班车 区间车 n 】`
+- **【 He 【 exposed shortcoming 】 and 【 acknowledged shortcoming 】 on the 【 shuttle bus 】. 他在班车上暴露和承认了自己的缺点 】**

@@ -658,10 +658,14 @@
 
 - 1
 - `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj 时态 n 】
-- `【 present tense. 现在时态 】` // ----【 present 现在的 adj 】 【 current 当前的 adj 】
+- `【 present tense. 现在时态 】` // ----【 present perfect tense. 现在完成时 】 // 【 present 现在的 adj 】 【 current 当前的 adj 】
 - `【 future tense. 将来时态 】`
 - > 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
+-
+- `【 present tense. 现在时态 】`
+- `【 simple present tense. 一般现在时态 】`
+- `【 present perfect tense. 现在完成时态 】`
 -
 - `【 passive voice. 被动语态 】`
 - `【 active voice. 主动语态  】`

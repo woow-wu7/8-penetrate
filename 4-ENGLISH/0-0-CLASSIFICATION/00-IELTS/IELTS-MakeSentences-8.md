@@ -42,3 +42,38 @@ His 【 academic performance 】 【 gradually improved 】.
 // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
 // TIPS: Pay attention to the pronunciation of the word 'economy'. [economy-经济-n] // [recover/restore-economy-恢复经济]
 ```
+
+##### 2 Make sentences 2024-10-02
+
+```
+1
+他的学习成绩和学术研究都逐渐提高了
+-
+恢复健康后他恢复了自信，也提高了学习成绩
+
+
+2
+经济结构导致经济衰退，经济衰退导致经济危机
+
+
+3
+我提早出发以避开交通高峰
+-
+明天这个时候一定是堵车高峰期
+
+
+4
+他承认了他的缺点和弱点
+-
+他承认了他从来没有坐过公班车
+-
+他承认他学会了很多知识
+-
+他在班车上暴露和承认了自己的缺点
+
+
+5
+出于安全原因，他们关闭了核反应堆
+-
+请闭嘴，这家公司没有停业
+```
