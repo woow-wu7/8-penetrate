@@ -167,15 +167,29 @@
 - `【 inventory 库存 存货 n 】`
 - `【 adventure 冒险 探险 v n 】`
 -
+- `【 vent 出风口n 发泄v 】` // ------------------ 【 emergency ventilation. 紧急通风 】
+- `【 vendor 小贩 摊贩 n 】`
+-
 - `【 emotion 情绪 情感 n 】` // ----------------- 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 - `【 emotional 情绪的 情感的 adj 】` // ---------- 【 emotional quotient. 情商 EQ 】 【 intelligence quotient. 智商 IQ 】
 - > 【 control emotion. 控制情绪 】
 - > 【 express emotion. 表达情感 】 // ------------ 【 express 表达 表示 快的 快递 v 】 【 experience 经验 经历 n 】
 - _【 emotional quotient. 情商 EQ 】_ // --------- 【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
-- _【 intelligence quotient. 智商 IQ 】_ // ------ 【 intelligence 智力 n 】
-- _【 和差积商 sum difference product quotient 】_
+- _【 intelligence quotient. 智商 IQ 】_ // ------ 【 intelligence 智力 n 】 【 和差积商 sum difference product quotient 】
 -
 - [AA.]
 - `【 control emotion. 控制情绪 v 】`
 - `【 vent emotion. 发泄情绪 v 】`
 - **【 We should learn to 【 control emotion 】 and 【 vent emotion 】. 我们应该学会控制情绪和发泄情绪 】**
+-
+- [BB.]
+- `【 vent emotion. 发泄情绪 v 】`
+- `【 express emotion. 表达情感 v 】`
+- `【 vent 出风口n 发泄v 】`
+- `【 vendor 小贩 摊贩 n 】`
+- `【 tunnel 隧道 地道 n 】`
+- **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
+- // -- 【 tunnel 隧道 地道 n 】
+- // -- 【 at the vent of the tunnel. 在隧道的出风口处 】
+- // -- `【 go through the tunnel. 穿过隧道 】`
+- // TIPS: Pay attention to the pronunciation of the word 'tunnel'. [tunnel-隧道-地道-n]

@@ -89,4 +89,6 @@ His 【 academic performance 】 【 gradually improved 】.
 ```
 1
 我们应该学会控制情绪和发泄情绪
+-
+这个摊贩正在隧道的出风口处发泄情绪
 ```
