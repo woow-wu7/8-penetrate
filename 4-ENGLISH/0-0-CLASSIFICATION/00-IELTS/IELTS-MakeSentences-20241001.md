@@ -105,4 +105,12 @@ His 【 academic performance 】 【 gradually improved 】.
 
 4
 他出生在中国，工作在德国，死在美国
+
+
+5
+因为没有参考说明文档，导致了他写的程序出错
+
+
+6
+这个雕像象征着自由
 ```

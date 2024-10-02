@@ -1,18 +1,21 @@
 ###### Must 2024-10-01
 
 - 1
-- `【 restore 恢复 修复 v 】` // -------------------------- 【 restore order. 恢复秩序 】 【 restore confidence. 恢复自信 】
+- `【 restore 恢复 修复 v 】` // -------------------------- 【 restore order. 恢复秩序 】 【 restore confidence. 恢复自信 】 【 enhance confidence. 增强自信 】
 - `【 recover 恢复 康复 v 】` // -------------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover account. 恢复账号 】
 - These two words can be completely interchanged.
 - > 【 store 储存 v 商店 n / restore 恢复 v 】
 - > 【 restore 恢复 修复 v 】
 - > 【 restore order. 恢复秩序 】
-- > 【 restore confidence. 恢复自信 恢复信心 】
-- > 【 enhance confidence. 增强信心 】
-- _【 recover health. 恢复健康 = restore health. 】_ // --- 【 keep healthy. 保持健康 】
+- > 【 restore confidence. 恢复自信 恢复信心 】 // --------- 【 enhance confidence. 增强自信 】
+- > 【 enhance confidence. 增强信心 】 // ----------------- 【 restore confidence. 恢复自信 】
+- _【 recover health. 恢复健康 = restore health. 】_ // --- 【 keep healthy. 保持健康 】 // ------- 【 recover health. 恢复健康 】 【 keep healthy. 保持健康 】
 - _【 recover economy. 恢复经济 = restore economic. 】_ // -【 economy / economic 】
+- _【 recover strength. 恢复体力 = recover physical strength. 】_
 - _【 recover state. 恢复状态 】_
 - _【 recover account. 恢复账号 = restore account. 】_
+- _【 gradually recover. 逐渐恢复 】_
+- _【 gradually disappear. 逐渐消失 】_
 - > 【 county / country / countryside / count / discount / counter / encounter / account / accountant 】
 - _【 confident 自信的 adj / confidence 自信 n 】_ // ----- 【 enhance confidence. 增强信心 】
 - _【 confidence 自信 n 】_// ---------------------------- 【 enhance confidence. 增强信心 】
@@ -34,9 +37,16 @@
 - _【 financial statement. 财务报表 】_
 - _【 financial crisis. 财务危机 】_
 - _【 financial term. 金融术语 】_
+-
+- **【 keep healthy. 保持健康 】**
+- **【 enhance confidence. 增强信心 】**
+- **【 safety reason. 安全原因 】**
+-
 - // TIPS: Pay attention to the pronunciation of the word 'academic'. [academic-学术的-adj] // [academic-performance-学习成绩]
 - // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
 - // TIPS: Pay attention to the pronunciation of the word 'political'. [political-政治的-adj] // [political-crisis-政治危机]
+- // TIPS: Pay attention to the pronunciation of the word 'crisis'. [crisis-危机-n] // [economic-crisis-经济危机]
+- // TIPS: Pay attention to the pronunciation of the word 'recession'. [recession-衰退-n] // [economic-recession-经济衰退]
 -
 -
 - [AA.]
@@ -45,6 +55,8 @@
 - `【 gradually improve. 逐渐提高 v 】`
 - **【 Both His 【 academic performance 】 and 【 academic research 】 【 gradually improved 】. 他的学习成绩和学术研究都逐渐提高了 】**
 - // -- 【 performance 表演 v 性能 n 绩效 n 】
+- // -- `【 optimize performance. 优化性能 】`
+- // -- `【 performance bonus. 绩效奖金 】`
 -
 - [BB.]
 - `【 economic structure. 经济结构 】`
@@ -55,6 +67,9 @@
 - // -- 【 refer to. 参考 v 】
 - // -- 【 detail / detailed / in detail. 】
 - // -- 【 For details, please refer to the documentation. 详细情况，请参考说明文档 】
+- // ---- 【 【 Because of 】 he didn't 【 refer to 】 the 【 instruction documentation 】, it 【 lead to 】 error in the program he wrote. 因为没有参考说明文档，导致了他写的程序出错 】
+- // ---- // 【 document 文件 文档 】----- 单个
+- // ---- // 【 documentation 文档 】---- 多个
 -
 - [CC.]
 - `【 restore confidence. 恢复自信 】`
@@ -66,7 +81,8 @@
 - `【 acknowledge error. 承认错误 v 】`
 - `【 academic performance. 学习成绩 n 】`
 - `【 restore confidence. 恢复自信 】`
-- **【 If you don't do well 【 in 】 the examination, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
+- **【 If you don't do well 【 in 】 the 【 examination 】, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
+- // -- 【 make an effort to do sth. 努力做某事 】
 -
 - [EE.]
 - `【 economic crisis. 经济危机 n 】`
@@ -86,6 +102,8 @@
 - > 【 rush hour for traffic. 交通高峰 】
 - _【 nuclear reactor. 核反应堆 】_
 - _【 safety reason. 安全原因 】_ // ----------- 【 safety reason. 安全原因 n 】
+- _【 keep healthy. 保持健康 】_
+- _【 enhance confidence. 增强信心 】_
 -
 - `【 shortcoming. 缺点 短处 n 】` // ---------- 【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness 】
 - `【 shortcut key. 快捷键 n 】`
@@ -95,7 +113,7 @@
 - > 【 expose shortcoming. 暴露缺点 】
 - _【 shortcoming 缺点 短处 n 】_ // ------------ short 短 // 【 acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
-- _【 strength 体力 强度 力量 长处 】_
+- > 【 strength 体力 强度 力量 长处 】
 -
 - `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
 - `【 shortcut key. 快捷键 n 】`
@@ -104,6 +122,7 @@
 - `【 acknowledge 承认 v 】` // --------------- 【 acknowledge error. 承认错误 】
 - > 【 acknowledge error. 承认错误 】
 - > 【 acknowledge shortcoming. 承认缺点 】
+- > 【 acknowledge weakness. 承认弱点 】
 -
 - [AA.]
 - `【 shut up. 闭嘴 v 】`
@@ -113,6 +132,8 @@
 - // -- 【 nuclear 原子能的 adj 】
 - // -- _【 nuclear reactor. 核反应堆 】_
 - // -- _【 safety reason. 安全原因 】_
+- // -- _【 keep healthy. 保持健康 】_
+- // -- _【 enhance confidence. 增强信心 】_
 -
 - [BB.]
 - `【 screenshot. 截屏 n 】`
@@ -157,6 +178,7 @@
 - `【 academic performance. 学习成绩 n 】`
 - `【 restore confidence. 恢复自信 】`
 - **【 If you don't do well 【 in 】 the examination, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
+- // -- 【 make an effort to do sth. 努力做某事 】
 
 ###### Must 2024-10-03
 
