@@ -193,3 +193,14 @@
 - // -- 【 at the vent of the tunnel. 在隧道的出风口处 】
 - // -- `【 go through the tunnel. 穿过隧道 】`
 - // TIPS: Pay attention to the pronunciation of the word 'tunnel'. [tunnel-隧道-地道-n]
+
+###### Must 2024-10-04
+
+- 1
+- `【 interrupt 打断 中断 v 】`
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】`
+- 【 interrupt sb doing sth. 打断某人做某事 】
+-
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】`
+- `【 interception 拦截 n 】` // --------------- 【 signal interception. 信号拦截 n 】
+- `【 interceptor 拦截器 n 】`
