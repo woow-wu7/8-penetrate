@@ -197,10 +197,45 @@
 ###### Must 2024-10-04
 
 - 1
-- `【 interrupt 打断 中断 v 】`
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】`
-- 【 interrupt sb doing sth. 打断某人做某事 】
+- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt signal. 中断信号 】 【 interrupt the conversation. 打断对话 】
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept signal. 拦截信号 】 【 intercept missile. 拦截导弹 】 【 intercept communication. 拦截通讯 】
+- > 【 interrupt the conversation. 打断对话 】
+- > 【 interrupt signal. 中断信号 】
+- > 【 interrupt sb doing sth. 打断某人做某事 】
+- _【 intercept missile. 拦截导弹 】_
+- _【 intercept communication. 拦截通讯 】_
+- // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
 -
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】`
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】 【 inter】
 - `【 interception 拦截 n 】` // --------------- 【 signal interception. 信号拦截 n 】
 - `【 interceptor 拦截器 n 】`
+- > 【 intercept missile. 拦截导弹 】
+- > 【 intercept communication. 拦截通讯 】
+- // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
+-
+- `【 inspire 启发 v 】`
+- `【 inspired 受到启发的 adj 】`
+- `【 inspiration 灵感 n 】`
+- > 【 be inspired by. 受到...的启发 】
+- // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
+- // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
+-
+- [AA.]
+- `【 be inspired by. 受到...的启发 】`
+- `【 inspired 受到启发的 adj 】`
+- `【 inspiration 灵感 n 】`
+- **【 He 【 was inspired by 】 me and had 【 inspiration 】. 他受到了我的启发，有了灵感 】**
+- // -- 【 be inspired by. 受到...的启发 】
+- // -- 【 inspiration 灵感 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
+- // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
+-
+- [BB.]
+- `【 interrupt 打断 中断 v 】`
+- `【 interception 拦截 n 】`
+- **【 After the signal was 【 interrupted 】, the 【 interception 】 failed. 信号中断后，拦截失败了 】**
+-
+- [BB.]
+- `【 interrupt 打断 中断 v 】`
+- `【 intercept 拦截 v 】`
+- **【 【 As long as 】 the signal can be 【 intercepted 】 and 【 interrupted 】, 【 missile 】 can be 【 intercepted 】. 只要能拦截并中断信号，就能拦截导弹 】**
