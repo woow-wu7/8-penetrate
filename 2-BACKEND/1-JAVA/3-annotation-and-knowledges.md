@@ -2,6 +2,13 @@
 
 - 1. SpringBoot
 - @RequestMapping ---- Use '@RequestMapping' annotation preferentially because it can highlight the HTTP method. and it's similar to @RequestParam...
+- // - value | path
+- // - method
+- // - params
+- // - headers
+- // - consumes: 指定 请求 的内容类型（Content-Type） // consume 消费 // pursue 追求
+- // - produces: 指定 响应 的内容类型（Content-Type） // produce 生产 // product 产品
+- // - name: 为请求映射指定一个名称，通常用于生成文档或日志
 - @RequestParam
 - @RequestBody
 - @RequestHeader
@@ -58,6 +65,23 @@
 - 7. 环境变量 -> It can replace the 'Attribute Binding'.
 - // position: ------------------------------- run / edit configurations / Modify Options / Environment variables
 - // usage: ---------------------------------- username: ${DB_USERNAME} // in application.yml file
+-
+- 8. Test
+- @Test 表示该方法是测试方法
+- @ParameterizedTest 表示该方法是参数测试
+- @RepeatedTest 表示方法可重复执行
+- @DisplayName 为测试类或测试方法设置展示名称
+- @BeforeEach 表示在每个单元测试前执行
+- @AfterEach
+- @BeforeAll 在所有单元测试前执行
+- @AfterAll
+- @Tag 单元测试类别
+- @Disabled 表示测试类或测试方法不执行
+- @Timeout 测试方法超过定时后将返回错误
+- @ExtendWith 为测试类或测试方法提供扩展类引用
+-
+- 999. Others
+- ObjectUtils.isEmpty()
 
 ##### (1) SpringBoot Annotation.
 
@@ -72,8 +96,8 @@
   value = "/example{key}",
   params = "id=1"
   headers = "Content-Type=application/json",
-  consumes = "application/json", // 指定控制器方法接受的请求内容类型。
-  produces = { "application/json", "application/vnd.error+json" }, // 指定控制器方法返回的内容类型（MIME 类型）
+  consumes = "application/json", // ---------------------------------- consume 指定控制器方法接受的请求内容类型
+  produces = { "application/json", "application/vnd.error+json" }, // produce 指定控制器方法返回的内容类型（MIME 类型）
 )
 
 // produces = { "application/json", "application/vnd.error+json" }
@@ -398,8 +422,6 @@ public interface MusicJpaApi {
     public void deleteMusic(@PathVariable Integer id);
 }
 ```
-
-##### ------- ------- ------- ------- ------- ------- -------
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
@@ -733,4 +755,28 @@ public class WebConfig  implements WebMvcConfigurer {
         // 回答：http://localhost:7777/images/8.jpg
     }
 }
+```
+
+##### 4.5 杀进程
+
+```
+1
+View process
+- $ lsof -i :8080
+
+
+2
+Kill process
+- $ kill <PID>
+
+
+3
+force kill process
+- $ kill -9 <PID>
+
+
+4
+如何权限不够，可以用一下命令来设置比较高的权限
+- 确保 /var/run 目录有正确的权限
+- $ sudo chmod 777 /var/run
 ```

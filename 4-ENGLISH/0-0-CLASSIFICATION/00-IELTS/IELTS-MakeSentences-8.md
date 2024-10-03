@@ -41,4 +41,11 @@ His 【 academic performance 】 【 gradually improved 】.
 // TIPS: Pay attention to the pronunciation of the word 'academic'. [academic-学术的-adj] // [academic-performance-学习成绩]
 // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
 // TIPS: Pay attention to the pronunciation of the word 'economy'. [economy-经济-n] // [recover/restore-economy-恢复经济]
+
+
+2
+产品说明书建议用户升级设备
+-
+这个仪器可以追踪卡车留下的痕迹
+-
 ```

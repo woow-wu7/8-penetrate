@@ -1,12 +1,11 @@
 # Planet
 
 - 1
-- `【 solar 太阳的 adj 】- sun` // -------------- 【 solar calendar. 阳历 】 【 solar system. 太阳系 】 【 solar energy. 太阳能 】
+- `【 solar 太阳的 adj 】- sun` // --------------- 【 solar calendar. 阳历 】 【 solar system. 太阳系 】 【 solar energy. 太阳能 】
 - `【 lunar 月亮的 adj 】- moon` // -------------- 【 lunar calendar. 阴历 】 【 lunar module. 登月舱 】
 - _【 solar calendar. 阳历 n 】_ // -------------- 【 lunar calendar. 阴历 】
 - _【 solar system. 太阳系 n 】_ // -------------- 【 galactic system. 银河系 n 】
 - _【 solar energy. 太阳能 】_ // ---------------- 【 supplement energy. 补充能量 】
-- > 【 solar calendar. 阳历 公历 n 】
 - > 【 lunar calendar. 阴历 农历 n 】
 - > 【 lunar module. 登月舱 n 】
 - _【 solar system. 太阳系 】_
@@ -21,7 +20,8 @@
 - **【 The culture here 【 integrates 】 both the 【 solar calendar 】 and 【 lunar calendar 】. 这里文化融合了阳历和阴历 】**
 - // -- 【 combine 结合 联合 合并 v 】
 - // -- 【 integrate 整合 合并 v 】
-- // -- 【 integrate into society. 融入社会 v 】
+- // -- 【 integrate into society. 融入社会 】
+- // -- 【 integrate data. 整合数据 】
 -
 - [BB.]
 - `【 lunar module. 登月舱 n 】` // -------------- 【 model / module / mode / medal 】
@@ -41,11 +41,12 @@
 - // -- 【 equipment 装备 设备 n 】
 - // -- 【 device 设备 装置 n = equipment 】
 - // -- 【 advice 建议 = suggestion 】
+- // TIPS: Pay attention to the pronunciation of word 'instrument'. [instrument-乐器-仪器-n]
 -
 -
 -
 - 3
-- `【 planet 行星 n 】` // -------------------- 【 minor planet. 小行星 n 】
+- `【 planet 行星 n 】` // -------------------- 【 minor planet. 小行星 n 】 【 minor drawback. 小缺点 n 】
 - `【 plant 植物 工厂 n 】` // ----------------- 【 power plant. 电厂 n 】
 - `【 plan 计划 v 】`
 - > 【 explain 解释 v 】
