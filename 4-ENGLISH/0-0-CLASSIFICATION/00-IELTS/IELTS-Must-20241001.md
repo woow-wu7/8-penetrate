@@ -219,25 +219,27 @@
 ###### Must 2024-10-04
 
 - 1
-- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt signal. 中断信号 】 【 interrupt the conversation. 打断对话 】
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept signal. 拦截信号 】 【 intercept missile. 拦截导弹 】 【 intercept communication. 拦截通讯 】
+- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt the conversation. 打断对话 】 【 interrupt signal. 中断信号 】
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】 【 intercept communication. 拦截通讯 】
 - > 【 interrupt the conversation. 打断对话 】
 - > 【 interrupt signal. 中断信号 】
 - > 【 interrupt sb doing sth. 打断某人做某事 】
 - _【 intercept missile. 拦截导弹 】_
+- _【 intercept signal. 拦截信号 】_
 - _【 intercept communication. 拦截通讯 】_
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
 -
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】 【 inter】
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】
 - `【 interception 拦截 n 】` // --------------- 【 signal interception. 信号拦截 n 】
 - `【 interceptor 拦截器 n 】`
 - > 【 intercept missile. 拦截导弹 】
+- > 【 intercept signal. 拦截信号 】
 - > 【 intercept communication. 拦截通讯 】
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
 -
-- `【 inspire 启发 v 】`
+- `【 inspire 启发 激发 激励 v 】` // ------------ 【 inspire potential. 激发潜能 】 【 potential threat. 潜在威胁 】
 - `【 inspired 受到启发的 adj 】`
-- `【 inspiration 灵感 n 】`
+- `【 inspiration 灵感 n 】` // ----------------- 【 creative inspiration. 创作灵感 】
 - > 【 be inspired by. 受到...的启发 】
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
 - // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
@@ -261,3 +263,47 @@
 - `【 interrupt 打断 中断 v 】`
 - `【 intercept 拦截 v 】`
 - **【 【 As long as 】 the signal can be 【 intercepted 】 and 【 interrupted 】, 【 missile 】 can be 【 intercepted 】. 只要能拦截并中断信号，就能拦截导弹 】**
+
+###### Must 2024-10-05
+
+- 1
+- `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate demand. 刺激需求 】 【 stimulate consumption. 刺激消费 】
+- `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】
+- `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】 【 calculate the time. 计算时间 】
+- `【 accumulate 积累 v 】` // --------------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
+- // TIPS: Pay attention to the pronunciation of the word 'calculate'. [calculate-计算-v]
+-
+- `【 isolate 隔离 孤立 v 】`
+- `【 congratulate 祝贺 v 】`
+- `【 plate 盘子 碟 金属牌 n 】`
+- _【 congratulation on doing sth. 祝贺某事 】_
+- _【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】_
+-
+- [AA.]
+- `【 simulate 模拟 v 】`
+- `【 calculate 计算 v 】`
+- `【 accumulate 积累 v 】`
+- **【 He use the computer to 【 simulate 】 and 【 calculate 】 the process of 【 accumulating 】 his 【 wealth 】. 他用计算机模拟和计算他积累财富的过程 】**
+- // -- 【 the process of. ...的过程 】
+- // -- 【 wealth 财富 n 】
+- // -- 【 accumulating 积累 v 】
+-
+- [BB.]
+- `【 stimulate demand. 刺激需求  】`
+- `【 stimulate consumption. 刺激消费  】`
+- **【 The 【 main means 】 to recover the economy is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
+- // -- 【 main mean. 主要手段 】
+- // -- 【 main way. 主要方式 主要途径 】
+- // -- 【 main measure. 主要措施 】
+- // -- 【 main method. 主要方法 】
+- // -- 【 main achievement. 主要成就 】
+-
+- [BB.]
+- `【 isolate 隔离 孤立 v 】`
+- `【 stimulate  刺激 v 】`
+- **【 He 【 was isolated 】 because he 【 was stimulated 】. 他因为受到刺激而被隔离了 】** // 被动语态
+-
+- [CC.]
+- `【 congratulation on doing sth. 祝贺某事 】`
+- `【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】`
+- **【 【 Congratulations 】 on getting your 【 license plate 】. 我祝贺你获得了车牌 】**
