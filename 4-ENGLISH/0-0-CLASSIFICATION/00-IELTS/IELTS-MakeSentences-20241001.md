@@ -113,4 +113,13 @@ His 【 academic performance 】 【 gradually improved 】.
 
 6
 这个雕像象征着自由
+
+7
+事故现场不是风景是一个常识
+
+8
+我们要学会与别人和平相处
+
+9
+社会地位在现代社会中很重要
 ```

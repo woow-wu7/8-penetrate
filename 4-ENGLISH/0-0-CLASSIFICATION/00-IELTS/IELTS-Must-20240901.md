@@ -12,15 +12,20 @@
 - _【 active voice. 主动语态 】_
 - _【 passive voice. 被动语态 】_
 -
-- `【 form 形成v 构成v 表n 形态n 】`
-- `【 compose 组成 v 】`
-- `【 consist of. 由...组成 】`
--
+- `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 a sense of ownership. 主人翁意识 n 】
+- `【 scene 场景 现场 n 】` // ---------------------------- 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 n 】
+- `【 scenery 风景 n 】` // ------------------------------ 【 natural scenery. 自然风景 n 】
+- > 【 common sense. 常识 n 】` // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
 - > 【 common ingredient. 常见成分 n 】
 - > 【 common phenomenon. 常见现象 n 】
 - > 【 common usage. 常用用法 n 】 // --------------------- 【 usage 用法 使用 n 】
-- > 【 common sense. 常识 n 】 // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
+- _【 crime scene. 犯罪现场 】_
+- _【 accident scene. 事故现场 】_
 - // TIPS: Pay attention to the pronunciation of the word 'usage'. [usage-使用/用法-n]
+-
+- `【 form 形成v 构成v 表n 形态n 】`
+- `【 compose 组成 v 】`
+- `【 consist of. 由...组成 】`
 -
 - [AA.]
 - `【 material 材料 n 】` // raw material. // building material.
@@ -46,6 +51,12 @@
 - // -- 【 oxygen. 氧气 n 】--------------- O
 - // -- 【 hydrogen. 氢 n 】--------------- H
 - // -- 【 nitrogen. 氮 n 】--------------- N
+-
+- [BB.]
+- `【 common sense. 常识 n 】`
+- `【 accident scene. 事故现场 n 】`
+- `【 scenery 风景 n 】`
+- **【 It's a 【 common sense 】 that the 【 accident scene 】 is not a 【 scenery 】. 事故现场不是风景是一个常识 】**
 
 ###### Must 2024-09-08
 
@@ -93,7 +104,7 @@
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
 - `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
-- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
+- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 【 common sense. 常识 】 // 【 sense 感觉 感应 感到 v n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - `【 spaceship 宇宙飞船 】` // ----------- 【 spaceman 宇航员 n 】
@@ -170,6 +181,7 @@
 - > 【 overcome difficulty. 克服困难 】
 - > 【 overcome opponent. 战胜对手 】 // ------ 【 opponent 对手 敌手 n 】 【 component 组件 n 】
 - > 【 encounter difficulty. 遇到困难 】
+- > 【 suffer difficulty. 遭受困难 】
 - _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
 - _【 defeat opponent. 打败对手 】_
 - _【 strong opponent. 强大的对手 】_
@@ -200,6 +212,7 @@
 - _【 draw 绘画 抽签 v 】_
 - _【 overdraw 透支 v 】_ // ----------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 n 】
 - _【 drawback 缺点 】_ // ------------------- 【 minor drawback. 小缺点 n 】
+- _【 minor drawback. 小缺点 】_
 -
 - `【 overcoat 大衣 n 】`
 - `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
