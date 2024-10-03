@@ -26,6 +26,8 @@
 - `【 intercept 拦截 v n 】`
 - `【 interception 拦截 n 】` // --------- 【 signal interception. 信号拦截 n 】
 - `【 interceptor 拦截器 n 】`
+- > 【 interrupt 打断 中断 v 】 // -------- 【 interrupt signal. 中断信号 n 】
+- > 【 disturb 打扰 干扰 v 】
 - **【 The 【 interceptor 】 can 【 intercept 】 the 【 signal 】. 这个拦截器可以拦截信号 】**
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-v-拦截]
 -
@@ -46,7 +48,7 @@
 ##### IELTS Work 2024-01-19
 
 - 1
-- `【 carbon 碳n 副本n 】` // -----------------【 carbon copy. 抄送 】 【 blind carbon copy. 秘送 】
+- `【 carbon 碳n 副本n 】` // -----------------【 carbon copy. 抄送 】 【 blind carbon copy. 秘送 】 【 carbon dioxide. 二氧化碳 】
 - `【 carbon copy. 抄送 】`
 - `【 blind carbon copy. 秘送 】`
 - > 【 carbon dioxide. 二氧化碳 】-------------- CO2
@@ -248,12 +250,11 @@ refactor 重构 n
 - `【 invent 发明 v 】`
 - `【 inventory 库存 清单 n 】`
 
-
-
 ##### IELTS Work 2024-01-25
+
 ```
 upgrade pod
 -
 
-Prerequisite 前提 
+Prerequisite 前提
 ```

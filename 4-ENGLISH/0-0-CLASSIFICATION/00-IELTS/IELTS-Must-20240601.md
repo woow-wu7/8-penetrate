@@ -505,7 +505,7 @@
 - _【 quarrel with sb. 和某人争吵 】_
 - **【 【 Calm down 】 first and don't 【 quarrel with 】 others. 你先冷静一下，不要和别人争吵 】**
 
-###### 2024-06-15
+###### Must 2024-06-15
 
 - 1
 - `【 marry 结婚 v 】`
@@ -563,19 +563,21 @@
 - > 【 roommate 室友 】
 - // TIPS: pay attention to the pronunciation of the word 'bridesmaid'.
 -
-- `【 womb 子宫 】` // -------------- 生 born
-- `【 tomb 坟墓 = grave 】` // ------ 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
-- `【 embryo 胚胎n 胚胎的 adj 】`// --【 embryo stage. 胚胎阶段 】
+- `【 womb 子宫 】` // ------------------- 生 born
+- `【 tomb 坟墓 = grave 】` // ----------- 死 die ----------------- 【 tomb = grave. 坟墓 】 【 grave / brave 】
+- `【 embryo 胚胎n 胚胎的 adj 】`// -------【 embryo stage. 胚胎阶段 】
 - `【 fetus 胎儿 】`
-- `【 infant 婴儿 n 】` // ----------【 baby 婴儿 宝贝 】
+- `【 infant 婴儿 n 】` // ---------------【 baby 婴儿 宝贝 】
 - > 【 womb 子宫 】
 - > 【 tomb 坟墓 】
-- > 【 bomb 炸弹 n 】` // --------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
+- > 【 bomb 炸弹 n 】` // ---------------- bomb / tomb / womb ----- 【 explode / explosion sound. 】
 - _【 brave vs grave 】_
-- _【 be born in. 出生于 】_
-- _【 die in. 死于 】_
-- _【 born (V) -> birth (N) 】_
-- _【 die (V) -> death (N) 】_
+- _【 date of birth. 出生日期 】_
+- > 【 be born in. 出生于 】 //------------ 主动语态
+- > 【 die in. 死于 】 // ----------------- 主动语态
+- > 【 born (V) -> birth (N) 】 // ------ 【 birth rate. 出生率 】
+- > 【 die (V) -> death (N) 】 // ------- 【 death rate. 死亡率 】
+- **【 He 【 was born in 】 China，worked in 【 Germany 】 and 【 died in 】 America. 他出生在中国，工作在德国，死在美国 】**
 - // TIPS: Pay attention to th pronunciation of the word 'infant'. [infant]
 - // TIPS: Pay attention to th pronunciation of the word 'embryol'. [embryol]
 -

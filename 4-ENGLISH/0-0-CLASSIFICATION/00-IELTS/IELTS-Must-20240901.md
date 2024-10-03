@@ -12,15 +12,20 @@
 - _【 active voice. 主动语态 】_
 - _【 passive voice. 被动语态 】_
 -
-- `【 form 形成v 构成v 表n 形态n 】`
-- `【 compose 组成 v 】`
-- `【 consist of. 由...组成 】`
--
+- `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 a sense of ownership. 主人翁意识 n 】
+- `【 scene 场景 现场 n 】` // ---------------------------- 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 n 】
+- `【 scenery 风景 n 】` // ------------------------------ 【 natural scenery. 自然风景 n 】
+- > 【 common sense. 常识 n 】` // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
 - > 【 common ingredient. 常见成分 n 】
 - > 【 common phenomenon. 常见现象 n 】
 - > 【 common usage. 常用用法 n 】 // --------------------- 【 usage 用法 使用 n 】
-- > 【 common sense. 常识 n 】 // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
+- _【 crime scene. 犯罪现场 】_
+- _【 accident scene. 事故现场 】_
 - // TIPS: Pay attention to the pronunciation of the word 'usage'. [usage-使用/用法-n]
+-
+- `【 form 形成v 构成v 表n 形态n 】`
+- `【 compose 组成 v 】`
+- `【 consist of. 由...组成 】`
 -
 - [AA.]
 - `【 material 材料 n 】` // raw material. // building material.
@@ -46,6 +51,12 @@
 - // -- 【 oxygen. 氧气 n 】--------------- O
 - // -- 【 hydrogen. 氢 n 】--------------- H
 - // -- 【 nitrogen. 氮 n 】--------------- N
+-
+- [BB.]
+- `【 common sense. 常识 n 】`
+- `【 accident scene. 事故现场 n 】`
+- `【 scenery 风景 n 】`
+- **【 It's a 【 common sense 】 that the 【 accident scene 】 is not a 【 scenery 】. 事故现场不是风景是一个常识 】**
 
 ###### Must 2024-09-08
 
@@ -93,7 +104,7 @@
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
 - `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
-- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 // 【 sense 感觉 感应 感到 v n 】
+- `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 【 common sense. 常识 】 // 【 sense 感觉 感应 感到 v n 】
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - `【 spaceship 宇宙飞船 】` // ----------- 【 spaceman 宇航员 n 】
@@ -170,6 +181,7 @@
 - > 【 overcome difficulty. 克服困难 】
 - > 【 overcome opponent. 战胜对手 】 // ------ 【 opponent 对手 敌手 n 】 【 component 组件 n 】
 - > 【 encounter difficulty. 遇到困难 】
+- > 【 suffer difficulty. 遭受困难 】
 - _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
 - _【 defeat opponent. 打败对手 】_
 - _【 strong opponent. 强大的对手 】_
@@ -200,6 +212,7 @@
 - _【 draw 绘画 抽签 v 】_
 - _【 overdraw 透支 v 】_ // ----------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 n 】
 - _【 drawback 缺点 】_ // ------------------- 【 minor drawback. 小缺点 n 】
+- _【 minor drawback. 小缺点 】_
 -
 - `【 overcoat 大衣 n 】`
 - `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
@@ -299,7 +312,7 @@
 - `【 share 股份n 分享v 】`// -----------------------【 market share. 市场占有率 】
 - > 【 lottery draw. 抽奖 n 】 // ----------------- 【 overdraw your body. 透支你的身体 】 【 drawback 缺点 】
 - > 【 lottery ticket. 彩票 n 】
-- _【 drawback 缺点 v 】_ // ---------------------- 【 minor drawback. 小缺点 】
+- _【 drawback 缺点 v 】_ // ---------------------- 【 minor drawback. 小缺点 】 【 serious setback. 严重的挫折 】
 - _【 overdraw 透支 v 】_ // ---------------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 】
 - _【 lottery draw. 抽奖 】_
 -
@@ -349,7 +362,7 @@
 - [FF.]
 - `【 drawback 缺点 n 】` // 【 minor drawback. 小缺点 】
 - `【 overdraw 透支 v 】`
-- **【 The 【 drawback 】 of 【 working overtime 】 is that it can 【 overdraw 】 your body. 加班的缺点是会透支你的身体 】**
+- **【 The 【 minor drawback 】 of 【 working overtime 】 is that it can 【 overdraw 】 your body. 加班的小缺点是会透支你的身体 】**
 
 ###### Must 2024-09-15
 
@@ -359,6 +372,7 @@
 - `【 social contradiction. 社会矛盾 n 】` // ----- 【 family contradiction. 家庭矛盾 n 】 【 internal contradiction. 内部矛盾 n 】
 - `【 social welfare. 社会福利 n 】` // ----------- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
 - `【 social status. 社会地位 n 】` // ------------ 【 historical status. 历史地位 n 】 【 social statue. 社会地位 n 】 【 status / state / statue 】
+- `【 social medial. 社交媒体 】`
 - > 1. 【 phenomenon. 现象 n 】
 - > 【 natural phenomenon. 自然现象 】
 - > 【 common phenomenon. 普遍现象 】
@@ -472,7 +486,8 @@
 - `【 refrigerator 冰箱 n 】`
 - `【 frozen 结冰的adj / v过去式 】` // freeze 结冰 v
 - **【 In the 【 household appliances 】, both the 【 freezer 】 and the 【 refrigerator 】 are 【 frozen 】. 在家用电器中，冰柜和冰箱这都结冰了 】**
-- // -- 【 household appliance. 家用电器 n 】
+- // -- `【 household appliance. 家用电器 n 】`
+- // -- `【 household 家庭 n / 家庭的 adj 】`
 -
 - 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
@@ -513,16 +528,17 @@
 - > 【 discount coupon. 折扣劵 n 】 // ------------- 【 coupon. 优惠券 n 】
 - > 【 discount rate. 折扣率 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'coupon'. [coupon-优惠卷-n]
+- // TIPS: Pay attention to the pronunciation of the word 'countable'. [countable-可数的-adj]
 -
-- `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】
+- `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】 【 recover account. 恢复账号 】
 - `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
 -
-- `【 nation 国家 名族 n 】` // --------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
-- `【 national 国家的 民族的 adj 】` // -------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
-- `【 nationality 国籍 民族 n 】` // ---------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
+- `【 nation 国家 名族 n 】` // -------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
+- `【 national 国家的 民族的 adj 】` // ------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
+- `【 nationality 国籍 民族 n 】` // --------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
 - _【 national flag. 国旗 n 】_
-- _【 national anthem. 国歌 n 】_ // --------------- 【 anthem 国歌 n 】
-- _【 national asset. 国有资产 n 】_
+- _【 national anthem. 国歌 n 】_ // ---------------【 anthem 国歌 n 】
+- _【 national assets. 国有资产 n 】_ // ------------【 asset 资产 】
 - _【 National Day. 国庆节 n 】_ // ----------------- 注意都需要大写
 - > 【 destination 目的地 】
 - > 【 examination 考试 检查 n 】
@@ -534,6 +550,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'national'. [national-国家的-名族的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'nationality'. [nationality-国籍]
 - // TIPS: Pay attention to the pronunciation of the word 'destination'. [destination-目的地]
+- // TIPS: Pay attention to the pronunciation of the word 'asset'. [asset-资产-n]
 -
 - `【 dual 双的 双重的 adj 】`
 - `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
@@ -545,7 +562,7 @@
 - > 【 business district. 商业区 n 】
 - > 【 residential district. 居民区 n 】 // -------- 【 resident / residential 】
 - > 【 residential address. 居民地址 n 】
-- _【 residential 居民的 adj 】_
+- _【 residential 居民的 adj 】_ // ----------------【 residential district. 居民区 n 】 【 business district. 商业区 n 】
 - _【 resident 居民 n 】_
 - _【 president 总统 n 】_
 - _【 citizen 市民 】_
@@ -554,17 +571,18 @@
 - _【 refugee 难民 n 】_ // -------------------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
 - _【 bystander 旁观者 n 】_ // ---------------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - _【 alien 外国人 外星人 n 】_ // -------------------【 alien civilization. 外星文明 】
-- _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
+- _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 `【 crow 乌鸦 / crowd 人群 拥挤 】`
+- _【 civilization 文明 】_ // --------------------- 【 alien civilization. 外星文明 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'migrate'. [migrate-移民-v]
 - // TIPS: Pay attention to the pronunciation of the word 'immigrant'. [immigrant-移民-n]
 -
 - `【 regular 定期地 规则的 普通的 adj 】` // -------- 【 regular check-up. 定期检查 】 【 regular verb. 规则动词 】 【 regular gas. 普通汽油 】
 - `【 regulate 规定 v 】`
 - `【 regulation 规定 n 】` // --------------------- 【 strict regulation. 严格的规定 n 】
-- > 【 regular check-up. 定期检查 】
-- > 【 regular verb. 规则动词 】// 【 irregular verb. 非规则动词 】 // 【 auxiliary verb. 助动词 n 】
-- > 【 regular gas. 普通汽油 】
-- _【 strict regulation. 严格的规定 】_ // 【 strict / district 】
+- > 【 regular check-up. 定期检查 定期体检 】
+- > 【 regular verb. 规则动词 】// -------------------【 irregular verb. 非规则动词 】 // 【 auxiliary verb. 助动词 n 】
+- > 【 regular gas. 普通汽油 】 // -------------------【 premium gas. 优质的汽油 】
+- _【 strict regulation. 严格的规定 】_ // -----------【 strict / district 】
 -
 - `【 encounter 遭遇 v 】` // ---------------------- 【 encounter setback. 遭遇挫折 】 【 encounter difficulty. 遭遇困难 】
 - `【 suffer 遭受 v 】` // ------------------------- 【 suffer setback. 遭受挫折 】
@@ -582,12 +600,13 @@
 - `【 country 国家 n 】`
 - `【 national flag. 国旗 n 】`
 - `【 national anthem. 国歌 n 】`
-- **【 Every 【 country 】 has its own 【 national flag 】 and 【 national anthem 】. 每个国家都有自己的国旗和国歌 】**
+- `【 national assets. 国有资产 n 】`
+- **【 Every 【 country/state/nation 】 has its own 【 national flag 】 and 【 national anthem 】. 每个国家都有自己的国旗和国歌 】**
 - // -- 【 anthem 国歌 n 】
 - // -- 【 national anthem. 国歌 n 】
 -
 - [CC.]
-- `【 dual nationality. 双重国籍 n 】`
+- `【 dual nationality. 双重国籍 n 】` // 【 foreign nationality. 外国国籍 n 】
 - `【 dual identities. 双重身份 n 】`
 - **【 He has【 dual nationality 】 and 【 dual identities 】. 他有双重国籍和双重身份 】**
 -
@@ -693,9 +712,10 @@
 - > 【 gradually recover. 逐渐恢复 v 】 // ------------【 body gradually recover. 身体逐渐恢复 】 // ---- 【 gradually recover strength. 逐渐恢复体力 】
 - > 【 gradually improve. 逐渐改善 v 】 // ------------【 condition gradually improve. 病情逐渐改善 】 // 【 improve 提高 改善 v 】 // 【 condition 病情 条件 n 】
 - > 【 gradually disappear. 逐渐消失 】// -------------【 symptom gradually disappear. 症状逐渐消失 】
-- _【 recover health. 恢复健康 】_
-- _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】
+- _【 recover health. 恢复健康 】_ // ---------------- 【 keep healthy. 保持健康 】
 - _【 recover economy. 恢复经济 】_
+- _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】 【 recover physical strength. 恢复体力 】
+- _【 recover state. 恢复状态 】_
 - // 【 supplement nutrition. 补充营养 】 // ----------【 supplement 补充 v / supplier / dealer / seller 】
 - // 【 supplement energy. 补充能量 】
 - // 【 recover strength. 恢复体力 】
@@ -730,7 +750,7 @@
 -
 - [CC.]
 - `【 gradually improve. 逐渐改善 v 】`
-- `【 gradually recover. 逐渐恢复 v 】` // 【 recover strength. 恢复体力 】
+- `【 gradually recover. 逐渐恢复 v 】` // 【 recover strength. 恢复体力 】 // 【 recover physical strength. 恢复体力 】
 - `【 fade away. 逐渐消失 v = gradually disappear. 】`
 - **【 His 【 condition 】 【 gradually 】 【 improved 】, his body 【 gradually recovered 】, his symptoms 【 gradually disappear 】. 他的病情逐渐改善，身体逐渐恢复，症状逐渐消失 】**
 - // 【 condition 病情 条件 n 】

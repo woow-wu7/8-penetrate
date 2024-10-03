@@ -40,6 +40,11 @@
 - > 【 regular gas. 普通的汽油 】 // 87
 - > 【 premium gas. 优质的汽油 】// 93
 - > 【 out of the gas. 没油了 】
+-
+- `【 regular 普通的 定期的 规则的 adj 】`
+- > 【 regular gas. 普通的汽油 】` // -- premium gas. 优质的汽油
+- > 【 regular verb. 规则动词 】` // --- irregular verb. 不规则动词
+- > 【 regular check-up. 定期体检 】
 - // 【 diesel generator. 柴油发电机 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'gasoline'.
 - // TIPS: Pay attention to the pronunciation of the word 'petroleum'. // petroleum
