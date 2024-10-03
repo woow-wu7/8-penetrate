@@ -28,10 +28,15 @@
 - @Id
 - @GeneratedValue(strategy = GenerationType.IDENTITY)
 - @Column(name = "name", nullable = false, unique = true, length = 512)
+- [@Query] -- value 指定查询语句 --------------- @Query(value="SELECT u FROM User u WHERE u.email = ?1")
+- [@Query] -- nativeQuery 原生 SQL 查询 --------- @Query(value = "SELECT \* FROM users WHERE email = ?1", nativeQuery = true) // 默认是 false
+- [@Query] -- countQuery -- 计数查询语句 ------- @Query(value = "SELECT u FROM User u", countQuery = "SELECT count(u) FROM User u")
+- [@Query] -- countProjection ---------------- @Query(value = "SELECT u FROM User u", countProjection = "count(u)")
 - JpaRepository.findAll()
 - JpaRepository.findById(id)
 - JpaRepository.findAllById(Arrays.asList(1L, 2L));
 - JpaRepository.save(entity) // --------------- create / update
+- JpaRepository.saveAll(entity) // ------------ create / update. => saveAll 方法会根据 id 字段来决定是插入新数据还是更新现有数据
 - JpaRepository.deleteById(id)
 - JpaRepository.count()
 - JpaRepository.countAll()
@@ -82,6 +87,10 @@
 -
 - 999. Others
 - ObjectUtils.isEmpty()
+
+```
+
+```
 
 ##### (1) SpringBoot Annotation.
 

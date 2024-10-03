@@ -360,11 +360,11 @@ document.documentElement.insertBefore(button, document.body);
     - 2.设置: 通过在 package.json 中的 scripts 中设置 "build:test": "cross-env NODE_ENV=development webpack --config webpack.config.js" 已经设置好了 node 环境的环境变量
     - 3.获取: 在 webpack.config.js 中通过 process.env.NODE_ENV 就可以获取到
 - webpack.DefinePlugin
-  - 浏览器环境变量：webpack.definePlugin() 定义是的 ------- 2. 浏览器中的环境变量
+  - 浏览器环境变量：webpack.DefinePlugin() 定义是的 ------- 2. 浏览器中的环境变量
 - mode
   - 浏览器环境变量：mode 是指定 --------------------------- 3. 浏览器中的环境变量
 - 以下表达式等价
-  - ( mode: 'development' ) === webpack.definePlugin({'process.env.NODE_ENV': JSON.stringify('development')})
+  - ( mode: 'development' ) === webpack.DefinePlugin({'process.env.NODE_ENV': JSON.stringify('development')})
 - 环境
   - 浏览器环境: vue 项目的入口 main.ts 等前端业务页组件中都满足
   - node 环境: webpack.config.js
