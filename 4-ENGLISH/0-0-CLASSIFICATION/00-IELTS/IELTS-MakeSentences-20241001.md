@@ -130,3 +130,41 @@ His 【 academic performance 】 【 gradually improved 】.
 9
 社会地位在现代社会中很重要
 ```
+
+##### 4 Make sentences 2024-10-04
+
+```
+1
+He 【 is full of 】 【 strength 】 and don't need to 【 recover physical strength 】.
+他的体力很充沛，不需要恢复体力
+-
+After 【 graduation 】, they gradually lost 【 contact 】.
+毕业之后，他们逐渐失去了联系
+-
+The 【 crow 】 【 gradually disappeared 】 into the 【 crowd 】.
+这只乌鸦逐渐消失在人群中
+-
+His 【 station 】 【 gradually improved 】, his body 【 gradually recovered 】, his symptoms 【 gradually disappeared 】.
+他的病情逐渐改善，身体逐渐恢复，症状逐渐消失
+-
+His 【 academic performance 】 【 gradually 】 【 improved 】.
+他的学习成绩逐渐提高了
+-
+【 Supplementing nutrition 】 and 【 supplementing energy 】 can 【 recover physical strength 】.
+补充营养和补充能量能够恢复体力
+
+
+2
+For this 【 issue 】, I never 【 back down 】.
+对于这个问题，我绝不会让步
+
+
+3
+The 【 welfare 】 【 in 】 【 Socialist countries 】 is better than 【 capitalist countries 】.
+社会主义国家比资本主义国家福利好
+
+
+4
+Please 【 back up 】 first, then 【 backtrack 】 to 【 previous version 】.
+请先备份，再回滚到上一个版本
+```

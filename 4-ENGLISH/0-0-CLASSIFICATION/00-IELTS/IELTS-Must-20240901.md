@@ -500,6 +500,10 @@
 - `【 countryside 乡村 农村 n 】` // -------------- 【 in the countryside. 在乡村 】
 - > 【 developed country. 发达国家 n 】
 - > 【 developing country. 发展中国家 n 】
+- > 【 socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
+- > 【 capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】
+- 【 welfare state. 福利国家 n 】
+- 【 first tier city. 一线城市 】
 - _【 county government. 县政府 n 】_
 - _【 county court. 县法院 n 】_
 - > 【 country / province / city / district 区 / county 县 】
@@ -572,7 +576,7 @@
 - _【 bystander 旁观者 n 】_ // ---------------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - _【 alien 外国人 外星人 n 】_ // -------------------【 alien civilization. 外星文明 】
 - _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 `【 crow 乌鸦 / crowd 人群 拥挤 】`
-- _【 civilization 文明 】_ // --------------------- 【 alien civilization. 外星文明 n 】
+- _【 civilization 文明 】_ // --------------------- 【 alien civilization. 外星文明 n 】 【 advanced civilization. 高等文明 】
 - // TIPS: Pay attention to the pronunciation of the word 'migrate'. [migrate-移民-v]
 - // TIPS: Pay attention to the pronunciation of the word 'immigrant'. [immigrant-移民-n]
 -
@@ -632,6 +636,11 @@
 - `【 overcome fear. 克服恐惧 v 】`
 - `【 overcome opponent. 战胜对手 v 】`
 - **【 We need to 【 overcome difficulty 】 and 【 overcome fear 】 to 【 overcome opponent 】. 我们需要克服困难和克服恐惧去战胜对手 】**
+-
+- [GG.]
+- `【 socialist country. 社会主义国家 n 】`
+- `【 capitalist country. 资本主义国家 n 】`
+- **【 The 【 welfare 】 【 in 】 【 socialist countries 】 is better than 【 capitalist countries 】. 社会主义国家比资本主义国家福利好 】**
 
 ###### Must 2024-09-19
 
@@ -639,6 +648,7 @@
 - `【 setback 挫折 n 】` // ----------------------- 【 serious setback. 严重挫折 】 // --【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】
 - `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 】
 - `【 look back. 回顾 v 】` // -------------------- `【 look back on sth. 回顾... 】` // 【 look back. = review 回顾 v 】
+- `【 back down. 让步 退让 v 】` // ---------------- 【 For this 【 issue 】, I will never 【 back down 】 】
 - _【 major / minor / patch / alpha / beta 】_
 - _【 minor drawback. 小缺点 n 】_
 - > 【 serious setback. 严重挫折 】 // -------------【 serious 严肃的 认真的 严重的 adj 】
@@ -647,18 +657,19 @@
 - _【 look back. = review 回顾 】_
 - _【 book back on sth. 回顾某事 】_
 -
-- `【 feedback 反馈 n 】` // ---------------------- 【 give feedback on. 反馈... 】
-- `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
--
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
-- `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】
+- `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】 // 【 trace 追踪 v / 痕迹 n 】
+- > 【 track 追踪 v / 轨道 n 】
+- > 【 trace 追踪 v / 痕迹 n 】
+-
+- `【 feedback 反馈 n 】` // ---------------------- 【 feedback in time. 及时反馈 】 【 give feedback on. 反馈... 】
+- `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】
 -
 - `【 backache 背痛 】`
 - `【 backbone 脊柱 n 】` // ---------------------- 【 bone 骨头 】
 - `【 backpack 背包 】`
 -
 - `【 back up. 备份 v 】` // -----------------------【 back up. 备份 v 】 【 backup. 备份 n 】
-- `【 back down. 让步 v 】`
 - `【 pay back. 归还 偿还 v 】`
 -
 - [AA.]
@@ -701,12 +712,22 @@
 - `【 backbone 脊柱 n 】`
 - `【 backpack 背包 n 】`
 - **【 There are 【 backbones 】 in his 【 backpack 】. 他的背包里装着脊柱 】**
+-
+- [GG.]
+- `【 back down. 让步 退让 v 】`
+- **【 For this 【 issue 】, I will never 【 back down 】. 对于这个问题，我绝不会让步 】**
+-
+- [HH.]
+- `【 back up. 备份 v 】`
+- `【 backtrack 回溯 v 】`
+- **【 Please 【 back up 】 【 first 】, then 【 backtrack 】 to 【 previous version 】. 请先备份，再回滚到上一个版本 】**
+- // -- 【 previous version. 上一个版本 n 】
 
 ###### Must 2024-09-21
 
 - 1
 - `【 fade away. 逐渐消失 v 】` // ------------------- 【 fade away. = gradually disappear. 逐渐消失 v 】
-- `【 gradually disappear. 逐渐消失 v 】` // --------- 【 gradually recover. 逐渐恢复 v 】 【 gradually improve. 逐渐改善 v 】
+- `【 gradually disappear. 逐渐消失 v 】` // --------- 【 gradually recover. = gradually restore. 逐渐恢复 v 】 【 gradually improve. 逐渐改善 v 】
 - `【 disappear 消失 v 】`
 - _【 improve 提升 改善 v 】_
 - > 【 gradually recover. 逐渐恢复 v 】 // ------------【 body gradually recover. 身体逐渐恢复 】 // ---- 【 gradually recover strength. 逐渐恢复体力 】
@@ -714,14 +735,18 @@
 - > 【 gradually disappear. 逐渐消失 】// -------------【 symptom gradually disappear. 症状逐渐消失 】
 - _【 recover health. 恢复健康 】_ // ---------------- 【 keep healthy. 保持健康 】
 - _【 recover economy. 恢复经济 】_
-- _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】 【 recover physical strength. 恢复体力 】
+- _【 recover strength. 恢复体力 】_ // -------------- 【 strength 体力 强度 长处 n 】 _【 recover physical strength. 恢复体力 】_
 - _【 recover state. 恢复状态 】_
 - // 【 supplement nutrition. 补充营养 】 // ----------【 supplement 补充 v / supplier / dealer / seller 】
 - // 【 supplement energy. 补充能量 】
 - // 【 recover strength. 恢复体力 】
+- // 【 recover physical strength. 恢复体力 】
 - // TIPS: Pay attention to the pronunciation of the word 'gradually'. [gradually-逐渐地-adv]
 - // TIPS: Pay attention to the pronunciation of the word 'economy'. [economy-经济-n] // ------------- [restore-economy-恢复经济]
 - // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // ------- [economic-crisis-经济危机]
+- // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
+- // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
+-
 -
 - `【 appear 出现 v 】`
 - `【 gradually appear. 逐渐出现 v 】`
@@ -747,6 +772,8 @@
 - **【 The 【 crow 】 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 这只乌鸦逐渐消失在人群中 】**
 - // -- 【 crow 乌鸦 n 】
 - // -- 【 crowd 人群 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
+- // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
 -
 - [CC.]
 - `【 gradually improve. 逐渐改善 v 】`
