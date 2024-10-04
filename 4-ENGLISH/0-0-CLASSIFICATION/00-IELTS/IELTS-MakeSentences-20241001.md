@@ -168,3 +168,10 @@ The 【 welfare 】 【 in 】 【 Socialist countries 】 is better than 【 ca
 Please 【 back up 】 first, then 【 backtrack 】 to 【 previous version 】.
 请先备份，再回滚到上一个版本
 ```
+
+##### 5 Make sentences 2024-10-05
+
+```
+1
+这是一个简单的样品
+```

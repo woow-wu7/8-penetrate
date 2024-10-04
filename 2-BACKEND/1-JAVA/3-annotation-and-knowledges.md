@@ -52,7 +52,11 @@
 - @DataAllArgsConstructor // ------------------ It's a constructor with full parameters.
 - @NoArgsConstructor // ----------------------- It's a constructor with no parameters.
 -
-- 5. Interceptor 拦截器
+- 5. Jackson
+- @JsonProperty("group") // ------------------- { "group": "SomeGroupName" } 而不是 { "groupName": "SomeGroupName" }
+  private String groupName;
+-
+- 6. Interceptor 拦截器
 - HandlerInterceptor // ----------------------- 1. 创建拦截器类，自定义拦截规则 ( @Component ) ( public class RequestInterceptor implements HandlerInterceptor )
   - preHandle // ------------------------------ 在目标方法执行前执行，即 controller 方法执行前执行
   - postHandle // ----------------------------- 在目标方法执行完成后执行
@@ -60,18 +64,18 @@
 - WebMvcConfigurer // ------------------------- 2. 注册拦截器 ( @Configuration ) ( public class WebConfig implements WebMvcConfigurer )
 - // 详见: 本文件 / [ ##### 2.4 JPA / 模糊查询 fuzzy query ]
 -
-- 6. Attribute Binding. 属性绑定
+- 7. Attribute Binding. 属性绑定
 - @Component
 - @ConfigurationProperties(prefix = "spring.datasource")
 - // 1. Through '@Component' you can get the component value in any where.
 - // 2. Through '@ConfigurationProperties(prefix = "spring.datasource")' you can inject the value of spring.datasource in 'application.yml'.
 - // 3. // TIPS: The more secure way is to use ENVIRONMENT.
 -
-- 7. 环境变量 -> It can replace the 'Attribute Binding'.
+- 8. 环境变量 -> It can replace the 'Attribute Binding'.
 - // position: ------------------------------- run / edit configurations / Modify Options / Environment variables
 - // usage: ---------------------------------- username: ${DB_USERNAME} // in application.yml file
 -
-- 8. Test
+- 9. Test
 - @Test 表示该方法是测试方法
 - @ParameterizedTest 表示该方法是参数测试
 - @RepeatedTest 表示方法可重复执行
@@ -85,8 +89,21 @@
 - @Timeout 测试方法超过定时后将返回错误
 - @ExtendWith 为测试类或测试方法提供扩展类引用
 -
+-
+-
 - 999. Others
+- 1
 - ObjectUtils.isEmpty()
+- 2
+- [List, ArrayList, Set, Map] 中有 stream() filter() ... 方法
+  - stream()
+  - filter()
+  - map()
+  - distinct() // ------------------- 去除重复元素 // distinct 清楚的 不同的 adj
+  - collect(Collectors.toList()) ---- 收集到 List 数据结构中
+  - sorted() ------------------------ 排序
+  - limit(N) ------------------------ 方法用于截取流中的前 N 个元素
+  - skip(N) ------------------------- 跳过流中的前 N 个元素
 
 ```
 

@@ -657,11 +657,15 @@
 ###### Must 2024-07-15
 
 - 1
-- `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj 时态 n 】
+- `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj / 时态 n 】
 - `【 present tense. 现在时态 】` // ----【 present perfect tense. 现在完成时 】 // 【 present 现在的 adj 】 【 current 当前的 adj 】
 - `【 future tense. 将来时态 】`
-- > 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
-- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
+- > 【 present tense. 现在时态 】
+- > 【 simple present tense. 一般现在时态 】 // 【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
+- > 【 present perfect tense. 现在完成时态 】
+- _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
+- _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
+- // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
 -
 - `【 present tense. 现在时态 】`
 - `【 simple present tense. 一般现在时态 】`
@@ -746,6 +750,7 @@
 - `【 tongue 舌头 】`
 - `【 pronunciation 发音 n 】`
 - `【 accent 口音 n 】` // ------------- 【 heavy accent. 重口音 】 【 light accent. 轻口音 】
+- `【 mandarin 普通话 】`
 - `【 idiom 成语 方言 n 】`
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
@@ -847,6 +852,11 @@
 - `【 encounter difficulty. 遭遇困难 v 】`
 - `【 overcome difficulty. 克服困难 v 】`
 - **【 When we 【 encounter a difficulty 】, we should 【 overcome the difficulty 】. 当我们遭遇困难，我们就需要去克服困难 】**
+-
+- [II.]
+- `【 simple 简单的 简朴的 adj 】`
+- `【 sample 样品 样本 n 】`
+- **【 This is a 【 simple 】 【 sample 】. 这是一个简单的样品 】**
 
 ###### Must 2024-07-18
 
