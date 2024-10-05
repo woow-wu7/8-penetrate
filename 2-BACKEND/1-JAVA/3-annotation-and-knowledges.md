@@ -99,7 +99,7 @@
   - stream()
   - filter()
   - map()
-  - distinct() // ------------------- 去除重复元素 // distinct 清楚的 不同的 adj
+  - distinct() // ------------------- 去除重复元素 // distinct 不同的 清楚的 adj
   - collect(Collectors.toList()) ---- 收集到 List 数据结构中
   - sorted() ------------------------ 排序
   - limit(N) ------------------------ 方法用于截取流中的前 N 个元素
