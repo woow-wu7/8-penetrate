@@ -169,9 +169,75 @@ Please 【 back up 】 first, then 【 backtrack 】 to 【 previous version 】
 请先备份，再回滚到上一个版本
 ```
 
-##### 5 Make sentences 2024-10-05
+##### 5 Make sentences 2024-10-06
 
 ```
 1
 这是一个简单的样品
+
+
+2
+事故现场不是风景是一个常识
+
+
+3
+这个成分表包含了这个原材料的有效成分和活性成分
+
+
+4
+He 【 once 】 told me that you will lose confidence 【 once 】 you give up.
+他曾经告诉我一旦放弃就会失去信心
+-
+I also 【 greatly worship 】 the 【 idol 】 that she 【 once 】 worshiped.
+我也十分崇拜她曾经崇拜的偶像
+-
+// -
+// 【 once 曾经 一次 一旦 adv 】
+// -
+// 【 greatly worship. 非常崇拜 】
+// 【 worship idol. 崇拜偶像 】
+
+
+5
+他们在相处的过程中有很多矛盾
+
+
+6
+Please 【 slow down 】 and 【 pull over 】 to the side, don't 【 knock over 】 the 【 pedestrians 】.
+请减速并靠边停车，不要撞倒行人
+// -
+// 【 slow down. 减速 v 】
+// 【 pull over. 靠边停车 v 】
+// 【 know over. 撞到 v 】
+// -
+// 【 pedestrian. 行人 n 】
+
+
+7
+高福利国家的社会现象是每个人都有很高的社会地位和很高的社会福利
+-
+请你详细陈述一下福利国家的国家机密
+
+
+8
+这个雕像象征着自由
+
+
+9
+在家用电器中，冰柜和冰箱这都结冰了
+-
+弹簧秤是一种厨房用品
+-
+// -
+// 【 household appliance. 家用电器 n 】
+// -
+// 【 kitchen supplies. 厨房用品 n 】
+// 【 school supplies. 学习用品 n 】
+// 【 emergency supplies. 紧急物资 n 】
+
+
+10
+这个仪器可以追踪卡车留下的痕迹
+-
+备份这份文件用来回溯
 ```

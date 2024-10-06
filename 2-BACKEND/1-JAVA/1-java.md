@@ -4,6 +4,7 @@
 
 - [Mysql](../2-MYSQL/mysql.md)
 - [Idea](../../6-TOOLS/3-IDEA/1-IDEA.md)
+- [JPA](./4-JPA.md)
 -
 - [SpringBoot 所有知识点-self-link](/3-annotation-and-knowledges.md)
 - [2-maven-dependencies-所有注解和知识点-点这里-work-link](/2-maven-dependencies.md)

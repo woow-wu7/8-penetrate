@@ -1,27 +1,45 @@
 ###### Must 2024-09-05
 
 - 1
-- `【 ingredient 成分 原料 n 】` // ----------------------- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】
-- `【 material 材料 n 】` // ----------------------------- 【 raw material. 原材料 n 】 【 building material. 建筑材料 n 】
-- > 【 active ingredient. 有效成分 n 】
+- `【 ingredient 成分 原料 n 】` // ----------------------- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】 【 ingredient list. 成分表 】
+- `【 material 材料 n 】` // ----------------------------- 【 raw material. 原材料 n 】 【 building material. 建筑材料 n 】 【 reading material. 阅读材料 n 】
 - > 【 common ingredient. 常见成分 n 】
+- > 【 active ingredient. 有效成分 n 】 // ---------------- 【 actively pursue. 主动追求 v 】 【 active voice. 主动语态 n 】
+- > 【 ingredient list. 成分表 n 】 // list
 - > 【 raw material. 原材料 n 】
 - > 【 building material. 建筑材料 n 】
+- > 【 reading material. 阅读材料 n 】
 - _【 actively pursue. 主动追求 】_ // ---------------------【 pursue 追求 追逐 v 】
 - _【 passively accept. 被动接受 】_
 - _【 active voice. 主动语态 】_
 - _【 passive voice. 被动语态 】_
+- // TIPS: Pay attention to the pronunciation of the word 'list'. [list-列表-n]
 -
-- `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 a sense of ownership. 主人翁意识 n 】
+- `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 make sense. 有道理 】 // 【 a sense of ownership. 主人翁意识 n 】
 - `【 scene 场景 现场 n 】` // ---------------------------- 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 n 】
 - `【 scenery 风景 n 】` // ------------------------------ 【 natural scenery. 自然风景 n 】
+- > 【 common sense. 常识 n 】` // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
+- > 【 make sense. 有道理 n 】
+- > 【 a sense of ownership. 主人翁意识 n 】
+- sense of achievement 成就感
+- sense of responsibility 责任感
+- sense of security 安全感
+- sense of direction 方向感
+- sense of balance 平衡感
+- sense of justice 正义感
+- sense of language 语感
+- sense of humor 幽默感
+- sense of honor 荣誉感
+- sense of beauty 美感
 - > 【 common sense. 常识 n 】` // ------------------------ 【 sense 意义 含义 n 】 【 scene 场景 n 】 【 phenomenon 现象 n 】
 - > 【 common ingredient. 常见成分 n 】
 - > 【 common phenomenon. 常见现象 n 】
 - > 【 common usage. 常用用法 n 】 // --------------------- 【 usage 用法 使用 n 】
 - _【 crime scene. 犯罪现场 】_
 - _【 accident scene. 事故现场 】_
+- > 【 natural scenery. 自然风景 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'usage'. [usage-使用/用法-n]
+- // TIPS: pay attention to the pronunciation of the word 'scenery'. [scenery-风景-n]
 -
 - `【 form 形成v 构成v 表n 形态n 】`
 - `【 compose 组成 v 】`
@@ -57,6 +75,13 @@
 - `【 accident scene. 事故现场 n 】`
 - `【 scenery 风景 n 】`
 - **【 It's a 【 common sense 】 that the 【 accident scene 】 is not a 【 scenery 】. 事故现场不是风景是一个常识 】**
+-
+- [CC。]
+- `【 ingredient list. 成分表 n 】`
+- `【 active ingredient. 活性成分 n 】`
+- `【 common ingredient. 常见成分 n 】`
+- `【 raw material. 原材料 n 】`
+- **【 The 【 ingredient list 】 contains the 【 active ingredients 】 and 【 common ingredients 】 of the 【 raw material 】. 这个成分表包含了这个原材料的有效成分和活性成分 】**
 
 ###### Must 2024-09-08
 
@@ -68,7 +93,7 @@
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
 - > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】 【 family contradiction. 】
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
-- _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】
+- _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】 【 family contradiction. 家庭矛盾 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
 - _【 social contradiction. 社会矛盾 n 】_
@@ -79,7 +104,7 @@
 - _【 society 社会 n 】_ // -------------------- 【 modern society. 现代社会 】
 - _【 social status. 社会地位 】_
 - _【 social media. 社交媒体 】_
-- _【 social welfare. 社会福利 】_
+- _【 social welfare. 社会福利 】_ // ---------- 【 welfare state. 福利国家 n 】 【 socialist country. 社会主义国家 n 】
 - _【 social contradiction. 社会矛盾 】_
 - _【 social phenomenon. 社会现象 】_
 - // TIPS: Pay attention to the pronunciation of the word 'society'. [society-社会-n]
@@ -96,11 +121,11 @@
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
 - > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
-- > 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national assets. 国有资产 n 】 【 Nation Day. 国庆节 n 】
+- > 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national assets. 国有资产 n 】 【 National Day. 国庆节 n 】
 - _【 navy 海军 n 】_
 - _【 envy 羡慕 嫉妒 v 】_
 - _【 envy sb for doing sth. 羡慕某人做某事 】_
-- > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】
+- > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】 【 greatly worship. 非常崇拜 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
 - `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
@@ -111,6 +136,7 @@
 - > 【 stable relationship. 稳定的关系 n 】
 - > 【 steady relationship. 稳定的关系 n 】
 - > 【 physical relationship. 肉体关系 n 】
+- _【 romantic relationship. 恋爱关系 n 】_
 - > 【 cooperative relationship. 合作关系 n 】
 - // 【 establish the cooperative relationship. 建立合作关系 】 // cooperate cooperation cooperative
 - // 【 establish the romantic relationship. 确立了恋爱关系 】
@@ -145,42 +171,43 @@
 - `【 ever 曾经 永远 adv 】` ---------- 用于否定句
 - `【 idol 偶像 n 】`
 - **【 I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像 】**
+- **【 He 【 once 】 told me that you will lose confidence 【 once 】 you give up. 他曾经告诉我一旦放弃就会失去信心 】**
 - // -- 【 once 曾经 一次 一旦 adv 】
 - // -- 【 greatly worship. 非常崇拜 】
 - // -- 【 greatly appreciate. 非常感谢 】
 -
 - [DD.]
+- `【 contradiction 矛盾 n 】`
+- `【 internal contradiction. 内部矛盾 n 】`
+- `【 get along with sb. 与某人相处 】`
+- `【 get along peacefully with sb. 与某人和平相处 】`
+- **【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
+- **【 We should learn to 【 get along peacefully with 】 others. 我们要学会与别人和平相处 】**
+- // -- 【 get along with sb. 与某人相处 】
+- // -- 【 get along peacefully with sb. 与某人和平相处 】
+-
+- [EE.]
+- `【 social status. 社会地位 n 】`
+- `【 modern society. 现代社会 n 】`
+- **【 【 Social status 】 is very important in 【 modern society 】. 社会地位在现代社会中很重要 】**
+-
+- [FF.]
 - `【 contradict 反驳 v 】`
 - `【 contradiction 矛盾 n 】`
 - `【 internal contradiction. 内部矛盾 n 】`
 - `【 family contradiction. 家庭矛盾 n 】`
 - `【 social contradiction. 社会矛盾 n 】`
 - **【 He didn't 【 contradict 】 the 【 internal contradictions 】 between us. 他对我们之间的矛盾没有进行任何反驳 】**
--
-- [EE.]
-- `【 contradiction 矛盾 n 】`
-- `【 internal contradiction. 内部矛盾 n 】`
-- `【 get along with sb. 与某人相处 】`
-- `【 get along peacefully with sb. 与某人和平相处 】`
-- **【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处过程中发生了很多矛盾 】**
-- **【 We should learn to 【 get along peacefully with 】 others. 我们要学会与别人和平相处 】**
-- // -- 【 get along with sb. 与某人相处 】
-- // -- 【 get along peacefully with sb. 与某人和平相处 】
--
-- [FF.]
-- `【 social status. 社会地位 n 】`
-- `【 modern society. 现代社会 n 】`
-- **【 【 Social status 】 is very important in 【 modern society 】. 社会地位在现代社会中很重要 】**
 
 ###### Must 2024-09-12
 
 - 1
 - `【 overcome 克服 战胜 v 】` // ------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 overcome opponent. 战胜对手 】
-- `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】
+- `【 overlook 忽视 忽略 v n 】` // ----------- 【 overlook detail. 忽略细节 】 // overlook = ignore.
 - > 【 overcome fear. 克服恐惧 】
 - > 【 overcome difficulty. 克服困难 】
 - > 【 overcome opponent. 战胜对手 】 // ------ 【 opponent 对手 敌手 n 】 【 component 组件 n 】
-- > 【 encounter difficulty. 遇到困难 】
+- > 【 encounter difficulty. 遇到困难 】 // --- 【 encounter setback. 遭遇挫折 】
 - > 【 suffer difficulty. 遭受困难 】
 - _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
 - _【 defeat opponent. 打败对手 】_
@@ -189,7 +216,9 @@
 - > 【 overlook detail. = ignore detail. 忽略细节 】
 - > 【 detailed plan. 详细计划 】
 - > 【 detailed report. 详细报告 】
-- _【 detail 细节 n 】_ // ------------------- 【 in detail. 详细地 adv 】 【 detailed 详细地 adj 】 // 【 detailed plan. 详细的计划 】 【 detailed report. 详细的报告 】
+- 【 in detail. 详细地 adv 】
+- 【 Can you describe the whole process 【 in detail 】? 你能详细地述整个过程吗？ 】
+- _【 detail 细节 n 】_ // ------------------- 【 in detail. 详细地 adv 】 【 detailed 详细地 adj 】 // 【 detailed plan. 详细的计划 】 【 detailed report. 】
 - _【 tail 尾巴 n 】_
 - _【 retail 零售 n 零售的 adj 】_ // --------- 【 retail price. 零售价 】
 - _【 wholesale 批发 n 批发的 adj 】_ // ------ 【 wholesale price. 批发价 】
@@ -203,19 +232,23 @@
 - > 【 overall structure. 整体结构 n 】
 -
 - `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】 // 【 lottery draw. 】 【 lottery ticket. 】
-- `【 overtime 加班 超时 adj n 】`
+- `【 overtime 加班 超时 adj n 】` // -------- 【 work overtime. 加班 】
 - `【 overwork 劳累过度 v n 】`
+- `【 maxed out. 刷爆 v 】`
 - > 【 overdraw body. 透支身体 】
 - > 【 overdraw credit card. 透支信用卡 】
 - > 【 lottery draw. 抽奖 v 】
 - > 【 lottery ticket. 彩票 n 】
+- > 【 minor drawback. 小缺点 n 】
 - _【 draw 绘画 抽签 v 】_
 - _【 overdraw 透支 v 】_ // ----------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 n 】
 - _【 drawback 缺点 】_ // ------------------- 【 minor drawback. 小缺点 n 】
 - _【 minor drawback. 小缺点 】_
+- // 【 I have a 【 credit card 】, but I never 【 overdraw 】. 我有信用卡，但是我从来都不用透支的 】
+- // 【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】
 -
 - `【 overcoat 大衣 n 】`
-- `【 overwrite 重写 v 】` // I have a credit card, but I never overdraft. 我有信用卡，但是我从来都不用透支的
+- `【 overwrite 重写 v 】`
 -
 - `【 knock over. 撞倒 】`
 - `【 pull over. 靠边停下 】`
@@ -230,7 +263,7 @@
 - `【 overlook detail. = ignore detail. 忽略细节 】` = ignore detail.
 - > 【 the key to doing sth. 做某事的关键... 】
 - **【 【 The key to 】 【 overcoming difficulties 】 and 【 overcoming fear 】 is not to 【 overlook details 】. 克服困难和克服恐惧的关键是不能忽略细节 】**
-- **【 We need to overcome difficulty and overcome fear to overcome our opponents. 我们需要克服困难、克服恐惧去战胜对手 】**
+- **【 We need to 【 overcome difficulty 】 and 【 overcome fear 】 to 【 overcome our opponents 】. 我们需要克服困难、克服恐惧去战胜对手 】**
 - **【 We don't 【 overlook 】 this problem, we should 【 overcome 】 it. 我们不能忽视这个问题，而是要克服这个问题 】**
 - // -- 【 the key to doing sth. 做某事的关键... 】
 -
@@ -276,12 +309,12 @@
 - _【 fare 票价 n 】_
 - _【 fee 费用 n 】_
 - > 【 state 状态 n / 国家 n / 陈述 v 】
-- > 【 good state. 良好的状态 n 】
 - > 【 welfare state. 福利国家 n 】
 - > 【 state secret. 国家机密 n 】
 - > 【 state-owned assets. 国有资产 n 】
-- // TIPS: Pay attention to the pronunciation of the word 'allow'. [allow-允许]
-- // TIPS: Pay attention to the pronunciation of the word 'allowance'. [allowance-津贴]
+- > 【 good state. 良好的状态 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'allow'. [allow-允许-n]
+- // TIPS: Pay attention to the pronunciation of the word 'allowance'. [allowance-津贴-n]
 -
 - `【 salary 薪水 】` // -------- 长时间
 - `【 wage 工资 】` // ---------- 短时间
@@ -503,7 +536,7 @@
 - > 【 socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
 - > 【 capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】
 - 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
-- 【 United Nations. 联合国 】
+- 【 United Nations. 联合国 】 【 United Nations. 联合国 】 【 United Nations. 联合国 】
 - 【 first tier city. 一线城市 】
 - _【 county government. 县政府 n 】_
 - _【 county court. 县法院 n 】_
@@ -557,6 +590,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'nationality'. [nationality-国籍]
 - // TIPS: Pay attention to the pronunciation of the word 'destination'. [destination-目的地]
 - // TIPS: Pay attention to the pronunciation of the word 'asset'. [asset-资产-n]
+- // TIPS: Pay attention to the pronunciation of the word 'united'. [united-联合的-adj]
 -
 - `【 dual 双的 双重的 adj 】`
 - `【 dual nationality. 双重国籍 n 】` // ----------- 【 foreign nationality. 外国国籍 n 】
@@ -663,6 +697,7 @@
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】 // 【 trace 追踪 v / 痕迹 n 】
 - > 【 track 追踪 v / 轨道 n 】
 - > 【 trace 追踪 v / 痕迹 n 】
+- > 【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 truck 】. 这仪器能追踪卡车留下的痕迹 】
 -
 - `【 feedback 反馈 n 】` // ---------------------- 【 feedback in time. 及时反馈 】 【 give feedback on. 反馈... 】
 - `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】

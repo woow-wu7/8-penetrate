@@ -934,6 +934,11 @@
 - `【 cheap 便宜的 adj 】`
 - `【 crisp 薯片 】`
 - **【 The 【 Chip 】 is 【 cheaper 】 than the【 chip 】. 薯条比芯片便宜 】**
+-
+- [EE.]
+- `【 spring scale. 弹簧秤 n 】`
+- `【 kitchen supplies. 厨房用品 n 】`
+- **【 The 【 spring scale 】 is a kind of 【 kitchen supplies 】.  】**
 
 ###### Must 2024-08-17
 
