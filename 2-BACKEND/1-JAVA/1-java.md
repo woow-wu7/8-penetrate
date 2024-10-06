@@ -1,8 +1,12 @@
 ##### Java
 
-- [SpringBoot 所有知识点-self-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/3-annotation-and-knowledges.md)
-- [2-maven-dependencies-所有注解和知识点-点这里-work-link](file:///Users/xiawu/work/personal/frontend/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
-- [2-maven-dependencies-所有注解和知识点-点这里-work-link](file:///Users/xiawu/work/personal/front-end/8-penetrate/2-BACKEND/1-JAVA/2-maven-dependencies.md)
+##### Links
+
+- [Mysql](../2-MYSQL/mysql.md)
+- [Idea](../../6-TOOLS/3-IDEA/1-IDEA.md)
+-
+- [SpringBoot 所有知识点-self-link](/3-annotation-and-knowledges.md)
+- [2-maven-dependencies-所有注解和知识点-点这里-work-link](/2-maven-dependencies.md)
 - Swagger3
 - Jackson
 - Redis
