@@ -1,5 +1,98 @@
 ##### Mysql
 
+##### (一) Mysql / Download and Install
+
+- [official-website](https://www.mysql.com/downloads/)
+- [tutorial](https://blog.csdn.net/liaowenxiong/article/details/131465103)
+
+```java - Mysql / Download and Install
+1
+Click the link at the bottom of the page to download.
+- 1. MySQL Community (GPL) Downloads »
+- 2. MySQL Community Server
+- 3. Select the version of MySQL
+- 4. macOS 14 (ARM, 64-bit), DMG Archive
+// [Official Website]: https://www.mysql.com/downloads/
+// -- official 官方的 adj
+// -- office 办公室 n
+// -- community 社会 社会
+// -- archive 档案n 归档v 存档v
+// TIPS: Pay attention to the pronunciation of the word 'official'. [official-官方的-adj]
+// TIPS: Pay attention to the pronunciation of the word 'archive'. [archive-档案-n/存档-v]
+
+
+2
+Set environment variable. After installing, then to config.
+- cd /etc/paths.d
+- vim .bash_profile
+// if the command is readonly, we should run this command: $ sudo vim .bash_profile
+
+3
+add the following contents.
+- export PATH=$PATH:/usr/local/mysql/bin
+- export PATH=$PATH:/usr/local/mysql/support-files
+// if the command is readonly, we should run this command: $ sudo vim .bash_profile
+
+
+4
+run the following command
+- source ./.bash_profile
+
+
+5
+test
+- mysql --version
+```
+
+##### (二) Mysql / Common Commands
+
+```java - Mysql / Common Commands
+1.
+重启mysql
+- systemctl restart mysql
+- 扩展:
+  - 问题: 遇到问题，当我们输入 mysql -u root -p 并输入密码后报错
+  - 报错: ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+  - 分析: 出现 access denied 报错，有几种可能性
+    - 1. mysql停止服务了，没有启动 ------- systemctl restart mysqld 重启即可
+    - 2. root用户密码错误 --------------- (using password: YES) 表示密码错误
+
+2.
+链接数据库: mysql -u root -p
+退出数据库: quit;
+退出数据库(容器): exit;
+
+3.
+查看所有数据库: show databases;
+使用数据库: use xxx;
+当前正在使用的数据库: select database();
+查看当前数据库中的表: show tables;
+创建数据库: create database xxx;
+删除数据库: drop database xxx;
+
+4.
+向mysql的某个数据库中导入 ( .sql ) 文件
+- source 数据库表的.sql文件路径
+- // source F:\workSpace\coldchain.sql
+```
+
+##### (三) Mysql / Query Statement 查询语句
+
+```java - Mysql / Query Statement 查询语句
+1
+SELECT * FROM musics WHERE id IN (1,3)
+// "name" "singer"  "album" "date"  "id"
+// "七里香"  "周杰伦" "无与伦比"  "2/9/2024 23:59:47" "1"
+// "夜曲" "周杰伦" "范特西" "6/10/2024 09:20:36"  "3"
+
+
+2
+```
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### (1) Java / Download and Install
 
 - [java-11](https://www.oracle.com/java/technologies/downloads/#java11-mac) // 滚动到最底部
@@ -153,8 +246,6 @@ test
 - 2. Installation tutorial: https://www.qinchao.site/kaifagongju/24.html
 - 3. 先安装navicat, 弹窗报错时，再右键点击 ( 已破损修复 ) 弹出 terminal.
 ```
-
-##### ------- ------- ------- ------- ------- ------- -------
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
@@ -464,8 +555,6 @@ public class RedisController {
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### ------- ------- ------- ------- ------- ------- -------
-
 ##### (2) SpringBoot / 目录最佳实践
 
 ###### 2.1 目录最佳实践
@@ -526,8 +615,6 @@ public interface UserRepository extends JpaRepository<User, Long> {
   List<User> findByUsername(String username); // Spring Data 自动提供实现
 }
 ```
-
-##### ------- ------- ------- ------- ------- ------- -------
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
@@ -639,50 +726,12 @@ sout System.out.println()
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### (4) Mysql / 常用命令
-
-```
-1.
-重启mysql
-- systemctl restart mysqld
-- 扩展:
-  - 问题: 遇到问题，当我们输入 mysql -u root -p 并输入密码后报错
-  - 报错: ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
-  - 分析: 出现 access denied 报错，有几种可能性
-    - 1. mysql停止服务了，没有启动 ------- systemctl restart mysqld 重启即可
-    - 2. root用户密码错误 --------------- (using password: YES) 表示密码错误
-
-2.
-链接数据库: mysql -u root -p
-退出数据库: quit;
-退出数据库(容器): exit
-
-3.
-查看所有数据库: show databases;
-使用数据库: use xxx;
-当前正在使用的数据库: select database();
-查看当前数据库中的表: show tables;
-创建数据库: create database xxx;
-删除数据库: drop database xxx;
-
-4.
-向mysql的某个数据库中导入 ( .sql ) 文件
-- source 数据库表的.sql文件路径
-- // source F:\workSpace\coldchain.sql
-```
-
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### (5) Docker / 部署 mysql
+##### (4) Docker / 部署 mysql
 
 - docker 安装 mysql 并访问 https://juejin.cn/post/6892390655126241287#heading-4
 - docker 部署 mysql https://juejin.cn/post/6844904099024994312#heading-27
 
-##### (5) Hot Update
+##### (4) Hot Update
 
 - [我的博客-热更新](https://juejin.cn/post/6929145638898794503#heading-18)
 

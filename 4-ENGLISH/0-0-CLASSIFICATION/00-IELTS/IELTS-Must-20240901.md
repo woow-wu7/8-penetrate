@@ -502,7 +502,8 @@
 - > 【 developing country. 发展中国家 n 】
 - > 【 socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
 - > 【 capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】
-- 【 welfare state. 福利国家 n 】
+- 【 welfare state. 福利国家 n 】 【 social welfare. 社会福利 n 】
+- 【 United Nations. 联合国 】
 - 【 first tier city. 一线城市 】
 - _【 county government. 县政府 n 】_
 - _【 county court. 县法院 n 】_
@@ -537,9 +538,10 @@
 - `【 account 账号 n 】` // ----------------------- 【 bank account. 银行账号 n 】 【 recover account. 恢复账号 】
 - `【 accountant 会计 n 】` // -------------------- 【 junior accountant. 初级会计师 】 【 senior accountant. 高级会计师 】
 -
-- `【 nation 国家 名族 n 】` // -------------------- 【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
+- `【 nation 国家 名族 n 】` // -------------------- **【 United Nations. 联合国 】** //【 nation / state / country 】 // 【 national 国家的 民族的 adj 】
 - `【 national 国家的 民族的 adj 】` // ------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
 - `【 nationality 国籍 民族 n 】` // --------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
+- > 【 United Nations. 联合国 n 】
 - _【 national flag. 国旗 n 】_
 - _【 national anthem. 国歌 n 】_ // ---------------【 anthem 国歌 n 】
 - _【 national assets. 国有资产 n 】_ // ------------【 asset 资产 】
