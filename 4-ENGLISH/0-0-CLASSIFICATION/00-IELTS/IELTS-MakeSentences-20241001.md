@@ -241,3 +241,33 @@ Please 【 slow down 】 and 【 pull over 】 to the side, don't 【 knock over
 -
 备份这份文件用来回溯
 ```
+
+##### 6 Make sentences 2024-10-09
+
+```
+1
+他命令并要求我给他道歉
+
+
+2
+公司要求市场部去刺激需求和刺激消费
+
+
+3
+He was 【 isolated 】 because he was 【 stimulated 】.
+他因为受到刺激而被隔离了
+// -
+// 【 isolate 隔离 v 】
+// 【 stimulate 刺激 v 】
+
+
+4
+一旦你去过那里一次，你就还想去
+-
+我也十分崇拜她曾经崇拜的偶像
+// -
+
+
+5
+
+```

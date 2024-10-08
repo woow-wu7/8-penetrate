@@ -173,6 +173,8 @@
 - **【 I also 【 greatly 】 【 worship 】 the 【 idol 】 she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像 】**
 - **【 He 【 once 】 told me that you will lose confidence 【 once 】 you give up. 他曾经告诉我一旦放弃就会失去信心 】**
 - // -- 【 once 曾经 一次 一旦 adv 】
+- // -- `【 Once 】 you have been there 【 once 】, you will 【 be full of praise 】 for the tourist attraction. 一旦你去过一次，你就会对这个旅游景点赞不绝口 】`
+- // -- `【 once upon a time. 很久以前 】`
 - // -- 【 greatly worship. 非常崇拜 】
 - // -- 【 greatly appreciate. 非常感谢 】
 -
