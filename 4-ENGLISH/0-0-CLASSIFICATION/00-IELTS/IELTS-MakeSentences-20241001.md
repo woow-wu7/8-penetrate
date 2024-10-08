@@ -241,3 +241,52 @@ Please 【 slow down 】 and 【 pull over 】 to the side, don't 【 knock over
 -
 备份这份文件用来回溯
 ```
+
+##### 6 Make sentences 2024-10-09
+
+```
+1
+He 【 commands 】 and 【 demands 】 me to 【 apologize 】 to him.
+他命令并要求我给他道歉
+// -
+// 【 command 命令 指挥 v n 】 -------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
+// 【 demand 要求 n 】
+// -
+// 【 apologize 道歉 v 】
+// 【 apology 道歉 n 】
+// TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
+// TIPS: Pay attention to the pronunciation of the word 'apology'. [apology-道歉-n]
+
+
+
+2
+公司要求市场部去刺激需求和刺激消费
+
+
+3
+一旦你去过那里一次，你就还想去
+-
+我也十分崇拜她曾经崇拜的偶像
+// -
+
+
+4
+He uses the computer to 【 simulate 】 and 【 calculate 】 the process of 【 accumulating 】 the 【 wealth 】.
+他用计算机模拟和计算他积累财富的过程
+-
+The 【 main means 】 to 【 recover economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】.
+恢复经济的主要手段是刺激需求和刺激消费
+-
+He was 【 isolated 】 because he was 【 stimulated 】.
+他因为受到刺激而被隔离了
+-
+// -
+// 【 simulate 模拟 v 】------------- 【 simulate exam. 模拟考试 】 【 simulate training. 模拟训练 】
+// 【 calculate 计算 v 】------------ 【 calculate cost. 计算成本 】
+// 【 accumulate 积累 v 】----------- 【 accumulate wealth. 积累财富 】
+// 【 stimulate 刺激 v 】------------ 【 stimulate consumption. 刺激消费 】 【 stimulate demand. 刺激需求 】 // 【 product requirement. 产品需求 】
+// -
+// isolate 隔离v
+// -
+// 【 main mean. 主要手段 】
+```

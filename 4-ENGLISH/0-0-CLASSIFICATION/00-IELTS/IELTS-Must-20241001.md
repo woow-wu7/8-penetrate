@@ -267,23 +267,38 @@
 ###### Must 2024-10-05
 
 - 1
-- `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate demand. 刺激需求 】 【 stimulate consumption. 刺激消费 】
-- `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】
+- `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate consumption. 刺激消费 】 【 stimulate demand. 刺激需求 】// 【 product requirement. 产品需求 】
+- `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】 【 Simulated training. 模拟训练 】
 - `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】 【 calculate the time. 计算时间 】
 - `【 accumulate 积累 v 】` // --------------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
+- > 【 stimulate consumption. 刺激消费 】
+- > 【 stimulate demand. 刺激需求 】 // -------------【 demand 和 requirement 都是需求 】// 【 product requirement. 产品需求 n 】 【 stimulate demand. 刺激需求 】
+- > 【 product requirement. 产品需求 n 】
+- _【 demand 要求 需求 n 】_ // --------------------- 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
+- _【 command 命令 指挥 v 】_ // -------------------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
+- > 【 apology 道歉 n 】
+- > 【 apologize 道歉 v 】
+- _【 simulate exam. 模拟考试 】_
+- _【 simulate training. 模拟训练 】_
+- > 【 calculate cost. 计算成本 】
+- _【 accumulate wealth. 积累财富 】_
+- _【 accumulate experience. 积累经验 】_
 - // TIPS: Pay attention to the pronunciation of the word 'calculate'. [calculate-计算-v]
+- // TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
+- // TIPS: Pay attention to the pronunciation of the word 'apology'. [apology-道歉-n]
 -
 - `【 isolate 隔离 孤立 v 】`
 - `【 congratulate 祝贺 v 】`
 - `【 plate 盘子 碟 金属牌 n 】`
 - _【 congratulation on doing sth. 祝贺某事 】_
 - _【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】_
+- // TIPS: Pay attention to the pronunciation of the word 'isolate'. [isolate-隔离-v]
 -
 - [AA.]
 - `【 simulate 模拟 v 】`
 - `【 calculate 计算 v 】`
 - `【 accumulate 积累 v 】`
-- **【 He use the computer to 【 simulate 】 and 【 calculate 】 the process of 【 accumulating 】 his 【 wealth 】. 他用计算机模拟和计算他积累财富的过程 】**
+- **【 He uses the computer to 【 simulate 】 and 【 calculate 】 the process of 【 accumulating 】 his 【 wealth 】. 他用计算机模拟和计算他积累财富的过程 】**
 - // -- 【 the process of. ...的过程 】
 - // -- 【 wealth 财富 n 】
 - // -- 【 accumulating 积累 v 】
@@ -291,8 +306,9 @@
 - [BB.]
 - `【 stimulate demand. 刺激需求  】`
 - `【 stimulate consumption. 刺激消费  】`
-- **【 The 【 main means 】 to recover the economy is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
-- // -- 【 main mean. 主要手段 】
+- > 【 main mean. 主要手段 】
+- **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
+- // -- `【 main mean. 主要手段 】`
 - // -- 【 main way. 主要方式 主要途径 】
 - // -- 【 main measure. 主要措施 】
 - // -- 【 main method. 主要方法 】
@@ -302,8 +318,22 @@
 - `【 isolate 隔离 孤立 v 】`
 - `【 stimulate  刺激 v 】`
 - **【 He 【 was isolated 】 because he 【 was stimulated 】. 他因为受到刺激而被隔离了 】** // 被动语态
+- // TIPS: Pay attention to the pronunciation of the word 'isolate'. [isolate-隔离-v]
 -
 - [CC.]
 - `【 congratulation on doing sth. 祝贺某事 】`
 - `【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】`
 - **【 【 Congratulations 】 on getting your 【 license plate 】. 我祝贺你获得了车牌 】**
+-
+- [DD.]
+- `【 command 命令 指挥 v 】`
+- `【 demand 要求 需求 n 】`
+- `【 apologize 道歉 v 】`
+- `【 apology 道歉 n 】`
+- **【 He 【 command 】 and 【 demand 】 that I 【 apologize 】 to him. 他命令并要求我给他道歉 】**
+-
+- [EE.]
+- `【 stimulate demand. 刺激需求 】`
+- `【 stimulate consumption. 刺激消费 】`
+- **【 The company 【 require 】 【 marketing department 】 to 【 stimulate demand 】 and 【 stimulate consumption 】. 公司要求市场部去刺激需求和刺激消费 】**
+- // -- 【 marketing department. 市场部 】
