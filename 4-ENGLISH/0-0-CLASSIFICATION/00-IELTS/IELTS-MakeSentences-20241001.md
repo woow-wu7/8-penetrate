@@ -248,9 +248,13 @@ Please 【 slow down 】 and 【 pull over 】 to the side, don't 【 knock over
 1
 He 【 commands 】 and 【 demands 】 me to 【 apologize 】 to him.
 他命令并要求我给他道歉
+-
+The new 【 commands 】 【 demand 】 us to 【 retreat 】 【 immediately 】.
+新的命令要求我们立即撤退
+-
 // -
 // 【 command 命令 指挥 v n 】 -------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
-// 【 demand 要求 n 】
+// 【 demand 要求 n 】---------------- 【 demand a pay raise. 要求加薪 】
 // -
 // 【 apologize 道歉 v 】
 // 【 apology 道歉 n 】
@@ -258,16 +262,26 @@ He 【 commands 】 and 【 demands 】 me to 【 apologize 】 to him.
 // TIPS: Pay attention to the pronunciation of the word 'apology'. [apology-道歉-n]
 
 
-
 2
+The company 【 demands 】 【 marketing departments 】 to 【 stimulate demand 】 and 【 stimulate consumption 】.
 公司要求市场部去刺激需求和刺激消费
+// -
+// 【 stimulate demand. 刺激需求 】
+// 【 stimulate consumption. 刺激消费 】
 
 
 3
+【 Once 】 you have been there 【 once 】, you also want to go there again.
 一旦你去过那里一次，你就还想去
 -
+I also greatly 【 worship 】 the 【 idol 】 that she 【 once 】 【 worshipped 】.
 我也十分崇拜她曾经崇拜的偶像
+-
 // -
+// 【 once 曾经 一次 一旦 adv 】
+// -
+// 【 worship idol. 崇拜偶像 】
+// 【 greatly worship. 非常崇拜 】
 
 
 4
@@ -292,7 +306,37 @@ He was 【 isolated 】 because he was 【 stimulated 】.
 
 
 5
-我们的优势是具有先进的技术
+He 【 was inspired by 】 me and has 【 inspiration 】.
+他受到了我的启发，有了灵感
+// -
+// 【 inspire 启发 v 】
+// 【 inspiration 灵感 n 】
+// -
+// 【 be inspired by. 受到...的启发 】
+
+
+6
+After the signal was 【 interrupted 】, the 【 interception 】 failed.
+信号中断后，拦截失败了
 -
-在高级课程中有高级词汇
+As long as the signal can be 【 intercepted 】 and 【 interrupted 】, the 【 missile 】 can be 【 intercepted 】.
+只要能拦截并中断信号，就能拦截导弹
+-
+// -
+// 【 interrupt 打断 中断 v 】
+// 【 intercept 拦截 v 】
+// -
+// 【 missile 导弹 n 】
+
+
+7
+He 【 once 】 went to 【 Germany 】 【 once 】.
+他曾经坐过一次缆车
+// -
+// 【 once 曾经 一次 一旦 adv 】
+// 【 Germany 德国 n 】
+
+
+8
+我向你保证，我能确保你投保的保险安全可靠
 ```

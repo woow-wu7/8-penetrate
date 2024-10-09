@@ -1102,12 +1102,13 @@
 - `【 attendant 服务员 】`
 - **【 My 【 secretary 】 is his 【 assistant 】, but she 【 used to be 】 【 an 】 【 attendant 】. 我的秘书是他的助手，但曾经是一个服务员 】**
 
-###### 2024-06-23
+###### Must 2024-06-23
 
 - 1
 - `【 assure 保证 v 】`
-- `【 ensure 确保 v 】` // ensure = make sure. 确保
+- `【 ensure 确保 v 】` ----------------- 【 ensure safety. 确保安全 】 // ensure = make sure. 确保
 - `【 insure 投保 v 】` // insurance 保险 // insure 投保
+- > 【 ensure safety. 确保安全 】
 -
 - `【 insure 投保 v 】`
 - `【 insurance 保险 n 】`
@@ -1116,8 +1117,9 @@
 - `【 make sure. 确保 】`
 -
 - `【 treasure 宝藏 财富 】`
-- `【 measure 测量 】`
+- `【 measure 测量 】` // --------------- 【 exactly measure. 精确测量 】
 - `【 pressure 压力 】` // pressure // stress
+- > 【 exactly measure. 精确测量 】
 -
 -
 - [AA.]
