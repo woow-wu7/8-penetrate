@@ -289,4 +289,10 @@ He was 【 isolated 】 because he was 【 stimulated 】.
 // isolate 隔离v
 // -
 // 【 main mean. 主要手段 】
+
+
+5
+我们的优势是具有先进的技术
+-
+在高级课程中有高级词汇
 ```

@@ -113,7 +113,11 @@
 - > 【 expose shortcoming. 暴露缺点 】
 - _【 shortcoming 缺点 短处 n 】_ // ------------ short 短 // 【 acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
-- > 【 strength 体力 强度 力量 长处 】
+- _【 drawback 缺点 n 】_ // -------------------- 【 minor drawback. 小缺点 】
+- 【 strength 体力 强度 力量 长处 】// ------------ 【 have no strength. 没有实力 】 【 recover physical strength. 恢复体力 】
+- 【 advantage 优势 优点 有力条件 n 】 // --------- 【 advantage point. 有利位置 】
+- 【 advanced 先进的 adj 】 // ------------------ 【 advanced technology. 先进技术 】
+- 【 in advance. 提前 adv 】
 -
 - `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
 - `【 shortcut key. 快捷键 n 】`
@@ -337,3 +341,33 @@
 - `【 stimulate consumption. 刺激消费 】`
 - **【 The company 【 require 】 【 marketing department 】 to 【 stimulate demand 】 and 【 stimulate consumption 】. 公司要求市场部去刺激需求和刺激消费 】**
 - // -- 【 marketing department. 市场部 】
+
+###### Must 2024-10-09
+
+- 1
+- `【 advantage 优势 优点 有利条件 n 】` //----- 【 advantage point. 有利位置 】
+- `【 advanced 先进的 高级的 adj 】` // ------- 【 advanced technology. 先进技术 】 【 advanced vocabulary. 高级词汇 】 【 advanced course. 】 【 advanced age. 高龄 】
+- `【 in advance. 提前 adv 】`
+- > 【 advanced technology. 先进技术 】
+- > 【 advanced vocabulary. 高级词汇 】
+- > 【 advanced course. 高级课程 】
+- > 【 advanced age. 高龄 】
+-
+- `【 disadvantage 劣势 缺点 不利条件 n 】`
+- `【 shortcoming 缺点 短处 n 】`// -----------【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness / drawback 】
+- `【 weakness 缺点 弱点 n 】`
+- > 【 Acknowledge shortcoming. 承认缺点 】
+-
+- `【 advantage 优势 优点 有利条件 n 】`
+- `【 strength 力量 强度 实力 n 】` // -------- 【 recover physical strength. 恢复体力 】 【 have no strength. 没有实力 】
+-
+- [AA.]
+- `【 advantage 优势 优点 有利条件 n 】`
+- `【 advanced 先进的 高级的 adj 】`
+- _【 advanced technology. 先进的技术 】_
+- **【 Our 【 advantage 】 is that we have 【 advanced technology 】. 我们的优势是具有先进的技术 】**
+-
+- [BB.]
+- `【 advanced course. 高级课程 n 】`
+- `【 advanced vocabulary. 高级词汇 n 】`
+- **【 There are 【 advanced vocabularies 】 in 【 advanced courses 】. 在高级课程中有高级词汇 】**
