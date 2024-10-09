@@ -18,7 +18,7 @@
 - _【 gradually disappear. 逐渐消失 】_
 - > 【 county / country / countryside / count / discount / counter / encounter / account / accountant 】
 - _【 confident 自信的 adj / confidence 自信 n 】_ // ----- 【 enhance confidence. 增强信心 】
-- _【 confidence 自信 n 】_// ---------------------------- 【 enhance confidence. 增强信心 】
+- _【 confidence 自信 信心 n 】_// ------------------------ 【 enhance confidence. 增强信心 】
 - > 【 health 健康 n / healthy 健康的 adj 】 // ----------- 【 keep healthy. 保持健康 】
 - > 【 healthy 健康的 adj 】 // -------------------------- 【 keep healthy. 保持健康 】
 -
@@ -183,16 +183,18 @@
 ###### Must 2024-10-03
 
 - 1
-- `【 vent 通风口n  发泄v 】` // ------------------ 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
+- `【 vent 通风口n  发泄v 】` // ------------------ `【 vent emotion. 发泄情绪 】` 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 - `【 prevent 阻止 v 】`
 - `【 invent 发明 创造 v 】`
 - `【 inventory 库存 存货 n 】`
 - `【 adventure 冒险 探险 v n 】`
+- > 【 vent emotion. 发泄情绪 】
+- // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
 -
 - `【 vent 出风口n 发泄v 】` // ------------------ 【 emergency ventilation. 紧急通风 】
 - `【 vendor 小贩 摊贩 n 】`
 -
-- `【 emotion 情绪 情感 n 】` // ----------------- 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
+- `【 emotion 情绪 情感 n 】` // ----------------- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 - `【 emotional 情绪的 情感的 adj 】` // ---------- 【 emotional quotient. 情商 EQ 】 【 intelligence quotient. 智商 IQ 】
 - > 【 control emotion. 控制情绪 】
 - > 【 express emotion. 表达情感 】 // ------------ 【 express 表达 表示 快的 快递 v 】 【 experience 经验 经历 n 】
@@ -237,9 +239,9 @@
 - > 【 intercept communication. 拦截通讯 】
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
 -
-- `【 inspire 启发 激发 激励 v 】` // ------------ 【 inspire potential. 激发潜能 】 【 potential threat. 潜在威胁 】
-- `【 inspired 受到启发的 adj 】`
-- `【 inspiration 灵感 n 】` // ----------------- 【 creative inspiration. 创作灵感 】
+- `【 inspire 启发 激发 激励 v 】` // ------------ `【 inspire potential. 激发潜能 】` 【 potential threat. 潜在威胁 】
+- `【 inspired 受到启发的 adj 】` // ------------- 1. **【 be inspired by. 受到...的启发 】** 2. **【 inspiration 灵感 n 】**
+- `【 inspiration 灵感 n 】` // ----------------- `【 creative inspiration. 创作灵感 】`
 - > 【 be inspired by. 受到...的启发 】
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
 - // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
@@ -269,12 +271,12 @@
 - 1
 - `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate consumption. 刺激消费 】 【 stimulate demand. 刺激需求 】// 【 product requirement. 产品需求 】
 - `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】 【 Simulated training. 模拟训练 】
-- `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】 【 calculate the time. 计算时间 】
+- `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】
 - `【 accumulate 积累 v 】` // --------------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
 - > 【 stimulate consumption. 刺激消费 】
 - > 【 stimulate demand. 刺激需求 】 // -------------【 demand 和 requirement 都是需求 】// 【 product requirement. 产品需求 n 】 【 stimulate demand. 刺激需求 】
 - > 【 product requirement. 产品需求 n 】
-- _【 demand 要求 需求 n 】_ // --------------------- 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
+- _【 demand 要求 需求 n 】_ // --------------------- `【 demand a pay raise. 要求加薪 】` // 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
 - _【 command 命令 指挥 v 】_ // -------------------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
 - > 【 apology 道歉 n 】
 - > 【 apologize 道歉 v 】
@@ -332,7 +334,14 @@
 - `【 apology 道歉 n 】`
 - **【 He 【 command 】 and 【 demand 】 that I 【 apologize 】 to him. 他命令并要求我给他道歉 】**
 -
-- [EE.]
+- [EE].
+- `【 command 命令 指挥 v n 】`
+- `【 demand 要求 需求 v n 】`
+- **【 The new 【 commands 】 【 demand 】 us to 【 retreat 】 immediately. 新的命令要求我们立即撤退 】**
+- // -- 【 treat 对待 治疗 v 】
+- // -- 【 retreat 撤退 v 】
+-
+- [FF.]
 - `【 stimulate demand. 刺激需求 】`
 - `【 stimulate consumption. 刺激消费 】`
 - **【 The company 【 require 】 【 marketing department 】 to 【 stimulate demand 】 and 【 stimulate consumption 】. 公司要求市场部去刺激需求和刺激消费 】**
