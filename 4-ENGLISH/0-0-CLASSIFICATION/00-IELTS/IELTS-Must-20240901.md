@@ -240,6 +240,14 @@
 - [difficulty-困难-n]
 - [difficult-困难地-adj]
 -
+- `【 overtake 超过 超车 v 】` // 用在比赛中 ---- 【 overtake smoothly. 平稳超车 】
+- `【 overtaking 超过 超车 n 】`
+- > 【 overtake -> overtook. 超过 超车 】
+- > 【 overtake smoothly. 平稳超车 】
+- _【 exceed 超过 超越 v 】_
+- _【 beyond 超过 】_
+- _【 overtake 超过 超车 v 】_
+-
 - `【 overview 概述 总览 n 】` // ------------- 【 general overview. 总体概述 】
 - `【 overall 总体的 adj 】` // --------------- 【 overall structure. 整体结构 】
 - > 【 general 一般的 总的 普遍的 adj 】

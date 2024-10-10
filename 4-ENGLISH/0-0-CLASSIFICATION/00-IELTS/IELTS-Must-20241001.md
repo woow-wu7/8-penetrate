@@ -383,3 +383,45 @@
 - `【 advanced course. 高级课程 n 】`
 - `【 advanced vocabulary. 高级词汇 n 】`
 - **【 There are 【 advanced vocabularies 】 in 【 advanced courses 】. 在高级课程中有高级词汇 】**
+
+###### Must 2024-10-11
+
+catchup 追赶 v
+chase 追逐 v
+pursue 追求 追逐 v
+
+- catch up with. 赶上 抓到
+  //【 I'll catch up with you no matter how fast you run. 不管你跑得多快，我都要赶上你 】
+- cath up. 赶上
+  // catch up:【 I doubt she can catch up in one week. 我怀疑她能否在一周内赶上
+
+The speed of the car 【 exceeded 】 the 【 speed limit 】.
+汽车的速度超出了速度限制
+
+- //////// ------------------------------------------------------------------------
+- He 【 overtook 】 【 the second place 】 【 in the competition 】.
+  他在比赛中超过了第二名
+- When 【 overtaking 】, you need to 【 pay attention to safety 】.
+  超车时需要注意安全
+- I'll catch up with you no matter how fast you run.
+  不管你跑得多快，我都要赶上你
+- // -
+  // 【 exceed 超过 超越 v 】
+  // 【 beyond 超出 超过 v 】
+  // 【 overtake 超过 超车 v 】 --- 比赛中使用
+  // -
+  // catch up with. 赶上 抓到
+  // -
+  // 【 overtake 超过 v 】--> 【 overtook. 超过 】 is the past tense of the overtake.
+- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
+- // -- **【 The speed of the car 【 exceeded 】 the 【 speed limit 】. 汽车的速度【超过】了限速 】**
+- // -- **【 She was 【 exceeding 】 the 【 speed limit 】. 她超速驾驶 】**
+- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
+- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
+- ////////// ------------------------------------------------------------------------
+  // exceed 超过: They often exceed a meter in width. 它们的宽度通常超过一米
+  // She was exceeding the speed limit. 当时她超速驾驶
+- ////////// ------------------------------------------------------------------------
+  I couldn't hit him as he was beyond my reach. 我打不到他，因为我够不着他
+  // beyond 超出
+  // reach 伸手 到达

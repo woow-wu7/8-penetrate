@@ -380,4 +380,27 @@ The new 【 commands 】 【 demand 】 us to 【 retreat 】 【 immediately �
 // retreat 撤退 v
 // -
 // TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
+
+
+3
+The speed of the car 【 exceeded 】 the 【 speed limit 】.
+汽车的速度超出了速度限制
+-
+He 【 overtook 】 【 the second place 】 【 in the competition 】.
+他在比赛中超过了第二名
+-
+When 【 overtaking 】, you need to 【 pay attention to safety 】.
+超车时需要注意安全
+-
+I'll catch up with you no matter how fast you run.
+不管你跑得多快，我都要赶上你
+-
+// -
+// 【 exceed 超过 超越 v 】
+// 【 beyond 超出 超过 v 】
+// 【 overtake 超过 超车 v 】 --- 比赛中使用
+// -
+// catch up with. 赶上 抓到
+// -
+// 【 overtake 超过 v 】--> 【 overtook. 超过 】 is the past tense of the overtake.
 ```
