@@ -252,12 +252,16 @@ He 【 commands 】 and 【 demands 】 me to 【 apologize 】 to him.
 The new 【 commands 】 【 demand 】 us to 【 retreat 】 【 immediately 】.
 新的命令要求我们立即撤退
 -
+You need to 【 apologize 】 to me 【 publicly 】.
+你需要向我公开道歉
+-
 // -
 // 【 command 命令 指挥 v n 】 -------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
 // 【 demand 要求 n 】---------------- 【 demand a pay raise. 要求加薪 】
 // -
 // 【 apologize 道歉 v 】
 // 【 apology 道歉 n 】
+// -
 // TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
 // TIPS: Pay attention to the pronunciation of the word 'apology'. [apology-道歉-n]
 
@@ -339,4 +343,41 @@ He 【 once 】 went to 【 Germany 】 【 once 】.
 
 8
 我向你保证，我能确保你投保的保险安全可靠
+```
+
+##### 7 Make sentences 2024-10-10
+
+```
+1
+You said that the 【 common sense 】 【 makes a lot of sense 】.
+你说的常识很有道理
+// -
+// 【 common sense. 常识 n 】
+// 【 make sense. 有道理 】
+// -
+// 【 make a lot of sense. 很有道理 】
+
+
+2
+You need to 【 apologize 】 to me 【 publicly 】.
+你需要向我公开道歉
+-
+He 【 commands 】 and 【 demands 】 me to 【 apologize 】 to him.
+他命令并要求我给他道歉
+-
+The new 【 commands 】 【 demand 】 us to 【 retreat 】 【 immediately 】.
+新的命令要求我们立即撤退
+// -
+// 【 apologize 道歉 v 】
+// 【 apology 道歉 n 】
+// -
+// 【 publicly = in public. 公开地 】
+// -
+// command 命令 指挥 ------------------------- 【 run a command. 运行命令 】  【 command center. 指挥中心 】
+// demand 要求 需求 -------------------------- 【 stimulate demand. 刺激需求 】 【 product requirement. 产品需求 】 // 【 demand a pay raise. 要求加薪 】
+// -
+// treat 治疗 对待 v
+// retreat 撤退 v
+// -
+// TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
 ```

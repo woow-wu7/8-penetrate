@@ -39,8 +39,8 @@
 - _【 financial term. 金融术语 】_
 -
 - **【 keep healthy. 保持健康 】**
-- **【 enhance confidence. 增强信心 】**
-- **【 safety reason. 安全原因 】**
+- **【 enhance confidence. 增强信心 】** // ----------------【 store confidence. 恢复自信 / 恢复信心 】
+- **【 safety reason. 安全原因 】** // ---------------------【 safe 安全的 adj 】 【 safety 安全 n 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'academic'. [academic-学术的-adj] // [academic-performance-学习成绩]
 - // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
@@ -113,16 +113,16 @@
 - > 【 expose shortcoming. 暴露缺点 】
 - _【 shortcoming 缺点 短处 n 】_ // ------------ short 短 // 【 acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
-- > 【 strength 体力 强度 力量 长处 】
+- _【 strength 体力 强度 力量 长处 】_
 -
-- `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
-- `【 shortcut key. 快捷键 n 】`
--
+- `【 acknowledge 承认 v 】` // --------------- 【 acknowledge error. 承认错误 】 【 acknowledge shortcoming. 承认缺点 】
 - `【 knowledge 知识 n 】`
-- `【 acknowledge 承认 v 】` // --------------- 【 acknowledge error. 承认错误 】
 - > 【 acknowledge error. 承认错误 】
 - > 【 acknowledge shortcoming. 承认缺点 】
 - > 【 acknowledge weakness. 承认弱点 】
+-
+- `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
+- `【 shortcut key. 快捷键 n 】`
 -
 - [AA.]
 - `【 shut up. 闭嘴 v 】`
@@ -221,15 +221,23 @@
 ###### Must 2024-10-04
 
 - 1
-- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt the conversation. 打断对话 】 【 interrupt signal. 中断信号 】
+- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt conversation. 打断对话 】 【 interrupt signal. 中断信号 】
 - `【 intercept 拦截 v 】` // ------------------ 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】 【 intercept communication. 拦截通讯 】
-- > 【 interrupt the conversation. 打断对话 】
+- > 【 interrupt conversation. 打断对话 】
 - > 【 interrupt signal. 中断信号 】
 - > 【 interrupt sb doing sth. 打断某人做某事 】
-- _【 intercept missile. 拦截导弹 】_
+- _【 intercept missile. 拦截导弹 】_ // -------- 【 missile / miss 错过想念 / dismiss 解雇 / mission 使命 】
 - _【 intercept signal. 拦截信号 】_
 - _【 intercept communication. 拦截通讯 】_
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
+-
+- `【 inspire 启发 激发 激励 v 】` // ------------ `【 inspire potential. 激发潜能 】` 【 potential threat. 潜在威胁 】
+- `【 inspired 受到启发的 adj 】` // ------------- 1. **【 be inspired by. 受到...的启发 】** 2. **【 inspiration 灵感 n 】**
+- `【 inspiration 灵感 n 】` // ----------------- `【 creative inspiration. 创作灵感 】`
+- > 【 be inspired by. 受到...的启发 】
+- _【 creative inspiration. 创作灵感 n 】_ // ---- 【 creative 创造的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
+- // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
 -
 - `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】
 - `【 interception 拦截 n 】` // --------------- 【 signal interception. 信号拦截 n 】
@@ -238,13 +246,6 @@
 - > 【 intercept signal. 拦截信号 】
 - > 【 intercept communication. 拦截通讯 】
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
--
-- `【 inspire 启发 激发 激励 v 】` // ------------ `【 inspire potential. 激发潜能 】` 【 potential threat. 潜在威胁 】
-- `【 inspired 受到启发的 adj 】` // ------------- 1. **【 be inspired by. 受到...的启发 】** 2. **【 inspiration 灵感 n 】**
-- `【 inspiration 灵感 n 】` // ----------------- `【 creative inspiration. 创作灵感 】`
-- > 【 be inspired by. 受到...的启发 】
-- // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
-- // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
 -
 - [AA.]
 - `【 be inspired by. 受到...的启发 】`
@@ -279,7 +280,7 @@
 - _【 demand 要求 需求 n 】_ // --------------------- `【 demand a pay raise. 要求加薪 】` // 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
 - _【 command 命令 指挥 v 】_ // -------------------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
 - > 【 apology 道歉 n 】
-- > 【 apologize 道歉 v 】
+- > 【 apologize 道歉 v 】 // ---------------------- 【 apologize publicly. = apologize in public. 公开道歉 v 】
 - _【 simulate exam. 模拟考试 】_
 - _【 simulate training. 模拟训练 】_
 - > 【 calculate cost. 计算成本 】
@@ -291,7 +292,7 @@
 -
 - `【 isolate 隔离 孤立 v 】`
 - `【 congratulate 祝贺 v 】`
-- `【 plate 盘子 碟 金属牌 n 】`
+- `【 plate 盘子 碟 金属牌 n 】` // ------------------- 【 license plate. 车牌 】 【 business license. 营业执照 n 】
 - _【 congratulation on doing sth. 祝贺某事 】_
 - _【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】_
 - // TIPS: Pay attention to the pronunciation of the word 'isolate'. [isolate-隔离-v]
@@ -346,3 +347,8 @@
 - `【 stimulate consumption. 刺激消费 】`
 - **【 The company 【 require 】 【 marketing department 】 to 【 stimulate demand 】 and 【 stimulate consumption 】. 公司要求市场部去刺激需求和刺激消费 】**
 - // -- 【 marketing department. 市场部 】
+-
+- [GG.]
+- `【 apologize 道歉 v 】`
+- `【 publicly = in public. 公开地 】`
+- **【 You need to 【 apologize 】 to me 【 publicly 】. 你需要向我公开道歉 】**

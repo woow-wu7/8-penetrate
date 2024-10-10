@@ -467,10 +467,11 @@
 - > 【 kitchen scale. 厨房秤 】
 - > 【 weigh out. 称重 v 】
 -
-- `【 missile 导弹 n 】`
+- `【 missile 导弹 n 】` // --------------- 【 intercept missile. 拦截导弹 】
 - `【 miss 错过v 想念v 小姐n 】`
 - `【 dismiss 解雇 v 】` ------------------ 【 lay off. 裁员 v 】 【 dismiss 解雇 v 】 【 dissolve 溶解 v 解散 v 】
 - `【 mission 使命 n 】`
+- _【 intercept missile. 拦截导弹 】_
 - > 【 dismiss 解雇 v 】
 - > 【 dissolve 解散 v / 溶解 v 】
 - > 【 lay off. 裁员 】
@@ -938,7 +939,7 @@
 - [EE.]
 - `【 spring scale. 弹簧秤 n 】`
 - `【 kitchen supplies. 厨房用品 n 】`
-- **【 The 【 spring scale 】 is a kind of 【 kitchen supplies 】.  】**
+- **【 The 【 spring scale 】 is a kind of 【 kitchen supplies 】. 】**
 
 ###### Must 2024-08-17
 

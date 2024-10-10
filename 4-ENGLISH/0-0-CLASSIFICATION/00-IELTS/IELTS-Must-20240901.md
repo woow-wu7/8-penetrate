@@ -140,7 +140,14 @@
 - > 【 cooperative relationship. 合作关系 n 】
 - // 【 establish the cooperative relationship. 建立合作关系 】 // cooperate cooperation cooperative
 - // 【 establish the romantic relationship. 确立了恋爱关系 】
-- > 【 a sense of ownership. 主人翁意识 n 】
+- // -------
+- _【 a sense of ownership. 主人翁意识 n 】_
+- _【 make sense. 有道理 】_
+- _【 common sense. 常识 】_
+- // -------
+- 【 scene 场景 现场 n 】 // -------------- 【 accident scene. 事故现场 】 【 crime scene. 犯罪现场 n 】
+- 【 sense 感觉 】// --------------------- 【 a sense of ownership. 主人翁意识 n 】 【 make sense. 有道理 】 【 common sense. 常识 n 】
+- 【 scenery 风景 n 】
 -
 -
 - [AA.]
@@ -200,6 +207,12 @@
 - `【 family contradiction. 家庭矛盾 n 】`
 - `【 social contradiction. 社会矛盾 n 】`
 - **【 He didn't 【 contradict 】 the 【 internal contradictions 】 between us. 他对我们之间的矛盾没有进行任何反驳 】**
+-
+- [GG.]
+- `【 common sense. 常识 n 】`
+- `【 make sense. 有道理 】`
+- > 【 make a lot of sense. 很有道理 】
+- **【 What you said about the 【 common sense 】 【 makes sense 】. 你说的常识很有道理 】**
 
 ###### Must 2024-09-12
 
@@ -684,7 +697,7 @@
 
 - 1
 - `【 setback 挫折 n 】` // ----------------------- 【 serious setback. 严重挫折 】 // --【 suffer setback. 遭受挫折 】 【 encounter setback. 遭遇挫折 】
-- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 】
+- `【 drawback 缺点 n 】` // ---------------------- 【 minor drawback. 小缺点 】 // -----【 overdraw your body. 透支你的身体 】 【 lottery draw. 抽奖 】
 - `【 look back. 回顾 v 】` // -------------------- `【 look back on sth. 回顾... 】` // 【 look back. = review 回顾 v 】
 - `【 back down. 让步 退让 v 】` // ---------------- 【 For this 【 issue 】, I will never 【 back down 】 】
 - _【 major / minor / patch / alpha / beta 】_
@@ -694,6 +707,12 @@
 - > 【 encounter setback. 遭遇挫折 】
 - _【 look back. = review 回顾 】_
 - _【 book back on sth. 回顾某事 】_
+- // -------
+- > 【 drawback = shortcoming = weakness = disadvantage. 缺点 】
+- > 【 acknowledge shortcoming. 承认缺点 】
+- > 【 minor drawback. 小缺点 n 】
+- > 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 】
+- > 【 lottery draw. 抽奖 】
 -
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】 // 【 trace 追踪 v / 痕迹 n 】
