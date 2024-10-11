@@ -287,7 +287,7 @@ HTTP时货物
 401 UnAuthorized 未授权
 403 Forbidden 权限不够
 404 Not Found 资源未找到，访问的地址不存在
-405 Method Not Allowed 请求方法错误
+405 Method Not Allowed 请求方法错误 // TIPS: Pay attention to the pronunciation of word 'allow'. [allow-允许-v]
 408 Request Timeout 请求超时
 
 500 Internet Server Error 服务端错误

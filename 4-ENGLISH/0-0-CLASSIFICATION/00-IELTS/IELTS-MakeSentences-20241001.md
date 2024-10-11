@@ -345,7 +345,7 @@ He 【 once 】 went to 【 Germany 】 【 once 】.
 我向你保证，我能确保你投保的保险安全可靠
 ```
 
-##### 7 Make sentences 2024-10-10
+##### 7 Make sentences 2024-10-11
 
 ```
 1
@@ -395,6 +395,8 @@ When 【 overtaking 】, you need to 【 pay attention to safety 】.
 I'll catch up with you no matter how fast you run.
 不管你跑得多快，我都要赶上你
 -
+我要赶上第二名，超过第三名
+-
 // -
 // 【 exceed 超过 超越 v 】
 // 【 beyond 超出 超过 v 】
@@ -403,4 +405,64 @@ I'll catch up with you no matter how fast you run.
 // catch up with. 赶上 抓到
 // -
 // 【 overtake 超过 v 】--> 【 overtook. 超过 】 is the past tense of the overtake.
+
+
+4
+He 【 once 】 lived in 【 Paris 】.
+他曾经生活在巴黎
+-
+He has been to Paris 【 once 】.
+她去过一次巴黎
+-
+【 Once 】 she was very shy.
+曾经她很害羞
+-
+He 【 once 】 told me that you will lose confidence 【 once 】 you give up.
+他曾经告诉我一旦放弃就会失去信心
+-
+I also 【 greatly worship 】 the 【 idol 】 that she 【 once 】 worshiped.
+我也十分崇拜她曾经崇拜的偶像
+-
+// -
+// 【 once 曾经 一次 一旦 adv 】
+// 【 Paris 巴黎 n 】
+
+
+5
+The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】.
+经济结构导致经济衰退和经济危机
+// -
+// 【 economic structure. 经济结构 n 】
+// 【 economic recession. 经济衰退 n 】
+// 【 economic crisis. 经济衰退 n 】
+
+
+6
+请指定一个人去执行这个命令
+
+
+7
+【 This round of 】 【 layoffs 】 【 involves 】 most employees.
+这次裁员涉及大部分员工
+-
+This war 【 involves 】 【 multiple 】 countries.
+这场战争涉及到多个国家
+-
+Many parts of your body 【 are involved in 】 【 digesting 】 food.
+你身体中有很多部位共同参与了食物的消化
+-
+// -
+// 【 this round of. 这一轮 】
+// -
+// 【 layoff 裁员 n 】
+// 【 lay off. 裁员 v 】
+// -
+// 【 involve 涉及 v 】
+// -
+// 【 multiple 多个点 多种的 adj 】
+// -
+// 【 be involved in doing sth. 参与做某事 】
+// -
+// 【 digest 消化 v 】
+// 【 absorb 吸收 v 】
 ```
