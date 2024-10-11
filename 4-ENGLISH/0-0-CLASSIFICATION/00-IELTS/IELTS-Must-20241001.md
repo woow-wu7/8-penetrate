@@ -47,6 +47,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'political'. [political-政治的-adj] // [political-crisis-政治危机]
 - // TIPS: Pay attention to the pronunciation of the word 'crisis'. [crisis-危机-n] // [economic-crisis-经济危机]
 - // TIPS: Pay attention to the pronunciation of the word 'recession'. [recession-衰退-n] // [economic-recession-经济衰退]
+- // TIPS: Pay attention to the pronunciation of the word 'recession'. [safety-安全-n]
 -
 -
 - [AA.]
@@ -353,6 +354,11 @@
 - `【 stimulate consumption. 刺激消费 】`
 - **【 The company 【 require 】 【 marketing department 】 to 【 stimulate demand 】 and 【 stimulate consumption 】. 公司要求市场部去刺激需求和刺激消费 】**
 - // -- 【 marketing department. 市场部 】
+-
+- [GG.]
+- `【 designate 指定 指派 v 】`
+- `【 command 命令 指挥 v 】`
+- **【 Please 【 designate 】 a person to 【 execute 】 this 【 command 】. 请指定一个人去执行这个命令 】**
 
 ###### Must 2024-10-09
 
@@ -386,10 +392,23 @@
 
 ###### Must 2024-10-11
 
-catchup 追赶 v
-chase 追逐 v
-pursue 追求 追逐 v
+- 1
+- `【 catch up. 追赶 赶上 v 】` // ------------------ 【 catchup 追赶 赶上 n 】 // 【 catch up with sb. 追赶上某人 】
+- `【 chase 追逐 追捕 v 】` // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】
+- `【 pursue 追求 追逐 v 】` // --------------------- 【 pursue happiness. 追求幸福 】
+- _【 chase dream. 追逐梦想 】_
+- _【 chase fugitive. 追捕逃犯 】_ // --------------- 【 fugitive 逃犯 n 】 【 criminal 罪犯 n 】 【 crime 罪 n 】 // 【 crime scene. 犯罪现场 】
+- > 【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
+- > 【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
+- > 【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
+- > 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】\_
+-
+- `【 exceed 超过 v 】`
+- `【 beyond 超过 prep 】` // ----------------------- 【 beyond scope. 超出范围 】
+- `【 overtake 超车 超过 v 】` // -------------------- 比赛中国使用 【 overtake -> overtook. 超车 超过 v 】
+-
 
+-
 - catch up with. 赶上 抓到
   //【 I'll catch up with you no matter how fast you run. 不管你跑得多快，我都要赶上你 】
 - cath up. 赶上
@@ -426,4 +445,4 @@ The speed of the car 【 exceeded 】 the 【 speed limit 】.
   // beyond 超出
   // reach 伸手 到达
 - ////////// ------------------------------------------------------------------------
-我要赶上第二名，超过第三名。翻译
+  我要赶上第二名，超过第三名。翻译
