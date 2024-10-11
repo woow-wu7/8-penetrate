@@ -727,6 +727,8 @@
 - > 【 track 追踪 v / 轨道 n 】
 - > 【 trace 追踪 v / 痕迹 n 】
 - > 【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 truck 】. 这仪器能追踪卡车留下的痕迹 】
+- _【 fall back. 后退 撤退 v 】_
+- _【 fall back. = retreat. 撤退 】_
 -
 - `【 feedback 反馈 n 】` // ---------------------- 【 feedback in time. 及时反馈 】 【 give feedback on. 反馈... 】
 - `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】

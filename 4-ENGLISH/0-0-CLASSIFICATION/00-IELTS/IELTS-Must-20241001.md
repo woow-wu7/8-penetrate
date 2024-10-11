@@ -425,3 +425,5 @@ The speed of the car 【 exceeded 】 the 【 speed limit 】.
   I couldn't hit him as he was beyond my reach. 我打不到他，因为我够不着他
   // beyond 超出
   // reach 伸手 到达
+- ////////// ------------------------------------------------------------------------
+我要赶上第二名，超过第三名。翻译

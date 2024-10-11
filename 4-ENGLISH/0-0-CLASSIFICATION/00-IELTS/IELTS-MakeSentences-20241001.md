@@ -395,6 +395,8 @@ When 【 overtaking 】, you need to 【 pay attention to safety 】.
 I'll catch up with you no matter how fast you run.
 不管你跑得多快，我都要赶上你
 -
+我要赶上第二名，超过第三名
+-
 // -
 // 【 exceed 超过 超越 v 】
 // 【 beyond 超出 超过 v 】
