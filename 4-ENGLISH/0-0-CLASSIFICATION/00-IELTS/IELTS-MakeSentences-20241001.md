@@ -345,7 +345,7 @@ He 【 once 】 went to 【 Germany 】 【 once 】.
 我向你保证，我能确保你投保的保险安全可靠
 ```
 
-##### 7 Make sentences 2024-10-11
+##### 7 Make sentences 2024-10-12
 
 ```
 1
@@ -465,4 +465,7 @@ Many parts of your body 【 are involved in 】 【 digesting 】 food.
 // -
 // 【 digest 消化 v 】
 // 【 absorb 吸收 v 】
+
+8
+这是一个极好的主意和机会
 ```
