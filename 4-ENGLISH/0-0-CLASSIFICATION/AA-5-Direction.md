@@ -20,6 +20,7 @@
 - `【 citizen 公民 n 】` // -----------------【 civilization 文明 】 【 citizen 公民 n 】 // --【 citizen / city / civilization 】
 - `【 immigrant 移民 n 】` // ---------------【 migrate 移民 迁移 v 】 // --------------------【 migrate / immigrant 】
 - `【 refugee 难民 n 】` // -----------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
+- `【 fugitive 逃犯 n 】` // ---------------- **【 chase fugitive. 追扑逃犯 】** // **【 chase dream. 追逐梦想 】** // 【 chase 追逐 追扑 / pursue 追求 】
 - `【 bystander 旁观者 n 】` // -------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - `【 crowd 人群 群从 n / 拥挤v 】` // -------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
 - `【 alien 外国人 外星人 n 】` // -----------【 alien civilization. 外星文明 】

@@ -2,7 +2,7 @@
 
 - 1
 - `【 restore 恢复 修复 v 】` // -------------------------- 【 restore order. 恢复秩序 】 【 restore confidence. 恢复自信 】 【 enhance confidence. 增强自信 】
-- `【 recover 恢复 康复 v 】` // -------------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover account. 恢复账号 】
+- `【 recover 恢复 康复 v 】` // -------------------------- 【 recover health. 】 【 recover economy. 】 【 recover strength. 恢复体力 】 【 recover account. 】
 - These two words can be completely interchanged.
 - > 【 store 储存 v 商店 n / restore 恢复 v 】
 - > 【 restore 恢复 修复 v 】
@@ -20,7 +20,7 @@
 - _【 confident 自信的 adj / confidence 自信 n 】_ // ----- 【 enhance confidence. 增强信心 】
 - _【 confidence 自信 信心 n 】_// ------------------------ 【 enhance confidence. 增强信心 】
 - > 【 health 健康 n / healthy 健康的 adj 】 // ----------- 【 keep healthy. 保持健康 】
-- > 【 healthy 健康的 adj 】 // -------------------------- 【 keep healthy. 保持健康 】
+- > 【 healthy 健康的 adj 】 // -------------------------- 【 keep healthy. 保持健康 】 【 ensure safety. 确保安全 】
 -
 - `【 academic 学习的 学术的 adj 】` // -------------------- 【 academic performance. 学习成绩 】 【 academic research. 学术研究 】
 - `【 economic 经济的 adj 】` // -------------------------- 【 economic crisis. 】 【 economic recession. 】 【 economic structure. 】 【 economy / economic 】
@@ -41,6 +41,8 @@
 - **【 keep healthy. 保持健康 】**
 - **【 enhance confidence. 增强信心 】** // ----------------【 store confidence. 恢复自信 / 恢复信心 】
 - **【 safety reason. 安全原因 】** // ---------------------【 safe 安全的 adj 】 【 safety 安全 n 】
+- **【 safety rope. 安全绳 n 】**
+- **【 ensure safety. 确保安全 】**
 -
 - // TIPS: Pay attention to the pronunciation of the word 'academic'. [academic-学术的-adj] // [academic-performance-学习成绩]
 - // TIPS: Pay attention to the pronunciation of the word 'economic'. [economic-经济的-adj] // [economic-crisis-经济危机]
@@ -100,9 +102,9 @@
 - `【 shuttle bus. 班车 区间车 n 】`
 - > 【 rush hour. 高峰期 】
 - > 【 morning rush hour. 早高峰 】
-- > 【 rush hour for traffic. 交通高峰 】
+- > 【 rush hour 【 for 】 traffic. 交通高峰 】
 - _【 nuclear reactor. 核反应堆 】_
-- _【 safety reason. 安全原因 】_ // ----------- 【 safety reason. 安全原因 n 】
+- _【 safety reason. 安全原因 】_ // ----------- 【 safety reason. 安全原因 n 】 【 safety rope. 安全绳 n 】 【 ensure safety. 确保安全 】
 - _【 keep healthy. 保持健康 】_
 - _【 enhance confidence. 增强信心 】_
 -
@@ -112,6 +114,7 @@
 - `【 take a 【 short 】 break. 休息一下 v 】`
 - > 【 acknowledge shortcoming. 承认缺点 】
 - > 【 expose shortcoming. 暴露缺点 】
+- > 【 overcome shortcoming. 克服缺点 】 【 overcome setback. 克服挫折 】 【 encounter setback. 遇到挫折 】 【 serious setback. 严重挫折 n 】
 - _【 shortcoming 缺点 短处 n 】_ // ------------ short 短 // 【 acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
 - _【 drawback 缺点 n 】_ // -------------------- 【 minor drawback. 小缺点 】
@@ -120,16 +123,19 @@
 - 【 advanced 先进的 adj 】 // ------------------ 【 advanced technology. 先进技术 】
 - 【 in advance. 提前 adv 】
 -
+- `【 shortcoming 缺点 n 】` // --------------- 【 acknowledge shortcoming. 承认缺点 】
+- `【 disadvantage 劣势 缺点 n 】`
+- `【 drawback 缺点 n 】` // ------------------ 【 minor drawback. 小缺点 n 】
+- `【 weakness 缺点 】`
+-
 - `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
 - `【 shortcut key. 快捷键 n 】`
 -
 - `【 knowledge 知识 n 】`
+- `【 acknowledge 承认 v 】`
 - > 【 acknowledge error. 承认错误 】
 - > 【 acknowledge shortcoming. 承认缺点 】
 - > 【 acknowledge weakness. 承认弱点 】
--
-- `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
-- `【 shortcut key. 快捷键 n 】`
 -
 - [AA.]
 - `【 shut up. 闭嘴 v 】`
@@ -155,7 +161,7 @@
 -
 - [DD.]
 - `【 rush hour for traffic. 交通高峰 】`
-- **【 I left early to avoid the 【 rush hour for traffic 】. 我提早出发以避开交通高峰 】**
+- **【 I left early to avoid the 【 rush hour 【 for 】 traffic 】. 我提早出发以避开交通高峰 】**
 -
 - [EE.1]
 - `【 acknowledge 承认 】`
@@ -166,7 +172,7 @@
 - [EE.2]
 - `【 acknowledge 承认 v 】`
 - `【 shuttle bus. 班车 区间车 n 】`
-- **【 He 【 acknowledged 】 that he had 【 never 】 taken a 【 shuttle bus 】. 他承认了他从来没有坐过公班车 】**
+- **【 He 【 acknowledged 】 that he had 【 never 】 taken a 【 shuttle bus 】. 他承认了他从来没有坐过班车 】**
 -
 - [EE.3]
 - `【 acknowledge 承认 v 】`
@@ -195,7 +201,11 @@
 - `【 invent 发明 创造 v 】`
 - `【 inventory 库存 存货 n 】`
 - `【 adventure 冒险 探险 v n 】`
-- > 【 vent emotion. 发泄情绪 】
+- > 【 emotion 情绪 情感 感情 n 】
+- > 【 vent emotion. 发泄情绪 v 】
+- > 【 complex emotion. 复杂的情感 n 】
+- > 【 express emotion. 表达情感 v 】
+- > 【 control emotion. 控制情绪 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
 -
 - `【 vent 出风口n 发泄v 】` // ------------------ 【 emergency ventilation. 紧急通风 】
@@ -208,6 +218,12 @@
 - _【 emotional quotient. 情商 EQ 】_ // --------- 【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
 - _【 intelligence quotient. 智商 IQ 】_ // ------ 【 intelligence 智力 n 】 【 和差积商 sum difference product quotient 】
 -
+- `【 quotient 商 n 】`
+- > 【 emotional quotient. 情商 n 】`
+- > 【 intelligence quotient. 智商 n 】`
+- > 【 sum / difference / product / quotient. 和差积商 】
+- _【 The 【 quotient 】 of nine 【 divided by 】 three is six. 九除以三的商是六 】_
+-
 - [AA.]
 - `【 control emotion. 控制情绪 v 】`
 - `【 vent emotion. 发泄情绪 v 】`
@@ -218,7 +234,7 @@
 - `【 express emotion. 表达情感 v 】`
 - `【 vent 出风口n 发泄v 】`
 - `【 vendor 小贩 摊贩 n 】`
-- `【 tunnel 隧道 地道 n 】`
+- `【 tunnel 隧道 地道 n 】` // ------------------- 【 go through the tunnel. 穿过隧道 】
 - **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
 - // -- 【 tunnel 隧道 地道 n 】
 - // -- 【 at the vent of the tunnel. 在隧道的出风口处 】
@@ -228,25 +244,31 @@
 ###### Must 2024-10-04
 
 - 1
-- `【 interrupt 打断 中断 v 】` // -------------- 【 interrupt conversation. 打断对话 】 【 interrupt signal. 中断信号 】
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】 【 intercept communication. 拦截通讯 】
+- `【 intercept 拦截 v 】` // ------------ 【 intercept missile. 拦截导弹 】 【 intercept bullet. 拦截子弹 】 【 intercept signal. 拦截信号 】
+- `【 interrupt 打断 中断 v 】` // -------- 【 interrupt conversation. 打断对话 】 【 interrupt signal. 中断信号 】
+- `【 disturb 打扰 扰乱 v 】` // ---------- 【 disturb peace. 扰乱治安 v 】
 - > 【 interrupt conversation. 打断对话 】
 - > 【 interrupt signal. 中断信号 】
 - > 【 interrupt sb doing sth. 打断某人做某事 】
 - _【 intercept missile. 拦截导弹 】_ // -------- 【 missile / miss 错过想念 / dismiss 解雇 / mission 使命 】
+- _【 intercept bullet. 拦截子弹 】_ // --------- 【 bulletproof vest. 防弹衣 n 】
 - _【 intercept signal. 拦截信号 】_
 - _【 intercept communication. 拦截通讯 】_
+- > 【 disturb peace. 扰乱治安 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'intercept'. [intercept-拦截-v]
 -
-- `【 inspire 启发 激发 激励 v 】` // ------------ `【 inspire potential. 激发潜能 】` 【 potential threat. 潜在威胁 】
-- `【 inspired 受到启发的 adj 】` // ------------- 1. **【 be inspired by. 受到...的启发 】** 2. **【 inspiration 灵感 n 】**
-- `【 inspiration 灵感 n 】` // ----------------- `【 creative inspiration. 创作灵感 】`
+- `【 inspire 启发 激发 激励 v 】` // ------------ **【 inspire potential. 激发潜能 】** // 【 potential threat. 潜在威胁 】
+- `【 inspiration 灵感 n 】` // ---------------- **【 creative inspiration. 创作灵感 】**
+- > 【 inspired 受到启发的 adj 】` // ------------- 【 be inspired by. 受到...的启发 】 // 【 inspiration 灵感 n 】
 - > 【 be inspired by. 受到...的启发 】
 - _【 creative inspiration. 创作灵感 n 】_ // ---- 【 creative 创造的 adj 】
+- _【 inspire potential. 激发潜能 v 】_
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
 - // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'create'. [create-创造-v]
+- // TIPS: Pay attention to the pronunciation of the word 'creative'. [creative-有创造力的-adj] [creative-inspiration.创作灵感]
 -
-- `【 intercept 拦截 v 】` // ------------------ 【 intercept communication. 拦截通讯 】 【 intercept missile. 拦截导弹 】 【 intercept signal. 拦截信号 】
+- `【 intercept 拦截 v 】` // ------------------ 【 intercept missile. 拦截导弹 】 【 intercept bullet. 拦截子弹 】 【 intercept signal. 拦截信号 】
 - `【 interception 拦截 n 】` // --------------- 【 signal interception. 信号拦截 n 】
 - `【 interceptor 拦截器 n 】`
 - > 【 intercept missile. 拦截导弹 】
@@ -261,6 +283,7 @@
 - **【 He 【 was inspired by 】 me and had 【 inspiration 】. 他受到了我的启发，有了灵感 】**
 - // -- 【 be inspired by. 受到...的启发 】
 - // -- 【 inspiration 灵感 n 】
+- // -- 【 creative inspiration. 创作灵感 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-启发-n]
 - // TIPS: Pay attention to the pronunciation of the word 'inspired'. [inspired-受到启发的-adj]
 -
@@ -280,11 +303,11 @@
 - `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate consumption. 刺激消费 】 【 stimulate demand. 刺激需求 】// 【 product requirement. 产品需求 】
 - `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】 【 Simulated training. 模拟训练 】
 - `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】
-- `【 accumulate 积累 v 】` // --------------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
+- `【 accumulate 积累 累积 v 】` // ---------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
 - > 【 stimulate consumption. 刺激消费 】
 - > 【 stimulate demand. 刺激需求 】 // -------------【 demand 和 requirement 都是需求 】// 【 product requirement. 产品需求 n 】 【 stimulate demand. 刺激需求 】
 - > 【 product requirement. 产品需求 n 】
-- _【 demand 要求 需求 n 】_ // --------------------- `【 demand a pay raise. 要求加薪 】` // 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
+- _【 demand 要求 需求 n 】_ // --------------------- _【 demand a pay raise. 要求加薪 】_ _【 stimulate demand. 刺激需求 】_ // 【 demand an apology. 要求道歉 】
 - _【 command 命令 指挥 v 】_ // -------------------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
 - > 【 apology 道歉 n 】
 - > 【 apologize 道歉 v 】 // ---------------------- 【 apologize publicly. = apologize in public. 公开道歉 v 】
@@ -293,9 +316,9 @@
 - > 【 calculate cost. 计算成本 】
 - _【 accumulate wealth. 积累财富 】_
 - _【 accumulate experience. 积累经验 】_
-- // TIPS: Pay attention to the pronunciation of the word 'calculate'. [calculate-计算-v]
 - // TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
 - // TIPS: Pay attention to the pronunciation of the word 'apology'. [apology-道歉-n]
+- // TIPS: Pay attention to the pronunciation of the word 'calculate'. [calculate-计算-v]
 -
 - `【 isolate 隔离 孤立 v 】`
 - `【 congratulate 祝贺 v 】`
@@ -334,13 +357,17 @@
 - `【 congratulation on doing sth. 祝贺某事 】`
 - `【 sb congratulate sb on doing sth. 某人因某人做某事而表示祝贺 】`
 - **【 【 Congratulations 】 on getting your 【 license plate 】. 我祝贺你获得了车牌 】**
+- // -- 【 license plate. 车牌 】
+- // -- 【 business license. 营业执照 n 】
 -
 - [DD.]
 - `【 command 命令 指挥 v 】`
 - `【 demand 要求 需求 n 】`
 - `【 apologize 道歉 v 】`
 - `【 apology 道歉 n 】`
-- **【 He 【 command 】 and 【 demand 】 that I 【 apologize 】 to him. 他命令并要求我给他道歉 】**
+- **【 He 【 command 】 and 【 demand 】 that I 【 publicly apologize 】 to him. 他命令并要求我给他公开道歉 】**
+- // -- 【 apologize 道歉 v 】
+- // -- 【 publicly apologize. 公开道歉 v 】 = apologize in public. 公开道歉
 -
 - [EE].
 - `【 command 命令 指挥 v n 】`
@@ -359,6 +386,7 @@
 - `【 designate 指定 指派 v 】`
 - `【 command 命令 指挥 v 】`
 - **【 Please 【 designate 】 a person to 【 execute 】 this 【 command 】. 请指定一个人去执行这个命令 】**
+- // -- 【 designate 指定 指派 v 】
 
 ###### Must 2024-10-09
 
@@ -374,7 +402,9 @@
 - `【 disadvantage 劣势 缺点 不利条件 n 】`
 - `【 shortcoming 缺点 短处 n 】`// -----------【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness / drawback 】
 - `【 weakness 缺点 弱点 n 】`
+- `【 drawback 缺点 】` // ------------------- 【 minor drawback. 小缺点 n 】
 - > 【 Acknowledge shortcoming. 承认缺点 】
+- > 【 expose shortcoming. 暴露缺点 】
 -
 - `【 advantage 优势 优点 有利条件 n 】`
 - `【 strength 力量 强度 实力 n 】` // -------- 【 recover physical strength. 恢复体力 】 【 have no strength. 没有实力 】
@@ -389,60 +419,77 @@
 - `【 advanced course. 高级课程 n 】`
 - `【 advanced vocabulary. 高级词汇 n 】`
 - **【 There are 【 advanced vocabularies 】 in 【 advanced courses 】. 在高级课程中有高级词汇 】**
+-
+- [CC.]
+- `【 advanced age. 高龄 n 】`
+- `【 advanced vocabulary. 高级词汇 n 】`
+- `【 advanced course. 高级课程 n 】`
+- `【 advanced technology. 先进的技术 n 】`
+- **【 【 Although 】 she is 【 advanced age 】, she can say many 【 advanced vocabularies 】. 虽然她是高龄，但是她能说很多高级的词汇 】**
 
 ###### Must 2024-10-11
 
 - 1
-- `【 catch up. 追赶 赶上 v 】` // ------------------ 【 catchup 追赶 赶上 n 】 // 【 catch up with sb. 追赶上某人 】
+- `【 catch up with. 追赶 赶上 v 】` // -------------- 【 catchup 追赶 赶上 n 】 // 【 catch up with sb. 追赶上某人 】
+- `【 overtake 超过 超车 v 】` // -------------------- 比赛中使用 【 overtake -> overtook. 超车 超过 v 】
+-
 - `【 chase 追逐 追捕 v 】` // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】
 - `【 pursue 追求 追逐 v 】` // --------------------- 【 pursue happiness. 追求幸福 】
-- _【 chase dream. 追逐梦想 】_
-- _【 chase fugitive. 追捕逃犯 】_ // --------------- 【 fugitive 逃犯 n 】 【 criminal 罪犯 n 】 【 crime 罪 n 】 // 【 crime scene. 犯罪现场 】
-- > 【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
-- > 【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
-- > 【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
-- > 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】\_
+- > 【 chase dream. 追逐梦想 】
+- > 【 chase fugitive. 追捕逃犯 】 // --------------- 【 fugitive 逃犯 n 】 【 criminal 罪犯 n 】 【 crime 罪 n 】 // 【 crime scene. 犯罪现场 】
+- _【 pursue happiness. 追求幸福 】_
+- > [fugitive-逃犯-n]
+- > [refugee-难民-n]
+- //【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
+- //【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
+- //【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
+- // 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】\_
 -
 - `【 exceed 超过 v 】`
-- `【 beyond 超过 prep 】` // ----------------------- 【 beyond scope. 超出范围 】
-- `【 overtake 超车 超过 v 】` // -------------------- 比赛中国使用 【 overtake -> overtook. 超车 超过 v 】
+- `【 beyond 超过 超越 prep 】` // ------------------ 【 beyond scope. 超出范围 】 【 beyond the limit. 超越极限 】
+- `【 overtake 超车 超过 v 】` // -------------------- 比赛中使用 【 overtake -> overtook. 超车 超过 v 】
 -
-
+- `【 safety 安全 n 】` // ------------------------- 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】 【 ensure safety. 确保安全 】
+- `【 safe 安全的 adj 】`
+- > 【 safety rope. 安全绳 n 】
+- > 【 safety reason. 安全原因 n 】
+- > 【 ensure safety. 确保安全 】
+- > 【 pedestrian / resident / president / citizen / refugee / fugitive / immigrant / bystander / crowd-crow / civilization 】
 -
-- catch up with. 赶上 抓到
-  //【 I'll catch up with you no matter how fast you run. 不管你跑得多快，我都要赶上你 】
-- cath up. 赶上
-  // catch up:【 I doubt she can catch up in one week. 我怀疑她能否在一周内赶上
-
-The speed of the car 【 exceeded 】 the 【 speed limit 】.
-汽车的速度超出了速度限制
-
-- //////// ------------------------------------------------------------------------
-- He 【 overtook 】 【 the second place 】 【 in the competition 】.
-  他在比赛中超过了第二名
-- When 【 overtaking 】, you need to 【 pay attention to safety 】.
-  超车时需要注意安全
-- I'll catch up with you no matter how fast you run.
-  不管你跑得多快，我都要赶上你
-- // -
-  // 【 exceed 超过 超越 v 】
-  // 【 beyond 超出 超过 v 】
-  // 【 overtake 超过 超车 v 】 --- 比赛中使用
-  // -
-  // catch up with. 赶上 抓到
-  // -
-  // 【 overtake 超过 v 】--> 【 overtook. 超过 】 is the past tense of the overtake.
-- // -- **【 The price will not 【 exceed 】 100 yuan. 价格不会【超过】 100 元 】**
-- // -- **【 The speed of the car 【 exceeded 】 the 【 speed limit 】. 汽车的速度【超过】了限速 】**
-- // -- **【 She was 【 exceeding 】 the 【 speed limit 】. 她超速驾驶 】**
-- // -- This is dangerous, we're 【 exceeding 】 the maximum safe speed. 这很危险，我们超过了安全速度的最大值
-- // -- If messages in a group exceed the frequency limit. 如果消息超过频率限制
-- ////////// ------------------------------------------------------------------------
-  // exceed 超过: They often exceed a meter in width. 它们的宽度通常超过一米
-  // She was exceeding the speed limit. 当时她超速驾驶
-- ////////// ------------------------------------------------------------------------
-  I couldn't hit him as he was beyond my reach. 我打不到他，因为我够不着他
-  // beyond 超出
-  // reach 伸手 到达
-- ////////// ------------------------------------------------------------------------
-  我要赶上第二名，超过第三名。翻译
+- [AA.]
+- `【 catch up with. 追上 赶上 v 】`
+- `【 overtake 超过 超车 v 】`
+- **【 He 【 catches up with 】 【 the third place 】 and 【 overtakes 】 the second place. 他赶上了第三名，并超越了第二名 】**
+- // -- 【 the second place. 第二名 n 】
+- // -- overtake ----> overtook
+- // -- catch -------> caught
+- // -- 【 I'll 【 catch up with 】 you no matter how fast you run. 不管你跑得多快，我都要赶上你 】
+- // -- He 【 overtook 】 【 the second place 】 【 in the competition 】. 他在比赛中超过了第二名
+-
+- [BB.]
+- `【 overtake 超过 超车 v 】`
+- **【 You should 【 pay attention to 】 the 【 safety 】 when 【 overtaking 】. 超车时需要注意安全 】**
+- // -- 【 safe 安全的 adj 】
+- // -- 【 safety 安全 n 】
+- // -- 【 safety rope. 安全绳 n 】 【 safety reason. 安全原因 n 】 【 ensure safety. 确保安全 】
+-
+- [CC.]
+- `【 safety rope. 安全绳 n 】`
+- `【 ensure safety. 确保安全 】`
+- **【 The 【 safety rope 】 can 【 ensure safety 】. 安全绳可以确保安全 】**
+-
+- [DD.]
+- `【 chase fugitive. 追捕逃犯 v 】`
+- `【 chase dream. 追逐梦想 v 】`
+- **【 He is 【 chasing a fugitive 】, not 【 chasing dream 】. 他是在追捕逃犯，不是在追逐梦想 】**
+-
+- [EE.]
+- `【 exceed 超过 v 】`
+- **【 The speed of the car 【 exceeded 】 the 【 speed limit 】. 汽车的速度【超过】了限速 】**
+- // -- 【 speed limit. 速度限制 n 】
+-
+- [GG.]
+- `【 fugitive 逃犯 n 】`
+- `【 refugee 难民 n 】`
+- **【 He is a 【 fugitive 】, not a 【 refugee 】. 他是逃犯，不是难民 】**
+- // -- 【 pedestrian / resident / president / citizen / refugee / fugitive / immigrant / bystander / crowd-crow / civilization 】
