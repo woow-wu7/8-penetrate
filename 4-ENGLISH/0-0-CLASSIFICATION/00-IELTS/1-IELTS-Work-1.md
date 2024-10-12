@@ -60,19 +60,21 @@
 -
 - 2
 - `【 primarily 主要地 adv 】`
-- `【 primary 主要的 adj / 初选n  】` // -------- 【 primary school. 小学 】 【 primary responsibility. 主要责任 n 】
+- `【 primary 主要的 adj / 初选n  】` // -------- `【 primary school. 小学 】` 【 primary responsibility. 主要责任 n 】
 - > 【 primary responsibility. 主要责任 n 】
 - > 【 primary election. 初选 n 】
 - > 【 primary school. = elementary school. = junior school. 小学 】
 - **【 I 【 am primarily responsible for 】 implementing the two maps related applications. 我主要负责实现两个地图相关的 app 】**
 - // -- 【 be responsible for. 负责... 】
 - // -- 【 primarily . 主要地 adv 】
+- // -- 【 primary school. 小学 】 = 
 - // TIPS: Pay attention to the pronunciation of the word 'primarily'. [primarily-主要地-adv]
 - // TIPS: Pay attention to the pronunciation of the word 'primary'. [primary-主要的-adj]
 -
 -
 - 3
 - `【 discard 丢弃 v 】`
+- // TIPS: Pay attention to the pronunciation of the word 'discard'. [discard-丢弃-v]
 - **【 We shouldn't 【 discard 】 the 【 traditions 】 of our country easily. 我们不应该轻易丢弃我们国家的传统 】**
 - **【 but one of the versions will be 【 discarded 】. 但是其中一个版本将被丢弃 】**
 - // -- 【 tradition 传统 n 】

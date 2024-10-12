@@ -380,7 +380,7 @@
 - 【 variable promotion 变量提升 】
 - **【 【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】. 先进的技术推动了先进工艺的发展 】**
 - 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
-- 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 leader. 】**
+- 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 【 be a leader 】. 】**
 - 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
 - 2. **【 She got a promotion. 她获得了晋升 】**
 - // -- 【 be promoted from xx to xx. 从...晋升为... 】

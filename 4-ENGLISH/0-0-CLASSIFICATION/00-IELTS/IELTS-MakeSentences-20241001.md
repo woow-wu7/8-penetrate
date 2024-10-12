@@ -539,4 +539,40 @@ Many parts of your body 【 are involved in 】 【 digesting 】 food.
 经济结构导致经济衰退和经济危机
 -
 经济危机，金融危机，政治危机同时出现了
+
+
+10
+Is this seat taken?
+这个位置有人坐吗？
+-
+Excuse me, is anyone seating here?
+请问，这里有人坐吗？
+// -
+// 【 seat 座位n / 坐v 】
+// 【 have a seat. = take a seat. 请坐 】
+
+
+11
+You need to 【 seize 】 this opportunity 【 for 】 【 promotion 】.
+你需要抓住这个晋升的机会
+-
+He 【 was promoted from 】 【 associate professor 】 to 【 professor 】.
+他从副教授晋升为了教授
+-
+【 Due to 】 his 【 excellent performance 】, He 【 was promoted to 】 【 be a leader 】.
+由于他的出色表现，他被提升为领导
+-
+He is a 【 prime candidate 】 for 【 promotion 】.
+他是最有望获得晋升的人选
+-
+// -
+// 【 seize 抓住 把握 v 】
+// 【 seize opportunity. 抓住机会 v 】
+// -
+// 【 promotion 晋升 n 】
+// 【 be promoted from A to B. 从A晋升为B 】
+// -
+// 【 excellent performance. 优秀表现 n 】
+// -
+// 【 associate professor. 副教授 n 】
 ```

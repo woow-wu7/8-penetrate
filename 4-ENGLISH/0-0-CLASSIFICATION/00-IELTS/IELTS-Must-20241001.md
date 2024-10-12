@@ -107,6 +107,7 @@
 - _【 safety reason. 安全原因 】_ // ----------- 【 safety reason. 安全原因 n 】 【 safety rope. 安全绳 n 】 【 ensure safety. 确保安全 】
 - _【 keep healthy. 保持健康 】_
 - _【 enhance confidence. 增强信心 】_
+- // TIPS: Pay attention to the pronunciation of the word 'traffic'. [traffic-交通-n]
 -
 - `【 shortcoming. 缺点 短处 n 】` // ---------- 【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness 】
 - `【 shortcut key. 快捷键 n 】`
@@ -127,15 +128,13 @@
 - `【 disadvantage 劣势 缺点 n 】`
 - `【 drawback 缺点 n 】` // ------------------ 【 minor drawback. 小缺点 n 】
 - `【 weakness 缺点 】`
+- > 【 acknowledge shortcoming. 承认缺点 】
+- > 【 acknowledge error. 承认错误 】
+- > 【 acknowledge weakness. 承认弱点 】
+- _【 minor drawback. 小缺点 】_ // ------------ 【 overdraw your body. 】 【 lottery draw. 抽奖 】
 -
 - `【 screenshot. 截屏 n 】` // --------------- 【 take a screenshot. 截图 】
 - `【 shortcut key. 快捷键 n 】`
--
-- `【 knowledge 知识 n 】`
-- `【 acknowledge 承认 v 】`
-- > 【 acknowledge error. 承认错误 】
-- > 【 acknowledge shortcoming. 承认缺点 】
-- > 【 acknowledge weakness. 承认弱点 】
 -
 - [AA.]
 - `【 shut up. 闭嘴 v 】`
@@ -196,9 +195,9 @@
 ###### Must 2024-10-03
 
 - 1
-- `【 vent 通风口n  发泄v 】` // ------------------ `【 vent emotion. 发泄情绪 】` 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
-- `【 prevent 阻止 v 】`
+- `【 vent 通风口n  发泄v 】` // ------------------ `【 vent emotion. 发泄情绪 】` `【 control emotion. 控制情绪 】` `【 express emotion. 表达情感 】`
 - `【 invent 发明 创造 v 】`
+- `【 prevent 阻止 v 】`
 - `【 inventory 库存 存货 n 】`
 - `【 adventure 冒险 探险 v n 】`
 - > 【 emotion 情绪 情感 感情 n 】
@@ -213,8 +212,10 @@
 -
 - `【 emotion 情绪 情感 n 】` // ----------------- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 - `【 emotional 情绪的 情感的 adj 】` // ---------- 【 emotional quotient. 情商 EQ 】 【 intelligence quotient. 智商 IQ 】
+- > 【 vent emotion. 发泄情绪 v 】
 - > 【 control emotion. 控制情绪 】
 - > 【 express emotion. 表达情感 】 // ------------ 【 express 表达 表示 快的 快递 v 】 【 experience 经验 经历 n 】
+- > 【 complex emotion. 复杂的情感 n 】
 - _【 emotional quotient. 情商 EQ 】_ // --------- 【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
 - _【 intelligence quotient. 智商 IQ 】_ // ------ 【 intelligence 智力 n 】 【 和差积商 sum difference product quotient 】
 -
@@ -398,6 +399,7 @@
 - > 【 advanced vocabulary. 高级词汇 】
 - > 【 advanced course. 高级课程 】
 - > 【 advanced age. 高龄 】
+- > 【 advanced civilization. 高级文明 n 】
 -
 - `【 disadvantage 劣势 缺点 不利条件 n 】`
 - `【 shortcoming 缺点 短处 n 】`// -----------【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness / drawback 】
