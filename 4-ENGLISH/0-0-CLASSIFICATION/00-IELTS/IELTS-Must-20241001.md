@@ -248,6 +248,7 @@
 - `【 intercept 拦截 v 】` // ------------ 【 intercept missile. 拦截导弹 】 【 intercept bullet. 拦截子弹 】 【 intercept signal. 拦截信号 】
 - `【 interrupt 打断 中断 v 】` // -------- 【 interrupt conversation. 打断对话 】 【 interrupt signal. 中断信号 】
 - `【 disturb 打扰 扰乱 v 】` // ---------- 【 disturb peace. 扰乱治安 v 】
+- `【 interpreter 解释器 口译员 n 】`
 - > 【 interrupt conversation. 打断对话 】
 - > 【 interrupt signal. 中断信号 】
 - > 【 interrupt sb doing sth. 打断某人做某事 】
@@ -442,10 +443,15 @@
 - _【 pursue happiness. 追求幸福 】_
 - > [fugitive-逃犯-n]
 - > [refugee-难民-n]
+- > [criminal-罪犯-n]
+- > [crime-犯罪--n] // ---------------------------- 【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 】 // 【 common sense. 】 【 make sense. 】
+- // TIPS: Pay attention to the pronunciation of the word 'crime'. [crime-犯罪-n]
+- // TIPS: Pay attention to the pronunciation of the word 'criminal'. [criminal-罪犯-n]
 - //【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
 - //【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
 - //【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
-- // 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】\_
+- // 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】
+- //
 -
 - `【 exceed 超过 v 】`
 - `【 beyond 超过 超越 prep 】` // ------------------ 【 beyond scope. 超出范围 】 【 beyond the limit. 超越极限 】

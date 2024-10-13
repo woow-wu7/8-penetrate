@@ -48,6 +48,7 @@
 - //【 announce 发布 宣布 】
 - //【 declare 发布 声明 】
 - // -
+- // comply with. 遵守 v // --------------- 【 comply with law. 遵守法律 】 【 comply with the labor law. 遵守劳动法 】 【 comply with the regulation. 遵守规定 】
 -
 -
 -

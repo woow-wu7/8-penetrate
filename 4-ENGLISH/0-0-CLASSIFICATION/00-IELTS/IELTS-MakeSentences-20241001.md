@@ -575,4 +575,39 @@ He is a 【 prime candidate 】 for 【 promotion 】.
 // 【 excellent performance. 优秀表现 n 】
 // -
 // 【 associate professor. 副教授 n 】
+
+
+12
+Why don't you 【 obey 】 【 traffic rules 】?
+Why don't you 【 comply with 】 【 traffic rules 】?
+你为什么不遵守交通规则？
+-
+We must 【 comply with 】 the company 【 regulations 】.
+我们必须遵守公司规定
+-
+The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有劳动工人必须遵守劳动法
+-
+// -
+// 【 traffic rules. 交通规则 n 】
+// -
+// 【 obey 遵守 服从 v 】
+// 【 comply with. 遵守 v 】
+// -
+// 【 comply with the traffic rules. 遵守交通规则 】
+// 【 comply with the regulation. 遵守规定 】
+// 【 comply with the law. 遵守法律 】
+// 【 comply with the 【 labor law. 】 遵守劳动法 】
+// -
+// 【 labor worker. 劳动工人 n 】
+// 【 labor laws. 劳动法 n 】
+// 【 laboratory 实验室 n 】
+- > 【 labor / laboratory / directory / repository / secretary / dormitory / factory / victory / history / mandatory 】
+
+
+13
+Please 【 archive 】 the 【 archive 】.
+请存档档案
+// -
+// 【 archive 存档v / 档案 n 】
 ```

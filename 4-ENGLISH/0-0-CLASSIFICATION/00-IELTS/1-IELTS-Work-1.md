@@ -67,7 +67,7 @@
 - **【 I 【 am primarily responsible for 】 implementing the two maps related applications. 我主要负责实现两个地图相关的 app 】**
 - // -- 【 be responsible for. 负责... 】
 - // -- 【 primarily . 主要地 adv 】
-- // -- 【 primary school. 小学 】 = 
+- // -- 【 primary school. 小学 】 = junior school. = elementary school.
 - // TIPS: Pay attention to the pronunciation of the word 'primarily'. [primarily-主要地-adv]
 - // TIPS: Pay attention to the pronunciation of the word 'primary'. [primary-主要的-adj]
 -
@@ -91,7 +91,9 @@
 - 1
 - `【 register 注册 v 】` // ------------------- 【 register trademark. 注册商标 】
 - `【 pleased 高兴 adj 】` // ------------------ 【 please 请 v 】
+- > 【 trade mark. 商标 n 】
 - **【 I 【 am pleased to 】 inform you that you can 【 register the trademark 】. 很高兴地通知你，你可以注册商标了 】**
+- // -- 【 trademark 商标 n 】
 - // TIPS: Pay attention to the pronunciation of th word 'register'. [register-注册-v]
 -
 - 2
@@ -120,6 +122,8 @@
 - `【 intermediate 中间的 中级的 adj 】`
 - > 【 intermediate state. 中间阶段 】
 - > 【 Intermediate step. 中间步骤】
+- _【 intersection 十字路口 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'intermediate'. [intermediate-中间的-中级的-adj]
 -
 - 7
 - `【 suspend 暂停 中止 v 】`
@@ -133,7 +137,6 @@
 
 - 0
 - `【 once 曾经 一次 一旦 当...的时候 】`
-- **【 】**
 -
 - 1
 - `【 assistant 助理 n v 】`
@@ -145,9 +148,11 @@
 - 3
 - `terminate 终止 结束v`
 - `terminated 终止的adj / the past tense of the verb.`
+- `terminal 终端 n `
 -
 - 4
 - `encrypt 加密 v`
+- `decrypt 解密 v`
 -
 - 5
 - `cargo 货物 n`
@@ -208,8 +213,8 @@
 - `【 real-time. 实时的 adj 】`
 - `【 in real time. 实时地 adj  】`
 - _【 real-time. 实时的 adj 】_
-- > 【 update data in real time. 实时更新 】
-- > 【 communicate in real time. 实时交流 】
+- > 【 update data 【 in 】 real time. 实时更新 】
+- > 【 communicate 【 in 】 real time. 实时交流 】
 - > 【 process in real time. 实时处理 】
 - 1. **【 We can 【 communicate in real time 】 and 【 update data in real time 】 through this platform. 我们可以通过这个平台实时交流和实时更新数据 】**
 - 2. **【 These 【 real-time data 】 are updated 【 in real time 】. 这些实时的数据是实时更新的 】**

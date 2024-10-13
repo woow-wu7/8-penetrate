@@ -973,7 +973,7 @@
 - `【 stipulation 规定 n 】`
 - > 【 strictly comply with the regulation. 严格遵守规定 】
 - > 【 strict regulation. 严格的规定 】
-- // comply with. 遵守 v
+- // comply with. 遵守 v // --------------- 【 comply with law. 遵守法律 】 【 comply with the labor law. 遵守劳动法 】 【 comply with the regulation. 遵守规定 】
 - // apply for. 申请 v
 -
 - `【 concise 简洁的 adj 】`
