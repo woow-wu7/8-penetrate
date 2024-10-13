@@ -657,12 +657,12 @@
 ###### Must 2024-07-15
 
 - 1
-- `【 past tense. 过去时态 过去式  】` // 【 tense 紧张的 adj / 时态 n 】
-- `【 present tense. 现在时态 】` // ----【 present perfect tense. 现在完成时 】 // 【 present 现在的 adj 】 【 current 当前的 adj 】
+- `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】
+- `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
 - > 【 present tense. 现在时态 】
-- > 【 simple present tense. 一般现在时态 】 // 【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
-- > 【 present perfect tense. 现在完成时态 】
+- > 【 【 simple 】 present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
+- > 【 present 【 perfect 】 tense. 现在完成时态 】
 - _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
 - _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
@@ -671,12 +671,12 @@
 - `【 simple present tense. 一般现在时态 】`
 - `【 present perfect tense. 现在完成时态 】`
 -
-- `【 passive voice. 被动语态 】`
-- `【 active voice. 主动语态  】`
-- > 【 actively pursue. 主动追求 v 】
+- `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
+- `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】
+- > 【 actively pursue. 主动追求 v 】 // ------------ 【 pursue happiness. 追求幸福 】 【 chase dream. 追逐梦想 】 【 chase fugitive. 追扑逃犯 】
 - > 【 passively accept. 被动接受 v 】
 -
-- `【 object clause. 宾语从句 】` // ----【 clause 子句 从句 分句 n 】
+- `【 object clause. 宾语从句 】` // -----------------【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
@@ -691,14 +691,15 @@
 - `【 part of speech. 词性 n 】` ----- 【 What's 【 part of speech 】 of this word? 这个单词是什么词性？ 】 // 【 speech 演讲 讲话 n 】
 - `【 auxiliary verb. 助动词 n 】` // -- 【 auxiliary / regular / irregular 】
 - `【 countable noun. 可数名词 n 】` -- 【 uncountable noun. 不可数名词 n 】
+- `【 singular noun. 单数名词 n 】` --- 【 plural noun. 复数名词 n 】
 - > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
 - // TIPS: Pay attention to the pronunciation of the word 'adjective'. [auxiliary-辅助的-adj]
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
 - `【 synonym 同义词 n 】` ------------- syno + nym
-- `【 singular 单数 单数的 】` // ------ 【 every single day. 每一天 】
-- `【 plural 复数 复数的 】`
+- `【 singular 单数 单数的 】` // ------ 【 singular noun. 单数名词 n 】 // 【 every single day. 每一天 】
+- `【 plural 复数 复数的 】` // -------- 【 plural noun. 复数名词 n 】
 - > What's the 【 antonym 】 of the word 'dim'? [dim->bright]
 - > What's the 【 opposite 】of the word 'dim'? [dim->bright]
 - > What's the 【 synonym 】of the word 'dim'? [dim->dark]
@@ -738,6 +739,8 @@
 - `【 noun 名词 n 】`
 - `【 countable noun. 可数名词 n 】`
 - `【 uncountable noun. 不可数名词 n 】`
+- `【 singular noun. 单数名词 n 】`
+- `【 plural noun. 复数名词 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'countable'. [countable]
 -
 - `【 verb 动词 】`
@@ -746,11 +749,12 @@
 - > 【 irregular verb. 不规则动词 】
 - // TIPS: Pay attention to the pronunciation of the word 'auxiliary'. [auxiliary]
 -
-- `【 tone 语气 音调 n 】` // ----------- 【 tone / tongue 】
-- `【 tongue 舌头 】`
+- `【 tone 语气 音调 n 】` // ----------- [痛] // 【 tone / tongue 】
+- `【 tongue 舌头 】` // ---------------- [烫]
 - `【 pronunciation 发音 n 】`
 - `【 accent 口音 n 】` // ------------- 【 heavy accent. 重口音 】 【 light accent. 轻口音 】
-- `【 mandarin 普通话 】`
+- `【 mandarin 普通话 】` // ----------- 【 standard mandarin. 标准普通话 n 】 **【 standard mandarin. 标准普通话 】**
+- `【 dialect 方言 n 】` // ------------ 【 local dialect. 本地方言 n 】 // - **【 dialog 对话 / dialect 方言 】**
 - `【 idiom 成语 方言 n 】`
 - > 【 heavy accent. 重口音 】
 - > 【 light accent. 轻口音 】
@@ -763,7 +767,9 @@
 - `【 phrase 短语 】`
 - `【 sentence 句子 】`
 - `【 fixed collocation. 固定搭配 】` // 【 collocation 搭配 】
-- `【 conversation 对话 n 】` // ------ 【 conversation 交谈 】 【 conversion 转换 】
+- `【 conversation 对话 n 】` // ------- 口语中【 conversation 交谈 】 【 conversion 转换 】
+- `【 dialog 对话 n 】` // ------------- 书面语 **【 dialogue 对话 v】**
+- `【 dialogue 对话 v 】`
 - `【 vocabulary. 词汇 n 】`
 - // 【 collocation 搭配 】
 - > 【 convert 转换 v 】
@@ -857,6 +863,12 @@
 - `【 simple 简单的 简朴的 adj 】`
 - `【 sample 样品 样本 n 】`
 - **【 This is a 【 simple 】 【 sample 】. 这是一个简单的样品 】**
+-
+- [JJ.]
+- `【 dialogue 对话 v 】`
+- `【 dialog 对话 n 】`
+- `【 local dialect 本地方言 n 】`
+- **【 They like to 【 dialogue 】 in 【 local dialect 】. 他们喜欢用方言对话 】**
 
 ###### Must 2024-07-18
 
