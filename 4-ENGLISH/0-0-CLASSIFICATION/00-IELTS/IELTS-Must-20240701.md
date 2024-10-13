@@ -709,8 +709,18 @@
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
 - > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
 - // 【 single 单身的 单个的 adj 】 ----- 【 every single day. 每一天 】
-- // 【 singular 单数的 adj 】
+- // 【 singular 单数的 adj 】 --------- 【 singular noun. 单数名词 n 】 【 plural noun. 复数名词 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
+-
+- [EXPAND-01]
+- `【 grammar 语法 n 】`
+- `【 grammatical 语法的 adj 】`
+- `【 grammatically 语法地 adv 】`
+- **【 【 grammatically 】 correct. 语法上是正确的 】**
+-
+- [EXPEND-02]
+- `【 modify 修改 修饰 v 】`
+- **【 【 adjectives 】 are used to 【 modify 】 【 nouns 】. 形容词用来修饰名词 】**
 -
 - `【 subject 主语 】`
 - `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
@@ -869,6 +879,9 @@
 - `【 dialog 对话 n 】`
 - `【 local dialect 本地方言 n 】`
 - **【 They like to 【 dialogue 】 in 【 local dialect 】. 他们喜欢用方言对话 】**
+-
+- [HH.]
+- **【 What are the 【 components 】 of this sentence? 这个句子的组成部分是什么？ 】**
 
 ###### Must 2024-07-18
 
