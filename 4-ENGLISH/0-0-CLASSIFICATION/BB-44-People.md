@@ -5,7 +5,7 @@
 - `【 kindergarten 幼儿园 】`
 - > 【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】
 -
-- `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】
+- `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】 // **【 primary election. 初选 】**
 - `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
@@ -39,6 +39,8 @@
 - > 【 sophomore 大二学生 】 // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
 - > 【 junior 大三学生 】 // ----- 年少的 下级的
 - > 【 senior 大四学生 】// ------ 年长的 资深的
+- _【 college 大学 学院 n 】_
+- _【 colleague 同事 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'fresh'.
 -
 - [中专]
@@ -56,6 +58,7 @@
 -
 - [其他]
 - `【 academic performance. 学习成绩 】`
+- _【 academic research. 学术研究 】_
 - > 【 economic structure. 经济结构 】
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
@@ -104,6 +107,7 @@
 - `【 elect 选举 v 】`
 - `【 election 选举 n 】`
 - **【 He passed the 【 primary election 】 for this 【 primary school 】. 他通过了这所小学的初选 】**
+- // -- 【 primary election. 初选 】
 
 ```1111111
 幼儿园 kindergarten

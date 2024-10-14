@@ -632,6 +632,7 @@
 - _【 pedestrian 行人 n 】_
 - _【 immigrant 移民 n 】_ // ----------------------- `【 migrate 移民 迁移 v 】` // --------------------【 migrate / immigrant 】
 - _【 refugee 难民 n 】_ // -------------------------【 refuse 拒绝 v 】 【 refugee 难民 n 】// -------【 refugee / refuse / rescue 】
+- _【 fugitive 逃犯 n 】_ // ------------------------ **【 chase fugitive. 追扑逃犯 】** // **【 chase dream. 追逐梦想 】** // 【 chase 追逐 追扑 / pursue 追求 】
 - _【 bystander 旁观者 n 】_ // ---------------------【 standard 标准 n / 标准的 adj 】 【 bystander 旁观者 n 】 【 stand 站立 v 立场 n 】
 - _【 alien 外国人 外星人 n 】_ // -------------------【 alien civilization. 外星文明 】
 - _【 crowd 人群 群从 n / 拥挤 v 】_ // --------------【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 `【 crow 乌鸦 / crowd 人群 拥挤 】`

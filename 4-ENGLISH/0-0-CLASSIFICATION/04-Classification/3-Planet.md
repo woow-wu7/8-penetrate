@@ -66,6 +66,11 @@
 - `【 human civilization. 人类文明 】`
 - `【 alien civilization. 外星文明 】`
 - `【 advanced civilization. 高级文明 n 】`
+- > 【 advanced technology. 先进技术 】
+- > 【 advanced vocabulary. 高级词汇 】
+- > 【 advanced course. 高级课程 】
+- > 【 advanced age. 高龄 】
+- > 【 advanced civilization. 高级文明 n 】
 - **【 【 Human civilization 】 and 【 alien civilization 】 have different levels. 人类文明和外星文明有着不同的等级 】**
 -
 -

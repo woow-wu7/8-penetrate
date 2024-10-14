@@ -345,7 +345,7 @@ He 【 once 】 went to 【 Germany 】 【 once 】.
 我向你保证，我能确保你投保的保险安全可靠
 ```
 
-##### 7 Make sentences 2024-10-11
+##### 7 Make sentences 2024-10-12
 
 ```
 1
@@ -465,4 +465,196 @@ Many parts of your body 【 are involved in 】 【 digesting 】 food.
 // -
 // 【 digest 消化 v 】
 // 【 absorb 吸收 v 】
+
+8
+这是一个极好的主意和机会
+```
+
+##### 8 Make sentences 2024-10-13
+
+```
+1
+虽然她是高龄，但是她能说很多高级的词汇
+-
+我们的优势是具有先进的技术
+
+
+2
+他赶上了第三名，并超越了第二名
+-
+超车时需要注意安全
+-
+安全绳可以确保安全
+
+
+3
+他是在追捕逃犯，不是在追逐梦想
+-
+他是逃犯，不是难民
+
+
+4
+他用计算机模拟和计算他积累财富的过程
+-
+恢复经济的主要手段是刺激需求和刺激消费
+-
+他命令并要求我给他公开道歉
+-
+请指定一个人去执行这个命令
+
+
+5
+信号中断后，拦截失败了
+-
+只要能拦截并中断信号，就能拦截导弹
+
+
+6
+九除以三的商是六
+-
+我们应该学会控制情绪和发泄情绪
+-
+这个摊贩正在隧道的出风口处发泄情绪
+
+
+7
+出于安全原因，他们关闭了核反应堆
+-
+请用快捷键把关于班车的截图发给我
+-
+明天这个时候一定是堵车高峰期
+
+
+8
+他承认了他的缺点和弱点
+-
+他承认了他从来没有坐过班车
+-
+他在班车上暴露和承认了自己的缺点
+
+
+9
+他的学习成绩和学术研究都逐渐提高了
+-
+经济结构导致经济衰退和经济危机
+-
+经济危机，金融危机，政治危机同时出现了
+
+
+10
+Is this seat taken?
+这个位置有人坐吗？
+-
+Excuse me, is anyone seating here?
+请问，这里有人坐吗？
+// -
+// 【 seat 座位n / 坐v 】
+// 【 have a seat. = take a seat. 请坐 】
+
+
+11
+You need to 【 seize 】 this opportunity 【 for 】 【 promotion 】.
+你需要抓住这个晋升的机会
+-
+He 【 was promoted from 】 【 associate professor 】 to 【 professor 】.
+他从副教授晋升为了教授
+-
+【 Due to 】 his 【 excellent performance 】, He 【 was promoted to 】 【 be a leader 】.
+由于他的出色表现，他被提升为领导
+-
+He is a 【 prime candidate 】 for 【 promotion 】.
+他是最有望获得晋升的人选
+-
+// -
+// 【 seize 抓住 把握 v 】
+// 【 seize opportunity. 抓住机会 v 】
+// -
+// 【 promotion 晋升 n 】
+// 【 be promoted from A to B. 从A晋升为B 】
+// -
+// 【 excellent performance. 优秀表现 n 】
+// -
+// 【 associate professor. 副教授 n 】
+
+
+12
+Why don't you 【 obey 】 【 traffic rules 】?
+Why don't you 【 comply with 】 【 traffic rules 】?
+你为什么不遵守交通规则？
+-
+We must 【 comply with 】 the company 【 regulations 】.
+我们必须遵守公司规定
+-
+The 【 director 】 【 directly 】 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】 the 【 labor laws 】.
+导演直接宣布所有劳动工人必须遵守劳动法
+-
+// -
+// 【 traffic rules. 交通规则 n 】
+// -
+// 【 obey 遵守 服从 v 】
+// 【 comply with. 遵守 v 】
+// -
+// 【 comply with the traffic rules. 遵守交通规则 】
+// 【 comply with the regulation. 遵守规定 】
+// 【 comply with the law. 遵守法律 】
+// 【 comply with the 【 labor law. 】 遵守劳动法 】
+// -
+// 【 labor worker. 劳动工人 n 】
+// 【 labor laws. 劳动法 n 】
+// 【 laboratory 实验室 n 】
+- > 【 labor / laboratory / directory / repository / secretary / dormitory / factory / victory / history / mandatory 】
+
+
+13
+Please 【 archive 】 the 【 archive 】.
+请存档档案
+// -
+// 【 archive 存档v / 档案 n 】
+```
+
+##### 9 Make sentences 2024-10-14
+
+```
+1
+我需要根据库存清单去盘点库存
+-
+这个摊贩正在隧道的出风口处发泄情绪
+-
+我们应该学会控制情绪和发泄情绪
+-
+我需要编造一个借口去发泄情绪
+
+
+2
+九除以三的商是三
+-
+她的情商和智商都很高
+
+
+3
+恢复经济的主要手段是刺激需求和刺激消费
+-
+他命令并要求我给他公开道歉
+
+
+4
+你可以看到很多班车在上班早高峰
+-
+他在班车上暴露和承认了自己的缺点
+
+
+5
+他们喜欢用方言对话
+
+
+6
+我认为你应该抓住机会和珍惜晋升的机会
+
+
+8
+语法上是正确的
+
+
+9
+形容词用来修饰名词
 ```
