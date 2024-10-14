@@ -612,7 +612,7 @@ Please 【 archive 】 the 【 archive 】.
 // 【 archive 存档v / 档案 n 】
 ```
 
-##### 9 Make sentences 2024-10-14
+##### 9 Make sentences 2024-10-15
 
 ```
 1
@@ -656,5 +656,32 @@ Please 【 archive 】 the 【 archive 】.
 
 
 9
+Adjectives 【 are used to 】 【 modify 】 nouns.
 形容词用来修饰名词
+// -
+// 【 modify 修改 修饰 v 】
+// 【 decorate 装饰 打扮 v 】
+
+
+10
+We need to have a 【 spirit of adventure 】.
+我们需要有冒险精神
+// -
+// 【 spirit of adventure. 冒险精神 n 】
+
+
+11
+The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the 【 crime scene 】.
+记者在犯罪现场做着实时的犯罪记录
+// -
+// 【 crime scene. 犯罪现场 n 】
+// 【 accident scene. 事故现场 】
+// 【 common sense. 常识 n 】
+// 【 make sense. 有道理 】
+// -
+// 【 criminal record. 犯罪记录 n 】
+// -
+// 【 reporter. 记者 n 】
+// -
+// 【 real-time. 实时的 adj 】
 ```

@@ -18,7 +18,7 @@
 - _【 gradually disappear. 逐渐消失 】_
 - > 【 county / country / countryside / count / discount / counter / encounter / account / accountant 】
 - _【 confident 自信的 adj / confidence 自信 n 】_ // ----- 【 enhance confidence. 增强信心 】
-- _【 confidence 自信 信心 n 】_// ------------------------ 【 enhance confidence. 增强信心 】
+- _【 confidence 自信 信心 n 】_// ------------------------ 【 enhance confidence. 增强信心 】 【 restore confidence. 恢复自信 / 恢复信心 】
 - > 【 health 健康 n / healthy 健康的 adj 】 // ----------- 【 recover health. 恢复健康 】
 - > 【 healthy 健康的 adj 】 // -------------------------- 【 keep healthy. 保持健康 】 【 ensure safety. 确保安全 】 【 safety rope. 】 【 safety reason. 】
 -
@@ -101,6 +101,8 @@
 - `【 shut down. 关闭 停业 v 】` // ------------ 【 【 shut down 】 the 【 nuclear reactor 】for 【 safety reason 】. 因为安全原因关闭核反应堆 】
 - `【 shut up. 闭嘴 v 】`
 - `【 shuttle bus. 班车 区间车 n 】`
+- _【 shut down. 关闭 停业 v 】_
+- _【 shutdown. 关闭 停业 n 】_
 - > 【 rush hour. 高峰期 】
 - > 【 【 morning 】 rush hour. 早高峰 】
 - > 【 rush hour 【 for 】 traffic. 交通高峰 】
@@ -121,9 +123,9 @@
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
 - _【 drawback 缺点 n 】_ // -------------------- 【 minor drawback. 小缺点 】
 - _【 disadvantage 劣势 缺点 n 】_
-- 【 strength 体力 强度 力量 长处 】// ------------ 【 have no strength. 没有实力 】 【 recover physical strength. 恢复体力 】
+- 【 strength 体力 强度 力量 长处 】// ------------ `【 have no strength. 没有实力 】` // 【 recover physical strength. 恢复体力 】
 - 【 advantage 优势 优点 有力条件 n 】 // --------- 【 advantage point. 有利位置 】
-- 【 advanced 先进的 adj 】 // ------------------ 【 advanced technology. 先进技术 】
+- 【 advanced 先进的 adj 】 // ------------------ 【 advanced technology. 先进技术 】 // 【 advanced vocabulary. 高级词汇 】 【 advanced civilization. 高级文明 】
 - 【 in advance. 提前 adv 】
 -
 - `【 shortcoming 缺点 n 】` // --------------- 【 acknowledge shortcoming. 承认缺点 】
@@ -152,6 +154,14 @@
 - // -- _【 enhance confidence. 增强信心 】_
 - // -- _【 restore confidence. 恢复信心 】_
 - // -- _【 nuclear reactor. 核反应堆 】_
+-
+- [AA.]
+- `【 shut down. 关闭 v 】`
+- `【 shutdown. 关闭 n 】`
+- `【 lead to. -> led to. 导致 】`
+- **【 The 【 economic crisis 】 【 led to 】 the factory 【 shutdown 】. 经济危机导致工厂关闭 】**
+- // -- 【 lead 导致 引导 v 】
+- // -- 【 led 导致 引导 -> It's the past tense of the word 'lead'. 】
 -
 - [BB]
 - `【 expose shortcoming. 暴露缺点 】`
@@ -206,11 +216,11 @@
 ###### Must 2024-10-03
 
 - 1
-- `【 vent 通风口n  发泄v 】` // ------------------ `【 vent emotion. 发泄情绪 】` `【 control emotion. 控制情绪 】` `【 express emotion. 表达情感 】`
+- `【 vent 通风口n  发泄v 】` // ---------------- `【 vent emotion. 发泄情绪 】` `【 control emotion. 控制情绪 】` `【 express emotion. 表达情感 】` [emotional]
 - `【 invent 发明 创造 编造 v 】` // -------------- 【 invent an excuse. 编造借口 】
 - `【 inventory 库存 存货 n 】` // --------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】
 - `【 prevent 阻止 防止 v 】`
-- `【 adventure 冒险 探险 v n 】`
+- `【 adventure 冒险 探险 v n 】` // ------------- 【 go on an adventure. 去冒险 】 `【 spirit of adventure. 冒险精神 】` // `【 adventurous spirit. 冒险精神 n 】`
 - > 【 emotion 情绪 情感 感情 n 】
 - > 【 vent emotion. 发泄情绪 v 】
 - > 【 complex emotion. 复杂的情感 n 】
@@ -218,7 +228,11 @@
 - > 【 control emotion. 控制情绪 v 】
 - _【 emotional quotient. 情商 n 】_ // ----------【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
 - _【 intelligence quotient. 智商 n 】_ // -------【 intelligence 智力 n 】 【 和差积商 sum difference product quotient 】
+- > 【 spirit 精神 n 】
+- > 【 spirit of adventure. 冒险精神 】
+- > 【 adventurous spirit. 冒险精神 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
+- // TIPS: Pay attention to the pronunciation of the word 'express'. [express-表达-v/快递-n]
 -
 - `【 vent 出风口n 发泄v 】` // ------------------ 【 emergency ventilation. 紧急通风 】 【 vent emotion. 发泄情绪 】
 - `【 vendor 小贩 摊贩 n 】`
@@ -252,6 +266,7 @@
 - `【 tunnel 隧道 地道 n 】` // ------------------- 【 go through the tunnel. 穿过隧道 】
 - **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
 - // -- 【 tunnel 隧道 地道 n 】
+- // -- 【 channel 频道 n 】
 - // -- `【 at the vent of the tunnel. 在隧道的出风口处 】`
 - // -- `【 go through the tunnel. 穿过隧道 】`
 - // TIPS: Pay attention to the pronunciation of the word 'tunnel'. [tunnel-隧道-地道-n]
@@ -271,6 +286,11 @@
 - `【 emotional quotient. 情商 n 】`
 - `【 intelligence quotient. 智商 n 】`
 - **【 He has a high 【 emotional quotient 】 and 【 intelligence quotient. 】 她的情商和智商都很高 】**
+-
+- [FF.]
+- `【 spirit 精神 n 】`
+- `【 spirit of adventure. 冒险精神 】`
+- **【 We should have a 【 spirit of adventure 】. 我们需要有冒险精神 】**
 
 ###### Must 2024-10-04
 
@@ -280,6 +300,7 @@
 - `【 disturb 打扰 扰乱 v 】` // ---------- 【 disturb peace. 扰乱治安 v 】
 - `【 interpreter 解释器 口译员 n 】`
 - > 【 interrupt conversation. 打断对话 】
+- > 【 interrupt dialog. 打断对话 】
 - > 【 interrupt signal. 中断信号 】
 - > 【 interrupt sb doing sth. 打断某人做某事 】
 - _【 intercept missile. 拦截导弹 】_ // -------- 【 missile / miss 错过想念 / dismiss 解雇 / mission 使命 】
@@ -429,13 +450,13 @@
 
 - 1
 - `【 advantage 优势 优点 有利条件 n 】` //----- 【 advantage point. 有利位置 】
-- `【 advanced 先进的 高级的 adj 】` // ------- 【 advanced technology. 先进技术 】 【 advanced vocabulary. 高级词汇 】 【 advanced course. 】 【 advanced age. 高龄 】
-- `【 in advance. 提前 adv 】`
+- `【 advanced 先进的 高级的 adj 】` // ------- 【 advanced technology. 先进技术 】 【 advanced vocabulary. 高级词汇 】 【 advanced age. 高龄 】
+- `【 in advance. 提前 adv 】` // ------------ 【 pay in advance. 提前支付 】
 - > 【 advanced technology. 先进技术 】
 - > 【 advanced vocabulary. 高级词汇 】
 - > 【 advanced course. 高级课程 】
-- > 【 advanced age. 高龄 】
 - > 【 advanced civilization. 高级文明 n 】
+- > 【 advanced age. 高龄 】
 -
 - `【 disadvantage 劣势 缺点 不利条件 n 】`
 - `【 shortcoming 缺点 短处 n 】`// -----------【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness / drawback 】
@@ -471,17 +492,17 @@
 - `【 catch up with. 追赶 赶上 v 】` // -------------- 【 catchup 追赶 赶上 n 】 // 【 catch up with sb. 追赶上某人 】
 - `【 overtake 超过 超车 v 】` // -------------------- 比赛中使用 【 overtake -> overtook. 超车 超过 v 】
 -
-- `【 chase 追逐 追捕 v 】` // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】
+- `【 chase 追逐 追捕 v 】` // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】 // 【 fugitive / refugee 】
 - `【 pursue 追求 追逐 v 】` // --------------------- 【 pursue happiness. 追求幸福 】
 - > 【 chase dream. 追逐梦想 】
 - > 【 chase fugitive. 追捕逃犯 】 // --------------- 【 fugitive 逃犯 n 】 【 criminal 罪犯 n 】 【 crime 罪 n 】 // 【 crime scene. 犯罪现场 】
 - _【 pursue happiness. 追求幸福 】_
 - > [fugitive-逃犯-n]
 - > [refugee-难民-n]
-- > [criminal-犯罪的-adj-罪犯-n] // ---------------- 【 criminal record. 犯罪记录 】
-- > [crime-犯罪--n] // ---------------------------- 【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 】 // 【 common sense. 】 【 make sense. 】
-- // TIPS: Pay attention to the pronunciation of the word 'crime'. [crime-犯罪-n]
-- // TIPS: Pay attention to the pronunciation of the word 'criminal'. [criminal-罪犯-n]
+- > [crime-犯罪--n] // ---------------------------- **【 crime scene. 犯罪现场 n 】** 【 accident scene. 事故现场 】 // 【 common sense. 】 【 make sense. 】
+- > [criminal-犯罪的-adj-罪犯-n] // ---------------- **【 criminal record. 犯罪记录 】**
+- // TIPS: Pay attention to the pronunciation of the word 'crime'. [crime-犯罪-n] [crimeScene-犯罪现场-n]
+- // TIPS: Pay attention to the pronunciation of the word 'criminal'. [criminal-罪犯的-adj] [criminalRecord-犯罪记录-n]
 - //【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
 - //【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
 - //【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
@@ -536,3 +557,10 @@
 - `【 refugee 难民 n 】`
 - **【 He is a 【 fugitive 】, not a 【 refugee 】. 他是逃犯，不是难民 】**
 - // -- 【 pedestrian / resident / president / citizen / refugee / fugitive / immigrant / bystander / crowd-crow / civilization 】
+-
+- [HH.]
+- `【 crime scene. 犯罪现场 n 】`
+- `【 criminal record. 犯罪记录 n 】`
+- `【 real-time. 实时的 adj 】`
+- `【 reporter. 记者 n 】`
+- **【 The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the 【 crime scene 】. 记者在犯罪现场做着实时的犯罪记录 】**
