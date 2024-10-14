@@ -286,6 +286,10 @@
 - > 【 product requirement. 产品需求 n 】
 - _【 demand 要求 需求 n 】_ // --------------------- `【 demand a pay raise. 要求加薪 】` // 【 demand an apology. 要求道歉 】 // 2.【 stimulate demand. 刺激需求 】
 - _【 command 命令 指挥 v 】_ // -------------------- 【 run a command. 运行命令 】 【 command center. 指挥中心 】
+- // 【 market demand. 市场需求 】 // --------------- `【 product requirement. 产品需求 n 】`
+- // 【 stimulate demand. 刺激需求 】
+- // 【 demand a pay raise. 要求加薪 】
+- // 【 demand an apology. 要求道歉 】
 - > 【 apology 道歉 n 】
 - > 【 apologize 道歉 v 】 // ---------------------- 【 apologize publicly. = apologize in public. 公开道歉 v 】
 - _【 simulate exam. 模拟考试 】_
