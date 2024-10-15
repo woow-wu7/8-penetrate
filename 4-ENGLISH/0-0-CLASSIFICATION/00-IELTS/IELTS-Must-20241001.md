@@ -231,6 +231,11 @@
 - > 【 spirit 精神 n 】
 - > 【 spirit of adventure. 冒险精神 】
 - > 【 adventurous spirit. 冒险精神 n 】
+- _【 inventory 库存 n 】_ // ------------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】
+- _【 repository 仓库 储藏室 n 】_
+- _【 warehouse 仓库 n 】_
+- _【 repository / inventory / directory / factory / dormitory / laboratory / mandatory / history 】_
+-
 - // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
 - // TIPS: Pay attention to the pronunciation of the word 'express'. [express-表达-v/快递-n]
 -
