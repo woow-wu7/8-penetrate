@@ -61,3 +61,61 @@ obsolete 过时的 淘汰的 adj
 
 embed 嵌入 v
 ```
+
+##### 2 Work 2024-10-16
+
+```
+formal 正式的 adj
+informal 非正式的 adj
+-
+schooling 教育
+-
+appropriate 适当的 adj
+-
+// -- He had little 【 formal 】 【 schooling 】. 他几乎没受过正式的学校教育
+// -- Simple email openers for formal situation. 适用于正式场合的简单电子邮件开场白
+// --【 Formal 】 and 【 informal 】 【 scenarios 】. 正式的和非正式的场景
+// -- Jeans are not 【 appropriate 】 for a 【 formal party 】. 正式聚会上穿牛仔裤不合适
+
+
+【 in great need of. 非常需要 】
+-
+【 be afraid of doing. 害怕做某事 】
+【 start date. 入职日期 n 】
+-
+// -- We are 【 in great need of 】 your help. 我们非常需要你的帮助
+// --【 My 【 start date 】 is tomorrow. I 【 am afraid of missing 】 the time. 我的入职日期是明天，我害怕错过时间 】
+
+
+as well. 也
+as well as. 也 以及
+// it have been approved as well. 它也得到了批准
+// Computer requires 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件
+
+
+attach 贴上 附上 v
+attachment 贴上 附上 n
+attached 贴上的 附上的 adj v
+【 be attached to. 附属于 / 附在... 】
+【 be attached. 被附上 】
+-
+liter 公升 n
+letter 字母 信 n
+later 后来
+latter 后者的adj 后者n
+// TIPS: Pay attention to the pronunciation of the word "letter". [letter-字母-信-n]
+-
+// -- The most important information 【 is attached to 】 the 【 letter 】. 最重要的信息附在信里了
+// -- The detailed email information 【 is attached 】. 详细的邮件信息已附
+
+
+follow-up 后续的 adj
+【 follow-up process. 后续流程 】
+-
+【 as before. 和以前一样 像以前一样 】
+【 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! as 作为 像 因为 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 】
+-
+// -- 像: The 【 follow-up process 】 is the same 【 as before 】.
+// -- 因为: 【 As 】 he is ill, He don't go to shool. 因为他病了，所以他不去上学
+// -- 作为: 【 As 】 a student, you should work hard. 作为一名学生，你应该努力学习
+```

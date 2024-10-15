@@ -137,6 +137,12 @@
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
 -
+- **【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工**
+- // -- 【 this round of. 这一轮 ... 】
+- // -- 【 layoff. 裁员 n 】
+- // -- 【 lay off. 裁员 v 】
+- // -- 【 involve 涉及 v 】 // 【 be involved in sth. / be involved in doing sth. 】
+-
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
 -
 - **【 【 Economic recession 】 and 【 economic crisis 】 【 led to 】 【 a large number of 】 【 layoffs 】. 经济衰退和经济危机导致了大量的裁员 】**

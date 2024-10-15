@@ -685,3 +685,39 @@ The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the
 // -
 // 【 real-time. 实时的 adj 】
 ```
+
+##### 10 Make sentences 2024-10-16
+
+```
+1
+He does 【 casual job 】 at the 【 warehouse 】 【 on weekends 】.
+他周末在仓库做零工
+-
+Where are your company's products 【 stored 】?  // ------- Caution: This sentence is in the 【 passive voice 】.
+你们公司的产品存在什么地方
+-
+// -
+// 【 casual 随意的 临时的 休闲的 adj 】
+// -
+// 【 casual job. 零工 n 】
+// 【 odd job. 零工 n 】
+// 【 temporary job. 零时工作 n 】
+// 【 part-time job. 兼职工作 n 】
+// 【 full-time job. 全职工作 n 】
+// -
+// 【 warehouse 仓库 n 】
+// 【 repository 仓库 n 】
+// -
+// 【 repository / inventory / directory / factory / dormitory / laboratory / mandatory / history 】
+// -
+// 【 on weekends. 在周末 --- 泛指每个周末 】
+// 【 on the weekend. ------ 特指某一个周末 】
+
+
+2
+这次裁员涉及大部分员工
+
+
+3
+新手机附带一个免费的手机壳
+```
