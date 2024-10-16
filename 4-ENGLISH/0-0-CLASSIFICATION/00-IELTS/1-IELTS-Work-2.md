@@ -65,6 +65,7 @@ embed 嵌入 v
 ##### 2 Work 2024-10-16
 
 ```
+normal 正常的 adj
 formal 正式的 adj
 informal 非正式的 adj
 -
