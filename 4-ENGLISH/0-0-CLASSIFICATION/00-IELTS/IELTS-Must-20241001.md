@@ -593,3 +593,13 @@
 - `【 real-time. 实时的 adj 】`
 - `【 reporter. 记者 n 】`
 - **【 The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the 【 crime scene 】. 记者在犯罪现场做着实时的犯罪记录 】**
+
+###### Must 2024-10-17
+
+- 1
+- `【 breach 违反 v n 】`
+- `【 preach 宣讲 v 】`
+- `【 reach 到达 v 】`
+-
+- `【 branch 分支 n 】`
+- `【 peach 桃子 n 】`

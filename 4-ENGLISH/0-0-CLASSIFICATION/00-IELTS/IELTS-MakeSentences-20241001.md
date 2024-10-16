@@ -804,4 +804,8 @@ He 【 exposed shortcoming 】 and 【 acknowledged shortcoming 】 【 on 】 t
 ```
 1
 这里有紧张的局势和激烈的竞争
+
+
+2
+你违反了合同，所以我们会终止合同，不会再续签合同
 ```

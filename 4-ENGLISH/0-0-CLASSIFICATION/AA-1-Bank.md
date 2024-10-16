@@ -246,15 +246,31 @@
 -
 -
 - [KK.]
-- `【 contract 合同 n 】` // sign a contract. 签合同 // labor contract. 劳动合同
-- `【 contact 联系 v 】`
-- `【 contrast 对比 对照 v 】` // contrast compare
+- `【 contract 合同 n 】` // -------- 【 sign a contract. 】 【 renew a contract. 】 【 breach of contract. 】 【 terminate a contract. 】 【 labor contract. 】
+- `【 contact 联系 v 】` // --------- 【 emergency contact. 紧急联系人 】 【 contact information. 联系方式 】
+- `【 contrast 对比 对照 v 】` // ---- 【 contrast radio. 对比度 】 // contrast compare
 - _【 sign a contract. 签合同 】_
+- _【 renew a contract. 续签合同 】_
+- _【 breach a contract. 违反合同 】_ 【 breach 违反 v n 】 // 【 breach / reach / branch 】 // 【 breach a contract. 违反合同 】 【 breach a protocol. 违反协议 】
+- _【 terminate a contract. 终止合同 】_
 - _【 labor contract. 劳动合同 】_
 - _【 contract deadline. 合同期限 】_
+- > 【 emergency contact. 紧急联系人 n 】
+- > 【 contact information. 联系方式 n 】
+- _【 contrast ratio. 对比度 】_
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
-- 1. **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
-- 2. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
+-
+- 1. **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- // -- 【 breach a contract. 违反合同 v 】
+- // -- 【 terminate a contract. 终止合同 v 】
+- // -- 【 renew a contract. 续签合同 v 】
+-
+- 2. **【 Do you have the 【 contact information 】 【 for 】 your 【 emergency contacts 】? 你有紧急联系人的联系方式吗？ 】**
+- // -- 【 contact information. 联系方式 n 】
+- // -- 【 emergency contact. 紧急联系人 n 】
+-
+- 3. **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
+- 4. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
 -
 -
 - [LL.]
