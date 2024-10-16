@@ -693,11 +693,12 @@ The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the
 He does 【 casual job 】 at the 【 warehouse 】 【 on weekends 】.
 他周末在仓库做零工
 -
-Where are your company's products 【 stored 】?  // ------- Caution: This sentence is in the 【 passive voice 】.
+Where are your company's products 【 stored 】?  // ------- 【 Caution 】: This sentence is in the 【 passive voice 】.
 你们公司的产品存在什么地方
 -
 // -
 // 【 casual 随意的 临时的 休闲的 adj 】
+// 【 caution 警告v 小心n 】
 // -
 // 【 casual job. 零工 n 】
 // 【 odd job. 零工 n 】
@@ -707,6 +708,8 @@ Where are your company's products 【 stored 】?  // ------- Caution: This sent
 // -
 // 【 warehouse 仓库 n 】
 // 【 repository 仓库 n 】
+// 【 inventory. 库存 n 】
+// 【 factory. 工厂 n 】
 // -
 // 【 repository / inventory / directory / factory / dormitory / laboratory / mandatory / history 】
 // -
@@ -716,7 +719,11 @@ Where are your company's products 【 stored 】?  // ------- Caution: This sent
 
 2
 【 This round of 】 【 layoffs 】 【 involves 】 most employees.
-这次裁员涉及大部分员工
+这一轮裁员涉及大部分员工
+-
+This round of 【 negotiation 】 is very 【 intense 】.
+这一轮谈判非常激烈
+-
 // -
 // 【 this round of. 这一轮 】
 // -
@@ -726,6 +733,15 @@ Where are your company's products 【 stored 】?  // ------- Caution: This sent
 // 【 involve. 涉及 v 】
 // 【 be involved in doing sth. 涉及做某事 】
 // 【 be involved in sth. 涉及某事 】
+// -
+// 【 negotiation. 谈判 n 】
+// 【 negotiate. 谈判 v 】
+// -
+// 【 intense. 激烈的 adj 】
+// 【 intense competition. 激烈竞争 n 】
+// -
+// intense 激烈的 adj
+// tense 紧张的 adj 时态n
 
 
 3
@@ -767,6 +783,9 @@ I need to 【 invent an excuse 】 to 【 vent emotion 】.
 // -
 // 【 invent an excuse. 编造借口 v 】
 // 【 vent emotion. 发泄情绪 v 】
+// -
+// 【 emotional quotient. 情商 n 】
+// 【 intelligence quotient. 智商 n 】
 
 
 6
@@ -778,4 +797,11 @@ He 【 exposed shortcoming 】 and 【 acknowledged shortcoming 】 【 on 】 t
 // -
 // 【 shuttle bus. 班车 n 】
 // 【 morning rush hour. 早高峰 n 】
+```
+
+##### 11 Make sentences 2024-10-18
+
+```
+1
+这里有紧张的局势和激烈的竞争
 ```
