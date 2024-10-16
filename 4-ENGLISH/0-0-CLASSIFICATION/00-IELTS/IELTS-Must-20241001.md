@@ -371,6 +371,7 @@
 - // 【 stimulate demand. 刺激需求 】
 - // 【 demand a pay raise. 要求加薪 】
 - // 【 demand an apology. 要求道歉 】
+- // -- 【 The employee is asking for a raise, while the company is asking for a pay cut. 员工要求加薪，企业有求减薪 】
 - > 【 apology 道歉 n 】
 - > 【 apologize 道歉 v 】 // ---------------------- 【 apologize publicly. = apologize in public. 公开道歉 v 】
 - _【 simulate exam. 模拟考试 】_
@@ -496,6 +497,8 @@
 - 1
 - `【 catch up with. 追赶 赶上 v 】` // -------------- 【 catchup 追赶 赶上 n 】 // 【 catch up with sb. 追赶上某人 】
 - `【 overtake 超过 超车 v 】` // -------------------- 比赛中使用 【 overtake -> overtook. 超车 超过 v 】
+- > 【 overtake / overcome / overlook / overdraw / overall / overview 】
+- > 【 drawback / setback / backup / backtrack / track / trace / truck 】
 -
 - `【 chase 追逐 追捕 v 】` // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】 // 【 fugitive / refugee 】
 - `【 pursue 追求 追逐 v 】` // --------------------- 【 pursue happiness. 追求幸福 】
@@ -506,8 +509,11 @@
 - > [refugee-难民-n]
 - > [crime-犯罪--n] // ---------------------------- **【 crime scene. 犯罪现场 n 】** 【 accident scene. 事故现场 】 // 【 common sense. 】 【 make sense. 】
 - > [criminal-犯罪的-adj-罪犯-n] // ---------------- **【 criminal record. 犯罪记录 】**
+- > 【 crime scene. 犯罪现场 】 // 【 accident scene. 事故现场 】
+- > 【 criminal record. 犯罪记录 】
 - // TIPS: Pay attention to the pronunciation of the word 'crime'. [crime-犯罪-n] [crimeScene-犯罪现场-n]
 - // TIPS: Pay attention to the pronunciation of the word 'criminal'. [criminal-罪犯的-adj] [criminalRecord-犯罪记录-n]
+- // TIPS: Pay attention to the pronunciation of the word 'chase'. [chase-追逐-追捕-v]
 - //【 propose 求婚 v 】 // ----------------------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
 - //【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
 - //【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
@@ -523,7 +529,9 @@
 - > 【 safety rope. 安全绳 n 】
 - > 【 safety reason. 安全原因 n 】
 - > 【 ensure safety. 确保安全 】
-- > 【 pedestrian / resident / president / citizen / refugee / fugitive / immigrant / bystander / crowd-crow / civilization 】
+- > 【 pedestrian / resident / president / citizen / refugee / fugitive / immigrant / bystander / crowd(crow) / civilization 】 // 【 advanced civilization. 】
+- _【 keep healthy. 保持健康 】_
+- _【 recover health. 恢复健康 】_
 -
 - [AA.]
 - `【 catch up with. 追上 赶上 v 】`

@@ -119,4 +119,7 @@ follow-up 后续的 adj
 // -- 像: The 【 follow-up process 】 is the same 【 as before 】.
 // -- 因为: 【 As 】 he is ill, He don't go to shool. 因为他病了，所以他不去上学
 // -- 作为: 【 As 】 a student, you should work hard. 作为一名学生，你应该努力学习
+
+
+【 The employee is asking for a raise, while the company is asking for a pay cut. 员工要求加薪，企业有求减薪 】
 ```
