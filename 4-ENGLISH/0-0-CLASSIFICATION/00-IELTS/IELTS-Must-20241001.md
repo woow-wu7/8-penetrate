@@ -160,6 +160,7 @@
 - `【 shutdown. 关闭 n 】`
 - `【 lead to. -> led to. 导致 】`
 - **【 The 【 economic crisis 】 【 led to 】 the factory 【 shutdown 】. 经济危机导致工厂关闭 】**
+- **【 The 【 economic structure 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 】**
 - // -- 【 lead 导致 引导 v 】
 - // -- 【 led 导致 引导 -> It's the past tense of the word 'lead'. 】
 -
@@ -220,10 +221,10 @@
 - `【 invent 发明 创造 编造 v 】` // -------------- 【 invent an excuse. 编造借口 】
 - `【 inventory 库存 存货 n 】` // --------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】
 - `【 prevent 阻止 防止 v 】`
-- `【 adventure 冒险 探险 v n 】` // ------------- 【 go on an adventure. 去冒险 】 `【 spirit of adventure. 冒险精神 】` // `【 adventurous spirit. 冒险精神 n 】`
+- `【 adventure 冒险 探险 v n 】` // ------------- 【 go on an adventure. 去冒险 】 `【 spirit of adventure. 冒险精神 】`
 - > 【 emotion 情绪 情感 感情 n 】
 - > 【 vent emotion. 发泄情绪 v 】
-- > 【 complex emotion. 复杂的情感 n 】
+- > 【 complex emotion. 复杂的情感 n 】// -------- 【 complex structure. 复杂的结构 n 】 【 complex system. 复杂的系统 n 】
 - > 【 express emotion. 表达情感 v 】
 - > 【 control emotion. 控制情绪 v 】
 - _【 emotional quotient. 情商 n 】_ // ----------【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
@@ -234,10 +235,11 @@
 - _【 inventory 库存 n 】_ // ------------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】
 - _【 repository 仓库 储藏室 n 】_
 - _【 warehouse 仓库 n 】_
+- _【 factory 工厂 n 】_
 - _【 repository / inventory / directory / factory / dormitory / laboratory / mandatory / history 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
-- // TIPS: Pay attention to the pronunciation of the word 'express'. [express-表达-v/快递-n]
+- // TIPS: Pay attention to the pronunciation of the word 'express'. [express-表达-v/快递-n] [express-emotion-表达情感-n]
 -
 - `【 vent 出风口n 发泄v 】` // ------------------ 【 emergency ventilation. 紧急通风 】 【 vent emotion. 发泄情绪 】
 - `【 vendor 小贩 摊贩 n 】`
@@ -280,6 +282,7 @@
 - `【 take inventory. 盘点库存 v 】`
 - `【 inventory list. 库存清单 n 】`
 - **【 I need to 【 take inventory 】 【 according to 】 the 【 inventory list 】. 我需要根据库存清单去盘点库存 】**
+- // -- according to. 根据
 -
 - [DD.]
 - `【 invent 发明 创造 编造 v 】`
@@ -302,7 +305,7 @@
 - 1
 - `【 intercept 拦截 v 】` // ------------ 【 intercept missile. 拦截导弹 】 【 intercept bullet. 拦截子弹 】 【 intercept signal. 拦截信号 】
 - `【 interrupt 打断 中断 v 】` // -------- 【 interrupt conversation. 打断对话 】 【 interrupt dialog. 打断对话 】 【 interrupt signal. 中断信号 】
-- `【 disturb 打扰 扰乱 v 】` // ---------- 【 disturb peace. 扰乱治安 v 】
+- `【 disturb 打扰 扰乱 v 】` // ---------- **【 disturb peace. 扰乱治安 v 】**
 - `【 interpreter 解释器 口译员 n 】`
 - > 【 interrupt conversation. 打断对话 】
 - > 【 interrupt dialog. 打断对话 】
@@ -354,12 +357,13 @@
 - `【 interrupt 打断 中断 v 】`
 - `【 intercept 拦截 v 】`
 - **【 【 As long as 】 the signal can be 【 intercepted 】 and 【 interrupted 】, 【 missile 】 can be 【 intercepted 】. 只要能拦截并中断信号，就能拦截导弹 】**
+- // -- 【 as log as. 只要 】
 
 ###### Must 2024-10-05
 
 - 1
 - `【 stimulate 刺激 激发 v 】` // ------------------ 【 stimulate consumption. 刺激消费 】 【 stimulate demand. 刺激需求 】// 【 product requirement. 产品需求 】
-- `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = mock exam. 】 【 Simulated training. 模拟训练 】
+- `【 simulate 模拟 v 】` // ----------------------- 【 simulate exam. 模拟考试 = simulate examination. = mock exam. 】 【 Simulated training. 模拟训练 】
 - `【 calculate 计算 v 】` // ---------------------- 【 calculate the cost. 计算成本 】
 - `【 accumulate 积累 累积 v 】` // ---------------- 【 accumulate wealth. 积累财富 】 【 accumulate experience. 积累经验 】
 - > 【 stimulate consumption. 刺激消费 】
@@ -373,7 +377,10 @@
 - // 【 demand an apology. 要求道歉 】
 - // -- 【 The employee is asking for a raise, while the company is asking for a pay cut. 员工要求加薪，企业有求减薪 】
 - > 【 apology 道歉 n 】
-- > 【 apologize 道歉 v 】 // ---------------------- 【 apologize publicly. = apologize in public. 公开道歉 v 】
+- > 【 apologize 道歉 v 】 // ---------------------- 【 public apologize = apologize in public. 公开道歉 v 】
+- > forgive 原谅 v // ----------------------------- 【 【 Even if 】 you 【 publicly apologize 】 to me, I will not 【 forgive 】 you. 】
+- > forget 忘记 v
+- > even if. = even though. 即使 ------------------ (conjunction)
 - _【 simulate exam. 模拟考试 】_
 - _【 simulate training. 模拟训练 】_
 - > 【 calculate cost. 计算成本 】
@@ -398,6 +405,7 @@
 - // -- 【 the process of. ...的过程 】
 - // -- 【 wealth 财富 n 】
 - // -- 【 accumulating 积累 v 】
+- // -- 【 accumulate wealth. 积累财富 】
 -
 - [BB.]
 - `【 stimulate demand. 刺激需求  】`
@@ -424,11 +432,19 @@
 - // -- 【 business license. 营业执照 n 】
 -
 - [DD.]
+- `【 otherwise 否则 adv conj 】` // adverb conjunction
+- `【 forgive 原谅 v 】` // -------- forgive / forget
+- `【 command 命令 指挥 v 】` // --- run a command. / command center.
+- `【 demand 要求v 需求 n 】` // --- stimulate demand. / stimulate consumption.
+- `【 publicly apologize. 公开道歉 v 】`
+- **【 He 【 commands 】 and 【 demands 】 that I 【 publicly apologize 】 to her, 【 Otherwise 】, she doesn't 【 forgive 】 me. 她命令并要求我给她公开道歉，否则她不会原谅我 】**
+-
+- [DD.]
 - `【 command 命令 指挥 v 】`
 - `【 demand 要求 需求 n 】`
 - `【 apologize 道歉 v 】`
 - `【 apology 道歉 n 】`
-- **【 He 【 command 】 and 【 demand 】 that I 【 publicly apologize 】 to him. 他命令并要求我给他公开道歉 】**
+- **【 He 【 commands 】 and 【 demands 】 that I 【 publicly apologize 】 to him. 他命令并要求我给他公开道歉 】**
 - // -- 【 apologize 道歉 v 】
 - // -- 【 publicly apologize. 公开道歉 v 】 = apologize in public. 公开道歉
 -

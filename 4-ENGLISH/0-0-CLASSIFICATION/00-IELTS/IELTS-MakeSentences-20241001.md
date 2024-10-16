@@ -686,7 +686,7 @@ The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the
 // 【 real-time. 实时的 adj 】
 ```
 
-##### 10 Make sentences 2024-10-16
+##### 10 Make sentences 2024-10-17
 
 ```
 1
@@ -715,9 +715,67 @@ Where are your company's products 【 stored 】?  // ------- Caution: This sent
 
 
 2
+【 This round of 】 【 layoffs 】 【 involves 】 most employees.
 这次裁员涉及大部分员工
+// -
+// 【 this round of. 这一轮 】
+// -
+// 【 lay off. 裁员 v 】
+// 【 layoff. 裁员 n 】
+// -
+// 【 involve. 涉及 v 】
+// 【 be involved in doing sth. 涉及做某事 】
+// 【 be involved in sth. 涉及某事 】
 
 
 3
+The new phone 【 comes with 】 a free 【 phone case 】.
 新手机附带一个免费的手机壳
+// -
+// 【 come with. 附带 伴随 v 】
+// -
+// 【 phone case. 手机壳 n 】
+
+
+4
+She 【 commands 】 and 【 demands 】 that I 【 publicly apologize 】 to her, 【 Otherwise 】, she doesn't 【 forgive 】 me.
+她命令并要求我给她公开道歉，否则她不会原谅我
+-
+【 Even if 】 you 【 apologize 】 to me, I  will not 【 forgive 】 you.
+即使你向我道歉，我也不会原谅你
+-
+// -
+// 【 otherwise 否则 adv conj 】------------ adverb conjunction
+// -
+// 【 forgive 原谅 v 】
+// 【 forget 忘记 v -> forgot 】
+// -
+// 【 publicly apologize. 公开道歉 v 】
+//  apologize 道歉 v
+//  apology 道歉 n
+//  TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
+// -
+// 【 command 命令 指挥 v 】------------------ 【 run a command. 运行命令 】 【 command center. 指挥中心 】
+// 【 demand 要求v 需求n 】 ------------------ 【 stimulate demand. 刺激需求 】
+// -
+// 【 even if. = even though. 即使 】
+
+
+5
+I need to 【 invent an excuse 】 to 【 vent emotion 】.
+我需要编造一个借口去发泄情绪
+// -
+// 【 invent an excuse. 编造借口 v 】
+// 【 vent emotion. 发泄情绪 v 】
+
+
+6
+He 【 exposed shortcoming 】 and 【 acknowledged shortcoming 】 【 on 】 the 【 shuttle bus 】.
+他在班车上暴露和承认了自己的缺点
+// -
+// 【 expose shortcoming. 暴露缺点 v 】
+// 【 acknowledge shortcoming. 承认缺点 v 】
+// -
+// 【 shuttle bus. 班车 n 】
+// 【 morning rush hour. 早高峰 n 】
 ```
