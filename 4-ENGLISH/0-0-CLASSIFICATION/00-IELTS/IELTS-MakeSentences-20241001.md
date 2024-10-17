@@ -803,9 +803,44 @@ He 【 exposed shortcoming 】 and 【 acknowledged shortcoming 】 【 on 】 t
 
 ```
 1
+There is 【 tense situation 】 and 【 intense competition 】.
 这里有紧张的局势和激烈的竞争
+-
+The 【 present tense 】 【 is divide into 】 【 simple present tense 】 and 【 present perfect tense 】.
+现在时分为一般现在时和现在完成时
+-
+// -
+// 【 tense 时态n 紧张的adj 】
+// 【 intense 激励的 adj 】
+// -
+// 【 tense situation. 紧张局势 n 】
+// 【 intense competition. 激烈竞争 n 】
+// -
+// present tense.
+// simple present tense.
+// present perfect tense.
+// tense situation.
+// -
+// be divided into. 被分为...
 
 
 2
+You have 【 breached 】 the contract, so we will 【 terminate the contract 】 and we will not 【 renew the contract 】.
 你违反了合同，所以我们会终止合同，不会再续签合同
+// -
+// 【 breach 违反 v 】
+// 【 reach 到达 v 】
+// -
+// 【 breach the contract. 违反合同 v 】
+// 【 terminate the contract. 终止合同 v 】
+// 【 renew the contract. 重新签合同 v 】
+// 【 sign the contract. 签合同 v 】
+
+
+3
+他在午餐时间收到了一束花
+
+
+4
+他安全到达了分公司
 ```
