@@ -843,4 +843,20 @@ You have 【 breached 】 the contract, so we will 【 terminate the contract �
 
 4
 他安全到达了分公司
+
+
+5
+勇敢的人都有勇气
+
+
+6
+他在实际的生活中获得实际的经验
+
+
+7
+他周末在仓库做零工
+
+
+8
+这是一个极好的主意和机会
 ```

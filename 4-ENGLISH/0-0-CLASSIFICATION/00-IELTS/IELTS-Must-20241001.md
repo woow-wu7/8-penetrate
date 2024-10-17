@@ -624,3 +624,15 @@
 - `【 safely reach. 安全到达 v 】`
 - `【 branch company. 分公司 n 】`
 - **【 He 【 safely 】 【 reached 】 the 【 branch company 】. 他安全到达了分公司 】**
+-
+-
+-
+-
+-
+- 2
+- `【 brief 简短的 adj 】`
+- `【 brave 勇敢的 adj 】`
+- > 【 courage 勇气 n 】 【 brave 勇敢的 adj 】
+- > 【 brief 简短的 adj 】 【 concise 简洁的 adj 】
+- 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
+- 2. **【 【 Brave 】 people have 【 courage 】. 勇敢的人都有勇气 】**
