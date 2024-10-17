@@ -663,8 +663,8 @@
 - > 【 present tense. 现在时态 】
 - > 【 【 simple 】 present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
-- 【 tense 时态 n / 紧张的 adj 】// ------------------ 【 tense situation. 紧张的局势 n 】 // 【 present tense. 现在时态 】
-- 【 intense 激烈的 adj 】 // ----------------------- 【 intense competition. 激烈的竞争 n 】
+- **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // 【 present tense. 现在时态 】 【 simple present tense. 】
+- **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】
 - _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
 - _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
@@ -889,6 +889,13 @@
 - `【 tense situation. 紧张局势 n 】`
 - `【 intense competition 激烈竞争 n 】`
 - **【 There is 【 tense situation 】 and 【 intense competition 】. 这里有紧张的局势和激烈的竞争 】**
+-
+- [MM.]
+- `【 present tense. 现在时态 】`
+- `【 simple present tense. 一般现在时 】`
+- `【 present perfect tense. 现在完成时 】`
+- **【 The 【 present tense 】 【 is divided into 】 the 【 simple present tense 】 and the 【 present perfect tense 】. 现在时分为一般现在时和现在完成时 】**
+- // -- 【 be divide into. 被分为... 】
 
 ###### Must 2024-07-18
 

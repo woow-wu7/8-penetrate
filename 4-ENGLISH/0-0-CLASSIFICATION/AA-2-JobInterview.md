@@ -493,7 +493,10 @@
 - `【 concisely 简明地 简洁地 adv 】`
 - > 【 concise answer. 简洁的答案 】
 - > 【 concise language. 简洁的语言 】
-- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- _【 brief 简短的 adj 】_
+- _【 concise 简洁的 adj 】_
+- 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
+- 2. **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - 1. **【 a good 【 resume 】 should be 【 concise 】 and 【 focused 】. 一份好的简历应该简洁和有重点 】**
 - 2. **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
 - // -- concise language. 简洁的语言

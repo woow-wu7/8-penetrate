@@ -542,6 +542,7 @@
 -
 - `【 safety 安全 n 】` // ------------------------- 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】 【 ensure safety. 确保安全 】
 - `【 safe 安全的 adj 】`
+- `【 safely 安全地 adv 】` // ---------------------- 【 arrive safely. 安全地到达 】
 - > 【 safety rope. 安全绳 n 】
 - > 【 safety reason. 安全原因 n 】
 - > 【 ensure safety. 确保安全 】
@@ -597,9 +598,41 @@
 ###### Must 2024-10-17
 
 - 1
-- `【 breach 违反 v n 】`
-- `【 preach 宣讲 v 】`
-- `【 reach 到达 v 】`
+- `【 breach 违反 v n 】` // ----------------- 【 breach contract. 违反合同 v 】 【 breach protocol. 违反协议 v 】
+- `【 reach 到达 v 】` // -------------------- 【 reach safely. 安全到达 v 】 【 arrive safely. 安全到达 v 】
+- `【 branch 分支 n 】` // ------------------- 【 tree branch. 树枝 n 】 【 branch company. 分公司 】
+- > 【 breach contract. 违反合同 v 】
+- > 【 breach protocol. 违反协议 v 】
+- _【 reach safely. = arrive safely. 安全地到达 】_
+- > 【 safe 安全的 adj 】
+- > 【 safety 安全 n 】 // ------------------- 【 safety rope. 安全绳 n 】 【 safety reason. 安全原因 n 】 【 ensure safety. 确保安全 】
+- > 【 safely 安全地 】 // ------------------- 【 arrive safely. 安全到达 v = reach safely. 】
 -
-- `【 branch 分支 n 】`
+- `【 bunch 束 n 】` // ---------------------- 【 a bunch of flower. 一束花 】
+- `【 lunch 午餐 n 】` // -------------------- 【 brunch 早午餐 】
+-
+- `【 pinch 捏 v 】` // ---------------------- 【 pinch face. 捏脸 v 】
 - `【 peach 桃子 n 】`
+-
+- [AA.]
+- `【 a bunch of flowers. 一束花 】`
+- `【 at lunch time. 午餐时间 】`
+- **【 He received 【 a bunch of 】 flowers at 【 lunch time 】. 他在午餐时间收到了一束花 】**
+-
+- [BB.]
+- `【 reach 到达 v 】`
+- `【 safely reach. 安全到达 v 】`
+- `【 branch company. 分公司 n 】`
+- **【 He 【 safely 】 【 reached 】 the 【 branch company 】. 他安全到达了分公司 】**
+-
+-
+-
+-
+-
+- 2
+- `【 brief 简短的 adj 】`
+- `【 brave 勇敢的 adj 】`
+- > 【 courage 勇气 n 】 【 brave 勇敢的 adj 】
+- > 【 brief 简短的 adj 】 【 concise 简洁的 adj 】
+- 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
+- 2. **【 【 Brave 】 people have 【 courage 】. 勇敢的人都有勇气 】**
