@@ -636,3 +636,48 @@
 - > 【 brief 简短的 adj 】 【 concise 简洁的 adj 】
 - 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
 - 2. **【 【 Brave 】 people have 【 courage 】. 勇敢的人都有勇气 】**
+
+###### Must 2024-10-19
+
+- 1
+- `【 expire 到期 过期 v 】`
+- `【 inspire 激励 启发 v 】`
+-
+- `【 expire 到期 过期 v 】` // ------------------ 【】
+- `【 expired 过期的 adj 】`
+- `【 expiration 到期 n 】` // -------------- 【 expiration time. 过期时间 n 】
+-
+- `【 inspire 激发 启发 激励 v 】` // -------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
+- `【 inspiration 灵感 n 】` // ------------- 【 creative inspiration. 创作灵感 n 】 【 artistic inspiration. 艺术灵感 n 】
+- _【 be inspired by. 受到...的启发 】_
+- > 【 inspire potential. 激发潜能 v 】
+- > 【 inspire curiosity. 激发好奇心 v 】// -- 【 satisfy curiosity. 满足好奇心 】
+- _【 creative inspiration. 创作灵感 】_
+- _【 artistic inspiration. 艺术灵感 】_
+-
+- `【 curious 好奇的 adj 】`
+- `【 curiosity 好奇心 n 】` // ------------- 【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 v 】
+-
+- ***
+- ***
+- ***
+- ***
+  4
+  【 Cloths 】 and 【 clothes 】 are not 【 expired 】, only 【 out of date 】.
+  布料和衣服，没有过期一说，只有过时一说
+- 【 Please 【 dump 】 the 【 expired 】 【 dumplings 】 into the 【 garbage can 】.
+  请把过期的饺子倒在垃圾桶里
+- `【 expired 过期的 adj 】`
+- `【 out of date. 过时的 adj 】`
+- `【 date 日期n 约会n 】`
+- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服，没有过期这一说，只有过时一说 】**
+- // -- 【 cloth 布料 n 】
+- // -- 【 clothes 衣服 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'cloth'. [cloth]
+- // TIPS: Pay attention to the pronunciation of the word 'clothes'. [clothes]
+- // -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期 expire 过期 失效 v
+  expired 过期的 失效的 adj
+  【 expire date. 过期日期 】
+  【 expired date. 过期日期 】
+  // Their license has 【 expired 】.
+  // When does your license 【 expire 】?
