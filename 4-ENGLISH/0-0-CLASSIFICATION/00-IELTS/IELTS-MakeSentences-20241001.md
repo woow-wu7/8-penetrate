@@ -835,6 +835,22 @@ You have 【 breached 】 the contract, so we will 【 terminate the contract �
 // 【 terminate the contract. 终止合同 v 】
 // 【 renew the contract. 重新签合同 v 】
 // 【 sign the contract. 签合同 v 】
+```
+
+##### 12 Make sentences 2024-10-19
+
+```
+1
+好的氛围和坏的氛围可以让人有不同的情绪
+
+
+2
+This is a 【 fantastic opportunity 】, I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
+是一个绝佳的机会，我认为你应该抓住这个机会并珍惜晋升的机会
+// -
+// 【 fantastic opportunity. 极好的机会 】
+// 【 seize opportunity. 抓住机会 】
+// 【 cherish opportunity. 珍惜机会  】
 
 
 3
@@ -859,4 +875,8 @@ You have 【 breached 】 the contract, so we will 【 terminate the contract �
 
 8
 这是一个极好的主意和机会
+
+
+9
+到那时，我们已经老了
 ```
