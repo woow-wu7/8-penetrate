@@ -237,11 +237,6 @@ until then. 到那时
 // -- 【 Staff 】 are not 【 stuff 】. 员工不是物品
 
 
-How are you today?
-// -- I'm doing 【 great 】. 我很好
-// -- I'm doing 【 pretty good 】. 我非常好
-
-
 【 weight off my shoulders. 如释重负 / 松了一口气 】
 -
 weight 重量
@@ -254,14 +249,40 @@ scale 称 大小 规模
 -
 【 burden 负担 】
 -
-// ---- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
-// ---- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and 【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+// -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
+// -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and 【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+// -
+//  assist sb in doing sth. 协助某人做某事
+//  persist in doing sth. 坚持做某事
+// -
+// 【 assist 协助 辅助 v 】 // ----------- assist sb in doing sth. 协助某人做某事
+// 【 insist = persist. 坚持 v 】 // ---- persist in doing sth. 坚持做某事
+// 【 resist 抵制 抵抗 v 】
+// -
+// 【 assistant 助手 助理 】
+// 【 attendant 服务员 】
+// 【 secretary 秘书 】
+// 【 steward 乘务员 】
+// 【 stewardess 空姐 】
 
 
-recent 最近的
+
+gave me a hand. 帮我一下
+// -- 1. Can you 【 give me a hand 】 【 with 】 these boxes? 你能帮我搬一下这些箱子吗？ // -- with 以能够
+// -- 2. Can you 【 give me a hand 】 【 with 】 the task? 你能帮我一下这个任务吗？
+// -- 3. Can you 【 give me a hand 】? I need to complete the task 【 in the afternoon 】. 能帮我一下吗？我需要在下午完成这项任务
+// suitcase 手提箱
+
+
+How are you today?
+// -- I'm doing 【 great 】. 我很好
+// -- I'm doing 【 pretty good 】. 我非常好
+
+
+recent 最近的 adj
+recently 最近地 adv
 【 take on 】 a new staff. 聘用新员工
 The timing is not just right. 时机不对
-gave me a hand. 帮我一下
 
 
 That sounds 【 reasonable 】. 听起来很合理

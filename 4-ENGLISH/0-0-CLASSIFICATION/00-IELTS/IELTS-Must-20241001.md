@@ -66,7 +66,7 @@
 - `【 economic recession. 经济衰退 】`
 - `【 economic crisis. 经济危机 】`
 - **【 The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】. 经济结构导致经济衰退和经济危机 】**
-- // -- 【 lead to. 导致 v 】
+- // -- `【 lead to. 导致 v 】`
 - // -- 【 refer to. 参考 v 】
 - // -- 【 detail / detailed / in detail. 】
 - // -- 【 For details, please refer to the documentation. 详细情况，请参考说明文档 】
@@ -219,13 +219,13 @@
 - 1
 - `【 vent 通风口n  发泄v 】` // ---------------- `【 vent emotion. 发泄情绪 】` `【 control emotion. 控制情绪 】` `【 express emotion. 表达情感 】` [emotional]
 - `【 invent 发明 创造 编造 v 】` // -------------- 【 invent an excuse. 编造借口 】
-- `【 inventory 库存 存货 n 】` // --------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】
+- `【 inventory 库存 存货 n 】` // --------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】 // inventory factory repository warehouse.
 - `【 prevent 阻止 防止 v 】`
 - `【 adventure 冒险 探险 v n 】` // ------------- 【 go on an adventure. 去冒险 】 `【 spirit of adventure. 冒险精神 】`
 - > 【 emotion 情绪 情感 感情 n 】
 - > 【 vent emotion. 发泄情绪 v 】
 - > 【 complex emotion. 复杂的情感 n 】// -------- 【 complex structure. 复杂的结构 n 】 【 complex system. 复杂的系统 n 】
-- > 【 express emotion. 表达情感 v 】
+- > 【 express emotion. 表达情感 v 】 // --------- express 表达 v
 - > 【 control emotion. 控制情绪 v 】
 - _【 emotional quotient. 情商 n 】_ // ----------【 quotient 商 n 】 【 和差积商 sum difference product quotient 】
 - _【 intelligence quotient. 智商 n 】_ // -------【 intelligence 智力 n 】 【 和差积商 sum difference product quotient 】
@@ -473,7 +473,7 @@
 - 1
 - `【 advantage 优势 优点 有利条件 n 】` //----- 【 advantage point. 有利位置 】
 - `【 advanced 先进的 高级的 adj 】` // ------- 【 advanced technology. 先进技术 】 【 advanced vocabulary. 高级词汇 】 【 advanced age. 高龄 】
-- `【 in advance. 提前 adv 】` // ------------ 【 pay in advance. 提前支付 】
+- `【 in advance. 提前 adv 】` // ------------ 【 pay in advance. 提前支付 】 // `【 pay the deposit in advance. 提前支付定金 】`
 - > 【 advanced technology. 先进技术 】
 - > 【 advanced vocabulary. 高级词汇 】
 - > 【 advanced course. 高级课程 】
@@ -640,44 +640,72 @@
 ###### Must 2024-10-19
 
 - 1
-- `【 expire 到期 过期 v 】`
-- `【 inspire 激励 启发 v 】`
+- `【 inspire 激发 启发 v 】` // ------------- 【 inspire potential. 激发潜能 n 】 【 inspire curiosity. 激发好奇心 v 】
+- `【 expire 到期 过期 v 】` // -------------- 【 expiration time. 过期时间 n 】 【 expired dumpling. 过期的饺子 】
+- `【 outdate 过时 v 】` // ----------------- 【 out of date. 过时的 adj 】 // `【 go out of date. 过时 】`
+- > 【 inspire potential. 激发潜能 】
+- > 【 inspire curiosity. 激发好奇心 】
+- _【 curiosity 好奇心 】_
+- _【 inspire curiosity. 激发好奇心 】_
+- _【 satisfy curiosity. 满足好奇心 】_
+- _【 strong curiosity. 强烈的好奇心 】_
 -
-- `【 expire 到期 过期 v 】` // ------------------ 【】
-- `【 expired 过期的 adj 】`
-- `【 expiration 到期 n 】` // -------------- 【 expiration time. 过期时间 n 】
--
-- `【 inspire 激发 启发 激励 v 】` // -------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
 - `【 inspiration 灵感 n 】` // ------------- 【 creative inspiration. 创作灵感 n 】 【 artistic inspiration. 艺术灵感 n 】
-- _【 be inspired by. 受到...的启发 】_
+- `【 inspire 激发 启发 激励 v 】` // -------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
+- `【 be inspired by. 受到...的启发 】`
 - > 【 inspire potential. 激发潜能 v 】
 - > 【 inspire curiosity. 激发好奇心 v 】// -- 【 satisfy curiosity. 满足好奇心 】
 - _【 creative inspiration. 创作灵感 】_
 - _【 artistic inspiration. 艺术灵感 】_
 -
+- `【 expire 到期 过期 v 】`
+- `【 expired 过期的 adj 】` // ------------- 【 out of date. 过时的 adj 】 【 expired dumpling. 过期的饺子 】
+- `【 expiration 到期 n 】` // -------------- 【 expiration time. 过期时间 n 】
+- > 【 expiration time. 过期时间 n 】
+- > 【 go out of date. 过时 】// ------------ 【 date 日期 约会 n 】
+- _【 outdate 过时 v 】_
+- _【 expire 过期 v 】_
+-
+- `【 judge 法官n 判断v 】`
+- `【 judgment 判断 n 】`
+-
 - `【 curious 好奇的 adj 】`
 - `【 curiosity 好奇心 n 】` // ------------- 【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 v 】
 -
-- ***
-- ***
-- ***
-- ***
-  4
-  【 Cloths 】 and 【 clothes 】 are not 【 expired 】, only 【 out of date 】.
-  布料和衣服，没有过期一说，只有过时一说
-- 【 Please 【 dump 】 the 【 expired 】 【 dumplings 】 into the 【 garbage can 】.
-  请把过期的饺子倒在垃圾桶里
-- `【 expired 过期的 adj 】`
-- `【 out of date. 过时的 adj 】`
-- `【 date 日期n 约会n 】`
-- **【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服，没有过期这一说，只有过时一说 】**
-- // -- 【 cloth 布料 n 】
-- // -- 【 clothes 衣服 n 】
+- [AA.]
+- `【 according to. 根据  】` preposition
+- `【 expiration time. 过期时间 】`
+- `【 expire 过期 v 】`
+- `【 judge 法官n 判断v 】`
+- `【 judgment 判断n 】`
+- 1. **【 【 According to 】 the 【 expiration time 】 to 【 judge 】, this food 【 is going to 】 【 expire 】 soon. 根据过期时间判断，这个食物即将过期 】**
+- 2. **【 【 According to 】 my 【 judgment 】, It will rain tomorrow. 根据我的判断，明天会下雨 】**
+- // -- 【 judge 法官 n 判断 v 】
+-
+- [BB.]
+- `【 cloth 布料 】` // --- cloth 作为布料时是不可数名词
+- `【 clothes 衣服 n 】`
+- `【 expire 过期 v 】`
+- `【 go out of date. 过时 】`
+- **【 The 【 cloth 】 and 【 clothes 】 don't 【 expire 】, they only 【 go out of date 】. 布料和衣服不会过期，只会过时 】**
+- // -- cloth 布料 n
+- // -- clothes 衣服 n
 - // TIPS: Pay attention to the pronunciation of the word 'cloth'. [cloth]
 - // TIPS: Pay attention to the pronunciation of the word 'clothes'. [clothes]
-- // -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期 expire 过期 失效 v
-  expired 过期的 失效的 adj
-  【 expire date. 过期日期 】
-  【 expired date. 过期日期 】
-  // Their license has 【 expired 】.
-  // When does your license 【 expire 】?
+-
+- [CC.]
+- `【 dump 倒v 垃圾场n 】`
+- `【 dumpling 饺子 n 】`
+- `【 expired 过期的 adj 】` // expire expired expiration·
+- `【 garbage can. 垃圾桶 n 】`
+- **【 Please 【 dump 】 the 【 expired 】 【 dumplings 】 into the 【 garbage can 】. 请把过期的饺子倒在垃圾桶里 】**
+-
+- [DD.]
+- `【 creative inspiration. 创作灵感 n 】`
+- `【 out of date. 过时的 adj 】`
+- **【 His 【 creative inspiration 】 comes from the 【 out of date 】 art. 他的创作灵感来自过时的艺术 】**
+-
+- [EE.]
+- `【 inspire potential. 激发潜能 n 】`
+- `【 inspire curiosity. 激发好奇心 v 】`
+- **【 【 Inspiring curiosity 】 can 【 inspire  】. 激发好奇心能激发潜能 】**

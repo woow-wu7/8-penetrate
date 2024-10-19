@@ -841,7 +841,10 @@ You have 【 breached 】 the contract, so we will 【 terminate the contract �
 
 ```
 1
+The 【 good vibe 】 and bad vibe let people have different emotions.
 好的氛围和坏的氛围可以让人有不同的情绪
+// -
+// 【 vibe 氛围 n 】
 
 
 2
@@ -854,45 +857,162 @@ This is a 【 fantastic opportunity 】, I think you should 【 seize the opport
 
 
 3
+He received 【 a bunch of 】 flower at 【 lunch 】 time.
 他在午餐时间收到了一束花
+// -
+// 【 bunch 束 】
+// 【 lunch 午餐 】
 
 
 4
+He 【 safely 】 arrived at the 【 branch company 】.
 他安全到达了分公司
+// -
+// safe 安全的 adj
+// safely 安全的 adv
+// safety 安全 n
+// -
+// 【 safety reason. 安全原因 】
+// 【 safety rope. 安全绳 】
+// 【 ensure safety. 确保安全 】
 
 
 5
+All the 【 brave 】 person have 【 courage 】.
 勇敢的人都有勇气
 
 
 6
+He gets 【 practical experiences 】 from the 【 practical life 】.
 他在实际的生活中获得实际的经验
+// -
+// 【 practical experience. 实际经验 n 】
+// 【 practical life. 实际生活 n 】
 
 
 7
+He does 【 casual job 】 at warehouse/repository 【 on weekends 】.
 他周末在仓库做零工
+// -
+// 【 on weekends. 在周末 】----------- 每个固定的周末
+// 【 on the weekend. 在周末 】-------- 特定的周末
+// -
+// casual job. = temporary job. = odd job. = part-time job.
 
 
 8
+This is a 【 fantastic idea 】 and 【 fantastic opportunity 】.
 这是一个极好的主意和机会
+// -
+// 【 fantastic idea. 极好的主意 n 】
+// 【 fantastic opportunity. 极好的机会 n 】
 
 
 9
+【 Until then 】, we will already be old.
 到那时，我们已经老了
+// -
+// 【 until then. 那时 】
 
 
 10
+According to the 【 expiration time 】 to 【 judge 】, this food 【 is about to 】 【 expire 】.
 根据过期时间判断，这个食物即将过期
 
 
 11
+After the secretary quits, the office is 【 understaffed 】.
 秘书离职后，办公室人员不足
 -
+The 【 staff 】 are not 【 stuff 】.
 员工不是物品
+// -
+// staff 员工 -------------- 不可数
+// stuff 东西 物品 --------- this word is a uncountable noun.
+// -
+// 【 understaffed. 人员不足的 adj 】
 
 
 12
+The 【 secretary 】 【 relieves 】 my stress, 【 weight off my shoulder 】.
 秘书减轻了我的负担，让我如释重负
 -
+An 【 assistant 】 is the person who can 【 assist 】 others in completing tasks, 【 relieve 】 others pressure, and 【 weight off your shoulders 】.
 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+-
+// -
+// 【 assistant 助理 n 】
+// -
+// 【 assist 帮助 协助 v 】
+// 【 persist = insist. 坚持 v 】
+// 【 resist 抵抗 v 】
+// TIPS: Pay attention to the pronunciation of the word 'resist'. [resist-抵抗-v]
+// -
+// 【 weight off your shoulders. 减轻你的负担 / 如释重负 】
+// -
+// 【 relive 减轻 缓解 v 】
+// 【 relieve symptom. 减轻症状 】
+// 【 relieve pain. 缓解疼痛 】
+
+
+13
+Can you give me a hand with the boxes?
+你能帮我搬一下这些箱子吗？
+
+
+14
+【 Cloth 】 and 【 clothes 】 will not 【 expire 】, it only will 【 go out of date 】.
+布料和衣服不会过期，只会过时
+-
+According to the 【 expiration time 】 to 【 judge 】, this food 【 is about to 】 【 expire 】.
+根据过期时间判断，这个食物即将过期
+-
+Please 【 dump 】 the 【 expired 】 【 dumpling 】 into the 【 garbage can 】.
+请把过期的饺子倒在垃圾桶里
+-
+【 According to 】 my 【 judgment 】, it will rain tomorrow.
+根据我的判断，明天会下雨
+-
+// -
+// 【 dump 倒v 垃圾场n 】
+// 【 dumpling 饺子 n 】
+// -
+// 【 expire 过期 v 】
+// 【 outdate 过时 v 】
+// -
+// 【 be about to. 即将 】
+// -
+// 【 cloth 布料 n 】
+// 【 clothes 衣服 n  】
+
+
+15
+His 【 creative inspiration 】 comes from the 【 out of date 】 art.
+他的创作灵感来自过时的艺术
+// -
+// creative inspiration. 创作灵感 n
+// out of date. 过时的 adj
+
+
+16
+She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her, otherwise she don't 【 forgive 】 me.
+她命令并要求我给她公开道歉，否则她不会原谅我
+// -
+// command 命令 指挥 v ------ 1. run a command.   2.command center.
+// demand 要求v 需求n ------- 2. stimulate demand.
+// -
+// apologize 道歉 v
+// apology 道歉 n
+// publicly apologize. 公开道歉
+// -
+// forgive 原谅
+// forget -> forgot 忘记 v
+
+
+17
+【 Inspiring curiosity 】 can 【 inspire potential 】.
+激发好奇心能激发潜能
+// -
+// 【 inspire curiosity. 激发好奇心 】
+// 【 inspire potential. 激发潜能 】
 ```
