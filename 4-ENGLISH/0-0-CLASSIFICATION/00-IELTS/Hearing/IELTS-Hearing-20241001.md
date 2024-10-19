@@ -224,7 +224,7 @@ until then. 到那时
 // 【 Until then 】, we will already be old. 到那时，我们已经老了
 ```
 
-##### 2 Hearing 2024-10-19 [IELTS_HEARING_MUST_PODCAST][]
+##### 2 Hearing 2024-10-19 [IELTS_HEARING_MUST_PODCAST][assistant]
 
 ```
 【 understaffed 人手不足的 人员不足的 adj 】
@@ -239,25 +239,26 @@ until then. 到那时
 
 【 weight off my shoulders. 如释重负 / 松了一口气 】
 -
-weight 重量
-weigh 称重
-scale 称 大小 规模
+weight 重量 n
+weigh 称重 v
+scale 称 大小 规模 n
 -
 【 relieve 减轻 缓解 v 】
-【 relieve stress. 减轻负担 = relieve pressure. 】
+【 relieve stress. 减轻压力 = relieve pressure. 】
 【 relieve symptom. 减轻症状 】
 -
-【 burden 负担 】
+【 burden 负担 n 】
 -
 // -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
 // -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and 【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
 // -
-//  assist sb in doing sth. 协助某人做某事
-//  persist in doing sth. 坚持做某事
+//  【 assist sb in doing sth. 协助某人做某事 】
+//  【 persist in doing sth. 坚持做某事 】
 // -
 // 【 assist 协助 辅助 v 】 // ----------- assist sb in doing sth. 协助某人做某事
-// 【 insist = persist. 坚持 v 】 // ---- persist in doing sth. 坚持做某事
+// 【 insist = persist. 坚持 v 】 // ---- persist in doing sth. 坚持做某事 = insist in doing sth.
 // 【 resist 抵制 抵抗 v 】
+// TIPS: Pay attention to the pronunciation of the word 'resist'. [resit-抵抗-抵制-v]
 // -
 // 【 assistant 助手 助理 】
 // 【 attendant 服务员 】
@@ -266,12 +267,31 @@ scale 称 大小 规模
 // 【 stewardess 空姐 】
 
 
-
 gave me a hand. 帮我一下
+【 gave me a hand with. 帮我一下 】
 // -- 1. Can you 【 give me a hand 】 【 with 】 these boxes? 你能帮我搬一下这些箱子吗？ // -- with 以能够
 // -- 2. Can you 【 give me a hand 】 【 with 】 the task? 你能帮我一下这个任务吗？
 // -- 3. Can you 【 give me a hand 】? I need to complete the task 【 in the afternoon 】. 能帮我一下吗？我需要在下午完成这项任务
 // suitcase 手提箱
+
+
+sexist 性别歧视者 n
+exist 存在 v
+exit 出口 n
+// TIPS: Pay attention to the pronunciation of the word 'sexist'. [sexist-性别歧视者-n]
+-
+【 form 形式 形态 表单 n 】
+【 form of. ...的形式 】
+-
+oppose 反对 v
+-
+// -- 1. We should 【 oppose 】 all 【 forms of 】 【 sexist 】 behavior. 我们应该反对一切形式的歧视的行为
+// -- 2. Water has three 【 forms 】: gas, solid, liquid. 水有三种形态，气体固体液体
+
+
+【 not at all. 一点也不 】
+// -- It's 【 not 】 difficult to learn English well 【 at all 】. 学好英语一点也不难
+// -- 【 He was 【 not happy at all 】 after 【 getting a promotion 】. 升职后他一点也不开心 】
 
 
 How are you today?
@@ -281,12 +301,40 @@ How are you today?
 
 recent 最近的 adj
 recently 最近地 adv
+-
+elaborate 复杂的 精心制作的 adj
+-
+【 take on. 承担 雇佣 v 】
 【 take on 】 a new staff. 聘用新员工
 The timing is not just right. 时机不对
+
+
+risky 有风险的 有危险的 adj
+risk 风险 n
+-
+【 take on. 承担 雇佣 v 】
+take on a new staff. 聘用新员工
+-
+// 1. The 【 risk 】 is that doing this thing is 【 risky 】. 风险在于做这件事是有风险的
+// 2. It's too 【 risky 】 to 【 take on 】 new staff. 雇用新员工风险太大
+// -- take on. 承担 雇佣 v
+// -- hire 雇佣 v
+// -- employ 雇佣 v ------------ 【 employ = hire = take on. 雇佣 v 】 // 【 employ / deploy 】
+// -- dismiss 解雇 v
+
 
 
 That sounds 【 reasonable 】. 听起来很合理
 That sounds interesting. 听起来很有趣
 That sounds boring. 听起来很无聊
 That sounds fun. 听起来很有趣
+
+
+keep our cost down. 降低成本
+// -- 1. we need to find a way to 【 keep our cost down 】. 我们需要找到一种降低成本的方法
+// -- 2. We need to find a way to 【  keep our cost down 】 【 of 】 paper. 我们需要找到一种方法来降低我们的纸张成本
+
+
+ask for. 请求 要求 v
+// Someone asks his boss for an assistant. 某人向他的老板请求一个助手
 ```

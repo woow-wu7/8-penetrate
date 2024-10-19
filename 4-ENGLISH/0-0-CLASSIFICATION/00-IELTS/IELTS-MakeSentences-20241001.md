@@ -918,6 +918,14 @@ This is a 【 fantastic idea 】 and 【 fantastic opportunity 】.
 10
 According to the 【 expiration time 】 to 【 judge 】, this food 【 is about to 】 【 expire 】.
 根据过期时间判断，这个食物即将过期
+-
+How to 【 judge 】 right and wrong?
+如何判断对与错？
+-
+// -
+// judge 法官n 判断v
+// judgment 判断n
+
 
 
 11
@@ -1015,4 +1023,53 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 // -
 // 【 inspire curiosity. 激发好奇心 】
 // 【 inspire potential. 激发潜能 】
+```
+
+##### 13 Make sentences 2024-10-20
+
+```
+1
+有效的是过期的反义词
+
+
+2
+我认为你应该抓住机会和珍惜晋升的机会
+
+
+3
+她不仅有漂亮的外表，还有纯洁的内心
+
+
+4
+游客们向导游咨询旅游路线
+
+
+5
+标准普通话与当地方言不同
+
+
+6
+外向的人情商和智商都很高
+
+
+7
+秘书离职后，办公室人员不足
+
+
+8
+秘书减轻了我的负担，让我如释重负
+-
+秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+
+
+9
+能帮我一下吗？我需要在下午完成这项任务
+
+
+10
+某人向他的老板请求一个助手
+
+
+11
+风险在于做这件事是有风险的
 ```

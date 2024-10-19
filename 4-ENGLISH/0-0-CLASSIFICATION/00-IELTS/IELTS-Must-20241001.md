@@ -649,28 +649,41 @@
 - _【 inspire curiosity. 激发好奇心 】_
 - _【 satisfy curiosity. 满足好奇心 】_
 - _【 strong curiosity. 强烈的好奇心 】_
+- > 【 expire 过期 v 】
+- > 【 expired 过期的 adj 】 // --------------- 【 valid 有效的 adj 】 【 invalid 无效的 adj 】
+- > 【 expiration 过期 n 】
+- > 【 expiration time. 过期时间 n 】
+- > 【 expired dumpling. 过期的饺子 】
+- _【 【 Valid 】 is the antonym of the word 【 expired 】.】_
 -
 - `【 inspiration 灵感 n 】` // ------------- 【 creative inspiration. 创作灵感 n 】 【 artistic inspiration. 艺术灵感 n 】
 - `【 inspire 激发 启发 激励 v 】` // -------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
-- `【 be inspired by. 受到...的启发 】`
+- 【 be inspired by. 受到...的启发 】
 - > 【 inspire potential. 激发潜能 v 】
 - > 【 inspire curiosity. 激发好奇心 v 】// -- 【 satisfy curiosity. 满足好奇心 】
+- _【 create 创造 v 】_
+- _【 creative 创造的 adj 】_
 - _【 creative inspiration. 创作灵感 】_
 - _【 artistic inspiration. 艺术灵感 】_
 -
+- `【 expired 过期的 adj 】`
+- `【 valid 有效的 adj 】` // -----------------【 invalid 无效的 adj 】`
+- > 【 【 Valid 】 is the antonym of the word 【 expired 】.
+-
+- `【 judge 法官n 判断v 】`
+- `【 judgment 判断 n 】`
+- > 【 How to judge right and wrong. 如何判断对与错？ 】
+-
+- `【 curious 好奇的 adj 】`
+- `【 curiosity 好奇心 n 】` // ------------- 【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 v 】
+-
 - `【 expire 到期 过期 v 】`
-- `【 expired 过期的 adj 】` // ------------- 【 out of date. 过时的 adj 】 【 expired dumpling. 过期的饺子 】
+- `【 expired 过期的 adj 】` // ------------- `【 out of date. 过时的 adj 】` `【 go out of date. 过时 】` 【 expired dumpling. 过期的饺子 】
 - `【 expiration 到期 n 】` // -------------- 【 expiration time. 过期时间 n 】
 - > 【 expiration time. 过期时间 n 】
 - > 【 go out of date. 过时 】// ------------ 【 date 日期 约会 n 】
 - _【 outdate 过时 v 】_
 - _【 expire 过期 v 】_
--
-- `【 judge 法官n 判断v 】`
-- `【 judgment 判断 n 】`
--
-- `【 curious 好奇的 adj 】`
-- `【 curiosity 好奇心 n 】` // ------------- 【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 v 】
 -
 - [AA.]
 - `【 according to. 根据  】` preposition
@@ -681,6 +694,7 @@
 - 1. **【 【 According to 】 the 【 expiration time 】 to 【 judge 】, this food 【 is going to 】 【 expire 】 soon. 根据过期时间判断，这个食物即将过期 】**
 - 2. **【 【 According to 】 my 【 judgment 】, It will rain tomorrow. 根据我的判断，明天会下雨 】**
 - // -- 【 judge 法官 n 判断 v 】
+- // -- 【 soon 很快 马上 adv 】
 -
 - [BB.]
 - `【 cloth 布料 】` // --- cloth 作为布料时是不可数名词
@@ -708,4 +722,4 @@
 - [EE.]
 - `【 inspire potential. 激发潜能 n 】`
 - `【 inspire curiosity. 激发好奇心 v 】`
-- **【 【 Inspiring curiosity 】 can 【 inspire  】. 激发好奇心能激发潜能 】**
+- **【 【 Inspiring curiosity 】 can 【 inspire 】. 激发好奇心能激发潜能 】**
