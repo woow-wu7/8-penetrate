@@ -879,4 +879,8 @@ This is a 【 fantastic opportunity 】, I think you should 【 seize the opport
 
 9
 到那时，我们已经老了
+
+
+10
+根据过期时间判断，这个食物即将过期
 ```
