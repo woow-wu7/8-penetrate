@@ -97,7 +97,7 @@ obey 服从 遵守 v
 -
 【 expiration time. 过期时间 】
 【 be about to expire. 即将过期 】
-【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性
+【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性 // 【 be about to expire. 即将过期 】
 -
 expire 过期 v
 expiration 过期 n

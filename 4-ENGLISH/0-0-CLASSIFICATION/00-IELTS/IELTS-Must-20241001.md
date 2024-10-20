@@ -218,8 +218,8 @@
 
 - 1
 - `【 vent 通风口n  发泄v 】` // ---------------- `【 vent emotion. 发泄情绪 】` `【 control emotion. 控制情绪 】` `【 express emotion. 表达情感 】` [emotional]
-- `【 invent 发明 创造 编造 v 】` // -------------- 【 invent an excuse. 编造借口 】
-- `【 inventory 库存 存货 n 】` // --------------- 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 】 // inventory factory repository warehouse.
+- `【 invent 发明 创造 编造 v 】` // ------------- 【 invent an excuse. 编造借口 】
+- `【 inventory 库存 存货 n 】` // -------------- 【 take inventory. 盘点 】 【 inventory list. 清单 】 // inventory factory repository warehouse. certain factors.
 - `【 prevent 阻止 防止 v 】`
 - `【 adventure 冒险 探险 v n 】` // ------------- 【 go on an adventure. 去冒险 】 `【 spirit of adventure. 冒险精神 】`
 - > 【 emotion 情绪 情感 感情 n 】
@@ -259,6 +259,19 @@
 - > 【 intelligence quotient. 智商 n 】`
 - > 【 sum / difference / product / quotient. 和差积商 】
 - _【 The 【 quotient 】 of nine 【 divided by 】 three is three. 九除以三的商是三 】_
+-
+- `【 factor 因素 要素 系数 n 】`
+- `【 refactor 重构 】` // ----------------------- 【 refactor code. 重构代码 】
+- `【 factory 工厂 】`
+- `【 repository 仓库 n = warehouse 】`
+- `【 inventory 库存 】` // ---------------------- 【 inventory list. 库存清单 】 【 take inventory. 盘点库存 】
+- 1. **【 Due to 【 certain 】 【 factors 】, we need to 【 refactor 】 this project. 由于某些因素，我们需要重构这个项目 】**
+- 2. **【 【 Certain 】 food 【 additives 】 are 【 toxic 】. 某些视频添加剂有毒 】**
+- // -- certain 某些 pronoun
+- // -- additive 添加剂
+- // -- toxic 有毒的
+- // -- 【 certain factors. 某些因素 n 】
+- // -- 【 food additives. 食品添加剂 n 】
 -
 - [AA.]
 - `【 control emotion. 控制情绪 v 】`

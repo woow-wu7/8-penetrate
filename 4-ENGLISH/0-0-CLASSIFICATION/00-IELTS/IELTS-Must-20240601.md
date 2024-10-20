@@ -45,15 +45,14 @@
 - `【 tale 故事 】` // ---------【 fairy tale. 童话故事 】
 - `【 tail 尾巴 】` // ---------【 tail light. = brake light. 尾灯 】
 - `【 retail 零售 v n 】` // ---【 retail price. 零售价 】// 【 retail store. 零售店 】
-- `【 detail 细节 】`
+- `【 detail 细节 】` // ------- detail, detailed, in detail
 - `【 fail 失败v 】` // -------- fail failed failure // succeed successful success
 -
-- `【 fair 公平的 公正的 adj 】` //【 fair competition. 公平竞争 】
+- `【 fair 公平的 公正的 adj 】` //【 fair competition. 公平竞争 】 【 intense competition. 激烈的竞争 】
 - `【 fairy 仙女 精灵 】`
 - `【 fairy tale. 童话故事 】` // fairy tale. // love story.
 - `【 fairyland 仙境 】`
 - > 【 fair competition. 公平的竞争 】
--
 -
 - [AA.]
 - `【 caption. 字幕 文字说明 】`
@@ -65,7 +64,6 @@
 - // --【 a total of. 总共 】
 - // -- The company has【 a total of 】 200 【 employees 】. 公司总共有 200 名员工
 - // -- After graduation, I have had 【 a total of 】 four 【 work experiences 】. 毕业之后，我一共有四段工作经历
--
 -
 - [BB.]
 - `【 series 串联 系列 连续 】` // series serious // a series of test. 一系列测试
@@ -82,7 +80,6 @@
 - // -- 【 be divided into. 被分为... 被分成... 】
 - // -- 【 a series of test. 一系列测试 】
 -
--
 - [CC.]
 - `【 actor 男演员 】` // actor // tractor
 - `【 actress 女演员 】`
@@ -98,7 +95,6 @@
 - _【 act as. 扮演 】_
 - _【 participate in. 参加 】_
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
--
 -
 - [DD.]
 - `【 parallelogram 平行四边形 】` // parallel series
@@ -122,7 +118,6 @@
 - `【 cylinder 圆柱 】`
 - `【 cone 圆锥 】`
 -
--
 - [EE.]
 - `【 tale 故事 】` // fairy tale.
 - `【 tail 尾巴 】`
@@ -137,7 +132,6 @@
 - **【 This is a 【 fairy tale 】 【 about 】 【 tail 】. 这是一本关于尾巴的童话故事 】**
 - **【 Most little kids love to read 【 fairy tales 】. 很多小孩都喜欢童话故事 】**
 -
--
 - [FF.]
 - `【 episode 集 一集 】`
 - `【 TV series. 电视连续剧 = TV drama. 】`
@@ -148,7 +142,6 @@
 - // -- animation 动画
 - // -- 【 in total. 总共 】
 -
--
 - [GG.]
 - `【 serious 严肃的 认真的 严重的 】`
 - `【 series 连续 系列 串联 】`
@@ -156,13 +149,11 @@
 - **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个很严肃的人，对学生要求很严格 】**
 - **【 He 【 suffered from 】 a 【 serious 】 【 illness 】. 他患上了严重的疾病 】**
 -
--
 - [HH.]
 - `【 fair 公平的 adj 】`
 - `【 fairy 仙女 小精灵 】`
 - `【 fairy tale. 故事 】`
 - **【 In this 【 fairy tale 】, the 【 fairy 】 is a 【 fair 】 person. 在这个童话故事中，仙女是一个公平的人 】**
--
 -
 - [II.]
 - `【 retail 零售 】` // retail price. 零售价
