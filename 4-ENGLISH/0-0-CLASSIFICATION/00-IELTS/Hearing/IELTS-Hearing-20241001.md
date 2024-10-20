@@ -9,17 +9,22 @@ involve 涉及 有关 v
 digest 消化 v
 adsorb 吸收 v
 -
-【 this round of. 这一轮 】
-【 drunk driving. 酒驾 n 】
+【 this round of. 这一轮 】 // --------- this round of layoff. 这一轮裁员
+【 drunk driving. 酒驾 n 】 // --------- drink -> drunk
 -
 【 expiration time. 过期时间 】
+【 expired dumpling. 过期的饺子 】
+valid 有效的 adj
+invalid 无效的
+【 be about to. 即将 】
+【 be about to expire. 即将过期 】
 -
 drink -> drunk
 drunk 喝 喝酒 喝醉的 醉汉
 -
 // -- 1. This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
 // -- 1. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
-// -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food. 你身体中有很多部位共同参与了食物的消化和吸收
+// -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 // -- 3. 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
 // -- 4. Two people 【 are involved 】. 涉及两人
 // --【 This man was 【 involved 】 in 【 drunk driving 】 accident. 这个男人涉及到一起酒驾事故
@@ -75,11 +80,11 @@ practical 真实的 实际的 实用的 adj
 4.
 【 come with. 【 附带 】 伴随 】
 【 come down with. 染上（病） / 得了（病） 】
-【 comply with. 遵守 v 】 = obey.
+【 comply with. 遵守 v 】 = obey服从遵守.
 -
 // -- 1. The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
 // -- 2. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
-// -- 3. I 【 come down 】 a cold. 我患了感冒
+// -- 3. I 【 come down with 】 a cold. 我患了感冒
 // ---- 【 phone case. 手机壳 】
 // ---- 【 come with. 附带 】
 // ---- 【 come down with. 染上（病） / 得了（病） 】
@@ -94,12 +99,14 @@ obey 服从 遵守 v
 
 5.
 【 judge 法官n 判断v 】
+【 judgment 判断n 】
 -
 【 expiration time. 过期时间 】
 【 be about to expire. 即将过期 】
 【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性 // 【 be about to expire. 即将过期 】
 -
 expire 过期 v
+expired 过期的 adj
 expiration 过期 n
 【 expiration time. 过期时间 n 】
 -
@@ -113,10 +120,10 @@ expiration 过期 n
 get along with sb. 与某人相处
 【 get along 【 peacefully 】 with sb. 与某人和平相处 】
 【 I'm easy to get along with. 我很容易相处 】
-【 What are you guys talking about? 你们在谈论什么? 】
+【 What are you guys 【 talking about 】? 你们在谈论什么? 】
 // --【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
 // --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
-// -- 1. 【 I'm easy to get along with. 我很容易相处 】
+// -- 1. 【 I'm easy to 【 get along with 】. 我很容易相处 】
 // -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
 // ---- contradiction 矛盾
 // ---- 【 internal contradiction. 内部矛盾 】
@@ -124,10 +131,11 @@ get along with sb. 与某人相处
 // ---- 【 family contradiction. 家庭矛盾 】
 
 
-7.
+7 - [7].
 take a look at. 看一看
 【 take a look at. 看一看 】
 // -- Let me 【 take a look at 】 the menu. 让我看一看菜单
+// -- let me take a look at the problem. 让我看一下这个问题
 
 
 8.

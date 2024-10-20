@@ -654,7 +654,7 @@
 
 - 1
 - `【 inspire 激发 启发 v 】` // ------------- 【 inspire potential. 激发潜能 n 】 【 inspire curiosity. 激发好奇心 v 】
-- `【 expire 到期 过期 v 】` // -------------- 【 expiration time. 过期时间 n 】 【 expired dumpling. 过期的饺子 】
+- `【 expire 到期 过期 v 】` // -------------- 【 expiration time. 过期时间 n 】 【 expired dumpling. 过期的饺子 】 // ----- `【 be about to expire. 即将过期 】`
 - `【 outdate 过时 v 】` // ----------------- 【 out of date. 过时的 adj 】 // `【 go out of date. 过时 】`
 - > 【 inspire potential. 激发潜能 】
 - > 【 inspire curiosity. 激发好奇心 】
@@ -664,10 +664,12 @@
 - _【 strong curiosity. 强烈的好奇心 】_
 - > 【 expire 过期 v 】
 - > 【 expired 过期的 adj 】 // --------------- 【 valid 有效的 adj 】 【 invalid 无效的 adj 】
-- > 【 expiration 过期 n 】
-- > 【 expiration time. 过期时间 n 】
+- > 【 expiration 过期 n 】// ----------------- 【 expiration time. 过期时间 n 】
+- > 【 expiration time. 过期时间 n 】 // ------ 【 valid time. 有效时间 n 】 【 invalid time. 无效时间 n 】
 - > 【 expired dumpling. 过期的饺子 】
-- _【 【 Valid 】 is the antonym of the word 【 expired 】.】_
+- _【 【 Valid 】 is the 【 antonym 】 of the word 【 expired 】. 】_
+- > 【 be about to. 即将 】
+- > 【 be about to expire. 即将过期 】
 -
 - `【 inspiration 灵感 n 】` // ------------- 【 creative inspiration. 创作灵感 n 】 【 artistic inspiration. 艺术灵感 n 】
 - `【 inspire 激发 启发 激励 v 】` // -------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
@@ -679,23 +681,23 @@
 - _【 creative inspiration. 创作灵感 】_
 - _【 artistic inspiration. 艺术灵感 】_
 -
-- `【 expired 过期的 adj 】`
+- `【 expired 过期的 adj 】` // ---------------【 expired dumpling. 过期的饺子 】
 - `【 valid 有效的 adj 】` // -----------------【 invalid 无效的 adj 】`
-- > 【 【 Valid 】 is the antonym of the word 【 expired 】.
+- > 【 【 Valid 】 is the antonym of the word 【 expired/invalid 】.
 -
 - `【 judge 法官n 判断v 】`
 - `【 judgment 判断 n 】`
-- > 【 How to judge right and wrong. 如何判断对与错？ 】
+- > 【 How to 【 judge 】 right and wrong. 如何判断对与错？ 】
 -
 - `【 curious 好奇的 adj 】`
 - `【 curiosity 好奇心 n 】` // ------------- 【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 v 】
 -
 - `【 expire 到期 过期 v 】`
-- `【 expired 过期的 adj 】` // ------------- `【 out of date. 过时的 adj 】` `【 go out of date. 过时 】` 【 expired dumpling. 过期的饺子 】
+- `【 expired 过期的 adj 】` // ------------- `【 out of date. 过时的 adj 】` `【 go out of date. 过时 】` 【 expired dumpling. 过期的饺子 】 // valid invalid
 - `【 expiration 到期 n 】` // -------------- 【 expiration time. 过期时间 n 】
 - > 【 expiration time. 过期时间 n 】
 - > 【 go out of date. 过时 】// ------------ 【 date 日期 约会 n 】
-- _【 outdate 过时 v 】_
+- _【 outdate 过时 v 】_ // ----------------- `【 go out of date. 过时的 adj 】`
 - _【 expire 过期 v 】_
 -
 - [AA.]
@@ -704,10 +706,14 @@
 - `【 expire 过期 v 】`
 - `【 judge 法官n 判断v 】`
 - `【 judgment 判断n 】`
-- 1. **【 【 According to 】 the 【 expiration time 】 to 【 judge 】, this food 【 is going to 】 【 expire 】 soon. 根据过期时间判断，这个食物即将过期 】**
+- > 【 be about to. 即将 】
+- > 【 be about to expire. 即将过期 】
+- 1. **【 【 According to 】 the 【 expiration time 】 to 【 judge 】, this food 【 is about to 】 【 expire 】 soon. 根据过期时间判断，这个食物即将过期 】**
 - 2. **【 【 According to 】 my 【 judgment 】, It will rain tomorrow. 根据我的判断，明天会下雨 】**
 - // -- 【 judge 法官 n 判断 v 】
 - // -- 【 soon 很快 马上 adv 】
+- // -- 【 be about to. 即将 】
+- // -- 【 be about to expire. 即将过期 】
 -
 - [BB.]
 - `【 cloth 布料 】` // --- cloth 作为布料时是不可数名词
