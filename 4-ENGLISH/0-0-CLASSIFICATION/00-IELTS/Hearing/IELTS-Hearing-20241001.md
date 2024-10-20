@@ -1,6 +1,7 @@
 ##### 1 Hearing 2024-10-01 [IELTS_HEARING_MUST_PODCAST][restaurant]
 
 ```
+1.
 involve 涉及 有关 v
 【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】
 【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】
@@ -29,63 +30,8 @@ drunk 喝 喝酒 喝醉的 醉汉
 // TIPS: Pay attention to the pronunciation of the word "involve". [involve-涉及-v]
 
 
-【 come with. 【 附带 】 伴随 】
-【 come down with. 染上（病） / 得了（病） 】
-【 comply with. 遵守 v 】
--
-// -- 1. The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
-// -- 2. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
-// -- 3. I 【 come down 】 a cold. 我患了感冒
-// ---- 【 phone case. 手机壳 】
-// ---- 【 come with. 附带 】
-// ---- 【 come down with. 染上（病） / 得了（病） 】
-// ---- 【 comply with. 遵守 = obey 】
 
-comply with. 遵守 v
-obey 服从 遵守 v
-// -- We must 【 comply with 】 the company 【 regulations 】. 我们必须遵守公司规定
-// -- Why don't you 【 comply with 】 【 traffic rules 】? 你为什么不遵守交通规则？
-
-
-【 judge 法官n 判断v 】
--
-【 expiration time. 过期时间 】
-【 be about to expire. 即将过期 】
-【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性
--
-expire 过期 v
-expiration 过期 n
-【 expiration time. 过期时间 n 】
--
-// -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期
-// TIPS: Pay attention to the pronunciation fo the word 'expire'. [expire-到期-v]
-// TIPS: Pay attention to the pronunciation fo the word 'expiration'. [expiration-到期-n]
-
-
-get along with sb. 与某人相处
-【 get along 【 peacefully 】 with sb. 与某人和平相处 】
-【 I'm easy to get along with. 我很容易相处 】
-【 What are you guys talking about? 你们在谈论什么? 】
-// --【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
-// --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
-// -- 1. 【 I'm easy to get along with. 我很容易相处 】
-// -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
-// ---- contradiction 矛盾
-// ---- 【 internal contradiction. 内部矛盾 】
-// ---- 【 social contradiction. 社会矛盾 】
-// ---- 【 family contradiction. 家庭矛盾 】
-
-
-practical 真实的 实际的 实用的 adj
-【 practical experience. 实际经验 】
-【 practical life. 实际的生活 】
-【 practical examples. 实际的例子 】
-// -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
-// -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
-// -- 实用的: this good is 【 practical 】. 这种好东西很实用
-// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
-
-
+2.
 casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 -
 【 casual conversation. 随意的谈话 】= small talk. = free talk.
@@ -114,13 +60,142 @@ casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 // ---- 【 trademark 商标 n 】
 
 
-one more time. 再一次
-// -- Let sing that song 【 one more time 】. 让我们再唱一次那首歌
+3.
+practical 真实的 实际的 实用的 adj
+【 practical experience. 实际经验 】
+【 practical life. 实际的生活 】
+【 practical examples. 实际的例子 】
+// -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
+// -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
+// -- 实用的: this good is 【 practical 】. 这种好东西很实用
+// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
 
 
+
+4.
+【 come with. 【 附带 】 伴随 】
+【 come down with. 染上（病） / 得了（病） 】
+【 comply with. 遵守 v 】 = obey.
+-
+// -- 1. The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
+// -- 2. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
+// -- 3. I 【 come down 】 a cold. 我患了感冒
+// ---- 【 phone case. 手机壳 】
+// ---- 【 come with. 附带 】
+// ---- 【 come down with. 染上（病） / 得了（病） 】
+// ---- 【 comply with. 遵守 = obey 】
+
+comply with. 遵守 v
+obey 服从 遵守 v
+// -- We must 【 comply with 】 the company 【 regulations 】. 我们必须遵守公司规定
+// -- Why don't you 【 comply with 】 【 traffic rules 】? 你为什么不遵守交通规则？
+
+
+
+5.
+【 judge 法官n 判断v 】
+-
+【 expiration time. 过期时间 】
+【 be about to expire. 即将过期 】
+【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性
+-
+expire 过期 v
+expiration 过期 n
+【 expiration time. 过期时间 n 】
+-
+// -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期
+// TIPS: Pay attention to the pronunciation fo the word 'expire'. [expire-到期-v]
+// TIPS: Pay attention to the pronunciation fo the word 'expiration'. [expiration-到期-n]
+
+
+
+6.
+get along with sb. 与某人相处
+【 get along 【 peacefully 】 with sb. 与某人和平相处 】
+【 I'm easy to get along with. 我很容易相处 】
+【 What are you guys talking about? 你们在谈论什么? 】
+// --【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
+// --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
+// -- 1. 【 I'm easy to get along with. 我很容易相处 】
+// -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
+// ---- contradiction 矛盾
+// ---- 【 internal contradiction. 内部矛盾 】
+// ---- 【 social contradiction. 社会矛盾 】
+// ---- 【 family contradiction. 家庭矛盾 】
+
+
+7.
 take a look at. 看一看
 【 take a look at. 看一看 】
 // -- Let me 【 take a look at 】 the menu. 让我看一看菜单
+
+
+8.
+concise 简洁的 adj
+brief 简短的 adj
+【 concise language. 简洁的语言 】
+// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题
+// -- 2. Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
+// TIPS: Pay attention to the pronunciation of the word "concise". [concise-简洁的-adj]
+
+
+
+9.
+fantastic 极好的 好极了 adj
+【 fantastic opportunity. 极好的机会 】 // 【 cherish opportunity. 珍惜机会 】 // 【 seize opportunity. 抓住机会 】
+【 fantastic idea. 极好的主意 】
+-
+【 seize 抓住 v 】
+【 seize opportunity. 抓住机会 】
+-
+【 cherish 珍惜 】
+【 cherish opportunity. 珍惜机会 】
+-
+fantastic opportunity. 极好的机会
+seise the possibility. 抓住机会
+cherish the possibility. 珍惜机会
+-
+// -- 1. I think this is a 【 fantastic opportunity, 】 so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
+// -- 2. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
+// -- 3. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
+// -- 4.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
+// ---- 【 cherish 珍惜 v 】
+// ---- 【 cherish opportunity. 珍惜机会 】
+// ---- 【 cherish time. 珍惜时间 】
+// ---- // cheer 欢呼 喝彩
+
+
+10.
+vibe 气氛 【 氛围 】
+【 good vibe. 好的氛围 】
+【 bad vibe. 坏的环境 】
+// -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】.  好的氛围和坏的氛围可以让人有不同的情绪 】
+// ---- 【 emotion 情绪 】
+// ---- 【 vent emotion. 发泄情绪 】
+// ---- 【 emotional quotient. 情商 】EQ
+// ---- 【 intelligence quotient. 智商 】IQ
+
+
+
+11.
+participate 参加 参与 v
+【 participate in. 参加... 】
+【 participate with sb in sth. 和某人一起参加某事 】
+-
+community 社区 n
+【 learning community. 社区学习 】
+-
+【 on weekends. 在周末 --- 泛指每个周末 】
+【 on the weekend. ------ 特指某一个周末 】
+-
+// -- 1. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
+// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
+// ---- 【 on weekends. 在周末 --- 泛指每个周末 】
+// ---- 【 on the weekend. ------ 特指某一个周末 】
+
+
+one more time. 再一次
+// -- Let sing that song 【 one more time 】. 让我们再唱一次那首歌
 
 
 fancy 奢华的adj 幻想
@@ -142,41 +217,12 @@ complimentary 免费的 = free.
 // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
 
 
-
 preview 预览 预演
 demonstrate 演示 示范 v // demonstration 示范 n
 【 preview mode. 预览模式 】
 【 preview version. 预览版本 】
 // -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
-
-
-concise 简洁的 adj
-brief 简短的 adj
-【 concise language. 简洁的语言 】
-// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题
-// -- 2. Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
-// TIPS: Pay attention to the pronunciation of the word "concise". [concise-简洁的-adj]
-
-
-fantastic 极好的 好极了 adj
-【 fantastic opportunity. 极好的机会 】 // 【 cherish opportunity. 珍惜机会 】 // 【 seize opportunity. 抓住机会 】
-【 fantastic idea. 极好的主意 】
--
-【 cherish 珍惜 】
-【 cherish opportunity. 珍惜机会 】
-【 fantastic opportunity. 极好的机会 】
--
-【 seize 抓住 v 】
-【 seize opportunity. 抓住机会 】
--
-// -- 1. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
-// -- 2. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
-// -- 3. 【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
-// ---- 【 cherish 珍惜 v 】
-// ---- 【 cherish opportunity. 珍惜机会 】
-// ---- 【 cherish time. 珍惜时间 】
-// ---- // cheer 欢呼 喝彩
 
 
 definitely 肯定的 adv
@@ -191,33 +237,9 @@ exact 精确的 准确的 adj
 // --  I don't remember the 【 exact 】 words. 我不记得确切的话了
 
 
-vibe 气氛 【 氛围 】
-【 good vibe. 好的氛围 】
-【 bad vibe. 坏的环境 】
-// -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】.  好的氛围和坏的氛围可以让人有不同的情绪 】
-// ---- 【 emotion 情绪 】
-// ---- 【 vent emotion. 发泄情绪 】
-// ---- 【 emotional quotient. 情商 】EQ
-// ---- 【 intelligence quotient. 智商 】IQ
-
-
 magazine 杂志 n
 newspaper 报纸 n
 poster 海报 n
-
-
-community 社区 n
-【 learning community. 社区学习 】
--
-participate 参加 参与 v
-【 participate in. 参加... 】
--
-【 on weekends. 在周末 --- 泛指每个周末 】
-【 on the weekend. ------ 特指某一个周末 】
--
-// -- I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
-// ---- 【 on weekends. 在周末 --- 泛指每个周末 】
-// ---- 【 on the weekend. ------ 特指某一个周末 】
 
 
 until then. 到那时
