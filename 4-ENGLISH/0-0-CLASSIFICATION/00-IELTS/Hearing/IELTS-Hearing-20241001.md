@@ -51,7 +51,10 @@ casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 【 odd job. 零工 】
 【 temporary job. 临时工作 】
 【 part-time worker. 兼职工做 】
-【 casual job. = casual work. 临时工作 】
+【 casual job. = casual work. 临时工作 】 // ------ casual job. = odd job. = temporary job. = part-time job.
+-
+【 on weekends. 在周末 --- 泛指每个周末 】
+【 on the weekend. ------ 特指某一个周末 】
 -
 【 warehouse 仓库 n 】 // ------------------------- ware 器皿
 【 repository 仓库 贮藏室 n 】
@@ -59,9 +62,6 @@ casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 【 factory 工厂 n 】
 -
 【 repository / inventory / directory / factory / dormitory / mandatory / history 】
--
-【 on weekends. 在周末 --- 泛指每个周末 】
-【 on the weekend. ------ 特指某一个周末 】
 -
 // -- He does 【 casual job 】 at the 【 warehouse 】 【 on weekends 】. 他周末在仓库做零工
 // ---- 【 casual job. 零工 n 】
@@ -80,81 +80,27 @@ practical 真实的 实际的 实用的 adj
 // TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
 
 
-
 4.
-【 come with. 【 附带 】 伴随 】
-【 come down with. 染上（病） / 得了（病） 】
-【 comply with. 遵守 v 】 = obey服从遵守.
+participate 参加 参与 v
+【 participate in. 参加... 】
 -
-// -- 1. The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
-// -- 2. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
-// -- 3. I 【 come down with 】 a cold. 我患了感冒
-// ---- 【 phone case. 手机壳 】
-// ---- 【 come with. 附带 】
-// ---- 【 come down with. 染上（病） / 得了（病） 】
-// ---- 【 comply with. 遵守 = obey 】
-
-comply with. 遵守 v
-obey 服从 遵守 v
-// -- We must 【 comply with 】 the company 【 regulations 】. 我们必须遵守公司规定
-// -- Why don't you 【 comply with 】 【 traffic rules 】? 你为什么不遵守交通规则？
-
+community 社区 n
+【 learning community. 社区学习 】
+-
+【 on weekends. 在周末 --- 泛指每个周末 】
+【 on the weekend. ------ 特指某一个周末 】
+-
+// -- 1. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
+// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
+// ---- 【 on weekends. 在周末 --- 泛指每个周末 】
+// ---- 【 on the weekend. ------ 特指某一个周末 】
 
 
 5.
-【 judge 法官n 判断v 】
-【 judgment 判断n 】
--
-【 expiration time. 过期时间 】
-【 be about to expire. 即将过期 】
-【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性 // 【 be about to expire. 即将过期 】
--
-expire 过期 v
-expired 过期的 adj
-expiration 过期 n
-【 expiration time. 过期时间 n 】
--
-// -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期
-// TIPS: Pay attention to the pronunciation fo the word 'expire'. [expire-到期-v]
-// TIPS: Pay attention to the pronunciation fo the word 'expiration'. [expiration-到期-n]
-
-
-
-6.
-get along with sb. 与某人相处
-【 get along 【 peacefully 】 with sb. 与某人和平相处 】
-【 I'm easy to get along with. 我很容易相处 】
-【 What are you guys 【 talking about 】? 你们在谈论什么? 】
-// --【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
-// --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
-// -- 1. 【 I'm easy to 【 get along with 】. 我很容易相处 】
-// -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
-// ---- contradiction 矛盾
-// ---- 【 internal contradiction. 内部矛盾 】
-// ---- 【 social contradiction. 社会矛盾 】
-// ---- 【 family contradiction. 家庭矛盾 】
-
-
-7 - [7].
-take a look at. 看一看
-【 take a look at. 看一看 】
-// -- Let me 【 take a look at 】 the menu. 让我看一看菜单
-// -- let me take a look at the problem. 让我看一下这个问题
-
-
-8.
-concise 简洁的 adj
-brief 简短的 adj
-【 concise language. 简洁的语言 】
-// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题
-// -- 2. Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
-// TIPS: Pay attention to the pronunciation of the word "concise". [concise-简洁的-adj]
-
-
-
-9.
 fantastic 极好的 好极了 adj
-【 fantastic opportunity. 极好的机会 】 // 【 cherish opportunity. 珍惜机会 】 // 【 seize opportunity. 抓住机会 】
+// 【 fantastic opportunity. 极好的机会 】
+// 【 seize opportunity. 抓住机会 】
+// 【 cherish opportunity. 珍惜机会 】
 【 fantastic idea. 极好的主意 】
 -
 【 seize 抓住 v 】
@@ -177,33 +123,110 @@ cherish the possibility. 珍惜机会
 // ---- // cheer 欢呼 喝彩
 
 
+
+6.
+【 come with. 【 附带 】 伴随 】
+【 come down with. 染上（病） / 得了（病） 】
+【 comply with. 遵守 v 】 = obey服从遵守.
+-
+sick 生病的 adj
+ill 生病的 adj
+illness 疾病 n
+【 sick = ill 生病的 adj 】
+-
+// -- 1. The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
+// -- 2. I 【 come down with 】 a cold. 我患了感冒
+// -- 3. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
+//【 phone case. 手机壳 】
+//【 come with. 附带 】
+//【 come down with. 染上（病） / 得了（病） 】
+//【 comply with. 遵守 = obey 】
+
+comply with. 遵守 v
+obey 服从 遵守 v
+-
+【 traffic rules. 交通规则 n 】
+-
+// -- We must 【 comply with 】 the company 【 regulations 】. 我们必须遵守公司规定
+// -- Why don't you 【 comply with 】 【 traffic rules 】? 你为什么不遵守交通规则？
+
+
+
+7.
+【 judge 法官n 判断v 】
+【 judgment 判断n 】
+-
+【 expiration time. 过期时间 】
+【 be about to expire. 即将过期 】
+【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性 // 【 be about to expire. 即将过期 】
+-
+expire 过期 v
+expired 过期的 adj
+expiration 过期 n
+【 expiration time. 过期时间 n 】
+-
+// -- 【 According to 】 the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期
+// TIPS: Pay attention to the pronunciation fo the word 'expire'. [expire-到期-v]
+// TIPS: Pay attention to the pronunciation fo the word 'expiration'. [expiration-到期-n]
+
+
+
+8.
+get along with sb. 与某人相处
+【 get along 【 peacefully 】 with sb. 与某人和平相处 】
+【 I'm easy to get along with. 我很容易相处 】
+【 What are you guys 【 talking about 】? 你们在谈论什么? 】
+// --【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
+// --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
+// -- 1. 【 I'm easy to 【 get along with 】. 我很容易相处 】
+// -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
+// ---- contradiction 矛盾
+// ---- 【 internal contradiction. 内部矛盾 】
+// ---- 【 social contradiction. 社会矛盾 】
+// ---- 【 family contradiction. 家庭矛盾 】
+
+
+9 - [9].
+take a look at. 看一看
+【 take a look at. 看一看 】
+// -- Let me 【 take a look at 】 the menu. 让我看一看菜单
+// -- let me 【 take a look at 】 the problem. 让我看一下这个问题
+
+
 10.
+brief 简短的 adj
+concise 简洁的 adj
+【 concise language. 简洁的语言 】
+【 in concise language. 用简洁的语言 】
+// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题
+// -- 2. Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
+// TIPS: Pay attention to the pronunciation of the word "concise". [concise-简洁的-adj]
+
+
+11.
 vibe 气氛 【 氛围 】
 【 good vibe. 好的氛围 】
 【 bad vibe. 坏的环境 】
 // -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】.  好的氛围和坏的氛围可以让人有不同的情绪 】
 // ---- 【 emotion 情绪 】
-// ---- 【 vent emotion. 发泄情绪 】
+// ---- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情绪 】
 // ---- 【 emotional quotient. 情商 】EQ
 // ---- 【 intelligence quotient. 智商 】IQ
 
 
+12.
+preview 预览 预演
+demonstrate 演示 示范 v // demonstration 示范 n
+【 preview mode. 预览模式 】
+【 preview version. 预览版本 】
+-
+demo 样品n 演示v
+demonstrate 演示 v
+demonstration 演示 n
+-
+// -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
+// TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
 
-11.
-participate 参加 参与 v
-【 participate in. 参加... 】
-【 participate with sb in sth. 和某人一起参加某事 】
--
-community 社区 n
-【 learning community. 社区学习 】
--
-【 on weekends. 在周末 --- 泛指每个周末 】
-【 on the weekend. ------ 特指某一个周末 】
--
-// -- 1. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
-// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
-// ---- 【 on weekends. 在周末 --- 泛指每个周末 】
-// ---- 【 on the weekend. ------ 特指某一个周末 】
 
 
 one more time. 再一次
@@ -227,14 +250,6 @@ complimentary 免费的 = free.
 // -- wine 红酒 葡萄酒 n
 // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
 // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
-
-
-preview 预览 预演
-demonstrate 演示 示范 v // demonstration 示范 n
-【 preview mode. 预览模式 】
-【 preview version. 预览版本 】
-// -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
-// TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
 
 
 definitely 肯定的 adv
