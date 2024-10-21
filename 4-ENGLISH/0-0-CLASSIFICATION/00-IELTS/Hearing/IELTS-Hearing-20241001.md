@@ -173,6 +173,12 @@ expiration 过期 n
 
 8.
 get along with sb. 与某人相处
+-
+contradiction 矛盾 m
+【 internal contradiction 内部矛盾 n 】
+【 family contradiction 家庭矛盾 n 】
+【 social contradiction 社会矛盾 n 】
+-
 【 get along 【 peacefully 】 with sb. 与某人和平相处 】
 【 I'm easy to get along with. 我很容易相处 】
 【 What are you guys 【 talking about 】? 你们在谈论什么? 】
