@@ -8,16 +8,20 @@ involve 涉及 有关 v
 -
 digest 消化 v
 adsorb 吸收 v
+nutrition 营养 n
 -
-【 this round of. 这一轮 】 // --------- this round of layoff. 这一轮裁员
-【 drunk driving. 酒驾 n 】 // --------- drink -> drunk
+【 this round of. 这一轮 】 // --------- 【 this round of layoff. 这一轮裁员 】 // lay off. v // layoff n
+【 drunk driving. 酒驾 n 】 // --------- 【 drink -> drunk 】
 -
 【 expiration time. 过期时间 】
 【 expired dumpling. 过期的饺子 】
+【 be about to expire. 即将过期 】
+-
 valid 有效的 adj
 invalid 无效的
 【 be about to. 即将 】
 【 be about to expire. 即将过期 】
+// TIPS: Pay attention to the pronunciation of the word "valid". [valid-有效的-adj]
 -
 drink -> drunk
 drunk 喝 喝酒 喝醉的 醉汉

@@ -241,10 +241,10 @@
 ###### 2024-03-06
 
 - 1
-- `model 模型 模特` // v-model
-- `module 模块` // open source module.
-- `medal 奖牌 奖章` // gold medal.
-- `metal 金属` // rare metal.
+- `model 模型 模特` // ------------- 【 role model. 榜样 】 // v-model
+- `module 模块` // ---------------- 【 open source module. 开源模块 】 【 main module. 主要模块 】
+- `medal 奖牌 奖章` // ------------- 【 gold medal. 金牌 】 【 silver medal. 银牌 】 【 bronze model. 铜牌 】
+- `metal 金属` // ----------------- 【 rare metal. 稀有金属 】
 - `mode 模式 方式`
 - _【 open source module. 开源模块 】_
 - _【 open source code. 开源代码 】_
@@ -256,9 +256,10 @@
 -
 - AA.
 - medal
-- **【 The 【 model 】【 won 】 the gold 【 medal 】. 这个【模特】获得了【金牌】 】**
-- **【 The 【 second prize 】 is a 【 silver medal 】 and a large 【 cash 】【 bonus 】. 【二等奖】是一枚【银牌】和大量【现金】【奖金】 】**
-- **【 She received a 【 bonus 】 【 as 】 a 【 reward 】 【 for 】 her hard work. 她因为努力工作而获得了【奖金】【 作为 】【奖励】 】**
+- 1. **【 This 【 model 】 is our 【 role model 】, she won the 【 second prize 】 which includes a 【 silver medal 】 and 【 a large amount of 】 【 cash bonus 】. 这个模特是我们的榜样，她获得了二等奖，包含一枚银牌和大量现金奖金 】**
+- **【 The 【 model 】【 won 】 the gold 【 medal 】. 这个模特获得了金牌 】**
+- **【 The 【 second prize 】 is a 【 silver medal 】 and a large 【 cash 】【 bonus 】. 二等奖是一枚银牌和大量现金奖金 】**
+- **【 She received a 【 bonus 】 【 as 】 a 【 reward 】 【 for 】 her hard work. 她因为努力工作而获得了奖金作为奖励 】**
 - **【 The 【 bonus 】 was given 【 in the form of 】 【 cash 】. 奖金以现金的形式发放 】**
 - // -- first prize. 一等奖
 - // -- second prize. 二等奖
