@@ -142,6 +142,7 @@
 - // -- 【 layoff. 裁员 n 】
 - // -- 【 lay off. 裁员 v 】
 - // -- 【 involve 涉及 v 】 // 【 be involved in sth. / be involved in doing sth. 】
+- // -- Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 -
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
 -
@@ -660,6 +661,11 @@
 - `【 lay off. 裁员 = layoff 】`
 - `【 economic crisis. 经济危机 】`
 - `【 recession 紧急衰退 】`
+- 1. **【 【 This round of 】 layoff 【 involves 】 most employees. 本轮裁员涉及大多数员工 】**
+- // -- this round of. 这一轮
+- // -- involve 涉及
+- // -- be involve in doing sth. 涉及做某时
+- // -- Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 - **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员**
 - **【 The 【 economic crisis 】 has led to many companies 【 laying off 】 employees. 经济危机导致很多公司裁员 】**
 - **【 The 【 marketing department 】 was 【 laid off 】. 市场部门被裁了 】**

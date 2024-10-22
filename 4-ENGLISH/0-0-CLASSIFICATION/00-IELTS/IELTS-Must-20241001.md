@@ -246,6 +246,13 @@
 -
 - `【 emotion 情绪 情感 n 】` // ----------------- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 - `【 emotional 情绪的 情感的 adj 】` // ---------- 【 emotional quotient. 情商 EQ 】 【 intelligence quotient. 智商 IQ 】
+- _【 mood 心情 情绪 n 】_ // -------------------- 【 good mood. 好心情 】 【 in the mood. 有心情 】 // `【 be in the mood to do sth. 有心情做某事 】`
+- _【 emotion 情绪 情感 n 】_ // ----------------- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
+- 1. _【 good mood. 好心情 】_
+- 2. _【 be in the mood to do sth. 有心情做某事 】_
+- // **【 【 Are 】 you 【 in the mood 】 to watch a movie? 你有心情看电影吗？ 】**
+- // **【 I 【 am not in the mood to 】 watch movie. 我没有心情看电影 】**
+- // **【 She is 【 in a good mood 】 today. 她今天心情很好 】**
 - > 【 vent emotion. 发泄情绪 v 】
 - > 【 control emotion. 控制情绪 】
 - > 【 express emotion. 表达情感 】 // ------------ 【 express 表达 表示 快的 快递 v 】 【 experience 经验 经历 n 】
@@ -312,6 +319,11 @@
 - `【 spirit 精神 n 】`
 - `【 spirit of adventure. 冒险精神 】`
 - **【 We should have a 【 spirit of adventure 】. 我们需要有冒险精神 】**
+-
+- [GG.]
+- `【 be in the mood to do sth. 有心情做某事 】`
+- `【 good mood. 好心情 n 】`
+- **【 If you 【 are not in the mood 】 to study, 【 vent your emotions 】 first, then you can have a 【 good mood 】. 如果你没有心情学习，请发泄情绪，这样才能拥有好心情 】**
 
 ###### Must 2024-10-04
 
@@ -656,13 +668,17 @@
 - `【 inspire 激发 启发 v 】` // ------------- 【 inspire potential. 激发潜能 n 】 【 inspire curiosity. 激发好奇心 v 】
 - `【 expire 到期 过期 v 】` // -------------- 【 expiration time. 过期时间 n 】 【 expired dumpling. 过期的饺子 】 // ----- `【 be about to expire. 即将过期 】`
 - `【 outdate 过时 v 】` // ----------------- 【 out of date. 过时的 adj 】 // `【 go out of date. 过时 】`
-- > 【 inspire potential. 激发潜能 】
-- > 【 inspire curiosity. 激发好奇心 】
+- > 【 inspire potential. 激发潜能 】// ------ 【 potential 潜力潜能 n / 潜在的 adj 】 // 【 potential customer. 潜在客户 】 【 potential risk. 潜在风险 】
+- > 【 inspire curiosity. 激发好奇心 】 // --- 【 curiosity 好奇心 n 】 // --------------【 satisfy curiosity. 满足好奇心 】 【 inspire curiosity. 激发好奇心 】
 - _【 curiosity 好奇心 】_
 - _【 inspire curiosity. 激发好奇心 】_
 - _【 satisfy curiosity. 满足好奇心 】_
 - _【 strong curiosity. 强烈的好奇心 】_
-- > 【 expire 过期 v 】// -------------------- _【 be about to expire. 即将过期 】_ // ----------【 be about to. 即将 】
+- [potential-潜在的-adj/潜能-n]
+- [potential-customer./潜在客户]
+- [potential-risk./潜在风险]
+- [inspire-potential./激发潜能]
+- > 【 expire 过期 v 】// -------------------- _【 be about to expire. 即将过期 】_ // -----------【 be about to. 即将 】
 - > 【 expired 过期的 adj 】 // --------------- 【 valid 有效的 adj 】 【 invalid 无效的 adj 】---- 【 expired dumpling. 过期的饺子 】
 - > 【 expiration 过期 n 】// ----------------- 【 expiration time. 过期时间 n 】
 - > 【 expiration time. 过期时间 n 】 // ------ 【 valid time. 有效时间 n 】 【 invalid time. 无效时间 n 】
@@ -685,6 +701,7 @@
 - `【 expired 过期的 adj 】` // ---------------【 expired dumpling. 过期的饺子 】
 - `【 valid 有效的 adj 】` // -----------------【 invalid 无效的 adj 】
 - > 【 【 Valid 】 is the antonym of the word 【 expired/invalid 】.
+- // TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
 -
 - `【 judge 法官n 判断v 】`
 - `【 judgment 判断 n 】`
@@ -692,7 +709,7 @@
 - > 【 According to the 【 expiration time 】 to 【 judge 】, the food 【 is about to 】 【 expire 】. 根据到期时间来判断，这种食物即将过期 】
 -
 - `【 curious 好奇的 adj 】`
-- `【 curiosity 好奇心 n 】` // ------------- 【 inspire curiosity. 激发好奇心 v 】 【 satisfy curiosity. 满足好奇心 】
+- `【 curiosity 好奇心 n 】` // ------------- 【 inspire curiosity. 激发好奇心 】 【 satisfy curiosity. 满足好奇心 】
 -
 - `【 expire 到期 过期 v 】` // ------------- 【 be about to expire. 即将过期 】 【 be about to. 即将 】
 - `【 expired 过期的 adj 】` // ------------- `【 out of date. 过时的 adj 】` `【 go out of date. 过时 】` 【 expired dumpling. 过期的饺子 】 // valid invalid
@@ -722,6 +739,7 @@
 - `【 clothes 衣服 n 】`
 - `【 expire 过期 v 】`
 - `【 go out of date. 过时 】`
+- `【 be about to expire. 即将过期 】`
 - **【 The 【 cloth 】 and 【 clothes 】 don't 【 expire 】, they only 【 go out of date 】. 布料和衣服不会过期，只会过时 】**
 - // -- cloth 布料 n
 - // -- clothes 衣服 n
@@ -741,6 +759,12 @@
 - **【 His 【 creative inspiration 】 comes from the 【 out of date 】 art. 他的创作灵感来自过时的艺术 】**
 -
 - [EE.]
-- `【 inspire potential. 激发潜能 n 】`
+- `【 inspire potential. 激发潜能 n 】` // ---- potential 潜能 潜力 n / 潜在的 adj
 - `【 inspire curiosity. 激发好奇心 v 】`
-- **【 【 Inspiring curiosity 】 can 【 inspire 】. 激发好奇心能激发潜能 】**
+- **【 【 Inspiring curiosity 】 can 【 inspire 】potential. 激发好奇心能激发潜能 】**
+-
+- [FF.]
+- `【 inspire potential. 激发潜能  】`
+- `【 potential customer. 潜在客户 】`
+- > 【 potential 潜在的 adj / 潜力 潜能 n 】
+- **【 Please 【 inspire your potential 】 to find your 【 potential customer 】. 请激发潜能去寻找你的潜在客户 】**

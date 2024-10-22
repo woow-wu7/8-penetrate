@@ -1130,4 +1130,12 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 6
 让我用预览版本给你演示
+
+
+7
+如果你没有心情学习，请发泄情绪，这样才能拥有好心情
+
+
+8
+请激发潜能去寻找你的潜在客户
 ```

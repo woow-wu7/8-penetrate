@@ -26,6 +26,9 @@ invalid 无效的
 drink -> drunk
 drunk 喝 喝酒 喝醉的 醉汉
 -
+lay off. 裁员 v
+layoff 裁员 n
+-
 // -- 1. This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
 // -- 1. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
 // -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
@@ -98,9 +101,9 @@ community 社区 n
 
 5.
 fantastic 极好的 好极了 adj
-// 【 fantastic opportunity. 极好的机会 】
-// 【 seize opportunity. 抓住机会 】
-// 【 cherish opportunity. 珍惜机会 】
+// 【 fantastic opportunity. 极好的机会 】 // ---- fantastic
+// 【 seize opportunity. 抓住机会 】 // ---------- seize
+// 【 cherish opportunity. 珍惜机会 】 // -------- cherish
 【 fantastic idea. 极好的主意 】
 -
 【 seize 抓住 v 】
@@ -113,7 +116,7 @@ fantastic opportunity. 极好的机会
 seise the possibility. 抓住机会
 cherish the possibility. 珍惜机会
 -
-// -- 1. I think this is a 【 fantastic opportunity, 】 so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
+// -- 1. I think this is a 【 fantastic opportunity 】, so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
 // -- 2. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
 // -- 3. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
 // -- 4.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
@@ -158,6 +161,7 @@ obey 服从 遵守 v
 -
 【 expiration time. 过期时间 】
 【 be about to expire. 即将过期 】
+-
 【 be about to. 即将 】 // -------- 紧迫性, will没有紧迫性 // 【 be about to expire. 即将过期 】
 -
 expire 过期 v
@@ -226,6 +230,18 @@ demonstration 演示 n
 -
 // -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
+
+
+13.
+good mood. 好心情
+in the mood. 有心情
+-
+【 be in the mood to do sth. 有心情做某事 】
+-
+【 vent emotion. 发泄情绪 】
+-
+// -- I 【 am not in the mood to 】 watch the movie. 我没有心情看电影
+// -- If you 【 are not in the mood to 】 study, 【 vent your emotions 】, then you can have a 【 good mood 】. 如果你没有心情学习，发泄你的情绪，那么你可以有一个好心情
 
 
 
