@@ -93,8 +93,9 @@ community 社区 n
 【 on weekends. 在周末 --- 泛指每个周末 】
 【 on the weekend. ------ 特指某一个周末 】
 -
-// -- 1. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
-// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
+// -- 1. everyone should 【 participate in 】 the 【 simulated training 】 and 【 simulated examination 】 in the 【 learning community 】 with her 【 on weekends 每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试 】.
+// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
+// -- 3. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
 // ---- 【 on weekends. 在周末 --- 泛指每个周末 】
 // ---- 【 on the weekend. ------ 特指某一个周末 】
 

@@ -1101,7 +1101,7 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 他承受了巨大的压力
 ```
 
-##### 13 Make sentences 2024-10-21
+##### 13 Make sentences 2024-10-22
 
 ```
 1
@@ -1138,4 +1138,8 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 8
 请激发潜能去寻找你的潜在客户
+
+
+9
+每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试
 ```
