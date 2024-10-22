@@ -1142,4 +1142,8 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 9
 每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试
+
+
+10
+晋升这名优秀的员工一个绝佳的选择，因为她的学习成绩是满分
 ```

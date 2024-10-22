@@ -528,6 +528,10 @@
 - `at a certain stop. 在某一站` // certain 某 某事 某事 某人
 - `at a certain point. 在某一时刻`
 - `As the years go by, I'm more into the issues. 随着时间流逝，我就越接近这个问` // go by. 时间流逝 过去
+- // --【 Due to 】 【 certain 】 【 factors 】, we need to 【 refactor 】 the project. 由于某些因素，我们需要重构这个项目
+- // --【 Certain 】 food 【 additives 】 are 【 toxic 】. 某些视频添加剂有毒
+- // -- 【 certain factors. 某些因素 n 】
+- // -- 【 food additives. 食品添加剂 n 】
 -
 -
 - `hail 冰雹n 招手v`

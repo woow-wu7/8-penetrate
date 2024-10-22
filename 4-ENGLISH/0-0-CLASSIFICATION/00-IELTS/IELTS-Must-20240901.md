@@ -201,7 +201,7 @@
 - **【 【 Social status 】 is very important in 【 modern society 】. 社会地位在现代社会中很重要 】**
 -
 - [FF.]
-- `【 contradict 反驳 v 】`
+- `【 contradict 矛盾 反驳 v 】`
 - `【 contradiction 矛盾 n 】`
 - `【 internal contradiction. 内部矛盾 n 】`
 - `【 family contradiction. 家庭矛盾 n 】`

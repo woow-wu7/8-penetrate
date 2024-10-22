@@ -24,8 +24,14 @@
 -
 - `【 academic 学习的 学术的 adj 】` // -------------------- 【 academic performance. 学习成绩 】 【 academic research. 学术研究 】
 - `【 economic 经济的 adj 】` // -------------------------- 【 economic crisis. 】 【 economic recession. 】 【 economic structure. 】 【 economy / economic 】
-- > 【 academic performance. 学习成绩 n 】
+- > 【 academic performance. 学习成绩 n 】 ---------------- _【 full marks. 满分 】_
 - > 【 academic research. 学术研究 n 】
+- > 【 This is an 【 excellent choice 】 for 【 promoting 】 the 【 excellent employee 】, because her 【 academic performance 】 is 【 full marks 】. 】
+- > -- [excellent-choice./绝佳的选择]
+- > -- [excellent-employee./优秀的员工]
+- > -- [academic-performance./学习成绩]
+- > -- [full-marks./满分]
+- > -- [promote-促进-提升-v/promotion-提升-n]
 - _【 economic structure. 经济结构 】_
 - _【 economic crisis. 经济危机 】_ // ---------------------【 political crisis. 政治危机 n 】 【 financial crisis. 金融危机 n 】 【 economic crisis. 】
 - _【 economic recession. 经济衰退 】_

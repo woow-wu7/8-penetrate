@@ -87,6 +87,10 @@ practical 真实的 实际的 实用的 adj
 participate 参加 参与 v
 【 participate in. 参加... 】
 -
+【 without exception. 毫无例外 】
+except 除了 // ---------------- except for. 除了
+exception 例外 除外 n // ------ 【 without exception. 毫无例外 】
+-
 community 社区 n
 【 learning community. 社区学习 】
 -
@@ -94,8 +98,9 @@ community 社区 n
 【 on the weekend. ------ 特指某一个周末 】
 -
 // -- 1. everyone should 【 participate in 】 the 【 simulated training 】 and 【 simulated examination 】 in the 【 learning community 】 with her 【 on weekends 每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试 】.
-// -- 2. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
-// -- 3. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
+// -- 2. 【 Without exception 】, every students must 【 participate in 】 this meeting. 毫无例外，每个学生都必须参加这个会议
+// -- 3. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
+// -- 4. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
 // ---- 【 on weekends. 在周末 --- 泛指每个周末 】
 // ---- 【 on the weekend. ------ 特指某一个周末 】
 
@@ -179,7 +184,11 @@ expiration 过期 n
 8.
 get along with sb. 与某人相处
 -
+contradict 矛盾 反驳 v
+contradictory 矛盾的 adj
 contradiction 矛盾 m
+// The two sentences are 【 contradictory 】. 这两句话前后矛盾
+-
 【 internal contradiction 内部矛盾 n 】
 【 family contradiction 家庭矛盾 n 】
 【 social contradiction 社会矛盾 n 】
@@ -250,6 +259,17 @@ in the mood. 有心情
 // -- I 【 am not in the mood to 】 watch the movie. 我没有心情看电影
 // -- If you 【 are not in the mood to 】 study, 【 vent your emotions 】, then you can have a 【 good mood 】. 如果你没有心情学习，发泄你的情绪，那么你可以有一个好心情
 
+
+14.
+【 excellent choice. 绝佳的选择 】
+【 excellent employee. 优秀的员工 】
+-
+【 academic performance. 学习成绩 】
+【 full marks. 满分 】
+-
+excellent 出色的 优秀的 adj
+-
+// -- This is an 【 excellent choice 】 for 【 promoting 】 the 【 excellent employee 】, because her 【 academic performance 】 is 【 full marks 】. 晋升这名优秀的员工一个绝佳的选择，因为她的学习成绩是满分
 
 
 one more time. 再一次
