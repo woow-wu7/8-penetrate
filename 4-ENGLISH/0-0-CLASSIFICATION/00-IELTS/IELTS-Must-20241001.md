@@ -774,3 +774,25 @@
 - `【 potential customer. 潜在客户 】`
 - > 【 potential 潜在的 adj / 潜力 潜能 n 】
 - **【 Please 【 inspire your potential 】 to find your 【 potential customer 】. 请激发潜能去寻找你的潜在客户 】**
+
+###### Must 2024-10-24
+
+- 1
+- `【 desert 沙漠 n 】`
+- `【 dessert 甜点 n 】`
+- `【 assert 断言 v 】`
+- `【 insert 插入 v 】`
+-
+- `【 subvert 颠覆 v 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
+- // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
+- // TIPS: Pay attention to the pronunciation of the word "assert". [assert-断言-v]
+-
+- 【AA.】
+- `【 assert 断言 v 】`
+- `【 desert 沙漠 n 】`
+- `【 dessert 甜点 n 】`
+- > 【 premature 过早地 adj 】
+- > 【 prematurely 过早地 adv 】
+- **【 Please don't 【 prematurely 】 【 assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要过早地断言沙漠中没有甜点 】**

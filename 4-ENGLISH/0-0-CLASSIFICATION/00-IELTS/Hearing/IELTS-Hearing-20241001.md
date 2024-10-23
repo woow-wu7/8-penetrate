@@ -80,6 +80,7 @@ practical 真实的 实际的 实用的 adj
 【 practical examples. 实际的例子 】
 -
 follow-up plot. 后续情节 // -------------------------- 【 plot 情节 】 【 parking lot. 停车场 】
+follow-up process. 后续流程
 follow-up meeting. 后续会议
 follow-up action. 后续行动
 follow-up question. 后续问题
@@ -91,6 +92,7 @@ garage 车库
 -
 // -- 1. The 【 follow-up plots 】 of the story 【 are all based on 】 the 【 practical experience 】 of the 【 practical life 】. 后续情节都是根据实际生活的实际经验
 // -- 2. The 【 follow-up actions 】 need to according to the 【 practical experience 】 of the 【 practical life 】. 后续行动需要根据实际生活中的实际经验
+// -- 3. Is there any 【 follow-up 】? 有任何后续吗？
 // -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
 // -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
 // -- 实用的: this good is 【 practical 】. 这种好东西很实用
@@ -304,6 +306,33 @@ excellent 出色的 优秀的 adj
 // -- This is an 【 excellent choice 】 for 【 promoting 】 the 【 excellent employee 】, because her 【 academic performance 】 is 【 full marks 】. 晋升这名优秀的员工一个绝佳的选择，因为她的学习成绩是满分
 
 
+15.
+dessert 甜点
+desert 沙漠n
+assert 断言
+-
+【 complimentary dessert. 免费甜点 】
+-
+prematurely assert. 过早地断言
+-
+// TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
+// TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
+// TIPS: Pay attention to the pronunciation of the word "assert". [assert-断言-v]
+-
+// --【 Please don't 【 prematurely 】 【 assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要过早地断言沙漠中没有甜点 】
+// -- There are no 【 desserts 】 in the 【 desert 】. 沙漠中没有甜点
+
+
+
+complimentary 免费的 = free.
+-
+wine 红酒 葡萄酒 n
+-
+【 complimentary dessert. 免费甜点 】
+【 complimentary glass of wine. 一杯免费的葡萄酒 】
+
+
+
 one more time. 再一次
 // -- Let sing that song 【 one more time 】. 让我们再唱一次那首歌
 
@@ -315,16 +344,9 @@ fancy 奢华的adj 幻想
 may I take your order? 您要点菜吗？
 meatball 肉丸
 English podcast. 英语播客
-
-
-complimentary 免费的 = free.
-【 complimentary dessert. 免费甜点 】
-【 complimentary glass of wine. 一杯免费的葡萄酒 】
-// -- desert 沙漠 n
-// -- dessert 甜点 n
-// -- wine 红酒 葡萄酒 n
-// TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
-// TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
+// meat 肉 n
+// meal 一餐 n
+// beef 牛肉 n
 
 
 definitely 肯定的 adv
