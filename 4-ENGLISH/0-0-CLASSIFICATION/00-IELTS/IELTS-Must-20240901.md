@@ -87,12 +87,15 @@
 
 - 1
 - `【 internship 实习 实习期 n 】` // -----------【 internship position. 实习岗 】 【 intern 实习生 】
-- `【 scholarship 奖学金 n 】` // ------------- 【 full scholarship. 全额奖学金 n 】 【 scholar 学者 n 】
+- `【 scholarship 奖学金 n 】` // ------------- 【 full scholarship. 全额奖学金 n 】 【 scholar 学者 n 】 // _【 full marks. 满分 】_ _【 full scholarship. 】_
 - > 【 internship position. 实习岗 n 】
 - > 【 internship 实习期 n 实习 n 】
 - > 【 intern 实习生 n 】 // ------------------ 【 graduate 毕业生 n / 毕业 v 】
 - > 【 internal 内部的 adj 】 // -------------- `【 internal contradiction. 内部矛盾 n 】` 【 social contradiction. 社会矛盾 n 】 【 family contradiction. 】
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
+- // full scholarship. 全额奖学金
+- // full marks. 满分
+- // academic performance. 学习成绩
 - _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】 【 family contradiction. 家庭矛盾 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
@@ -201,7 +204,7 @@
 - **【 【 Social status 】 is very important in 【 modern society 】. 社会地位在现代社会中很重要 】**
 -
 - [FF.]
-- `【 contradict 反驳 v 】`
+- `【 contradict 矛盾 反驳 v 】`
 - `【 contradiction 矛盾 n 】`
 - `【 internal contradiction. 内部矛盾 n 】`
 - `【 family contradiction. 家庭矛盾 n 】`
