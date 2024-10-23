@@ -1101,7 +1101,7 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 他承受了巨大的压力
 ```
 
-##### 13 Make sentences 2024-10-22
+##### 13 Make sentences 2024-10-23
 
 ```
 1
@@ -1146,4 +1146,16 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 10
 晋升这名优秀的员工一个绝佳的选择，因为她的学习成绩是满分
+
+
+11
+故事的后续情节都是根据实际生活的实际经验
+
+
+12
+请用简短和简洁的语言来回答这个关于牛肉的问题
+
+
+13
+好的氛围和坏的氛围可以让人有不同的情绪和心情
 ```

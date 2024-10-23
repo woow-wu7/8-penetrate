@@ -14,10 +14,10 @@ nutrition 营养 n
 【 drunk driving. 酒驾 n 】 // --------- 【 drink -> drunk 】
 -
 【 expiration time. 过期时间 】
-【 expired dumpling. 过期的饺子 】
-【 be about to expire. 即将过期 】
+【 expired dumpling. 过期的饺子 】 // --- 【 Please dump the expired dumpling into the garbage bin. 】
+【 be about to expire. 即将过期 】 // -- 【 According to the expiration time to judge, the food is about to expire. 】
 -
-valid 有效的 adj
+valid 有效的 adj // -------------------- The offer is 【 valid 】 before the end of this month.
 invalid 无效的
 【 be about to. 即将 】
 【 be about to expire. 即将过期 】
@@ -29,11 +29,12 @@ drunk 喝 喝酒 喝醉的 醉汉
 lay off. 裁员 v
 layoff 裁员 n
 -
-// -- 1. This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
-// -- 1. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
+// -- 1.[involve]: This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
+// -- 1.[involve]: Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
 // -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
-// -- 3. 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
-// -- 4. Two people 【 are involved 】. 涉及两人
+// -- 3.[involve]:【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
+// -- 4.[involve]: Two people 【 are involved 】. 涉及两人
+// -- 5.[valid]: The offer is 【 valid 】 before the end of this month. 这个offer在这个月底前有效
 // --【 This man was 【 involved 】 in 【 drunk driving 】 accident. 这个男人涉及到一起酒驾事故
 // ---- 【 drunk driving. 酒驾 】
 // ---- 【 this round of. 这一轮 】
@@ -49,17 +50,17 @@ casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 【 casual conversation. 随意的谈话 】= small talk. = free talk.
 【 casual dialog. 随意的对话 】
 【 casual pants. 休闲裤 】
-【 casual job. 零工 = casual work. 】
+【 casual job. 零工 = casual work. 】// ---------- casual job. = odd job. = temporary job. = part-time job.
 -
 【 odd job. 零工 】
 【 temporary job. 临时工作 】
 【 part-time worker. 兼职工做 】
-【 casual job. = casual work. 临时工作 】 // ------ casual job. = odd job. = temporary job. = part-time job.
+【 casual job. = casual work. 临时工作 】 // ----- casual job. = odd job. = temporary job. = part-time job.
 -
 【 on weekends. 在周末 --- 泛指每个周末 】
 【 on the weekend. ------ 特指某一个周末 】
 -
-【 warehouse 仓库 n 】 // ------------------------- ware 器皿
+【 warehouse 仓库 n 】 // ------------------------ ware 器皿
 【 repository 仓库 贮藏室 n 】
 【 inventory 库存 n 】 // ------------------------ 【 take inventory. 盘点库存 】 【 inventory list. 库存清单 n 】
 【 factory 工厂 n 】
@@ -77,10 +78,25 @@ practical 真实的 实际的 实用的 adj
 【 practical experience. 实际经验 】
 【 practical life. 实际的生活 】
 【 practical examples. 实际的例子 】
+-
+follow-up plot. 后续情节 // -------------------------- 【 plot 情节 】 【 parking lot. 停车场 】
+follow-up meeting. 后续会议
+follow-up action. 后续行动
+follow-up question. 后续问题
+-
+plot 情节 // ---------------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
+parking lot. 停车场
+parking spot. 停车位
+garage 车库
+-
+// -- 1. The 【 follow-up plots 】 of the story 【 are all based on 】 the 【 practical experience 】 of the 【 practical life 】. 后续情节都是根据实际生活的实际经验
+// -- 2. The 【 follow-up actions 】 need to according to the 【 practical experience 】 of the 【 practical life 】. 后续行动需要根据实际生活中的实际经验
 // -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
 // -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
 // -- 实用的: this good is 【 practical 】. 这种好东西很实用
 // TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
+// --- 【 outlook 前景 人生观 世界观 n 】
+// --- 【 follow-up. 后续的 adj 】
 
 
 4.
@@ -88,7 +104,7 @@ participate 参加 参与 v
 【 participate in. 参加... 】
 -
 【 without exception. 毫无例外 】
-except 除了 // ---------------- except for. 除了
+except 除了 // --------------- 【 except for. 除了 】
 exception 例外 除外 n // ------ 【 without exception. 毫无例外 】
 -
 community 社区 n
@@ -97,7 +113,7 @@ community 社区 n
 【 on weekends. 在周末 --- 泛指每个周末 】
 【 on the weekend. ------ 特指某一个周末 】
 -
-// -- 1. everyone should 【 participate in 】 the 【 simulated training 】 and 【 simulated examination 】 in the 【 learning community 】 with her 【 on weekends 每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试 】.
+// -- 1. everyone should 【 participate in 】 the 【 simulated training 】 and 【 simulated examination 】 in the 【 learning community 】 with her 【 on weekends 】. 每个人都应该在周末和她一起参加学习社区里的模拟训练和模拟考试 】.
 // -- 2. 【 Without exception 】, every students must 【 participate in 】 this meeting. 毫无例外，每个学生都必须参加这个会议
 // -- 3. I like to 【 participate in 】 the 【 learning community 】 【 with her 】 【 on weekends 】. 我和喜欢和她在周末参加一起参加学习社区
 // -- 4. I like to 【 participate in 】 the 【 learning community 】 【 on weekends 】. 我喜欢在周末参加学习社区
@@ -122,6 +138,8 @@ fantastic opportunity. 极好的机会
 seise the possibility. 抓住机会
 cherish the possibility. 珍惜机会
 -
+【 cheer for. 为...加油 】
+-
 // -- 1. I think this is a 【 fantastic opportunity 】, so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
 // -- 2. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
 // -- 3. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
@@ -129,7 +147,9 @@ cherish the possibility. 珍惜机会
 // ---- 【 cherish 珍惜 v 】
 // ---- 【 cherish opportunity. 珍惜机会 】
 // ---- 【 cherish time. 珍惜时间 】
-// ---- // cheer 欢呼 喝彩
+// ---- cheer 欢呼 喝彩
+// ---- cheer for. 为...加油
+// ---- Which team do you 【 cheer for 】? 你为哪个队加油
 
 
 
@@ -216,9 +236,14 @@ take a look at. 看一看
 10.
 brief 简短的 adj
 concise 简洁的 adj
+-
 【 concise language. 简洁的语言 】
 【 in concise language. 用简洁的语言 】
-// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题
+-
+beef 牛肉 n // --------------------------- 【 beef steak. 牛排 】
+brief 简洁的 adj
+-
+// -- 1. Please use 【 brief 】 and 【 concise 】 language to answer this question about 【 beef 】. 请用简短和简洁的语言来回答这个关于牛肉的问题
 // -- 2. Please answer this question 【 in 】 【 concise 】 language. 请用简洁的语言回答这个问题
 // TIPS: Pay attention to the pronunciation of the word "concise". [concise-简洁的-adj]
 
@@ -227,7 +252,14 @@ concise 简洁的 adj
 vibe 气氛 【 氛围 】
 【 good vibe. 好的氛围 】
 【 bad vibe. 坏的环境 】
-// -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】.  好的氛围和坏的氛围可以让人有不同的情绪 】
+-
+mood 心情 // --------------------------- 【 in the mood. 有心情 】 // I am in a good mood.
+emotion 情绪
+// vent emotion. // control emotion. // express emotion.
+// emotional quotient. // intelligence quotient.
+// TIPS: Pay attention to the pronunciation of the word "mood". [mood-心情-n]
+-
+// -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】and 【 mood 】.  好的氛围和坏的氛围可以让人有不同的情绪和心情 】
 // ---- 【 emotion 情绪 】
 // ---- 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情绪 】
 // ---- 【 emotional quotient. 情商 】EQ
