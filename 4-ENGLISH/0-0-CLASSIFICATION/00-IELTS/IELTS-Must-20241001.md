@@ -778,15 +778,19 @@
 ###### Must 2024-10-24
 
 - 1
-- `【 desert 沙漠 n 】`
-- `【 dessert 甜点 n 】`
+- `【 desert 沙漠 n 】` // ----------------- 【 desert island. 荒岛 n 】 【 desert landscape. 沙漠景观 n 】
+- `【 dessert 甜点 n 】` // ---------------- 【 dessert wine. 甜酒 n 】
 - `【 assert 断言 v 】`
 - `【 insert 插入 v 】`
 -
-- `【 subvert 颠覆 v 】` // ------- 【 subvert imagine. 颠覆想象 】 【 subvert cognition. 颠覆认知 】
+- `【 subvert 颠覆 v 】` // ----------------- 【 subvert imagination. 颠覆想象 】 【 subvert cognition. 颠覆认知 】
+- `【 invert 颠倒 倒置 反转 v 】`
+- `【 convert 转变 转换 v 】`
+- `【 introvert 内向的人n 内向的adj 】` // --- 【 introvert / extrovert 】
 - > 【 subvert cognition. 颠覆认知 】
-- > 【 subvert imagine. 颠覆想象 】
-- _【 imagine 想象 v 】_
+- > 【 subvert imagination. 颠覆想象 】
+- _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
+- _【 imagination 想象 n 】_
 - _【 image 形象 图像 n 】_
 - // 【 impression 印象 n 】
 -
