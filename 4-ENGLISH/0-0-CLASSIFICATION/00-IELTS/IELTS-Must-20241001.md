@@ -783,16 +783,39 @@
 - `【 assert 断言 v 】`
 - `【 insert 插入 v 】`
 -
-- `【 subvert 颠覆 v 】`
+- `【 subvert 颠覆 v 】` // ------- 【 subvert imagine. 颠覆想象 】 【 subvert cognition. 颠覆认知 】
+- > 【 subvert cognition. 颠覆认知 】
+- > 【 subvert imagine. 颠覆想象 】
+- _【 imagine 想象 v 】_
+- _【 image 形象 图像 n 】_
+- // 【 impression 印象 n 】
 -
 - // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
 - // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
 - // TIPS: Pay attention to the pronunciation of the word "assert". [assert-断言-v]
+- // TIPS: Pay attention to the pronunciation of the word "insert". [insert-插入-v]
+- // TIPS: Pay attention to the pronunciation of the word "imagine". [imagine-想象-v]
+- // TIPS: Pay attention to the pronunciation of the word "imagination". [imagination-想象-n]
+- // TIPS: Pay attention to the pronunciation of the word "image". [image-图像-形象-n]
 -
 - 【AA.】
 - `【 assert 断言 v 】`
 - `【 desert 沙漠 n 】`
 - `【 dessert 甜点 n 】`
-- > 【 premature 过早地 adj 】
-- > 【 prematurely 过早地 adv 】
-- **【 Please don't 【 prematurely 】 【 assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要过早地断言沙漠中没有甜点 】**
+- **【 Please don't 【 assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要断言沙漠中没有甜点 】**
+-
+- [BB.]
+- `【 assert 断言 v 】`
+- `【 cut in line. 插队 】`
+- > 【 line up. 排队 】 // ----------- queue up. = line up.
+- > 【 cut in line. 插队 】// -------- cut in queue = cut in line.
+- **【 I 【 assert 】 that someone will 【 cut in line 】 today. 我断言，今天有人会插队 】**
+- **【 Please 【 line up 】, don't 【 cut in line 】. 请排队，不要插队 】**
+- **【 Please【 queue up 】, don't 【 cut in queue 】. 请排队，不要插队 】**
+-
+- [CC.]
+- `【 subvert 颠覆 v 】` // ---------- subvert cognition. 颠覆认知
+- `【 actually 事实上 居然 v 】`
+- `【 dessert 甜点 n 】`
+- `【 desert 沙漠 n 】`
+- **【 This 【 subverts 】 my 【 imagination 】, there are 【 actually 】 【 desserts 】 and 【 sweaters 】 in the 【 desert 】. 这颠覆了我的想象，沙漠中居然有甜点和毛衣 】**

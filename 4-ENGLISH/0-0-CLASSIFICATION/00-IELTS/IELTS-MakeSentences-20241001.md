@@ -1101,7 +1101,7 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 他承受了巨大的压力
 ```
 
-##### 13 Make sentences 2024-10-23
+##### 14 Make sentences 2024-10-23
 
 ```
 1
@@ -1162,4 +1162,19 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 14
 沙漠中没有甜点
+```
+
+##### 15 Make sentences 2024-10-24
+
+```
+1
+我断言，今天有人会插队
+-
+请排队，不要插队
+-
+请不要断言沙漠中没有甜点
+
+
+2
+这颠覆了我的想象，沙漠中居然有甜点和毛衣
 ```

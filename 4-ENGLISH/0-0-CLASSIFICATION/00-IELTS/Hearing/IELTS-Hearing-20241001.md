@@ -88,7 +88,7 @@ follow-up question. 后续问题
 plot 情节 // ---------------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
 parking lot. 停车场
 parking spot. 停车位
-garage 车库
+【 garage 车库 】
 -
 // -- 1. The 【 follow-up plots 】 of the story 【 are all based on 】 the 【 practical experience 】 of the 【 practical life 】. 后续情节都是根据实际生活的实际经验
 // -- 2. The 【 follow-up actions 】 need to according to the 【 practical experience 】 of the 【 practical life 】. 后续行动需要根据实际生活中的实际经验
@@ -97,6 +97,7 @@ garage 车库
 // -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
 // -- 实用的: this good is 【 practical 】. 这种好东西很实用
 // TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
+// TIPS: Pay attention to the pronunciation of the word "garage". [garage-车库-n]
 // --- 【 outlook 前景 人生观 世界观 n 】
 // --- 【 follow-up. 后续的 adj 】
 
@@ -106,8 +107,8 @@ participate 参加 参与 v
 【 participate in. 参加... 】
 -
 【 without exception. 毫无例外 】
-except 除了 // --------------- 【 except for. 除了 】
-exception 例外 除外 n // ------ 【 without exception. 毫无例外 】
+except 除了 // --------------------- 【 except for. 除了 】
+exception 【 例外 】 除外 n // ------ 【 without exception. 毫无例外 】
 -
 community 社区 n
 【 learning community. 社区学习 】
@@ -127,7 +128,7 @@ community 社区 n
 fantastic 极好的 好极了 adj
 // 【 fantastic opportunity. 极好的机会 】 // ---- fantastic
 // 【 seize opportunity. 抓住机会 】 // ---------- seize
-// 【 cherish opportunity. 珍惜机会 】 // -------- cherish
+// 【 cherish opportunity. 珍惜机会 】 // -------- cherish // --------- 【 cherish time. 珍惜时间 】 【 cherish opportunity. 珍惜机会 】
 【 fantastic idea. 极好的主意 】
 -
 【 seize 抓住 v 】
@@ -270,7 +271,9 @@ emotion 情绪
 
 12.
 preview 预览 预演
-demonstrate 演示 示范 v // demonstration 示范 n
+demonstrate 演示 示范 v  // ------------ 【 Let me demonstrate it to you in advance. 让我提前给您演示 】
+demonstration 示范 n
+-
 【 preview mode. 预览模式 】
 【 preview version. 预览版本 】
 -
@@ -279,6 +282,7 @@ demonstrate 演示 v
 demonstration 演示 n
 -
 // -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
+// -- Let me 【  】 it to you in advance. 让我提前给您演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
 
 
