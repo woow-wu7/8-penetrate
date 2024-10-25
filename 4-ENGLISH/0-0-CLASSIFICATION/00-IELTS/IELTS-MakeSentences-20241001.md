@@ -1168,11 +1168,26 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 ```
 1
+I 【 assert 】 that someone will 【 cut in line 】today.
 我断言，今天有人会插队
 -
+Please 【 line up 】, don't 【 cut in line 】.
+Please 【 queue up 】, don't 【 cut in queue 】.
 请排队，不要插队
 -
+Please don't 【  publicly assert 】 that there are no 【 desserts 】 in the 【 desert 】.
 请不要公开地断言沙漠中没有甜点
+-
+// -
+// 【 assert 断言 v 】
+// 【 publicly assert. 公开地断言 】
+// -
+// assert 断言 v
+// dessert 甜点 n
+// 【 desert 沙漠 n / 抛弃 v 】
+// -
+// line up. = queue up. 排队
+// cut in line. = cut in queue. 插队
 
 
 2
@@ -1204,4 +1219,14 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 // 【 absolutely 绝对地 竟然 adv 】
 // -
 // 【 invert = reverse. 反转 v 】
+
+
+4
+内向的人喜欢喝米酒和甜酒
+
+
+5
+他高大的形象令我印象深刻
+-
+在你旅游途中，有什么景点令你印象深刻吗？
 ```

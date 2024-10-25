@@ -800,7 +800,8 @@
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
 - _【 imagination 想象 n 】_
-- _【 image 形象 图像 n 】_ // --------------- 【 impression 印象 n 】
+- _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】
+- // 【 impression 印象 n 】
 - > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】
 - > 【 cognitive 认知的 adj 】// -------------【 cognitive ability. 认知能力 】
 -
@@ -846,3 +847,15 @@
 - **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】. 把手机从横屏模式切成竖屏模式后，剧情居然反转了 】**
 - // -- 【 plot hole. 情节漏洞 n 】
 - // -- 【 follow-up plot. 后续情节 n 】
+-
+- [EE.]
+- `【 rice wine. 米酒 n 】`
+- `【 dessert wine. 甜酒 n 】`
+- `【 introvert 内向的 adj / 内向的人 】`
+- **【 【 Introverts 】 like to drink 【 rice wine 】 and 【 dessert wine 】. 内向的人喜欢喝米酒和甜酒 】**
+-
+- [FF.]
+- `【 image 形象 图像 n 】`
+- `【 impress 给…留下深刻印象 v 】`
+- **【 His tall 【 image 】 【 impresses 】 me deeply. 他高大的形象令我印象深刻 】**
+- **【 Are there any tourist attractions that 【 impressed 】 you deeply 【 in your travels 】? 在你旅游途中，有什么景点令你印象深刻吗？ 】**
