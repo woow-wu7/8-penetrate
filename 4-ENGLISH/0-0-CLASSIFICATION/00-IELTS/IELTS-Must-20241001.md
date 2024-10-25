@@ -779,20 +779,30 @@
 
 - 1
 - `【 desert 沙漠 n 】` // ----------------- 【 desert island. 荒岛 n 】 【 desert landscape. 沙漠景观 n 】
-- `【 dessert 甜点 n 】` // ---------------- 【 dessert wine. 甜酒 n 】
-- `【 assert 断言 v 】`
+- `【 dessert 甜点 n 】` // ---------------- 【 dessert wine. 甜酒 n 】 【 rice wine. 米酒 n 】
+- `【 assert 断言 v 】` // ----------------- 【 publicly assert. 公开断言 v 】
 - `【 insert 插入 v 】`
+- > 【 desert island. 荒岛 n 】
+- > 【 desert landscape. 沙漠景观 n 】 // --- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
+- _【 landscape mode. 横屏模式 n 】_ // ------ [ desert landscape. 沙漠景观 n ]
+- _【 portrait mode. 竖屏模式 n 】_
+- _【 speaker mode. 外放模式 / 扬声器模式 n 】_
+- _【 silent mode. 静音模式 n 】_ // -------- 【 silent 沉默的 安静的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
+- > 【 dessert wine. 甜酒 n 】
+- > 【 rice wine. 米酒 n 】
 -
 - `【 subvert 颠覆 v 】` // ----------------- 【 subvert imagination. 颠覆想象 】 【 subvert cognition. 颠覆认知 】
-- `【 invert 颠倒 倒置 反转 v 】`
+- `【 invert 颠倒 倒置 反转 v 】` // --------- 【 invert = reverse. 反转 v 】
 - `【 convert 转变 转换 v 】`
 - `【 introvert 内向的人n 内向的adj 】` // --- 【 introvert / extrovert 】
 - > 【 subvert cognition. 颠覆认知 】
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
 - _【 imagination 想象 n 】_
-- _【 image 形象 图像 n 】_
-- // 【 impression 印象 n 】
+- _【 image 形象 图像 n 】_ // --------------- 【 impression 印象 n 】
+- > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】
+- > 【 cognitive 认知的 adj 】// -------------【 cognitive ability. 认知能力 】
 -
 - // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
 - // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
@@ -802,15 +812,17 @@
 - // TIPS: Pay attention to the pronunciation of the word "imagination". [imagination-想象-n]
 - // TIPS: Pay attention to the pronunciation of the word "image". [image-图像-形象-n]
 -
-- 【AA.】
+- [AA.]
 - `【 assert 断言 v 】`
 - `【 desert 沙漠 n 】`
 - `【 dessert 甜点 n 】`
-- **【 Please don't 【 assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要断言沙漠中没有甜点 】**
+- > public assert. 公开的断言
+- **【 Please don't 【 publicly assert 】 that there are no 【 desserts 】 in the 【 desert 】. 请不要公开地断言沙漠中没有甜点 】**
 -
 - [BB.]
 - `【 assert 断言 v 】`
-- `【 cut in line. 插队 】`
+- `【 cut in line. 插队 v 】`
+- `【 line up. 排队 v 】`
 - > 【 line up. 排队 】 // ----------- queue up. = line up.
 - > 【 cut in line. 插队 】// -------- cut in queue = cut in line.
 - **【 I 【 assert 】 that someone will 【 cut in line 】 today. 我断言，今天有人会插队 】**
@@ -818,8 +830,19 @@
 - **【 Please【 queue up 】, don't 【 cut in queue 】. 请排队，不要插队 】**
 -
 - [CC.]
-- `【 subvert 颠覆 v 】` // ---------- subvert cognition. 颠覆认知
-- `【 actually 事实上 居然 v 】`
+- `【 subvert 颠覆 v 】` // -------- 【 subvert cognition. 颠覆认知 】
+- `【 actually 事实上 居然 adv 】`
 - `【 dessert 甜点 n 】`
 - `【 desert 沙漠 n 】`
+- _【 actually 事实上 居然 adv 】_
 - **【 This 【 subverts 】 my 【 imagination 】, there are 【 actually 】 【 desserts 】 and 【 sweaters 】 in the 【 desert 】. 这颠覆了我的想象，沙漠中居然有甜点和毛衣 】**
+-
+- [DD.]
+- `【 landscape mode. 横屏模式 n 】` // desert landscape. 沙漠景观 n
+- `【 portrait mode. 竖屏模式 n 】`
+- `【 plot 情节 剧情 n 】`
+- `【 absolutely 绝对的 居然 adv 】`
+- `【 invert = reverse. 反转 v 】`
+- **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】. 把手机从横屏模式切成竖屏模式后，剧情居然反转了 】**
+- // -- 【 plot hole. 情节漏洞 n 】
+- // -- 【 follow-up plot. 后续情节 n 】

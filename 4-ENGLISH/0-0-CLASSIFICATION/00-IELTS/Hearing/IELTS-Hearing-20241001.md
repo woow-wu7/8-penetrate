@@ -79,16 +79,19 @@ practical 真实的 实际的 实用的 adj
 【 practical life. 实际的生活 】
 【 practical examples. 实际的例子 】
 -
-follow-up plot. 后续情节 // -------------------------- 【 plot 情节 】 【 parking lot. 停车场 】
+follow-up plot. 后续情节 // ------------------------ 【 plot hole. 情节漏洞 】 【 follow-up plot. 后续情节 】 // 【 plot 情节 剧情 n  】 【 parking lot. 】
 follow-up process. 后续流程
 follow-up meeting. 后续会议
 follow-up action. 后续行动
 follow-up question. 后续问题
 -
-plot 情节 // ---------------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
+plot 情节 剧情 n // -------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
 parking lot. 停车场
 parking spot. 停车位
 【 garage 车库 】
+-
+【 plot hole. 情节漏洞 n 】
+【 follow-up plot. 后续情节 n 】
 -
 // -- 1. The 【 follow-up plots 】 of the story 【 are all based on 】 the 【 practical experience 】 of the 【 practical life 】. 后续情节都是根据实际生活的实际经验
 // -- 2. The 【 follow-up actions 】 need to according to the 【 practical experience 】 of the 【 practical life 】. 后续行动需要根据实际生活中的实际经验
