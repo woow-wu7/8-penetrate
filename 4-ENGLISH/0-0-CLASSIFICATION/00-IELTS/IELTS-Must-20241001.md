@@ -32,6 +32,9 @@
 - > -- [academic-performance./学习成绩]
 - > -- [full-marks./满分]
 - > -- [promote-促进-提升-v/promotion-提升-n]
+- // 【 academic performance. 数学成绩 n 】
+- // 【 full marks. 满分 n 】
+- // 【 math score. 数学成绩 n 】
 - _【 economic structure. 经济结构 】_
 - _【 economic crisis. 经济危机 】_ // ---------------------【 political crisis. 政治危机 n 】 【 financial crisis. 金融危机 n 】 【 economic crisis. 】
 - _【 economic recession. 经济衰退 】_
@@ -99,6 +102,11 @@
 - `【 restore confidence. 恢复自信 】`
 - **【 If you don't do well 【 in 】 the 【 examination 】, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
 - // -- 【 make an effort to do sth. 努力做某事 】
+-
+- [FF.]
+- `【 math score. 数学成绩 n 】`
+- `【 full marks. 满分 n 】`
+- **【 His 【 math score 】 is 【 full marks 】. 他的数学成绩是满分 】**
 -
 
 ###### Must 2024-10-02

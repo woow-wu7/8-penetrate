@@ -274,9 +274,9 @@ emotion 情绪 // ------------------------ 【 vent emotion. 发泄情绪 】 �
 
 
 12.
-preview 预览 预演 // ------------------- 【 preview mode. 预览模式 n 】 【 preview version. 预览版本 n 】
 demonstrate 演示 示范 v  // ------------ 【 Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示 】
 demonstration 示范 n
+preview 预览 预演 // ------------------- 【 preview mode. 预览模式 n 】 【 preview version. 预览版本 n 】
 -
 【 preview mode. 预览模式 】
 【 preview version. 预览版本 】
@@ -285,8 +285,12 @@ demo 样品n 演示v
 demonstrate 演示 v
 demonstration 演示 n
 -
+advertise 打广告 v
+advertisement 广告 n
+-
+// -- Do you think to 【 demonstrate 】 product to your customer is a way to 【 advertise 】? 你认为向你的客户展示产品是一种打广告的方式吗？
 // -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
-// -- Let me 【  】 it to you in advance. 让我提前给您演示
+// -- Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
 
 
@@ -372,6 +376,8 @@ exact 精确的 准确的 adj
 magazine 杂志 n
 newspaper 报纸 n
 poster 海报 n
+advertisement 广告 n
+// advertise 打广告 v
 
 
 until then. 到那时
@@ -381,21 +387,39 @@ until then. 到那时
 ##### 2 Hearing 2024-10-19 [IELTS_HEARING_MUST_PODCAST][assistant]
 
 ```
+1
 【 understaffed 人手不足的 人员不足的 adj 】
+【 understaffed situation. 人手不足的情况 n 】
 -
 【 staff 工作人员 员工 n 】 -------- 不可数名词
 【 stuff 东西 物品 n 】 ----------- 不可数名词
 -
-// understaffed situation. 人员不足的情况
 // -- After the 【 secretary 】 【 quit 】, the office is 【 understaffed 】.  秘书离职后，办公室人员不足
 // -- 【 Staff 】 are not 【 stuff 】. 员工不是物品
+// -- 【 understaffed situation. 人员不足的情况 】
 
 
-【 weight off my shoulders. 如释重负 / 松了一口气 】
+2
+take on. 承担 雇用 v
+【 take on risk. 承担风险 】
+【 take on new staff. 招聘新员工 】= hire new staff. = employ new staff.
 -
-weight 重量 n
+risk 风险 n
+risky 风险的 adj
+-
+// -- 1. We should 【 take on 】 some 【 risks 】 to 【 take on 】 new 【 staff 】. 招聘新员工需要承担一定的风险
+// -- 2. It's too 【 risky 】 to 【 take on 】 new 【 staff 】. 招聘新员工风险太大
+
+
+3
+【 take the weight off your shoulders. 减轻你的负担 】 // -- 注意是 shoulders 复数.
+-
+weight 重量 n // ---------------------------------------- 【 lose weight. 减肥 】 【 gross weight. 毛重 总重 n  】
 weigh 称重 v
 scale 称 大小 规模 n
+-
+【 lose weight. 减肥 】
+【 gross weight. 总重 毛重 】
 -
 【 relieve 减轻 缓解 v 】
 【 relieve stress. 减轻压力 = relieve pressure. 】
@@ -403,8 +427,8 @@ scale 称 大小 规模 n
 -
 【 burden 负担 n 】
 -
-// -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
-// -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and 【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+// -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 took the weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
+// -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and takes the【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
 // -
 //  【 assist sb in doing sth. 协助某人做某事 】
 //  【 persist in doing sth. 坚持做某事 】
@@ -419,6 +443,26 @@ scale 称 大小 规模 n
 // 【 secretary 秘书 】
 // 【 steward 乘务员 】
 // 【 stewardess 空姐 】
+
+
+4
+【 reasonable 合理的 adj 】
+【 unreasonable 不合理的 adj 】
+// -- That sounds 【 reasonable 】. 听起来很合理
+// -- Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？
+// -- The 【 fare 】 for the bus trip is very 【 reasonable 】. 费用非常合理
+// -- We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】. 我们需要证明你的审批是合理的
+
+
+5
+literal 字面意思的 adj
+【 literal meaning. 字面意思 】
+【 actual meaning. 实际意思 】
+-
+liter 共升 n
+letter 信n 字母n
+-
+// -- The 【 literal meaning 】 of the word is different from its 【 actual meaning 】. 这个单词的字面意思和实际意思不一样
 
 
 gave me a hand. 帮我一下
