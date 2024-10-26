@@ -79,13 +79,13 @@ practical 真实的 实际的 实用的 adj
 【 practical life. 实际的生活 】
 【 practical examples. 实际的例子 】
 -
-follow-up plot. 后续情节 // ------------------------ 【 plot hole. 情节漏洞 】 【 follow-up plot. 后续情节 】 // 【 plot 情节 剧情 n  】 【 parking lot. 】
+follow-up plot. 后续情节 // ------------------- 【 plot hole. 情节漏洞 】 【 follow-up plot. 后续情节 】 // 【 plot 情节 剧情 n  】 【 parking lot. 】
 follow-up process. 后续流程
 follow-up meeting. 后续会议
 follow-up action. 后续行动
 follow-up question. 后续问题
 -
-plot 情节 剧情 n // -------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
+plot 情节 剧情 n // --------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】 【 plot hole. 情节漏洞 n 】
 parking lot. 停车场
 parking spot. 停车位
 【 garage 车库 】
@@ -99,10 +99,10 @@ parking spot. 停车位
 // -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
 // -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
 // -- 实用的: this good is 【 practical 】. 这种好东西很实用
-// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
-// TIPS: Pay attention to the pronunciation of the word "garage". [garage-车库-n]
 // --- 【 outlook 前景 人生观 世界观 n 】
 // --- 【 follow-up. 后续的 adj 】
+// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
+// TIPS: Pay attention to the pronunciation of the word "garage". [garage-车库-n]
 
 
 4.
@@ -147,9 +147,10 @@ cherish the possibility. 珍惜机会
 【 cheer for. 为...加油 】
 -
 // -- 1. I think this is a 【 fantastic opportunity 】, so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
-// -- 2. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
-// -- 3. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
-// -- 4.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
+// -- 2. Which team do you 【 cheer for 】? 你为哪个队加油
+// -- 3. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
+// -- 4. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
+// -- 5.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
 // ---- 【 cherish 珍惜 v 】
 // ---- 【 cherish opportunity. 珍惜机会 】
 // ---- 【 cherish time. 珍惜时间 】
@@ -162,7 +163,7 @@ cherish the possibility. 珍惜机会
 6.
 【 come with. 【 附带 】 伴随 】
 【 come down with. 染上（病） / 得了（病） 】
-【 comply with. 遵守 v 】 = obey服从遵守.
+【 comply with. 遵守 v 】 = obey 服从遵守.
 -
 sick 生病的 adj
 ill 生病的 adj
@@ -210,9 +211,9 @@ expiration 过期 n
 8.
 get along with sb. 与某人相处
 -
-contradict 矛盾 反驳 v
-contradictory 矛盾的 adj
 contradiction 矛盾 m
+contradictory 矛盾的 adj
+contradict 矛盾 反驳 v
 // The two sentences are 【 contradictory 】. 这两句话前后矛盾
 -
 【 internal contradiction 内部矛盾 n 】
@@ -260,9 +261,9 @@ vibe 气氛 【 氛围 】
 【 bad vibe. 坏的环境 】
 -
 mood 心情 // --------------------------- 【 in the mood. 有心情 】 // I am in a good mood.
-emotion 情绪
+emotion 情绪 // ------------------------ 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 // vent emotion. // control emotion. // express emotion.
-// emotional quotient. // intelligence quotient.
+// emotional quotient. // intelligence quotient. // The quotient of nine divided by three is three.
 // TIPS: Pay attention to the pronunciation of the word "mood". [mood-心情-n]
 -
 // -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】and 【 mood 】.  好的氛围和坏的氛围可以让人有不同的情绪和心情 】
@@ -273,8 +274,8 @@ emotion 情绪
 
 
 12.
-preview 预览 预演
-demonstrate 演示 示范 v  // ------------ 【 Let me demonstrate it to you in advance. 让我提前给您演示 】
+preview 预览 预演 // ------------------- 【 preview mode. 预览模式 n 】 【 preview version. 预览版本 n 】
+demonstrate 演示 示范 v  // ------------ 【 Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示 】
 demonstration 示范 n
 -
 【 preview mode. 预览模式 】

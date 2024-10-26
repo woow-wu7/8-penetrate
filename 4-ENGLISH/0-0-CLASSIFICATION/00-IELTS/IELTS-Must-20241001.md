@@ -632,7 +632,7 @@
 - `【 breach 违反 v n 】` // ----------------- 【 breach contract. 违反合同 v 】 【 breach protocol. 违反协议 v 】
 - `【 reach 到达 v 】` // -------------------- 【 reach safely. 安全到达 v 】 【 arrive safely. 安全到达 v 】
 - `【 branch 分支 n 】` // ------------------- 【 tree branch. 树枝 n 】 【 branch company. 分公司 】
-- > 【 breach contract. 违反合同 v 】
+- > 【 breach contract. 违反合同 v 】 // ----- 【 sign a contract. 签合同 v 】
 - > 【 breach protocol. 违反协议 v 】
 - _【 reach safely. = arrive safely. 安全地到达 】_
 - > 【 safe 安全的 adj 】
@@ -648,7 +648,7 @@
 - [AA.]
 - `【 a bunch of flowers. 一束花 】`
 - `【 at lunch time. 午餐时间 】`
-- **【 He received 【 a bunch of 】 flowers at 【 lunch time 】. 他在午餐时间收到了一束花 】**
+- **【 He received 【 a bunch of 】 flowers 【 at 】 【 lunch time 】. 他在午餐时间收到了一束花 】**
 -
 - [BB.]
 - `【 reach 到达 v 】`
@@ -780,30 +780,33 @@
 - 1
 - `【 desert 沙漠 n 】` // ----------------- 【 desert island. 荒岛 n 】 【 desert landscape. 沙漠景观 n 】
 - `【 dessert 甜点 n 】` // ---------------- 【 dessert wine. 甜酒 n 】 【 rice wine. 米酒 n 】
-- `【 assert 断言 v 】` // ----------------- 【 publicly assert. 公开断言 v 】
-- `【 insert 插入 v 】`
 - > 【 desert island. 荒岛 n 】
 - > 【 desert landscape. 沙漠景观 n 】 // --- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
 - _【 landscape mode. 横屏模式 n 】_ // ------ [ desert landscape. 沙漠景观 n ]
 - _【 portrait mode. 竖屏模式 n 】_
 - _【 speaker mode. 外放模式 / 扬声器模式 n 】_
-- _【 silent mode. 静音模式 n 】_ // -------- 【 silent 沉默的 安静的 adj 】
+- _【 silent mode. = mute mode. 静音模式 n 】_ // -------- 【 silent 沉默的 安静的 adj 】 【 mute 沉默的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 - > 【 dessert wine. 甜酒 n 】
 - > 【 rice wine. 米酒 n 】
 -
 - `【 subvert 颠覆 v 】` // ----------------- 【 subvert cognition. 颠覆认知 】 【 subvert imagination. 颠覆想象 】
-- `【 invert 颠倒 倒置 反转 v 】` // --------- 【 invert = reverse. 反转 v 】
-- `【 convert 转变 转换 v 】`
-- `【 introvert 内向的人n 内向的adj 】` // --- 【 introvert / extrovert 】
+- `【 invert 颠倒 倒转 v 】` // -------------- 【 invert selection. 反选 v 】 【 invert = reverse. 反转 v 】
+- `【 introvert 内向的人n / 内向的adj 】` // -- 【 introvert / extrovert 】
 - > 【 subvert cognition. 颠覆认知 】
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
-- _【 imagination 想象 n 】_
+- _【 imagination 想象 想像力 n 】_
 - _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】
-- // 【 impression 印象 n 】
 - > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】
 - > 【 cognitive 认知的 adj 】// -------------【 cognitive ability. 认知能力 】
+- _【 invert selection. 反选 v 】_
+- // TIPS: Pay attention to the pronunciation of the word 'cognition'. [cognition-认知-n]
+- // TIPS: Pay attention to the pronunciation of the word 'cognitive'. [cognitive-认知的-adj]
+-
+- `【 assert 断言 v 】` // ----------------- 【 publicly assert. 公开断言 v 】
+- `【 insert 插入 v 】` // ----------------- 【 insert a key. 插入钥匙 】 【 insert a plug. 插入插头 】 // cut in line. = cut in queue. // line up.
+- `【 convert 转变 转换 v 】`
 -
 - // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
 - // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
@@ -835,18 +838,20 @@
 - `【 actually 事实上 居然 adv 】`
 - `【 dessert 甜点 n 】`
 - `【 desert 沙漠 n 】`
-- _【 actually 事实上 居然 adv 】_
+- _【 actually 事实上 居然 竟然 adv 】_
 - **【 This 【 subverts 】 my 【 imagination 】, there are 【 actually 】 【 desserts 】 and 【 sweaters 】 in the 【 desert 】. 这颠覆了我的想象，沙漠中居然有甜点和毛衣 】**
 -
 - [DD.]
 - `【 landscape mode. 横屏模式 n 】` // desert landscape. 沙漠景观 n
 - `【 portrait mode. 竖屏模式 n 】`
 - `【 plot 情节 剧情 n 】`
-- `【 absolutely 绝对的 居然 adv 】`
+- `【 absolutely 绝对的 居然 竟然 adv 】`
 - `【 invert = reverse. 反转 v 】`
 - **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】. 把手机从横屏模式切成竖屏模式后，剧情居然反转了 】**
+- **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 follow-up plots 】 【 subvert 】 my 【 imagination 】. 把手机从横屏模式切换成竖屏模式后，后续的剧情颠覆了我的想象 】**
 - // -- 【 plot hole. 情节漏洞 n 】
 - // -- 【 follow-up plot. 后续情节 n 】
+- // -- 【 absolutely 绝对地 居然 竟然 adv】
 -
 - [EE.]
 - `【 rice wine. 米酒 n 】`
@@ -865,3 +870,9 @@
 - `【 subvert 颠覆 v 】`
 - > 【 subvert cognition. 颠覆认知 】
 - **【 Please don't 【 invert 】 black and white, this can 【 subvert 】 my 【 cognition 】. 请不要颠倒黑白，这会颠覆我的认知 】**
+-
+- [HH.]
+- `【 desert 沙漠n / 丢弃v 】`
+- `【 desert island. 荒岛 n 】`
+- `【 desert landscape. 沙漠景观 n 】`
+- **【 There are some 【 desert landscapes 】 like 【 desert islands 】 in the 【 desert 】. 沙漠中有荒岛这样的沙漠景观 】**
