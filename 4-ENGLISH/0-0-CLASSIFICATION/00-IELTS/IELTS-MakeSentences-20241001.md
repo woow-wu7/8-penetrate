@@ -1101,7 +1101,7 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 他承受了巨大的压力
 ```
 
-##### 13 Make sentences 2024-10-23
+##### 14 Make sentences 2024-10-23
 
 ```
 1
@@ -1162,4 +1162,78 @@ She 【 commands 】 and 【 demands 】 me to 【 publicly apologize 】 to her
 
 14
 沙漠中没有甜点
+```
+
+##### 15 Make sentences 2024-10-25
+
+```
+1
+I 【 assert 】 that someone will 【 cut in line 】today.
+我断言，今天有人会插队
+-
+Please 【 line up 】, don't 【 cut in line 】.
+Please 【 queue up 】, don't 【 cut in queue 】.
+请排队，不要插队
+-
+Please don't 【  publicly assert 】 that there are no 【 desserts 】 in the 【 desert 】.
+请不要公开地断言沙漠中没有甜点
+-
+// -
+// 【 assert 断言 v 】
+// 【 publicly assert. 公开地断言 】
+// -
+// assert 断言 v
+// dessert 甜点 n
+// 【 desert 沙漠 n / 抛弃 v 】
+// -
+// line up. = queue up. 排队
+// cut in line. = cut in queue. 插队
+
+
+2
+This 【 subvert 】 my 【 imagination 】, there are 【 absolutely 】 【 desserts 】 and 【 sweaters 】 in the 【 desert 】.
+这颠覆了我的想象，沙漠中居然有甜点和毛衣
+// -
+// 【 desert 沙漠 n 】
+// 【 dessert 甜点 n 】
+// 【 subvert 颠覆 v 】
+// -
+// 【 absolutely 绝对地 居然 adv 】
+// -
+// 【 imagine 想象 v 】
+// 【 imagination 想象 n 】
+// 【 image 形象 图像 n 】
+
+
+3
+After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】.
+把手机从横屏模式切成竖屏模式后，剧情居然反转了
+// -
+// 【 landscape mode. 横屏模式 n 】 ----------- 【 desert landscape. 沙漠景观 n 】
+// 【 portrait mode. 竖屏模式 n 】
+// -
+// 【 plot 情节 剧情 n 】
+// 【 follow-up plot. 后续情节 n 】
+// 【 plot hole. 情节漏洞 n 】
+// -
+// 【 absolutely 绝对地 竟然 adv 】
+// -
+// 【 invert = reverse. 反转 v 】
+
+
+4
+内向的人喜欢喝米酒和甜酒
+
+
+5
+他高大的形象令我印象深刻
+-
+在你旅游途中，有什么景点令你印象深刻吗？
+```
+
+##### 16 Make sentences 2024-10-26
+
+```
+1
+请不要颠倒黑白，这会颠覆我的认知
 ```
