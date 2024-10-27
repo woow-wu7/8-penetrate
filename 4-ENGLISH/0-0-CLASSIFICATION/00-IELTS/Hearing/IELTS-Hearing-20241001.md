@@ -398,7 +398,12 @@ until then. 到那时
 【 staff 工作人员 员工 n 】 -------- 不可数名词
 【 stuff 东西 物品 n 】 ----------- 不可数名词
 -
-// -- After the 【 secretary 】 【 quit 】, the office is 【 understaffed 】.  秘书离职后，办公室人员不足
+office 办公室 n
+official 官方的 adj
+【 official account. 官方帐号 】
+【 official website. 官方网站 】
+-
+// -- After the 【 secretary 】 【 quit 】, the 【 office 】 is 【 understaffed 】.  秘书离职后，办公室人员不足
 // -- 【 Staff 】 are not 【 stuff 】. 员工不是物品
 // -- 【 understaffed situation. 人员不足的情况 】
 
