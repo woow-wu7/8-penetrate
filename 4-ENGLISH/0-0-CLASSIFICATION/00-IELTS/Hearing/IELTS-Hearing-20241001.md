@@ -288,10 +288,13 @@ demonstration 演示 n
 advertise 打广告 v
 advertisement 广告 n
 -
-// -- Do you think to 【 demonstrate 】 product to your customer is a way to 【 advertise 】? 你认为向你的客户展示产品是一种打广告的方式吗？
-// -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
-// -- Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示
+// -- 1. Do you think to 【 demonstrate 】 product to your customer is a way to 【 advertise 】? 你认为向你的客户展示产品是一种打广告的方式吗？
+// -- 1. This is a way of 【 advertisement 】. 这是一种广告方式
+// -- 2. Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
+// -- 3. Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
+// TIPS: Pay attention to the pronunciation of the word "advertise". [advertise-打广告-v]
+// TIPS: Pay attention to the pronunciation of the word "advertisement". [advertisement-广告-n]
 
 
 13.
@@ -312,6 +315,7 @@ in the mood. 有心情
 -
 【 academic performance. 学习成绩 】
 【 full marks. 满分 】
+【 math score. 数学成绩 】
 -
 excellent 出色的 优秀的 adj
 -
@@ -407,6 +411,9 @@ take on. 承担 雇用 v
 risk 风险 n
 risky 风险的 adj
 -
+staff 员工 n
+stuff 东西 物品 n
+-
 // -- 1. We should 【 take on 】 some 【 risks 】 to 【 take on 】 new 【 staff 】. 招聘新员工需要承担一定的风险
 // -- 2. It's too 【 risky 】 to 【 take on 】 new 【 staff 】. 招聘新员工风险太大
 
@@ -463,6 +470,29 @@ liter 共升 n
 letter 信n 字母n
 -
 // -- The 【 literal meaning 】 of the word is different from its 【 actual meaning 】. 这个单词的字面意思和实际意思不一样
+
+
+6
+keep our cost down. 降低成本
+// -- 1. we need to find a way to 【 keep our cost down 】. 我们需要找到一种降低成本的方法
+// -- 2. We need to find a way to 【  keep our cost down 】 【 of 】 paper. 我们需要找到一种方法来降低我们的纸张成本
+
+
+7
+ask for. 请求 要求 v
+pay raise. 加薪
+-
+【 ask for a pay raise. 要求加薪 】
+-
+turn down. 拒绝 v = refuse. = reject.
+refuse 拒绝 v
+reject 拒绝 v
+-
+// -- 1. The boss give me a 【 pay raise 】. 老板给我加薪了
+// -- 2. I want to 【 ask for 】 a 【 pay raise 】, but I'm afraid my boss will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我
+// -- 3. She 【 turned me down 】. 她拒绝了我
+// Someone asks his boss for an assistant. 某人向他的老板请求一个助手
+// Tom 【 asked for 】 a 【 pay raise 】. Tom 要求加薪
 
 
 gave me a hand. 帮我一下
@@ -526,13 +556,4 @@ That sounds 【 reasonable 】. 听起来很合理
 That sounds interesting. 听起来很有趣
 That sounds boring. 听起来很无聊
 That sounds fun. 听起来很有趣
-
-
-keep our cost down. 降低成本
-// -- 1. we need to find a way to 【 keep our cost down 】. 我们需要找到一种降低成本的方法
-// -- 2. We need to find a way to 【  keep our cost down 】 【 of 】 paper. 我们需要找到一种方法来降低我们的纸张成本
-
-
-ask for. 请求 要求 v
-// Someone asks his boss for an assistant. 某人向他的老板请求一个助手
 ```

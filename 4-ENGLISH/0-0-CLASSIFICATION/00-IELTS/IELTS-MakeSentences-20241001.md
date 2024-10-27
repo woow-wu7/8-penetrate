@@ -1298,6 +1298,8 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 11
 你认为向你的客户展示产品是一种打广告的方式吗？
+-
+这是一种广告方式
 
 
 12
@@ -1314,4 +1316,18 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 14
 这个单词的字面意思和实际意思不一样
+
+
+15
+我想要求加薪，但我怕老板会拒绝我
+-
+老板给我加薪了
+-
+她拒绝了我
+
+
+16
+如果有人关心你，你也会怀疑自己吗？
+-
+谢谢你的关心
 ```

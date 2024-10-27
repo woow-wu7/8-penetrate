@@ -794,9 +794,9 @@
 - _【 portrait mode. 竖屏模式 n 】_
 - _【 speaker mode. 外放模式 / 扬声器模式 n 】_
 - _【 silent mode. = mute mode. 静音模式 n 】_ // -------- 【 silent 沉默的 安静的 adj 】 【 mute 沉默的 adj 】
-- // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 - > 【 dessert wine. 甜酒 n 】
 - > 【 rice wine. 米酒 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 -
 - `【 subvert 颠覆 v 】` // ----------------- 【 subvert cognition. 颠覆认知 】 【 subvert imagination. 颠覆想象 】
 - `【 invert 颠倒 倒转 v 】` // -------------- 【 invert selection. 反选 v 】 【 invert = reverse. 反转 v 】
@@ -805,7 +805,7 @@
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
 - _【 imagination 想象 想像力 n 】_
-- _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】
+- _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】 【 tall image. 高大形象 n 】
 - > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】
 - > 【 cognitive 认知的 adj 】// -------------【 cognitive ability. 认知能力 】
 - _【 invert selection. 反选 v 】_
