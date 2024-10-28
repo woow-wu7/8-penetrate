@@ -15,7 +15,7 @@ nutrition 营养 n
 -
 【 expiration time. 过期时间 】
 【 expired dumpling. 过期的饺子 】 // --- 【 Please dump the expired dumpling into the garbage bin. 】
-【 be about to expire. 即将过期 】 // -- 【 According to the expiration time to judge, the food is about to expire. 】
+【 be about to expire. 即将过期 】 // -- 【 According to the expiration time to judge, the food is about to expire. 】 // be about to. 即将
 -
 valid 有效的 adj // -------------------- The offer is 【 valid 】 before the end of this month.
 invalid 无效的
@@ -25,6 +25,7 @@ invalid 无效的
 -
 drink -> drunk
 drunk 喝 喝酒 喝醉的 醉汉
+drunk driving. 酒驾
 -
 lay off. 裁员 v
 layoff 裁员 n
@@ -34,7 +35,7 @@ layoff 裁员 n
 // -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 // -- 3.[involve]:【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
 // -- 4.[involve]: Two people 【 are involved 】. 涉及两人
-// -- 5.[valid]: The offer is 【 valid 】 before the end of this month. 这个offer在这个月底前有效
+// -- 5.[valid]: The offer is 【 valid 】 before 【 the end of 】 this month. 这个offer在这个月底前有效
 // --【 This man was 【 involved 】 in 【 drunk driving 】 accident. 这个男人涉及到一起酒驾事故
 // ---- 【 drunk driving. 酒驾 】
 // ---- 【 this round of. 这一轮 】
@@ -79,13 +80,13 @@ practical 真实的 实际的 实用的 adj
 【 practical life. 实际的生活 】
 【 practical examples. 实际的例子 】
 -
-follow-up plot. 后续情节 // ------------------------ 【 plot hole. 情节漏洞 】 【 follow-up plot. 后续情节 】 // 【 plot 情节 剧情 n  】 【 parking lot. 】
+follow-up plot. 后续情节 // --------------------- 【 plot hole. 情节漏洞 】 【 follow-up plot. 后续情节 】 // 【 plot 情节 剧情 n  】 【 parking lot. 】
 follow-up process. 后续流程
-follow-up meeting. 后续会议
+follow-up meeting. 后续会议 // ------------------ 【 host the meeting. 主持会议 】  // 【 host 主持 主办 v / 主人 主机 n 】
 follow-up action. 后续行动
 follow-up question. 后续问题
 -
-plot 情节 剧情 n // -------------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】
+plot 情节 剧情 n // ----------------------------- 【 the plot of the story. 故事情节 = storyline 】  【 follow-up plot. 后续情节 n 】 【 plot hole. 情节漏洞 n 】
 parking lot. 停车场
 parking spot. 停车位
 【 garage 车库 】
@@ -109,8 +110,9 @@ parking spot. 停车位
 participate 参加 参与 v
 【 participate in. 参加... 】
 -
-【 without exception. 毫无例外 】
-except 除了 // --------------------- 【 except for. 除了 】
+【 without exception. 毫无例外 】 // - exception 列外 除外 n
+-
+except 除了 // -------------------- 【 except for. 除了 】
 exception 【 例外 】 除外 n // ------ 【 without exception. 毫无例外 】
 -
 community 社区 n
@@ -153,8 +155,8 @@ cherish the possibility. 珍惜机会
 // ---- 【 cherish 珍惜 v 】
 // ---- 【 cherish opportunity. 珍惜机会 】
 // ---- 【 cherish time. 珍惜时间 】
-// ---- cheer 欢呼 喝彩
-// ---- cheer for. 为...加油
+// ----  cheer 欢呼 喝彩
+// ---- 【 cheer for. 为...加油 】
 // ---- Which team do you 【 cheer for 】? 你为哪个队加油
 
 
@@ -226,7 +228,8 @@ contradiction 矛盾 m
 // --【 We should learn to 【 get along 【 peacefully 】 with 】 others. 我们要学会与别人和平相处 】**
 // -- 1. 【 I'm easy to 【 get along with 】. 我很容易相处 】
 // -- 2. 【 What are you guys talking about? 你们在谈论什么? 】
-// ---- contradiction 矛盾
+// ---- contradiction 矛盾 n
+// ---- contradictory 矛盾的 adj
 // ---- 【 internal contradiction. 内部矛盾 】
 // ---- 【 social contradiction. 社会矛盾 】
 // ---- 【 family contradiction. 家庭矛盾 】

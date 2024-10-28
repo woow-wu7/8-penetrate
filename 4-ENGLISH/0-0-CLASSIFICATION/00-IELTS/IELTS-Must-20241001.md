@@ -781,29 +781,31 @@
 - `【 desert 沙漠 n 】` // ----------------- 【 desert island. 荒岛 n 】 【 desert landscape. 沙漠景观 n 】
 - `【 dessert 甜点 n 】` // ---------------- 【 dessert wine. 甜酒 n 】 【 rice wine. 米酒 n 】
 - `【 assert 断言 v 】` // ----------------- 【 publicly assert. 公开断言 v 】
-- `【 insert 插入 v 】`
+- `【 insert 插入 v 】` // ----------------- 【 insert a key. 插入钥匙 】 【 insert a plug. 插入插头 】
 - > 【 desert island. 荒岛 n 】
 - > 【 desert landscape. 沙漠景观 n 】 // --- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
 - _【 landscape mode. 横屏模式 n 】_ // ------ [ desert landscape. 沙漠景观 n ]
 - _【 portrait mode. 竖屏模式 n 】_
 - _【 speaker mode. 外放模式 / 扬声器模式 n 】_
-- _【 silent mode. 静音模式 n 】_ // -------- 【 silent 沉默的 安静的 adj 】
+- _【 silent mode. = mute mode. 静音模式 n 】_ //【 silent 沉默的 安静的 adj 】 【 mute 沉默的 安静的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 - > 【 dessert wine. 甜酒 n 】
 - > 【 rice wine. 米酒 n 】
 -
-- `【 subvert 颠覆 v 】` // ----------------- 【 subvert imagination. 颠覆想象 】 【 subvert cognition. 颠覆认知 】
+- `【 subvert 颠覆 v 】` // ----------------- 【 subvert imagination. 颠覆想象 】 【 subvert cognition. 颠覆认知 】 // 【 social cognition. 社会认知 n 】
 - `【 invert 颠倒 倒置 反转 v 】` // --------- 【 invert = reverse. 反转 v 】
 - `【 convert 转变 转换 v 】`
 - `【 introvert 内向的人n 内向的adj 】` // --- 【 introvert / extrovert 】
 - > 【 subvert cognition. 颠覆认知 】
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
-- _【 imagination 想象 n 】_
-- _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】
+- _【 imagination 想象 n 】_ // ------------- 【 subvert imagination. 颠覆想象 】
+- _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】 【 tall image. 高大的形象 】
 - // 【 impression 印象 n 】
 - > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】
 - > 【 cognitive 认知的 adj 】// -------------【 cognitive ability. 认知能力 】
+- _【 positive 积极的 乐观的 adj 】_ // ------ 【 positive / persist 】
+- _【 negative 消极的 悲观的 adj 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word "desert". [desert-沙漠-n]
 - // TIPS: Pay attention to the pronunciation of the word "dessert". [dessert-甜点-n]
@@ -832,7 +834,7 @@
 -
 - [CC.]
 - `【 subvert 颠覆 v 】` // -------- 【 subvert cognition. 颠覆认知 】
-- `【 actually 事实上 居然 adv 】`
+- `【 actually 事实上 居然 adv 】` _【 actually 事实上 居然 竟然 adv 】_ [actually-事实上-居然-竟然-adv]
 - `【 dessert 甜点 n 】`
 - `【 desert 沙漠 n 】`
 - _【 actually 事实上 居然 adv 】_
@@ -847,6 +849,9 @@
 - **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】. 把手机从横屏模式切成竖屏模式后，剧情居然反转了 】**
 - // -- 【 plot hole. 情节漏洞 n 】
 - // -- 【 follow-up plot. 后续情节 n 】
+- // -- 【 parking lot. 停车场 n 】
+- // -- 【 parking spot. 停车位 n 】
+- // -- 【 garage 车库 n 】
 -
 - [EE.]
 - `【 rice wine. 米酒 n 】`
@@ -857,5 +862,5 @@
 - [FF.]
 - `【 image 形象 图像 n 】`
 - `【 impress 给…留下深刻印象 v 】`
-- **【 His tall 【 image 】 【 impresses 】 me deeply. 他高大的形象令我印象深刻 】**
+- **【 His tall 【 image 】 【 impresses 】 me 【 deeply 】. 他高大的形象令我印象深刻 】**
 - **【 Are there any tourist attractions that 【 impressed 】 you deeply 【 in your travels 】? 在你旅游途中，有什么景点令你印象深刻吗？ 】**
