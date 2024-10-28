@@ -32,6 +32,9 @@
 - > -- [academic-performance./学习成绩]
 - > -- [full-marks./满分]
 - > -- [promote-促进-提升-v/promotion-提升-n]
+- // 【 academic performance. 数学成绩 n 】
+- // 【 full marks. 满分 n 】
+- // 【 math score. 数学成绩 n 】
 - _【 economic structure. 经济结构 】_
 - _【 economic crisis. 经济危机 】_ // ---------------------【 political crisis. 政治危机 n 】 【 financial crisis. 金融危机 n 】 【 economic crisis. 】
 - _【 economic recession. 经济衰退 】_
@@ -99,6 +102,11 @@
 - `【 restore confidence. 恢复自信 】`
 - **【 If you don't do well 【 in 】 the 【 examination 】, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
 - // -- 【 make an effort to do sth. 努力做某事 】
+-
+- [FF.]
+- `【 math score. 数学成绩 n 】`
+- `【 full marks. 满分 n 】`
+- **【 His 【 math score 】 is 【 full marks 】. 他的数学成绩是满分 】**
 -
 
 ###### Must 2024-10-02
@@ -632,7 +640,7 @@
 - `【 breach 违反 v n 】` // ----------------- 【 breach contract. 违反合同 v 】 【 breach protocol. 违反协议 v 】
 - `【 reach 到达 v 】` // -------------------- 【 reach safely. 安全到达 v 】 【 arrive safely. 安全到达 v 】
 - `【 branch 分支 n 】` // ------------------- 【 tree branch. 树枝 n 】 【 branch company. 分公司 】
-- > 【 breach contract. 违反合同 v 】
+- > 【 breach contract. 违反合同 v 】 // ----- 【 sign a contract. 签合同 v 】
 - > 【 breach protocol. 违反协议 v 】
 - _【 reach safely. = arrive safely. 安全地到达 】_
 - > 【 safe 安全的 adj 】
@@ -648,7 +656,7 @@
 - [AA.]
 - `【 a bunch of flowers. 一束花 】`
 - `【 at lunch time. 午餐时间 】`
-- **【 He received 【 a bunch of 】 flowers at 【 lunch time 】. 他在午餐时间收到了一束花 】**
+- **【 He received 【 a bunch of 】 flowers 【 at 】 【 lunch time 】. 他在午餐时间收到了一束花 】**
 -
 - [BB.]
 - `【 reach 到达 v 】`
@@ -791,10 +799,10 @@
 - // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 - > 【 dessert wine. 甜酒 n 】
 - > 【 rice wine. 米酒 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'island'. [island-岛屿-n]
 -
 - `【 subvert 颠覆 v 】` // ----------------- 【 subvert imagination. 颠覆想象 】 【 subvert cognition. 颠覆认知 】 // 【 social cognition. 社会认知 n 】
-- `【 invert 颠倒 倒置 反转 v 】` // --------- 【 invert = reverse. 反转 v 】
-- `【 convert 转变 转换 v 】`
+- `【 invert 颠倒 倒置 反转 v 】` // --------- 【 invert selection. 反选 v 】 【 invert = reverse. 反转 v 】
 - `【 introvert 内向的人n 内向的adj 】` // --- 【 introvert / extrovert 】
 - > 【 subvert cognition. 颠覆认知 】
 - > 【 subvert imagination. 颠覆想象 】
@@ -837,16 +845,17 @@
 - `【 actually 事实上 居然 adv 】` _【 actually 事实上 居然 竟然 adv 】_ [actually-事实上-居然-竟然-adv]
 - `【 dessert 甜点 n 】`
 - `【 desert 沙漠 n 】`
-- _【 actually 事实上 居然 adv 】_
+- _【 actually 事实上 居然 竟然 adv 】_
 - **【 This 【 subverts 】 my 【 imagination 】, there are 【 actually 】 【 desserts 】 and 【 sweaters 】 in the 【 desert 】. 这颠覆了我的想象，沙漠中居然有甜点和毛衣 】**
 -
 - [DD.]
 - `【 landscape mode. 横屏模式 n 】` // desert landscape. 沙漠景观 n
 - `【 portrait mode. 竖屏模式 n 】`
 - `【 plot 情节 剧情 n 】`
-- `【 absolutely 绝对的 居然 adv 】`
+- `【 absolutely 绝对的 居然 竟然 adv 】`
 - `【 invert = reverse. 反转 v 】`
 - **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 plots 】 【 absolutely 】 【 invert 】. 把手机从横屏模式切成竖屏模式后，剧情居然反转了 】**
+- **【 After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 follow-up plots 】 【 subvert 】 my 【 imagination 】. 把手机从横屏模式切换成竖屏模式后，后续的剧情颠覆了我的想象 】**
 - // -- 【 plot hole. 情节漏洞 n 】
 - // -- 【 follow-up plot. 后续情节 n 】
 - // -- 【 parking lot. 停车场 n 】
@@ -864,3 +873,15 @@
 - `【 impress 给…留下深刻印象 v 】`
 - **【 His tall 【 image 】 【 impresses 】 me 【 deeply 】. 他高大的形象令我印象深刻 】**
 - **【 Are there any tourist attractions that 【 impressed 】 you deeply 【 in your travels 】? 在你旅游途中，有什么景点令你印象深刻吗？ 】**
+-
+- [GG.]
+- `【 invert 颠倒 v 】`
+- `【 subvert 颠覆 v 】`
+- > 【 subvert cognition. 颠覆认知 】
+- **【 Please don't 【 invert 】 black and white, this can 【 subvert 】 my 【 cognition 】. 请不要颠倒黑白，这会颠覆我的认知 】**
+-
+- [HH.]
+- `【 desert 沙漠n / 丢弃v 】`
+- `【 desert island. 荒岛 n 】`
+- `【 desert landscape. 沙漠景观 n 】`
+- **【 There are some 【 desert landscapes 】 like 【 desert islands 】 in the 【 desert 】. 沙漠中有荒岛这样的沙漠景观 】**

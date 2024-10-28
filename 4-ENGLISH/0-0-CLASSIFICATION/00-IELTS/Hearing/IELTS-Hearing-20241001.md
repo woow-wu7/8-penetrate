@@ -100,10 +100,10 @@ parking spot. 停车位
 // -- 实际的: He gets 【 practical experience 】 from 【 practical life 】. 他在实际的生活中获得实际的经验
 // -- 实际的: He had a 【 practical 】 【 outlook 】 on life. 他的人生观很实际
 // -- 实用的: this good is 【 practical 】. 这种好东西很实用
-// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
-// TIPS: Pay attention to the pronunciation of the word "garage". [garage-车库-n]
 // --- 【 outlook 前景 人生观 世界观 n 】
 // --- 【 follow-up. 后续的 adj 】
+// TIPS: Pay attention to the pronunciation of the word "practical". [practical-实际的-adj]
+// TIPS: Pay attention to the pronunciation of the word "garage". [garage-车库-n]
 
 
 4.
@@ -149,9 +149,10 @@ cherish the possibility. 珍惜机会
 【 cheer for. 为...加油 】
 -
 // -- 1. I think this is a 【 fantastic opportunity 】, so you should 【 seise the opportunity 】 and 【 cherish the opportunity 】 for 【 promotion 】.
-// -- 2. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
-// -- 3. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
-// -- 4.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
+// -- 2. Which team do you 【 cheer for 】? 你为哪个队加油
+// -- 3. This is a 【 fantastic idea 】 and 【 fantastic opportunity 】. 这是一个极好的主意和机会
+// -- 4. This is a 【 fantastic opportunity 】 and you should 【 cherish 】 it. 这是一个极好的机会，你需要珍惜它
+// -- 5.【 I think you should 【 seize the opportunity 】 and 【 cherish the opportunity 】 【 for promotion 】. 我认为你应该抓住机会和珍惜晋升的机会 】
 // ---- 【 cherish 珍惜 v 】
 // ---- 【 cherish opportunity. 珍惜机会 】
 // ---- 【 cherish time. 珍惜时间 】
@@ -164,7 +165,7 @@ cherish the possibility. 珍惜机会
 6.
 【 come with. 【 附带 】 伴随 】
 【 come down with. 染上（病） / 得了（病） 】
-【 comply with. 遵守 v 】 = obey服从遵守.
+【 comply with. 遵守 v 】 = obey 服从遵守.
 -
 sick 生病的 adj
 ill 生病的 adj
@@ -212,9 +213,9 @@ expiration 过期 n
 8.
 get along with sb. 与某人相处
 -
-contradict 矛盾 反驳 v
-contradictory 矛盾的 adj
 contradiction 矛盾 m
+contradictory 矛盾的 adj
+contradict 矛盾 反驳 v
 // The two sentences are 【 contradictory 】. 这两句话前后矛盾
 -
 【 internal contradiction 内部矛盾 n 】
@@ -263,9 +264,9 @@ vibe 气氛 【 氛围 】
 【 bad vibe. 坏的环境 】
 -
 mood 心情 // --------------------------- 【 in the mood. 有心情 】 // I am in a good mood.
-emotion 情绪
+emotion 情绪 // ------------------------ 【 vent emotion. 发泄情绪 】 【 control emotion. 控制情绪 】 【 express emotion. 表达情感 】
 // vent emotion. // control emotion. // express emotion.
-// emotional quotient. // intelligence quotient.
+// emotional quotient. // intelligence quotient. // The quotient of nine divided by three is three.
 // TIPS: Pay attention to the pronunciation of the word "mood". [mood-心情-n]
 -
 // -- 【 The 【 good vibe 】 and 【 bad vibe 】 can make people have different 【 emotions 】and 【 mood 】.  好的氛围和坏的氛围可以让人有不同的情绪和心情 】
@@ -276,9 +277,9 @@ emotion 情绪
 
 
 12.
-preview 预览 预演
-demonstrate 演示 示范 v  // ------------ 【 Let me demonstrate it to you in advance. 让我提前给您演示 】
+demonstrate 演示 示范 v  // ------------ 【 Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示 】
 demonstration 示范 n
+preview 预览 预演 // ------------------- 【 preview mode. 预览模式 n 】 【 preview version. 预览版本 n 】
 -
 【 preview mode. 预览模式 】
 【 preview version. 预览版本 】
@@ -287,9 +288,16 @@ demo 样品n 演示v
 demonstrate 演示 v
 demonstration 演示 n
 -
-// -- Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
-// -- Let me 【  】 it to you in advance. 让我提前给您演示
+advertise 打广告 v
+advertisement 广告 n
+-
+// -- 1. Do you think to 【 demonstrate 】 product to your customer is a way to 【 advertise 】? 你认为向你的客户展示产品是一种打广告的方式吗？
+// -- 1. This is a way of 【 advertisement 】. 这是一种广告方式
+// -- 2. Let me 【 demonstrate 】 to you 【 with 】 the 【 preview version 】. 让我用预览版本给你演示
+// -- 3. Let me 【 demonstrate 】 it to you in advance. 让我提前给您演示
 // TIPS: Pay attention to the pronunciation of the word "version". [version-版本-n]
+// TIPS: Pay attention to the pronunciation of the word "advertise". [advertise-打广告-v]
+// TIPS: Pay attention to the pronunciation of the word "advertisement". [advertisement-广告-n]
 
 
 13.
@@ -310,6 +318,7 @@ in the mood. 有心情
 -
 【 academic performance. 学习成绩 】
 【 full marks. 满分 】
+【 math score. 数学成绩 】
 -
 excellent 出色的 优秀的 adj
 -
@@ -374,6 +383,8 @@ exact 精确的 准确的 adj
 magazine 杂志 n
 newspaper 报纸 n
 poster 海报 n
+advertisement 广告 n
+// advertise 打广告 v
 
 
 until then. 到那时
@@ -383,21 +394,47 @@ until then. 到那时
 ##### 2 Hearing 2024-10-19 [IELTS_HEARING_MUST_PODCAST][assistant]
 
 ```
+1
 【 understaffed 人手不足的 人员不足的 adj 】
+【 understaffed situation. 人手不足的情况 n 】
 -
 【 staff 工作人员 员工 n 】 -------- 不可数名词
 【 stuff 东西 物品 n 】 ----------- 不可数名词
 -
-// understaffed situation. 人员不足的情况
-// -- After the 【 secretary 】 【 quit 】, the office is 【 understaffed 】.  秘书离职后，办公室人员不足
-// -- 【 Staff 】 are not 【 stuff 】. 员工不是物品
-
-
-【 weight off my shoulders. 如释重负 / 松了一口气 】
+office 办公室 n
+official 官方的 adj
+【 official account. 官方帐号 】
+【 official website. 官方网站 】
 -
-weight 重量 n
+// -- After the 【 secretary 】 【 quit 】, the 【 office 】 is 【 understaffed 】.  秘书离职后，办公室人员不足
+// -- 【 Staff 】 are not 【 stuff 】. 员工不是物品
+// -- 【 understaffed situation. 人员不足的情况 】
+
+
+2
+take on. 承担 雇用 v
+【 take on risk. 承担风险 】
+【 take on new staff. 招聘新员工 】= hire new staff. = employ new staff.
+-
+risk 风险 n
+risky 风险的 adj
+-
+staff 员工 n
+stuff 东西 物品 n
+-
+// -- 1. We should 【 take on 】 some 【 risks 】 to 【 take on 】 new 【 staff 】. 招聘新员工需要承担一定的风险
+// -- 2. It's too 【 risky 】 to 【 take on 】 new 【 staff 】. 招聘新员工风险太大
+
+
+3
+【 take the weight off your shoulders. 减轻你的负担 】 // -- 注意是 shoulders 复数.
+-
+weight 重量 n // ---------------------------------------- 【 lose weight. 减肥 】 【 gross weight. 毛重 总重 n  】
 weigh 称重 v
 scale 称 大小 规模 n
+-
+【 lose weight. 减肥 】
+【 gross weight. 总重 毛重 】
 -
 【 relieve 减轻 缓解 v 】
 【 relieve stress. 减轻压力 = relieve pressure. 】
@@ -405,8 +442,8 @@ scale 称 大小 规模 n
 -
 【 burden 负担 n 】
 -
-// -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
-// -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and 【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
+// -- The 【 secretary 】 【 relieved 】 my 【 stress 】, and 【 took the weight off my shoulders 】. 秘书减轻了我的负担，让我如释重负
+// -- An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks, 【 relieves your stress 】, and takes the【 weight off your shoulders 】. 秘书是帮助他人完成任务，减轻他人压力，让你如释重负的人
 // -
 //  【 assist sb in doing sth. 协助某人做某事 】
 //  【 persist in doing sth. 坚持做某事 】
@@ -421,6 +458,49 @@ scale 称 大小 规模 n
 // 【 secretary 秘书 】
 // 【 steward 乘务员 】
 // 【 stewardess 空姐 】
+
+
+4
+【 reasonable 合理的 adj 】
+【 unreasonable 不合理的 adj 】
+// -- That sounds 【 reasonable 】. 听起来很合理
+// -- Do you think whether the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？
+// -- The 【 fare 】 for the bus trip is very 【 reasonable 】. 费用非常合理
+// -- We need to 【 prove 】 your 【 approval 】 is 【 reasonable 】. 我们需要证明你的审批是合理的
+
+
+5
+literal 字面意思的 adj
+【 literal meaning. 字面意思 】
+【 actual meaning. 实际意思 】
+-
+liter 共升 n
+letter 信n 字母n
+-
+// -- The 【 literal meaning 】 of the word is different from its 【 actual meaning 】. 这个单词的字面意思和实际意思不一样
+
+
+6
+keep our cost down. 降低成本
+// -- 1. we need to find a way to 【 keep our cost down 】. 我们需要找到一种降低成本的方法
+// -- 2. We need to find a way to 【  keep our cost down 】 【 of 】 paper. 我们需要找到一种方法来降低我们的纸张成本
+
+
+7
+ask for. 请求 要求 v
+pay raise. 加薪
+-
+【 ask for a pay raise. 要求加薪 】
+-
+turn down. 拒绝 v = refuse. = reject.
+refuse 拒绝 v
+reject 拒绝 v
+-
+// -- 1. The boss give me a 【 pay raise 】. 老板给我加薪了
+// -- 2. I want to 【 ask for 】 a 【 pay raise 】, but I'm afraid my boss will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我
+// -- 3. She 【 turned me down 】. 她拒绝了我
+// Someone asks his boss for an assistant. 某人向他的老板请求一个助手
+// Tom 【 asked for 】 a 【 pay raise 】. Tom 要求加薪
 
 
 gave me a hand. 帮我一下
@@ -484,13 +564,4 @@ That sounds 【 reasonable 】. 听起来很合理
 That sounds interesting. 听起来很有趣
 That sounds boring. 听起来很无聊
 That sounds fun. 听起来很有趣
-
-
-keep our cost down. 降低成本
-// -- 1. we need to find a way to 【 keep our cost down 】. 我们需要找到一种降低成本的方法
-// -- 2. We need to find a way to 【  keep our cost down 】 【 of 】 paper. 我们需要找到一种方法来降低我们的纸张成本
-
-
-ask for. 请求 要求 v
-// Someone asks his boss for an assistant. 某人向他的老板请求一个助手
 ```
