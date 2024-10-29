@@ -36,3 +36,10 @@ force kill process
 - 确保 /var/run 目录有正确的权限
 - $ sudo chmod 777 /var/run
 ```
+
+##### (2) forcefully close an application. 强制关闭应用
+
+```
+1. Click the "Apple" icon at the top left corner.
+2. Select the "Force Quit" menu.
+```
