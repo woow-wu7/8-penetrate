@@ -716,17 +716,25 @@
 - // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
 -
 - `【 comma 逗号 n 】`
-- `【 period 句号 n 】` = full stop.
+- `【 period 句号 n 】` = full stop. // ------------------------- 【 period 一段时间 [句号] 】
 - `【 full stop. 句号 n 】` = period.
 - `【 question mark. 问号 n 】 = question point. ` // ----------- 【 full marks. 满分 】 【 question mark. 问号 n 】
 - `【 exclamation mark. 感叹号 n 】= exclamation point. `
-- `【 single quotation marks. 单引号 n 】`
+- `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
 - `【 double quotation marks. 双引号 n 】`
-- `【 brackets 小括号 n 】`
+- `【 brackets 括号 n 】`
+- `【 round brackets. 小括号 n 】`
+- `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
+- `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
+- _【 curly hair. 卷发 n 】_
+- _【 curly brackets. 大括号 n 】_
 - > 【 academic performance. 学习成绩 】
 - > 【 full marks. 满分 】
 - > 【 math score. 数学成绩 】
 - > 【 question mark. = question point. 】
+- // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
+- // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
 -
 - [EXPAND-01]
 - `【 grammar 语法 n 】`
@@ -921,6 +929,18 @@
 - `【 question mark. 问号 】`
 - `【 full marks. 满分 】`
 - **【 I made a big 【 question mark 】 about whether he got 【 full marks 】 【 in 】 【 math 】. 我对他数学成绩是否得了满分要打一个大大的问号 】**
+-
+- [PP.]
+- `【 round brackets. 小括号 】`
+- `【 square brackets. 中括号 】`
+- `【 curly brackets. 大括号 】`
+- **【 【 Brackets 】 are divided into 【 round brackets 】, 【 square brackets 】, and 【 curly brackets 】. 括号分为小括号，中括号，和大括号 】**
+-
+- [QQ.]
+- `【 curly hair. 卷发 n 】`
+- `【 curly brackets. 大括号 n 】`
+- **【 The shape of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
+- // -- like 作为像时是 preposition
 
 ###### Must 2024-07-18
 
