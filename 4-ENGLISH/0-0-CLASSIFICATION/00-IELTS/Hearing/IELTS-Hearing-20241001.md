@@ -317,8 +317,9 @@ in the mood. 有心情
 【 excellent employee. 优秀的员工 】
 -
 【 academic performance. 学习成绩 】
-【 full marks. 满分 】
+【 full marks. 满分 】 // ---------------------- 【 question mark. 问号 n 】 【 full marks. 】
 【 math score. 数学成绩 】
+【 question mark. 问号 n 】 // ----------------- 【 exclamation mark. 感叹号 】 【 question mark. 问号 】  【 comma 逗号 】 【 full stop. = period. 句号 】
 -
 excellent 出色的 优秀的 adj
 -

@@ -670,14 +670,15 @@
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
 -
 - `【 present tense. 现在时态 】`
-- `【 simple present tense. 一般现在时态 】`
-- `【 present perfect tense. 现在完成时态 】`
+- `【 【 simple 】 present tense. 一般现在时态 】`
+- `【 present 【 perfect 】 tense. 现在完成时态 】`
 -
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
 - `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】
 - > 【 actively pursue. 主动追求 v 】 // ------------ 【 pursue happiness. 追求幸福 】 【 chase dream. 追逐梦想 】 【 chase fugitive. 追扑逃犯 】
 - > 【 passively accept. 被动接受 v 】
 -
+- **【 clause 从句 子句 n 】**
 - `【 object clause. 宾语从句 】` // -----------------【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
@@ -713,6 +714,19 @@
 - // 【 single 单身的 单个的 adj 】 ----- 【 every single day. 每一天 】
 - // 【 singular 单数的 adj 】 --------- 【 singular noun. 单数名词 n 】 【 plural noun. 复数名词 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
+-
+- `【 comma 逗号 n 】`
+- `【 period 句号 n 】` = full stop.
+- `【 full stop. 句号 n 】` = period.
+- `【 question mark. 问号 n 】 = question point. ` // ----------- 【 full marks. 满分 】 【 question mark. 问号 n 】
+- `【 exclamation mark. 感叹号 n 】= exclamation point. `
+- `【 single quotation marks. 单引号 n 】`
+- `【 double quotation marks. 双引号 n 】`
+- `【 brackets 小括号 n 】`
+- > 【 academic performance. 学习成绩 】
+- > 【 full marks. 满分 】
+- > 【 math score. 数学成绩 】
+- > 【 question mark. = question point. 】
 -
 - [EXPAND-01]
 - `【 grammar 语法 n 】`
@@ -896,6 +910,17 @@
 - `【 present perfect tense. 现在完成时 】`
 - **【 The 【 present tense 】 【 is divided into 】 the 【 simple present tense 】 and the 【 present perfect tense 】. 现在时分为一般现在时和现在完成时 】**
 - // -- 【 be divide into. 被分为... 】
+-
+- [NN.]
+- `【 accent 口音 n 】`
+- `【 dialect 方言 n 】`
+- > 【 have influence on. 对...有影响 】
+- **【 【 Accent 】 have a litter 【 influence 】 【 on 】 English. but 【 dialect 】 has a great influence on English. 口音对英语的影响比较小，但是方言对英语的影响很大 】**
+-
+- [OO.]
+- `【 question mark. 问号 】`
+- `【 full marks. 满分 】`
+- **【 I made a big 【 question mark 】 about whether he got 【 full marks 】 【 in 】 【 math 】. 我对他数学成绩是否得了满分要打一个大大的问号 】**
 
 ###### Must 2024-07-18
 
