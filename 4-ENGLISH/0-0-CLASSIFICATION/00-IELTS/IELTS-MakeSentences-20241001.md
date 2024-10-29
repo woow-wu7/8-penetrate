@@ -1235,9 +1235,23 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 ```
 1
+Please don't 【 invert 】 black and white, this can 【 subvert 】 my 【 cognition 】.
 请不要颠倒黑白，这会颠覆我的认知
 -
+This 【 subvert 】 my 【 imagination 】, there are 【 actually 】 【 deserts 】 and sweater in the 【 desert 】.
 这颠覆了我的想象，沙漠中居然有甜点和毛衣
+-
+// -
+// desert 沙漠 ------------------------- desert island. // desert landscape.
+// dessert 甜点 ------------------------ dessert wine. // rice wine.
+// -
+// subvert 颠覆 ------------------------ subvert cognition. // subvert imagination
+// -
+// actually 事实上 竟然 居然 adv
+// -
+// image 图像 形象 ---------------------- positive image. // tall image.
+// imagine 想象 v
+// imagination 想象 想象力 n
 
 
 2
@@ -1251,6 +1265,7 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 
 4
+After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, the 【 follow-up plots 】 【 subvert 】 my 【 imagination 】.
 把手机从横屏模式切换成竖屏模式后，后续的剧情颠覆了我的想象
 -
 把手机从横屏模式切成竖屏模式后，剧情居然反转了
@@ -1265,6 +1280,7 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 
 6
+Please 【 line up 】, don't 【 cut in line 】.
 请排队，不要插队
 
 
@@ -1334,4 +1350,17 @@ After switching the phone from 【 landscape mode 】 to 【 portrait mode 】, 
 
 17
 这个办公室的官方帐号是多少？
+```
+
+##### 17 Make sentences 2024-10-28
+
+```
+1
+喝母乳的人不容易得乳腺癌
+-
+他被诊断出患有肺癌
+
+
+2
+除了弃船，我们别无选择
 ```

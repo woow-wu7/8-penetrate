@@ -807,7 +807,7 @@
 - > 【 subvert cognition. 颠覆认知 】
 - > 【 subvert imagination. 颠覆想象 】
 - _【 imagine 想象 v 】_ // ----------------- 【 imagine 想象 v 】 【 imagination 想象 n 】
-- _【 imagination 想象 n 】_ // ------------- 【 subvert imagination. 颠覆想象 】
+- _【 imagination 想象 想象力 n 】_ // ------- 【 subvert imagination. 颠覆想象 】
 - _【 image 形象 图像 n 】_ // --------------- 【 positive image. 积极的形象 】 【 tall image. 高大的形象 】
 - // 【 impression 印象 n 】
 - > 【 cognition 认知 n 】// ---------------- 【 social cognition. 社会认知 】 【 subvert cognition. 颠覆认知 】

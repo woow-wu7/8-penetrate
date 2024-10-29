@@ -54,14 +54,24 @@
 
 ###### diagnose 诊断 v
 
-- `diagnose 诊断 v`
+- `diagnose 诊断 v` // --------------------------- 【 be diagnosed with. 被诊断出患有...病 】
 - `diagnosis 诊断 n`
+- `breast 胸 乳房 n ` // ------------------------- 【 breast cancer. 乳腺癌 n 】 【 breast milk. 母乳 乳汁 n 】
 - `disease 疾病`
-- `breast 胸部`
-- diagnose: She was diagnosed as having breast cancer. 她被诊断出患有乳腺癌
+- _【 be diagnosed with. 被确诊患有...病 】_
+- > lung cancer. 肺癌 n
+- > breast cancer. 乳腺癌 n
+- _【 breast 胸 乳房 n 】_
+- _【 breast cancer. 乳腺癌 n 】_
+- _【 breast milk. 乳房 乳汁 n 】_
+- _【 The people who drink 【 breast milk 】 are not easy to get 【 breast cancer 】. 喝母乳的人不容易得乳腺癌 】_
+- 1. **【 He 【 was diagnosed with 】 【 lung cancer 】. 他被诊断出患有肺癌 】**
+- 2. **【 She was diagnosed as having 【 breast cancer 】. 她被诊断出患有乳腺癌 】**
 - diagnose: The test is used to diagnose a variety of diseases. 此项化验可用于诊断多种疾病
 - diagnose: The illness was diagnosed as cancer. 此病诊断为癌症
-- diagnosis: I need to have a second test to confirm the diagnosis. 我需要再进行一次检查以确诊。
+- diagnosis: I need to have a second test to confirm the diagnosis. 我需要再进行一次检查以确诊
+- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-胸-乳房-n]
+- // TIPS: Pay attention to the pronunciation of the word 'diagnose'. [breast-胸-乳房-n]
 
 ```
 spine 脊柱 // 专业名词

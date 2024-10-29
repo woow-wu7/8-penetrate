@@ -332,8 +332,9 @@
 -
 - [QQ.]
 - `【 refund 退款 】`
-- `【 compensation 赔偿 n 】`
-- `【 compensate 赔偿 v 】`
+- `【 compensation 赔偿 赔偿金 n 】`
+- `【 compensate 赔偿 补偿 弥补 v 】`
+- `【 supplement 补充 v 】`
 - **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
 - **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - // -- lay off. 裁员 v
