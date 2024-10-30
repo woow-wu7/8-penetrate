@@ -1352,7 +1352,7 @@ Please 【 line up 】, don't 【 cut in line 】.
 这个办公室的官方帐号是多少？
 ```
 
-##### 17 Make sentences 2024-10-28
+##### 17 Make sentences 2024-10-30
 
 ```
 1
@@ -1383,4 +1383,21 @@ Please 【 line up 】, don't 【 cut in line 】.
 括号分为小括号，中括号，和大括号
 -
 她卷发的形状像个大括号
+
+
+7
+【 Adjectives 】 are used to 【 modify 】 nouns.
+形容词用来修饰名词
+// modify 修饰 修改 v
+
+
+8
+These two roles are 【 complementary 】.
+这两个角色是互补的
+// -
+// 【 complementary 互补的 补充的 adj 】
+// 【 complement 补语n 补充v 】
+// 【 supplement 补充 v 】// supplement energy. // supplement nutrition.
+// -
+// complementary colors. 互补色 n
 ```
