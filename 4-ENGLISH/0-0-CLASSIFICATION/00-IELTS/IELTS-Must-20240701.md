@@ -663,8 +663,8 @@
 - > 【 present tense. 现在时态 】
 - > 【 【 simple 】 present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
-- **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // 【 present tense. 现在时态 】 【 simple present tense. 】
-- **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】
+- **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // -------【 present tense. 现在时态 】 【 simple present tense. 】
+- **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
 - _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
 - _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
@@ -675,7 +675,7 @@
 -
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
 - `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】
-- > 【 actively pursue. 主动追求 v 】 // ------------ 【 pursue happiness. 追求幸福 】 【 chase dream. 追逐梦想 】 【 chase fugitive. 追扑逃犯 】
+- > 【 actively pursue. 主动追求 v 】 // ------------ 【 pursue happiness. 追求幸福 】 // -【 chase dream. 追逐梦想 】 【 chase fugitive. 追扑逃犯 】
 - > 【 passively accept. 被动接受 v 】
 -
 - **【 clause 从句 子句 n 】**
@@ -718,12 +718,12 @@
 - `【 comma 逗号 n 】`
 - `【 period 句号 n 】` = full stop. // ------------------------- 【 period 一段时间 [句号] 】
 - `【 full stop. 句号 n 】` = period.
-- `【 question mark. 问号 n 】 = question point. ` // ----------- 【 full marks. 满分 】 【 question mark. 问号 n 】
+- `【 question mark. 问号 n 】 = question point.` // ------------ 【 full marks. 满分 】 【 question mark. 问号 n 】
 - `【 exclamation mark. 感叹号 n 】= exclamation point. `
 - `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
 - `【 double quotation marks. 双引号 n 】`
 - `【 brackets 括号 n 】`
-- `【 round brackets. 小括号 n 】`
+- `【 round brackets. 小括号 n 】` // ---------------------------- 【 this round of. 这一轮的 】 // This round of layoffs.
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
 - _【 curly hair. 卷发 n 】_
@@ -732,9 +732,10 @@
 - > 【 full marks. 满分 】 // ------------------------------------ full marks. // question mark. // single quotation marks. // double quotation marks.
 - > 【 math score. 数学成绩 】
 - > 【 question mark. = question point. 】
-- // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n] [roundBrackets-小括号]
-- // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj] [squareBrackets-中括号]
-- // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj] [curlyBrackets-大括号]
+- // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
+- // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹号-感叹-n]
 -
 - [EXPAND-01]
 - `【 grammar 语法 n 】`
@@ -747,11 +748,14 @@
 - **【 【 adjectives 】 are used to 【 modify 】 【 nouns 】. 形容词用来修饰名词 】**
 -
 - `【 subject 主语 】`
-- `【 predicate 谓语 】` // ------------ 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
+- `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
 - `【 object 宾语 物体 对象 】`
-- `【 attributive 定语 】` // ---------- 【 attribute 属性 】
-- `【 adverbial 状语 】` // ------------ 【 adverb 副词 】 // 【 verb 动词 】
-- `【 complement 补语n 补充v 补足v 】` // 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
+- `【 attributive 定语 】` // ------------ 【 attribute 属性 】
+- `【 adverbial 状语 】` // -------------- 【 adverb 副词 】 // 【 verb 动词 】
+- `【 complement 补语n 补充v 补足v 】` // - 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
+- > 【 supplement 补充 v 】 // ------------- supplement energy. supplement nutrition.
+- > 【 complement 补充 v 】
+- > 【 complementary 互补的 补充的 adj 】// 【 complementary colors. 互补色 n 】
 -
 - `【 noun 名词 】` // ----------------- 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 pronoun 代词 】` // -------------- 【 personal pronoun. 人称代词 n 】 【 possessive pronoun. 物主代词 n 】 【 reflexive pronoun. 反身代词 】
@@ -766,6 +770,8 @@
 - `【 irregular verb. 不规则动词 】`
 - `【 countable noun. 可数名词 n 】` // - 【 count / discount / counter / encounter / account / accountant / county / country / countryside 】
 - `【 uncountable noun. 不可数名词 n 】`
+- `【 singular noun. 单数名词 n 】`
+- `【 plural noun. 复数名词 n 】`
 - > What's the 【 position 】 of the 【 preposition 】 in the sentence?
 - > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
 - // TIPS: Pay attention to the pronunciation of the word 'adjective'. [adjective-形容词-n]
@@ -812,15 +818,20 @@
 -
 - `【 countable noun. 可数名词 】`
 - `【 uncountable noun. 不可数名词 】`
-- `【 count 计数 】` // -------------------【 count down 倒计时 】
-- `【 discount 打折 v 】`
+- 福利国家`【 count 计数 】` // -------------------【 count down 倒计时 】
+- `【 discount 打折 v 】` // ------------- _【 discount coupon. 优惠卷 】_ _【 discount rate. 打折率 】_
 - `【 counter 计数器 柜台 】` // -----------【 bank counter. 银行柜台 n 】
-- `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 overcome difficulty. 克服困难 】
-- `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】
+- `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 encounter setback. 遭遇挫折 】 【 overcome difficulty. 克服困难 】
+- `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】 【 recover account. 回复账户 】
 - `【 accountant 会计 n 】` // ----------- 【 junior accountant. 初级会计 n 】 【 senior accountant. 高级会计 n 】
-- `【 county 县 n 】` // ------------------【 county court. 县法院 n 】
+- `【 county 县 n 】` // ------------------【 county government. 县政府 】 【 county court. 县法院 n 】
 - `【 country 国家 n 】` // -------------- 【 developing country. 发展中国家 n 】 【 developed country. 开发中国家 n 】 【 country / state / nation 】
 - `【 countryside 乡村 n 】`
+- > country / state / nation
+- > 1. welfare state. 福利国家 // --------- social welfare. 社会福利
+- > 2. united nations. 联合国 n
+- > 3. National Day. 国庆节 // ----------- national flag. // national anthem. // national assets.
+- > 4. foreign nationality. 外国国籍 // --- dual nationality. 双重国籍 n
 -
 - `【 greater than. 大于 】` // ---------- 【 greater than sign. 大于符号 n 】
 - `【 less than. 小于 】` // ------------- 【 less than sign. 小于符号 n 】
@@ -941,6 +952,10 @@
 - `【 curly brackets. 大括号 n 】`
 - **【 The shape of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
 - // -- like 作为像时是 preposition
+-
+- [RR.]
+- `【 complementary 互补的 补充的 adj 】`
+- **【 These two roles are 【 complementary 】. 这两个角色是互补的 】**
 
 ###### Must 2024-07-18
 
