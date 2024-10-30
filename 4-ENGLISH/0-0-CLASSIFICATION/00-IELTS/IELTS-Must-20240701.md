@@ -729,12 +729,12 @@
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
 - > 【 academic performance. 学习成绩 】
-- > 【 full marks. 满分 】
+- > 【 full marks. 满分 】 // ------------------------------------ full marks. // question mark. // single quotation marks. // double quotation marks.
 - > 【 math score. 数学成绩 】
 - > 【 question mark. = question point. 】
-- // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
-- // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
-- // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n] [roundBrackets-小括号]
+- // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj] [squareBrackets-中括号]
+- // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj] [curlyBrackets-大括号]
 -
 - [EXPAND-01]
 - `【 grammar 语法 n 】`

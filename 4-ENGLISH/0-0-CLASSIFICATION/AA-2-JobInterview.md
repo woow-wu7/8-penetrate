@@ -4,7 +4,7 @@
 
 - [-GG.]
 - `【 work intensity. 工作强度 】`
-- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
+- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】 
 - `【 density 密度 n 】` // -------- 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】` // -- 【 high concentration. 高浓度 】
 - > 【 workload 工作量 】
