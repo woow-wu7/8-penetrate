@@ -3,7 +3,7 @@
 ##### (1) **The words that you mast know.**
 
 - [-GG.]
-- `【 work intensity. 工作强度 】`
+- `【 work intensity. 工作强度 】` // 【 intense competition. 激烈的竞争 】 // 【 intense 激烈的 adj / intensity 强度 n 】
 - `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
 - `【 density 密度 n 】` // -------- 【 population density. 人口密度 】
 - `【 concentration 浓度 n 】` // -- 【 high concentration. 高浓度 】
@@ -16,6 +16,8 @@
 - _【 work intensity. 工作强度 】_
 - _【 population density. 人口密度 】_
 - _【 high concentration. 高浓度 】_
+- > intensity 强度 n
+- > intense 激烈的 adj // --------- 【 intense competition. 激烈的竞争 】
 - > 【 depth / thickness / intensity / density / concentration 】
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
