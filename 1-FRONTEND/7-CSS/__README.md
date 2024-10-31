@@ -849,9 +849,10 @@ main ------> min-height: calc(100% - footer 的高度) // 这里一定要注意�
 
 ## (二十四) filter
 
-### (24.1) filter: drop-shadow()
+### (24.1) filter: drop-shadow() VS box-shadow
 
 - 具有 alpha 通道的阴影
+- filter: drop-shadow() VS box-shadow
 - 语法
   - `filter: drop-shadow(offset-x offset-y blur-radius spread-radius注意阴影大小这个参数大多数浏览器不支持 color)`
 - 注意 drop-shadow() 和 box-shadow 的区别

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>pointer-event: none;</title>
     <style>
       .button1 {
         /* 对鼠标事件 - 不响应 */
@@ -17,9 +17,8 @@
   </head>
   <body>
     <button class="button1">按钮 pointer-events: none;</button>
-    <button class="button2">普通按钮</button>
+    <button class="button2">普通按钮 The common button responds to event.</button>
     <script>
-      // pointer 指针的意思
       const button1 = document.getElementsByClassName("button1")[0];
       button1.addEventListener("click", () => console.log(1), {
         capture: false,
@@ -35,6 +34,7 @@
       // - 作用：可以设置 ( 事件穿透 )
       // - 具体：指定在什么特定的情况下，target 可以设置为 ( 鼠标事件 ) 的 ( target )
       // - 应用: 应用即设置了 ( pointer-events:none; ) 的元素绑定的 ( 事件不会再触发 )，即用 css 的方式禁止事件响应
+      // - 英语: pointer 指针的意思
       // - 属性:
       //   - pointer-events: none; 不响应事件
       //   - pointer-events: auto; 响应事件

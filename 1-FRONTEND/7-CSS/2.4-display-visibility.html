@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>display:none; VS visibility:hidden;</title>
     <style>
       .one {
         display: none;
@@ -12,6 +12,8 @@
       .two {
         visibility: hidden;
       }
+      /* display: none; 1.隐藏后不占据原来的位置  2.在DOM中存在，只是在页面上不显示而已，css的方式隐藏*/
+      /* visibility: hidden; 1.隐藏后占据原来的位置  2.在DOM中存在，只是在页面上不显示而已，css的方式隐藏*/
     </style>
   </head>
   <body>

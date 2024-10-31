@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>filter:brightness()</title>
     <style>
       html,
       body {
@@ -13,8 +13,17 @@
       }
       .brightness {
         color: rgb(75, 0, 0);
-        animation: change-brightness 1s ease-in-out 0s infinite alternate
-          forwards;
+        animation: change-brightness 1s ease-in-out 0s infinite alternate forwards;
+
+        /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+        /* iteration 迭代 n */
+        /* alternate 交替的 adj */
+        /* infinite 无限的 adj */
+        /* finite 有限的 adj */
+
+        /* iteration-count: 1 2 infinite; */
+        /* direction: normal reverse alternate alternate-reverse; */
+        /* fill-mode: forwards backwards both none; */
       }
 
       @keyframes change-brightness {

@@ -1428,4 +1428,49 @@ We should 【 persist in resisting 】 the 【 mandatory overtime 】 without �
 
 
 3
+The person who 【 specialize in 】 the 【 specific field 】 is call 【 specialist 】.
+专攻某个特殊领域的人称为专家
+// -
+// specialize in. 专攻
+// specific field. 特殊领域
+// specialist = expert. 专家
+
+
+4
+What's the 【 proportion 】 of the 【 male students 】?
+男同学的比例是多少？
+-
+【 Probability 】 【 is proportional to 】 【 proportion 】.
+概率和比例成正比
+-
+// -
+// proportion 比例 n
+// male students. 男同学
+// female students. 女同学
+// -
+// 【 probability 概率 n 】
+// 【 proportion 比例 n 】
+// -
+// 【 be proportional to. 与...成正比 】
+
+
+5
+最后，关于是否裁掉整个市场部的会议持续了一个半小时
+
+
+6
+他被裁员后，收到了一大笔赔偿金
+-
+他收到了退款和赔偿
+-
+加班让人筋疲力尽，除了工作狂
+
+
+7
+自由职业者不需要在办公司现场办公
+
+8
+你觉得这个产品需求是否合理？
+-
+我们尽快实现需求
 ```

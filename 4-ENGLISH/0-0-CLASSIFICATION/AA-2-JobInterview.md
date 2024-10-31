@@ -21,7 +21,7 @@
 - **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
-- // -- resist 抵抗 抵制 // ----------------- insist persist assist resist
+- // -- resist 抵抗 抵制 // ----------------- insist persist assist resist // 【 assess 评估 v 】
 - // -- intensity 轻度 // ------------------ intensity density concentration
 -
 - [-FF.]
@@ -35,8 +35,8 @@
 - _【 statistical figure. 统计数字 n 】_
 - **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
 - **【 【 Obesity 】 means that you have a 【 fat figure 】, not a 【 slime figure 】. 肥胖意味着你有一个肥胖的身材而不是苗条的身材 】**
-- // -- number 数字 ------------------------ 任何情况
-- // -- figure 【 数字 】 身材 计算 ---------- 用户统计后的数字
+- // -- number 数字 -------------------------- 任何情况
+- // -- figure 【 数字 】 身材 计算 ------------ 用户统计后的数字
 - // -- 1. figure out. 计算出
 - // -- 2. slim figure. 苗条的身材
 - // -- 3. statistical figure. 统计数字
@@ -50,17 +50,22 @@
 - `【 employment 雇佣 n 】`
 - `【 unemployment 失业 n 】`
 -
-- `【 unemployment 失业 n 】`
-- `【 unemployed 失业的 adj 】`
+- `【 unemployment 失业 n 】` // --------------- 【 employment benefits. 失业金 n 】
+- `【 unemployed 失业的 adj 】` // ------------- 【 unemployed rate. 失业率 n 】
 -
 - `【 employer 雇主 老板 n 】`
 - `【 employee 员工 n 】`
 - `【 employ 雇佣 v 】`
+- // ------- assigner assignee assign // ----- 【 assign 分配 v 】
+- // ------- consigner consignee consign // -- 【 consign 托运 交付 v 】
+- // ------- employer employee employ
+- // ------- interviewer interviewee interview
+- // ------- trainer trainee train
 - **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
 - **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
 - // -- 【 figure out. 计算出 】= calculate.
 - // -- 【 figure 数字 n 身材 n 计算 v 】= digit. = number.
--
 -
 - [-FF.]
 - `【 position 位置 职位 n 】`
@@ -68,29 +73,32 @@
 - **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
 -
 - [-EE.]
-- `【 security 安全 】`
-- `【 social security. 社保 】` // 【 social security. = social insurance. 社保 】
+- `【 security 安全 】` // ----------------------- 【 security measure. 安全措施 】 【 social security. 社保 】
+- `【 social security. 社保 】` // ----------------【 social security. = social insurance. 社保 】
 - `【 social insurance. 社保 】`
+- `【 social status. 社会地位 】`
+- `【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - > 【 social security. = social insurance. 社保 】
 - > 【 social status. 社会地位 】
 - > 【 social media. 社交媒体 】
 - > 【 social welfare. 社会福利 】
+- > 【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
 - // TIPS: Pay attention to the pronunciation of the word 'status'. [status-身份-状态-地位-n] [status/statue/state]
 -
 -
 - [-DD.]
-- `【 white collar. 白领 】`
-- `【 blue collar. 蓝领 】` // --------- collar color // 【 collar 衣领 n 】
-- `【 labor 工人 劳动 】` // ------------ labor laboratory // laboratory dormitory repository factory director victory history
+- `【 white collar. 白领 】` // 【 collar 衣领 n 】
+- `【 blue collar. 蓝领 】` // --------------------- collar color // 【 collar 衣领 n 】
+- `【 labor 工人 劳动 】` // ------------------------ labor laboratory // laboratory dormitory repository factory director victory history
 - > 【 labor day. 劳动节 】
 - > 【 labor law. 劳动法 】
 - > 【 labor worker. 劳务工 】
-- > 【 labor contract. 劳动合同 】 // --- contract/contact/contrast/ transaction 交易 n
+- > 【 labor contract. 劳动合同 】 // --------------- contract/contact/contrast/ transaction 交易 n
 -
 - [-CC.]
 - `【 on duty. 值班 】`
-- `【 lose one's job. 失业 】`
+- `【 lose one's job. 失业 n 】` = unemployment
 - `【 employment rate. 就业率 】`
 - `【 unemployment rate. 失业率 】`
 - > 【 unemployed 失业的 adj 】
@@ -105,18 +113,25 @@
 - [-BB.]
 - `【 specialize 专攻 专门研究 v 】`
 - `【 specialize in. 专攻 专门研究 】`
-- 【 special 特别的 特殊的 】
-- 【 specialist 专家 专科医生 】 // specialist expert
+- > 【 special 特别的 特殊的 】
+- > 【 specialist 专家 专科医生 】 // specialist = expert
+- _【 be proficient in. 熟练于 精通于 】_
+- _【 specialize in. 专攻于 】_
 - **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
 - **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
 - // --【 specific 具体的 特殊的 adj 】
 - // --【 specific symptom. 具体的症状 】
 - // -- `【 tech stack. 技术栈 】`
+- // -- be proficient in. 熟练于 精通于
 -
 - [-AA.]
-- `【 proportion 比例 】`
-- `【 the proportion of A to B. A和B的比例  】`
+- `【 proportion 比例 n 】`
+- `【 proportional 比例的 adj 】` // ---------------- 【 be proportional to. 与...成正比 】
+- `【 probability 概率 n 】`
+- > 【 be proportional to. 与...成正比 】
 - // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- 1. **【 What's the 【 proportion 】 of male students? 男同学的比例是多少？】**
+- 2. **【 【 Probability 】 【 is proportional to 】 【 proportion 】. 概率和比例成正比 】**
 - **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】the company? 公司招聘本地员工的比例是多少？ 】**
 - **【 What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue? 工资占总收入的比例是多少 】**
 -
@@ -126,7 +141,7 @@
 - `【 last for. 持续 】`
 - `【 at last. 最后 】` = in the end. = finally.
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
-- 1. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
+- 1. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】 【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 - 2. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
 - 3. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
 - 4. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
@@ -140,21 +155,24 @@
 -
 -
 - [BB.]
-- `【 lay off. 裁员 v 】`
+- `【 lay off. 裁员 v 】` // ----------------------- 【 dismiss 解雇 v 】 // dismiss mission missile miss
 - `【 layoff. 裁员 n 】`
 - `【 economic crisis. 经济危机 】`
 - `【 economic recession 经济衰退 】`
-- 【 lay -> laid 】
+- `【 economic structure. 经济结构 】`
+- > 【 lay -> laid 】
 - > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
 - 【 economy 经济 n 】
-- 【 economic 经济的 adj 】
+- 【 economic 经济的 adj 】// ---------------------- 【 economic recession. // economic crisis. // economic structure.
+- 【 academic 学术的 adj 】// ---------------------- 【 academic performance. 学习成绩 】 【 academic research. 学术研究 n 】 【 full marks. 满分 】 math score.
 - lay 放置 安放 v
 - layout 布局
 - crisis 危机
-- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
+- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 -
-- **【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工**
+- **【 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工 】**
+- **【 The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】. 经济结构导致经济衰退和经济危机 】**
 - // -- 【 this round of. 这一轮 ... 】
 - // -- 【 layoff. 裁员 n 】
 - // -- 【 lay off. 裁员 v 】
@@ -184,7 +202,7 @@
 -
 - [CC.]
 - `【 compensate 赔偿 补偿 v 】`
-- `【 compensation 赔偿 补偿 赔偿金 n 】`
+- `【 compensation 赔偿 补偿 [赔偿金] n 】`
 - `【 refund 退款 】`
 - // fun fund refund found
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
@@ -202,6 +220,7 @@
 - `【 work overtime 加班 】`
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
+- > 【 make an effort. 努力 v 】
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
@@ -225,6 +244,7 @@
 - `【 stewardess 空姐 】`
 -
 - _【 suffer from. 遭受 患上 v 】_
+- _【 encounter 遭遇 v 】_
 -
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 -
@@ -276,6 +296,7 @@
 - //【 voluntary 自愿的 adj 】
 - > alcohol 酒精
 - > workaholic 工作狂
+- > drunk driving. 酒驾
 - **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 - 1. **【 【 workaholics 】 usually 【 volunteer to 【 work overtime 】 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
@@ -293,11 +314,13 @@
 -
 -
 - [HH.]
-- `【 freelancer 自由职业者 】`
-- `part-time job. 兼职`
+- `freelancer 自由职业者` // lance 长矛
 - `full-time job. 全职`
+- `part-time job. 兼职`
 - `odd job. 零工`
-- lance 长矛
+- `temporary job. 临时工作`
+- `casual job. 临时工作`
+- > 【 on-site. 现场的 adj 】
 - 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
 - **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
@@ -307,13 +330,16 @@
 -
 -
 - [II.]
-- `【 requirement 需求 n 】`
+- `【 requirement 需求 n 】` // ------------- product requirement. 产品需求
+- `【 demand 需求n 要求v 】` // -------------- market demand. 市场需求 n // stimulate demand. 刺激需求 v
 - `【 require 要求 v 】`
 - `【 reasonable 合理的 adj 】` // reasonable
 - `【 reason 原因 n 】`
-- // reasonable`
+- // reasonable
 - // unreasonable
 - _【 product requirement. 产品需求 】_
+- _【 market demand. 市场需求 n 】_
+- _【 stimulate demand. 刺激需求 v 】_
 - **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
 -

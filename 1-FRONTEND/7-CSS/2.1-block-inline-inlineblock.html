@@ -4,10 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>block/inline-block/inline</title>
   </head>
 
   <body>
+    <!-- 1 -->
     <!-- inline-block元素有: input textarea select img button -->
     <!-- 注意：textarea 没有 value 属性，值直接写在标签中 -->
     <input type="text" style="width: 200px; height: 200px" value="input" />
@@ -16,6 +17,7 @@
     <img style="width: 200px; height: 200px; border: 1px solid red" />
     <button style="width: 200px; height: 200px">按钮</button>
 
+    <!-- 2 -->
     <!-- inline元素有 span a -->
     <!-- inline 设置width和height无效，margin只在水平方向有效 -->
     <span style="width: 20px; height: 20px; border: 1px solid red; margin: 20px"
@@ -25,10 +27,12 @@
       >a: 设置with和height无效，margin只在水平方向有效</a
     >
 
-    <!-- block元素有 form table  div p h1-h6 ul ol li -->
+    <!-- 3 -->
+    <!-- block元素有 form table div p h1-h6 ul ol li -->
     <!-- block元素有 section header footer aside main nav -->
 
-    <!-- line-block 和 line 元素之间存在间隙，因为有空白字符，1紧挨着写来解决 2.父元素设置font-size: 0; 子元素再设置font-size的大小 -->
+    <!-- 4 -->
+    <!-- line-block 和 line 元素之间都存在间隙，因为有空白字符；1.紧挨着写来解决 2.父元素设置font-size: 0; 子元素再设置font-size的大小 -->
     <button>a</button><button>b</button> <span>a</span><span>b</span>
 
     <script>
