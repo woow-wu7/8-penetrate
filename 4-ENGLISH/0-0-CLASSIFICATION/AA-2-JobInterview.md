@@ -3,32 +3,47 @@
 ##### (1) **The words that you mast know.**
 
 - [-GG.]
-- `【 work intensity. 工作强度 】` // 【 intense competition. 激烈的竞争 】 // 【 intense 激烈的 adj / intensity 强度 n 】
-- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
-- `【 density 密度 n 】` // -------- 【 population density. 人口密度 】
-- `【 concentration 浓度 n 】` // -- 【 high concentration. 高浓度 】
-- > 【 workload 工作量 】
+- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】 // 【 intense competition. 激烈的竞争 】
+- `【 density 密度 n 】` // -------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
+- `【 concentration 浓度 n 】` // -- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
+- > 【 workload 工作量 】 // ------- 【 assign workload. 分配工作量 v 】
 - > 【 workaholic 工作狂 】
 - > 【 work intensity. 工作强度 】
 - > 【 work overtime. 加班 】
 - > 【 mandatory overtime. 强制加班 】
 - > 【 overtime pay. 加班费 】
-- _【 work intensity. 工作强度 】_
-- _【 population density. 人口密度 】_
-- _【 high concentration. 高浓度 】_
+- _【 work intensity. 工作强度 】_ // ----- _【 intense competition. 激烈的竞争 】_
+- _【 population density. 人口密度 】_ -----_【 energy density. 能量密度 】_
+- _【 liquid concentration. 液体浓度 】_ // _【 high concentration. 高浓度 】_
 - > intensity 强度 n
-- > intense 激烈的 adj // --------- 【 intense competition. 激烈的竞争 】
+- > intense 激烈的 adj // ----------------- 【 intense competition. 激烈的竞争 】
 - > 【 depth / thickness / intensity / density / concentration 】
-- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
+- // -- resist 抵抗 抵制 // ----------------- insist persist assist resist
+- // -- intensity 轻度 // ------------------ intensity density concentration
 -
 - [-FF.]
 - `【 statistic 统计数据 统计 n 】`
-- `【 statistical 统计的 adj 】`
+- `【 statistical 统计的 adj 】` // --------- 【 statistical figure. 统计数字 n 】 【 statistical report. 统计报告 n 】
 - `【 statistical report. 统计报告 n 】`
 - `【 statistical analysis. 统计分析 n 】`
+- `【 statistical figure. 统计数字 n 】` // -- 【 figure 数字 n 身材 n 计算 v 】
+- _【 statistical report. 统计报告 n 】_
+- _【 statistical analysis. 统计分析 n 】_
+- _【 statistical figure. 统计数字 n 】_
 - **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- **【 【 Obesity 】 means that you have a 【 fat figure 】, not a 【 slime figure 】. 肥胖意味着你有一个肥胖的身材而不是苗条的身材 】**
+- // -- number 数字 ------------------------ 任何情况
+- // -- figure 【 数字 】 身材 计算 ---------- 用户统计后的数字
+- // -- 1. figure out. 计算出
+- // -- 2. slim figure. 苗条的身材
+- // -- 3. statistical figure. 统计数字
+- // -- 【 slim 苗条的 】
+- // -- 【 fat 肥胖的 adj 脂肪 n 】
+- // -- 【 obesity 肥胖 n 】
+-
 -
 - [-GG.]
 - `【 employ 雇佣 v 】`
@@ -44,7 +59,7 @@
 - **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
 - **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
 - // -- 【 figure out. 计算出 】= calculate.
-- // -- 【 figure 数字 】= digit. = number.
+- // -- 【 figure 数字 n 身材 n 计算 v 】= digit. = number.
 -
 -
 - [-FF.]
@@ -61,17 +76,17 @@
 - > 【 social status. 社会地位 】
 - > 【 social media. 社交媒体 】
 - > 【 social welfare. 社会福利 】
-- // TIPS: Pay attention to the pronunciation of the word 'status'.
+- // TIPS: Pay attention to the pronunciation of the word 'status'. [status-身份-状态-地位-n] [status/statue/state]
 -
 -
 - [-DD.]
 - `【 white collar. 白领 】`
-- `【 blue collar. 蓝领 】` // collar // color
-- `【 labor 工人 劳动 】` // labor laboratory // laboratory dormitory repository factory director victory history
+- `【 blue collar. 蓝领 】` // --------- collar color // 【 collar 衣领 n 】
+- `【 labor 工人 劳动 】` // ------------ labor laboratory // laboratory dormitory repository factory director victory history
 - > 【 labor day. 劳动节 】
 - > 【 labor law. 劳动法 】
 - > 【 labor worker. 劳务工 】
-- > 【 labor contract. 劳动合同 】
+- > 【 labor contract. 劳动合同 】 // --- contract/contact/contrast/ transaction 交易 n
 -
 - [-CC.]
 - `【 on duty. 值班 】`

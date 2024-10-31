@@ -1401,3 +1401,31 @@ These two roles are 【 complementary 】.
 // -
 // complementary colors. 互补色 n
 ```
+
+##### 17 Make sentences 2024-10-31
+
+```
+1
+We should 【 persist in resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】.
+我们要坚持抵制没有加班费的加班
+// -
+// 【 persist in doing sth. = insist in doing sth. 坚持做某事 】
+// -
+// persist 坚持 v
+// insist 坚持 v
+// assist 协助 辅助 帮助 v // 【 assistant 助手 助理 n 】
+// resist 抵抗 抵制 v
+// -
+// mandatory overtime. 强制加班
+// work overtime. 工作强度
+// overtime pay. 加班工资
+
+
+2
+统计报告做了统计分析，给出了就业率和失业率的真实数字
+-
+肥胖意味着你有一个肥胖的身材而不是苗条的身材
+
+
+3
+```
