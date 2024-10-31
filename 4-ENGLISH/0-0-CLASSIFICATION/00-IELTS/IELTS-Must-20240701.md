@@ -729,7 +729,7 @@
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
 - > 【 academic performance. 学习成绩 】
-- > 【 full marks. 满分 】
+- > 【 full marks. 满分 】 // ------------------------------------ full marks. // question mark. // single quotation marks. // double quotation marks.
 - > 【 math score. 数学成绩 】
 - > 【 question mark. = question point. 】
 - // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
@@ -830,7 +830,7 @@
 - > country / state / nation
 - > 1. welfare state. 福利国家 // --------- social welfare. 社会福利
 - > 2. united nations. 联合国 n
-- > 3. National Day. 国庆节  // ----------- national flag. // national anthem. // national assets. 
+- > 3. National Day. 国庆节 // ----------- national flag. // national anthem. // national assets.
 - > 4. foreign nationality. 外国国籍 // --- dual nationality. 双重国籍 n
 -
 - `【 greater than. 大于 】` // ---------- 【 greater than sign. 大于符号 n 】
