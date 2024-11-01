@@ -3,6 +3,7 @@
 ##### (1) **The words that you mast know.**
 
 - [-GG.]
+- `【 intense 强烈的 激励的 adj 】` //【 intense dissatisfaction. 强烈的不满 】 【 intense competition. 强烈的竞争 】
 - `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】 // 【 intense competition. 激烈的竞争 】
 - `【 density 密度 n 】` // -------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
 - `【 concentration 浓度 n 】` // -- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
@@ -18,6 +19,8 @@
 - > intensity 强度 n
 - > intense 激烈的 adj // ----------------- 【 intense competition. 激烈的竞争 】
 - > 【 depth / thickness / intensity / density / concentration 】
+- _【 compete 竞争 v 】_
+- _【 competition 竞争 n 】_
 - **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**

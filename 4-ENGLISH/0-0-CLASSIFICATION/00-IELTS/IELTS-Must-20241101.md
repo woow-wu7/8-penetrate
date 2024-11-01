@@ -1,0 +1,59 @@
+###### Must 2024-11-01
+
+- 1
+- `【 satisfy 满足 满意 v 】` // ------------------- 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy need/demand/requirement. 满足需求 】
+- `【 satisfaction 满足 满意 满意度 n 】` // -------- 【 customer satisfaction. 客户满意度 】
+- > AA.
+- > 【 satisfy curiosity. 满足好奇心 v 】
+- > 【 satisfy desire. 满足欲望 v 】
+- > 【 satisfy need/demand/requirement. 满足需求 】
+- > satisfy curiosity. 满足好奇心
+- > inspire curiosity. 激发好奇心
+- > strong curiosity. 强烈的好奇心
+- > BB.
+- _【 inspiration 灵感 】_ // ---------------------- 【 creative inspiration. 创作灵感 】 【 inspire inspiration. 激发灵感 v 】
+- _【 inspire 激发 启发 v 】_ // -------------------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
+- _【 expire 过期 】_// ---------------------------- 【 expiration time. 过期时间 】 【 expired dumpling. 过期的饺子 】 【 be about to expire. 即将过期 】
+- > inspire inspiration. 激发灵感
+- > inspire curiosity. 激发好奇心
+- > inspire potential. 激发潜能
+- > potential customer. 潜在客户
+- > CC.
+- _【 desire 欲望 愿望 渴望 性欲 n 】_
+- > satisfy desire. 满足欲望
+- > DD.
+- _【 demand 要求 v 需求 n 】_ // --------------------- 【 market demand. 市场需求 】
+- _【 requirement 要求 n 需求 n 】_ // ---------------- 【 product requirement. 产品需求 】
+- _【 need 需要 v 需求 】_
+-
+- // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
+-
+- [AA.]
+- `【 customer satisfaction. 客户满意度 】`
+- `【 curiosity 好奇心 n 】`
+- `【 desire 欲望 愿望 渴望 性欲 n 】`
+- `【 command 要求v 需求n 】`
+- **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 command 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 transparent 透明的 adj 】` // -------------------- transparent / opaque
+- `【 transparency 透明度 透明 n 】` // ----------------- transparency / opacity
+- `【 opaque 不透明的 adj 】`
+- `【 opacity 不透明度 n 】`
+-
+- `【 transport 运输 v 】`
+- `【 transportation 运输 n 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'opaque'. [opaque-不透明的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'opacity'. [opacity-不透明度-n]
+-
+- [AA.]
+- `【 transparency 透明度 n 】`
+- `【 opacity 不同明度 n 】`
+- **【 The 【 transparency 】 and 【 opacity 】 of an image are related to the settings. 图片的透明度和不透明度跟设置有关 】**
