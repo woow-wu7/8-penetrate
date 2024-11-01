@@ -73,6 +73,8 @@
 - `【 junction 交叉路口 枢纽站 】` ------------- 三面的交叉 T // --- 【 junction station. 枢纽站 n 】
 - `【 intersection 十字路口 交点 n 】` --------- 四面的交叉 + // --- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
 - `【 interaction 相互作用 】` --------------- 【 interaction design. 交互设计 】
+- > 【 junction 交叉路口 枢纽站 n 】----------- 【 junction station. 枢纽站 】
+- > 【 conjunction 连词 n 】
 -
 - [AA.]
 - `【 intersection 十字路口 交点 n 】`
