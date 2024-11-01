@@ -4,25 +4,27 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>img标签的 srcset 属性</title>
     <style>
       .image-set {
         width: 100px;
         height: 100px;
 
-        background-image: -webkit-image-set(url("./images/11.png") 2x, url("./images/22.png") 3x);
-        background-image: image-set(url("./images/11.png") 2x, url("./images/22.png") 3x);
+        background-image: -webkit-image-set(url("./user.png") 2x, url("./notion.png") 3x);
+        background-image: image-set(url("./user.png") 2x, url("./notion.png") 3x);
         background-position: center;
         background-size: cover;
       }
     </style>
   </head>
   <body>
-    <img srcset="./images/user.png 1200w, ./images/notion.png 600w" alt="" />
+    <img srcset="./user.png 1200w, ./notion.png 600w" alt="" />
 
     <div class="image-set"></div>
   </body>
   <script>
+    // 调试时 请用在浏览器用手机模式和浏览器模式来回切换
+
     // 1
     // <img src="small.jpg " srcset="big.jpg 1440w, middle.jpg 800w, small.jpg 1x" />
     // - srcset 属性的作用是

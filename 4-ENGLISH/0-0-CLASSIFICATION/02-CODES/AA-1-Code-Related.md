@@ -565,6 +565,7 @@ compared 比较的 adj
 - // 【 social 社会的 adj 】
 - // 【 society 社会 n 】
 - // @media screen and (-webkit-min-device-pixel-ratio: 2 或者 3 )
+- // TIPS: Pay attention to the pronunciation of "media". [media-媒体-n]
 - **【 You can 【 obtain 】 the 【 status 】 of the SDK by listening to the chat event. 您可以通过监听聊天事件来【获取】SDK 的【状态】 】**
 - **【 Statue of Liberty 】 is a famous symbol of America. 自由女神像是美国著名的象征**
 - // `【 obtain 获得 v 】`

@@ -418,6 +418,8 @@ HTML/CSS 画环形进度条
   - 3. 然后通过 transform: scaleY(0.5) 缩放 伪元素 ( 2 倍屏缩小 0.5，3 倍屏缩小 0.333 )
 - 详见
   - 1-FRONTEND/7-CSS/3-1px-border.html
+- 英语
+- // TIPS: Pay attention to the pronunciation of "media". [media-媒体-n]
 
 ```
 .container {
@@ -505,17 +507,17 @@ HTML/CSS 画环形进度条
   - E[att*="val"] 包含
 - **伪类伪元素选择器**
   - **伪类选择器**
-    - E:hover
-    - E:focus
+    - E:hover // --------------- // TIPS: Pay attention to the pronunciation of the word 'hover'. [hover-悬停-盘旋-徘徊-v]
+    - E:focus // --------------- // TIPS: Pay attention to the pronunciation of the word 'focus'. [focus-焦点焦距-n-聚焦-v]
     - E:link
     - E:active
-    - E:visited
+    - E:visited // ---------------------------- 分割线 ----------------------------
     - E:nth-child()
     - E:nth-of-type()
-    - E:root // 详见 二十六
-    - E:not() // 详见 二十六
-    - E:is() // 详见 二十六
-    - E:where() // 详见 二十六
+    - E:root // ----------------- 详见 二十六
+    - E:is() // ----------------- 详见 二十六
+    - E:not() // ---------------- 详见 二十六
+    - E:where() // -------------- 详见 二十六
   - **伪元素选择器**
     - E::before
     - E::after

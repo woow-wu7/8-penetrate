@@ -58,6 +58,10 @@ casual 随意的 休闲的 临时的 随便的 adj / 临时工 n
 【 part-time worker. 兼职工做 】
 【 casual job. = casual work. 临时工作 】 // ----- casual job. = odd job. = temporary job. = part-time job.
 -
+odd job. 零工
+odd number. 奇数
+even number. 偶数
+-
 【 on weekends. 在周末 --- 泛指每个周末 】
 【 on the weekend. ------ 特指某一个周末 】
 -

@@ -10,6 +10,7 @@
 设置: command + ,
 
 查找: command + f
+查找左侧文件: command + shift + f
 查找后下一个: command + g
 查找后上一个: command + shift + g
 
@@ -114,6 +115,70 @@ KoroFileHeader
 - option + shift + 0
 ```
 
+##### (一) 键盘快捷键 常用 Keyboard Shortcuts
+
+```
+{
+  "key": "cmd+k cmd+s",
+  "command": "workbench.action.openGlobalKeybindings"
+}
+
+{
+  "key": "cmd+k cmd+a",
+  "command": "inlineFold.toggle"
+}
+
+{
+  "key": "cmd+k cmd+m",
+  "command": "bookmarks.toggle",
+  "when": "editorTextFocus"
+}
+
+{
+  "key": "cmd+k cmd+k",
+  "command": "workbench.files.action.collapseExplorerFolders"
+}
+{
+  "key": "cmd+k cmd+w",
+  "command": "workbench.action.closeAllEditors"
+}
+
+{
+  "key": "cmd+k cmd+t",
+  "command": "workbench.action.selectTheme"
+}
+
+-------
+{
+  "key": "shift+cmd+0",
+  "command": "tongyi.show.panel",
+  "when": "TongyiLingMa.Chat.active"
+}
+{
+  "key": "shift+cmd+9",
+  "command": "workbench.view.extension.todo-tree-container"
+}
+{
+  "key": "shift+cmd+8",
+  "command": "bookmarksExplorer.focus"
+}
+{
+  "key": "shift+cmd+7",
+  "command": "workbench.view.extension.project-manager"
+}
+{
+  "key": "shift+cmd+6",
+  "command": "workbench.view.scm", // git panel. git面板
+  "when": "workbench.scm.active"
+}
+-------
+
+{
+  "key": "alt+cmd+b",
+  "command": "extension.openInDefaultBrowser"
+}
+```
+
 ##### (二) 设置
 
 ##### (1) Explorer 左侧菜单项不见了
@@ -123,16 +188,7 @@ command + shift + p
 然后输入命令: View: Reset View Locations
 ```
 
-##### (2) 相关设置
-
-```
-1
-鼠标滚动页面的距离
-- Mouse Wheel Scroll Sensitivity
-- 0.5
-```
-
-##### (3) 命令行快捷键
+##### (2) 命令行快捷键
 
 ```
 将光标移动到行首：ctrl + a
@@ -141,27 +197,4 @@ command + shift + p
 
 vscode 将光标移动到行首：command + 左箭头
 vscode 将光标移动到行尾：command + 右箭头
-```
-
-## (二) 插件
-
-##### (1) vim 插件
-
-```
-1
-问题: 长按j不能持续移动？
-解决:
-- 1. 终端执行: defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
-- 2. 重启vscode
-复原: defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool true
-
-2
-问题: vscode 安装 vim 后打中文字会抖动？
-解决: 社区很多人遇到了这个问题，目前没有解决办法
-```
-
-##### (2) todo-tree
-
-```
-https://liubing.me/article/vscode/vscode-generic-plugin-recommended-for-todo-tree.html
 ```

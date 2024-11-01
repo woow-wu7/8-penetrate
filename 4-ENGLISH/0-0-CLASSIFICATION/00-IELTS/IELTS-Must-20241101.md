@@ -1,8 +1,8 @@
 ###### Must 2024-11-01
 
 - 1
-- `【 satisfy 满足 满意 v 】` // ------------------- 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy need/demand/requirement. 满足需求 】
-- `【 satisfaction 满足 满意 满意度 n 】` // -------- 【 customer satisfaction. 客户满意度 】
+- `【 satisfy 满足 满意 v 】` // ------------------ 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy need/demand/requirement. 满足需求 】
+- `【 satisfaction 满足 满意 满意度 n 】` // --------【 customer satisfaction. 客户满意度 】
 - > AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
 - > 【 satisfy desire. 满足欲望 v 】
@@ -22,8 +22,8 @@
 - _【 desire 欲望 愿望 渴望 性欲 n 】_
 - > satisfy desire. 满足欲望
 - > DD.
-- _【 demand 要求 v 需求 n 】_ // --------------------- 【 market demand. 市场需求 】
-- _【 requirement 要求 n 需求 n 】_ // ---------------- 【 product requirement. 产品需求 】
+- _【 demand 要求 v 需求 n 】_ // ------------------- 【 market demand. 市场需求 】
+- _【 requirement 要求 n 需求 n 】_ // -------------- 【 product requirement. 产品需求 】
 - _【 need 需要 v 需求 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
@@ -38,12 +38,9 @@
 -
 -
 -
--
--
--
 - 2
-- `【 transparent 透明的 adj 】` // -------------------- transparent / opaque
-- `【 transparency 透明度 透明 n 】` // ----------------- transparency / opacity
+- `【 transparent 透明的 adj 】` // ------------------- transparent / opaque
+- `【 transparency 透明度 透明 n 】` // ---------------- transparency / opacity
 - `【 opaque 不透明的 adj 】`
 - `【 opacity 不透明度 n 】`
 -
@@ -56,4 +53,46 @@
 - [AA.]
 - `【 transparency 透明度 n 】`
 - `【 opacity 不同明度 n 】`
-- **【 The 【 transparency 】 and 【 opacity 】 of an image are related to the settings. 图片的透明度和不透明度跟设置有关 】**
+- **【 The 【 transparency 】 and 【 opacity 】 of an 【 image 】 are related to the settings. 图片的透明度和不透明度跟设置有关 】**
+- // -- image 图片 图像 形象 n
+- // -- imagine 想象 v
+- // -- imagination 想象 n
+-
+- [BB.]
+- `【 transparency 透明度 n 】`
+- `【 transparent 透明的 adj 】`
+- > 【 transparent glass. 透明玻璃 】
+- **【 The 【 transparency 】 of the 【 transparent glass 】 is 100 percent. 透明玻璃的透明度是 100% 】**
+
+###### Must 2024-11-02
+
+- 1
+- `【 intersection 十字路口 交点 n 】`
+- `【 section 部分 段 截面 n 】`
+-
+- `【 junction 交叉路口 枢纽站 】` ------------- 三面的交叉 T // --- 【 junction station. 枢纽站 n 】
+- `【 intersection 十字路口 交点 n 】` --------- 四面的交叉 + // --- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
+- `【 interaction 相互作用 】` --------------- 【 interaction design. 交互设计 】
+-
+- [AA.]
+- `【 intersection 十字路口 交点 n 】`
+- `【 junction station 枢纽站 n 】`
+- **【 cross the 【 intersection 】 you will see the 【 junction station 】. 穿过十字路口，你就会看到枢纽站 】**
+-
+-
+-
+-
+- 2
+- `【 vision 视觉 视力 n 】`
+- `【 hearing 听觉 n 】`
+- `【 smell 嗅觉 n / 闻 v 】`
+- `【 taste 味觉 n / 尝 v 】` // ------------------ 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
+- `【 touch 触觉 n 】`
+- `【 pain 痛觉 n 】`
+- > The sense of pain/touch/taste/smell/hearing/vision
+-
+- [AA.]
+- **【 The 【 sense 】 of 【 vision 】 and 【 touch 】 is 【 equally 】 important. 视觉和触觉同等重要 】**
+- // -- 【 equally 想等地 同等地 adv 】
+- // -- 【 make sense. 有道理 n 】
+- // -- 【 common sense. 常识 n 】
