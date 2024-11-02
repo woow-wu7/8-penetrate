@@ -51,6 +51,8 @@
 - > 【 afterward 后来 adv 】
 - > 【 forward 向前的 adj adv 】 // ------------【 backward 向后的 adj adv 】
 - > 【 sword 剑 n 】 // ---------------------- 【 swordsman 剑客 n 】
+- embarrassed. 尴尬的 adj = awkward.
+- embarrassing 尴尬的 adj // ----------------- 【 it's embarrassing. 这很尴尬 】
 - AA.
 - _【 award winner. 获奖者 n 】_
 - _【 award ceremony. 颁奖典礼 n 】_

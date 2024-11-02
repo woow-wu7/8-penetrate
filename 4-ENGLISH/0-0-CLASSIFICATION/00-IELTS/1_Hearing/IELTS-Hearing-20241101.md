@@ -46,6 +46,7 @@ comply with. = obey 遵守 v
 // AA.
 // 1. I'm kind of hot. 我有点热
 // 2. I'm getting kind of hungry. 我有点饿
+// 2. I get kind of angry. 我有点生气
 // 3. The movie is【 a kind of 】 boring. 这部电影有点儿无聊
 // BB.
 // 1. A phone is 【 a kind of 】 device. 手机是一种设备
@@ -53,10 +54,35 @@ comply with. = obey 遵守 v
 
 
 【 It's not such a big deal. 没什么大不了的 】
+// 1. Don't 【 worry about 】 the problem, It's 【 not such a big deal 】. 别担心这个错误，这没什么大不了的。
 
 
+at speed. 快速的 adj
+// 1. The train is running 【 at high speed 】. 火车正在高速行驶
+
+
+switch it off. 关掉 = to turn it off.
+switch it on. 打开 = to turn it on.
 
 honey 蜜蜂 宝贝
 idol 偶像 n // ---------------------------- 【 super idol. 超级偶像 】 【 worship idol. 崇拜偶像 】
 role model. 榜样
+-
+complicated 复杂的 adj
+complex 复杂的 adj
+complicated = complex. 大多数情况可以互换
+-
+pretty 漂亮的adj 非常adv
+【 pretty polite. 非常有礼貌 】
+-
+at speed. 快速的 adj
+// The train is running 【 at high speed 】. 火车正在高速行驶
+-
+candy 糖果 n
+sugar 糖 n
+-
+uncommon 罕见的 adj
+-
+smelly 发臭的 adj
+smell 味道 气味 嗅觉 n / 嗅v
 ```

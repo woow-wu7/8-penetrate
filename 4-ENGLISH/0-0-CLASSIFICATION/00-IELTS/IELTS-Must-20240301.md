@@ -1212,6 +1212,8 @@
 - _【 fried egg. 煎蛋 】_ // fry 油炸 v // fried 油炸的 adj 过去式
 - _【 boiled egg. 水煮蛋 】_
 - _【 hatch egg. 孵蛋 】_
+- // Neither of them likes it. 两者都不喜欢 翻译
+- // The color of these shoes is red. 这双鞋的颜色是红色
 - -
 - _【 duck egg. 鸭蛋 】_
 - _【 bird egg. 鸟蛋 】_
@@ -1224,14 +1226,15 @@
 - **【 Eggs consist of 【 eggshell 】, 【 egg white 】, and 【 egg yolk 】. 鸡蛋由蛋壳，蛋清，蛋黄组成 】**
 - **【 Eggs 【 are composed of 】 【 eggshell 】, 【 egg white 】, and 【 egg yolk 】. 鸡蛋由蛋壳，蛋清，蛋黄组成 】**
 - // -
-- // -- 【 consist of. 由...组成 】
+- // -- 【 consist of. 由...组成 】[D 由 abc 组成]
 - // -- 【 be made of. 由...制成 】----------- // passive voice. 被动语态
-- // -- 【 be composed of. 由...组成 】------- // passive voice. 被动语态
+- // -- 【 be composed of. 由...组成 】------- // passive voice. 被动语态 [abc 组成 D]
 - // TIPS: Pay attention to the pronunciation of the word 'consist'.
 - // ggg: dd
 - // -
-- // --【 passive voice. 被动语态 】
-- // -- passive 被动的 消极的 adj
+- // --【 passive voice. 被动语态 】 // ---- 【 passively accept. 被动接受 】
+- // --【 active voice. 主动语态 】 // ----- 【 actively pursue. 主动追求 】 // chase fugitive(refugee/refuge). 追捕逃犯 // chase dream. //  purse happiness.
+- // -- passive 被动的 消极的 adj // dizzy // bookmark书签 // label tab 标签
 - // -- active 主动的 积极的 adj
 - // -- voice 声音 语态 n
 -
