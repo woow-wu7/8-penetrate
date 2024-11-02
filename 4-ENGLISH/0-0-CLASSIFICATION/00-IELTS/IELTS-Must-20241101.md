@@ -1,29 +1,33 @@
 ###### Must 2024-11-01
 
 - 1
-- `【 satisfy 满足 满意 v 】` // ------------------ 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy need/demand/requirement. 满足需求 】
+- `【 satisfy 满足 满意 v 】` // ------------------ 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy demand/need/requirement. 满足需求 】
 - `【 satisfaction 满足 满意 满意度 n 】` // --------【 customer satisfaction. 客户满意度 】
-- > AA.
+- AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
 - > 【 satisfy desire. 满足欲望 v 】
 - > 【 satisfy need/demand/requirement. 满足需求 】
 - > satisfy curiosity. 满足好奇心
 - > inspire curiosity. 激发好奇心
 - > strong curiosity. 强烈的好奇心
-- > BB.
-- _【 inspiration 灵感 】_ // ---------------------- 【 creative inspiration. 创作灵感 】 【 inspire inspiration. 激发灵感 v 】
-- _【 inspire 激发 启发 v 】_ // -------------------- 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】
-- _【 expire 过期 】_// ---------------------------- 【 expiration time. 过期时间 】 【 expired dumpling. 过期的饺子 】 【 be about to expire. 即将过期 】
+- BB.
+- _【 inspiration 灵感 】_ // -------------------- 【 creative inspiration. 创作灵感 】 【 inspire inspiration. 激发灵感 v 】
+- _【 inspire 激发 启发 v 】_ // ------------------ 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】 【 inspire inspiration. 激发灵感 v 】
+- _【 expire 过期 】_// -------------------------- 【 expiration time. 过期时间 】 【 expired dumpling. 过期的饺子 】 【 be about to expire. 即将过期 】
 - > inspire inspiration. 激发灵感
 - > inspire curiosity. 激发好奇心
 - > inspire potential. 激发潜能
 - > potential customer. 潜在客户
-- > CC.
+- > customer satisfaction. 客户满意度
+- CC.
 - _【 desire 欲望 愿望 渴望 性欲 n 】_
+- _【 greedy 贪婪的 adj 】_
 - > satisfy desire. 满足欲望
-- > DD.
-- _【 demand 要求 v 需求 n 】_ // ------------------- 【 market demand. 市场需求 】
-- _【 requirement 要求 n 需求 n 】_ // -------------- 【 product requirement. 产品需求 】
+- > greedy desire. 贪婪的欲望
+- > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
+- DD.
+- _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
+- _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】
 - _【 need 需要 v 需求 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
@@ -37,17 +41,38 @@
 - `【 command 要求v 需求n 】`
 - **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 demand 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
 -
+- [BB.]
+- `【 inspire 激发 启发 v 】`
+- `【 creative inspiration. 创作灵感 】`
+- `【 satisfy curiosity. 满足好奇心 】`
+- > 【 start with. 从...开始 】
+- **【 【 inspiring 】 【 creative inspiration 】 start with 【 satisfying curiosity 】. 激发创作灵感从满足好奇心开始 】**
+- // -- start with. 从...开始
+- // -- start out. 从...开始 以...开始
+- // -- 【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】
+- // -- 【 Let's 【 start out 】 by 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】
+- // -- 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 -
 -
 -
 - 2
-- `【 transparent 透明的 adj 】` // ------------------- transparent / opaque
-- `【 transparency 透明度 透明 n 】` // ---------------- transparency / opacity
+- `【 transparent 透明的 adj 】` // ---------------- transparent / opaque
+- `【 transparency 透明度 透明 n 】` // ------------- transparency / opacity
 - `【 opaque 不透明的 adj 】`
 - `【 opacity 不透明度 n 】`
 -
 - `【 transport 运输 v 】`
 - `【 transportation 运输 n 】`
+-
+- AA.
+- _【 image 图片 图像 形象 n 】_
+- _【 imagine 想象 v 】_ // ---------------------- 【 subvert imagination. 颠覆想象 】
+- _【 imagination 想象 想象力 n 】_
+- > subvert imagination. 颠覆想象
+- BB.
+- _【 subvert 颠覆 】_ // ------------------------ 【 subvert cognition. 颠覆认知 】 【 subvert imagination. 颠覆想象 】
+- _【 invert 颠倒 倒置 反转 v 】_ // --------------- 【 invert selection. 反选 v 】
+- _【 introvert 内向的人 n 内向的 adj 】_ // ------- 【 introvert / extrovert 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'opaque'. [opaque-不透明的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'opacity'. [opacity-不透明度-n]
@@ -69,14 +94,20 @@
 ###### Must 2024-11-02
 
 - 1
-- `【 intersection 十字路口 交点 n 】` // ----- 【 intersection point. 交点 n 】
-- `【 section 部分 段 截面 n 】`
--
+- `【 conjunction 连词 n 】`
 - `【 junction 交叉路口 枢纽站 】` ------------- 三面的交叉 T // --- 【 junction station. 枢纽站 n 】
 - `【 intersection 十字路口 交点 n 】` --------- 四面的交叉 + // --- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
 - `【 interaction 相互作用 】` --------------- 【 interaction design. 交互设计 】
-- > 【 junction 交叉路口 枢纽站 n 】----------- 【 junction station. 枢纽站 】
-- > 【 conjunction 连词 n 】
+- > 【 junction station. 枢纽站 】
+- > 【 intersection point. 交点 】
+- > 【 focus point. 焦点 n 】
+- > 【 interaction design. 交互设计 n 】
+-
+- `【 intersection 十字路口 交点 n 】` // ----- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
+- `【 section 部分 部门 段 截面 n 】` // ------ 【 a section of road. 一段路 】
+- > 【 a section of road. 一段路 n 】
+- > 【 intersection point. 交点 n 】
+- > 【 cross the intersection. 穿过十字路口 】
 -
 - [AA.]
 - `【 intersection 十字路口 交点 n 】`
@@ -90,14 +121,14 @@
 - `【 vision 视觉 视力 n 】`
 - `【 hearing 听觉 n 】`
 - `【 smell 嗅觉 n / 闻 v 】`
-- `【 taste 味觉 n / 尝 v 】` // ------------------ 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
+- `【 taste 味觉 n / 尝 v 】` // ---------------- 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
 - `【 touch 触觉 n 】`
 - `【 pain 痛觉 n 】`
 - > The sense of pain/touch/taste/smell/hearing/vision
 -
 - AA.
-- _【 scene 场景 现场 】_
-- _【 sense 感应 感觉 】_
+- _【 scene 场景 现场 】_ // ----------------------【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 n 】
+- _【 sense 感应 感觉 】_ // ----------------------【 make sense. 有道理 n 】 【 common sense. 常识 n 】 【 The sense of pain. 痛觉 】
 - > crime scene. 犯罪现场
 - > accident scene. 事故现场
 - > make sense. 有道理 n
@@ -105,8 +136,8 @@
 - > The sense of pain/touch/taste/smell/hearing/vision
 -
 - BB.
-- _【 crime 犯罪 罪行 n 】_
-- _【 criminal 犯罪的 adj 】_
+- _【 crime 犯罪 罪行 n 】_ // -------------------【 crime scene. 犯罪现场 n 】
+- _【 criminal 犯罪的 adj 】_ // ---------------- 【 criminal record. 犯罪记录 n 】
 - > crime scene. 犯罪现场
 - > criminal record. 犯罪记录
 -
@@ -120,3 +151,16 @@
 ###### Must 2024-11-03
 
 - 1
+- `【 opinion 意见 观点 看法 n 】` // ------------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
+- `【 option 选项 选择 选择权 n 】` // ------------ 【 exercise option. 行使选择权 】
+- `【 optional 可选的 adj 】`
+-
+- `【 onion 洋葱 n 】`
+- `【 union 工会 联盟 n 】`
+- `【 opinion 意见 观点 看法 n 】`
+-
+- [AA.]
+- `【 opinion 意见 观点 看法 n 】`
+- `【 union 工会 联盟 n 】`
+- `【 onion 洋葱 n 】`
+- **【 My 【 opinion 】 is that the 【 union 】 can't buy 【 onions 】. 我的观点是工会不能购买洋葱 】**
