@@ -9,23 +9,25 @@
 主题设置: command+k / command+t
 设置: command + ,
 
-查找: command + f
 查找左侧文件: command + shift + f
+查找: command + f
 查找后下一个: command + g
 查找后上一个: command + shift + g
+
+同时选择上一行相同位置 (Command + Option + Up)
+同时选择下一行相同位置(Command + Option + Down)
 
 返回上一步: control + -
 从上一步返回: control + shift + -
 返回光标的上一步: command + u
 
+展开折叠代码: command+k + command+0   // -------------- command+k + command+j
+展开折叠一个函数的所有代码: command+k + command+ 】  // -- command+k + command +【
+展开折叠单签位置代码: command+option+【   // ------------ command+option + 】
+
 展开/收缩左侧菜单: command + b
 // 提示: 当光标在代码中时，比如在md中，command+b是强调加黑的效果
 // 所以: 我们需要用 command+shift+e，先选中左侧菜单，在 command+b 显示隐藏
-
-展开折叠代码: command+k + command+0   /   command+k + command+j
-展开折叠一个函数的所有代码: command+k + command+]  /   command+k + command+[
-展开折叠单签位置代码: command+option+[   / command+option+]
-
 
 -------
 

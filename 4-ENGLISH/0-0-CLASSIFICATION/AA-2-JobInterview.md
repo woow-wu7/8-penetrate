@@ -3,8 +3,8 @@
 ##### (1) **The words that you mast know.**
 
 - [-GG.]
-- `【 intense 强烈的 激励的 adj 】` //【 intense dissatisfaction. 强烈的不满 】 【 intense competition. 强烈的竞争 】
-- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】 // 【 intense competition. 激烈的竞争 】
+- `【 intense 强烈的 激励的 adj 】` //【 intense competition. 强烈的竞争 】 【 intense dissatisfaction. 强烈的不满 】
+- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
 - `【 density 密度 n 】` // -------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
 - `【 concentration 浓度 n 】` // -- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
 - > 【 workload 工作量 】 // ------- 【 assign workload. 分配工作量 v 】
@@ -13,6 +13,7 @@
 - > 【 work overtime. 加班 】
 - > 【 mandatory overtime. 强制加班 】
 - > 【 overtime pay. 加班费 】
+- intensity / opacity
 - _【 work intensity. 工作强度 】_ // ----- _【 intense competition. 激烈的竞争 】_
 - _【 population density. 人口密度 】_ -----_【 energy density. 能量密度 】_
 - _【 liquid concentration. 液体浓度 】_ // _【 high concentration. 高浓度 】_
@@ -30,9 +31,6 @@
 - [-FF.]
 - `【 statistic 统计数据 统计 n 】`
 - `【 statistical 统计的 adj 】` // --------- 【 statistical figure. 统计数字 n 】 【 statistical report. 统计报告 n 】
-- `【 statistical report. 统计报告 n 】`
-- `【 statistical analysis. 统计分析 n 】`
-- `【 statistical figure. 统计数字 n 】` // -- 【 figure 数字 n 身材 n 计算 v 】
 - _【 statistical report. 统计报告 n 】_
 - _【 statistical analysis. 统计分析 n 】_
 - _【 statistical figure. 统计数字 n 】_

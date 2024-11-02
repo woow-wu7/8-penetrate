@@ -11,23 +11,27 @@
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
-- // _【 eye specialist. 眼科专家 】_
-- // _【 specialist clinic. 专科诊所 】_
-- // _【 dental clinic. 牙医诊所 】_
-- // _【 dental floss. 牙线 】_
-- // _【 dental braces. 牙套 】_
-- // 【 private property. 私人财产 n 】
-- // 【 private conversation. 私人谈话 】
-- // 【 personal privacy. 个人隐私 】
-- // _【 pharmacy = drugstore. 药房 】_
-- // _【 pharmacist 药剂师 n 】_
+- _【 specialist clinic. 专科诊所 】_
+- _【 eye specialist. 眼科专家 】_
+- AA.
+- _【 dental 牙齿的 牙科的 adj 】_
+- _【 dental clinic. 牙医诊所 】_
+- _【 dental floss. 牙线 】_
+- _【 dental braces. 牙套 】_ // --------------- 【 glove 手套 n 】
+- BB.
+- 【 private property. 私人财产 n 】// --------- 【 private 私人的 私有的 adj 】
+- 【 private conversation. 私人谈话 】
+- 【 personal privacy. 个人隐私 】
+- CC.
+- _【 pharmacy = drugstore. 药房 】_
+- _【 pharmacist 药剂师 n 】_
 -
-- `【 outpatient department. 门诊部 】` // -------【 patient 病人 n 】 【 patience 耐心 n 】
+- `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
-- `【 emergency room. 急诊室 】` ---------------- 【 ER 】
+- `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
 - `【 waiting room. 候诊室 】`
-- `【 registration form. 登记表 】`
+- `【 registration form. 登记表 】` // ---------- 【 deposit slip. 存款单 n 】 【 withdraw slip. 取款单 n 】 // slip 滑倒 v
 - `【 registration office/desk. 挂号处 】` ------ 【 fill out the registration form. 填写登记表 】 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
@@ -38,22 +42,39 @@
 - // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
 -
-- `【 ward 病房 n 】`
-- `【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】
+- `【 ward 病房 n 】` // ----------------------- war ward
+- `【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】 // catch up with. // overtake
 - `【 award 奖n 授予v 】` // ------------------ 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
 - > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
 - > 【 coward 胆小鬼 n 】
 - > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
 - > 【 afterward 后来 adv 】
-- > 【 forward 向前的 adj adv 】
-- > 【 backward 向后的 adj adv 】
+- > 【 forward 向前的 adj adv 】 // ------------【 backward 向后的 adj adv 】
+- > 【 sword 剑 n 】 // ---------------------- 【 swordsman 剑客 n 】
+- AA.
 - _【 award winner. 获奖者 n 】_
 - _【 award ceremony. 颁奖典礼 n 】_
+- CC.
+- > 【 award ceremony. 颁奖典礼 n 】
 - > 【 graduation ceremony. 毕业典礼 n 】
 - > 【 opening ceremony. 开幕式 n 】
 - > 【 closing ceremony. 闭幕式 n 】
-- _【 first prize. 一等奖 】_
-- _【 first place. 第一名 】_
+- CC.
+- _【 steward 乘务员 空少 】_ -------【 stewardess 空姐 】
+- _【 waiter 男服务员 】_ ---------- 【 waitress 女服务员 n 】
+- _【 actor 男演员 】_ ------------- 【 actress 女演员 n 】
+- _【 headmaster 难校长 】_ -------- 【 headmistress 女校长 n 】
+- _【 prince 王子 】_ ------------- 【 princess 公主 n 】
+- **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
+- DD.
+- > 【 first prize. 一等奖 】
+- > 【 first place. 第一名 】
+- > 【 【 catch up with first 】 place. 赶上第一名 】
+- > 【 【 overtake 】 second place. 超过第二名 】
+- EE.
+- // TIPS: Pay attention to the pronunciation of the word 'award'. [award-奖-n] [award-ceremony-颁奖典礼-n] [award-winner-获奖者-n]
+- // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
+- // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
 - // 【 treat/retreat 】` ---------------------【 treat 对待 治疗 v 】 // ---【 retreat 撤退 v 】
 - // 【 tail/retail 】` -----------------------【 tail 尾巴 n 】 // ---------【 retail 零售 v 】// - 【 retail store. 零售店 】 【 retail price. 零售价 n 】
 - // 【 tire/retire 】` -----------------------【 tire 轮胎 n 疲劳 n 】// --- 【 retire 退休 】 // ---【 entire 整个 = whole. 】
@@ -66,12 +87,10 @@
 - // 【 ward/reward 】` -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
 - // 【 fun / fund / refund / found 】
 -
-- `【 register 登记 注册 挂号 v  】`
-- `【 registration office/desk. 挂号处 n 】`
+- `【 register 登记 注册 挂号 v  】` // ------ **【 registration form. 登记表 n 】**
 - `【 registration form. 登记表 n 】` // -------【 fill out the registration form. 填写登记表 】
+- `【 registration office/desk. 挂号处 n 】`
 - `【 fill out the registration form. 填写登记表 】`
-- // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
-- // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
 -
 - [AA.]
 - `【 register 登记 注册 挂号 v 】`
@@ -86,12 +105,13 @@
 - `【 award winner. 获奖者 n 】`
 - `【 the title of. ...的称号 】`
 - **【 At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of the 】 hero. 在颁奖典礼上，这个获奖者被授予英雄称号 】**
+- // -- the title of. ...的称号
 -
 - [CC.]
-- `【 patient 病人 n 】`
-- `【 clinic 诊所 n 】`
-- `【 pharmacy 药店 n 】`
-- `【 ward 病房 n 】`
+- `【 patient 病人 n 有耐心的 adj 】`
+- `【 clinic 诊所 n 】` // dental clinic. // specialist clinic. // private clinic.
+- `【 pharmacy 药店 n 】` // drugstore.
+- `【 ward 病房 n 】` // ward reward award awkward coward steward afterward
 - **【 There are many 【 patients 】 in the 【 clinic 】, 【 pharmacy 】, and 【 ward 】. 诊所，药房，病房都有很多病人 】**
 -
 - [DD.]
@@ -114,6 +134,12 @@
 - `【 fill out. 填写 v 】`
 - **【 Before 【 checking into 】 the hotel, you need to 【 register 】 first and 【 fill out 】 the 【 registration form 】. 入住酒店前需要先登记并填写登记表 】**
 -
+- [GG.]
+- `【 refund 退款 n / 退还 v 】`
+- `【 compensation 补偿 赔偿 n 】`
+- > 【 compensate 补偿 赔偿 v 】
+- **【 He received a 【 refund 】 as 【 compensation 】. 她收到了退款作为补偿 】**
+-
 -
 -
 -
@@ -125,7 +151,7 @@
 - [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
-- `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】
+- `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
 - > 【 poison gas. 毒气 有毒气体 n 】
 - _【 antidote 解药 n 】_
@@ -208,6 +234,16 @@
 - `【 brand 品牌 n 】`
 - `【 band 乐队n 】`
 - **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
+-
+- [FF.]
+- `【 snap 咬 v 】`
+- `【 slap 扇巴掌 n 】`
+- `【 palm 手掌 n 】` // --------- palm // back of hand.
+- `【 exude 流出 渗出 流露 v 】` // exude rude
+- **【 You 【 slap 】 the tree with your 【 palm 】 and 【 snap 】 the tree with your teeth, which 【 leads to 】the tree 【 exuding 】 【 sap 】. 你用手掌扇树，用牙齿咬树，使得树流出了汁液 】**
+- // -- exude 流出 渗出 流露 v
+- // -- palm 手掌 n
+- // -- back of hand. 手背 n
 -
 -
 -
