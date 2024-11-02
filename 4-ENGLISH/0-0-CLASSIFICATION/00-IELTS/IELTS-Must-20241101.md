@@ -27,13 +27,15 @@
 - _【 need 需要 v 需求 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
+- // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-灵感-n] [creative-inspiration-创作灵感-n]
+- // TIPS: Pay attention to the pronunciation of the word 'inspire'. [inspire-激发-启发-v] [inspire-curiosity-激发好奇心] [inspire-potential-激发潜能]
 -
 - [AA.]
 - `【 customer satisfaction. 客户满意度 】`
 - `【 curiosity 好奇心 n 】`
 - `【 desire 欲望 愿望 渴望 性欲 n 】`
 - `【 command 要求v 需求n 】`
-- **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 command 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
+- **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 demand 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
 -
 -
 -
@@ -67,7 +69,7 @@
 ###### Must 2024-11-02
 
 - 1
-- `【 intersection 十字路口 交点 n 】`
+- `【 intersection 十字路口 交点 n 】` // ----- 【 intersection point. 交点 n 】
 - `【 section 部分 段 截面 n 】`
 -
 - `【 junction 交叉路口 枢纽站 】` ------------- 三面的交叉 T // --- 【 junction station. 枢纽站 n 】
@@ -93,8 +95,28 @@
 - `【 pain 痛觉 n 】`
 - > The sense of pain/touch/taste/smell/hearing/vision
 -
+- AA.
+- _【 scene 场景 现场 】_
+- _【 sense 感应 感觉 】_
+- > crime scene. 犯罪现场
+- > accident scene. 事故现场
+- > make sense. 有道理 n
+- > common sense. 常识 n
+- > The sense of pain/touch/taste/smell/hearing/vision
+-
+- BB.
+- _【 crime 犯罪 罪行 n 】_
+- _【 criminal 犯罪的 adj 】_
+- > crime scene. 犯罪现场
+- > criminal record. 犯罪记录
+-
 - [AA.]
+- `【 equally 相等地 同等地 adv 】`
 - **【 The 【 sense 】 of 【 vision 】 and 【 touch 】 is 【 equally 】 important. 视觉和触觉同等重要 】**
-- // -- 【 equally 想等地 同等地 adv 】
+- // -- 【 equally 相等地 同等地 adv 】
 - // -- 【 make sense. 有道理 n 】
 - // -- 【 common sense. 常识 n 】
+
+###### Must 2024-11-03
+
+- 1

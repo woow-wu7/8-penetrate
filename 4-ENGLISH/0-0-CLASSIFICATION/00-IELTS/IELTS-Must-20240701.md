@@ -697,6 +697,8 @@
 - `【 singular noun. 单数名词 n 】` --- 【 plural noun. 复数名词 n 】
 - > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
+- _【 conjunction 连词 n 】_
+- _【 junction 交叉路口 枢纽站 n 】_ // - 【 junction station. 枢纽站 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'adjective'. [auxiliary-辅助的-adj]
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
@@ -715,7 +717,7 @@
 - // 【 singular 单数的 adj 】 --------- 【 singular noun. 单数名词 n 】 【 plural noun. 复数名词 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
 -
-- `【 comma 逗号 n 】` // --------------------------------------- comma逗号  // TV drama. 电视剧
+- `【 comma 逗号 n 】` // --------------------------------------- comma 逗号 // TV drama. 电视剧
 - `【 period 句号 n 】` = full stop. // ------------------------- 【 period 一段时间 [句号] 】
 - `【 full stop. 句号 n 】` = period.
 - `【 question mark. 问号 n 】 = question point.` // ------------ 【 full marks. 满分 】 【 question mark. 问号 n 】
