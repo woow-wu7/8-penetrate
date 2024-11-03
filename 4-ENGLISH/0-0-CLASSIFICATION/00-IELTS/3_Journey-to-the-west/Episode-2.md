@@ -1,4 +1,4 @@
-# 西游记 chapter 2: The Waterfall Cave
+# Journey to the west. 西游记 2
 
 ```
 Monkey splashed through the waterfall and landed in a large cave.

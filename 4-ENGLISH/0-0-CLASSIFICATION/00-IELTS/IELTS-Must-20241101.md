@@ -170,19 +170,57 @@
 
 - 1
 - `【 dump 倒v 垃圾场n 】`
-- `【 dumpling 饺子 n 】`
-- `【 dumb 愚蠢的 哑的 adj 】`
+- `【 dumpling 饺子 n 】` // --------------- 【 expired dumpling. 过期的饺子 n 】 【 make dumpling. 包饺子 n 】
+- `【 dumb 愚蠢的 哑的 adj 】` // ----------- 【 play dumb. 装傻 v 】 **【 play dumb. 装傻 v 】**
+- `【 dumbbell 哑铃 n 】` // --------------- 【 lift dumbbell. 举哑铃 】 // dumbbell doorbell
+- `【 doorbell 门铃 n 】` // --------------- 【 ring doorbell. 按门铃 】
+- > 【 play dumb. 装傻 v 】
+- > 【 lift dumbbell. 举哑铃 v 】
+- > 【 ring doorbell. 按门铃 v 】
 -
-- `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
-- `【 jump 跳 v 】`
+- `【 pump 抽水机n 注入v 】` // ------------- 【 gas pump. 加油机 n 】
+- `【 jump 跳 v 】` // --------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】
 - `【 dump 倒v 垃圾场n 】`
-- `【 stump 树桩 n 】`
+- `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】
+- > 【 gas pump. 加油机 n 】
+- > 【 cut in line. = cut in queue. = jump the line. = jump the queue. 插队 】
+- > 【 line up. = queue up. 排队 】
+- _【 gas tank. 油箱 n 】_
+- _【 gas cap. 邮箱盖 】_
+- _【 gas pump. 加油机 n 】_
+- _【 gas nuzzle. 加油抢 n 】_
+- _【 gas station. 加油站 】_
+- _【 gas pedal. 油门踏板 】_
+- _【 gas gauge. 油表 】_
+- _【 gas grade. 汽油等级 】_
 -
-- `【 pumpkin 南瓜 】`
+- `【 pumpkin 南瓜 】` // ----------------------- 【 pumpkin porridge. 南瓜粥 n 】
 - `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
+- > 【 pumpkin porridge. 南瓜粥 n 】
+-
+- `【 doorbell 门铃 n 】` // -------------------- 【 ring doorbell. 按门铃 v 】
+- `【 dumbbell 哑铃 n 】` // -------------------- 【 lift dumbbell. 举哑铃 v 】
 -
 - [AA.]
 - `【 dump 倒 灌 倾泻 v 】`
 - `【 dumpling 饺子 n 】`
 - `【 dumb 愚蠢的 哑的 adj 】`
 - **【 【 Dumping 】 the 【 unexpired 】 【 dumplings 】 into the 【 trash can 】 is 【 dumb 】. 把没有过期的饺子倒进垃圾桶是愚蠢的 】**
+-
+- [BB.]
+- `【 dumb 愚蠢的 哑的 adj 】` // --------------- 【 dumbly 愚蠢地 adv 】
+- `【 dump 倒 灌 倾泻 v 垃圾场 n 】`
+- `【 dumpling 饺子 n 】`
+- `【 tree stump. 树桩 n 】`
+- `【 pumpkin 南瓜 n  】`
+- **【 After 【 pumping 】 the 【 tree stump 】,【 pumpkin 】， and 【 dumpling 】 into the 【 dump 】, he 【 jumped 】 into the water 【 dumbly 】. 他把树桩，南瓜，饺子倒进垃圾场后，愚蠢地跳进了水里 】**
+-
+- [CC.]
+- `【 play dumb. 装傻 v 】`
+- `【 tree stump. 树桩 n 】`
+- **【 He 【 played dumb 】 【 beside 】 the 【 tree stump 】. 他在树桩傍边装傻 】**
+-
+- [DD.]
+- `【 lift dumbbell. 举哑铃 v 】`
+- `【 ring doorbell. 按门铃 v 】`
+- **【 He is lifting dumbbells, not ringing doorbell. 他在举哑铃，而不是在按门铃 】**
