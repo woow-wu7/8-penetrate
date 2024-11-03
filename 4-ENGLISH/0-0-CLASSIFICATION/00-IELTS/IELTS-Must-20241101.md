@@ -45,12 +45,16 @@
 - `【 inspire 激发 启发 v 】`
 - `【 creative inspiration. 创作灵感 】`
 - `【 satisfy curiosity. 满足好奇心 】`
-- > 【 start with. 从...开始 】
+- > 【 start with. 从...开始 】// ----------------- start with doing sth.
+- > 【 start out. 从...开始 】 // ----------------- start out by doing sth. 从做...开始
+- > 【 start off. 从...开始 】 // ----------------- start off by doing sth. 从做...开始
+- 【 start out by doing sth. = start off by doing sth. 从...开始 】
 - **【 【 inspiring 】 【 creative inspiration 】 【 start with 】 【 satisfying curiosity 】. 激发创作灵感从满足好奇心开始 】**
 - // -- start with. 从...开始
 - // -- start out. 从...开始 以...开始
-- // -- 【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】
-- // -- 【 Let's 【 start out 】 by 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】
+- // -- 1. _【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】_
+- // -- 2. _【 Let's 【 start out 】 by 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
+- // -- 3. _【 Let's start off by introducing ourselves. 让我们从自我介绍开始吧 】_
 - // -- 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 -
 -
@@ -155,10 +159,13 @@
 - `【 opinion 意见 观点 看法 n 】` // ------------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
 - `【 option 选项 选择 [选择权] n 】` // ---------- 【 exercise option. 行使选择权 】
 - `【 optional 可选的 adj 】` // ---------------- 【 optional course. 可选的课程 n 】 // courage 勇气 n
+- > 【 public opinion. 舆论 n 】
+- > 【 in my opinion. 在我看来 / 我的意见是 】
+- _【 exercise option. 行驶选择权 v 】_
 -
-- `【 onion 洋葱 n 】`
+- `【 onion 洋葱 n 】` // ----------------------- 【 onion ring. 洋葱圈 n 】
 - `【 union 工会 联盟 n 】`
-- `【 opinion 意见 观点 看法 n 】`
+- `【 opinion 意见 观点 看法 n 】` // ----------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
 -
 - [AA.]
 - `【 opinion 意见 观点 看法 n 】`
@@ -179,9 +186,11 @@
 - > 【 ring doorbell. 按门铃 v 】
 -
 - `【 pump 抽水机n 注入v 】` // ------------- 【 gas pump. 加油机 n 】
-- `【 jump 跳 v 】` // --------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】
+- `【 jump 跳 v 】` // --------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】 // gun gunpowder powder
 - `【 dump 倒v 垃圾场n 】`
-- `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】
+- `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】 // `【 stamp 邮票 n 】- stamp duty.印花税 ` _【 stump 树桩 n 】- tree stump.树桩_
+- _【 jump the gun. 抢跑 v 】_
+- _【 jump the queue. 插队 】_ = cut in line. = cut in queue. = jump the line. = jump the queue.
 - > 【 gas pump. 加油机 n 】
 - > 【 cut in line. = cut in queue. = jump the line. = jump the queue. 插队 】
 - > 【 line up. = queue up. 排队 】
@@ -193,6 +202,10 @@
 - _【 gas pedal. 油门踏板 】_
 - _【 gas gauge. 油表 】_
 - _【 gas grade. 汽油等级 】_
+- > tree stump. 树桩 n
+- > charging pile. 充电桩 n
+- > charging cable. 充电线 n
+- > charging port. 充电口 n
 -
 - `【 pumpkin 南瓜 】` // ----------------------- 【 pumpkin porridge. 南瓜粥 n 】
 - `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
@@ -201,26 +214,46 @@
 - `【 doorbell 门铃 n 】` // -------------------- 【 ring doorbell. 按门铃 v 】
 - `【 dumbbell 哑铃 n 】` // -------------------- 【 lift dumbbell. 举哑铃 v 】
 -
+- `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 // 【 pay tax. 交税 n 】
+- `【 stump 树桩 n 】` // ----------------------- 【 tree stump. 树桩 n 】
+-
 - [AA.]
 - `【 dump 倒 灌 倾泻 v 】`
 - `【 dumpling 饺子 n 】`
 - `【 dumb 愚蠢的 哑的 adj 】`
+- > trash can. 垃圾桶
 - **【 【 Dumping 】 the 【 unexpired 】 【 dumplings 】 into the 【 trash can 】 is 【 dumb 】. 把没有过期的饺子倒进垃圾桶是愚蠢的 】**
+- // -- unexpired 没有过期的 adj
+- // -- expiration time. 过期时间 n
+- // -- be about to expire. 即将过期
+- // -- trash can. 垃圾桶 n
 -
 - [BB.]
-- `【 dumb 愚蠢的 哑的 adj 】` // --------------- 【 dumbly 愚蠢地 adv 】
+- `【 dumb 愚蠢的 哑的 adj 】` // --------------- 【 play dumb. 装傻 v 】 // 【 dumbly 愚蠢地 adv 】
 - `【 dump 倒 灌 倾泻 v 垃圾场 n 】`
-- `【 dumpling 饺子 n 】`
-- `【 tree stump. 树桩 n 】`
-- `【 pumpkin 南瓜 n  】`
-- **【 After 【 pumping 】 the 【 tree stump 】,【 pumpkin 】， and 【 dumpling 】 into the 【 dump 】, he 【 jumped 】 into the water 【 dumbly 】. 他把树桩，南瓜，饺子倒进垃圾场后，愚蠢地跳进了水里 】**
+- `【 dumpling 饺子 n 】` // ------------------- 【 expired dumpling. 过期的饺子 n 】
+- `【 tree stump. 树桩 n 】` // ---------------- 【 tree stump. 树桩 n 】
+- `【 pumpkin 南瓜 n  】` // ------------------- 【 pumpkin porridge. 南瓜粥 n 】
+- **【 After 【 dumping 】 the 【 tree stump 】,【 pumpkin 】， and 【 dumpling 】 into the 【 dump 】, he 【 jumped 】 into the water 【 dumbly 】. 他把树桩，南瓜，饺子倒进垃圾场后，愚蠢地跳进了水里 】**
 -
 - [CC.]
 - `【 play dumb. 装傻 v 】`
 - `【 tree stump. 树桩 n 】`
 - **【 He 【 played dumb 】 【 beside 】 the 【 tree stump 】. 他在树桩傍边装傻 】**
+- // -- beside 在...旁边
+- // -- next to. 在...旁边
+- // --【 next to. = beside. 在...旁边 】
 -
 - [DD.]
 - `【 lift dumbbell. 举哑铃 v 】`
 - `【 ring doorbell. 按门铃 v 】`
-- **【 He is lifting dumbbells, not ringing doorbell. 他在举哑铃，而不是在按门铃 】**
+- **【 He is 【 lifting dumbbells 】, not 【 ringing doorbell 】. 他在举哑铃，而不是在按门铃 】**
+-
+- [EE.]
+- `【 pumpkin porridge. 南瓜粥 n 】`
+- `【 stamp duty. 印花税 n 】`
+- `【 pay tax. 交税 v 】`
+- **【 【 Selling 】 【 pumpkin porridge 】 also need to 【 pay 】 【 stamp duty 】. 卖烂瓜粥也需要交印花税 】**
+- // -- pay tax. 交税 v
+- // -- stamp duty. 印花税 n
+- // -- 【 pay tax. 交税 v 】

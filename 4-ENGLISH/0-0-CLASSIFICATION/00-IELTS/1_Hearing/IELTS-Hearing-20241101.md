@@ -42,7 +42,8 @@ in front of. 在...前面
 
 3.
 【 keep it down. 小声点 安静 v 】
-【 be quiet. = keep it down. 请安静 v 】
+【 be quiet. = keep it down. 请安静 v 】 = don't make so much noise. 别那么吵
+【 don't make so much noise. 别那么吵 】
 -
 【 mind doing sth. 介意做某事 】// -------- // 1. consider doing sth. // 2. mind doing sth.
 -
@@ -89,13 +90,49 @@ angry 生气的 adj
 // -- stethoscope 听诊器 n
 
 
-at speed. 快速的 adj
+6
+start with doing sth. 从...开始
+start out by doing sth. 从...开始
+start off by doing sth. 从...开始
+// 1.【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】
+// 2.【 Let's 【 start out by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】
+// 3.【 Let's 【 start off by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】
+
+
+7
+【 think about. 思考 考虑 】
+-
+【 take your time. 慢慢来 】
+【 take your time to do sth. 慢慢地做某事 】
+-
+make a decision. 做决定 v
+-
+// 1. You should 【 take your time 】 to 【 think about 】 it before you 【 make a decision 】. 在做决定之前，你应该花时间好好考虑一下 】
+// 2.【 take your time 】 and do it right. 慢慢来，把事情做好 】
+
+
+8
+【 all the time. 一直 老是 】
+【 always = all the time. 一直 老是 adv 】
+// The car is breaking down 【 all the time 】. 这辆车老是出故障
+// You have these problems 【 all the time 】. 你老是有这样的问题
+// Problems arrive 【 all the time 】. 问题总是出现
+
+
+at speed. 快速的 adv
 // 1. The train is running 【 at high speed 】. 火车正在高速行驶
 
 
 switch it off. 关掉 = to turn it off.
 switch it on. 打开 = to turn it on.
 
+
+【 intermediate 中级的 adj 】
+【 intermediate lesson. 中级课程 n 】
+-
+【 strategy. 策略 n 】
+【 sale strategy. 销售策略 n 】
+-
 honey 蜜蜂 宝贝
 idol 偶像 n // ---------------------------- 【 super idol. 超级偶像 】 【 worship idol. 崇拜偶像 】
 role model. 榜样
