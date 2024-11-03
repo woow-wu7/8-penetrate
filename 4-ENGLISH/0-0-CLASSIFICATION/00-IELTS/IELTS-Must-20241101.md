@@ -5,7 +5,7 @@
 - `【 satisfaction 满足 满意 满意度 n 】` // --------【 customer satisfaction. 客户满意度 】
 - AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
-- > 【 satisfy desire. 满足欲望 v 】
+- > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // desire 愿望 渴望 欲望 n v
 - > 【 satisfy need/demand/requirement. 满足需求 】
 - > satisfy curiosity. 满足好奇心
 - > inspire curiosity. 激发好奇心
@@ -22,8 +22,8 @@
 - CC.
 - _【 desire 欲望 愿望 渴望 性欲 n 】_
 - _【 greedy 贪婪的 adj 】_
-- > satisfy desire. 满足欲望
-- > greedy desire. 贪婪的欲望
+- > 【 satisfy desire. 满足欲望 】
+- > 【 greedy desire. 贪婪的欲望 】
 - > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
 - DD.
 - _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
@@ -46,7 +46,7 @@
 - `【 creative inspiration. 创作灵感 】`
 - `【 satisfy curiosity. 满足好奇心 】`
 - > 【 start with. 从...开始 】
-- **【 【 inspiring 】 【 creative inspiration 】 start with 【 satisfying curiosity 】. 激发创作灵感从满足好奇心开始 】**
+- **【 【 inspiring 】 【 creative inspiration 】 【 start with 】 【 satisfying curiosity 】. 激发创作灵感从满足好奇心开始 】**
 - // -- start with. 从...开始
 - // -- start out. 从...开始 以...开始
 - // -- 【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】
@@ -66,11 +66,12 @@
 -
 - AA.
 - _【 image 图片 图像 形象 n 】_
-- _【 imagine 想象 v 】_ // ---------------------- 【 subvert imagination. 颠覆想象 】
-- _【 imagination 想象 想象力 n 】_
-- > subvert imagination. 颠覆想象
+- _【 imagine 想象 v 】_
+- _【 imagination 想象 想象力 n 】_ // ------------【 subvert imagination. 颠覆想象 v 】 【 rich imagination. 丰富的想象力 n 】
+- > 【 subvert imagination. 颠覆想象 】
+- > 【 rich imagination. 丰富的想象力 】
 - BB.
-- _【 subvert 颠覆 】_ // ------------------------ 【 subvert cognition. 颠覆认知 】 【 subvert imagination. 颠覆想象 】
+- _【 subvert 颠覆 】_ // ------------------------ 【 subvert cognition. 颠覆认知 】 【 subvert imagination. 颠覆想象 】 // 【 rich imagination. 丰富的想象力 n 】
 - _【 invert 颠倒 倒置 反转 v 】_ // --------------- 【 invert selection. 反选 v 】
 - _【 introvert 内向的人 n 内向的 adj 】_ // ------- 【 introvert / extrovert 】
 -
@@ -144,7 +145,7 @@
 - [AA.]
 - `【 equally 相等地 同等地 adv 】`
 - **【 The 【 sense 】 of 【 vision 】 and 【 touch 】 is 【 equally 】 important. 视觉和触觉同等重要 】**
-- // -- 【 equally 相等地 同等地 adv 】
+- // -- _【 equally 相等地 同等地 adv 】_
 - // -- 【 make sense. 有道理 n 】
 - // -- 【 common sense. 常识 n 】
 
@@ -152,8 +153,8 @@
 
 - 1
 - `【 opinion 意见 观点 看法 n 】` // ------------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
-- `【 option 选项 选择 选择权 n 】` // ------------ 【 exercise option. 行使选择权 】
-- `【 optional 可选的 adj 】`
+- `【 option 选项 选择 [选择权] n 】` // ---------- 【 exercise option. 行使选择权 】
+- `【 optional 可选的 adj 】` // ---------------- 【 optional course. 可选的课程 n 】 // courage 勇气 n
 -
 - `【 onion 洋葱 n 】`
 - `【 union 工会 联盟 n 】`
@@ -164,3 +165,24 @@
 - `【 union 工会 联盟 n 】`
 - `【 onion 洋葱 n 】`
 - **【 My 【 opinion 】 is that the 【 union 】 can't buy 【 onions 】. 我的观点是工会不能购买洋葱 】**
+
+###### Must 2024-11-04
+
+- 1
+- `【 dump 倒v 垃圾场n 】`
+- `【 dumpling 饺子 n 】`
+- `【 dumb 愚蠢的 哑的 adj 】`
+-
+- `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
+- `【 jump 跳 v 】`
+- `【 dump 倒v 垃圾场n 】`
+- `【 stump 树桩 n 】`
+-
+- `【 pumpkin 南瓜 】`
+- `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
+-
+- [AA.]
+- `【 dump 倒 灌 倾泻 v 】`
+- `【 dumpling 饺子 n 】`
+- `【 dumb 愚蠢的 哑的 adj 】`
+- **【 【 Dumping 】 the 【 unexpired 】 【 dumplings 】 into the 【 trash can 】 is 【 dumb 】. 把没有过期的饺子倒进垃圾桶是愚蠢的 】**

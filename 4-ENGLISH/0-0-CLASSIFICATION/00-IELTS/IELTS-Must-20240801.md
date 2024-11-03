@@ -1151,6 +1151,7 @@
 - `【 garbage dump. 垃圾场 垃圾堆 n 】` // - 【 dumpling 饺子 n 】 【 dump 倾倒 v / 垃圾场 n 垃圾堆 n 】
 - `【 take out the garbage. 倒垃圾 】`
 - `【 dustbin 垃圾箱 n 】` // ------------- 【 dust 灰尘 n 】 【 bin 箱子 n 】
+- _【 dumb 哑的 愚蠢的 adj 】_
 - _【 dump 倾倒 v 垃圾场 n 垃圾堆 n 】_
 - _【 dumpling 饺子 n 】_
 - > 【 truck 卡车 n 】// ------------------ 【 tractor 拖拉机 n 】 【 truck 卡车 n 】 // 【 garbage truck. 垃圾车 n 】
@@ -1239,3 +1240,10 @@
 - **【 【 Waste paper towels 】 are 【 recyclable waste 】. 废纸巾是可回收垃圾 】**
 - **【 He is just 【 a piece of trash 】, wasting time, money, life. 他就是个垃圾，浪费时间，浪费金钱，浪费生命 】**
 - **【 Remember to 【 take out the garbage 】 when you go out. 出门的时候，记得把垃圾倒一下 】**
+-
+- [HH.]
+- `【 dump 倒 灌 倾泻 v 】`
+- `【 dumpling 饺子 n 】`
+- `【 dumb 愚蠢的 哑的 adj 】`
+- **【 【 Dumping 】 the 【 unexpired 】 【 dumplings 】 into the 【 trash can 】 is 【 dumb 】. 把没有过期的饺子倒进垃圾桶是愚蠢的 】**
+- // -- trash can. 垃圾桶

@@ -11,7 +11,8 @@
 - > 【 enhance confidence. 增强信心 】 // ----------------- 【 restore confidence. 恢复自信 】
 - _【 recover health. 恢复健康 = restore health. 】_ // --- 【 keep healthy. 保持健康 】 // ------- 【 recover health. 恢复健康 】 【 keep healthy. 保持健康 】
 - _【 recover economy. 恢复经济 = restore economic. 】_ // -【 economy / economic 】 // ----------【 economic crisis/recession/structure 】
-- _【 recover strength. 恢复体力 = recover physical strength. 】_
+- _【 recover strength. 恢复体力 】_ = recover physical strength.
+- _【 recover consciousness. 恢复意识 】_ // ------------ **【 recover consciousness. 恢复意识 v 】**
 - _【 recover state. 恢复状态 】_
 - _【 recover account. 恢复账号 = restore account. 】_
 - _【 gradually recover. 逐渐恢复 】_
@@ -782,6 +783,13 @@
 - `【 potential customer. 潜在客户 】`
 - > 【 potential 潜在的 adj / 潜力 潜能 n 】
 - **【 Please 【 inspire your potential 】 to find your 【 potential customer 】. 请激发潜能去寻找你的潜在客户 】**
+-
+- [GG.]
+- `【 dump 倒 灌 倾泻 v 】`
+- `【 dumpling 饺子 n 】`
+- `【 dumb 愚蠢的 哑的 adj 】`
+- **【 【 Dumping 】 the 【 unexpired 】 【 dumplings 】 into the 【 trash can 】 is 【 dumb 】. 把没有过期的饺子倒进垃圾桶是愚蠢的 】**
+- // -- trash can. 垃圾桶
 
 ###### Must 2024-10-24
 
