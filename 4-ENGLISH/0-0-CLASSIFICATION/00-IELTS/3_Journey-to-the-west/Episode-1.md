@@ -1,12 +1,28 @@
-# Journey to the west. 西游记1
+# Journey to the west. 西游记 1
 
 ```
+1.
+【 split 分裂 】
+【 split open. 裂开 分裂 v 】
+-
+【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟
+【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟
+【 ripen 成熟 v 】
+-
+// 1. The 【 overripe 】 fruit 【 split open 】, revealing its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
+// 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
+// The bananas are ripening when color is ranging from green to yellow. 香蕉的颜色正从绿色变成黄色，说明香蕉快要熟了
+// These apples are ripe. But the time may not be ripe. 这些苹果已经成熟了，但是时机看起来不成熟
+// The watermelon 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
+// -- 【 overripe 过熟的 adj 】
+// -- 【 ripe 成熟的 adj 】
+// -- rope 绳子 // 【 safety rope. 安全绳 n 】 【 safety reason. 安全原因 】 【 ensure safety. 保证安全 v 】
+// -- split out. 裂开 分裂 v
+// TIPS: Pay attention to the pronunciation of the word 'split'. [split-open.裂开分裂]
+
+
 drink -> drank -> drunk 喝
 sit -> sat -> sat 坐
-
-【 split 分裂 】
-【 split open. 裂开 】
-// The watermelon 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
 
 palace 王宫 宫殿
 heaven 天堂
