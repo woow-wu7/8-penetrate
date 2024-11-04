@@ -192,7 +192,7 @@ I 【 am kind of 】 hot.
 I 【 get kind of 】 hungry.
 我有点饿
 -
-A phone is 【 a kind of 】 device. 
+A phone is 【 a kind of 】 device.
 手机是一种设备
 -
 // -
@@ -201,4 +201,19 @@ A phone is 【 a kind of 】 device.
 // be kind of. = get kind of.
 // -
 // 【 a kind of + n. 一种 】
+```
+
+##### 5 Make sentences 2024-11-05
+
+```
+1
+穿过十字路口后距离枢纽站还有一段路
+-
+穿过十字路口，你就会看到枢纽站
+-
+这段文字描述了这段路的整体结构
+
+
+2
+急救箱里有创可贴和助听器
 ```

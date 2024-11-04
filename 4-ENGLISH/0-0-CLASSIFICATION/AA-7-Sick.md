@@ -509,6 +509,7 @@
 - `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】
 - `【 first aid kit. 急救箱 n  】` // ----------- 【 just in case. 以防万一 】
 - `【 band-aid. 创可贴 】`
+- `【 hearing aid. 助听器 】`
 - `【 bandage 绷带 n 】`
 - `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher
 -

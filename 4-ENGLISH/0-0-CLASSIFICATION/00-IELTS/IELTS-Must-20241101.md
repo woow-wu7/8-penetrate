@@ -5,7 +5,7 @@
 - `【 satisfaction 满足 满意 满意度 n 】` // --------【 customer satisfaction. 客户满意度 】
 - AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
-- > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // desire 愿望 渴望 欲望 n v
+- > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // greedy 贪婪的 adj // desire 愿望 渴望 欲望 n v
 - > 【 satisfy need/demand/requirement. 满足需求 】
 - > satisfy curiosity. 满足好奇心
 - > inspire curiosity. 激发好奇心
@@ -20,15 +20,25 @@
 - > potential customer. 潜在客户
 - > customer satisfaction. 客户满意度
 - CC.
-- _【 desire 欲望 愿望 渴望 性欲 n 】_
 - _【 greedy 贪婪的 adj 】_
+- _【 desire 欲望 愿望 渴望 性欲 n 】_
+- > 【 greedy algorithm. 贪心算法 】
+- > 【 greedy desire. 贪婪的欲望 】 // ------------- 【 greedy algorithm. 贪心算法 】 【 greedy desire. 贪心的欲望 】 【 greedy 贪婪的 adj 】
 - > 【 satisfy desire. 满足欲望 】
-- > 【 greedy desire. 贪婪的欲望 】
 - > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
 - DD.
 - _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
 - _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】
 - _【 need 需要 v 需求 】_
+- EE.
+- _【 dumpling 饺子 n 】_
+- _【 dump 倒 灌 倾泻 v 垃圾场 n 】_
+- _【 dumb 哑的 愚蠢的 adj 】_ // ------------------ 【 play dumb. 装傻 v 】
+- _【 dumbbell 哑铃 】_ // ------------------------ 【 lift dumbbell. 举哑铃 v 】
+- _【 doorbell 门铃 】_ // ------------------------ 【 ring doorbell. 按门铃 v 】
+- _【 jump 跳入 】_ // ---------------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】 // cut in line. = cut in queue. = jump the queue.
+- _【 stump 树桩 】_ // --------------------------- 【 tree stump. 树桩 n 】
+- _【 pumpkin 南瓜 】_ // ------------------------- 【 pumpkin porridge. 南瓜粥 n 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-灵感-n] [creative-inspiration-创作灵感-n]
@@ -52,9 +62,9 @@
 - **【 【 inspiring 】 【 creative inspiration 】 【 start with 】 【 satisfying curiosity 】. 激发创作灵感从满足好奇心开始 】**
 - // -- start with. 从...开始
 - // -- start out. 从...开始 以...开始
-- // -- 1. _【 Let's 【 start with 】 introducing ourselves. 让我们从自我介绍开始 】_
-- // -- 2. _【 Let's 【 start out 】 by 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
-- // -- 3. _【 Let's start off by introducing ourselves. 让我们从自我介绍开始吧 】_
+- // -- 1. _【 Let's 【 start with 】 【 introducing 】 ourselves. 让我们从自我介绍开始 】_
+- // -- 2. _【 Let's 【 start out 】 【 by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
+- // -- 3. _【 Let's 【 start off 】 【 by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
 - // -- 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
 -
 -
@@ -85,7 +95,7 @@
 - [AA.]
 - `【 transparency 透明度 n 】`
 - `【 opacity 不同明度 n 】`
-- **【 The 【 transparency 】 and 【 opacity 】 of an 【 image 】 are related to the settings. 图片的透明度和不透明度跟设置有关 】**
+- **【 The 【 transparency 】 and 【 opacity 】 of 【 an 】 【 image 】 are related to the settings. 图片的透明度和不透明度跟设置有关 】**
 - // -- image 图片 图像 形象 n
 - // -- imagine 想象 v
 - // -- imagination 想象 n
@@ -99,38 +109,51 @@
 ###### Must 2024-11-02
 
 - 1
-- `【 conjunction 连词 n 】`
+- `【 conjunction 连词 n 】` // -------------- 【 in conjunction with. 结合 】 // Please lean this file 【 in conjunction with 】 that file. 这文件和那文件结合学习
 - `【 junction 交叉路口 枢纽站 】` ------------- 三面的交叉 T // --- 【 junction station. 枢纽站 n 】
 - `【 intersection 十字路口 交点 n 】` --------- 四面的交叉 + // --- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
 - `【 interaction 相互作用 】` --------------- 【 interaction design. 交互设计 】
+- `【 section 部分 部门 段 截面 n 】` // ------ 【 a section of road. 一段路 】 【 the section of text. 这段文字 】
 - > 【 junction station. 枢纽站 】
 - > 【 intersection point. 交点 】
 - > 【 focus point. 焦点 n 】
 - > 【 interaction design. 交互设计 n 】
+- _【 a section of road. 一段路 】_
+- _【 the section of text. 这段文字 】_
 -
 - `【 intersection 十字路口 交点 n 】` // ----- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
-- `【 section 部分 部门 段 截面 n 】` // ------ 【 a section of road. 一段路 】
+- `【 section 部分 部门 段 截面 n 】` // ------ 【 a section of road. 一段路 】 【 the section of text. 这段文字 】
 - > 【 a section of road. 一段路 n 】
-- > 【 intersection point. 交点 n 】
-- > 【 cross the intersection. 穿过十字路口 】
+- > 【 the section of text. 这段文字 n 】
+- _【 intersection point. 交点 n 】_
+- _【 cross the intersection. 穿过十字路口 】_
 -
 - [AA.]
 - `【 intersection 十字路口 交点 n 】`
 - `【 junction station 枢纽站 n 】`
-- **【 cross the 【 intersection 】 you will see the 【 junction station 】. 穿过十字路口，你就会看到枢纽站 】**
+- > 【 a section of road. 一段路 n 】
+- > 【 the section of text. 这段文字 n 】
+- `【 overall structure. 整体结构 n 】`
+- 1. **【 cross the 【 intersection 】 you will see the 【 junction station 】. 穿过十字路口，你就会看到枢纽站 】**
+- 2. **【 After 【 crossing the intersection 】, there is 【 still 】 【 a section of 】 road to the 【 junction station 】. 穿过十字路口后距离枢纽站还有一段路 】**
+- 3. **【 This 【 section of text 】 describe the 【 overall structure 】 of 【 the section of road 】. 这段文字描述了这段路的整体结构 】**
 -
 -
 -
 -
 - 2
-- `【 vision 视觉 视力 n 】`
-- `【 hearing 听觉 n 】`
-- `【 smell 嗅觉 n / 闻 v 】`
+- `【 vision 视觉 视力 n 】` // ----------------- 【 clear vision. 清晰的视野 n 】
+- `【 hearing 听觉 n 】` // -------------------- 【 hearing aid. 助听器 】 【 band aid. 创可贴 】 【 first-aid. 急救 】 【 first aid kit. 急救箱 】
+- `【 smell 嗅觉 n / 闻 v 】` // ---------------- 【 smell sweet. 闻起来香 】 **【 smell sweet. 闻起来香 】**
 - `【 taste 味觉 n / 尝 v 】` // ---------------- 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
 - `【 touch 触觉 n 】`
 - `【 pain 痛觉 n 】`
+- > 【 hearing aid. 助听器 n 】
+- > 【 band aid. 创可贴 n 】
+- > 【 first aid. 急救 n 】
+- > 【 first aid kit. 急求箱 n 】
+- _【 smell sweet. 闻起来香 】_
 - > The sense of pain/touch/taste/smell/hearing/vision
--
 - AA.
 - _【 scene 场景 现场 】_ // ----------------------【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 n 】
 - _【 sense 感应 感觉 】_ // ----------------------【 make sense. 有道理 n 】 【 common sense. 常识 n 】 【 The sense of pain. 痛觉 】
@@ -139,12 +162,14 @@
 - > make sense. 有道理 n
 - > common sense. 常识 n
 - > The sense of pain/touch/taste/smell/hearing/vision
--
 - BB.
 - _【 crime 犯罪 罪行 n 】_ // -------------------【 crime scene. 犯罪现场 n 】
 - _【 criminal 犯罪的 adj 】_ // ---------------- 【 criminal record. 犯罪记录 n 】
 - > crime scene. 犯罪现场
 - > criminal record. 犯罪记录
+- **【 The 【 reporter 】 is making 【 real-time 】 【 criminal records 】 in the 【 crime scene 】. 记者在犯罪现场做着实时的犯罪记录 】**
+- // -- 【 real-time. 实时的 adj 】
+- // -- 【 real-time live broadcast. 实时直播 】
 -
 - [AA.]
 - `【 equally 相等地 同等地 adv 】`
@@ -152,6 +177,12 @@
 - // -- _【 equally 相等地 同等地 adv 】_
 - // -- 【 make sense. 有道理 n 】
 - // -- 【 common sense. 常识 n 】
+-
+- [BB.]
+- `【 hearing aid. 助听器 n 】`
+- `【 band aid. 创可贴 n 】`
+- `【 first aid kit. 急救箱 n 】`
+- **【 There are 【 band aids 】 and 【 hearing aids 】 in the 【 first aid kit 】. 急救箱里有创可贴和助听器 】**
 
 ###### Must 2024-11-03
 

@@ -256,6 +256,9 @@
 - > 【 general 一般的 总的 普遍的 adj 】
 - > 【 general overview. 总体概述 n 】
 - > 【 overall structure. 整体结构 n 】
+- > **【 This 【 section of text 】 describe the 【 overall structure 】 of 【 the section of road 】. 这段文字描述了这段路的整体结构 】**
+- // -- the section of road. 这段路
+- // -- the section of text. 这段文字
 -
 - `【 overdraw 透支 v 】` // ----------------- 【 overdraw body. 透支身体 】 【 overdraw credit card. 透支信用卡 】 // 【 lottery draw. 】 【 lottery ticket. 】
 - `【 overtime 加班 超时 adj n 】` // -------- 【 work overtime. 加班 】
