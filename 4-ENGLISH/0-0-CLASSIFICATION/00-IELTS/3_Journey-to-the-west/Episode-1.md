@@ -5,12 +5,20 @@
 【 split 分裂 】
 【 split open. 裂开 分裂 v 】
 -
-【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟
-【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟
+【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟 ------ 【 mature technology. 成熟的技术 】
+【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟 --- 【 ripe fruit. 成熟的果实 】
 【 ripen 成熟 v 】
+-
+【 flesh 果肉 肉体 】
+-
+ripe 成熟的 // ------------------ 【 ripe fruit. 成熟的果实 】
+rope 绳子 // -------------------- 【 safety rope. 安全绳 n 】 // safety reason.
 -
 // 1. The 【 overripe 】 fruit 【 split open 】, revealing its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
 // 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
+// 3. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are a kind of 【  mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
+// 4. We use mature technology to pick ripe fruits. 我们用成熟的技术采摘成熟的果实
+-
 // The bananas are ripening when color is ranging from green to yellow. 香蕉的颜色正从绿色变成黄色，说明香蕉快要熟了
 // These apples are ripe. But the time may not be ripe. 这些苹果已经成熟了，但是时机看起来不成熟
 // The watermelon 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了

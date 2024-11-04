@@ -143,7 +143,7 @@
 -
 - 2
 - `【 vision 视觉 视力 n 】` // ----------------- 【 clear vision. 清晰的视野 n 】
-- `【 hearing 听觉 n 】` // -------------------- 【 hearing aid. 助听器 】 【 band aid. 创可贴 】 【 first-aid. 急救 】 【 first aid kit. 急救箱 】
+- `【 hearing 听觉 n 】` // -------------------- 【 hearing aid. 助听器 】 【 band aid. 创可贴 】 【 first aid. 急救 】 【 first aid kit. 急救箱 】
 - `【 smell 嗅觉 n / 闻 v 】` // ---------------- 【 smell sweet. 闻起来香 】 **【 smell sweet. 闻起来香 】**
 - `【 taste 味觉 n / 尝 v 】` // ---------------- 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
 - `【 touch 触觉 n 】`
@@ -179,39 +179,47 @@
 - // -- 【 common sense. 常识 n 】
 -
 - [BB.]
-- `【 hearing aid. 助听器 n 】`
 - `【 band aid. 创可贴 n 】`
+- `【 hearing aid. 助听器 n 】`
 - `【 first aid kit. 急救箱 n 】`
 - **【 There are 【 band aids 】 and 【 hearing aids 】 in the 【 first aid kit 】. 急救箱里有创可贴和助听器 】**
 
 ###### Must 2024-11-03
 
 - 1
-- `【 opinion 意见 观点 看法 n 】` // ------------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
+- `【 opinion 意见 观点 看法 n 】` // ------------- 【 in my opinion. 在我看来 / 我的意见是 】 // 【 public opinion. 舆论 n 】
 - `【 option 选项 选择 [选择权] n 】` // ---------- 【 exercise option. 行使选择权 】
 - `【 optional 可选的 adj 】` // ---------------- 【 optional course. 可选的课程 n 】 // courage 勇气 n
 - > 【 public opinion. 舆论 n 】
 - > 【 in my opinion. 在我看来 / 我的意见是 】
 - _【 exercise option. 行驶选择权 v 】_
+- _【 optional course. 可选课程 n 】_
 -
 - `【 onion 洋葱 n 】` // ----------------------- 【 onion ring. 洋葱圈 n 】
 - `【 union 工会 联盟 n 】`
-- `【 opinion 意见 观点 看法 n 】` // ----------- 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
+- `【 opinion 意见 观点 看法 n 】` // ------------ 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
 -
 - [AA.]
 - `【 opinion 意见 观点 看法 n 】`
 - `【 union 工会 联盟 n 】`
-- `【 onion 洋葱 n 】`
+- `【 onion 洋葱 n 】` // ----------------------- 【 onion ring. 洋葱圈 n 】
 - **【 My 【 opinion 】 is that the 【 union 】 can't buy 【 onions 】. 我的观点是工会不能购买洋葱 】**
+-
+- [BB.]
+- `【 right 正确的adj 权利n 】`
+- `【 onion ring. 洋葱圈 n 】`
+- **【 I have the 【 right 】 to choose to eat 【 onion rings 】. 我有选择吃洋葱圈的权利 】**
+- **【 Every 【 citizen 】 has the 【 right 】 to speak. 每个公民都有发言权 】**
+- // -- right 正确的 adj 权利 n
 
 ###### Must 2024-11-04
 
 - 1
 - `【 dump 倒v 垃圾场n 】`
 - `【 dumpling 饺子 n 】` // --------------- 【 expired dumpling. 过期的饺子 n 】 【 make dumpling. 包饺子 n 】
-- `【 dumb 愚蠢的 哑的 adj 】` // ----------- 【 play dumb. 装傻 v 】 **【 play dumb. 装傻 v 】**
+- `【 dumb 愚蠢的 哑的 adj 】` // ----------- 【 play dumb. 装傻 v 】 // **【 play dumb. 装傻 v 】**
 - `【 dumbbell 哑铃 n 】` // --------------- 【 lift dumbbell. 举哑铃 】 // dumbbell doorbell
-- `【 doorbell 门铃 n 】` // --------------- 【 ring doorbell. 按门铃 】
+- `【 doorbell 门铃 n 】` // --------------- 【 ring doorbell. 按门铃 】 // doorbell dumbbell
 - > 【 play dumb. 装傻 v 】
 - > 【 lift dumbbell. 举哑铃 v 】
 - > 【 ring doorbell. 按门铃 v 】
@@ -245,8 +253,10 @@
 - `【 doorbell 门铃 n 】` // -------------------- 【 ring doorbell. 按门铃 v 】
 - `【 dumbbell 哑铃 n 】` // -------------------- 【 lift dumbbell. 举哑铃 v 】
 -
-- `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 // 【 pay tax. 交税 n 】
+- `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 【 pay stamp duty. 交印花税 】 // 【 pay tax. 交税 n 】
 - `【 stump 树桩 n 】` // ----------------------- 【 tree stump. 树桩 n 】
+- > 【 stamp duty. 印花税 n 】// ---------------- 【 pay stamp duty. 交印花税 】 //【 pay tax. 交税 n 】
+- > 【 tree stump. 树桩 n 】
 -
 - [AA.]
 - `【 dump 倒 灌 倾泻 v 】`
