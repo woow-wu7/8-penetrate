@@ -152,8 +152,15 @@
 - > 【 band aid. 创可贴 n 】
 - > 【 first aid. 急救 n 】
 - > 【 first aid kit. 急求箱 n 】
+- > 【 aid 帮助 援助 v n 】
+- > 【 kit 工具 元件 n 】
 - _【 smell sweet. 闻起来香 】_
+- _【 band 乐队 】_
+- _【 bandage 绷带 】_ // ---------------------- 【 wrap bandage. 包扎绷带 】 【 wrap wound. 包裹伤口 】 // wrap 包 裹 缠绕 v
+- _【 wrap the wound. 包扎伤口 】_
 - > The sense of pain/touch/taste/smell/hearing/vision
+- // TIPS: Pay attention to the pronunciation of the word 'hearing'. [hearing-aid.助听器] [band-aid.创可贴] [first-aid.急救] [first-aid-kit.急救箱]
+- // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
 - AA.
 - _【 scene 场景 现场 】_ // ----------------------【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 n 】
 - _【 sense 感应 感觉 】_ // ----------------------【 make sense. 有道理 n 】 【 common sense. 常识 n 】 【 The sense of pain. 痛觉 】
@@ -183,6 +190,13 @@
 - `【 hearing aid. 助听器 n 】`
 - `【 first aid kit. 急救箱 n 】`
 - **【 There are 【 band aids 】 and 【 hearing aids 】 in the 【 first aid kit 】. 急救箱里有创可贴和助听器 】**
+-
+- [CC.]
+- `【 band aid. 创可贴 n 】`
+- `【 bandage 绷带 n 】`
+- `【 wrap wound. 包裹伤口 v 】`
+- `【 first aid kit. 急救箱 n 】`
+- **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
 
 ###### Must 2024-11-03
 
@@ -208,6 +222,7 @@
 - [BB.]
 - `【 right 正确的adj 权利n 】`
 - `【 onion ring. 洋葱圈 n 】`
+- `【 right 权利 n 】`
 - **【 I have the 【 right 】 to choose to eat 【 onion rings 】. 我有选择吃洋葱圈的权利 】**
 - **【 Every 【 citizen 】 has the 【 right 】 to speak. 每个公民都有发言权 】**
 - // -- right 正确的 adj 权利 n
@@ -305,16 +320,22 @@
 
 - 1
 - `【 resign 辞职 v 】`
-- `【 resignation 辞职 n 】`
+- `【 resignation 辞职 n 】` // ----------------- 【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
 - > 【 resignation application. 离职申请 n 】
 - > 【 resignation letter. 辞职信 】
+- _【 letter 信 字母 n 】_ // ------------------- 【 resignation letter. 辞职信 n 】
+- _【 liter 公升 升 n 】_
 -
-- `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 送了一口气 】
+- `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 松了一口气 】
 - `【 sign 签名v 标志n 】` // ------------------- verb
-- `【 assign 分派 分配 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
+- `【 assign 分配 指派 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
 - `【 resign 辞职 v 】` // ---------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
+- `【 assignment. 任务 分配 n 】` // ----------- _【 class assignment. 课堂作业 n 】_
 - `【 signature 签名 n 】` // ------------------ noun
+- _【 class assignment. 课程作业 】_
 - > 【 breath a sign of relief. 松了一口气 n 】
+-
+- `【 appoint. 任命 指派 v 】`
 -
 - [AA.]
 - `【 sigh 叹气 v n 】`
@@ -322,3 +343,11 @@
 - _【 breathe 呼吸 v 】_
 - _【 breath 呼吸 n 】_
 - **【 After a busy day 【 at work 】, he 【 breathed a sigh of relief 】. 经过一天繁忙的工作，他舒了一口气 】**
+-
+- [BB.]
+- `【 resignation letter. 辞职信 n 】`
+- `【 assign 分配 指派 v 】`
+- `【 class assignment. 课堂作业 n 】`
+- **【 The 【 resignation letter 】 said that the boos 【 assign 】 too much 【 class assignment 】. 辞职信上说老板指派了过多的课堂作业 】**
+
+

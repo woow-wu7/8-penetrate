@@ -181,11 +181,12 @@
 - `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 【 first aid. 急救 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
 - `【 anti-inflammatory drug. 消炎药 】`
-- > 【 bandage 绷带 n 】
+- > 【 bandage 绷带 n 】 // -------------- 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
 - > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
 - > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】 【 this is a brand-new brand. 这是一个崭新的品牌 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
 - // TIPS: Pay attention to the pronunciation of the word 'ointment' [ointment]
 - // TIPS: Pay attention to the pronunciation of the word 'capsule' [capsule]
 - // TIPS: Pay attention to the pronunciation of the word 'syrup'. [syrup]
@@ -237,7 +238,7 @@
 - `【 band 乐队n 】`
 - **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
 -
-- [FF.]
+- [FF.] [Expand]
 - `【 snap 咬 v 】`
 - `【 slap 扇巴掌 n 】`
 - `【 palm 手掌 n 】` // --------- palm // back of hand.
@@ -246,6 +247,14 @@
 - // -- exude 流出 渗出 流露 v
 - // -- palm 手掌 n
 - // -- back of hand. 手背 n
+-
+- [GG.] [Expand]
+- `【 band aid. 创可贴 n 】`
+- `【 bandage 绷带 n 】`
+- `【 wrap wound. 包裹伤口 v 】`
+- `【 first aid kit. 急救箱 n 】`
+- **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
+- // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
 -
 -
 -
