@@ -1089,10 +1089,12 @@
 - `assign 分配 v`
 - `assignment 任务 作业`
 - -
-- `resign 辞职` --------- 比较正式
+- `resign 辞职 v` --------- 比较正式
 - `quit 辞职` ----------- 比较口语
 - `quite 相当 adv`
 - `quiet 安静的`
+- > 【 resignation application. 离职申请 n 】
+- > 【 resignation letter. 辞职信 】
 -
 - _【 be assigned to. 被分配给... 】_
 - _【 digital signature. 数字签名 】_

@@ -558,8 +558,10 @@
 - 1
 - `sign 签名v 标志n `
 - `assign 分配 v`
-- `resign 辞职 v` // TIPS: Pay attention to the pronunciation of the 'resign'.
+- `resign 辞职 v` // 【 resignation 辞职 n 】 // TIPS: Pay attention to the pronunciation of the 'resign'.
 - `design 设计 v/n`
+- > 【 resignation application. 离职申请 n 】
+- > 【 resignation letter. 辞职信 】
 - -
 - `sign 签名v 标志n`
 - `signature 签名n`
@@ -1233,8 +1235,8 @@
 - // ggg: dd
 - // -
 - // --【 passive voice. 被动语态 】 // ---- 【 passively accept. 被动接受 】
-- // --【 active voice. 主动语态 】 // ----- 【 actively pursue. 主动追求 】 // chase fugitive(refugee/refuge). 追捕逃犯 // chase dream. //  purse happiness.
-- // -- passive 被动的 消极的 adj // dizzy // bookmark书签 // label tab 标签
+- // --【 active voice. 主动语态 】 // ----- 【 actively pursue. 主动追求 】 // chase fugitive(refugee/refuge). 追捕逃犯 // chase dream. // purse happiness.
+- // -- passive 被动的 消极的 adj // dizzy // bookmark 书签 // label tab 标签
 - // -- active 主动的 积极的 adj
 - // -- voice 声音 语态 n
 -

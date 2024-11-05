@@ -298,3 +298,25 @@
 - // -- pay tax. 交税 v
 - // -- stamp duty. 印花税 n
 - // -- 【 pay tax. 交税 v 】
+
+###### Must 2024-11-05
+
+- 1
+- `【 resign 辞职 v 】`
+- `【 resignation 辞职 n 】`
+- > 【 resignation application. 离职申请 n 】
+- > 【 resignation letter. 辞职信 】
+-
+- `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 送了一口气 】
+- `【 sign 签名v 标志n 】` // ------------------- verb
+- `【 assign 分派 分配 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
+- `【 resign 辞职 v 】` // ---------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
+- `【 signature 签名 n 】` // ------------------ noun
+- > 【 breath a sign of relief. 松了一口气 n 】
+-
+- [AA.]
+- `【 sigh 叹气 v n 】`
+- `【 breath a sigh of relief. 松了一口气 n 】`
+- _【 breathe 呼吸 v 】_
+- _【 breath 呼吸 n 】_
+- **【 After a busy day 【 at work 】, he 【 breathed a sigh of relief 】. 经过一天繁忙的工作，他舒了一口气 】**

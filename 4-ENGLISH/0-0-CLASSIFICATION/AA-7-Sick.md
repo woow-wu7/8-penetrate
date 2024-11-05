@@ -1064,6 +1064,8 @@
 - > assign 分配
 - > assignment 任务
 - > signal 信号
+- _【 resignation application. 离职申请 n 】_
+- _【 resignation letter. 辞职信 】_
 - > -
 - > quit 辞职
 - > quite 相当的
