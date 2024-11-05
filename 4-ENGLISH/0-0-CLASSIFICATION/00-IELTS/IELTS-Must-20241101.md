@@ -195,7 +195,7 @@
 - _【 exercise option. 行驶选择权 v 】_
 - _【 optional course. 可选课程 n 】_
 -
-- `【 onion 洋葱 n 】` // ----------------------- 【 onion ring. 洋葱圈 n 】
+- `【 onion 洋葱 n 】` // ----------------------- _【 onion ring. 洋葱圈 n 】_
 - `【 union 工会 联盟 n 】`
 - `【 opinion 意见 观点 看法 n 】` // ------------ 【 public opinion. 舆论 n 】 【 in my opinion. 在我看来 / 我的意见是 】
 -
@@ -249,6 +249,7 @@
 - `【 pumpkin 南瓜 】` // ----------------------- 【 pumpkin porridge. 南瓜粥 n 】
 - `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
 - > 【 pumpkin porridge. 南瓜粥 n 】
+- > 【 gas pump. 加油机 n 】
 -
 - `【 doorbell 门铃 n 】` // -------------------- 【 ring doorbell. 按门铃 v 】
 - `【 dumbbell 哑铃 n 】` // -------------------- 【 lift dumbbell. 举哑铃 v 】
@@ -256,6 +257,7 @@
 - `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 【 pay stamp duty. 交印花税 】 // 【 pay tax. 交税 n 】
 - `【 stump 树桩 n 】` // ----------------------- 【 tree stump. 树桩 n 】
 - > 【 stamp duty. 印花税 n 】// ---------------- 【 pay stamp duty. 交印花税 】 //【 pay tax. 交税 n 】
+- > 【 pay stamp duty. 交印花税 】 // ----------- 【 pay tax. 交税 n 】
 - > 【 tree stump. 树桩 n 】
 -
 - [AA.]
