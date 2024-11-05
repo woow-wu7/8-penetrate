@@ -5,22 +5,32 @@
 【 split 分裂 】
 【 split open. 裂开 分裂 v 】
 -
-【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟 ------ 【 mature technology. 成熟的技术 】
-【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟 --- 【 ripe fruit. 成熟的果实 】
+【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟 ------ 【 mature technology. 成熟的技术 】 【 advanced technology. 先进的技术 】
+【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟 ---- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
+-
+【 overripe 过熟的 adj 】
+【 ripe 成熟的adj 】
 【 ripen 成熟 v 】
 -
 【 flesh 果肉 肉体 】
 -
-ripe 成熟的 // ------------------ 【 ripe fruit. 成熟的果实 】
-rope 绳子 // -------------------- 【 safety rope. 安全绳 n 】 // safety reason.
+ripe 成熟的 // ------------------ 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
+rope 绳子 // -------------------- 【 safety rope. 安全绳 n 】 // 【 safety reason. 安全原因 n 】
 -
-// 1. The 【 overripe 】 fruit 【 split open 】, revealing its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
-// 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
-// 3. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are a kind of 【  mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
-// 4. We use mature technology to pick ripe fruits. 我们用成熟的技术采摘成熟的果实
+pick up. 捡起 接某人 v
 -
+I'm kind of hungry. 我有点饿
+I get kind of angry. 我有点生气
+-
+// 1. The 【 watermelon 】 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
+// 2. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
+// 3. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
+// 4. The 【 overripe 】 fruit 【 split open 】, revealing its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
+// 5. We use mature technology to pick ripe fruits. 我们用成熟的技术采摘成熟的果实
+// The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
+-
+// These apples are 【 ripe 】. But the 【 time 】 may not be 【 ripe 】. 这些苹果已经成熟了，但是时机看起来不成熟
 // The bananas are ripening when color is ranging from green to yellow. 香蕉的颜色正从绿色变成黄色，说明香蕉快要熟了
-// These apples are ripe. But the time may not be ripe. 这些苹果已经成熟了，但是时机看起来不成熟
 // The watermelon 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
 // -- 【 overripe 过熟的 adj 】
 // -- 【 ripe 成熟的 adj 】
@@ -28,6 +38,34 @@ rope 绳子 // -------------------- 【 safety rope. 安全绳 n 】 // safety r
 // -- split out. 裂开 分裂 v
 // TIPS: Pay attention to the pronunciation of the word 'split'. [split-open.裂开分裂]
 
+
+2.
+【 rock 岩石 n 】 --------- 较大
+【 stone 石头 n 】 -------- 较小
+// This 【 rock 】 【 consists of 】 many 【 stones 】. 这块岩石由很多石头组成
+
+
+3.
+【 rush out. 冲出去 】
+【 rush hour. 高峰期 】
+【 morning rush hour. 早高峰 】
+// He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
+
+
+4
+shrug 耸肩 v n
+shoulder 肩膀 n
+
+
+5
+gather 聚集 收集 采集 v
+【 gather fruit. 采集水果 】
+【 ripe fruit. 成熟的果实 】
+// The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
+// TIPS: Pay attention to the pronunciation of the word 'gather'. [gather-聚集收集采集-v] [gather-fruit.采集水果]
+
+
+sight 视力 视线 n
 
 drink -> drank -> drunk 喝
 sit -> sat -> sat 坐
@@ -43,9 +81,6 @@ ruler 尺子 n
 captain 船长 机长 n
 caption 字幕 文字说明 n
 subtitle 字幕 n
-
-rush out. 冲出去
-rush hour.
 
 stand up 起立 // stood up
 stretch 伸展
