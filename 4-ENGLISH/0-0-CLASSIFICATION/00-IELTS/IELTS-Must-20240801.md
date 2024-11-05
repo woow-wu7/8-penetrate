@@ -401,7 +401,10 @@
 - `【 shop 商店n 购物v 】` ------- 可以换 ---- // 【 go shopping. 去购物 】
 -
 - `【 chain store. 连锁店 】` // ------------ 【 chain reaction. 连锁反应 】 【 chain store. 连锁店 】
-- `【 specialty store. 专卖店 】` // -------- 【 specialty 专业 n 】 【 special 特别的 adj 】 // `【 specialty = major. 专业 】` `【 profession = occupation. 职业 】`
+- `【 specialty store. 专卖店 】` // -------- 【 specialty food. 特色食物 n 】 // 【 specialty 专业 n 】 【 special 特别的 adj 】
+- // `【 specialty 专业 特色食品 n 】`
+- // `【 specialty = major. 专业 】`
+- // `【 profession = occupation. 职业 】`
 - `【 department store. 百货商场 】` // ----- 【 finance department. 财务部 】 【 department store. 百货商场 】
 - `【 grocery store. 杂货店 】`
 - `【 convenience store. 便利店 】`

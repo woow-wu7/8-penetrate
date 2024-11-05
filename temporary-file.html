@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // -----------------------------------------
+      // 1 new
+      function Fn(name, age) {
+        this.name = name;
+        this.age = age;
+      }
+
+      function _new(cons, ...params) {
+        const obj = Object.create(cons.prototype);
+
+        const res = cons.apply(obj, params);
+
+        return res instanceof Object ? res : obj;
+      }
+      const res1 = _new(Fn, "woow_wu7", 20);
+      console.log("res1: ", res1);
+      const res2 = new Fn("woow_wu7", 20);
+      console.log("res2: ", res2);
+
+      // -----------------------------------------
+      // 2 Object.create()
+      const obj1 = { name: "woow_wu7" };
+      function _create(obj) {
+        function Temporary() {}
+        Temporary.prototype = obj;
+        Temporary.prototype.constructor = Temporary;
+
+        return new Temporary();
+      }
+      const res3 = Object.create(obj1);
+      console.log("res3: ", res3.name);
+      const res4 = _create(obj1);
+      console.log("res4: ", res4.name);
+
+      // -----------------------------------------
+      // 3 bind
+      function Fn2(name, age) {
+        this.name = name;
+        this.age = age;
+        return this.age + this.name;
+      }
+      const obj2 = { name: "woow_wu7" };
+
+      Function.prototype._bind = function (obj, ...rest1) {
+        const context = obj ? obj : globalThis;
+        const self = this;
+
+        const resFn = function (...rest2) {
+          const totalParameters = [...rest1, ...rest2];
+          return self.apply(this instanceof self ? this : context, totalParameters);
+        };
+        resFn.prototype = Object.create(self.prototype);
+
+        return resFn;
+      };
+      const resfn1 = Fn2.bind(obj2, "woow_wu7");
+      const res5 = resfn1(20);
+      console.log("res5: ", res5);
+      const resfn2 = Fn2._bind(obj2, "woow_wu8");
+      const res6 = resfn2(21);
+      console.log("res6: ", res6);
+      const res7 = new resfn1(20);
+      console.log("res7: ", res7);
+      const res8 = new resfn2(21);
+      console.log("res8: ", res8);
+
+      // -----------------------------------------
+      // 4 call
+      const obj3 = { name: "woow_wu7" };
+      function Fn3(age) {
+        return this.name + age;
+      }
+      Function.prototype._call = function (obj, ...rest) {
+        const context = obj ? obj : globalThis;
+        context.fn = this;
+        const res = context.fn(...rest);
+        Reflect.deleteProperty(context, "fn");
+        return res;
+      };
+      const ares = Fn3.call(obj3, 20);
+      console.log("ares: ", ares);
+      const ares2 = Fn3._call(obj3, 20);
+      console.log("ares2: ", ares2);
+
+      // -----------------------------------------
+      // 5 instanceof
+      function _instanceof(obj, Fn) {
+        const left = Object.getPrototypeOf(obj);
+        const right = Fn.prototype;
+        while (left) {
+          if (left === right) return true;
+          left = Object.getPrototypeOf(left);
+        }
+        return false;
+      }
+      function Fn33() {}
+      const fn33 = new Fn33();
+      const aaa = fn33 instanceof Fn33;
+      console.log("aaa: ", aaa);
+      const bbb = _instanceof(fn33, Fn33);
+      console.log("bbb: ", bbb);
+
+      // -----------------------------------------
+      // 6 shuffle
+      const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+      function shuffle(arr) {
+        const _arr = JSON.parse(JSON.stringify(arr));
+        return _arr.sort(() => Math.random() - 0.5);
+      }
+      const resShuffle = shuffle(arr);
+      console.log("resShuffle: ", resShuffle);
+    </script>
+  </body>
+</html>

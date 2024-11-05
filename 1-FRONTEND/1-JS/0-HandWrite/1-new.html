@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Implement new command.</title>
   </head>
   <body>
     <script>
@@ -33,10 +33,11 @@
           - 构造函数: 构造函数中的属性和方法，都是直接生成在实例上的，实例之间不共享，造成资源浪费
           - 原型链: 实例能继承 constructor.prototype 上的属性和方法，多个实例可以共享，修改(引用类型的数据时)则相互影响
         - arguments
+          - 实参: arguments 对象是获取所有的 ( 实参 ).
           - es5: 使用 arguments 的好处: 是在参数个数不确定的情况下，获取任意多的参数
           - es6: 在箭头函数中没有 arguments 对象，可以用 rest 参数代替，来获取 所有 或 部分 参数
         - 原理: 手写 new 命令原理
-          1. 新建一个空对象
+          1. 新建一个 空对象
           2. 将 空对象的隐式原型 指向 构造函数的显式原型
           3. 将 构造函数中的 this 绑定到 空对象上
           4. 执行构造函数
@@ -44,6 +45,7 @@
       */
 
       /*
+        3
         Expand knowledge
         判断数据类型的方法有哪些
           - 1. typeof ---------------------------------- (一共8种) number string boolean undefined symbol bigint object function
@@ -53,11 +55,20 @@
       */
 
       /*
+        4
         Expand Knowledge
         Object.create()
         -- const instance = Object.create(prototypeObject)
         -- function: Create a new instance object, using the existing object as the prototype of the newly created object.
       */
+
+      // -------------------------------------------------------------------------- 分割线
+      // -------------------------------------------------------------------------- 分割线
+
+      // TIPS: The constructor function can not be an arrow function.
+      // TIPS: Par attention to the pronunciation of the word 'arrow'. [arrow-keys.方向键]
+      // -- arrow 箭 箭头 n
+      // -- arrow keys. 方向键 n
 
       function Constructor2(name, age) {
         this.name = name;
@@ -94,6 +105,7 @@
         // 不能只判断 对象 和 数组，函数也是直接返回
         // return typeof res === "object" ? res : obj;
 
+        // object array function
         return res instanceof Object ? res : obj;
       };
 
@@ -155,9 +167,7 @@
         // 这里是arguments是去除了构造函数参数后的，剩余参数的集合
         // _new(constructor, p1, p2, ...)
 
-        return /Object|Array|Function/.test(Object.prototype.toString.call(res))
-          ? res
-          : obj;
+        return /Object|Array|Function/.test(Object.prototype.toString.call(res)) ? res : obj;
         // 如果构造函数的返回值
         // - 是对象，就返回这个对象
         // - 是原始类型的值，就返回this对象，即空对象

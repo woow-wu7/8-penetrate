@@ -8,23 +8,39 @@
 - `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 pharmacist 药剂师 / pharmacy 药房 】 // 【 counter 柜台 n 计数器 n 】
 - `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 supplier / dealer / seller 】
 - `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / award / reward / steward / forward 】
+- `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - _【 specialist clinic. 专科诊所 】_
 - _【 eye specialist. 眼科专家 】_
 - AA.
+- _【 community 社区 n 】_ // ------------------- 【 community hospital. 社区医院 n 】 【 community service. 社区服务 n 】 【 learning community. 学习社区 n 】
+- > 【 community hospital. 社区医院 n 】
+- > 【 community service. 社区服务 n 】
+- > 【 learning community. 社区学习 n 】
+- BB.
 - _【 dental 牙齿的 牙科的 adj 】_
 - _【 dental clinic. 牙医诊所 】_
 - _【 dental floss. 牙线 】_
 - _【 dental braces. 牙套 】_ // --------------- 【 glove 手套 n 】
-- BB.
+- CC.
 - 【 private property. 私人财产 n 】// --------- 【 private 私人的 私有的 adj 】
 - 【 private conversation. 私人谈话 】
 - 【 personal privacy. 个人隐私 】
-- CC.
+- DD.
 - _【 pharmacy = drugstore. 药房 】_
 - _【 pharmacist 药剂师 n 】_
+- // pharmacy counter. 药房柜台 n 
+- EE.
+- _【 special 特别的 adj 】_
+- _【 specialize 专攻 v 】_ // ---------------- 【 specialize in. 专攻 v 】
+- _【 specialist 专家 n 】_
+- _【 specialty 专业 特色食品 】_ // ----------- 【 specialty store. 专卖店 】 【 specialty food. 特色食品 n 】
+- > 【 specialist clinic. 专科医院 】
+- // specialty store. 专卖店 n
+- // specialty food. 特色食品 n
+- - **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
@@ -141,6 +157,11 @@
 - `【 compensation 补偿 赔偿 n 】`
 - > 【 compensate 补偿 赔偿 v 】
 - **【 He received a 【 refund 】 as 【 compensation 】. 她收到了退款作为补偿 】**
+-
+- [HH.]
+- `【 specialty store. 专卖店 n 】`
+- `【 specialty food. 特色食品 n 】`
+- **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 -
 -

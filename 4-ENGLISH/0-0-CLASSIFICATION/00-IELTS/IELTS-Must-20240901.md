@@ -6,14 +6,21 @@
 - > 【 common ingredient. 常见成分 n 】
 - > 【 active ingredient. 有效成分 n 】 // ---------------- 【 actively pursue. 主动追求 v 】 【 active voice. 主动语态 n 】
 - > 【 ingredient list. 成分表 n 】 // list
-- > 【 raw material. 原材料 n 】
-- > 【 building material. 建筑材料 n 】
+- > 【 raw material. 原材料 n 】 // ----------------------- 【 raw rice. 生米 n 】 【 cooked rice. 熟米 n 】
+- > 【 building material. 建筑材料 n 】 // --------------- _【 construction 建筑 n 】_ _【 constructor 建造者 构造函数 n 】_ `【 construction site. 建筑工地 n 】`
 - > 【 reading material. 阅读材料 n 】
 - _【 actively pursue. 主动追求 】_ // ---------------------【 pursue 追求 追逐 v 】
 - _【 passively accept. 被动接受 】_
 - _【 active voice. 主动语态 】_
 - _【 passive voice. 被动语态 】_
 - // TIPS: Pay attention to the pronunciation of the word 'list'. [list-列表-n]
+- [building-material.建筑材料]
+- [constructor-建造者-构造函数-n]
+- [construction-建筑-n]
+- [construction-site.建筑工地]
+- > 【 raw material. 原材料 】
+- > 【 raw rice. 生米 n 】
+- > 【 cooked rice. 熟米 n 】 // **【 Cook raw rice into cooked rice. 】**
 -
 - `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 make sense. 有道理 】 // 【 a sense of ownership. 主人翁意识 n 】
 - `【 scene 场景 现场 n 】` // ---------------------------- 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 n 】
@@ -76,12 +83,17 @@
 - `【 scenery 风景 n 】`
 - **【 It's a 【 common sense 】 that the 【 accident scene 】 is not a 【 scenery 】. 事故现场不是风景是一个常识 】**
 -
-- [CC。]
+- [CC.]
 - `【 ingredient list. 成分表 n 】`
 - `【 active ingredient. 活性成分 n 】`
 - `【 common ingredient. 常见成分 n 】`
 - `【 raw material. 原材料 n 】`
 - **【 The 【 ingredient list 】 contains the 【 active ingredients 】 and 【 common ingredients 】 of the 【 raw material 】. 这个成分表包含了这个原材料的有效成分和活性成分 】**
+-
+- [DD.]
+- `【 building material. 建筑材料 n 】` // raw material.
+- `【 construction site. 建筑工地 n 】`
+- **【 There are many 【 building materials 】 【 besides 】 the 【 construction site 】. 建筑工地旁边有很多建筑材料 】**
 
 ###### Must 2024-09-08
 

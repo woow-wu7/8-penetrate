@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Implement reduce function.</title>
   </head>
   <body>
     <script>
@@ -24,9 +24,7 @@
         // 2
         // this
         if (!Array.isArray(this)) {
-          throw new Error(
-            "The reduce function can only be invoked by an array"
-          );
+          throw new Error("The reduce function can only be invoked by an array");
         }
 
         let i, res;
@@ -40,6 +38,9 @@
           i = 0;
         }
 
+        // TIPS:
+        // -- 这里就只需要根据数组的 ( 起始位置 ) 去遍历整个数组即可，遍历过程中 ( 调用传入的函数即可 )
+        // -- 所以 reduce 函数的实现就比较简单，只需要确定 ( 遍历开始位置 ) 和 ( 初始值 )
         for (; i < arr.length; i++) {
           res = fn(res, arr[i], i);
         }

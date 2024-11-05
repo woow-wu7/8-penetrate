@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Implement instance function.</title>
   </head>
   <body>
     <script>
@@ -30,13 +30,16 @@
       // traverse 遍历 v
       // traversal 遍历 n
       // -
-      // recursion 递归
+      // recursion 递归 n
+      // recursive 递归的 adj -------------- 【 recursive function. 递归函数 n 】
 
       const _instanceof = (obj, constructor) => {
         const rightPrototype = constructor.prototype;
         let leftPrototype = Object.getPrototypeOf(obj); // Object.getPrototypeOf(obj) 是获取 参数对象 的 原型对象 的标准方法
 
-        // recursion 递归
+        // recursion 递归 n
+        // recursive 递归的 adj
+        // 【 recursive function. 递归函数 n 】
         while (leftPrototype) {
           if (leftPrototype === rightPrototype) return true;
           leftPrototype = Object.getPrototypeOf(leftPrototype);

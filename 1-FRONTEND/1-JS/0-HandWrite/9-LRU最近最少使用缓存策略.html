@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>LRU 最近最少使用原则</title>
   </head>
   <body>
     <script>
@@ -13,7 +13,16 @@
       // - vue 中 keep-alive 组件就是 LRU 最近最少使用的内存管理策略
 
       // 常见的缓存策略 本项目/2-FRONTEND/1-JS/BB-常见的缓存策略/1-常见缓存策略.md
+      // https://juejin.cn/post/6862206197877964807
+      // https://blog.51cto.com/sddai/3017058
       // 资料 https://zhuanlan.zhihu.com/p/378782266
+
+      // 案例描述
+      // 1. 我们依次访问 ABC-DBE 数据，内存能容纳的数据量就是3个
+      // 2. 当访问 ABC 后内存就满了
+      // 3. 我们继续访问 D 数据时，D在内存中不存在，A被移除，------------------ 此时内存为 BCD
+      // 4. 我们继续访问 B 数据时，B在内存中存在，B移动到最后面 --------------- 此时内存为 CDB
+      // 5. 我们继续访问 E 数据时，E在内存中不存在，C被移除 ------------------ 此时内存为 DBE
 
       class LRU {
         constructor(capacity) {
