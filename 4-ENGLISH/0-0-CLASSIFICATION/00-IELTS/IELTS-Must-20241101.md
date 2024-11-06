@@ -341,18 +341,18 @@
 - `【 resign 辞职 v 】`
 - `【 resignation 辞职 n 】` // ----------------- 【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
 - > 【 resignation application. 离职申请 n 】// -- 【 application letter. = cover letter. 求职信 n 】
-- > 【 resignation letter. 辞职信 】 // ---------- 【 cover letter. 求职信 = application letter. 】 【 anonymous letter. 匿名信 n 】
+- > 【 resignation letter. 辞职信 】 // --------- 【 cover letter. 求职信 = application letter. 】 【 anonymous letter. 匿名信 n 】
 - AA.
 - _【 liter 公升 升 n 】_
-- _【 letter 信 字母 n 】_ // -------------------- 【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】// capital letter. 大写字母
+- _【 letter 信 字母 n 】_ // --------------------【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】【 capital letter. 大写字母 】
 - > 【 cover letter. 求职信 n 】 = application letter. 求职信
 - > 【 resignation letter. 辞职信 n 】
-- > 【 anonymous letter. 匿名信 n 】 // ----------- 【 anonymous complaint. 匿名投诉 n 】 【 anonymous donation. 匿名捐赠 n 】
+- > 【 anonymous letter. 匿名信 n 】 // --------- 【 anonymous complaint. 匿名投诉 n 】 【 anonymous donation. 匿名捐赠 n 】
 - > 【 capital letter. 大写字母 n 】= uppercase letter.
 - > 【 lowercase letter. 小写字母 n 】
 - BB.
 - _【 anonymous 匿名的 adj 】_
-- > 【 anonymous donation. 匿名捐赠 n 】 // ---- 【 donate 捐赠 v 】 【 donation 捐赠 n 】
+- > 【 anonymous donation. 匿名捐赠 n 】 // ------ 【 donate 捐赠 v 】 【 donation 捐赠 n 】
 - > 【 anonymous complaint. 匿名投诉 adj 】// ---- 【 complain 抱怨 投诉 v 】 【 complaint 抱怨 投诉 n 】 // anonymously complain. 匿名地投诉 v
 - > 【 anonymous letter. 匿名信 n 】
 - CC.
@@ -364,9 +364,9 @@
 - `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 松了一口气 】
 - `【 sign 签名v 标志n 】` // ------------------- verb
 - `【 assign 分配 指派 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
-- `【 resign 辞职 v 】` // ---------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
-- `【 assignment. 任务 分配 n 】` // ------------ _【 class assignment. 课堂作业 n 】_
-- `【 signature 签名 n 】` // ------------------ noun
+- `【 resign 辞职 v 】` // ----------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
+- `【 assignment. 任务 分配 n 】` // ----------- _【 class assignment. 课堂作业 n 】_
+- `【 signature 签名 n 】` // ------------------- noun
 - _【 class assignment. 课程作业 】_
 - > 【 breath a sign of relief. 松了一口气 n 】
 -
