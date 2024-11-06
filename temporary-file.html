@@ -118,6 +118,20 @@
       }
       const resShuffle = shuffle(arr);
       console.log("resShuffle: ", resShuffle);
+
+      // -----------------------------------------
+      // 7
+      // http 1.0 - 无状态 无连接
+      // http 1.1 - 长链接 管道化 缓存 断点续传
+      // - 长链接: 响应头Connection: Keep-Alive 响应头Keep-Alive: max timeout
+      // - 管道化: 多个请求可以并行发出，但是响应需要按序返回
+      // - 缓存: Cache-Control: no-cache public/private  maxage  // expires
+      // - 断点续传: 请求头Range 响应头Content-Range
+      // http 2.0
+      // - 二进制分帧
+      // - 头部压缩
+      // - 多路复用
+      // - 服务端推送
     </script>
   </body>
 </html>

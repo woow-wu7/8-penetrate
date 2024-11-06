@@ -52,17 +52,22 @@ I get kind of angry. 我有点生气
 // He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
 
 
-4
+4.
 shrug 耸肩 v n
 shoulder 肩膀 n
 
 
-5
+5.
 gather 聚集 收集 采集 v
 【 gather fruit. 采集水果 】
 【 ripe fruit. 成熟的果实 】
 // The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
 // TIPS: Pay attention to the pronunciation of the word 'gather'. [gather-聚集收集采集-v] [gather-fruit.采集水果]
+
+
+6.
+explore 探险 勘查
+// He gathered fruit and explored caves and mountaintops.
 
 
 sight 视力 视线 n

@@ -1,29 +1,42 @@
-# HTTP
+## HTTP
 
 - https://juejin.cn/post/6844904085750038542
 
 ## 一些单词
 
 ```
-tunnel 隧道 管道
-patch 不定 修补
+transfer 转移 转让 v
+-
+tunnel 隧道 管道 n
+channel 频道 n
+-
+patch 补丁 修补 n v
 establish 建立 // 三次握手后客户端和服务端状态都变成了established
-
+-
 certificate 证书
-cipher 密码
+cipher 密码 暗号 n
+code 代码 暗号 n // the cipher is not a password.
+-
+joint 联合的adj 关节n
+join 加入 v
+participate in. 加入 v
+-
+expires 过期 v
+range 范围 n
 ```
 
 ## (一) HTTP 方法
 
 ### (1.1) HTTP 有哪些请求方法
 
-- HTTP1.0 定义了三种方法：GET，POST，HEAD
-- HTTP1.1 定义了五种方法：PUT，PATCH，DELETE，OPTIONS，CONNECT
+- HTTP1.0 定义了三种方法：GET, POST, HEAD
+- HTTP1.1 定义了五种方法：PUT, PATCH, DELETE, OPTIONS, CONNECT
+- // TIPS: Pay attention to the pronunciation of the word 'connect'. [connect-连接-n] // [joint-statement.联合声明]
 
-```
+```options and connect
 OPTIONS
-- 用于获取目的资源所支持的 ( 请求方法 )
-- 返回报文的 ( 报文首部 - 响应头 ) 中包含 ( Allow ) 字段，值是-所支持的请求方法
+- 预检请求: 用于获取目的资源所支持的 ( 请求方法 )
+- 返回报文的 ( 报文首部 - 响应头 ) 中包含 ( Allow ) 字段，值是-所支持的请求方法 // TIPS: Pay attention to the pronunciation of the word 'allow'.
 - 响应头 Allow: GET,POST
 - 应用: 比如 cors 设置跨域时，如果是非简单请求，就会先进行 options 请求
 - 扩展: cors请求时，非简单请求的options请求有三个作用: 1.Origin表示的白名单 2.Access-Control-Request-Method会用的HTTP方法 3.Access-Control-Request-Headers允许的头信息
@@ -42,9 +55,9 @@ CONNECT
 - 参数
   - GET 通过 query 传递参数
   - POST 通过 body 传递参数
-  - `本质上 GET 和 POST 都能通过 query 和 body 传递数据`
+  - `本质上 GET 和 POST 都能通过 query 和 body 传递数据`，所以这只是一种约定，比如: 是有的公司 ( 所有的请求都只用 post )
 - 幂等
-  - GET 幂等
+  - GET 幂等 ---------------- 条件相同时，请求多次都会得到相同的结果（无副作用）
   - POST 非幂等
 - 书签和缓存
   - GET 可以作为书签，能被浏览器和代理服务器缓存
@@ -70,7 +83,8 @@ CONNECT
 
 - 两者都可以 更新资源
 - PATCH 是对资源进行 ( 局部更新 )，这样 PATCH 就会少提交一些 body 属性，减小报文大小
-- patch 是补丁的意思，PATCH 是对 PUT 方法的补充
+- POST 则是对资源进行 ( 全量更新 )
+- // patch 是补丁的意思，PATCH 是对 PUT 方法的补充
 
 ## (二) http1.0 和 http1.1 的区别？
 
@@ -83,7 +97,7 @@ CONNECT
   - 缓存
   - 断点续传
 
-```HTTP1.0
+```1. HTTP1.0
 HTTP1.0
 ---
 
@@ -97,7 +111,7 @@ HTTP1.0
 2. 对头阻塞: http1.0规定，在前一个请求响应到达之后，下一个请求才能发送，如果前一个请求阻塞，后面的就都会阻塞，从而造成对头阻塞
 ```
 
-```HTTP1.1
+```2. HTTP1.1
 HTTP1.1
 - 长连接
 - 管道化
@@ -107,8 +121,8 @@ HTTP1.1
 
 (1) 长连接
 - HTTP1.1默认保持长连接，数据传输完成，保持tcp链接不断开，继续使用这个通道传输数据
-- 响应头：Connection: Keep-Alive
-- 响应头：Keep-Alive: timeout=5, max=1000
+- 响应头: Connection: Keep-Alive --------------> 表示服务器支持 长链接
+- 响应头: Keep-Alive: timeout=5, max=1000 -----> 提供长链接的详细信息
           - timeout：指定了一个 空闲连接 需要保持打开状态的 最小时长（以秒为单位）
           - max：在连接关闭之前，在此连接可以发送的请求的最大值
 - 一般情况下，长链接是默认开启的，除非设置了 Connection: close 才会在http请求完成后，断开链接
@@ -125,13 +139,14 @@ HTTP1.1
 
 (3) 缓存处理
 - HTTP1.1新增 Cache-Control 字段
-    - http1.0  =>  expires        => 是一个绝对时间点，用GMT时间格式
-    - http1.1  =>  Cache-Control  => 是一个相时时间段，以秒为单位，可以设置 max-age private/public no-cache 等
+    - http1.0 响应头  =>  expires        => 是一个绝对时间点，用GMT时间格式
+    - http1.1 响应头  =>  Cache-Control  => 是一个相时时间段(更精确，没有本地时间带来的误差)，以秒为单位，可以设置 max-age private/public no-cache 等
+    // TIPS: Pay attention to the pronunciation of the word 'expires'. [expire-expires-过期-v]
 - Cache-control: no-cache,private,max-age=123123
     - no-cache：不使用强缓存，使用协商缓存
     - max-age: 一个时间段，单位是秒
-    - public：允许所有服务器缓存该资源
-    - private：表示该资源仅仅属于发出请求的最终用户，这将禁止中间服务器（如代理服务器）缓存此类资源
+    - public: 允许所有服务器缓存该资源
+    - private: 表示该资源仅仅属于发出请求的最终用户，这将禁止中间服务器（如代理服务器）缓存此类资源
                对于包含用户个人信息的文件，可以设置private
 - Expires 和 Cache-Control 对比
     - 如果同时开启，Cache-Control 的优先级高于 Expires
@@ -153,9 +168,9 @@ HTTP1.1
 ## (三) http2.0
 
 - 二进制分帧
-- 多路复用：在共享 TCP 链接的基础上同时发送请求和响应
+- 多路复用: 在共享 TCP 链接的基础上同时发送请求和响应
 - 头部压缩
-- 服务器推送：服务器可以额外的向客户端推送资源，而无需客户端明确的请求
+- 服务器推送: 服务器可以额外的向客户端推送资源，而无需客户端明确的请求
 
 ```
 HTTP2.0
@@ -175,7 +190,7 @@ HTTP2.0
 ## (四) HTTP 的一些概念
 
 - HTTP
-  - HTTP 是 ( 超文本传输协议 ) 的缩写 ( HyperText Transfer Protocol )
+  - HTTP 是 ( 超文本传输协议 ) 的缩写 ( HyperText Transfer Protocol ) // 【 transfer 转移 转让 v 】
   - 超文本: 指 ( 传输的内容是超文本 - 是文字，图片，视频，超链接 的 混合体 ) -- html 就是常见的超文本
   - 扩展
     - URL 和 URI
@@ -198,7 +213,7 @@ HTTP2.0
 - 传输层 ---------- TCP UDP
 - 网络层 ---------- IP ICMP
 - 数据链路层
-- // 物理层
+- 物理层
 
 ```
 IP是高速公路
@@ -208,7 +223,10 @@ HTTP时货物
 
 ## (六) TCP 报文
 
-- TCP 报文 = TCP 首部 + TCP 数据部分
+- HTTP 报文 = 报文首部 + 空行 + 报文主体
+  - 请求报文首部 = 【 请求行 ( 请求的方法 + URI + HTTP 版本 ) 】 + 请求头
+  - 响应报文首部 = 【 响应行 即 状态行 ( HTTP 版本 + 状态码 + 原因短语 ) 】 + 响应头
+  -
   - 序号: Seq
   - 确认号: Ack ---------- Ack = Seq + 1
   - 标志位
@@ -260,28 +278,28 @@ HTTP时货物
   - 标志位: ACK=1，序号 Seq=u+1，确认号 Ack=w+1 的 ( 确认包 )
   - 客户端状态：FIN_WAIT2 => TIME_WAIT
 
-## (九) HTTP 常见的状态码
+## (九) HTTP 常见的状态码 - HTTP Status Code.
 
 ```
-100 Continue 客户端应该继续请求，比如post请求就是分两段，header 和 data，即现发送header数据，返回100状态码后在继续发送data
+100 Continue 客户端应该继续请求，比如post请求就是分两段: ( header ) 和 ( data )，即 先发送header数据，返回100状态码后在继续发送data
 101 Switching Protocols 升级协议，切换协议
 
 // 100
-// - 1. POST产生两个TCP数据包，GET产生一个TCP数据包，
+// - 1. POST产生两个TCP数据包，GET产生一个TCP数据包
 // - 1. POST请求:
 //      - POST请求就是分两段，header 和 data，即先发送header数据，返回100状态码后，再继续发送data
 //      - 注意: 这两次请求都是post请求，( 不要和post跨域时，两次请求搞混 - 一次是options请求，一次是post请求 )
 
 200 ok
-201 created 创建成功: 这个状态码通常在 POST 请求成功后返回，表示服务器已经成功处理了请求，并且创建了一个新的资源
+201 created 创建成功: 这个状态码通常在 ( POST ) 请求成功后返回，表示服务器已经成功处理了请求，并且创建了一个新的资源
 204 No Content 请求成功，但没有资源可以返回
 206 Partial Content 范围请求
 
 301 Moved Permanently 永久重定向，需要修改之前保存的书签
 302 Found 临时重定向，不需要修改之前保存的书签
-303 See Other 临时重定向，------------------------------- 应采用 GET 方法获取资源
-304 Not Modified 资源未被修改 --------------------------- 用户协商缓存
-307 Temporary Redirect 临时重定向，---------------------- 不需要从 POST 换成 GET
+303 See Other 临时重定向，------------------------------- + 应采用 GET 方法获取资源
+304 Not Modified 资源未被修改 --------------------------- 用户 ( 协商缓存 )
+307 Temporary Redirect 临时重定向，---------------------- + 不需要从 POST 换成 GET
 
 400 Bad Request 错误的请求，存在错误语法
 401 UnAuthorized 未授权

@@ -5,12 +5,16 @@
 - `【 satisfaction 满足 满意 满意度 n 】` // -------- _【 customer satisfaction. 客户满意度 】_ // _【 customer complaint. 客户投诉 n 】_
 - `【 complain 抱怨 投诉 v 】` // ----------------- 【 anonymously complain. 匿名地投诉 v 】
 - `【 complaint 抱怨 投诉 n 】` // ---------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客户投诉 】// 【 customer satisfaction. 客户满意度 】
+- _【 anonymously complain. 匿名地投诉 v 】_
+- _【 anonymous complaint. 匿名的投诉 n 】_
+- _【 customer complaint. 客户的投诉 n 】_
+- _【 customer satisfaction. 客户满意度 n 】_
 - AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
 - > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // greedy 贪婪的 adj // desire 愿望 渴望 欲望 n v
 - > 【 satisfy need/demand/requirement. 满足需求 】
 - > satisfy curiosity. 满足好奇心
-- > inspire curiosity. 激发好奇心
+- > inspire curiosity. 激发好奇心 // ------------- 【 inspire potential. 激发潜能 v 】 【 inspire inspiration. 激发灵感 v 】
 - > strong curiosity. 强烈的好奇心
 - BB.
 - _【 inspiration 灵感 】_ // -------------------- 【 creative inspiration. 创作灵感 】 【 inspire inspiration. 激发灵感 v 】
@@ -19,15 +23,17 @@
 - > inspire inspiration. 激发灵感
 - > inspire curiosity. 激发好奇心
 - > inspire potential. 激发潜能
-- > potential customer. 潜在客户
-- > customer satisfaction. 客户满意度
+- > - potential customer. 潜在客户 n
+- > - customer satisfaction. 客户满意度 n
+- > - customer complaint. 客户投诉 n
 - CC.
-- _【 greedy 贪婪的 adj 】_
+- _【 greedy 贪婪的 adj 】_ // -------------------- 1. **【 greedy algorithm. 贪心算法 n 】** 2. **【 greedy desire. 贪婪的欲望 】**
 - _【 desire 欲望 愿望 渴望 性欲 n 】_
 - > 【 greedy algorithm. 贪心算法 】
 - > 【 greedy desire. 贪婪的欲望 】 // ------------- 【 greedy algorithm. 贪心算法 】 【 greedy desire. 贪心的欲望 】 【 greedy 贪婪的 adj 】
 - > 【 satisfy desire. 满足欲望 】
 - > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
+- // -- exploit 剥削 v
 - DD.
 - _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
 - _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】
@@ -41,6 +47,7 @@
 - _【 jump 跳入 】_ // ---------------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】 // cut in line. = cut in queue. = jump the queue.
 - _【 stump 树桩 】_ // --------------------------- 【 tree stump. 树桩 n 】
 - _【 pumpkin 南瓜 】_ // ------------------------- 【 pumpkin porridge. 南瓜粥 n 】
+- _【 stamp 邮票 】_ // --------------------------- 【 stamp duty. 印花税 n 】 // 【 pay stamp duty. 交印花说 n 】
 - FF.
 - _【 complain 抱怨 投诉 v 】_ // ------------------ 【 anonymously complain. 匿名地投诉 v 】
 - _【 complaint 抱怨 投诉 n 】_ // ----------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客投诉 】 【 customer satisfaction. 满意度 】
@@ -400,3 +407,25 @@
 - `【 customer complaint. 客户投诉 n 】`
 - `【 customer satisfaction. 客户满意 n 】`
 - **【 【 Customer complaints 】 【 are related to 】 【 customer satisfaction 】. 客户投诉和客户满意度有关 】**
+
+###### Must 2024-11-06
+
+- 1
+- `【 exploit 剥削 利用 v 】`
+- `【 explode 爆炸 v 】`
+- `【 explore 探险 v 】`
+- // explosion 爆炸 n
+- // explosion sound. 爆炸声 n
+-
+- `【 capital 首都n 大写的adj 资本n 】` // ---------------- 【 capital letter. 大写字母 n 】 【 international capital. 国际资本 n 】
+- `【 capitalist 资本家n 资本注意点adj 】` // -------------- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
+- _【 capital letter. 大写字母 n 】_
+- _【 international capital. 国际资本 n 】_
+- > 【 capitalist country. 资本主义国家 n 】
+- > 【 socialist country. 社会主义国家 n 】
+-
+- [AA.]
+- `【 exploit 剥削 利用 v 】`
+- `【 human weakness. 人性的弱点 n 】`
+- `【 capitalist. 资本家 n 】`
+- **【 【 Capitalists 】 【 exploit 】 the 【 human weakness 】 to 【 exploit 】 the workers. 资本家利用人性的弱点剥削工人 】**
