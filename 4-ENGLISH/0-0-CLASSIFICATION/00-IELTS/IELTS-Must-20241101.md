@@ -354,7 +354,7 @@
 - _【 anonymous 匿名的 adj 】_
 - > 【 anonymous donation. 匿名捐赠 n 】 // ------ 【 donate 捐赠 v 】 【 donation 捐赠 n 】
 - > 【 anonymous complaint. 匿名投诉 adj 】// ---- 【 complain 抱怨 投诉 v 】 【 complaint 抱怨 投诉 n 】 // anonymously complain. 匿名地投诉 v
-- > 【 anonymous letter. 匿名信 n 】
+- > 【 anonymous letter. 匿名信 n 】 // ---------- 【 resignation letter. 辞职信 n 】 【 capital letter. 大写字母 n 】
 - CC.
 - _【 complain 抱怨 投诉 v 】_
 - _【 complaint 抱怨 投诉 n 】_
