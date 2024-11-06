@@ -2,7 +2,9 @@
 
 - 1
 - `【 satisfy 满足 满意 v 】` // ------------------ 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy demand/need/requirement. 满足需求 】
-- `【 satisfaction 满足 满意 满意度 n 】` // --------【 customer satisfaction. 客户满意度 】
+- `【 satisfaction 满足 满意 满意度 n 】` // -------- _【 customer satisfaction. 客户满意度 】_ // _【 customer complaint. 客户投诉 n 】_
+- `【 complain 抱怨 投诉 v 】` // ----------------- 【 anonymously complain. 匿名地投诉 v 】
+- `【 complaint 抱怨 投诉 n 】` // ---------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客户投诉 】// 【 customer satisfaction. 客户满意度 】
 - AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
 - > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // greedy 贪婪的 adj // desire 愿望 渴望 欲望 n v
@@ -39,6 +41,9 @@
 - _【 jump 跳入 】_ // ---------------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】 // cut in line. = cut in queue. = jump the queue.
 - _【 stump 树桩 】_ // --------------------------- 【 tree stump. 树桩 n 】
 - _【 pumpkin 南瓜 】_ // ------------------------- 【 pumpkin porridge. 南瓜粥 n 】
+- FF.
+- _【 complain 抱怨 投诉 v 】_ // ------------------ 【 anonymously complain. 匿名地投诉 v 】
+- _【 complaint 抱怨 投诉 n 】_ // ----------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客投诉 】 【 customer satisfaction. 满意度 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'satisfaction'. [satisfaction-满足-满意-满意度-n] [customer-satisfaction-客户满意度]
 - // TIPS: Pay attention to the pronunciation of the word 'inspiration'. [inspiration-灵感-n] [creative-inspiration-创作灵感-n]
@@ -66,6 +71,11 @@
 - // -- 2. _【 Let's 【 start out 】 【 by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
 - // -- 3. _【 Let's 【 start off 】 【 by 】 【 introducing 】 ourselves. 让我们从自我介绍开始吧 】_
 - // -- 【 Most interviews will 【 start out 】 with a 【 handshake 】 and some 【 small talk 】. 大多数面试都是从握手和闲聊开始的 】
+-
+- [CC.]
+- `【 customer complaint. 客户投诉 n 】`
+- `【 customer satisfaction. 客户满意 n 】`
+- **【 【 Customer complaints 】 【 are related to 】 【 customer satisfaction 】. 客户投诉和客户满意度有关 】**
 -
 -
 -
@@ -321,21 +331,44 @@
 - 1
 - `【 resign 辞职 v 】`
 - `【 resignation 辞职 n 】` // ----------------- 【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
-- > 【 resignation application. 离职申请 n 】
-- > 【 resignation letter. 辞职信 】
-- _【 letter 信 字母 n 】_ // ------------------- 【 resignation letter. 辞职信 n 】
+- > 【 resignation application. 离职申请 n 】// -- 【 application letter. = cover letter. 求职信 n 】
+- > 【 resignation letter. 辞职信 】 // ---------- 【 cover letter. 求职信 = application letter. 】 【 anonymous letter. 匿名信 n 】
+- AA.
 - _【 liter 公升 升 n 】_
+- _【 letter 信 字母 n 】_ // ------------------- 【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】// capital letter. 大写字母
+- > 【 cover letter. 求职信 n 】 = application letter. 求职信
+- > 【 resignation letter. 辞职信 n 】
+- > 【 anonymous letter. 匿名信 n 】
+- > 【 capital letter. 大写字母 n 】= uppercase letter.
+- > 【 lowercase letter. 小写字母 n 】
+- BB.
+- _【 anonymous 匿名的 adj 】_
+- > 【 anonymous donation. 匿名捐赠 n 】 // ---- 【 donate 捐赠 v 】 【 donation 捐赠 n 】
+- > 【 anonymous complaint. 匿名投诉 adj 】// ---- 【 complain 抱怨 投诉 v 】 【 complaint 抱怨 投诉 n 】 // anonymously complain. 匿名地投诉 v
+- > 【 anonymous letter. 匿名信 n 】
+- CC.
+- _【 complain 抱怨 投诉 v 】_
+- _【 complaint 抱怨 投诉 n 】_
+- > 【 anonymously complain. 匿名地投诉 v 】
+- > 【 anonymous complaint. 匿名的投诉 adj 】
 -
 - `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 松了一口气 】
 - `【 sign 签名v 标志n 】` // ------------------- verb
 - `【 assign 分配 指派 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
 - `【 resign 辞职 v 】` // ---------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
-- `【 assignment. 任务 分配 n 】` // ----------- _【 class assignment. 课堂作业 n 】_
+- `【 assignment. 任务 分配 n 】` // ------------ _【 class assignment. 课堂作业 n 】_
 - `【 signature 签名 n 】` // ------------------ noun
 - _【 class assignment. 课程作业 】_
 - > 【 breath a sign of relief. 松了一口气 n 】
 -
-- `【 appoint. 任命 指派 v 】`
+- `【 appoint 任命 指定 v 】`
+- `【 appointment 任命 指定 n 】`
+-
+- `【 assign 分配 v 】`
+- `【 assignment 分配 任务 作业 n 】`
+-
+- `【 resign 辞职 v 】`
+- `【 resignation 辞职 n 】` // ------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
 -
 - [AA.]
 - `【 sigh 叹气 v n 】`
@@ -349,5 +382,21 @@
 - `【 assign 分配 指派 v 】`
 - `【 class assignment. 课堂作业 n 】`
 - **【 The 【 resignation letter 】 said that the boos 【 assign 】 too much 【 class assignment 】. 辞职信上说老板指派了过多的课堂作业 】**
-
-
+-
+- [CC.]
+- `【 cover letter. 求职信 n 】` = application letter.
+- `【 resignation letter. 辞职信 n 】`
+- `【 anonymous letter. 匿名信 n 】`
+- **【 Both 【 cover letters 】 and the 【 resignation letters 】 need to be written 【 as 】 【 anonymous letter 】. 求职信和离职信都需要写匿名信 】**
+-
+- [DD.]
+- `【 complain about. 投诉... 抱怨... v 】`
+- `【 anonymously complain. 匿名投诉 v 】` // ----- v
+- `【 anonymous complaint. 匿名投诉 n 】` // ------ n
+- `【 anonymous letter. 匿名信 n 】`
+- **【 We can 【 anonymously complain 】 about the suppliers through the 【 anonymous letters 】. 我们可以通过匿名信匿名投诉供应商 】**
+-
+- [EE.]
+- `【 customer complaint. 客户投诉 n 】`
+- `【 customer satisfaction. 客户满意 n 】`
+- **【 【 Customer complaints 】 【 are related to 】 【 customer satisfaction 】. 客户投诉和客户满意度有关 】**
