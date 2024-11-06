@@ -228,6 +228,9 @@
 - `【 restore confidence. 恢复自信 】`
 - **【 If you don't do well 【 in 】 the examination, firstly 【 acknowledge your error 】, then 【 make an effort to 】 improve your 【 academic performance 】, and finally you can 【 restore your confidence 】. 如何考试没考好，首先承认错误，然后努力提高学习成绩，最后恢复自信 】**
 - // -- 【 make an effort to do sth. 努力做某事 】
+-
+- [HH.]
+- **【 He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
 
 ###### Must 2024-10-03
 
