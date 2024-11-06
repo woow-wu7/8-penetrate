@@ -9,6 +9,7 @@
 - _【 anonymous complaint. 匿名的投诉 n 】_
 - _【 customer complaint. 客户的投诉 n 】_
 - _【 customer satisfaction. 客户满意度 n 】_
+- _【 potential customer. 潜在客户 n 】_
 - AA.
 - > 【 satisfy curiosity. 满足好奇心 v 】
 - > 【 satisfy desire. 满足欲望 v 】 // ----------- 【 greedy desire. 贪婪的欲望 】 // greedy 贪婪的 adj // desire 愿望 渴望 欲望 n v
@@ -34,12 +35,13 @@
 - > 【 satisfy desire. 满足欲望 】
 - > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
 - // -- exploit 剥削 v
+- // -- profit 利润 利益 n
 - DD.
 - _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
 - _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】
 - _【 need 需要 v 需求 】_
 - EE.
-- _【 dumpling 饺子 n 】_
+- _【 dumpling 饺子 n 】_ // --------------------- 【 expired dumpling. 过期的饺子 n 】
 - _【 dump 倒 灌 倾泻 v 垃圾场 n 】_
 - _【 dumb 哑的 愚蠢的 adj 】_ // ------------------ 【 play dumb. 装傻 v 】
 - _【 dumbbell 哑铃 】_ // ------------------------ 【 lift dumbbell. 举哑铃 v 】
@@ -159,8 +161,8 @@
 -
 -
 - 2
-- `【 vision 视觉 视力 n 】` // ----------------- 【 clear vision. 清晰的视野 n 】
 - `【 hearing 听觉 n 】` // -------------------- 【 hearing aid. 助听器 】 【 band aid. 创可贴 】 【 first aid. 急救 】 【 first aid kit. 急救箱 】
+- `【 vision 视觉 视力 n 】` // ----------------- 【 clear vision. 清晰的视野 n 】
 - `【 smell 嗅觉 n / 闻 v 】` // ---------------- 【 smell sweet. 闻起来香 】 **【 smell sweet. 闻起来香 】**
 - `【 taste 味觉 n / 尝 v 】` // ---------------- 【 tasty 美味的 adj 】 // 【 tongue 舌头 n 】 【 tone 音调 语调 n 】
 - `【 touch 触觉 n 】`
@@ -171,9 +173,9 @@
 - > 【 first aid kit. 急求箱 n 】
 - > 【 aid 帮助 援助 v n 】
 - > 【 kit 工具 元件 n 】
-- _【 smell sweet. 闻起来香 】_
-- _【 band 乐队 】_
 - _【 bandage 绷带 】_ // ---------------------- 【 wrap bandage. 包扎绷带 】 【 wrap wound. 包裹伤口 】 // wrap 包 裹 缠绕 v
+- _【 band 乐队 】_ // ------------------------- 【 band-aid. 创可贴 n 】 【 hearing aid. 助听器 】 【 first aid. 急救 】 【 first aid kit. 急救箱 】
+- _【 smell sweet. 闻起来香 】_
 - _【 wrap the wound. 包扎伤口 】_
 - > The sense of pain/touch/taste/smell/hearing/vision
 - // TIPS: Pay attention to the pronunciation of the word 'hearing'. [hearing-aid.助听器] [band-aid.创可贴] [first-aid.急救] [first-aid-kit.急救箱]
@@ -342,10 +344,10 @@
 - > 【 resignation letter. 辞职信 】 // ---------- 【 cover letter. 求职信 = application letter. 】 【 anonymous letter. 匿名信 n 】
 - AA.
 - _【 liter 公升 升 n 】_
-- _【 letter 信 字母 n 】_ // ------------------- 【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】// capital letter. 大写字母
+- _【 letter 信 字母 n 】_ // -------------------- 【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】// capital letter. 大写字母
 - > 【 cover letter. 求职信 n 】 = application letter. 求职信
 - > 【 resignation letter. 辞职信 n 】
-- > 【 anonymous letter. 匿名信 n 】
+- > 【 anonymous letter. 匿名信 n 】 // ----------- 【 anonymous complaint. 匿名投诉 n 】 【 anonymous donation. 匿名捐赠 n 】
 - > 【 capital letter. 大写字母 n 】= uppercase letter.
 - > 【 lowercase letter. 小写字母 n 】
 - BB.
@@ -418,9 +420,9 @@
 - // explosion sound. 爆炸声 n
 -
 - `【 capital 首都n 大写的adj 资本n 】` // ---------------- 【 capital letter. 大写字母 n 】 【 international capital. 国际资本 n 】
-- `【 capitalist 资本家n 资本注意点adj 】` // -------------- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
-- _【 capital letter. 大写字母 n 】_
+- `【 capitalist 资本家n 资本注意点adj 】` // ------------- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
 - _【 international capital. 国际资本 n 】_
+- _【 capital letter. 大写字母 n 】_ // ------------------ 【 resignation letter. 辞职信 n 】 【 anonymous letter. 匿名信 n 】
 - > 【 capitalist country. 资本主义国家 n 】
 - > 【 socialist country. 社会主义国家 n 】
 -
