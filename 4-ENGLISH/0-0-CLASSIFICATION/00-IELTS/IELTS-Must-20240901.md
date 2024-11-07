@@ -1,14 +1,15 @@
 ###### Must 2024-09-05
 
 - 1
-- `【 ingredient 成分 原料 n 】` // ----------------------- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】 【 ingredient list. 成分表 】
-- `【 material 材料 n 】` // ----------------------------- 【 raw material. 原材料 n 】 【 building material. 建筑材料 n 】 【 reading material. 阅读材料 n 】
+- `【 ingredient 成分 原料 n 】` // --- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】 【 ingredient list. 成分表 】
+- `【 material 材料 n 】` // --------- 【 raw material. 原材料 】 【 building material. 建筑材料 】 【 composite material. 复合材料 】 【 reading material. 阅读材料 】
 - > 【 common ingredient. 常见成分 n 】
 - > 【 active ingredient. 有效成分 n 】 // ---------------- 【 actively pursue. 主动追求 v 】 【 active voice. 主动语态 n 】
 - > 【 ingredient list. 成分表 n 】 // list
 - > 【 raw material. 原材料 n 】 // ----------------------- 【 raw rice. 生米 n 】 【 cooked rice. 熟米 n 】
 - > 【 building material. 建筑材料 n 】 // --------------- _【 construction 建筑 n 】_ _【 constructor 建造者 构造函数 n 】_ `【 construction site. 建筑工地 n 】`
 - > 【 reading material. 阅读材料 n 】
+- > 【 composite material. 复合材料 n 】 // -------------- _【 composite 合成的 复合的 adj 】_
 - _【 actively pursue. 主动追求 】_ // ---------------------【 pursue 追求 追逐 v 】
 - _【 passively accept. 被动接受 】_
 - _【 active voice. 主动语态 】_

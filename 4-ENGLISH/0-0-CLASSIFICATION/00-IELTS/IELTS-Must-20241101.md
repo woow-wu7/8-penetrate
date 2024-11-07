@@ -404,7 +404,8 @@
 - `【 anonymously complain. 匿名投诉 v 】` // ----- v
 - `【 anonymous complaint. 匿名投诉 n 】` // ------ n
 - `【 anonymous letter. 匿名信 n 】`
-- **【 We can 【 anonymously complain 】 about the suppliers through the 【 anonymous letters 】. 我们可以通过匿名信匿名投诉供应商 】**
+- **【 We can 【 anonymously complain 】 【 about 】 the suppliers through the 【 anonymous letters 】. 我们可以通过匿名信匿名投诉供应商 】**
+- // -- complain about. 投诉...
 -
 - [EE.]
 - `【 customer complaint. 客户投诉 n 】`
@@ -415,13 +416,31 @@
 
 - 1
 - `【 exploit 剥削 利用 v 】`
-- `【 explode 爆炸 v 】`
+- `【 explode 爆炸 v 】` // --------------------------- 【 explosion sound. 爆炸声 n 】
 - `【 explore 探险 v 】`
-- // explosion 爆炸 n
-- // explosion sound. 爆炸声 n
+-
+- `【 explode 爆炸 v 】`
+- `【 explosion 爆炸 n 】` // -------------------------- 【 explosion sound. 爆炸声 n 】
+- `【 explosive. 爆炸的 adj 】` // --------------------- 【 explosive growth. 爆炸性增长 】 【 explosive material. 爆炸物 】 // 【 grow 生长 发育 长大 / growth 】
+- > 【 explosion sound. 爆炸声 n 】
+- > 【 explosive growth. 爆炸性增长 】
+- > 【 explosive material. 爆炸物 】
+- // TIPS: Pay attention to the pronunciation of the word 'explosion'. [explosion-爆炸-n] [explosion-sound.爆炸声-n]
+- AA.
+- _【 explosive material. 爆炸物 n 】_
+- _【 raw material. 原材料 n 】_
+- _【 building material. 建筑材料 n 】_ // -------------- _【 construction site. 建筑工地 】_ _【 construction cost. 建筑成本 】_
+- > constructor / construction
+- > 【 construction site. 建筑工地 n 】
+- > 【 construction cost. 建筑成本 n 】
+- BB.
+- _【 ingredient 原料 成分 n 】_
+- _【 material 材料 n 】_
+- > 【 common ingredient. 常见成分 n 】
+- > 【 active ingredient. 活性成分 n 】
 -
 - `【 capital 首都n 大写的adj 资本n 】` // ---------------- 【 capital letter. 大写字母 n 】 【 international capital. 国际资本 n 】
-- `【 capitalist 资本家n 资本注意点adj 】` // ------------- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
+- `【 capitalist 资本家n 资本注意点adj 】` // ----------=--- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
 - _【 international capital. 国际资本 n 】_
 - _【 capital letter. 大写字母 n 】_ // ------------------ 【 resignation letter. 辞职信 n 】 【 anonymous letter. 匿名信 n 】
 - > 【 capitalist country. 资本主义国家 n 】
@@ -432,3 +451,59 @@
 - `【 human weakness. 人性的弱点 n 】`
 - `【 capitalist. 资本家 n 】`
 - **【 【 Capitalists 】 【 exploit 】 the 【 human weakness 】 to 【 exploit 】 the workers. 资本家利用人性的弱点剥削工人 】**
+-
+- [BB.]
+- `【 explosion sound. 爆炸声 n 】`
+- `【 the explosion of the bomb. 炸弹爆炸 n 】`
+- **【 The 【 explosion sound 】 comes from the 【 explosion of the bomb 】. 这个爆炸声来自炸弹的爆炸 】**
+- // -- bomb. 炸弹
+-
+- [CC.]
+- `【 explosive growth. 爆炸性增长 】`
+- `【 construction site. 建筑工地 】`
+- `【 population 人口 】`
+- **【 The 【 explosive growth 】 of 【 population 】 【 causes 】 the 【 appearance 】 of the 【 construction sites 】. 人口爆炸性的增长导致建筑工地的出现 】**
+- // -- appearance 出现 n
+- // -- cause 引起 v
+
+###### Must 2024-11-07
+
+- 1
+- `【 hand 手n 交v 】`
+-
+- `【 hand 手n 交v 】`
+- `【 palm 手掌 手心 n 】` // ---------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
+- `【 finger 手指 n 】`
+- > 【 大拇指 】
+- > 【 大拇指 】
+- > 【 大拇指 】
+- > 【 大拇指 】
+
+###### Must 2024-11-08
+
+- 1
+- `【 script 脚本 剧本 n 】`
+- `【 encrypt 加密 v 】` // ----------------- 【 encryption algorithm. 加密算法 n 】
+- `【 decrypt 解密 v 】` // ----------------- 【 decryption algorithm. 解密算法 n 】
+- > 【 encrypt 加密 v 】
+- > 【 encryption 加密 n 】// --------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】
+- > 【 encrypted 加密的 adj 】// ------------ 【 encrypted file. 加密的文件 n 】
+-
+- `【 encode 编码 v 】`
+- `【 decode 解密 v 】`
+-
+- `【 cipher 密码 暗号 n 】`
+- `【 code 代码 暗号 n 】`
+-
+- [AA.]
+- `【 encrypt 加密 v 】`
+- **【 The sever uses its own public_key to 【 encrypt 】 the file. 服务器用自己的公钥加密这个文件 】**
+-
+- [BB.]
+- `【 script 脚本 剧本 n 】`
+- `【 encrypted scrip. 加密的脚本 n 】`
+- `【 automatically 自动地 adv 】`
+- **【 This 【 encrypted script 】 【 is used to 】 【 automatically 】 write 【 scripts 】. 这个加密的脚本用于自动编写剧本 】**
+-
+- [CC.]
+- **【 这个文件用加密算法进行加密 】**
