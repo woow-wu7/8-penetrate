@@ -289,23 +289,71 @@ A phone is 【 a kind of 】 device.
 
 ```
 1
+The 【 verification 】 result 【 meets customer's expectations 】.
 验证结果符合客户的预期
+// -
+// 【 meet expectation. 符合预期 v 】
+// 【 verification result. 验证结果 n 】
+// -
+// verify 验证 v
+// verification 验证 n
 
 
 2
+【 Capitalists 】 【 exploit 】 the 【 human weakness 】 to 【 exploit 】 the workers.
 资本家利用人性的弱点剥削工人
+// -
+// 【 exploit 剥削 利用 v 】
+// -
+// 【 capital 首都n 大写的adj 资本n 】
+// 【 capital letter. 大写字母 n 】 = uppercase letter.
+// 【 international capital. 国际资本 n 】
+// -
+// capital 首都n 大写字母n 大写的adj 资本n
+// capitalist 资本家n 资本注意的adj
+// -
+// 【 human weakness. 人性性弱点 n 】
 
 
 3
+Both the 【 cover letter 】 and the 【 resignation letter 】 must be written as 【 anonymous letter 】.
 求职信和离职信都需要写匿名信
 -
+We can 【 anonymously complain 】 about the suppliers through the 【 anonymous letter 】.
 我们可以通过匿名信匿名投诉供应商
+-
+// -
+// 【 anonymously complain. 匿名地投诉 v 】
+// 【 anonymous complaint. 匿名的投诉 n 】
+// -
+// 【 anonymous letter. 匿名信 n 】
+// 【 cover letter. 求职信 n 】
+// 【 resignation letter. 离职信 n 】
+
 
 
 4
+The 【 customer complaint 】 is related to the 【 customer satisfaction 】.
 客户投诉和客户满意度有关
+// -
+// customer satisfaction. 客户满意度 n
+// customer complaint. 客户投诉 n
 
 
 5
 暗号不是密码
+A 【 cipher 】 is a not password.
+// -
+// 【 cipher 密码 暗号 n 】
+```
+
+##### 8 Make sentences 2024-11-08
+
+```
+1
+这个爆炸声来自炸弹的爆炸
+
+
+2
+人口爆炸性的增长导致建筑工地的出现
 ```
