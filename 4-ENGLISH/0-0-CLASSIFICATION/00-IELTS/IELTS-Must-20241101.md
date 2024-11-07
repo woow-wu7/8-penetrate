@@ -464,3 +464,45 @@
 - **【 The 【 explosive growth 】 of 【 population 】 【 causes 】 the 【 appearance 】 of the 【 construction sites 】. 人口爆炸性的增长导致建筑工地的出现 】**
 - // -- appearance 出现 n
 - // -- cause 引起 v
+
+###### Must 2024-11-07
+
+- 1
+- `【 hand 手n 交v 】`
+-
+- `【 hand 手n 交v 】`
+- `【 palm 手掌 手心 n 】` // ---------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
+- `【 finger 手指 n 】`
+- > 【 大拇指 】
+- > 【 大拇指 】
+- > 【 大拇指 】
+- > 【 大拇指 】
+
+###### Must 2024-11-08
+
+- 1
+- `【 script 脚本 剧本 n 】`
+- `【 encrypt 加密 v 】` // ----------------- 【 encryption algorithm. 加密算法 n 】
+- `【 decrypt 解密 v 】` // ----------------- 【 decryption algorithm. 解密算法 n 】
+- > 【 encrypt 加密 v 】
+- > 【 encryption 加密 n 】// --------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】
+- > 【 encrypted 加密的 adj 】// ------------ 【 encrypted file. 加密的文件 n 】
+-
+- `【 encode 编码 v 】`
+- `【 decode 解密 v 】`
+-
+- `【 cipher 密码 暗号 n 】`
+- `【 code 代码 暗号 n 】`
+-
+- [AA.]
+- `【 encrypt 加密 v 】`
+- **【 The sever uses its own public_key to 【 encrypt 】 the file. 服务器用自己的公钥加密这个文件 】**
+-
+- [BB.]
+- `【 script 脚本 剧本 n 】`
+- `【 encrypted scrip. 加密的脚本 n 】`
+- `【 automatically 自动地 adv 】`
+- **【 This 【 encrypted script 】 【 is used to 】 【 automatically 】 write 【 scripts 】. 这个加密的脚本用于自动编写剧本 】**
+-
+- [CC.]
+- **【 这个文件用加密算法进行加密 】**

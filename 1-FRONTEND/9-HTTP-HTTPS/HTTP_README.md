@@ -23,6 +23,18 @@ participate in. 加入 v
 -
 expires 过期 v
 range 范围 n
+-
+establish 建立 设立 v
+-
+shake hands. 握手 v
+handshake 握手 n
+-
+certificate authority. 证书机构 n
+-
+encrypt 加密 v
+decrypt 解密 v
+-
+built into. 内置... v
 ```
 
 ## (一) HTTP 方法
@@ -224,7 +236,7 @@ HTTP时货物
 ## (六) TCP 报文
 
 - HTTP 报文 = 报文首部 + 空行 + 报文主体
-  - 请求报文首部 = 【 请求行 ( 请求的方法 + URI + HTTP 版本 ) 】 + 请求头
+  - 请求报文首部 = 【 请求行 ( HTTP 请求的方法 + URI + HTTP 版本 ) 】 + 请求头
   - 响应报文首部 = 【 响应行 即 状态行 ( HTTP 版本 + 状态码 + 原因短语 ) 】 + 响应头
   -
   - 序号: Seq
@@ -234,7 +246,7 @@ HTTP时货物
     - SYN: 发起一个链接
     - FIN: 释放一个链接
 
-## (七) TCP 三次握手
+## (七) TCP 三次握手 【 three handshakes. 】
 
 - https://juejin.cn/post/6844904085750038542
 - 1. 客户端 -> 服务端
@@ -247,12 +259,22 @@ HTTP时货物
 - 3. 客户端 -> 服务器
   - 标志位 ACK=1，序号 Seq=x+1，确认号 Ack=y+1，的 ( 确认包 )
   - 双方的状态: 都变成了 established
+- Other supplements:
+  - Status
+    - 客户端: CLOSED -> SYN_SENT
+    - 服务端: CLOSED -> SYN_RECEIVED
+    - 最后: 都 Established
+  - SYN:
+    - SYN 是一个标志位，表示 发起一个链接
+  - English
+    - establish 建立 设立 v
+    - established 建立的 adj
 
 ```
 问题: 为什么需要第三次握手？
 回答:
-  - 1.第一次握手，服务端能确认: 客户端的发送能力正常，自己的接收能力正常
-  - 2.第二次握手，客户端能确认: 服务端的接收发送能力正常，自己的发送接收能力正常 ---- 注意: ( 第二次握手 ) ( 服务端 ) ( 不能确认客户端的接收能力是否正常 )，所以需要第三次握手
+  - 1.第一次握手，服务端能确认: 客户端的(发送)能力正常，自己的(接收)能力正常
+  - 2.第二次握手，客户端能确认: 服务端的(接收发送)能力正常，自己的(发送接收)能力正常 ---- 注意: ( 第二次握手 ) ( 服务端 ) ( 不能确认客户端的接收能力是否正常 )，所以需要第三次握手
   - 3.第三次握手，服务端能确认: 客户端的接收、发送能力，和服务端的接收、发送能力都是正常
 总结:
   - 如果两次握手，服务端是没法确认客户端的接收能力是正常
@@ -316,9 +338,9 @@ HTTP时货物
 
 ## (十) HTTP 的缺点
 
-- 通信是明文，内容可能被 ---------- 窃听
-- 不验证通信双方的身份，可能会遭遇 -- 伪装
-- 无法验证报文的完整性，啃根会被 ---- 篡改
+- 通信是( 明文 )，内容可能被 ---------- 窃听
+- 不验证通信双方的( 身份 )，可能会遭遇 -- 伪装
+- 无法验证报文的 ( 完整性 )，啃根会被 ---- 篡改
 - 扩展
   - 加密的对象有哪些: 1.通信线路的加密 2.通信内容的加密
 
@@ -327,6 +349,7 @@ HTTP时货物
 - HTTP 报文 = 报文首部 + 空行 + 报文主体
   - 请求报文首部 = 请求行 ( 请求的方法 + URI + HTTP 版本 ) + 请求头
   - 响应报文首部 = 响应行 即 状态行 ( HTTP 版本 + 状态码 + 原因短语 ) + 响应头
+- 请看本页 (六) TCP 报文
 
 ## (十二) HTTPS
 
@@ -343,24 +366,34 @@ HTTP时货物
   - 前置知识
     - 服务器: 有一对非对称加密的密钥: 一个公钥，一个私钥
     - 证书颁发机构: 也有一对非对称加密的密钥: 一个公钥，一个私钥，注意: 私钥是提前内置在浏览器中
+    - 证书的后缀名: .pem 文件，从浏览器上下载的证书后缀名是 .pem
+    - 如何下载一个证书: 点击地址栏 input 框的 【 锁按钮 -> ConnectionIsSecure -> CertificateIsValid -> detail -> export 】
   - 具体流程
     - 1. 服务器把自己的 ( 公钥 ) 向证书认证机构申请证书
     - 2. 证书颁发机构用自己的 ( 私钥 ) 对服务器的 ( 公钥 ) 进行数字签名，并生成 ( 公钥证书 ) ------ 公钥加密私钥解，私钥加密公钥解
-    - 3. ( 服务器 ) 向 ( 客服端 ) 发送证书颁发机构颁发的 ( 公钥证书 )
-    - 4. ( 客服端 ) 收到公钥证书后，利用内置在自己的 ( 证书颁发机构的公钥 ) 解密， (公钥证书中，证明服务器的公钥的真实性 )
-    - 5. 如果是真实的服务的公钥证书，那么 ( 客户端就会用服务器的公钥加密之后在对称加密才会用到的密钥 ) 并发送给服务器
+    - 3. ( 服务器 ) 向 ( 客户端 ) 发送证书颁发机构颁发的 ( 公钥证书 )
+    - 4. ( 客户端 ) 收到公钥证书后，利用内置在自己的 ( 证书颁发机构的 公钥 ) 解密， (公钥证书中，证明服务器的公钥的真实性 )
+    - 5. 如果是真实的服务的公钥证书，那么 ( 客户端就会用服务器的公钥加密之后在对称加密才会用到的 密钥 ) 并发送给服务器
     - 6. 服务器收到 ( 加密后的信息后 ) 用自己的私钥 ( 解密 )，解密后服务端就获取到了 ( 对称加密的密钥了 )
     - 7. 接下来，通信双发就可以进行 ( 对称加密通信了 )，即可以建立通信，交换报文了
     - 总结: 服务器公钥 -> 给证书机构，机构用私钥加密服务器的公钥，生成公钥证书 -> 给服务器 -> 客户端 -> 客户端用内置的机构的公钥解机构私钥，获得服务器的公钥 -> 用服务的公钥加密对称加密时用到的密钥 -> 发给服务器，服务器用自己的私钥解，获得对称密钥 -> 之后就是对称加密通信
+  -
+  - The specific process.具体流程 英文版
+    - 1. "SERVER" sends its own "Public_Key" to the "Certificate authority".
+    - 2. "Certificate authority" use its own "Private_Key" to encrypt the "SERVER's Public_Key" to generate the "Public_Key_certificate".
+    - 3. "Certificate authority" -> "SERVER" -> "CLIENT".
+    - 4. "CLIENT" uses the "Certificate authority"'s "Public_Key" built into browser to decrypt the "Public_Key_certificate" and then get the "Public_Key" of "SERVER".
+    - 5. Then "CLIENT" uses the "SERVER"'s "Public_Key" to encrypt the "KEY" that is used in the symmetric communication.
+    - 6. When the "SEVER" received the "KEY", "SEVER" can uses its own "Private_Key" to decrypt the "Public_Key" to get the "KEY".
 
 ## (十三) HTTPS 通信工程 - SSL 握手过程
 
 ```
 -> ClientHello
 
-<- ServerHello
-<- Certificate
-<- ServerHelloDone
+<-- ServerHello
+<-- Certificate
+<-- ServerHelloDone
 
 -> ClientKeyExchange
 -> ChangeCipherSpec
@@ -387,13 +420,13 @@ url到页面显示的过程
 ---
 
 1. DNS域名解析
-- DNS是 ( domain name system ) 域名系统的缩写
+- DNS是 ( domain name system ) 域名系统 的缩写
 - 将 域名 解析成 ip 地址
   - 一个域名对应一个以上的ip地址
-- 为什么要将域名解析成ip地址？
-  - 因为 ( TCP/IP网络 ) 是通过 ( ip地址 ) 来确定 ( 通信对象 )，不知道ip就无法将消息发送给对方
+  - 问题: 为什么要将 域名 解析成 ip地址？
+  - 回答: 因为 ( TCP/IP网络 ) 是通过 ( ip地址 ) 来确定 ( 通信对象 )，不知道ip就无法将消息发送给对方
 - DNS域名解析的过程：// 递归查询 和 迭代查询
-0. 先从DNS缓存中找，找不到再按照下面的方式查找
+0. 先从 ( DNS缓存 ) 中找，找不到再按照下面的方式查找
 1. ( 浏览器 ) 中查询 DNS 缓存，有则进入建立tcp链接阶段，下面同理
 2. ( 本机的系统 )中查询 DNS 缓存
 3. ( 路由器 ) 中查询 DNS 缓存
@@ -415,6 +448,11 @@ url到页面显示的过程
   - 3. CDN域名加速
     - CDN服务缩短了用户查看内容的访问延迟
     - 将静态资源通过 CDN 进行加速，减少IP地址切换带来的影响，解决了网络带宽小、用户访问量大、网点分布不均等问题
+7. DNS域名解析总结：
+  - 1. 浏览器DNS缓存 => 操作系统DNS缓存 => 本机host文件 => 路由器 => 运营商 => 以上都没有DNS缓存，就递归查询一级/二级/三级域名
+  - 2. ( 递归查询 ) 和 ( 迭代查询 ) 的区别
+    - 递归查询: 询问者的角色是变化的，a->b->c->d->c->b->a
+    - 迭代查询: 询问者的角色始终保持不变，每次都会将询问结果返回给同一个询问者，然后迭代，直到找到想要的结果; a->b->a, a->c->a
 
 
 
@@ -437,17 +475,51 @@ url到页面显示的过程
 
 
 5. 浏览器解析渲染
-  - 遇见HTML标记，浏览器调用HTML解析器，解析成Token并构建DOM树
-  - 遇见style/link标记，浏览器调用css解析器，解析成CSSOM树
-  - 遇见script标记，浏览器调用js解析器，处理js代码（绑定事件，可能会修改DOM tree 和 CSSOM tree）
-  - 将DOM 和 CSSOM 合并成 render tree
-  - 根据render tree计算布局（布局）
-  - 将各个节点的颜色绘制到屏幕上（渲染）
+  - 浏览器解析渲染: 会经过 parseHTML -> parseStylesheet -> evaluateScript -> layout -> paint -> composite
+  - 遇见HTML标记，浏览器调用HTML解析器，解析成Token并构建 - DOM树
+  - 遇见style/link标记，浏览器调用css解析器，解析成 ------ CSSOM树
+  - 遇见script标记，浏览器调用js解析器，处理js代码 ( 绑定事件，可能会修改 DOM tree 和 CSSOM tree )
+  - 将 DOM tree 和 CSSOM tree 合并成 ----------------- 渲染树 // -- render tree
+  - 根据 render tree 计算布局 ------------------------ 布局 // ---- layout
+  - 将各个节点的颜色绘制到屏幕上（渲染）------------------ 渲染 // ---- paint
+  - 最后是一个多层绘制时的 ( 合成 ) 阶段 ---------------- 合成 // ---- composite // 【 composite material. 合成材料 n 】 raw material. building material.
+  - // 合成: 在复杂的页面中，可能存在多层元素（如通过CSS的 z-index 堆叠顺序）或者需要将多个独立绘制的部分组合在一起,合成阶段是将之前绘制的各个部分按照正确的顺序和层次组合成最终的页面
+  - // 合成: 例如，一个半透明的元素覆盖在另一个元素上时，需要通过合成来正确显示它们叠加后的效果。
   - // 可以加上 浏览器 进程 和 线程 相关的知识点
-  - // 可以加上 repaint 和 reflow 相关的知识点
+  - // 可以加上 repaint 和 reflow 相关的知识点 // 1-FRONTEND/7-CSS/__README.md/(十七) repaint 重绘 和 reflow 重排(回流) 和 合成
   - // 1. 浏览器进程: 1个-主进程 1个-网络进程 1个-GPU进程 多个-渲染进程 多个-插件进行
   - // 2. 浏览器线程: GUI渲染线程 JS引擎线程 计时器线程 异步http请求线程 事件触发线程
   - // 3. 详见: 1-FRONTEND/8-BROWSER/浏览器.md
+AA.
+EXPAND
+Repaint 重绘 / Reflow 重排(回流) / Composite 合成
+- repaint 重绘
+  - 对 DOM 的修改只导致了 ( 样式 ) 的变化，并没有改变 ( 几何属性 )，浏览器不需要从新计算几何样式，而是从新绘制新的样式，这个过程叫做重绘 repaint
+  - 跳过了 ( 布局树 ) 和 ( 建图层树 )
+- reflow 重排
+  - 对 DOM 的修改引发了 DOM 几何尺寸的变化(宽高，隐藏等)，浏览器需要 ( 重新计算 ) 元素的几何属性
+  - 同时 ( 其他元素的集合属性 和 位置也将受到影响 )，浏览器需要重新将计算结果绘制出来，这个过程叫做回流 reflow
+- composite 合成
+  - 就是更改了一个既不要 ( 布局 layout ) 也不要 ( 绘制 paint ) 的属性，那么渲染引擎会跳过布局和绘制，直接执行后续的 ( 合成 composite ) 操作，这个过程就叫合成
+- 特点
+  - reflow 一定会 repaint
+  - repaint 不会定会 reflow
+- **常见的会引起 ( reflow 重排-回流 ) 的操作有哪些？**
+  - 页面首次渲染
+  - 浏览器窗口大小变化
+  - 元素尺寸 和 位置变化 width height position padding margin border
+  - fontSize
+  - 显示/隐藏元素
+  - 添加/删除元素
+  - 激活 css 伪类
+  - offsetWidth, clientWidth, scrollTop/scrollHeight 的计算， 会使浏览器将渐进回流队列 Flush，立即执行回流
+- **只会 composite 合成的属性，不会重绘重排回流**
+  - transform // -- translate scale rotate skew
+  - opacity // ---- 不同明度 n
+  - filter // ----- filter: drop-shadow();  // filter: brightness(200%); // filter: grayscale(100%);
+  - will-change //  will-change: transform;
+  - 所以动画最好使用 transform opacity 等属性来实现，结合 32 一起看
+
 
 
 

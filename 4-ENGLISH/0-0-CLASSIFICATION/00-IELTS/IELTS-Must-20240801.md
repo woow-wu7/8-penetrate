@@ -875,11 +875,13 @@
 - `【 chef 厨师 n 】`
 - `【 kitchen items. 厨房用品 】` // ---- 【 kitchen scale. 厨房秤 】 【 spring scale. 弹簧秤 】 【 balance scale. 天平 】
 - `【 ingredient 原料 成分  n 】` // ---- 【 active ingredient. 有效成分 】 【 essential ingredient. 必要成分 】 【 food ingredient. 食材 】
-- `【 material 材料 n 】` // ----------- 【 raw material. 原材料 】 【 organic material. 有机材料 】
+- `【 material 材料 n 】` // ----------- 【 raw material. 原材料 】 【 building material. 建筑材料 】 【 composite material. 复合材料 】 【 organic material. 】
 - > 【 active ingredient. 有效成分 】
 - > 【 essential ingredient. 必要成分 】
 - > 【 food ingredient. 食材 】
 - _【 raw material. 原材料 】_
+- _【 building material. 建筑材料 】_
+- _【 composite material. 复合材料 】_
 - _【 organic material. 有机材料 】_
 - _【 organic food. 有机食品 】_
 - // TIPS：Pay attention to the pronunciation of the word 'chef'. [chef]
