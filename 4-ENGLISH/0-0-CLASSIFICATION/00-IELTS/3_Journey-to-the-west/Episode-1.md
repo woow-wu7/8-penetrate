@@ -61,6 +61,7 @@ shoulder 肩膀 n
 gather 聚集 收集 采集 v
 【 gather fruit. 采集水果 】
 【 ripe fruit. 成熟的果实 】
+【 mature technology. 成熟的技术 】
 // The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
 // TIPS: Pay attention to the pronunciation of the word 'gather'. [gather-聚集收集采集-v] [gather-fruit.采集水果]
 
@@ -70,7 +71,65 @@ explore 探险 勘查
 // He gathered fruit and explored caves and mountaintops.
 
 
+7.
+【 call out. 喊 叫 v 】
+shout 喊 叫 v
+deaf 聋的 adj
+// She 【 called out 】 for help. 她大声呼救
+// Don't 【 shout at 】 me. I'm not 【 deaf 】. 别对我大喊大叫！我又不是聋
+
+
+8.
+scratch 挠
+【 scratch head. 挠头 v 】
+【 in confusion. 困惑地 adv 】
+-
+confuse 混淆 困惑 v
+confusion 混淆 困惑 n
+-
+// He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头
+
+
+9.
+shake 摇v 握手v 摇动v
+【 shake head. 摇头 v 】
+【 shake hand. 握手 v 】
+【 wave hand. 挥手 v 】
+-
+shake -> shook过去式
+-
+
+
+10.
+jump into. 跳进 v
+jump out. 跳出 v
+jump over. 跳过 v
+leap into. 跳入 v
+
+swing 摆动v 秋千n
+
+mist 薄雾 n
+enormous 巨大的 adj
+alive 活着的 adj
+-
+alongside 沿着
+heaven 天堂 n
 sight 视力 视线 n
+
+cave 山洞 n
+vase 花瓶 n
+
+cliff 悬崖 n
+steep 陡峭的 陡的 adj
+【 steep cliff. 陡峭的悬崖 n 】
+
+shade 阴凉处 n
+shadow 影子 n
+【 in the shade. 在阴凉处 】
+
+splash 泼洒 v 溅在…
+bounce 弹起v 反弹v 弹力n
+
 
 drink -> drank -> drunk 喝
 sit -> sat -> sat 坐

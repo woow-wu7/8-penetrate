@@ -50,6 +50,9 @@
 - _【 stump 树桩 】_ // --------------------------- 【 tree stump. 树桩 n 】
 - _【 pumpkin 南瓜 】_ // ------------------------- 【 pumpkin porridge. 南瓜粥 n 】
 - _【 stamp 邮票 】_ // --------------------------- 【 stamp duty. 印花税 n 】 // 【 pay stamp duty. 交印花说 n 】
+- // jump into. 跳进 v
+- // jump out. 跳出 v
+- // jump over. 跳过 v
 - FF.
 - _【 complain 抱怨 投诉 v 】_ // ------------------ 【 anonymously complain. 匿名地投诉 v 】
 - _【 complaint 抱怨 投诉 n 】_ // ----------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客投诉 】 【 customer satisfaction. 满意度 】
@@ -265,6 +268,9 @@
 - `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】 // `【 stamp 邮票 n 】- stamp duty.印花税 ` _【 stump 树桩 n 】- tree stump.树桩_
 - _【 jump the gun. 抢跑 v 】_
 - _【 jump the queue. 插队 】_ = cut in line. = cut in queue. = jump the line. = jump the queue.
+- // jump into. 跳进 v
+- // jump out. 跳出 v
+- // jump over. 跳过 v
 - > 【 gas pump. 加油机 n 】
 - > 【 cut in line. = cut in queue. = jump the line. = jump the queue. 插队 】
 - > 【 line up. = queue up. 排队 】
