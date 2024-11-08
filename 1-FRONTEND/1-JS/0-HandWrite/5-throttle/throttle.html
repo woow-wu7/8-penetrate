@@ -9,10 +9,12 @@
   <body>
     <button id="button">throttle</button>
     <script>
-      // throttle 截流函数
+      // Throttle 截流函数
+      // -- 以固定的频率执行某个函数
+      // -- Execute a function at a fixed frequency.
+      // ---- execute 执行 v
 
       // 1
-      // Topic
       // Implement a throttle function.
 
       // 2
@@ -51,15 +53,23 @@
         };
       };
 
+      // 1
       const clickListener = throttle((e) => console.log(1, e), 2000);
-
       const button = document.getElementById("button");
       button.addEventListener(
         "click",
-        (e) => clickListener(e),
+        (e) => clickListener(e), // TIPS: Please compare the two kinds of methods. 1
         {
           capture: false,
         },
+        false
+      );
+
+      // 2
+      const button2 = document.querySelector("button");
+      button2.addEventListener(
+        "click",
+        throttle((e) => console.log("2", e), 2000), // TIPS: Please compare the two kinds of methods. 2
         false
       );
     </script>

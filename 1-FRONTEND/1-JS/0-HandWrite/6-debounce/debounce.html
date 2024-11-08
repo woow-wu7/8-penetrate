@@ -10,10 +10,7 @@
     <button id="button">debounce</button>
 
     <br /><br />
-    <div
-      id="scroll-view"
-      style="width: 300px; height: 200px; background: yellow; overflow: scroll"
-    >
+    <div id="scroll-view" style="width: 300px; height: 200px; background: yellow; overflow: scroll">
       <div>1111111</div>
       <br /><br /><br />
       <div>1111111</div>
@@ -25,7 +22,12 @@
     </div>
 
     <script>
-      // debounce 防抖函数
+      // Debounce 防抖函数
+      // -- 降低事件触发的频率
+      // -- Reduce the frequency of triggering an event.
+      // ---- trigger 触发 v
+      // ---- frequency 频率 n
+      // ---- frequent 频繁的 adj
 
       // 1
       // Topic
@@ -89,11 +91,7 @@
         console.log("e", e);
       }, 1000);
 
-      ScrollView.addEventListener(
-        "scroll",
-        (e) => scrollListener(e, true),
-        false
-      );
+      ScrollView.addEventListener("scroll", (e) => scrollListener(e, true), false);
     </script>
   </body>
 </html>

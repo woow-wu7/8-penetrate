@@ -10,9 +10,13 @@
   <body>
     <script>
       // English
-      // -- raw 生的 未加工的
-      // -- counter 计数器 柜台
-      // -
+      //
+      // raw 生的 未加工的 // ---- raw material. // building material. // composite material.
+      // counter 计数器 柜台 // -- count discount counter encounter account accountant
+      //
+      // shallow 浅的 adj
+      // deep 深的 adj
+      //
       // -- bubble 泡 气泡 冒泡
       // -- algorithm 算法
       // --【 bubble sort algorithm. 冒泡排序算法 】
@@ -66,7 +70,7 @@
       const arr = [1, 5, 4, 2, 3, 9, 8, 6, 7];
 
       const quickSort = (raw) => {
-        const arr = [...raw];
+        const arr = [...raw]; // shallow copy.
         const len = arr.length;
 
         // The 【 condition 】 for the 【 recursion 】 to end.
@@ -77,14 +81,19 @@
         const middle = [];
         const right = [];
 
-        const pivot = Math.floor(Math.random() * len);
+        const pivotIndex = Math.floor(Math.random() * len);
+        const pivot = arr[pivotIndex];
+        // pivot 支点
+        // TIPS: Pay attention to the pronunciation of the word 'pivot'. [pivot-支点-n]
+        // Random index.
         // 随机下标，注意边界
         // 注意: 这里不能是 len-1，因为边界值，Math.random是[0, 1)，右边是开区间
 
         for (let i = 0; i < len; i++) {
-          if (arr[i] < arr[pivot]) left.push(arr[i]);
-          if (arr[i] > arr[pivot]) right.push(arr[i]);
-          if (arr[i] === arr[pivot]) middle.push(arr[i]);
+          const cur = arr[i];
+          if (cur < pivot) left.push(cur);
+          if (cur > pivot) right.push(cur);
+          if (cur === pivot) middle.push(cur);
         }
 
         return quickSort(left).concat(middle, quickSort(right)); // 递归，quickSort() 的返回值

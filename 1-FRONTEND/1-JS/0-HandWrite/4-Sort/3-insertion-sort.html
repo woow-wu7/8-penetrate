@@ -10,9 +10,13 @@
   <body>
     <script>
       // English
-      // -- raw 生的 未加工的
-      // -- counter 计数器 柜台
-      // -
+      //
+      // raw 生的 未加工的 // ---- raw material. // building material. // composite material.
+      // counter 计数器 柜台 // -- count discount counter encounter account accountant
+      //
+      // shallow 浅的 adj
+      // deep 深的 adj
+      //
       // -- bubble 泡 气泡 冒泡
       // -- algorithm 算法
       // --【 bubble sort algorithm. 冒泡排序算法 】
@@ -44,7 +48,7 @@
       // 3. Find the position of the minimum value in the array.
       // 4. The 【 condition 】 for the 【 recursion 】 to end.
 
-      // insert sort
+      // Insertion sort
       // 插入排序
       // O(n²)
 
@@ -69,13 +73,14 @@
 
       const arr = [1, 5, 4, 2, 3, 9, 8, 6, 7];
 
+      // TIPS: Pay attention to the pronunciation of the word 'insertion'. [insertion-sort.选择排序-n]
       const insertionSort = (raw) => {
         const arr = [...raw];
 
         for (let i = 1; i < arr.length; i++) {
           // 1
-          // i 表示后面的无序数组
-          // 因为我们设有序数组的初始速度是1，所以无序数组从1开始
+          // i 表示后面的 无序数组
+          // 因为我们设有序数组的初始长度是1，所以无序数组从1开始
 
           // 2
           // 注意: 这里 arr[i] 是必须缓存的
@@ -91,7 +96,7 @@
             j--;
           }
 
-          arr[j + 1] = cache; // 无序数组中取出比较的值，需要插入的位置
+          arr[j + 1] = cache; // 无序数组中取出比较的值，最后需要插入的位置
         }
 
         return arr;

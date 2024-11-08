@@ -6,7 +6,8 @@
     <title>Document</title>
   </head>
   <body>
-    <button id="button">button</button>
+    <button id="throttle">throttle</button>
+    <button id="debounce">debounce</button>
 
     <script>
       // -----------------------------------------
@@ -180,36 +181,124 @@
 
       // -----------------------------------------
       // 13 throttle
-      const button = document.querySelector("button");
-      const fn100 = () => {
-        console.log("123", 123);
-      };
-
+      const button = document.getElementById("throttle");
+      const fn100 = () => {};
       const clickListener = (fn, delay) => {
         let isRun = true;
-
-        const closureFn = () => {
-          console.log("2", 2);
+        const closureFn = (e) => {
           if (!isRun) return;
           isRun = false;
-
           const timer = setTimeout(() => {
+            console.log("e", e);
             fn();
             isRun = true;
             window.clearTimeout(timer);
           }, delay);
         };
-
         return closureFn;
       };
-      button?.addEventListener(
+      button.addEventListener("click", clickListener(fn100, 2000), false);
+
+      // -----------------------------------------
+      // 14 debounce
+      const debounceButton = document.getElementById("debounce");
+      const debounce = (fn, delay) => {
+        let timer;
+        return () => {
+          if (timer) clearTimeout(timer);
+          timer = setTimeout(() => {
+            fn();
+          }, delay);
+        };
+      };
+      debounceButton.addEventListener(
         "click",
-        (e) => {
-          console.log("0", 0);
-          return clickListener(fn100, 100);
-        },
+        debounce(() => {
+          console.log("debounce");
+        }, 1000),
         false
       );
+
+      // -----------------------------------------
+      // 15 Sort - bubble sort algorithm.
+      const arrFBubble = [9, 3, 8, 5, 1, 2, 7, 4, 6];
+      const bubbleSort = (arr) => {
+        const copyArr = [...arr];
+        const len = copyArr.length;
+        for (let i = 0; i < len - 1; i++) {
+          for (let j = 0; j < len - 1 - i; j++) {
+            if (copyArr[j] > copyArr[j + 1]) {
+              [copyArr[j], copyArr[j + 1]] = [copyArr[j + 1], copyArr[j]];
+            }
+          }
+        }
+        return copyArr;
+      };
+      const resBubble = bubbleSort(arrFBubble);
+      console.log("resBubble: ", resBubble);
+
+      // -----------------------------------------
+      // 16 Sort - selection sort algorithm.
+      const arrFSelection = [9, 3, 8, 5, 1, 2, 7, 4, 6];
+      const selectionSort = (arr) => {
+        const _arr = [...arr];
+        const len = _arr.length;
+        for (let i = 0; i < len; i++) {
+          let min = i;
+          for (let j = i + 1; j < len; j++) {
+            if (_arr[j] < _arr[min]) {
+              min = j;
+            }
+          }
+          [_arr[min], _arr[i]] = [_arr[i], _arr[min]];
+        }
+        return _arr;
+      };
+      const resSelection = selectionSort(arrFSelection);
+      console.log("resSelection: ", resSelection);
+
+      // -----------------------------------------
+      // 17 Insert - selection sort algorithm.
+      const arrFInsertion = [9, 3, 8, 5, 1, 2, 7, 4, 6];
+      const insertionSort = (raw) => {
+        const arr = [...raw];
+        const len = arr.length;
+        for (let i = 1; i < len; i++) {
+          const cache = arr[i];
+          let j = i - 1;
+          while (j >= 0 && arr[j] > cache) {
+            arr[j + 1] = arr[j];
+            j--;
+          }
+          arr[j + 1] = cache;
+        }
+        return arr;
+      };
+      const resInsertion = insertionSort(arrFInsertion);
+      console.log("resInsertion: ", resInsertion);
+
+      // -----------------------------------------
+      // 18 Quick - Quick sort algorithm.
+      const arrFQuick = [9, 3, 8, 5, 1, 2, 7, 4, 6];
+      const quickSort = (raw) => {
+        const arr = [...raw];
+        const len = arr.length;
+        if (len <= 1) return raw;
+        const left = [];
+        const right = [];
+        const middle = [];
+        const pivotIndex = Math.floor(Math.random() * len);
+        const pivot = arr[pivotIndex];
+        for (let i = 0; i < len; i++) {
+          const cur = arr[i];
+          if (cur > pivot) right.push(cur);
+          if (cur < pivot) left.push(cur);
+          if (cur === pivot) middle.push(cur);
+        }
+        return quickSort(left).concat(middle, quickSort(right));
+      };
+      const resQuick = quickSort(arrFQuick);
+      console.log("resQuick: ", resQuick);
     </script>
   </body>
 </html>
