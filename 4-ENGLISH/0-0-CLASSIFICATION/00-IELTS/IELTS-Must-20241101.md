@@ -475,25 +475,66 @@
 ###### Must 2024-11-07
 
 - 1
-- `【 hand 手n 交v 】`
+- `【 hand 手n 交v 】` // -------------------- hand in. // hand in hand. // hand down. // shake hand. // wave hand.
+- `【 handrail 扶手 n 】` // ---------------- 【 handrail 扶手 VS handle 把手-手柄-处理 】 // 【 rail 铁轨 n 】
+- `【 handle 把手n 手柄n 处理v 】` // -------- 【 handrail 扶手 VS handle 把手-手柄-处理 】
+- `【 handbag 手提包 n 】`
+- `【 handprint 手印 n 】`
+- `【 handwrite 手写 v 】`
+- > 【 hand in. 上交 提交 v 】
+- > 【 hand in hand. 手牵手 adv 】
+- > 【 hand down. 传下来 v 】
+- > 【 shake hand. 握手 v 】
+- > 【 wave hand. 挥手 v 】
+- AA.
+- _【 escalator 扶梯 】_ // ----------------- 【 handrail 扶手 n 】
+- _【 elevator 电梯 】_
 -
 - `【 hand 手n 交v 】`
 - `【 palm 手掌 手心 n 】` // ---------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
 - `【 finger 手指 n 】`
-- > 【 大拇指 】
-- > 【 大拇指 】
-- > 【 大拇指 】
-- > 【 大拇指 】
+- `【 toe 脚趾 n 】`
+- `【 fingerprint 指纹 n 】`
+- > 【 thumb 拇指 】
+- > 【 index finger. 食指 】= forefinger
+- > 【 middle finger. 中指 】
+- > 【 ring finger. 无名指 】
+- > 【 little finger. 小指 】
+-
+- [AA.]
+- `【 shake hand. 握手 v 】`
+- `【 hand in. 上交 v 】`
+- `【 hand in hand. 手牵手 adv 】`
+- **【 After 【 shaking hands 】, they 【 hand in 】 their homework 【 hand in hand 】. 他们握手后，手牵手去上交作业 】**
+- // -- homework is a uncountable noun.
+-
+- [BB.]
+- `【 handprint 手印 n 】`
+- `【 handle 把手-手柄-处理 】` // handle handrail
+- `【 handbag 手提包 n 】`
+- **【 There are some 【 handprints 】 on 【 handle 】 of the 【 handbag 】. 手提箱的扶手上有手印 】**
 
 ###### Must 2024-11-08
 
 - 1
 - `【 script 脚本 剧本 n 】`
-- `【 encrypt 加密 v 】` // ----------------- 【 encryption algorithm. 加密算法 n 】
-- `【 decrypt 解密 v 】` // ----------------- 【 decryption algorithm. 解密算法 n 】
+- `【 encrypt 加密 v 】` // ------------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
+- `【 decrypt 解密 v 】` // ------------------- 【 decryption algorithm. 解密算法 n 】
 - > 【 encrypt 加密 v 】
-- > 【 encryption 加密 n 】// --------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】
-- > 【 encrypted 加密的 adj 】// ------------ 【 encrypted file. 加密的文件 n 】
+- > 【 encryption 加密 n 】// ----------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
+- > 【 encrypted 加密的 adj 】// -------------- 【 encrypted file. 加密的文件 n 】
+- AA.
+- _【 algorithm 算法 n 】_
+- _【 encryption algorithm. 加密算法 】_
+- _【 greedy algorithm. 贪心算法 】_
+- _【 bubble sort algorithm. 冒泡排序算法 】_ // 【 blow bubble. 吹泡泡 v 】 // 【 bubble 泡 泡沫 n 】
+- _【 decryption algorithm. 解密算法 】_
+- > 【 blow bubble. 吹泡泡 v 】
+- BB.
+- _【 blow 吹 v 】_ // ------------------------ 【 blow bubble. 吹泡泡 v 】
+- _【 below 下面 adv / 下面 n / 在下面 prep 】_
+- _【 downstairs 在楼下 adv / 楼下 n / 楼下的 adj 】_
+- > 【 blow bubble. 吹泡泡 v 】
 -
 - `【 encode 编码 v 】`
 - `【 decode 解密 v 】`
@@ -512,4 +553,12 @@
 - **【 This 【 encrypted script 】 【 is used to 】 【 automatically 】 write 【 scripts 】. 这个加密的脚本用于自动编写剧本 】**
 -
 - [CC.]
-- **【 这个文件用加密算法进行加密 】**
+- `【 encryption algorithm. 加密算法 n 】`
+- `【 greedy algorithm. 贪心算法 n 】`
+- `【 encrypted file. 加密文件 】`
+- **【 The 【 encryption algorithm 】 used by these 【 encrypted files 】 is 【 greedy algorithm 】. 这些加密的文件用的加密算法是贪心算法 】**
+-
+- [DD.]
+- `【 blow bubble. 吹泡泡 】`
+- `【 downstairs. 在楼下prep / 楼下的adj / 楼下n 】`
+- **【 He is 【 blowing bubbles 】 【 downstairs 】. 他在楼下吹泡泡 】**
