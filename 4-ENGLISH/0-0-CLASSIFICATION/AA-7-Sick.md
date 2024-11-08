@@ -31,7 +31,7 @@
 - DD.
 - _【 pharmacy = drugstore. 药房 】_
 - _【 pharmacist 药剂师 n 】_
-- // pharmacy counter. 药房柜台 n 
+- // pharmacy counter. 药房柜台 n
 - EE.
 - _【 special 特别的 adj 】_
 - _【 specialize 专攻 v 】_ // ---------------- 【 specialize in. 专攻 v 】
@@ -1873,7 +1873,7 @@ flu 流行性感冒 流感
 symptom 症状 // Flu symptoms include a headache, a sore throat, and a fever
 // [ classic symptoms. 典型症状 ]
 
-sweat 汗水 // sweater 毛衣
+sweat 汗水 // sweater 毛衣 // sweet 甜甜的
 pain 痛 疼痛
 
 bear 忍受v 熊n

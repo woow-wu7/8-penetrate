@@ -395,4 +395,50 @@ A 【 cipher 】 is a not password.
 
 4
 他们握手后，手牵手去上交作业
+
+
+5
+我们需要抓住扶梯扶手来保证自身安全
+```
+
+##### 10 Make sentences 2024-11-10
+
+```
+1
+他的脸上布满了手印、脚印和唇印
+
+
+2
+我们需要抓住扶梯扶手来保证自身安全
+-
+手提包的扶手上有手印
+
+
+3
+他们握手后，手牵手去上交作业
+
+
+4
+手指由拇指，食指，中指，无名指，小指组成
+
+
+5
+甜甜的汗水打湿了毛衣
+-
+I 【 put on 】 the 【 sweater 】 which she 【 knitted 】 and 【 sweated 】 a lot of 【 sweet sweat 】.
+我穿上她编织的毛衣，流了很多甜甜的汗水
+-
+His 【 sweet nothing 】 made her shows a 【 sweet simle 】.
+他的甜言蜜语使她露出了甜甜的笑容
+-
+I 【 sweated 】 【 a lot 】 today.
+我今天流了很多汗水
+-
+// -
+// sweet 甜的 adj
+// sweat 汗水n 流汗v
+// sweater 毛衣 n
+// wet 湿的 adj
+// -
+// knit 编织 v
 ```

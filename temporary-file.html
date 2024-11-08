@@ -6,6 +6,8 @@
     <title>Document</title>
   </head>
   <body>
+    <button id="button">button</button>
+
     <script>
       // -----------------------------------------
       // 1 new
@@ -175,6 +177,39 @@
       // - 1. http报文 = 报文首部 + 空行 + 报文主体
       // -- 请求报文首部 = 请求行[HTTP方法+URI+http版本 ] + 请求头
       // -- 响应报文首部 = 响应行[http版本+状态码+原因短语] + 响应头
+
+      // -----------------------------------------
+      // 13 throttle
+      const button = document.querySelector("button");
+      const fn100 = () => {
+        console.log("123", 123);
+      };
+
+      const clickListener = (fn, delay) => {
+        let isRun = true;
+
+        const closureFn = () => {
+          console.log("2", 2);
+          if (!isRun) return;
+          isRun = false;
+
+          const timer = setTimeout(() => {
+            fn();
+            isRun = true;
+            window.clearTimeout(timer);
+          }, delay);
+        };
+
+        return closureFn;
+      };
+      button?.addEventListener(
+        "click",
+        (e) => {
+          console.log("0", 0);
+          return clickListener(fn100, 100);
+        },
+        false
+      );
     </script>
   </body>
 </html>

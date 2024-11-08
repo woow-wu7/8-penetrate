@@ -476,10 +476,10 @@
 
 - 1
 - `【 hand 手n 交v 】` // -------------------- hand in. // hand in hand. // hand down. // shake hand. // wave hand.
-- `【 handrail 扶手 n 】` // ---------------- 【 handrail 扶手 VS handle 把手-手柄-处理 】 // 【 rail 铁轨 n 】
-- `【 handle 把手n 手柄n 处理v 】` // -------- 【 handrail 扶手 VS handle 把手-手柄-处理 】
+- `【 handrail 扶手 n 】` // ---------------- 【 handrail 扶手 VS handle 把手-手柄-处理 】 // 【 escalator 扶梯 】 // 【 rail 铁轨 n 】
+- `【 handle 把手n 手柄n 处理v 】` // --------- 【 handrail 扶手 VS handle 把手-手柄-处理 】
 - `【 handbag 手提包 n 】`
-- `【 handprint 手印 n 】`
+- `【 handprint 手印 n 】` // -----------------【 fingerprint 指纹 n 】 【 handprint 手印 n 】 【 footprint. 脚印 n 】 【 lip print. 唇印 n 】
 - `【 handwrite 手写 v 】`
 - > 【 hand in. 上交 提交 v 】
 - > 【 hand in hand. 手牵手 adv 】
@@ -487,11 +487,20 @@
 - > 【 shake hand. 握手 v 】
 - > 【 wave hand. 挥手 v 】
 - AA.
-- _【 escalator 扶梯 】_ // ----------------- 【 handrail 扶手 n 】
+- _【 escalator 扶梯 】_ // ------------------ 【 handrail 扶手 n 】
 - _【 elevator 电梯 】_
+- BB.
+- _【 fingerprint. 指纹 n 】_
+- _【 handprint. 手印 n 】_
+- _【 footprint. 脚印 n 】_
+- _【 lip print. 唇印 n 】_ // --------------- 【 lipstick 口红 n 】 【 lip balm. 唇膏 n 】
+- CC.
+- _【 lip print. 唇印 n 】_
+- _【 lip balm. 唇膏 n 】_
+- _【 lipstick 口红 n 】_
 -
 - `【 hand 手n 交v 】`
-- `【 palm 手掌 手心 n 】` // ---------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
+- `【 palm 手掌 手心 n 】` // ----------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
 - `【 finger 手指 n 】`
 - `【 toe 脚趾 n 】`
 - `【 fingerprint 指纹 n 】`
@@ -510,9 +519,29 @@
 -
 - [BB.]
 - `【 handprint 手印 n 】`
-- `【 handle 把手-手柄-处理 】` // handle handrail
+- `【 handle 把手-手柄-处理 】` // handle handrail // handrail escalator
 - `【 handbag 手提包 n 】`
-- **【 There are some 【 handprints 】 on 【 handle 】 of the 【 handbag 】. 手提箱的扶手上有手印 】**
+- **【 There are some 【 handprints 】 on 【 handle 】 of the 【 handbag 】. 手提包的扶手上有手印 】**
+-
+- [CC.]
+- `【 handrail 扶手 n 】`
+- `【 escalator 扶梯 n 】`
+- `【 grasp 抓住 v 】` // --------------------- gather 收集 聚集 v
+- **【 We need to 【 grasp 】 the 【 handrail 】 of the 【 escalator 】 to ensure our own safety. 我们需要抓住扶梯扶手来保证自身安全 】**
+-
+- [DD.]
+- `【 handprint 手印 n 】`
+- `【 footprint 脚印 n 】`
+- `【 lip print. 唇印 n 】`
+- **【 His face 【 is covered with 】 【 handprints 】, 【 footprints 】, and 【 lip prints 】. 他的脸上布满了手印、脚印和唇印 】**
+-
+- [EE.]
+- `【 thumb 拇指 n 】`
+- `【 index finger. 食指 n 】`
+- `【 middle finger. 中指 n 】`
+- `【 ring finger. 无名指 n 】`
+- `【 little finger. 小指 n 】`
+- **【 The finger consists of the 【 thumb 】, 【 index finger 】, 【 middle finger 】, 【 ring finger 】, and 【 little finger 】. 手指由拇指，食指，中指，无名指，小指组成 】**
 
 ###### Must 2024-11-08
 
@@ -562,3 +591,40 @@
 - `【 blow bubble. 吹泡泡 】`
 - `【 downstairs. 在楼下prep / 楼下的adj / 楼下n 】`
 - **【 He is 【 blowing bubbles 】 【 downstairs 】. 他在楼下吹泡泡 】**
+
+###### Must 2024-11-09
+
+- 1
+- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】
+- `【 sweat 汗n 出汗v 】` // ----------------- 【 sweet sweat. 甜甜的汗水 】
+- `【 sweater 毛衣 n 】`
+- `【 wet 湿的adj 湿气n 打湿v 】`
+- > 【 sweet sweat. 甜甜的汗水 】
+- > 【 sweet simle. 甜甜的笑容 】
+- > 【 sweet nothing. 甜言蜜语 】
+- > 【 sweet dream. 好梦 】
+-
+- `【 swan 天鹅 n 】`
+- `【 swamp 沼泽 n 】`
+- `【 swim 游泳 v n 】`
+- `【 swing 摆动v 秋千n 】`
+-
+- [AA.]
+- `【 sweet 甜甜的 adj 】`
+- `【 sweat 汗水 n 】`
+- `【 wet 甜甜的 adj 】`
+- `【 sweet 甜甜的 adj 】`
+- `【 sweet 甜甜的 adj 】`
+- **【 The 【 sweet sweat 】 【 wetted 】 the 【 sweater 】. 甜甜的汗水打湿了毛衣 】**
+-
+- [BB.]
+- `【 sweet sweat. 甜甜的汗水 n 】`
+- `【 sweat 汗n 出汗v 】`
+- `【 sweater 毛衣 n 】`
+- > 【 put on. 穿上 v 】
+- **【 I 【 put on 】 the 【 sweater 】 which she 【 knitted 】 and 【 sweat 】 a lot of 【 sweet sweat 】. 我穿上她编织的毛衣，流了很多甜甜的汗水 】**
+-
+- [CC.]
+- `【 sweet noting. 甜言蜜语 n 】`
+- `【 sweet smile. 甜甜的笑容 】`
+- **【 His 【 sweet nothing 】 made her shows a 【 sweet simle 】. 他的甜言蜜语使她露出了甜甜的笑容 】**

@@ -142,6 +142,10 @@
 -
 - `sweat 汗水`
 - `sweater 毛衣`
+- > 【 sweet sweat. 甜甜的汗水 】
+- > 【 sweet simle. 甜甜的笑容 】
+- > 【 sweet nothing. 甜言蜜语 】
+- > 【 sweet dream. 好梦 】
 -
 - `soak 侵泡 v n`
 - `soaked 湿透的 adj`
