@@ -579,7 +579,8 @@
 - `【 script 脚本 剧本 n 】`
 - `【 encrypted scrip. 加密的脚本 n 】`
 - `【 automatically 自动地 adv 】`
-- **【 This 【 encrypted script 】 【 is used to 】 【 automatically 】 write 【 scripts 】. 这个加密的脚本用于自动编写剧本 】**
+- **【 This 【 encrypted script 】 【 is used to 】 【 automatically 】 write 【 scripts 】. 这个加密的脚本用于自动地编写剧本 】**
+- // automatically 自动地 adv
 -
 - [CC.]
 - `【 encryption algorithm. 加密算法 n 】`
@@ -595,7 +596,7 @@
 ###### Must 2024-11-09
 
 - 1
-- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】
+- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】 【 sweet sime. 甜甜的笑容 】
 - `【 sweat 汗n 出汗v 】` // ----------------- 【 sweet sweat. 甜甜的汗水 】
 - `【 sweater 毛衣 n 】`
 - `【 wet 湿的adj 湿气n 打湿v 】`

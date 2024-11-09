@@ -225,6 +225,7 @@
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
+- **【 working out 】 is helping for both 【 mental health 】 and 【 physical heath 】. 锻炼有助于心理健康和生理健康**
 -
 - > workload 工作量
 - > workaholic 工作狂
@@ -372,6 +373,7 @@
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
+- `【 resignation letter. 离职信 】`
 - > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
 - 1. **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - 2. **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
@@ -1039,7 +1041,7 @@
 - _【 I want to 【 be proficient in 】 English so that I can communicate with people from different countries. 】_
 - // -- including 多用于举例
 - -
-- **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
+- **【 Please answer this question in 【 concise 】 and 【 brief 】 language. 请用简洁和简短的语言回答这个问题 】**
 - // -- programming language. 程序语言
 - // -- development language. 开发语言
 - // -- be proficient in. 精通于...

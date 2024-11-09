@@ -1,5 +1,7 @@
 # Journey to the west. 西游记 1
 
+- // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
+
 ```
 1.
 【 split 分裂 】
@@ -7,6 +9,19 @@
 -
 【 mature 成熟的adj 成熟v 】 ----- 人和动物的成熟 ------ 【 mature technology. 成熟的技术 】 【 advanced technology. 先进的技术 】
 【 ripe 成熟的adj 】 ------------- 水果，庄稼的成熟 ---- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
+【 rope 绳子 】 // ---------------------------------- 【 safety rope. 安全绳 n 】 // 【 safety reason. 安全原因 n 】 【 ensure safety. 保证安全 】 It's safe.
+-
+【 gather 聚集 收集 v 】----------------------------- 【 gather fruit. 采集水果 v 】 【 ripe fruit. 成熟的果实 】
+【 pick 选择 挑选 摘 v 】---------------------------- 【 carefully picked. 精心挑选 v 】
+// pick up. 捡起 接某人 v
+// pick out. 挑选出
+-
+// pick up. 捡起 接某人 v // --------------- We 【 put down 】 the 【 baggages 】 and went to 【 airport 】 to 【 pick up 】 the 【 tourists 】.
+// take up. 占用 // ----------------------- take up your time. 占用你的时间了
+// pull up. 停车 // ----------------------- Please【 pull up 】 the car 【 close to 】 the 【 gas pump 】.
+// speed up. 加速
+// fill up. 装满
+// speak up. 大声说
 -
 【 overripe 过熟的 adj 】
 【 ripe 成熟的adj 】
@@ -14,19 +29,14 @@
 -
 【 flesh 果肉 肉体 】
 -
-ripe 成熟的 // ------------------ 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
-rope 绳子 // -------------------- 【 safety rope. 安全绳 n 】 // 【 safety reason. 安全原因 n 】
--
-pick up. 捡起 接某人 v
--
 I'm kind of hungry. 我有点饿
 I get kind of angry. 我有点生气
 -
 // 1. The 【 watermelon 】 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
-// 2. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
-// 3. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
-// 4. The 【 overripe 】 fruit 【 split open 】, revealing its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
-// 5. We use mature technology to pick ripe fruits. 我们用成熟的技术采摘成熟的果实
+// 1. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
+// 1. The 【 overripe 】 fruit 【 split open 】, 【 revealing 】 its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
+// 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
+// 3. We use 【 mature technology 】 to 【 pick 】 【 ripe fruits 】. 我们用成熟的技术采摘成熟的果实
 // The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
 -
 // These apples are 【 ripe 】. But the 【 time 】 may not be 【 ripe 】. 这些苹果已经成熟了，但是时机看起来不成熟
@@ -37,19 +47,21 @@ I get kind of angry. 我有点生气
 // -- rope 绳子 // 【 safety rope. 安全绳 n 】 【 safety reason. 安全原因 】 【 ensure safety. 保证安全 v 】
 // -- split out. 裂开 分裂 v
 // TIPS: Pay attention to the pronunciation of the word 'split'. [split-open.裂开分裂]
+-
+These are the fruits that I have carefully 【 picked 】 and 【 gathered 】 for you. 这是我为你精心挑选和采集的水果
 
 
 2.
-【 rock 岩石 n 】 --------- 较大
-【 stone 石头 n 】 -------- 较小
-// This 【 rock 】 【 consists of 】 many 【 stones 】. 这块岩石由很多石头组成
-
-
-3.
 【 rush out. 冲出去 】
 【 rush hour. 高峰期 】
 【 morning rush hour. 早高峰 】
 // He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
+
+
+3.
+【 rock 岩石 n 】 --------- 较大
+【 stone 石头 n 】 -------- 较小
+// This 【 rock 】 【 consists of 】 many 【 stones 】. 这块岩石由很多石头组成
 
 
 4.
