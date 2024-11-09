@@ -30,15 +30,17 @@
 - CC.
 - _【 greedy 贪婪的 adj 】_ // -------------------- 1. **【 greedy algorithm. 贪心算法 n 】** 2. **【 greedy desire. 贪婪的欲望 】**
 - _【 desire 欲望 愿望 渴望 性欲 n 】_
-- > 【 greedy algorithm. 贪心算法 】
 - > 【 greedy desire. 贪婪的欲望 】 // ------------- 【 greedy algorithm. 贪心算法 】 【 greedy desire. 贪心的欲望 】 【 greedy 贪婪的 adj 】
 - > 【 satisfy desire. 满足欲望 】
+- > 【 greedy algorithm. 贪心算法 】
+- > 【 encryption algorithm. 加密算法 n 】
+- > 【 bubble sort algorithm. 冒泡排序算法 n 】 // 【 blow bubble. 吹泡泡 】 // selection/insertion/quick sort algorithm.
 - > The 【 greedy 】 employer 【 exploits 】 his workers for his own 【 profits 】. 这个贪婪的老板为了自己的利益剥削工人
 - // -- exploit 剥削 v
 - // -- profit 利润 利益 n
 - DD.
 - _【 demand 要求 v 需求 n 】_ // ----------------- 【 market demand. 市场需求 】
-- _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】
+- _【 requirement 要求 n 需求 n 】_ // ------------ 【 product requirement. 产品需求 】 // produce reproduce
 - _【 need 需要 v 需求 】_
 - EE.
 - _【 dumpling 饺子 n 】_ // --------------------- 【 expired dumpling. 过期的饺子 n 】
@@ -105,6 +107,8 @@
 - _【 image 图片 图像 形象 n 】_
 - _【 imagine 想象 v 】_
 - _【 imagination 想象 想象力 n 】_ // ------------【 subvert imagination. 颠覆想象 v 】 【 rich imagination. 丰富的想象力 n 】
+- _【 emotion 情绪 情感 n 】_ // ------------------【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 v 】 【 express emotion. 表达情感 v 】
+- _【 emotional 情绪的 adj 】_ // --------------- 【 emotional quotient. 情商 n 】 【 intelligence quotient. 智商 n 】 // The quotient of 5 divided by 5 is 1.
 - > 【 subvert imagination. 颠覆想象 】
 - > 【 rich imagination. 丰富的想象力 】
 - BB.
@@ -172,7 +176,7 @@
 - `【 touch 触觉 n 】`
 - `【 pain 痛觉 n 】`
 - > 【 hearing aid. 助听器 n 】
-- > 【 band aid. 创可贴 n 】
+- > 【 band aid. 创可贴 n 】 // ---------------- 【 wrap bandage. 包扎绷带 】 【 wrap wound. 包扎伤口 v 】 // band bandage
 - > 【 first aid. 急救 n 】
 - > 【 first aid kit. 急求箱 n 】
 - > 【 aid 帮助 援助 v n 】
@@ -181,6 +185,7 @@
 - _【 band 乐队 】_ // ------------------------- 【 band-aid. 创可贴 n 】 【 hearing aid. 助听器 】 【 first aid. 急救 】 【 first aid kit. 急救箱 】
 - _【 smell sweet. 闻起来香 】_
 - _【 wrap the wound. 包扎伤口 】_
+- _【 wrap bandage. 包扎绷带 】_
 - > The sense of pain/touch/taste/smell/hearing/vision
 - // TIPS: Pay attention to the pronunciation of the word 'hearing'. [hearing-aid.助听器] [band-aid.创可贴] [first-aid.急救] [first-aid-kit.急救箱]
 - // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
@@ -446,11 +451,14 @@
 - > 【 active ingredient. 活性成分 n 】
 -
 - `【 capital 首都n 大写的adj 资本n 】` // ---------------- 【 capital letter. 大写字母 n 】 【 international capital. 国际资本 n 】
-- `【 capitalist 资本家n 资本注意点adj 】` // ----------=--- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
+- `【 capitalist 资本家n 资本注意点adj 】` // ------------- 【 capitalist country. 资本主义国家 n 】 【 socialist country. 社会主义国家 n 】
+- `【 socialist 社会主义者n 社会主义的adj 】` // ----------- 【 socialist country. 社会主义国家 n 】
 - _【 international capital. 国际资本 n 】_
 - _【 capital letter. 大写字母 n 】_ // ------------------ 【 resignation letter. 辞职信 n 】 【 anonymous letter. 匿名信 n 】
 - > 【 capitalist country. 资本主义国家 n 】
 - > 【 socialist country. 社会主义国家 n 】
+- // state/country/nation
+- // national/national flag./national anthem./national day./national assets.
 -
 - [AA.]
 - `【 exploit 剥削 利用 v 】`
@@ -477,9 +485,9 @@
 - 1
 - `【 hand 手n 交v 】` // -------------------- hand in. // hand in hand. // hand down. // shake hand. // wave hand.
 - `【 handrail 扶手 n 】` // ---------------- 【 handrail 扶手 VS handle 把手-手柄-处理 】 // 【 escalator 扶梯 】 // 【 rail 铁轨 n 】
-- `【 handle 把手n 手柄n 处理v 】` // --------- 【 handrail 扶手 VS handle 把手-手柄-处理 】
+- `【 handle 把手n 处理v 手柄n 】` // --------- 【 handrail 扶手 VS handle 把手-手柄-处理 】
 - `【 handbag 手提包 n 】`
-- `【 handprint 手印 n 】` // -----------------【 fingerprint 指纹 n 】 【 handprint 手印 n 】 【 footprint. 脚印 n 】 【 lip print. 唇印 n 】
+- `【 handprint 手印 n 】` // -----------------【 fingerprint 指纹 n 】 【 footprint. 脚印 n 】 【 lip print. 唇印 n 】
 - `【 handwrite 手写 v 】`
 - > 【 hand in. 上交 提交 v 】
 - > 【 hand in hand. 手牵手 adv 】
@@ -487,8 +495,10 @@
 - > 【 shake hand. 握手 v 】
 - > 【 wave hand. 挥手 v 】
 - AA.
-- _【 escalator 扶梯 】_ // ------------------ 【 handrail 扶手 n 】
+- _【 escalator 扶梯 】_ // ------------------ 【 take the escalator. 乘扶梯 】 【 handrail 扶手 n 】
 - _【 elevator 电梯 】_
+- > 【 take the escalator. 乘扶梯 】
+- // TIPS: Pay attention to the pronunciation of the word 'escalator'. [escalator-扶梯-n]
 - BB.
 - _【 fingerprint. 指纹 n 】_
 - _【 handprint. 手印 n 】_
@@ -501,8 +511,8 @@
 -
 - `【 hand 手n 交v 】`
 - `【 palm 手掌 手心 n 】` // ----------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
-- `【 finger 手指 n 】`
-- `【 toe 脚趾 n 】`
+- `【 finger 手指 n 】` // ------------------- 【 fingernail 手指甲 n 】 【 fingerprint 手印 n 】
+- `【 toe 脚趾 n 】` // ---------------------- 【 toenail 脚指甲 n 】
 - `【 fingerprint 指纹 n 】`
 - > 【 thumb 拇指 】
 - > 【 index finger. 食指 】= forefinger
@@ -527,7 +537,14 @@
 - `【 handrail 扶手 n 】`
 - `【 escalator 扶梯 n 】`
 - `【 grasp 抓住 v 】` // --------------------- gather 收集 聚集 v
-- **【 We need to 【 grasp 】 the 【 handrail 】 of the 【 escalator 】 to ensure our own safety. 我们需要抓住扶梯扶手来保证自身安全 】**
+- **【 We need to 【 grasp 】 the 【 handrail 】 of the 【 escalator 】 to 【 ensure 】 our own 【 safety 】. 我们需要抓住扶梯扶手来保证自身安全 】**
+- // -- 【 safety reason. 安全原因 n 】
+- // -- 【 safety rope. 安全绳 n 】
+- // -- 【 ensure safety. 确保安全 v 】
+- // -- rope ripe
+- // -- ripe mature
+- // -- ripe fruit. 成熟的果实
+- // -- mature technology. 成熟的技术
 -
 - [DD.]
 - `【 handprint 手印 n 】`
@@ -546,9 +563,11 @@
 ###### Must 2024-11-08
 
 - 1
-- `【 script 脚本 剧本 n 】`
-- `【 encrypt 加密 v 】` // ------------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
+- `【 script 脚本 剧本 n 】` // ---------------- 【 scriptwriter 编剧 n 】 【 write script. 编写剧本 v 】
 - `【 decrypt 解密 v 】` // ------------------- 【 decryption algorithm. 解密算法 n 】
+- `【 encrypt 加密 v 】`
+- `【 encryption 加密 n 】` // ---------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
+- `【 encrypted 加密的 adj 】` // ------------- 【 encrypted file. 加密的文件 n 】
 - > 【 encrypt 加密 v 】
 - > 【 encryption 加密 n 】// ----------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
 - > 【 encrypted 加密的 adj 】// -------------- 【 encrypted file. 加密的文件 n 】
@@ -565,15 +584,16 @@
 - _【 downstairs 在楼下 adv / 楼下 n / 楼下的 adj 】_
 - > 【 blow bubble. 吹泡泡 v 】
 -
-- `【 encode 编码 v 】`
+- `【 encode 编码 v 】` // -------------------- 【 encode video. 编码视频 v 】
 - `【 decode 解密 v 】`
 -
 - `【 cipher 密码 暗号 n 】`
 - `【 code 代码 暗号 n 】`
+- `【 password 密码 n 】`
 -
 - [AA.]
 - `【 encrypt 加密 v 】`
-- **【 The sever uses its own public_key to 【 encrypt 】 the file. 服务器用自己的公钥加密这个文件 】**
+- **【 The 【 sever 】 uses its own public_key to 【 encrypt 】 the file. 服务器用自己的公钥加密这个文件 】**
 -
 - [BB.]
 - `【 script 脚本 剧本 n 】`
@@ -592,23 +612,29 @@
 - `【 blow bubble. 吹泡泡 】`
 - `【 downstairs. 在楼下prep / 楼下的adj / 楼下n 】`
 - **【 He is 【 blowing bubbles 】 【 downstairs 】. 他在楼下吹泡泡 】**
+-
+- [EE.]
+- **【 The 【 scriptwriter 】 is writing the script. 编剧正在写剧本 】**
 
 ###### Must 2024-11-09
 
 - 1
-- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】 【 sweet sime. 甜甜的笑容 】
+- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】 【 sweet smile. 甜甜的笑容 】
 - `【 sweat 汗n 出汗v 】` // ----------------- 【 sweet sweat. 甜甜的汗水 】
 - `【 sweater 毛衣 n 】`
 - `【 wet 湿的adj 湿气n 打湿v 】`
+- `【 humid 潮湿的 adj 】` // ---------------- 【 humid weather. 潮湿的天气 n 】
 - > 【 sweet sweat. 甜甜的汗水 】
 - > 【 sweet simle. 甜甜的笑容 】
 - > 【 sweet nothing. 甜言蜜语 】
 - > 【 sweet dream. 好梦 】
+- _【 humidifier 加湿器 n 】_
+- _【 humid weather. 潮湿的天气 n 】_
 -
 - `【 swan 天鹅 n 】`
 - `【 swamp 沼泽 n 】`
 - `【 swim 游泳 v n 】`
-- `【 swing 摆动v 秋千n 】`
+- `【 swing 摆动v 秋千n 】` // ---------------- swing -> swung -> swung
 -
 - [AA.]
 - `【 sweet 甜甜的 adj 】`
@@ -624,8 +650,19 @@
 - `【 sweater 毛衣 n 】`
 - > 【 put on. 穿上 v 】
 - **【 I 【 put on 】 the 【 sweater 】 which she 【 knitted 】 and 【 sweat 】 a lot of 【 sweet sweat 】. 我穿上她编织的毛衣，流了很多甜甜的汗水 】**
+- // -- put on. 穿上 = wear
 -
 - [CC.]
 - `【 sweet noting. 甜言蜜语 n 】`
 - `【 sweet smile. 甜甜的笑容 】`
 - **【 His 【 sweet nothing 】 made her shows a 【 sweet simle 】. 他的甜言蜜语使她露出了甜甜的笑容 】**
+-
+- [DD.]
+- `【 swan 天鹅 n 】`
+- `【 swamp 沼泽 n 】`
+- **【 【 swans 】 are swimming in the 【 swamp 】. 天鹅在沼泽里面游泳 】**
+-
+- [EE.]
+- `【 humid 潮湿的 adj 】`
+- `【 humidifier 加湿器 n 】`
+- **【 The 【 humid 】 weather doesn't need a 【 humidifier 】. 潮湿的天气不需要加湿器 】**
