@@ -164,4 +164,34 @@ embarrass 尴尬 v
 embarrassed 尴尬的 adj = awkward.
 embarrassing 尴尬的 adj
 // awkward ward reward award coward
+
+reunion 团聚 团圆 n
+union 联盟 同盟 n
+
+specific 具体的 特定的 adj
+specifically 具体地 特点地 adv
+
+conference 会议 n
+contact details. 联系方式 n
+a couple of times. 几次
+weird 奇怪的 adj
+accidently 意外地 偶然地 ad
+fit together. 组合在一起
+meet up. 见面 会面 碰头
+how is it going. 最近怎么样
+good trick. 好的技巧 好妙招 n
+
+in a bit of hurry. 有点着急 有点匆忙
+// I'm 【 in a bit of a hurry 】. 我有点着急
+
+be terrible with. 不擅长...
+// I 【 am terrible with 】 faces. 我脸盲
+// I 【 am terrible with 】 directions. 我方向感差
+// I am terrible with numbers.
+
+slip 滑倒 v
+【 slipped my mind. 我忘记了 】
+// Your name just has just 【 slipped in my mind 】. 我刚刚忘记你的名字
+// It 【 completely 】 【 slipped my mind 】. 我完全忘了这件事
+// slip -> slipped
 ```
