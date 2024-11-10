@@ -1,5 +1,74 @@
 # Journey to the west. 西游记 1
 
+- 1
+- `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake head. 摇头 】
+- > 【 scratch an itch. 挠痒 v 】
+- > 【 scratch head. 挠头 v 】
+- > 【 shake head. 摇头 v 】
+- _【 shake head. 摇头 v 】_
+- _【 shake hand. 握手 v 】_
+- _【 wave hand. 挥手 v 】_
+- [AA.]
+- `【 shake hands. 握手 v 】`
+- `【 scratch head. 挠头 v 】`
+- `【 shake head. 摇头 v 】`
+- `【 in confusion. 困惑地 adv 】`
+- **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- [BB.]
+- `【 scratch an itch. 挠痒 v 】`
+- `【 scratch 挠痒v 划痕n 】`
+- **【 After 【 scratching an itch 】, he left a 【 scratch 】. 他挠痒后，留下了划痕 】**
+-
+-
+-
+- 2
+- `【 split open. 裂开 分裂 v 】`
+- `【 split up. 分手 分开 】` = break up
+- [AA.]
+- **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
+- [BB.]
+- `【 split up. 分手 分开 v 】` = break up.
+- `【 split open. 裂开 v 】`
+- **【 After 【 splitting up 】, he 【 split open 】. 分手后他裂开了 】**
+-
+-
+-
+- 3
+- `【 rush out of. 从...冲出去 】`
+- `【 rush hour. 高峰期 】`
+- `【 morning rush hour. 早高峰 】`
+- **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
+-
+-
+-
+- 4
+- `【 shrug shoulders. 耸肩 】`
+- `【 shrug 耸肩 v 】`
+- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+-
+-
+-
+- 5
+- `【 cliff 悬崖 n 】`
+- `【 steep 陡峭的 】`
+- `【 slope 斜坡 n 】` // ---- slope VS scope
+- _【 steep cliff. 陡峭的悬崖 n 】_
+- _【 steep slope. 陡坡 n 】_
+- **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
+- // -- behind 在后面，在...后面
+-
+-
+-
+- 5
+- `【 humid 潮湿的 adj 】` // ----------------- 【 humidifier 加湿器 】 【 humid weather. 潮湿的天气 】 // humid moist damp
+- `【 moist 潮湿的 adj 】`
+- `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
+- > 【 humidifier 加湿器 n 】
+- > 【 humid weather. 潮湿的天气 n 】
+-
+-
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
 
 ```
@@ -55,7 +124,7 @@ These are the fruits that I have carefully 【 picked 】 and 【 gathered 】 f
 【 rush out of. 从...冲出去 v 】
 【 rush hour. 高峰期 】
 【 morning rush hour. 早高峰 】
-// He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
+// He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
 
 
 3.
@@ -141,7 +210,7 @@ The light was gone. 光消失了 = The light disappeared = the light gradually f
 
 swing 摆动v 秋千n
 
-mist 薄雾 n
+mist 薄雾 n // ------------- damp = humid = moist 潮湿的 adj // 【 humidifier 加湿器 n 】
 enormous 巨大的 adj
 alive 活着的 adj
 -
