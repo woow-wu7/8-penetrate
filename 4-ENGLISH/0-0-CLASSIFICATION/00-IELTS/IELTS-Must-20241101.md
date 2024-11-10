@@ -267,10 +267,10 @@
 - > 【 lift dumbbell. 举哑铃 v 】
 - > 【 ring doorbell. 按门铃 v 】
 -
+- `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】 // `【 stamp 邮票 n 】- stamp duty.印花税 ` _【 stump 树桩 n 】- tree stump.树桩_
+- `【 dump 倒v 垃圾场n 】`
 - `【 pump 抽水机n 注入v 】` // ------------- 【 gas pump. 加油机 n 】
 - `【 jump 跳 v 】` // --------------------- 【 jump the gun. 抢跑 v 】 【 jump the queue. 插队 】 // gun gunpowder powder
-- `【 dump 倒v 垃圾场n 】`
-- `【 stump 树桩 n 】` // ------------------ 【 tree stump. 树桩 n 】 // `【 stamp 邮票 n 】- stamp duty.印花税 ` _【 stump 树桩 n 】- tree stump.树桩_
 - _【 jump the gun. 抢跑 v 】_
 - _【 jump the queue. 插队 】_ = cut in line. = cut in queue. = jump the line. = jump the queue.
 - // jump into. 跳进 v
@@ -280,17 +280,28 @@
 - > 【 cut in line. = cut in queue. = jump the line. = jump the queue. 插队 】
 - > 【 line up. = queue up. 排队 】
 - _【 gas tank. 油箱 n 】_
-- _【 gas cap. 邮箱盖 】_
+- _【 gas cap. 邮箱盖 】_ // cap cup
 - _【 gas pump. 加油机 n 】_
 - _【 gas nuzzle. 加油抢 n 】_
 - _【 gas station. 加油站 】_
 - _【 gas pedal. 油门踏板 】_
 - _【 gas gauge. 油表 】_
 - _【 gas grade. 汽油等级 】_
-- > tree stump. 树桩 n
-- > charging pile. 充电桩 n
+- > 【 tree stump. 树桩 n 】
+- > 【 charging pile. 充电桩 n 】
 - > charging cable. 充电线 n
 - > charging port. 充电口 n
+-
+- `【 damp 潮湿的 adj 】` // --------------------- _【 damp = humid = moist. 潮湿的 adj 】_
+- `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 【 pay stamp duty. 交印花税 】 // 【 pay tax. 交税 n 】
+- `【 stump 树桩 n 】` // ----------------------- 【 tree stump. 树桩 n 】 // 【 charging pile. 充电桩 】
+- `【 swamp 沼泽 n 】`// --------------------- **【 【 swans 】 are swimming in the 【 swamp 】. 天鹅在沼泽里面游泳 】**
+- `【 swan 天鹅 n 】`
+- > 【 stamp duty. 印花税 n 】// ---------------- 【 pay stamp duty. 交印花税 】 //【 pay tax. 交税 n 】
+- > 【 pay stamp duty. 交印花税 】 // ----------- 【 pay tax. 交税 n 】
+- > 【 tree stump. 树桩 n 】
+- _【 damp = humid = moist 潮湿的 adj 】_
+- _【 damp weather. 潮湿的天气 】_ = humid weather. = moist weather.
 -
 - `【 pumpkin 南瓜 】` // ----------------------- 【 pumpkin porridge. 南瓜粥 n 】
 - `【 pump 抽水机n 注入v 】` // ------------------ 【 gas pump. 加油机 】
@@ -299,12 +310,6 @@
 -
 - `【 doorbell 门铃 n 】` // -------------------- 【 ring doorbell. 按门铃 v 】
 - `【 dumbbell 哑铃 n 】` // -------------------- 【 lift dumbbell. 举哑铃 v 】
--
-- `【 stamp 邮票 n 】` // ----------------------- 【 stamp duty. 印花税 n 】 【 pay stamp duty. 交印花税 】 // 【 pay tax. 交税 n 】
-- `【 stump 树桩 n 】` // ----------------------- 【 tree stump. 树桩 n 】
-- > 【 stamp duty. 印花税 n 】// ---------------- 【 pay stamp duty. 交印花税 】 //【 pay tax. 交税 n 】
-- > 【 pay stamp duty. 交印花税 】 // ----------- 【 pay tax. 交税 n 】
-- > 【 tree stump. 树桩 n 】
 -
 - [AA.]
 - `【 dump 倒 灌 倾泻 v 】`
@@ -619,15 +624,21 @@
 ###### Must 2024-11-09
 
 - 1
-- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】 【 sweet smile. 甜甜的笑容 】
+- `【 sweet 甜的 adj 】` // ------------------ 【 sweet sweat. 甜甜的汗水 】 【 sweet smile. 甜甜的笑容 】 【 sweet noting. 甜言蜜语 】 【 sweet dream. 好梦 】
 - `【 sweat 汗n 出汗v 】` // ----------------- 【 sweet sweat. 甜甜的汗水 】
 - `【 sweater 毛衣 n 】`
 - `【 wet 湿的adj 湿气n 打湿v 】`
-- `【 humid 潮湿的 adj 】` // ---------------- 【 humid weather. 潮湿的天气 n 】
+- `【 humid 潮湿的 adj = damp = moist 】` // - 【 humid weather. 潮湿的天气 】 【 humidifier 加湿器 】 // humid moist damp
+- `【 wear = put on. 穿上 】`
+- // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 sweet sweat. 甜甜的汗水 】
 - > 【 sweet simle. 甜甜的笑容 】
 - > 【 sweet nothing. 甜言蜜语 】
 - > 【 sweet dream. 好梦 】
+- AA.
+- _【 humid 潮湿的 adj 】_ // -----------------【 humid weather. 潮湿的天气 】 【 humidifier 加湿器 】 // humid moist damp
+- _【 moist 潮湿的 adj 】_
+- _【 damp 潮湿的 adj 】_ // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - _【 humidifier 加湿器 n 】_
 - _【 humid weather. 潮湿的天气 n 】_
 -
@@ -635,6 +646,8 @@
 - `【 swamp 沼泽 n 】`
 - `【 swim 游泳 v n 】`
 - `【 swing 摆动v 秋千n 】` // ---------------- swing -> swung -> swung
+- // dump / dumpling / dumb / dumbbell / doorbell / stump / stamp / damp / jump / pump / pumpkin / swamp / swan
+- [2024-11-04](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 -
 - [AA.]
 - `【 sweet 甜甜的 adj 】`
@@ -663,6 +676,6 @@
 - **【 【 swans 】 are swimming in the 【 swamp 】. 天鹅在沼泽里面游泳 】**
 -
 - [EE.]
-- `【 humid 潮湿的 adj 】`
+- `【 humid 潮湿的 adj 】` =
 - `【 humidifier 加湿器 n 】`
 - **【 The 【 humid 】 weather doesn't need a 【 humidifier 】. 潮湿的天气不需要加湿器 】**

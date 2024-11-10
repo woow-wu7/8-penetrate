@@ -52,7 +52,7 @@ These are the fruits that I have carefully 【 picked 】 and 【 gathered 】 f
 
 
 2.
-【 rush out. 冲出去 】
+【 rush out of. 从...冲出去 v 】
 【 rush hour. 高峰期 】
 【 morning rush hour. 早高峰 】
 // He 【 rushed out 】 of the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室
@@ -78,14 +78,17 @@ gather 聚集 收集 采集 v
 
 6.
 scratch 挠v 滑痕n
-【 scratch head. 挠头 v 】
 【 scratch an itch. 挠痒 v 】 // ------------ 【 itch 痒 v n 】
+【 scratch head. 挠头 v 】
+【 shake head. 摇头 v 】
+-
 【 in confusion. 困惑地 adv 】
 -
 confuse 混淆 困惑 v
 confusion 混淆 困惑 n
 -
-// He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头
+// 1. He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头
+// 2. He 【 scratched his head 】 then he 【 shook his head 】.  他挠了挠头，然后摇了摇头
 
 
 7.
@@ -124,7 +127,10 @@ jump over. 跳过 v
 cliff 悬崖 n
 steep 陡峭的 陡的 adj
 【 steep cliff. 陡峭的悬崖 n 】
-// The 【 cliff 】 is 【 steep 】. 这悬崖很陡
+【 steep slope. 陡坡 n 】
+-
+// 1. The 【 cliff 】 is 【 steep 】. 这悬崖很陡
+// 2. Behind the 【 steep slope 】 is a 【 steep cliff 】.  陡坡后面是陡峭的悬崖
 
 
 12.

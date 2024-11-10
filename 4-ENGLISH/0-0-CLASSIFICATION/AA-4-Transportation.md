@@ -410,7 +410,7 @@
 - `【 morning rush hour. 早高峰 】`
 - `【 traffic jam. 交通堵塞 堵车 n 】`
 - > 【 rush hour. 高峰期 】
-- > 【 rush out. 冲出去 v 】
+- > 【 rush out of. 从...冲出去 v 】
 - > 【 What's the rush. 急什么 】
 - **【 【 What's the rush 】? the library will not close for 【 another 】 two hours. 急什么？图书馆还有一个小时才关门 】**
 - **【 【 Traffic jams 】 usually 【 occur 】 durning the 【 morning rush hour 】. 堵车一般发生在早高峰 】**

@@ -660,6 +660,8 @@
 - `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】
 - `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
+- _【 present 目前 n / 礼物 n / 目前的 adv 】_
+- _【 at present. 目前 adv 】_
 - > 【 present tense. 现在时态 】
 - > 【 【 simple 】 present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
@@ -958,6 +960,11 @@
 - [RR.]
 - `【 complementary 互补的 补充的 adj 】`
 - **【 These two roles are 【 complementary 】. 这两个角色是互补的 】**
+-
+- [SS.]
+- `【 present 目前n 礼物n 目前的adj 】`
+- `【 at present. 目前 adv 】`
+- **【 【 At present 】, I don't received any 【 present 】. 目前我没有收到任何礼物 】**
 
 ###### Must 2024-07-18
 

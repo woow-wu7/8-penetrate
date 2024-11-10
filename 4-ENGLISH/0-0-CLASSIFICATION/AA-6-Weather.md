@@ -26,9 +26,11 @@
 - `【 foggy 有雾的 adj 】` // ------- 【 foggy / mist 】
 - // TIPS: Pay attention to the pronunciation of the word 'foggy'.
 -
-- `【 humid 潮湿的 adj 】`
 - `【 damp 潮湿的 adj 】` // -------- 【 damp 潮湿的 / swamp 沼泽 】
+- `【 humid 潮湿的 adj 】` // ------- 【 humidifier 加湿器 n 】 【 humid weather. 潮湿的天气 】
 - `【 moist 潮湿的 adj 】`
+- _【 dump / dumpling / dumb / dumbbell / doorbell / stump / pumpkin / stamp / damp / jump 】_
+- [2024-11-04](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 -
 - `【 hail 冰雹 n 】`
 -

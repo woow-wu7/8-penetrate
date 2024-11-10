@@ -506,7 +506,11 @@ I 【 sweated 】 【 a lot 】 today.
 
 ```
 1
+These are the fruits that I 【 carefully picked 】 and gathered for you.
 这是我为你精心挑选和采集的水果
+// -
+// carefully pick. 精心挑选 v
+// gather 采集
 
 
 2
@@ -518,57 +522,188 @@ I 【 sweated 】 【 a lot 】 today.
 
 
 3
+He rushed out of the classroom on morning rush hour.
 他在早高峰冲出了教室
 
 
 4
+The swans is swimming in the swamp.
 天鹅在沼泽里面游泳
 
 
 5
+The sweet sweat wetted the sweater.
 甜甜的汗水打湿了毛衣
+// -
+// sweet sweat. 甜甜的汗水
+// wet 打湿 v
+// sweater 毛衣
 
 
 6
+The Sever uses its own public_key to 【 encrypt 】 the file
 服务器用自己的公钥加密这个文件
+// -
+// encrypt 加密 v
+// decrypt 解密 v
 
 
 7
+This 【 encryption script 】 is used to 【 automatically 】 【 write script 】.
 这个加密的脚本用于自动地编写剧本
+// -
+// 【 encryption script. 加密脚本 n 】
+// 【 write script. 编写脚本 】
+// -
+// automatically 自动地 adv
 
 
 8
+The 【 encryption algorithm 】 used by 【 encrypted file 】 is 【 greedy algorithm 】.
 这些加密的文件用的加密算法是贪心算法
+// -
+// 【 encryption algorithm. 加密算法 n 】
+// 【 greedy algorithm. 贪心算法 n 】
+// -
+// 【 encrypted file. 加密文件 n 】
 
 
 9
+The 【 humid weather 】 doesn't need a 【 humidifier 】.
 潮湿的天气不需要加湿器
+// -
+// 【 humid weather. 潮湿的天气 】
+// 【 humidifier 加湿器 n 】
+// -
+// humid moist damp
 
 
 10
+After 【 shaking hands 】, they 【 hand in 】 homeworks 【 hand in hand 】.
 他们握手后，手牵手去上交作业
+// -
+// 【 shake hand. 握手 v 】
+// 【 wave hand. 挥手 v 】
+// -
+// 【 hand in. 上交 v 】
+// 【 hand in hand. 手牵手 】
 
 
 11
+The sense of vision and touch are 【 equally important 】.
 视觉和触觉同等重要
+// -
+// vision 视觉
+// touch 触觉
+// -
+// 【 equally important. 同等重要 】
 
 
 12
+【 Workers 】 【 work 】 【 on 】 the 【 construction site 】.
 工人在建筑工地工作
+// -
+// 【 construction site. 建筑工地 】
+// 【 on construction site. 在建筑工地 】
 
 
 13
+He 【 rush out 】 of  the classroom in the 【 morning rush hour 】.
 他在早高峰冲出了教室
+// -
+// 【 rush out of. 从...冲出去 】
+// 【 morning run hour. 早高峰 n 】
 
 
 14
+She 【 called out 】 for help.
 她大声呼救
+// -
+// 【 call out. 叫 喊 v 】
 
 
 15
+He 【 scratched his head 】 【 in confusion 】.
 他困惑地挠了挠头
+-
+He 【 scratched his head 】 then 【 shook his head 】.
+他挠了挠头，然后摇了摇头
+-
+// -
+// 【 in confusion. 困惑的 adj 】
+// -
+// 【 scratch an itch. 挠痒 v 】
+// 【 scratch head. 挠头 v 】
+// 【 shake head. 摇头 v 】
+// -
+// shake -> shook
 
 
 16
+陡坡后面是陡峭的悬崖
+【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】.
+-
+The 【 cliff 】 is very 【 steep 】.
 这悬崖很陡
+// -
+// 【 steep cliff. 陡峭的悬崖 n 】
+// 【 steep slope. 陡坡 n 】
+// -
+// 【 behind 在...后面 】
+```
+
+##### 13 Make sentences 2024-11-13
+
+```
+1
+目前我没有收到任何礼物
+
+
+2
+陡坡后面是陡峭的悬崖
+-
+这悬崖很陡
+
+
+3
+他挠了挠头，然后摇了摇头
+-
+他困惑地挠了挠头
+
+
+4
+她大声呼救
+-
+他在早高峰冲出了教室
+
+
+5
+工人在建筑工地工作
+
+
+6
+他们握手后，手牵手去上交作业
+
+
+7
+潮湿的天气不需要加湿器
+
+
+8
+这个加密的脚本用于自动地编写剧本
+-
+这些加密的文件用的加密算法是贪心算法
+-
+服务器用自己的公钥加密这个文件
+
+
+9
+天鹅在沼泽里面游泳
+
+
+10
+这是我为你精心挑选和采集的水果
+-
+用绳子摘成熟的果实是一种成熟的技术
+
 ```
