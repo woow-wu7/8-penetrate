@@ -17,7 +17,7 @@
 // pick out. 挑选出
 -
 // pick up. 捡起 接某人 v // --------------- We 【 put down 】 the 【 baggages 】 and went to 【 airport 】 to 【 pick up 】 the 【 tourists 】.
-// take up. 占用 // ----------------------- take up your time. 占用你的时间了
+// take up. 占用  = occupy. // ----------------------- 【 take up 】 your time. 占用你的时间
 // pull up. 停车 // ----------------------- Please【 pull up 】 the car 【 close to 】 the 【 gas pump 】.
 // speed up. 加速
 // fill up. 装满
@@ -32,7 +32,7 @@
 I'm kind of hungry. 我有点饿
 I get kind of angry. 我有点生气
 -
-// 1. The 【 watermelon 】 【 split open 】 when it hit the ground. 西瓜掉到地上就裂开了
+// 1. The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了
 // 1. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
 // 1. The 【 overripe 】 fruit 【 split open 】, 【 revealing 】 its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
 // 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
@@ -59,31 +59,6 @@ These are the fruits that I have carefully 【 picked 】 and 【 gathered 】 f
 
 
 3.
-【 rock 岩石 n 】 --------- 较大
-【 stone 石头 n 】 -------- 较小
-// This 【 rock 】 【 consists of 】 many 【 stones 】. 这块岩石由很多石头组成
-
-
-4.
-shrug 耸肩 v n
-shoulder 肩膀 n
-
-
-5.
-gather 聚集 收集 采集 v
-【 gather fruit. 采集水果 】
-【 ripe fruit. 成熟的果实 】
-【 mature technology. 成熟的技术 】
-// The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
-// TIPS: Pay attention to the pronunciation of the word 'gather'. [gather-聚集收集采集-v] [gather-fruit.采集水果]
-
-
-6.
-explore 探险 勘查
-// He gathered fruit and explored caves and mountaintops.
-
-
-7.
 【 call out. 喊 叫 v 】
 shout 喊 叫 v
 deaf 聋的 adj
@@ -91,15 +66,42 @@ deaf 聋的 adj
 // Don't 【 shout at 】 me. I'm not 【 deaf 】. 别对我大喊大叫！我又不是聋
 
 
-8.
-scratch 挠
+4.
+gather 聚集 收集 采集 v
+【 gather fruit. 采集水果 】
+【 ripe fruit. 成熟的果实 】
+【 mature technology. 成熟的技术 】
+【 mature person. 成熟的人 】
+// The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
+// TIPS: Pay attention to the pronunciation of the word 'gather'. [gather-聚集收集采集-v] [gather-fruit.采集水果]
+
+
+6.
+scratch 挠v 滑痕n
 【 scratch head. 挠头 v 】
+【 scratch an itch. 挠痒 v 】 // ------------ 【 itch 痒 v n 】
 【 in confusion. 困惑地 adv 】
 -
 confuse 混淆 困惑 v
 confusion 混淆 困惑 n
 -
 // He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头
+
+
+7.
+shrug 耸肩 v n
+shoulder 肩膀 n
+
+
+4.
+【 rock 岩石 n 】 --------- 较大
+【 stone 石头 n 】 -------- 较小
+// This 【 rock 】 【 consists of 】 many 【 stones 】. 这块岩石由很多石头组成
+
+
+8.
+explore 探险 勘查
+// He gathered fruit and explored caves and mountaintops.
 
 
 9.
@@ -116,7 +118,20 @@ shake -> shook过去式
 jump into. 跳进 v
 jump out. 跳出 v
 jump over. 跳过 v
-leap into. 跳入 v
+
+
+11.
+cliff 悬崖 n
+steep 陡峭的 陡的 adj
+【 steep cliff. 陡峭的悬崖 n 】
+// The 【 cliff 】 is 【 steep 】. 这悬崖很陡
+
+
+12.
+The light was gone. 光消失了 = The light disappeared = the light gradually fades away.
+// gradually disappear. 逐渐消失 v
+// fade away. 逐渐消失 v
+
 
 swing 摆动v 秋千n
 
@@ -131,9 +146,6 @@ sight 视力 视线 n
 cave 山洞 n
 vase 花瓶 n
 
-cliff 悬崖 n
-steep 陡峭的 陡的 adj
-【 steep cliff. 陡峭的悬崖 n 】
 
 shade 阴凉处 n
 shadow 影子 n
@@ -148,6 +160,8 @@ sit -> sat -> sat 坐
 
 palace 王宫 宫殿
 heaven 天堂
+
+
 majesty 陛下
 cave 山洞
 

@@ -155,3 +155,13 @@ uncommon 罕见的 adj
 smelly 发臭的 adj
 smell 味道 气味 嗅觉 n / 嗅v
 ```
+
+##### 2 Hearing 2024-11-09 [IELTS_HEARING_MUST_PODCAST][embarrassing]
+
+```
+1
+embarrass 尴尬 v
+embarrassed 尴尬的 adj = awkward.
+embarrassing 尴尬的 adj
+// awkward ward reward award coward
+```
