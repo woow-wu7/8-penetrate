@@ -679,3 +679,33 @@
 - `【 humid 潮湿的 adj 】` =
 - `【 humidifier 加湿器 n 】`
 - **【 The 【 humid 】 weather doesn't need a 【 humidifier 】. 潮湿的天气不需要加湿器 】**
+
+###### Must 2024-11-11
+
+- 1
+- `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】
+- `【 caption 字幕 说明文字 n 】`
+- `【 captain 船长 机长 n 】`
+-
+- `【 capital 首都n 大写的adj 资本n 】`
+- `【 capsule 胶囊 n 】`
+- `【 capability 能力 n 】`
+-
+- `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】
+- `【 cup 杯子 】` // -------------------------- 【 a full cup of. 一满杯... 】
+- `【 capacity 容量 n 】`
+- `【 dosage 剂量 n 】`
+- captain 船长 机长 n
+  caption 字幕 文字说明 n
+  subtitle 字幕 n
+  capital 首都 n 大写的 adj
+  capitalize 把首字母大写 v
+  capitalization 首字母大写 n
+  【 be capitalized. 】
+  // The first letter of the word 【 'capital' 】 should be 【 capitalized 】. 首都这个单词的第一个字母应大写
+  encapsulate 封装 v
+  capsule 胶囊 压缩 v
+  capsulate 胶囊的 adj
+  compress 压缩 v
+  socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
+  capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】

@@ -6,13 +6,13 @@
 - > 【 scratch head. 挠头 v 】
 - > 【 shake head. 摇头 v 】
 - _【 shake head. 摇头 v 】_
-- _【 shake hand. 握手 v 】_
+- _【 shake hand. 握手 v 】_ // shake shook
 - _【 wave hand. 挥手 v 】_
 - [AA.]
 - `【 shake hands. 握手 v 】`
 - `【 scratch head. 挠头 v 】`
-- `【 shake head. 摇头 v 】`
-- `【 in confusion. 困惑地 adv 】`
+- `【 shake head. 摇头 v 】` // ------------------ 【 shake shook. 】
+- `【 in confusion. 困惑地 adv 】` // ------------ 【 in confusion. 困惑的 adj 】
 - **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
 - **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - [BB.]
@@ -39,12 +39,14 @@
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
 - **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
+- // -- roommate 室友 n
 -
 -
 -
 - 4
 - `【 shrug shoulders. 耸肩 】`
 - `【 shrug 耸肩 v 】`
+- `【 in confusion. 困惑的 adj 】`
 - **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
 -
@@ -56,12 +58,13 @@
 - `【 slope 斜坡 n 】` // ---- slope VS scope
 - _【 steep cliff. 陡峭的悬崖 n 】_
 - _【 steep slope. 陡坡 n 】_
+- 【 behind 在后面，在...后面 】
 - **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
 - // -- behind 在后面，在...后面
 -
 -
 -
-- 5
+- 6
 - `【 humid 潮湿的 adj 】` // ----------------- 【 humidifier 加湿器 】 【 humid weather. 潮湿的天气 】 // humid moist damp
 - `【 moist 潮湿的 adj 】`
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
