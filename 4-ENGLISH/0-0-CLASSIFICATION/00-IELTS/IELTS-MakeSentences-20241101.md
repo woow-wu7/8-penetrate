@@ -722,3 +722,31 @@ The 【 cliff 】 is very 【 steep 】.
 12
 他困惑的耸了耸肩
 ```
+
+##### 14 Make sentences 2024-11-14
+
+```
+1
+产能过剩是资本主义国家面临的问题
+
+
+2
+【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】.
+国有资产代表着国家利益，不能被继承
+// -
+// interest 兴趣 利息 利益 n
+// -
+// 【 national assets. 国有资产 n 】
+// 【 national interests. 国家利益 】
+// -
+// 【 inherit 继承 v 】
+// -
+// 【 represent 代表 v 】
+// TIPS: Pay attention to the pronunciation of the word 'represent'. [represent-代表-v]
+
+
+3
+我们匹配到的对手是法院的羽毛球队
+-
+我们和对手在法院的羽毛球场进行羽毛球比赛
+```

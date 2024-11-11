@@ -10,6 +10,15 @@
     <script>
       // 前置知识
 
+      // English
+      // - enumerate 枚举 v
+      // - enumeration 枚举 n
+      // - enumerable 可枚举的 adj
+      //
+      // - configure 配置 v
+      // - configuration 配置 n
+      // - configurable 可配置的 adj
+
       // 1
       // Object.defineProperty(obj, prop, descriptor)
       // - 1.参数
@@ -65,9 +74,9 @@
       // bb --> 可枚举 - obj自身属性的定义
       Object.defineProperty(obj, "can_Enum_own", {
         enumerable: true, // 该属性可枚举
-        configurable: true, // 属性描述符可被修改，并且可以被删除，( 数据描述符 和 存取描述符 共享 )
-        value: "canEnum_own", // 添加的 other 属性的值
-        writable: true, // 属性可以被修改
+        configurable: true, // 属性描述符 可被修改，并且 可以被删除，( 数据描述符 和 存取描述符 共享 )
+        value: "canEnum_own", // 添加的 can_Enum_own 属性的值
+        writable: true, // 属性可以 被修改
       });
 
       // cc --> 不可枚举 - obj自身属性的定义
@@ -107,15 +116,16 @@
       const arr_2 = [];
       for (let key in obj) {
         arr_1.push(key);
-        // 如果要用 for in 只遍历遍历自身属性 可以用 Object.prototype.hasOwnProperty()
+        // for in ( 只遍历 - 自身可枚举属性+继承可枚举属性 )，( 不能遍历 - 自身不可枚举属性 + 继承的不可枚举属性 )
+        // 可以用 Object.prototype.hasOwnProperty() 来只遍历 自身可枚举属性，过滤掉 继承的可枚举属性
         if (obj.hasOwnProperty(key)) {
           arr_2.push(key);
         }
       }
+      console.log("for...in 可以遍历(自身和继承)的(可枚举)属性，不能遍历Symbol类型的key: ", arr_1); // 包含自身 和 继承 的属性
       console.log(
-        "for...in 可以遍历(自身和继承)的(可枚举)属性，不能遍历Symbol类型的key: ",
-        arr_1
-      ); // 包含自身 和 继承 的属性
+        "for in ( 只遍历 - 自身可枚举属性+继承可枚举属性 )，( 不能遍历 - 自身不可枚举属性 + 继承的不可枚举属性 ) "
+      );
       console.log("hasOwnProperty-自身可枚举属性===", arr_2);
 
       // 3

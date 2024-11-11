@@ -622,6 +622,8 @@
 - _【 national anthem. 国歌 n 】_ // ---------------【 anthem 国歌 n 】
 - _【 national assets. 国有资产 n 】_ // ------------【 asset 资产 】
 - _【 National Day. 国庆节 n 】_ // ----------------- 注意都需要大写
+- _【 national interests. 国家利益 】_ // ----------- interest 兴趣 利息 利益 n
+- **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
 - > 【 destination 目的地 】
 - > 【 examination 考试 检查 n 】
 - _【 foreign nationality. 外国国籍 n 】_

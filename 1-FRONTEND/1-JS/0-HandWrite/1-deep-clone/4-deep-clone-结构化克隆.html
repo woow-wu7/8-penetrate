@@ -20,8 +20,8 @@
         date: new Date(),
         regexp: new RegExp("regexp"),
       };
-      obj.circular = obj; // 循环引用
-      obj[Symbol()] = "symbol"; // Symbol() 类型的 key
+      obj.circular = obj; // 循环引用 ------------------------- Map 解决
+      obj[Symbol()] = "symbol"; // Symbol() 类型的 key -------- Reflect.ownKeys()
 
       function deepClone(params, map = new Map()) {
         // 参数：再添加一个参数map，用来存储所有的参数，该参数表示的是需要克隆的对象，如果该参数存在，就直接从缓存中取

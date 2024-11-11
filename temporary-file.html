@@ -299,6 +299,31 @@
       };
       const resQuick = quickSort(arrFQuick);
       console.log("resQuick: ", resQuick);
+
+      // -----------------------------------------
+      // 19 Deep Clone.
+      const obj = {
+        num: 1,
+        str: "string",
+        boo: true,
+        nul: null,
+        undefined: undefined,
+        [Symbol("symbol")]: "symbol",
+        bigint: BigInt(9007199254740991),
+        arr: [1, 2, 3],
+        obj: {
+          name: "woow_wu7",
+          obj2: { age: 10 },
+        },
+        fun: function () {
+          console.log("this is a function.");
+        },
+        date: new Date(),
+        regexp: new RegExp(),
+        error: new Error(),
+      };
+      obj.circle = obj;
+      const deepClone = (obj) => {};
     </script>
   </body>
 </html>

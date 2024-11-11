@@ -436,7 +436,7 @@
 - [DD.]
 - `【 metal 金属 】` // rare metal.
 - `【 medal 奖牌 】` // gold medal. silver medal. bronze medal.
-- `【 model 模型 模特 】` // role model. box-model.
+- `【 model 模型 模特 】` // --------- `【 role model. 榜样 】` `【 box-model. 盒子模型 】`
 - `【 module 模块 】` // open source module.
 - > 【 rare metal. 稀有金属 】
 - _【 gold medal. 金牌 】_
@@ -453,7 +453,7 @@
 ###### 2024-06-11
 
 - 1
-- `【 modest 谦虚的 adj 】`
+- `【 modest 谦虚的 adj 】`   
 - `【 low-key. 低调的 adj 】`
 - `【 generous 慷慨的 adj 】`
 - `【 serious 严肃的 认真的 严重的 adj 】`

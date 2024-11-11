@@ -98,7 +98,7 @@
 - `【 transparent 透明的 adj 】` // ---------------- transparent / opaque
 - `【 transparency 透明度 透明 n 】` // ------------- transparency / opacity
 - `【 opaque 不透明的 adj 】`
-- `【 opacity 不透明度 n 】`
+- `【 opacity 不透明度 n 】` // -------------------- opacity VS capacity
 -
 - `【 transport 运输 v 】`
 - `【 transportation 运输 n 】`
@@ -684,17 +684,50 @@
 
 - 1
 - `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】
-- `【 caption 字幕 说明文字 n 】`
+- `【 caption 字幕 说明文字 n 】` // -------------- caption VS subtitle
 - `【 captain 船长 机长 n 】`
 -
-- `【 capital 首都n 大写的adj 资本n 】`
-- `【 capsule 胶囊 n 】`
+- `【 capital 首都n 大写的adj 资本n 】` // ------- 【 capital letter. 大写字母 】 【 international capital. 国际资本 】
+- `【 capsule 胶囊 n 】` // --------------------- capsule pill tablet
 - `【 capability 能力 n 】`
+- > 【 capital letter. 大写字母 】
+- > 【 international capital. 国际资本 】
+- > 【 capitalist country. 资本主义国家 】
+- > 【 socialist country. 社会主义国家 】
+- AA.
+- _【 capitalist 资本主义的 adj / 资本家 n 】_
+- _【 capitalist country. 资本主义国家 n 】_
+- _【 socialist country. 社会主义国家 n 】_
+- BB.
+- > 【 interest 兴趣 利息 利益 n 】
+- > 【 national interests. 国家利益 】
+- > 【 people's interest. 人民的利益 】
+- CC.
+- _【 nation / state / country 国家 】_
+- _【 national flag. 国旗 n 】_
+- _【 national anthem. 国歌 n 】_
+- _【 national assets. 国有资产 n 】_
+- _【 National Day. 国庆节 n 】_
+- _【 national interest. 国家利益 n 】_ // ------ interest 兴趣 利息 利益 n
+- **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
+-
+- `【 capacity 容量 产能 n 】` // --------------- 【 overcapacity 产能过剩 n 】
+- `【 opacity 不透明度 n 】`
+- `【 dosage 剂量 n 】`
+- > 【 overcapacity 产能过剩 n 】
+- > 【 capacity 产能 容量 n 】
 -
 - `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】
 - `【 cup 杯子 】` // -------------------------- 【 a full cup of. 一满杯... 】
-- `【 capacity 容量 n 】`
-- `【 dosage 剂量 n 】`
+-
+- [AA.]
+- `【 overcapacity 产能过剩 n 】`
+- `【 capitalist country. 资本主义国家 】`
+- **【 【 overcapacity 】 is a problem 【 faced by 】 【 capitalist countries 】. 产能过剩是资本主义国家面临的问题 】**
+-
+- [BB.]
+- **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
+-
 - captain 船长 机长 n
   caption 字幕 文字说明 n
   subtitle 字幕 n
@@ -709,3 +742,41 @@
   compress 压缩 v
   socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
   capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】
+
+###### Must 2024-11-12
+
+- 1
+- `【 badminton 羽毛球 n 】` // --------------------- 【 badminton court. 羽毛球场 n 】 【 badminton racket. 羽毛球拍 n 】 【 badminton match. 羽毛球比赛 n 】
+- `【 volleyball 排球 n 】`
+- `【 tennis 网球 】`
+- `【 table tennis. 乒乓球 】`
+- > 【 badminton court. 羽毛球场 n 】
+- > 【 badminton racket. 羽毛球拍 n 】
+- > 【 badminton match. 羽毛球比赛 n 】
+- > 【 badminton team. 羽毛球队 n 】
+- _【 match 火柴 比赛 n / 匹配 v 】_
+- _【 court 法院 球场 n 】_
+-
+- `【 baseball 棒球 n 】`
+- `【 volleyball 排球 n 】`
+-
+- `【 soccer = football. = soccer ball. 足球  】`
+- `【 tennis = tennis ball. 网球 】`
+-
+- `【 bat 蝙蝠 球拍 n 】`
+- `【 bat = racket. 球拍 】`
+- `【 racket 球拍 VS rocket 火箭 】`
+- `【 bat 蝙蝠 球拍 VS hat 帽子 VS cap 盖子 帽子 VS cup 杯子 】`
+-
+- [AA.]
+- `【 badminton team. 羽毛球队 n 】`
+- `【 court 法院 球场 n 】`
+- `【 opponent 对手 v 】`
+- **【 The 【 opponent 】 that we 【 are matched with 】is the 【 badminton team 】 of the 【 court 】. 我们匹配到的对手是法院的羽毛球队 】**
+-
+- [BB.]
+- `【 badminton match. 羽毛球比赛 n 】`
+- `【 badminton court. 羽毛球场 n 】`
+- `【 opponent 对手 n 】`
+- `【 court 法院 球场 n 】`
+- **【 We and 【 opponents 】 have a 【 badminton match 】 on the 【 badminton court 】 of the 【 court 】. 我们和对手在法院的羽毛球场进行羽毛球比赛 】**

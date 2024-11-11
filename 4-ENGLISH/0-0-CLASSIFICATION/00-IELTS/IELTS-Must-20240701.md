@@ -822,7 +822,7 @@
 -
 - `【 countable noun. 可数名词 】`
 - `【 uncountable noun. 不可数名词 】`
-- 福利国家`【 count 计数 】` // -------------------【 count down 倒计时 】
+- `【 count 计数 】` // -------------------【 count down 倒计时 】
 - `【 discount 打折 v 】` // ------------- _【 discount coupon. 优惠卷 】_ _【 discount rate. 打折率 】_
 - `【 counter 计数器 柜台 】` // -----------【 bank counter. 银行柜台 n 】
 - `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 encounter setback. 遭遇挫折 】 【 overcome difficulty. 克服困难 】

@@ -11,14 +11,26 @@ for...in 和 for...of 的区别？
 
 for...in
 - 可以遍历 对象 和 数组
-- key: 遍历的是数组的 key
+- key: 遍历的是 数组 的 ( 下标 )
+- key: 遍历的是 对象 的 ( 属性名 )
 - 需要注意的是
-  - 因为: for...in 可以遍历 ( 自身可枚举属性 + 继承的可枚举属性 )
+  - 因为: for...in 可以遍历 ( 自身可枚举属性 + 继承的可枚举属性 )，不能遍历 ( 自身不可枚举属性 + 继承的不可枚举属性 )
   - 所以: 一般情况下，都是只想遍历对象自身的属性，所以使用for...in的时候，应该结合使用 hasOwnProperty 方法
+  - 遍历枚举: for...in 可以遍历 ( 自身的可枚举属性 ) 和 ( 继承的可枚举属性 )
+- 扩展1
+  - 问题: 如何定义一个对象的属性是否可枚举
+  - 定义可枚举属性: Object.defineProperty(obj, "can_enum", { enumerable: true, writable: true, configurable: true, value: 'true'})
+  - 定义不可枚举属性: Object.defineProperty(obj, "can_not_enum", { enumerable: false, writable: true, configurable: true, value: 'false'})
+- 扩展2
+ - hasOwnProperty
+ - 所以我们在使用 for...in 遍历时，需要使用 ( hasOwnProperty ) 来遍历 ( 自身可枚举属性 ), 而避免去遍历 ( 继承的可枚举属性 )
+- 扩展3
+  - tutorial
+  - [enumerable](file:///Users/xiawu/work/personal/frontend/8-penetrate/1-FRONTEND/1-JS/0-HandWrite/1-deep-clone/66_text-enumberable-forin.html)
 
 for...of
 - 只能遍历 数组，不能遍历对象
-- 能遍历 Map，Set，某些类似数组的对象: 一个数据结构只要部署了Symbol.iterator属性，就被视为具有 iterator 接口，就可以用for...of循环遍历它的成员
+- 能遍历 Map，Set，某些类似数组的对象: 一个数据结构只要部署了 Symbol.iterator 属性，就被视为具有 iterator 接口，就可以用for...of循环遍历它的成员
 - value: 遍历的是数组的 value
 
 var arr = ['a', 'b', 'c', 'd'];
@@ -31,6 +43,7 @@ for (let a of arr) { console.log(a); // a b c d }
 - Object.getOwnPropertyNames
 - Reflect.ownKeys
 - 以上四者的区别 案例详见: 链接: 本项目/2-FRONTEND/1-JS/DD-遍历对象/对象的遍历.html
+- [The difference between the functions above.](file:///Users/xiawu/work/personal/frontend/8-penetrate/1-FRONTEND/1-JS/DD-遍历对象/对象的遍历.html)
 ```
 
 ```22222222222

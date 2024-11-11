@@ -19,8 +19,8 @@
           zh: 20,
         },
       };
-      obj.circle = obj;
-      obj[Symbol()] = "symbol";
+      obj.circular = obj; // 循环引用 ------------------------- Map 解决
+      obj[Symbol()] = "symbol"; // Symbol() 类型的 key -------- Reflect.ownKeys()
 
       const deepClone = (obj, map = new Map()) => {
         // 1

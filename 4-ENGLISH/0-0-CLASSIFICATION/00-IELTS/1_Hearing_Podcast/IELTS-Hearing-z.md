@@ -23,7 +23,7 @@ involve 涉及
 
 bat 蝙蝠 棒球 球拍 n
 racket 球拍 = bat.
-// 【 tennis 网球 】- 【 table tennis. 网球 】
+// 【 tennis 网球 】- 【 table tennis. 乒乓球 】
 // 【 badminton 羽毛球 】
 // 【 volleyball 排球 】
 // 【 baseball 棒球 】
@@ -145,7 +145,6 @@ AA. Is that claxby?
 BB. That's right.
 
 ```
-
 
 ##### 4 Hearing 2024-10-14 [IELTS__MUST__PODCAST-02/callingInSick-请病假]
 
