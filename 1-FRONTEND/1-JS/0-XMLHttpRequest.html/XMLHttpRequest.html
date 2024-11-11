@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>new XMLHttpRequest()</title>
   </head>
   <body>
     <!-- 注意：这里需要跨域，我这里使用了谷歌浏览器跨域插件 -->
@@ -46,8 +46,8 @@
         // xhr.open(method, url, async)
         // - 特点
         //  - 初始化 HTTP 请求参数，比如url,http请求方法等，但并 ( 不发送请求 )
-        //  - get请求： 参数可以写在 open() 方法中
-        //  - post请求：参数卸载 send() 方法中
+        //  - get请求： 参数可以写在 open() 方法中, ------ 比如: xhr.open('https://www.baidu.com?age=10&name=woow')
+        //  - post请求：参数 写在 xhr.send() 方法中，----- 比如: xhr.send(JSON.stringify({ name: "woow_wu7", age: 20 })
         // - 参数
         //  - method：http请求的方法，包括 GET POST HEAD
         //  - url：请求的地址
@@ -60,7 +60,7 @@
           // "https://api.66mz8.com/api/translation.php?info=I come from China TestGetStaticProps",
           // "http://api.yytianqi.com/citylist/id/1",
           "https://www.dmoe.cc/random.php",
-          true
+          true // 是否异步，默认值就是true
         );
 
         // 4
@@ -88,10 +88,7 @@
         // post 和 get 均可
         // 1. 如果设置  xhr.setRequestHeader( "content-type", "application/x-www-form-urlencoded" )
         // 2. 那么 xhr.send(`name=${1}&age=${2}`) 中的字符串就被作为body对象 {name: 1, age: 2} 发送给后端
-        xhr.setRequestHeader(
-          "Content-Type",
-          "application/x-www-form-urlencoded"
-        );
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
         // 5
         // xhr.getResponseHeader()
@@ -99,6 +96,7 @@
 
         // 6
         // xhr.responseType
+        // xhr.responseType = "blob";
         xhr.responseType = "json"; // 支持 json text blob arraybuffer document 等
 
         // 7
@@ -118,7 +116,7 @@
         xhr.timeout = 5000;
 
         // 9
-        // xhr.onprogress 下载进度信息
+        // xhr.onprogress ( 下载进度 ) 信息
         // 相当于 xhr.addEventListener('progress')
         xhr.onprogress = (e) => {
           console.log("e", e, e.total, e.loaded);
@@ -209,7 +207,8 @@
         //     - 如果data是 DOMString 类型，content-type默认值为text/plain;charset=UTF-8；
         //     - 如果data是 FormData 类型，content-type默认值为multipart/form-data; boundary=[xxx]
         //     - 如果data是其他类型，则不会设置content-type的默认值
-        isGET ? xhr.send() : xhr.send(`name=${1}&age=${2}`);
+        const data = JSON.stringify({ name: "woow_wu7", age: 20 });
+        isGET ? xhr.send() : xhr.send(data);
       };
 
       // 分割线 ----------------------------------------------------------------------------------------------------------------

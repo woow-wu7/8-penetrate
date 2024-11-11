@@ -18,7 +18,7 @@ executor 执行器
 
 ```
 1
-常见的 宏任务 和 微任务
+常见的 宏任务macroTask 和 微任务microTask
 - 宏任务
   - setTimeout
   - setInterval

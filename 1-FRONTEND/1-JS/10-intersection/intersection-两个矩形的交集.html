@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Intersection VS union</title>
     <style>
       * {
         margin: 0;
@@ -142,10 +142,7 @@
       const centerDistance = getCenterDistance(center1, center2);
       const centerAdjacent = getAdjacentDistance(bound1, bound2);
 
-      if (
-        centerDistance.w <= centerAdjacent.w &&
-        centerDistance.h <= centerAdjacent.h
-      ) {
+      if (centerDistance.w <= centerAdjacent.w && centerDistance.h <= centerAdjacent.h) {
         console.log("true", true);
       } else {
         console.log("false", false);

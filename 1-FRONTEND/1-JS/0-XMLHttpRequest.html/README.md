@@ -17,12 +17,16 @@ const api = new XMLHttpRequest()
   - async：是否异步，默认是true，即异步的发送请求
     - false：同步，对send方法的调用将阻塞，直到响应完全接受
     - true或者省略：异步，且通常需要调用 onreadystatechange() 方法
+- 阶段: open() 在 readState 的 ( 1-OPEND ) 阶段会被调用，此时 send() 方法未被调用
+- 阶段: send() 在 readState 的 ( 2-HEADERS_RECEIVED ) 阶段被调用
 
 (2) api.send()
 - 发送一个http请求，请求参数写在send方法中
 - api.send(body)
   - get请求： 参数可以写在 open() 方法中
   - post请求：参数必须卸载 send() 方法中
+- 阶段: open() 在 readState 的 ( 1-OPEND ) 阶段会被调用，此时 send() 方法未被调用
+- 阶段: send() 在 readState 的 ( 2-HEADERS_RECEIVED ) 阶段被调用
 
 (3) api.setRequestHeader()
 - 指定一个HTTP请求的头部（请求头）
@@ -30,8 +34,8 @@ const api = new XMLHttpRequest()
 - api.setRequestHeader(name, value)
   - name: key
   - value：value
+注意：setRequestHeader()方法只有在 readyState = 1 时才能调用，即 open()之后 send()之前
 注意：setRequestHeader()方法可以多次调用，最终的值不是覆盖override而是追加append
-注意：setRequestHeader()方法只有在 readyState = 1 时才能调用，即open()之后send()之前
 
 (4) api.getResponseHeader()
 - 返回指定的HTTP响应头部的值（响应头）

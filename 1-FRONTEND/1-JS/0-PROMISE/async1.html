@@ -8,7 +8,7 @@
   </head>
   <body>
     <script>
-      // 执行顺序 - 案例3
+      // execution order. 执行顺序 - 案例3
       // async await 函数
       // 注意执行顺序
       // - async函数中有await时，执行完await后面的表达式 b()，async函数会让出线程，将await表达式后面的代码放入 ( 微任务队列 56 )，继续执行async函数后面的代码 4
@@ -26,7 +26,7 @@
         // - 放入 微任务队列
         // - 即
         //    1. 将await表示式后面的代码 56 放入 微任务队列
-        //    2. 跳出async函数，继续执行 async 函数后面的代码 4，执行完后，再去微任务队列中 flush 所有的微任务
+        //    2. 跳出async函数，继续执行 async 函数后面的代码 4，执行完后，再去微任务队列中 flush 所有的微任务56
       };
 
       const b = async () => {

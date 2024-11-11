@@ -323,7 +323,99 @@
         error: new Error(),
       };
       obj.circle = obj;
-      const deepClone = (obj) => {};
+      const deepClone = (obj, map = new Map()) => {
+        if (typeof obj !== "object" || obj === null) {
+          return obj;
+        }
+        const result = Array.isArray(obj) ? [] : {};
+        if (map.has(obj)) return map.get(obj);
+        map.set(obj);
+        switch (obj.constructor) {
+          case Error:
+          case Date:
+          case RegExp:
+            return new obj.constructor(obj);
+            break;
+          default: {
+            Reflect.ownKeys(obj).forEach((key) => {
+              if (typeof obj[key] === "object") {
+                result[key] = deepClone(obj[key], map);
+              } else {
+                result[key] = obj[key];
+              }
+            });
+          }
+        }
+        return result;
+      };
+      const result = deepClone(obj);
+      obj.num = 22222;
+      obj.str = "22222";
+      obj.boo = false;
+      obj.arr = [2, 2, 2, 2];
+      obj.obj = {};
+      obj.fun = function () {
+        console.log("this is a function2222222.");
+      };
+      obj.date = new Date(22222);
+      obj.regexp = new RegExp(22222);
+      obj.error = new Error(22222);
+      console.log("original obj", obj);
+      console.log("deep clonal result", result);
+
+      // -----------------------------------------
+      // 20 currying function.
+      const curry = (fn, ...outParameters) => {
+        const totalParameters = [];
+        if (outParameters.length > 0) totalParameters.push(...outParameters);
+        function gather(...inParameters) {
+          if (inParameters.length > 0) totalParameters.push(...inParameters);
+          return gather;
+        }
+        gather.calculate = () => fn(...totalParameters);
+        return gather;
+      };
+      const getSum = (...parameters) => parameters.reduce((pre, cur) => pre + cur);
+      const callbackfn = curry(getSum, 1, 2);
+      callbackfn(3, 4, 5, 6);
+      const resultByCurry = callbackfn.calculate();
+      console.log("resultByCurry: ", resultByCurry);
+
+      // -----------------------------------------
+      // 21 macro task and micro task.
+      // macro task:
+      // - setTimeout
+      // - setInterval
+      // - setImmediate
+      // - requestAnimationFrame
+      // micro task
+      // - promise
+      // - process.nextTick
+      // - MutationObserver
+
+      // -----------------------------------------
+      // 22 XMLHttprequest
+      const buttonCreate = document.createElement("button");
+      const runFetch = () => {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://picsum.photos/200/100", true);
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.responseType = "blob";
+        xhr.send();
+        xhr.onreadystatechange = () => {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            const blob = xhr.response;
+            const imageUrl = URL.createObjectURL(blob); // URL.createObjectURL(blob) 创建一个指向 Blob 或 File 对象的 URL 的静态方法
+            console.log("imageUrl: ", imageUrl);
+            const img = document.createElement("img");
+            img.src = imageUrl;
+            document.body.appendChild(img);
+          }
+        };
+      };
+      buttonCreate.addEventListener("click", runFetch, false);
+      buttonCreate.innerHTML = `XMLHttpRequest.request() - click here to get an image.`;
+      document.body.appendChild(buttonCreate);
     </script>
   </body>
 </html>
