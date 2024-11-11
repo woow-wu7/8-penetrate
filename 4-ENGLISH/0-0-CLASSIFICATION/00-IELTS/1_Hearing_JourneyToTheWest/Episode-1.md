@@ -25,12 +25,15 @@
 - 2
 - `【 split open. 裂开 分裂 v 】`
 - `【 split up. 分手 分开 】` = break up
+- `【 divorce 离婚 v n 】`
 - [AA.]
 - **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
 - [BB.]
 - `【 split up. 分手 分开 v 】` = break up.
 - `【 split open. 裂开 v 】`
+- **【 After 【 splitting up 】 and 【 divorcing 】, he 【 split out 】. 分手并离婚后，他裂开了 】**
 - **【 After 【 splitting up 】, he 【 split open 】. 分手后他裂开了 】**
+- **【 After 【 breaking up 】, he 【 split open 】. 分手后他裂开了 】**
 -
 -
 -
@@ -70,6 +73,13 @@
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
+- **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
+-
+-
+- 7
+- `【 take up. 占用 v  】`
+- `【 occupy 占用 v 】`
+- **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
 -
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
