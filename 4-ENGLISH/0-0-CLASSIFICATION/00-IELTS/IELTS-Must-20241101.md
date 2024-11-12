@@ -727,38 +727,29 @@
 -
 - [BB.]
 - **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
--
-- captain 船长 机长 n
-  caption 字幕 文字说明 n
-  subtitle 字幕 n
-  capital 首都 n 大写的 adj
-  capitalize 把首字母大写 v
-  capitalization 首字母大写 n
-  【 be capitalized. 】
-  // The first letter of the word 【 'capital' 】 should be 【 capitalized 】. 首都这个单词的第一个字母应大写
-  encapsulate 封装 v
-  capsule 胶囊 压缩 v
-  capsulate 胶囊的 adj
-  compress 压缩 v
-  socialist country. 社会主义国家 n 】 // ----- 【 social / socialist 】 // social status. / social phenomenon. / social contradiction. / social welfare
-  capitalist country. 资本主义国家 n 】 // ---- 【 capital / capitalist 】
 
 ###### Must 2024-11-12
 
 - 1
-- `【 badminton 羽毛球 n 】` // --------------------- 【 badminton court. 羽毛球场 n 】 【 badminton racket. 羽毛球拍 n 】 【 badminton match. 羽毛球比赛 n 】
-- `【 volleyball 排球 n 】`
+- `【 badminton 羽毛球 n 】` // -------------------- 【 badminton court. 羽毛球场 n 】 【 badminton racket. 羽毛球拍 n 】 【 badminton match. 羽毛球比赛 n 】
+- `【 volleyball 排球 n 】` // --------------------- 【 volleyball coach. 排球教练 】 【 beach volleyball. 沙滩排球 】 【 volley 拦截 v 齐射 n 】
+- `【 baseball 棒球 n 】`
 - `【 tennis 网球 】`
 - `【 table tennis. 乒乓球 】`
-- > 【 badminton court. 羽毛球场 n 】
-- > 【 badminton racket. 羽毛球拍 n 】
-- > 【 badminton match. 羽毛球比赛 n 】
+- > 【 badminton court. 羽毛球场 n 】 // ------------ on
+- > 【 badminton coach. 羽毛球教练 n 】
 - > 【 badminton team. 羽毛球队 n 】
+- > 【 badminton player. 羽毛球运动员 n 】
+- > 【 badminton match. 羽毛球比赛 n 】 // ---------- 【 play a match. 打比赛 v 】 // 【 play a badminton match. 打羽毛球比赛 】
+- > 【 badminton racket. 羽毛球拍 n 】 // ---------- 【 racket VS bat 】 // 【 bat 球拍 蝙蝠 】
+- 【 play a match. 打比赛 v 】
+- 【 hold a match. 举行比赛 v 】
 - _【 match 火柴 比赛 n / 匹配 v 】_
 - _【 court 法院 球场 n 】_
--
-- `【 baseball 棒球 n 】`
-- `【 volleyball 排球 n 】`
+- > 【 volleyball coach. 排球教练 n 】
+- > 【 volleyball player. 排球运动员 n 】
+- > 【 beach volleyball. 沙滩排球 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'badminton'. [badminton-羽毛球-n]
 -
 - `【 soccer = football. = soccer ball. 足球  】`
 - `【 tennis = tennis ball. 网球 】`
@@ -780,3 +771,33 @@
 - `【 opponent 对手 n 】`
 - `【 court 法院 球场 n 】`
 - **【 We and 【 opponents 】 have a 【 badminton match 】 on the 【 badminton court 】 of the 【 court 】. 我们和对手在法院的羽毛球场进行羽毛球比赛 】**
+-
+- [CC.]
+- `【 volleyball coach. 排球教练 n 】`
+- `【 volleyball player. 排球运动员 n 】`
+- `【 beach volleyball. 沙滩排球 n 】`
+- _【 on the beach. 在沙滩上 n 】_
+- **【 The 【 volleyball coach 】 and the 【 volleyball players 】 are playing the 【 beach volleyball 】 【 on 】 the beach. 排球教练和排球运动员正在沙滩打沙滩排球 】**
+-
+- [DD.]
+- `【 badminton court. 羽毛球场 】`
+- `【 badminton team. 羽毛球队 】`
+- `【 badminton coach. 羽毛球教练 】`
+- `【 badminton player. 羽毛球运动员 】`
+- `【 badminton match. 羽毛球比赛 】` // 【 play a badminton match. 打羽毛球比赛 】 【 hold a badminton match. 举行羽毛球比赛 】
+- `【 badminton racket. 羽毛球拍 】`
+- **【 The 【 badminton coach 】 and 【 badminton players 】 of this 【 badminton team 】 are 【 playing badminton match 】 【 with 】 the 【 badminton racket 】 on the 【 badminton court 】. 这个羽毛球队的羽毛球教练和羽毛球队员正在羽毛球场用羽毛球拍打羽毛球比赛 】**
+
+###### Must 2024-11-13
+
+- 1
+- `【 coworker 同事 n = colleague 】`
+- `【 coach 教练 n 】`
+- `【 cohabit 同居 v 】`
+- `【 cooperate 合作 v 】`
+- `【 coexist 共存 v 】`
+-
+- `【 cow 母牛 】`
+- `【 coward 胆小鬼 n 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'worker'. [coworker-同事-n]
