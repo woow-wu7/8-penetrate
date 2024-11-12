@@ -683,7 +683,7 @@
 ###### Must 2024-11-11
 
 - 1
-- `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】
+- `【 cap 盖子 帽子 n 】` // -------------------- 【 baseball cap. 棒球帽 】 【 gas cap. 邮箱盖 】 // 【 cup VS cap 】
 - `【 caption 字幕 说明文字 n 】` // -------------- caption VS subtitle
 - `【 captain 船长 机长 n 】`
 -
@@ -794,11 +794,11 @@
 
 - 1
 - `【 coworker 同事 n = colleague 】` // ------ 【 coworker VS colleague VS college 】
-- `【 coach 教练 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】
-- `【 cohabit 同居 v 】` // ------------------- 【 cohabitation relationship. 同居关系 n 】
+- `【 coach 教练 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】 【 badminton coach. 羽毛球教练 n 】
+- `【 cohabit 同居 v 】` // ------------------- 【 cohabitation relationship. 同居关系 n 】 // romantic relationship. // physical relationship.
 - `【 cooperate 合作 v 】`
 - `【 coexist 共存 v 】` // ------------------- 【 peacefully coexist. 和平相处 】 // 【 peaceful coexistence. 和平共处 n 】
-- _【 inhabit 居住于 栖息于 v 】_ // ----------- `cohabit/inhabit/inhibit/prohibit`
+- _【 inhabit 居住于 栖息于 v 】_ // ---------- `【 cohabit/inhabit/inhibit/prohibit 】`
 - _【 cohabit 同居 v 】_
 - _【 cohabitation 同居 n 】_ // ------------- `【 cohabitation relationship. 同居关系 】` 【 romantic relationship. 恋爱关系 】 【 physical relationship. 肉体关系 】
 - _【 in a cohabitation relationship. 处于同居关系中 】_
@@ -809,8 +809,9 @@
 - _【 peacefully coexist. 和平地相处 adv 】_
 - _【 peaceful coexistence. 和平的相处 adj 】_
 -
-- `【 cow 母牛 】`
+- `【 cow 母牛 】` // ------------------------- 【 cow 母牛 VS bull 公牛 VS calf 牛犊 】
 - `【 coward 胆小鬼 n 】`
+- > 【 ward / reward / award / coward / awkward = embarrassed / afterward / forward / backward 】
 -
 - `【 cohabit 同居 v 】`
 - `【 inhabit 居住在 栖息于 v 】`
@@ -819,10 +820,12 @@
 - > 【 resident 居民 n 】
 - > 【 president 总统 n 】
 - _【 inhabit 居住于 栖息于 v 】_
-- _【 inhibit 抑制 v 】_
+- _【 inhibit 抑制 v 】_ // --------------------- 【 inhibit growth. 抑制生长 v 】
 - _【 prohibit 禁止 v 】_
+- _【 exhibit 展览 v 展览品 n 】_ // ------------- 【 exhibition 展览 n 】 【 exhibition hall. 展览馆 】 【 art exhibition. 艺术展览 】
 -
 -
+- // TIPS: Pay attention to the pronunciation of the word 'settle'. [settle-定居-v]
 - // TIPS: Pay attention to the pronunciation of the word 'worker'. [coworker-同事-n]
 -
 - [AA.]

@@ -78,13 +78,42 @@
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
+- // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 -
 -
 - 7
-- `【 take up. 占用 v  】`
+- `【 take up. 占用 v  】` // ---------------- take up. = occupy. 占用
 - `【 occupy 占用 v 】`
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
+-
+-
+-
+-
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+-
+-
+-
+-
+- 1
+- `【 gather 聚集 收集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】
+- `【 pick 选择 挑选 摘 v 】` // ------------------ 【 carefully picked. 精心挑选 v 】
+- > 【 pick up. 捡起 v / 接人 v 】
+- > 【 pick out. 挑选出 v 】
+-
+- 2
+- `【 mature 成熟的 adj 】` // ------------------- 【 mature technology. 成熟的技术 】 【 mature person. 成熟的人 】 // 【 advanced technology. 先进的技术 】
+- `【 ripe 成熟的 adj 】` // --------------------- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
+- `【 unripe 未成熟的 adj 】`
+- _【 raw rice. 生米 n 】_ // ------------------- 【 raw material. 原材料 】 【 raw rice. 生米 】
+- _【 cooked rice. 熟米 n 】_
+- > raw material. 原材料
+- > building material. 建筑材料
+- > construction site. 建筑工地
+- > common ingredient. // active ingredient.
+- **【 Cook the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
 -
 -
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
@@ -208,6 +237,7 @@ shake -> shook过去式
 jump into. 跳进 v
 jump out. 跳出 v
 jump over. 跳过 v
+jump through. 跳穿过 v
 
 
 11.
@@ -221,6 +251,7 @@ steep 陡峭的 陡的 adj
 
 
 12.
+The light was gone. 光消失了
 The light was gone. 光消失了 = The light disappeared = the light gradually fades away.
 // gradually disappear. 逐渐消失 v
 // fade away. 逐渐消失 v
