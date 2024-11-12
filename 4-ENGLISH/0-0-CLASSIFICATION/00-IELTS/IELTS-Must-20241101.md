@@ -687,9 +687,9 @@
 - `【 caption 字幕 说明文字 n 】` // -------------- caption VS subtitle
 - `【 captain 船长 机长 n 】`
 -
-- `【 capital 首都n 大写的adj 资本n 】` // ------- 【 capital letter. 大写字母 】 【 international capital. 国际资本 】
+- `【 capital 首都n 大写的adj 资本n 】` // ------- 【 capital letter. 大写字母 】 【 international capital. 国际资本 】 // 【 capitalist country. 资本主义国家 n 】
 - `【 capsule 胶囊 n 】` // --------------------- capsule pill tablet
-- `【 capability 能力 n 】`
+- `【 capability 能力 n 】` // ------------------ capability VS ability
 - > 【 capital letter. 大写字母 】
 - > 【 international capital. 国际资本 】
 - > 【 capitalist country. 资本主义国家 】
@@ -732,24 +732,26 @@
 
 - 1
 - `【 badminton 羽毛球 n 】` // -------------------- 【 badminton court. 羽毛球场 n 】 【 badminton racket. 羽毛球拍 n 】 【 badminton match. 羽毛球比赛 n 】
-- `【 volleyball 排球 n 】` // --------------------- 【 volleyball coach. 排球教练 】 【 beach volleyball. 沙滩排球 】 【 volley 拦截 v 齐射 n 】
-- `【 baseball 棒球 n 】`
+- `【 volleyball 排球 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】 【 beach volleyball. 沙滩排球 】 【 volley 拦截 v 齐射 n 】
+- `【 baseball 棒球 n 】` // ----------------------- 【 baseball cap. 棒球帽 n 】
 - `【 tennis 网球 】`
 - `【 table tennis. 乒乓球 】`
-- > 【 badminton court. 羽毛球场 n 】 // ------------ on
-- > 【 badminton coach. 羽毛球教练 n 】
+- > 【 badminton court. 羽毛球场 n 】 // ------------ 【 on badminton court. 在羽毛球场 】 // court 法庭 n 球场 n
 - > 【 badminton team. 羽毛球队 n 】
+- > 【 badminton coach. 羽毛球教练 n 】
 - > 【 badminton player. 羽毛球运动员 n 】
-- > 【 badminton match. 羽毛球比赛 n 】 // ---------- 【 play a match. 打比赛 v 】 // 【 play a badminton match. 打羽毛球比赛 】
-- > 【 badminton racket. 羽毛球拍 n 】 // ---------- 【 racket VS bat 】 // 【 bat 球拍 蝙蝠 】
+- > 【 badminton match. 羽毛球比赛 n 】 // ---------- 【 play a match. 打比赛 v 】 【 hold a match. 举行比赛 n 】 // 【 play a badminton match. 打羽毛球比赛 】
+- > 【 badminton racket. 羽毛球拍 n 】 // ----------- 【 racket VS bat 】 【 bat VS hat 】 // 【 bat 球拍 蝙蝠 】【 hat 帽子 】 // 【 baseball hat. 帮球拍 】
 - 【 play a match. 打比赛 v 】
 - 【 hold a match. 举行比赛 v 】
 - _【 match 火柴 比赛 n / 匹配 v 】_
-- _【 court 法院 球场 n 】_
+- _【 court 法院 法庭 球场 n 】_
 - > 【 volleyball coach. 排球教练 n 】
 - > 【 volleyball player. 排球运动员 n 】
 - > 【 beach volleyball. 沙滩排球 n 】
+- _【 baseball cap. 棒球帽 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'badminton'. [badminton-羽毛球-n]
+- // TIPS: Pay attention to the pronunciation of the word 'tennis'. [tennis-网球-n]
 -
 - `【 soccer = football. = soccer ball. 足球  】`
 - `【 tennis = tennis ball. 网球 】`
@@ -791,13 +793,57 @@
 ###### Must 2024-11-13
 
 - 1
-- `【 coworker 同事 n = colleague 】`
-- `【 coach 教练 n 】`
-- `【 cohabit 同居 v 】`
+- `【 coworker 同事 n = colleague 】` // ------ 【 coworker VS colleague VS college 】
+- `【 coach 教练 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】
+- `【 cohabit 同居 v 】` // ------------------- 【 cohabitation relationship. 同居关系 n 】
 - `【 cooperate 合作 v 】`
-- `【 coexist 共存 v 】`
+- `【 coexist 共存 v 】` // ------------------- 【 peacefully coexist. 和平相处 】 // 【 peaceful coexistence. 和平共处 n 】
+- _【 inhabit 居住于 栖息于 v 】_ // ----------- `cohabit/inhabit/inhibit/prohibit`
+- _【 cohabit 同居 v 】_
+- _【 cohabitation 同居 n 】_ // ------------- `【 cohabitation relationship. 同居关系 】` 【 romantic relationship. 恋爱关系 】 【 physical relationship. 肉体关系 】
+- _【 in a cohabitation relationship. 处于同居关系中 】_
+- > 【 cohabitation relationship. 同居关系 】
+- > 【 romantic relationship. 恋爱关系 】
+- > 【 physical relationship. 肉体关系 】
+- > 【 stable relationship. 稳定的关系 】
+- _【 peacefully coexist. 和平地相处 adv 】_
+- _【 peaceful coexistence. 和平的相处 adj 】_
 -
 - `【 cow 母牛 】`
 - `【 coward 胆小鬼 n 】`
 -
+- `【 cohabit 同居 v 】`
+- `【 inhabit 居住在 栖息于 v 】`
+- > 【 settle 定居 v 】
+- > 【 reside 居住在 v 】
+- > 【 resident 居民 n 】
+- > 【 president 总统 n 】
+- _【 inhabit 居住于 栖息于 v 】_
+- _【 inhibit 抑制 v 】_
+- _【 prohibit 禁止 v 】_
+-
+-
 - // TIPS: Pay attention to the pronunciation of the word 'worker'. [coworker-同事-n]
+-
+- [AA.]
+- `【 coach 教练 n 】`
+- `【 cohabit 同居 v 】`
+- **【 【 Coaches 】 can't not 【 cohabit 】 【 with 】 players. 教练不能和球员同居 】**
+-
+- [BB.]
+- `【 cohabitation relationship. 同居关系 】`
+- `【 peacefully coexist. 和平地相处 】`
+- **【 The 【 Coach 】 and the player 【 in 】 【 cohabitation relationship 】 can not 【 peacefully coexist 】. 同居关系的教练和球员不能和平相处 】**
+-
+- [CC.]
+- `【 coworker 同事 n 】`
+- `【 coward 胆小鬼 n 】`
+- **【 My 【 coworker 】 is a 【 coward 】. 我的同事是胆小鬼 】**
+-
+- [DD.]
+- `【 badminton coach. 羽毛球教练 n 】`
+- `【 volleyball coach. 排球教练 n 】`
+- `【 coward 胆小鬼 n 】`
+- `【 dare 敢 v 】`
+- // dare to do sth. 敢做某事
+- **【 The 【 badminton coach 】 is a 【 coward 】 that he doesn't 【 dare to 】 【 cohabit 】 with the 【 volleyball coach. 】 羽毛球教练是一个胆小鬼，不敢和排球教练同居 】**

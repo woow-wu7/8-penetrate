@@ -1,5 +1,6 @@
-# RegExp 正则
+# RegExp 正则 - Regular Expression
 
+- [tutorial](https://javascript.ruanyifeng.com/stdlib/regexp.html)
 - regular expression 正则表达式
 - regular: 是 经常的 定期的 常客 规则的 的意思
 - expression: 表达 表示
@@ -255,3 +256,5 @@ m // ["b"]
 - String.prototype.search()
 - String.prototype.replace()
 - String.prototype.split()
+- // "abc_de".search(/_/) =========> 3 
+- // "abc_de_f".replace(/_/g, "-") = "abc_de_f".replaceAll(/_/g, "-") =  "abc_de_f".replace("_", "-") ===> "abc-de-f"

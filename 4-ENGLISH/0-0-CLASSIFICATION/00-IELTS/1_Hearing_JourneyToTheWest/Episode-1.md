@@ -24,8 +24,13 @@
 -
 - 2
 - `【 split open. 裂开 分裂 v 】`
-- `【 split up. 分手 分开 】` = break up
+- `【 split up. 分手 分开 】` = break up. 分手
 - `【 divorce 离婚 v n 】`
+- > 【 split 分裂 分离 v 】
+- > String.prototype.split()
+- > String.prototype.search()
+- > String.prototype.match()
+- > String.prototype.replace()
 - [AA.]
 - **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
 - [BB.]

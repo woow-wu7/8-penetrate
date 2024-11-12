@@ -1,6 +1,11 @@
 # 跨域
 
 - 联系: Security 安全性相关的 XSS 攻击
+- 扩展
+  - secure 安全的 adj / 安全 n
+  - security 安全 n
+  - domain 领域 域名
+  - // TIPS: Pay attention to the pronunciation of the word 'domain'. [domain-领域-域名-n]
 
 ## (2) 跨域通信
 

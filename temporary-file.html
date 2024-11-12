@@ -416,6 +416,12 @@
       buttonCreate.addEventListener("click", runFetch, false);
       buttonCreate.innerHTML = `XMLHttpRequest.request() - click here to get an image.`;
       document.body.appendChild(buttonCreate);
+
+      // -----------------------------------------
+      // 23 cross domain communication
+      // - 1. new BroadcastChannel()
+      // - 2. window.open() => postmessage + onmessage
+      // - 3. storage event
     </script>
   </body>
 </html>
