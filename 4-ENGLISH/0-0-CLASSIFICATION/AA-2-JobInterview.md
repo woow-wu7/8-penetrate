@@ -79,6 +79,7 @@
 - `【 social insurance. 社保 】`
 - `【 social status. 社会地位 】`
 - `【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
+- _【 generate contradiction. 产生矛盾 v 】_
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - > 【 social security. = social insurance. 社保 】
 - > 【 social status. 社会地位 】

@@ -679,6 +679,16 @@
 - `【 humid 潮湿的 adj 】` =
 - `【 humidifier 加湿器 n 】`
 - **【 The 【 humid 】 weather doesn't need a 【 humidifier 】. 潮湿的天气不需要加湿器 】**
+-
+- [FF.]
+- `【 blown out by. 被吹出来 】`
+- `【 humid 潮湿的 adj 】` = moist = damp.
+- `【 humidifier 加湿器 n 】`
+- 【 condition 条件 】
+- 【 air conditioner. 空调 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'condition'. [condition-条件-n]
+- **【 A 【 humidifier 】 can make the hot air 【 blown out by 】 the 【 air conditioner 】 become 【 humid 】. 加湿器可以让空调吹出的热风变得潮湿 】**
+- **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 
 ###### Must 2024-11-11
 
@@ -738,10 +748,11 @@
 - `【 table tennis. 乒乓球 】`
 - > 【 badminton court. 羽毛球场 n 】 // ------------ 【 on badminton court. 在羽毛球场 】 // court 法庭 n 球场 n
 - > 【 badminton team. 羽毛球队 n 】
-- > 【 badminton coach. 羽毛球教练 n 】
+- > 【 badminton coach. 羽毛球教练 n 】// ----------- [coach/coworker/cohabit/inhabit/coexist/cow/coward]
 - > 【 badminton player. 羽毛球运动员 n 】
 - > 【 badminton match. 羽毛球比赛 n 】 // ---------- 【 play a match. 打比赛 v 】 【 hold a match. 举行比赛 n 】 // 【 play a badminton match. 打羽毛球比赛 】
 - > 【 badminton racket. 羽毛球拍 n 】 // ----------- 【 racket VS bat 】 【 bat VS hat 】 // 【 bat 球拍 蝙蝠 】【 hat 帽子 】 // 【 baseball hat. 帮球拍 】
+- > 【 badminton club. 羽毛球俱乐部 n 】
 - 【 play a match. 打比赛 v 】
 - 【 hold a match. 举行比赛 v 】
 - _【 match 火柴 比赛 n / 匹配 v 】_
@@ -755,6 +766,8 @@
 -
 - `【 soccer = football. = soccer ball. 足球  】`
 - `【 tennis = tennis ball. 网球 】`
+- `【 rugby 橄榄球 】`
+- `【 meatball 肉丸子 n 】`
 -
 - `【 bat 蝙蝠 球拍 n 】`
 - `【 bat = racket. 球拍 】`

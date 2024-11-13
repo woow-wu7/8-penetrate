@@ -115,6 +115,7 @@
 - _【 internal contradiction. 内部矛盾 n 】_
 - _【 social contradiction. 社会矛盾 n 】_
 - _【 family contradiction. 家庭矛盾 n 】_
+- _【 generate contradiction. 产生矛盾 v 】_ // `【 generate contradiction. 产生矛盾 v 】`
 - > 【 full scholarship. 全额奖学金 n 】
 - > 【 be full of. 充满 】
 - _【 social 社会的 adj 】_ // ----------------- 【 social status. 社会地位 】
@@ -207,6 +208,7 @@
 - `【 internal contradiction. 内部矛盾 n 】`
 - `【 get along with sb. 与某人相处 】`
 - `【 get along peacefully with sb. 与某人和平相处 】`
+- _【 generate contradiction. 产生矛盾 v 】_
 - **【 They had many 【 contradictions 】 【 in the process of 】 【 getting along 】. 他们在相处的过程中有很多矛盾 】**
 - **【 We should learn to 【 get along peacefully with 】 others. 我们要学会与别人和平相处 】**
 - // -- 【 get along with sb. 与某人相处 】

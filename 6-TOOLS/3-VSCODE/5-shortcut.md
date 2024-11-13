@@ -8,14 +8,17 @@
 快捷键设置: command+k / command+s
 主题设置: command+k / command+t
 设置: command + ,
+自动唤醒灯泡: command + .
+本文件所有函数面板: command + shift + .
+本文件所有函数面板(可查询): command + shift + o
 
 查找左侧文件: command + shift + f
 查找: command + f
 查找后下一个: command + g
 查找后上一个: command + shift + g
 
-同时选择上一行相同位置 (Command + Option + Up)
-同时选择下一行相同位置(Command + Option + Down)
+同时选择上一行相同位置 ( Command + Option + Up )
+同时选择下一行相同位置 ( Command + Option + Down )
 
 返回上一步: control + -
 从上一步返回: control + shift + -
@@ -65,7 +68,6 @@ command + . 更多操作
 查找下一个书签: command + option + L
 
 折叠代码块：command + option + {
-自动唤醒灯泡: ⌘。
 
 插入多行光标: Command + Option + 方向键上/下
 

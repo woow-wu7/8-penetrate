@@ -1,7 +1,7 @@
 ##### (一) Questions
 
 // [1,2,3].map(parseInt) -------------- [1, NaN, NaN]
-// [1,7,11].map(parseInt) -------- [1, NaN, 3]
+// [1,7,11].map(parseInt) ------------- [1, NaN, 3]
 // [10,10,10,10].map(parseInt) -------- [10, NaN, 2, 3]
 
 ##### (二) analyze 分析
@@ -14,10 +14,11 @@ A.
 相当于
 [1, 2, 3].map((value, index) => parseInt(value, index))
 
-parseInt(1, 0) // 1 分析：radix=0，根据前面的字符串来判断，不是 0 或 0x 开头，都以 10 进制来解析 -- 表示把八进制1转成十进制 => 1
-parseInt(2, 1) // NaN ------- 第二个参数 radix 在 2-36 之间
+parseInt(1, 0) // 1 --------- 分析：radix=0，根据前面的字符串来判断，不是 0 或 0x 开头，都以 10 进制来解析 -- 表示把八进制1转成十进制 => 1
+parseInt(2, 1) // NaN ------- 第二个参数 radix 必须在 2-36 之间
 parseInt(3, 2) // NaN ------- 3 不能作为二进制
 // 最终结果 [1, NaN, NaN]
+// 特例: 因为 parseInt(string, radix) 的第二个参数radix， 必须在 2-36之间，而数组的index是1，所以数组的 ( 第二个元素 ) 通过 ( map(parseInt) ) 始终是 ( NaN )
 ---
 
 
@@ -79,4 +80,11 @@ parseInt(string, radix)
   - parseInt("15e2", 10);
   - parseInt("15px", 10);
   - parseInt("12", 13);
+```
+
+##### English
+
+```
+radix 基数
+parse 语法分析
 ```

@@ -80,6 +80,7 @@
 - > 【 humid weather. 潮湿的天气 n 】
 - // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
+- **【 A 【 humidifier 】 can make the hot air 【 blown out by 】 the 【 air conditioner 】 become 【 humid 】. 加湿器可以让空调吹出的热风变得潮湿 】**
 -
 -
 - 7
@@ -98,22 +99,48 @@
 -
 -
 - 1
-- `【 gather 聚集 收集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】
+- `【 gather 聚集 收集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 n 】 // safety reason.
 - `【 pick 选择 挑选 摘 v 】` // ------------------ 【 carefully picked. 精心挑选 v 】
 - > 【 pick up. 捡起 v / 接人 v 】
 - > 【 pick out. 挑选出 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
 -
 - 2
 - `【 mature 成熟的 adj 】` // ------------------- 【 mature technology. 成熟的技术 】 【 mature person. 成熟的人 】 // 【 advanced technology. 先进的技术 】
 - `【 ripe 成熟的 adj 】` // --------------------- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
 - `【 unripe 未成熟的 adj 】`
-- _【 raw rice. 生米 n 】_ // ------------------- 【 raw material. 原材料 】 【 raw rice. 生米 】
+- _【 raw rice. 生米 n 】_ // ------------------- 【 raw material. 原材料 】 【 raw rice. 生米 】 // building material.建筑材料 // construction site.建筑工地
 - _【 cooked rice. 熟米 n 】_
 - > raw material. 原材料
 - > building material. 建筑材料
 - > construction site. 建筑工地
 - > common ingredient. // active ingredient.
 - **【 Cook the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
+-
+- 3
+- `【 reveal 揭示 揭露 v 】` // -------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
+- `【 generate 产生 生成 v 】` // ----------- `【 generate contradiction. 产生矛盾 v 】` // _【 form 形成 形式 表单 】_ _【 generate 产生 生成 v 】_
+- `【 contradiction 矛盾 n 】` // ----------- 【 internal contradiction. 内部矛盾 】 【 social contradiction. 社会矛盾 】 【 family contradiction. 家庭矛盾 】
+- `【 conflict 矛盾 冲突 v n 】` // ---------- 【 armed conflict. 武装冲突 v 】
+- _【 reveal the truth. 揭示真相 】_
+- _【 reveal the identity. 揭露身份 】_
+- > 【 identify 识别 v 】 // ---------------- 【 identify the identity. 识别身份 n 】
+- > 【 identity 身份 n 】
+- 【 as well. 也 adv 】
+- 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
+- 2. **【 They exposed many problems and 【 generated 】 the 【 serious 】 【 family conflicts 】. 他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾 】**
+- **【 He 【 revealed his flaws 】 and his 【 identity 】 was 【 revealed 】 【 as well 】. 他露出了破绽，他的身份也被揭露了 】**
+- // -- 【 generate 产生 生成 v 】
+- // -- 【 generate contradiction. 产生矛盾 v 】
+- // -- identify 识别 v
+- // -- identity 身份 n
+- // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v]
+-
+- 4
+- `【 magic 魔法 n / 魔术的 dj 】`
+- `【 logic 逻辑 n 】`
+- **【 【 Magic 】 has no 【 logic 】 【 at all 】. 魔法没有任何逻辑 】**
+- // -- 【 not at all. 一点也不 】
 -
 -
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
@@ -133,7 +160,7 @@
 // pick out. 挑选出
 -
 // pick up. 捡起 接某人 v // --------------- We 【 put down 】 the 【 baggages 】 and went to 【 airport 】 to 【 pick up 】 the 【 tourists 】.
-// take up. 占用  = occupy. // ----------------------- 【 take up 】 your time. 占用你的时间
+// take up. 占用  = occupy. // ----------- 【 take up 】 your time. 占用你的时间
 // pull up. 停车 // ----------------------- Please【 pull up 】 the car 【 close to 】 the 【 gas pump 】.
 // speed up. 加速
 // fill up. 装满
@@ -143,6 +170,7 @@
 【 ripe 成熟的adj 】
 【 ripen 成熟 v 】
 -
+【 reveal 揭示 揭露 漏出 v 】 // ----------- 【 reveal the truth. 揭示真相 v 】 【 reveal the identity. 揭露身份 n 】
 【 flesh 果肉 肉体 】
 -
 I'm kind of hungry. 我有点饿
@@ -150,7 +178,7 @@ I get kind of angry. 我有点生气
 -
 // 1. The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了
 // 1. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
-// 1. The 【 overripe 】 fruit 【 split open 】, 【 revealing 】 its juicy 【 flesh 】. 熟透的水果裂开了，露出了多汁的果肉
+// 1. The 【 overripe 】 fruit 【 split open 】 and 【 reveal 】 its juicy 【 flesh 】. 熟透了的水果裂开了，露出了它多汁的果肉
 // 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
 // 3. We use 【 mature technology 】 to 【 pick 】 【 ripe fruits 】. 我们用成熟的技术采摘成熟的果实
 // The fruits that he 【 gathered 】 were 【 ripe fruits 】. 他采集的水果是成熟的果实
@@ -247,14 +275,20 @@ steep 陡峭的 陡的 adj
 【 steep slope. 陡坡 n 】
 -
 // 1. The 【 cliff 】 is 【 steep 】. 这悬崖很陡
-// 2. Behind the 【 steep slope 】 is a 【 steep cliff 】.  陡坡后面是陡峭的悬崖
+// 2. 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】.  陡坡后面是陡峭的悬崖
 
 
 12.
-The light was gone. 光消失了
+The light was 【 gone 】. 光消失了
 The light was gone. 光消失了 = The light disappeared = the light gradually fades away.
 // gradually disappear. 逐渐消失 v
 // fade away. 逐渐消失 v
+
+
+13.
+magic 魔法 n
+logic 逻辑 n
+// 【 Magic 】 has no 【 logic 】 【 at all 】. 魔法没有任何逻辑
 
 
 swing 摆动v 秋千n
