@@ -6,11 +6,30 @@ Monkey splashed through the waterfall and landed in a large cave.
 // waterfall 瀑布
 // cave 山洞
 
-His eyes opened wide. 他瞪大了眼睛
-// wide 宽的
+His eyes opened 【 wide 】. 他瞪大了眼睛
+// wide 宽的 adj
+// narrow 窄的 adj
+// width 宽度 n
 
 The cave was filled with bamboo, trees, and beautiful flowers. 洞里有很多竹子，树，还有美丽的花
 // bamboo 竹子
+// panda 熊猫
+// chopsticks 筷子
+// -
+// 【 stick 棍n / 粘贴v 】---------------------------- 【 walking stick. 拐杖 n 】 【 selfie stick. 自拍杆 n 】 【 chopstick 筷子 】
+// 【 sticky 粘性的 adj 】---------------------------- 【 sticky note. 便签 n 】
+// -
+// 【 chopsticks 筷子 】
+// 【 walking stick. 拐杖 n 】
+// 【 selfie stick. 自拍杆 n 】
+// 【 stick shift. 换挡杆 n 】
+// -
+// 【 a stick of incense. 一根香 n 】----------------- 【 light a stick of incense. 点一根香 】
+// 【 Light a stick of incense. 点一根香 】
+// -
+// incense 香 n
+// license 执照, 许可证
+// perfume 香水
 
 Moss covered the walls. 洞壁上长满了青苔
 // moss 苔藓 青苔

@@ -3,6 +3,7 @@
 ```
 1.
 involve 涉及 有关 v
+evolve 发展 演变 v
 【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】
 【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】
 -
@@ -30,12 +31,16 @@ drunk driving. 酒驾
 lay off. 裁员 v
 layoff 裁员 n
 -
-// -- 1.[involve]: This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
-// -- 1.[involve]: Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
+// -- 1. This war【 involves 】 【 multiple 】 countries. 这场战争涉及到多个国家
+// -- 1. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
 // -- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
-// -- 3.[involve]:【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
-// -- 4.[involve]: Two people 【 are involved 】. 涉及两人
-// -- 5.[valid]: The offer is 【 valid 】 before 【 the end of 】 this month. 这个offer在这个月底前有效
+// -- 3.【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
+// -- 4. Two people 【 are involved 】. 涉及两人
+// -- 5. [valid]: The offer is 【 valid 】 before 【 the end of 】 this month. 这个offer在这个月底前有效
+//
+// -- 1. 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】
+// -- 2. 【 The 【 army 】 is a type of 【 armed forces 】. 军队是一种武装力量 】
+//
 // --【 This man was 【 involved 】 in 【 drunk driving 】 accident. 这个男人涉及到一起酒驾事故
 // ---- 【 drunk driving. 酒驾 】
 // ---- 【 this round of. 这一轮 】

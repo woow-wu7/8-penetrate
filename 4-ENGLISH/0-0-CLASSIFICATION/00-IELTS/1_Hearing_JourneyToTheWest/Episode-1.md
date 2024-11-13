@@ -26,6 +26,7 @@
 - `【 split open. 裂开 分裂 v 】`
 - `【 split up. 分手 分开 】` = break up. 分手
 - `【 divorce 离婚 v n 】`
+- split VS conflict 冲突争执
 - > 【 split 分裂 分离 v 】
 - > String.prototype.split()
 - > String.prototype.search()
@@ -118,23 +119,48 @@
 - **【 Cook the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
 -
 - 3
-- `【 reveal 揭示 揭露 v 】` // -------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
-- `【 generate 产生 生成 v 】` // ----------- `【 generate contradiction. 产生矛盾 v 】` // _【 form 形成 形式 表单 】_ _【 generate 产生 生成 v 】_
-- `【 contradiction 矛盾 n 】` // ----------- 【 internal contradiction. 内部矛盾 】 【 social contradiction. 社会矛盾 】 【 family contradiction. 家庭矛盾 】
-- `【 conflict 矛盾 冲突 v n 】` // ---------- 【 armed conflict. 武装冲突 v 】
+- `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
+- `【 generate 产生 生成 v 】` // ------------- `【 generate contradiction. 产生矛盾 v 】` // _【 form 形成 形式 表单 】_ _【 generate 产生 生成 v 】_
+- `【 contradiction 矛盾 n 】` // ------------- 【 internal contradiction. 内部矛盾 】 【 social contradiction. 社会矛盾 】 【 family contradiction. 家庭矛盾 】
+- `【 conflict 矛盾 冲突 v n 】` // ------------ 【 armed conflict. 武装冲突 v 】 // arm VS armed VS army
 - _【 reveal the truth. 揭示真相 】_
 - _【 reveal the identity. 揭露身份 】_
-- > 【 identify 识别 v 】 // ---------------- 【 identify the identity. 识别身份 n 】
+- _【 identify the identity. 识别身份 】_
+- > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
 - > 【 identity 身份 n 】
+- // split VS conflict 冲突争执
+- // arm 手臂 n 武装 v
+- // armed 武装的 adj // ---------------------- 【 armed conflict. 武装冲突 v 】 【 armed forces. 武装力量/武装部队 n 】
+- // army 军队
 - 【 as well. 也 adv 】
 - 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
-- 2. **【 They exposed many problems and 【 generated 】 the 【 serious 】 【 family conflicts 】. 他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾 】**
+- 2. **【 They 【 exposed 】 many problems and 【 generated 】 the 【 serious 】 【 family conflicts 】. 他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾 】**
+- 3. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
 - **【 He 【 revealed his flaws 】 and his 【 identity 】 was 【 revealed 】 【 as well 】. 他露出了破绽，他的身份也被揭露了 】**
 - // -- 【 generate 产生 生成 v 】
 - // -- 【 generate contradiction. 产生矛盾 v 】
 - // -- identify 识别 v
-- // -- identity 身份 n
+- // -- identity 身份 n // ---------------------- _【 identity the identity. 识别身份 v 】_
 - // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v]
+- AA.
+- _【 evolve 发展 演变 v 】_ // ------------------- 【 evolve into. 演变成 】
+- _【 involve 涉及 有关 v 】_
+- _【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】_
+- _【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】_
+- 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+- 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
+- 2. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
+- 2.【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
+- BB.
+- _【 arm 手臂 n 武装 v 】_
+- _【 armed 武装的 adj 】_ // --------------------- 【 armed conflict. 武装冲突 】 【 armed forces. 武装力量 】 // 【 split open. 】 【 split up. = break up. 】
+- _【 army 军队 n 】_
+- > 【 armed conflict. 武装冲突 】
+- > 【 armed forces. 武装力量 】
+- 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+- 2. **【 The 【 army 】 is a type of 【 armed forces 】. 军队是一种武装力量 】**
+- // -- 【 evolve into. 演变成 】
+-
 -
 - 4
 - `【 magic 魔法 n / 魔术的 dj 】`
