@@ -118,6 +118,8 @@
 - > common ingredient. // active ingredient.
 - **【 Cook the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
 -
+-
+-
 - 3
 - `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
 - `【 generate 产生 生成 v 】` // ------------- `【 generate contradiction. 产生矛盾 v 】` // _【 form 形成 形式 表单 】_ _【 generate 产生 生成 v 】_
@@ -128,9 +130,9 @@
 - _【 identify the identity. 识别身份 】_
 - > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
 - > 【 identity 身份 n 】
-- // split VS conflict 冲突争执
+- // split VS conflict 冲突争执 // ------------ 【 split open. 裂开 】 【 split up. 分手 】 // 【 armed conflict. 武装冲突 】 【 military conflict. 武装冲突 】
 - // arm 手臂 n 武装 v
-- // armed 武装的 adj // ---------------------- 【 armed conflict. 武装冲突 v 】 【 armed forces. 武装力量/武装部队 n 】
+- // armed 武装的 adj // ---------------------- 【 armed conflict. 武装冲突 v 】 【 armed forces. 武装力量/武装部队 n 】 // `【 military conflict. 军事冲突 】`
 - // army 军队
 - 【 as well. 也 adv 】
 - 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
@@ -142,7 +144,8 @@
 - // -- identify 识别 v
 - // -- identity 身份 n // ---------------------- _【 identity the identity. 识别身份 v 】_
 - // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v]
-- AA.
+-
+- [AA.]
 - _【 evolve 发展 演变 v 】_ // ------------------- 【 evolve into. 演变成 】
 - _【 involve 涉及 有关 v 】_
 - _【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】_
@@ -151,15 +154,40 @@
 - 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 - 2. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
 - 2.【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
-- BB.
+-
+- [BB.]
 - _【 arm 手臂 n 武装 v 】_
 - _【 armed 武装的 adj 】_ // --------------------- 【 armed conflict. 武装冲突 】 【 armed forces. 武装力量 】 // 【 split open. 】 【 split up. = break up. 】
 - _【 army 军队 n 】_
-- > 【 armed conflict. 武装冲突 】
 - > 【 armed forces. 武装力量 】
+- > 【 armed conflict. 武装冲突 】
+- `【 military conflict. 军事冲突 】`
+- `【 military action. 军事行动 】`
+- `【 military training. 军事训练 】`
+- `【 military means. 军事手段 】`
+- `【 military shows. 军事节目 】`
 - 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
 - 2. **【 The 【 army 】 is a type of 【 armed forces 】. 军队是一种武装力量 】**
+- 3. **【 【 Armed conflicts 】 are 【 not necessarily 】 a 【 military conflict 】. 武装冲突不一定是军事冲突 】**
 - // -- 【 evolve into. 演变成 】
+- // -- 【 not necessarily. 不一定 】
+-
+- [CC.]
+- _【 not necessarily. 不一定 】_
+- _【 reveal the truth. 揭示真相 】_
+- _【 reveal the identity. 揭露身份 】_
+- `【 armed conflict. 武装冲突 】`
+- `【 military conflict. 军事冲突 】`
+- **【 【 Revealing the truth 】 is 【 not necessarily 】 【 revealing the identity 】. 揭露真相不一定是揭露身份 】**
+- **【 【 Armed conflicts 】 are 【 not necessarily 】 a 【 military conflict 】. 武装冲突不一定是军事冲突 】**
+-
+- [DD.]
+- `【 military training. 军事训练 】`
+- `【 military means. 军事手段 】`
+- `【 military conflict. 军事冲突 】`
+- _【 means 方法 手段 n 】_
+- **【 The 【 purpose 】 of the 【 military training 】 is to use 【 military means 】 to 【 take military actions 】 to solve 【 military conflicts 】. 军事训练的目的是用军事手段采取军事行动解决军事冲突 】**
+- **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
 -
 -
 - 4

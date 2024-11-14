@@ -422,6 +422,22 @@
       // - 1. new BroadcastChannel()
       // - 2. window.open() => postmessage + onmessage
       // - 3. storage event
+
+      // -----------------------------------------
+      // 24 map parseInt
+      const parseIntRes = [1, 2, 3].map((value, index) => parseInt(value, index)); // [1, NaN, NaN]
+      const parseIntRes2 = [1, 2, 11, 11].map((value, index) => parseInt(value, index)); // [1, NaN, 3, 4]
+      console.log("parseIntRes: ", parseIntRes);
+      console.log("parseIntRes2: ", parseIntRes2);
+
+      // -----------------------------------------
+      // 23 arrow function.
+      // - 1. this: It don't has this object.
+      // - 2. It can not constructor. new x()
+      // - 3. The call apply bind functions can not be called by arrow function.
+      // - 4. arguments
+      // - 5. generator yield
+      // - 6. It don't has the prototype 属性
     </script>
   </body>
 </html>

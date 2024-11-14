@@ -454,9 +454,12 @@
 - [BB.]
 - `【 stimulate demand. 刺激需求  】`
 - `【 stimulate consumption. 刺激消费  】`
-- > 【 main mean. 主要手段 】
+- > 【 main means. 主要手段 】
+- > 【 military means. 军事手段 】
 - **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
-- // -- `【 main mean. 主要手段 】`
+- // -- `【 main means. 主要手段 】`
+- // -- `【 military means. 军事手段 】`
+- // -- ``
 - // -- 【 main way. 主要方式 主要途径 】
 - // -- 【 main measure. 主要措施 】
 - // -- 【 main method. 主要方法 】
@@ -567,6 +570,7 @@
 - _【 pursue happiness. 追求幸福 】_
 - > [fugitive-逃犯-n]
 - > [refugee-难民-n]
+- > [refuge-避难所-n]
 - > [crime-犯罪--n] // ---------------------------- **【 crime scene. 犯罪现场 n 】** 【 accident scene. 事故现场 】 // 【 common sense. 】 【 make sense. 】
 - > [criminal-犯罪的-adj-罪犯-n] // ---------------- **【 criminal record. 犯罪记录 】**
 - > 【 crime scene. 犯罪现场 】 // 【 accident scene. 事故现场 】

@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Arrow Function.</title>
   </head>
   <body>
     <script>
-      // 箭头函数
+      // 箭头函数 Arrow Function.
 
       // 1
       // this
@@ -19,9 +19,9 @@
 
       // 2
       // 箭头函数的 6 个特性
-      // 箭头函数 - 没有自己的this
-      // 箭头函数 - 因为没有this，所以不能作为构造函数，即不能通过 new 的方式调用
-      // 箭头函数 - 因为没有this，所以 call，apply，bind 对箭头函数失效
+      // 箭头函数 - 没有自己的 this  => 箭头函数中的this指的是：箭头函数定义时所在作用域的，上层作用域中的this
+      // 箭头函数 - 因为没有this，所以不能作为 ( 构造函数 )，即不能通过 ( new ) 的方式调用
+      // 箭头函数 - 因为没有this，所以 ( call，apply，bind ) 对箭头函数失效
       // 箭头函数 - 不能使用 arguments 对象，可以使用 rest 参数代替 ( arguments 是参数的意思 )
       // 箭头函数 - 不能使用 yield 命令，即不能作为 Generator 函数
       // 箭头函数 - 箭头函数没有 prototype 属性
@@ -50,10 +50,10 @@
         },
         c: () => console.log(this.a),
       };
-      obj.b(); // 1，普通函数/对象方法/中的this，在函数调用时确定指向，即this指代的是函数调用时所在的对象
+      obj.b(); // 1，普通函数/对象方法/中的this，在函数或方法 调用 时确定指向，即this指代的是函数调用时所在的对象
       obj.c();
       // 100,
-      // 箭头函数中的this，是箭头函数定义时所在对象的上层作用域中的this
+      // 箭头函数中的this，是箭头函数定义时所在对象的上层作用域中的this => ( 全局作用域 函数作用域 块级作用域 )
       // ====> c箭头函数定义时所在的作用域是 ( 块级作用域 )，块级作用域的上层作用域是window，window.a=100，所以这里输出100
 
       // --------------------------------------------------------------
@@ -92,19 +92,46 @@
 
       // --------------------------------------------------------------
       // 4
-
       // window.address = "address";
       const objCC = {
         address: "shanghai",
       };
       const cc = () => {
-        console.log(
-          "this.address -> 箭头函数对bind，call，apply将失效",
-          this.address
-        );
+        console.log("this.address -> 箭头函数对bind，call，apply将失效", this.address);
       };
       cc.call(objCC); // undefined
       // call,apply,bind并不能绑定箭头函数中的this，而是和原来的this一样，即 ( 箭头函数声明时所在所用域 ) 的 ( 上层作用域中的 this )
+
+      // --------------------------------------------------------------
+      // --------------------------------------------------------------
+      // --------------------------------------------------------------
+      // --------------------------------------------------------------
+      // 5
+      const callObj = { test: "woow_wu7777" };
+
+      const testArguments = function (name) {
+        console.log("name", name);
+        console.log("arguments", arguments); // 存在
+        console.log("prototype", testArguments.prototype); // --- 存在
+        console.log("this.test", this.test); // ----------------- woow_wu7777
+      };
+      testArguments.call(callObj, "woow_wu7");
+
+      const testArguments2 = (name) => {
+        console.log("name2", name);
+        console.log("prototype2", testArguments2.prototype); // -- 箭头函数，没有 arguments 对象
+        console.log("this.test2", this.test); // ----------------- undefined , 并不是 woow_wu7777 => 说明箭头函数通过 call apply bind 将会失效
+        // console.log("arguments", arguments); // --------------- 报错  Uncaught ReferenceError: arguments is not defined
+
+        // 箭头函数的 6 个特性
+        // 箭头函数 - 没有自己的 this => 箭头函数中的this指的是：箭头函数定义时所在作用域的，上层作用域中的this
+        // 箭头函数 - 因为没有this，所以不能作为 ( 构造函数 )，即不能通过 ( new ) 的方式调用
+        // 箭头函数 - 因为没有this，所以 ( call，apply，bind ) 对箭头函数失效
+        // 箭头函数 - 不能使用 arguments 对象，可以使用 rest 参数代替 ( arguments 是参数的意思 )
+        // 箭头函数 - 不能使用 yield 命令，即不能作为 Generator 函数
+        // 箭头函数 - 箭头函数没有 prototype 属性
+      };
+      testArguments2.call(callObj, "woow_wu7");
     </script>
   </body>
 </html>
