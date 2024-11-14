@@ -17,7 +17,10 @@
 - 签名: addEventListener(type, listenerObject[, optionsObject])
   - type: 事件类型
   - listener: ( 监听函数 ) 或者 ( 是一个具有 handleEvent 方法的对象 )
-  - useCapture: ( 是否在捕获阶段触发的 boolean 值 ) 或者 ( 一个配置对象，具有 capture, once, passive )
+  - useCapture:
+    - boolean: ( 是否在捕获阶段触发的 boolean 值 )
+    - configurationObject: ( 一个配置对象，具有 capture, once, passive )
+    - 使用 ( 配置对象 ) 的 ( 好处 ) 是: 可以配置，比如 是否在捕获阶段触发, 是否只触发一次, 是否阻止默认行为
 - 作用: 在当前节点或对象上，定义一个特定事件的监听函数，触发事件，就会触发事件的监听函数
 - 特点:
   - 1. **可以对 ( 同一个节点 ) 的 ( 同一个事件 )，可以绑定不同的监听函数**
@@ -41,6 +44,14 @@
   - true: 其他情况都是返回 true
 - 注意点
   - 如果 dispatchEvent 方法的参数为空，或者不是一个有效的事件对象，将报错
+
+```dispatchEvent
+const button = window.document.getElementById("button");
+
+const eventInstance = new Event("click");
+const res = button.dispatchEvent(eventInstance); // 返回一个boolean值，只要没有调用 event.preventDefault 就返回true
+console.log("res: ", res);
+```
 
 # (二) 绑定事件监听的三种方式
 
@@ -112,3 +123,14 @@ EventTarget.addEventListener()
 
 - CustomEvent 接口用于生成自定义的事件实例
 - 那些浏览器预定义的事件，虽然可以手动生成，但是往往不能在事件上绑定数据，如果需要在触发事件的同时，传入指定的数据，就可以使用 CustomEvent 接口生成的自定义事件对象
+
+```
+ // 7
+// 自定义事件
+const customButton = window.document.getElementById("custom");
+
+const customEventInstance = new CustomEvent("77", { detail: "woow_wu7" }); // 注意 new CustomEvent() 和 new Event() 的区别 -> event.detail的区别
+
+customButton.addEventListener("77", (e) => console.log("自定义事件的e.detail =>", e.detail)); // e.target e.currentTarget e.detail
+customButton.dispatchEvent(customEventInstance);
+```

@@ -6,11 +6,14 @@
 
 ```
 anchor 锚
+protocol 协议 n
+domain 领域 域 n
+// TIPS: Pay attention to the pronunciation of the word 'domain'. [domain-领域-域-n]
 ```
 
 ### 前置知识
 
-```1111111
+```1111111 - URL的组成
 1
 URL的组成
 ---
@@ -27,7 +30,7 @@ http://www.baidu.com:80/stu/index.html?name=xxx&age=25#teacher
 - hash: 哈希值 => #开头到结尾，本例是：teacher
 ```
 
-```2222222
+```2222222 - DOMContentLoaded事件 和 load事件
 2
 DOMContentLoaded事件 和 load事件
 ---
@@ -36,7 +39,7 @@ DOMContentLoaded事件 和 load事件
 - load: 需要 DOM，样式，脚本，图片，视频，等 ( 所有资源 ) 都加载完成时才会触发，即 ( 页面加载完成时触发 )
 ```
 
-```3333333
+```3333333 - window.history
 3
 window.history 对象
 ---
@@ -68,7 +71,7 @@ popstate
   - history.go()， history.back()， history.forward() 等
 ```
 
-```
+```4444444 - void(0)
 4
 void(0) === undefined // true
 void(0)的好处
@@ -182,6 +185,14 @@ hashchange事件
     - 3. 当地址栏的 path 改变后，我们就可以通过 ( window.location.pathname 获取最新的 path，即 data-href 属性的值 )，然后在 routes 中匹配 path，匹配上就更新 component
   - 第二条线
     - 如果是 ( 浏览器的前进，后退按钮 )，或者通过 ( window.history.go() back() forward() 等触发时，我们需要执行 popstate 事件 ) -- 比如：window.history.go(-1)
+- 需要的API
+  - window.history.pushState({}, null, path)
+  - window.history.replaceState()
+  - popstate 事件 -> 1.浏览器前进，后退按钮会触发 2.window.history.go()/back()/forward()会触发
+- 问题: 为什么 history 路由需要 服务器 的支持？
+- 回答:
+  - 1. (file://)文件协议: 在本地通过浏览器打开 html 文件是 ( file://协议，而 file//协议是 - 不允许直接修改 window.history.pushState() )
+  - 2. window.history.pushState() 和历史记录相关的操作需要 HTTP 协议的支持，在文件协议 (file://) 下，浏览器会限制一些操作，包括修改历史记录
 
 ```
 <!DOCTYPE html>

@@ -22,6 +22,8 @@
     - Content-Language
     - Last-Event-ID
     - Content-Type:只限三个值 application/x-www-form-urlencoded multipart/form-data text/plain
+  - // Expand Knowledge
+  - // http1.1 => DELETE PUT PATCH OPTIONS CONNECT
 - 特点
   - **请求头: Origin**
     - Origin 字段用来说明，本次请求来自哪个源（协议 + 域名 + 端口）
@@ -61,8 +63,9 @@
 - JSONP
 - cors
 - nginx 反向代理
-  - **nginx.conf/http/server/location/proxy_pass**
+  - **【 nginx.conf/http/server/location/proxy_pass 】**
 - 前端本地服务 proxy 设置
+  - 通过本地启动 devServer 服务器来设置 proxy
 
 ```
 nginx反向代理

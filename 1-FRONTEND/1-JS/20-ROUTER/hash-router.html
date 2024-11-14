@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Hash Router.</title>
   </head>
   <body>
     <a href="#/home">home</a>
@@ -33,23 +33,25 @@
         routeMap = {};
 
         createRouteMap = (routes) => {
-          routes.forEach((route) => {
-            this.routeMap[route.path] = () =>
-              (document.getElementById("content").innerHTML = route.content);
+          routes.forEach(({ path, content }) => {
+            this.routeMap[path] = () => (document.getElementById("content").innerHTML = content);
           });
         };
 
         init = () => {
-          window.addEventListener("load", this.updateView, { capture: false });
+          // Please compare "load" event with "DOMContentLoaded" event.
+          window.addEventListener("load", this.updateView, { capture: false, once: false });
           window.addEventListener("hashchange", this.updateView, {
             capture: false,
+            once: false,
+            passive: false, // 表示监听函数不会调用事件的preventDefault方法
           });
         };
 
         updateView = () => {
           const hash = window.location.hash;
 
-          this.routeMap[hash]?.();
+          this.routeMap[hash]?.(); // Expand: 可选链操作符?.   空值合并操作符??
         };
       }
 
