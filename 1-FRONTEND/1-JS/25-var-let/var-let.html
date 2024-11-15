@@ -9,28 +9,35 @@
   <body>
     <script>
       // 0 1 2 3 4
-      for (var i = 0; i < 5; i++) {
-        console.log("a", i);
+      for (var i1 = 0; i1 < 5; i1++) {
+        console.log("a", i1);
       }
 
       // 0 1 2 3 4
-      for (var i = 0; i < 5; ++i) {
-        console.log("b", i);
+      for (var i2 = 0; i2 < 5; ++i2) {
+        console.log("b", i2);
       }
 
       // i
       // 每秒都输出 6，一共 6 个 6
-      for (var i = 0; i <= 5; i++) {
+      for (var i3 = 0; i3 <= 5; i3++) {
         setTimeout(() => {
-          console.log("i", i);
-        }, 1000 * i);
+          console.log("c", i3);
+        }, 1000 * i3);
+      }
+
+      // 每秒都输出 5，一共 5 个 5
+      for (var j = 0; j < 5; j++) {
+        setTimeout(() => {
+          console.log("jj1", j);
+        }, 1000 * j);
       }
 
       // j
       // 每秒输出 0 1 2 3 4
       for (let j = 0; j < 5; j++) {
         setTimeout(() => {
-          console.log("jj", j);
+          console.log("jj2", j);
         }, 1000 * j);
       }
 
