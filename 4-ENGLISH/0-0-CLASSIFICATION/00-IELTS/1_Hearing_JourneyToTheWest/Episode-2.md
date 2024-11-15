@@ -1,6 +1,11 @@
 # Journey to the west. 西游记 2
 
 ```
+fight over. 争吵 争夺 v
+// They often fight over due to the little things. 他们经常因为一些小事而争吵
+```
+
+```
 Monkey splashed through the waterfall and landed in a large cave.
 // splash 拍打着水游
 // waterfall 瀑布

@@ -25,6 +25,8 @@ key: 索引
 
 ```sql
 1
+创建表
+--
 CREATE TABLE `music` (
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '歌名',
   `album` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT NULL COMMENT '相册',
@@ -51,6 +53,8 @@ CREATE TABLE `music` (
 
 
 2
+查询表
+--
 ####### -- 使用数据库
 USE DATABASE_AA;
 SELECT
@@ -88,7 +92,10 @@ GROUP BY
 
 
 
+3
+查询表
 3 和 2 类似，使用 music 和 singer 表
+--
 SELECT
     m.singer_id,
     GROUP_CONCAT(m.`name` ORDER BY m.date DESC) AS MUSIC_NAME,
@@ -106,6 +113,23 @@ WHERE
     s.id IN (1, 2)
 GROUP BY
     m.singer_id;
+
+
+
+------- 分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- 分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+4
+修改表
+- 修改字段名: ALTER TABLE 表名 CHANGE 旧字段名 新字段名 数据类型;
+- 修改列的定义: ALTER TABLE 表名 MODIFY 列名 新数据类型;
+- 修改列的名词: ALTER TABLE 表名 RENAME TO 新列名;
+- alter 改变 更改 v
+--
+ALTER TABLE test MODIFY COLUMN name VARCHAR(123); ####### -- 修改 name 列的长度为 123
+ALTER TABLE test RENAME COLUMN name to NAMES; ####### ------ 修改 name 列名为 NAMES
 ```
 
 ## (二) VIEW
