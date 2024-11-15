@@ -91,8 +91,9 @@ GROUP BY
 3 和 2 类似，使用 music 和 singer 表
 SELECT
     m.singer_id,
-    GROUP_CONCAT(m.`name`) AS MUSIC_NAME,
-    GROUP_CONCAT(m.album) AS ALBUM,
+    GROUP_CONCAT(m.`name` ORDER BY m.date DESC) AS MUSIC_NAME,
+    GROUP_CONCAT(m.album ORDER BY m.date DESC) AS ALBUM,
+		GROUP_CONCAT(m.date ORDER BY m.date DESC) AS DATE,
     GROUP_CONCAT(DISTINCT s.`name`) AS SINGER_NAME,
     GROUP_CONCAT(DISTINCT s.gender) AS GENDER
 FROM
@@ -122,8 +123,12 @@ SELECT
     M.date
 FROM
     singer S
-INNER JOIN  ####### ------ INNER JOIN - SQL的关键字: 将两个表连接在一起 -- 注意: INNER JOIN 和 JOIN 等价
+
+####### --------------- INNER JOIN - SQL的关键字: 将两个表连接在一起 -- 注意: ( INNER JOIN ) 和 ( JOIN ) 等价
+INNER JOIN
     music M
-ON ####### --------------- ON --------- SQL的关键字: 用于指定连接条件，连接条件定义了两个表中的哪些行应该被连接在一起
+
+####### --------------- ON --------- SQL的关键字: 用于指定连接条件，连接条件定义了两个表中的哪些行应该被连接在一起
+ON
     S.id = M.singer_id;
 ```

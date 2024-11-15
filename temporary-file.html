@@ -461,6 +461,65 @@
       };
       const resRandomString = randomString(6);
       console.log("resRandomString: ", resRandomString);
+
+      // -----------------------------------------
+      // 28 prototype chain inheritance.
+      function Sup(name) {
+        this.name = name;
+      }
+      Sup.prototype.p_age = 10;
+      function Sub(address) {
+        this.address = address;
+      }
+      Sub.prototype = new Sup(7);
+      Sub.prototype.constructor = Sub;
+      Sub.prototype.s_age = 20;
+      const sub = new Sub("beijing");
+      console.log("sub: ", sub);
+
+      // -----------------------------------------
+      // 29 constructor borrowing inheritance.
+      function Father1(name1) {
+        this.name1 = name1;
+      }
+      Father1.prototype.f_age1 = 10;
+      function Father2(name2) {
+        this.name2 = name2;
+      }
+      Father2.prototype.f_age2 = 20;
+      function Child(name1, name2, address) {
+        Father1.call(this, name1);
+        Father2.call(this, name2);
+        this.s_age = address;
+      }
+      Father2.prototype.c_age = 30;
+      const child = new Child("name1", "name2", "beijing");
+      console.log("child: ", child);
+
+      // -----------------------------------------
+      // 29 composition inheritance.
+      function Father11(name11) {
+        this.name11 = name11;
+      }
+      function Father12(name12) {
+        this.name12 = name12;
+      }
+      function Father13(name13) {
+        this.name13 = name13;
+      }
+      Father11.prototype.age11 = 11;
+      Father12.prototype.age12 = 12;
+      Father13.prototype.age13 = 13;
+      function Child100(name11, name12, name100) {
+        Father11.call(this, name11);
+        Father12.call(this, name12);
+        this.name100 = name100;
+      }
+      Child100.prototype = new Father13("name13");
+      Child100.prototype.constructor = Child100;
+      Child100.prototype.age100 = 100;
+      const child100 = new Child100("name11", "name12", "name100");
+      console.log("child100: ", child100);
     </script>
   </body>
 </html>

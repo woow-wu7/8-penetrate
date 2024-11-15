@@ -4,11 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Prototype Chain Inheritance. 原型链继承</title>
   </head>
   <body>
     <script>
-      // 原型链继承
+      // 原型链继承 
+      // Prototype Chain Inheritance.
 
       // 原理
       // - 1. 将 ( 子类的prototype属性 ) 指向 ( 父类的实例 ) ，同时修改 ( 子类的constructor ) 让其重新指向子类
@@ -22,7 +23,7 @@
       // 缺点
       // - 1.传参: 生成子类实例时不能向父类传参
       // - 2.多继承: 不能实现多继承
-      // - 3.共享: 所有实例共享属性，当是引用类型的属性时，修改相互影响
+      // - 3.共享(影响): 所有实例共享属性，当是引用类型的属性时，修改相互影响
       // - 4.属性: 在子类的 prototype 上挂属性和方法，必须在修改子类的 prototype 指向之后
 
       // 注意
@@ -44,7 +45,7 @@
       }
       Sub.prototype = new Super("woow_wu7"); // 1. 这里会导致 Sub.prototype.constructor === super.constructor === Super.prototype.constructor === Super
       Sub.prototype.constructor = Sub; // 2. 因为1的原因，需要重新修改 constructor 的指向
-      Sub.prototype.country = "china"; // 缺点：挂载属性必须在上面步骤之后
+      Sub.prototype.country = "china"; // 缺点：挂载属性必须在上面步骤之后，不然会被覆盖
 
       const sub = new Sub("shanghai"); // 缺点：只能向子类传参，不能向父类传参
       console.log("sub: ", sub);
