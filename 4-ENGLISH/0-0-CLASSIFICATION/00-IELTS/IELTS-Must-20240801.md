@@ -278,6 +278,7 @@
 ###### Must 2024-08-04
 
 - 1
+- `【 cohabit 同居 v 】` // ------- 【 illegal cohabitation. 非法同居 】 【 legal cohabitation. 合法同居 】
 - `【 inhabit 栖息于 v 】` // ------ 【 reside 居住于 v 】 【 inhabit 居住于 v 】
 - `【 inhibit 抑制 v 】`
 - `【 prohibit 禁止 v 】` // ------- 【 forbid 禁止 v 】 【 prohibit 禁止 v 】 // 【 prohibit sb from doing sth. 禁止某人做某事 】

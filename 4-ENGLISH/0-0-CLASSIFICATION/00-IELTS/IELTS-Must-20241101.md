@@ -355,43 +355,52 @@
 ###### Must 2024-11-05
 
 - 1
-- `【 resign 辞职 v 】`
+- `【 resign 辞职 v 】` // ---------------------- resign VS quit // quit VS quite VS quiet
 - `【 resignation 辞职 n 】` // ----------------- 【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
-- > 【 resignation application. 离职申请 n 】// -- 【 application letter. = cover letter. 求职信 n 】
-- > 【 resignation letter. 辞职信 】 // --------- 【 cover letter. 求职信 = application letter. 】 【 anonymous letter. 匿名信 n 】
+- > 【 resignation application. 离职申请 n 】// -- 【 application letter. 求职信 n 】= cover letter.
+- > 【 resignation letter. 辞职信 】 // --------- 【 anonymous letter. 匿名信 n 】 【 cover letter. 求职信 】
 - AA.
 - _【 liter 公升 升 n 】_
 - _【 letter 信 字母 n 】_ // --------------------【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】【 capital letter. 大写字母 】
 - > 【 cover letter. 求职信 n 】 = application letter. 求职信
 - > 【 resignation letter. 辞职信 n 】
 - > 【 anonymous letter. 匿名信 n 】 // --------- 【 anonymous complaint. 匿名投诉 n 】 【 anonymous donation. 匿名捐赠 n 】
-- > 【 capital letter. 大写字母 n 】= uppercase letter.
 - > 【 lowercase letter. 小写字母 n 】
+- > 【 uppercase letter. 大写字母 n 】= capital letter.
+- **【 in capital letters. 用大写字母 】**
+- **【 This 【 love letter 】 was written 【 in all capital letters 】. 这封情书全是用大写字母写的 】**
 - BB.
 - _【 anonymous 匿名的 adj 】_
 - > 【 anonymous donation. 匿名捐赠 n 】 // ------ 【 donate 捐赠 v 】 【 donation 捐赠 n 】
 - > 【 anonymous complaint. 匿名投诉 adj 】// ---- 【 complain 抱怨 投诉 v 】 【 complaint 抱怨 投诉 n 】 // anonymously complain. 匿名地投诉 v
 - > 【 anonymous letter. 匿名信 n 】 // ---------- 【 resignation letter. 辞职信 n 】 【 capital letter. 大写字母 n 】
+- > 【 anonymous voting. 匿名投票 n 】// --------- 【 anonymous voting system. 匿名投票系统 】
+- **【 We 【 anonymously vote 】 through the 【 anonymous voting system 】. 我们通过匿名投票系统进行匿名投票 】**
+- **【 Both 【 cover letters 】 and the 【 resignation letters 】 need to be written 【 as 】 【 anonymous letter 】. 求职信和离职信都需要写匿名信 】**
 - CC.
 - _【 complain 抱怨 投诉 v 】_
 - _【 complaint 抱怨 投诉 n 】_
 - > 【 anonymously complain. 匿名地投诉 v 】
-- > 【 anonymous complaint. 匿名的投诉 adj 】
+- > 【 anonymous complaint. 匿名的投诉 adj 】 // -- 【 customer complaint. 客户投诉 n 】 【 anonymous complaint. 匿名投诉 n 】 // 【 anonymous voting. 】
+- DD.
+- _【 vote 投票 v 】_
+- _【 elect 选举 v 】_ // ------------------------ elect VS select
+- **【 The 【 residents 】 are 【 voting 】 to 【 elect 】 the 【 president 】. 居民正在投票选举总统 】**
 -
-- `【 sigh 叹气 】` // ------------------------- 【 breath a 【 sigh 】 of 【 relief 】. 松了一口气 】
-- `【 sign 签名v 标志n 】` // ------------------- verb
-- `【 assign 分配 指派 v 】` // -----------------【 assignment 任务 作业 n 】 // sign assign resign
-- `【 resign 辞职 v 】` // ----------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
-- `【 assignment. 任务 分配 n 】` // ----------- _【 class assignment. 课堂作业 n 】_
-- `【 signature 签名 n 】` // ------------------- noun
-- _【 class assignment. 课程作业 】_
-- > 【 breath a sign of relief. 松了一口气 n 】
+- `【 sigh 叹气 】` // --------------------------- 【 he sighed. 他叹了一口气 】
+- `【 sign 签名v 标志n 】` // --------------------- 【 signature 签名 n 】
+- `【 assign 分配 指派 v 】` // --------------------【 assignment 任务 作业 n 】 // sign assign resign
+- `【 resign 辞职 v 】` // ------------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
+- `【 assignment. 任务 分配 n 】` // ------------- _【 class assignment. 课堂作业 n 】_
+- `【 signature 签名 n 】` // --------------------- noun
+- > 【 class assignment. 课堂作业 n 】
+- **【 He 【 sighed 】 and then 【 signed 】 the 【 resignation letter 】. 他叹了一口气，然后在辞职信上签了字 】**
 -
 - `【 appoint 任命 指定 v 】`
 - `【 appointment 任命 指定 n 】`
 -
 - `【 assign 分配 v 】`
-- `【 assignment 分配 任务 作业 n 】`
+- `【 assignment 分配 任务 作业 n 】` // ---------- 【 class assignment. 课堂作业 】
 -
 - `【 resign 辞职 v 】`
 - `【 resignation 辞职 n 】` // ------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
@@ -401,6 +410,7 @@
 - `【 breath a sigh of relief. 松了一口气 n 】`
 - _【 breathe 呼吸 v 】_
 - _【 breath 呼吸 n 】_
+- **【 He 【 sighed 】 and then 【 signed 】 the 【 resignation letter 】. 他叹了一口气，然后在辞职信上签了字 】**
 - **【 After a busy day 【 at work 】, he 【 breathed a sigh of relief 】. 经过一天繁忙的工作，他舒了一口气 】**
 -
 - [BB.]
@@ -414,6 +424,7 @@
 - `【 resignation letter. 辞职信 n 】`
 - `【 anonymous letter. 匿名信 n 】`
 - **【 Both 【 cover letters 】 and the 【 resignation letters 】 need to be written 【 as 】 【 anonymous letter 】. 求职信和离职信都需要写匿名信 】**
+- **【 We 【 anonymously vote 】 through the 【 anonymous voting system 】. 我们通过匿名投票系统进行匿名投票 】**
 -
 - [DD.]
 - `【 complain about. 投诉... 抱怨... v 】`
@@ -427,13 +438,23 @@
 - `【 customer complaint. 客户投诉 n 】`
 - `【 customer satisfaction. 客户满意 n 】`
 - **【 【 Customer complaints 】 【 are related to 】 【 customer satisfaction 】. 客户投诉和客户满意度有关 】**
+-
+- [FF.]
+- `【 sigh 叹气 v 】`
+- `【 sign 签名 v / 标志 符号 n 】`
+- `【 resignation letter. 离职信 n 】`
+- **【 He 【 sighed 】 and then 【 signed 】 the 【 resignation letter 】. 他叹了一口气，然后在辞职信上签了字 】**
 
 ###### Must 2024-11-06
 
 - 1
-- `【 exploit 剥削 利用 v 】`
-- `【 explode 爆炸 v 】` // --------------------------- 【 explosion sound. 爆炸声 n 】
+- `【 exploit 剥削 利用 v 】` // ----------------------- 【 exploit opportunity. 利用机会 】 【 seize opportunity. 抓住机会 】 【 cherish opportunity. 珍惜机会 】
+- `【 explode 爆炸 v 】` // --------------------------- 【 explosion sound. 爆炸声 n 】 【 The bomb exploded. 炸弹爆炸了 】
 - `【 explore 探险 v 】`
+- > 【 exploit the opportunity. 利用机会 】
+- > 【 seize opportunity. 抓住机会 】
+- > 【 cherish opportunity. 珍惜机会 】
+- > 【 fantastic opportunity. 极好的机会 】
 -
 - `【 explode 爆炸 v 】`
 - `【 explosion 爆炸 n 】` // -------------------------- 【 explosion sound. 爆炸声 n 】
@@ -720,6 +741,15 @@
 - _【 National Day. 国庆节 n 】_
 - _【 national interest. 国家利益 n 】_ // ------ interest 兴趣 利息 利益 n
 - **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
+- DD.
+- _【 letter 信 字母 n 】_
+- _【 in capital letters. 用大写字母 】_
+- > 【 capital letter. 大写字母 】= uppercase letter.
+- > 【 lowercase letter. 小写字母 】
+- > 【 resignation letter. 辞职信 n 】
+- > 【 cover letter. 求职信 n 】
+- > 【 love letter. 情书 n 】
+- **【 This 【 love letter 】 was written 【 in all capital letters 】. 这封情书全是用大写字母写的 】**
 -
 - `【 capacity 容量 产能 n 】` // --------------- 【 overcapacity 产能过剩 n 】
 - `【 opacity 不透明度 n 】`
@@ -808,13 +838,15 @@
 - 1
 - `【 coworker 同事 n = colleague 】` // ------ 【 coworker VS colleague VS college 】
 - `【 coach 教练 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】 【 badminton coach. 羽毛球教练 n 】
-- `【 cohabit 同居 v 】` // ------------------- 【 cohabitation relationship. 同居关系 n 】 // romantic relationship. // physical relationship.
+- `【 cohabit 同居 v 】` // ------------------- 【 illegal cohabitation. 非法同居 】 【 cohabitation relationship. 同居关系 】// romantic/physical relationship.
 - `【 cooperate 合作 v 】`
 - `【 coexist 共存 v 】` // ------------------- 【 peacefully coexist. 和平相处 】 // 【 peaceful coexistence. 和平共处 n 】
 - _【 inhabit 居住于 栖息于 v 】_ // ---------- `【 cohabit/inhabit/inhibit/prohibit 】`
 - _【 cohabit 同居 v 】_
 - _【 cohabitation 同居 n 】_ // ------------- `【 cohabitation relationship. 同居关系 】` 【 romantic relationship. 恋爱关系 】 【 physical relationship. 肉体关系 】
 - _【 in a cohabitation relationship. 处于同居关系中 】_
+- illegal cohabitation. 非法同居
+- legal cohabitation. 合法同居
 - > 【 cohabitation relationship. 同居关系 】
 - > 【 romantic relationship. 恋爱关系 】
 - > 【 physical relationship. 肉体关系 】
@@ -863,3 +895,7 @@
 - `【 dare 敢 v 】`
 - // dare to do sth. 敢做某事
 - **【 The 【 badminton coach 】 is a 【 coward 】 that he doesn't 【 dare to 】 【 cohabit 】 with the 【 volleyball coach. 】 羽毛球教练是一个胆小鬼，不敢和排球教练同居 】**
+-
+- [EE.]
+- `【 illegal cohabitation. 非法同居 n 】`
+- **【 The 【 illegal cohabitation 】 means that you will be punished by law. 非法同居意味着你们将受到法律的制裁 】**

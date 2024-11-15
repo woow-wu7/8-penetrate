@@ -142,7 +142,8 @@ community 社区 n
 fantastic 极好的 好极了 adj
 // 【 fantastic opportunity. 极好的机会 】 // ---- fantastic
 // 【 seize opportunity. 抓住机会 】 // ---------- seize
-// 【 cherish opportunity. 珍惜机会 】 // -------- cherish // --------- 【 cherish time. 珍惜时间 】 【 cherish opportunity. 珍惜机会 】
+// 【 cherish opportunity. 珍惜机会 】 //--------- 【 cherish time. 珍惜时间 】 【 cherish opportunity. 珍惜机会 】
+// 【 exploit opportunity. 利用机会 】 // --------- exploit 剥削 利用
 【 fantastic idea. 极好的主意 】
 -
 【 seize 抓住 v 】
@@ -150,10 +151,12 @@ fantastic 极好的 好极了 adj
 -
 【 cherish 珍惜 】
 【 cherish opportunity. 珍惜机会 】
+【 cherish time. 珍惜时间 】
 -
 fantastic opportunity. 极好的机会
 seise the possibility. 抓住机会
 cherish the possibility. 珍惜机会
+exploit opportunity. 利用机会
 -
 【 cheer for. 为...加油 】
 -
