@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Random String.</title>
   </head>
   <body>
     <script>
-      // 获取随机字符串
+      // 获取随机字符串 random string.
 
       // 1
       // 前置知识
@@ -31,17 +31,18 @@
       // 1
       // 优点: 随便多少位都可以
       function getRandomString(len) {
-        const str =
-          "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const marketStr = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const pick = () => {
+          const index = Math.floor(Math.random() * marketStr.length);
+          return marketStr[index];
+        };
+
         let res = "";
-        for (let i = 0; i < len; i++) {
-          const char = str[Math.floor(Math.random() * str.length)];
-          res += char;
-        }
+        for (let i = 0; i < len; i++) res += pick();
         return res;
       }
-      const res = getRandomString(30);
-      console.log("res: ", res);
+      const res = getRandomString(10);
+      console.log("getRandomString: ", res);
 
       // ---------------------------------------------------------------------------------
       // ---------------------------------------------------------------------------------

@@ -841,12 +841,14 @@
 - `【 cohabit 同居 v 】` // ------------------- 【 illegal cohabitation. 非法同居 】 【 cohabitation relationship. 同居关系 】// romantic/physical relationship.
 - `【 cooperate 合作 v 】`
 - `【 coexist 共存 v 】` // ------------------- 【 peacefully coexist. 和平相处 】 // 【 peaceful coexistence. 和平共处 n 】
+- AA.
 - _【 inhabit 居住于 栖息于 v 】_ // ---------- `【 cohabit/inhabit/inhibit/prohibit 】`
 - _【 cohabit 同居 v 】_
-- _【 cohabitation 同居 n 】_ // ------------- `【 cohabitation relationship. 同居关系 】` 【 romantic relationship. 恋爱关系 】 【 physical relationship. 肉体关系 】
+- _【 cohabitation 同居 n 】_ // ------------- `【 illegal cohabitation. 非法同居 】` `【 cohabitation relationship. 同居关系 】` // romantic/physical relationship.
 - _【 in a cohabitation relationship. 处于同居关系中 】_
 - illegal cohabitation. 非法同居
 - legal cohabitation. 合法同居
+- cohabitation relationship. 同居关系
 - > 【 cohabitation relationship. 同居关系 】
 - > 【 romantic relationship. 恋爱关系 】
 - > 【 physical relationship. 肉体关系 】
@@ -857,13 +859,24 @@
 - `【 cow 母牛 】` // ------------------------- 【 cow 母牛 VS bull 公牛 VS calf 牛犊 】
 - `【 coward 胆小鬼 n 】`
 - > 【 ward / reward / award / coward / awkward = embarrassed / afterward / forward / backward 】
+- AA.
+- _【 cow 母牛 n 】_
+- _【 bull 公牛 n 】_ // ---------------------- 【 bull market. 牛市 n 】 【 bear market. 熊市 】 【 stock market. 股市 n 】
+- _【 calf 小牛 n 】_
+- > 【 beef steak. 牛排 n 】 // ---------------- steak 肉排 n
+- > 【 lamb chop. 羊排 n 】 -------------------- lamb 羔羊 n // chop 切碎 n // chopstick 筷子 n
+- // TIPS: Pay attention to the pronunciation to the word 'steak'. [steak-牛排-n]
+- // TIPS: Pay attention to the pronunciation to the word 'bull'. [bull-公牛-n] [bull-market-牛市] // bo
+- **【 The 【 bulls 】 were sold to the market and made into 【 beef steak 】. 公牛被卖到市场做成了牛排 】**
+- **【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】**
+- // -- make into. 把...制成
 -
 - `【 cohabit 同居 v 】`
 - `【 inhabit 居住在 栖息于 v 】`
 - > 【 settle 定居 v 】
 - > 【 reside 居住在 v 】
 - > 【 resident 居民 n 】
-- > 【 president 总统 n 】
+- > 【 president 总统 n 】----------------------- 【 elect a president. 选举总统 】 // elect VS select
 - _【 inhabit 居住于 栖息于 v 】_
 - _【 inhibit 抑制 v 】_ // --------------------- 【 inhibit growth. 抑制生长 v 】
 - _【 prohibit 禁止 v 】_
@@ -898,4 +911,17 @@
 -
 - [EE.]
 - `【 illegal cohabitation. 非法同居 n 】`
+- punish VS publish
 - **【 The 【 illegal cohabitation 】 means that you will be punished by law. 非法同居意味着你们将受到法律的制裁 】**
+-
+- [FF.]
+- `【 bull 公牛 n 】`
+- `【 bull steak. 牛排 n 】`
+- `【 make into. 把...制成 v 】`
+- **【 The 【 bulls 】 were sold to the market and 【 made into 】 【 beef steak 】. 公牛被卖到市场做成了牛排 】**
+-
+- [GG.]
+- `【 stock market. 股票市场 n 】`
+- `【 bull market. 牛市 n 】`
+- `【 bear market. 熊市 n 】`
+- **【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】**

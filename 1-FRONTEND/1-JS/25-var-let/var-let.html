@@ -8,25 +8,44 @@
   </head>
   <body>
     <script>
+      // 1
+      // let const var 的区别  ( 5个区别 ) ？
+      // - 作用域: let,const是块级作用域，var是全局或函数作用域
+      // - 变量提升: let,const不存在变量提升，var存在变量提升
+      // - 重复声明: let,const不允许重复声明，var允许重复声明
+      // - 全局变量是否和window挂钩: let,const声明的全局变量不和window挂钩，var声明的全局变量和window挂钩即可以通过window.xx来访问
+      // - 暂时性死区: let,const存在暂时性死区，var不存在暂时性死区
+
       // 0 1 2 3 4
-      for (var i1 = 0; i1 < 5; i1++) {
-        console.log("a", i1);
+      for (var a = 0; i < 5; a++) {
+        console.log("a", a);
       }
 
       // 0 1 2 3 4
-      for (var i2 = 0; i2 < 5; ++i2) {
-        console.log("b", i2);
+      // - 说明这个和 ( 表达式先加+1 ) 还是 ( 变量先+1 ) 无关，因为下一轮循环时，都已经加 1 了
+      // - 其他注意点: 在有 ( 定时器 ) 时, b 大于条件，不在执行循环体，但取到的是当前的 变量值，会比这里多1，详见 4.
+      for (var b = 0; b < 5; ++b) {
+        console.log("b", b);
       }
+
+      // 0 1 2 3 4 5
+      for (var c = 0; c <= 5; ++c) {
+        console.log("c", c);
+      }
+
+      // ------ ------ ------ ------ ------ ------ ------
 
       // i
       // 每秒都输出 6，一共 6 个 6
-      for (var i3 = 0; i3 <= 5; i3++) {
+      // - 其他注意点: 在有 ( 定时器 ) 时, b 大于条件，不在执行循环体，但取到的是当前的 变量值，会比这里多1，详见 4.
+      for (var d = 0; d <= 5; d++) {
         setTimeout(() => {
-          console.log("c", i3);
-        }, 1000 * i3);
+          console.log("d", d);
+        }, 1000 * d);
       }
 
       // 每秒都输出 5，一共 5 个 5
+      // var
       for (var j = 0; j < 5; j++) {
         setTimeout(() => {
           console.log("jj1", j);
@@ -35,6 +54,7 @@
 
       // j
       // 每秒输出 0 1 2 3 4
+      // let
       for (let j = 0; j < 5; j++) {
         setTimeout(() => {
           console.log("jj2", j);

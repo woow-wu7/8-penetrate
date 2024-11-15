@@ -439,14 +439,28 @@
       // - 5. generator yield
       // - 6. It don't has the prototype 属性
 
-
-
       // -----------------------------------------
       // 26 cross site.
       // - cors
       // - jsonp
       // - nginx -> nginx.conf/http/server/location/proxy_pass
-      // - devServer
+
+      // -----------------------------------------
+      // 27  random string
+      const randomString = (len) => {
+        const market = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const pickLetter = () => {
+          const index = Math.floor(Math.random() * market.length);
+          return market[index];
+        };
+        let res = "";
+        for (let i = 0; i < len; i++) {
+          res += pickLetter();
+        }
+        return res;
+      };
+      const resRandomString = randomString(6);
+      console.log("resRandomString: ", resRandomString);
     </script>
   </body>
 </html>

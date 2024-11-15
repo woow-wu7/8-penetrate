@@ -85,6 +85,11 @@
 - 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 我勉强可以在股市中盈利 】**
 - // --【 make a profit. 盈利 】
 - // --【 barely 勉强 adv 】
+- // -- _【 stock market. 股市 】_
+- // -- _【 bull market. 牛市 】_
+- // -- _【 bear market. 胸市 】_
+- // -- _【 The 【 bulls 】 were sold to the market and made into 【 beef steak 】. 公牛被卖到市场做成了牛排 】_
+- // -- _【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】_
 -
 -
 - [BB.]
@@ -365,7 +370,7 @@
 - `【【 asset 资产 】】` // ---------- asset 资产 / property 财产 / fixed assets. // current assets.
 - `【【 share 股份n 分享v 】】` // ---- market share. 市场占有率
 - `【【 lottery 彩票 】】` // lottery ticket.
-- `【 stock 股票 】`
+- `【 stock 股票 】` // stocking 长筒袜 n
 - `【 cheque 支票 】`
 - `【 bond 债卷 】`
 - `【 fund 基金 】`
