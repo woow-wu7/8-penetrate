@@ -516,10 +516,11 @@
 - `【 handprint 手印 n 】` // -----------------【 fingerprint 指纹 n 】 【 footprint. 脚印 n 】 【 lip print. 唇印 n 】
 - `【 handwrite 手写 v 】`
 - > 【 hand in. 上交 提交 v 】
-- > 【 hand in hand. 手牵手 adv 】
+- > 【 hand in hand. 手牵手 adv 】 // -------- 【 hold your hand. 牵着你的手 】
 - > 【 hand down. 传下来 v 】
 - > 【 shake hand. 握手 v 】
 - > 【 wave hand. 挥手 v 】
+- > 【 hold your hand. 牵着你的手 】 // ----- **【 I want to 【 hold your hand 】 and go out together. 我想牵着你的手一起出去 】**
 - AA.
 - _【 escalator 扶梯 】_ // ------------------ 【 take the escalator. 乘扶梯 】 【 handrail 扶手 n 】
 - _【 elevator 电梯 】_
@@ -585,6 +586,11 @@
 - `【 ring finger. 无名指 n 】`
 - `【 little finger. 小指 n 】`
 - **【 The finger consists of the 【 thumb 】, 【 index finger 】, 【 middle finger 】, 【 ring finger 】, and 【 little finger 】. 手指由拇指，食指，中指，无名指，小指组成 】**
+-
+- [FF.]
+- `【 hold your hand. 牵着你的手 】`
+- `【 take elevator. 坐电梯 v 】`
+- **【 I want to 【 hold you hand 】 to 【 take the elevator 】 together. 我想牵着你的手一起去坐电梯 】**
 
 ###### Must 2024-11-08
 

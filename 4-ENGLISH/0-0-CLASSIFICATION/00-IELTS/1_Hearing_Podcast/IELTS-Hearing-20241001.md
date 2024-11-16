@@ -1,4 +1,4 @@
-##### 1 Hearing 2024-10-01 [IELTS_HEARING_MUST_PODCAST][restaurant]
+##### 1 Hearing 2024-10-01 [MUST]-[restaurant][IELTS_HEARING_MUST_PODCAST]
 
 ```
 1.
@@ -404,7 +404,7 @@ until then. 到那时
 // 【 Until then 】, we will already be old. 到那时，我们已经老了
 ```
 
-##### 2 Hearing 2024-10-19 [IELTS_HEARING_MUST_PODCAST][assistant]
+##### 2 Hearing 2024-10-19 [assistant][IELTS_HEARING_MUST_PODCAST]
 
 ```
 1

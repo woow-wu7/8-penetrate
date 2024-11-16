@@ -1,4 +1,4 @@
-##### 1 Hearing 2024-11-01 [IELTS_HEARING_MUST_PODCAST][movie]
+##### 1 Hearing 2024-11-01 [MUST]-[movie][IELTS_HEARING_MUST_PODCAST]
 
 ```
 1.
@@ -156,7 +156,7 @@ smelly 发臭的 adj
 smell 味道 气味 嗅觉 n / 嗅v
 ```
 
-##### 2 Hearing 2024-11-09 [IELTS_HEARING_MUST_PODCAST][embarrassing]
+##### 2 Hearing 2024-11-09 [embarrassing][IELTS_HEARING_MUST_PODCAST]
 
 ```
 1
@@ -194,4 +194,39 @@ slip 滑倒 v
 // Your name just has just 【 slipped in my mind 】. 我刚刚忘记你的名字
 // It 【 completely 】 【 slipped my mind 】. 我完全忘了这件事
 // slip -> slipped
+```
+
+##### 3 Hearing 2024-11-09 [][IELTS_HEARING_MUST_PODCAST]
+
+```
+compete 竞争 v
+competitor 竞争对手
+competitive 竞争的 adj // ------------------- 【 competitive salary. 有竞争力的薪水 】 【 competitive advantage. 竞争优势 】
+competition 竞争 n // ----------------------- 【 intense competitive. 激烈的竞争 】 【 cruel competition. 残酷的竞争  】
+// opponent 对手n
+// competitor 竞争对手 n
+// AA.
+// ---- Through the 【 intense 】 and 【 cruel 】 【 competition 】, we finally 【 defeated 】 our 【 competitors 】.
+// ---- 经过激烈和残酷的竞争，我们终于打败了竞争对手
+// ---- 【 defeat 打败 v 】
+// BB.
+// ---- our 【 competitive advantage 】 is the 【 competitive salary 】.
+// ---- 我们的竞争优势是有竞争力的薪水
+
+
+promote 提升 晋升 促销 v
+promotion 提升 晋升 促销 n // --------------- 【 promotion active. 促销活动 n 】
+【 sale promotion. 促销 v 】
+【 two for one promotion. 买一送一促销 n 】
+// ---- 【 This time 】, the 【 promotion active 】 is "buy one, get one free" for the 【 whole store 】. 这次的促销活动是全场买一送一
+
+
+concrete 混凝土 n
+cement 水泥
+
+
+It's not very creative. 它不是很有创意
+// creative inspiration. 创作灵感
+
+brilliant idea. 绝妙的主意
 ```
