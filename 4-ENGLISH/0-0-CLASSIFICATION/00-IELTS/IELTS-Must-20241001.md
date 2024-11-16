@@ -119,6 +119,7 @@
 - _【 shut down. 关闭 停业 v 】_
 - _【 shutdown. 关闭 停业 n 】_
 - > 【 rush out. 冲出去 v 】
+- > 【 rush over. 冲忙赶到... 冲过去 v 】
 - > 【 rush hour. 高峰期 】
 - > 【 【 morning 】 rush hour. 早高峰 】
 - > 【 rush hour 【 for 】 traffic. 交通高峰 】
@@ -582,7 +583,10 @@
 - //【 purpose 目的 意图 n 】 // ------------------- `【 on purpose. 故意的 adv 】`
 - //【 pursue 追求 追逐 v 】 // --------------------- 【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit
 - // 【 in depth. / in detail. / in turn. / in advance. / in public. / in secret. / in total. / on purpose. 】
-- //
+- **【 The doctors 【 rush over 】 to the 【 accident scene 】. 医生冲忙赶到事故现场 】**
+- // -- rush over. 冲忙赶到 v
+- // -- rush out.
+- // -- rush hour.
 -
 - `【 exceed 超过 v 】`
 - `【 beyond 超过 超越 prep 】` // ------------------ 【 beyond scope. 超出范围 】 【 beyond the limit. 超越极限 】

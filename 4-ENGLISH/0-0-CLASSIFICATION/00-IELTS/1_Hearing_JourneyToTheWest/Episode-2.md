@@ -1,8 +1,31 @@
 # Journey to the west. 西游记 2
 
 ```
-fight over. 争吵 争夺 v
-// They often fight over due to the little things. 他们经常因为一些小事而争吵
+1
+cross his arms. 交叉双臂
+fold his arms. 交叉双臂
+
+
+2
+rush over. 冲忙赶到... 冲过去 v
+-
+rush hour. 高峰期
+rush out. 冲出去
+rush over. 冲忙赶到... 冲过去 v
+-
+// The doctors 【 rush over 】 to the 【 accident scene 】. 医生冲忙赶到了事故现场
+
+
+bow 弓 鞠躬 v
+frown 皱眉 v n
+
+feast 盛宴 大餐 n
+
+study lounge. 自习室 n
+library 图书馆 n
+
+wise people. 智者 n
+raft 木筏 竹筏
 ```
 
 ```
