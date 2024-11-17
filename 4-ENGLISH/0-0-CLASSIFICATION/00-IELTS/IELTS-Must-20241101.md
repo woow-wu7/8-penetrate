@@ -1069,3 +1069,97 @@
 - `【 a beam of light. 一束光 n 】`
 - `【 a bolt of lightning. 一道闪电 n 】`
 - **【 The 【 beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
+
+###### Must 2024-11-18
+
+- 1
+- `【 in depth. 深入地 adv 】`
+- `【 in detail. 详细地 adv 】`
+- `【 in turn. 依次地 adv 】` // ----------------- 【 one by one. = in turn. 依次地 adv 】
+- _【 one by one. 依次地 adv 】_ = in turn.
+-
+- `【 in public. 公开地 adv 】`
+- `【 in secret. 秘密地 adv 】`
+-
+- `【 in addition. 此外 adv 】` // --------------- 【 addition 加 添加 附加 n 】 VS 【 condition 条件 n 】
+- `【 in theory. 理论上 adv 】`
+- `【 in vain. 徒劳地 adv 】`
+-
+- `【 in total. 总共 adv 】`
+- `【 in summary. 总之 adv 】` // ----------------- 【 in summary. = in conclusion. 总之 adv 】
+- `【 in conclusion. 总之 adv 】`
+-
+- `【 in advance. 提前 adv 】`
+- `【 in a hurry. 匆忙地 忙 急 adv 】`
+-
+- `【 on purpose. 故意地 adv 】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'depth'. [depth-深度-n]
+- // TIPS: Pay attention to the pronunciation of the word 'condition'. [ condition-条件-n]
+- vain 徒劳的
+- van 面包车
+  // Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
+-
+- [AA.]
+- `【 analyze 分析 v 】`
+- `【 in turn. 依次地 adv 】`
+- `【 in depth. 详细地 adv 】`
+- **【 Let's 【 analyze 】 the 【 following 】 questions 【 in turn 】 and 【 in depth 】. 让我们依次并深入分析下面这些问题 】**
+- // -- 【 analyze 分析 v 】
+- // -- 【 analysis 分析 n 】
+- // -- 【 one by one. 依次地 adv 】 = in turn.
+-
+- [BB.]
+- `【 in depth. 深入地 adv 】`
+- `【 in detail. 详细地 adv 】`
+- `【 talk about. 谈论 讨论 v 】`
+- **【 Let's 【 talk about 】 this topic 【 in depth 】 and 【 in detail 】. 让我们深入并详细地谈论这个话题 】**
+-
+- [CC.]
+- `【 act 表演 行动 行为 】`
+- `【 in secret. 秘密地 adv 】`
+- `【 in public. 公开地 adv 】`
+- **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
+- // -- 【 act 表演 行动 行为 】
+- // -- 【 actor 演员 n 】
+- // -- 【 actress 女演员 n 】
+- // -- 【 take action. 采取行动 】
+- // ---- 【 announce 宣布 v 】
+- // -- 【 declare 声明 v】
+- // -- 【 declaration 声明 n 】
+- // ---- 【 define 定义 v 】
+-
+- [DD.]
+- `【 in addition. 此外 adv 】`
+- `【 in vain. 徒劳 adv 】`
+- `【 in theory. 理论上 adv 】`
+- **【 【 In addition 】, it is 【 in vain 】 to do so 【 in theory 】. 此外，理论上这样做是徒劳的 】**
+-
+- [EE.]
+- `【 in summary. 总之 adv 】` = in conclusion.
+- `【 in total. 总共 adv 】`
+- **【 【 In summary 】, we can fail three times 【 in total 】. 总之，我们一共可以失败 3 次 】**
+-
+- [FF.]
+- `【 in turn. 依次地 adv 】`
+- `【 in advance. 提前 adv 】`
+- **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
+-
+- [GG.]
+- `【 in a hurry. 匆忙地 忙 急 adv 】`
+- **【 Please don't 【 make decisions 】 【 in a hurry 】. 请不要匆忙做决定 】**
+-
+- [HH.]
+- `【 in total. 总共 adv 】`
+- `【 episode 集 n 】`
+- `【 TV series. = TV drama. 电视剧 】`
+- **【 How many 【 episodes 】 of this 【 TV series 】 【 in total 】? 这部电视剧一共有多少集？ 】**
+-
+- [II.]
+- `【 in public. 公众地 】`
+- **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
+- // -- 【 insult 辱骂 v 】
+- // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
+- // -- 【 result 结果 n 】
+- // -- 【 consequence 后果 n 】
+- // -- 【 consult about sth. 咨询某事 】
