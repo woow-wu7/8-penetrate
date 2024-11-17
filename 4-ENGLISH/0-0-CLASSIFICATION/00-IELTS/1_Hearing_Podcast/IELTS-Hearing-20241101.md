@@ -214,6 +214,9 @@ competition 竞争 n // ----------------------- 【 intense competitive. 激烈�
 // ---- 我们的竞争优势是有竞争力的薪水
 
 
+It will never fly. 这永远行不通
+
+
 promote 提升 晋升 促销 v
 promotion 提升 晋升 促销 n // --------------- 【 promotion active. 促销活动 n 】
 【 sale promotion. 促销 v 】
@@ -223,6 +226,9 @@ promotion 提升 晋升 促销 n // --------------- 【 promotion active. 促销
 
 concrete 混凝土 n
 cement 水泥
+
+cost 费用 成本 价钱 v n
+【 film script. 电影剧本 】
 
 
 It's not very creative. 它不是很有创意

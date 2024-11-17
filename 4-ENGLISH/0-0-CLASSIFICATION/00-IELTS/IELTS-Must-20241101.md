@@ -595,7 +595,7 @@
 ###### Must 2024-11-08
 
 - 1
-- `【 script 脚本 剧本 n 】` // ---------------- 【 scriptwriter 编剧 n 】 【 write script. 编写剧本 v 】
+- `【 script 脚本 剧本 n 】` // ---------------- _【 film script. 电影剧本 】_ 【 scriptwriter 编剧 n 】 【 write script. 编写剧本 v 】
 - `【 decrypt 解密 v 】` // ------------------- 【 decryption algorithm. 解密算法 n 】
 - `【 encrypt 加密 v 】`
 - `【 encryption 加密 n 】` // ---------------- 【 encryption algorithm. 加密算法 n 】 【 greedy algorithm. 贪心算法 n 】 【 bubble sort algorithm. 】
@@ -779,7 +779,7 @@
 - 1
 - `【 badminton 羽毛球 n 】` // -------------------- 【 badminton court. 羽毛球场 n 】 【 badminton racket. 羽毛球拍 n 】 【 badminton match. 羽毛球比赛 n 】
 - `【 volleyball 排球 n 】` // --------------------- 【 volleyball coach. 排球教练 n 】 【 beach volleyball. 沙滩排球 】 【 volley 拦截 v 齐射 n 】
-- `【 baseball 棒球 n 】` // ----------------------- 【 baseball cap. 棒球帽 n 】
+- `【 baseball 棒球 n 】` // ----------------------- 【 baseball cap. 棒球帽 n 】 【 baseball bat. 棒球拍 n 】 // 【 meatball 肉丸 n 】
 - `【 tennis 网球 】`
 - `【 table tennis. 乒乓球 】`
 - > 【 badminton court. 羽毛球场 n 】 // ------------ 【 on badminton court. 在羽毛球场 】 // court 法庭 n 球场 n
@@ -849,7 +849,7 @@
 - `【 coexist 共存 v 】` // ------------------- 【 peacefully coexist. 和平相处 】 // 【 peaceful coexistence. 和平共处 n 】
 - AA.
 - _【 inhabit 居住于 栖息于 v 】_ // ---------- `【 cohabit/inhabit/inhibit/prohibit 】`
-- _【 cohabit 同居 v 】_
+- _【 cohabit 同居 v 】_ // ------------------ 【 illegal cohabitation. 非法同居 】 【 legal cohabitation. 合法同居 n 】
 - _【 cohabitation 同居 n 】_ // ------------- `【 illegal cohabitation. 非法同居 】` `【 cohabitation relationship. 同居关系 】` // romantic/physical relationship.
 - _【 in a cohabitation relationship. 处于同居关系中 】_
 - illegal cohabitation. 非法同居
@@ -869,6 +869,7 @@
 - _【 cow 母牛 n 】_
 - _【 bull 公牛 n 】_ // ---------------------- 【 bull market. 牛市 n 】 【 bear market. 熊市 】 【 stock market. 股市 n 】
 - _【 calf 小牛 n 】_
+- _【 beef 牛肉 n 】_ // ---------------------- 【 beef steak. 牛排 】
 - > 【 beef steak. 牛排 n 】 // ---------------- steak 肉排 n
 - > 【 lamb chop. 羊排 n 】 -------------------- lamb 羔羊 n // chop 切碎 n // chopstick 筷子 n
 - // TIPS: Pay attention to the pronunciation to the word 'steak'. [steak-牛排-n]
@@ -877,7 +878,7 @@
 - **【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】**
 - // -- make into. 把...制成
 -
-- `【 cohabit 同居 v 】`
+- `【 cohabit 同居 v 】` // --------------------- 【 illegal cohabitation. 非法同居 】
 - `【 inhabit 居住在 栖息于 v 】`
 - > 【 settle 定居 v 】
 - > 【 reside 居住在 v 】
@@ -887,10 +888,25 @@
 - _【 inhibit 抑制 v 】_ // --------------------- 【 inhibit growth. 抑制生长 v 】
 - _【 prohibit 禁止 v 】_
 - _【 exhibit 展览 v 展览品 n 】_ // ------------- 【 exhibition 展览 n 】 【 exhibition hall. 展览馆 】 【 art exhibition. 艺术展览 】
+- AA.
+- _【 vote 投票 v 】_ // ------------------------ 【 anonymous voting. 匿名投票 n 】
+- _【 elect 选举 v 】_
+- > 【 anonymous complaint. 匿名投诉 】
+- > 【 anonymous donation. 匿名捐赠 n 】
+- > 【 anonymous voting. 匿名投票 n 】
+- > 【 anonymous letter. 匿名信 n 】
+- 【 anonymous letter. 匿名信 n 】
+- 【 cover letter. 求职信 】
+- 【 resignation letter. 辞职信 n 】
+- 【 capital letter. 大写字母 】
+- > 【 capital letter. 大写字母 】
+- > 【 uppercase letter. 大写字母 】
+- > 【 lowercase letter. 小写字母 】
 -
 -
 - // TIPS: Pay attention to the pronunciation of the word 'settle'. [settle-定居-v]
 - // TIPS: Pay attention to the pronunciation of the word 'worker'. [coworker-同事-n]
+- // TIPS: Pay attention to the pronunciation of the word 'elect'. [elect-选举-v]
 -
 - [AA.]
 - `【 coach 教练 n 】`
@@ -918,7 +934,7 @@
 - [EE.]
 - `【 illegal cohabitation. 非法同居 n 】`
 - punish VS publish
-- **【 The 【 illegal cohabitation 】 means that you will be punished by law. 非法同居意味着你们将受到法律的制裁 】**
+- **【 The 【 illegal cohabitation 】 means that you will be 【 punished by law 】. 非法同居意味着你们将受到法律的制裁 】**
 -
 - [FF.]
 - `【 bull 公牛 n 】`
@@ -931,3 +947,10 @@
 - `【 bull market. 牛市 n 】`
 - `【 bear market. 熊市 n 】`
 - **【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】**
+-
+- [HH.]
+- `【 resident 居民 n 】`
+- `【 president 总统 n 】`
+- `【 vote 投票 v 】`
+- `【 elect 选举 v 】`
+- **【 The 【 residents 】 are 【 voting 】 to 【 elect 】 a 【 president 】. 居民正在投票选举新的总统 】**
