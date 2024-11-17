@@ -980,3 +980,32 @@ The 【 cliff 】 is very 【 steep 】.
 8
 根据过期时间判断，这个食物即将过期
 ```
+
+##### 21 Make sentences 2024-11-21
+
+```
+1
+This is your 【 subjective thought 】 【 rather than 】 【 an 】 【 objective fact 】.
+这是你主观的想法，并不是客观的事实
+// -
+// 【 subjective thought. 主观想法 】
+// 【 objective fact. 客观事实 】
+// -
+// 【 rather than. 而不是... 】
+
+
+2
+我们应该主动追求，而不是被动接受
+
+
+3
+I 【 prefer 】 tea 【 rather than 】 coffee.
+我更喜欢茶而不是咖
+// -
+// prefer 更喜欢 v
+// rather than. 而不是 ...
+
+
+4
+电梯快速上升到了 11 楼，然后缓慢下降到 1 楼
+```

@@ -954,3 +954,54 @@
 - `【 vote 投票 v 】`
 - `【 elect 选举 v 】`
 - **【 The 【 residents 】 are 【 voting 】 to 【 elect 】 a 【 president 】. 居民正在投票选举新的总统 】**
+
+###### Must 2024-11-17
+
+- 1
+- `【 subjective 主观的 adj 】` // -------------- 【 subjective thought. 主观想法 n 】
+- `【 objective 客观的 adj 】` // --------------- 【 objective fact. 客观事实 n 】
+- _【 subject 主语 n 】_
+- _【 object 宾语 n 】_
+-
+- `【 active 主动的 adj 】` // ------------------- 【 active voice. 主动语态 n 】
+- `【 passive 被动的 adj 】` // ------------------ 【 passive voice. 被动语态 n 】
+- _【 actively 主动地 adv 】_ // ----------------- 【 actively pursue. 主动追求 v 】
+- _【 passively 被动地 adv 】_ // ---------------- 【 passively accept. 被动接受 v 】
+-
+- `【 ascend 上升 v 】` // ----------------------- 【 quickly ascend. 快速上升 v 】
+- `【 descend 下降 v 】` // ---------------------- 【 slowly descend. 缓慢下降 v 】
+-
+- `【 increase 增加 v n 】`
+- `【 decrease 减少 v n 】`
+-
+- `【 advance 前进 v n 】`
+- `【 retreat 后退 v n 】`
+- `【 forward 前进的 前进地 】`
+- `【 backward 后退的 后退地 】`
+- _【 in advance. 提前 adv 】_
+- _【 make an advance. 取得进展 】_
+- > 【 battlefield 战场 n 】
+- > 【 battle 战斗 战争 战役 v n 】
+-
+- // The elevator descends slowly to the ground floor. 电梯缓缓的向一楼下降
+  // The flight is descending now. 飞机正在降落
+-
+- [AA.]
+- `【 actively pursue. 主动追求 v 】`
+- `【 passively accept. 被动接受 v 】`
+- `【 rather than. 而不是... 】`
+- **【 We should 【 actively pursue 】 【 rather than 】 【 passively accept 】. 我们应该主动追求，而不是被动接受 】**
+-
+- [BB.]
+- `【 subjective thought. 主观想法 n 】`
+- `【 objective fact. 客观事实 n 】`
+- `【 rather than. 而不是... 】`
+- **【 This is your 【 subjective thought 】 【 rather than 】 an 【 objective fact 】. 这是你主观的想法，而不是客观事实 】**
+-
+- [CC.]
+- `【 quickly ascend. 快速上升 v 】`
+- `【 slowly descend. 缓慢下降 v 】`
+- **【 The elevator 【 quickly ascended 】 to the 11th floor, and then 【 slowly descended 】 to the 1st floor. 电梯快速上升到了 11 楼，然后缓慢下降到 1 楼 】**
+-
+- [DD.]
+- **【 士兵的前进和后退需要根据战场的情况而定 】**

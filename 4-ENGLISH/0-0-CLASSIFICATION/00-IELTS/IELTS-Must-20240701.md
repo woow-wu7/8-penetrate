@@ -751,15 +751,20 @@
 - `【 modify 修改 修饰 v 】`
 - **【 【 adjectives 】 are used to 【 modify 】 【 nouns 】. 形容词用来修饰名词 】**
 -
-- `【 subject 主语 】`
+- `【 subject 主语 】` // ---------------- subjective 主观的 adj
 - `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
-- `【 object 宾语 物体 对象 】`
+- `【 object 宾语 物体 对象 】` ----------- objective 客观的 adj
 - `【 attributive 定语 】` // ------------ 【 attribute 属性 】
 - `【 adverbial 状语 】` // -------------- 【 adverb 副词 】 // 【 verb 动词 】
 - `【 complement 补语n 补充v 补足v 】` // - 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
 - > 【 supplement 补充 v 】 // ------------- supplement energy. supplement nutrition.
 - > 【 complement 补充 v 】
 - > 【 complementary 互补的 补充的 adj 】// 【 complementary colors. 互补色 n 】
+- AA.
+- _【 subjective 主观的 adj 】_ // ------ 【 subjective thought. 主观想法 n 】
+- _【 objective 客观的 adj 】_ // ------- 【 objective fact. 客观事实 n 】
+- **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
+- // TIPS: pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
 -
 - `【 noun 名词 】` // ----------------- 【 countable noun. 可数名词 】 【 uncountable noun. 不可数名词 】
 - `【 pronoun 代词 】` // -------------- 【 personal pronoun. 人称代词 n 】 【 possessive pronoun. 物主代词 n 】 【 reflexive pronoun. 反身代词 】
@@ -965,6 +970,11 @@
 - `【 present 目前n 礼物n 目前的adj 】`
 - `【 at present. 目前 adv 】`
 - **【 【 At present 】, I don't received any 【 present 】. 目前我没有收到任何礼物 】**
+-
+- [TT.]
+- `【 subjective thought. 主观想法 】`
+- `【 objective fact. 客观事实 】`
+- **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
 
 ###### Must 2024-07-18
 
