@@ -959,10 +959,12 @@
 ###### Must 2024-11-17
 
 - 1
-- `【 subjective 主观的 adj 】` // -------------- 【 subjective thought. 主观想法 n 】
+- `【 subjective 主观的 adj 】` // -------------- 【 subjective thought. 主观想法 n 】 【 subjective feeling. 主观感受 】
 - `【 objective 客观的 adj 】` // --------------- 【 objective fact. 客观事实 n 】
 - _【 subject 主语 n 】_
 - _【 object 宾语 n 】_
+- > 【 subjective thought. 主观想法 n 】
+- > 【 subjective feeling. 主观感受 n 】
 -
 - `【 active 主动的 adj 】` // ------------------- 【 active voice. 主动语态 n 】
 - `【 passive 被动的 adj 】` // ------------------ 【 passive voice. 被动语态 n 】
@@ -971,19 +973,24 @@
 -
 - `【 ascend 上升 v 】` // ----------------------- 【 quickly ascend. 快速上升 v 】
 - `【 descend 下降 v 】` // ---------------------- 【 slowly descend. 缓慢下降 v 】
+- _【 float up. 上浮 v 】_
+- _【 sink down. 下沉 v 】_
 -
 - `【 increase 增加 v n 】`
 - `【 decrease 减少 v n 】`
 -
 - `【 advance 前进 v n 】` // -------------------- 【 in advance. 提前 】 【 make an advance. 取得进展 】
-- `【 retreat 后退 v n 】`
+- `【 retreat 后退 v n 】` // --------------------- treat VS retreat
 - `【 forward 前进的 前进地 】` // ---------------- 【 look forward to sth. 期待某事 】
 - `【 backward 后退的 后退地 】`
-- > 【 look forward to sth. 期待某事 】
+- _【 in advance. 提前 】_
+- _【 make an advance. 取得进展 】_
+- > 【 look forward to sth. 期待某事 】 // --------【 We 【 look forward to 】 your reply. 期待你的回复 】
 -
 - `mood`: ---------------- happy sad
 - `thickness`: ----------- thick thin
-- `humidity`: ------------ wet/humid  dry
+- `weight`: -------------- light heavy // ------ 【 a beam of light. 一束光 】 【 a bolt of lightning. 一道闪电 】 // 【 light 光 n 轻的 adj 】
+- `humidity`: ------------ wet/humid dry
 - // intensity
 - // density
 - // concentration
@@ -1004,6 +1011,11 @@
 - CC.
 - _【 battlefield 战场 n 】_
 - _【 battle 战斗 战争 战役 v n 】_
+- DD.
+- _【 light 光 n / 轻的 adj / 轻地 adv 】_
+- _【 a beam of light. 一束光 】_
+- _【 a bolt of lightning. 一道闪电 】_
+- **【 The beam of light 】 is 【 emitted 】 by both 【 high beam 】 and the 【 low beam 】. 这一束光来自一道闪电**
 -
 - [AA.]
 - `【 actively pursue. 主动追求 v 】`
@@ -1016,6 +1028,7 @@
 - `【 objective fact. 客观事实 n 】`
 - `【 rather than. 而不是... 】`
 - **【 This is your 【 subjective thought 】 【 rather than 】 an 【 objective fact 】. 这是你主观的想法，而不是客观事实 】**
+- **【 The 【 subjective feeling 】 can 【 generate 】 【 subjective thought 】. 主观感受会产生主观想法 】**
 -
 - [CC.]
 - `【 quickly ascend. 快速上升 v 】`
@@ -1038,3 +1051,21 @@
 - [FF.]
 - `【 look forward to sth. 期待某事 】`
 - **【 We 【 look forward to 】 your 【 reply 】. 我们很期待你的回复 】**
+-
+- [GG.]
+- `【 subjective feeling. 主观感受 n 】`
+- `【 subjective thought. 主观想法 n 】`
+- `【 generate 产生 生成 v 】`
+- **【 The 【 subjective feeling 】 can 【 generate 】 【 subjective thought 】. 主观感受会产生主观想法 】**
+- **【 This is your 【 subjective thought 】 【 rather than 】 an 【 objective fact 】. 这是你主观的想法，而不是客观事实 】**
+-
+- [HH.]
+- `【 float up. 上浮 v 】`
+- `【 sink down. 下沉 v 】`
+- > 【 while 当...时 / 于此同时 / 然而 】
+- **【 The light objects will 【 float up 】, 【 while 】 the heavy objects will 【 sink down 】. 轻的物体将会上浮，而重的物体将会下沉 】**
+-
+- [II.]
+- `【 a beam of light. 一束光 n 】`
+- `【 a bolt of lightning. 一道闪电 n 】`
+- **【 The 【 beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**

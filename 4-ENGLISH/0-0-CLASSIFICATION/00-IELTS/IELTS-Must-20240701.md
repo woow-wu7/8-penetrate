@@ -751,7 +751,7 @@
 - `【 modify 修改 修饰 v 】`
 - **【 【 adjectives 】 are used to 【 modify 】 【 nouns 】. 形容词用来修饰名词 】**
 -
-- `【 subject 主语 】` // ---------------- subjective 主观的 adj
+- `【 subject 主语 】` // ---------------- 【 subjective thought. 主观想法 】 【 subjective feeling. 主观感受 】 // subjective 主观的 adj
 - `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
 - `【 object 宾语 物体 对象 】` ----------- objective 客观的 adj
 - `【 attributive 定语 】` // ------------ 【 attribute 属性 】
@@ -761,7 +761,7 @@
 - > 【 complement 补充 v 】
 - > 【 complementary 互补的 补充的 adj 】// 【 complementary colors. 互补色 n 】
 - AA.
-- _【 subjective 主观的 adj 】_ // ------ 【 subjective thought. 主观想法 n 】
+- _【 subjective 主观的 adj 】_ // ------ 【 subjective thought. 主观想法 n 】 【 subjective feeling. 主观感觉 n 】
 - _【 objective 客观的 adj 】_ // ------- 【 objective fact. 客观事实 n 】
 - **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
 - // TIPS: pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
