@@ -49,7 +49,7 @@ bomb 炸弹 n
 atom bomb. 原子弹 n
 explode 爆炸 v // ------------------------------- explosion sound. 爆炸声
 burn 燃烧 v
--
+--
 draw the pistol. 拔出手枪
 attach the scope. 装上瞄准镜
 insert the magazine. 插入弹夹
@@ -59,8 +59,16 @@ insert the magazine. 插入弹夹
 
 
 
-
 3
+war 战争 n
+battle 战斗 斗争 v // ---------------------------- battle VS battlefield
+battlefield 战场 n
+--
+break out. 爆发 v // ---------------------------- 【 war break out. 战争爆发了 】
+
+
+
+4
 fugitive 逃犯
 refugee 难民
 refuge 避难所

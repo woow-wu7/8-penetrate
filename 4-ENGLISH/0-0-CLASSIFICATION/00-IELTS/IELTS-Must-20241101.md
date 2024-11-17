@@ -663,6 +663,7 @@
 - > 【 sweet nothing. 甜言蜜语 】
 - > 【 sweet dream. 好梦 】
 - AA.
+- _【 humidity 湿度 n 】_
 - _【 humid 潮湿的 adj 】_ // -----------------【 humid weather. 潮湿的天气 】 【 humidifier 加湿器 】 // humid moist damp
 - _【 moist 潮湿的 adj 】_
 - _【 damp 潮湿的 adj 】_ // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
@@ -974,17 +975,35 @@
 - `【 increase 增加 v n 】`
 - `【 decrease 减少 v n 】`
 -
-- `【 advance 前进 v n 】`
+- `【 advance 前进 v n 】` // -------------------- 【 in advance. 提前 】 【 make an advance. 取得进展 】
 - `【 retreat 后退 v n 】`
-- `【 forward 前进的 前进地 】`
+- `【 forward 前进的 前进地 】` // ---------------- 【 look forward to sth. 期待某事 】
 - `【 backward 后退的 后退地 】`
+- > 【 look forward to sth. 期待某事 】
+-
+- `mood`: ---------------- happy sad
+- `thickness`: ----------- thick thin
+- `humidity`: ------------ wet/humid  dry
+- // intensity
+- // density
+- // concentration
+- // brightness: ---------- bright dim/dark
+- // speed: --------------- fast slow
+- // length: -------------- long short
+- // width: --------------- wide narrow
+- // height: -------------- high low
+-
+- AA.
 - _【 in advance. 提前 adv 】_
 - _【 make an advance. 取得进展 】_
-- > 【 battlefield 战场 n 】
-- > 【 battle 战斗 战争 战役 v n 】
--
-- // The elevator descends slowly to the ground floor. 电梯缓缓的向一楼下降
-  // The flight is descending now. 飞机正在降落
+- > 【 make an effort. 努力 】
+- > 【 make an appointment. 预约 】
+- BB.
+- _【 look forward to. 期待 】_
+- **【 We look forward to your reply. 我们很期待你的回复 】**
+- CC.
+- _【 battlefield 战场 n 】_
+- _【 battle 战斗 战争 战役 v n 】_
 -
 - [AA.]
 - `【 actively pursue. 主动追求 v 】`
@@ -1004,4 +1023,18 @@
 - **【 The elevator 【 quickly ascended 】 to the 11th floor, and then 【 slowly descended 】 to the 1st floor. 电梯快速上升到了 11 楼，然后缓慢下降到 1 楼 】**
 -
 - [DD.]
-- **【 士兵的前进和后退需要根据战场的情况而定 】**
+- `【 advance 前进 v n 】`
+- `【 retreat 后退 v n 】` // ----------------- treat VS retreat
+- `【 battlefield 战场 n 】`
+- `【 soldier 士兵 n 】`
+- **【 The 【 advance 】 and 【 retreat 】 of the 【 soldiers 】 should 【 be determined 】 【 according to 】 the situation 【 on 】 the 【 battlefield 】. 士兵的前进和后退需要根据战场的情况而定 】**
+- // -- determine. 决定 确定 v
+-
+- [EE.]
+- `【 break out. 爆发 v 】`
+- `【 battlefield 战场 n 】`
+- **【 The war 【 broke out 】 on a new 【 battlefield 】. 战争在新的战场打响了 】**
+-
+- [FF.]
+- `【 look forward to sth. 期待某事 】`
+- **【 We 【 look forward to 】 your 【 reply 】. 我们很期待你的回复 】**
