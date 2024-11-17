@@ -1081,7 +1081,7 @@
 - `【 in public. 公开地 adv 】`
 - `【 in secret. 秘密地 adv 】`
 -
-- `【 in addition. 此外 adv 】` // --------------- 【 addition 加 添加 附加 n 】 VS 【 condition 条件 n 】
+- `【 in addition. 此外 adv 】` // --------------- 【 addition 加 添加 附加 n 】 VS 【 condition 条件 n 】 VS 【 tradition 传统 n 】
 - `【 in theory. 理论上 adv 】`
 - `【 in vain. 徒劳地 adv 】`
 -
@@ -1093,18 +1093,29 @@
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
 - `【 on purpose. 故意地 adv 】`
+- `【 not at all. 一点也不 】`
+-
+- _【 addition 加法 添加 附加 n 】_ // -------------- 【 in addition. 此外 adv 】
+- _【 condition 条件 状况 n 】_ // ----------------- _【 favorable condition. 有利条件 n 】_
+- _【 tradition 传统 n 】_
+-
+- > 【 favorable 有利的 adj 】 // ------------------ 【 favorable condition. 有利条件 n 】
+- > 【 favorite 最喜欢的 adj 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'depth'. [depth-深度-n]
-- // TIPS: Pay attention to the pronunciation of the word 'condition'. [ condition-条件-n]
+- // TIPS: Pay attention to the pronunciation of the word 'condition'. [condition-条件-n]
+- // TIPS: Pay attention to the pronunciation of the word 'vain'. [vain-徒劳地-adj]
 - vain 徒劳的
 - van 面包车
-  // Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
+- // Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
 -
 - [AA.]
 - `【 analyze 分析 v 】`
 - `【 in turn. 依次地 adv 】`
 - `【 in depth. 详细地 adv 】`
+- `【 in advance. 提前 adv 】`
 - **【 Let's 【 analyze 】 the 【 following 】 questions 【 in turn 】 and 【 in depth 】. 让我们依次并深入分析下面这些问题 】**
+- **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
 - // -- 【 analyze 分析 v 】
 - // -- 【 analysis 分析 n 】
 - // -- 【 one by one. 依次地 adv 】 = in turn.
@@ -1144,6 +1155,10 @@
 - `【 in turn. 依次地 adv 】`
 - `【 in advance. 提前 adv 】`
 - **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
+- **【 Let's 【 analyze 】 the 【 following 】 questions 【 in turn 】 and 【 in depth 】. 让我们依次并深入分析下面这些问题 】**
+- // -- 【 analyze 分析 v 】
+- // -- 【 analysis 分析 n 】
+- // -- 【 one by one. 依次地 adv 】 = in turn.
 -
 - [GG.]
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
@@ -1163,3 +1178,16 @@
 - // -- 【 result 结果 n 】
 - // -- 【 consequence 后果 n 】
 - // -- 【 consult about sth. 咨询某事 】
+-
+- [LL.]
+- `【 depth 厚度 n 】`
+- `【 deep 深的 】`
+- `【 shallow 浅的 】`
+- **【 We use 【 depth 】 to 【 measure 】 how 【 deep 】 or 【 shallow 】 something 【 is 】. 我们用深度来衡量某物是深还是浅 】**
+-
+- [MM.]
+- `【 not at all. 一点也不 】`
+- **【 It's 【 not 】 difficult to learn English well 【 at all 】. 学好英语一点也不难 】**
+- **【 He was 【 not happy at all 】 after 【 getting a promotion 】. 升职后他一点也不开心 】**
+- // -- promotion 提升 升职 促销 n
+- // -- promote 提升 升职 促销 v
