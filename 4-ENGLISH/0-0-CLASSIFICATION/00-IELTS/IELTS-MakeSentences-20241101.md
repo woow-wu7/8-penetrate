@@ -347,6 +347,10 @@ A 【 cipher 】 is a not password.
 // 【 cipher 密码 暗号 n 】
 ```
 
+##### 分割线 ------- ------- ------- ------- ------- ------- -------
+
+##### 分割线 ------- ------- ------- ------- ------- ------- -------
+
 ##### 8 Make sentences 2024-11-08
 
 ```
@@ -1067,4 +1071,32 @@ I 【 prefer 】 tea 【 rather than 】 coffee.
 学好英语一点也不难
 -
 升职后他一点也不开心
+```
+
+##### 23 Make sentences 2024-11-23
+
+```
+1
+Did your exam 【 go smoothly 】?
+你的考试还顺利吗？
+-
+He 【 got through 】 the hardest period of time 【 smoothly 】, and passed the exam 【 smoothly 】.
+他顺利度过了最艰难的时期，顺利通过了考试
+-
+He ran across all the 【 smooth pavements 】, and reached the 【 finish line 】 【 smoothly 】.
+他跑过所有光滑的路面，顺利到达了终点
+// -
+// smooth 平滑的 光滑的 顺利的 adj
+// smoothLy 平滑地 光滑地 顺利的 adv
+// -
+// 【 smooth pavement. 平滑的路面 n 】
+// 【 finish line. 终点 n 】
+
+
+2
+The image can be 【 enlarged 】 and 【 reduced 】.
+这个图片可以放大和缩小
+// -
+// 【 enlarge 放大 v 】
+// 【 reduce 缩小 v 】
 ```

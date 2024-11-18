@@ -388,7 +388,7 @@
 - **【 The 【 residents 】 are 【 voting 】 to 【 elect 】 the 【 president 】. 居民正在投票选举总统 】**
 -
 - `【 sigh 叹气 】` // --------------------------- 【 he sighed. 他叹了一口气 】
-- `【 sign 签名v 标志n 】` // --------------------- 【 signature 签名 n 】
+- `【 sign 签名v 标志n 】` // --------------------- 【 sign a contract. 签合同 v 】 【 signature 签名 n 】
 - `【 assign 分配 指派 v 】` // --------------------【 assignment 任务 作业 n 】 // sign assign resign
 - `【 resign 辞职 v 】` // ------------------------【 resignation application. 离职申请 n 】 【 resignation letter. 辞职信 n 】
 - `【 assignment. 任务 分配 n 】` // ------------- _【 class assignment. 课堂作业 n 】_
@@ -979,6 +979,17 @@
 - `【 increase 增加 v n 】`
 - `【 decrease 减少 v n 】`
 -
+- `【 enlarge 放大 v 】`
+- `【 reduce 缩小 减少 v 】`
+-
+- `【 uppercase 大写字母 n 】` // ---------------- 【 uppercase letter. = capital letter. 大写字母 】
+- `【 lowercase 小写字母 n 】`
+- _【 uppercase letter. 大写字母 】_
+- _【 capital letter. 大写字母 】_
+- _【 cover letter. 求职信 】_
+- _【 resignation letter. 辞职信 】_
+- _【 anonymous letter. 匿名信 】_
+-
 - `【 advance 前进 v n 】` // -------------------- 【 in advance. 提前 】 【 make an advance. 取得进展 】
 - `【 retreat 后退 v n 】` // --------------------- treat VS retreat
 - `【 forward 前进的 前进地 】` // ---------------- 【 look forward to sth. 期待某事 】
@@ -999,6 +1010,8 @@
 - // length: -------------- long short
 - // width: --------------- wide narrow
 - // height: -------------- high low
+-
+- // TIPS: Pay attention to the pronunciation of the word 'ascend'. [ascend-上升-v]
 -
 - AA.
 - _【 in advance. 提前 adv 】_
@@ -1069,6 +1082,11 @@
 - `【 a beam of light. 一束光 n 】`
 - `【 a bolt of lightning. 一道闪电 n 】`
 - **【 The 【 beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
+-
+- [JJ.]
+- `【 enlarge 放大 v 】`
+- `【 reduce 缩小 减少 v 】`
+- **【 The image can be 【 enlarged 】 and 【 reduced 】. 这个图片可以放大和缩小 】**
 
 ###### Must 2024-11-18
 
@@ -1102,9 +1120,14 @@
 - > 【 favorable 有利的 adj 】 // ------------------ 【 favorable condition. 有利条件 n 】
 - > 【 favorite 最喜欢的 adj 】
 -
+- > 【 smooth 平滑的 光滑的 顺利的 adj 】 // --------- 【 smooth pavement. 光滑的路面 n 】 【 smooth skin. 光滑的皮肤 n 】
+- > 【 smoothly 平滑地 光滑地 顺利地 adj 】 // ------- 【 pass smoothly. 顺利通过 v 】 【 get though ... smoothly. 顺利度过 v 】
+- //【 pavement 人行道 路面 n 】
+-
 - // TIPS: Pay attention to the pronunciation of the word 'depth'. [depth-深度-n]
 - // TIPS: Pay attention to the pronunciation of the word 'condition'. [condition-条件-n]
 - // TIPS: Pay attention to the pronunciation of the word 'vain'. [vain-徒劳地-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'hurry'. [hurry-匆忙的-adj]
 - vain 徒劳的
 - van 面包车
 - // Throw away the chocolate, or your efforts to lose weight will be in vain. 扔掉那块巧克力，不然你未减肥所做的努力就白费了
@@ -1156,6 +1179,7 @@
 - `【 in advance. 提前 adv 】`
 - **【 Please answer this question 【 in turn 】, not 【 in advance 】. 请依次回答这个问题，不要提前回答 】**
 - **【 Let's 【 analyze 】 the 【 following 】 questions 【 in turn 】 and 【 in depth 】. 让我们依次并深入分析下面这些问题 】**
+- **【 Let's 【 talk about 】 this topic 【 in depth 】 and 【 in detail 】. 让我们深入并详细地谈论这个话题 】**
 - // -- 【 analyze 分析 v 】
 - // -- 【 analysis 分析 n 】
 - // -- 【 one by one. 依次地 adv 】 = in turn.
@@ -1191,3 +1215,19 @@
 - **【 He was 【 not happy at all 】 after 【 getting a promotion 】. 升职后他一点也不开心 】**
 - // -- promotion 提升 升职 促销 n
 - // -- promote 提升 升职 促销 v
+-
+- [NN.]
+- `【 go smoothly. 进行地顺利 v 】`
+- `【 smoothly 平滑地 光滑地 顺利地 adj 】`
+- `【 smooth 平滑的 光滑的 顺利的 adj 】`
+- **【 Did your exam 【 go smoothly? 】 你的考试还顺利吗？ 】**
+- **【 He 【 got through 】 the 【 hardest 】 【 period 】 【 smoothly 】, and pass the exam 【 smoothly 】. 他顺利度过了最艰难的时期，顺利通过了考试 】**
+- // -- 【 get through. 熬过 通过 v 】
+- // -- period 时期 n
+- // -- stage 阶段 n
+-
+- [OO.]
+- `【 smooth pavement. 光滑的路面 n 】`
+- `【 reach smoothly. 顺利到达 v 】`
+- > 【 finish line. 终点线 n 】
+- **【 He ran across all the 【 smooth pavements 】 and reached the 【 finish line 】 【 smoothly 】. 他跑过所有光滑的路面，顺利到达了终点 】**

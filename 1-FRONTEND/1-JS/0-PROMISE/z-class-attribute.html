@@ -30,8 +30,15 @@
       A.prototype.attr4 = 4; // -- 2. 原型属性
 
       const instance = new A();
+      const instance2 = new A();
+
       console.log("instance", instance);
-      console.log("A.prototype", A.prototype);
+      console.log("instance2.attr1--111111", (instance2.attr1 = 111111));
+      console.log("instance.attr1-1-因为attr1是实例属性，修改实例都只会影响实例本身", instance.attr1);
+
+      console.log("A.prototype", (A.prototype.attr4 = 44444));
+      console.log("instance.attr4-44444-原型属性，修改每个实例都会受到影响", instance.attr4);
+      console.log("instance2.attr4-44444-原型属性，修改每个实例都会受到影响", instance2.attr4);
     </script>
   </body>
 </html>

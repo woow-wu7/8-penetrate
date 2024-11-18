@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Promise.all function implementation</title>
+    <title>Promise.all() function implementation</title>
   </head>
   <body>
     <script>
@@ -58,6 +58,11 @@
                 result[i] = p;
                 index++; // The variable of index is used to 【 ensure 】 that the parameters and return values of the Promise._all function are in the same order.
                 if (index === arr.length) resolve(result);
+
+                // if (result.length === arr.length) resolve(result);
+                // 问题: 这里不能用 if (result.length === arr.length) resolve(result);
+                // 原因: 因为在这个例子中，1s时，result[1] = 1, 此时 result=[empty,1]，数组长度是2，和arr.length相等，但是 【 3s的那个promise还没有执行 】
+                // 所以: index 能保证最长时间的那个promise也执行了，所以就可以 resolve 了
               },
               reject
               // reject
@@ -75,9 +80,7 @@
       const list = [p1, p2];
 
       Promise.all(list).then((values) => console.log("original", values));
-      Promise._all(list).then((values) =>
-        console.log("implementation", values)
-      );
+      Promise._all(list).then((values) => console.log("implementation", values));
     </script>
   </body>
 </html>

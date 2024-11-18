@@ -29,6 +29,12 @@
         onFulfilledCallbacks = []; // 成功回调的队列
         onRejectedCallbacks = [];
 
+        // resolve 函数的作用 ( 三个作用 )
+        // - 把状态 ( status ) 从 ( pending -> fulfilled ) -------------- 将 promise 的状态从 pending 变成 fulfilled
+        // - 把终值 ( value ) 赋值为 resolve() 函数传入的 ( 参数 ) --------- 在异步操作成功时调用，并将异步操作的结果作为参数传递出去
+        // - 把 ( onFulfilledCallback 数组 ) 中的函数，依次取出执行 -------- 执行状态变为 fulfilled 时，在 then 函数执行却状态没有变化时的，执行 ( 成功回调队列中的所有函数 )
+        //   - 因为: 如果 promise 中存在异步操作时，then()比 resolve()先执行
+        //   - 所以: 所以在 then()方法中，需要向 onFulfilledCallback 数组中 push 进一个将来在 resolve()中状态变成 fulfilled 后，才会执行的函数
         resolve = (value) => {
           if (this.status === "pending") {
             this.status = "fulfilled";
@@ -64,7 +70,9 @@
       }
 
       new _Promise((resolve, reject) => {
-        setTimeout(() => resolve(2)); // 当 promise 的 executor 函数中，有异步任务时，then不会执行，因为then先于resolve执行，状态并未改变，所以 ---- 我们需要用两个队列来实现执行顺序
+        // 问题: 当 promise 的 executor 函数中，有异步任务时，then不会执行
+        // 原因: 因为then先于resolve执行，状态并未改变，所以 ---- 我们需要用两个队列来实现执行顺序
+        setTimeout(() => resolve(2));
       }).then(
         (value) => console.log(value),
         (reason) => console.log(reason)

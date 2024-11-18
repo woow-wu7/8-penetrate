@@ -32,13 +32,13 @@
       // 优点: 随便多少位都可以
       function getRandomString(len) {
         const marketStr = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        const pick = () => {
+        const pickLetter = () => {
           const index = Math.floor(Math.random() * marketStr.length);
           return marketStr[index];
         };
 
         let res = "";
-        for (let i = 0; i < len; i++) res += pick();
+        for (let i = 0; i < len; i++) res += pickLetter();
         return res;
       }
       const res = getRandomString(10);

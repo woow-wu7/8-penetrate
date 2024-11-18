@@ -1,6 +1,8 @@
 ## Mysql
 
 ```
+distinct 不同的 独特的 清楚的 adj
+
 constraint 约束 n
 
 character 性格 特征
@@ -14,8 +16,6 @@ restrict 约束 v
 ascend 上升 v // ------------- descend 下降 v
 increase 增加 v // ----------- decrease 减少 v
 uppercase 大写 // ------------ lowercase 小写
-
-distinct 不同的 独特的 清楚的 adj
 
 primary key: 主键 -一个表 只能有一个 主键，并且 ( 主键 ) 不能有 ( 重复值 ) 和 ( NULL )
 key: 索引
@@ -122,14 +122,26 @@ GROUP BY
 
 
 4
-修改表
+其他
 - 修改字段名: ALTER TABLE 表名 CHANGE 旧字段名 新字段名 数据类型;
 - 修改列的定义: ALTER TABLE 表名 MODIFY 列名 新数据类型;
 - 修改列的名词: ALTER TABLE 表名 RENAME TO 新列名;
-- alter 改变 更改 v
+- // alter 改变 更改 v
 --
 ALTER TABLE test MODIFY COLUMN name VARCHAR(123); ####### -- 修改 name 列的长度为 123
 ALTER TABLE test RENAME COLUMN name to NAMES; ####### ------ 修改 name 列名为 NAMES
+
+SELECT * FROM music WHERE `name` LIKE "晴%";
+SELECT * FROM music WHERE `name` LIKE "晴__";
+SELECT * FROM music WHERE `name` REGEXP "[晴|七]";
+// LIKE: 运算符用于 - 模式匹配
+// REGEXP: 运算符用于 - 正则表达式匹配
+// %: 是一个 ( 通配符 )，表示任意数量的字符（包括零个字符）
+// _: 每一个下划线表示 ( 一个字符 ) ----------------------------- 这里是两个下划线，所以匹配两个任意字符，也就是说这个 name 一共三个字符
+
+SELECT COUNT(*) from music;
+SELECT singer_id, COUNT(*) from music GROUP BY singer_id;
+// COUNT(*): 计算查询结果中的 总行数
 ```
 
 ## (二) VIEW

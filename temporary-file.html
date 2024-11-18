@@ -520,6 +520,84 @@
       Child100.prototype.age100 = 100;
       const child100 = new Child100("name11", "name12", "name100");
       console.log("child100: ", child100);
+
+      // -----------------------------------------
+      // 30 Promise.all()
+      Promise._all = (_promises) => {
+        return new Promise((resolve, reject) => {
+          const res = [];
+          const arr = Array.from(_promises);
+          console.log("arr: ", arr);
+          arr.forEach((p) => {
+            Promise.resolve(p).then((value) => {
+              console.log("value", value);
+              res.push(value);
+              if (res.length === arr.length) resolve(res);
+            }, reject);
+          });
+        });
+      };
+      const p1 = new Promise((resolve) => {
+        setTimeout(() => {
+          resolve("p1");
+        }, 1000);
+      });
+      const p2 = new Promise((resolve) => {
+        setTimeout(() => {
+          resolve("p2");
+        }, 2000);
+      });
+      Promise._all([p1, p2]).then((values) => {
+        console.log("Promise._all: ", values);
+      });
+      Promise.all([p1, p2]).then((values) => {
+        console.log("Promise.all: ", values);
+      });
+
+      // -----------------------------------------
+      // 31 Promise.race()
+      Promise._race = (_promises) => {
+        return new Promise((resolve, reject) => {
+          Array.from(_promises).forEach((p) => {
+            Promise.resolve(p).then(resolve, reject);
+          });
+        });
+      };
+      const p11 = new Promise((resolve) => setTimeout(() => resolve(3), 3000));
+      const p22 = new Promise((resolve) => setTimeout(() => resolve(2), 2000));
+      const list33 = [p11, p22];
+      Promise.race(list33).then((values) => console.log("promise.race", values));
+      Promise._race(list33).then((values) => console.log("promise._race", values));
+
+      // -----------------------------------------
+      // 31 Promise.retry()
+      Promise._retry = (fn, times) => {
+        let count = 0;
+        return new Promise((resolve, reject) => {
+          function retry() {
+            fn()
+              .then((value) => resolve(value))
+              .catch((err) => {
+                console.warn("count", count);
+                if (count === times) return reject(err); // 0 1 2
+                retry();
+                count++;
+              });
+          }
+          retry();
+        });
+      };
+      const fetch = () => {
+        return new Promise((resolve, reject) => {
+          setTimeout(() => {
+            return Math.random() - 0.9 > 0 ? resolve("success") : reject("failure");
+          }, 1000);
+        });
+      };
+      // test ->  Promise.retry_Promise
+      Promise._retry(fetch, 3)
+        .then((res) => console.warn("Finally succeed:", res))
+        .catch((err) => console.warn("Finally fail:", err));
     </script>
   </body>
 </html>

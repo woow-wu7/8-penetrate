@@ -31,7 +31,14 @@
         return new Promise((resolve, reject) => {
           Array.from(list).forEach((_promise) => {
             Promise.resolve(_promise).then(resolve, reject);
+
+            // 相当于
+            // Promise.resolve(_promise).then(
+            //   (value) => resolve(value),
+            //   (reason) => reject(reason)
+            // );
             // resolve 是 value => resolve(value) 的简写形式
+            // reject 是 reason => reject(reason) 的简写形式
           });
         });
       };
