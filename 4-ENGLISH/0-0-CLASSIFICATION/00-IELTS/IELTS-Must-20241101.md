@@ -965,6 +965,7 @@
 - _【 object 宾语 n 】_
 - > 【 subjective thought. 主观想法 n 】
 - > 【 subjective feeling. 主观感受 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
 -
 - `【 active 主动的 adj 】` // ------------------- 【 active voice. 主动语态 n 】
 - `【 passive 被动的 adj 】` // ------------------ 【 passive voice. 被动语态 n 】
@@ -1091,20 +1092,21 @@
 ###### Must 2024-11-18
 
 - 1
+- `【 in turn. 依次地 adv 】` // ----------------- 【 one by one. = in turn. 依次地 adv 】
+- `【 in advance. 提前 adv 】`
 - `【 in depth. 深入地 adv 】`
 - `【 in detail. 详细地 adv 】`
-- `【 in turn. 依次地 adv 】` // ----------------- 【 one by one. = in turn. 依次地 adv 】
 - _【 one by one. 依次地 adv 】_ = in turn.
 -
 - `【 in public. 公开地 adv 】`
 - `【 in secret. 秘密地 adv 】`
 -
 - `【 in addition. 此外 adv 】` // --------------- 【 addition 加 添加 附加 n 】 VS 【 condition 条件 n 】 VS 【 tradition 传统 n 】
-- `【 in theory. 理论上 adv 】`
 - `【 in vain. 徒劳地 adv 】`
+- `【 in theory. 理论上 adv 】`
 -
-- `【 in total. 总共 adv 】`
 - `【 in summary. 总之 adv 】` // ----------------- 【 in summary. = in conclusion. 总之 adv 】
+- `【 in total. 总共 adv 】`
 - `【 in conclusion. 总之 adv 】`
 -
 - `【 in advance. 提前 adv 】`
@@ -1114,15 +1116,21 @@
 - `【 not at all. 一点也不 】`
 -
 - _【 addition 加法 添加 附加 n 】_ // -------------- 【 in addition. 此外 adv 】
-- _【 condition 条件 状况 n 】_ // ----------------- _【 favorable condition. 有利条件 n 】_
+- _【 condition 条件 状况 n 】_ // ----------------- 【 favorable condition. 有利条件 n 】
 - _【 tradition 传统 n 】_
+- > 【 favorable condition. 有利条件 n 】
 -
-- > 【 favorable 有利的 adj 】 // ------------------ 【 favorable condition. 有利条件 n 】
-- > 【 favorite 最喜欢的 adj 】
+- _【 favorable 有利的 adj 】_ // ------------------ 【 favorable condition. 有利条件 n 】
+- _【 favorite 最喜欢的 adj 】_
+- > 【 favorable condition. 有利条件 n 】
 -
-- > 【 smooth 平滑的 光滑的 顺利的 adj 】 // --------- 【 smooth pavement. 光滑的路面 n 】 【 smooth skin. 光滑的皮肤 n 】
-- > 【 smoothly 平滑地 光滑地 顺利地 adj 】 // ------- 【 pass smoothly. 顺利通过 v 】 【 get though ... smoothly. 顺利度过 v 】
+- _【 smooth 平滑的 光滑的 顺利的 adj 】_ // --------- 【 smooth pavement. 光滑的路面 n 】 【 smooth skin. 光滑的皮肤 n 】
+- _【 smoothly 平滑地 光滑地 顺利地 adj 】_ // ------- 【 smoothly reach. 顺利到达 v 】
+- > 【 smooth pavement. 光滑的路面 n 】
+- > 【 smooth skin. 光滑的皮肤 n 】
+- > 【 smoothly reach. 顺利到达 v 】
 - //【 pavement 人行道 路面 n 】
+- //【 sideway 人行道 n 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'depth'. [depth-深度-n]
 - // TIPS: Pay attention to the pronunciation of the word 'condition'. [condition-条件-n]
@@ -1186,6 +1194,7 @@
 -
 - [GG.]
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
+- `【 make decisions. 做决定 v 】`
 - **【 Please don't 【 make decisions 】 【 in a hurry 】. 请不要匆忙做决定 】**
 -
 - [HH.]
@@ -1231,3 +1240,14 @@
 - `【 reach smoothly. 顺利到达 v 】`
 - > 【 finish line. 终点线 n 】
 - **【 He ran across all the 【 smooth pavements 】 and reached the 【 finish line 】 【 smoothly 】. 他跑过所有光滑的路面，顺利到达了终点 】**
+-
+- [PP.]
+- `【 smooth skin. 光滑的皮肤 n 】`
+- `【 favorable condition. 有利条件 n 】`
+- **【 Her 【 smooth skin 】 is her 【 favorable condition 】. 她光滑的皮肤是她有利的条件 】**
+-
+- [QQ.]
+- `【 smooth pavement. 光滑的路面 n 】`
+- `【 smoothly reach. 顺利到达 v 】`
+- `【 finish line. 终点 n 】`
+- **【 The 【 smooth pavement 】 helped him to 【 smoothly reach 】 the 【 finish line 】. 光滑的路面使他顺利到达了终点 】**

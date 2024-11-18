@@ -132,6 +132,7 @@ ALTER TABLE test MODIFY COLUMN name VARCHAR(123); ####### -- 修改 name 列的�
 ALTER TABLE test RENAME COLUMN name to NAMES; ####### ------ 修改 name 列名为 NAMES
 
 SELECT * FROM music WHERE `name` LIKE "晴%";
+SELECT * FROM music WHERE `name` LIKE "%晴%";
 SELECT * FROM music WHERE `name` LIKE "晴__";
 SELECT * FROM music WHERE `name` REGEXP "[晴|七]";
 // LIKE: 运算符用于 - 模式匹配

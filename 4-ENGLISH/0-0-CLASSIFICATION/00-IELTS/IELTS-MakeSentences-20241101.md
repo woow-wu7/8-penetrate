@@ -1100,3 +1100,20 @@ The image can be 【 enlarged 】 and 【 reduced 】.
 // 【 enlarge 放大 v 】
 // 【 reduce 缩小 v 】
 ```
+
+##### 24 Make sentences 2024-11-24
+
+```
+1
+她光滑的皮肤是她有利的条件
+-
+光滑的路面使他顺利到达了终点
+
+
+2
+这仪器能追踪卡车留下的痕迹
+
+
+3
+这个图片可以放大和缩小
+```
