@@ -1115,6 +1115,8 @@
 - `【 in total. 总共 adv 】`
 - `【 in conclusion. 总之 adv 】`
 -
+- `【 in confusion. 疑惑地 adv 】`
+-
 - `【 in advance. 提前 adv 】`
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
@@ -1257,6 +1259,11 @@
 - `【 smoothly reach. 顺利到达 v 】`
 - `【 finish line. 终点 n 】`
 - **【 The 【 smooth pavement 】 helped him to 【 smoothly reach 】 the 【 finish line 】. 光滑的路面使他顺利到达了终点 】**
+-
+- [RR.]
+- `【 in confusion. 疑惑地 adv 】`
+- `【 scratch head. 挠头 v 】`
+- **【 He 【 scratched 】 his head 【 in confusion 】. 他疑惑地挠了挠头 】**
 
 ###### Must 2024-11-19
 
@@ -1269,6 +1276,9 @@
 - > 【 the disease break out. 爆发疾病 】
 - > 【 the conflict break out. 爆发冲突 】
 - > 【 the contradiction break out. 爆发矛盾 】
+-
+- `【 break up. 分手 v 】` = split up.
+- `【 breakup. 分手 n 】`
 -
 - `【 take a break. 休息一下 = take a rest.】`
 - > 【 take a break. we'll be right back 休息一下 马上回来 】
@@ -1328,3 +1338,10 @@
 - `【 couple 夫妻 情侣 n 】`
 - `【 break out. 爆发 v 】`
 - **【 After the 【 contradiction 】 【 broke out 】, this 【 couple 】 【 broke up 】. 爆发矛盾后，这对情侣分手了 】**
+-
+- [II.]
+- `【 marriage 结婚 n 】` // marry 结婚 v
+- `【 divorce 离婚 v n 】`
+- `【 breakup. 离婚 n 】`
+- **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
+- // -- be called. 被称为...

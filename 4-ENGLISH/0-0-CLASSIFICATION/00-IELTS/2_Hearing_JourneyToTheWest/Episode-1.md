@@ -12,28 +12,49 @@
 - `【 shake hands. 握手 v 】`
 - `【 scratch head. 挠头 v 】`
 - `【 shake head. 摇头 v 】` // ------------------ 【 shake shook. 】
-- `【 in confusion. 困惑地 adv 】` // ------------ 【 in confusion. 困惑的 adj 】
-- **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+- `【 in confusion. 困惑地 adv 】` // ------------ _【 in confusion. 困惑的 adj 】_
+- **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
 - **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- **【 He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头 】**
 - [BB.]
 - `【 scratch an itch. 挠痒 v 】`
 - `【 scratch 挠痒v 划痕n 】`
 - **【 After 【 scratching an itch 】, he left a 【 scratch 】. 他挠痒后，留下了划痕 】**
+- [CC.]
+- `【 in confusion. 疑惑地 adv 】`
+- `【 scratch head. 挠头 v 】`
+- **【 He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头 】**
 -
 -
 -
 - 2
+- `【 shrug shoulders. 耸肩 】`
+- `【 shrug 耸肩 v 】`
+- `【 in confusion. 困惑的 adj 】`
+- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+-
+-
+-
+- 3
 - `【 split open. 裂开 分裂 v 】`
-- `【 split up. 分手 分开 】` = break up. 分手
+- `【 split up. 分手 分开 v  】` = break up. 分手 v
 - `【 divorce 离婚 v n 】`
-- split VS conflict 冲突争执
+- `【 marry 结婚 v 】` // ------------------------- marry 结婚 v // marriage 结婚 n
 - > 【 split 分裂 分离 v 】
-- > String.prototype.split()
-- > String.prototype.search()
-- > String.prototype.match()
-- > String.prototype.replace()
+- > 【 break up. 分手 v 】
+- > 【 breakup. 分手 n 】
+- split 分裂 分离 VS conflict 冲突争执
+- _【 break out. 爆发 v 】_
+- _【 break in. 闯入 v 】_
+- _【 break up. 分手 = split up. 分手 】_ // -------- break up. 分手 v // breakup.分手 n
+- _【 break down. 崩溃 v 故障 n 分解 v 】_
+- [Must 2024-11-19](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
+-
 - [AA.]
+- `【 split open. 裂开 v 】`
 - **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
+-
 - [BB.]
 - `【 split up. 分手 分开 v 】` = break up.
 - `【 split open. 裂开 v 】`
@@ -41,23 +62,22 @@
 - **【 After 【 splitting up 】, he 【 split open 】. 分手后他裂开了 】**
 - **【 After 【 breaking up 】, he 【 split open 】. 分手后他裂开了 】**
 -
+- [CC.]
+- `【 marriage 结婚 n 】` // marry 结婚 v
+- `【 divorce 离婚 v n 】`
+- `【 breakup. 离婚 n 】`
+- **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
+- // -- be called. 被称为...
 -
 -
-- 3
+-
+-
+- 4
 - `【 rush out of. 从...冲出去 】`
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
 - **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
 - // -- roommate 室友 n
--
--
--
-- 4
-- `【 shrug shoulders. 耸肩 】`
-- `【 shrug 耸肩 v 】`
-- `【 in confusion. 困惑的 adj 】`
-- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
-- **【 After 【 shaking hands 】, he 【 scratch his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
 -
 -
 -

@@ -118,7 +118,7 @@
 - `【 shuttle bus. 班车 区间车 n 】`
 - _【 shut down. 关闭 停业 v 】_
 - _【 shutdown. 关闭 停业 n 】_
-- > 【 rush out. 冲出去 v 】
+- > 【 rush out. 冲出去 v 】 // --------------- 【 rush out of sp. 从...冲出去 】
 - > 【 rush over. 冲忙赶到... 冲过去 v 】
 - > 【 rush hour. 高峰期 】
 - > 【 【 morning 】 rush hour. 早高峰 】
