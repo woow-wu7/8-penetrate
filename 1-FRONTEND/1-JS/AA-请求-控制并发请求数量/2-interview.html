@@ -7,15 +7,6 @@
   </head>
   <body>
     <script>
-      setInterval(() => {
-        console.log("1", 1);
-      }, 1000);
-
-      const timeout = (time, order) =>
-        new Promise((resolve) => {
-          setTimeout(() => resolve(order), time);
-        });
-
       class Scheduler {
         queue = [];
 
@@ -39,10 +30,20 @@
           }
         };
       }
+
+      setInterval(() => {
+        console.log("1", 1);
+      }, 1000);
+
+      const task = (time, order) =>
+        new Promise((resolve) => {
+          setTimeout(() => resolve(order), time);
+        });
+
       const scheduler = new Scheduler();
 
       const addTask = (time, order) => {
-        scheduler.add(() => timeout(time, order));
+        scheduler.add(() => task(time, order));
       };
 
       // 限制同一时刻只能执行2个task
@@ -52,11 +53,11 @@
       addTask(8000, "4");
       //实现一个 scheduler.add方法，模拟一个异步串行队列，最大并发数是2
       //2秒后打印1
-      //5秒打印3
+      //5秒打印3 -------------- 注意: 这里是 第5秒，而不是再过5秒
       //6秒打印2
       //13秒打印4
 
-      scheduler.run(2);
+      scheduler.run(2); // 参数是每次执行的 并发数量2
     </script>
   </body>
 </html>

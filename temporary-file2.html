@@ -9,19 +9,15 @@
     <script>
       // -----------------------------------------
       // 31 _Promise
-
       class _Promise {
         status = "pending";
         value = "";
         reason = "";
-
         onFulfilledCallback = [];
         onRejectedCallback = [];
-
         constructor(executor) {
           executor(this.resolve, this.reject);
         }
-
         resolve = (value) => {
           if (this.status === "pending") {
             this.status = "fulfilled";
@@ -29,7 +25,6 @@
             this.onFulfilledCallback.forEach((fn) => fn(value));
           }
         };
-
         reject = (reason) => {
           if (this.status === "pending") {
             this.status = "rejected";
@@ -37,16 +32,13 @@
             this.onRejectedCallback.forEach((fn) => fn(reason));
           }
         };
-
         then = (onFulfilled, onRejected) => {
           if (this.status === "fulfilled") {
             setTimeout(() => onFulfilled(this.value));
           }
-
           if (this.status === "rejected") {
             setTimeout(() => onRejected(this.reason));
           }
-
           if (this.status === "pending") {
             this.onFulfilledCallback.push((value) => setTimeout(() => onRejected(value)));
             this.onRejectedCallback.push((reason) => setTimeout(() => onRejected(reason)));
@@ -59,7 +51,6 @@
           const result = [];
           let count = 0;
           const arr = Array.from(values);
-
           arr.forEach((_promise, index) => {
             Promise.resolve(_promise).then((value) => {
               // result.push(value);
@@ -76,7 +67,6 @@
       Promise._race = (values) => {
         return new Promise((resolve, reject) => {
           const arr = Array.from(values);
-
           arr.forEach((_promise, index) => {
             Promise.resolve(_promise).then(resolve, reject);
           });
@@ -113,6 +103,60 @@
       const list33 = [p11, p22];
       Promise.race(list33).then((values) => console.log(values));
       Promise._race(list33).then((values) => console.log(values));
+
+      // -----------------------------------------
+      // 32 Control the number of the concurrent requests.
+      class ControlConcurrency {
+        taskQueue = [];
+        max = 10;
+        runningTaskLength = 0;
+        constructor() {
+          setTimeout(() => this.run());
+        }
+        addTask = (task) => {
+          this.taskQueue.push(task);
+        };
+        run = () => {
+          const len = this.taskQueue.length;
+          if (len === 0) return;
+          const times = Math.min(this.max, len);
+          for (let i = 0; i < times; i++) {
+            this.max--;
+            const task = this.taskQueue.shift();
+            this.runningTaskLength++;
+            task()
+              .then((res) => console.log("res", res))
+              .catch((err) => console.log("err", err))
+              .finally(() => {
+                this.max++;
+                console.log("正在执行的任务数量", this.runningTaskLength);
+                this.runningTaskLength--;
+                this.run();
+              });
+          }
+        };
+      }
+      const controlConcurrency = new ControlConcurrency();
+      for (let i = 0; i < 20; i++) {
+        const task = () => {
+          return new Promise((resolve) => {
+            setTimeout(() => {
+              resolve(i);
+            }, i * 1000);
+          });
+        };
+        controlConcurrency.addTask(task);
+      }
+      console.log("controlConcurrency.taskQueue", controlConcurrency.taskQueue);
+
+      // -----------------------------------------
+      // 33 Error
+      // ReferenceError
+      // RangeError
+      // TypeError
+      // SyntaxError
+      // URIERROR
+      // EvalError
     </script>
   </body>
 </html>

@@ -19,8 +19,8 @@ DD.
 // 注意不是 mean v, 而是 means n
 EE.
 【 purpose 目的 意图 n 】
-【 pursue 追求 v 】 // -------------------------- 【 pursue happiness. 追求幸福 】
-【 chase 追逐 追捕 v 】 // ----------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】 // fugitive VS refugee VS refuge
+【 pursue 追求 v 】 // ------------------------- 【 pursue happiness. 追求幸福 】
+【 chase 追逐 追捕 v 】 // ---------------------- 【 chase dream. 追逐梦想 】 【 chase fugitive. 追捕逃犯 】 // fugitive VS refugee VS refuge
 -
 // -- The 【 purpose 】 of the 【 military training 】 is to use 【 military means 】 to 【 take military actions 】 to solve 【 military conflicts 】.
 // -- 军事训练的目的是用军事手段采取军事行动解决军事冲突
@@ -31,17 +31,17 @@ EE.
 2
 weapon 武器 n
 --
-pistol 手枪 n // -------------------------------- 【 draw a pistol. 拔出手枪 v 】 【 pistol scope. 手枪瞄准镜 n 】
+pistol 手枪 n // ------------------------------ 【 draw a pistol. 拔出手枪 v 】 【 pistol scope. 手枪瞄准镜 n 】
 rifle 步枪 n
-gun 枪 n // ------------------------------------- 【 shoot the gun. 开枪 】 【 fire three shots. 开了三枪 】 //【 gunpowder. 火药 n 】
+gun 枪 n // ----------------------------------- 【 shoot the gun. 开枪 】 【 fire three shots. 开了三枪 】 //【 gunpowder. 火药 n 】
 shoot -> shot 射击 v
 draw -> drew 拔 画 v
 --
-【 scope 范围 瞄准镜 n  】// ---------------------- 【 attach the scope. 装上瞄准镜 】 【 pistol scope. 手枪瞄准镜 n 】
-【 magazine 杂志 弹夹 n 】 // --------------------- 【 insert the magazine. 插入弹夹 】
+【 scope 范围 瞄准镜 n  】// -------------------- 【 attach the scope. 装上瞄准镜 】 【 pistol scope. 手枪瞄准镜 n 】
+【 magazine 杂志 弹夹 n 】 // ------------------- 【 insert the magazine. 插入弹夹 】
 【 fire three shots at. 向...开了三枪 】
 --
-bullet 子弹 n // -------------------------------- 【 bulletproof vest. 防弹衣 n 】 // proof 证据 证明 VS roof 屋顶
+bullet 子弹 n // ------------------------------ 【 bulletproof vest. 防弹衣 n 】 // proof 证据 证明 VS roof 屋顶
 missile 导弹 n
 --
 hand grenade. 手榴弹 n
@@ -60,12 +60,21 @@ insert the magazine. 插入弹夹
 
 
 3
-war 战争 n
-battle 战斗 斗争 v // ---------------------------- battle VS battlefield
+war 战争 n //  ------------------------------- 【 The cruel war. 残酷的战争 】
+battle 战斗 斗争 v // ------------------------- 【 battle VS battlefield 】
 battlefield 战场 n
+// cruel war. 残酷的战争 n
+// cruel competition. 残酷的竞争 n
+// intense competition. 激烈的竞争 n
 --
-break out. 爆发 v // ---------------------------- 【 war break out. 战争爆发了 】
-
+break out. 爆发 v // ------------------------- 【 war break out. 战争爆发了 】
+// break in. 闯入
+// break down. 崩溃v 故障n 分解v
+// break up. 分手 解散 v
+-
+physical conflict. 肢体冲突
+// physical relationship. 肉体关系
+-
 
 
 4
@@ -74,5 +83,7 @@ refugee 难民
 refuge 避难所
 --
 soldier 士兵
+enemy 敌人
+-
 pilot 飞行员 n
 ```

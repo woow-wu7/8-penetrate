@@ -674,6 +674,10 @@
 - `【 present tense. 现在时态 】`
 - `【 【 simple 】 present tense. 一般现在时态 】`
 - `【 present 【 perfect 】 tense. 现在完成时态 】`
+- // 【 动词的 (过去式) : ------- 用在 ( 一般过去时 ) 中 】
+- // 【 动词的 (过去分词): ------ 用在 ( 完成时 和 被动语态 ) 中 】
+- // -- have/have + V 的过去分词
+- // -- be + V 的过去分词
 -
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
 - `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】

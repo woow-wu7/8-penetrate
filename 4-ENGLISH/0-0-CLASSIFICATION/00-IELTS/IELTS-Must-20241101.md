@@ -965,17 +965,21 @@
 - _【 object 宾语 n 】_
 - > 【 subjective thought. 主观想法 n 】
 - > 【 subjective feeling. 主观感受 n 】
+- > 【 objective fact. 客观事实 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
 -
 - `【 active 主动的 adj 】` // ------------------- 【 active voice. 主动语态 n 】
 - `【 passive 被动的 adj 】` // ------------------ 【 passive voice. 被动语态 n 】
 - _【 actively 主动地 adv 】_ // ----------------- 【 actively pursue. 主动追求 v 】
 - _【 passively 被动地 adv 】_ // ---------------- 【 passively accept. 被动接受 v 】
+- > 【 actively pursue. 主动追求 v 】
+- > 【 passively accept. 被动接受 v 】
 -
 - `【 ascend 上升 v 】` // ----------------------- 【 quickly ascend. 快速上升 v 】
 - `【 descend 下降 v 】` // ---------------------- 【 slowly descend. 缓慢下降 v 】
 - _【 float up. 上浮 v 】_
 - _【 sink down. 下沉 v 】_
+- // TIPS: Pay attention to the pronunciation of the word 'ascend'. [ascend-上升-v]
 -
 - `【 increase 增加 v n 】`
 - `【 decrease 减少 v n 】`
@@ -990,8 +994,9 @@
 - _【 cover letter. 求职信 】_
 - _【 resignation letter. 辞职信 】_
 - _【 anonymous letter. 匿名信 】_
+- _【 complaint letter. 投诉信 】_
 -
-- `【 advance 前进 v n 】` // -------------------- 【 in advance. 提前 】 【 make an advance. 取得进展 】
+- `【 advance 前进 v n 】` // -------------------- 【 in advance. 提前 】 `【 make an advance. 取得进展 】`
 - `【 retreat 后退 v n 】` // --------------------- treat VS retreat
 - `【 forward 前进的 前进地 】` // ---------------- 【 look forward to sth. 期待某事 】
 - `【 backward 后退的 后退地 】`
@@ -1056,11 +1061,12 @@
 - `【 soldier 士兵 n 】`
 - **【 The 【 advance 】 and 【 retreat 】 of the 【 soldiers 】 should 【 be determined 】 【 according to 】 the situation 【 on 】 the 【 battlefield 】. 士兵的前进和后退需要根据战场的情况而定 】**
 - // -- determine. 决定 确定 v
+- // --【 battlefield 战场 】
 -
 - [EE.]
 - `【 break out. 爆发 v 】`
 - `【 battlefield 战场 n 】`
-- **【 The war 【 broke out 】 on a new 【 battlefield 】. 战争在新的战场打响了 】**
+- **【 The war 【 broke out 】 on a new 【 battlefield 】. 战争在新的战场爆发了 】**
 -
 - [FF.]
 - `【 look forward to sth. 期待某事 】`
@@ -1251,3 +1257,74 @@
 - `【 smoothly reach. 顺利到达 v 】`
 - `【 finish line. 终点 n 】`
 - **【 The 【 smooth pavement 】 helped him to 【 smoothly reach 】 the 【 finish line 】. 光滑的路面使他顺利到达了终点 】**
+
+###### Must 2024-11-19
+
+- 1
+- `【 break out. 爆发 v 】`
+- `【 break in. 闯入 v 】`
+- `【 break up. 分手 解散 v 】` // ------------------ 【 break up. = split up. 分手 】 // 【 split open. 裂开 v 】
+- `【 break down. 分解v 崩溃v 故障n  】`
+- > 【 the war break out. 爆发战争 】
+- > 【 the disease break out. 爆发疾病 】
+- > 【 the conflict break out. 爆发冲突 】
+- > 【 the contradiction break out. 爆发矛盾 】
+-
+- `【 take a break. 休息一下 = take a rest.】`
+- > 【 take a break. we'll be right back 休息一下 马上回来 】
+-
+- 动词的 (过去式) : 用在 ( 一般过去时 ) 中
+- 动词的 (过去分词): 用在 ( 完成时 和 被动语态 ) 中
+- // -- have/have + V 的过去分词
+- // -- be + V 的过去分词
+-
+- [AA.]
+- `【 break out. 爆发 v 】`
+- `【 break in. 闯入 v 】`
+- **【 Before the 【 contradiction 】 【 broke out 】, She 【 broke in 】 my life. 矛盾爆发前，她闯进了我的生活 】**
+- // -- contradiction 矛盾
+- // -- social contradiction. 社会矛盾
+- // -- family contradiction. 家庭矛盾
+- // -- internal contradiction. 内部矛盾
+-
+- [BB.]
+- `【 break out. 爆发 v 】`
+- `【 at the same time. 同时 adv 】`
+- **【 The 【 contradiction 】 and the war 【 broke out 】 【 at the same time 】. 矛盾和战争同时爆发了 】**
+-
+- [CC.]
+- `【 break down. 崩溃v 分解v 故障n 】`
+- `【 break up. 分手 v 】`
+- **【 She 【 extremely 】 【 broke down 】 when she 【 broke up 】. 她分手时十分崩溃 】**
+- // -- 【 extremely 及其 adv 极端地 adv 】
+-
+- [DD.]
+- `【 break down. 崩溃v 故障n 分解v 】`
+- **【 It makes him 【 extremely 】 【 break down 】 that the car 【 breaks down 】. 车辆发生了故障令他十分崩溃 】**
+-
+- [EE.]
+- `【 physical conflict. 肢体冲突 】`
+- `【 break in. 闯入 v 】`
+- `【 break out. 爆发 v 】`
+- **【 The 【 thieves 】 【 broke in 】 the room and a 【 physical conflict 】 【 broke out 】. 小偷闯入了房间，爆发了肢体冲突 】**
+- // -- 【 thief 小偷 n 】
+- // -- 【 thieves 小偷 n 】
+- // -- 【 physical conflict. 肢体冲突 】
+-
+- [FF.]
+- `【 break out. 爆发 v 】`
+- `【 battlefield 战场 n 】`
+- `【 soldier 士兵 n 】`
+- `【 enemy -> enemies 敌人 】`
+- **【 After the war 【 broke out 】, the 【 soldiers 】 killed 【 enemies 】 【 on the battlefield 】. 爆发战争后，战士们在战场杀敌 】**
+-
+- [GG.]
+- `【 disease 疾病 n 】`
+- `【 break out. 爆发 v 】`
+- **【 After the war 【 broke out 】, the 【 disease 】 also 【 broke out 】. 爆发战争后，疾病也爆发了 】**
+-
+- [HH.]
+- `【 break up. 分手 v 】` = split up. 分手
+- `【 couple 夫妻 情侣 n 】`
+- `【 break out. 爆发 v 】`
+- **【 After the 【 contradiction 】 【 broke out 】, this 【 couple 】 【 broke up 】. 爆发矛盾后，这对情侣分手了 】**

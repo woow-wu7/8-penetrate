@@ -4,21 +4,28 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>control the number of concurrent request. 并发数量限制</title>
   </head>
   <body>
     <script>
+      // Control the number of concurrent request.
+
       // 问题: 前端页面中需要同时发送20个请求，设计并发请求数最多为10个
       // 要求:
       // - 1. 最多同时执行 10 个任务
       // - 2. 当前任务执行完后，释放队列空间，自动执行下一个任务
       // - 3. 所有任务添加到任务队列后，自动开始执行任务
 
-      // concurrency 并发
-
+      // English
+      // concurrency 并发 n
+      // currency 货币 n
+      //
+      // concurrent 同时发生的 并发的 adj
+      // current 现在的 当前的 adj
+      //【 concurrent request. 并发请求 】
+      //
       // schedule 安排 v 预定 v 工作计划 n 日程安排 n
       // scheduler 调度程序 n
-
       //【 on schedule. 按计划 按时 】
       // -- 1. The schedule is tight. 日程安排很紧
       // -- 2. I have a full schedule. 我的日程很满
@@ -43,6 +50,7 @@
       class TaskScheduler {
         max = 10;
         taskQueue = [];
+        runningTaskLength = 0;
         // Queue -> fist in first out -> push shift
 
         constructor() {
@@ -65,16 +73,19 @@
           for (let i = 0; i < min; i++) {
             this.max--;
             // this.max
-            // ------------------------------------------ 占用 任务空间 -> 为了保证每次不都是取10个任务，因为最后取的时候，可能不到10个任务了，我们动态修改max
+            // ------------------------------------------ 占用 任务空间 -> 为了保证每次不都是取10个任务，因为最后取的时候，可能不到10个任务了，我们动态修改 max
             // ------------------------------------------ 注意: 其实我们可以不改变max的值，直接每次都是10 ( 但是这样有个问题是，并发的请求数会超过10个，因为又请求10个的时候有的请求并没有完成)
 
             const task = this.taskQueue.shift(); // 队列先进先出 push <-> shift
 
+            this.runningTaskLength++;
             task()
               .then((res) => console.log(res))
               .catch((err) => console.log(err))
               .finally(() => {
                 this.max++; // -------------------------- 释放 任务空间
+                console.log("正在执行的任务数量", this.runningTaskLength);
+                this.runningTaskLength--;
                 this.run();
                 // 当一个任务执行完毕后，接着执行下一个任务
                 // - 1. 刚开始 min=10 ，一次循环，并行执行了10个任务后，max=0；当max=0时，没有一个任务完成，则没有max++
@@ -86,8 +97,9 @@
       }
 
       // 快速创建任务 - 每个任务2秒后返回结果
+      // 该函数执行后 - 返回一个函数
       const createTask = (i) => () => {
-        return new Promise((resolve) => setTimeout(() => resolve(i), 2000));
+        return new Promise((resolve) => setTimeout(() => resolve(i), i * 1000));
       };
 
       const taskScheduler = new TaskScheduler();

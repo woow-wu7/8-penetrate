@@ -349,13 +349,18 @@
 -
 -
 - [RR.]
-- `【 currency 货币 】`
+- `【 currency 货币 】` // --------- currency 货币 VS concurrency 并发
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
 - `【 coin 硬币 】` // coin corn
 - `【 cheque 支票 】`
 - `【 lottery 彩票 】` // lottery ticket. 彩票
 - `【 share 股份n 分享v 】`// ------ 【 market share. 市场占有率 】 // 【 share sth with sb. 】
+- > 【 currency 货币 n 】
+- > 【 concurrency 并发 n 】
+- – **【 【 The total number of 】 【 concurrences 】 is equal to 【 the total amount of 】 【 currency 】. 并发数和货币总数相等 】**
+- // -- 【 the total number of. ...的总数 】
+- // -- 【 the total amount of. ...的总额 】
 -
 - `【 salary 工资 】` -------------- 长期
 - `【 wage 工资 】` ---------------- 短期
