@@ -157,6 +157,14 @@
       // SyntaxError
       // URIERROR
       // EvalError
+
+      // -----------------------------------------
+      // 34 Interface VS Type
+      // 1. Interface会新建一个类型，type不会新建类型，只会给一个已有的类型取一个新的名词，然后引用这个类型
+      // 2. type 不能 extends and implements
+      // 3. type 主要用于声明原始值，元组，联合类型这样需要手写的类型 和 interface 无法声明的类型
+      // 4. 声明合并：type不存在声明合并，会报错。interface非函数成员，属性名和类型必须一样，函数函数重载
+      // 5. hover
     </script>
   </body>
 </html>
