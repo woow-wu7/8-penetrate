@@ -3,7 +3,7 @@
 ```
 1.
 involve 涉及 有关 v
-evolve 发展 演变 v
+evolve 发展 进化 演变 v
 【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】
 【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】
 -

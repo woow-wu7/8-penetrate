@@ -1,6 +1,7 @@
 // unknown 类型
 // - 定义
 //   - unknown 类型，是 any 类型对应的安全类型
+//   - unknown在使用时必须指定 具体的类型
 //   - 所有类型都可以被归为 any，所有类型也都可以被归为 unknown
 //   - 这使得 unknown 成为 TypeScript 类型系统的另一种顶级类型（另一种是 any）
 // - 特点

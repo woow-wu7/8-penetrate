@@ -1169,4 +1169,54 @@ The image can be 【 enlarged 】 and 【 reduced 】.
 
 4
 我占用了你的时间
+-
+分手占用了我一些时间
+
+
+5
+There are many 【 building materials 】 【 besides 】 the 【 construction site 】.
+建筑工地旁边有很多建筑材料
+-
+The 【 construction workers 】 are researching the 【 building materials 】 and 【 building structures 】 on the 【 construction site 】.
+建筑工人正在建筑工地研究建筑材料和建筑结构
+-
+// -
+// 【 construction worker. 建筑工人 】
+// 【 construction site. 建筑工地 】
+// -
+// 【 building material. 建筑材料 】
+// 【 building structure. 建筑结构 】
+// -
+// beside 在...旁边
+
+
+6
+Cooking the 【 raw rice 】 into the 【 cooked rice 】.
+生米煮成熟饭
+// -
+// 【 raw rice. 生米 】
+// 【 cooked rice. 熟米 】
+
+
+7
+发电机发电时会产生热量
+
+
+8
+这份报告揭示了家庭矛盾形是如何产生的
+-
+他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾
+
+
+9
+The 【 internal contradictions 】 and 【 social contradictions 】 【 evolved 】 into the 【 armed conflicts 】.
+内部矛盾和社会矛盾演变成了武装冲突
+// -
+// 【 internal contradiction. 内部矛盾 】
+// 【 social contradiction. 社会矛盾 】
+// -
+// 【 evolve 发展 进化 演变 v 】
+// 【 evolve into. 演变成 发展成 v 】
+// -
+// 【 armed conflict. 军事冲突 v 】
 ```

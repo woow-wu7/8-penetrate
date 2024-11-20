@@ -1345,3 +1345,8 @@
 - `【 breakup. 离婚 n 】`
 - **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
 - // -- be called. 被称为...
+- 
+- [JJ.]
+- `【 break up. 分手 v 】`
+- `【 take up. 占用 v 】`
+- **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**

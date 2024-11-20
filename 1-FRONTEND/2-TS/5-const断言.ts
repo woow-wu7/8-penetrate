@@ -1,6 +1,21 @@
+// 1
 // const 断言
 // - 让一个 对象 中的所有属性 只读
 // - 让一个 数组 只读
+
+// 2
+// 在 Typescript 中有哪些方法可以是一个 值 变成 常量，或者说不可修改
+// - Readonly 工具类型
+// - as const 常量断言
+// - interface 和 class 中有 readonly 属性
+// 2.1
+// interface IName { name: string; }
+// Type TC = Readonly(IName)
+// 2.2
+// const arr = [1, 3] as const;
+// 2.3
+// interface IA { readonly name: string; }
+// class CA { readonly name: string = ''; }
 
 // 1
 // 对象只读属性
@@ -28,8 +43,6 @@ arr[1] = 2;
 
 arr.push(1);
 // 类型“readonly [1, 3]”上不存在属性“push”
-
-
 
 /** 
 ------- ------- ------- ------- ------- ------- -------

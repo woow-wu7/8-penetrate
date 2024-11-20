@@ -2,6 +2,7 @@
 // - public
 // - private
 // - protected
+// - readonly
 
 class Cons {
   attr1 = 1;
@@ -12,6 +13,8 @@ class Cons {
   private pri = 3; // ------ private 私有属性 只能在声明它的 ( 类内部 ) 访问
   protected pro = 4; // ---- protected 保护属性 只能在声明它的 ( 类 及其 子类 ) 中访问
 
+  readonly name = "readonly";
+
   getPri = () => {
     console.log("this.pri", this.pri); // private 私有属性 只能在声明他的 类 中访问
   };
@@ -19,6 +22,10 @@ class Cons {
   getPro = () => {
     console.log("this.pro", this.pro); // protected 保护属性 只能在声明他的 ( 类 及其 子类 ) 中访问
   };
+
+  changeName = () => {
+    this.name = "can not be modified"; // 报错 Cannot assign to 'name' because it is a read-only property.ts(2540)
+  }
 }
 
 // 实例

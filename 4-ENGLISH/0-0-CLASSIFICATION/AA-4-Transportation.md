@@ -54,6 +54,8 @@
 - `【 diesel generator. 柴油发电机 n 】`
 - `【 power station. 发电站 发电厂 n 】`
 - `【 power outage. 停电 断电 】` // ----- 【 outage 停电 断供 】
+- _【 generator 发电机 n 】_
+- _【 generate electricity. 发电 v 】_
 -
 - `【 tank 油箱 】`
 - `【 trunk 后备箱 树干 】`

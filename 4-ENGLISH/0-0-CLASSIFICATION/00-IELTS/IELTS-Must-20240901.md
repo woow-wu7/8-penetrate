@@ -3,26 +3,45 @@
 - 1
 - `【 ingredient 成分 原料 n 】` // --- 【 active ingredient. 活性成分 n 】 【 common ingredient. 常见成分 n 】 【 ingredient list. 成分表 】
 - `【 material 材料 n 】` // --------- 【 raw material. 原材料 】 【 building material. 建筑材料 】 【 composite material. 复合材料 】 【 reading material. 阅读材料 】
+- AA.
+- _【 raw material. 原材料 n 】_ // ----------------------- 【 raw rice. 生米 n 】 【 cooked rice. 熟米 n 】
+- _【 building material. 建筑材料 n 】_ // ---------------- 【 building structure. 建筑结构 】 【 building material. 建筑材料 】 // 【 construction site. 建筑工地 】
+- _【 composite material. 复合材料 n 】_ // -------------- _【 composite 合成的 复合的 adj 】_
+- _【 reading material. 阅读材料 n 】_
+- > 【 building structure. 建筑结构 n 】
+- > 【 building material. 建筑材料 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'composite'. [composite-合成的-adj] [composite-material.合成材料]
+- BB.
+- constructor 构造器 建造者 n
+- // 【 construction site. 建筑工地 】
+- // 【 construction worker. 建筑工人 】
+- // structure 结构
+- // 【 build structure. 建筑结构 】
+- BB.
 - > 【 common ingredient. 常见成分 n 】
 - > 【 active ingredient. 有效成分 n 】 // ---------------- 【 actively pursue. 主动追求 v 】 【 active voice. 主动语态 n 】
 - > 【 ingredient list. 成分表 n 】 // list
-- > 【 raw material. 原材料 n 】 // ----------------------- 【 raw rice. 生米 n 】 【 cooked rice. 熟米 n 】
-- > 【 building material. 建筑材料 n 】 // --------------- _【 construction 建筑 n 】_ _【 constructor 建造者 构造函数 n 】_ `【 construction site. 建筑工地 n 】`
-- > 【 reading material. 阅读材料 n 】
-- > 【 composite material. 复合材料 n 】 // -------------- _【 composite 合成的 复合的 adj 】_
+- CC.
 - _【 actively pursue. 主动追求 】_ // ---------------------【 pursue 追求 追逐 v 】
 - _【 passively accept. 被动接受 】_
 - _【 active voice. 主动语态 】_
 - _【 passive voice. 被动语态 】_
 - // TIPS: Pay attention to the pronunciation of the word 'list'. [list-列表-n]
+- DD.
+- `【 raw 生的 未加工的 原始的 adj 】`
+- `【 raw rice. 生米 】` // ---------------------------- 【 cooked rice. 熟米 】
+- `【 raw material. 原材料 】`
+- // **【 Cook raw rice into cooked rice. 】**
+- EE.
 - [building-material.建筑材料] // ----------------------- 【 raw material. 】 【 composite material. 】
 - [constructor-建造者-构造函数-n]
 - [construction-建筑-n]
 - [construction-site.建筑工地] // ----------------------- 【 construction site. 建筑工地 n 】
-- // Workers work 【 on 】 the 【 construction site 】. 工人在建筑工地工作
+- // 【 Construction workers 】 work 【 on 】 the 【 construction site 】. 建筑工人在建筑工地工作
 - > 【 raw material. 原材料 】
 - > 【 raw rice. 生米 n 】
-- > 【 cooked rice. 熟米 n 】 // **【 Cook raw rice into cooked rice. 】**
+- > 【 cooked rice. 熟米 n 】
+- // **【 Cook raw rice into cooked rice. 】**
 -
 - `【 sense 感觉 感应 v 】` // ---------------------------- 【 common sense. 常识 n 】 【 make sense. 有道理 】 // 【 a sense of ownership. 主人翁意识 n 】
 - `【 scene 场景 现场 n 】` // ---------------------------- 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 n 】
@@ -96,6 +115,13 @@
 - `【 building material. 建筑材料 n 】` // raw material.
 - `【 construction site. 建筑工地 n 】`
 - **【 There are many 【 building materials 】 【 besides 】 the 【 construction site 】. 建筑工地旁边有很多建筑材料 】**
+-
+- [EE.]
+- `【 construction worker. 建筑工人 】`
+- `【 construction site. 建筑工地 】`
+- `【 building material. 建筑材料 】`
+- `【 building structure. 建筑结构 】`
+- **【 The 【 construction workers 】 are researching 【 building material 】 and 【 building structure 】 on the 【 construction site 】. 建筑工人正在建筑工地研究建筑材料和建筑结构 】**
 
 ###### Must 2024-09-08
 

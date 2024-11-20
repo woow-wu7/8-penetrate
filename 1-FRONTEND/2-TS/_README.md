@@ -33,6 +33,20 @@
 14. is类型谓词
 15. extends
 16. in keyof typeof
+
+
+17. 在 Typescript 中有哪些方法可以是一个 值 变成 常量，或者说不可修改
+- Readonly 工具类型
+- as const 常量断言
+- interface 和 class 中有 readonly 属性
+// 17.1
+// interface IName { name: string; }
+// Type TC = Readonly(IName)
+// 17.2
+// const arr = [1, 3] as const;
+// 17.3
+// interface IA { readonly name: string; }
+// class CA { readonly name: string = ''; }
 ```
 
 ```二
@@ -268,22 +282,24 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 - Omit
 - Exclude
 -
-- Readonly +
-- ReadonlyArray +
--
 - Parameters
 - ReturnType
 - InstanceType
 -
-- Awaited
+- Readonly +
+- ReadonlyArray +
 -
-- Uppercase Lowercase
+- Uppercase
+- Lowercase
+-
+- Awaited +
+- NonNullable
+-
+- [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/1-FRONTEND/2-TS/2-泛型工具类型.ts)
 - // 2023/12/18 补充
 - // Required vs Partial
 - // Omit vs Pick vs Exclude
 - // Parameters vs ReturnType vs InstanceType
-- // Awaited
-- // NonNullable
 - 1.详见: 1-FRONTEND/2-TS/2-泛型工具类型.ts
 - 2.类型体操详见: 本项目/1-FRONTEND/2-TS/2-类型体操
 

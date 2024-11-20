@@ -236,6 +236,9 @@
 - // -- _【 positive image. 积极的形象 】_
 - // -- _【 a positive mindset. 积极的心态 】_
 - // -
+- // -- _【 generator 发电机 n 】_
+- // -- _【 generate electricity. 发电 v 】_
+- // -
 - // -- _【 short circuit. 短路 】_
 - // -- // **【 The 【 electrician 】 checks the 【 electric circuit 】. 电工在检查电路 】**
 - // -

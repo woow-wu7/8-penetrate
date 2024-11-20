@@ -41,13 +41,16 @@
 - `【 split up. 分手 分开 v  】` = break up. 分手 v
 - `【 divorce 离婚 v n 】`
 - `【 marry 结婚 v 】` // ------------------------- marry 结婚 v // marriage 结婚 n
-- > 【 split 分裂 分离 v 】
-- > 【 break up. 分手 v 】
+- > 【 split 分裂 分离 v 】 // ---------------------【 split up. = break up. 分手 v 】 【 split open. 裂开 v 】
+- > 【 break up. 分手 v 】 // --------------------- take up. 占用
 - > 【 breakup. 分手 n 】
-- split 分裂 分离 VS conflict 冲突争执
-- _【 break out. 爆发 v 】_
+- // break up. 分手 v
+- // take up. 占用 = occupy
+- // split 分裂 分离 VS conflict 冲突争执
+- // marry 结婚 v VS marriage 结婚 n
+- _【 break out. 爆发 v 】_ // --------------------【 The war broke out. 战争爆发了 】
 - _【 break in. 闯入 v 】_
-- _【 break up. 分手 = split up. 分手 】_ // -------- break up. 分手 v // breakup.分手 n
+- _【 break up. 分手 】_ // ----------------------- break up. 分手 v // breakup.分手 n
 - _【 break down. 崩溃 v 故障 n 分解 v 】_
 - [Must 2024-11-19](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 -
@@ -68,6 +71,12 @@
 - `【 breakup. 离婚 n 】`
 - **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
 - // -- be called. 被称为...
+- // -- divorce 离婚 v n
+-
+- [DD.]
+- `【 break up. 分手 v 】`
+- `【 take up. 占用 v 】`
+- **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 -
 -
 -
@@ -87,6 +96,7 @@
 - `【 slope 斜坡 n 】` // ---- slope VS scope
 - _【 steep cliff. 陡峭的悬崖 n 】_
 - _【 steep slope. 陡坡 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'cliff'. [cliff-悬崖-n]
 - 【 behind 在后面，在...后面 】
 - **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
 - // -- behind 在后面，在...后面
@@ -99,14 +109,19 @@
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
+- > humid moist damp
 - // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 - **【 A 【 humidifier 】 can make the hot air 【 blown out by 】 the 【 air conditioner 】 become 【 humid 】. 加湿器可以让空调吹出的热风变得潮湿 】**
+- // -- below
+- // -- blow
+- // -- _【 blow out. 吹灭 吹出 v 】_
 -
 -
 - 7
 - `【 take up. 占用 v  】` // ---------------- take up. = occupy. 占用
 - `【 occupy 占用 v 】`
+- **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
 -
@@ -120,29 +135,46 @@
 -
 -
 - 1
-- `【 gather 聚集 收集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 n 】 // safety reason.
+- `【 gather 收集 聚集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 n 】 // safety reason.
 - `【 pick 选择 挑选 摘 v 】` // ------------------ 【 carefully picked. 精心挑选 v 】
+- _【 gather fruit. 采集水果 】_
+- _【 ripe fruit. 成熟的果实 】_
 - > 【 pick up. 捡起 v / 接人 v 】
 - > 【 pick out. 挑选出 v 】
+- // ripe VS rope
+- // safety rope. 安全绳
+- // safety reason. 安全原因
+- // ensure safety. 确保安全
 - // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
+-
+-
+-
 -
 - 2
 - `【 mature 成熟的 adj 】` // ------------------- 【 mature technology. 成熟的技术 】 【 mature person. 成熟的人 】 // 【 advanced technology. 先进的技术 】
 - `【 ripe 成熟的 adj 】` // --------------------- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
 - `【 unripe 未成熟的 adj 】`
+- > mature technology. 成熟的技术 n
+- > mature person. 成熟的人
+- > 【 ripe fruit. 成熟的果实 】
+- > 【 gather fruit. 采集果实 】
+- AA.
 - _【 raw rice. 生米 n 】_ // ------------------- 【 raw material. 原材料 】 【 raw rice. 生米 】 // building material.建筑材料 // construction site.建筑工地
 - _【 cooked rice. 熟米 n 】_
 - > raw material. 原材料
 - > building material. 建筑材料
-- > construction site. 建筑工地
-- > common ingredient. // active ingredient.
-- **【 Cook the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
+- > 【 construction site. 建筑工地 】
+- > 【 construction worker. 建筑工人 】
+- // common ingredient.
+- // active ingredient.
+- **【 Cooking the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
+-
 -
 -
 -
 - 3
 - `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
-- `【 generate 产生 生成 v 】` // ------------- `【 generate contradiction. 产生矛盾 v 】` // _【 form 形成 形式 表单 】_ _【 generate 产生 生成 v 】_
+- `【 generate 产生 生成 v 】` // ------------- `【 generate contradiction. 产生矛盾 】` `【 generate heat. 产生热量 】` `【 generate electricity. 发电 】`
 - `【 contradiction 矛盾 n 】` // ------------- 【 internal contradiction. 内部矛盾 】 【 social contradiction. 社会矛盾 】 【 family contradiction. 家庭矛盾 】
 - `【 conflict 矛盾 冲突 v n 】` // ------------ 【 armed conflict. 武装冲突 v 】 // arm VS armed VS army
 - _【 reveal the truth. 揭示真相 】_
@@ -150,11 +182,24 @@
 - _【 identify the identity. 识别身份 】_
 - > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
 - > 【 identity 身份 n 】
+- AA.
+- _【 generate contradiction. 产生矛盾 】_
+- _【 generate reaction. 产生反应 】_
+- _【 generate heat. 产生热量 】_ // ---------- 【 heat 热 热量 加热 】
+- _【 generate electricity. 发电 】_
+- _【 generator 发电机 n 】_
+- **【 It can 【 generate heat 】 when the 【 generator 】 is 【 generating electricity 】. 发电机发电时会产生热量 】**
+- BB.
 - // split VS conflict 冲突争执 // ------------ 【 split open. 裂开 】 【 split up. 分手 】 // 【 armed conflict. 武装冲突 】 【 military conflict. 武装冲突 】
 - // arm 手臂 n 武装 v
 - // armed 武装的 adj // ---------------------- 【 armed conflict. 武装冲突 v 】 【 armed forces. 武装力量/武装部队 n 】 // `【 military conflict. 军事冲突 】`
 - // army 军队
 - 【 as well. 也 adv 】
+- CC.
+- _【 evolve 发展 进化 演变 v 】_
+- _【 involve 涉及 有关 v 】_
+- **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+-
 - 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
 - 2. **【 They 【 exposed 】 many problems and 【 generated 】 the 【 serious 】 【 family conflicts 】. 他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾 】**
 - 3. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
@@ -166,8 +211,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v]
 -
 - [AA.]
-- _【 evolve 发展 演变 v 】_ // ------------------- 【 evolve into. 演变成 】
-- _【 involve 涉及 有关 v 】_
+- _【 evolve 发展 进化 演变 v 】_ // --------------- 【 evolve into. 演变成 】
+- _【 involve 涉及 有关 v 】_ // ------------------ 【 be involved in doing sth. 】 【 be involved in sth. 】
 - _【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】_
 - _【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】_
 - 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**

@@ -2,7 +2,6 @@
 // 1.继承(用于interface表示继承)
 // 2.表示条件类型，可用于条件判断
 
-
 // ----------------------------------------------------------------
 // ----------------------------------------------------------------
 // 1
@@ -24,7 +23,7 @@ const instanceExtended: IExtended3 = {
   name: "",
   age: 1,
   sex: "male",
-  address: '', // 报错 Object literal may only specify known properties, and 'address' does not exist in type 'IExtended3'
+  address: "", // 报错 Object literal may only specify known properties, and 'address' does not exist in type 'IExtended3'
 };
 
 
@@ -34,14 +33,13 @@ const instanceExtended2: IExtended1 & IExtended2 & IExtended3 = {
   age: 1,
   sex: "male",
 };
-type IExtended4 = IExtended1 & IExtended2 & IExtended3
+type IExtended4 = IExtended1 & IExtended2 & IExtended3;
 const instanceExtended3: IExtended4 = {
   // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
   name: "",
   age: 1,
   sex: "male",
-}
-
+};
 
 // ----------------------------------------------------------------
 // ----------------------------------------------------------------
@@ -54,15 +52,13 @@ type A4 = "x" extends "x" | "y" ? 1 : 2; // type A4 = 1
 // 特例 特例 特例
 // 3 说明了原因
 type P<T> = T extends "x" ? 1 : 2;
-type A3 = P<"x" | "y">; // type A3 = 1 | 2   
-
+type A3 = P<"x" | "y">; // type A3 = 1 | 2
 
 // 3
 // 扩展
 // 问题: A2 和 A3 有什么区别 ？
 // 回答: 如果 extends 前面的类型是 ( 范型 ，并且范型的类型是 联合类型 时 )，则会依次判断该联合类型的所有子类型是否可分配给extends后面的类型 ( 是一个分发便利的过程 )
 // 资料: https://juejin.cn/post/6994102811218673700
-
 
 // 4
 // 扩展
