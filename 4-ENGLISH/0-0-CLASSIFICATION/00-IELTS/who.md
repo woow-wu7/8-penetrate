@@ -100,3 +100,49 @@ vibrate mode.
 smooth 平滑的
 National interests. 国家利益
 ```
+
+##### 2024-11-20
+
+- 1
+- `【 refer to. 参照 n 】`
+-
+- 2
+- `【 colleague 同事 n 】` // college
+- `【 coworker 同事 n 】`
+- _【 coworker 同事 n 】_
+- _【 cooperate 合作 v 】_
+- _【 coexist 共存 v 】_
+- _【 coproduct 副产物 n 】_
+- _【 cohabit 同居 v 】_
+- _【 inhabit 居住于.. 】_
+- _【 inhibit 抑制 v 】_
+-
+- 3
+- > 【 reception 前台 n 】` // ------- subtitle VS caption VS captain
+- > 【 receipt 收据 n 】`
+- > 【 receive 接受 收到 v 】
+-
+- 4
+- > electron 电子 n
+- > electronic 电子的 adj
+- _【 electronic 电子 】_
+- _【 electronics 电子 电子学 adj 】_
+- > -
+- > electricity 电 n
+- > electric 点的 adj
+- > -
+- _【 generator 发电机 】_
+- _【 generate 产生 生成 】_
+- _【 generate contradiction. 产生矛盾 】_ // conflict
+- _【 generate heat. 产生热量 】_
+- _【 generate reaction. 产生反应 】_
+-
+- 5
+- > hurt 伤害 v // -------- hurt hurt hurt
+- > heart 心 心脏 n
+- > heat 热量 n
+- giant 巨大的
+
+```
+
+```

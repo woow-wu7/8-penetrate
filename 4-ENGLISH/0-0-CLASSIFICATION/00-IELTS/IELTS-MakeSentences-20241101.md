@@ -1220,3 +1220,16 @@ The 【 internal contradictions 】 and 【 social contradictions 】 【 evolve
 // -
 // 【 armed conflict. 军事冲突 v 】
 ```
+
+##### 26 Make sentences 2024-11-26
+
+```
+1
+这仪器能追踪卡车留下的痕迹
+
+
+2
+她大声呼叫有人掉水里了
+-
+爆发冲突后，他从教室里冲出去大喊有人打他
+```

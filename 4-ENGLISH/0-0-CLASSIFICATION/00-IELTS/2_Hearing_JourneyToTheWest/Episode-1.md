@@ -125,6 +125,16 @@
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
 -
+- 8
+- _【 call out. 喊 叫 】_
+- _【 break out. 爆发 】_
+- _【 rush out of. 从...冲出去 】_
+- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- // -- 【 fall into. 掉入 v 】
+- // -- 【 conflict 冲突 n 】
+-
+-
 -
 -
 - 分割线------------------------------------------------------------------------------------------------------------------------------------------------

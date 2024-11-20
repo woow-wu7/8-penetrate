@@ -1115,7 +1115,10 @@
 - `【 in total. 总共 adv 】`
 - `【 in conclusion. 总之 adv 】`
 -
+- `【 in fact. 事实上 adv 】`
 - `【 in confusion. 疑惑地 adv 】`
+- > 【 looked confused. 看上去很疑惑 】
+- **【 The students 【 looked confused 】. 学生们看上去一脸困惑 】**
 -
 - `【 in advance. 提前 adv 】`
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
@@ -1123,15 +1126,16 @@
 - `【 on purpose. 故意地 adv 】`
 - `【 not at all. 一点也不 】`
 -
+- AA.
 - _【 addition 加法 添加 附加 n 】_ // -------------- 【 in addition. 此外 adv 】
 - _【 condition 条件 状况 n 】_ // ----------------- 【 favorable condition. 有利条件 n 】
 - _【 tradition 传统 n 】_
 - > 【 favorable condition. 有利条件 n 】
--
+- BB.
 - _【 favorable 有利的 adj 】_ // ------------------ 【 favorable condition. 有利条件 n 】
 - _【 favorite 最喜欢的 adj 】_
 - > 【 favorable condition. 有利条件 n 】
--
+- CC.
 - _【 smooth 平滑的 光滑的 顺利的 adj 】_ // --------- 【 smooth pavement. 光滑的路面 n 】 【 smooth skin. 光滑的皮肤 n 】
 - _【 smoothly 平滑地 光滑地 顺利地 adj 】_ // ------- 【 smoothly reach. 顺利到达 v 】
 - > 【 smooth pavement. 光滑的路面 n 】
@@ -1280,6 +1284,12 @@
 - `【 break up. 分手 v 】` = split up.
 - `【 breakup. 分手 n 】`
 -
+- _【 break out. 爆发 v 】_
+- _【 call out. 喊 叫 v 】_
+- _【 rush out of. 从...冲出去 】_
+- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+-
 - `【 take a break. 休息一下 = take a rest.】`
 - > 【 take a break. we'll be right back 休息一下 马上回来 】
 -
@@ -1345,7 +1355,7 @@
 - `【 breakup. 离婚 n 】`
 - **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
 - // -- be called. 被称为...
-- 
+-
 - [JJ.]
 - `【 break up. 分手 v 】`
 - `【 take up. 占用 v 】`
