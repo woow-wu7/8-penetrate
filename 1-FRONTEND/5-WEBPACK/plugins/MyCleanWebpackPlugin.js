@@ -2,7 +2,7 @@
 // webpack plugin
 // 1. 每个插件都是一个 class
 // 2. 每个插件都有一个 apply 方法
-// 3. apply 方法的参数是 compiler 实例
+// 3. apply 方法的参数是 compiler 实例，这样就可以在 插件 中获取 实例和原型上 挂的所有属性和方法
 
 // 2
 // emit

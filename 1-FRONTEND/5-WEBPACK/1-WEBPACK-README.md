@@ -9,7 +9,7 @@
 
 # (一) webpack
 
-### (1) webpack compiler 生命周期钩子
+### (1) webpack compiler lifecycle 生命周期钩子
 
 - entryOption ------------- 在 webpack.config.js 文件中的 entry 处理完后调用
 - afterPlugins ------------ 在 Compiler.constructor() 中遍历执行完 webpack.config.js 中的 plugins 的 plugin 后调用
@@ -22,10 +22,10 @@
 
 ### (2) babel 处理 AST 的过程
 
-- @babel/parse ------------ 将 ( js 源码字符串 ) 转成 ( AST ) 抽象语法树
+- @babel/parse ------------ 解析 将 ( js 源码字符串 ) 转成 ( AST ) 抽象语法树
 - @babel/traverse --------- 遍历 AST
 - @babel/types ------------ 操作 AST，即进行 增删改查
-- @babel/generator -------- 将修改后的 AST 转成 新的源码字符串
+- @babel/generator -------- 生成 将修改后的 AST 转成 新的源码字符串
 
 ### (3) loader 和 plugin 执行的时机
 
@@ -41,8 +41,8 @@
 ### (4) loader
 
 - 特点
-  - 1. loader 是一个函数，函数第一个参数是 所匹配资源的 ( 源码字符串 ) 或 ( 上一个 loader 产生的结果, 因为同一个资源可以用多个 loader 来处理 )
-  - 2. loader 执行是有顺序的，从右到左，从下到上 ( 比如: 先 sass-loader > postcss-loader > css-loader > style-loader )
+  - 1. loader 是一个函数，loader 函数第一个参数是 所匹配资源的 ( 源码字符串 ) 或 ( 上一个 loader 产生的结果, 因为同一个资源可以用多个 loader 来处理 )
+  - 2. loader 执行是有顺序的，从 ( 右到左，从下到上 ) - ( 比如: 先 sass-loader > postcss-loader > css-loader > style-loader )
   - 3. loader 函数不能是箭头函数，因为 loader 函数内部需要使用 this 获取很多配置数据
        - this.getOptions()
        - this.query
@@ -84,11 +84,11 @@
 
 ```
 (1)
-我们自己写的loader，如何在webpack.config.js 中使用？
+我们自己写的loader，如何在 webpack.config.js 中使用？
 // 一共有两种方法
 // 方法1
 // - 在 webpack.config.js 中使用 resolveLoader 配置项来配置
-// - 然后在module.rules 中使用
+// - 然后在 module.rules 中使用
 resolveLoader: {
   // 表示在寻找loader时，先去node_modules中找，再去loaders文件夹中找
   modules: ["node_modules", path.resolve(__dirname, "./loaders/")],
@@ -119,7 +119,7 @@ module: {
 - 特点
   - 类：plugin 是一个类，因为是通过 new 的方式调用插件
   - apply 方法：每个 plugin 都有一个 apply 方法，在 new Plugin() 执行插件时被调用
-  - apply 方法的参数：参数是 complier 实例，即 Complier 类 new 时生成的实例
+  - apply 方法的参数：参数是 compiler 实例，即 Compiler 类 new 时生成的实例
 - 过程
   - 注册 **tap**
     - 1. apply() ------> plugin 会在 Compiler.constructor 中被调用，通过调用 plugin.apply(compiler)，执行 apply 方法

@@ -760,6 +760,8 @@ type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
 -
 - [EE.]
 - `【 infer 】`
+- > infer 推断 推论 v
+- > infer / refer / defer / prefer
 - > 【 infer 】-------------------- [link](./2.2-infer.ts)
 -
 - [FF.]
