@@ -112,10 +112,14 @@ National interests. 国家利益
 - _【 coworker 同事 n 】_
 - _【 cooperate 合作 v 】_
 - _【 coexist 共存 v 】_
-- _【 coproduct 副产物 n 】_
+- _【 coproduct 副产物 n 】_ // reproduce produce
+- _【 coach 教练 n 】_
 - _【 cohabit 同居 v 】_
 - _【 inhabit 居住于.. 】_
+- -
 - _【 inhibit 抑制 v 】_
+- _【 prohibit 禁止 v 】_
+-
 -
 - 3
 - > 【 reception 前台 n 】` // ------- subtitle VS caption VS captain
@@ -129,7 +133,7 @@ National interests. 国家利益
 - _【 electronics 电子 电子学 adj 】_
 - > -
 - > electricity 电 n
-- > electric 点的 adj
+- > electric 电的 adj
 - > -
 - _【 generator 发电机 】_
 - _【 generate 产生 生成 】_
@@ -142,6 +146,9 @@ National interests. 国家利益
 - > heart 心 心脏 n
 - > heat 热量 n
 - giant 巨大的
+-
+- 6
+- _【 best practice. 最佳实践 】_
 
 ```
 
