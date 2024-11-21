@@ -8,8 +8,17 @@
 - _【 building material. 建筑材料 n 】_ // ---------------- 【 building structure. 建筑结构 】 【 building material. 建筑材料 】 // 【 construction site. 建筑工地 】
 - _【 composite material. 复合材料 n 】_ // -------------- _【 composite 合成的 复合的 adj 】_
 - _【 reading material. 阅读材料 n 】_
-- > 【 building structure. 建筑结构 n 】
 - > 【 building material. 建筑材料 n 】
+- > 【 building structure. 建筑结构 n 】
+- > 【 physical structure. 物理结构 】
+- > 【 compact structure. 紧凑的结构 】
+- > 【 data structure. 数据结构 】
+- > 【 organization structure. 组织结构 】
+- > 【 overall structure. 整体结构 n 】
+- _【 infrastructure 基础设施 基础结构 】_
+- _【 structure 结构 建筑物 】_
+- > 【 construction site. 建筑工地 】
+- > 【 construction worker. 建筑工人 】
 - // TIPS: Pay attention to the pronunciation of the word 'composite'. [composite-合成的-adj] [composite-material.合成材料]
 - BB.
 - constructor 构造器 建造者 n

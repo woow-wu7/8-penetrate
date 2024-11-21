@@ -1285,10 +1285,15 @@
 - `【 breakup. 分手 n 】`
 -
 - _【 break out. 爆发 v 】_
-- _【 call out. 喊 叫 v 】_
 - _【 rush out of. 从...冲出去 】_
+- _【 call out. 喊 叫 v 】_
+- _【 speak out. 大声说 v 】_
 - **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 - **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- **【 Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊 】**
+- // -- 【 instead of. 代替 替换 】
+- // -- 【 replace 代替 替换 】
+- // -- 【 fall into. 掉进... 】
 -
 - `【 take a break. 休息一下 = take a rest.】`
 - > 【 take a break. we'll be right back 休息一下 马上回来 】

@@ -169,6 +169,7 @@
   },
   "cSpell.userWords": [
     "accidently",
+    "ADMINSTRATOR",
     "antd",
     "bodymovin",
     "ciphertext",
@@ -185,6 +186,7 @@
     "handprints",
     "IELTS",
     "immer",
+    "Inno",
     "installerhome",
     "jdbc",
     "Mobaxterm",
@@ -210,6 +212,8 @@
     "touid",
     "tuwen",
     "USERID",
+    "VARCHAR",
+    "Vimium",
     "Vuex",
     "XSTX",
     "Zhen",
@@ -249,11 +253,17 @@
   "typescript.inlayHints.enumMemberValues.enabled": true,
   "prettier.printWidth": 120,
   "git.autofetch": true,
-  "workbench.colorTheme": "Prime (rainglow)",
+  "workbench.colorTheme": "Rainbow (rainglow)",
   "editor.minimap.enabled": false,
   "#################################################################################": "####### 3.highlight-start",
   "highlight.regexes": {
     "(\\bVS\\b)": [
+      {
+        "backgroundColor": "#ff0000",
+        "color": "#ffffff"
+      }
+    ],
+    "(TIPS)": [
       {
         "backgroundColor": "#ff0000",
         "color": "#ffffff"

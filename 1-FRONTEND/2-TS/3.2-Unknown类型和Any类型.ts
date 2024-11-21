@@ -15,19 +15,23 @@
 
 // 推荐使用 unknown 而不是 any
 
-
 // 1
 // unknown
 const unk: unknown = 1;
 const product = unk * unk; // --------------------------- 报错，unknown在使用时必须指定 具体的类型
 const product2 = (unk as number) * (unk as number); // -- 正确  as是类型断言
 
-
 // 2
 // any
 const unk2: any = 2;
 const product3 = unk2 * unk2; // ------------------------ 正确，any不会进行类型检查
 
+function accumulate(name: unknown) {
+  return name + 1; // ----------------------------------- 报错，unknown在使用时必须指定 具体的类型
+}
+function accumulate2(name: unknown) {
+  return (name as number) + 1;
+}
 
 // 英语
 // 和 sum

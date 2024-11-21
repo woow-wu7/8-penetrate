@@ -29,6 +29,9 @@
 - 1. command + ,
 - 2. search Explorer.compact fold
 - 3. uncheck the checkbox.
+
+compact 压紧v 紧凑的adj
+compact structure. 紧凑的结构
 ```
 
 ##### (2) Function / Format 格式化
@@ -61,9 +64,18 @@ format 格式化v 格式n
 - 0.5
 ```
 
-##### (5) Explorer 左侧菜单项不见了
+##### (4) Explorer 左侧菜单项不见了
 
 ```
 command + shift + p
 然后输入命令: View: Reset View Locations
+```
+
+##### (5) Theme that I used
+
+```
+1. Rainbow - Rainbow(rainglow)
+2. Bearded - Raspberry
+3. Bearded - Chocolate Espresso
+4. Prime(rainglow)
 ```

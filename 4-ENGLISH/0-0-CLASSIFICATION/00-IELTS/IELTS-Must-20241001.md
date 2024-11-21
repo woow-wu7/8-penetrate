@@ -123,10 +123,22 @@
 - > 【 rush hour. 高峰期 】
 - > 【 【 morning 】 rush hour. 早高峰 】
 - > 【 rush hour 【 for 】 traffic. 交通高峰 】
+- AA.
 - _【 safety reason. 安全原因 】_ // ----------- 【 safety reason. 安全原因 n 】 【 safety rope. 安全绳 n 】 【 ensure safety. 确保安全 】
 - _【 keep healthy. 保持健康 】_ // ------------ 【 recover health. 恢复健康 】
 - _【 enhance confidence. 增强信心 】_ // ------ 【 restore confidence. 恢复自信 / 恢复自信 】
 - _【 nuclear reactor. 核反应堆 】_
+- _【 rush out of. 从...冲出去 v 】_
+- BB.
+- _【 break out. 爆发 v 】_
+- _【 call out. 喊 叫 v 】_
+- _【 speak out. 大声说 v 】_
+- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- **【 Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊 】**
+- // -- 【 instead of. 代替 替换 】
+- // -- 【 replace 代替 替换 】
+- // -- 【 fall into. 掉进... 】
 - // TIPS: Pay attention to the pronunciation of the word 'traffic'. [traffic-交通-n]
 -
 - `【 shortcoming. 缺点 短处 n 】` // ---------- 【 Acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】 // 【 shortcoming / weakness 】

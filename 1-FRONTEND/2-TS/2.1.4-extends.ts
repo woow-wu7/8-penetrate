@@ -26,16 +26,16 @@ const instanceExtended: IExtended3 = {
   address: "", // 报错 Object literal may only specify known properties, and 'address' does not exist in type 'IExtended3'
 };
 
-
+// 交叉类型
 const instanceExtended2: IExtended1 & IExtended2 & IExtended3 = {
-  // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
+  // 所以: type虽然不能 extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
   name: "",
   age: 1,
   sex: "male",
 };
 type IExtended4 = IExtended1 & IExtended2 & IExtended3;
 const instanceExtended3: IExtended4 = {
-  // 所以: type虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
+  // 所以: typ 虽然不能extends，但是可以通过 & 交叉类型的方式达到相同的效果 !!!!!!!
   name: "",
   age: 1,
   sex: "male",
@@ -64,7 +64,7 @@ type A3 = P<"x" | "y">; // type A3 = 1 | 2
 // 扩展
 // 类型的可赋值性
 // 1
-// class
+// interface
 // 父类型 ----------------------- 父类型更加宽泛
 interface IBrandA {
   name: string;
@@ -74,6 +74,7 @@ interface IBrandB extends IBrandA {
   established: number;
 }
 let lAA: IBrandA = { name: "" };
+let lBB2: IBrandB = { established: 0 }; // 报错 Property 'name' is missing in type '{ established: number; }' but required in type 'IBrandB'.
 let lBB: IBrandB = { name: "", established: 0 };
 lAA = lBB; // 可以赋值
 lBB = lAA; // 报错，不能赋值

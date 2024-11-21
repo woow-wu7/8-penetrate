@@ -120,7 +120,7 @@ protected 保护的adj / v过去式
 enumeration 枚举 n
 ```
 
-# (一) Typescript 常见考点 和 常见技巧
+# `(一)` Typescript 常见考点 和 常见技巧
 
 ```
 (一)
@@ -271,8 +271,11 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 // type a = TArr1[number]; ------------ 获取所有成员类型的(联合类型)
 ```
 
-# (二) 范型工具类型
+# `(二)` **范型工具类型**
 
+- 详见: [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/1-FRONTEND/2-TS/2-泛型工具类型.ts)
+- 演练场: [在线测试-演练场](https://www.typescriptlang.org/zh/play)
+-
 - Record +
 -
 - Partial
@@ -295,7 +298,6 @@ type Ttesla = ["tesla", "model 3", "model X", "model Y"];
 - Awaited +
 - NonNullable
 -
-- [link](file:///Users/xiawu/work/personal/frontend/8-penetrate/1-FRONTEND/2-TS/2-泛型工具类型.ts)
 - // 2023/12/18 补充
 - // Required vs Partial
 - // Omit vs Pick vs Exclude
@@ -694,27 +696,75 @@ type T0 = NonNullable<string | number | undefined>; // type T0 = string | number
 type T1 = NonNullable<string[] | null | undefined>; // type T1 = string[]
 ```
 
-# (三) 高级类型
+# `(三)` **高级类型**
 
-- keyof
-  - 索引类型查询操作符
-  - keyof T 是 ( 索引类型查询 操作符 )，返回 ( T 上已知的公共属性名的 联合类型 )
-  - [keyof](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.1-keyof.ts)
-- in
-  - 接着可以使用 [k in keyof T] 来进行遍历
-  - 类型: in 可以遍历 枚举 和 联合类型
-  - 值: 判断属性是否在对象中
-  - [in](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.3-in.ts)
-- typeof
-  - 获取 ( 变量 或 对象 ) 的类型
-- extends
-  - 范型约束: ( K extends P ) 表示即 K 继承 P，则 K 具有 P 相同的属性，其实就是约束了 K 的属性只能在 P 的范围内
-- T[K]
-  - 索引访问操作符
-  - [T[K]](file:///Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/2-TS/2.1.2-T[K].ts)
+- [在线测试-演练场](https://www.typescriptlang.org/zh/play)
+-
+- [11.]
+- `【 keyof 】`
+- 索引类型查询操作符
+- > 定义: keyof T 是 ( 索引类型查询 操作符 )，返回 ( T 上已知的公共属性名的 联合类型 )
+- > 作用于: Interface, Class, ( Enumeration, Object - 这两个先要通过 typeof 转成类型 )
+- > 【 keyof 】------------------- [link](./2.1.1-keyof.ts)
+-
+- [22.]
+- `【 in 】`
+- > 接着可以使用 [k in keyof T] 来进行遍历
+- > 类型: in 可以遍历 ( 枚举 ) 和 ( 联合类型 )
+- > 值: 判断属性是否在对象中
+- > 【 in 】---------------------- [link](./2.1.3-in.ts)
+-
+- [33.]
+- `【 T[K] 】`
+- 索引访问操作符
+- > 【 T[K] 】-------------------- [link](./2.1.2-T[K].ts)
+-
+- [44.]
+- `【 typeof 】`
+- 获取 ( 变量 或 对象 ) 的类型
+-
+- [55.]
+- `【 extends 】`
+- > 范型约束: ( K extends P ) 表示即 K 继承 P，则 K 具有 P 相同的属性，其实就是约束了 K 的属性只能在 P 的范围内
+- > 【 extends 】 ---------------- [link](./2.1.4-extends.ts)
+-
+- [66.]
 - 特例
-  - 结果: **keyof any** 返回 **string | number | symbol**
-  - 原因: 因为不管是什么类型，它的 key 只能是 string number symbol 中的一种
+- 结果: **keyof any** 返回 **string | number | symbol**
+- 原因: 因为不管是什么类型，它的 key 只能是 string number symbol 中的一种
+-
+- [AA.]
+- `【 断言 as 】`
+- > 【 非空断言 X! 】 -------------- [link](./5-非空断言x!.ts)
+- > 【 常量断言 const 】------------ [link](./5-const断言.ts)
+- > 【 类型断言 】------------------ [link](./5-类型断言as-类型谓词is.ts)
+-
+- [BB.]
+- `【 类型谓词 is 】`
+- > 【 类型谓词 】------------------ [link](./5-类型断言as-类型谓词is.ts)
+- is: parameterName 必须是来自当前函数签名里的一个 ( 参数名 )，一般用于 ( 返回值 - 缩小范围 )
+-
+- [CC.]
+- `【 unknown 类型 】`
+- > unknown 类型是 any 类型的安全类型
+- > 【 unknown 类型 】------------- [link](./3.2-Unknown类型和Any类型.ts)
+-
+- [DD.]
+- `【 never 类型 】`
+- > 【 never 类型 】--------------- [link](./3.2-Never类型.ts)
+- 表示: 永远不存在的值类型，用在 ( 函数可能死循环，总会抛出错误，穷尽检查时 )
+- 问题: never 和 void 的区别？
+- 回答:
+- // void: void 类型的值可以是 undefined 或 null
+- // never: 表示没有任何返回，用在函数可能死循环，总会抛出错误，穷尽检查时
+-
+- [EE.]
+- `【 infer 】`
+- > 【 infer 】-------------------- [link](./2.2-infer.ts)
+-
+- [FF.]
+- `【 enum 枚举 】`
+- > 【 enum 枚举 】----------------- [link](./3.1-enum.ts)
 
 ### (3.1) keyof 索引类型查询 操作符
 
@@ -1152,7 +1202,7 @@ type head111 = MyFirst<arr1>; // expected to be 'a'
 type head222 = MyFirst<arr2>; // expected to be 3
 ```
 
-# (四) 类型系统
+# `(四)` 类型系统
 
 ### (4.1) 枚举
 

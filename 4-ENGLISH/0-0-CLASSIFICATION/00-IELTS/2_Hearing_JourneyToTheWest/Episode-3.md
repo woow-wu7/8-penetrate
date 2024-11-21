@@ -1,5 +1,27 @@
 # Journey to the west. 西游记 3
 
+- 1
+- `【 finally 最后 终于 adv 】`
+- `【 eventually 最后 终于 adv】`
+- `【 eventual 最后的 终于的 adj 】` // --------- 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
+- `【 final 最终的 adj 】` // ------------------ 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'eventually'. [eventually-最后-终于-adv]
+- **【 The 【 eventual outcome 】 was that we won the 【 match 】. 最终的结果是我们赢得了比赛 】**
+- **【 Eventually 】, I still 【 achieved 】 my dream. 最终我还是实现了我的梦想**
+- // -- outcome 结果 效果 n
+- // -- match 火柴 n 匹配 v 比赛 n
+- // -- 【 eventual outcome. = final result. 最终结果 】
+-
+- 2
+- `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain tail. 山间小道 】
+- `【 sail 航行 v 帆 n  】`
+- > 【 track 追踪 v 轨道 n 】
+- > 【 trace 追踪 v 痕迹 n 】
+- **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that left by 【 trucks 】 on the 【 trail 】 . 这个仪器可以追踪卡车在小路上留下的痕迹 】**
+- // -- instrument 仪器 仪表 n
+- // -- device 设备 n
+- // -- equipment 装备 n
+
 ```
 finally  最后 终于 adv
 eventually. 最后 终于 adv
@@ -15,7 +37,7 @@ finally 最后 终于 adv
 // ----【 realize = achieve 实现 v 】
 
 
-trail 小路n 跟踪v ----------------------- 【 mountain trail. 山路 n 】 【 trail of blood. 血迹 n 】 = bloodstain 血迹
+trail 小路n 跟踪v ----------------------- 【 mountain trail. 山间小道 n 】 【 trail of blood. 血迹 n 】 = bloodstain 血迹
 sail 航行 v
 sage 圣人 智者 n
 wise 明智的 有学问的 adj

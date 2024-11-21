@@ -595,7 +595,7 @@
 - _【 fill up. 装满 】_ // ---------------- Please 【 fill up 】 the 【 gas tank 】 【 with 】 【 gasoline 】 and 【 diesel 】.
 - _【 take up. 占 占用 花费 】_ // --------- Learning 【 takes up 】 【 most of 】 my time. 学习占据了我大部分时间
 - _【 pick up. 接人 捡起 】_ // ------------ I 【 pick up 】 my car key to 【 pick her up 】. 我拿起我的车钥匙去接她
-- _【 speak up. 大声说 】_ // -------------- Please 【 speak out 】 and 【 speak up 】. // ----- `【 speaker mode. 扬声器模式 】` `【 vibrate mode. 振动模式 】`
+- _【 speak out. 大声说 】_ // -------------- Please 【 speak out 】 and 【 speak up 】. // ----- `【 speaker mode. 扬声器模式 】` `【 vibrate mode. 振动模式 】`
 - //【 speed up. 加速 】
 - //【 pull up. 减速停下 】// -------------- Please【 pull up 】 the car 【 close to 】 the 【 gas pump 】.
 - //【 pull over. 靠边停下 】// ------------ Slow down, pull over. 减速，靠边停车

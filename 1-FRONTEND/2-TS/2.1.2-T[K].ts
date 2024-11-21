@@ -1,5 +1,5 @@
 // T[K]
-// - 索引访问操作符
+// - 索引访问 操作符
 
 interface IGame {
   lol: string;

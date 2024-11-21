@@ -86,7 +86,17 @@
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
 - **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
-- // -- roommate 室友 n
+  AA.
+- _【 break out. 爆发 v 】_
+- _【 call out. 喊 叫 v 】_
+- _【 speak out. 大声说 v 】_
+- _【 rush out of. 从...冲出去 】_
+- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- **【 Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊 】**
+- // -- 【 instead of. 代替 替换 】
+- // -- 【 replace 代替 替换 】
+- // -- 【 fall into. 掉进... 】
 -
 -
 -
@@ -261,6 +271,7 @@
 - `【 military means. 军事手段 】`
 - `【 military conflict. 军事冲突 】`
 - _【 means 方法 手段 n 】_
+- _【 main means. 主要手段 n 】_
 - **【 The 【 purpose 】 of the 【 military training 】 is to use 【 military means 】 to 【 take military actions 】 to solve 【 military conflicts 】. 军事训练的目的是用军事手段采取军事行动解决军事冲突 】**
 - **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
 -

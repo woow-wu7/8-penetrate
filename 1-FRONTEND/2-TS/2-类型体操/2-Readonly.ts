@@ -11,7 +11,8 @@
 // - https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.zh-CN.md
 
 // 思路
-// 直接遍历 T，给每个属性添加 readonly 即可
+// - 直接遍历 T，给每个属性添加 readonly 即可
+// - 和 Pick 的思路类似
 type MyReadonly<T> = {
   readonly [Key in keyof T]: T[Key];
 };
