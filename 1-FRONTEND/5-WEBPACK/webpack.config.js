@@ -34,15 +34,16 @@ const { VueLoaderPlugin } = require("vue-loader");
 
 module.exports = {
   // mode
-  // node环境变量: 在package.json中script中cross-env指定了node环境变量 NODE_ENV=development
-  // 浏览器环境变量: mode指定浏览器环境变量
+  // node环境变量: 在 package.json 中 script 中 cross-env 指定了 node 环境变量 NODE_ENV=development
+  // 浏览器环境变量: mode 指定浏览器环境变量
   // mode: process.env.NODE_ENV 这样就同步了 node 和 浏览器 两端的环境变量都是 development
+  // [详见]("./1-WEBPACK-README.md") / Webpack Interview
   mode: process.env.NODE_ENV,
   entry: {
     main: path.resolve(__dirname, "./src/main.ts"),
   },
   output: {
-    filename: "[name].[hash].js",
+    filename: "[name].[hash].js", // [] => placeholder 占位符
     path: path.resolve(__dirname, "dist"), // AA
   },
   devtool: "eval-source-map",
@@ -157,10 +158,6 @@ module.exports = {
         ],
       },
     ],
-  },
-
-  resolve: {
-    extensions: [".ts", ".js", ".vue", ".json"],
   },
 
   plugins: [

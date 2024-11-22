@@ -184,7 +184,7 @@ JPA
 // nullable: The 'nullable=false' means that the 'name' is not null.
 // unique: The 'unique=true' field means this field is unique in the database.
 // length: The 'length=512' field means the max length of this field is 512.
-TIPS: the 'music_name' field correspond to the 'name' field in the database.
+TIPS: the 'music_name' field 【 correspond to 】 the 'name' field in the database.
 -- map: 地图n 映射v
 -- correspond: 对应 相当于 类似于
 -- 【 correspond to. 和...相对应 】

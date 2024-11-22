@@ -10,9 +10,11 @@
 // 作用: 创建style标签，将css源码字符串放入style标签中，并将style标签插入head标签中
 
 const myStyleLoader = function (source) {
+  // TIPS: webpack loader can not be an arrow function, because we should use "this" to get attributes.
+  // TIPS: use Element.innerHTML to inject content for style tag.
   const style = `
     const styleElement = document.createElement('style');
-    styleElement.innerHTML = ${JSON.stringify(source)};
+    styleElement.innerHTML = ${JSON.stringify(source)}; 
     document.head.appendChild(styleElement);
   `;
 

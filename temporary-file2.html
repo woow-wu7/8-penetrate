@@ -188,6 +188,58 @@
       // infer - type MyParameter<T> = T extends (parameter: infer P) => void ? P : T;
       // never - 死循环 抛出 穷尽检查
       // unknown - any 类型的安全类型 - 使用时需指定具体类型
+
+      // -----------------------------------------
+      // 36 webpack performance optimization.
+      // 1. noParse -> module/noParse -> jquery/lodash
+      // 2. include and exclude -> module/rules/{include,test, use:[{loader,options:{}}]}
+      // 3. webpack.dllPlugin and webpack.dllReferencePlugin -> 动态连结库 -> 单独打包
+      // 4. fileLoader and urlLoader -> base64
+      // 5. gZip compress
+      // 6. happyPack -> 多线程打包
+      // 7. treeShaking -> ESModule import
+      // 8. 路由懒加载 -> code splitting + import().then() function.
+      // 9. optimization/splitChunk/cacheGroup/common + vender
+      // 10. webpack.ignorePlugin
+      // -
+      // 1. Code Splitting: 按需加载
+      // 2. Tree Shaking: 去除未使用的代码
+      // 3. Minification: 压缩代码
+      // 4. Lazy Loading: 按需加载
+      // 5. SplitChunks: 代码分割
+      // 6. Cache: 缓存
+      // 7. ModuleConcatenation: 代码合并
+      // 8. HappyPack: 多线程打包
+      // 9. Webpack Dev Server: 热更新
+      // 10. Webpack Bundle Analyzer: 分析打包结果
+      // 11. Webpack DLL: 动态链接库
+      // 12. Webpack PWA:  Progressive Web App
+      // 13. Webpack ESLint: 代码检查
+      // 14. Webpack Optimize CSS: 优化 CSS
+      // 15. Webpack SplitChunksPlugin: 按需分割代码
+
+      // -----------------------------------------
+      // 37 webpack lifecycle.
+      // 1. entryOption
+      // 2. afterPlugin
+      // 3. run
+      // 4. compile
+      // 5. afterCompile
+      // 6. emit
+      // 7. done
+
+      // -----------------------------------------
+      // 38 hash chunkhash contenthash
+      // - hash: 整个 webpack 构建的 hash 值
+      // - chunkhash: 单个 chunk 的 hash 值 -> different entries(object) get different outputs, the modified file only impact its corresponding chunk.
+      // - contenthash: 文件内容的 hash 值 -> chunk1(js/css) -> modify js will not impact the css' hash.
+
+      // -----------------------------------------
+      // 39 cross-env mode webpack.definePlugin()
+      // - cross-env -> define node environment.
+      // - webpack.definePlugin() -> define browser environment.
+      // - mode -> define browser environment.
+      // -> mode: development === webpack.definePlugin({"process.env.NODE_ENV": JSON.stringify("development")})
     </script>
   </body>
 </html>

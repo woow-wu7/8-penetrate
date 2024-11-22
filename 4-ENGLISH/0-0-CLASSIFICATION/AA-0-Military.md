@@ -1,5 +1,142 @@
 ##### Military
 
+- 1
+- `【 military 军事 军队 军事的 军队的 】`
+- _【 military program. 军事节目 】_ // ------------ 【 broadcast military program. 播放军事节目 】
+- _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 海军基地 】 【 military base. 军事基地 】
+- _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 【 effective means. 有效手段 】
+- _【 military action. 军事行动 】_ // ------------- 【 take military action. 采取军事行动 】
+- _【 military conflict. 军事冲突 】_
+- _【 military magazine. 军事杂志 】_ // ----------- 【 magazine 杂志 弹夹 n 】
+- _【 military training. 军事训练 】_
+- > 【 broadcast military program. 播放军事节目 】
+- > 【 take military action. 采取军事行动 】
+- [program-程序-节目-n] // ------------------------- [military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
+- [means-手段-方法-n] // --------------------------- [military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
+- [broadcast-广播-n-播放-v] // --------------------- [broadcast-military-program.播放军事节目]
+- [base-基础-基地-n] // ---------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
+- [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
+- [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
+- AA.
+- program 程序 节目 n
+- > 【 military program. 军事节目 】// ------------- 【 broadcast military program. 播放军事节目 】
+- > 【 TV program. 电视节目 】
+- > 【 TV drama. 电视剧 】 = TV series.
+- BB.
+- base 基础 基地 n
+- > 【 military base. 军事基地 】
+- > 【 naval base. 海军基地 】
+- > 【 air force base. 空军基地 】
+- CC.
+- means 手段 方法 n
+- > 【 military means. 军事手段 】
+- > 【 main means. 主要手段 】
+- > 【 common means. 常见手段 】
+- > 【 effective means. 有效手段 】
+-
+- [AA.]
+- `【 military base. 军事基地 】`
+- `【 naval base. 海军基地 】`
+- `【 broadcast military program. 播放军事节目 】`
+- **【 The 【 military base 】 is 【 broadcasting 】 a 【 military program 】 about the 【 naval base 】. 军事基地正在播放关于海军基地的军事节目 】**
+-
+- [BB.]
+- `【 effect means. 有效手段 】`
+- `【 military conflict. 军事冲突 】`
+- `【 take military action. 采取军事行动 】`
+- **【 The 【 effective means 】 to resolve the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
+-
+-
+-
+-
+-
+- 2
+- `【 weapon 武器 】`
+-
+- `【 gun 枪 n 】`
+- `【 handgun 手枪 n 】` // -------------------- 【 handgun = pistol. 手枪 n 】
+- `【 shotgun 猎枪 n 】`
+- `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
+- `【 gunpowder 火药 n 】`
+- _【 fire there shots at. 向...开了三枪 v 】_
+- > 【 gunshot 枪声 n 】
+- > 【 explosion sound. 爆炸声 n 】
+-
+- `【 pistol 手枪 n 】` // --------------------- 【 draw a pistol. 拔出手枪 】
+- `【 rifle 步枪 n 】`
+- `【 shotgun 猎枪 n 】` // ---------------------【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
+- _【 draw the pistol. 拔出手枪 v 】_
+- 【 possess 持有 拥有 v 】
+-
+- `【 scope 瞄准镜 范围 n 】`
+- `【 magazine 弹夹 杂志 n 】`
+- _【 attach the scope. 装上瞄准镜 v 】_
+- _【 load the magazine. 装上弹夹 v 】_
+-
+- `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
+- `【 missile 导弹 n 】` // -------------------- 【 missile / miss / dismiss / mission 】
+- `【 bomb 炸弹 n 】` // ----------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
+- `【 atom bomb. 原子弹 n 】`
+- `【 hand grenade. 手榴弹 n 】`
+- > 【 explode 爆炸 v 】
+- > 【 explosion 爆炸 n 】
+- _【 explosion sound. 爆炸声 】_
+- _【 gunshot 枪声 n 】_
+- > 【 bulletproof vest. 防弹衣 】
+- > 【 proof 证据 / roof 屋顶 / prove 证明 】
+- // TIPS: Pay attention to the pronunciation of the word 'explosion'. [explosion-爆炸-n] [explosion-sound-爆炸声-n]
+- // TIPS: Pay attention to the pronunciation of the word 'vest'. [vest-背心-n]
+- // TIPS: Pay attention to the pronunciation of the word 'grenade'. [grenade-手榴弹-n]
+- // TIPS: Pay attention to the pronunciation of the word 'rifle'. [rifle-步枪-n]
+-
+- > 【 handgun 手枪 n 】// --------------------- 【 shotgun 猎枪 】// 【 gunshot 枪声 】 【 explosion sound. 爆炸声 】
+- > 【 hand grenade. 手榴弹 】
+- > 【 handrail 扶手 】
+- > 【 handle 把手 n 处理 v 】
+- > 【 handprint 手印 】// --------------------- 【 footprint. 脚印 】 【 lip print. 唇印 】 【 fingerprint 指纹 】
+- > 【 handbag 手提包 】
+- > 【 hand in. 上交 】
+- > 【 hand in hand. 手牵手 】
+- > 【 shake hand. 握手 】
+- > 【 wave hand. 挥手 】
+-
+- [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
+- [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
+- [base-基础-基地-n] // ---------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
+- [program-程序-节目-n] // ------------------------- [military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
+- [broadcast-广播-n-播放-v] // --------------------- [broadcast-military-program.播放军事节目]
+- [means-手段-方法-n] // --------------------------- [military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
+-
+- [AA.]
+- `【 draw the pistol. 拔出手枪 v 】`
+- `【 attach the scope. 装上瞄准镜 v 】`
+- `【 load the magazine. 装上弹夹 v 】`
+- `【 fire three shots at. 向...开了三枪 】`
+- > 【 criminal 罪犯 n 】
+- > 【 fugitive 逃犯 n 】
+- > draw -> drew 画 拔出 v
+- > fugitive 逃犯 VS refugee 难民 VS refuge 避难 v 避难所 n
+- **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 each of the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
+-
+- [BB.]
+- `【 gunshot 枪声 n 】`
+- `【 explosion sound. 爆炸声 n 】`
+- > 【 in the distance. 在远处 】
+- **【 【 Gunshots 】 and 【 explosion sounds 】 could be heard 【 in the distance 】. 远处传来了枪声和爆炸声 】**
+- // -- in the distance. 在远处
+- // -- 【 distant 远的 遥远的 adj 】
+- // -- 【 distance 距离 远方 n 】
+- // -- 【 long distance. 远距离 】
+-
+- [CC.]
+- `【 possess 持有 拥有 v 】`
+- `【 pistol 手枪 】`
+- `【 shotgun 猎枪 】`
+- `【 rifle 步枪 】`
+- > 【 illegal 非法的 】
+- **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
+- // -- 【 possess 持有 拥有 v 】
+
 ```
 1
 Military 军事 军队 军事的 军队的

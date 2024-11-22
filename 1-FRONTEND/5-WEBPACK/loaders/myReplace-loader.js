@@ -3,6 +3,8 @@
 // const loaderUtils = require("loader-utils");
 
 function myReplaceLoader(source) {
+  // TIPS: webpack loader can not be an arrow function, because we should use "this" to get attributes.
+
   const options = this.getOptions() || {};
   const callback = this.async();
   const options1 = this.query;

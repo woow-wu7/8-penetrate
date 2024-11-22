@@ -521,6 +521,8 @@
 - > 【 shake hand. 握手 v 】
 - > 【 wave hand. 挥手 v 】
 - > 【 hold your hand. 牵着你的手 】 // ----- **【 I want to 【 hold your hand 】 and go out together. 我想牵着你的手一起出去 】**
+- 【 hand grenade. 手榴弹 】
+- 【 handgun. 手枪 】
 - AA.
 - _【 escalator 扶梯 】_ // ------------------ 【 take the escalator. 乘扶梯 】 【 handrail 扶手 n 】
 - _【 elevator 电梯 】_
