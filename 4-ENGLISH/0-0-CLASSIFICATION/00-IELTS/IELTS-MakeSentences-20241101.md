@@ -1321,4 +1321,20 @@ The 【 internal contradictions 】 and 【 social contradictions 】 【 evolve
 
 7
 这个罪犯被关押在监狱中，成了犯人
+
+
+8
+保护领土的最佳方式是扩张领土
+
+
+9
+我们的领土被敌军占领了，这太糟糕了
+
+
+10
+残酷的战争在新的战场爆发了
+
+
+11
+这次战斗我们将使用非常规战术
 ```

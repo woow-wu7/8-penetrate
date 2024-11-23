@@ -220,30 +220,63 @@
 -
 -
 - 4
-- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 n 】
+- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 n 】 【 enemy territory. 地方领土 n 】 【 public enemy. 公敌 n 】
 - `【 army 陆军 n 】` // ----------------------- 【 army base. 陆军基地 】 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 military base. 军事基地 】
 - _【 annihilate 歼灭 消灭 v 】_
+- AA.
+- _【 enemy 敌人 n 】_
+- _【 enemy troop. 敌军 】_
+- _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 】
+- _【 public enemy. 公敌 】_
+- BB.
+- > 【 troop 部队 队伍 n 】
 - > 【 enemy troop. 敌军 】
 - > 【 friendly troop. 友军 】
+- > 【 ground troop. 地面部队 】
+- CC.
+- > 【 territory 领土 n 】
+- > 【 expand territory. 扩张领土 】
+- > 【 defend territory. 保护领土 】
+- > 【 enemy territory. 敌方领土 n 】
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- DD.
+- 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
+- 【 territory 领土 n 】
+- > 【 occupy 占用 占领 v 】
+- **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 -
-- `【 troop 部队 n 】` // ---------------------- 【 enemy troop. 敌军 n 】
-- `【 soldier 士兵 n 】`
+- `【 troop 部队 n 】` // ---------------------- 【 enemy troop. 敌军 】 【 ground troop. 地面部队 】 【 friendly troop. 友军 】 // 【 enemy territory. 地方领土 】
+- `【 soldier 士兵 n 】` // -------------------- 【 sold 出售 v 】
 - `【 pilot 飞行员 n 】`
 - `【 sailor 水手 n 】` // ----------------------【 sailboat 帆船 n 】 【 sail 航行 v 】
+- _【 enemy troop. 地方部队 n 】_ // ------------ 【 annihilate enemy troop. 歼灭敌军 】
+- _【 friendly troop. 友方部队 n 】_
+- _【 ground troop. 地面部队 n 】_
+- AA.
+- > 【 sail 航行 v 风帆 n 】
+- > 【 sailor 水手 n 】
+- > 【 sailboat 帆船 n 】
 -
-- `【 criminal 罪犯 n 】` // -------------------- 【 crime 犯罪 v 】
+- `【 criminal 罪犯 n 】` // -------------------- 【 criminal record. 犯罪记录 】 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 】 //【 crime 犯罪 v 】
 - `【 prisoner 犯人 n 】` // -------------------- 【 prison 监狱 n 】 【 imprison 关押 监禁 v 】
+- AA.
 - _【 prison 监狱 n 】_
 - _【 prisoner 犯人 囚犯 n 】_
 - _【 imprison 关押 监禁 v 】_
+- BB.
+- > 【 crime scene. 犯罪现场 】
+- > 【 criminal score. 犯罪记录 】
+- CC.
+- scene VS sense
+-
 -
 - [navigate-导航-航行-v]
 - [annihilate-歼灭-消灭-v] // ------------------- [annihilate-enemy-troop.歼灭敌军]
--
-- AA.
-- `【 sail 航行v  风帆n 】`
-- `【 sailboat 帆船 n 】`
-- `【 sailor 水手 n 】`
+- [territory-领土-n] // ------------------------ [defend-territory.保卫领土] [expand-territory.扩展领土] [enemy-territory.敌方领土]
+- [prison-监狱-n] // --------------------------- [imprison-关押-监禁-v] [prisoner-囚犯-n]
+- [cruel-残酷的-adj] // ------------------------ [cruel-war.残酷的战争] [cruel-competition.残酷的竞争]
+- [tactic-战术-n]
+- [strategy-战略-策略-n]
 -
 - [AA.]
 - `【 sailor 水手 n 】`
@@ -265,6 +298,40 @@
 - `【 prison 监狱 n 】`
 - _【 imprison 关押 监禁 v 】_
 - **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
+-
+- [DD.]
+- `【 defend territory. 保护领土 v 】`
+- `【 expand territory. 扩张领土 v 】`
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+-
+-
+-
+-
+-
+- 5
+- [Other]
+- `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 v 】
+- `【 break out. 爆发 v 】`
+-
+- `【 battle 战斗 v 】`
+- `【 battlefield 战场 n 】`
+-
+- `【 strategy 战略 策略 n 】` // --------------- 【 marketing strategy. 市场策略 n 】
+- `【 tactic 战术 n 】` // --------------------- 【 conventional tactic. 常规战术 n 】
+-
+- AA.
+- > 【 cruel war. 残酷的战争 】
+- > 【 cruel competition. 残酷的竞争 】
+- > 【 intense competition. 激励的竞争 】
+- BB.
+- > 【 The war breaks out. 爆发战争 】
+-
+- [AA.]
+- **【 The 【 cruel war 】 【 broke out 】 on the new 【 battlefield 】. 残酷的战争在新的战场爆发了 】**
+-
+- [BB.]
+- `【 unconventional tactic. 非常规战术 n 】`
+- **【 We will use 【 unconventional tactics 】 in this 【 battle 】. 这次战斗我们将使用非常规战术 】**
 
 ```
 1
