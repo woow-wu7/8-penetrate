@@ -71,11 +71,13 @@ command + shift + p
 然后输入命令: View: Reset View Locations
 ```
 
-##### (5) Theme that I used
+##### (5) **Theme** that I used
 
 ```
 1. Rainbow - Rainbow(rainglow)
 2. Bearded - Raspberry
 3. Bearded - Chocolate Espresso
 4. Prime(rainglow)
+
+5. Panda syntax
 ```

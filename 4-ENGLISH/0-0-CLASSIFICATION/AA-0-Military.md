@@ -3,7 +3,7 @@
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
 - _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`
-- _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 海军基地 】 【 military base. 军事基地 】
+- _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 海军基地 】 【 army base. 陆军基地 】 【 military base. 军事基地 】
 - _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 【 effective means. 有效手段 】
 - _【 military action. 军事行动 】_ // ------------- `【 take military action. 采取军事行动 】`
 - _【 military conflict. 军事冲突 】_
@@ -25,6 +25,7 @@
 - > 【 TV drama. 电视剧 】 = TV series.
 - BB.
 - base 基础 基地 n
+- _【 dock 码头 n 停靠 v 】_
 - > 【 military base. 军事基地 】
 - > 【 naval base. 海军基地 】
 - > 【 air force base. 空军基地 】
@@ -79,11 +80,14 @@
 -
 - `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
 - `【 missile 导弹 n 】` // -------------------- 【 missile / miss / dismiss / mission 】
-- `【 bomb 炸弹 n 】` // ----------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
+- `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
 - `【 atom bomb. 原子弹 n 】`
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
+- > 【 bomb 轰炸 v 炸弹 n 】 // ----------------- 【 bomber 轰炸机 n 】
 - > 【 explode 爆炸 v 】
 - > 【 explosion 爆炸 n 】// ------------------- 【 explosion sound. 爆炸声 n 】 `【 shrill explosion sound. 刺耳的爆炸声 】`
+- > 【 explosion sound. 爆炸声 】
+- > 【 shrill explosion sound. 刺耳的爆炸声 】
 - _【 shrill explosion sound. 刺耳的爆炸声 】_
 - _【 explosion sound. 爆炸声 】_ // ----------- _【 shrill explosion sound. 刺耳的爆炸声 】_
 - _【 gunshot 枪声 n 】_
@@ -157,14 +161,110 @@
 -
 -
 - 3
-- `【 navy 海军 n 】`
-- `【 army 陆军 n 】`
+- `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
+- `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
 - `【 air force. 空军 n 】`
--
-- `【 navy 海军 n 】`
+- [3.1]
+- `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 warship 战舰 n 】` // --------------------- 【 worship 崇拜 v n 】 【 warship 战舰 n 】 // worship warship relationship scholarship internship
 - `【 frigate 护卫舰 】`
+- `【 aircraft carrier. 航空母舰 n 】`
 - `【 submarine 潜水艇 n 】`
+- `【 dock 码头n 停靠v 】`
+- AA.
+- > 【 fleet 舰队 车队 n 】
+- > 【 naval fleet. 海军舰队 n 】
+- > 【 naval base. 海军基地 n 】
+- BB.
+- > 【 marine 海的 adj 】
+- > 【 submarine 潜水艇 n 】
+- > 【 marine resource. 海洋资源 n 】
+- > 【 marine pollution. 海洋污染 n 】 // -------- 【 pollute 污染 v 】 【 pollution 污染 n 】
+- [3.2]
+- `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 n 】
+- `【 arm 手臂n 武装v 】`
+- `【 armed 武装的 adj 】`
+- > 【 armed force. 武装力量 】
+- > 【 armed conflict. 武装冲突 】
+- _【 tank 坦克 箱 n 】_
+- [3.3]
+- `【 air force. 空军 n 】`
+- > 【 bomber 轰炸机 n 】
+- > 【 fighter jet. 战斗机 战士 n 】
+-
+- [AA.]
+- `【 navy 海军 n 】`
+- `【 naval fleet. 海军舰队 n 】`
+- `【 warship 战舰 n 】`
+- `【 frigate 护卫舰 n 】`
+- `【 aircraft carrier. 航空母舰 n 】`
+- `【 submarine 潜水艇 n 】`
+- **【 The 【 naval fleet 】 consists of 【 warships 】, 【 frigates 】, 【 aircraft carriers 】, and 【 submarines 】. 海军舰队由战舰、护卫舰、航空母舰和潜艇组成 】**
+- // -- 【 consist of. 由...组成 】
+-
+- [BB.]
+- `【 air force. 空军 n 】`
+- `【 fighter jet. 战斗机 n 】`
+- `【 bomber 轰炸机 n 】`
+- **【 The 【 air force 】 has 【 fighter jets 】 and 【 bombers 】. 空军有战机和轰炸机 】**
+-
+- [CC.]
+- `【 naval fleet. 海军舰队 n 】`
+- `【 naval base. 海军基地 n 】`
+- _【 dock 停靠 码头 】_
+- **【 A 【 naval fleet 】 is 【 docked 】 at the 【 naval base 】. 海军基地停着一只海军舰队 】**
+-
+-
+-
+-
+-
+-
+- 4
+- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 n 】
+- `【 army 陆军 n 】` // ----------------------- 【 army base. 陆军基地 】 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 military base. 军事基地 】
+- _【 annihilate 歼灭 消灭 v 】_
+- > 【 enemy troop. 敌军 】
+- > 【 friendly troop. 友军 】
+-
+- `【 troop 部队 n 】` // ---------------------- 【 enemy troop. 敌军 n 】
+- `【 soldier 士兵 n 】`
+- `【 pilot 飞行员 n 】`
+- `【 sailor 水手 n 】` // ----------------------【 sailboat 帆船 n 】 【 sail 航行 v 】
+-
+- `【 criminal 罪犯 n 】` // -------------------- 【 crime 犯罪 v 】
+- `【 prisoner 犯人 n 】` // -------------------- 【 prison 监狱 n 】 【 imprison 关押 监禁 v 】
+- _【 prison 监狱 n 】_
+- _【 prisoner 犯人 囚犯 n 】_
+- _【 imprison 关押 监禁 v 】_
+-
+- [navigate-导航-航行-v]
+- [annihilate-歼灭-消灭-v] // ------------------- [annihilate-enemy-troop.歼灭敌军]
+-
+- AA.
+- `【 sail 航行v  风帆n 】`
+- `【 sailboat 帆船 n 】`
+- `【 sailor 水手 n 】`
+-
+- [AA.]
+- `【 sailor 水手 n 】`
+- `【 sail 航行v 风帆n 】`
+- `【 sailboat 帆船 n 】`
+- > 【 navigate 导航 航行 v 】
+- **【 【 Sailors 】 uses the 【 sails 】 to 【 navigate 】 on the 【 sailboat 】. 水手们利用帆船上的风帆来航行 】**
+- // -- 【 navigate 导航 航行 v 】
+-
+- [BB.]
+- `【 enemy troop. 敌军 n 】`
+- `【 annihilate 歼灭 消灭 v 】`
+- > 【 annihilate enemy troop. 歼灭敌军 】
+- **【 【 Our troops 】 【 annihilated 】 the 【 enemy troops 】. 我军歼灭了敌军 】**
+-
+- [CC.]
+- `【 criminal 罪犯 n 】`
+- `【 prisoner 犯人 n 】`
+- `【 prison 监狱 n 】`
+- _【 imprison 关押 监禁 v 】_
+- **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
 
 ```
 1
