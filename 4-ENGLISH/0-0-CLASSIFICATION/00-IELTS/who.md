@@ -105,6 +105,8 @@ National interests. 国家利益
 
 - 1
 - `【 refer to. 参照 n 】`
+- `【 infer 推断 推论 v  】`
+- `【 defer 推迟 v 】`
 -
 - 2
 - `【 colleague 同事 n 】` // college
@@ -152,4 +154,12 @@ National interests. 国家利益
 
 ```
 
+```
+
+##### 2024-11-22
+
+```
+customs duty. 海关税
+stamp duty. 印花岁
+// stamp damp/humid/moist dumpling dump dumb jump stump pumpkin pum
 ```

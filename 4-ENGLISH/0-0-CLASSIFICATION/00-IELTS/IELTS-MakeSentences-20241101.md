@@ -1286,4 +1286,15 @@ The 【 internal contradictions 】 and 【 social contradictions 】 【 evolve
 
 5
 我完成了一部完整的小说
+
+
+6
+炸弹爆炸后产生了刺耳的爆炸声
+```
+
+##### 29 Make sentences **2024-11-29**
+
+```
+1
+炸弹爆炸后产生了刺耳的爆炸声
 ```

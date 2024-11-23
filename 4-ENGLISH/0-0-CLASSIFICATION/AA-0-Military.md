@@ -2,12 +2,12 @@
 
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
-- _【 military program. 军事节目 】_ // ------------ 【 broadcast military program. 播放军事节目 】
+- _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`
 - _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 海军基地 】 【 military base. 军事基地 】
 - _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 【 effective means. 有效手段 】
-- _【 military action. 军事行动 】_ // ------------- 【 take military action. 采取军事行动 】
+- _【 military action. 军事行动 】_ // ------------- `【 take military action. 采取军事行动 】`
 - _【 military conflict. 军事冲突 】_
-- _【 military magazine. 军事杂志 】_ // ----------- 【 magazine 杂志 弹夹 n 】
+- _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
 - _【 military training. 军事训练 】_
 - > 【 broadcast military program. 播放军事节目 】
 - > 【 take military action. 采取军事行动 】
@@ -17,6 +17,7 @@
 - [base-基础-基地-n] // ---------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
 - [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
 - [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
+- [pistol-手枪-n] // ------------------ [draw-the-pistol.拔出手枪]
 - AA.
 - program 程序 节目 n
 - > 【 military program. 军事节目 】// ------------- 【 broadcast military program. 播放军事节目 】
@@ -44,7 +45,7 @@
 - `【 effect means. 有效手段 】`
 - `【 military conflict. 军事冲突 】`
 - `【 take military action. 采取军事行动 】`
-- **【 The 【 effective means 】 to resolve the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
+- **【 The 【 effective means 】 to 【 resolve 】 the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
 -
 -
 -
@@ -54,33 +55,37 @@
 - `【 weapon 武器 】`
 -
 - `【 gun 枪 n 】`
-- `【 handgun 手枪 n 】` // -------------------- 【 handgun = pistol. 手枪 n 】
+- `【 handgun 手枪 n 】` // -------------------- 【 hand grenade. 手榴弹 n 】 【 shotgun 猎枪 n 】 // 【 handgun = pistol. 手枪 n 】
 - `【 shotgun 猎枪 n 】`
 - `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
-- `【 gunpowder 火药 n 】`
-- _【 fire there shots at. 向...开了三枪 v 】_
+- `【 gunpowder 火药 n 】` // ------------------ 【 powder 粉 粉末 n 】 // 【 flour 面粉 】
+- _【 fire three shots at. 向...开了三枪 v 】_
 - > 【 gunshot 枪声 n 】
 - > 【 explosion sound. 爆炸声 n 】
 -
 - `【 pistol 手枪 n 】` // --------------------- 【 draw a pistol. 拔出手枪 】
 - `【 rifle 步枪 n 】`
 - `【 shotgun 猎枪 n 】` // ---------------------【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
+- `【 handgun 手枪 】` = pistol
 - _【 draw the pistol. 拔出手枪 v 】_
 - 【 possess 持有 拥有 v 】
 -
-- `【 scope 瞄准镜 范围 n 】`
-- `【 magazine 弹夹 杂志 n 】`
+- `【 scope 瞄准镜 范围 n 】` // ---------------- 【 attach the scope. 装上瞄准镜 v 】
+- `【 magazine 弹夹 杂志 n 】` // ----------------【 load the magazine. 装上弹夹 v 】
+- `【 pistol 手枪 】` // ------------------------【 draw the pistol. 拔出手枪 v 】
 - _【 attach the scope. 装上瞄准镜 v 】_
 - _【 load the magazine. 装上弹夹 v 】_
+- _【 draw the pistol. 拔出手枪 v 】_
 -
 - `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
 - `【 missile 导弹 n 】` // -------------------- 【 missile / miss / dismiss / mission 】
 - `【 bomb 炸弹 n 】` // ----------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
 - `【 atom bomb. 原子弹 n 】`
-- `【 hand grenade. 手榴弹 n 】`
+- `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
 - > 【 explode 爆炸 v 】
-- > 【 explosion 爆炸 n 】
-- _【 explosion sound. 爆炸声 】_
+- > 【 explosion 爆炸 n 】// ------------------- 【 explosion sound. 爆炸声 n 】 `【 shrill explosion sound. 刺耳的爆炸声 】`
+- _【 shrill explosion sound. 刺耳的爆炸声 】_
+- _【 explosion sound. 爆炸声 】_ // ----------- _【 shrill explosion sound. 刺耳的爆炸声 】_
 - _【 gunshot 枪声 n 】_
 - > 【 bulletproof vest. 防弹衣 】
 - > 【 proof 证据 / roof 屋顶 / prove 证明 】
@@ -102,7 +107,8 @@
 -
 - [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
 - [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
-- [base-基础-基地-n] // ---------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
+- [pistol-手枪-n] // ------------------ [draw-the-pistol.拔出手枪]
+- [base-基础-基地-n] // ---------------------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
 - [program-程序-节目-n] // ------------------------- [military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
 - [broadcast-广播-n-播放-v] // --------------------- [broadcast-military-program.播放军事节目]
 - [means-手段-方法-n] // --------------------------- [military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
@@ -116,7 +122,7 @@
 - > 【 fugitive 逃犯 n 】
 - > draw -> drew 画 拔出 v
 - > fugitive 逃犯 VS refugee 难民 VS refuge 避难 v 避难所 n
-- **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 each of the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
+- **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
 -
 - [BB.]
 - `【 gunshot 枪声 n 】`
@@ -136,6 +142,29 @@
 - > 【 illegal 非法的 】
 - **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
 - // -- 【 possess 持有 拥有 v 】
+-
+- [DD.]
+- `【 bomb 炸弹 n 】`
+- `【 explode 爆炸 n 】`
+- `【 shrill 尖叫v 刺耳的adj 】`
+- `【 explosion sound. 爆炸声 】`
+- **【 After the 【 bomb 】 【 exploded 】, there was a 【 shrill 】 【 explosion sound 】. 炸弹爆炸后产生了刺耳的爆炸声 】**
+- // -- _【 shrill 尖叫 v 刺耳的 adj 】_
+-
+-
+-
+-
+-
+-
+- 3
+- `【 navy 海军 n 】`
+- `【 army 陆军 n 】`
+- `【 air force. 空军 n 】`
+-
+- `【 navy 海军 n 】`
+- `【 warship 战舰 n 】` // --------------------- 【 worship 崇拜 v n 】 【 warship 战舰 n 】 // worship warship relationship scholarship internship
+- `【 frigate 护卫舰 】`
+- `【 submarine 潜水艇 n 】`
 
 ```
 1
@@ -245,6 +274,7 @@ troop 部队
 -
 prisoner 犯人 囚犯 俘虏 n
 surrender 投降 v
+criminal 罪犯 犯人 n
 -
 【 air force. 空军  】
 【 navy 海军 】
@@ -253,7 +283,7 @@ surrender 投降 v
 force 强迫v 力量n 力n
 -
 【 navy 海军 】
-【 warship 军舰 】
+【 warship 军舰 】 // worship relationship scholarship internship
 【 frigate 护卫舰 】
 【 submarine 潜水艇 】
 marine 海的 adj
