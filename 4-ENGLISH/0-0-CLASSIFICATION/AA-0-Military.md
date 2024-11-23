@@ -9,15 +9,17 @@
 - _【 military conflict. 军事冲突 】_
 - _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
 - _【 military training. 军事训练 】_
+- 【 military provocation. 军事挑衅 】
 - > 【 broadcast military program. 播放军事节目 】
 - > 【 take military action. 采取军事行动 】
-- [program-程序-节目-n] // ------------------------- [military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
-- [means-手段-方法-n] // --------------------------- [military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
-- [broadcast-广播-n-播放-v] // --------------------- [broadcast-military-program.播放军事节目]
-- [base-基础-基地-n] // ---------------- [military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
-- [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
-- [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
+- [program-程序-节目-n] // ------------------------- [][military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
+- [means-手段-方法-n] // --------------------------- [][military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
+- [broadcast-广播-n-播放-v] // --------------------- [][broadcast-military-program.播放军事节目]
 - [pistol-手枪-n] // ------------------ [draw-the-pistol.拔出手枪]
+- [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
+- [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
+- [provocation-挑衅-激怒-n] // --------------------- [][military-provocation.军事挑衅]
+- [base-基础-基地-n] // ---------------------------- [][military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
 - AA.
 - program 程序 节目 n
 - > 【 military program. 军事节目 】// ------------- 【 broadcast military program. 播放军事节目 】
@@ -229,17 +231,25 @@
 - _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 】
 - _【 public enemy. 公敌 】_
 - BB.
+- _【 arm 手臂 n 武装 v 】_
+- _【 armed 武装的 adj 】_ // ------------------- 【 armed conflict. 武装冲突 】 【 armed force. 武装力量 】
+- _【 army 陆军 n 】_ // ------------------------ 【 army base. 陆军基地 】
+- > 【 armed conflict. 武装冲突 】
+- > 【 armed force. 武装力量 】
+- 【 prevent 阻止 防止 v 】
+- **【 To 【 own 】 【 armed force 】 is to 【 prevent 】 【 armed conflicts 】. 拥有武装力量是为了防止武装冲突 】**
+- CC.
 - > 【 troop 部队 队伍 n 】
 - > 【 enemy troop. 敌军 】
 - > 【 friendly troop. 友军 】
 - > 【 ground troop. 地面部队 】
-- CC.
-- > 【 territory 领土 n 】
+- DD.
+- > 【 territory 领土 领地 n 】
 - > 【 expand territory. 扩张领土 】
 - > 【 defend territory. 保护领土 】
 - > 【 enemy territory. 敌方领土 n 】
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
-- DD.
+- EE.
 - 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
 - 【 territory 领土 n 】
 - > 【 occupy 占用 占领 v 】
@@ -249,13 +259,14 @@
 - `【 soldier 士兵 n 】` // -------------------- 【 sold 出售 v 】
 - `【 pilot 飞行员 n 】`
 - `【 sailor 水手 n 】` // ----------------------【 sailboat 帆船 n 】 【 sail 航行 v 】
-- _【 enemy troop. 地方部队 n 】_ // ------------ 【 annihilate enemy troop. 歼灭敌军 】
-- _【 friendly troop. 友方部队 n 】_
-- _【 ground troop. 地面部队 n 】_
 - AA.
 - > 【 sail 航行 v 风帆 n 】
 - > 【 sailor 水手 n 】
 - > 【 sailboat 帆船 n 】
+- BB.
+- _【 enemy troop. 地方部队 n 】_ // ------------ 【 annihilate enemy troop. 歼灭敌军 】
+- _【 friendly troop. 友方部队 n 】_
+- _【 ground troop. 地面部队 n 】_
 -
 - `【 criminal 罪犯 n 】` // -------------------- 【 criminal record. 犯罪记录 】 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 】 //【 crime 犯罪 v 】
 - `【 prisoner 犯人 n 】` // -------------------- 【 prison 监狱 n 】 【 imprison 关押 监禁 v 】
@@ -266,17 +277,21 @@
 - BB.
 - > 【 crime scene. 犯罪现场 】
 - > 【 criminal score. 犯罪记录 】
+- **【 The 【 crime scene 】 has the 【 detailed 】 【 criminal records 】. 犯罪现场有详细的犯罪记录 】**
 - CC.
 - scene VS sense
+- common sense. 常识 n
+- make sense. 有道理
 -
 -
 - [navigate-导航-航行-v]
 - [annihilate-歼灭-消灭-v] // ------------------- [annihilate-enemy-troop.歼灭敌军]
 - [territory-领土-n] // ------------------------ [defend-territory.保卫领土] [expand-territory.扩展领土] [enemy-territory.敌方领土]
 - [prison-监狱-n] // --------------------------- [imprison-关押-监禁-v] [prisoner-囚犯-n]
-- [cruel-残酷的-adj] // ------------------------ [cruel-war.残酷的战争] [cruel-competition.残酷的竞争]
+- [cruel-残酷的-adj] // ------------------------- [cruel-war.残酷的战争] [cruel-competition.残酷的竞争]
 - [tactic-战术-n]
 - [strategy-战略-策略-n]
+- [prevent-阻止-防止-v] // ---------------------- [prevent-armed-conflict.防止武装冲突]
 -
 - [AA.]
 - `【 sailor 水手 n 】`
