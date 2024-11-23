@@ -5,22 +5,42 @@
 - `【 eventually 最后 终于 adv】`
 - `【 eventual 最后的 终于的 adj 】` // --------- 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
 - `【 final 最终的 adj 】` // ------------------ 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
+- _【 eventual outcome. 最终的结果 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'eventually'. [eventually-最后-终于-adv]
 - **【 The 【 eventual outcome 】 was that we won the 【 match 】. 最终的结果是我们赢得了比赛 】**
-- **【 Eventually 】, I still 【 achieved 】 my dream. 最终我还是实现了我的梦想**
+- **【 【 Eventually 】, I still 【 achieved 】 my dream. 最终我还是实现了我的梦想 】**
 - // -- outcome 结果 效果 n
 - // -- match 火柴 n 匹配 v 比赛 n
 - // -- 【 eventual outcome. = final result. 最终结果 】
 -
+-
 - 2
-- `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain tail. 山间小道 】
+- `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain tail. 山路 山间小道 】
 - `【 sail 航行 v 帆 n  】`
+- _【 mountain trail. 山路 山间小道 】_
+- AA.
 - > 【 track 追踪 v 轨道 n 】
 - > 【 trace 追踪 v 痕迹 n 】
-- **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that left by 【 trucks 】 on the 【 trail 】 . 这个仪器可以追踪卡车在小路上留下的痕迹 】**
+- **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that left by 【 trucks 】 【 on 】 the 【 trail 】 . 这个仪器可以追踪卡车在小路上留下的痕迹 】**
 - // -- instrument 仪器 仪表 n
 - // -- device 设备 n
 - // -- equipment 装备 n
+-
+-
+- 3
+- `【 chore 家务 杂活 n 】`
+- _【 daily chores. 日常家务 】_
+- **【 She 【 spends 】 two hours doing 【 daily chores 】 every day. 她每天花 2 个小时做日常家务 】**
+- // -- 【 spend doing sth. 花费...做某事 】
+-
+-
+- 4
+- `【 frown 皱眉 v n 】`
+- _【 frown at. 对...皱眉 】_
+- **【 The teacher 【 frowned at 】 the 【 noisy 】 students. 老师对吵闹的学生皱起了眉头 】**
+- **【 There is some 【 noise 】 here. 这里有一些噪音 】**
+- // -- 【 noisy 吵闹的 adj 】
+- // -- 【 noise 噪音 n 】
 
 ```
 finally  最后 终于 adv
@@ -74,15 +94,20 @@ firewood 柴火 木材 n
 
 confuse 混淆 弄错 迷惑 v
 confused 困惑的 adj
+confusion 困惑 n
 【 confused expression. 困惑的表情 】
 【 look confused. 看起来很困惑 】
--
-expression 表达 表情 感情 n
+【 in confusion. 困惑地 adv 】
 -
 【 in confusion. 疑惑地 adv 】`
 【 looked confused. 看上去很疑惑 】
+-
+expression 表达 表情 感情 n
+-
 // -- The students 【 looked confused 】. 学生们看上去一脸困惑
 // -- 他的表达让他露出了困惑的表情
+-
+// -- He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的送了耸肩
 
 
 

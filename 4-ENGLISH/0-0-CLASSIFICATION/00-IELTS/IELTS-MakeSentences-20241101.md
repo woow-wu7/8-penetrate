@@ -1353,4 +1353,18 @@ The 【 internal contradictions 】 and 【 social contradictions 】 【 evolve
 
 15
 拥有武装力量是为了防止武装冲突
+
+
+16
+最终的结果是我们赢得了比赛
+-
+最终我还是实现了我的梦想
+
+
+17
+这个仪器可以追踪卡车在小路上留下的痕迹
+
+
+18
+她每天花 2 个小时做日常家务
 ```

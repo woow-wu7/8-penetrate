@@ -236,6 +236,7 @@
 - _【 army 陆军 n 】_ // ------------------------ 【 army base. 陆军基地 】
 - > 【 armed conflict. 武装冲突 】
 - > 【 armed force. 武装力量 】
+- 【 army base. 陆军基地 n 】
 - 【 prevent 阻止 防止 v 】
 - **【 To 【 own 】 【 armed force 】 is to 【 prevent 】 【 armed conflicts 】. 拥有武装力量是为了防止武装冲突 】**
 - CC.
@@ -251,7 +252,7 @@
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
 - EE.
 - 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
-- 【 territory 领土 n 】
+- 【 territory 领土 n 】 // -------------------- 【 expand territory. 】 【 defend territory. 】 【 enemy territory. 】
 - > 【 occupy 占用 占领 v 】
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 -
@@ -263,6 +264,8 @@
 - > 【 sail 航行 v 风帆 n 】
 - > 【 sailor 水手 n 】
 - > 【 sailboat 帆船 n 】
+- 【 navigate 导航 航行 v 】
+- **【 【 Sailors 】 uses the 【 sails 】 to 【 navigate 】 on the 【 sailboat 】. 水手们利用帆船上的风帆来航行 】**
 - BB.
 - _【 enemy troop. 地方部队 n 】_ // ------------ 【 annihilate enemy troop. 歼灭敌军 】
 - _【 friendly troop. 友方部队 n 】_
@@ -274,6 +277,7 @@
 - _【 prison 监狱 n 】_
 - _【 prisoner 犯人 囚犯 n 】_
 - _【 imprison 关押 监禁 v 】_
+- **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
 - BB.
 - > 【 crime scene. 犯罪现场 】
 - > 【 criminal score. 犯罪记录 】
@@ -333,11 +337,16 @@
 -
 - `【 strategy 战略 策略 n 】` // --------------- 【 marketing strategy. 市场策略 n 】
 - `【 tactic 战术 n 】` // --------------------- 【 conventional tactic. 常规战术 n 】
+- _【 conventional 常规的 adj 】_
+- _【 conventional tactic. 常规战术 n 】_
+- _【 unconventional tactic. 非常规战术 n 】_
+- **【 We will use 【 unconventional tactics 】 in this 【 battle 】. 这次战斗我们将使用非常规战术 】**
 -
 - AA.
 - > 【 cruel war. 残酷的战争 】
 - > 【 cruel competition. 残酷的竞争 】
 - > 【 intense competition. 激励的竞争 】
+- **【 The 【 cruel war 】 【 broke out 】 on the new 【 battlefield 】. 残酷的战争在新的战场爆发了 】**
 - BB.
 - > 【 The war breaks out. 爆发战争 】
 -
