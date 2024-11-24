@@ -227,9 +227,12 @@
 - _【 annihilate 歼灭 消灭 v 】_
 - AA.
 - _【 enemy 敌人 n 】_
-- _【 enemy troop. 敌军 】_
-- _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 】
-- _【 public enemy. 公敌 】_
+- _【 enemy troop. 敌军 】_ // ----------------- 【 friendly troop. 友军 】 【 ground troop. 地方部队 n 】
+- _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 扩张领土 】 _【 national territory. 国家领土 】_
+- _【 public enemy. 公敌 】_ // ---------------- 【 in public. 公开的 adj 】 // 【 publicly apologize. 公开道歉 v 】
+- **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - BB.
 - _【 arm 手臂 n 武装 v 】_
 - _【 armed 武装的 adj 】_ // ------------------- 【 armed conflict. 武装冲突 】 【 armed force. 武装力量 】
@@ -249,12 +252,28 @@
 - > 【 expand territory. 扩张领土 】
 - > 【 defend territory. 保护领土 】
 - > 【 enemy territory. 敌方领土 n 】
+- > 【 national territory. 国家领土 n 】
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
+- **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - EE.
 - 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
 - 【 territory 领土 n 】 // -------------------- 【 expand territory. 】 【 defend territory. 】 【 enemy territory. 】
 - > 【 occupy 占用 占领 v 】
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
+- FF.
+- _【 nation / state / country. 国家 】_
+- _【 National Day. 国庆节 】_
+- _【 national flag. 国旗 】_
+- _【 national anthem. 国旗 】_
+- _【 national territory. 国家领土 】_
+- _【 national assets. 国有资产 】_
+- _【 national interest. 国家利益 】_ // -------- `【 interest 兴趣 利息 利益 n 】`
+- **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
+-
+- [represent-代表-v]
+- [prevent-阻止-v]
+-
 -
 - `【 troop 部队 n 】` // ---------------------- 【 enemy troop. 敌军 】 【 ground troop. 地面部队 】 【 friendly troop. 友军 】 // 【 enemy territory. 地方领土 】
 - `【 soldier 士兵 n 】` // -------------------- 【 sold 出售 v 】

@@ -6,7 +6,9 @@
 - `【 eventual 最后的 终于的 adj 】` // --------- 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
 - `【 final 最终的 adj 】` // ------------------ 【 eventual outcome. 最终的结果 n 】 【 final result. 最终结果 n 】
 - _【 eventual outcome. 最终的结果 n 】_
+- _【 final result. 最终结果 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'eventually'. [eventually-最后-终于-adv]
+- **【 The 【 eventual outcome 】 will be announced tomorrow. 最终结果将在明天公布 】**
 - **【 The 【 eventual outcome 】 was that we won the 【 match 】. 最终的结果是我们赢得了比赛 】**
 - **【 【 Eventually 】, I still 【 achieved 】 my dream. 最终我还是实现了我的梦想 】**
 - // -- outcome 结果 效果 n
@@ -18,6 +20,9 @@
 - `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain tail. 山路 山间小道 】
 - `【 sail 航行 v 帆 n  】`
 - _【 mountain trail. 山路 山间小道 】_
+- > sail 航行 v 风帆 n
+- > sailor 船员 n
+- > sailboat 帆船 n
 - AA.
 - > 【 track 追踪 v 轨道 n 】
 - > 【 trace 追踪 v 痕迹 n 】
@@ -41,8 +46,31 @@
 - **【 There is some 【 noise 】 here. 这里有一些噪音 】**
 - // -- 【 noisy 吵闹的 adj 】
 - // -- 【 noise 噪音 n 】
+-
+-
+-
+-
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
+-
+-
+-
+-
+- 1
+- `【 meditate 冥想 v 】`
+- `【 meditation 冥想 n 】`
+- `【 medication 药 】` // 处方药
+- `【 medicine 药 n 】` // 药
+- **【 Both the 【 meditation 】 and 【 medication 】 can 【 cure disease 】. 冥想和药都能治病 】**
+- // -- _【 cure 治疗 治愈 v 】_
+- // -- _【 cure disease. 治病 】_
+- // -- 【 cure illness. 治病 】
+- // -- disease 病 疾病 n
+- // -- diseases 病 疾病 n
 
 ```
+1
 finally  最后 终于 adv
 eventually. 最后 终于 adv
 // finally = eventually. 最后 终于 adv
@@ -57,6 +85,7 @@ finally 最后 终于 adv
 // ----【 realize = achieve 实现 v 】
 
 
+2
 trail 小路n 跟踪v ----------------------- 【 mountain trail. 山间小道 n 】 【 trail of blood. 血迹 n 】 = bloodstain 血迹
 sail 航行 v
 sage 圣人 智者 n
@@ -78,14 +107,22 @@ BB.
 // ----【 hike along. 沿着...徒步旅行 n 】
 
 
+3
 chore 家务活 n
 【 daily chore. 日常家务 】
+
+
+4
+a moment later. 片刻之后 过了一会儿
+
+
+5
+【 How to tell the future. 如何预测未来 】
 
 
 be about to. 即将
 【 be about to expire. 即将过期 】
 // --【 According to 】 the 【 expiration time 】 to 【 judge 】, this food 【 is about to 】 【 expire 】. 根据过期时间判断，这个食物即将过期
-
 
 thick forest. 茂密的森林 n
 chop 砍 切碎 剁 v
@@ -142,4 +179,8 @@ meditate 冥想 v
 meditation 冥想
 medication 药
 -
+
+ax 斧头 n
+
+live forever. 长生不老
 ```

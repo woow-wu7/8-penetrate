@@ -655,10 +655,11 @@
 - `【 national 国家的 民族的 adj 】` // ------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national asset. 国有资产 】 【 National Day. 】
 - `【 nationality 国籍 民族 n 】` // --------------- 【 foreign nationality. 外国国籍 n 】 【 dual nationality. 双重国籍 】
 - > 【 United Nations. 联合国 n 】
+- _【 National Day. 国庆节 n 】_ // ----------------- 注意都需要大写
 - _【 national flag. 国旗 n 】_
 - _【 national anthem. 国歌 n 】_ // ---------------【 anthem 国歌 n 】
+- _【 national territory. 国家领土 】_ // ---------- `【 defend territory. 保护领土 】` 【 expand territory. 扩大领土 】 `【 national territory. 国家领土 n 】`
 - _【 national assets. 国有资产 n 】_ // ------------【 asset 资产 】
-- _【 National Day. 国庆节 n 】_ // ----------------- 注意都需要大写
 - _【 national interests. 国家利益 】_ // ----------- interest 兴趣 利息 利益 n
 - **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
 - > 【 destination 目的地 】
