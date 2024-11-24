@@ -1426,4 +1426,16 @@ The 【 internal contradictions 】 and 【 social contradictions 】 【 evolve
 
 13
 海军基地停着一只海军舰队
+
+
+14
+腐败的官员导致政府破产
+
+
+15
+暴风雨中断了火山喷发
+
+
+16
+银行因为员工腐败而破产
 ```

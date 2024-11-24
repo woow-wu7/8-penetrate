@@ -502,9 +502,14 @@
 - 1
 - `bank 银行 堤岸`
 - `branch 分行 分支 分部`
+- `bankrupt 破产 v / 破产的 adj`
+- > bankrupt / erupt / corrupt / interrupt
+- [detailed-distinction][Must 2024-11-24](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
+-
 -
 - `band 乐队 带子`
 - `brand 品牌 商标`
+-
 -
 - _【 bank clerk. 银行职员 】_ // ------- clerk 职员 店员
 - _【 bank teller. 银行出纳员 】_ // ---- teller 出纳 // tell teller

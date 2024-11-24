@@ -9,7 +9,7 @@
 - _【 military conflict. 军事冲突 】_
 - _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
 - _【 military training. 军事训练 】_ // ----------- 【 simulate training. 模拟训练 】
-- 【 military provocation. 军事挑衅 n 】 // -------- **【 The purpose of the military provocation is to enrage our troops.】**
+- 【 military provocation. 军事挑衅 n 】 // -------- **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】.】**
 - 【 enrage 激怒 v 】
 - > 【 broadcast military program. 播放军事节目 】
 - > 【 take military action. 采取军事行动 】
@@ -93,12 +93,14 @@
 - _【 draw the pistol. 拔出手枪 v 】_
 -
 - `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
-- `【 missile 导弹 n 】` // -------------------- `【 intercept missile. 拦截导弹 】` 【 missile / miss / dismiss / mission 】
-- `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
+- `【 missile 导弹 n 】` // -------------------- `【 intercept missile. 拦截导弹 】` 【 missile / miss / dismiss / mission 】 // intercept VS interrupt
+- `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 `【 bomber 轰炸机 】` // 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
 - `【 atom bomb. 原子弹 n 】`
+- `【 bomber 轰炸机 n 】`
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
 - 【 bomb 炸弹 n 轰炸 v 】
 - 【 bomber 轰炸机 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
 - > 【 bomb 轰炸 v 炸弹 n 】 // ----------------- 【 bomber 轰炸机 n 】
 - > 【 explode 爆炸 v 】
 - > 【 explosion 爆炸 n 】// ------------------- 【 explosion sound. 爆炸声 n 】 `【 shrill explosion sound. 刺耳的爆炸声 】`
@@ -153,6 +155,7 @@
 - `【 shrill explosion sound. 刺耳的爆炸声 】`
 - > 【 in the distance. 在远处 】
 - **【 【 Gunshots 】 and 【 explosion sounds 】 could be heard 【 in the distance 】. 远处传来了枪声和爆炸声 】**
+- **【 After the 【 bomb 】 【 exploded 】, there was a 【 shrill 】 【 explosion sound 】. 炸弹爆炸后产生了刺耳的爆炸声 】**
 - // -- in the distance. 在远处
 - // -- 【 distant 远的 遥远的 adj 】
 - // -- 【 distance 距离 远方 n 】
@@ -174,6 +177,7 @@
 - `【 shrill 尖叫v 刺耳的adj 】`
 - `【 explosion sound. 爆炸声 】`
 - **【 After the 【 bomb 】 【 exploded 】, there was a 【 shrill 】 【 explosion sound 】. 炸弹爆炸后产生了刺耳的爆炸声 】**
+- **【 【 Gunshots 】 and 【 explosion sounds 】 could be heard 【 in the distance 】. 远处传来了枪声和爆炸声 】**
 - // -- _【 shrill 尖叫 v 刺耳的 adj 】_
 -
 -
@@ -195,6 +199,7 @@
 - `【 dock 码头n 停靠v 】`
 - sailor / sail / sailboat
 - // TIPS: Pay attention to the pronunciation of the word 'carry'. [carry-携带-拿-v]
+- // TIPS: Pay attention to the pronunciation of the word 'carrier'. [carrier-运送者-n]
 - AA.
 - > 【 fleet 舰队 车队 n 】
 - > 【 naval fleet. 海军舰队 n 】
@@ -268,6 +273,8 @@
 - 【 army base. 陆军基地 n 】
 - 【 prevent 阻止 防止 v 】
 - **【 To 【 own 】 【 armed force 】 is to 【 prevent 】 【 armed conflicts 】. 拥有武装力量是为了防止武装冲突 】**
+- // -- prevent 阻止 v
+- // -- represent 代表 v
 - CC.
 - > 【 troop 部队 队伍 n 】
 - > 【 enemy troop. 敌军 】
@@ -275,8 +282,8 @@
 - > 【 ground troop. 地面部队 】
 - DD.
 - > 【 territory 领土 领地 n 】
-- > 【 expand territory. 扩张领土 】
 - > 【 defend territory. 保护领土 】
+- > 【 expand territory. 扩张领土 】
 - > 【 national territory. 国家领土 n 】
 - > 【 enemy territory. 敌方领土 n 】
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**

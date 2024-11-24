@@ -1368,3 +1368,39 @@
 - `【 take up. 占用 v 】`
 - **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 
+###### Must 2024-11-24
+
+- 1
+- `【 bankrupt 破产 倒闭 v 】` // ------------ 【 shut down. 关闭 停业 v 】 【 shut up. 闭嘴 】 // 【 shuttle bus. 班车 】
+- `【 erupt 喷发 v 】`
+- `【 corrupt 腐败的 adj 】` // -------------- 【 corrupt official. 腐败的官员 】
+- `【 interrupt 打断 中断  v 】` // ----------- 【 interrupt signal. 中断信号 】 【 interrupt dialog. 打断对话 】
+- _【 bankrupt 破产 倒闭 v 】_
+- _【 shot down. 关闭 停业 v 】_
+- _【 shut up. 闭嘴 v 】_
+- _【 shuttle bus. 班车 区间车 n 】_
+- > 【 corrupt official. 腐败的官员 n 】
+-
+- `【 interrupt 打断 中断 v 】` // ------------ 【 interrupt signal. 中断信号 】 【 interrupt dialog. 打断对话 】
+- `【 intercept 拦截 v 】` // ---------------- 【 intercept missile. 拦截导弹 v 】 【 intercept communication. 拦截通讯 v 】
+-
+- [AA.]
+- `【 corrupt 腐败的 adj 】`
+- `【 bankrupt 破产 倒闭 v 】`
+- > 【 corrupt official. 腐败的官员 n 】
+- **【 【 Corrupt officials 】 【 led 】 to the government 【 bankrupt 】. 腐败的官员导致政府破产 】**
+- // -- lead -> led 导致
+-
+- [BB.]
+- `【 erupt 喷发 v 】`
+- `【 volcanic eruption. 火山喷发 】`
+- `【 interrupt 打断 中断 v 】`
+- **【 The 【 storm 】 【 interrupted 】 the 【 volcanic eruption 】. 暴风雨中断了火山喷发 】**
+- // -- storm 暴风雨 n
+- // -- snowstorm 暴风雪 n
+-
+- [CC.]
+- `【 bankrupt 破产 倒闭 v 】`
+- `【 corrupt 腐败的 adj 】` // corrupt official. 腐败的官员
+- `【 corruption 腐败 n 】`
+- **【 The 【 bank 】 was 【 bankrupted 】 because of its employees' 【 corruption 】. 银行因为员工腐败而破产 】**
