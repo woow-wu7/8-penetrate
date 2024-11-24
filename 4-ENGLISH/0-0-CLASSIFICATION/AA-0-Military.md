@@ -3,23 +3,26 @@
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
 - _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`
-- _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 海军基地 】 【 army base. 陆军基地 】 【 military base. 军事基地 】
-- _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 【 effective means. 有效手段 】
+- _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 army base. 陆军基地 】 【 military base. 军事基地 】
+- _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 `【 effective means. 有效手段 】`
 - _【 military action. 军事行动 】_ // ------------- `【 take military action. 采取军事行动 】`
 - _【 military conflict. 军事冲突 】_
 - _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
-- _【 military training. 军事训练 】_
-- 【 military provocation. 军事挑衅 】
+- _【 military training. 军事训练 】_ // ----------- 【 simulate training. 模拟训练 】
+- 【 military provocation. 军事挑衅 n 】 // -------- **【 The purpose of the military provocation is to enrage our troops.】**
+- 【 enrage 激怒 v 】
 - > 【 broadcast military program. 播放军事节目 】
 - > 【 take military action. 采取军事行动 】
 - [program-程序-节目-n] // ------------------------- [][military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
 - [means-手段-方法-n] // --------------------------- [][military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
 - [broadcast-广播-n-播放-v] // --------------------- [][broadcast-military-program.播放军事节目]
-- [pistol-手枪-n] // ------------------ [draw-the-pistol.拔出手枪]
+- [pistol-手枪-n] // ------------------ [draw-the-pistol.拔出手枪] // draw -> drew
 - [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
 - [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
 - [provocation-挑衅-激怒-n] // --------------------- [][military-provocation.军事挑衅]
-- [base-基础-基地-n] // ---------------------------- [][military-base.军事基地] [naval-base.海军基地] [air-force-base.空军基地]
+- [enrage-激怒-v]
+- [base-基础-基地-n] // ---------------------------- [][military-base.军事基地][naval-base.海军基地] [air-force-base.空军基地][army-base.陆军基地]
+-
 - AA.
 - program 程序 节目 n
 - > 【 military program. 军事节目 】// ------------- 【 broadcast military program. 播放军事节目 】
@@ -31,6 +34,7 @@
 - > 【 military base. 军事基地 】
 - > 【 naval base. 海军基地 】
 - > 【 air force base. 空军基地 】
+- > 【 army base. 陆军基地 】
 - CC.
 - means 手段 方法 n
 - > 【 military means. 军事手段 】
@@ -49,6 +53,13 @@
 - `【 military conflict. 军事冲突 】`
 - `【 take military action. 采取军事行动 】`
 - **【 The 【 effective means 】 to 【 resolve 】 the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+-
+- [CC.]
+- `【 military provocation. 军事挑衅 v 】`
+- `【 enrage 激怒 v 】`
+- **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】. 军事挑衅的目的是激怒我军 】**
+- // TIPS: Pay attention to the pronunciation of the word 'purpose'. [purpose-目的-意图-n]
 -
 -
 -
@@ -60,18 +71,19 @@
 - `【 gun 枪 n 】`
 - `【 handgun 手枪 n 】` // -------------------- 【 hand grenade. 手榴弹 n 】 【 shotgun 猎枪 n 】 // 【 handgun = pistol. 手枪 n 】
 - `【 shotgun 猎枪 n 】`
-- `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
+- `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】 【 shrill explosion sound. 刺耳的爆炸声 】// 【 gunshot. 枪声 n 】【 shotgun 猎枪 n 】
 - `【 gunpowder 火药 n 】` // ------------------ 【 powder 粉 粉末 n 】 // 【 flour 面粉 】
-- _【 fire three shots at. 向...开了三枪 v 】_
 - > 【 gunshot 枪声 n 】
 - > 【 explosion sound. 爆炸声 n 】
+- > 【 shrill explosion sound. 刺耳的爆炸声 】
+- _【 fire three shots at. 向...开了三枪 v 】_
 -
-- `【 pistol 手枪 n 】` // --------------------- 【 draw a pistol. 拔出手枪 】
+- `【 pistol 手枪 n 】` // --------------------- 【 draw a pistol. 拔出手枪 】 // pistol = handgun
 - `【 rifle 步枪 n 】`
 - `【 shotgun 猎枪 n 】` // ---------------------【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
 - `【 handgun 手枪 】` = pistol
 - _【 draw the pistol. 拔出手枪 v 】_
-- 【 possess 持有 拥有 v 】
+- 【 possess 持有 拥有 v 】 // ------------------ 【 possess wealth. 拥有财富 v 】
 -
 - `【 scope 瞄准镜 范围 n 】` // ---------------- 【 attach the scope. 装上瞄准镜 v 】
 - `【 magazine 弹夹 杂志 n 】` // ----------------【 load the magazine. 装上弹夹 v 】
@@ -81,10 +93,12 @@
 - _【 draw the pistol. 拔出手枪 v 】_
 -
 - `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
-- `【 missile 导弹 n 】` // -------------------- 【 missile / miss / dismiss / mission 】
+- `【 missile 导弹 n 】` // -------------------- `【 intercept missile. 拦截导弹 】` 【 missile / miss / dismiss / mission 】
 - `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
 - `【 atom bomb. 原子弹 n 】`
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
+- 【 bomb 炸弹 n 轰炸 v 】
+- 【 bomber 轰炸机 n 】
 - > 【 bomb 轰炸 v 炸弹 n 】 // ----------------- 【 bomber 轰炸机 n 】
 - > 【 explode 爆炸 v 】
 - > 【 explosion 爆炸 n 】// ------------------- 【 explosion sound. 爆炸声 n 】 `【 shrill explosion sound. 刺耳的爆炸声 】`
@@ -118,6 +132,9 @@
 - [program-程序-节目-n] // ------------------------- [military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
 - [broadcast-广播-n-播放-v] // --------------------- [broadcast-military-program.播放军事节目]
 - [means-手段-方法-n] // --------------------------- [military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
+- [provocation-挑衅-n] // ------------- [][military-provocation.军事挑衅]
+- [enrage-激怒-v]
+- [base-基础-基地-n] // ---------------- [][military-base.军事基地][naval-base.海军基地] [air-force-base.空军基地][army-base.陆军基地]
 -
 - [AA.]
 - `【 draw the pistol. 拔出手枪 v 】`
@@ -133,6 +150,7 @@
 - [BB.]
 - `【 gunshot 枪声 n 】`
 - `【 explosion sound. 爆炸声 n 】`
+- `【 shrill explosion sound. 刺耳的爆炸声 】`
 - > 【 in the distance. 在远处 】
 - **【 【 Gunshots 】 and 【 explosion sounds 】 could be heard 【 in the distance 】. 远处传来了枪声和爆炸声 】**
 - // -- in the distance. 在远处
@@ -148,6 +166,7 @@
 - > 【 illegal 非法的 】
 - **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
 - // -- 【 possess 持有 拥有 v 】
+- // -- 【 illegal cohabit. 非法同居 】
 -
 - [DD.]
 - `【 bomb 炸弹 n 】`
@@ -166,6 +185,7 @@
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
 - `【 air force. 空军 n 】`
+- > 【 naval fleet. 海军舰队 n 】
 - [3.1]
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 warship 战舰 n 】` // --------------------- 【 worship 崇拜 v n 】 【 warship 战舰 n 】 // worship warship relationship scholarship internship
@@ -173,6 +193,8 @@
 - `【 aircraft carrier. 航空母舰 n 】`
 - `【 submarine 潜水艇 n 】`
 - `【 dock 码头n 停靠v 】`
+- sailor / sail / sailboat
+- // TIPS: Pay attention to the pronunciation of the word 'carry'. [carry-携带-拿-v]
 - AA.
 - > 【 fleet 舰队 车队 n 】
 - > 【 naval fleet. 海军舰队 n 】
@@ -185,14 +207,18 @@
 - [3.2]
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 n 】
 - `【 arm 手臂n 武装v 】`
-- `【 armed 武装的 adj 】`
+- `【 armed 武装的 adj 】` // ------------------- 【 armed force. 武装力量 】 【 armed conflict. 武装冲突 】
 - > 【 armed force. 武装力量 】
 - > 【 armed conflict. 武装冲突 】
 - _【 tank 坦克 箱 n 】_
 - [3.3]
 - `【 air force. 空军 n 】`
-- > 【 bomber 轰炸机 n 】
+- > 【 bomber 轰炸机 n 】 // -------------------- 【 bomb / bomber 】
 - > 【 fighter jet. 战斗机 战士 n 】
+- pilot 飞行员
+- co-pilot. 副机长
+- captain 机长
+- // captain VS caption
 -
 - [AA.]
 - `【 navy 海军 n 】`
@@ -222,12 +248,12 @@
 -
 -
 - 4
-- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 n 】 【 enemy territory. 地方领土 n 】 【 public enemy. 公敌 n 】
+- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 】 【 enemy territory. 地方领土 】 【 public enemy. 公敌 】 【 annihilate enemy troop. 歼灭敌军 】
 - `【 army 陆军 n 】` // ----------------------- 【 army base. 陆军基地 】 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 military base. 军事基地 】
-- _【 annihilate 歼灭 消灭 v 】_
+- > 【 annihilate 歼灭 消灭 v 】 // ------------- 【 annihilate enemy troop. 歼灭敌军 】
 - AA.
 - _【 enemy 敌人 n 】_
-- _【 enemy troop. 敌军 】_ // ----------------- 【 friendly troop. 友军 】 【 ground troop. 地方部队 n 】
+- _【 enemy troop. 敌军 】_ // ----------------- 【 ground troop. 地方部队 n 】 【 friendly troop. 友军 】 // `【 annihilate enemy troop. 歼灭敌军 】`
 - _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 扩张领土 】 _【 national territory. 国家领土 】_
 - _【 public enemy. 公敌 】_ // ---------------- 【 in public. 公开的 adj 】 // 【 publicly apologize. 公开道歉 v 】
 - **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
@@ -251,25 +277,27 @@
 - > 【 territory 领土 领地 n 】
 - > 【 expand territory. 扩张领土 】
 - > 【 defend territory. 保护领土 】
-- > 【 enemy territory. 敌方领土 n 】
 - > 【 national territory. 国家领土 n 】
+- > 【 enemy territory. 敌方领土 n 】
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
 - **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - EE.
 - 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
-- 【 territory 领土 n 】 // -------------------- 【 expand territory. 】 【 defend territory. 】 【 enemy territory. 】
+- 【 territory 领土 n 】 // -------------------- 【 expand territory. 】 【 defend territory. 】 `【 national territory. 国家领土 】` 【 enemy territory. 】
 - > 【 occupy 占用 占领 v 】
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - FF.
 - _【 nation / state / country. 国家 】_
 - _【 National Day. 国庆节 】_
 - _【 national flag. 国旗 】_
-- _【 national anthem. 国旗 】_
-- _【 national territory. 国家领土 】_
+- _【 national anthem. 国歌 】_
+- _【 national territory. 国家领土 】_ // ------- 【 defend territory. 保护领土 】 【 expand territory. 扩张领土 】
 - _【 national assets. 国有资产 】_
 - _【 national interest. 国家利益 】_ // -------- `【 interest 兴趣 利息 利益 n 】`
 - **【 【 National assets 】 【 represent 】 【 national interests 】 and can not be 【 inherited 】. 国有资产代表着国家利益，不能被继承 】**
+- // -- `【 represent 代表 v 】`
+- // -- `【 prevent 阻止 v 】`
 -
 - [represent-代表-v]
 - [prevent-阻止-v]
@@ -285,10 +313,6 @@
 - > 【 sailboat 帆船 n 】
 - 【 navigate 导航 航行 v 】
 - **【 【 Sailors 】 uses the 【 sails 】 to 【 navigate 】 on the 【 sailboat 】. 水手们利用帆船上的风帆来航行 】**
-- BB.
-- _【 enemy troop. 地方部队 n 】_ // ------------ 【 annihilate enemy troop. 歼灭敌军 】
-- _【 friendly troop. 友方部队 n 】_
-- _【 ground troop. 地面部队 n 】_
 -
 - `【 criminal 罪犯 n 】` // -------------------- 【 criminal record. 犯罪记录 】 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 】 //【 crime 犯罪 v 】
 - `【 prisoner 犯人 n 】` // -------------------- 【 prison 监狱 n 】 【 imprison 关押 监禁 v 】
@@ -341,6 +365,7 @@
 - `【 defend territory. 保护领土 v 】`
 - `【 expand territory. 扩张领土 v 】`
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- **【 The 【 effective means 】 to 【 resolve 】 the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
 -
 -
 -
