@@ -220,3 +220,31 @@ statue 雕像 n
 state 状态
 status 身份 状态 地位 n
 ```
+
+##### 2024-11-25
+
+- 1
+- `【 reply = respond 回复 】`
+-
+-
+- 2
+- _【 inbox = mailbox. 收件箱 】_
+- _【 draft 草稿 n 】_
+- _【 attachment 附件 】_
+-
+-
+- 3
+- > 【 forward 向前 转发 v 】
+- > 【 backward 】
+- > behind
+- > front
+- 
+- 4
+- `【 trail 小路 跟踪 v 】` // mountain trail. 山路
+- `【 track 追踪v 轨道n 】`
+- `【 trace 追踪 足迹 n 】`
+- `【 truck 卡车 】`
+
+```
+
+```
