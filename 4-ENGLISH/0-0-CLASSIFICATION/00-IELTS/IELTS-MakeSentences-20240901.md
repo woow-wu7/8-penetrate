@@ -47,7 +47,7 @@ Cars are divide into 【 manual transmission 】 and 【 manual transmission 】
 
 
 4
-How do you 【 evaluate 】 the 【 evolution 】and 【 reproduction 】 of the 【 species 】?
+How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of the 【 species 】?
 你如何评价物种的进化和繁殖
 -
 How do you 【 evaluate 】 the theory of the 【 evolution 】?

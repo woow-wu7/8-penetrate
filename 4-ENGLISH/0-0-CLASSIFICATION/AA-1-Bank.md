@@ -4,6 +4,16 @@
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
+- [-FF.]
+- `【 installment 分期付款 安装 n 】`
+- _【 pay in installment. 分期付款 v 】_
+- _【 pay in cash. 用现金支付 v 】_
+- > 【 installment payment. 分期付款 】
+- **【 Does your company 【 offer 】 the 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
+- **【 You can 【 pay this TV in installment 】. 你可以分期付款购买这台电视机 】**
+- // -- 【 provide 提供 v 】
+- // -- 【 offer 提供 v / 报价n 】
+-
 - [-GG.]
 - `【 ability 能力 n 】`
 - `【 liability 负债 n 】` = debt.

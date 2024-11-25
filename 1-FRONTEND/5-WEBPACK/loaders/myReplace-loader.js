@@ -2,6 +2,15 @@
 // - this.getOptions() 来代替 loader-utils 插件，我们就不需要添加
 // const loaderUtils = require("loader-utils");
 
+// loader
+// 1. 概念
+// - loader是一个 ( 函数 )，函数的第一个参数就是 ( 源码字符串 )，返回一个解析后的 ( 新的字符串 )
+// 2. 注意点
+// - loader不能写成 ( 箭头函数 )，因为内部需要使用 ( this ) 来获取更多的api
+// - 比如：
+//    - this.async
+//    - this.callback
+
 function myReplaceLoader(source) {
   // TIPS: webpack loader can not be an arrow function, because we should use "this" to get attributes.
 

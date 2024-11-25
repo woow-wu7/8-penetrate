@@ -17,6 +17,9 @@
       // https://juejin.cn/post/6965644352022380552
       // https://juejin.cn/post/7155401532303753229
 
+      // 2
+      // The most 【 easiest 】 example is to contrast the "throttle" function.
+
       let count = 0;
       let requestList = [];
 
@@ -28,16 +31,10 @@
       // fetch
       const fetch = (url, params) => {
         const sameRequest = requestList.find(
-          (item) =>
-            item.url === url &&
-            JSON.stringify(item.params) === JSON.stringify(params) // 这里比较两个对象相同只做简单处理
+          (item) => item.url === url && JSON.stringify(item.params) === JSON.stringify(params) // 这里比较两个对象相同只做简单处理
         );
         const removeRequest = () =>
-          requestList.filter(
-            (item) =>
-              item.url !== url &&
-              JSON.stringify(item.params) !== JSON.stringify(params)
-          );
+          requestList.filter((item) => item.url !== url && JSON.stringify(item.params) !== JSON.stringify(params));
 
         // 1. 请求已经存在
         // -- 直接返回请求的 promise 对象
@@ -68,6 +65,8 @@
 
         return result;
       };
+
+      // usage 使用 用法 n
       fetch("/path", { data: "20230417" }).then(() => console.log(1));
       fetch("/path", { data: "20230417" }).then(() => console.log(2));
       fetch("/path", { data: "20230417" }).then(() => console.log(3));

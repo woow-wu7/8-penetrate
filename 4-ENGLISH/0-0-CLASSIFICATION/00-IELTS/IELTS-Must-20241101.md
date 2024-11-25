@@ -855,9 +855,9 @@
 - _【 cohabit 同居 v 】_ // ------------------ 【 illegal cohabitation. 非法同居 】 【 legal cohabitation. 合法同居 n 】
 - _【 cohabitation 同居 n 】_ // ------------- `【 illegal cohabitation. 非法同居 】` `【 cohabitation relationship. 同居关系 】` // romantic/physical relationship.
 - _【 in a cohabitation relationship. 处于同居关系中 】_
-- illegal cohabitation. 非法同居
-- legal cohabitation. 合法同居
-- cohabitation relationship. 同居关系
+- 【 illegal cohabitation. 非法同居 】// ------ 【 legal cohabitation. 合法同居 】
+- 【 illegal wealth. 非法财富 】
+- 【 cohabitation relationship. 同居关系 】
 - > 【 cohabitation relationship. 同居关系 】
 - > 【 romantic relationship. 恋爱关系 】
 - > 【 physical relationship. 肉体关系 】
