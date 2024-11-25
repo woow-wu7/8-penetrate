@@ -41,6 +41,12 @@
 - > 【 main means. 主要手段 】
 - > 【 common means. 常见手段 】
 - > 【 effective means. 有效手段 】
+- DD.
+- > 【 politics 政治 n 】
+- > 【 economy 经济 n 】
+- > 【 culture 文化 n 】
+- > 【 military 军事 】
+-
 -
 - [AA.]
 - `【 military base. 军事基地 】`
@@ -60,6 +66,13 @@
 - `【 enrage 激怒 v 】`
 - **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】. 军事挑衅的目的是激怒我军 】**
 - // TIPS: Pay attention to the pronunciation of the word 'purpose'. [purpose-目的-意图-n]
+-
+- [DD.]
+- `【 politics 政治 n 】`
+- `【 economy 经济 】`
+- `【 military 军事 】`
+- `【 culture 文化 】`
+- **【 He understands 【 politics 】, 【 economy 】, 【 military 】 and 【 culture 】. 政治，经济，军事，文化他都懂 】**
 -
 -
 -
@@ -98,8 +111,10 @@
 - `【 atom bomb. 原子弹 n 】`
 - `【 bomber 轰炸机 n 】`
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
+- `【 shrapnel 弹片 n 】`
 - 【 bomb 炸弹 n 轰炸 v 】
 - 【 bomber 轰炸机 n 】
+- 【 Shrapnel 弹片 VS sharp 锋利的 】
 - // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
 - > 【 bomb 轰炸 v 炸弹 n 】 // ----------------- 【 bomber 轰炸机 n 】
 - > 【 explode 爆炸 v 】
@@ -126,6 +141,7 @@
 - > 【 hand in hand. 手牵手 】
 - > 【 shake hand. 握手 】
 - > 【 wave hand. 挥手 】
+- **【 Both 【 pistols 】 and 【 hand grenades 】 are 【 weapons 】. 手枪和手榴弹都是武器 】**
 -
 - [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
 - [magazine-杂志-弹夹-n] // ------------ [load-the-magazine.装上弹夹]
@@ -170,6 +186,7 @@
 - **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
 - // -- 【 possess 持有 拥有 v 】
 - // -- 【 illegal cohabit. 非法同居 】
+- // -- 【 illegal wealth. 非法财富 】
 -
 - [DD.]
 - `【 bomb 炸弹 n 】`
@@ -179,6 +196,12 @@
 - **【 After the 【 bomb 】 【 exploded 】, there was a 【 shrill 】 【 explosion sound 】. 炸弹爆炸后产生了刺耳的爆炸声 】**
 - **【 【 Gunshots 】 and 【 explosion sounds 】 could be heard 【 in the distance 】. 远处传来了枪声和爆炸声 】**
 - // -- _【 shrill 尖叫 v 刺耳的 adj 】_
+-
+- [EE.]
+- `【 shrapnel 弹片 n 】`
+- `【 grenade 手榴弹 n 】`
+- `【 hand grenade. 手榴弹 】`
+- **【 He was 【 hit 】 by 【 shrapnel 】 from a 【 grenade 】. 他被手榴弹的弹片击中了 】**
 -
 -
 -
@@ -233,6 +256,7 @@
 - `【 aircraft carrier. 航空母舰 n 】`
 - `【 submarine 潜水艇 n 】`
 - **【 The 【 naval fleet 】 consists of 【 warships 】, 【 frigates 】, 【 aircraft carriers 】, and 【 submarines 】. 海军舰队由战舰、护卫舰、航空母舰和潜艇组成 】**
+- **【 A 【 naval fleet 】 must 【 possess 】 many 【 frigates 】. 一支海军舰队一定拥有很多护卫舰 】**
 - // -- 【 consist of. 由...组成 】
 -
 - [BB.]
@@ -380,8 +404,19 @@
 -
 - 5
 - [Other]
-- `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 v 】
+- `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 n 】 【 aggressive war. 侵虐战争 n 】 【 launch war. 发动战争 】
 - `【 break out. 爆发 v 】`
+- > 【 cruel war. 残酷的战争 n 】
+- > 【 aggressive war. 侵虐战争 n 】
+- > 【 launch the aggressive war. 发动侵虐战争 】
+- _【 aggress 侵虐 v 】_
+- _【 aggressive 侵略的 】_
+- _【 aggressive war. 侵虐战争 n 】_
+- **【 They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】. 他们用导弹发动了侵略战争 】**
+- **【 The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争 】**
+- // TIPS: Pay attention to the pronunciation of the word 'aggress'. [aggress-侵虐-v]
+- // TIPS: Pay attention to the pronunciation of the word 'aggressive'. [aggressive-侵虐的-adj]
+
 -
 - `【 battle 战斗 v 】`
 - `【 battlefield 战场 n 】`
@@ -562,4 +597,89 @@ break out. 爆发 v // ------------------------- 【 war break out. 战争爆发
 -
 physical conflict. 肢体冲突
 // physical relationship. 肉体关系
+```
+
+##### Hard Military
+
+```
+1
+grenade 手榴弹 n
+【 hand grenade. 手榴弹 】
+// -- He was hit by 【 shrapnel 】 from a 【 grenade 】. 他被手榴弹的弹片击中了
+// ---- 【 shrapnel 弹片 】
+-
+great 伟大的adj 大的adj 很好地adv
+【 Great Wall 长城 】 // ---------------------- 【 the Great Wall. 长城 n 】
+【 great courage. 很大的勇气 】
+【 greatly appreciate. 非常感谢 】
+【 greatly worship. 非常崇拜 】
+// -- Climbing 【 the Great Wall 】 really needs 【 great courage 】. 爬长城真的需要很大的勇气
+// -- I also 【 greatly 】 【 worship 】 the 【 idol 】 that she 【 once 】 【 worshiped 】. 我也十分崇拜她曾经崇拜的偶像
+// -- That sounds 【 great 】. 那听起来很不错
+// -- Walking along the rope takes great courage. 走钢丝需要巨大的勇气
+-
+【 in great need of. 非常需要 】
+// -- We are 【 in great need of 】 your help. 我们非常需要你的帮助
+-
+greater than. 大于
+less than. 小于
+
+
+2
+frigate 护卫舰
+// -- A 【 naval fleet 】 must 【 possess 】 many 【 frigates 】. 一支海军舰队一定拥有很多护卫舰
+// -- The 【 naval fleet 】 consists of 【 warships 】, 【 frigates 】, 【 aircraft carriers 】, and 【 submarines 】. 海军舰队由战舰、护卫舰、航空母舰和潜艇组成
+
+
+3
+possess 拥有 具有 v // own VS owe
+assess 评估 评价 评定 v
+assessment 评估 评价 评定 n
+【 possess wealth. 拥有财富 v 】
+// TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-具有-v] [possess-wealth.拥有财富]
+// -- A 【 naval fleet 】 must 【 possess 】 many 【 frigates 】. 一支海军舰队一定拥有很多护卫舰
+// -- According to the 【 assessment 】, he 【 possessed 】 a large amount of 【 illegal wealth 】. 经过评估，他拥有大量的非法财富
+-
+possess 拥有 具有 = own
+process 过程 进程 n
+progress 进步 进程 n
+// TIPS: Pay attention to the pronunciation of the word 'progress'. [progress-进步-进展-n]
+-
+evaluate 评价 评估 v
+assess 评估 评价 评定 v
+evaluation 评价 评估 n
+assessment 评估 评价 评定 n
+// -- According to the 【 assessment 】, he 【 possessed 】 a large amount of 【 illegal wealth 】. 经过评估，他拥有大量的非法财富
+-
+【 evolution 进化 n 】
+【 evaluate 评价 评估 v 】
+【 reproduction 繁殖 】
+【 species 种类 n 】
+// -- How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖
+
+
+4
+aggress 侵虐 v
+aggressive 侵略的 adj
+【 aggressive war. 侵虐战争 n 】
+-
+agree 同意 v
+-
+// -- The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争
+
+
+5
+annihilate 歼灭 v
+【 annihilate enemy troop. 歼灭敌军 】
+
+
+6
+provocation 挑衅
+enrage 激怒 v
+// -- The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】. 军事挑衅的目的是激怒我军
+
+
+7
+tactic 战术
+strategy 策略 战略
 ```

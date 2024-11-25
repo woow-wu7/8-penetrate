@@ -20,6 +20,9 @@
 同时选择上一行相同位置 ( Command + Option + Up )
 同时选择下一行相同位置 ( Command + Option + Down )
 
+滚动到最顶部: command + 上箭头
+滚动到最底部: command + 下箭头
+
 返回上一步: control + -
 从上一步返回: control + shift + -
 返回光标的上一步: command + u
@@ -129,7 +132,7 @@ KoroFileHeader
 
 {
   "key": "cmd+k cmd+a",
-  "command": "inlineFold.toggle"
+  "command": "inlineFold.toggle" // ------------------------------------- 行内折叠css
 }
 
 {
@@ -140,11 +143,11 @@ KoroFileHeader
 
 {
   "key": "cmd+k cmd+k",
-  "command": "workbench.files.action.collapseExplorerFolders"
+  "command": "workbench.files.action.collapseExplorerFolders" // -------- 折叠左侧所有文件夹
 }
 {
   "key": "cmd+k cmd+w",
-  "command": "workbench.action.closeAllEditors"
+  "command": "workbench.action.closeAllEditors" // ---------------------- 关闭所有标签
 }
 
 {
@@ -172,7 +175,7 @@ KoroFileHeader
 }
 {
   "key": "shift+cmd+6",
-  "command": "workbench.view.scm", // git panel. git面板
+  "command": "workbench.view.scm", // -------------------------------------- git panel. git面板
   "when": "workbench.scm.active"
 }
 -------

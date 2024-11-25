@@ -56,9 +56,19 @@ compilation 编译
 
 
 5
+specify 指定 v
+specific 具体的 特定的 adj
+// Please 【 specify 】 a 【 specific 】 color that you want. 请指定一个具体的你想要的颜色
+
+
+6
 placeholder 占位符
 arrow 箭头
 【 arrow function. 箭头函数 n 】
+
+7
+summarize 总结 v
+summary 总结 n
 
 
 optional 可选的 adj
@@ -70,12 +80,8 @@ traverse 遍历 穿过 v
 usage 使用 用法 n
 【 usage rate. 使用率】
 
-
-
 optimize 优化 v
 optimization 优化 n
-
-
 
 generator 发电机 n
 generate 产生 生成 v
@@ -1047,3 +1053,29 @@ module.exports = {
   // },
 };
 ````
+
+### (四) **【 Webpack Compiler - specific process 】**
+
+```
+summarize 总结 v
+summary 总结 n
+
+The specific process of the Compiler:
+- 1. new Compiler()
+- 2. 【 execute 】 the constructor of the class "Compiler"
+   - constructor
+      - 1. Execute the "apply" function in Plugins array in the webpack.config.js ------------------ tap --- 【 publish-subscribe pattern 】
+      - 2. Execute the "afterPlugin" lifecycle function in "compiler" instance.hooks immediately --- call ---【 publish-subscribe pattern 】
+   - run -> parseModule
+      - 1. Parse "entry" file that configured in the webpack.config.js/entry option using fs.readFileSync() function to get source code string.
+      - 2. Use the current file's absolute path to match the "test" option in webpack.config.js/module/rules/{test, use},
+           if they matched, we should use 【 corresponding 】 "loader" to parse the source string to get new source string.
+      - 3. We can get the map:
+           - that uses current file absolute path as the "key".
+           - and uses current file string source code that have been parsed by corresponding loader as the "value".
+      - 4. then webpack will use the "fs.writeFileSync" function to
+           - write file to the destination 【 directory 】 that has been 【 specified 】 by webpack.config.js/output/path.
+
+link: https://github.com/woow-wu7/7-compiler
+sourceCode: https://github.com/woow-wu7/7-compiler/blob/main/7-compiler.js
+```

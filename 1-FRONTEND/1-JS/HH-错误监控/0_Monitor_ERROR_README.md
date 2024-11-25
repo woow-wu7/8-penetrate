@@ -6,6 +6,10 @@ reference 参考 参照 提及 v n
 syntax 句法 // grammar 语法
 stack 栈
 -
+refer 参考 参照 v
+reference 参考 参照 n
+【 refer to. 参考 v 】
+-
 reject 拒绝 v
 rejection 拒绝 n
 -
