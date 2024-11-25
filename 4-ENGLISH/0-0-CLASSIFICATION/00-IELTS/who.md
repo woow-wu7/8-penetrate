@@ -159,7 +159,64 @@ National interests. 国家利益
 ##### 2024-11-22
 
 ```
+duty 职责 关税
 customs duty. 海关税
-stamp duty. 印花岁
+stamp duty. 印花税
+// stamp 邮票 n
 // stamp damp/humid/moist dumpling dump dumb jump stump pumpkin pum
+```
+
+##### 2024-11-24
+
+```
+1
+request 请求 要求
+demand 要求 需求
+// need requirement demand
+// product requirement. 产品需求
+// market demand. 市场需求
+-
+// -- marking strategy. 市场策略
+// -- two for one for promotion. 买一送一
+// promotion 提升 提高
+
+
+2
+prompt 提示
+tip 提示
+hint 提示 暗示
+// hit 打击 打
+
+3
+receipt 收据
+invoice 发票 n
+voice 声音 嗓音
+
+
+4
+settle 处理 结算 支付 居住 v
+outstand 为解决的 adj
+
+
+5
+contact details. 联系方式
+contract // sign contract. 签合同
+contrast
+transaction 交易
+
+6
+device 设备 n
+equipment 设备 v
+instrument 仪器 仪表  n
+
+
+7
+vary 改变 = change
+very 非常 adj adv
+
+
+8
+statue 雕像 n
+state 状态
+status 身份 状态 地位 n
 ```
