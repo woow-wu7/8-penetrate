@@ -80,4 +80,6 @@ command + shift + p
 4. Prime(rainglow)
 
 5. Panda syntax
+
+6. Ayu mirage bordered. // mirage 海市蜃楼 幻想
 ```

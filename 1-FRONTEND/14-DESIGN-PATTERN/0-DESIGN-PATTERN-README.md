@@ -1,5 +1,14 @@
 # Design Pattern 设计模式
 
+- [[封装 01-设计模式] 设计原则 和 工厂模式(简单抽象方法) 适配器模式 装饰器模式](https://juejin.cn/post/6950958974854234119)
+- [[封装 02-设计模式] 命令模式 享元模式 组合模式 代理模式](https://juejin.cn/post/6950958974854234119)
+- [[封装 03-设计模式] Decorator 装饰器模式在前端的应用](https://juejin.cn/post/7037871731070992421)
+- [[封装 04-设计模式] Publish Subscribe 发布订阅模式在前端的应用](https://juejin.cn/post/7038522552313970696)
+- [[深入 23] JS 设计模式 - 代理，策略，单例](https://juejin.cn/post/6918744081460002824)
+
+### 一些单词
+
+```
 - design 设计 // TIPS: Pay attention to the pronunciation of the 'design'
 - pattern 模式 图案
 -
@@ -40,9 +49,6 @@
 - **观察者模式** // - observer pattern
 - **发布订阅模式** // publish–subscribe pattern
 
-### 一些单词
-
-```
 - design 设计
 - pattern 模式 图案
 TIPS: Pay attention to the pronunciation of the 'design'
@@ -67,14 +73,6 @@ performance 绩效 性能
 和差积商 sum difference product quotient
 ```
 
-### 链接
-
-- [[封装 01-设计模式] 设计原则 和 工厂模式(简单抽象方法) 适配器模式 装饰器模式](https://juejin.cn/post/6950958974854234119)
-- [[封装 02-设计模式] 命令模式 享元模式 组合模式 代理模式](https://juejin.cn/post/6950958974854234119)
-- [[封装 03-设计模式] Decorator 装饰器模式在前端的应用](https://juejin.cn/post/7037871731070992421)
-- [[封装 04-设计模式] Publish Subscribe 发布订阅模式在前端的应用](https://juejin.cn/post/7038522552313970696)
-- [[深入 23] JS 设计模式 - 代理，策略，单例](https://juejin.cn/post/6918744081460002824)
-
 ### 设计原则 ( 6 大设计原则 )
 
 - **单一职责原则**
@@ -93,6 +91,21 @@ performance 绩效 性能
   - 单一接口
 - **依赖倒置原则**
   - 实现类 依赖于 接口或者抽象类
+
+# 设计原则 ( 6 大设计原则 ) - The basic principles of design patterns.
+
+```
+The basic principles of design patterns.
+设计6大基本原则
+--
+
+- 单一职责 原则
+- 开放封闭 原则
+- 最少知识 原则
+- 接口隔离 原则
+- 依赖倒置 原则
+- 里氏替换 原则
+```
 
 # (一) 适配器模式 Adapter ------- 适配参数/适配接口/适配地图/Node 环境
 

@@ -1117,13 +1117,18 @@
 - `【 in total. 总共 adv 】`
 - `【 in conclusion. 总之 adv 】`
 -
+- `【 in principle. 原则上 adv 】`
+- `【 in advance. 提前 adv 】`
+- **【 【 In principle 】, we cannot 【 permit handing in 】 【 examination papers 】 【 in advance 】. 原则上考试不允许提前交卷 】**
+- // -- 【 permit doing sth. 允许做某事 】
+-
 - `【 in fact. 事实上 adv 】`
+- `【 in a hurry. 匆忙地 忙 急 adv 】`
+-
 - `【 in confusion. 疑惑地 adv 】`
 - > 【 looked confused. 看上去很疑惑 】
 - **【 The students 【 looked confused 】. 学生们看上去一脸困惑 】**
 -
-- `【 in advance. 提前 adv 】`
-- `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
 - `【 on purpose. 故意地 adv 】`
 - `【 not at all. 一点也不 】`

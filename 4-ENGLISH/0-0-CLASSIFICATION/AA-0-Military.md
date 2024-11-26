@@ -1,18 +1,23 @@
 ##### Military
 
+##### Military 1 - military
+
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
 - _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`
 - _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 army base. 陆军基地 】 【 military base. 军事基地 】
-- _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 `【 effective means. 有效手段 】`
+- _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 `【 effective means. 有效手段 】` 【 military means. 】
 - _【 military action. 军事行动 】_ // ------------- `【 take military action. 采取军事行动 】`
+- > 【 military provocation. 军事挑衅 n 】 // ------ **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】.】**
 - _【 military conflict. 军事冲突 】_
 - _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
-- _【 military training. 军事训练 】_ // ----------- 【 simulate training. 模拟训练 】
-- 【 military provocation. 军事挑衅 n 】 // -------- **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】.】**
-- 【 enrage 激怒 v 】
+- _【 military training. 军事训练 】_ // ----------- 【 simulate training. 模拟训练 】 【 simulate examination. 模拟考试 】
 - > 【 broadcast military program. 播放军事节目 】
 - > 【 take military action. 采取军事行动 】
+- 【 military provocation. 军事挑衅 n 】
+- 【 provocation 挑衅 v 】
+- 【 enrage 激怒 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'conflict'. [conflict-冲突-n]
 - [program-程序-节目-n] // ------------------------- [][military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
 - [means-手段-方法-n] // --------------------------- [][military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
 - [broadcast-广播-n-播放-v] // --------------------- [][broadcast-military-program.播放军事节目]
@@ -28,6 +33,7 @@
 - > 【 military program. 军事节目 】// ------------- 【 broadcast military program. 播放军事节目 】
 - > 【 TV program. 电视节目 】
 - > 【 TV drama. 电视剧 】 = TV series.
+- > series / serious
 - BB.
 - base 基础 基地 n
 - _【 dock 码头 n 停靠 v 】_
@@ -42,7 +48,7 @@
 - > 【 common means. 常见手段 】
 - > 【 effective means. 有效手段 】
 - DD.
-- > 【 politics 政治 n 】
+- > 【 politics 政治 n 】 // --------------------- 【 power politics. 强权政治 n 】
 - > 【 economy 经济 n 】
 - > 【 culture 文化 n 】
 - > 【 military 军事 】
@@ -65,6 +71,7 @@
 - `【 military provocation. 军事挑衅 v 】`
 - `【 enrage 激怒 v 】`
 - **【 The 【 purpose 】 of the 【 military provocation 】 is to 【 enrage 】 our 【 troops 】. 军事挑衅的目的是激怒我军 】**
+- // purpose / pursue / propose
 - // TIPS: Pay attention to the pronunciation of the word 'purpose'. [purpose-目的-意图-n]
 -
 - [DD.]
@@ -72,19 +79,29 @@
 - `【 economy 经济 】`
 - `【 military 军事 】`
 - `【 culture 文化 】`
-- **【 He understands 【 politics 】, 【 economy 】, 【 military 】 and 【 culture 】. 政治，经济，军事，文化他都懂 】**
+- **【 He understands 【 politics 】, 【 economy 】, 【 military 】 and 【 culture 】. 政治，文化他都懂 】**
 -
 -
 -
 -
 -
+-
+-
+-
+
+##### Military 2 - weapon
+
 - 2
-- `【 weapon 武器 】`
+- `【 weapon 武器 】` // ----------------------- 【 nuclear weapon. 核武器 n 】 // 【 atom bomb. 原子弹 】
+- > 【 nuclear weapon. 核武器 】 // ------------ nuclear 原子能的 adj
+- > 【 biological weapon. 生物武器 】 // ------- biological 生物学的 adj
+- > 【 chemical weapon. 化学武器 】// ---------- chemical 化学的 adj
+- **【 We use the 【 biological weapons 】 and 【 chemical weapons 】 to 【 annihilate enemy troops 】. 我们使用生物武器和化学武器来歼灭敌军 】**
 -
 - `【 gun 枪 n 】`
 - `【 handgun 手枪 n 】` // -------------------- 【 hand grenade. 手榴弹 n 】 【 shotgun 猎枪 n 】 // 【 handgun = pistol. 手枪 n 】
 - `【 shotgun 猎枪 n 】`
-- `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】 【 shrill explosion sound. 刺耳的爆炸声 】// 【 gunshot. 枪声 n 】【 shotgun 猎枪 n 】
+- `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】 `【 shrill explosion sound. 刺耳的爆炸声 】` // 【 gunshot. 枪声 】【 shotgun 猎枪 】
 - `【 gunpowder 火药 n 】` // ------------------ 【 powder 粉 粉末 n 】 // 【 flour 面粉 】
 - > 【 gunshot 枪声 n 】
 - > 【 explosion sound. 爆炸声 n 】
@@ -96,7 +113,11 @@
 - `【 shotgun 猎枪 n 】` // ---------------------【 gunshot. 枪声 n 】 【 shotgun 猎枪 n 】
 - `【 handgun 手枪 】` = pistol
 - _【 draw the pistol. 拔出手枪 v 】_
+-
 - 【 possess 持有 拥有 v 】 // ------------------ 【 possess wealth. 拥有财富 v 】
+- 【 possess wealth. 拥有财富 】
+- 【 illegally possess guns. 非法持有枪支 】
+- **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
 -
 - `【 scope 瞄准镜 范围 n 】` // ---------------- 【 attach the scope. 装上瞄准镜 v 】
 - `【 magazine 弹夹 杂志 n 】` // ----------------【 load the magazine. 装上弹夹 v 】
@@ -107,11 +128,12 @@
 -
 - `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
 - `【 missile 导弹 n 】` // -------------------- `【 intercept missile. 拦截导弹 】` 【 missile / miss / dismiss / mission 】 // intercept VS interrupt
-- `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 `【 bomber 轰炸机 】` // 【 explode 爆炸 】 // _【 explosion sound. 爆炸声 n 】_
-- `【 atom bomb. 原子弹 n 】`
+- `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 `【 bomber 轰炸机 】` `【 explosion sound. 爆炸声 n 】`
+- `【 atom bomb. 原子弹 n 】` // ---------------- 【 nuclear weapon. 核武器 】
 - `【 bomber 轰炸机 n 】`
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
 - `【 shrapnel 弹片 n 】`
+- `【 nuclear weapon. 核武器 】`
 - 【 bomb 炸弹 n 轰炸 v 】
 - 【 bomber 轰炸机 n 】
 - 【 Shrapnel 弹片 VS sharp 锋利的 】
@@ -184,6 +206,7 @@
 - `【 rifle 步枪 】`
 - > 【 illegal 非法的 】
 - **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
+- **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
 - // -- 【 possess 持有 拥有 v 】
 - // -- 【 illegal cohabit. 非法同居 】
 - // -- 【 illegal wealth. 非法财富 】
@@ -208,6 +231,11 @@
 -
 -
 -
+-
+-
+
+##### Military 3 - navy army fire-force
+
 - 3
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
@@ -276,15 +304,23 @@
 -
 -
 -
+-
+
+##### Military 4 - enemy army
+
 - 4
-- `【 enemy 敌人 n 】` // ---------------------- 【 enemy troop. 敌军 】 【 enemy territory. 地方领土 】 【 public enemy. 公敌 】 【 annihilate enemy troop. 歼灭敌军 】
-- `【 army 陆军 n 】` // ----------------------- 【 army base. 陆军基地 】 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 military base. 军事基地 】
-- > 【 annihilate 歼灭 消灭 v 】 // ------------- 【 annihilate enemy troop. 歼灭敌军 】
+- `【 enemy 敌人 n 】` // --------------------- 【 enemy troop. 敌军 】 【 enemy territory. 地方领土 】 【 public enemy. 公敌 】 【 annihilate enemy troop. 歼灭敌军 】
+- `【 army 陆军 n 】` // ---------------------- 【 army base. 陆军基地 】 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 military base. 军事基地 】
+- > 【 annihilate 歼灭 消灭 v 】 // ------------ 【 annihilate enemy troop. 歼灭敌军 】
+- > 【 annihilate enemy troop. 歼灭敌军 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'enemy'. [enemy-敌人-n]
 - AA.
 - _【 enemy 敌人 n 】_
 - _【 enemy troop. 敌军 】_ // ----------------- 【 ground troop. 地方部队 n 】 【 friendly troop. 友军 】 // `【 annihilate enemy troop. 歼灭敌军 】`
 - _【 enemy territory. 地方领土 】_ // ---------- 【 defend territory. 保护领土 】 【 expand territory. 扩张领土 】 _【 national territory. 国家领土 】_
 - _【 public enemy. 公敌 】_ // ---------------- 【 in public. 公开的 adj 】 // 【 publicly apologize. 公开道歉 v 】
+- > 【 annihilate enemy troop. 歼灭敌军 】
+- // TIPS: Pay attention to the pronunciation of the word 'apologize'. [apologize-道歉-v]
 - **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
 - **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
@@ -296,6 +332,7 @@
 - > 【 armed force. 武装力量 】
 - 【 army base. 陆军基地 n 】
 - 【 prevent 阻止 防止 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'conflict'. [conflict-冲突-v]
 - **【 To 【 own 】 【 armed force 】 is to 【 prevent 】 【 armed conflicts 】. 拥有武装力量是为了防止武装冲突 】**
 - // -- prevent 阻止 v
 - // -- represent 代表 v
@@ -344,6 +381,7 @@
 - > 【 sailboat 帆船 n 】
 - 【 navigate 导航 航行 v 】
 - **【 【 Sailors 】 uses the 【 sails 】 to 【 navigate 】 on the 【 sailboat 】. 水手们利用帆船上的风帆来航行 】**
+- // -- navigate 导航 航行 v
 -
 - `【 criminal 罪犯 n 】` // -------------------- 【 criminal record. 犯罪记录 】 【 crime scene. 犯罪现场 】 【 accident scene. 事故现场 】 //【 crime 犯罪 v 】
 - `【 prisoner 犯人 n 】` // -------------------- 【 prison 监狱 n 】 【 imprison 关押 监禁 v 】
@@ -354,7 +392,7 @@
 - **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
 - BB.
 - > 【 crime scene. 犯罪现场 】
-- > 【 criminal score. 犯罪记录 】
+- > 【 criminal record. 犯罪记录 】
 - **【 The 【 crime scene 】 has the 【 detailed 】 【 criminal records 】. 犯罪现场有详细的犯罪记录 】**
 - CC.
 - scene VS sense
@@ -363,13 +401,13 @@
 -
 -
 - [navigate-导航-航行-v]
-- [annihilate-歼灭-消灭-v] // ------------------- [annihilate-enemy-troop.歼灭敌军]
-- [territory-领土-n] // ------------------------ [defend-territory.保卫领土] [expand-territory.扩展领土] [enemy-territory.敌方领土]
+- [annihilate-歼灭-消灭-v] // ------------------- [][annihilate-enemy-troop.歼灭敌军]
+- [territory-领土-n] // ------------------------ [defend-territory.保卫领土] [expand-territory.扩展领土] [enemy-territory.敌方领土] [national-territory.国家领土]
 - [prison-监狱-n] // --------------------------- [imprison-关押-监禁-v] [prisoner-囚犯-n]
-- [cruel-残酷的-adj] // ------------------------- [cruel-war.残酷的战争] [cruel-competition.残酷的竞争]
+- [cruel-残酷的-adj] // ------------------------- [][cruel-war.残酷的战争] [cruel-competition.残酷的竞争]
 - [tactic-战术-n]
-- [strategy-战略-策略-n]
-- [prevent-阻止-防止-v] // ---------------------- [prevent-armed-conflict.防止武装冲突]
+- [strategy-战略-策略-n] // --------------------- [][market-strategy.市场策略] [strategy-game.策略游戏] [strategy-pattern.策略模式] // 【 pattern 模式 图案 n 】
+- [prevent-阻止-防止-v] // ---------------------- [][prevent-armed-conflict.防止武装冲突]
 -
 - [AA.]
 - `【 sailor 水手 n 】`
@@ -409,9 +447,11 @@
 - > 【 cruel war. 残酷的战争 n 】
 - > 【 aggressive war. 侵虐战争 n 】
 - > 【 launch the aggressive war. 发动侵虐战争 】
+- AA.
 - _【 aggress 侵虐 v 】_
 - _【 aggressive 侵略的 】_
-- _【 aggressive war. 侵虐战争 n 】_
+- _【 aggressive war. 侵虐战争 n 】_ // --------- 【 launch the aggressive war. 发动侵虐战争 v 】
+- _【 aggress against. 侵虐... 】_
 - **【 They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】. 他们用导弹发动了侵略战争 】**
 - **【 The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争 】**
 - // TIPS: Pay attention to the pronunciation of the word 'aggress'. [aggress-侵虐-v]
@@ -421,8 +461,12 @@
 - `【 battle 战斗 v 】`
 - `【 battlefield 战场 n 】`
 -
-- `【 strategy 战略 策略 n 】` // --------------- 【 marketing strategy. 市场策略 n 】
+- `【 strategy 战略 策略 n 】` // --------------- 【 marketing strategy. 市场策略 n 】 【 strategy-game. 策略游戏 】 【 strategy-pattern. 策略模式 】
 - `【 tactic 战术 n 】` // --------------------- 【 conventional tactic. 常规战术 n 】
+- > 【 strategy game. 策略游戏 】
+- > 【 strategy pattern. 策略模式 】
+- > 【 marking strategy. 市场策略 】
+- 【 pattern 模式 图案 n 】
 - _【 conventional 常规的 adj 】_
 - _【 conventional tactic. 常规战术 n 】_
 - _【 unconventional tactic. 非常规战术 n 】_
@@ -605,8 +649,10 @@ physical conflict. 肢体冲突
 1
 grenade 手榴弹 n
 【 hand grenade. 手榴弹 】
+【 hand gun. = pistol. 手枪 】
 // -- He was hit by 【 shrapnel 】 from a 【 grenade 】. 他被手榴弹的弹片击中了
-// ---- 【 shrapnel 弹片 】
+//【 shrapnel 弹片 】
+// TIPS: Pay attention to the pronunciation of the word 'shrapnel'. [shrapnel-单片-n]
 -
 great 伟大的adj 大的adj 很好地adv
 【 Great Wall 长城 】 // ---------------------- 【 the Great Wall. 长城 n 】
@@ -636,6 +682,7 @@ possess 拥有 具有 v // own VS owe
 assess 评估 评价 评定 v
 assessment 评估 评价 评定 n
 【 possess wealth. 拥有财富 v 】
+【 illegally possess guns. 非法持有枪支 】
 // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-具有-v] [possess-wealth.拥有财富]
 // -- A 【 naval fleet 】 must 【 possess 】 many 【 frigates 】. 一支海军舰队一定拥有很多护卫舰
 // -- According to the 【 assessment 】, he 【 possessed 】 a large amount of 【 illegal wealth 】. 经过评估，他拥有大量的非法财富
@@ -662,15 +709,20 @@ assessment 评估 评价 评定 n
 aggress 侵虐 v
 aggressive 侵略的 adj
 【 aggressive war. 侵虐战争 n 】
+【 aggress against. 侵虐... 】
 -
 agree 同意 v
+aggress 侵虐 v
+grass 草地
 -
 // -- The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争
+// -- The leader of the ants 【 agreed 】 to 【 aggress 】 against this 【 grassland 】. 蚂蚁首领同意了侵虐这块草地
 
 
 5
 annihilate 歼灭 v
 【 annihilate enemy troop. 歼灭敌军 】
+// -- We use the 【 biological weapons 】 and 【 chemical weapons 】 to 【 annihilate enemy troops 】. 我们使用生物武器和化学武器来歼灭敌军
 
 
 6
@@ -682,4 +734,16 @@ enrage 激怒 v
 7
 tactic 战术
 strategy 策略 战略
+
+
+8
+politics 政治
+【 power politic. 强权政治 n 】
+
+
+9
+biological 生物学的 adj
+chemical 化学的 adj
+【 biological weapon. 生物武器 n 】
+【 chemical weapon. 化学武器 n 】
 ```
