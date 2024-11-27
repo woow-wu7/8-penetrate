@@ -1,2 +1,80 @@
 ###### Must 2024-12-01
+
 - 1
+- `【 rail 铁路 栏杆 n 】` // ------------------ 【 high speed rail. 高铁 】 【 handrail 扶手 】 【 railing 金属栏杆 】 【 railway 铁路 】 // 【 highway 高速公路 】
+- `【 trail 小路n 跟踪v 】` // ----------------- 【 mountain trail. 山路 】
+- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf period. 保质期 】
+-
+- AA.
+- > 【 rail 铁路 栏杆 n 】
+- > 【 railing 金属栏杆 n 】
+- > 【 high speed rail. 高铁 n 】 ------------- 【 high speed railway. 高铁 】 // 【 high way. 高速公路 】
+- > 【 handrail 扶手 n 】 // ------------------ 【 handle 把手 v 处理 】 // handle/handrail/handprint/handbag/handgun/hand grenade.
+- > 【 monorail 单轨电车 n 】 // --------------- 【 mono 单声道的 adj 】
+- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / tract / trail 】
+- **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
+- // -- around 在...周围 附近 adv prep
+-
+- BB.
+- _【 trial period. 试用期 】_ // -------------- 【 trial 试验 v n 】
+- _【 internship period. 实习期 】_ // --------- 【 intern position. 实习岗 n 】
+- _【 warranty period. 保修期 】_ // ----------- 【 warranty 保修单 n 】
+- _【 validity period. 有效期 】_ // ----------- 【 valid 有效的 adj 】 【 validity 有效性 n 】
+- _【 shelf life. 保质期 】_ // ---------------- 【 shelf 架子 n 】
+- > 【 expiration time. 过期时间 】
+- > 【 intern position. 实习岗 】
+- 【 valid 有效的 adj 】
+- 【 validity 有效性 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'validity'. [validity-有效性-n]
+- // TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
+- 1.
+- **【 He 【 passed 】 the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- // TIPS: Pay attention to the pronunciation of the word 'period'. [period-时期-时代-n]
+- 2.
+- **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
+-
+- CC.
+- > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
+- > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track trace. 追踪痕迹 】
+- > 【 trace 追踪 v 跟踪 v 痕迹 n 】
+- **【 He is 【 tracking 】 a 【 deer 】 on the 【 trail 】. 他正在小路上跟踪一头鹿 】**
+- **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
+-
+-
+- DD.
+- _【 warranty period. 保修期 n 】_
+- _【 warship 战舰 n 】_
+- _【 war 战争 n 】_ // ------------------------- 【 cruel war. 残酷的战争 】 【 aggressive war. 侵虐战争 】
+- _【 ward 病房 n 】_
+- > 【 cruel war. 残酷的战争 】
+- > 【 aggressive war. 侵虐战争 】
+- 【 aggress 侵虐 v 】
+-
+- EE.
+- `【 ward 病房 n 】`
+- `【 reward 奖励 】`
+- `【 award 奖n 授予v 】` // -------------------- 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
+- `【 awkward 令人尴尬的 adj 】` = embarrassed.
+- `【 steward 乘务员 n 】` // ------------------- 【 stewardess 空姐 n 】
+- > 【 coward 胆小鬼 n 】
+- > 【 forward 向前的 adj adv 】 // --------------【 backward 向后的 adj adv 】
+- > 【 sword 剑 n 】 // ------------------------- 【 swordsman 剑客 n 】
+-
+- FF.
+- > 【 award ceremony. 颁奖典礼 n 】
+- > 【 graduation ceremony. 毕业典礼 n 】
+- > 【 opening ceremony. 开幕式 n 】
+- > 【 closing ceremony. 闭幕式 n 】
+-
+- GG.
+- _【 steward 乘务员 空少 】_ --------------------【 stewardess 空姐 】
+- _【 waiter 男服务员 】_ ----------------------- 【 waitress 女服务员 n 】
+- _【 actor 男演员 】_ ------------------------- 【 actress 女演员 n 】
+- _【 headmaster 难校长 】_ -------------------- 【 headmistress 女校长 n 】
+- _【 prince 王子 】_ -------------------------- 【 princess 公主 n 】
+-
+- [AA.]
+- `【 rail 铁路 栏杆 n 】` = railway.
+- `【 railing 栏杆 n 】`
+- > 【 around 周围 围绕 adv prep 】
+- **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**

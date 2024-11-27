@@ -17,7 +17,7 @@
 -
 -
 - 2
-- `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain tail. 山路 山间小道 】
+- `【 trail 跟踪 v 小路 n 】` // ---------------- 【 mountain trail. 山路 山间小道 】 // trail VS trial VS rail
 - `【 sail 航行 v 帆 n  】`
 - _【 mountain trail. 山路 山间小道 】_
 - > sail 航行 v 风帆 n
@@ -30,6 +30,9 @@
 - // -- instrument 仪器 仪表 n
 - // -- device 设备 n
 - // -- equipment 装备 n
+- BB.
+- _【 trial 试验 v n 】_ // ------------------ 【 trial period. 试用期 】
+- _【 trail 小路 跟踪 v 】_ // ---------------- 【 mountain trail. 山路 】
 -
 -
 - 3

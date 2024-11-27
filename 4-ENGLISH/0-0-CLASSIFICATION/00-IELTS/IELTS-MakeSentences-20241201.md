@@ -43,7 +43,7 @@
 请指定一个具体的你想要的颜色
 ```
 
-##### 1 Make sentences 2024-12-02
+##### 2 Make sentences 2024-12-02
 
 ```
 1
@@ -92,4 +92,40 @@
 
 9
 这种模式的图案很好看
+```
+
+##### 3 Make sentences 2024-12-03
+
+```
+1
+铁路周围有栏杆
+
+
+2
+这个仪器可以追踪卡车在小路上留下的痕迹
+-
+他正在小路上跟踪一头鹿
+
+
+3
+He 【 passed 】 the 【 trial period 】 【 during 】 the 【 internship 】.
+他在实习期间过了试用期
+-
+The 【 warranty period 】 is the 【 validity period 】 of the 【 warranty 】.
+保修期就是保修的有效期
+-
+// -
+// 【 trial period. 试用期 】
+// 【 internship period. 实习期 】
+// -
+// 【 warranty period. 保修期 】
+// 【 validity period. 有效期 】
+// -
+// 【 shelf life. 保质期 】
+// -
+// valid 有效的 adj
+// validity 有效性 n
+-
+// TIPS: Pay attention to the pronunciation of the word 'validity'. [validity-有效性-n]
+// TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
 ```

@@ -1312,8 +1312,8 @@ good 这个单词以前缀 g 开头，以 d 后缀结尾
 
 
 2
-This 【 instrument 】 can 【 track 】 the 【 traces 】 【 left by 】 【 trucks 】.
-这个仪器可以追踪卡车留下的痕迹
+The 【 instrument 】 can 【 track 】 the 【 traces 】 that left by 【 trucks 】 【 on 】 the 【 trail 】
+这个仪器可以追踪卡车在小路上留下的痕迹
 // -
 // 【 trace 踪迹v / 痕迹n 】
 // 【 track 追踪v /  轨道n  】

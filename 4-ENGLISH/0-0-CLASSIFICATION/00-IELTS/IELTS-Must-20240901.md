@@ -145,6 +145,8 @@
 - // full scholarship. 全额奖学金
 - // full marks. 满分
 - // academic performance. 学习成绩
+- // tuition fees. 学费 n
+- > 【 tuition fees. 学费 n 】
 - _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】 【 family contradiction. 家庭矛盾 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_

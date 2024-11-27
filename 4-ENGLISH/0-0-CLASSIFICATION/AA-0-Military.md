@@ -278,7 +278,7 @@
 -
 - [AA.]
 - `【 navy 海军 n 】`
-- `【 naval fleet. 海军舰队 n 】`
+- `【 naval 海军的 adj 】` // --------------------- 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 warship 战舰 n 】`
 - `【 frigate 护卫舰 n 】`
 - `【 aircraft carrier. 航空母舰 n 】`
@@ -443,10 +443,12 @@
 - 5
 - [Other]
 - `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 n 】 【 aggressive war. 侵虐战争 n 】 【 launch war. 发动战争 】
-- `【 break out. 爆发 v 】`
+- `【 warranty period. 保修期 n 】`
+- `【 warship 战绩 】`
+- 【 break out. 爆发 v 】
 - > 【 cruel war. 残酷的战争 n 】
 - > 【 aggressive war. 侵虐战争 n 】
-- > 【 launch the aggressive war. 发动侵虐战争 】
+- > 【 【 launch 】 the aggressive war. 发动侵虐战争 】
 - AA.
 - _【 aggress 侵虐 v 】_
 - _【 aggressive 侵略的 】_
@@ -456,7 +458,17 @@
 - **【 The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争 】**
 - // TIPS: Pay attention to the pronunciation of the word 'aggress'. [aggress-侵虐-v]
 - // TIPS: Pay attention to the pronunciation of the word 'aggressive'. [aggressive-侵虐的-adj]
-
+- BB.
+- > 【 war 战争 n 】// ------------------------- 【 cruel war. 残酷的战争 】 【 aggressive war. 侵虐战争 】
+- > 【 warranty 保修单 n 】 // ----------------- 【 warranty period. 保修期 】
+- _【 warranty period. 保修期 】_
+- _【 validity period. 有效期 】_ // ----------- valid 有效的 adj
+- _【 trial period. 试用期 】_ // -------------- trial 试用 // ---------- trial VS trail
+- _【 shelf life. 保质期 】_ // ---------------- shelf 架子
+- CC.
+- _【 trial 试验 v n 】_ // ------------------ 【 trial period. 试用期 】
+- _【 trail 小路 跟踪 v 】_ // ---------------- 【 mountain trail. 山路 】
+-
 -
 - `【 battle 战斗 v 】`
 - `【 battlefield 战场 n 】`

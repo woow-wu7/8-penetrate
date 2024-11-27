@@ -2,8 +2,17 @@
 
 ##### (1) **The words that you mast know.**
 
+- [-HH.]
+- `【 trial period. 试用期 】`
+- `【 internship 实习期 】`
+- `【 warranty period. 保修期 】`
+- `【 validity period. 有效期 】`
+- `【 shelf life. 保质期 】`
+- **【 He passed the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- [detailed-tutorial][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
+-
 - [-GG.]
-- `【 intense 强烈的 激励的 adj 】` //【 intense competition. 强烈的竞争 】 【 intense dissatisfaction. 强烈的不满 】
+- `【 intense 强烈的 激励的 adj 】` //【 intense competition. 强烈的竞争 】 【 intense dissatisfaction. 强烈的不满 】 // 【 cruel competition. 残酷的竞争 】
 - `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
 - `【 density 密度 n 】` // -------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
 - `【 concentration 浓度 n 】` // -- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
