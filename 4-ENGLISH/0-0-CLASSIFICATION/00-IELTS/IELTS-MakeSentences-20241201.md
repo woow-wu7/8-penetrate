@@ -130,7 +130,7 @@ The 【 warranty period 】 is the 【 validity period 】 of the 【 warranty �
 // TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
 ```
 
-##### 3 Make sentences 2024-12-04
+##### 4 Make sentences 2024-12-04
 
 ```
 1
@@ -183,4 +183,11 @@ The 【 warranty period 】 is the 【 validity period 】 of the 【 warranty �
 安检可以保证信息安全和网络安全，给人带来安全感
 -
 每个人都应该按时缴纳社保和个人所得税
+```
+
+##### 3 Make sentences 2024-12-05
+
+```
+1
+如果你帮我偿还贷款，还清债务，我会报答你
 ```

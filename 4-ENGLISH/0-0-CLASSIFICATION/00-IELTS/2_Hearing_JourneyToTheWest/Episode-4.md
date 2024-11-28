@@ -25,9 +25,9 @@ palm 手掌 n
 repay 报答 v
 -
 【 pay off. 还清 】
-【 pack back. 偿还 归还 】
+【 pay back. 偿还 归还 】
 -
-// 如果你帮我偿还贷款，还清债务，我会报答你
+// If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你
 
 
 3

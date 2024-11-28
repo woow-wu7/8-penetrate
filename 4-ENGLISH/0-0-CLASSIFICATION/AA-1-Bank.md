@@ -765,7 +765,8 @@
 - 4
 - `【 pay off. 还清 】`
 - `【 pack back. 偿还 归还 】`
-- _【 repay 报答 v 】_
+- `【 repay 报答 v 】`
+- **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
 -
 - > debt 债务
 - > receipt 收据 发票
