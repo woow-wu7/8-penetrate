@@ -21,6 +21,9 @@
 - _【 inspiration 灵感 】_ // -------------------- 【 creative inspiration. 创作灵感 】 【 inspire inspiration. 激发灵感 v 】
 - _【 inspire 激发 启发 v 】_ // ------------------ 【 inspire potential. 激发潜能 v 】 【 inspire curiosity. 激发好奇心 v 】 【 inspire inspiration. 激发灵感 v 】
 - _【 expire 过期 】_// -------------------------- 【 expiration time. 过期时间 】 【 expired dumpling. 过期的饺子 】 【 be about to expire. 即将过期 】
+- 【 be about to expire. 即将过期 】
+- 【 out of date. 过时的 adj 】
+- 【 For 【 cloth 】 and 【 clothes 】, there is no such thing as being 【 expired 】, only being 【 out of date 】. 对于布料和衣服，没有过期这一说，只有过时一说 】
 - > inspire inspiration. 激发灵感
 - > inspire curiosity. 激发好奇心
 - > inspire potential. 激发潜能

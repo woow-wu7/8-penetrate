@@ -3,7 +3,7 @@
 - 1
 - `【 rail 铁路 栏杆 n 】` // ------------------ 【 high speed rail. 高铁 】 【 handrail 扶手 】 【 railing 金属栏杆 】 【 railway 铁路 】 // 【 highway 高速公路 】
 - `【 trail 小路n 跟踪v 】` // ----------------- 【 mountain trail. 山路 】
-- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf period. 保质期 】
+- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf life. 保质期 】
 -
 - AA.
 - > 【 rail 铁路 栏杆 n 】
@@ -11,7 +11,7 @@
 - > 【 high speed rail. 高铁 n 】 ------------- 【 high speed railway. 高铁 】 // 【 high way. 高速公路 】
 - > 【 handrail 扶手 n 】 // ------------------ 【 handle 把手 v 处理 】 // handle/handrail/handprint/handbag/handgun/hand grenade.
 - > 【 monorail 单轨电车 n 】 // --------------- 【 mono 单声道的 adj 】
-- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / tract / trail 】
+- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / trace / trail 】
 - **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
 - // -- around 在...周围 附近 adv prep
 -

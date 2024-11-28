@@ -238,13 +238,20 @@ status 身份 状态 地位 n
 - > 【 backward 】
 - > behind
 - > front
-- 
+-
 - 4
 - `【 trail 小路 跟踪 v 】` // mountain trail. 山路
 - `【 track 追踪v 轨道n 】`
 - `【 trace 追踪 足迹 n 】`
 - `【 truck 卡车 】`
+- > 【 rail 铁路 】
+- > 【 railway. 铁路 】
+- > 【 high speed rail. 高速列车 】
 
-```
+##### 2024-11-26
 
-```
+- **【 come up with. 提出 】**
+- **【 come down with. 染上 】**
+- **【 come with. 附带 】**
+- **【 comply with. 遵守 】**
+- **【 demand/requirement/needs. 提出 】**

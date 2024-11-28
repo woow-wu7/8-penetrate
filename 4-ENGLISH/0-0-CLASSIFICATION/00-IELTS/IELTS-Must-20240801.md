@@ -1166,7 +1166,7 @@
 -
 - `【 junk food. 垃圾食品 n 】`
 - `【 junk mail. 垃圾邮件 n 】`
-- > 【 inbox 收件箱 n 】
+- > 【 inbox 收件箱 n 】 = mail box. 收件箱
 -
 - `【 dirty 脏的adj  / 弄脏v  肮脏下流的adj 】`
 - `【 clean 干净的adj  / 打扫v  】`
