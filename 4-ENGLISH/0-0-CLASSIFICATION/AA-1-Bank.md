@@ -12,7 +12,7 @@
 - **【 Does your company 【 offer 】 the 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
 - **【 You can 【 pay this TV in installment 】. 你可以分期付款购买这台电视机 】**
 - // -- 【 provide 提供 v 】
-- // -- 【 offer 提供 v / 报价n 】
+- // -- 【 offer 提供 v / 报价 n 】
 -
 - [-GG.]
 - `【 ability 能力 n 】`
@@ -40,7 +40,14 @@
 - `【 security 安全 】`
 - `【 social security. 社保 】` // 【 social welfare. 社会福利 】 【 social security. 社保 】
 - `【 social insurance. 社保 】`
+- > 【 social security. 社保 】
+- > 【 network security. 网络安全 】
+- > 【 information security. 信息安全 】
+- > 【 sense of security 安全感 】
+- > 【 security check. 安检 】
+- > 【 security camera. 监控摄像机 】
 - **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
 - // -- 【 social status. 社会地位 】
 - // -- 【 social media. 社交媒体 】
 - // -- 【 social security. 社保 】
@@ -756,8 +763,9 @@
 -
 -
 - 4
-- `pay off. 还清`
-- `pack back. 偿还 归还`
+- `【 pay off. 还清 】`
+- `【 pack back. 偿还 归还 】`
+- _【 repay 报答 v 】_
 -
 - > debt 债务
 - > receipt 收据 发票

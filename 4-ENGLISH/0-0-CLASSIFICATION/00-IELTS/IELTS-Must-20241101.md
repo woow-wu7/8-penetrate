@@ -552,6 +552,26 @@
 - > 【 ring finger. 无名指 】
 - > 【 little finger. 小指 】
 -
+- `【 clap 鼓掌v 掌声n 】` // applause 掌声
+- `【 slap 扇耳光 v 】`
+- `【 sap 汁液 n 】`
+- > 【 applause 掌声 n 】
+- > 【 palm 手掌 】
+- _【 clap 鼓掌 n 掌声 n 】_
+- _【 applaud 鼓掌 v 】_
+- _【 applause 掌声 n 】_
+- 1.
+- **【 Please give me some 【 applause 】. 请给我一些掌声 】**
+- **【 Please give me some 【 clapping 】. 请给我一些掌声 】**
+- 2.
+- **【 I 【 applaud 】 you. 我为你鼓掌 】**
+- **【 I 【 clap 】 for you. 我为你鼓掌 】**
+- 3.
+- **【 【 Applause 】 【 broke out 】 here, because many 【 audience members 】 are 【 clapping 】 for the actor. 这里响起了掌声，因为很多观众正在给给这个演员鼓掌 】**
+- // -- break out. 爆发
+- // -- audience 观众 n
+- // --【 audience members. 观众 】
+-
 - [AA.]
 - `【 shake hand. 握手 v 】`
 - `【 hand in. 上交 v 】`

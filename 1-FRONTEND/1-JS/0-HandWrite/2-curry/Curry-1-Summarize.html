@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>curry</title>
+    <title>curry 科里化函数</title>
   </head>
   <body>
     <script>
@@ -12,6 +12,12 @@
       // calculate ----------- calculate cost.
       // stimulate ----------- stimulate demand. stimulate consumption.
       // simulate ------------ simulate training. simulate examination.
+      // -
+      // wealth 财富 n
+      // health 健康 n
+      // greatest 最大的 最伟大的 adj
+      // 【 【 Health 】 is the 【 greatest 】 【 wealth 】. 健康是最大的财富 】
+      //
       // -
       // argument 参数 - 实参
       //【 parameter 参数 - 形参 】
@@ -62,6 +68,10 @@
       // ------- B. 1 【 multiplied by 】 2 equals two.
 
       const curry = (fn, ...rest) => {
+        //【1】
+        // The parameter "fn" can be passed into the "curry" function or into the "calculate" function 【2】.
+        // -- recursion.calculate = (fn) => fn(...totalParameters);
+
         // The total parameters are divided into two parts:
         // - 1. one: is the parameter of the curry function.
         // - 2. another: is the parameter of the returned function.
@@ -78,8 +88,10 @@
           return recursion;
         };
 
-        // 2
+        // 【2】
         // calculate => It's used to calculate the final result.
+        // The parameter "fn" can be passed into the "curry" function or into the "calculate" function 【2】.
+        // -- recursion.calculate = (fn) => fn(...totalParameters);
         recursion.calculate = () => fn(...totalParameters);
 
         return recursion;

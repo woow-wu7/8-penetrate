@@ -2325,7 +2325,7 @@ cup holder. 杯架
 - // -- secure 固定 v 固定的 adj 安全的
 - // -- in place. 在适当的位置
 - // -- sense of security. 安全感
-- // -- security camera. 监控录像
+- // -- security camera. 监控录像机
 - // 4. lever 杠杆
 - // 5. **overfill. 过满 溢出**
 - // 6. **once 一次 一旦** // once 一旦

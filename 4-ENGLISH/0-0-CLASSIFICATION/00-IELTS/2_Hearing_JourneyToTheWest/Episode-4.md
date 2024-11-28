@@ -1,6 +1,53 @@
 # Journey to the west. 西游记 4
 
 ```
+1
+clap 鼓掌 v 掌声 n
+slap 扇耳光 v
+sap 汁液 n
+palm 手掌 n
+-
+- 【 clap 鼓掌 n 掌声 n 】
+- 【 applaud 鼓掌 v 】
+- 【 applause 掌声 n 】
+-
+- // Please give me some 【 applause 】. 请给我一些掌声
+- // Please give me some 【 clapping 】. 请给我一些掌声
+- // I 【 applaud 】 you. 我为你鼓掌
+- // I 【 clap for 】 you. 我为你鼓掌
+- //【 Applause 】 【 broke out 】 here, because many 【 audience members 】 are 【 clapping 】 for the actor. 这里响起了掌声，因为很多观众正在给给这个演员鼓掌
+- // ---- break out. 爆发
+- // ---- audience 观众 n
+- // ----【 audience members. 观众 】
+
+
+2
+repay 报答 v
+-
+【 pay off. 还清 】
+【 pack back. 偿还 归还 】
+-
+// 如果你帮我偿还贷款，还清债务，我会报答你
+
+
+3
+secure 安全的adj 保护n
+security 安全 n
+-
+【 social security. 社保 】
+【 network security. 网络安全 】
+【 information security. 信息安全 】
+【 sense of security 安全感 】
+-
+【 security check. 安检 】
+【 security camera. 监控摄像机 】
+-
+// 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感
+-
+// Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税
+
+
+
 formula 公式 n
 
 creep 爬行 v n // creep -> crept. 爬行
