@@ -128,6 +128,7 @@
 - > 【 specialist 专家 专科医生 】 // specialist = expert
 - _【 be proficient in. 熟练于 精通于 】_
 - _【 specialize in. 专攻于 】_
+- // TIPS: [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
 - **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
 - **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
 - // --【 specific 具体的 特殊的 adj 】

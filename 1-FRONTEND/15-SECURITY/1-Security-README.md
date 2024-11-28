@@ -1,13 +1,41 @@
 # security 前端安全
 
-- xss 跨站脚本攻击
-- csrf 跨站请求伪造
+- xss 跨站脚本攻击 - cross site script
+- csrf 跨站请求伪造 - cross site request forgery
 - 爬虫预防
   - 请求头: User-Agent --- 来判断用户是使用什么浏览器访问
   - 请求头: Referer ------ 网页是从哪里跳过来，也是 xss 的预防手段
   - Ajax: --------------- POST 代替 GET
   - Cookie: ------------- HttpOnly，也是 xss 的预防手段
   - 验证码: -------------- 也是 csrf 的预防手段
+
+```
+English
+--
+
+forge 伪造 锻造 v
+forgery 伪造 锻造 n
+
+
+secure 安全的adj 保护n
+security 安全 n
+-
+【 social security. 社保 】
+【 network security. 网络安全 】
+【 information security. 信息安全 】
+【 sense of security 安全感 】
+-
+【 security check. 安检 】
+【 security camera. 监控摄像机 】
+-
+// 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感
+-
+// Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税
+
+
+verify 验证 v
+【 verification code. 验证码 】
+```
 
 ## (1) xss 跨站脚本攻击
 
@@ -36,7 +64,7 @@
     - `Set-Cookie: key1=value1; domain=example.com; path=/blog; HttpOnly;Secure;`
       - Expires Max-Age
       - Domain Path
-      - Secure 表示只允许 HTTPS
+      - **Secure** 表示只允许 HTTPS
       - **HttpOnly** 表示 cookie 无法通过脚本获取
         - js --------------> document.cookie 读写 cookie
         - XMLHttpRequest --> xhr.getResponseHeader('Set-Cookie') 获取 cookie
@@ -101,23 +129,25 @@
 - 概念
   - csrf 是 ( cross site request forgery 跨站请求伪造 ) 的缩写
   - CSRF 是一种劫持受信任用户向服务器发送非预期请求的攻击方式
-  - forgery 是伪造的意思
+  - forgery 伪造 锻造 n 是伪造的意思
+  - forge 伪造 锻造 v
 - 原理
   - 主要是通过获取用户在目标网站的 cookie，骗取目标网站的服务器的信任，在用户已经登录目标站的前提下，访问到了攻击者的钓鱼网站，攻击者直接通过 url 调用目标站的接口，伪造用户的行为进行攻击，通常这个行为用户是不知情的。
   - 即获取了 cookie，就可以做很多事情：比如以你的名义发送邮件、发信息、盗取账号、购买商品、虚拟货币转账等等
-- **预防 CSRF 攻击**
-  - **验证码**
+- **【 预防 CSRF 攻击 ( 四种方法 ) 】**
+  - **【 验证码 verification code. 】**
     - CSRF 往往是在用户不知情的情况下构建了网络请求，而验证码会强制用户必须与应用进行交互才能完成最终的请求
-  - **Referer** 检查
+  - **【 Referer 】** 检查
     - HTTP ( 请求头 ) 中有 ( Referer ) 字段，表示请求来源地址，通过 Refer 可以检查请求是否来自合法的源，服务器只对合法的源予以响应
     - 扩展
       - Referer 发送的条件
         - 不发送 Referer: 地址栏输入网址 和 书签
         - 发送 Referer: 网页链接 表单 网页加载静态资源，比如加载图片、脚本、样式
         - 链接: https://www.ruanyifeng.com/blog/2019/06/http-referer.html
-  - **token**
+  - **【 token 】**
     - CSRF 主要就是获取 cookie，所以要防御的话，就需要在请求中加入攻击者不能伪造的信息，并且该信息不能保存在 cookie 中
-  - **响应头 `Set-Cookie: SameSite=Strict`**
+    - 好处: token 是可以跨端的，而 cookie 只能在浏览器环境中，比如在手机系统上就不存在 cookie
+  - **【 响应头 `Set-Cookie: SameSite=Strict` 】**
     - 作用
       - Cookie 的 SameSite 属性用来限制 ( 第三方 cookie - 这种第三方网站引导发出的 Cookie，就称为第三方 Cookie )
       - Chrome 51 开始，浏览器的 Cookie 新增加了一个 SameSite 属性，用来防止 CSRF 攻击和用户追踪

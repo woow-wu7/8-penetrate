@@ -252,6 +252,58 @@
       // 接口隔离
       // 依赖倒置
       // 里氏替换
+
+      // -----------------------------------------
+      // 41 Design pattern.
+      // - 单列模式
+      // - 策略模式
+      // - 代理模式
+      // - 装饰器模式
+      // - 适配器模式
+      // - 工厂模式
+      // - 发布订阅模式
+      // - 观察者模式
+
+      // -----------------------------------------
+      // 41 curry.
+      function curryGenerator(fn, ...outerParameters) {
+        const parameters = [];
+        if (outerParameters.length > 0) {
+          parameters.push(...outerParameters);
+        }
+        function callback(...innerParameters) {
+          if (innerParameters.length > 0) {
+            parameters.push(...innerParameters);
+          }
+          return callback;
+        }
+        callback.calculate = function () {
+          return fn(...parameters);
+        };
+        return callback;
+      }
+      const getSum = (...args) => args.reduce((a, b) => a + b);
+      const curry = curryGenerator(getSum, 1, 2);
+      curry(3, 4)(5)()(6);
+      const res = curry.calculate();
+      console.log("res----curry: ", res);
+
+      // -----------------------------------------
+      // 42 security.
+      // XSS - cross site script
+      // CSRF - cross site request forgery
+      //
+      // - XSS
+      // - 1. html转义 < &lt; ...
+      // - 2. js转移 \n \\n
+      // - 3. set-cooke: httpOnly secure
+      // - 4. 跨域通信，事件上有 e.origin
+      //
+      // - CSRF
+      // - 1. verification code. 人机交互
+      // - 2. referer
+      // - 3. token
+      // - 4. set-cooke: sameSite:strict;
     </script>
   </body>
 </html>

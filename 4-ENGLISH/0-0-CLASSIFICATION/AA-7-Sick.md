@@ -40,7 +40,8 @@
 - > 【 specialist clinic. 专科医院 】
 - // specialty store. 专卖店 n
 - // specialty food. 特色食品 n
-- - **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
+- **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
@@ -260,9 +261,10 @@
 - **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
 -
 - [FF.] [Expand]
-- `【 snap 咬 v 】`
+- `【 sap 汁液 n 】`
 - `【 slap 扇巴掌 n 】`
 - `【 palm 手掌 n 】` // --------- palm // back of hand.
+- `【 snap 咬 v 】`
 - `【 exude 流出 渗出 流露 v 】` // exude rude
 - **【 You 【 slap 】 the tree with your 【 palm 】 and 【 snap 】 the tree with your teeth, which 【 leads to 】the tree 【 exuding 】 【 sap 】. 你用手掌扇树，用牙齿咬树，使得树流出了汁液 】**
 - // -- exude 流出 渗出 流露 v

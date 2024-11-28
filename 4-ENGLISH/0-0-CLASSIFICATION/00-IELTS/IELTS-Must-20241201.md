@@ -3,7 +3,7 @@
 - 1
 - `【 rail 铁路 栏杆 n 】` // ------------------ 【 high speed rail. 高铁 】 【 handrail 扶手 】 【 railing 金属栏杆 】 【 railway 铁路 】 // 【 highway 高速公路 】
 - `【 trail 小路n 跟踪v 】` // ----------------- 【 mountain trail. 山路 】
-- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf period. 保质期 】
+- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf life. 保质期 】
 -
 - AA.
 - > 【 rail 铁路 栏杆 n 】
@@ -11,9 +11,11 @@
 - > 【 high speed rail. 高铁 n 】 ------------- 【 high speed railway. 高铁 】 // 【 high way. 高速公路 】
 - > 【 handrail 扶手 n 】 // ------------------ 【 handle 把手 v 处理 】 // handle/handrail/handprint/handbag/handgun/hand grenade.
 - > 【 monorail 单轨电车 n 】 // --------------- 【 mono 单声道的 adj 】
-- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / tract / trail 】
+- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / trace / trail 】
 - **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
+- **【 Are you 【 familiar with 】 the streets 【 around here 】 ? 你熟悉这附近的街道吗？ 】**
 - // -- around 在...周围 附近 adv prep
+- // --【 around here. 附件 】
 -
 - BB.
 - _【 trial period. 试用期 】_ // -------------- 【 trial 试验 v n 】
@@ -22,6 +24,8 @@
 - _【 validity period. 有效期 】_ // ----------- 【 valid 有效的 adj 】 【 validity 有效性 n 】
 - _【 shelf life. 保质期 】_ // ---------------- 【 shelf 架子 n 】
 - > 【 expiration time. 过期时间 】
+- > 【 out of date. 过时的 adj 】
+- > 【 be about to expire. 即将过期 】
 - > 【 intern position. 实习岗 】
 - 【 valid 有效的 adj 】
 - 【 validity 有效性 n 】
@@ -32,23 +36,40 @@
 - // TIPS: Pay attention to the pronunciation of the word 'period'. [period-时期-时代-n]
 - 2.
 - **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
+- 3.
+- **【 The product that 【 is about to expire 】 is 【 out of date 】. 这个即将过期的产品已经过时了 】**
+- // -- out of date. 过时
+- // -- be about to expire. 即将过期
+- 4.
+- **【 The 【 shelf life 】 【 labels 】 of 【 grapes 】 are 【 placed on 】 the 【 shelf 】. 葡萄的保质期标签被放置在架子上 】**
+- // -- shelf life. 保质期
+- // -- shelf 架子
+- // -- label = tag. 标签
+- // -- grape 葡萄
 -
 - CC.
 - > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
-- > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track trace. 追踪痕迹 】
+- > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track the trace. 追踪痕迹 】
 - > 【 trace 追踪 v 跟踪 v 痕迹 n 】
 - **【 He is 【 tracking 】 a 【 deer 】 on the 【 trail 】. 他正在小路上跟踪一头鹿 】**
 - **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
 -
 -
 - DD.
-- _【 warranty period. 保修期 n 】_
+- _【 warranty period. 保修期 n 】_ // ---------- 【 validity period. 有效期 】 【 trial period. 试用期 】 【 shelf life. 保质期 】 // internship 实习期
 - _【 warship 战舰 n 】_
 - _【 war 战争 n 】_ // ------------------------- 【 cruel war. 残酷的战争 】 【 aggressive war. 侵虐战争 】
 - _【 ward 病房 n 】_
 - > 【 cruel war. 残酷的战争 】
 - > 【 aggressive war. 侵虐战争 】
 - 【 aggress 侵虐 v 】
+- **【 This 【 aggressive war 】 【 led 】 to 【 a large number of 】 【 wounded soldiers 】 to 【 crowding 】 the 【 ward 】. 这场侵虐战场导致大量伤员挤满了病房 】**
+- // -- lead -> led.
+- // --【 overcrowded 过于拥挤的 爆满的 adj 】
+- // -- `【 wound 伤口n 受伤v 】`
+- // -- `【 wounded 受伤的 adj 】`
+- // -- ward 病房 n
+- // -- crowd 人群 n 拥挤 v
 -
 - EE.
 - `【 ward 病房 n 】`
@@ -59,22 +80,87 @@
 - > 【 coward 胆小鬼 n 】
 - > 【 forward 向前的 adj adv 】 // --------------【 backward 向后的 adj adv 】
 - > 【 sword 剑 n 】 // ------------------------- 【 swordsman 剑客 n 】
+- _【 award ceremony. 颁奖典礼 】_
+- _【 award winner. 获奖者 】_
+- _【 award speech. 获奖感言 】_
+- **【 The 【 award winner 】 is giving an 【 award speech 】 at the 【 award ceremony 】. 获奖者正在颁奖典礼上发表获奖感言 】**
+- // -- `【 give a speech. 发表演讲 】`
+- // -- `【 give an award speech. 发表获奖感言 】`
+- // -- 【 The governor is giving a speech. 这位州长正在发表演讲 】
+- // governor 州长
+- // government 政府
 -
 - FF.
-- > 【 award ceremony. 颁奖典礼 n 】
+- > 【 award ceremony. 颁奖典礼 n 】 // ----------- 【 award winner. 获奖者 】 【 give an award speech. 发表获奖感言 v 】 // 【 give a speech. 发表演讲 v 】
 - > 【 graduation ceremony. 毕业典礼 n 】
 - > 【 opening ceremony. 开幕式 n 】
 - > 【 closing ceremony. 闭幕式 n 】
+- **【 The 【 award winner 】 is giving an 【 award speech 】 at the 【 award ceremony 】. 获奖者正在颁奖典礼上发表获奖感言 】**
+- // -- `【 give a speech. 发表演讲 】`
+- // -- `【 give an award speech. 发表获奖感言 】`
+- // -- 【 The governor is giving a speech. 这位州长正在发表演讲 】
 -
 - GG.
-- _【 steward 乘务员 空少 】_ --------------------【 stewardess 空姐 】
-- _【 waiter 男服务员 】_ ----------------------- 【 waitress 女服务员 n 】
-- _【 actor 男演员 】_ ------------------------- 【 actress 女演员 n 】
-- _【 headmaster 难校长 】_ -------------------- 【 headmistress 女校长 n 】
-- _【 prince 王子 】_ -------------------------- 【 princess 公主 n 】
+- _【 steward 乘务员 空少 】_ ---------------------【 stewardess 空姐 】
+- _【 waiter 男服务员 】_ ------------------------ 【 waitress 女服务员 n 】
+- _【 actor 男演员 】_ -------------------------- 【 actress 女演员 n 】
+- _【 headmaster 男校长 】_ --------------------- 【 headmistress 女校长 n 】
+- _【 prince 王子 】_ --------------------------- 【 princess 公主 n 】
+- > attendant 服务员 n
+- > assistant 助手 助理 n
+- > accountant 会计 n
+- > merchant 商人 n
+- > consultant 顾问 n
+- > secretary 秘书 n
 -
 - [AA.]
 - `【 rail 铁路 栏杆 n 】` = railway.
 - `【 railing 栏杆 n 】`
 - > 【 around 周围 围绕 adv prep 】
 - **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
+
+###### Must 2024-12-02
+
+- 1
+- `【 attendant 服务员 n 】`
+- `【 assistant 助手 助理 n 】`
+- `【 accountant 会计 n 】`
+- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 请教 商量 v 】
+- `【 merchant 商人 批发商 n 】` // --------------- 【 merchant = wholesaler. 批发商 】 // wholesale retail // retail tail
+-
+- `【 secretary 秘书 n 】`
+- `【 attendant 服务员 n 】`
+- `【 assistant 助手 助理 n 】`
+- `【 steward 乘务员 空少 n 】` // ---------------- 【 stewardess 空姐 】
+- `【 waiter 服务员 n 】` // --------------------- 【 waitress 女服务员 】
+-
+- `【 actor 男演员 】` --------------------------- 【 actress 女演员 n 】
+- `【 headmaster 难校长 】` ---------------------- 【 headmistress 女校长 n 】
+- `【 prince 王子 】` ---------------------------- 【 princess 公主 n 】
+-
+- `【 merchant 商人 n 】` = businessman.
+- `【 dealer 经销商 n 】`
+- `【 wholesaler 批发商 n 】` // ------------------ `wholesale 批发`
+- `【 retailer 零售商 n 】` // -------------------- `retail 零售`
+- `【 manufacturer 生产商 n 】`
+- > 【 wholesale store. 批发店 】
+- > 【 retail store. 零售店 】 // ---------------- 【 tail 尾巴 n / retail 零售 v n】
+- > 【 specialty store. 专卖店 】 // ------------- 【 special / specialist / specialty 】
+- AA.
+- _【 special 特别的 adj 】_
+- _【 specialize 专攻 】_ // --------------------- specialize in. 专攻
+- _【 specialist 专家 】_ // --------------------- specialist = expert.
+- _【 specialty 专业 】_ // ---------------------- specialty store. 专卖店
+- > 【 specialty store. 专卖店 】
+- > 【 specialty food. 特色食品 】
+- // TIPS: [Related-link][Must 2024-08-07](./IELTS-Must-20240801.md)
+- **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
+- **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
+- // -- 【 be proficient in. 精通于 】
+- // -- 【 specialize in. 专攻 】
+-
+- // TIPS: Pay attention to the pronunciation of the word 'secretary'. [secretary-秘书-n]
+-
+- [AA.]
+- **【 The prices of the goods sold by 【 manufacturers 】, 【 dealers 】, 【 wholesale stores 】, 【 retail stores 】, and 【 specialty stores 】 are all different. 生产商，经销商，批发店，零售店，专卖店销售的商品价格都不一样 】**
