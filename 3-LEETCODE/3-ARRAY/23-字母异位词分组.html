@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>字母异位词分组</title>
   </head>
   <body>
     <script>
@@ -32,6 +32,10 @@
       // Array.from
       // Array.from('abc') //  ['a', 'b', 'c']
 
+      // 对比
+      // [map] 1. 两数之和 two sum
+      // [map] 1. 字母异位词分组
+
       /**
        * @param {string[]} strs
        * @return {string[][]}
@@ -41,14 +45,16 @@
 
         for (let i = 0; i < strs.length; i++) {
           const cur = strs[i];
-          const curSort = Array.from(cur).sort().join(""); // 排序
+          const curSorted = Array.from(cur).sort().join(""); // 排序
+          // 注意: 这里不能用 sort((a,b) => a - b) 
+          // 因为: 因为这个函数在比较大小，所以一般用于 数字 的排序，而这里是 ( 字符串 )
 
-          if (!map.has(curSort)) {
-            map.set(curSort, [cur]); // 分类存入
+          if (!map.has(curSorted)) {
+            map.set(curSorted, [cur]); // 分类存入
           } else {
-            const values = map.get(curSort); // 取
+            const values = map.get(curSorted); // 取
             values.push(cur); // 添加
-            map.set(curSort, values); // 存入
+            map.set(curSorted, values); // 存入
           }
         }
 

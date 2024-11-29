@@ -14,7 +14,13 @@ manufacture 制造 生产 v
 manual 手动的adj 手册n
 【 instruction manual. 使用说明书 】
 
+
 import 进口 输入 v
 export 出口 输出 v
-// Taxes need to be paid for imported and exported products. 进口和出口产品需要交税
+// -- Import and export products need to pay taxes. 进口和出口产品需要交税
+
+
+【 place an order. 下单 订购 下订单 v 】
+pay -> paid. 支付 v
+// -- I 【 placed an order 】 but haven't 【 paid for 】 it yet. 我已经下了订单，但还没有付款
 ```

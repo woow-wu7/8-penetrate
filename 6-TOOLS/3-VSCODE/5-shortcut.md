@@ -14,6 +14,8 @@
 
 查找左侧文件: command + shift + f
 查找: command + f
+替换：command + option + f
+查找后下一个: command + enter
 查找后下一个: command + g
 查找后上一个: command + shift + g
 

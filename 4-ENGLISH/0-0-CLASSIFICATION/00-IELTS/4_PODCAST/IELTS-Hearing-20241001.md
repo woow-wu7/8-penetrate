@@ -175,7 +175,7 @@ exploit opportunity. 利用机会
 
 
 6.
-【 come with. 【 附带 】 伴随 】
+【 come with. 【 附带 】 自带 配有 伴随 】
 【 come down with. 染上（病） / 得了（病） 】
 【 comply with. 遵守 v 】 = obey 服从遵守.
 -
