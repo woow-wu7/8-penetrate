@@ -7,14 +7,19 @@
 - `【 at last. 最后 】` = in the end. = finally.
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
+- **【 The 【 economic recession 】 and 【 economic crisis 】 might 【 last for 】 【 a long period of time 】. 这次经济衰退和经济危机可能持续很长时间 】**
+- // -- a long period of time. 很长一段时间
+- // -- might 可能
+- // -- one hour and a half. 一个半小时
 - 1. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】 【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
-- 2. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
-- 3. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
-- 4. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
+- 2. **【 How long 【 did 】 the meeting 【 last (for) 】? 本次会议持续了多长时间？ 】**
+- 3. **【 How long 【 will 】 the meeting 【 last (for) 】? 本次会议会持续多长时间？ 】**
 - // -- marketing department. 市场部
+- // -- purchasing department. 采购部
 - // -- technology department. 技术部
 - // -- finance department. 财务部
-- // -- purchasing department. 采购部
+- // -- financial statement. 财物报表
+- // -- financial term. 金融术语
 - // 【 entire 整个 ------ 语气 强 】
 - // 【 whole 整个 ------- 语气 弱 】
 -
@@ -27,9 +32,12 @@
 - `【 recruit 招聘 招募 v 】`
 - > 【 lay off. vs recruit 】 【 lay -> laid 】 // -- The antonym of the 'lay off' is recruit. // antonym synonym
 - **【 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工 】**
-- **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
-- **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
-- **【 I was 【 laid off 】. 我被裁员了 】**
+- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- 1. **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
+- 2. **【 I was 【 laid off 】. 我被裁员了 】**
+- // -- software architect. 软件架构师
+- // -- experienced software architect. 经验丰富的软件架构师
+- // -- experienced 经验丰富的 adj
 - AA.
 - _【 a large amount of + 不可数名词. 大量的 】_ ------- 不可数名词 ----- a large amount of money.
 - _【 a large number of + 可数名词复数. 大量的 】_ ----- 可数名词 ------- a large number of students.
@@ -69,17 +77,19 @@
 -
 -
 - [CC.]
-- `【 compensate 赔偿 补偿 v 】`
-- `【 compensation 赔偿 补偿 [赔偿金] n 】`
-- `【 refund 退款 v n 】`
+- `【 compensate 补偿 赔偿  v 】`
+- `【 compensation 补偿 赔偿 [赔偿金] n 】` // ------- 【 compensation scheme. 赔偿方案 n 】 【 technical scheme. 技术方案 】
+- `【 refund 退款 退还 v n 】`
 - `【 repay 报答 v 】`
 - // fun fund refund found
-- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
-- > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
-- > 【 a lot of. 许多 大量 】-------------------------- 可以修饰可数名词，也可以修饰不可数名词
+- _【 compensation scheme. 赔偿方案 】_
+- _【 technical scheme. 技术方案 】_
+- > 【 a large number of + 可数名词复数. 大量的 】----- 可数名词
+- > 【 a large amount of + 不可数名词. 大量的 】------- 不可数名词
+- > 【 a lot of. 许多 大量 】------------------------- 可以修饰可数名词，也可以修饰不可数名词
+- // TIPS: Pay attention to the pronunciation of word 'refund'. [refund-退款-n]
 - **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
-- 1. **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
-- 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
+- **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
 -
 -
 -
@@ -90,58 +100,49 @@
 - `【 overtime pay. 加班费 】`
 - > 【 make an effort. 努力 v 】
 - > 【 make a decision. 做决定 v 】
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- // -- resist 抵抗 抵制 v / 防腐剂 n
+- // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
-- `【 workload 工作量 】`
-- `【 workaholic 工作狂 】`
--
-- `【 day shift. 白班 】`
-- `【 night shift. 夜班 】`
+- `【 day shift. 白班 】` // ----------------------- 【 work the day shift. 值白班 】
+- `【 night shift. 夜班 】` // --------------------- 【 work the night shift. 值夜班 】
 - `【 stick shift. 换挡杆 】`
+- `【 on duty. 值班 】`
+- `【 take turns. 轮流 】` // ---------------------- 【 take turns to do sth. 轮流做某事 】
+- > 【 stick 粘贴 v 棍子 n 】
+- > 【 lipstick. 口红 】
+- > 【 chopsticks. 筷子 】
+- > 【 walking stick. 拐杖 n 】
+- > 【 selfie stick. 自拍杆 n 】
+- > 【 a stick of incense. 一根香 】
+- **【 He and I 【 take turns 】 to 【 work the day shift 】 and 【 work the night shift 】. 他和我轮流值白班和夜班 】**
+- **【 Let's 【 take turns to 】 answer this question. 让我们轮流回答这个问题 】**
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
+- **【 You need to【 work out 】 after 【 working overtime 】. 加班后需要锻炼 】**
 - **【 working out 】 is helping for both 【 mental health 】 and 【 physical heath 】. 锻炼有助于心理健康和生理健康**
 -
-- `【 resist 抵抗 v 】`
-- `【 insist = persist 坚持 】`
-- `【 assist 协助 辅助 帮助 】`
+- `【 workload 工作量 】`
+- `【 workaholic 工作狂 】` // alcohol 酒精 n
+- `【 work intensity. 工作强度 n 】`
+- **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 -
-- `【 assist 协助 辅助 帮助 v 】`
-- `【 assistant 助手 助理 n 】`
-- `【 attendant 服务员 】`
-- `【 secretary 秘书 】`
-- `【 steward 乘务员 】`
-- `【 stewardess 空姐 】`
--
-- _【 suffer from. 遭受 患上 v 】_
-- _【 encounter 遭遇 v 】_
--
-- 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
--
-- 2. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
--
-- 3. **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
-- // --【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
-- // -- persist in doing sth. = insist on doing sth. 坚持做某事
-- // -- mandatory overtime. 强制加班
-- // -- overtime pay. 加班费
-- // TIPS: Pay attention to the pronunciation of the word 'resist'.
--
-- 4. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
--
-- 5. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- `【 suffer from. 遭受 患上 v 】`
+- `【 encounter 遭遇 v 】`
 -
 - **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
-- // except for. 除了 ------------- 排除
-- // in addition to. 除了 --------- 额外添加 或 补充
-- // 【 SUMMARY: except = except for. 】
+- **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
+- 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- 2. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+- 3. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- // --【 He persist in assisting her in completing the task. 他坚持协助她完成今天的任务 】
+- // -- overtime pay. 加班费
+- // -- except for. 除了 ------------- 排除
+- // -- in addition to. 除了 --------- 额外添加 或 补充
 - // 1.【 In addition to 】 my 【 weekly 】 【 wage 】, I got a lot of 【 tips 】.
 - // 2. I'm free 【 except 】 from 8 to 10pm.
-- **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
-- // -- 【 because of. = due to. 因为 】
-- // -- 【 suffer from. 遭受 患上 v 】
-- // -- 【 mental illness. 精神疾病 】
-- // -- serious 严重的 adj / 严肃的 adj / 认真的 adj
 -
 -
 -
@@ -160,8 +161,7 @@
 - [FF.]
 - `【 workaholic 工作狂 】`
 - `【 workload 工作量 】`
-- `【 volunteer 志愿者 n 】`
-- `【 volunteer to do sth. 自愿做某事 】`
+- `【 volunteer 志愿者 n 】` // --------------------- `【 volunteer to do sth. 自愿做某事 】`
 - //【 voluntarily 自愿地 adv 】
 - //【 voluntary 自愿的 adj 】
 - > alcohol 酒精
@@ -200,18 +200,26 @@
 -
 -
 - [II.]
-- `【 requirement 需求 n 】` // ------------- product requirement. 产品需求
-- `【 demand 需求n 要求v 】` // -------------- market demand. 市场需求 n // stimulate demand. 刺激需求 v
+- `【 requirement 需求 n 】` // ----------------------- product requirement. 产品需求
+- `【 demand 需求n 要求v 】` // ------------------------ market demand. 市场需求 n // stimulate demand. 刺激需求 v
 - `【 require 要求 v 】`
 - `【 reasonable 合理的 adj 】` // reasonable
 - `【 reason 原因 n 】`
+- > 【 satisfy need/demand/requirement. 满足需求 】
+- > 【 satisfy desire. 满足欲望 】
+- > 【 satisfy curiosity. 满足好奇心 】
+- > 【 customer satisfaction. 客户满意度 】
+- > 【 customer complaint. 客户投诉 】
+- > 【 anonymous complaint. 匿名投诉 】
+- > 【 anonymous letter. 匿名信 】
 - // reasonable
 - // unreasonable
 - _【 product requirement. 产品需求 】_
 - _【 market demand. 市场需求 n 】_
-- _【 stimulate demand. 刺激需求 v 】_
+- _【 stimulate demand. 刺激需求 v 】_ // -------------- `【 stimulate demand. 刺激需求 】`
 - **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
+- // -- product 产品 乘积 n
 -
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
 - **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
@@ -241,7 +249,9 @@
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
 - `【 cover letter. 求职信 】`
-- `【 resignation letter. 离职信 】`
+- `【 resignation letter. 离职信 】` // ---------------- 【 resignation application. 离职申请 】
+- `【 anonymous letter. 匿名信 】` // ------------------ 【 anonymous complaint. 匿名投诉 】
+- `【 capital letter. 大写字母 】` // ------------------ 【 international capital. 国际资本 】 【 capitalist country. 资本主义国家 】 【 socialist country. 】
 - > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
 - 1. **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - 2. **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
