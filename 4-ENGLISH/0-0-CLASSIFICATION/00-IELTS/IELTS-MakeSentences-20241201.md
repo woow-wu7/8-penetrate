@@ -190,4 +190,14 @@ The 【 warranty period 】 is the 【 validity period 】 of the 【 warranty �
 ```
 1
 如果你帮我偿还贷款，还清债务，我会报答你
+
+
+2
+他在实习期间过了试用期
+
+
+3
+我们要坚持抵制没有加班费的加班
+-
+强制加班意味着工作强度很大，并且没有加班费
 ```

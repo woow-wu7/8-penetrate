@@ -1,153 +1,7 @@
 ##### Job Interview
 
-##### (1) **The words that you mast know.**
+##### (一) **【 The words that you mast know (一) 】**
 
-- [-HH.]
-- `【 trial period. 试用期 】`
-- `【 internship 实习期 】`
-- `【 warranty period. 保修期 】`
-- `【 validity period. 有效期 】`
-- `【 shelf life. 保质期 】`
-- **【 He passed the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
-- [detailed-tutorial][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
--
-- [-GG.]
-- `【 intense 强烈的 激励的 adj 】` //【 intense competition. 强烈的竞争 】 【 intense dissatisfaction. 强烈的不满 】 // 【 cruel competition. 残酷的竞争 】
-- `【 intensity 强度 n 】` // ------ 【 work intensity. 工作强度 】
-- `【 density 密度 n 】` // -------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
-- `【 concentration 浓度 n 】` // -- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
-- > 【 workload 工作量 】 // ------- 【 assign workload. 分配工作量 v 】
-- > 【 workaholic 工作狂 】
-- > 【 work intensity. 工作强度 】
-- > 【 work overtime. 加班 】
-- > 【 mandatory overtime. 强制加班 】
-- > 【 overtime pay. 加班费 】
-- intensity / opacity
-- _【 work intensity. 工作强度 】_ // ----- _【 intense competition. 激烈的竞争 】_
-- _【 population density. 人口密度 】_ -----_【 energy density. 能量密度 】_
-- _【 liquid concentration. 液体浓度 】_ // _【 high concentration. 高浓度 】_
-- > intensity 强度 n
-- > intense 激烈的 adj // ----------------- 【 intense competition. 激烈的竞争 】
-- > 【 depth / thickness / intensity / density / concentration 】
-- _【 compete 竞争 v 】_
-- _【 competition 竞争 n 】_
-- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
-- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
-- **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
-- // -- resist 抵抗 抵制 // ----------------- insist persist assist resist // 【 assess 评估 v 】
-- // -- intensity 轻度 // ------------------ intensity density concentration
--
-- [-FF.]
-- `【 statistic 统计数据 统计 n 】`
-- `【 statistical 统计的 adj 】` // --------- 【 statistical figure. 统计数字 n 】 【 statistical report. 统计报告 n 】
-- _【 statistical report. 统计报告 n 】_
-- _【 statistical analysis. 统计分析 n 】_
-- _【 statistical figure. 统计数字 n 】_
-- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
-- **【 【 Obesity 】 means that you have a 【 fat figure 】, not a 【 slime figure 】. 肥胖意味着你有一个肥胖的身材而不是苗条的身材 】**
-- // -- number 数字 -------------------------- 任何情况
-- // -- figure 【 数字 】 身材 计算 ------------ 用户统计后的数字
-- // -- 1. figure out. 计算出
-- // -- 2. slim figure. 苗条的身材
-- // -- 3. statistical figure. 统计数字
-- // -- 【 slim 苗条的 】
-- // -- 【 fat 肥胖的 adj 脂肪 n 】
-- // -- 【 obesity 肥胖 n 】
--
--
-- [-GG.]
-- `【 employ 雇佣 v 】`
-- `【 employment 雇佣 n 】`
-- `【 unemployment 失业 n 】`
--
-- `【 unemployment 失业 n 】` // --------------- 【 employment benefits. 失业金 n 】
-- `【 unemployed 失业的 adj 】` // ------------- 【 unemployed rate. 失业率 n 】
--
-- `【 employer 雇主 老板 n 】`
-- `【 employee 员工 n 】`
-- `【 employ 雇佣 v 】`
-- // ------- assigner assignee assign // ----- 【 assign 分配 v 】
-- // ------- consigner consignee consign // -- 【 consign 托运 交付 v 】
-- // ------- employer employee employ
-- // ------- interviewer interviewee interview
-- // ------- trainer trainee train
-- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
-- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
-- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
-- // -- 【 figure out. 计算出 】= calculate.
-- // -- 【 figure 数字 n 身材 n 计算 v 】= digit. = number.
--
-- [-FF.]
-- `【 position 位置 职位 n 】`
-- `【 preposition 介词 】`
-- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
--
-- [-EE.]
-- `【 security 安全 】` // ----------------------- 【 security measure. 安全措施 】 【 social security. 社保 】
-- `【 social security. 社保 】` // ----------------【 social security. = social insurance. 社保 】
-- `【 social insurance. 社保 】`
-- `【 social status. 社会地位 】`
-- `【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
-- _【 generate contradiction. 产生矛盾 v 】_
-- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
-- > 【 social security. = social insurance. 社保 】
-- > 【 social status. 社会地位 】
-- > 【 social media. 社交媒体 】
-- > 【 social welfare. 社会福利 】
-- > 【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
-- // TIPS: Pay attention to the pronunciation of the word 'status'. [status-身份-状态-地位-n] [status/statue/state]
--
--
-- [-DD.]
-- `【 white collar. 白领 】` // 【 collar 衣领 n 】
-- `【 blue collar. 蓝领 】` // --------------------- collar color // 【 collar 衣领 n 】
-- `【 labor 工人 劳动 】` // ------------------------ labor laboratory // laboratory dormitory repository factory director victory history
-- > 【 labor day. 劳动节 】
-- > 【 labor law. 劳动法 】
-- > 【 labor worker. 劳务工 】
-- > 【 labor contract. 劳动合同 】 // --------------- contract/contact/contrast/ transaction 交易 n
--
-- [-CC.]
-- `【 on duty. 值班 】`
-- `【 lose one's job. 失业 n 】` = unemployment
-- `【 employment rate. 就业率 】`
-- `【 unemployment rate. 失业率 】`
-- > 【 unemployed 失业的 adj 】
-- > 【 unemployment 失业 n 】
-- 1. **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
-- 2. **【 The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rate 】. 失业率远远高于就业率 】**
-- **【 who is 【 on duty 】 tody? 今天谁值班 】**
-- // -- 【 much higher than. 远远高于 】
-- // TIPS: Pay attention to the pronunciation of the word 'higher'.
--
--
-- [-BB.]
-- `【 specialize 专攻 专门研究 v 】`
-- `【 specialize in. 专攻 专门研究 】`
-- > 【 special 特别的 特殊的 】
-- > 【 specialist 专家 专科医生 】 // specialist = expert
-- _【 be proficient in. 熟练于 精通于 】_
-- _【 specialize in. 专攻于 】_
-- // TIPS: [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
-- **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
-- **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
-- // --【 specific 具体的 特殊的 adj 】
-- // --【 specific symptom. 具体的症状 】
-- // -- `【 tech stack. 技术栈 】`
-- // -- be proficient in. 熟练于 精通于
--
-- [-AA.]
-- `【 proportion 比例 n 】`
-- `【 proportional 比例的 adj 】` // ---------------- 【 be proportional to. 与...成正比 】
-- `【 probability 概率 n 】`
-- > 【 be proportional to. 与...成正比 】
-- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
-- 1. **【 What's the 【 proportion 】 of male students? 男同学的比例是多少？】**
-- 2. **【 【 Probability 】 【 is proportional to 】 【 proportion 】. 概率和比例成正比 】**
-- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】the company? 公司招聘本地员工的比例是多少？ 】**
-- **【 What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue? 工资占总收入的比例是多少 】**
--
--
 - [AA.]
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
 - `【 last for. 持续 】`
@@ -648,15 +502,6 @@
 - `【 colleague 同事 】`
 - `【 college 学院 大学 】`
 - **【 My 【 colleague 】 is my 【 college 】 【 classmate 】. 我同事是我大学同学 】**
--
--
--
--
--
--
--
--
--
 -
 -
 - [LL.]
@@ -1491,6 +1336,181 @@
 -
 -
 -
+
+##### (二) **【 The words that you mast know (二) 】**
+
+- [-JJ.]
+- `【 trial period. 试用期 】` // ------------------ 【 trial 试验 试用 v n 】
+- `【 internship 实习期 】` // --------------------- `【 internship position. 实习岗 】`
+- `【 warranty period. 保修期 】` // --------------- 【 warship 战舰 】 【 aggressive war. 侵略战争 】 【 cruel war. 残酷的战争 】
+- `【 validity period. 有效期 】` // --------------- 【 valid 有效的 adj / validity 有效性 n 】
+- `【 shelf life. 保质期 】` // -------------------- 【 book shelf. 书架 】 【 shelf 架子 】
+- **【 He passed the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- [detailed-tutorial][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
+-
+-
+-
+- [-II.]
+- `【 security 安全 】` // ----------------------- 【 social security. 社保 】 【 security measure. 安全措施 】 // `【 pay social security. 缴纳社保 v 】`
+- `【 social security. 社保 】` // --------------- 【 pay social security. 缴纳社保 v 】 // 【 social security. = social insurance. 社保 】
+- `【 social insurance. 社保 】`
+- `【 social status. 社会地位 】`
+- `【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
+- _【 generate contradiction. 产生矛盾 v 】_
+- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- > 【 social media. 社交媒体 】
+- > 【 social welfare. 社会福利 】
+- > 【 social contradiction. 社会矛盾 】` // -------- social contradiction. // internal contradiction. // family contradiction.
+- > 【 social status. 社会地位 】
+- > 【 social security. = social insurance. 社保 】
+- // TIPS: Pay attention to the pronunciation of the word 'status'. [status-身份-状态-地位-n] [status/statue/state]
+-
+-
+-
+- [-HH.]
+- `【 intense 强烈的 激励的 adj 】` // ------ 【 intense competition. 激励的竞争 】 【 intense dissatisfaction. 强烈的不满 】 // 【 cruel competition. 残酷的竞争 】
+- `【 intensity 强度 n 】` // ------------- 【 work intensity. 工作强度 】
+- `【 density 密度 n 】` // --------------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
+- `【 concentration 浓度 n 】` // --------- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
+- AA.
+- > 【 workload 工作量 】 // --------------- 【 assign workload. 分配工作量 v 】
+- > 【 workaholic 工作狂 】
+- > 【 work intensity. 工作强度 】
+- > 【 work overtime. 加班 】
+- > 【 mandatory overtime. 强制加班 】
+- > 【 overtime pay. 加班费 】
+- intensity / opacity
+- > 【 depth / thickness / intensity / density / concentration 】
+- _【 work intensity. 工作强度 】_ // --------- _【 intense competition. 激烈的竞争 】_
+- _【 population density. 人口密度 】_ -------- _【 energy density. 能量密度 】_
+- _【 liquid concentration. 液体浓度 】_ // --- _【 high concentration. 高浓度 】_
+- BB.
+- > 【 compete 竞争 v 】
+- > 【 competition 竞争 n 】
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
+- **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
+- // -- resist 抵抗 抵制 // ------------------ insist persist assist resist // 【 assess 评估 v 】
+- // -- intensity 轻度 // ------------------- intensity density concentration
+- CC.
+- > 【 means 方法 手段 n 】
+- > 【 military means. 军事手段 】
+- > 【 main means. 主要手段 】
+- > 【 effective means. 有效手段 】
+- > 【 common means. 常见手段 】
+- **【 The 【 effective means 】 to 【 resolve 】 the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- DD.
+- > 【 satisfaction 满意 满意度 】 // --------- 【 customer satisfaction. 客户满意度 】
+- > 【 dissatisfaction 不满意 n 】 // -------- 【 intense dissatisfaction. 强烈不满意 】
+- > 【 satisfy 满足 满意 v 】 // ------------- 【 satisfy curiosity. 满足好奇心 v 】 【 satisfy desire. 满足欲望 v 】 【 satisfy need/demand/requirement. 满足需求 v 】
+- **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 demand 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
+-
+-
+-
+- [-GG.]
+- `【 specialize 专攻 专门研究 v 】`
+- `【 specialize in. 专攻 专门研究 】`
+- > 【 special 特别的 特殊的 】
+- > 【 specialist 专家 专科医生 】 // specialist = expert
+- _【 be proficient in. 熟练于 精通于 】_
+- _【 specialize in. 专攻于 】_
+- // TIPS: [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
+- **【 The person who 【 specializes in 】 a 【 special 】 field is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
+- **【 Because I 【 specialize in 】 the front-end 【 field 】, so I 【 am proficient in 】 the React and Vue 【 tech stacks 】. 因为我专攻前端领域，所以我精通 rect 和 vue 技术栈 】**
+- // --【 specific 具体的 特殊的 adj 】
+- // --【 specific symptom. 具体的症状 】
+- // -- `【 tech stack. 技术栈 】`
+- // -- be proficient in. 熟练于 精通于
+-
+-
+-
+- [-FF.]
+- `【 proportion 比例 n 】`
+- `【 probability 概率 n 】`
+- `【 proportional 比例的 adj 】` // ---------------- 【 be proportional to. 与...成正比 】
+- > 【 be proportional to. 与...成正比 】
+- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- 1. **【 What's the 【 proportion 】 of male students? 男同学的比例是多少？】**
+- 2. **【 【 Probability 】 【 is proportional to 】 【 proportion 】. 概率和比例成正比 】**
+- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】the company? 公司招聘本地员工的比例是多少？ 】**
+- **【 What's the 【 proportion 】 【 of 】 salary 【 to 】 total revenue? 工资占总收入的比例是多少 】**
+-
+-
+-
+- [-EE.]
+- `【 position 位置 职位 n 】`
+- `【 preposition 介词 】`
+- **【 Please pay attention to the 【 position 】 of the 【 preposition 】 in the sentence. 请注意这个介词在句子中的位置 】**
+-
+-
+-
+- [-DD.]
+- `【 white collar. 白领 】` // 【 collar 衣领 n 】
+- `【 blue collar. 蓝领 】` // --------------------- collar color // 【 collar 衣领 n 】
+- `【 labor 工人 劳动 】` // ------------------------ labor laboratory // laboratory dormitory repository factory director victory history
+- > 【 labor day. 劳动节 】
+- > 【 labor law. 劳动法 】
+- > 【 labor worker. 劳务工 】
+- > 【 labor contract. 劳动合同 】 // --------------- contract/contact/contrast/ transaction 交易 n
+-
+-
+-
+- [-CC.]
+- `【 on duty. 值班 】`
+- `【 lose one's job. 失业 n 】` = unemployment
+- `【 employment rate. 就业率 】`
+- `【 unemployment rate. 失业率 】`
+- > 【 unemployed 失业的 adj 】
+- > 【 unemployment 失业 n 】
+- 1. **【 I 【 lost my job 】 so I don't 【 have to 】 be 【 on duty 】 anymore. 我失业了所以以后不用再值班了 】**
+- 2. **【 The 【 unemployment rate 】 is 【 much higher than 】 the 【 employment rate 】. 失业率远远高于就业率 】**
+- **【 who is 【 on duty 】 tody? 今天谁值班 】**
+- // -- 【 much higher than. 远远高于 】
+- // TIPS: Pay attention to the pronunciation of the word 'higher'.
+-
+-
+-
+- [-BB.]
+- `【 statistic 统计数据 统计 n 】`
+- `【 statistical 统计的 adj 】` // --------- 【 statistical figure. 统计数字 n 】 【 statistical report. 统计报告 n 】
+- _【 statistical report. 统计报告 n 】_
+- _【 statistical analysis. 统计分析 n 】_
+- _【 statistical figure. 统计数字 n 】_
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- **【 【 Obesity 】 means that you have a 【 fat figure 】, not a 【 slime figure 】. 肥胖意味着你有一个肥胖的身材而不是苗条的身材 】**
+- // -- number 数字 -------------------------- 任何情况
+- // -- figure 【 数字 】 身材 计算 ------------ 用户统计后的数字
+- // -- 1. figure out. 计算出
+- // -- 2. slim figure. 苗条的身材
+- // -- 3. statistical figure. 统计数字
+- // -- 【 slim 苗条的 】
+- // -- 【 fat 肥胖的 adj 脂肪 n 】
+- // -- 【 obesity 肥胖 n 】
+-
+-
+-
+- [-AA.]
+- `【 employ 雇佣 v 】`
+- `【 employment 雇佣 n 】`
+- `【 unemployment 失业 n 】`
+-
+- `【 unemployment 失业 n 】` // --------------- 【 employment benefits. 失业金 n 】
+- `【 unemployed 失业的 adj 】` // ------------- 【 unemployed rate. 失业率 n 】
+-
+- `【 employer 雇主 老板 n 】`
+- `【 employee 员工 n 】`
+- `【 employ 雇佣 v 】`
+- // ------- assigner assignee assign // ----- 【 assign 分配 v 】
+- // ------- consigner consignee consign // -- 【 consign 托运 交付 v 】
+- // ------- employer employee employ
+- // ------- interviewer interviewee interview
+- // ------- trainer trainee train
+- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- **【 We need to 【 figure out 】 the real 【 figure 】 of 【 unemployed 】 【 employees 】. 我们需要计算出失业员工的真实数字 】**
+- // -- 【 figure out. 计算出 】= calculate.
+- // -- 【 figure 数字 n 身材 n 计算 v 】= digit. = number.
 
 ##### (2) **The sentences that must be asked.**
 
