@@ -304,6 +304,31 @@
       // - 2. referer
       // - 3. token
       // - 4. set-cooke: sameSite:strict;
+
+      // -----------------------------------------
+      // 43 vue3 对比 vue2 有哪些性能提升.
+      // 1. proxy 代替 Object.defineProperty
+      // - object attribute can not add new properties to keep responsive
+      // - using length to modify attribute can not keep responsive.
+      // - proxy don't need to 【 recursively traverse 】 the properties of an object. but Object.defineProperty needs.
+      // - The 【 compatibility 】 of Object.defineProperty is better than proxy.
+      // 2. pathFlag and hoist
+      // - pathFlag and hoist: these 【 characters 】 let vue3 can only update the dynamic Node in a component to improve performance.
+      // 3. tree-shaking
+      // - These 【 built-in 】 components "Transition", "KeepAlive", "Teleport", "Suspend" if we don't used in the project Vue3 will not compiles them to project.
+      // 4. cache events
+      // - "Events" will regenerate with each execution of the render function in "Vue2", so vue3 cache the functions so that can improve performance.
+
+       // -----------------------------------------
+      // 44
+      // comma
+      // period = full stop.
+      // single quotation marks.
+      // double quotation marks.
+      // question marks.
+      // round brackets.
+      // square brackets.
+      // curly brackets.
     </script>
   </body>
 </html>

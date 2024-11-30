@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>有效括号</title>
   </head>
   <body>
     <script>
@@ -46,7 +46,7 @@
       // An input string is valid if:
       // Open 【 brackets 】 must be closed by the same type of brackets.
       // Open brackets must be closed in the correct order.
-      // Every close bracket has a corresponding open bracket of the same type.
+      // Every close bracket has a 【 corresponding 】 open bracket of the same type.
 
       // English
       // -
@@ -77,11 +77,7 @@
 
           // pop
           // 如果是 ) ] } 就需要配对，栈顶必须是 ( [ {，配对就栈顶出栈
-          else if (
-            (cur === ")" && top === "(") ||
-            (cur === "]" && top === "[") ||
-            (cur === "}" && top === "{")
-          ) {
+          else if ((cur === ")" && top === "(") || (cur === "]" && top === "[") || (cur === "}" && top === "{")) {
             stack.pop();
           }
 

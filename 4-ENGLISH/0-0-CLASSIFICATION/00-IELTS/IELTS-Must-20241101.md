@@ -1311,7 +1311,7 @@
 - > 【 the conflict break out. 爆发冲突 】
 - > 【 the contradiction break out. 爆发矛盾 】
 -
-- `【 break up. 分手 v 】` = split up.
+- `【 break up. 分手 v 】` = split up. // ----------- 【 split open. 裂开 v 】 【 split up. = break up. 分手 v 】
 - `【 breakup. 分手 n 】`
 -
 - _【 break out. 爆发 v 】_

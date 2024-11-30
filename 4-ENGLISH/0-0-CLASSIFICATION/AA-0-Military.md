@@ -48,10 +48,12 @@
 - > 【 common means. 常见手段 】
 - > 【 effective means. 有效手段 】
 - DD.
-- > 【 politics 政治 n 】 // --------------------- 【 power politics. 强权政治 n 】
+- > 【 politics 政治 n 】 // --------------------- 【 power politics. 强权政治 n 】 // 【 political 政治的 adj VS politics 政治 n】
 - > 【 economy 经济 n 】
 - > 【 culture 文化 n 】
 - > 【 military 军事 】
+- _【 power politics. 强权政治 n 】_
+- _【 political rights. 政治权利 】_
 -
 -
 - [AA.]
@@ -79,7 +81,7 @@
 - `【 economy 经济 】`
 - `【 military 军事 】`
 - `【 culture 文化 】`
-- **【 He understands 【 politics 】, 【 economy 】, 【 military 】 and 【 culture 】. 政治，文化他都懂 】**
+- **【 He understands 【 politics 】, 【 economy 】, 【 military 】 and 【 culture 】. 政治，经济，军事，文化他都懂 】**
 -
 -
 -
@@ -270,7 +272,8 @@
 - [3.3]
 - `【 air force. 空军 n 】`
 - > 【 bomber 轰炸机 n 】 // -------------------- 【 bomb / bomber 】
-- > 【 fighter jet. 战斗机 战士 n 】
+- > 【 fighter jet. 战斗机 n 】
+- > 【 helicopter 直升机 】
 - pilot 飞行员
 - co-pilot. 副机长
 - captain 机长
@@ -749,7 +752,8 @@ strategy 策略 战略
 
 
 8
-politics 政治
+politics 政治 n
+political 政治的 adj
 【 power politic. 强权政治 n 】
 
 

@@ -657,7 +657,7 @@
 ###### Must 2024-07-15
 
 - 1
-- `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】
+- `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】 【 intense competition. 激励的竞争 】
 - `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
 - _【 present 目前 n / 礼物 n / 目前的 adv 】_
@@ -723,23 +723,37 @@
 - // 【 singular 单数的 adj 】 --------- 【 singular noun. 单数名词 n 】 【 plural noun. 复数名词 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'plural'. [plural-复数的/复数]
 -
-- `【 comma 逗号 n 】` // --------------------------------------- comma 逗号 // TV drama. 电视剧
-- `【 period 句号 n 】` = full stop. // ------------------------- 【 period 一段时间 [句号] 】
+- `【 comma 逗号 n 】` // --------------------------------------- 【 TV drama. = TV series. 电视剧 】 // 【 TV program. 电视节目 】
+- `【 period 句号 n 】` = full stop. // ------------------------- 【 period [一段时间] [句号] 】 // a period of time. // warranty period. 保修期
 - `【 full stop. 句号 n 】` = period.
-- `【 question mark. 问号 n 】 = question point.` // ------------ 【 full marks. 满分 】 【 question mark. 问号 n 】
-- `【 exclamation mark. 感叹号 n 】= exclamation point. `
+- `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
+- `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】`
 - `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
 - `【 double quotation marks. 双引号 n 】`
 - `【 brackets 括号 n 】`
 - `【 round brackets. 小括号 n 】` // ---------------------------- 【 this round of. 这一轮的 】 // This round of layoffs.
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
+- AA.
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
-- > 【 academic performance. 学习成绩 】
-- > 【 full marks. 满分 】 // ------------------------------------ full marks. // question mark. // single quotation marks. // double quotation marks.
+- **【 Her 【 curly hair 】 【 looks like 】 many 【 curly brackets 】. 她的卷发像很多大括号 】**
+- **【 The shape of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
+- // -- 【 look like. 看起来像 】
+- BB.
+- _【 period 句号 一段时间 n 】_
+- _【 warranty period. 保修期 n 】_
+- _【 validity period. 有效期 n 】_
+- _【 trial period. 试用期 n 】_
+- _【 internship period. 实习期 n 】_
+- _【 shelf life. 保质期 n 】_
+- [link][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
+- CC.
+- > 【 academic performance. 学习成绩 】 // ------------------- 【 academic research. 学术研究 】
+- > 【 full marks. 满分 】 // --------------------------------- full marks. // question mark. // single quotation marks. // double quotation marks.
 - > 【 math score. 数学成绩 】
-- > 【 question mark. = question point. 】
+- > 【 question mark. = question point. 问号 】
 - // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
 - // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
@@ -753,7 +767,13 @@
 -
 - [EXPEND-02]
 - `【 modify 修改 修饰 v 】`
+- `【 technical scheme. 技术方案 n 】`
 - **【 【 adjectives 】 are used to 【 modify 】 【 nouns 】. 形容词用来修饰名词 】**
+- **【 We need to 【 modify 】 our 【 technical scheme 】. 我们需要修改技术方案 】**
+- // -- technique 技术 n
+- // -- technology 技术 n
+- // -- technical 技术的 adj
+- // TIPS: Pay attention to the pronunciation of the word 'technical'. [technical-技术的-adj]
 -
 - `【 subject 主语 】` // ---------------- 【 subjective thought. 主观想法 】 【 subjective feeling. 主观感受 】 // subjective 主观的 adj
 - `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】

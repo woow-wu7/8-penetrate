@@ -519,7 +519,8 @@
 - 1
 - `bank 银行 堤岸`
 - `branch 分行 分支 分部`
-- `bankrupt 破产 v / 破产的 adj`
+- `【 bankrupt 破产 v / 破产的 adj 】`
+- `【 merchant bank. 商业银行 】`
 - > bankrupt / erupt / corrupt / interrupt
 - [detailed-distinction][Must 2024-11-24](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 -

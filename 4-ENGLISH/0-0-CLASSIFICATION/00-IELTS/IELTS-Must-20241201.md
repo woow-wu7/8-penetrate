@@ -122,14 +122,16 @@
 ###### Must 2024-12-02
 
 - 1
-- `【 attendant 服务员 n 】`
-- `【 assistant 助手 助理 n 】`
+- `【 attendant 服务员 n 】` // ------------------ 【 parking attendant. 停车场服务员 】 【 museum attendant. 博物馆服务员 】
+- `【 assistant 助手 助理 n 】` // -------------- `【 shop assistant. 店员 】`
 - `【 accountant 会计 n 】`
-- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 请教 商量 v 】
-- `【 merchant 商人 批发商 n 】` // --------------- 【 merchant = wholesaler. 批发商 】 // wholesale retail // retail tail
+- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】
+- `【 merchant 商人n 商业的adj 】` // ------------ `【 merchant bank. 商业银行 】` 【 merchant = wholesaler. 批发商 】 // wholesale retail // retail tail
+- // TIPS: Pay attention to the pronunciation of the word 'consultant'. [consultant-顾问-n]
+- // TIPS: Pay attention to the pronunciation of the word 'consult'. [consult-咨询-商量-v]
 -
 - `【 secretary 秘书 n 】`
-- `【 attendant 服务员 n 】`
+- `【 attendant 服务员 n 】` // ------------------ 【 parking attendant. 停车场服务员 】 【 museum attendant. 博物馆服务员 】
 - `【 assistant 助手 助理 n 】`
 - `【 steward 乘务员 空少 n 】` // ---------------- 【 stewardess 空姐 】
 - `【 waiter 服务员 n 】` // --------------------- 【 waitress 女服务员 】
@@ -164,3 +166,11 @@
 -
 - [AA.]
 - **【 The prices of the goods sold by 【 manufacturers 】, 【 dealers 】, 【 wholesale stores 】, 【 retail stores 】, and 【 specialty stores 】 are all different. 生产商，经销商，批发店，零售店，专卖店销售的商品价格都不一样 】**
+-
+- [BB.]
+- `【 consult 咨询 商量 v 】`
+- `【 shop assistant. 店员 n 】`
+- `【 merchant bank. 商业银行 n 】`
+- **【 I would like to 【 consult 】 with 【 shop assistants 】 to open a 【 merchant bank 】. 我想和店员商量去开一家商业银行 】**
+- // -- 【 would like to do sth. = want to do sth. 想做某事 】
+- // -- 【 consult with sb. 和某人商量 】

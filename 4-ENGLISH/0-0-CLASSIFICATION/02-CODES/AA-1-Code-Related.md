@@ -1200,7 +1200,7 @@ https://vuejs.org/guide/introduction.html
 - // ------- A. 9 minus 6 equals 3.
 - // ------- B. 6 【 subtracted from 】 9 is 3.
 - // ------- c. If you subtract 6 from 9, you get 3.
-- // ------- **除法 - 【 divided 】**
+- // ------- **除法 - 【 divided by 】**
 - // ------- A. 10 【 divided by 】 2 equals 5.
 - // ------- **乘法 - 【 times/multiplied 】**
 - // ------- A. one times two equals two.
