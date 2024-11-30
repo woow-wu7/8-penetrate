@@ -3,9 +3,9 @@
 ##### (一) **【 The words that you mast know (一) 】**
 
 - [AA.]
-- `【 last 持续v 延续v 最后的adj 最后adv 】`
-- `【 last for. 持续 】`
+- `【 last for. 持续 延续 v 】`
 - `【 at last. 最后 】` = in the end. = finally.
+- `【 last 持续v 延续v 最后的adj 最后adv 】`
 - **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
 - 1. **【 The 【 symptoms of 】 【 inflammation 】, 【 swelling 】 and 【 allergy 】 【 lasted for 】 2 months. 发炎，肿胀，和过敏的症状持续了 2 个月 】**
 - 2. **【 【 at last 】, the meeting 【 lasted for 】 【 an hour and a half 】. 最后，会议持续了一个半小时 】**
@@ -21,63 +21,65 @@
 -
 -
 - [BB.]
-- `【 lay off. 裁员 v 】` // ----------------------- 【 dismiss 解雇 v 】 // dismiss mission missile miss
+- `【 lay off. 裁员 v 】`
 - `【 layoff. 裁员 n 】`
-- `【 economic crisis. 经济危机 】`
-- `【 economic recession 经济衰退 】`
-- `【 economic structure. 经济结构 】`
-- > 【 lay -> laid 】
-- > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
-- 【 economy 经济 n 】
-- 【 economic 经济的 adj 】// ---------------------- 【 economic recession. // economic crisis. // economic structure.
-- 【 academic 学术的 adj 】// ---------------------- 【 academic performance. 学习成绩 】 【 academic research. 学术研究 n 】 【 full marks. 满分 】 math score.
-- lay 放置 安放 v
-- layout 布局
-- crisis 危机
-- > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
-- > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
--
+- `【 dismiss 解雇 v 】` // ------------------------ 【 dismiss 解雇 v 】 // dismiss mission missile miss
+- `【 recruit 招聘 招募 v 】`
+- > 【 lay off. vs recruit 】 【 lay -> laid 】 // -- The antonym of the 'lay off' is recruit. // antonym synonym
 - **【 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工 】**
-- **【 The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】. 经济结构导致经济衰退和经济危机 】**
-- // -- 【 this round of. 这一轮 ... 】
-- // -- 【 layoff. 裁员 n 】
-- // -- 【 lay off. 裁员 v 】
-- // -- 【 involve 涉及 v 】 // 【 be involved in sth. / be involved in doing sth. 】
-- // -- Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
--
-- **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
--
-- **【 【 Economic recession 】 and 【 economic crisis 】 【 led to 】 【 a large number of 】 【 layoffs 】. 经济衰退和经济危机导致了大量的裁员 】**
--
 - **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
--
-- 1. **【 economic crisis 】 has 【 led 】 to 【 a large number of 】 【 layoffs 】. 经济危机导致了大量的裁员** // layoff
-- 2. **【 The company 【 laid off 】 【 half of 】 【 its 】 employees. 该公司裁了一半的员工 】** // lay off.
-- 3. **【 The 【 entire 】 【 marketing department 】 was 【 laid off 】 by company. 整个市场部门被公司裁了 】**
 - **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
 - **【 I was 【 laid off 】. 我被裁员了 】**
-- // -- 【 half of. ...的一半 】
-- // -- 【 economic crisis. 经济危机 】
-- // -- `entire 整个的 ------ 语气强`
-- // -- `whole 整个的 ------- 语气弱`
-- // -- the number of. ...的数量
-- // -- a large number of. 大量的 adj ---- 可数
-- // -- a large amount of. 大量的 adj ---- 不可数
+- AA.
+- _【 a large amount of + 不可数名词. 大量的 】_ ------- 不可数名词 ----- a large amount of money.
+- _【 a large number of + 可数名词复数. 大量的 】_ ----- 可数名词 ------- a large number of students.
+- _【 a lot of. 许多 大量 】_ ------------------------ 可以修饰可数名词，也可以修饰不可数名词
+- **【 【 A large amount of 】 money was 【 spent on 】 the 【 construction 】 of the new hospital. 大量的钱花费在了医院的建造上 】**
+- **【 There are 【 a large number of 】 students in the classroom. 教室里有许多学生 】**
+- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- // -- 【 spend on. 花费...在上 】
+- // -- 【 construct 建造 v 】
+- // -- 【 construction 建造 建筑 n 】 // ----------- 【 construction site. 建筑工地 】 【 construction worker. 建筑工人 】
+- // -- 【 construction site. 建筑工地 】
+- // -- 【 construction worker. 建筑工人 】
+- BB.
+- _【 infrastructure 基础设施 基础结构 】_
+- _【 structure 结构 建筑物 】_
+- > 【 building structure. 建筑结构 n 】
+- > 【 compact structure. 紧凑的结构 】
+- > 【 overall structure. 整体结构 n 】
+- > 【 data structure. 数据结构 】
+- > 【 organization structure. 组织结构 】
+- 【 building material. 建筑材料 n 】 // -------------- 【 building structure. 建筑结构 】 【 building material. 建筑材料 】 // 【 construction site. 建筑工地 】
+- 【 composite material. 复合材料 n 】// ------------- `【 composite 合成的 复合的 adj 】`
+- 【 reading material. 阅读材料 n 】
+- **【 The 【 construction workers 】 are researching 【 building material 】 and 【 building structure 】 on the 【 construction site 】. 建筑工人正在建筑工地研究建筑材料和建筑结构 】**
+- **【 These 【 structures 】 【 are used in 】 【 infrastructure 】 . 这些结构被用于基础设施中 】**
+- CC.
+- _【 construction site. 建筑工地 】_
+- _【 construction worker. 建筑工人 】_
+- **【 The 【 construction workers 】 are researching 【 building material 】 and 【 building structure 】 on the 【 construction site 】. 建筑工人正在建筑工地研究建筑材料和建筑结构 】**
+- DD.
+- _【 economy 经济 n 】_
+- _【 economic 经济的 adj 】_ // -------------------- 【 economic recession. // economic crisis. // economic structure.
+- _【 academic 学术的 adj 】_ // -------------------- 【 academic performance. 学习成绩 】 【 academic research. 】 【 full marks. 满分 】 【 math score. 】
+- **【 The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】. 经济结构导致经济衰退和经济危机 】**
+- **【 【 Economic recession 】 and 【 economic crisis 】 【 led to 】 【 a large number of 】 【 layoffs 】. 经济衰退和经济危机导致了大量的裁员 】**
 -
 -
 -
 - [CC.]
 - `【 compensate 赔偿 补偿 v 】`
 - `【 compensation 赔偿 补偿 [赔偿金] n 】`
-- `【 refund 退款 】`
+- `【 refund 退款 v n 】`
+- `【 repay 报答 v 】`
 - // fun fund refund found
 - > 【 a large number of + 可数名词复数. 大量的 】------ 可数名词
 - > 【 a large amount of + 不可数名词. 大量的 】-------- 不可数名词
+- > 【 a lot of. 许多 大量 】-------------------------- 可以修饰可数名词，也可以修饰不可数名词
 - **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - 1. **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
 - 2. **【 We will 【 compensate 】 【 according to 】 the length of service. 我们将按照工作年限来赔偿 】**
-- // -- 【 a large amount of. 大量的 】
-- // -- 【 according to. 根据 】
 -
 -
 -
@@ -87,17 +89,18 @@
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
 - > 【 make an effort. 努力 v 】
+- > 【 make a decision. 做决定 v 】
+-
+- `【 workload 工作量 】`
+- `【 workaholic 工作狂 】`
+-
+- `【 day shift. 白班 】`
+- `【 night shift. 夜班 】`
+- `【 stick shift. 换挡杆 】`
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
 - **【 working out 】 is helping for both 【 mental health 】 and 【 physical heath 】. 锻炼有助于心理健康和生理健康**
--
-- > workload 工作量
-- > workaholic 工作狂
--
-- > 【 day shift. 白班 】
-- > 【 night shift. 夜班 】
-- > 【 stick shift. 换挡杆 】
 -
 - `【 resist 抵抗 v 】`
 - `【 insist = persist 坚持 】`
