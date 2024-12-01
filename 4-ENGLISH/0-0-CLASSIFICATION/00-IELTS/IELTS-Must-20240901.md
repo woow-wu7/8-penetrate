@@ -193,6 +193,7 @@
 - > 【 physical relationship. 肉体关系 n 】
 - _【 romantic relationship. 恋爱关系 n 】_
 - > 【 cooperative relationship. 合作关系 n 】
+- > 【 personnel relationship. 人际关系 n 】
 - // 【 establish the cooperative relationship. 建立合作关系 】 // cooperate cooperation cooperative
 - // 【 establish the romantic relationship. 确立了恋爱关系 】
 - // -------

@@ -1,4 +1,4 @@
-# Journey to the west. 西游记 1
+##### Journey to the west. 西游记 1
 
 ##### 1 The word that must be memorized. ( 共 8 个 )
 

@@ -293,9 +293,9 @@
 -
 -
 - [MM.]
-- `【 proficient 熟练的 精通的 adj 】`
+- `【 proficient 熟练的 精通的 adj 】` // --------------- 【 proficient user. 熟练的使用者 】
 - `【 proficiency 熟练 精通 n 】`
-- `【 be proficient in. 精通于 】` // be proficient in. 精通于
+- `【 be proficient in. 精通于 】` // ------------------ 【 be proficient in. 精通于 】
 - _【 development language. 开发语言 】_
 - _【 programming language. 程序语言 】_
 - .MT **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 他精通好几门编程语言，包括 Java、Python 和 JavaScript 】**
@@ -309,36 +309,42 @@
 - `【 passionate 激情的 adj 】`
 - > 【 have a passion for. 对...有激情/热情 】
 - > 【 be passionate about sth. 对...充满激情 】
+- // TIPS: Pay attention to the pronunciation of the word 'passion'. [passion-激情-n]
 - .MT **【 My 【 strength 】 is that I 【 have a passion for 】 my work. 我的优点是对工作充满激情 】**
 - **【 My 【 strength 】 is that I am 【 passionate about 】 my work. 我的优点是对工作充满激情 】**
 -
 -
 -
 - [OO.]
-- `【 efficiency 效率 n 】`
+- `【 efficiency 效率 n 】` // ---------------------- 【 work efficiency. 工作效率 】 【 energy efficiency. 能源效率 】
 - `【 efficient 有效率的 adj 】`
 - `【 experience 经验 n 】`
-- `【 experienced 有经验的 adj 】`
-- _【 work efficiency. 工作效率 】_
+- `【 experienced 有经验的 adj 】` // ---------------- 【 experienced software architect. 有经验的软件架构师 】
+- > 【 work efficiency. 工作效率 】
+- > 【 energy efficiency. 能源效率 】
+- > 【 experienced software architect. 有经验的软件架构师 】
 - .MT **【 The leader 【 requires 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
+- .MT **【 An 【 experienced software architect 】 has high 【 work efficiency 】. 有经验的软件架构是有很高的工作效率 】**
 - **【 The leader 【 asks 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
 - // 【 require sb to do sth. 要求某人做某事 】
 - // 【 ask sb to do sth. 让某人做某事 】
 - // `【 require 要求 需要 依赖 v 】`
-- // `require sb to do sth. 要求某人做某事`
+- // `【 require sb to do sth. 要求某人做某事 】`
 -
 -
 -
 - [PP.]
-- `【 promotion 促进 晋升 提升 n / 促销 n 】`
+- `【 promotion 促进 晋升 提升 n / 促销 n 】` // ------ 【 Two for one promotion. 买一送一促销 】
 - `【 promote 促进 晋升 提升 v / 促销 v 】`
 - > 【 be promoted from xx to xx. 从...晋升为... 】
 - > 【 be promoted to. 晋升为... 】
 - > 【 get a promotion. 获得晋升 】
+- _【 Two for one promotion. 买一送一促销 】_
 - 【 promote vs prompt 】
-- 【 variable promotion 变量提升 】
+- 【 variable hoist 变量提升 】
+- 【 associate professor. 副教授 】
 - .MT **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
-- 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 【 be a leader 】. 】**
+- 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 【 be a leader 】. 由于他出色的表现，他被晋升为领导 】**
 - 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
 - 2. **【 She got a promotion. 她获得了晋升 】**
 - **【 【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】. 先进的技术推动了先进工艺的发展 】**
@@ -347,6 +353,10 @@
 - // -- 【 professor 教授 】
 - // -- excellent 杰出的 优秀的 adj
 - // -- prime 主要的
+- // -- `excellent performance. 出色的表现`
+- // -- `outstanding performance. 突出的表现`
+- // _【 outstand 突出 v 】_
+- // _【 outstanding 突出的 adj 】_ // ----------------- 【 outstanding performance. 出色的表现 】
 -
 -
 -
@@ -357,21 +367,22 @@
 - `【 accomplishment 成就 n 】`
 - // `modest 谦虚的 adj`
 - // `brag 吹嘘`
-- // 【 show off. = flaunt. 炫耀 】
 - > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
-- **【 He is a 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他一个非常谦虚的人，从来不炫耀自己的成就 】**
-- **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
-- **【 He is a 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
-- **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
-- **【 He is a 【 sensitive 】 person who easily 【 complains 】 about others. 她是一个敏感的人，很容易抱怨他人 】**
-- **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，认真的赚钱 】**
-- **【 He is a 【 bad-tempered 】 person who often 【 scolds 】 others. 他是一个脾气不好的人，经常骂人 】**
-- **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+- .MT **【 He is a 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他一个非常谦虚的人，从来不炫耀自己的成就 】**
+- .MT **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- .MT **【 He is a 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
+- .MT **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
+- .MT **【 He is a 【 sensitive 】 person who easily 【 complains 】 about others. 她是一个敏感的人，很容易抱怨他人 】**
+- .MT **【 He is an 【 earnest 】 person who 【 earnestly 】 【 earns 】 money. 他是一个认真的人，认真的赚钱 】**
+- .MT **【 He is a 【 bad-tempered 】 person who often 【 scolds 】 others. 他是一个脾气不好的人，经常骂人 】**
+- .MT **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
+- // TIPS: Pay attention to the pronunciation of the word 'flaunt'. [flaunt=showOff.炫耀-v]
 - // -- wealth 财富
 - // -- health 健康
 - // ---- donate money. 捐款
 - // -- 【 assist sb in doing sth. 协助某人在做某事 】
 - // -- 【 persist in doing sth. 坚持做某事 】
+- // -- `【 be strict with. 对...要求严格 】`
 -
 -
 - [RR.]
@@ -419,24 +430,25 @@
 -
 - [UU.]
 - `【 professor 教授 n 】`
-- `【 profession 职业 行业 n 】` // profession industry 行业
-- `【 professional 职业的 adj 】`
+- `【 profession 职业 专业 行业 n 】` // -------------- 【 profession VS industry 行业 】 // 【 profession VS major 】
+- `【 professional 职业的 专业的 adj 】` // ----------- 【 professional skill. 专业技能 】 【 professional staff. 专业人员 】 【 professional equipment. 专业设备 】
 - > 【 professional skill. 专业技能 】
 - > 【 professional staff. 专业人员 】
 - > 【 professional equipment. 专业设备 】
+- .MT **【 【 Construction workers 】 should wear 【 professional equipment 】 to protect themselves. 建筑工人需要穿着专业装备来保护自己 】**
 - 1. **【 teaching is her 【 profession 】. 教书是她的职业 】**
 - 1. **【 He is a 【 university 】 【 physics 】 【 professor 】. 他是大学物理教授 】**
-- 1. **【 Builder should wear 【 professional equipment 】 to protect themselves. 建筑工人需要穿着专业装备来保护自己 】**
 -
 -
 - [VV.]
 - `【 concise 简明的 简洁的 adj 】`
 - `【 concisely 简明地 简洁地 adv 】`
+- `【 brief 简短的 adj 】`
 - > 【 concise answer. 简洁的答案 】
 - > 【 concise language. 简洁的语言 】
 - _【 brief 简短的 adj 】_
 - _【 concise 简洁的 adj 】_
-- 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
+- .MT 1. **【 Please use 【 brief 】 and 【 concise 】 language to answer this question. 请用简短和简洁的语言来回答这个问题 】**
 - 2. **【 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题 】**
 - 1. **【 a good 【 resume 】 should be 【 concise 】 and 【 focused 】. 一份好的简历应该简洁和有重点 】**
 - 2. **【 Please answer this question 【 concisely 】. 请简明地回答这个问题 】**
@@ -446,17 +458,22 @@
 -
 -
 - [WW.]
-- `【 personnel 人事部门 n 】`
-- `【 personal 个人的 adj 】`
-- `【 personality 性格 】` // personality = character. 性格
-- `【 interpersonal 人际关系的 adj 】` // interchange 交换 // interpersonal 人际关系
+- `【 personnel 人事部门 n 】` // ------------------ 【 personnel department. 人事部门 】 【 personnel director. 人事总监 】
+- `【 personal 个人的 私人的 dj 】`// --------------- 【 personal information. 个人信息 】 【 personal privacy. 个人隐私 】
+- `【 personality 性格 】` // ---------------------- `【 personality = character. 性格 】`
+- `【 interpersonal 人际关系的 adj 】` // ----------- 【 interpersonal relationship. 人际关系 】 // interchange 交换 // interpersonal 人际关系
+- > 【 personnel department. 人事部门 】
+- > 【 personnel director. 人事总监 】
+- _【 interpersonal relationship. 人际关系 】_
+- 【 personal information. 个人信息 】
+- 【 personal privacy. 个人隐私 】
+- // TIPS: Pay attention to the pronunciation of the word 'personnel'. [personnel-人事部门-人事的-adj]
+- **【 The 【 personnel director 】 of the 【 personnel department 】 is very good at handing 【 interpersonal relationship 】. 人事部门的人事总监的性格非常擅长处理人际关系 】**
 - -
 - `【 directory 目录 】`
 - `【 director 导演 董事 主任 】`
 - > 【 personnel director. 人事总监 】
 - > 【 sales director. 销售总监 】
-- -
-- _【 personal privacy. 个人隐私 】_
 - -
 - 1. **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
 - 2. **【 Please communicate 【 directly/immediately 】 with the 【 Personnel Director 】 about 【 resignation 】. 请直接和人事总监沟通离职事宜 】**
@@ -466,11 +483,14 @@
 - // -- 【 direct = immediate 】
 - // -- 【 directly = immediately 】
 - // -- resign 辞职
+- // -- resignation letter. 辞职信 // cover letter. // capital letter. // anonymous letter.
+- // -- resignation application. 辞职申请
 - [EXPAND-1]
-- `【 personality 性格 】`
+- `【 personality 性格 】` = character
 - `【 destiny 命运 】` = fate
 - `【 habit 习惯 】` // develop a habit. 养成习惯
 - `【 hobby 爱好 】`
+- > 【 develop a habit. 养成习惯 v 】
 - _【 develop a habit. 养成习惯 】_
 - _【 destiny = fate. 命运 】_
 - **【 Could you 【 describe 】 the 【 relationship 】 between 【 habit 】, 【 personality 】, and 【 destiny 】? 你能描述一下习惯，性格，命运的关系吗？ 】**
@@ -1370,11 +1390,11 @@
 
 - [-JJ.]
 - `【 trial period. 试用期 】` // ------------------ 【 trial 试验 试用 v n 】
-- `【 internship 实习期 】` // --------------------- `【 internship position. 实习岗 】`
+- `【 internship period. 实习期 】` // ------------ `【 internship position. 实习岗 】`
 - `【 warranty period. 保修期 】` // --------------- 【 warship 战舰 】 【 aggressive war. 侵略战争 】 【 cruel war. 残酷的战争 】
 - `【 validity period. 有效期 】` // --------------- 【 valid 有效的 adj / validity 有效性 n 】
 - `【 shelf life. 保质期 】` // -------------------- 【 book shelf. 书架 】 【 shelf 架子 】
-- **【 He passed the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- .MT **【 He passed the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
 - [detailed-tutorial][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
 -
 -

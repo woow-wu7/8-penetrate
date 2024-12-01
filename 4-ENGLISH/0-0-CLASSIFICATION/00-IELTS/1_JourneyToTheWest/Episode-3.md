@@ -27,7 +27,7 @@
 - > 【 track 追踪 v 轨道 n 】
 - > 【 trace 追踪 v 痕迹 n 】
 - **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that left by 【 trucks 】 【 on 】 the 【 trail 】 . 这个仪器可以追踪卡车在小路上留下的痕迹 】**
-- // -- instrument 仪器 仪表 n
+- // --  仪器 仪表 n
 - // -- device 设备 n
 - // -- equipment 装备 n
 - BB.

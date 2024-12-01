@@ -12,8 +12,8 @@
 - > 【 handrail 扶手 n 】 // ------------------ 【 handle 把手 v 处理 】 // handle/handrail/handprint/handbag/handgun/hand grenade.
 - > 【 monorail 单轨电车 n 】 // --------------- 【 mono 单声道的 adj 】
 - 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / trace / trail 】
-- **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
-- **【 Are you 【 familiar with 】 the streets 【 around here 】 ? 你熟悉这附近的街道吗？ 】**
+- .MT **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
+- .MT **【 Are you 【 familiar with 】 the streets 【 around here 】 ? 你熟悉这附近的街道吗？ 】**
 - // -- around 在...周围 附近 adv prep
 - // --【 around here. 附件 】
 -
@@ -32,12 +32,12 @@
 - // TIPS: Pay attention to the pronunciation of the word 'validity'. [validity-有效性-n]
 - // TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
 - 1.
-- **【 He 【 passed 】 the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- .MT **【 He 【 passed 】 the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
 - // TIPS: Pay attention to the pronunciation of the word 'period'. [period-时期-时代-n]
 - 2.
-- **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
+- .MT **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
 - 3.
-- **【 The product that 【 is about to expire 】 is 【 out of date 】. 这个即将过期的产品已经过时了 】**
+- .MT **【 The product that 【 is about to 】 expire is 【 out of date 】. 这个即将过期的产品已经过时了 】**
 - // -- out of date. 过时
 - // -- be about to expire. 即将过期
 - 4.
@@ -46,13 +46,18 @@
 - // -- shelf 架子
 - // -- label = tag. 标签
 - // -- grape 葡萄
+- // TIPS: Pay attention to the pronunciation of the word 'grape'. [grape-葡萄-n]
 -
 - CC.
 - > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
 - > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track the trace. 追踪痕迹 】
 - > 【 trace 追踪 v 跟踪 v 痕迹 n 】
+- .MT **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
 - **【 He is 【 tracking 】 a 【 deer 】 on the 【 trail 】. 他正在小路上跟踪一头鹿 】**
-- **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
+- // -- instrument 仪器 仪表 n
+- // -- device 设备 装置 n
+- // -- equipment 设备 n
+- // -- gage 表 n
 -
 -
 - DD.
