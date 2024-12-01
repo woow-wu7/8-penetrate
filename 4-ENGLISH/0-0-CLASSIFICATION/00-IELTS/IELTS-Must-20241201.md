@@ -182,3 +182,12 @@
 - **【 I would like to 【 consult 】 with 【 shop assistants 】 to open a 【 merchant bank 】. 我想和店员商量去开一家商业银行 】**
 - // -- 【 would like to do sth. = want to do sth. 想做某事 】
 - // -- 【 consult with sb. 和某人商量 】
+
+###### Must 2024-12-03
+
+- 1
+- `【 enormous 巨大的 adj 】`
+- `【 anonymous 匿名的 adj 】`
+- `【 autonomous 自主的 adj 】`
+- `【 famous 有名的 adj 】`
+- `【 infamous 臭名昭著的 adj 】`

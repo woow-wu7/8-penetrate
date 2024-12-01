@@ -69,6 +69,7 @@ prayer 祈祷 祷告 经文 n
 meditate 冥想 v
 
 soar 翱翔 v
+roar 咆哮 v
 
 Have you been busy 【 lately 】? 你最近忙吗？
 Have you been busy 【 recently 】? 你最近忙吗？

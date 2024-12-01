@@ -286,6 +286,8 @@
 -
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
 
+##### 3 **The word that must be memorized. ( 共 x 个 )**
+
 ##### material 1
 
 ```
@@ -596,6 +598,8 @@ sprinkle 洒 撒 v
 
 
 enormous 巨大的 adj
+anonymous 匿名的
+-
 【 enormous success. 巨大的成功 n 】
 【 enormous achievement. 巨大的成就 n 】
 【 enormous potential. 巨大的潜力 n 】
@@ -611,4 +615,17 @@ enormous 巨大的 adj
 pine 松树
 mist 雾 // moist = damp = humid. 潮湿的
 roar 咆哮 v
+thunder 雷n 打雷v
+alive 或者的 adj
+
+roar 咆哮 v
+soar 翱翔 v
+
+【 me neither. 我也是 】
+【 be afraid of sth. 害怕某事 】
+【 worry about. 担心 】
+
+leap 跳 v
+jump 跳 v
+jump = leap. 跳
 ```
