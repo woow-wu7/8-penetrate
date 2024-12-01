@@ -36,7 +36,7 @@
     "**/*.min.*",
     "**/*.map"
   ],
-  "todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^)\\s*($TAGS)|^//\\s*\\[x\\]|^//\\s*\\[ \\])",
+  "todo-tree.regex.regex": "((//|#|<!--|;|.|/\\*|^)\\s*($TAGS)|^//\\s*\\[x\\]|^//\\s*\\[ \\])",
   "todo-tree.general.tags": [
     "TODO",
     "MARK",
@@ -50,7 +50,8 @@
     "TIPS",
     "EE",
     "[x]",
-    "[ ]"
+    "[ ]",
+    "MT"
   ],
   "todo-tree.general.tagGroups": {
     "TODO": ["TODO", "todo"]
@@ -154,6 +155,14 @@
     "[ ]": {
       "foreground": "#f44336",
       "background": "#592c2c"
+    },
+    "MT": {
+      "foreground": "white",
+      "background": "#8800ff",
+      "type": "tag",
+      "icon": "flame",
+      "gutterIcon": true,
+      "iconColour": "#9500ff"
     }
   },
   "#################################################################################": "####### 1.todo-tree-end",
@@ -184,6 +193,7 @@
     "genpkey",
     "handprint",
     "handprints",
+    "highlightjs",
     "IELTS",
     "immer",
     "Inno",
@@ -214,6 +224,7 @@
     "USERID",
     "VARCHAR",
     "Vimium",
+    "vuepress",
     "Vuex",
     "XSTX",
     "Zhen",
@@ -253,7 +264,7 @@
   "typescript.inlayHints.enumMemberValues.enabled": true,
   "prettier.printWidth": 120,
   "git.autofetch": true,
-  "workbench.colorTheme": "Rainbow (rainglow)",
+  "workbench.colorTheme": "One Dark Pro",
   "editor.minimap.enabled": false,
   "#################################################################################": "####### 3.highlight-start",
   "highlight.regexes": {

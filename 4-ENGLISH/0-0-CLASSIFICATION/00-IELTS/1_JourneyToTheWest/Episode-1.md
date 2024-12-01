@@ -1,7 +1,9 @@
 # Journey to the west. 西游记 1
 
+##### 1 The word that must be memorized. ( 共 8 个 )
+
 - 1
-- `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake head. 摇头 】
+- `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake/shook head. 摇头 】
 - > 【 scratch an itch. 挠痒 v 】
 - > 【 scratch head. 挠头 v 】
 - > 【 shake head. 摇头 v 】
@@ -13,13 +15,13 @@
 - `【 scratch head. 挠头 v 】`
 - `【 shake head. 摇头 v 】` // ------------------ 【 shake shook. 】
 - `【 in confusion. 困惑地 adv 】` // ------------ _【 in confusion. 困惑的 adj 】_
-- **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
-- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- .MT **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+- .MT **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头 】**
 - [BB.]
 - `【 scratch an itch. 挠痒 v 】`
 - `【 scratch 挠痒v 划痕n 】`
-- **【 After 【 scratching an itch 】, he left a 【 scratch 】. 他挠痒后，留下了划痕 】**
+- .MT **【 After 【 scratching an itch 】, he left a 【 scratch 】. 他挠痒后，留下了划痕 】**
 - [CC.]
 - `【 in confusion. 疑惑地 adv 】`
 - `【 scratch head. 挠头 v 】`
@@ -31,7 +33,7 @@
 - `【 shrug shoulders. 耸肩 】`
 - `【 shrug 耸肩 v 】`
 - `【 in confusion. 困惑的 adj 】`
-- **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
+- .MT **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
 -
 -
@@ -56,27 +58,27 @@
 -
 - [AA.]
 - `【 split open. 裂开 v 】`
-- **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
+- .MT **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
 -
 - [BB.]
 - `【 split up. 分手 分开 v 】` = break up.
 - `【 split open. 裂开 v 】`
-- **【 After 【 splitting up 】 and 【 divorcing 】, he 【 split out 】. 分手并离婚后，他裂开了 】**
+- .MT **【 After 【 splitting up 】 and 【 divorcing 】, he 【 split open 】. 分手并离婚后，他裂开了 】**
 - **【 After 【 splitting up 】, he 【 split open 】. 分手后他裂开了 】**
 - **【 After 【 breaking up 】, he 【 split open 】. 分手后他裂开了 】**
 -
 - [CC.]
 - `【 marriage 结婚 n 】` // marry 结婚 v
 - `【 divorce 离婚 v n 】`
-- `【 breakup. 离婚 n 】`
-- **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
+- `【 breakup. 分手 n 】` = split up.
+- .MT **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
 - // -- be called. 被称为...
 - // -- divorce 离婚 v n
 -
 - [DD.]
 - `【 break up. 分手 v 】`
-- `【 take up. 占用 v 】`
-- **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
+- `【 take up. 占用 v 】` = occupy
+- .MT **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 -
 -
 -
@@ -85,13 +87,13 @@
 - `【 rush out of. 从...冲出去 】`
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
-- **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
-  AA.
+- .MT **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
+- AA.
 - _【 break out. 爆发 v 】_
 - _【 call out. 喊 叫 v 】_
 - _【 speak out. 大声说 v 】_
 - _【 rush out of. 从...冲出去 】_
-- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- .MT **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 - **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
 - **【 Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊 】**
 - // -- 【 instead of. 代替 替换 】
@@ -108,20 +110,23 @@
 - _【 steep slope. 陡坡 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'cliff'. [cliff-悬崖-n]
 - 【 behind 在后面，在...后面 】
-- **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
+- .MT **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
 - // -- behind 在后面，在...后面
 -
 -
 -
 - 6
 - `【 humid 潮湿的 adj 】` // ----------------- 【 humidifier 加湿器 】 【 humid weather. 潮湿的天气 】 // humid moist damp
+- `【 humidifier 加湿器 n 】`
+- `【 humidity 湿度 n 】`
 - `【 moist 潮湿的 adj 】`
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
+-
 - > humid moist damp
 - // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
-- **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
+- .MT **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 - **【 A 【 humidifier 】 can make the hot air 【 blown out by 】 the 【 air conditioner 】 become 【 humid 】. 加湿器可以让空调吹出的热风变得潮湿 】**
 - // -- below
 - // -- blow
@@ -131,7 +136,7 @@
 - 7
 - `【 take up. 占用 v  】` // ---------------- take up. = occupy. 占用
 - `【 occupy 占用 v 】`
-- **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
+- .MT **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
 -
@@ -139,23 +144,15 @@
 - _【 call out. 喊 叫 】_
 - _【 break out. 爆发 】_
 - _【 rush out of. 从...冲出去 】_
-- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
-- **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- .MT **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
+- .MT **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 - // -- 【 fall into. 掉入 v 】
 - // -- 【 conflict 冲突 n 】
--
--
--
--
-- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
-- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
-- 分割线------------------------------------------------------------------------------------------------------------------------------------------------
--
--
--
--
+
+##### 2 The word that must be memorized. ( 共 8 个 )
+
 - 1
-- `【 gather 收集 聚集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 n 】 // safety reason.
+- `【 gather 收集 聚集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
 - `【 pick 选择 挑选 摘 v 】` // ------------------ 【 carefully picked. 精心挑选 v 】
 - _【 gather fruit. 采集水果 】_
 - _【 ripe fruit. 成熟的果实 】_
@@ -166,6 +163,7 @@
 - // safety reason. 安全原因
 - // ensure safety. 确保安全
 - // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
+- .MT **【 Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术 】**
 -
 -
 -
@@ -183,32 +181,40 @@
 - _【 cooked rice. 熟米 n 】_
 - > raw material. 原材料
 - > building material. 建筑材料
+- > building structure. 建筑结构
 - > 【 construction site. 建筑工地 】
 - > 【 construction worker. 建筑工人 】
 - // common ingredient.
 - // active ingredient.
-- **【 Cooking the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
+- .MT **【 Cooking the 【 raw rice 】 to 【 cooked rice 】. 将生米煮成熟饭 】**
+-
 -
 -
 -
 -
 - 3
-- `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】 // 【 reveal the flaw. 漏出破绽 】
 - `【 generate 产生 生成 v 】` // ------------- `【 generate contradiction. 产生矛盾 】` `【 generate heat. 产生热量 】` `【 generate electricity. 发电 】`
 - `【 contradiction 矛盾 n 】` // ------------- 【 internal contradiction. 内部矛盾 】 【 social contradiction. 社会矛盾 】 【 family contradiction. 家庭矛盾 】
 - `【 conflict 矛盾 冲突 v n 】` // ------------ 【 armed conflict. 武装冲突 v 】 // arm VS armed VS army
-- _【 reveal the truth. 揭示真相 】_
-- _【 reveal the identity. 揭露身份 】_
-- _【 identify the identity. 识别身份 】_
-- > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
-- > 【 identity 身份 n 】
-- AA.
 - _【 generate contradiction. 产生矛盾 】_
 - _【 generate reaction. 产生反应 】_
 - _【 generate heat. 产生热量 】_ // ---------- 【 heat 热 热量 加热 】
 - _【 generate electricity. 发电 】_
 - _【 generator 发电机 n 】_
-- **【 It can 【 generate heat 】 when the 【 generator 】 is 【 generating electricity 】. 发电机发电时会产生热量 】**
+- .MT **【 It can 【 generate heat 】 when the 【 generator 】 is 【 generating electricity 】. 发电机发电时会产生热量 】**
+-
+-
+-
+-
+-
+-
+- 4
+- `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】
+- _【 reveal the truth. 揭示真相 】_
+- _【 reveal the identity. 揭露身份 】_
+- _【 identify the identity. 识别身份 】_
+- > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
+- > 【 identity 身份 n 】
 - BB.
 - // split VS conflict 冲突争执 // ------------ 【 split open. 裂开 】 【 split up. 分手 】 // 【 armed conflict. 武装冲突 】 【 military conflict. 武装冲突 】
 - // arm 手臂 n 武装 v
@@ -218,9 +224,8 @@
 - CC.
 - _【 evolve 发展 进化 演变 v 】_
 - _【 involve 涉及 有关 v 】_
-- **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
--
-- 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
+- .MT **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+- .MT 1. **【 This 【 report 】 【 reveals 】 how 【 family contradictions 】 were 【 generated 】. 这份报告揭示了家庭矛盾形是如何产生的 】**
 - 2. **【 They 【 exposed 】 many problems and 【 generated 】 the 【 serious 】 【 family conflicts 】. 他们在相处过程中暴露了很多问题，产生了严重的家庭矛盾 】**
 - 3. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
 - **【 He 【 revealed his flaws 】 and his 【 identity 】 was 【 revealed 】 【 as well 】. 他露出了破绽，他的身份也被揭露了 】**
@@ -229,17 +234,15 @@
 - // -- identify 识别 v
 - // -- identity 身份 n // ---------------------- _【 identity the identity. 识别身份 v 】_
 - // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v]
--
 - [AA.]
 - _【 evolve 发展 进化 演变 v 】_ // --------------- 【 evolve into. 演变成 】
 - _【 involve 涉及 有关 v 】_ // ------------------ 【 be involved in doing sth. 】 【 be involved in sth. 】
 - _【 be involved in doing sth. 涉及做某事 / 参与做某事 / 卷入做某事 】_
 - _【 be involved in sth. 涉及某事 / 参与某事 / 卷入某事 】_
-- 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+- .MT 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
 - 2. Many parts of your body 【 are involved in 】 【 digesting 】 and 【 absorbing 】 food and 【 nutrition 】. 有很多部位共同参与了食物的消化和吸收食物和营养
 - 2. Many countries 【 are involved in 】 this war. 许多国家都卷入了这场战争
 - 2.【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工
--
 - [BB.]
 - _【 arm 手臂 n 武装 v 】_
 - _【 armed 武装的 adj 】_ // --------------------- 【 armed conflict. 武装冲突 】 【 armed forces. 武装力量 】 // 【 split open. 】 【 split up. = break up. 】
@@ -251,12 +254,11 @@
 - `【 military training. 军事训练 】`
 - `【 military means. 军事手段 】`
 - `【 military shows. 军事节目 】`
-- 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
+- .MT 1. **【 【 Internal contradictions 】 and 【 social contradictions 】 have 【 evolved 】 into 【 armed conflicts 】. 内部矛盾和社会矛盾演变成了武装冲突 】**
 - 2. **【 The 【 army 】 is a type of 【 armed forces 】. 军队是一种武装力量 】**
 - 3. **【 【 Armed conflicts 】 are 【 not necessarily 】 a 【 military conflict 】. 武装冲突不一定是军事冲突 】**
 - // -- 【 evolve into. 演变成 】
 - // -- 【 not necessarily. 不一定 】
--
 - [CC.]
 - _【 not necessarily. 不一定 】_
 - _【 reveal the truth. 揭示真相 】_
@@ -265,7 +267,6 @@
 - `【 military conflict. 军事冲突 】`
 - **【 【 Revealing the truth 】 is 【 not necessarily 】 【 revealing the identity 】. 揭露真相不一定是揭露身份 】**
 - **【 【 Armed conflicts 】 are 【 not necessarily 】 a 【 military conflict 】. 武装冲突不一定是军事冲突 】**
--
 - [DD.]
 - `【 military training. 军事训练 】`
 - `【 military means. 军事手段 】`
@@ -276,10 +277,10 @@
 - **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
 -
 -
-- 4
+- 5
 - `【 magic 魔法 n / 魔术的 dj 】`
 - `【 logic 逻辑 n 】`
-- **【 【 Magic 】 has no 【 logic 】 【 at all 】. 魔法没有任何逻辑 】**
+- .MT **【 【 Magic 】 has no 【 logic 】 【 at all 】. 魔法没有任何逻辑 】**
 - // -- 【 not at all. 一点也不 】
 -
 -
@@ -317,7 +318,7 @@ I'm kind of hungry. 我有点饿
 I get kind of angry. 我有点生气
 -
 // 1. The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了
-// 1. Using 【 ropes 】 to 【 pick 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子摘成熟的果实是一种成熟的技术
+// 1. Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术
 // 1. The 【 overripe 】 fruit 【 split open 】 and 【 reveal 】 its juicy 【 flesh 】. 熟透了的水果裂开了，露出了它多汁的果肉
 // 2. He is a 【 mature 】 and 【 steady 】 people. 他是一个成熟稳重的人
 // 3. We use 【 mature technology 】 to 【 pick 】 【 ripe fruits 】. 我们用成熟的技术采摘成熟的果实

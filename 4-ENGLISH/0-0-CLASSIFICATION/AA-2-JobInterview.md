@@ -6,7 +6,7 @@
 - `【 last for. 持续 延续 v 】`
 - `【 at last. 最后 】` = in the end. = finally.
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
-- **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
+- .MT **【 【 At last 】, the meeting 【 about 】 【 whether to 】 【 laid off 】 【 entire 】 【 marketing department 】 【 lasted for 】 【 an hour of a half 】. 最后，关于是否裁掉整个市场部的会议持续了一个半小时 】**
 - **【 The 【 economic recession 】 and 【 economic crisis 】 might 【 last for 】 【 a long period of time 】. 这次经济衰退和经济危机可能持续很长时间 】**
 - // -- a long period of time. 很长一段时间
 - // -- might 可能
@@ -31,10 +31,11 @@
 - `【 dismiss 解雇 v 】` // ------------------------ 【 dismiss 解雇 v 】 // dismiss mission missile miss
 - `【 recruit 招聘 招募 v 】`
 - > 【 lay off. vs recruit 】 【 lay -> laid 】 // -- The antonym of the 'lay off' is recruit. // antonym synonym
-- **【 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工 】**
-- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- .MT **【 【 This round of 】 【 layoffs 】 【 involves 】 most employees. 这次裁员涉及大部分员工 】**
+- .MT **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - 1. **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
 - 2. **【 I was 【 laid off 】. 我被裁员了 】**
+- // -- involve 涉及 v
 - // -- software architect. 软件架构师
 - // -- experienced software architect. 经验丰富的软件架构师
 - // -- experienced 经验丰富的 adj
@@ -84,11 +85,11 @@
 - // fun fund refund found
 - _【 compensation scheme. 赔偿方案 】_
 - _【 technical scheme. 技术方案 】_
-- > 【 a large number of + 可数名词复数. 大量的 】----- 可数名词
-- > 【 a large amount of + 不可数名词. 大量的 】------- 不可数名词
-- > 【 a lot of. 许多 大量 】------------------------- 可以修饰可数名词，也可以修饰不可数名词
+- > 【 a large amount of + 不可数名词. 大量的 】 ------- 不可数名词 ----- a large amount of money.
+- > 【 a large number of + 可数名词复数. 大量的 】 ----- 可数名词 ------- a large number of students.
+- > 【 a lot of. 许多 大量 】\_ ----------------------- 可以修饰可数名词，也可以修饰不可数名词
 - // TIPS: Pay attention to the pronunciation of word 'refund'. [refund-退款-n]
-- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- .MT **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
 -
 -
@@ -100,7 +101,7 @@
 - `【 overtime pay. 加班费 】`
 - > 【 make an effort. 努力 v 】
 - > 【 make a decision. 做决定 v 】
-- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- .MT **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
 - // -- resist 抵抗 抵制 v / 防腐剂 n
 - // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
@@ -108,7 +109,7 @@
 - `【 night shift. 夜班 】` // --------------------- 【 work the night shift. 值夜班 】
 - `【 stick shift. 换挡杆 】`
 - `【 on duty. 值班 】`
-- `【 take turns. 轮流 】` // ---------------------- 【 take turns to do sth. 轮流做某事 】
+- `【 take turns. 轮流 】` // ---------------------- 【 take turns to do sth. 轮流做某事 】 // 【 take turns to work the day shift. 轮流值白班 】
 - > 【 stick 粘贴 v 棍子 n 】
 - > 【 lipstick. 口红 】
 - > 【 chopsticks. 筷子 】
@@ -126,13 +127,17 @@
 - `【 workload 工作量 】`
 - `【 workaholic 工作狂 】` // alcohol 酒精 n
 - `【 work intensity. 工作强度 n 】`
-- **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- > 【 intense competition. 激烈的竞争 】
+- > 【 cruel competition. 激烈的竞争 】
+- 【 intense 激烈的 adj 】
+- 【 intensity 强度 n 】
+- **【 We can not use 【 workload 】 to 【 measure 】 the 【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 -
 - `【 suffer from. 遭受 患上 v 】`
 - `【 encounter 遭遇 v 】`
 -
-- **【 【 Because of 】【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
+- **【 【 Because of 】 【 working overtime 】, She 【 suffered from 】 【 mental illness 】. 因为长时间的加班，她患上了精神疾病 】**
 - **【 He 【 suffered from 】 a 【 serious 】 illness. 他患上了严重的疾病 】**
 - 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 - 2. **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 【 completing 】 tasks. 助理是是辅助他人完成任务的人 】**
@@ -146,16 +151,35 @@
 -
 -
 -
+-
 - [EE.]
 - `【 exhaust 筋疲力尽v 排气管n 】`
 - `【 exhausted 筋疲力尽的 adj 】` // exhausted = burned out.
 - `【 burned out. 精疲力竭 】`
 - _【 exhaust pipe. 排气管 】_
-- 1. **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
-- 2. **【 She 【 felt 】 【 burned out 】 after the 【 race 】. 比赛过后她感到筋疲力尽 】**
+- .MT **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- **【 She 【 felt 】 【 burned out 】 after the 【 race 】. 比赛过后她感到筋疲力尽 】**
 - // -- 【 race 比赛 】
 - // -- 【 competition 比赛 竞争 】
 - // -- 【 feel -> felt 】
+-
+-
+-
+- [HH.]
+- `freelancer 自由职业者` // lance 长矛
+- `full-time job. 全职`
+- `part-time job. 兼职`
+- `odd job. 零工`
+- `temporary job. 临时工作`
+- `casual job. 临时工作` // casual pants. // casual conversation.
+- > 【 on-site. 现场的 adj 】
+- .MT **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
+- **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
+- **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
+- // -- 【 so that. 以便 因此 】
+- // -- 【 work on-site. 现场办公 】
+-
 -
 -
 - [FF.]
@@ -167,10 +191,10 @@
 - > alcohol 酒精
 - > workaholic 工作狂
 - > drunk driving. 酒驾
-- **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
+- .MT **【 【 Working overtime 】 makes people 【 exhausted 】, 【 except for 】 【 workaholics 】. 加班让人筋疲力尽，除了工作狂 】**
 - 1. **【 【 workaholics 】 usually 【 volunteer to 【 work overtime 】 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
-- 2. **【 We can not use 【 workload 】 to 【 measure 】the【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- 2. **【 We can not use 【 workload 】 to 【 measure 】 the 【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
 -
 -
 -
@@ -179,24 +203,9 @@
 - `【 voluntary 自愿的 adj 】`
 - `【 voluntarily 自愿地 adv 】`
 - _【 volunteer to do sth. 自愿做某事 】_
-- **【 【 Volunteers 】 are people who 【 volunteer to help 】 others. 自愿者是自愿帮助他人的人 】**
+- .MT **【 【 Volunteers 】 are people who 【 volunteer to help 】 others. 自愿者是自愿帮助他人的人 】**
 - 1. **【 【 workaholics 】 usually 【 volunteer to work overtime 】. 工作狂通常自愿加班 】**
 -
--
-- [HH.]
-- `freelancer 自由职业者` // lance 长矛
-- `full-time job. 全职`
-- `part-time job. 兼职`
-- `odd job. 零工`
-- `temporary job. 临时工作`
-- `casual job. 临时工作`
-- > 【 on-site. 现场的 adj 】
-- 1. **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
-- 2. **【 He decide to be a 【 freelancer 】 【 so that 】 he could have time to balance work and life. 他决定成为一位自由职业者，以便可以有时间来平衡工作和生活 】**
-- **【 He is a 【 freelancer 】. 他是一个自由职业者 】**
-- **【 【 Digital nomads 】 are 【 a kind of 】 【 freelancers 】. 数字游民是自由职业者的一种 】**
-- // -- 【 so that. 以便 因此 】
-- // -- 【 work on-site. 现场办公 】
 -
 -
 - [II.]
@@ -217,14 +226,13 @@
 - _【 product requirement. 产品需求 】_
 - _【 market demand. 市场需求 n 】_
 - _【 stimulate demand. 刺激需求 v 】_ // -------------- `【 stimulate demand. 刺激需求 】`
-- **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
-- **【 This 【 product 】 can 【 calculate 】 【 the product of 】two 【 times 】 three. 这个产品可以计算出 2 乘以 3 的乘积 】**
-- // -- product 产品 乘积 n
--
+- .MT **【 Do you think 【 whether 】 the 【 product requirement 】 is 【 reasonable 】? 你觉得这个产品需求是否合理？ 】**
 - **【 We need to 【 implement 】 【 requirement 】 【 as soon as possible 】. 我们尽快实现需求 】**
-- **【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】**
-- // -- 【 as soon as possible. 尽快 】
+- // --【 What are the 【 product 【 requirements 】 】? 产品需求是什么？ 】\*\*
 - // -- For 【 consumers 】, this is a 【 reasonable 】 price. 对消费者来说，这是一个合理的价格
+- // -- product 产品 乘积 n
+- // -- 【 as soon as possible. 尽快 】
+-
 -
 -
 - [JJ.]
@@ -233,7 +241,7 @@
 - `【 experienced 经验丰富的 adj 】`
 - > 【 architect 架构师 建筑师 n 】
 - > 【 architecture 结构 建筑学 n 】
-- **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- .MT **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - **【 I'm a front-end software 【 architect 】. 我是一名前端软件架构师 】**
 - // -- recruit 招聘 招募 v
 - // -- recruitment 招聘 招募 n
@@ -245,6 +253,7 @@
 - // 【 a experienced software architect. 一位有经验的软件架构师 】
 -
 -
+-
 - [KK.]
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历 】`
@@ -253,7 +262,7 @@
 - `【 anonymous letter. 匿名信 】` // ------------------ 【 anonymous complaint. 匿名投诉 】
 - `【 capital letter. 大写字母 】` // ------------------ 【 international capital. 国际资本 】 【 capitalist country. 资本主义国家 】 【 socialist country. 】
 - > 【 lay off. vs recruit 】// The antonym of the 'lay off' is recruit. // antonym synonym
-- 1. **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
+- .MT **【 The company 【 prepares 】 to 【 recruit 】 a 【 experienced software architect 】. 公司准备招一个经验丰富的软件架构师 】**
 - 2. **【 【 Recruitment 】 and 【 layoff 】 are two ways to control the number of 【 employee 】. 招聘和裁员是两种控制员工人数的方式 】**
 - 3. **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
 - **【 The company has 【 recruited 】 many 【 interns 】 this year. 公司今年招聘了很多实习生 】**
@@ -264,13 +273,14 @@
 - // prepare to do sth. 准备做某事
 -
 -
+-
 - [LL.]
 - `【 on-site 现场的 】`
 - `【 on line. 线上 】`
 - `【 work on-site. 现场办公 】`
 - _【 on-site interview. 现场面试 】_
 - _【 on-site training. 现场培训 】_
-- **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
+- .MT **【 Freelancer 】 don't need to 【 work on-site 】 in the 【 office 】. 自由职业者不需要在办公司现场办公**
 - **【 The sign 【 prompts 】 us to 【 work on-site 】 to resolve problems 【 promptly 】.【提示】我们【在现场工作】以【及时】解决问题 】**
 - 1. **【 We need to 【 work on-site 】 to solve problems 【 promptly 】. 我们需要在现场办公，以便及时解决问题 】**
 - 2. **【 I will have 【 an online interview 】 next monday. 我下周一有一个视频面试 】**
@@ -281,15 +291,17 @@
 - // ---- **【 This sign 【 prompted 】 us to keep quiet in the library. 这个标志提示我们在图书馆内保持安静 】**
 -
 -
+-
 - [MM.]
 - `【 proficient 熟练的 精通的 adj 】`
 - `【 proficiency 熟练 精通 n 】`
 - `【 be proficient in. 精通于 】` // be proficient in. 精通于
 - _【 development language. 开发语言 】_
 - _【 programming language. 程序语言 】_
-- **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 】**
+- .MT **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 他精通好几门编程语言，包括 Java、Python 和 JavaScript 】**
 - **【 I 【 am proficient in 】 front-end development. 】**
 - **【 I think you 【 are proficient in 】 【 back-end technology 】. 我认为你很精通后端技术 】**
+-
 -
 -
 - [NN.]
@@ -297,23 +309,39 @@
 - `【 passionate 激情的 adj 】`
 - > 【 have a passion for. 对...有激情/热情 】
 - > 【 be passionate about sth. 对...充满激情 】
-- **【 My 【 strength 】 is that I am 【 passionate about 】 my work. 我的优点是对工作充满激情 】** ---- 这种用法更多
-- **【 My 【 strength 】 is that I 【 have a passion for 】 my work. 我的优点是对工作充满激情 】**
+- .MT **【 My 【 strength 】 is that I 【 have a passion for 】 my work. 我的优点是对工作充满激情 】**
+- **【 My 【 strength 】 is that I am 【 passionate about 】 my work. 我的优点是对工作充满激情 】**
+-
 -
 -
 - [OO.]
-- `【 promotion 促进 晋升 提升 n 】`
-- `【 promote 促进 晋升 提升 v 】`
+- `【 efficiency 效率 n 】`
+- `【 efficient 有效率的 adj 】`
+- `【 experience 经验 n 】`
+- `【 experienced 有经验的 adj 】`
+- _【 work efficiency. 工作效率 】_
+- .MT **【 The leader 【 requires 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
+- **【 The leader 【 asks 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
+- // 【 require sb to do sth. 要求某人做某事 】
+- // 【 ask sb to do sth. 让某人做某事 】
+- // `【 require 要求 需要 依赖 v 】`
+- // `require sb to do sth. 要求某人做某事`
+-
+-
+-
+- [PP.]
+- `【 promotion 促进 晋升 提升 n / 促销 n 】`
+- `【 promote 促进 晋升 提升 v / 促销 v 】`
 - > 【 be promoted from xx to xx. 从...晋升为... 】
 - > 【 be promoted to. 晋升为... 】
 - > 【 get a promotion. 获得晋升 】
 - 【 promote vs prompt 】
 - 【 variable promotion 变量提升 】
-- **【 【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】. 先进的技术推动了先进工艺的发展 】**
-- 1. **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
+- .MT **【 He was 【 promoted 】 from 【 associate professor 】 to professor. 他从副教授晋升为了教授 】**
 - 1. **【 Due to / because of 】 his 【 excellent performance 】, he 【 was promoted to 】 【 be a leader 】. 】**
 - 2. **【 He is a 【 prime 】 【 candidate 】 for 【 promotion 】. 他是最有望获得晋升的人选 】**
 - 2. **【 She got a promotion. 她获得了晋升 】**
+- **【 【 Advanced technology 】 【 promotes 】 the 【 development 】 of the 【 advanced craft 】. 先进的技术推动了先进工艺的发展 】**
 - // -- 【 be promoted from xx to xx. 从...晋升为... 】
 - // -- 【 associate professor. 副教授 】
 - // -- 【 professor 教授 】
@@ -321,18 +349,6 @@
 - // -- prime 主要的
 -
 -
-- [PP.]
-- `【 efficiency 效率 n 】`
-- `【 efficient 有效率的 adj 】`
-- `【 experience 经验 n 】`
-- `【 experienced 有经验的 adj 】`
-- _【 work efficiency. 工作效率 】_
-- **【 The leader 【 requires 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
-- **【 The leader 【 asks 】 us to improve our 【 work efficiency 】. 领导要求我们提高工作效率 】**
-- // 【 require sb to do sth. 要求某人做某事 】
-- // 【 ask sb to do sth. 让某人做某事 】
-- // `【 require 要求 需要 依赖 v 】`
-- // `require sb to do sth. 要求某人做某事`
 -
 -
 - [QQ.]
@@ -1400,7 +1416,7 @@
 - BB.
 - > 【 compete 竞争 v 】
 - > 【 competition 竞争 n 】
-- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的加班 】**
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
 - **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
 - **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
 - // -- resist 抵抗 抵制 // ------------------ insist persist assist resist // 【 assess 评估 v 】
