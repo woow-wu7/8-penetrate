@@ -1,6 +1,6 @@
 ##### Journey to the west. 西游记 1
 
-##### 1 The word that must be memorized. ( 共 8 个 )
+##### 1 **The word that must be memorized. ( 共 8 个 )**
 
 - 1
 - `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake/shook head. 摇头 】
@@ -149,7 +149,7 @@
 - // -- 【 fall into. 掉入 v 】
 - // -- 【 conflict 冲突 n 】
 
-##### 2 The word that must be memorized. ( 共 8 个 )
+##### 2 **The word that must be memorized. ( 共 5 个 )**
 
 - 1
 - `【 gather 收集 聚集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
@@ -285,6 +285,8 @@
 -
 -
 - // TIPS: Pay attention to to pronunciation of the word 'journey'. [long-journey.-长途旅行-漫长旅途-n]
+
+##### material 1
 
 ```
 1.
@@ -431,7 +433,6 @@ magic 魔法 n
 logic 逻辑 n
 // 【 Magic 】 has no 【 logic 】 【 at all 】. 魔法没有任何逻辑
 
-
 swing 摆动v 秋千n
 
 mist 薄雾 n // ------------- damp = humid = moist 潮湿的 adj // 【 humidifier 加湿器 n 】
@@ -445,10 +446,6 @@ sight 视力 视线 n
 cave 山洞 n
 vase 花瓶 n
 
-
-shade 阴凉处 n
-shadow 影子 n
-【 in the shade. 在阴凉处 】
 
 splash 泼洒 v 溅在…
 bounce 弹起v 反弹v 弹力n
@@ -517,6 +514,8 @@ behalf 代表
 // as time passed. 随着时间的推移
 ```
 
+##### material 2
+
 ```
 rock 岩石 石头 摇滚
 shrugged 耸肩
@@ -556,4 +555,60 @@ scratch 划痕 挠
 We drink from it, We swim in it.
 
 shook 摇动
+```
+
+##### material 3
+
+```
+in the past. 在过去
+shot 射击 发射 v
+
+turn to. 转向 求助于 v
+// -- When I have problems, I often 【 turn to 】 my parents for advice. 当我遇到问题时，我经常向我的父母寻求建议
+
+
+south 南方 n
+southern 南方的 adj
+【 southern regin. 南部地区 】
+
+
+often 经常
+// TIPS: Pay attention to the pronunciation of the word 'often'.
+
+
+【 as time past. 随着时间流逝 】
+as 随着 因为 作为 当...时
+
+
+shade 阴凉处 n
+shadow 影子 阴影 n
+【 in the shade. 在阴凉处 】
+【 shadow boxing. 太极拳 】
+// -- The sun is very hot, we need to walk in the shade. 大太阳天，我们需要在阴凉处行走
+
+
+cool 酷的 凉的 adj
+-
+splash 溅 溅湿 v
+sprinkle 洒 撒 v
+【 sprinkler truck. 洒水车 】
+【 garbage truck. 垃圾车 】
+
+
+enormous 巨大的 adj
+【 enormous success. 巨大的成功 n 】
+【 enormous achievement. 巨大的成就 n 】
+【 enormous potential. 巨大的潜力 n 】
+-
+// enormous potential. 巨大的潜力
+// inspire potential. 激发潜能
+// potential customer. 潜在客户
+-
+// TIPS: Pay attention to the pronunciation of the word 'enormous'. [enormous-巨大的-adj]
+// -- You can find 【 an enormous amount of 】 【 information 】 on the internet. 你可以在互联网上找到大量的信息
+// -- The little girl was shocked by the 【 enormous 】 dog. 小女孩被这只巨大的狗震惊了
+
+pine 松树
+mist 雾 // moist = damp = humid. 潮湿的
+roar 咆哮 v
 ```

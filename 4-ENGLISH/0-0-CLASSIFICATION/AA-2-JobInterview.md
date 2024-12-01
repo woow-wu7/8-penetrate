@@ -501,7 +501,7 @@
 - [XX.]
 - `【 ask for leave. 请假 】`
 - `【 ask for 【 sick 】 leave. 请病假 】`
-- `【 ask for 【 personal 】 leave. 请事假 】`
+- `【 ask for 【 personal 】 leave. 请事假 】` // personal / interpersonal / personnel / personality
 - `【 leave 离开v 休假n 】`
 - `【 leaves 叶子 -> leaf/leaves 】`
 - `【 vacation 假期 】` ----- 美式英语
@@ -549,13 +549,15 @@
 -
 - [ZZ.]
 - `【 colleague 同事 】`
-- `【 college 学院 大学 】`
+- `【 coworker 同事 】`
+- `【 college 学院 大学 】` = university
 - **【 My 【 colleague 】 is my 【 college 】 【 classmate 】. 我同事是我大学同学 】**
 -
 -
 - [LL.]
-- `【 fair 公平的 公正的 adj 】`
-- `【 intense 激烈的 强烈的 adj 】`
+- `【 fair 公平的 公正的 adj 】` // fair VS fairy
+- `【 fairy 仙女 n 】`
+- `【 intense 激烈的 强烈的 adj 】` // intense VS intensity
 - `【 cruel 残忍的 残酷的 adj 】`
 - `【 manifestation. 表现 n 】`
 - _【 fair competition. 公平的竞争 】_
@@ -569,6 +571,7 @@
 -
 - [MM.]
 - `【 conflict 冲突v 争执n 】`
+- `【 military conflict. 军事冲突 】`
 - _【 have a conflict with sb. 和某人发生冲突 】_
 - **【 【 What would you do 】 if you 【 had a conflict with 】 the backend engineer? 如果你和后端工程师发生冲突，你会怎么处理？ 】**
 - // -- 【 have a conflict with sb. 和某人发生冲突 】
@@ -584,7 +587,7 @@
 - // 【 personality 性格 】
 - // 【 character 性格 】
 - // 【 habit 习惯 】
-- // 【 destiny 命运 】
+- // 【 destiny 命运 】= fate
 - // 【 hobby 爱好 】
 - // -
 - // mistake 错误
@@ -606,7 +609,8 @@
 - `【 technology department. 技术部 】`
 - `【 procurement department. 采购部 】` // procure 采购 v
 - `【 finance department. 财务部 】`
-- `【 accountant 会计 n 】` // accountant account
+- `【 personnel department. 人事部 】` // personnel director. 人事总监
+- `【 accountant 会计 n 】` // accountant account count counter discount encounter
 -
 - 12 [EXPAND]
 - `【 lay off. 裁员 = layoff 】`
@@ -1589,11 +1593,6 @@
 - `【 patiently 耐心地 adv 】`
 - **【 Please wait 【 for a while 】. 请稍等 】**
 - **【 Please wait 【 patiently 】. 请耐心稍等 】**
--
--
--
-- 4
--
 
 ##### (3) **Some questions that must be asked.**
 
@@ -1713,7 +1712,7 @@ His main 【 accomplishment / achievement 】has 【 accomplished 】 the compan
 
 
 3.
-What's your biggest weakness?
+What's your biggest weakness?  // weakness/disadvantage/drawback缺点/shortcoming短处缺点    // outcome结果 // eventual outcome. 最终结果
 What's your biggest strength?
 What's your 【 advantage 】?
 What are your strengths and weaknesses?
@@ -1918,9 +1917,11 @@ Can you tell me about the 【 benefits 】 you 【 offer 】? 你能告诉我你
 
 12.
 Please answer this question in 【 concise 】 language. 请用简洁的语言回答这个问题
+Please answer this question in 【 brief 】 and 【 concise 】 language. 请用简洁的语言回答这个问题
 Please answer this question 【 concisely 】
 // -
 // -- concise 简洁的 adj
+// -- brief 简短的 adj
 // -
 // -- He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript.
 // -- be proficient in. 精通于...
@@ -2904,7 +2905,7 @@ immigrate 移民
 - // -- `follow 跟随 v`
 - // -- `following 下列的 adj`
 - // 3
-- // `take up. 占用` // ------ `How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】`
+- // `take up. 占用 = occupy` // ------ `How much 【 disk space 】 will it 【 take up 】. 这会【占用】多少【磁盘空间】`
 - // pick up. 捡起 接人
 - // pull up. 停车
 - // speed up. 加速

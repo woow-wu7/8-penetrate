@@ -32,10 +32,9 @@
 -
 - 2
 - `【 orbit 轨道 n 】`
-- `【 track 轨道 n / 追踪 v 】`
+- `【 track 轨道 n / 追踪 v 】` // --------------- 【 track the trace. 追踪痕迹 v 】
 - `【 trace 痕迹 n / 追踪 v 】`
-- > 【 track 轨道 n / 追踪 v 】 ------------------ 【 garbage truck. 垃圾车 】
-- > 【 truck 卡车 】
+- `【 truck 卡车 】` // ------------------------- 【 garbage truck. 垃圾车 】 【 sprinkler truck. 洒水车 】
 - **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 trucks 】. 这个仪器可以追踪卡车留下的痕迹 】**
 - // -- 【 instrument 乐器 仪器 仪表 n 】
 - // -- 【 equipment 装备 设备 n 】

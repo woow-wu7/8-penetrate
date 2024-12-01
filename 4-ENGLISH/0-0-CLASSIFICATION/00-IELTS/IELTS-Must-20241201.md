@@ -11,7 +11,9 @@
 - > 【 high speed rail. 高铁 n 】 ------------- 【 high speed railway. 高铁 】 // 【 high way. 高速公路 】
 - > 【 handrail 扶手 n 】 // ------------------ 【 handle 把手 v 处理 】 // handle/handrail/handprint/handbag/handgun/hand grenade.
 - > 【 monorail 单轨电车 n 】 // --------------- 【 mono 单声道的 adj 】
-- 【 track 轨道 n / 追踪 v 】 // --------------- 【 track / trace / trail 】
+- 【 track 轨道 n / 追踪 v 】 // --------------- _【 track the trace. 追踪痕迹 】_
+- 【 trace 痕迹 n / 追踪 v 】
+- 【 truck 卡车 】 // ------------------------- _【 garbage truck. 垃圾车 】_ _【 sprinkler truck. 洒水车 】_ // 【 track / trace / trail 】
 - .MT **【 There are 【 railings 】 【 around 】 the 【 rail 】. 铁路周围有栏杆 】**
 - .MT **【 Are you 【 familiar with 】 the streets 【 around here 】 ? 你熟悉这附近的街道吗？ 】**
 - // -- around 在...周围 附近 adv prep
@@ -52,6 +54,7 @@
 - > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
 - > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track the trace. 追踪痕迹 】
 - > 【 trace 追踪 v 跟踪 v 痕迹 n 】
+- > 【 truck 卡车 】// -------------------------- _【 garbage truck. 垃圾车 】_ _【 sprinkler truck. 洒水车 】_
 - .MT **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
 - **【 He is 【 tracking 】 a 【 deer 】 on the 【 trail 】. 他正在小路上跟踪一头鹿 】**
 - // -- instrument 仪器 仪表 n

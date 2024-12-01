@@ -790,6 +790,7 @@
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】 // 【 trace 追踪 v / 痕迹 n 】
 - > 【 track 追踪 v / 轨道 n 】
 - > 【 trace 追踪 v / 痕迹 n 】
+- > 【 truck 卡车 】 // --------------------------- 【 garbage truck. 垃圾车 】 【 sprinkler truck. 洒水车 】
 - > 【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 truck 】. 这仪器能追踪卡车留下的痕迹 】
 - _【 fall back. 后退 撤退 v 】_
 - _【 fall back. = retreat. 撤退 】_

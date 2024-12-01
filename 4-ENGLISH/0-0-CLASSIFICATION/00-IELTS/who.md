@@ -244,9 +244,19 @@ status 身份 状态 地位 n
 - `【 track 追踪v 轨道n 】`
 - `【 trace 追踪 足迹 n 】`
 - `【 truck 卡车 】`
-- > 【 rail 铁路 】
+- _【 trial / trail / rail 】_
+- > 【 rail 铁路 栏杆 】 // railing 栏杆
 - > 【 railway. 铁路 】
 - > 【 high speed rail. 高速列车 】
+- > 【 high way. = free way. 高速公路 】
+- handrail 扶手
+- handle 处理 把手
+- hand in
+- hand in hand.
+- handbag.
+- handprint. // lip print. // lip stick. // stick shift. // day shift. // work the day shift. 值白班
+- wave hand. 挥手
+- shake hand. 握手
 
 ##### 2024-11-26
 
@@ -255,3 +265,29 @@ status 身份 状态 地位 n
 - **【 come with. 附带 】**
 - **【 comply with. 遵守 】**
 - **【 demand/requirement/needs. 提出 】**
+
+##### ------------------- -------------------
+
+##### 2024-12-01
+
+- 1
+- `【 proficient 熟练的 精通的 adj 】`
+- > 【 be proficient in. 熟练的 精通的 adj 】
+-
+- 2
+- `【 trial period. 试用期 】`
+- `【 warranty period. 保修期 】`
+- `【 validity period. 有效期 】`
+- `【 internship period. 实习期 】`
+- `【 shelf life. 保质期 】`
+- _【 expiration time. 过期时间 】_
+- _【 out of date. 过时的 adj 】_
+- > 【 invalid 失效的 adj 】
+- > 【 valid 有效的 adj】
+-
+- 3
+- `insurance. 保险 n`
+- `【 social security. 社保 n 】`
+- `【 social contradiction. 社会矛盾 n 】`
+- `【 socialist country. 社会主义国家 n 】`
+- `【 capitalist country.资本主义国家 n 】`
