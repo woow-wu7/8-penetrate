@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>删除字符串中的所有相邻重复项</title>
   </head>
   <body>
     <script>
@@ -38,11 +38,11 @@
         const stack = []; // 栈 后进先出 push pop
 
         for (let i = 0; i < s.length; i++) {
-          if (stack.at(-1) === s[i]) {
-            stack.pop(); // 重复 出栈
-          } else {
-            stack.push(s[i]); // 没重复 入栈
-          }
+          const cur = stack[i];
+          const top = stack.at(-1);
+
+          if (cur !== top) stack.push(s[i]); // 没重复 入栈
+          else stack.pop(); // 重复 出栈
         }
 
         return stack.join(""); // array2string

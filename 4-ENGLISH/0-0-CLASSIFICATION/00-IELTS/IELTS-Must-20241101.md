@@ -1127,6 +1127,7 @@
 - `【 in advance. 提前 adv 】`
 - `【 in depth. 深入地 adv 】`
 - `【 in detail. 详细地 adv 】`
+- `【 in earnest. 认真地 adv 】`
 - _【 one by one. 依次地 adv 】_ = in turn.
 -
 - `【 in public. 公开地 adv 】`
@@ -1148,9 +1149,14 @@
 - `【 in fact. 事实上 adv 】`
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
-- `【 in confusion. 疑惑地 adv 】`
+- _【 in confusion. 疑惑地 adv 】_
 - > 【 looked confused. 看上去很疑惑 】
+- .MT **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+- .MT **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 The students 【 looked confused 】. 学生们看上去一脸困惑 】**
+-
+- _【 in earnest. 认真地 adv 】_
+- **【 We discussed this topic 【 in earnest 】. 我们认真的讨论了这个话题 】**
 -
 -
 - `【 on purpose. 故意地 adv 】`

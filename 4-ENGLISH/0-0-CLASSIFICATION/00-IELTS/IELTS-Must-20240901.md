@@ -188,12 +188,12 @@
 - `【 friendship 友情 友谊 n 】`
 - `【 leadership 领导力 n 】`
 - `【 spaceship 宇宙飞船 】` // ----------- 【 spaceman 宇航员 n 】
+- > 【 interpersonal relationship. 人际关系 n 】 // personnel personal interpersonal personality
 - > 【 stable relationship. 稳定的关系 n 】
 - > 【 steady relationship. 稳定的关系 n 】
 - > 【 physical relationship. 肉体关系 n 】
-- _【 romantic relationship. 恋爱关系 n 】_
+- > 【 romantic relationship. 恋爱关系 n 】
 - > 【 cooperative relationship. 合作关系 n 】
-- > 【 personnel relationship. 人际关系 n 】
 - // 【 establish the cooperative relationship. 建立合作关系 】 // cooperate cooperation cooperative
 - // 【 establish the romantic relationship. 确立了恋爱关系 】
 - // -------
@@ -791,9 +791,12 @@
 - > 【 track 追踪 v / 轨道 n 】
 - > 【 trace 追踪 v / 痕迹 n 】
 - > 【 truck 卡车 】 // --------------------------- 【 garbage truck. 垃圾车 】 【 sprinkler truck. 洒水车 】
-- > 【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 truck 】. 这仪器能追踪卡车留下的痕迹 】
+- > 【 stuck 卡住 困住 陷于 v 】 // ---------------- 【 get stuck in. 陷入 】
 - _【 fall back. 后退 撤退 v 】_
 - _【 fall back. = retreat. 撤退 】_
+- .MT **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 left by 【 truck 】. 这仪器能追踪卡车留下的痕迹 】**
+- **【 My screen is stuck. 我的屏幕卡住了 】**
+-
 -
 - `【 feedback 反馈 n 】` // ---------------------- 【 feedback in time. 及时反馈 】 【 give feedback on. 反馈... 】
 - `【 kickback 回扣 n 】` // ---------------------- 【 take kickback. 收取回扣 】

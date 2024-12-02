@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>有效括号</title>
+    <title>有效括号 Valid brackets.</title>
   </head>
   <body>
     <script>
-      // 20. Valid Parentheses
+      // 20. Valid Parentheses / Effective brackets
       // 20. 有效的括号
 
       // 题目
@@ -19,7 +19,13 @@
       // - 左括号必须以正确的顺序闭合。
       // - 每个右括号都有一个对应的相同类型的左括号。
 
-      // 思路：栈
+      // 思路：栈 stack
+      // - stack / track / trace / truck
+      // - 【 garbage truck. 垃圾车 】
+      // - 【 sprinkler truck. 洒水车 】
+      // 0
+      // - sprinkle 洒 v
+      // - splash 泼洒 溅 v
 
       // 解析
       // 一共有几种情况，我们以 () [] 为例
@@ -52,8 +58,19 @@
       // -
       // - Parentheses 小括号 圆括号
       // - determine 决定 确定 v
+      // 0
       // -【 bracket 括号 】
-      // -
+      // -【 round brackets. 小括号 n 】
+      // -【 square brackets. 中括号 n 】
+      // -【 curly brackets. 大括号 】
+      // 0
+      // - comma 逗号
+      // - period 句号 时期
+      // - single quotation marks. 单引号
+      // - double quotation marks. 双引号
+      // - question mark. 问号
+      // - exclamation mark. 感叹号
+      // 0
       // -【 heap 堆 】
       // -【 stack 栈 】
       // - tech stack. 技术栈
@@ -88,7 +105,7 @@
           else return false;
         }
 
-        // 最后栈必须为空 才为 true
+        // 最后 栈必须为空 才为 true
         // return stack.length === 0;
         return !stack.length;
       };

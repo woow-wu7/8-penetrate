@@ -36,6 +36,7 @@
 - 1. **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
 - 2. **【 I was 【 laid off 】. 我被裁员了 】**
 - // -- involve 涉及 v
+- // -- architect 建筑师 设计者 n
 - // -- software architect. 软件架构师
 - // -- experienced software architect. 经验丰富的软件架构师
 - // -- experienced 经验丰富的 adj
@@ -83,11 +84,15 @@
 - `【 refund 退款 退还 v n 】`
 - `【 repay 报答 v 】`
 - // fun fund refund found
+- // pay back. 偿还 归还 v
+- // pay off. 还清 v
+- // repay 报答 v
+- _【 scheme 方案 n 】_
 - _【 compensation scheme. 赔偿方案 】_
 - _【 technical scheme. 技术方案 】_
 - > 【 a large amount of + 不可数名词. 大量的 】 ------- 不可数名词 ----- a large amount of money.
 - > 【 a large number of + 可数名词复数. 大量的 】 ----- 可数名词 ------- a large number of students.
-- > 【 a lot of. 许多 大量 】\_ ----------------------- 可以修饰可数名词，也可以修饰不可数名词
+- > 【 a lot of. 许多 大量 】 ------------------------ 可以修饰可数名词，也可以修饰不可数名词
 - // TIPS: Pay attention to the pronunciation of word 'refund'. [refund-退款-n]
 - .MT **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
@@ -99,6 +104,7 @@
 - `【 work overtime 加班 】`
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
+- `【 work out. = exercise 锻炼  v 】`
 - > 【 make an effort. 努力 v 】
 - > 【 make a decision. 做决定 v 】
 - .MT **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
@@ -116,12 +122,12 @@
 - > 【 walking stick. 拐杖 n 】
 - > 【 selfie stick. 自拍杆 n 】
 - > 【 a stick of incense. 一根香 】
-- **【 He and I 【 take turns 】 to 【 work the day shift 】 and 【 work the night shift 】. 他和我轮流值白班和夜班 】**
+- .MT **【 He and I 【 take turns 】 to 【 work the day shift 】 and 【 work the night shift 】. 他和我轮流值白班和夜班 】**
 - **【 Let's 【 take turns to 】 answer this question. 让我们轮流回答这个问题 】**
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
-- **【 You need to【 work out 】 after 【 working overtime 】. 加班后需要锻炼 】**
+- .MT **【 You need to【 work out 】 after 【 working overtime 】. 加班后需要锻炼 】**
 - **【 working out 】 is helping for both 【 mental health 】 and 【 physical heath 】. 锻炼有助于心理健康和生理健康**
 -
 - `【 workload 工作量 】`
@@ -195,6 +201,9 @@
 - 1. **【 【 workaholics 】 usually 【 volunteer to 【 work overtime 】 】. 工作狂通常自愿加班 】**
 - 1. **【 【 Workaholics 】 usually 【 work overtime 】 【 voluntarily 】. 工作狂一般都自愿加班 】**
 - 2. **【 We can not use 【 workload 】 to 【 measure 】 the 【 work ability 】 of the【 workaholics 】. 不能用工作量来衡量工作狂的工作能力 】**
+- // -- exhausted 精疲力劲的 adj
+- // -- exhaust 耗尽 v 排气管 n
+- // --【 exhaust pipe. 排气管 n 】
 -
 -
 -
@@ -256,7 +265,7 @@
 -
 - [KK.]
 - `【 recruit 招聘 招募 v 】`
-- `【 resume 简历 】`
+- `【 resume 简历n 从新开始v 】`
 - `【 cover letter. 求职信 】`
 - `【 resignation letter. 离职信 】` // ---------------- 【 resignation application. 离职申请 】
 - `【 anonymous letter. 匿名信 】` // ------------------ 【 anonymous complaint. 匿名投诉 】
@@ -369,7 +378,7 @@
 - // `brag 吹嘘`
 - > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - .MT **【 He is a 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他一个非常谦虚的人，从来不炫耀自己的成就 】**
-- .MT **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】**
+- .MT **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】** // flaunt 
 - .MT **【 He is a 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - .MT **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
 - .MT **【 He is a 【 sensitive 】 person who easily 【 complains 】 about others. 她是一个敏感的人，很容易抱怨他人 】**

@@ -735,10 +735,11 @@
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
+- // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹词-n]
 - AA.
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
-- **【 Her 【 curly hair 】 【 looks like 】 many 【 curly brackets 】. 她的卷发像很多大括号 】**
+- .MT **【 Her 【 curly hair 】 【 looks like 】 many 【 curly brackets 】. 她的卷发像很多大括号 】**
 - **【 The shape of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
 - // -- 【 look like. 看起来像 】
 - BB.

@@ -291,3 +291,22 @@ status 身份 状态 地位 n
 - `【 social contradiction. 社会矛盾 n 】`
 - `【 socialist country. 社会主义国家 n 】`
 - `【 capitalist country.资本主义国家 n 】`
+
+##### 2024-12-02
+
+- 1
+- `【 professional 专业的adj 职业的 adj 】`
+- `【 profession 职业 专业 n 】` = major
+- `【 professor 教授 】`
+- `【 specialist 专家 】` = expert
+- `【 specialize 专攻 】` // specialize in.
+- `【 special 特别的 adj 】`
+- > 【 professional knowledge. 专业知识 n 】
+- > 【 acknowledge drawbacks. 承认缺点 】
+- > drawback VS shortcoming VS weakness VS disadvantage
+- _【 be rich in. 富含 】_
+- // TIPS: Pay attention to pronunciation of the word 'profession' [profession-职业-专业-n]
+- .MT **【 I 【 acknowledge 】 that your have rich 【 knowledge 】. 我承认你知识丰富 】**
+- .MT **【 Both the 【 egg white 】 and the 【 egg yolk 】 of eggs 【 are rich in 】 【 abundant 】 【 protein 】. 鸡蛋的蛋白和蛋黄都富含丰富的蛋白质 】**
+- // -- yolk 蛋黄
+- // -- abundant 丰富的

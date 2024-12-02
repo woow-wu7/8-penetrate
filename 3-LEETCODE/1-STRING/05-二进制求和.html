@@ -63,6 +63,7 @@
         while (ai >= 0 || bi >= 0) {
           // 1. 这里可以换成 a[ai] ?? 0，并且在 sum 时转换类型 number[a[ai]]
           // 2. 注意这里不能是:
+          // --- 不能是: a[ai] = Number(a[ai]) ?? 0;
           // --- 不能是: a[ai] = a[ai] ? Number(a[ai]) : 0;
           // --- 必须: const va = a[ai] ? Number(a[ai]) : 0;
           const va = a[ai] ? Number(a[ai]) : 0;

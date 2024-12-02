@@ -298,9 +298,13 @@
 - // struck 打 撞击
 - // truck 卡车
 - // -
-- // stuck 陷入 ------ get stuck in.
-- // stock 股票 ------ stock market.
-- // stack 栈 -------- tech stack.
+- // stuck 陷入 -------------------- get stuck in.
+- // stock 股票 -------------------- stock market.
+- // stack 栈 ---------------------- tech stack.
+- // 0
+- // truck 卡车 ------------------- garbage truck. // sprinkler truck.
+- // track 跟踪 v 轨道 n ----------- track the trace.
+- // trace 跟踪 v 痕迹 n
 -
 -
 -

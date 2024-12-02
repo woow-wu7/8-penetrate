@@ -29,6 +29,7 @@
       // -- long 长的
       // -- longer
       // -- longest
+      // -- 【 which one is 【 longest 】 【 among 】 these three ropes? 】
       // -
       // -- accumulate 积累 累积
       // -- accumulator 累积器
@@ -84,11 +85,7 @@
           for (let i = 0; i < prev.length; i++) {
             for (let j = 0; j < current.length; j++) {
               let res = "";
-              for (
-                let k = 0;
-                k < Math.min(prev.length - i, current.length - j);
-                k++
-              ) {
+              for (let k = 0; k < Math.min(prev.length - i, current.length - j); k++) {
                 if (prev[i + k] === current[j + k]) {
                   res = res.concat(prev[i + k]);
                   if (res.length > result.length) result = res;

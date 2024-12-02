@@ -143,6 +143,7 @@
 - `【 assistant 助手 助理 n 】`
 - `【 steward 乘务员 空少 n 】` // ---------------- 【 stewardess 空姐 】
 - `【 waiter 服务员 n 】` // --------------------- 【 waitress 女服务员 】
+- `【 servant 仆人 n 】`
 -
 - `【 actor 男演员 】` --------------------------- 【 actress 女演员 n 】
 - `【 headmaster 难校长 】` ---------------------- 【 headmistress 女校长 n 】
@@ -186,8 +187,72 @@
 ###### Must 2024-12-03
 
 - 1
-- `【 enormous 巨大的 adj 】`
-- `【 anonymous 匿名的 adj 】`
-- `【 autonomous 自主的 adj 】`
+- `【 enormous 巨大的 adj 】` // ---------------- 【 enormous success. 巨大的成功 】 【 enormous achievement. 巨大的成就 】 【 enormous potential. 巨大的潜力 】
+- `【 anonymous 匿名的 adj 】` // --------------- 【 anonymous letter. 匿名信 】【 anonymous voting. 匿名投票 】 【 anonymously complain. 匿名投诉 】
+- `【 autonomous 自主的 自治的 adj 】` // -------- 【 autonomous regin. 自治区 】 // 【 autonomous driving technology. 自动驾驶技术 = self-driving technology. 】
 - `【 famous 有名的 adj 】`
 - `【 infamous 臭名昭著的 adj 】`
+- > 【 enormous success. 巨大的成功 】
+- > 【 enormous achievement. 巨大的成就 】
+- > 【 enormous potential. 巨大的潜力 】
+- _【 autonomous regin. 自治区 】_
+- _【 autonomous driving technology. 自动驾驶技术 】_
+- _【 self-driving technology. 自动驾驶技术 】_
+- > 【 anonymous letter. 匿名信 】
+- > 【 anonymous voting system. 匿名投票系统 n 】
+- > 【 anonymously complain. 匿名投诉 v 】
+- // autonomous 自主的 自治的 adj
+- // automatic 自动的 adj
+-
+- [AA.]
+- `【 autonomous region. 自治区 n 】`
+- `【 autonomous driving technology. 自动驾驶技术 n 】`
+- .MT **【 The vehicles 【 in 】 this 【 autonomous region 】 all used 【 autonomous driving technology 】. 这个自治区的车辆都使用了自动驾驶技术 】**
+- // -- 注意: 这里用的是 in，不用 of
+- // -- autonomous driving technology. = self-driving technology. 自动驾驶技术
+-
+- [BB.]
+- `【 enormous achievement. 巨大的成就 n 】`
+- `【 anonymous voting system. 匿名投票系统 n 】`
+- .MT **【 His 【 enormous achievement 】 is that he 【 invented 】 the 【 anonymous voting system 】. 他的巨大成就是他发明了匿名投票系统 】**
+- // -- vent 发泄 v 通风口 n
+- // -- invent 发明 ------------------ invent excuse. 编造借口
+- // -- inventory 库存 --------------- inventory list. 库存清单
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 earn 赚钱 v 】`
+- `【 earnest 认真的 adj  认真 n 】` // ------------- 【 in earnest. 认真地 】
+- > 【 earth 地球 n 】`
+- > 【 ear 耳朵 n 】`
+- > 【 bear 熊 n 忍受 v 】`
+- // TIPS: Pay attention to the pronunciation of the word 'ear'.
+-
+- [AA.]
+- `【 in earnest. 认真地 adv 】`
+- .MT **【 We discussed this topic 【 in earnest 】. 我们认真的讨论了这个话题 】**
+
+###### Must 2024-12-04
+
+- 1
+- `【 accent 口音 n  】`
+- `【 decent 体面的 adj 】`
+- `【 adjacent 相邻的 adj 】`
+- `【 scent 气味 】`
+-
+-
+-
+- `【 accent 口音 n 】` // ------- 【 heavy accent. 重口音 】 【 light accent. 轻口音 】 【 a heavy foreign accent. 很重的外国口音 】
+- `【 pronunciation 发音 n 】` // -【 poor pronunciation. 糟糕的发音 】 // 【 pronounce 发音 v 】 【 pronunciation 发音 n 】
+- `【 tone 语气 音调 n 】` // ----- 【 tongue 舌头 】 【 tone 音调 语调 n 】
+- > 【 heavy accent. 重口音 】
+- > 【 light accent. 轻口音 】
+- > 【 a heavy foreign accent. 很重的外国口音 】
+- > The opposite of the word 'heavy' is 'light'.
+- > 【 high pitch. 高音 】
+- > 【 low pitch. 低音 】
