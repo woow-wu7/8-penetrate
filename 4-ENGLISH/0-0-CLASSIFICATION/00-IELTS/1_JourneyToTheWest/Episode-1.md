@@ -156,6 +156,7 @@
 - `【 pick 选择 挑选 摘 v 】` // ------------------ 【 carefully picked. 精心挑选 v 】
 - _【 gather fruit. 采集水果 】_
 - _【 ripe fruit. 成熟的果实 】_
+- _【 gather around. 聚集起来 】_
 - > 【 pick up. 捡起 v / 接人 v 】
 - > 【 pick out. 挑选出 v 】
 - // ripe VS rope

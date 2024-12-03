@@ -378,7 +378,7 @@
 - // `brag 吹嘘`
 - > modest / low-key / generous / show off / flaunt / wealth health / accomplishment achievement / donate money.
 - .MT **【 He is a 【 modest 】 person who never 【 shows off 】 his 【 accomplishments 】. 他一个非常谦虚的人，从来不炫耀自己的成就 】**
-- .MT **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】** // flaunt 
+- .MT **【 He is a 【 low-key 】 person who never 【 flaunts 】 his 【 wealth 】. 他是一个低调的人，从来不炫富 】** // flaunt
 - .MT **【 He is a 【 generous 】 person who often 【 donates 】 money to the poor. 他是一个非常慷慨的人，经常给穷人捐款 】**
 - .MT **【 He is a 【 serious 】 person who 【 is strict with 】 his students. 他是一个严格的人，对自己的学生要求很严格 】**
 - .MT **【 He is a 【 sensitive 】 person who easily 【 complains 】 about others. 她是一个敏感的人，很容易抱怨他人 】**
@@ -2150,7 +2150,7 @@ In terms of user data: It can collect user online duration, physical device info
 // operational 操作的 adj
 ```
 
-```222222222 / Whole / Important
+```java 222222222 / Whole / Important
 ------- ------- ------- ------- ------- ------- -------
 
 
@@ -2894,7 +2894,7 @@ immigrate 移民
 - `diverse 多样的 不同的 adj`
 - **【 A 【 diverse 】 team can 【 cooperate 】 with each other and achieve a 【 common 】 goal. 多元化的团队可以相互协作，实现共同目标 】**
 
-##### Starting
+##### Other
 
 - 1
 - `small talk. 闲聊`
@@ -3139,3 +3139,22 @@ immigrate 移民
 -
 - `supervise 监督 指导`
 - // How do you supervise this? 你怎样监督呢？
+
+##### new 2024-12-03
+
+```
+in a number of ways. 多种方式
+// -- We can solve this problem 【 in a number of ways 】. 我们可以用多种方式解决这个问题
+
+outgoing 爱交际的 adj
+
+boastful 自吹自擂的 adj
+
+long-range 长期的 adj
+
+motivate 激励 v
+Self-motivated. 自我激励的 adj
+
+regardless of. 不管
+// 【 Regardless of 】 what others say, I still believe you. 不管别人说什么，我仍然相信你
+```

@@ -726,11 +726,12 @@
 - `【 comma 逗号 n 】` // --------------------------------------- 【 TV drama. = TV series. 电视剧 】 // 【 TV program. 电视节目 】
 - `【 period 句号 n 】` = full stop. // ------------------------- 【 period [一段时间] [句号] 】 // a period of time. // warranty period. 保修期
 - `【 full stop. 句号 n 】` = period.
+- _【 mark 标记 记号 分数 n 】_
 - `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
 - `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】`
 - `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
 - `【 double quotation marks. 双引号 n 】`
-- `【 brackets 括号 n 】`
+- _【 brackets 括号 n 】_
 - `【 round brackets. 小括号 n 】` // ---------------------------- 【 this round of. 这一轮的 】 // This round of layoffs.
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】

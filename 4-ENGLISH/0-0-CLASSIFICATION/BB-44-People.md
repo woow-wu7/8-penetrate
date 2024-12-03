@@ -5,20 +5,28 @@
 - `【 kindergarten 幼儿园 】`
 - > 【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】
 -
+- `【 junior school. 小学 】`
+- `【 primary school. 小学 】` // ------------------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
+- `【 elementary school. 小学 】`
+- _【 primary school. 小学 】_
+- _【 primary source. 主要来源 】_
+-
 - `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】 // **【 primary election. 初选 】**
 - `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
 - `【 university 大学 】`
-- `【 college 学院 大学 】`
+- `【 college 学院 大学 】` // ----------------------- colleague = coworker.
 -
 - `【 middle school. 中学 】`
 - `【 high school. 高中 】`
 -
 - [小学]
 - `【 junior school. 小学 】`
-- `【 primary school. 小学 】` // ------------------- 【 primary source. 初选 】 【 primary school. 小学 】 // 【 elect / election 】
+- `【 primary school. 小学 】` // ------------------- 【 primary source. 主要来源 】 【 primary school. 小学 】 // 【 elect / election 】
 - `【 elementary school. 小学 】`
+- _【 primary school. 小学 】_
+- _【 primary source. 主要来源 】_
 - > 【 Grade One in primary school. 小学一年级 】 // -- 注意 Grade 和 One 都要大写
 - > 【 Grade Two in primary school. 小学二年级 】// --- 注意 Grade 和 One 都要大写
 - > 【 He is a 【 Grade One 】 student 【 in 】 【 primary school 】. 他是小学一年级学生 】
@@ -40,7 +48,7 @@
 - > 【 junior 大三学生 】 // ----- 年少的 下级的
 - > 【 senior 大四学生 】// ------ 年长的 资深的
 - _【 college 大学 学院 n 】_
-- _【 colleague 同事 n 】_
+- _【 colleague 同事 n = coworker. 】_
 - // TIPS: Pay attention to the pronunciation of the word 'fresh'.
 -
 - [中专]
@@ -58,7 +66,18 @@
 -
 - [其他]
 - `【 academic performance. 学习成绩 】`
-- _【 academic research. 学术研究 】_
+- `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
+- `【 math score. 数学成绩 】`
+- _【 full marks. 满分 】_
+- _【 question mark. 问号 】_
+- _【 single quotation mark. 单引号 】_
+- _【 double quotation mark. 双引号 】_
+- _【 round brackets. 小括号 】_
+- _【 square brackets. 中括号 】_
+- _【 curly brackets. 大括号 】_
+- [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
+- > 【 academic performance. 学习成绩 】
+- > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
