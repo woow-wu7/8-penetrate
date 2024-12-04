@@ -4,6 +4,7 @@
 
 - `【 kindergarten 幼儿园 】`
 - > 【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】
+- > 【 garden 花园 n 】
 -
 - `【 junior school. 小学 】`
 - `【 primary school. 小学 】` // ------------------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
@@ -17,6 +18,8 @@
 -
 - `【 university 大学 】`
 - `【 college 学院 大学 】` // ----------------------- colleague = coworker.
+- > 【 colleague = coworker. 同事 n 】
+- > 【 college 学院 大学 n】
 -
 - `【 middle school. 中学 】`
 - `【 high school. 高中 】`
@@ -29,8 +32,8 @@
 - _【 primary source. 主要来源 】_
 - > 【 Grade One in primary school. 小学一年级 】 // -- 注意 Grade 和 One 都要大写
 - > 【 Grade Two in primary school. 小学二年级 】// --- 注意 Grade 和 One 都要大写
-- > 【 He is a 【 Grade One 】 student 【 in 】 【 primary school 】. 他是小学一年级学生 】
 - > grade 等级 年级 成绩
+- **【 He is a 【 Grade One 】 student 【 in 】 【 primary school 】. 他是小学一年级学生 】**
 -
 - [初中]
 - `【 junior high school. 初中 】`
@@ -64,7 +67,7 @@
 - > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
 - > 【 doctoral students. 博士生 n 】
 -
-- [其他]
+- [成绩]
 - `【 academic performance. 学习成绩 】`
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
 - `【 math score. 数学成绩 】`
@@ -82,17 +85,32 @@
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
 -
+- [学生]
 - `【 overseas student. 留学生 】` = international student.
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
 - `【 doctoral student. 博士生 】`
-- `【 He is a 【 Grade One student 】 【 in 】 【 primary school 】. 他是小学一年级学生 】`
+- _【 freshman 大一学生 】_
+- _【 sophomore 大二学生 】_ // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
+- _【 junior 大三学生 】_ // ----- 年少的 下级的
+- _【 senior 大四学生 】_// ------ 年长的 资深的
+- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal VS principle 原则原理 】
+- `【 vice principal. 副校长 n 】`
+- `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
+- `【 headmistress 女校长 】`
+- `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
+- `【 associate professor. 副教授 n 】`
+- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
+- _【 alumna 女校友 n 】_
+- **【 He is a 【 Grade One student 】 【 in 】 【 primary school 】. 他是小学一年级学生 】**
 -
+- [教育背景]
 - `【 education 教育 学历 n 】`
 - `【 education background. 学历 n 】`
+- `【 graduation ceremony. 毕业典礼 n 】`
 -
 - `【 graduate 毕业v 毕业生n 】`
-- `【 graduation 毕业 n 】`
+- `【 graduation 毕业 n 】` // -------------------------- 【 graduation ceremony. 毕业典礼 】
 - `【 graduation ceremony. 毕业典礼 】`
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】`
@@ -101,7 +119,22 @@
 - > 【 award ceremony. 颁奖典礼 】 // ------------------- 【 ward / reward / awkward / coward / afterward / forward / backward 】
 - > 【 closing ceremony. 闭幕式 】
 -
+- [职位]
+- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal VS principle 原则原理 】
+- `【 vice principal. 副校长 n 】`
+- `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
+- `【 headmistress 女校长 】`
+- `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
+- `【 associate professor. 副教授 n 】`
+- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
+- _【 alumna 女校友 n 】_
 -
+- [其他]
+- `【 tuition fee. 学费 】` // ------------------------- _【 tuition fee. 学费 】_
+- `【 textbook 教科书 课本 n 】`
+- `【 school uniform. 校服 n 】`
+- `【 midterm exam. 期中考试 】`
+- `【 final exam. 期末考试 】`
 -
 -
 -

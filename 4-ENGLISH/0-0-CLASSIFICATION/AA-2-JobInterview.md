@@ -2150,7 +2150,7 @@ In terms of user data: It can collect user online duration, physical device info
 // operational 操作的 adj
 ```
 
-```java 222222222 / Whole / Important
+```must 222222222 / Whole / Important
 ------- ------- ------- ------- ------- ------- -------
 
 
@@ -2168,7 +2168,7 @@ After graduation, I have done many different 【 types 】 of jobs, such as: 【
 
 // I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
-I use Vue and React 【 tech stacks 】 to develop 【 projects项目 】,
+I use Vue, React, java, node 【 tech stacks 】 to develop 【 projects项目 】,
 and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
 // I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
