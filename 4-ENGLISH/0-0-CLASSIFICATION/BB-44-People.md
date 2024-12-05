@@ -71,6 +71,9 @@
 - `【 academic performance. 学习成绩 】`
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
 - `【 math score. 数学成绩 】`
+- `【 first place. 第一名 n 】` // ---------------------- 【 last place. 最后一名 】
+- `【 last place. 最后一名 n 】`
+- `【 first prize. 一等奖 n 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
 - _【 single quotation mark. 单引号 】_

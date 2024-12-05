@@ -2158,7 +2158,7 @@ In terms of user data: It can collect user online duration, physical device info
 I'm York.
 ( My English name is York. )
 
-Firstly, I appreciate you very much 【 for 】 giving me the interview 【 opportunity 】.
+// -- Firstly, I appreciate you very much 【 for 】 giving me the interview 【 opportunity 】.
 
 I graduated from South-Central Minzu 【 University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
 
@@ -2166,18 +2166,18 @@ After graduation, I have done many different 【 types 】 of jobs, such as: 【
 
 【 By now 】, I have 7 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
 
-// I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
+// -- I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
 
 I use Vue, React, java, node 【 tech stacks 】 to develop 【 projects项目 】,
 and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
 
-// I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
+// -- I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
 
 
 (1)
-In the first company, I was 【 primarily主要地 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
+In the first company, I was 【 primarily 主要地 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
 
-The main function of the first application is to draw layers on Amap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
+The main function of the first application is to draw layers on AMap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
 
 The main function of the second application is parking and 【 navigation 】.
 Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
@@ -2185,14 +2185,14 @@ Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parkin
 (2)
 In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
 
-The main function of the first application is to help drivers to 【 reduce 】 the 【 probability概率 】 of the 【 accidents 】 【 while 】 driving.
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 概率 】 of the 【 accidents 】 【 while 】 driving.
 
 The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
 
-The main function of the third application is to cover the entire 【 process of 】 【 claims理赔索赔 】.
+The main function of the third application is to cover the entire 【 process of 】 【 claims 理赔索赔 】.
 
 (3)
-In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure基础设施 】 and 【 efficiency engineering 】.
+In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 基础设施 】 and 【 efficiency engineering 效率工程 】.
 
 The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
 // ( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
@@ -2202,7 +2202,7 @@ It can 【 monitor 】 the performance and errors of frontend and backend projec
 It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
 
 3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all 【 business team 】 projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all  projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
 
 3.2
 For the font-end part, it's divide into three layers: performance, errors, and user data.

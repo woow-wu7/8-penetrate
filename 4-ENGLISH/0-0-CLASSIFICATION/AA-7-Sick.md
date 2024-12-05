@@ -14,6 +14,7 @@
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - _【 specialist clinic. 专科诊所 】_
 - _【 eye specialist. 眼科专家 】_
+- // war ward reward award
 - AA.
 - _【 community 社区 n 】_ // ------------------- 【 community hospital. 社区医院 n 】 【 community service. 社区服务 n 】 【 learning community. 学习社区 n 】
 - > 【 community hospital. 社区医院 n 】
@@ -41,7 +42,7 @@
 - // specialty store. 专卖店 n
 - // specialty food. 特色食品 n
 - [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
-- **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
@@ -52,28 +53,28 @@
 - `【 registration office/desk. 挂号处 】` ------ 【 fill out the registration form. 填写登记表 】 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
-- > 【 registration office. = registration desk. 挂号处 n 】
-- > 【 registration form. 登记表 n 】
+- > 【 registration form. 登记表 n 】 // -------- **【 fill out the registration form. 填写登记表 】**
 - > 【 fill out the registration form. 填写登记表 】
+- > 【 registration office. = registration desk. 挂号处 n 】
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
-- // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration]
+- // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration][fill-out-registration-form.填写登记表]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
 -
 - `【 ward 病房 n 】` // ----------------------- war ward
-- `【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】 // catch up with. // overtake
-- `【 award 奖n 授予v 】` // ------------------ 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
-- > 【 awkward 令人尴尬的 adj 】= embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
+- `【 award 授予v 奖n 】` // ------------------ 【 award ceremony. 颁奖典礼 】 【 award winner. 获奖者 】
+- `【 awkward 令人尴尬的 adj 】` = embarrassed. //【 embarrass 尴尬 v 】 【 embarrassed 尴尬的 adj 】
 - > 【 coward 胆小鬼 n 】
 - > 【 steward 乘务员 n 】 // ----------------- 【 stewardess 空姐 n 】
+- > 【 sword 剑 n 】 // ---------------------- 【 swordsman 剑客 n 】
+- > 【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】 // catch up with. // overtake
 - > 【 afterward 后来 adv 】
 - > 【 forward 向前的 adj adv 】 // ------------【 backward 向后的 adj adv 】
-- > 【 sword 剑 n 】 // ---------------------- 【 swordsman 剑客 n 】
 - embarrassed. 尴尬的 adj = awkward.
 - embarrassing 尴尬的 adj // ----------------- 【 it's embarrassing. 这很尴尬 】
 - AA.
-- _【 award winner. 获奖者 n 】_
 - _【 award ceremony. 颁奖典礼 n 】_
-- CC.
+- _【 award winner. 获奖者 n 】_
+- BB.
 - > 【 award ceremony. 颁奖典礼 n 】
 - > 【 graduation ceremony. 毕业典礼 n 】
 - > 【 opening ceremony. 开幕式 n 】
@@ -82,12 +83,13 @@
 - _【 steward 乘务员 空少 】_ -------【 stewardess 空姐 】
 - _【 waiter 男服务员 】_ ---------- 【 waitress 女服务员 n 】
 - _【 actor 男演员 】_ ------------- 【 actress 女演员 n 】
-- _【 headmaster 难校长 】_ -------- 【 headmistress 女校长 n 】
+- _【 headmaster 男校长 】_ -------- 【 headmistress 女校长 n 】 // principal 校长 // vice principal. 副校长
 - _【 prince 王子 】_ ------------- 【 princess 公主 n 】
 - **【 This 【 actress 】 【 participated in 】 a 【 50-episode 】 【 TV series 】, and 【 acted as 】 a 【 princess 】. 这个女演员参加了 50 集的连续剧，并扮演了公主 】**
 - DD.
 - > 【 first prize. 一等奖 】
 - > 【 first place. 第一名 】
+- > 【 last place. 最后一名 】
 - > 【 【 catch up with first 】 place. 赶上第一名 】
 - > 【 【 overtake 】 second place. 超过第二名 】
 - EE.
@@ -123,7 +125,7 @@
 - `【 award ceremony. 颁奖典礼 n 】`
 - `【 award winner. 获奖者 n 】`
 - `【 the title of. ...的称号 】`
-- **【 At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of the 】 hero. 在颁奖典礼上，这个获奖者被授予英雄称号 】**
+- .MT **【 At the 【 award ceremony 】, the 【 award winner 】 was 【 awarded 】 【 the title of the 】 hero. 在颁奖典礼上，这个获奖者被授予英雄称号 】**
 - // -- the title of. ...的称号
 -
 - [CC.]
@@ -162,7 +164,7 @@
 - [HH.]
 - `【 specialty store. 专卖店 n 】`
 - `【 specialty food. 特色食品 n 】`
-- **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 -
 -
@@ -173,7 +175,7 @@
 -
 - [2222222.]
 - [MEDICINE]
-- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】
+- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】 // poison 毒药-毒 VS prison 监狱
 - `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
@@ -188,7 +190,7 @@
 - `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方药 】
 - `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
 - > 【 oral medicine. 口服药 n 】
-- > 【 external medicine. 外用药 n 】 // ---- 【 external 外部的 adj 】 【 internal 内部的 adj 】
+- > 【 external medicine. 外用药 n 】 // ---- 【 internal contradiction. 内部矛盾 】 // external internal
 - > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】
 - > 【 traditional Chinese medicine. 中药 n 】
 - > 【 western medicine. 西药 n 】// -------- 【 western 西方的 adj 】 【 west 西方 n 】
@@ -235,7 +237,7 @@
 - `【 antidote 解药 n 】`
 - `【 detoxify 解毒 n 】`
 - `【 poison 毒药 毒 n 】`
-- **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
+- .MT **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
 -
 - [BB.]
 - `【 instruction manual. 说明书 n 】`
@@ -251,14 +253,14 @@
 - [DD.]
 - `【 brand 品牌 n 】`
 - `【 brand-new 崭新的 adj 】`
-- **【 This is a 【 brand-new 】 【 brand 】. 这是一个崭新的品牌 】**
+- .MT **【 This is a 【 brand-new 】 【 brand 】. 这是一个崭新的品牌 】**
 -
 - [EE.]
 - `【 bandage 绷带 n 】`
 - `【 band-aid. 创可贴 n 】`
 - `【 brand 品牌 n 】`
 - `【 band 乐队n 】`
-- **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
+- .MT **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
 -
 - [FF.] [Expand]
 - `【 sap 汁液 n 】`
@@ -331,7 +333,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'period'. [period]
 -
 - `【 cell 细胞 n 】`
-- `【 tissue 组织 n 】`
+- `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
 -
 - `【 endanger 危及 v 】` // ----------------- 【 endanger life. 危及生命 】
