@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button id="button">触发</button>
+    <script>
+      // debounce
+      function debounce(fn, time, isImmediate) {
+        let timer = null;
+        let onlyOneTime = true;
+
+        return function () {
+          // 策略类
+          if (timer) {
+            window.clearTimeout(timer);
+          }
+
+          if (isImmediate) {
+            isImmediate = false;
+            fn();
+          } else {
+            timer = setTimeout(() => {
+              if (!onlyOneTime) {
+                fn();
+              }
+              onlyOneTime = true;
+            }, time);
+          }
+        };
+      }
+    </script>
+  </body>
+</html>

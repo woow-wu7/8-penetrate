@@ -1966,6 +1966,139 @@ I will take your interview. 我会安排你的面试
 
 ##### (3) **Writing**
 
+```MUST Important
+------- ------- ------- ------- ------- ------- -------
+
+
+
+I'm York.
+( My English name is York. )
+
+// -- Firstly, I appreciate you very much 【 for 】 giving me the interview 【 opportunity 】.
+
+I graduated from South-Central Minzu 【 University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
+
+After graduation, I have done many different 【 types 】 of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
+
+【 By now 】, I have 7 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
+
+// -- I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
+
+I use Vue, React, java, node 【 tech stacks 】 to develop 【 projects项目 】,
+and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
+
+// -- I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
+
+
+(1)
+In the first company, I was 【 primarily 主要地 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
+
+The main function of the first application is to draw layers on AMap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
+
+The main function of the second application is parking and 【 navigation 】.
+Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
+
+(2)
+In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
+
+The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 概率 】 of the 【 accidents 】 【 while 】 driving.
+
+The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
+
+The main function of the third application is to cover the entire 【 process of 】 【 claims 理赔索赔 】.
+
+(3)
+In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 基础设施 】 and 【 efficiency engineering 效率工程 】.
+
+The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
+// ( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
+
+It can 【 monitor 】 the performance and errors of frontend and backend projects.
+
+It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
+
+3.1
+For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all  projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
+
+3.2
+For the font-end part, it's divide into three layers: performance, errors, and user data.
+
+【 In terms of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various各种的 】 resources.
+
+【 In terms of errors layer 】: It can report 【 error 错误 】 types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
+
+【 In terms of user data layer 】: It can collect user online duration, physical 【 device 】 【 information 】, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
+
+
+--- --- --- --- --- --- --- 分割线
+[ Words are easy to mispronounce. ]
+- [ error. 错误 ]
+- [ projects 项目]
+- [ various 各种 各种个样的 adj ] // 【 various resources. 各种资源 】 // 【 various aspect. 各个方面 】
+
+1
+bachelor 学士 单身汉
+master 硕士 主人
+doctor 博士 医生
+Bachelor's degree. 学士学位
+Master's degree. 硕士学位
+Doctor's degree. 博士学位
+
+2
+graduate 毕业 v
+graduation 毕业 n
+【 entrance examination. 升学考试 】
+
+3
+universe 宇宙
+university 大学
+college 学院 大学
+colleague 同事
+
+
+4
+engineer 工程师 n
+engineering 工程 工程需 n
+【 communication engineering. 通信工程 】
+【 efficiency engineering. 效率工程 】
+
+
+5
+by now. 到目前为止
+software development. 软件开发
+primarily 主要地
+simulate 模拟 v
+corridor 走廊
+track time. 计时
+
+6
+navigate 导航 v
+navigation 导航 n
+// TIPS: Pay attention to pronunciation of the word 'navigate'.
+
+7
+parking spot. 停车位
+parking lot. 停车场
+
+8
+【 probability 概率 n 】
+【 probable 可能的 adj 】
+【 probably 可能地 adv 】
+
+9
+accident 事故
+claim 索赔
+infrastructure 基础设施 基建
+【 efficiency engineering. 效率工程 】
+【 communication engineering. 通信工程 】
+
+10
+layer 层
+mayor 市长
+
+------- ------- ------- ------- ------- ------- -------
+```
+
 ```111111111
 My English name is York.
 
@@ -2148,139 +2281,6 @@ In terms of user data: It can collect user online duration, physical device info
 // -
 // operation 操作 手术 运营 v
 // operational 操作的 adj
-```
-
-```must 222222222 / Whole / Important
-------- ------- ------- ------- ------- ------- -------
-
-
-
-I'm York.
-( My English name is York. )
-
-// -- Firstly, I appreciate you very much 【 for 】 giving me the interview 【 opportunity 】.
-
-I graduated from South-Central Minzu 【 University 】 with a 【 Bachelor's degree 】 in 【 Communication Engineering 】 in 2013 in WuHan Province.
-
-After graduation, I have done many different 【 types 】 of jobs, such as: 【 technical support 】, 【 operation 】, UI design, and front-end engineer.
-
-【 By now 】, I have 7 years of experience in 【 software development 】 and 1 year of experience in UI 【 design 】.
-
-// -- I 【 am familiar with 】 the JavaScript and Java 【 programming languages 】, such as TypeScript, Node, Spring Boot, and Spring Cloud.
-
-I use Vue, React, java, node 【 tech stacks 】 to develop 【 projects项目 】,
-and I also 【 implemented 】 a UI component 【 library 】 using Vite, Webpack, Typescript and Vue3.
-
-// -- I have developed many mini-programs, 【 applications 】 and websites, etc(et cetera)/and stuff/and so on.
-
-
-(1)
-In the first company, I was 【 primarily 主要地 】 responsible for 【 implementing 】 the two map-related 【 applications 】.
-
-The main function of the first application is to draw layers on AMap or Baidu Map, and then 【 simulate 】 real 【 physical structures 】 such as walls and 【 corridors 】 using different shapes.
-
-The main function of the second application is parking and 【 navigation 】.
-Which can help drivers 【 navigate 】 their cars to 【 desired 】 【 parking spot 】 in the 【 parking lot 】, then 【 track time 】 and 【 calculate fees 】.
-
-(2)
-In the second company, I was 【 primarily/mainly 】 【 in charge of 】 implementing the three insurance-related applications.
-
-The main function of the first application is to help drivers to 【 reduce 】 the 【 probability 概率 】 of the 【 accidents 】 【 while 】 driving.
-
-The main function of the second application is to 【 provide 】 a 【 online-store 】 for users to 【 purchase 】 the type of insurance (that) they need.
-
-The main function of the third application is to cover the entire 【 process of 】 【 claims 理赔索赔 】.
-
-(3)
-In the third company, I was primarily responsible for implementing projects 【 related 】 to 【 infrastructure 基础设施 】 and 【 efficiency engineering 效率工程 】.
-
-The project I 【 mainly 】 want to introduce is called《 Full Link Tracking System 》.
-// ( The project I mainly want to introduce is called《 Full Link Tracking System 》in my last job. )
-
-It can 【 monitor 】 the performance and errors of frontend and backend projects.
-
-It 【 consists of 】 two parts 【 in total 】, front-end 【 monitoring 】 and back-end monitoring.
-
-3.1
-For the back-end part, It monitors the performance data in the 【 cluster 】 containers after deployment of all  projects of the company, and 【 displays 】 the performance data user need to 【 query 】 【 in the form of 】 【 charts 】.
-
-3.2
-For the font-end part, it's divide into three layers: performance, errors, and user data.
-
-【 In terms of performance layer 】: It can monitor the performance data after the deployment of the front-end project, such as the white screen time, the duration of API requests, and the time for the browser to 【 parse 】 【 various各种的 】 resources.
-
-【 In terms of errors layer 】: It can report 【 error 错误 】 types and the location of errors in components to the 【 platform 】, and has offline storage 【 capabilities 】.
-
-【 In terms of user data layer 】: It can collect user online duration, physical 【 device 】 【 information 】, 【 the duration of user stay on the platform 】,【 operational 】 information, etc.
-
-
---- --- --- --- --- --- --- 分割线
-[ Words are easy to mispronounce. ]
-- [ error. 错误 ]
-- [ projects 项目]
-- [ various 各种 各种个样的 adj ] // 【 various resources. 各种资源 】 // 【 various aspect. 各个方面 】
-
-1
-bachelor 学士 单身汉
-master 硕士 主人
-doctor 博士 医生
-Bachelor's degree. 学士学位
-Master's degree. 硕士学位
-Doctor's degree. 博士学位
-
-2
-graduate 毕业 v
-graduation 毕业 n
-【 entrance examination. 升学考试 】
-
-3
-universe 宇宙
-university 大学
-college 学院 大学
-colleague 同事
-
-
-4
-engineer 工程师 n
-engineering 工程 工程需 n
-【 communication engineering. 通信工程 】
-【 efficiency engineering. 效率工程 】
-
-
-5
-by now. 到目前为止
-software development. 软件开发
-primarily 主要地
-simulate 模拟 v
-corridor 走廊
-track time. 计时
-
-6
-navigate 导航 v
-navigation 导航 n
-// TIPS: Pay attention to pronunciation of the word 'navigate'.
-
-7
-parking spot. 停车位
-parking lot. 停车场
-
-8
-【 probability 概率 n 】
-【 probable 可能的 adj 】
-【 probably 可能地 adv 】
-
-9
-accident 事故
-claim 索赔
-infrastructure 基础设施 基建
-【 efficiency engineering. 效率工程 】
-【 communication engineering. 通信工程 】
-
-10
-layer 层
-mayor 市长
-
-------- ------- ------- ------- ------- ------- -------
 ```
 
 ```333333333 / Summary / Base

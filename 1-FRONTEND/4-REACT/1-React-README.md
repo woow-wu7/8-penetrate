@@ -1,6 +1,8 @@
-# React
+### React
 
-# 前置知识
+### (零) 前置知识
+
+### (0.1) 一些单词
 
 ```1
 1
@@ -12,6 +14,8 @@ cleanup 清理 清除
 teaser 预告
 archive 存档
 ```
+
+### (0.2) Object.is 和 === 的区别？ // NaN +0 -0
 
 ```2
 2
@@ -27,7 +31,7 @@ Object.is 和 === 的区别？
   - +0 === -0 // --------- true
 ```
 
-# (一) react 的生命周期
+### (一) React 的生命周期
 
 ![](https://img.php.cn/upload/image/106/115/918/1657710414760203.png)
 ![](https://www.qycn.com/uploads/allimg/2022/07/1832878126727222825.png)
@@ -41,13 +45,15 @@ Object.is 和 === 的区别？
   - forceUpdate: componentWillUpdate render componentDidUpdate
 卸载阶段:
   - componentWillUnmount
+- 错误相关:
+  - errorBoundary
 ```
 
 ```
 (二) 新的生命周期
 - 废除了几个生命周期:
-  - componentWillMount、componentWillReceiveProps、componentWillUpdate
-  - 因为: fiber架构重写后，会造成这三个生命周期-重复多次执行
+  - componentWillMount, componentWillReceiveProps, componentWillUpdate
+  - 因为: fiber架构重写后，会造成这 三个生命周期 - 会重复多次执行
 
 - 新的生命周期
   - 挂载阶段: constructor getDerivedStateFromProps render componentDidMount
@@ -55,9 +61,12 @@ Object.is 和 === 的区别？
     - props: getDerivedStateFromProps shouldComponentUpdate render getSnapshotBeforeUpdate componentDidUpdate
     - state: getDerivedStateFromProps shouldComponentUpdate render getSnapshotBeforeUpdate componentDidUpdate
     - forceUpdate: getDerivedStateFromProps  render getSnapshotBeforeUpdate componentDidUpdate
+
+- 错误相关:
+  - errorBoundary
 ```
 
-# (二) react 中的原生事件和合成事件
+### (二) React 中的原生事件和合成事件
 
 ```
 1
@@ -83,19 +92,32 @@ Object.is 和 === 的区别？
   - 描述: e.nativeEvent.stopPropagation() 阻止冒泡时，不但不能阻止原生事件的冒泡，连合成事件的冒泡也不能阻止
   - 原因: 执行这段代码的时候，原生事件早就执行完了，因为合成需要冒泡到document上，而又没有去阻止合成事件的冒泡，合成事件的阻止是在变量对象上，即e,而不是e.nativeEvent
 
+
 4
+问题: Event 对象上有哪些属性和方法
+- e.preventDefault() ------------- 取消浏览器对当前事件的默认行为 ( 1.比如点击浏览器链接的默认的跳转行为  2.比如阻止空格键磨人的浏览器滚动行为 )
+- e.stopPropagation() ------------ 阻止 事件在DOM中继续传播，防止再触发定义在别的节点上的监听函数，但是不包括在当前节点上其他的事件监听函数
+- e.stopImmediatePropagation() --- 阻止同一个事件的其他监听函数被调用，不管监听函数定义在当前节点还是其他节点
+-
+- e.target
+- e.currentTarget
+-
+- e.origin ---------------------- 跨标签通信时也会发生 XSS 攻击，所以通过事件对象上的 e.origin 来判断可信源 ( 详见 /Users/xiawu/work/personal/front-end/8-penetrate/1-FRONTEND/4-REACT/1-React-README.md )
+
+
+5
 自理
 - 合成事件: react 合成事件，是代理到 document 对象
 - 资料 https://juejin.cn/post/6903805279483297805
 ```
 
-# (三) Diff 算法
+### (三) Diff 算法
 
 - 传统算法的复杂度 ` O(n^3)`，其中 n 是节点数
 - `diff` 算法可以把复杂度降低到 `O(n)`
 - 类型：`tree diff` `component diff` `element-diff`
 
-### (3.1). tree diff
+### (3.1). Tree diff
 
 - 跨层级的移动操作非常少，可以忽略不计
 - 关键词：
@@ -112,7 +134,7 @@ Object.is 和 === 的区别？
   - 所以在开发中，要尽量避免跨层级的组件的移动的情况，直接创建和删除消耗性能，
   - 可以通过 CSS 隐藏或显示节点，而不是真的移除或添加 DOM 节点 ( 在频繁切换时 )
 
-### (3.2). component diff
+### (3.2). Component diff
 
 - **diff 过程**：
   - **同一类型的组件，按原策略，逐层进行比较**
@@ -120,7 +142,7 @@ Object.is 和 === 的区别？
   - **对于同一类型的组件，有可能其 Virtual DOM 没有任何变化(props,state 未变化时)，是没有必要再进行逐层比较的，此时，可以通过 shouldComponentUpdate() 返回 false，来进行进行性能优化，不再进行逐层的比较**
   - 如果判断类型：即 class 名(组件名)一样就是同一类型
 
-### (3.3). element diff
+### (3.3). Element diff
 
 - 当节点处于同一层级时，diff 将会有三种操作：`插入INSERT_MARKUP`，`删除REMOVE_NODE`，`移动MOVE_EXISTING`
 - **移动操作的一些概念**
@@ -191,21 +213,29 @@ Object.is 和 === 的区别？
 - 元素 D
 - 在新集合中不存在，在旧集合中存在，删除操作，直接删除 D
 
-### (3.4) diff 算法总结
+### (3.4) Diff Algorithm 算法总结
 
-- 把传统的 O(n^3) 的复杂度降低到了 O(n)，n 表示节点数
-- 存在 `treeDiff` `componentDiff` `elementDiff`
-- `treeDiff` 跨层级移动非常少，逐层比较
-- `componentDiff` 判断是不是同类型的组件，区分脏组件和逐层比较，以及 VitureDOM 没变通过 shouldComponentUpdate 来做优化
-- `elementDiff`重点理解移动的算法规则
-- **特殊情况**：
-  - 在第一个元素和最后一个元素交换时，oldIndex 是集合中的最大值，这会导致除了第一个元素不移动，后面的 oldIndex<最大值 lastIndex，**`导致除了第一个元素外，所有元素都会移动`**
-    ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc649675074b4f0ab1f4e57721dbdb24~tplv-k3u1fbpfcp-watermark.image)
+- [tutorial-blog](https://juejin.cn/post/6905924860308881416)
+-
+- 时间复杂度:
+- // 把传统的 O(n^3) 的复杂度降低到了 O(n)，n 表示节点数
+-
+- 分类: 存在 `treeDiff` `componentDiff` `elementDiff`
+- // `treeDiff` 跨层级移动非常少，逐层比较
+- // `componentDiff` 判断是不是同类型的组件，区分脏组件和逐层比较，以及 VitureDOM 没变通过 shouldComponentUpdate 来做优化
+- // `elementDiff`重点理解移动的算法规则
+- // **特殊情况**：
+- // -- 在第一个元素和最后一个元素交换时，oldIndex 是集合中的最大值，这会导致除了第一个元素不移动，后面的 oldIndex<最大值 lastIndex，**`导致除了第一个元素外，所有元素都会移动`**
+- // -- ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc649675074b4f0ab1f4e57721dbdb24~tplv-k3u1fbpfcp-watermark.image)
 
-# (四) Hooks
+### (四) Hooks
 
-### (4.1) useEffect
+### (4.1) useEffect - 1.清除函数执行时机 2.模拟 componentDidMount 3.模拟 componentDidUpdate
 
+- useEffect 清除函数执行的时机
+- useEffect 模拟 componentDidMount
+- useEffect 模拟 componentDidUpdate
+-
 - https://codesandbox.io/s/1-useeffect-ptqytb
 
 ```
@@ -381,17 +411,25 @@ export default function App() {
 }
 ```
 
-### (4.4) useEffect 和 useLayoutEffect 的区别？
+### (4.4) **【 useEffect 和 useLayoutEffect 的区别？ 】**
 
 - https://codesandbox.io/p/sandbox/3-uselayouteffect-7ywf2j?betaBrowser=true&file=%2Fsrc%2FApp.js%3A1%2C1
 
 ```
 useLayoutEffect
-// 1. 在浏览器重新绘制屏幕前计算布局
-// 2. 比如有些操作，( popup的位置动态确定 ) 等这些操作，都 - 必须在浏览器重新绘制屏幕前完成，不然就会造成 ( 闪烁 )，即 ( 位置多次变化 等 )，虽然是多次渲染，但是不会闪烁
+// 1. 同步执行: 在浏览器绘制屏幕更新之前 同步执行，会阻塞浏览器的渲染流程
+// 2. 适合的操作: 比如有些操作，( popup的位置动态确定 ) 等这些操作，都 - 必须在浏览器重新绘制屏幕前完成，不然就会造成 ( 闪烁 )，即 ( 位置多次变化 等 )，虽然是多次渲染，但是不会闪烁
+// 3. 关键词:
+//    - 组件渲染完成后
+//    - 浏览器绘制更新前
+
+
+useEffect
+// 1. 异步执行: 在组件渲染完成后 ( 浏览器绘制更新后 ) 异步执行，不会阻塞浏览器的渲染流程
+// 2. 它是异步的，不会阻塞浏览器的渲染流程
 ```
 
-# (五) suspense
+# (五) Suspense
 
 ```
 import React, { lazy, Suspense } from 'react';
