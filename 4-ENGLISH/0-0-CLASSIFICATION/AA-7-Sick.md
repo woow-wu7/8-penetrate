@@ -511,12 +511,15 @@
 - [5555555.]
 - [PEOPLE]
 - `【 surgeon 外科医生 n 】`
-- `【 internist 内科医生 n 】` // internal 内部的 adj 内脏 n // `【 internal medicine. 内科 】`
+- `【 internist 内科医生 n 】` // internal 内部的 adj 内脏 n
+- > 【 external medicine. 外用药 】
+- > 【 internal medicine. 内服药 】
+- > 【 internal contradiction. 内部矛盾 n 】
 -
 - `【 pediatrician 儿科医生 】` // pediatrician // pediatric // paramedic
 - `【 gynecologist 妇科医生 】` // gy + nec + ologist
 - > 【 pregnant woman. 孕妇 n 】
-- > 【 widow 寡妇 n 】
+- > 【 widow 寡妇 n 】 // widow window
 -
 - `【 dentist 牙医 牙医诊所 】` // dental clinic. // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
 - `【 vet 兽医 兽医诊所 】`
@@ -531,6 +534,14 @@
 - > 【 specialty store. 专卖店 n 】
 - > 【 specialist = expert 专家 】
 -
+- [AA.]
+- `【 surgeon 外科医生 】`
+- `【 internist 内科医生 】`
+- `【 prescribe 开处方 v 】`
+- `【 internal medicine. 外用药 n 】`
+- `【 oral medicine. 口服药 n 】`
+- **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
+-
 -
 -
 -
@@ -541,14 +552,19 @@
 - [OTHER]
 - `【 ambulance 救护车 】`
 - `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】
-- `【 first aid kit. 急救箱 n  】` // ----------- 【 just in case. 以防万一 】
-- `【 band-aid. 创可贴 】`
+- `【 first aid kit. 急救箱 n  】` // ----------- `【 just in case. 以防万一 】`
+- `【 band-aid. 创可贴 】` // ------------------- 【 band 乐队 VS brand 品牌 VS bandage 绷带 】
 - `【 hearing aid. 助听器 】`
-- `【 bandage 绷带 n 】`
-- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher
+- `【 bandage 绷带 n 】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
+- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展
+- > 【 ambulance 救护车 n 】
+- > 【 balance 平衡 余额 n 】
+- > 【 glance 扫视 看一眼 v n 】
+- _【 wrap bandage. 缠绷带 】_
+- _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
 -
 - `【 thermometer 体温计 温度计 n 】` // --------- 【 meter 米 n / 计量器 n 】 【 Celsius 摄氏的 adj 】
-- `【 stethoscope 听诊器 】` // ----------------- 【 microscope / telescope / stethoscope / otoscope 】
+- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 而镜 】
 - `【 otoscope 耳镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
 - > 【 syringe 注射器 】
@@ -556,18 +572,29 @@
 - > 【 syringe barrel. 针筒 n 】
 - _【 40 degrees Celsius. 40 摄氏度 n 】_
 - _【 body temperature. 体温 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'barrel'. [syringe-barrel.针筒]
 -
 - `【 blood pressure. 血压 】` // --------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`
 - `【 measure 测量v / 措施 n 】`
 - `【 physical examination. 体检 】` // ---------- exam examination
 - `【 physical examination report. 体检报告 】` // report 报告 v/n
+- // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
 -
 - [AA.]
 - `【 thermometer 体温计 n 】`
 - `【 body temperature 体温 n 】`
 - `【 40 degrees Celsius. 40 摄氏度 】`
-- **【 The 【 thermometer 】 shows that his 【 body temperature 】 is 【 40 degrees Celsius 】. 体温计显示他的体温是 40 摄氏度 】**
+- .MT **【 The 【 thermometer 】 shows that his 【 body temperature 】 is 【 40 degrees Celsius 】. 体温计显示他的体温是 40 摄氏度 】**
+-
+- [DD.]
+- `【 ambulance 救护车 n 】`
+- `【 stretcher 担架 n 】`
+- `【 first aid kit. 急救箱 n 】`
+- `【 bandage 绷带 n 】`
+- `【 band-aid. 创可贴 n 】`
+- `【 first aid. 急救 n 】`
+- .MT **【 【 Ambulances 】, 【 stretchers 】, 【 first aid kits 】, 【 bandages 】, and 【 band-aids 】 can be used for 【 first aid 】. 救护车，担架，急救箱，绑带，创可贴都可以用户急救 】**
 -
 - [BB.]
 - `【 syringe 注射器 n 】`
