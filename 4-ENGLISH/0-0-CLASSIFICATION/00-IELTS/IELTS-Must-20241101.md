@@ -1149,6 +1149,9 @@
 - `【 in fact. 事实上 adv 】`
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
+- `【 in need. 需要 】`
+- **【 Please offer your seats to anyone 【 in need 】. 请给有需要的人让座 】**
+-
 - _【 in confusion. 疑惑地 adv 】_
 - > 【 looked confused. 看上去很疑惑 】
 - .MT **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**

@@ -219,9 +219,12 @@
 - .MT **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
 - .MT **【 The 【 venom 】 of snakes is 【 poisonous 】. 蛇的毒液有毒 】**
 -
-- `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方药 】
+- `【 medication 药 n 】`
 - `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
-- _【 prescribe medication. 开处方药 v 】_
+- `【 over-the-counter drugs. 非处方药 】` // 【 prescribe prescription drug. 开处方药 】
+- `【 prescription drug. 处方药 】`
+- `【 co-payment. 自付金额 】`
+- _【 prescribe prescription drug. 开处方药 v 】_
 - > 【 oral medicine. 口服药 n 】
 - > 【 external medicine. 外用药 n 】 // ---- 【 internal contradiction. 内部矛盾 】 // external internal
 - > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】 //
@@ -563,8 +566,11 @@
 -
 - [5555555.]
 - [PEOPLE]
-- `【 surgeon 外科医生 n 】`
+- `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` 【 perform surgery. 做外科手术 】
 - `【 internist 内科医生 n 】` // ------------------ 【 internal 内部的 adj / 内脏 n 】 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】
+- _【 surgeon 外科医生 n 】_
+- _【 surgery 外科手术 n 】_
+- _【 perform surgery. 做外科手术 】_ // ----------- 【 perform surgery. 做外科手术 】
 - > 【 external medicine. 外用药 】
 - > 【 internal medicine. 内服药 】
 - > 【 internal contradiction. 内部矛盾 n 】
@@ -598,6 +604,7 @@
 - `【 internal medicine. 外用药 n 】`
 - `【 oral medicine. 口服药 n 】`
 - **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
+- **【 The 【 surgeon 】 is 【 performing surgery 】 【 on 】 the patient. 外科医生正在给病人做外科手术 】**
 -
 - [BB.]
 - `【 gynecologist 妇科医生 n 】`
@@ -612,6 +619,10 @@
 - `【 specialty store. 专卖店 】`
 - `【 specialty food. 特色食品 】`
 - **【 This 【 specialty store 】 sells 【 specialty foods 】. 这个专卖店卖特色食品 】**
+-
+- [DD.]
+- `【 perform surgery. 做外科手术 】`
+- **【 The 【 surgeon 】 is 【 performing surgery 】 【 on 】 the patient. 这个外科医生正在给病人做外科手术 】**
 -
 -
 -
