@@ -10,7 +10,7 @@
 - `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 //【 awkward / coward / award / reward / steward / forward 】
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
-- `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】
+- `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】 // leaning community.
 - > 【 dental clinic. 牙医诊所 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
@@ -34,11 +34,17 @@
 - > 【 specialist clinic. 专科医院 】
 - [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
 - .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- .MT **【 The person who 【 specializes in 】 the 【 special 】 【 field 】 is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
+-
 - CC.
 - _【 dental 牙齿的 牙科的 adj 】_
 - _【 dental clinic. 牙医诊所 】_
 - _【 dental floss. 牙线 】_
 - _【 dental braces. 牙套 】_ // --------------- 【 glove 手套 n 】
+- > 【 toothpaste 牙膏 n 】
+- > 【 toothbrush 牙刷 n 】
+- > 【 toothpick 牙签 n 】
+- .MT **【 Both the 【 dental braces 】 and the 【 dental floss 】 can clean teeth. 牙套和牙线都能清洁牙齿 】**
 - DD.
 - 【 private property. 私人财产 n 】// --------- 【 private 私人的 私有的 adj 】
 - 【 private conversation. 私人谈话 】
@@ -47,15 +53,24 @@
 - _【 pharmacy = drugstore. 药房 】_
 - _【 pharmacist 药剂师 n 】_
 - // pharmacy counter. 药房柜台 n
+- // registration desk. 挂号处 n
+- // registration form. 登记表
+- .MT **【 There are many medicine bottles 【 placed 】 on the 【 pharmacy counter 】. 药房柜台上放着许多药瓶 】**
+- .MT **【 The 【 registration desk 】 【 is next to 】 the 【 pharmacy counter 】. 挂号处在药房柜台旁边 】**
+- .MT **【 There is a 【 registration form 】 on the 【 pharmacy counter 】. 药房柜台上放着一张登记表 】**
+- // -- next to. 在...旁边
+- // -- beside 在...旁边
+- // -- near 附近
 -
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
 - `【 waiting room. 候诊室 】`
-- `【 registration form. 登记表 】` // ---------- 【 deposit slip. 存款单 n 】 【 withdraw slip. 取款单 n 】 // slip 滑倒 v
-- `【 registration office/desk. 挂号处 】` ------ 【 fill out the registration form. 填写登记表 】 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
+- _【 registration desk. 挂号处 】_ ------------- 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
+- _【 registration form. 登记表 】_ // ---------- 【 fill out the registration form. 填写登记表 】 【 deposit slip. 存款单 n 】 【 withdraw slip. 取款单 n 】
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
-- > 【 registration form. 登记表 n 】 // -------- **【 fill out the registration form. 填写登记表 】**
+- > `【 registration desk. 挂号处 n 】`
+- > `【 registration form. 登记表 n 】` // -------- **【 fill out the registration form. 填写登记表 】**
 - > 【 fill out the registration form. 填写登记表 】
 - > 【 registration office. = registration desk. 挂号处 n 】
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
@@ -70,7 +85,7 @@
 - > 【 sword 剑 n 】 // ---------------------- 【 swordsman 剑客 n 】
 - > 【 reward 奖励 n 】` // ---------------------【 first prize. 一等奖 】 【 first place. 第一名 】 // catch up with. // overtake
 - > 【 afterward 后来 adv 】
-- > 【 forward 向前的 adj adv 】 // ------------【 backward 向后的 adj adv 】
+- > 【 forward 向前的 adj adv 】 // ------------【 backward 向后的 adj adv 】 // 【 advance 前进 VS retreat 撤退 】
 - embarrassed. 尴尬的 adj = awkward.
 - embarrassing 尴尬的 adj // ----------------- 【 it's embarrassing. 这很尴尬 】
 - AA.
@@ -94,6 +109,14 @@
 - > 【 last place. 最后一名 】
 - > 【 【 catch up with first 】 place. 赶上第一名 】
 - > 【 【 overtake 】 second place. 超过第二名 】
+- > full marks. 满分
+- > math score. 数学成绩
+- > academic performance. 学习成绩
+- > midterm exam. 期中考试 // ---------------------------- term 学期 术语
+- > final exam. 期末考试
+- > first place. 第一名
+- > last place. 最后一名
+- > the title of. ...的称号
 - Ee.
 - // TIPS: Pay attention to the pronunciation of the word 'award'. [award-奖-n] [award-ceremony-颁奖典礼-n] [award-winner-获奖者-n]
 - // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
@@ -112,8 +135,9 @@
 -
 - [AA.]
 - `【 register 登记 注册 挂号 v 】`
-- `【 registration office/desk. 挂号处 】`
 - `【 registration form. 登记表 】`
+- `【 registration desk. 挂号处 】`
+- `【 registration office. 挂号处 】`
 - `【 see a doctor. 看医生 】`
 - **【 Before 【 seeing a doctor 】, you need to go to the 【 registration office 】 to 【 register 】, then 【 fill out 】 the 【 registration form 】. 看医生前你需要去挂号处挂号，在填写登记表 】**
 -
@@ -172,11 +196,12 @@
 -
 - [2222222.]
 - [MEDICINE]
-- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】 // 【 poison 毒药-毒 VS prison 监狱 】
+- `【 poison 毒药 毒 n 】` // -------------- `【 poison gas. 毒气 n 】` 【 poison 毒药-毒 VS prison 监狱 】 // 【 venom 毒液 n 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
-- > 【 poison gas. 毒气 有毒气体 n 】
+- _【 poison gas. 毒气 有毒气体 n 】_
+- _【 poisonous 有毒的 adj 】_
 - > prison / imprison / prisoner
 - > sense / scene
 - > criminal / crime
@@ -186,20 +211,25 @@
 - _【 antidote 解药 n 】_
 - _【 antibiotic 抗生素 n 】_
 - _【 anti-inflammatory drug. 消炎药 】_
-- // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison]
+- // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison-毒-毒药-n]
+- // TIPS: Pay attention to the pronunciation of the word 'prison'. [prison-监狱-n]
+- // TIPS: Pay attention to the pronunciation of the word 'poisonous'. [poisonous-有毒的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify]
-- // TIPS: Pay attention to the pronunciation of the word 'venom'. [venom]
+- // TIPS: Pay attention to the pronunciation of the word 'venom'. [venom-毒液-n]
+- .MT **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
+- .MT **【 The 【 venom 】 of snakes is 【 poisonous 】. 蛇的毒液有毒 】**
 -
 - `【 medication 处方药 n 】` // ------------ 【 prescribe medication. 开处方药 】
 - `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
+- _【 prescribe medication. 开处方药 v 】_
 - > 【 oral medicine. 口服药 n 】
 - > 【 external medicine. 外用药 n 】 // ---- 【 internal contradiction. 内部矛盾 】 // external internal
-- > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】
+- > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】 //
 - > 【 traditional Chinese medicine. 中药 n 】
 - > 【 western medicine. 西药 n 】// -------- 【 western 西方的 adj 】 【 west 西方 n 】
 - > 【 take medicine. 吃药 】
 - // TIPS: Pay attention to the pronunciation of the word 'inject'. [inject]
-- // TIPS: Pay attention to the pronunciation of the word 'injectable'. [injectable]
+- // TIPS: Pay attention to the pronunciation of the word 'injectable'. [injectable][injectable-medicine.注射药-n]
 -
 - `【 capsule 胶囊 n 】`
 - `【 pill 药丸 n 】`
@@ -299,6 +329,9 @@
 - .MT **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
 - .MT **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很实用 】**
 - // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
+-
+- [HH.]
+- **【 The venom of snakes is poisonous. 蛇的毒液有毒 】**
 -
 -
 -
@@ -603,18 +636,24 @@
 - `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 】
 - `【 otoscope 耳镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
-- > 【 syringe 注射器 】
+- > 【 syringe 注射器 】// syrup VS syringe
 - > 【 syringe needle. 针头 n 】 // ------------- 【 needle 针 针头 n 】 【 thread 线 螺纹 n 】
 - > 【 syringe barrel. 针筒 n 】
+- // syrup 糖浆
+- // syringe 注射器
 - _【 40 degrees Celsius. 40 摄氏度 n 】_
 - _【 body temperature. 体温 n 】_
 - 【 Mercury 水星 n 】
 - 【 mercury 水银 n 】
 - > 【 mercury thermometer. 水银温度计 】
 - > 【 digital thermometer. 数字温度计 】
+-
 - // TIPS: Pay attention to the pronunciation of the word 'barrel'. [syringe-barrel.针筒]
 - // TIPS: Pay attention to the pronunciation of the word 'otoscope'. [otoscope-耳镜-n]
 - // TIPS: Pay attention to the pronunciation of the word 'Mercury'. [Mercury-水星-n][大写是水星-Mercury/小写是水银-mercury]
+-
+- // TIPS: Pay attention to the pronunciation of the word 'syrup'. [][syrup-糖浆-n]
+- // TIPS: Pay attention to the pronunciation of the word 'syringe'. [][syringe-注射器-n]
 -
 - `【 blood pressure. 血压 】` // --------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`

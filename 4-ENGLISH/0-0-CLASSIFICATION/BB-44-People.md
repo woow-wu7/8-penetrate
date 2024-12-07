@@ -136,8 +136,16 @@
 - `【 tuition fee. 学费 】` // ------------------------- _【 tuition fee. 学费 】_
 - `【 textbook 教科书 课本 n 】`
 - `【 school uniform. 校服 n 】`
-- `【 midterm exam. 期中考试 】`
+-
+- [考试]
+- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
 - `【 final exam. 期末考试 】`
+- `【 full marks. 满分 】`
+- `【 academic performance. 学习成绩 】`
+- `【 math score. 数学成绩 】`
+- `【 first place. 第一名 】` // ----------------------- 【 the title of. ...的称号 】
+- `【 last place. 最后一名 】`
+- `【 first prize. 一等奖 】`
 -
 -
 -
