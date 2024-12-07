@@ -5,46 +5,48 @@
 - [1111111.]
 - [PLACE]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
-- `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 pharmacist 药剂师 / pharmacy 药房 】 // 【 counter 柜台 n 计数器 n 】
-- `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 supplier / dealer / seller 】
-- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / award / reward / steward / forward 】
+- `【 pharmacy. 药房 药店 n 】` // --------------- `【 pharmacy counter. 药房柜台 】` 【 pharmacist 药剂师 / pharmacy 药房 】 // 【 counter 柜台 n 计数器 n 】
+- `【 drugstore. 药房 药店 n 】` // -------------- `【 drug dealer. 毒贩 】` // 【 drug 药物 毒品 n 】 【 supplier / dealer / seller 】
+- `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 //【 awkward / coward / award / reward / steward / forward 】
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】
 - > 【 dental clinic. 牙医诊所 】
-- > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
-- _【 specialist clinic. 专科诊所 】_
+- > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
 - _【 eye specialist. 眼科专家 】_
+- _【 specialist clinic. 专科诊所 】_
 - // war ward reward award
+- .MT **【 This 【 drug dealer 】 【 in 】 this 【 ward 】 bought 【 external medicines 】 in the 【 pharmacy 】 of the 【 specialist clinic 】. 这个病房的毒贩在专科诊所的药房买外用药 】**
+- .MT **【 The 【 eye specialist 】 is seeing patients in the 【 outpatient department 】 of the 【 specialist clinic 】. 眼科专家正在专科诊所的门诊部给病人看病 】**
 - AA.
 - _【 community 社区 n 】_ // ------------------- 【 community hospital. 社区医院 n 】 【 community service. 社区服务 n 】 【 learning community. 学习社区 n 】
 - > 【 community hospital. 社区医院 n 】
 - > 【 community service. 社区服务 n 】
 - > 【 learning community. 社区学习 n 】
 - BB.
+- _【 special 特别的 adj 】_
+- _【 specialize 专攻 v 】_ // ---------------- 【 specialize in. 专攻 v 】
+- _【 specialist 专家 n 】_ = expert
+- _【 specialty 专业 特色食品 】_ // ----------- 【 specialty store. 专卖店 】 【 specialty food. 特色食品 n 】
+- > specialty store. 专卖店 n
+- > specialty food. 特色食品 n
+- > 【 specialist clinic. 专科医院 】
+- [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
+- .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
+- CC.
 - _【 dental 牙齿的 牙科的 adj 】_
 - _【 dental clinic. 牙医诊所 】_
 - _【 dental floss. 牙线 】_
 - _【 dental braces. 牙套 】_ // --------------- 【 glove 手套 n 】
-- CC.
+- DD.
 - 【 private property. 私人财产 n 】// --------- 【 private 私人的 私有的 adj 】
 - 【 private conversation. 私人谈话 】
 - 【 personal privacy. 个人隐私 】
-- DD.
+- Ee.
 - _【 pharmacy = drugstore. 药房 】_
 - _【 pharmacist 药剂师 n 】_
 - // pharmacy counter. 药房柜台 n
-- EE.
-- _【 special 特别的 adj 】_
-- _【 specialize 专攻 v 】_ // ---------------- 【 specialize in. 专攻 v 】
-- _【 specialist 专家 n 】_
-- _【 specialty 专业 特色食品 】_ // ----------- 【 specialty store. 专卖店 】 【 specialty food. 特色食品 n 】
-- > 【 specialist clinic. 专科医院 】
-- // specialty store. 专卖店 n
-- // specialty food. 特色食品 n
-- [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
-- .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
@@ -92,7 +94,7 @@
 - > 【 last place. 最后一名 】
 - > 【 【 catch up with first 】 place. 赶上第一名 】
 - > 【 【 overtake 】 second place. 超过第二名 】
-- EE.
+- Ee.
 - // TIPS: Pay attention to the pronunciation of the word 'award'. [award-奖-n] [award-ceremony-颁奖典礼-n] [award-winner-获奖者-n]
 - // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
 - // TIPS: Pay attention to the pronunciation of the word 'embarrassed'. [embarrassed]
@@ -201,7 +203,7 @@
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
 - `【 anti-inflammatory drug. 消炎药 】`
 - > 【 bandage 绷带 n 】 // -------------- 【 warp bandage. 缠绷带 】 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
-- > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】 【 hearing aid. 助听器 】
+- > 【 band 乐队 n 】 // ----------------- `【 band-aid. 创可贴 n 】` 【 first aid kit. 急救箱 n 】 【 hearing aid. 助听器 】
 - > 【 brand 品牌 n 】 // --------------- `【 brand-new. 崭新的 adj 】` 【 this is a brand-new brand. 这是一个崭新的品牌 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
@@ -251,12 +253,13 @@
 - `【 instruction manual. 说明书 n 】`
 - `【 maximum daily dosage. 每日最大剂量 】`
 - `【 oral medicine. 口服药 n 】`
-- **【 The 【 instruction manual 】 【 states 】 the 【 maximum daily dosage 】 of this 【 oral medicine 】. 说明书上说明了这种口服药每天的最大药量 】**
+- .MT **【 The 【 instruction manual 】 【 states 】 the 【 maximum daily dosage 】 of this 【 oral medicine 】. 说明书上说明了这种口服药每天的最大药量 】**
+- // -- **【 state 国家 状态 说明 】**
 -
 - [CC.]
 - `【 manual transmission. 手动档 n 】`
 - `【 automatic transmission. 自动档 n 】`
-- **【 Cars are divide into 【 manual transmission 】 and 【 automatic transmission 】. 汽车分为手动档和自动档 】**
+- .MT **【 Cars are divide into 【 manual transmission 】 and 【 automatic transmission 】. 汽车分为手动档和自动档 】**
 -
 - [DD.]
 - `【 brand 品牌 n 】`
@@ -304,12 +307,14 @@
 - `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】 // 【 the theory of evolution. 进化论 n 】
 - `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
 - `【 ecosystem 生态系统 n 】` // ------------- 【 natural ecosystem. 自然生态系统 n 】 【 marine ecosystem. 海生生态系统 n 】
-- `【 biology 生物学 n 】` // ----------------- 【 biology laboratory. 生物实验室 n 】 // 【 biotic 生物的 adj 】
+- `【 biology 生物学 n 】` // ----------------- `【 biology laboratory. 生物实验室 n 】` // 【 biotic 生物的 adj 】
+- > 【 endangered species. 濒危物种 n 】
+- > 【 rare species. 稀有物种 】
 - _【 biology 生物学 n 】_
 - _【 biotic 生物的 adj 】_
 - > 【 danger 危险 n 】
 - > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
-- > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】 // rare species. 稀有物种
+- > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 】
 - > 【 dangerous 危险的 adj 】
 - _【 evaluate 评价 v 】_
 - _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】
@@ -321,7 +326,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species]
 -
 - `【 organism 生物 n 】` --------------------- 1.【 organism = living things. 生物 n 】
-- `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】
+- `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】 // microorganism microscope microphone microwave
 - `【 germ 细菌 n 】` ------------------------- 3.【 germ = bacteria. 细菌 n 】
 - `【 bacteria 细菌 n 】`
 - `【 fungus 真菌 n 】`
@@ -332,7 +337,7 @@
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
-- `【 cure 治疗 v n 】` // -------------------- 4.【 cure = treat. 治疗 v 】
+- `【 cure 治疗 v n 】` // -------------------- 4. _【 cure = treat. 治疗 v 】_
 - `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
 - > 【 cover 覆盖 v 】
@@ -345,14 +350,6 @@
 - `【 cell 细胞 n 】`
 - `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
--
-- `【 endanger 危及 v 】` // ----------------- 【 endanger life. 危及生命 】
-- `【 endangered 濒危的 adj 】` // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
-- `【 danger 危险 n 】`
-- `【 dangerous 危险的 adj 】`
-- > 【 endanger life. 危及生命 】
-- > 【 endangered species. 濒危物种 n 】
-- > 【 endangered animals. 濒危动物 n 】
 -
 - > microphone 麦克风
 - > microscope 显微镜
@@ -367,7 +364,7 @@
 - `【 evolution 进化 n 】`
 - `【 species 物种 n 】`
 - `【 reproduction 繁殖 n 】`
-- **【 How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖? 】**
+- .MT **【 How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖? 】**
 -
 - **【 How do you 【 evaluate 】 the theory of 【 evolution 】? 如何评价进化论 】**
 -
@@ -463,6 +460,7 @@
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
 - `【 rich 富有的adj 富人n 】`
+- > 【 scratch an itch. 挠痒 v 】
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
@@ -477,7 +475,7 @@
 - `【 inflammation 炎症 n 】`
 - `【 allergy 过敏 n 】`
 - `【 swelling 肿胀 n 】`
-- **【 【 Antibiotics 】 are 【 an ingredient of 】 【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】. 抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀 】**
+- .MT **【 【 Antibiotics 】 are 【 an ingredient of 】 【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】. 抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀 】**
 -
 - [BB.]
 - `【 be allergic to. 对...过敏 】`
@@ -489,8 +487,8 @@
 - `【 inflammation 炎症 发炎 n 】`
 - `【 swelling 肿胀 n 】`
 - `【 allergy 过敏 n 】`
-- **【 【 Inflammation 】 and 【 swelling 】 are the main symptoms of 【 allergies 】. 发炎和肿胀是过敏的主要症状 】**
-- **【 If you 【 are allergic to 】 【 pollen 】, 【 then 】 the pollen is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
+- .MT **【 【 Inflammation 】 and 【 swelling 】 are the main symptoms of 【 allergies 】. 发炎和肿胀是过敏的主要症状 】**
+- .MT **【 If you 【 are allergic to 】 【 pollen 】, 【 then 】 the pollen is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
 -
 - [DD.]
 - `【 antibiotic 抗生素 n 】`
