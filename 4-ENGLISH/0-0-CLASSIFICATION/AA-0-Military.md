@@ -392,7 +392,8 @@
 - _【 prison 监狱 n 】_
 - _【 prisoner 犯人 囚犯 n 】_
 - _【 imprison 关押 监禁 v 】_
-- **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
+- .MT **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
+- .MT **【 The 【 prisoners 】 and 【 criminals 】 say that there is 【 poison gas 】 in the 【 prison 】. 囚犯和罪犯说监狱里面有毒气 】**
 - BB.
 - > 【 crime scene. 犯罪现场 】
 - > 【 criminal record. 犯罪记录 】

@@ -8,6 +8,8 @@
 - `【 pharmacy. 药房 药店 n 】` // --------------- 【 pharmacy counter. 药房柜台 】 【 pharmacist 药剂师 / pharmacy 药房 】 // 【 counter 柜台 n 计数器 n 】
 - `【 drugstore. 药房 药店 n 】` // -------------- 【 drug dealer. 毒贩 】 // 【 drug 药物 毒品 n 】 【 supplier / dealer / seller 】
 - `【 ward 病房 n 】` // ------------------------ 【 make a ward round. 查房 】 // ---------------【 awkward / coward / award / reward / steward / forward 】
+- `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
+- `【 inpatient department. 住院部 】`
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
@@ -44,8 +46,6 @@
 - [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
 - .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 -
-- `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
-- `【 inpatient department. 住院部 】`
 - `【 operating room. 手术室 】` ---------------- 【 OR 】
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
 - `【 waiting room. 候诊室 】`
@@ -107,11 +107,6 @@
 - // 【 form/reform 】` -----------------------【 form 形成 v 表格 v 】 // -- 【 reform 改革 】
 - // 【 ward/reward 】` -----------------------【 ward 病房 n 】 // ---------【 reward 奖励 n 】
 - // 【 fun / fund / refund / found 】
--
-- `【 register 登记 注册 挂号 v  】` // ------ **【 registration form. 登记表 n 】**
-- `【 registration form. 登记表 n 】` // -------【 fill out the registration form. 填写登记表 】
-- `【 registration office/desk. 挂号处 n 】`
-- `【 fill out the registration form. 填写登记表 】`
 -
 - [AA.]
 - `【 register 登记 注册 挂号 v 】`
@@ -175,7 +170,7 @@
 -
 - [2222222.]
 - [MEDICINE]
-- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】 // poison 毒药-毒 VS prison 监狱
+- `【 poison 毒药 毒 n 】` // -------------- 【 poison gas. 毒气 n 】 【 venom 毒液 n 】 // 【 poison 毒药-毒 VS prison 监狱 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
@@ -202,12 +197,12 @@
 - `【 pill 药丸 n 】`
 - `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
 - `【 ointment 药膏 n 】`
-- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid kit. 急救箱 n 】 【 first aid. 急救 n 】 // 【 bandage 绷带 n 】 // 【 band 乐队 】 【 bind 绑定 v 】
+- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid. 急救 n 】 【 hearing aid. 助听器 】 【 first aid kit. 急救箱 n 】 // bandage band bind
 - `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
 - `【 anti-inflammatory drug. 消炎药 】`
-- > 【 bandage 绷带 n 】 // -------------- 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
-- > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】
-- > 【 brand 品牌 n 】 // ---------------- 【 brand-new. 崭新的 adj 】 【 this is a brand-new brand. 这是一个崭新的品牌 】
+- > 【 bandage 绷带 n 】 // -------------- 【 warp bandage. 缠绷带 】 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
+- > 【 band 乐队 n 】 // ----------------- 【 band-aid. 创可贴 n 】 【 first aid kit. 急救箱 n 】 【 hearing aid. 助听器 】
+- > 【 brand 品牌 n 】 // --------------- `【 brand-new. 崭新的 adj 】` 【 this is a brand-new brand. 这是一个崭新的品牌 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
@@ -223,10 +218,11 @@
 -
 - `【 instruction 说明 使用说明 n 】`
 - `【 instruction manual. 使用说明书 n 】` // 【 manual 手动的 adj 说明书 n 】
-- > 【 manual 手动的 adj 说明书 n 】
-- > 【 automatic 自动的 adj 】
+- _【 manual 手动的 adj 说明书 n 】_
+- _【 automatic 自动的 adj 】_
 - > 【 manual transmission. 手动档 n 】
-- > 【 automatic transmission. 自动档 n 】 //【 data transmission. 数据传输 n 】
+- > 【 automatic transmission. 自动档 n 】
+- > //【 data transmission. 数据传输 n 】
 -
 - `【 oral 口头的 adj 】`
 - `【 oral medicine. 口服药 n 】`
@@ -238,6 +234,18 @@
 - `【 detoxify 解毒 n 】`
 - `【 poison 毒药 毒 n 】`
 - .MT **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
+-
+- [BB.]
+- 【 poison gas. 毒气 n 】
+- 【 prison 监狱 n 】
+- 【 criminal 罪犯 n 】
+- .MT **【 The 【 prisoners 】 and 【 criminals 】 say that there is 【 poison gas 】 in the 【 prison 】. 囚犯和罪犯说监狱里面有毒气 】**
+- .MT **【 The 【 criminal 】 is 【 imprisoned 】 in the 【 prison 】, becoming a 【 prisoner 】. 这个罪犯被关押在监狱中，成了犯人 】**
+- // -- prisoner 囚犯 n
+- // -- prison 监狱
+- // -- imprison 关押
+- // --【 criminal record. 犯罪记录 】
+- // --【 crime scene. 犯罪现场 】
 -
 - [BB.]
 - `【 instruction manual. 说明书 n 】`
@@ -260,7 +268,8 @@
 - `【 band-aid. 创可贴 n 】`
 - `【 brand 品牌 n 】`
 - `【 band 乐队n 】`
-- .MT **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很好用 】**
+- .MT **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很实用 】**
+- .MT **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
 -
 - [FF.] [Expand]
 - `【 sap 汁液 n 】`
@@ -278,7 +287,8 @@
 - `【 bandage 绷带 n 】`
 - `【 wrap wound. 包裹伤口 v 】`
 - `【 first aid kit. 急救箱 n 】`
-- **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
+- .MT **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
+- .MT **【 The 【 bandages 】 and the 【 band-aids 】 of this 【 brand 】 are all 【 useful 】. 这个品牌的绷带和创可贴都很实用 】**
 - // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
 -
 -
@@ -299,7 +309,7 @@
 - _【 biotic 生物的 adj 】_
 - > 【 danger 危险 n 】
 - > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
-- > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】
+- > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】 // rare species. 稀有物种
 - > 【 dangerous 危险的 adj 】
 - _【 evaluate 评价 v 】_
 - _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】

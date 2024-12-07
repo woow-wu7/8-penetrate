@@ -1,6 +1,13 @@
-# 前端路由
+### 前端路由
 
 [[深入 11] 前端路由](https://juejin.cn/post/6844904054846390279)
+
+### 常见问题
+
+```
+1. Why does the HistoryRouter need the support of the server? -- 详见 (二) history 路由
+2. What's the difference between HashRouter and HistoryRouter ?
+```
 
 ### 一些单词
 
@@ -180,19 +187,20 @@ hashchange事件
 - 缺点: 但是 History 路由需要服务器的支持，并且需将所有的路由重定向到根页面
 - 原理:
   - 第一条线: pushState
-    - 1. 每个 a 标签的 ( href ) 属性要设置成空，并且要设置 ( 自定义属性-值为导航的路由 path ) ----------------------------------- <a href="javascript:void(0)" data-href="/home">home</a>
+    - 1. 每个 a 标签的 ( href ) 属性要设置成空，并且要设置 ( 自定义属性-值为导航的路由 path ) ------------ <a href="javascript:void(0)" data-href="/home">home</a>
     - 2. 遍历所有 a 标签，给每个 a 标签添加 ( click 事件 )，在 click 事件中 ( 获取 data-href 属性 )，然后调用 ( window.history.pushState({}, null, data-href) 来改变 history 对象，同时地址栏的 path 会改变 )
     - 3. 当地址栏的 path 改变后，我们就可以通过 ( window.location.pathname 获取最新的 path，即 data-href 属性的值 )，然后在 routes 中匹配 path，匹配上就更新 component
   - 第二条线
     - 如果是 ( 浏览器的前进，后退按钮 )，或者通过 ( window.history.go() back() forward() 等触发时，我们需要执行 popstate 事件 ) -- 比如：window.history.go(-1)
-- 需要的API
+- 需要的 API
   - window.history.pushState({}, null, path)
   - window.history.replaceState()
   - popstate 事件 -> 1.浏览器前进，后退按钮会触发 2.window.history.go()/back()/forward()会触发
-- 问题: 为什么 history 路由需要 服务器 的支持？
+- **【 问题: 为什么 history 路由需要 服务器 的支持？ 】**
 - 回答:
   - 1. (file://)文件协议: 在本地通过浏览器打开 html 文件是 ( file://协议，而 file//协议是 - 不允许直接修改 window.history.pushState() )
-  - 2. window.history.pushState() 和历史记录相关的操作需要 HTTP 协议的支持，在文件协议 (file://) 下，浏览器会限制一些操作，包括修改历史记录
+  - 2. window.history.pushState() 和历史记录相关的操作需要 HTTP 协议的支持，在文件协议 (file://) 下，浏览器会限制一些操作，包括 ( 修改历史记录 )
+  - 具体报错: _Failed to execute 'pushState' on 'History': A history state object with URL 'file:///home' cannot be created in a document with origin 'null'_
 
 ```
 <!DOCTYPE html>
