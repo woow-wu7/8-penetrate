@@ -177,6 +177,12 @@
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
 - > 【 poison gas. 毒气 有毒气体 n 】
+- > prison / imprison / prisoner
+- > sense / scene
+- > criminal / crime
+- > 【 criminal record. 犯罪记录 】
+- > 【 crime scene. 犯罪现场 】
+- > 【 make sense. 有道理 】 【 common sense. 常识 n 】 【 a sense of achievement. 成就感 n 】
 - _【 antidote 解药 n 】_
 - _【 antibiotic 抗生素 n 】_
 - _【 anti-inflammatory drug. 消炎药 】_
@@ -326,7 +332,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species]
 -
 - `【 organism 生物 n 】` --------------------- 1.【 organism = living things. 生物 n 】
-- `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】 // microorganism microscope microphone microwave
+- `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】 // microbe microorganism microscope microphone microwave
 - `【 germ 细菌 n 】` ------------------------- 3.【 germ = bacteria. 细菌 n 】
 - `【 bacteria 细菌 n 】`
 - `【 fungus 真菌 n 】`
@@ -341,23 +347,27 @@
 - `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
 - > 【 cover 覆盖 v 】
-- > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】
+- > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover strength. 恢复体力 】
 - > 【 recovery 恢复 n 】// ------------------- 【 recovery period. 恢复期 n 】
-- > 【 recover health. 恢复健康 】
 - > 【 recovery period. 恢复期 n 】
+- _【 recover health. 恢复健康 】_
+- _【 recover economy. 恢复经济 】_
+- _【 recover strength. 恢复体力 】_
 - // TIPS: Pay attention to the pronunciation of the word 'period'. [period]
 -
 - `【 cell 细胞 n 】`
 - `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
 -
+- > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope
+- > microorganism 微生物 // ------------------- organism = living things. 生物
+- > microbe 微生物
 - > microphone 麦克风
-- > microscope 显微镜
 - > microwave 微波炉
-- > microorganism 微生物 // organism = living things. 生物
 - // microscope 显微镜
-- // telescope 望远镜
 - // stethoscope 听诊器
+- // telescope 望远镜
+- // otoscope 耳镜
 -
 - [AA.]
 - `【 evaluate 评价 v 】`
@@ -365,28 +375,26 @@
 - `【 species 物种 n 】`
 - `【 reproduction 繁殖 n 】`
 - .MT **【 How do you 【 evaluate 】 the 【 evolution 】 and 【 reproduction 】 of 【 species 】? 你如何评价物种的进化和繁殖? 】**
--
 - **【 How do you 【 evaluate 】 the theory of 【 evolution 】? 如何评价进化论 】**
 -
 - [BB.]
-- `【 endanger 危及 v 】`
-- `【 endanger life. 危及生命 】`
-- `【 endangered 濒危的 adj 】`
-- `【 endangered species. 濒危物种 n 】`
+- `【 endanger 危及 v 】` // ----------------- `【 endanger life. 危及生命 】`
+- `【 endangered 濒危的 adj 】` // ----------- `【 endangered species. 濒危物种 n 】`
 - `【 danger 危险 n 】`
 - `【 dangerous 危险的 adj 】`
-- **【 Going to 【 dangerous 】 places to 【 rescue 】 【 endangered animals 】 may 【 endanger 】 our 【 lives 】. 去危险的地方解救去解救濒危动物可能会危及我们的生命 】**
+- .MT **【 Going to 【 dangerous 】 places to 【 rescue 】 【 endangered animals 】 may 【 endanger 】 our 【 lives 】. 去危险的地方解救去解救濒危动物可能会危及我们的生命 】**
 - **【 Endangered species 】 are the 【 rare species 】. 濒危物种就是稀有物种**
 - **【 This is a 【 dangerous 】 operation 【 with 】 a high 【 probability 】 of 【 endangering 】 life. 这是一项危险的操作，极有可能危及生命 】**
 - // -- 【 rare species. 稀有物种 n 】
 - // -- 【 rescue 援救 解救 v 】
 - // -- 【 life -> lives. 生命 生活 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'endangered'. [endangered-species.濒危物种-n]
 -
 - [CC.]
 - `【 recover health. 恢复健康 n 】`
 - `【 recovery period. 恢复期 n 】`
 - `【 a period of time. 一段时间 】`
-- **【 【 The period of time 】 to 【 recover health 】 is called 【 recovery period 】. 恢复健康的那段时间被称为恢复期 】**
+- .MT **【 【 The period of time 】 to 【 recover health 】 is called 【 recovery period 】. 恢复健康的那段时间被称为恢复期 】**
 -
 -
 -
@@ -397,9 +405,12 @@
 -
 - [4444444.]
 - [SYMPTOM]
-- `【 slight 轻微的 adj 】`
-- `【 severe 严重的 adj 】`
+- `【 slight 轻微的 adj 】` // -------------- 【 slight injury. 轻伤 n 】 【 minor injury. 轻伤 n 】
+- `【 severe 严重的 adj 】` // -------------- 【 severe disease. 严重的疾病 】 【 severe cold. 重感冒 】
 - `【 relieve 减轻 缓解 v 】` // ------------- 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】
+- > 【 slight injury. 轻伤 n 】
+- _【 severe cold. 重感冒 】_
+- _【 severe disease. 严重的疾病 】_
 -
 - `【 headache 头痛 n 】`
 - `【 toothache 牙痛 n 】`
@@ -420,7 +431,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
 -
 -
-- `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】
+- `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】 【 poison 毒药 n 】
 - > 【 antibiotic 抗生素 n 】
 - > 【 antidote 解药 n 】
 - > 【 anti-inflammatory drug. 消炎药 】
@@ -438,13 +449,13 @@
 - `【 allergic 过敏的 adj 】`
 - _【 be allergic to. 对...过敏 】_
 - _【 pollen 花粉 n 】_
-- // TIPS: Pay attention to the pronunciation of the word 'allergic'. [allergic]
+- // TIPS: Pay attention to the pronunciation of the word 'allergic'. [allergic][be-allergic-to.对xx过敏]
 - // TIPS: Pay attention to the pronunciation of the word 'allergen'. [allergen]
 - // TIPS: Pay attention to the pronunciation of the word 'pollen'. [pollen]
 -
 - `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
+- `【 swelling 肿胀 n 】` // ----------------- 【 swelling VS willing 】
 - `【 swollen 肿胀的 adj 】`
-- `【 swelling 肿胀 n 】` // ----------------- 【 swelling / willing 】
 - > 【 well 好 adv / 井 n 】 // -------------- 【 water well. 水井 】
 - > 【 swell 肿胀 v n 】
 -
@@ -480,8 +491,9 @@
 - [BB.]
 - `【 be allergic to. 对...过敏 】`
 - `【 allergen 过敏原 n 】`
-- **【 If you 【 are allergic to 】 【 pollen 】,【 then 】 【 pollen 】 is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
+- .MT **【 If you 【 are allergic to 】 【 pollen 】,【 then 】 【 pollen 】 is the 【 allergen 】. 如果你对花粉过敏，那么花粉就是过敏原 】**
 - // -- 【 then 然后 那么 adv 】
+- // -- 【 pollen 花粉 n 】
 -
 - [CC.]
 - `【 inflammation 炎症 发炎 n 】`
@@ -495,9 +507,9 @@
 - `【 nausea 恶心 n 】`
 - `【 vomiting 呕吐 n 】`
 - // vomit. 呕吐
-- **【 【 Antibiotics 】 can not 【 treat 】 【 nausea 】 and 【 vomiting 】. 抗生素不能治疗恶心和呕吐 】**
+- .MT **【 【 Antibiotics 】 can not 【 treat 】 【 nausea 】 and 【 vomiting 】. 抗生素不能治疗恶心和呕吐 】**
 -
-- [EE.]
+- [Ee.]
 - `【 cold 感冒n 冷的adj 】`
 - `【 fever 发烧 n 】`
 - `【 headache 头痛 n 】`
@@ -519,7 +531,7 @@
 - [5555555.]
 - [PEOPLE]
 - `【 surgeon 外科医生 n 】`
-- `【 internist 内科医生 n 】` // internal 内部的 adj 内脏 n
+- `【 internist 内科医生 n 】` // ------------------ 【 internal 内部的 adj / 内脏 n 】 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】
 - > 【 external medicine. 外用药 】
 - > 【 internal medicine. 内服药 】
 - > 【 internal contradiction. 内部矛盾 n 】
@@ -529,17 +541,21 @@
 - > 【 pregnant woman. 孕妇 n 】
 - > 【 widow 寡妇 n 】 // widow window
 -
-- `【 dentist 牙医 牙医诊所 】` // dental clinic. // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
-- `【 vet 兽医 兽医诊所 】`
+- `【 vet 兽医 兽医诊所 】` // --------------------- 【 vet 兽医 VS vest 背心 】 // 【 bulletproof vest. 防弹衣 】
+- `【 dentist 牙医 n 】` // 【 dental clinic. 牙医诊所 】 // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
+- > 【 bulletproof vest. 防弹衣 】
+- _【 dental clinic. 牙医诊所 】_
+- _【 specialist clinic. 专科诊所 】_
+- _【 eye specialist. 眼科专家 】_
 -
 - `【 doctor 医生 】`
 - `【 nurse 护士 】`
-- `【 paramedic 护理人员 】`
-- `【 pharmacist 药剂师` 】 // pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
-- `【 specialist 专家 】` // 【 eye specialist. 眼科专家 】 【 specialist clinic. 专科诊所 】
+- `【 paramedic 护理人员 】` // -------------------- 【 paramedic 护理人员 】 【 parameter 参数 n 】
+- `【 pharmacist 药剂师` 】 // ---------------------- pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
+- `【 specialist 专家 】` // ----------------------- 【 eye specialist. 眼科专家 】 【 specialist clinic. 专科诊所 】
 - `【 expert 专家 】`
 - > 【 special / specialist / specialty / specialize in. 】
-- > 【 specialty store. 专卖店 n 】
+- > 【 specialty store. 专卖店 n 】 【 specialty food. 特色食品 】
 - > 【 specialist = expert 专家 】
 -
 - [AA.]
@@ -550,7 +566,19 @@
 - `【 oral medicine. 口服药 n 】`
 - **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
 -
+- [BB.]
+- `【 gynecologist 妇科医生 n 】`
+- `【 pregnant woman. 孕妇 】`
+- 【 examine 检查 v 】
+- **【 This 【 gynecologist 】 is 【 examining 】 the 【 pregnant woman 】. 这个妇科医生正在给孕妇看病 】**
+- // -- examine 检查 v
+- // -- exam 考试 检查 n
+- // -- examination 考试 检查 n
 -
+- [CC.]
+- `【 specialty store. 专卖店 】`
+- `【 specialty food. 特色食品 】`
+- **【 This 【 specialty store 】 sells 【 specialty foods 】. 这个专卖店卖特色食品 】**
 -
 -
 -
@@ -558,21 +586,21 @@
 -
 - [6666666.]
 - [OTHER]
-- `【 ambulance 救护车 】`
-- `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】
-- `【 first aid kit. 急救箱 n  】` // ----------- `【 just in case. 以防万一 】`
-- `【 band-aid. 创可贴 】` // ------------------- 【 band 乐队 VS brand 品牌 VS bandage 绷带 】
-- `【 hearing aid. 助听器 】`
-- `【 bandage 绷带 n 】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
+- `【 ambulance 救护车 】` // -------------------- ambulance balance glance
 - `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展
+- `【 bandage 绷带 n 】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
+- `【 band-aid. 创可贴 】` // ------------------- 【 first aid. 急救 】 【 hearing aid. 助听器 】 //【 band 乐队 VS brand 品牌 VS bandage 绷带 】
+- `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】 【 band-aid. 绷带 】 【 hearing-aid. 助听器 】
+- `【 first aid kit. 急救箱 n  】` // ----------- `【 just in case. 以防万一 】`
+- `【 hearing aid. 助听器 】`
 - > 【 ambulance 救护车 n 】
 - > 【 balance 平衡 余额 n 】
 - > 【 glance 扫视 看一眼 v n 】
 - _【 wrap bandage. 缠绷带 】_
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
 -
-- `【 thermometer 体温计 温度计 n 】` // --------- 【 meter 米 n / 计量器 n 】 【 Celsius 摄氏的 adj 】
-- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 而镜 】
+- `【 thermometer 体温计 温度计 n 】` // --------- 【 mercury thermometer. 水银温度计 】 【 digital thermometer. 】 // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
+- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 】
 - `【 otoscope 耳镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
 - > 【 syringe 注射器 】
@@ -580,11 +608,17 @@
 - > 【 syringe barrel. 针筒 n 】
 - _【 40 degrees Celsius. 40 摄氏度 n 】_
 - _【 body temperature. 体温 n 】_
+- 【 Mercury 水星 n 】
+- 【 mercury 水银 n 】
+- > 【 mercury thermometer. 水银温度计 】
+- > 【 digital thermometer. 数字温度计 】
 - // TIPS: Pay attention to the pronunciation of the word 'barrel'. [syringe-barrel.针筒]
+- // TIPS: Pay attention to the pronunciation of the word 'otoscope'. [otoscope-耳镜-n]
+- // TIPS: Pay attention to the pronunciation of the word 'Mercury'. [Mercury-水星-n][大写是水星-Mercury/小写是水银-mercury]
 -
 - `【 blood pressure. 血压 】` // --------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`
-- `【 measure 测量v / 措施 n 】`
+- `【 measure 测量v / 措施 n 】` // -------------- 【 measure 测量措施 VS means 手段途经 】
 - `【 physical examination. 体检 】` // ---------- exam examination
 - `【 physical examination report. 体检报告 】` // report 报告 v/n
 - // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
@@ -608,13 +642,24 @@
 - `【 syringe 注射器 n 】`
 - `【 syringe needle. 针头 n 】`
 - `【 syringe barrel. 针筒 n 】`
-- **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
+- .MT **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
 -
 - [CC.]
 - `【 ambulance 救护车 n 】`
 - `【 first aid. 急救 n 】`
 - `【 first aid kit. 急救箱 n 】`
 - **【 【 Ambulances 】 and 【 first aid kits 】 can both 【 be used for 】 【 first aid 】. 救护车和急救箱都可以用于急救 】**
+-
+- [DD.]
+- `【 just in case. 以防万一 】`
+- .MT **【 Bring the first aid kit, 【 just in case 】. 带上急救箱，以防万一 】**
+-
+- [EE.]
+- `【 mercury thermometer. 水银温度计 】`
+- `【 digital thermometer. 数字温度计 】`
+- `【 principle 原则 原理 n 】`
+- `【 body temperature. 体温 n 】`
+- **【 【 Mercury thermometers 】 and 【 digital thermometers 】 use different 【 principles 】 to 【 measure 】 【 body temperature 】. 水银温度计和数字温度计用不用的原理来测体温 】**
 
 ## (1) Must Words
 

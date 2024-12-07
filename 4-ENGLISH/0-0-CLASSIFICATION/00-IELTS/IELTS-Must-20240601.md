@@ -453,7 +453,7 @@
 ###### 2024-06-11
 
 - 1
-- `【 modest 谦虚的 adj 】`   
+- `【 modest 谦虚的 adj 】`
 - `【 low-key. 低调的 adj 】`
 - `【 generous 慷慨的 adj 】`
 - `【 serious 严肃的 认真的 严重的 adj 】`
@@ -538,6 +538,7 @@
 - `【 fiancee 未婚妻 n 】`
 - `【 widow 寡妇 】` //---------------【 window 窗户 】
 - `【 pregnant woman. 孕妇 n 】` // -- pregnant 怀孕的 // fragment 片段 // My wife is three months 【 pregnant 】. 我老婆怀孕 3 个月了
+- > 【 gynecologist 妇科医生 】
 - // TIPS: Pay attention to the pronunciation of the word 'fiancee'. [fiancee]
 - // TIPS: Pay attention to the pronunciation of the word 'pregnant'. [pregnant]
 -
