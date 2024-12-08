@@ -418,7 +418,7 @@
 - `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
 -
-- > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope
+- > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope / gastroscope
 - > microorganism 微生物 // ------------------- organism = living things. 生物
 - > microbe 微生物
 - > microphone 麦克风
@@ -427,6 +427,7 @@
 - // stethoscope 听诊器
 - // telescope 望远镜
 - // otoscope 耳镜
+- // gastroscope 胃镜
 -
 - [AA.]
 - `【 evaluate 评价 v 】`
@@ -549,6 +550,9 @@
 - `【 allergy 过敏 n 】`
 - `【 swelling 肿胀 n 】`
 - .MT **【 【 Antibiotics 】 are 【 an ingredient of 】 【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】. 抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀 】**
+- // -- ingredient 成分 原料 n
+- // -- material 材料 n
+- // -- relieve 缓解 v
 -
 - [BB.]
 - `【 be allergic to. 对...过敏 】`
@@ -581,7 +585,7 @@
 - `【 runny nose. 流鼻涕 】`
 - `【 stuffy nose. 鼻塞 】`
 - `【 dizziness 头晕 n 】`
-- **【 The symptoms of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏 】**
+- .MT **【 The 【 symptoms 】 of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏 】**
 -
 -
 -
@@ -597,29 +601,35 @@
 - [PEOPLE]
 - `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` `【 perform surgery. 做外科手术 】`
 - `【 internist 内科医生 n 】` // ------------------ 【 internal 内部的 adj / 内脏 n 】 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】
+- `【 dentist 牙医 n 】`
+- `【 gynecologist 妇科医生 n 】` // --------------- 【 pregnant woman. 孕妇 n 】 【 widow 寡妇 n 】
 - _【 perform surgery. 做外科手术 】_ // ----------- 【 perform surgery. 做外科手术 】
 - _【 surgery 外科手术 n 】_
 - _【 surgeon 外科医生 n 】_
-- > 【 external medicine. 外用药 】
-- > 【 internal medicine. 内服药 】
 - > 【 internal contradiction. 内部矛盾 n 】
+- > 【 internal medicine. 内服药 】
+- > 【 external medicine. 外用药 】
+-
 -
 - `【 pediatrician 儿科医生 】` // pediatrician // pediatric // paramedic
-- `【 gynecologist 妇科医生 】` // gy + nec + ologist
+- `【 gynecologist 妇科医生 】` // gy + nec + olo + gist // -------------- 【 gynecologist / internist / dentist 】
 - > 【 pregnant woman. 孕妇 n 】
-- > 【 widow 寡妇 n 】 // widow window
+- > 【 widow 寡妇 n 】 // widow VS window
 - // TIPS: Pay attention to the pronunciation of the word 'gynecologist'. [gynecologist-妇科医生-n]
 -
 - `【 vet 兽医 兽医诊所 】` // --------------------- 【 vet 兽医 VS vest 背心 】 // 【 bulletproof vest. 防弹衣 】
 - `【 dentist 牙医 n 】` // 【 dental clinic. 牙医诊所 】 // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
+- `【 internist 内科医生 】`
+- `【 gynecologist 妇科医生 】`
 - > 【 bulletproof vest. 防弹衣 】
+- > 【 vet VS vest 】
 - _【 dental clinic. 牙医诊所 】_
 - _【 specialist clinic. 专科诊所 】_
 - _【 eye specialist. 眼科专家 】_
 -
 - `【 doctor 医生 】`
 - `【 nurse 护士 】`
-- `【 paramedic 护理人员 】` // -------------------- 【 paramedic 护理人员 】 【 parameter 参数 n 】
+- `【 paramedic 护理人员 】` // -------------------- **【 paramedic 护理人员 】** **【 parameter 参数 n 】**
 - `【 pharmacist 药剂师` 】 // ---------------------- pharmacy 药店 // drugstore 药店 // prescription 处方 // prescribe 开药方
 - `【 specialist 专家 】` // ----------------------- 【 eye specialist. 眼科专家 】 【 specialist clinic. 专科诊所 】
 - `【 expert 专家 】`
@@ -633,14 +643,16 @@
 - `【 prescribe 开处方 v 】`
 - `【 internal medicine. 外用药 n 】`
 - `【 oral medicine. 口服药 n 】`
-- **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
-- **【 The 【 surgeon 】 is 【 performing surgery 】 【 on 】 the patient. 外科医生正在给病人做外科手术 】**
+- .MT **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
+- .MT **【 The 【 surgeon 】 is 【 performing surgery 】 【 on 】 the patient. 外科医生正在给病人做外科手术 】**
+- // -- 【 perform surgery. 做外科手术 】
 -
 - [BB.]
 - `【 gynecologist 妇科医生 n 】`
 - `【 pregnant woman. 孕妇 】`
 - 【 examine 检查 v 】
-- **【 This 【 gynecologist 】 is 【 examining 】 the 【 pregnant woman 】. 这个妇科医生正在给孕妇看病 】**
+- .MT **【 This 【 gynecologist 】 is 【 examining 】 the 【 pregnant woman 】. 这个妇科医生正在给孕妇看病 】**
+- .MT **【 The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 pregnant woman 】 like 【 surgeon 】.这个妇科医生正在学习如何像外科医生那样给孕妇做手术 】**
 - // -- examine 检查 v
 - // -- exam 考试 检查 n
 - // -- examination 考试 检查 n
@@ -664,7 +676,7 @@
 - [6666666.]
 - [OTHER]
 - `【 ambulance 救护车 】` // -------------------- ambulance balance glance
-- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展
+- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展 // stretcher VS stretch VS street
 - `【 bandage 绷带 n 】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
 - `【 band-aid. 创可贴 】` // ------------------- 【 first aid. 急救 】 【 hearing aid. 助听器 】 //【 band 乐队 VS brand 品牌 VS bandage 绷带 】
 - `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】 【 band-aid. 绷带 】 【 hearing-aid. 助听器 】
@@ -677,15 +689,18 @@
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
 -
 - `【 thermometer 体温计 温度计 n 】` // -------- `【 mercury thermometer. 水银温度计 】` `【 digital thermometer. 】` // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
-- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 】
+- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 / gastroscope 胃镜 】
 - `【 otoscope 耳镜 】`
-- `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
+- `【 gastroscope 胃镜 】`
+- `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】 // syringe VS syrup
+- _【 mercury thermometer. 水银温度计 n 】_
+- _【 digital thermometer. 数字温度计 n 】_
 - > 【 syringe 注射器 】// ---------------------- 【 syrup VS syringe 】 // 【 cough syrup. 止咳糖浆 xx】
 - > 【 syringe needle. 针头 n 】 // ------------- 【 needle 针 针头 n 】 【 thread 线 螺纹 n 】
 - > 【 syringe barrel. 针筒 n 】
 - // syrup 糖浆
 - // syringe 注射器
-- _【 40 degrees Celsius. 40 摄氏度 n 】_
+- _【 40 degrees Celsius. 40 摄氏度 n 】_ // ----- 注意是 degrees
 - _【 body temperature. 体温 n 】_
 - 【 Mercury 水星 n 】
 - 【 mercury 水银 n 】
@@ -699,11 +714,16 @@
 - // TIPS: Pay attention to the pronunciation of the word 'syrup'. [][syrup-糖浆-n]
 - // TIPS: Pay attention to the pronunciation of the word 'syringe'. [][syringe-注射器-n]
 -
-- `【 blood pressure. 血压 】` // --------------- 【 stress / pressure 】
+- `【 blood pressure. 血压 】` // ---------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`
-- `【 measure 测量v / 措施 n 】` // -------------- 【 measure 测量措施 VS means 手段途经 】
-- `【 physical examination. 体检 】` // ---------- exam examination
-- `【 physical examination report. 体检报告 】` // report 报告 v/n
+- `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
+- > 【 physical examination. 体检 】` // ---------- exam examination
+- > 【 physical examination report. 体检报告 】` // report 报告 v/n
+- > 【 regular physical examination. 定期体检 v 】
+- //【 regular 定期的 普通的 正式的 adj 】
+- //【 regular gas. 普通汽油 】
+- //【 regular employee. 正式员工 】
+- //【 regular physical examination. 定期体检 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
 -
 - [AA.]
@@ -711,6 +731,22 @@
 - `【 body temperature 体温 n 】`
 - `【 40 degrees Celsius. 40 摄氏度 】`
 - .MT **【 The 【 thermometer 】 shows that his 【 body temperature 】 is 【 40 degrees Celsius 】. 体温计显示他的体温是 40 摄氏度 】**
+-
+- [BB.]
+- `【 mercury thermometer. 水银温度计 】`
+- `【 digital thermometer. 数字温度计 】`
+- `【 principle 原则 原理 n 】`
+- `【 body temperature. 体温 n 】`
+- `【 blood pressure. 血压 n 】`
+- .MT **【 【 Mercury thermometers 】 and 【 digital thermometers 】 use different 【 principles 】 to 【 measure 】 【 body temperature 】. 水银温度计和数字温度计用不用的原理来测体温 】**
+- .MT **【 This 【 device 】 can 【 measure 】 the 【 pulse 】 and 【 blood pressure 】. 这个设备可以测脉搏和血压 】**
+- // -- principle 原理 原则
+-
+- [CC.]
+- `【 syringe 注射器 n 】`
+- `【 syringe needle. 针头 n 】`
+- `【 syringe barrel. 针筒 n 】`
+- .MT **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
 -
 - [DD.]
 - `【 ambulance 救护车 n 】`
@@ -721,28 +757,20 @@
 - `【 first aid. 急救 n 】`
 - .MT **【 【 Ambulances 】, 【 stretchers 】, 【 first aid kits 】, 【 bandages 】, and 【 band-aids 】 can be used for 【 first aid 】. 救护车，担架，急救箱，绑带，创可贴都可以用户急救 】**
 -
-- [BB.]
-- `【 syringe 注射器 n 】`
-- `【 syringe needle. 针头 n 】`
-- `【 syringe barrel. 针筒 n 】`
-- .MT **【 A 【 syringe 】 consists of a 【 syringe needle 】and 【 syringe barrel 】. 注射器由针头和针筒组成 】**
--
-- [CC.]
+- [EE.]
 - `【 ambulance 救护车 n 】`
 - `【 first aid. 急救 n 】`
 - `【 first aid kit. 急救箱 n 】`
 - **【 【 Ambulances 】 and 【 first aid kits 】 can both 【 be used for 】 【 first aid 】. 救护车和急救箱都可以用于急救 】**
 -
-- [DD.]
+- [FF.]
 - `【 just in case. 以防万一 】`
 - .MT **【 Bring the first aid kit, 【 just in case 】. 带上急救箱，以防万一 】**
 -
-- [EE.]
-- `【 mercury thermometer. 水银温度计 】`
-- `【 digital thermometer. 数字温度计 】`
-- `【 principle 原则 原理 n 】`
-- `【 body temperature. 体温 n 】`
-- **【 【 Mercury thermometers 】 and 【 digital thermometers 】 use different 【 principles 】 to 【 measure 】 【 body temperature 】. 水银温度计和数字温度计用不用的原理来测体温 】**
+- [GG.]
+- `【 pulse 脉搏 n 】`
+- `【 blood pressure. 血压 n 】`
+- .MT **【 This 【 device 】 can 【 measure 】 the 【 pulse 】 and 【 blood pressure 】. 这个设备可以测脉搏和血压 】**
 
 ## (1) Must Words
 
@@ -988,6 +1016,7 @@
 - `thermometer 体温计`
 - `stethoscope 听诊器` // microscope telescope stethoscope otoscope
 - `otoscope 耳镜`
+- `gastroscope 胃镜`
 - `syringe 注射器` // injector syringe // syringe needle. 针头 // syringe barrel. 针筒
 -
 - `blood pressure. 血压` // stress pressure
@@ -1209,7 +1238,7 @@
 -
 -
 - 5
-- `microorganism 微生物 n` // microorganism microscope telescope stethoscope
+- `microorganism 微生物 n` // microorganism microscope telescope stethoscope otoscope gastroscope
 - `organism 生物 n` // organic 有机的 绿色的 生物的 adj // `organism` `organic`
 - `living things. 生物`
 - `germ 细菌`

@@ -75,7 +75,7 @@
 -
 -
 - 5
-- `【 Mercury 水星 ( mercury 水银 ) 】`
+- `【 Mercury 水星 ( mercury 水银 ) 】` // ---------- 【 mercury thermometer. 水银温度计 】
 - `【 Venus 金星 】`
 - `【 Earth 地球 】`
 - `【 Mars 火星 】`
