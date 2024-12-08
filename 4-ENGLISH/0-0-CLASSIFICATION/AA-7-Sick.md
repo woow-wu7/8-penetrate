@@ -13,7 +13,7 @@
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】 // leaning community.
 - > 【 dental clinic. 牙医诊所 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
-- > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】
+- > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】 // specialty store|food.
 - _【 eye specialist. 眼科专家 】_
 - _【 specialist clinic. 专科诊所 】_
 - // war ward reward award
@@ -45,6 +45,7 @@
 - > 【 toothbrush 牙刷 n 】
 - > 【 toothpick 牙签 n 】
 - .MT **【 Both the 【 dental braces 】 and the 【 dental floss 】 can clean teeth. 牙套和牙线都能清洁牙齿 】**
+- .MT **【 Both the 【 toothbrush 】 and the 【 toothpick 】 can clean teeth. 牙刷和牙签都能清洁牙齿 】**
 - DD.
 - 【 private property. 私人财产 n 】// --------- 【 private 私人的 私有的 adj 】
 - 【 private conversation. 私人谈话 】
@@ -53,8 +54,8 @@
 - _【 pharmacy = drugstore. 药房 】_
 - _【 pharmacist 药剂师 n 】_
 - // pharmacy counter. 药房柜台 n
-- // registration desk. 挂号处 n
-- // registration form. 登记表
+- // registration desk. 挂号处 n // ------------ 【 fill out the registration form. 填写登记表 】
+- // registration form. 登记表 n
 - .MT **【 There are many medicine bottles 【 placed 】 on the 【 pharmacy counter 】. 药房柜台上放着许多药瓶 】**
 - .MT **【 The 【 registration desk 】 【 is next to 】 the 【 pharmacy counter 】. 挂号处在药房柜台旁边 】**
 - .MT **【 There is a 【 registration form 】 on the 【 pharmacy counter 】. 药房柜台上放着一张登记表 】**
@@ -112,7 +113,7 @@
 - > full marks. 满分
 - > math score. 数学成绩
 - > academic performance. 学习成绩
-- > midterm exam. 期中考试 // ---------------------------- term 学期 术语
+- > midterm exam. 期中考试 // ---------------------------- term 学期 术语 // banking term. // financial term.
 - > final exam. 期末考试
 - > first place. 第一名
 - > last place. 最后一名
@@ -196,12 +197,12 @@
 -
 - [2222222.]
 - [MEDICINE]
-- `【 poison 毒药 毒 n 】` // -------------- `【 poison gas. 毒气 n 】` 【 poison 毒药-毒 VS prison 监狱 】 // 【 venom 毒液 n 】
+- `【 poison 毒药 毒 n 】` // -------------- `【 poison gas. 毒气 n 】` `【 poison 毒药-毒 VS prison 监狱 / imprison / prisoner 】` // 【 venom 毒液 n 】
 - `【 antidote 解药 n 】` // --------------- 【 antidote / antibiotic / anti-inflammatory drug.消炎药 】 // 【 antidote 解药 n 】 【 detoxify 解毒 v 】
 - `【 venom 毒液 n 】` // ------------------ 【 sap 植物的汁液 】 // 【 palm 手掌 】 【 slap 扇巴掌 】 【 snap 咬 】 【 sap 汁液 】
 - `【 detoxify 解毒 v 】`
-- _【 poison gas. 毒气 有毒气体 n 】_
 - _【 poisonous 有毒的 adj 】_
+- _【 poison gas. 毒气 有毒气体 n 】_
 - > prison / imprison / prisoner
 - > sense / scene
 - > criminal / crime
@@ -212,38 +213,50 @@
 - _【 antibiotic 抗生素 n 】_
 - _【 anti-inflammatory drug. 消炎药 】_
 - // TIPS: Pay attention to the pronunciation of the word 'poison'. [poison-毒-毒药-n]
-- // TIPS: Pay attention to the pronunciation of the word 'prison'. [prison-监狱-n]
+- // TIPS: Pay attention to the pronunciation of the word 'prison'. [prison-监狱-n] // prison prisoner imprison
 - // TIPS: Pay attention to the pronunciation of the word 'poisonous'. [poisonous-有毒的-adj]
-- // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify]
+- // TIPS: Pay attention to the pronunciation of the word 'detoxify'. [detoxify-解毒-v]
 - // TIPS: Pay attention to the pronunciation of the word 'venom'. [venom-毒液-n]
+- // TIPS: Pay attention to the pronunciation of the word 'snake'. [snake-蛇-n]
 - .MT **【 The 【 antidote 】 can 【 detoxify 】 the 【 poison 】 of the 【 poison 】. 解药可以解毒药的毒 】**
-- .MT **【 The 【 venom 】 of snakes is 【 poisonous 】. 蛇的毒液有毒 】**
+- .MT **【 The 【 venom 】 of 【 snakes 】 is 【 poisonous 】. 蛇的毒液有毒 】**
+- // -- poisonous 有毒的 adj
+- // -- poison 毒 毒药
+- // -- poison gas. 毒气
 -
+- `【 medicine 药 n 】` // ---------------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
 - `【 medication 药 n 】`
-- `【 medicine 药 n 】` // ----------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
-- `【 over-the-counter drugs. 非处方药 】` // 【 prescribe prescription drug. 开处方药 】
-- `【 prescription drug. 处方药 】`
-- `【 co-payment. 自付金额 】`
+- `【 over-the-counter drugs. 非处方药 】`
+- `【 prescription drugs. 处方药 】` // ---------- `【 prescribe prescription drugs. 开处方药 】`
+- `【 Anti-inflammatory drugs. 消炎药 】` // ----- 【 antibiotic 抗生素 n 】
+- `【 Painkillers 止痛药 n 】`
+- `【 allergy medication. 过敏药 n 】`
 - _【 prescribe prescription drug. 开处方药 v 】_
+- _【 allergy medication. 过敏药 n 】_
+- > 【 injectable medicine. 注射药 n 】 // ------- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】 //
 - > 【 oral medicine. 口服药 n 】
-- > 【 external medicine. 外用药 n 】 // ---- 【 internal contradiction. 内部矛盾 】 // external internal
-- > 【 injectable medicine. 注射药 n 】 // -- 【 inject 注射 v = shot. 】 【 injectable 注射的 adj 】 //
+- > 【 external medicine. 外用药 n 】 // --------- 【 internal contradiction. 内部矛盾 】 // external internal
 - > 【 traditional Chinese medicine. 中药 n 】
-- > 【 western medicine. 西药 n 】// -------- 【 western 西方的 adj 】 【 west 西方 n 】
+- > 【 western medicine. 西药 n 】// ------------- 【 western 西方的 adj 】 【 west 西方 n 】
 - > 【 take medicine. 吃药 】
+- //【 co-payment. 自付金额 】
 - // TIPS: Pay attention to the pronunciation of the word 'inject'. [inject]
 - // TIPS: Pay attention to the pronunciation of the word 'injectable'. [injectable][injectable-medicine.注射药-n]
 -
 - `【 capsule 胶囊 n 】`
 - `【 pill 药丸 n 】`
-- `【 tablet 药片 n 】` // --------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
+- `【 tablet 药片 n 】` // -------------------- 【 tablet 药片 平板 n 】 【 laptop 笔记本电脑 】
 - `【 ointment 药膏 n 】`
-- `【 band-aid. 创可贴 n 】` // ---------- 【 first aid. 急救 n 】 【 hearing aid. 助听器 】 【 first aid kit. 急救箱 n 】 // bandage band bind
-- `【 cough syrup. 止咳糖浆 n 】` // ------【 syrup 糖浆 n 】
+- `【 band-aid. 创可贴 n 】` // --------------- 【 first aid. 急救 n 】 【 hearing aid. 助听器 】 【 first aid kit. 急救箱 n 】 // bandage band bind
+- `【 cough syrup. 止咳糖浆 n 】` // ------------【 syrup 糖浆 n 】 // syrup VS syringe
 - `【 anti-inflammatory drug. 消炎药 】`
-- > 【 bandage 绷带 n 】 // -------------- 【 warp bandage. 缠绷带 】 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
-- > 【 band 乐队 n 】 // ----------------- `【 band-aid. 创可贴 n 】` 【 first aid kit. 急救箱 n 】 【 hearing aid. 助听器 】
-- > 【 brand 品牌 n 】 // --------------- `【 brand-new. 崭新的 adj 】` 【 this is a brand-new brand. 这是一个崭新的品牌 】
+- `【 over-the-counter drugs. 非处方药 】`
+- `【 prescription drug. 处方药 】` // --------- 【 prescribe prescription drug. 开处方药 】
+- `【 Painkillers 止痛药 n 】`
+- `【 allergy medication. 过敏药 n 】`
+- > 【 bandage 绷带 n 】 // ------------------- 【 warp bandage. 缠绷带 】 【 wrap wound. 包裹伤口 】 // use bandage to wrap wound.
+- > 【 band 乐队 n 】 // --------------------- `【 band-aid. 创可贴 n 】` 【 first aid kit. 急救箱 n 】 【 hearing aid. 助听器 】
+- > 【 brand 品牌 n 】 // -------------------- `【 brand-new. 崭新的 adj 】` 【 this is a brand-new brand. 这是一个崭新的品牌 】
 - > 【 bank 银行 n 】
 - > 【 branch 分支 分行 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'wound'. [wound-伤口] [wrap-the-wound.包扎伤口]
@@ -256,11 +269,13 @@
 - `【 dosage 药量 n 】`
 - `【 maximum dosage. 最大药量 n 】`
 - `【 daily dosage. 每日药量 n 】`
+- **【 take one pill three times per day. 每天三次，每次服用一粒药丸 】**
+- **【 You should take the pills with food. 你应该在进食时服用这些药丸 】**
 -
+- `【 instruction manual. 使用说明书 n 】` // -------------- 【 manual 手动的 adj 说明书 n 】
 - `【 instruction 说明 使用说明 n 】`
-- `【 instruction manual. 使用说明书 n 】` // 【 manual 手动的 adj 说明书 n 】
-- _【 manual 手动的 adj 说明书 n 】_
-- _【 automatic 自动的 adj 】_
+- _【 manual 手动的 adj 说明书 n 】_ // -------------------- 【 manual transmission. 手动挡 】
+- _【 automatic 自动的 adj 】_ // ------------------------- 【 automatic transmission. 自动挡 】
 - > 【 manual transmission. 手动档 n 】
 - > 【 automatic transmission. 自动档 n 】
 - > //【 data transmission. 数据传输 n 】
@@ -354,9 +369,9 @@
 - > 【 rare species. 稀有物种 】
 - _【 biology 生物学 n 】_
 - _【 biotic 生物的 adj 】_
-- > 【 danger 危险 n 】
-- > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
 - > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 】
+- > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
+- > 【 danger 危险 n 】
 - > 【 dangerous 危险的 adj 】
 - _【 evaluate 评价 v 】_
 - _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】
@@ -381,11 +396,11 @@
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
 - `【 cure 治疗 v n 】` // -------------------- 4. _【 cure = treat. 治疗 v 】_
 - `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
-- `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】
+- `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】
 - > 【 cover 覆盖 v 】
 - > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover strength. 恢复体力 】
 - > 【 recovery 恢复 n 】// ------------------- 【 recovery period. 恢复期 n 】
-- > 【 recovery period. 恢复期 n 】
+- > 【 recovery period. 恢复期 n 】 // -------- 【 period 时期 句号 n 】
 - _【 recover health. 恢复健康 】_
 - _【 recover economy. 恢复经济 】_
 - _【 recover strength. 恢复体力 】_
@@ -443,7 +458,7 @@
 - [SYMPTOM]
 - `【 slight 轻微的 adj 】` // -------------- 【 slight injury. 轻伤 n 】 【 minor injury. 轻伤 n 】
 - `【 severe 严重的 adj 】` // -------------- 【 severe disease. 严重的疾病 】 【 severe cold. 重感冒 】
-- `【 relieve 减轻 缓解 v 】` // ------------- 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】
+- `【 relieve 减轻 缓解 v 】` // ------------ 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】
 - > 【 slight injury. 轻伤 n 】
 - _【 severe cold. 重感冒 】_
 - _【 severe disease. 严重的疾病 】_
@@ -460,7 +475,7 @@
 - `【 headache 头痛 n 】`
 - `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
-- `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】
+- `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
 - `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 sneeze 打喷嚏v 喷嚏n 】`
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
@@ -468,9 +483,9 @@
 -
 -
 - `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】 【 poison 毒药 n 】
+- `【 anti-inflammatory drug. 消炎药 】`
 - > 【 antibiotic 抗生素 n 】
 - > 【 antidote 解药 n 】
-- > 【 anti-inflammatory drug. 消炎药 】
 - _【 relieve 减轻 缓解 v 】_
 -
 - `【 inflammation 发炎 炎症 n 】`
@@ -566,11 +581,11 @@
 -
 - [5555555.]
 - [PEOPLE]
-- `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` 【 perform surgery. 做外科手术 】
+- `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` `【 perform surgery. 做外科手术 】`
 - `【 internist 内科医生 n 】` // ------------------ 【 internal 内部的 adj / 内脏 n 】 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】
-- _【 surgeon 外科医生 n 】_
-- _【 surgery 外科手术 n 】_
 - _【 perform surgery. 做外科手术 】_ // ----------- 【 perform surgery. 做外科手术 】
+- _【 surgery 外科手术 n 】_
+- _【 surgeon 外科医生 n 】_
 - > 【 external medicine. 外用药 】
 - > 【 internal medicine. 内服药 】
 - > 【 internal contradiction. 内部矛盾 n 】
@@ -579,6 +594,7 @@
 - `【 gynecologist 妇科医生 】` // gy + nec + ologist
 - > 【 pregnant woman. 孕妇 n 】
 - > 【 widow 寡妇 n 】 // widow window
+- // TIPS: Pay attention to the pronunciation of the word 'gynecologist'. [gynecologist-妇科医生-n]
 -
 - `【 vet 兽医 兽医诊所 】` // --------------------- 【 vet 兽医 VS vest 背心 】 // 【 bulletproof vest. 防弹衣 】
 - `【 dentist 牙医 n 】` // 【 dental clinic. 牙医诊所 】 // dental braces. // dental floss. // bluetooth // toothpaste toothbrush toothpick
@@ -643,11 +659,11 @@
 - _【 wrap bandage. 缠绷带 】_
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
 -
-- `【 thermometer 体温计 温度计 n 】` // --------- 【 mercury thermometer. 水银温度计 】 【 digital thermometer. 】 // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
+- `【 thermometer 体温计 温度计 n 】` // -------- `【 mercury thermometer. 水银温度计 】` `【 digital thermometer. 】` // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
 - `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 】
 - `【 otoscope 耳镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】
-- > 【 syringe 注射器 】// syrup VS syringe
+- > 【 syringe 注射器 】// ---------------------- 【 syrup VS syringe 】 // 【 cough syrup. 止咳糖浆 xx】
 - > 【 syringe needle. 针头 n 】 // ------------- 【 needle 针 针头 n 】 【 thread 线 螺纹 n 】
 - > 【 syringe barrel. 针筒 n 】
 - // syrup 糖浆

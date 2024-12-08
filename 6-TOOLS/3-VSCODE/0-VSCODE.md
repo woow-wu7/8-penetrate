@@ -1,6 +1,6 @@
 ##### Vscode
 
-##### (1) code . / Open Vscode
+##### (1) **【 code . / Open Vscode 】**
 
 ```
 1
@@ -71,7 +71,7 @@ command + shift + p
 然后输入命令: View: Reset View Locations
 ```
 
-##### (5) **Theme** that I used
+##### (5) **【 Theme that I used 】**
 
 ```
 1. Rainbow - Rainbow(rainglow)
@@ -82,4 +82,14 @@ command + shift + p
 5. Panda syntax
 
 6. Ayu mirage bordered. // mirage 海市蜃楼 幻想
+```
+
+##### (6) **【 线上打开 vscode 】**
+
+```
+github.com/username/repo/blob/main/path/to/file.js
+
+换成
+
+github.dev/username/repo/blob/main/path/to/file.js
 ```
