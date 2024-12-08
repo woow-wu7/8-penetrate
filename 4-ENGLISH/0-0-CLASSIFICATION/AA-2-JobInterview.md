@@ -36,6 +36,7 @@
 - 1. **【 I have been 【 laid off 】by my company. 我被我公司裁员了 】**
 - 2. **【 I was 【 laid off 】. 我被裁员了 】**
 - // -- involve 涉及 v
+- // -- be involve in doing sth. 参与做某事
 - // -- architect 建筑师 设计者 n
 - // -- software architect. 软件架构师
 - // -- experienced software architect. 经验丰富的软件架构师
@@ -83,6 +84,8 @@
 - `【 compensation 补偿 赔偿 [赔偿金] n 】` // ------- 【 compensation scheme. 赔偿方案 n 】 【 technical scheme. 技术方案 】
 - `【 refund 退款 退还 v n 】`
 - `【 repay 报答 v 】`
+- > 【 compensation scheme. 补偿方案 n 】
+- > 【 technical scheme. 技术方案 n 】
 - // fun fund refund found
 - // pay back. 偿还 归还 v
 - // pay off. 还清 v
@@ -108,7 +111,8 @@
 - > 【 make an effort. 努力 v 】
 - > 【 make a decision. 做决定 v 】
 - .MT **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
-- // -- resist 抵抗 抵制 v / 防腐剂 n
+- // -- 【 resist 抵抗 抵制 v / 防腐剂 n 】
+- // -- 【 resist in doing sth. 抵制做某事 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'resist'.
 -
 - `【 day shift. 白班 】` // ----------------------- 【 work the day shift. 值白班 】
@@ -3140,9 +3144,56 @@ immigrate 移民
 - `supervise 监督 指导`
 - // How do you supervise this? 你怎样监督呢？
 
-##### new 2024-12-03
+##### new 2024-12-08
 
 ```
+1
+qualify 合格 v
+qualified 合格的 adj
+quality 质量
+-
+qualified candidate. 合格的候选人
+qualified doctor. 合格的医生
+qualified product. 合格的产品
+-
+product quality. 产品质量
+-
+be qualified to. 有资格做某事
+-
+final match. 决赛
+semi-final match. 半决赛
+-
+// Only the 【 first place 】 winner 【 be qualified to 】 【 participate in 】 the 【 final match 】.  只有第一名才有资格参加决赛
+// -- be qualified to. 有资格做某事 v
+// -- final match. 决赛 n
+// -- semi-final match. 半决赛 n
+// -- participate in. 参加 v
+-
+// She is a qualified doctor. 她是一名合格的医生
+-
+// 【 We should ensure 【 product quality 】 and 【 produce 】 【 qualified products 】. 】**
+
+
+2
+adept 熟练的 擅长的 adj
+-
+adept at doing sth. 擅长做某事
+-
+// I 【 am adept at 】 dealing with problems. 我擅长处理问题
+
+
+
+3
+flair 天赋 n
+-
+flair for. 
+-
+// 
+
+
+------- dividing line  ------- ------- ------- ------- ------- -------
+
+
 in a number of ways. 多种方式
 // -- We can solve this problem 【 in a number of ways 】. 我们可以用多种方式解决这个问题
 
@@ -3157,4 +3208,5 @@ Self-motivated. 自我激励的 adj
 
 regardless of. 不管
 // 【 Regardless of 】 what others say, I still believe you. 不管别人说什么，我仍然相信你
+
 ```

@@ -2,6 +2,8 @@
 
 ## (1) **The Sick words that you mast know.**
 
+## (1.1) `PLACE`
+
 - [1111111.]
 - [PLACE]
 - `【 clinic 诊所 n 】` // ---------------------- 【 dental clinic. 牙医诊所 】 【 specialist clinic. 专科诊所 】 【 private clinic. 私人诊所 】
@@ -195,6 +197,9 @@
 -
 -
 -
+
+## (1.2) `MEDICINE`
+
 - [2222222.]
 - [MEDICINE]
 - `【 poison 毒药 毒 n 】` // -------------- `【 poison gas. 毒气 n 】` `【 poison 毒药-毒 VS prison 监狱 / imprison / prisoner 】` // 【 venom 毒液 n 】
@@ -358,6 +363,9 @@
 -
 -
 -
+
+## (1.3) `SPECIES`
+
 - [3333333.]
 - [SPECIES]
 - `【 species 物种 种 n 】` // ---------------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
@@ -454,6 +462,9 @@
 -
 -
 -
+
+## (1.4) `SYMPTOM`
+
 - [4444444.]
 - [SYMPTOM]
 - `【 slight 轻微的 adj 】` // -------------- 【 slight injury. 轻伤 n 】 【 minor injury. 轻伤 n 】
@@ -579,6 +590,9 @@
 -
 -
 -
+
+## (1.5) `PEOPLE`
+
 - [5555555.]
 - [PEOPLE]
 - `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` `【 perform surgery. 做外科手术 】`
@@ -644,6 +658,9 @@
 -
 -
 -
+
+## (1.6) `OTHER`
+
 - [6666666.]
 - [OTHER]
 - `【 ambulance 救护车 】` // -------------------- ambulance balance glance
