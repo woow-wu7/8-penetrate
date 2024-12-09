@@ -414,6 +414,8 @@
 - `【 living things. 生物 】`
 - `【 microbe. 微生物 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'microbe'. [microbe]
+- **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
+- **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
@@ -500,7 +502,8 @@
 - `【 stomachache 胃痛 n 】`
 - `【 earache 耳朵痛 n 】`
 -
-- `【 cold 感冒n 冷的adj 】`
+- `【 cold 感冒n / 冷的adj 】`
+- `【 flu 流行性感冒 流感 n 】`
 - `【 fever 发烧 n 】`
 - `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
 - `【 headache 头痛 n 】`
@@ -545,6 +548,7 @@
 - > 【 swell 肿胀 v n 】
 -
 - `【 nausea 恶心 n 】`
+- `【 nauseous 恶心的 adj 】`
 - `【 vomiting 呕吐 n 】` // ----------------- 【 vomit 呕吐 v 】
 - `【 vomit 呕吐v 呕吐物n 】` = 【 throw up. 呕吐 】
 - > 【 vomit 呕吐 v 呕吐物 n 】
@@ -561,6 +565,12 @@
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
+-
+- `【 acne 痘痘 痤疮 n 】`
+-
+- `【 slim 苗条的adj 】`
+- `【 figure 身材n 】`
+- > 【 figure out. 计算出 v 】
 -
 - // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
 - // TIPS: Pay attention to the pronunciation of the word 'severe'. [severe]
@@ -715,20 +725,29 @@
 - `【 ambulance 救护车 】` // -------------------- ambulance balance glance
 - `【 stretcher 担架 】` // --------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展 // stretcher VS stretch VS street
 - `【 crutch 拐杖 】` // ------------------------ `【 scratch 挠 VS crutch拐杖 】`
-- `【 bandage 绷带  】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
+- `【 bandage 绷带  】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】 // 【 scar 伤疤 】 【 wound 伤口 】 【 gypsum 石膏 n 】
 - `【 band-aid. 创可贴 】` // ------------------- 【 first aid. 急救 】 【 hearing aid. 助听器 】 //【 band 乐队 VS brand 品牌 VS bandage 绷带 】
 - `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】 【 band-aid. 绷带 】 【 hearing-aid. 助听器 】
 - `【 first aid kit. 急救箱 n  】` // ----------- `【 just in case. 以防万一 】`
 - `【 hearing aid. 助听器 】`
+- AA.
 - > 【 ambulance 救护车 n 】
 - > 【 balance 平衡 余额 n 】
 - > 【 glance 扫视 看一眼 v n 】
+- BB.
+- _【 scar 伤疤 】_
+- _【 wound 伤口 】_
+- _【 gypsum 石膏 n 】_
 - _【 wrap bandage. 缠绷带 】_
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
-- 【 gypsum 石膏 n 】
+- **【 After 【 recovery 】, the 【 wound 】 【 turned into 】 【 scar 】. 康复后伤口变成了伤疤 】**
+- CC.
+- > 【 overstretched 超负荷运转的 adj 】`
+- > 【 stretch 伸展 v 】`
+- > 【 stretcher 担架 n 】`
 -
 - `【 thermometer 体温计 温度计 n 】` // -------- `【 mercury thermometer. 水银温度计 】` `【 digital thermometer. 】` // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
-- `【 stethoscope 听诊器 】` // ---------------- `【 heartbeat 心跳 】` 【 microscope / telescope / stethoscope 听诊器 / otoscope 耳镜 / gastroscope 胃镜 】
+- `【 stethoscope 听诊器 】` // ---------------- `【 heartbeat 心跳 】` 【 microscope / telescope / stethoscope / otoscope 耳镜 / gastroscope 胃镜 】
 - `【 otoscope 耳镜 】`
 - `【 gastroscope 胃镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 syringe needle. 针头 // syringe barrel. 针筒 】 // syringe VS syrup
@@ -753,19 +772,41 @@
 - // TIPS: Pay attention to the pronunciation of the word 'syrup'. [][syrup-糖浆-n]
 - // TIPS: Pay attention to the pronunciation of the word 'syringe'. [][syringe-注射器-n]
 -
+- `【 blood vessel. 血管 】`
 - `【 blood pressure. 血压 】` // ---------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`
 - `【 heartbeat 心跳 】`
 - `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
 - `【 physical examination. 体检 】` // ----------- exam examination
 - `【 regular physical examination. 定期体检 】`
+- `【 routine examination. 常规检查 】`
+- _【 routine 常规的 adj / 常规 n 】_
+- _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
+- _【 routine check-up. 常规检查 】_
+- **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
+- // -- 【 belong to. 属于 】
+- AA.
 - > 【 physical examination report. 体检报告 】` // ----- report 报告 v/n
 - > 【 【 regular 】 physical examination. 定期体检 v 】-- regular 普通的 正式的 定期的 adj
+- BB.
+- _【 artery 动脉 】_
+- _【 vein 静脉 】_
 - //【 regular 普通的 正式的 定期的 adj 】
 - //【 regular gas. 普通汽油 】
 - //【 regular employee. 正式员工 】
 - //【 regular physical examination. 定期体检 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
+- CC.
+- _【 routine 常规的 adj / 常规 n 】_
+- _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
+- _【 routine check-up. 常规检查 】_
+- **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
+- // -- physical examination. 体检
+- // -- routine examination. 常规检查
+- // -- routine check-up. 常规检查
+- // -- 【 belong to. 属于 】
+- // -- 【 victory 胜利 】
+- // -- **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
 -
 - [AA.]
 - `【 thermometer 体温计 n 】`
@@ -823,7 +864,7 @@
 
 ## (1.7) `ORGAN` organ
 
-- `【 cell 细胞 n 】`
+- `【 cell 细胞 n 】` // ------------------- **【 nerve cells. 神经细胞 】** // 【 nerve 神经 】
 - `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
 - `【 internal 内脏n / 内部的 adj 】` // ------- 【 internal contradiction. 内部矛盾 】 【 internal structure. 内部结构 】
@@ -842,6 +883,29 @@
 - `【 intestine 肠 n 】` // ------------------- 【 small intestine. 小肠 】 【 large intestine. 大肠 】
 - `【 small intestine. 小肠 】`
 - `【 large intestine. 大肠 】`
+-
+- `【 nerve 神经 n 】` // --------------------- 【 nerve cells. 神经细胞 】
+- `【 neural 神经的 adj 】` // ---------------- 【 neural network. 神经网络 】
+- > 【 nerve cells. 神经细胞 】`
+- > 【 neural network. 神经网络 】`
+-
+- [AA.]
+- `【 vital 至关重要的 adj 】`
+- **【 The heart, brain, lungs are 【 vital 】 organs in the human body. 心脏、大脑、肺是人体的重要器官 】**
+- // -- 【 vital 至关重要的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'vital'. [vital-至关重要的-adj]
+-
+- [BB.]
+- `【 neural network. 神经网络 n 】`
+- `【 nerve cells. 神经细胞 n 】`
+- **【 【 Neural networks 】 【 are composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- **【 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- // -- be composed of. 由...组成
+- // -- consist of. 由...组成
+-
+- [CC.]
+- **【 【 Lungs 】 are the 【 organs 】 responsible for breathing. 肺是负责呼吸的器官 】**
+- **【 These organs 【 are formed by 】 tissues. 这些器官是由组织组成的 】**
 
 ## (1.8) `NUTRITION` nutrition
 
@@ -1277,6 +1341,7 @@ stay hydrated. 多喝水
 - `【 severe 严重的 重的 】` // --- severe fever. 重感冒
 - `【 relieve 减轻 缓解 v 】`
 - // TIPS: Pay attention to the pronunciation of the word 'severe'.
+- **【 How severe is the pain? 疼痛程度如何？ 】**
 -
 - `【 infect 感染 传染 v 】`
 - `【 infection 感染 传染 n 】`
@@ -2243,7 +2308,7 @@ heart 心脏
 brain 大脑
 lung 肺 // 通常是复数lungs
 vital 至关重要的 adj
-// The heart, brain, lungs are examples of vital organs in the human body. 心脏，大脑，肺等是人体的重要器官
+// The heart, brain, lungs are  vital organs in the human body. 心脏，大脑，肺等是人体的重要器官
 
 vein 静脉 血管
 artery 动脉

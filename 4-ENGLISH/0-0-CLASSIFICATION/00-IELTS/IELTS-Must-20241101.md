@@ -543,6 +543,7 @@
 -
 - `【 hand 手n 交v 】`
 - `【 palm 手掌 手心 n 】` // ----------------- 【 palm 手心 n 】 【 back of the hand. 手背 n 】
+- `【 wrist 手腕 n 】`
 - `【 finger 手指 n 】` // ------------------- 【 fingernail 手指甲 n 】 【 fingerprint 手印 n 】
 - `【 toe 脚趾 n 】` // ---------------------- 【 toenail 脚指甲 n 】
 - `【 fingerprint 指纹 n 】`
