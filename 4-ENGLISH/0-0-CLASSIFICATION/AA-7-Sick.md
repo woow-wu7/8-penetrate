@@ -2,7 +2,7 @@
 
 ## **(一) 【 The Sick words that you mast know 】**
 
-## (1.1) `PLACE`
+## (1.1) `PLACE` place
 
 - [1111111.]
 - [PLACE]
@@ -204,7 +204,7 @@
 -
 -
 
-## (1.2) `MEDICINE`
+## (1.2) `MEDICINE` medicine
 
 - [2222222.]
 - [MEDICINE]
@@ -378,7 +378,7 @@
 -
 -
 
-## (1.3) `SPECIES`
+## (1.3) `SPECIES` species
 
 - [3333333.]
 - [SPECIES]
@@ -475,7 +475,7 @@
 -
 -
 
-## (1.4) `SYMPTOM`
+## (1.4) `SYMPTOM` symptom
 
 - [4444444.]
 - [SYMPTOM]
@@ -618,7 +618,7 @@
 -
 -
 
-## (1.5) `PEOPLE`
+## (1.5) `PEOPLE` people
 
 - [5555555.]
 - [PEOPLE]
@@ -708,7 +708,7 @@
 -
 -
 
-## (1.6) `TOOL`
+## (1.6) `TOOL` tool
 
 - [6666666.]
 - [OTHER]
@@ -725,6 +725,7 @@
 - > 【 glance 扫视 看一眼 v n 】
 - _【 wrap bandage. 缠绷带 】_
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
+- 【 gypsum 石膏 n 】
 -
 - `【 thermometer 体温计 温度计 n 】` // -------- `【 mercury thermometer. 水银温度计 】` `【 digital thermometer. 】` // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
 - `【 stethoscope 听诊器 】` // ---------------- `【 heartbeat 心跳 】` 【 microscope / telescope / stethoscope 听诊器 / otoscope 耳镜 / gastroscope 胃镜 】
@@ -854,28 +855,38 @@
 - `【 mineral 矿物质n 矿物的adj 】` // ------------ 【 mineral water. 矿泉水 】 // 【 mineral resource. 矿物资源 】
 - > 【 mineral water. 矿泉水 】
 - > 【 mineral resource. 矿物资源 】
+- _【 be rich in protein. 富含蛋白质 】_
+- _【 high protein. 高蛋白 】_
 - // 【 various resources. 各种资源 】
 - // 【 various aspects. 各种方面 】
 - // 【 marine/natural/forest/rare/various/mineral resource 】
-- // TIPS: Pay attention to the pronunciation of the word 'fat'.
+- // TIPS: Pay attention to the pronunciation of the word 'fat'. [fat-脂肪-肥胖-n]
+- // TIPS: Pay attention to the pronunciation of the word 'protein'. [protein-蛋白质-n]
 - // _【 born 出生 v 】_ // ----- _【 be born in. 出生于 】_
 - // _【 burn 燃烧 v 】_ //------ _【 burn fat. 燃烧脂肪 】_
 - // _【 explode 爆炸 v 】_ // -- _【 bomb explode. 炸弹爆炸 】_ `【 atom bomb. 原子弹 】` `【 nuclear weapon. 核武器 】`
 - // _【 explosion 爆炸 n 】_ // _【 explosion sound. 爆炸声 】_ `【 gun shot. 枪声 】`
+- **【 【 Minerals 】 are not 【 chemical fertilizers 】. 矿物质不是化肥 】**
 -
-- `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
+- `【 fertilizer 肥料 化肥 】` // -----------------【 chemical fertilizer. 化肥 】
 - `【 chemical fertilizer 化肥 】`
-- `【 calcium 钙 n 】` // ---------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】 【 pill 药丸 】 【 capsule 胶囊 】
+- `【 calcium 钙 n 】` // ----------------------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】 【 pill 药丸 】 【 capsule 胶囊 】
+- **【 【 Minerals 】 are not 【 chemical fertilizers 】. 矿物质不是化肥 】**
 -
-- `【 metal 金属 n 】` // ----------- metal VS medal VS model VS module
-- `【 iron 铁 n 】`
-- `【 steel 钢 n 】`
+- `【 metal 金属 n 】` // ----------------------- 【 rare metal. 稀有金属 】 // metal VS medal VS model VS module
+- `【 iron 铁 n 】` // ------------------------- `【 iron mine. 铁矿 n 】` `【 iron ore. 铁矿石 n 】` **【 iron rust. 铁锈 】** `【 iron fist. 铁拳 n 】`
+- `【 steel 钢 n 】` // ------------------------- 【 steel pipe. 钢管 n 】 // 【 exhaust pipe. 排气管 n 】
 - `【 gold 金 n 】` // ------------- gold medal.
 - `【 silver 银 n 】` // ----------- silver medal.
-- `【 coper 铜 n 】`
 - `【 bronze 青铜 n 】` // --------- bronze medal.
+- `【 copper 铜 n 】` // ------------------------ 【 copper ore. 铜矿石 n 】 【 copper mine. 铜矿 n 】
+- > 【 iron mine. 铁矿 n 】 // ------------------ 【 mine 我的 矿 】
+- > 【 iron ore. 铁矿石 n 】
+- > 【 iron rust. 铁锈 n 】
+- > 【 iron fist. 铁拳 n 】
+- **【 There are 【 iron mine 】 and 【 iron rust 】 in the 【 iron ore 】. 铁矿石中有铁矿和铁锈 】**
 
-## (1.7) `扩展-Expand`
+## (1.9) `扩展-Expand`
 
 ```
 check out. 查看 退房 v

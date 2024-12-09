@@ -796,3 +796,12 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 5
 恢复健康的那段时间被称为恢复期
 ```
+
+##### 16 Make sentences 2024-12-16
+
+```
+1
+铁矿石中有铁矿和铁锈
+-
+矿物质不是化肥
+```
