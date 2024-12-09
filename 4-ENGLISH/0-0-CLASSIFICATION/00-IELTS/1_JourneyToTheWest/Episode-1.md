@@ -4,6 +4,7 @@
 
 - 1
 - `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake/shook head. 摇头 】
+- `【 crutch 拐杖 n 】`
 - > 【 scratch an itch. 挠痒 v 】
 - > 【 scratch head. 挠头 v 】
 - > 【 shake head. 摇头 v 】

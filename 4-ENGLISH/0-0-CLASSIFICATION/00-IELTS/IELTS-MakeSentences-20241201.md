@@ -791,4 +791,8 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 
 4
 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏
+
+
+5
+恢复健康的那段时间被称为恢复期
 ```

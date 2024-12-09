@@ -56,9 +56,9 @@ Object.is 和 === 的区别？
   - 因为: fiber架构重写后，会造成这 三个生命周期 - 会重复多次执行
 
 - 新的生命周期
-  - 挂载阶段: constructor getDerivedStateFromProps render componentDidMount
+  - 挂载阶段: constructor 【 getDerivedStateFromProps 】 render componentDidMount
   - 更新阶段:
-    - props: getDerivedStateFromProps shouldComponentUpdate render getSnapshotBeforeUpdate componentDidUpdate
+    - props: getDerivedStateFromProps shouldComponentUpdate render 【 getSnapshotBeforeUpdate 】 componentDidUpdate
     - state: getDerivedStateFromProps shouldComponentUpdate render getSnapshotBeforeUpdate componentDidUpdate
     - forceUpdate: getDerivedStateFromProps  render getSnapshotBeforeUpdate componentDidUpdate
 
@@ -417,7 +417,7 @@ export default function App() {
 
 ```
 useLayoutEffect
-// 1. 同步执行: 在浏览器绘制屏幕更新之前 同步执行，会阻塞浏览器的渲染流程
+// 1. 同步执行: 在 ( 浏览器绘制屏幕更新之前 ) 同步执行，会 ( 阻塞浏览器的渲染流程 )
 // 2. 适合的操作: 比如有些操作，( popup的位置动态确定 ) 等这些操作，都 - 必须在浏览器重新绘制屏幕前完成，不然就会造成 ( 闪烁 )，即 ( 位置多次变化 等 )，虽然是多次渲染，但是不会闪烁
 // 3. 关键词:
 //    - 组件渲染完成后

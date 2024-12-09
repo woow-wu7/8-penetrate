@@ -65,17 +65,23 @@
 - // -- beside 在...旁边
 - // -- near 附近
 -
-- `【 operating room. 手术室 】` ---------------- 【 OR 】
+- `【 operating room. 手术室 】` ---------------- 【 OR 】 // operation 手术 操作 // 【 have an operation. 做手术 = perform surgery. 】
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
 - `【 waiting room. 候诊室 】`
 - _【 registration desk. 挂号处 】_ ------------- 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
 - _【 registration form. 登记表 】_ // ---------- 【 fill out the registration form. 填写登记表 】 【 deposit slip. 存款单 n 】 【 withdraw slip. 取款单 n 】
+- AA.
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
 - > `【 registration desk. 挂号处 n 】`
 - > `【 registration form. 登记表 n 】` // -------- **【 fill out the registration form. 填写登记表 】**
 - > 【 fill out the registration form. 填写登记表 】
 - > 【 registration office. = registration desk. 挂号处 n 】
+- BB.
+- _【 operate 操作 v 】_
+- _【 operation 操作 手术 n 】_
+- > 【 operating room. 手术室 n 】
+- > 【 have an operation. 做手术 】= perform surgery. 做手术
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
 - // TIPS: Pay attention to the pronunciation of the word 'registration'. [registration][fill-out-registration-form.填写登记表]
 - // TIPS: Pay attention to the pronunciation of the word 'operating'. [operating]
@@ -274,6 +280,7 @@
 - `【 dosage 药量 n 】`
 - `【 maximum dosage. 最大药量 n 】`
 - `【 daily dosage. 每日药量 n 】`
+- **【 I have a prescription for medicine. 我有一张药方 】**
 - **【 take one pill three times per day. 每天三次，每次服用一粒药丸 】**
 - **【 You should take the pills with food. 你应该在进食时服用这些药丸 】**
 -
@@ -289,6 +296,13 @@
 - `【 oral medicine. 口服药 n 】`
 - `【 oral promise. 口头承诺 】`
 - `【 oral english. 口语 】`
+-
+- `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】 【 poison 毒药 n 】
+- `【 anti-inflammatory drug. 消炎药 】`
+- > 【 antibiotic 抗生素 n 】
+- > 【 antidote 解药 n 】
+- _【 relieve 减轻 缓解 v 】_
+- _【 release 释放 v 】_
 -
 - [AA.]
 - `【 antidote 解药 n 】`
@@ -377,13 +391,14 @@
 - > 【 rare species. 稀有物种 】
 - _【 biology 生物学 n 】_
 - _【 biotic 生物的 adj 】_
+- AA.
 - > 【 endangered 濒危的 adj 】 // ----------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 】
 - > 【 endanger 危及 v 】 // ----------------- 【 endanger life. 危及生命 】
 - > 【 danger 危险 n 】
 - > 【 dangerous 危险的 adj 】
 - _【 evaluate 评价 v 】_
 - _【 evolution 进化 n 】_ // ---------------- 【 the theory of evolution. 进化论 n 】
-- // _【 natural gas. 天然气 】_
+- // _【 natural gas. 天然气 】_ // ---------- 【 regular gas. 】 【 regular employee. 】 【 regular physical examination. 】 // 【 regular 普通的 正式的 定期的 】
 - // _【 natural ecosystem. 自然生态系统 n 】_
 - > 【 labor / laboratory / directory / repository / secretary / dormitory / factory / victory / history / mandatory 】
 - // TIPS: Pay attention to the pronunciation of the word 'evaluate'. [evaluate]
@@ -403,10 +418,10 @@
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
 - `【 cure 治疗 v n 】` // -------------------- 4. _【 cure = treat. 治疗 v 】_
-- `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v / retreat 撤退 v 】 【 treatment 治疗 n 】
+- `【 treat 治疗 对待 v 】` // ----------------- 【 treat 治疗 v 对待 v VS retreat 撤退 v 】 【 treatment 治疗 n 】
 - `【 recover 恢复 v 】` // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】
 - > 【 cover 覆盖 v 】
-- > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover strength. 恢复体力 】
+- > 【 recover 恢复 v 】 // ------------------- 【 recover health. 恢复健康 】 【 recover economy. 恢复经济 】 【 recover strength. 恢复体力 】 // recover VS restore
 - > 【 recovery 恢复 n 】// ------------------- 【 recovery period. 恢复期 n 】
 - > 【 recovery period. 恢复期 n 】 // -------- 【 period 时期 句号 n 】
 - _【 recover health. 恢复健康 】_
@@ -418,9 +433,9 @@
 - `【 tissue 组织 n 】` // issue tissue
 - `【 organ 器官 n 】`
 -
-- > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope / gastroscope
 - > microorganism 微生物 // ------------------- organism = living things. 生物
 - > microbe 微生物
+- > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope / gastroscope
 - > microphone 麦克风
 - > microwave 微波炉
 - // microscope 显微镜
@@ -468,12 +483,20 @@
 
 - [4444444.]
 - [SYMPTOM]
-- `【 slight 轻微的 adj 】` // -------------- 【 slight injury. 轻伤 n 】 【 minor injury. 轻伤 n 】
+- `【 slight 轻微的 adj 】` // -------------- 【 slight injury. 轻伤 n 】 【 minor injury. 轻伤 n 】 // ---- `She was 【 hit 】 【 by 】 a car. 她被车撞了`
 - `【 severe 严重的 adj 】` // -------------- 【 severe disease. 严重的疾病 】 【 severe cold. 重感冒 】
-- `【 relieve 减轻 缓解 v 】` // ------------ 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】
+- `【 relieve 减轻 缓解 v 】` // ------------ 【 relieve pain. 减轻疼痛 】 【 relieve stress. 缓解压力 】 // - `relive VS release`
+- AA.
 - > 【 slight injury. 轻伤 n 】
+- > 【 minor injury. 轻伤 n 】
+- > major VS minor VS patch VS alpha VS beta
+- BB.
 - _【 severe cold. 重感冒 】_
 - _【 severe disease. 严重的疾病 】_
+- CC.
+- > 【 injure 伤害 v 】
+- > 【 injury 伤害 n 】
+- > 【 slight injury. 轻伤 】
 -
 - `【 headache 头痛 n 】`
 - `【 toothache 牙痛 n 】`
@@ -486,21 +509,22 @@
 - `【 cough 咳嗽 n 】` // -------------------- 【 cough syrup. 止咳糖浆 n 】
 - `【 headache 头痛 n 】`
 - `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
-- `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
-- `【 stuffy nose. 鼻塞 】` // --------------- `【 blocked nose. 鼻塞 = blocked nose. 】`【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
-- `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 sneeze 打喷嚏v 喷嚏n 】`
+- `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
+- `【 stuffy nose. 鼻塞 】` // ------------- **【 blocked nose. 鼻塞 = stuffy nose. 】**【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
+- `【 blocked nose. 鼻塞 】`
+- `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
 - > 【 blocked nose. 鼻塞 】
 - > 【 stuffy nose. 鼻塞 】
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
--
 -
 - `【 antibiotic 抗生素 n 】` // --------------- 【 antidote 解药 n 】 【 poison 毒药 n 】
 - `【 anti-inflammatory drug. 消炎药 】`
 - > 【 antibiotic 抗生素 n 】
 - > 【 antidote 解药 n 】
 - _【 relieve 减轻 缓解 v 】_
+- _【 release 释放 v 】_
 -
 - `【 inflammation 发炎 炎症 n 】`
 - `【 inflame 发炎 v 】`
@@ -537,6 +561,7 @@
 - `【 itchy 痒的 adj 】`
 - `【 rich 富有的adj 富人n 】`
 - > 【 scratch an itch. 挠痒 v 】
+- > 【 crutch 拐杖 n 】
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
@@ -587,7 +612,7 @@
 - `【 runny nose. 流鼻涕 】`
 - `【 stuffy nose. 鼻塞 】`
 - `【 dizziness 头晕 n 】`
-- .MT **【 The 【 symptoms 】 of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏 】**
+- .MT **【 The 【 symptoms 】 of this 【 cold 】 include 【 fever 】, 【 headache 】, 【 cough 】, 【 sneeze 】, 【 sore throat 】, 【 runny nose 】, 【 stuffy nose/blocked nose 】, 【 dizziness 】. 他感冒的症状包括: 发烧，咳嗽，头痛，嗓子痛, 流鼻涕，鼻塞，头晕, 打喷嚏 】**
 -
 -
 -
@@ -601,13 +626,26 @@
 
 - [5555555.]
 - [PEOPLE]
-- `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` `【 perform surgery. 做外科手术 】`
-- `【 internist 内科医生 n 】` // ------------------ 【 internal 内部的 adj / 内脏 n 】 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】
+- `【 surgeon 外科医生 n 】` // ------------------- `【 surgery 外科手术 】` **【 perform surgery. 做外科手术 = have an operation. 】**
+- `【 internist 内科医生 n 】` // ----------------- 【 internal medicine. 内服药 】 【 internal contradiction. 内部矛盾 】 // `【 internal 内部的 adj / 内脏 n 】`
 - `【 dentist 牙医 n 】`
 - `【 gynecologist 妇科医生 n 】` // --------------- 【 pregnant woman. 孕妇 n 】 【 widow 寡妇 n 】
+- `【 pediatrician 儿科医生 n 】`
+- `【 vet 兽医 n 】`
+- `【 paramedic 护理人员 n 】`
+- AA.
 - _【 perform surgery. 做外科手术 】_ // ----------- 【 perform surgery. 做外科手术 】
+- _【 have an operation. 做手术 】_ // -------------【 have an operation. 做手术 】
 - _【 surgery 外科手术 n 】_
 - _【 surgeon 外科医生 n 】_
+- **【 perform surgery. = have an operation. 做手术 】**
+- BB.
+- > 【 operating room. 手术室 n 】
+- > 【 have an operation. 做手术 v 】
+- > 【 operate 操作 手术 v 】
+- > 【 operation 操作 手术 n 】
+- // perform surgery. = have an operation. 做手术
+- // operation 手术 操作 n
 - > 【 internal contradiction. 内部矛盾 n 】
 - > 【 internal medicine. 内服药 】
 - > 【 external medicine. 外用药 】
@@ -647,7 +685,8 @@
 - `【 oral medicine. 口服药 n 】`
 - .MT **【 【 Surgeons 】 【 prescribe 】 the 【 external medicines 】, The 【 internists 】 prescribe the 【 oral medicines 】. 外科医生开外用药，内科医生开口服药 】**
 - .MT **【 The 【 surgeon 】 is 【 performing surgery 】 【 on 】 the patient. 外科医生正在给病人做外科手术 】**
-- // -- 【 perform surgery. 做外科手术 】
+- // -- 【 perform surgery. 做外科手术 v 】
+- // -- 【 have an operation. 做手术 v 】
 -
 - [BB.]
 - `【 gynecologist 妇科医生 n 】`
@@ -673,13 +712,14 @@
 -
 -
 
-## (1.6) `OTHER`
+## (1.6) `TOOL`
 
 - [6666666.]
 - [OTHER]
 - `【 ambulance 救护车 】` // -------------------- ambulance balance glance
-- `【 stretcher 担架 n 】` // ------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展 // stretcher VS stretch VS street
-- `【 bandage 绷带 n 】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
+- `【 stretcher 担架 】` // --------------------- 【 stretch 伸展 拉伸 】 // stretcher 担架 // stretch 拉伸伸展 // stretcher VS stretch VS street
+- `【 crutch 拐杖 】` // ------------------------ `【 scratch 挠 VS crutch拐杖 】`
+- `【 bandage 绷带  】` // --------------------- 【 wrap bandage. 缠绷带 】 【 wrap wound. 包扎伤口 】
 - `【 band-aid. 创可贴 】` // ------------------- 【 first aid. 急救 】 【 hearing aid. 助听器 】 //【 band 乐队 VS brand 品牌 VS bandage 绷带 】
 - `【 first aid. 急救 n 】` // ------------------ 【 first aid kit. 急救箱 n 】 【 band-aid. 绷带 】 【 hearing-aid. 助听器 】
 - `【 first aid kit. 急救箱 n  】` // ----------- `【 just in case. 以防万一 】`
@@ -700,7 +740,7 @@
 - > 【 syringe 注射器 】// ---------------------- 【 syrup VS syringe 】 // 【 cough syrup. 止咳糖浆 xx】
 - > 【 syringe needle. 针头 n 】 // ------------- 【 needle 针 针头 n 】 【 thread 线 螺纹 n 】
 - > 【 syringe barrel. 针筒 n 】
-- // syrup 糖浆
+- // syrup 糖浆 // cough syrup. 止咳糖浆
 - // syringe 注射器
 - _【 40 degrees Celsius. 40 摄氏度 n 】_ // ----- 注意是 degrees
 - _【 body temperature. 体温 n 】_
@@ -720,10 +760,11 @@
 - `【 pulse 脉搏 】`
 - `【 heartbeat 心跳 】`
 - `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
-- > 【 physical examination. 体检 】` // ---------- exam examination
-- > 【 physical examination report. 体检报告 】` // report 报告 v/n
-- > 【 【 regular 】 physical examination. 定期体检 v 】
-- //【 regular 定期的 普通的 正式的 adj 】
+- `【 physical examination. 体检 】` // ----------- exam examination
+- `【 regular physical examination. 定期体检 】`
+- > 【 physical examination report. 体检报告 】` // ----- report 报告 v/n
+- > 【 【 regular 】 physical examination. 定期体检 v 】-- regular 普通的 正式的 定期的 adj
+- //【 regular 普通的 正式的 定期的 adj 】
 - //【 regular gas. 普通汽油 】
 - //【 regular employee. 正式员工 】
 - //【 regular physical examination. 定期体检 v 】
@@ -743,7 +784,9 @@
 - `【 blood pressure. 血压 n 】`
 - .MT **【 【 Mercury thermometers 】 and 【 digital thermometers 】 use different 【 principles 】 to 【 measure 】 【 body temperature 】. 水银温度计和数字温度计用不用的原理来测体温 】**
 - .MT **【 This 【 device 】 can 【 measure 】 the 【 pulse 】 and 【 blood pressure 】. 这个设备可以测脉搏和血压 】**
-- // -- principle 原理 原则
+- .MT **【 The 【 stethoscope 】 can be used to 【 detect 】 【 heartbeat 】. 听诊器可以用来检测心跳 】**
+- // -- principle 原理 原则 n
+- // -- detect 检测 查明 v
 -
 - [CC.]
 - `【 syringe 注射器 n 】`
@@ -779,7 +822,7 @@
 - `【 stethoscope 听诊器 n 】`
 - `【 heartbeat 心跳 n 】`
 - > detect 检测 查明
-- **【 The 【 stethoscope 】 can be used to 【 detect 】 【 heartbeat 】. 听诊器可以用来检测心跳 】**
+- .MT **【 The 【 stethoscope 】 can be used to 【 detect 】 【 heartbeat 】. 听诊器可以用来检测心跳 】**
 
 ## (1.7) `扩展-Expand`
 
@@ -876,6 +919,7 @@ stay hydrated. 多喝水
 - `clinic 诊所`
 - `ward 病房`
 - `operating room. 手术室`
+- // operation 手术 操作 // 【 have an operation. 做手术 = perform surgery. 】
 -
 - `【 specialist 专家 专科医生 】`
 - `【 expert 专家 】`
@@ -916,7 +960,7 @@ stay hydrated. 多喝水
 -
 - > 【 surgeon 外科医生 n 】
 - > 【 surgical 外科的 外科手术的 adj 】// - 【 surgical mask. 医用口罩 外科口罩 】
-- > 【 surgery 外科手术 n 】 // ------------【 surgery department. 外科部 】 【 perform surgery. 做手术 】
+- > 【 surgery 外科手术 n 】 // ------------【 surgery department. 外科部 】 【 perform surgery. 做手术 = 】
 -
 - > 【 internist 内科医生 n 】
 - > 【 internal 里面的 adj 内脏 n 】 // ----【 internal medicine. 内科部 】
@@ -959,7 +1003,8 @@ stay hydrated. 多喝水
 - `【 drugstore 药店 】`
 - `【 clinic 诊所 】`
 - `【 ward 病房 】`
-- `【 operating room. 手术室 】`
+- `【 operating room. 手术室 】` // 【 have an operation. 做手术 = perform surgery. 】
+- // operation 手术 操作 // 【 have an operation. 做手术 = perform surgery. 】
 - **【 A 【 pharmacist 】 works in a 【 pharmacy 】. 药剂师在药房工作 】**
 -
 - [CC.]
