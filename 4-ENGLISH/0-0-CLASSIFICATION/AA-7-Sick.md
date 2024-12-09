@@ -1,6 +1,6 @@
 ## Sick
 
-## (1) **The Sick words that you mast know.**
+## **(一) 【 The Sick words that you mast know 】**
 
 ## (1.1) `PLACE`
 
@@ -487,10 +487,12 @@
 - `【 headache 头痛 n 】`
 - `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
-- `【 stuffy nose. 鼻塞 】` // --------------- 【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
+- `【 stuffy nose. 鼻塞 】` // --------------- `【 blocked nose. 鼻塞 = blocked nose. 】`【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
 - `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 sneeze 打喷嚏v 喷嚏n 】`
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
+- > 【 blocked nose. 鼻塞 】
+- > 【 stuffy nose. 鼻塞 】
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
 -
 -
@@ -689,10 +691,10 @@
 - _【 wrap wound. 包扎伤口 】_ // ---------------- use bandage to wrap wound.
 -
 - `【 thermometer 体温计 温度计 n 】` // -------- `【 mercury thermometer. 水银温度计 】` `【 digital thermometer. 】` // 【 meter 米 计量器 】 【 Celsius 摄氏的 】
-- `【 stethoscope 听诊器 】` // ----------------- 【 microscope 显微镜 / telescope 望远镜 / stethoscope 听诊器 / otoscope 耳镜 / gastroscope 胃镜 】
+- `【 stethoscope 听诊器 】` // ---------------- `【 heartbeat 心跳 】` 【 microscope / telescope / stethoscope 听诊器 / otoscope 耳镜 / gastroscope 胃镜 】
 - `【 otoscope 耳镜 】`
 - `【 gastroscope 胃镜 】`
-- `【 syringe 注射器 】` // --------------------- 【 injector syringe // syringe needle. 针头 // syringe barrel. 针筒 】 // syringe VS syrup
+- `【 syringe 注射器 】` // --------------------- 【 syringe needle. 针头 // syringe barrel. 针筒 】 // syringe VS syrup
 - _【 mercury thermometer. 水银温度计 n 】_
 - _【 digital thermometer. 数字温度计 n 】_
 - > 【 syringe 注射器 】// ---------------------- 【 syrup VS syringe 】 // 【 cough syrup. 止咳糖浆 xx】
@@ -716,10 +718,11 @@
 -
 - `【 blood pressure. 血压 】` // ---------------- 【 stress / pressure 】
 - `【 pulse 脉搏 】`
+- `【 heartbeat 心跳 】`
 - `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
 - > 【 physical examination. 体检 】` // ---------- exam examination
 - > 【 physical examination report. 体检报告 】` // report 报告 v/n
-- > 【 regular physical examination. 定期体检 v 】
+- > 【 【 regular 】 physical examination. 定期体检 v 】
 - //【 regular 定期的 普通的 正式的 adj 】
 - //【 regular gas. 普通汽油 】
 - //【 regular employee. 正式员工 】
@@ -771,8 +774,85 @@
 - `【 pulse 脉搏 n 】`
 - `【 blood pressure. 血压 n 】`
 - .MT **【 This 【 device 】 can 【 measure 】 the 【 pulse 】 and 【 blood pressure 】. 这个设备可以测脉搏和血压 】**
+-
+- [HH.]
+- `【 stethoscope 听诊器 n 】`
+- `【 heartbeat 心跳 n 】`
+- > detect 检测 查明
+- **【 The 【 stethoscope 】 can be used to 【 detect 】 【 heartbeat 】. 听诊器可以用来检测心跳 】**
 
-## (1) Must Words
+## (1.7) `扩展-Expand`
+
+```
+check out. 查看 退房 v
+
+quiz 测试 测验 v n
+quizzes 测试的复数
+// quiz -> quizzes
+exam 考试
+examination 考试
+
+painful 疼痛的 痛苦的 adj
+pain 疼痛 n
+
+rash 皮疹 n
+heartbeat 心跳 n
+
+
+stay hydrated. 多喝水
+```
+
+## **(二)【 Must Sentences 】**
+
+- 1
+- `【 make an appointment. 预约 】` // ------------- 【 make an appointment with sb. 预约某人 v 】
+- `【 in advance. 提前 】`
+- `【 check the eyes. 检查眼睛 】`
+- `【 check the vision. 检查视力 】`
+- 1. **【 I have 【 made an appointment 】 【 with 】 the doctor 【 to 】 【 check my eyes 】. 我预约了医生检查眼睛 】**
+- 2. **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】**
+- 3. **【 I would like to 【 make an appointment 】 【 to see 】 Dr. William. 我想要预约看诊威廉医生 】**
+- 4. **【 Didn't you 【 make an appointment 】 【 in advance? 】 你没有提前预约吗？ 】**
+- // -- make -> made
+-
+-
+-
+- 2
+- `【 fill out. 填写 】`
+- `【 hand over. 移交 转交 交付 】`
+- `【 hand in. 上交 】`
+- // 【 deposit slip. 存款单 】
+- // 【 withdraw slip. 取款单 】
+- 1. **【 After 【 filling out 】 this form, 【 hand it over 】 【 to 】 the nurse. 把这张表格填好后，交给护士 】**
+- 2. **【 Please 【 fill out 】 this 【 form 】. 请填写这张表格 】**
+- 3. **【 【 hand over 】 this form to the nurse. 】. 把这张表格交给护士 】**
+- 4. **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
+-
+-
+-
+- 3
+- `【 across from. 在...的对面 】`
+- `【 opposite 相反的adj 在...对面 】`
+- 1. **【 The bank is 【 across from 】 the supermarket. 银行在超市对面 】**
+- 2. **【 The bank is 【 opposite 】 the supermarket. 银行在超市对面 】**
+- 3. **【 Tall is the 【 opposite 】 of the short. “高”与“矮”相反 】**
+-
+-
+-
+- 4
+- `【 from time to time. 有时 偶尔 时不时的 】`
+- **【 I go to 【 coffee shop 】 to drink coffee 【 from time to time 】. 我时不时的去咖啡厅和咖啡 】**
+-
+-
+-
+- 5
+- `【 out of sorts. 身体不适 心情不佳 】`
+- **【 She didn't come to work because she was 【 out of sorts 】. 她没来上班，因为她身体不舒服 】**
+- **【 Today, I feel a little bit 【 out of sorts 】. 】**
+-
+- `【 I'm just not feeling good. 】`
+
+## (2) Must Words
 
 - 1
 - `surgeon 外科医生 n`
@@ -1104,19 +1184,15 @@
 - `【 inflamed 发炎的 adj 】`
 - `【 inflammation 发炎 炎症 n 】`
 -
-- `【 allergy 过敏 n 】`
+- `【 allergy 过敏 n 】` // ----------------- 【 drug allergy. 药物过敏 】
 - `【 allergen 过敏原 n 】`
 - `【 allergic 过敏的 adj 】`
 - _【 be allergic to. 对...过敏 】_
 -
-- `【 scar 伤疤 】`
-- `【 wound 伤口 】`
-- `【 recover 恢复 康复 v 】`
-- `【 recovery 恢复 n 】`
--
 - `【 swell 肿胀 膨胀 v 】` // swelling 肿胀 膨胀 n // swell up. 肿胀
 - `【 swollen 肿胀的 adj 】`
 - `【 swelling 肿胀 n 】`
+- **【 The 【 scar area 】 is both 【 swollen 】 and 【 itchy 】. 伤疤的地方既肿胀又痒 】**
 -
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
@@ -1128,6 +1204,11 @@
 - `nauseous 恶心的 adj`
 - `vomit 呕吐v 呕吐物n` // vomit = throw up. 呕吐
 - `throw up. 呕吐`
+-
+- `【 scar 伤疤 】`
+- `【 wound 伤口 】`
+- `【 recover 恢复 康复 v 】`
+- `【 recovery 恢复 n 】`
 -
 - `fever 发烧`
 - `antibiotic 抗生素`
@@ -1309,52 +1390,6 @@
 - 4. **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
 - // -
 - // 【 feed on. 以...为食 】
-
-## (2) Must Sentences
-
-- 1
-- `【 make an appointment. 预约 】`
-- `【 in advance. 提前 】`
-- `【 check the eyes. 检查眼睛 】`
-- `【 check the vision. 检查视力 】`
-- 1. **【 I have 【 made an appointment 】 【 with 】 the doctor 【 to 】 【 check my eyes 】. 我预约了医生检查眼睛 】**
-- 2. **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】**
-- 3. **【 I would like to 【 make an appointment 】 【 to see 】 Dr. William. 我想要预约看诊威廉医生 】**
-- 4. **【 Didn't you 【 make an appointment 】 【 in advance? 】 你没有提前预约吗？ 】**
-- // -- make -> made
--
--
--
--
--
-- 2
-- `【 fill out. 填写 】`
-- `【 hand over. 交给 移交 转交 交付 】`
-- `【 hand in. 上交 】`
-- // 【 deposit slip. 存款单 】
-- // 【 withdraw slip. 取款单 】
-- 1. **【 After 【 filling out 】 this form, 【 hand it over 】 【 to 】 the nurse. 把这张表格填好后，交给护士 】**
-- 2. **【 Please 【 fill out 】 this 【 form 】. 请填写这张表格 】**
-- 3. **【 【 hand over 】 this form to the nurse. 】. 把这张表格交给护士 】**
-- 4. **【 【 fill out 】 the 【 deposit slip 】. 填写存款单 】**
--
--
--
--
--
-- 3
-- `【 across from. 在...的对面 】`
-- `【 opposite 相反的adj 在...对面 】`
-- 1. **【 The bank is 【 across from 】 the supermarket. 银行在超市对面 】**
-- 2. **【 The bank is 【 opposite 】 the supermarket. 银行在超市对面 】**
-- 3. **【 Tall is the 【 opposite 】 of the short. “高”与“矮”相反 】**
--
--
--
--
--
--
-- `【 I'm just not feeling good. 】`
 
 ## (3) Sentences
 
