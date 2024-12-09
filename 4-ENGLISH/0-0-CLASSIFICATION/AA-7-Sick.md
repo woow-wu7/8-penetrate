@@ -429,10 +429,6 @@
 - _【 recover strength. 恢复体力 】_
 - // TIPS: Pay attention to the pronunciation of the word 'period'. [period]
 -
-- `【 cell 细胞 n 】`
-- `【 tissue 组织 n 】` // issue tissue
-- `【 organ 器官 n 】`
--
 - > microorganism 微生物 // ------------------- organism = living things. 生物
 - > microbe 微生物
 - > microscope 显微镜 // ---------------------- microscope / telescope / stethoscope / otoscope / gastroscope
@@ -823,6 +819,61 @@
 - `【 heartbeat 心跳 n 】`
 - > detect 检测 查明
 - .MT **【 The 【 stethoscope 】 can be used to 【 detect 】 【 heartbeat 】. 听诊器可以用来检测心跳 】**
+
+## (1.7) `ORGAN` organ
+
+- `【 cell 细胞 n 】`
+- `【 tissue 组织 n 】` // issue tissue
+- `【 organ 器官 n 】`
+- `【 internal 内脏n / 内部的 adj 】` // ------- 【 internal contradiction. 内部矛盾 】 【 internal structure. 内部结构 】
+-
+- `【 lung 肺 n 】` // ----------------------- 【 lung cancer. 肺癌 n 】 【 lung capacity. 肺活量 】
+- `【 chest 胸 胸部 n 】` // ------------------ 【 chest muscles. 胸肌 n 】
+- `【 breast 乳房 n 】` // -------------------- 【 breast milk. 母乳 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'chest'. [chest-胸-n]
+- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-乳房-n]
+- // TIPS: Pay attention to the pronunciation of the word 'capacity'. [capacity-容量-n]
+-
+- `【 internal 内脏n / 内部的 adj 】` // ------- 【 internal contradiction. 内部矛盾 】 【 internal structure. 内部结构 】
+- `【 liver 肝脏n 】`
+- `【 kidney 肾脏 n 】`
+- `【 stomach 胃 n 】`
+- `【 intestine 肠 n 】` // ------------------- 【 small intestine. 小肠 】 【 large intestine. 大肠 】
+- `【 small intestine. 小肠 】`
+- `【 large intestine. 大肠 】`
+
+## (1.8) `NUTRITION` nutrition
+
+- `【 nutrition 营养 】` // ---------------------【 supplement nutrition. 补充营养 】 【 absorb nutrition. 吸收营养 】 // 【 supplement energy. 补充能量 】
+- `【 malnutrition 营养不良 】`
+-
+- `【 protein 蛋白质 n 】` // ------------------- 【 high protein. 高蛋白 】 // 【 be rich in protein. 富含蛋白质 】
+- `【 vitamin 维生素 n 】` // ------------------- 【 vitamin C. 维生素 C 】
+- `【 fat 脂肪n 肥胖的adj 】` // ---------------- `【 burn fat. 燃烧脂肪 】` // `【 bomb explode. 炸弹爆炸 】` 【 explosion sound. 】 // 【 burn 燃烧 v 】
+- `【 fiber 纤维 】` // ------------------------- 【 plant fiber. 植物纤维 】
+- `【 mineral 矿物质n 矿物的adj 】` // ------------ 【 mineral water. 矿泉水 】 // 【 mineral resource. 矿物资源 】
+- > 【 mineral water. 矿泉水 】
+- > 【 mineral resource. 矿物资源 】
+- // 【 various resources. 各种资源 】
+- // 【 various aspects. 各种方面 】
+- // 【 marine/natural/forest/rare/various/mineral resource 】
+- // TIPS: Pay attention to the pronunciation of the word 'fat'.
+- // _【 born 出生 v 】_ // ----- _【 be born in. 出生于 】_
+- // _【 burn 燃烧 v 】_ //------ _【 burn fat. 燃烧脂肪 】_
+- // _【 explode 爆炸 v 】_ // -- _【 bomb explode. 炸弹爆炸 】_ `【 atom bomb. 原子弹 】` `【 nuclear weapon. 核武器 】`
+- // _【 explosion 爆炸 n 】_ // _【 explosion sound. 爆炸声 】_ `【 gun shot. 枪声 】`
+-
+- `【 fertilizer 肥料 化肥 】` // ----【 chemical fertilizer. 化肥 】
+- `【 chemical fertilizer 化肥 】`
+- `【 calcium 钙 n 】` // ---------- 【 calcium tablet. 钙片 】 // 【 tablet 药片 】 【 pill 药丸 】 【 capsule 胶囊 】
+-
+- `【 metal 金属 n 】` // ----------- metal VS medal VS model VS module
+- `【 iron 铁 n 】`
+- `【 steel 钢 n 】`
+- `【 gold 金 n 】` // ------------- gold medal.
+- `【 silver 银 n 】` // ----------- silver medal.
+- `【 coper 铜 n 】`
+- `【 bronze 青铜 n 】` // --------- bronze medal.
 
 ## (1.7) `扩展-Expand`
 
