@@ -1,5 +1,56 @@
 ## Sick
 
+## **(零)【 Hard words 】**
+
+- 1
+- `【 nerve 神经 n 】` // ---------------------- 【 nerve cells. 神经细胞 】
+- `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 nerve signal. 神经信号 】
+- `【 neuron 神经元 n 】`
+- > 【 nerve cells. 神经细胞 】`
+- > 【 neural network. 神经网络 】`
+- > 【 neural signal. 神经信号 】
+- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
+- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 这些器官是由组织组成的 】**
+- **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- // -- 【 transmit 传输 传递传染 传播 v 】
+-
+-
+- 2
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- > 【 data transmission. 数据传输 n 】
+- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
+-
+-
+- 3
+- `【 refer to. 提到 参考 v 】`
+- 1. 提到: **【 This book 【 refers to 】 the author's childhood. 这本书提到了作者的童年 】**
+- 2. 参考: **【 Please 【 refer to 】 the 【 tutorial 】 in the book 【 for 】 the 【 specific steps 】. 具体步骤请参考书中的教程 】**
+-
+-
+- 4
+- `【 feed on. 以...为食 】`
+- **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
+- // -- virus 病毒
+-
+-
+- 5
+- `【 routine 常规的 adj / 常规 n 】`
+- _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
+- _【 routine check-up. 常规检查 】_
+- _【 【 regular 】 physical examination. 定期体检 】_
+- > 【 belong to. 属于 】
+- **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
+- **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
+- // -- physical examination. 体检
+- // -- routine examination. 常规检查
+- // -- routine check-up. 常规检查
+- // -- 【 belong to. 属于 】
+- // -- 【 victory 胜利 】
+
 ## **(一) 【 The Sick words that you mast know 】**
 
 ## (1.1) `PLACE` place
@@ -74,12 +125,12 @@
 - > 【 register 登记 注册 挂号 v 】
 - > 【 registration 登记 注册 挂号 n 】
 - > `【 registration desk. 挂号处 n 】`
-- > `【 registration form. 登记表 n 】` // -------- **【 fill out the registration form. 填写登记表 】**
+- > `【 registration form. 登记表 n 】` // ---- **【 fill out the registration form. 填写登记表 】**
 - > 【 fill out the registration form. 填写登记表 】
 - > 【 registration office. = registration desk. 挂号处 n 】
 - BB.
 - _【 operate 操作 v 】_
-- _【 operation 操作 手术 n 】_
+- _【 operation 操作 手术 n 】_ // --------------- 【 major operation. 大手术 n 】
 - > 【 operating room. 手术室 n 】
 - > 【 have an operation. 做手术 】= perform surgery. 做手术
 - // TIPS: Pay attention to the pronunciation of the wor 'register'. [register]
@@ -468,14 +519,6 @@
 - `【 recovery period. 恢复期 n 】`
 - `【 a period of time. 一段时间 】`
 - .MT **【 【 The period of time 】 to 【 recover health 】 is called 【 recovery period 】. 恢复健康的那段时间被称为恢复期 】**
--
--
--
--
--
--
--
--
 
 ## (1.4) `SYMPTOM` symptom
 
@@ -641,7 +684,7 @@
 - `【 paramedic 护理人员 n 】`
 - AA.
 - _【 perform surgery. 做外科手术 】_ // ----------- 【 perform surgery. 做外科手术 】
-- _【 have an operation. 做手术 】_ // -------------【 have an operation. 做手术 】
+- _【 have an operation. 做手术 】_ // -------------【 have an operation. 做手术 】 【 major operation. 大手术 n 】
 - _【 surgery 外科手术 n 】_
 - _【 surgeon 外科医生 n 】_
 - **【 perform surgery. = have an operation. 做手术 】**
@@ -784,7 +827,9 @@
 - _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
 - _【 routine check-up. 常规检查 】_
 - **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
+- **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
 - // -- 【 belong to. 属于 】
+- // -- 【 victory 胜利 n 】
 - AA.
 - > 【 physical examination report. 体检报告 】` // ----- report 报告 v/n
 - > 【 【 regular 】 physical examination. 定期体检 v 】-- regular 普通的 正式的 定期的 adj
@@ -885,9 +930,15 @@
 - `【 large intestine. 大肠 】`
 -
 - `【 nerve 神经 n 】` // --------------------- 【 nerve cells. 神经细胞 】
-- `【 neural 神经的 adj 】` // ---------------- 【 neural network. 神经网络 】
+- `【 neural 神经的 adj 】` // ---------------- 【 neural network. 神经网络 】 【 nerve signal. 神经信号 】
+- `【 neuron 神经元 n 】`
 - > 【 nerve cells. 神经细胞 】`
 - > 【 neural network. 神经网络 】`
+- > 【 neural signal. 神经信号 】
+- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
+- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 这些器官是由组织组成的 】**
+- **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- // -- 【 transmit 传输 传递 传播 传染 v 】
 -
 - [AA.]
 - `【 vital 至关重要的 adj 】`
@@ -897,7 +948,9 @@
 -
 - [BB.]
 - `【 neural network. 神经网络 n 】`
+- `【 neural signal. 神经信号 n 】`
 - `【 nerve cells. 神经细胞 n 】`
+- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
 - **【 【 Neural networks 】 【 are composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - **【 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - // -- be composed of. 由...组成
