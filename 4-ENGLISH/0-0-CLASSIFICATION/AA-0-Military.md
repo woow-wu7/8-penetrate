@@ -446,13 +446,15 @@
 -
 - 5
 - [Other]
-- `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 n 】 【 aggressive war. 侵虐战争 n 】 【 launch war. 发动战争 】
+- `【 war 战争 n 】` // ------------------------- 【 cruel war. 残酷的战争 n 】 【 aggressive war. 侵虐战争 n 】 【 launch war. 发动战争 】 // 【 aggress 侵略 v 】
 - `【 warranty period. 保修期 n 】`
 - `【 warship 战绩 】`
 - 【 break out. 爆发 v 】
 - > 【 cruel war. 残酷的战争 n 】
 - > 【 aggressive war. 侵虐战争 n 】
 - > 【 【 launch 】 the aggressive war. 发动侵虐战争 】
+- _【 aggress 侵略 v 】_
+- _【 aggressive 侵略的 adj 】_
 - AA.
 - _【 aggress 侵虐 v 】_
 - _【 aggressive 侵略的 】_

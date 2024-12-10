@@ -133,7 +133,7 @@
 - `【 attendant 服务员 n 】` // ------------------ 【 parking attendant. 停车场服务员 】 【 museum attendant. 博物馆服务员 】
 - `【 assistant 助手 助理 n 】` // -------------- `【 shop assistant. 店员 】`
 - `【 accountant 会计 n 】`
-- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】
+- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】 // insult VS consult VS result
 - `【 merchant 商人n 商业的adj 】` // ------------ `【 merchant bank. 商业银行 】` 【 merchant = wholesaler. 批发商 】 // wholesale retail // retail tail
 - // TIPS: Pay attention to the pronunciation of the word 'consultant'. [consultant-顾问-n]
 - // TIPS: Pay attention to the pronunciation of the word 'consult'. [consult-咨询-商量-v]

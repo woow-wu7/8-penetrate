@@ -91,6 +91,53 @@
 - // -- 【 prevent 阻止 预防 v 】
 - // -- disease 疾病 n
 - // -- illness 疾病 n
+-
+- 11
+- `【 figure out. 搞清楚 弄明白 计算出 v 】`
+- **【 Doctors need to 【 figure out 】 what's wrong with patients. 医生需要搞清楚病人哪里出了问题 】**
+- **【 You need to 【 figure out 】 how to use these words. 你需要搞清楚如何使用这些单词 】**
+-
+- 12
+- `【 after a little while. 过了一会儿 不久之后 】`
+- **【 【 After a little while 】, the rain stopped and the sun 【 came out 】. 过了一会儿，雨停了，太阳出来了 】**
+-
+- 13
+- `【 consult 咨询 v 】`
+- `【 consultation 咨询 n 】`
+- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】 // insult VS consult VS result
+- > 【 consult about sth. 咨询某事 】
+- _【 insult 侮辱 v 】_
+- _【 consult 咨询 v 】_
+- _【 inquire 询问 v 】_
+- **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
+- **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
+- // -- 【 insult 辱骂 v 】
+- // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
+- // -- 【 result 结果 n 】
+- // -- 【 consequence 后果 n 】
+- // -- 【 consult about sth. 咨询某事 】
+-
+- 14
+- `【 diagnose 诊断 v 】` // --------------------------- 【 be diagnosed with. 被诊断出患有...病 】
+- `【 diagnosis 诊断 n 】`
+- _【 be diagnosed with. 被确诊患有...病 】_
+- > lung cancer. 肺癌 n
+- > 【 breast cancer. 乳腺癌 n 】
+- > 【 breast milk. 母乳 n 】
+- **【 The people who drink 【 breast milk 】 are not easy to get 【 breast cancer 】. 喝母乳的人不容易得乳腺癌 】**
+- **【 He 【 was diagnosed with 】 【 lung cancer 】. 他被诊断出患有肺癌 】**
+- diagnose: The test is used to diagnose a variety of diseases. 此项化验可用于诊断多种疾病
+- diagnose: The illness was diagnosed as cancer. 此病诊断为癌症
+- diagnosis: I need to have a second test to confirm the diagnosis. 我需要再进行一次检查以确诊
+- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-胸-乳房-n]
+- // TIPS: Pay attention to the pronunciation of the word 'diagnose'. [breast-胸-乳房-n]
+-
+- 15
+- `【 medical 医疗的 医学的 adj 】`
+- `【 medicine 药 n 】`
+- `【 medication 药 n 】`
+- > 【 medical record. 病历 】
+- > 【 medical equipment. 医疗设备 】
 
 ## **(一) 【 The Sick words that you mast know 】**
 
@@ -105,6 +152,7 @@
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】 // leaning community.
+- `【 medical center. 医疗中心 n 】` // ---------- 【 medical 医学的 adj 】 【 medical record. 病历 n 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】 // specialty store|food.
@@ -328,7 +376,7 @@
 - // -- poison gas. 毒气
 -
 - `【 medicine 药 n 】` // ---------------------- 【 oral medicine. 】 【 external medicine. 外用药 n 】 【 injectable medicine. 注射药 】 【 take medicine. 】
-- `【 medication 药 n 】`
+- `【 medication 药 n 】` // ------------------ **【 medical 医学的 】 【 medical record. 病历 】 【 medical equipment. 医疗设备 】**
 - `【 over-the-counter drugs. 非处方药 】`
 - `【 prescription drugs. 处方药 】` // ---------- `【 prescribe prescription drugs. 开处方药 】`
 - `【 Anti-inflammatory drugs. 消炎药 】` // ----- 【 antibiotic 抗生素 n 】
@@ -847,6 +895,7 @@
 - `【 otoscope 耳镜 】`
 - `【 gastroscope 胃镜 】`
 - `【 syringe 注射器 】` // --------------------- 【 syringe needle. 针头 // syringe barrel. 针筒 】 // syringe VS syrup
+- `【 diagnose 诊断 v 】`
 - _【 mercury thermometer. 水银温度计 n 】_
 - _【 digital thermometer. 数字温度计 n 】_
 - > 【 syringe 注射器 】// ---------------------- 【 syrup VS syringe 】 // 【 cough syrup. 止咳糖浆 xx】
@@ -969,7 +1018,7 @@
 -
 - `【 lung 肺 n 】` // ----------------------- 【 lung cancer. 肺癌 n 】 【 lung capacity. 肺活量 】
 - `【 chest 胸 胸部 n 】` // ------------------ 【 chest muscles. 胸肌 n 】
-- `【 breast 乳房 n 】` // -------------------- 【 breast milk. 母乳 n 】
+- `【 breast 乳房 n 】` // -------------------- 【 breast cancer. 乳腺癌 n 】 【 breast milk. 母乳 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'chest'. [chest-胸-n]
 - // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-乳房-n]
 - // TIPS: Pay attention to the pronunciation of the word 'capacity'. [capacity-容量-n]
@@ -993,6 +1042,8 @@
 - **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - // -- 【 transmit 传输 传递 传播 传染 v 】
 -
+- `【 bone 骨头 n 】`
+-
 - [AA.]
 - `【 vital 至关重要的 adj 】`
 - **【 The heart, brain, lungs are 【 vital 】 organs in the human body. 心脏、大脑、肺是人体的重要器官 】**
@@ -1012,6 +1063,11 @@
 - [CC.]
 - **【 【 Lungs 】 are the 【 organs 】 responsible for breathing. 肺是负责呼吸的器官 】**
 - **【 These organs 【 are formed by 】 tissues. 这些器官是由组织组成的 】**
+-
+- [DD.]
+- `【 breast milk. 母乳 n 】`
+- `【 breast cancer. 乳腺癌 n 】`
+- **【 The people who drink 【 breast milk 】 are not easy to get 【 breast cancer 】. 喝母乳的人不容易得乳腺癌 】**
 
 ## (1.8) `NUTRITION` nutrition
 
