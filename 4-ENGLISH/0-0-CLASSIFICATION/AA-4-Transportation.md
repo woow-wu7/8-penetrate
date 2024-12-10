@@ -250,7 +250,7 @@
 -
 - `【 gear 齿轮 n 】`
 - `【 manual transmission. 手动档 】`
-- `【 automatic transmission. 自动挡 】`
+- `【 automatic transmission. 自动挡 】` // ------ 【 data transmission. 数据传输 】
 - > 【 shift gears. 换挡 】`
 - > 【 first gear. 一档 】
 - > 【 second gear. 二档 】
@@ -268,6 +268,16 @@
 - `【 speedometer 速度计 】` // speedometer
 - `【 dashboard 仪表盘 】`
 - `【 tachometer 转速表 】`
+-
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- > 【 data transmission. 数据传输 n 】
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
+- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
 -
 - [DD-01]
 - `【 visor 遮阳板】`
@@ -289,6 +299,16 @@
 - `【 manual transmission. 手动挡 】`
 - `【 automatic transmission. 自动挡 】`
 - **【 Cars are divided into 【 manual transmission 】 and 【 automatic transmission 】. 汽车有手动档和自动档之分 】**
+-
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- > 【 data transmission. 数据传输 n 】
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
+- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
 -
 -
 -

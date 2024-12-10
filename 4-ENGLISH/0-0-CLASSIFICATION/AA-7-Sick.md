@@ -14,28 +14,31 @@
 - **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - // -- 【 transmit 传输 传递传染 传播 v 】
 -
--
 - 2
 - `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
 - `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
 - _【 manual transmission. 手动档 】_
 - _【 automatic transmission. 自动挡 】_
 - > 【 data transmission. 数据传输 n 】
+- > 【 transmit data. 传输数据 v 】
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
 - 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
 - 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
 -
--
 - 3
-- `【 refer to. 提到 参考 v 】`
+- `【 refer to. 参考 提到 v 】`
+- `【 mention 提到 提及 v n 】`
+- _【 involve 涉及 v 】_
+- _【 maintain 维持 保持 维护 v 】_
 - 1. 提到: **【 This book 【 refers to 】 the author's childhood. 这本书提到了作者的童年 】**
 - 2. 参考: **【 Please 【 refer to 】 the 【 tutorial 】 in the book 【 for 】 the 【 specific steps 】. 具体步骤请参考书中的教程 】**
--
+- // mention: **【 He just 【 mentioned 】 a word called "transmission". 他刚刚提到了一个词叫"传播" 】**
 -
 - 4
 - `【 feed on. 以...为食 】`
 - **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
 - // -- virus 病毒
--
 -
 - 5
 - `【 routine 常规的 adj / 常规 n 】`
@@ -50,6 +53,44 @@
 - // -- routine check-up. 常规检查
 - // -- 【 belong to. 属于 】
 - // -- 【 victory 胜利 】
+-
+- 6
+- `【 regular 定期的 正式的 普通的  adj 】`
+- > 【 【 regular 】 physical examination. 定期体检 】
+- > 【 【 routine 】 examination. 常规检查 】= 【 routine check-up. 常规检查 】
+- //【 regular physical examination. 定期体检 v 】
+- //【 regular employee. 正式员工 】
+- //【 regular gas. 普通汽油 】
+- // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
+- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
+- // -- 【 be beneficial to. 对...有利 】
+-
+- 7
+- `【 internal 内脏n / 内部的 adj 】`
+- > 【 internal contradiction. 内部矛盾 】
+- > 【 internal structure. 内部结构 】
+- **【 我们需要用显微镜观察内脏的内部结构 】**
+- **【 The 【 internals 】 are the organs in the human body. 内脏就是人体内部的器官 】**
+-
+- 8
+- `【 explain by. 通过...来解释 】`
+- `【 work principle. 工作原理 】`
+- **【 The teacher 【 explained 】 the 【 work principle 】 of the equipment 【 by 】 giving examples. 老师通过举例子来解释这个设备的工作原理 】**
+-
+- 9
+- `【 immune 免疫的 adj 】`
+- `【 immunity 免疫 免疫力 n 】`
+- `【 immunize 免疫 v 】`
+- **【 【 exercise 】 can 【 enhance 】 your 【 immunity 】. 锻炼可以增强你的免疫力 】**
+- // TIPS: Pay attention to the pronunciation of the word 'exercise'. [exercise-锻炼-v-n]
+-
+- 10
+- `【 have a shot. 打针 v 】`
+- `【 have an injection. 打针 v 】`
+- **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】**
+- // -- 【 prevent 阻止 预防 v 】
+- // -- disease 疾病 n
+- // -- illness 疾病 n
 
 ## **(一) 【 The Sick words that you mast know 】**
 
@@ -116,7 +157,7 @@
 - // -- beside 在...旁边
 - // -- near 附近
 -
-- `【 operating room. 手术室 】` ---------------- 【 OR 】 // operation 手术 操作 // 【 have an operation. 做手术 = perform surgery. 】
+- `【 operating room. 手术室 】` ---------------- 【 OR 】 // operation 手术 操作 // `【 have an operation. 做手术 = perform surgery. 】`
 - `【 emergency room. 急诊室 】` ---------------- 【 ER 】 // 【 emergency supplies. 紧急物资 】
 - `【 waiting room. 候诊室 】`
 - _【 registration desk. 挂号处 】_ ------------- 【 register 登记 注册 挂号 v 】 【 registration 登记 注册 n 】
@@ -337,7 +378,7 @@
 -
 - `【 instruction manual. 使用说明书 n 】` // -------------- 【 manual 手动的 adj 说明书 n 】
 - `【 instruction 说明 使用说明 n 】`
-- _【 manual 手动的 adj 说明书 n 】_ // -------------------- 【 manual transmission. 手动挡 】
+- _【 manual 手动的 adj 说明书 n 】_ // -------------------- 【 manual transmission. 手动挡 】 // transmit VS transform // transmission VS transmit
 - _【 automatic 自动的 adj 】_ // ------------------------- 【 automatic transmission. 自动挡 】
 - > 【 manual transmission. 手动档 n 】
 - > 【 automatic transmission. 自动档 n 】
@@ -354,6 +395,12 @@
 - > 【 antidote 解药 n 】
 - _【 relieve 减轻 缓解 v 】_
 - _【 release 释放 v 】_
+-
+- `【 prescription  处方 n 】`
+- `【 prescribe 开处方 v 】`
+- _【 prescription drugs. 处方药 】_
+- _【 prescribe prescription drugs. 开处方药 】_
+- **【 Doctors write prescriptions for medicine. A prescription tells a pharmacist what medicine a patient needs. lt also tells the patient when to take the medicine. 】**
 -
 - [AA.]
 - `【 antidote 解药 n 】`
@@ -434,7 +481,7 @@
 - [3333333.]
 - [SPECIES]
 - `【 species 物种 种 n 】` // ---------------- 【 endangered species. 濒危物种 n 】 【 rare species. 稀有物种 n 】
-- `【 evolution 进化 n 】` // ----------------- 【 evaluate 评价 v 】 // 【 the theory of evolution. 进化论 n 】
+- `【 evolution 进化 n 】` // ----------------- 【 the theory of evolution. 进化论 n 】 //【 evaluate 评价 v 】
 - `【 reproduction 繁殖 n 】` // -------------- 【 reproduce 繁殖 v 】 // 【 produce / reproduce / reproduction 】
 - `【 ecosystem 生态系统 n 】` // ------------- 【 natural ecosystem. 自然生态系统 n 】 【 marine ecosystem. 海生生态系统 n 】
 - `【 biology 生物学 n 】` // ----------------- `【 biology laboratory. 生物实验室 n 】` // 【 biotic 生物的 adj 】
@@ -615,6 +662,12 @@
 - `【 figure 身材n 】`
 - > 【 figure out. 计算出 v 】
 -
+- `【 immune 免疫的 adj 】`
+- `【 immunity 免疫 免疫力 n 】`
+- `【 immunize 免疫 v 】`
+- **【 【 exercise 】 can 【 enhance 】 your 【 immunity 】. 锻炼可以增强你的免疫力 】**
+-
+- // TIPS: Pay attention to the pronunciation of the word 'exercise'. [exercise-锻炼-v-n]
 - // TIPS: Pay attention to the pronunciation of the word 'nausea'. [nausea]
 - // TIPS: Pay attention to the pronunciation of the word 'severe'. [severe]
 -
@@ -821,7 +874,7 @@
 - `【 heartbeat 心跳 】`
 - `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
 - `【 physical examination. 体检 】` // ----------- exam examination
-- `【 regular physical examination. 定期体检 】`
+- `【 regular physical examination. 定期体检 】` // regular 定期的 正式的 常规的
 - `【 routine examination. 常规检查 】`
 - _【 routine 常规的 adj / 常规 n 】_
 - _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
@@ -836,10 +889,10 @@
 - BB.
 - _【 artery 动脉 】_
 - _【 vein 静脉 】_
-- //【 regular 普通的 正式的 定期的 adj 】
-- //【 regular gas. 普通汽油 】
-- //【 regular employee. 正式员工 】
+- //【 regular 定期的 正式的 普通的 adj 】
 - //【 regular physical examination. 定期体检 v 】
+- //【 regular employee. 正式员工 】
+- //【 regular gas. 普通汽油 】
 - // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
 - CC.
 - _【 routine 常规的 adj / 常规 n 】_
