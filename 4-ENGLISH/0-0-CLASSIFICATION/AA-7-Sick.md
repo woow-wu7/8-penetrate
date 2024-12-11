@@ -49,6 +49,11 @@
 - _【 routine check-up. 常规检查 】_
 - _【 【 regular 】 physical examination. 定期体检 】_
 - > 【 belong to. 属于 】
+- regular 定期的 正式的 常规的
+- regular physical examination. 定期体检
+- regular employee. 正式员工
+- regular gas. 普通汽油
+- premium gas. 高级汽油
 - **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
 - **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
 - // -- physical examination. 体检
@@ -77,7 +82,7 @@
 - > 【 internal contradiction. 内部矛盾 】
 - > 【 internal structure. 内部结构 】
 - _【 internal organ. 内脏 n 】_
-- **【 We need to use a microscope to 【 observe 】 the 【 internal structures 】 of the 【 internal organs 】. 我们需要用显微镜观察内脏的内部结构 】**
+- **【 We need to use a 【 microscope 】 to 【 observe 】 the 【 internal structures 】 of the 【 internal organs 】. 我们需要用显微镜观察内脏的内部结构 】**
 - **【 The 【 internals 】 are the organs in the human body. 内脏就是人体内部的器官 】**
 - // -- 【 observe 观察 观测 v 】
 -
@@ -85,6 +90,8 @@
 - `【 explain by. 通过...来解释 】`
 - `【 work principle. 工作原理 】`
 - **【 The teacher 【 explained 】 the 【 work principle 】 of the equipment 【 by 】 giving examples. 老师通过举例子来解释这个设备的工作原理 】**
+- // -- principle 原则 原理 n
+- // -- work principle. 工作原理
 -
 - 9
 - `【 immunity 免疫 免疫力 n 】`
@@ -108,15 +115,16 @@
 - **【 You need to 【 figure out 】 how to use these words. 你需要搞清楚如何使用这些单词 】**
 -
 - 12
-- `【 after a little while. 过了一会儿 不久之后 】`
+- `【 after a while. 过了一会 不久之后 】`
 - `【 for a while. 一段时间 一阵子 一会儿 】`
+- `【 after a little while. 过了一会儿 不久之后 】`
 - **【 【 After a little while 】, the rain stopped and the sun 【 came out 】. 过了一会儿，雨停了，太阳出来了 】**
 - **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
 -
 - 13
 - `【 consult 咨询 v 】`
-- `【 consultation 咨询 n 】`
 - `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】 // insult VS consult VS result
+- `【 consultation 咨询 n 】`
 - > 【 consult about sth. 咨询某事 】
 - _【 insult 侮辱 v 】_
 - _【 consult 咨询 v 】_
@@ -145,7 +153,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'diagnose'. [breast-胸-乳房-n]
 -
 - 15
-- `【 medical 医疗的 医学的 adj 】`
+- `【 medical 医疗的 医学的 adj 】` // ----------------- 【 medical center. 医疗中心 】 【 medical equipment. 医疗设备 】 【 medical record. 病历 】
 - `【 medicine 药 n 】`
 - `【 medication 药 n 】`
 - > 【 medical record. 病历 】
@@ -162,6 +170,38 @@
 - // -- 【 take a rest. 休息一会 】
 - // -- 【 take a break. 休息一会 】
 - // -- 【 related to. 有关 】
+-
+- 17
+- `【 migraine 边头痛 n 】`
+- `【 migrate 迁移 迁徙 移民 v 】`
+- `【 immigrate 移民 v 】`
+- `【 immigration 移民 n  】`
+- **【 After she 【 immigrated 】 to 【 America 】, she suffered from 【 migraines 】. 她移民到美国后，患上了偏头痛 】**
+-
+- 18
+- `【 by the way. 顺便说一下 顺便问一下 对了 】`
+- **【 【 By the way 】, did you finish the report? 顺便问一下，你完成报告了吗？ 】**
+-
+- 19
+- `【 unpleasant 不舒服的 不愉快的 adj 】` // 【 unpleasant smell. 不舒服的味道 】
+- _【 unpleasant smell. 不舒服的味道 】_
+- **【 I smelled an 【 unpleasant 】 smell. 我闻到了一股不舒服的味道 】**
+-
+- 20
+- `【 wipe off. 擦掉 v 】`
+- _【 wipe 擦 v 】_ // ----------------- 【 wipe 擦 v VS wiper 雨刷 n 】 // wipe swipe // wipe wiper
+- _【 wiper 雨刷 n 】_ // -------------- 【 windshield wiper. 雨刷 n 】
+- _【 swipe 刷卡 v 】_ // -------------- 【 swipe the card. 刷卡 v 】
+- **【 Please 【 wipe off 】 your 【 snot 】. 请擦掉你的鼻涕 】**
+- **【 After 【 swiping the card 】, you can use the 【 windshield wipers 】 to 【 wipe 】 the glass. 刷卡后，你就可以用用雨刷擦玻璃了 】**
+- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
+- **【 He wiped off the snot on his face 【 with 】 his sleeve. 他用袖子擦掉脸上的鼻涕 】**
+-
+- 21
+- `【 sleeve 袖子 n 】`
+- `【 snot 鼻涕 n 】`
+- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
+- **【 He 【 wiped off 】 the 【 snot 】 on his face 【 with 】 his 【 sleeve 】. 他用袖子擦掉脸上的鼻涕 】**
 
 ## **(一) 【 The Sick words that you mast know 】**
 
@@ -680,6 +720,7 @@
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
 - `【 stuffy nose. 鼻塞 】` // ------------- **【 blocked nose. 鼻塞 = stuffy nose. 】**【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
 - `【 blocked nose. 鼻塞 】`
+- `【 snot 鼻涕 n 】` // ------------------- **【 wipe off the snot. 擦掉鼻涕 v 】**
 - `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
 - `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
 - > 【 blocked nose. 鼻塞 】
@@ -727,6 +768,7 @@
 -
 - `【 itch 痒 v n 】`
 - `【 itchy 痒的 adj 】`
+- `【 rash 皮疹 n 】`
 - `【 rich 富有的adj 富人n 】`
 - > 【 scratch an itch. 挠痒 v 】
 - > 【 crutch 拐杖 n 】

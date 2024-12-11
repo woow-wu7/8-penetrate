@@ -3,7 +3,7 @@
 - 1
 - `【 rail 铁路 栏杆 n 】` // ------------------ 【 high speed rail. 高铁 】 【 handrail 扶手 】 【 railing 金属栏杆 】 【 railway 铁路 】 // 【 highway 高速公路 】
 - `【 trail 小路n 跟踪v 】` // ----------------- 【 mountain trail. 山路 】
-- `【 trial 试验 v n 】` // ------------------- 【 trial period. 试用期 】 【 warranty period. 保修期 】 【 validity period. 有效期 】 【 shelf life. 保质期 】
+- `【 trial 试验 v n 】` // ------------------- 【 free trial. 免费试用 】 // 【 trial period. 】 【 warranty period. 】 【 validity period. 】 【 shelf life. 】
 -
 - AA.
 - > 【 rail 铁路 栏杆 n 】
@@ -20,6 +20,8 @@
 - // --【 around here. 附件 】
 -
 - BB.
+- 【 trial 试验 v 】
+- 【 free trial. 免费试用 n 】
 - _【 trial period. 试用期 】_ // -------------- 【 trial 试验 v n 】
 - _【 internship period. 实习期 】_ // --------- 【 intern position. 实习岗 n 】
 - _【 warranty period. 保修期 】_ // ----------- 【 warranty 保修单 n 】
