@@ -172,7 +172,7 @@
 - // -- 【 related to. 有关 】
 -
 - 17
-- `【 migraine 边头痛 n 】`
+- `【 migraine 偏头 n 】`
 - `【 migrate 迁移 迁徙 移民 v 】`
 - `【 immigrate 移民 v 】`
 - `【 immigration 移民 n  】`
@@ -1212,9 +1212,11 @@ stay hydrated. 多喝水
 
 - 1
 - `【 make an appointment. 预约 】` // ------------- 【 make an appointment with sb. 预约某人 v 】
+- `【 book an appointment. 预约 】`
 - `【 in advance. 提前 】`
 - `【 check the eyes. 检查眼睛 】`
 - `【 check the vision. 检查视力 】`
+- I need to 【 schedule an appointment 】 【 with 】 my dentist next week. 我需要在下周和我的牙医预约安排一个就诊时间
 - 1. **【 I have 【 made an appointment 】 【 with 】 the doctor 【 to 】 【 check my eyes 】. 我预约了医生检查眼睛 】**
 - 2. **【 I'd like to 【 make an appointment 】 【 with 】 Dr.Brown, please. 我想和布朗医生预约一下 】**
 - 3. **【 I would like to 【 make an appointment 】 【 to see 】 Dr. William. 我想要预约看诊威廉医生 】**

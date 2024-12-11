@@ -972,3 +972,18 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 -
 他用袖子擦掉脸上的鼻涕
 ```
+
+##### 19 Make sentences 2024-12-19
+
+```
+1
+你需要特别注意交通安全
+-
+这个特别的设备可以诊断具体的症状
+
+
+2
+去医院定期体检有利于身体健康
+-
+她不是这个银行的正式员工
+```
