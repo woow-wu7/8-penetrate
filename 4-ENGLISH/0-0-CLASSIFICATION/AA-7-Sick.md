@@ -1,16 +1,16 @@
 ## Sick
 
-## **(零)【 Hard words 】**
+## **(零)【 Hard words ------- Please see (一) below first, and then go back to see (零)】**
 
 - 1
 - `【 nerve 神经 n 】` // ---------------------- 【 nerve cells. 神经细胞 】
-- `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 nerve signal. 神经信号 】
+- `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 neural signal. 神经信号 】
 - `【 neuron 神经元 n 】`
 - > 【 nerve cells. 神经细胞 】`
 - > 【 neural network. 神经网络 】`
 - > 【 neural signal. 神经信号 】
 - **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
-- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 这些器官是由组织组成的 】**
+- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - // -- 【 transmit 传输 传递传染 传播 v 】
 -
@@ -34,6 +34,9 @@
 - 1. 提到: **【 This book 【 refers to 】 the author's childhood. 这本书提到了作者的童年 】**
 - 2. 参考: **【 Please 【 refer to 】 the 【 tutorial 】 in the book 【 for 】 the 【 specific steps 】. 具体步骤请参考书中的教程 】**
 - // mention: **【 He just 【 mentioned 】 a word called "transmission". 他刚刚提到了一个词叫"传播" 】**
+- // tutorial 教程
+- // tutor 家庭教师
+- // coach 教练
 -
 - 4
 - `【 feed on. 以...为食 】`
@@ -58,19 +61,25 @@
 - `【 regular 定期的 正式的 普通的  adj 】`
 - > 【 【 regular 】 physical examination. 定期体检 】
 - > 【 【 routine 】 examination. 常规检查 】= 【 routine check-up. 常规检查 】
-- //【 regular physical examination. 定期体检 v 】
-- //【 regular employee. 正式员工 】
-- //【 regular gas. 普通汽油 】
+- _【 regular physical examination. 定期体检 v 】_
+- _【 regular employee. 正式员工 】_
+- _【 regular gas. 普通汽油 】_
+- //【 regular gas. 普通的汽油 】 // 87
+- //【 premium gas. 优质的汽油 】 // 93
 - // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
 - **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
+- **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
 - // -- 【 be beneficial to. 对...有利 】
+- // -- 【 regular 定期的 正式的 普通的 】
 -
 - 7
 - `【 internal 内脏n / 内部的 adj 】`
 - > 【 internal contradiction. 内部矛盾 】
 - > 【 internal structure. 内部结构 】
-- **【 我们需要用显微镜观察内脏的内部结构 】**
+- _【 internal organ. 内脏 n 】_
+- **【 We need to use a microscope to 【 observe 】 the 【 internal structures 】 of the 【 internal organs 】. 我们需要用显微镜观察内脏的内部结构 】**
 - **【 The 【 internals 】 are the organs in the human body. 内脏就是人体内部的器官 】**
+- // -- 【 observe 观察 观测 v 】
 -
 - 8
 - `【 explain by. 通过...来解释 】`
@@ -78,8 +87,8 @@
 - **【 The teacher 【 explained 】 the 【 work principle 】 of the equipment 【 by 】 giving examples. 老师通过举例子来解释这个设备的工作原理 】**
 -
 - 9
-- `【 immune 免疫的 adj 】`
 - `【 immunity 免疫 免疫力 n 】`
+- `【 immune 免疫的 adj 】`
 - `【 immunize 免疫 v 】`
 - **【 【 exercise 】 can 【 enhance 】 your 【 immunity 】. 锻炼可以增强你的免疫力 】**
 - // TIPS: Pay attention to the pronunciation of the word 'exercise'. [exercise-锻炼-v-n]
@@ -87,6 +96,7 @@
 - 10
 - `【 have a shot. 打针 v 】`
 - `【 have an injection. 打针 v 】`
+- _【 prevent 阻止 防止 v 】_
 - **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】**
 - // -- 【 prevent 阻止 预防 v 】
 - // -- disease 疾病 n
@@ -138,6 +148,18 @@
 - `【 medication 药 n 】`
 - > 【 medical record. 病历 】
 - > 【 medical equipment. 医疗设备 】
+- > 【 medical center. 医疗中心 】
+-
+- 16
+- `【 for a while. 一段时间 一阵子 一会儿 】`
+- 一段时间: **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
+- 一段时间: **【 We haven't reviewed the topic 【 related to 】 phone 【 for a while 】. 我们有一段时间没有复习有关电话的主题了 】**
+- 一会 **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
+- 一会 **【 I just wait for you for a while. 我仅仅等了你一会 】**
+- **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
+- // -- 【 take a rest. 休息一会 】
+- // -- 【 take a break. 休息一会 】
+- // -- 【 related to. 有关 】
 
 ## **(一) 【 The Sick words that you mast know 】**
 
@@ -152,7 +174,7 @@
 - `【 outpatient department. 门诊部 】` // -------【 patient 病人 n / 有耐心的 adj 】 【 patience 耐心 n 】
 - `【 inpatient department. 住院部 】`
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】 // leaning community.
-- `【 medical center. 医疗中心 n 】` // ---------- 【 medical 医学的 adj 】 【 medical record. 病历 n 】
+- `【 medical center. 医疗中心 n 】` // ---------- 【 medical 医学的 】 【 medical record. 病历 】 【 medical equipment. 医疗设备 】【 medical center. 医疗中心 】
 - > 【 dental clinic. 牙医诊所 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】 // specialty store|food.
@@ -634,6 +656,12 @@
 - > 【 injury 伤害 n 】
 - > 【 slight injury. 轻伤 】
 -
+- `【 infect 感染 传染 v 】`
+- `【 infection 感染 传染 n 】`
+- `【 respiratory tract. 呼吸道 】`
+- `【 upper respiratory tract infection. 上呼吸道感染 】`
+- `【 lower respiratory tract infection. 上呼吸道感染 】`
+-
 - `【 headache 头痛 n 】`
 - `【 toothache 牙痛 n 】`
 - `【 backache 背痛 n 】`
@@ -700,6 +728,9 @@
 - `【 rich 富有的adj 富人n 】`
 - > 【 scratch an itch. 挠痒 v 】
 - > 【 crutch 拐杖 n 】
+-
+- `【 twist 扭伤 v 】`
+- **【 【 twist 】 my 【 ankle 】. 扭伤我的脚踝 】**
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
