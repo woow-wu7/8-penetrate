@@ -945,4 +945,10 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 医生需要搞清楚病人哪里出了问题
 -
 你需要搞清楚如何使用这些单词
+
+
+6
+过了一会儿，雨停了，太阳出来了
+-
+我有一段时间没见到他了
 ```

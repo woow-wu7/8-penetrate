@@ -97,19 +97,21 @@
 - `【 have a shot. 打针 v 】`
 - `【 have an injection. 打针 v 】`
 - _【 prevent 阻止 防止 v 】_
-- **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】**
+- **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】** [prevent-阻止-防止-v]
 - // -- 【 prevent 阻止 预防 v 】
 - // -- disease 疾病 n
 - // -- illness 疾病 n
 -
 - 11
 - `【 figure out. 搞清楚 弄明白 计算出 v 】`
-- **【 Doctors need to 【 figure out 】 what's wrong with patients. 医生需要搞清楚病人哪里出了问题 】**
+- **【 Doctors need to 【 figure out 】 what's wrong 【 with 】 patients. 医生需要搞清楚病人哪里出了问题 】**
 - **【 You need to 【 figure out 】 how to use these words. 你需要搞清楚如何使用这些单词 】**
 -
 - 12
 - `【 after a little while. 过了一会儿 不久之后 】`
+- `【 for a while. 一段时间 一阵子 一会儿 】`
 - **【 【 After a little while 】, the rain stopped and the sun 【 came out 】. 过了一会儿，雨停了，太阳出来了 】**
+- **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
 -
 - 13
 - `【 consult 咨询 v 】`

@@ -1,4 +1,6 @@
-## Monitor Errors.
+## 错误监控 性能监控 Monitor Errors.
+
+## (一) 前置知识
 
 ```
 range 范围 领域 n
@@ -16,9 +18,7 @@ rejection 拒绝 n
 beacon 信标 烽火 n
 ```
 
-## (一) 前置知识
-
-## (1) 错误类型
+## (1) 错误类型 ( 运行时错误，资源加载错误，Promise 错误，异步错误 )
 
 - 运行时的错误( 8 种 ) ------ js 中的错误
   - 1 种原生错误 ----------- Error/name+message+stack
@@ -67,8 +67,8 @@ UserError.prototype.constructor = UserError;
 ## (2) 白屏时间 和 首屏时间
 
 ```
-白屏时间: 从 ( 浏览器输入网址 ) 到 ( 浏览器页面 - 开始有内容展示出来 ) 之间的时间
-首屏时间: 从 ( 浏览器输入网址 ) 到 ( 浏览器首屏内容渲染完毕 ) 之间的时间
+白屏时间: 从 ( 浏览器输入网址 ) 到 ( 浏览器页面 - 开始有内容展示出来 ) 之间的时间 // ----- 白屏时间 = domLoading - fetchStart
+首屏时间: 从 ( 浏览器输入网址 ) 到 ( 浏览器首屏内容渲染完毕 ) 之间的时间 // ------------- 首屏时间 = 白屏时间 + 首屏首次渲染完成的时间
 ---
 
 1
@@ -100,7 +100,7 @@ try...catch 能捕获 Promise 中的错误吗？
 - 因为: await 是一个语法糖，它会检查 promise 中的状态，当rejected时，会 throw error，当然就能被 catch 所捕获
 ```
 
-## (三) 错误相关的事件
+## (二) 错误相关的事件
 
 ```
 总结:
@@ -187,13 +187,13 @@ object.onerror
 - 原理: 资源加载错误，并不会向上冒泡，object.onerror捕获后就会终止，所以window.onerror并不能捕获资源加载错误
 ```
 
-## (四) 错误上报
+## (三) 错误上报 ( 三种方式 - ajax, img, Navigator.sendBeacon )
 
 ```
 上报方式
 - ajax 上报
 - img 上报
-- Navigator.sendBeacon 上报
+- Navigator.sendBeacon 上报  // -------  【 beacon 烽火 信标 n 】
 ---
 
 1
@@ -222,6 +222,29 @@ Navigator.sendBeacon 上报
 - 特点
   - 异步请求，并且是POST请求
   - 发出的请求，脱离当前页面(被放到的浏览器任务队列执行的，)，所以 ( 不会阻塞当前页面的卸载 )和 ( 后面页面的加载过程 )，用户体验较好；
+
+4
+beacon 烽火 信标 n
+```
+
+## (三) 谷歌性能标准 ( 6 个 )
+
+```
+谷歌性能标准 ( 6 个 )
+---
+LCP ------ Largest Contentful Paint ------- 最大内容绘制
+// LCP 衡量页面主内容加载完成的时间，通常是页面中最大可视元素（例如图片或文本块）的渲染时间
+
+FID ------ First Input Delay -------------- 首次输入延迟
+// FID 衡量从用户第一次与页面交互（如点击链接、按钮等）到浏览器开始响应的时间
+
+
+FP ------- First Paint. ------------------- 首次绘制
+FCP ------ First Contentful  Paint. ------- 首次内容绘制
+FID ------ First Input Delay. ------------- 首次输入延迟
+LCP ------ Largest Contentful Paint ------- 最大内容绘制
+FMP ------ First Meaningful Paint. -------- 首次有效绘制
+TTI ------ Time to Interactive. ----------- 页面可交互时间
 ```
 
 ## 资料
