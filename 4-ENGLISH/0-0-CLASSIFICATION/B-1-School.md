@@ -12,12 +12,13 @@
 - `【 elementary school. 小学 】`
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
+- _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 v 】 【 vote 投票 v 】
 -
 - `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】 // **【 primary election. 初选 】**
 - `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
-- `【 university 大学 】`
+- `【 university 大学 】` // ------------------------ 【 universe 宇宙 VS university 大学 】
 - `【 college 学院 大学 】` // ----------------------- colleague = coworker.
 - > 【 colleague = coworker. 同事 n 】
 - > 【 college 学院 大学 n】
@@ -32,7 +33,7 @@
 - _【 primary 最初的 主要的 adj 】_
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
-- _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 】 【 vote 投票 】
+- _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 v 】 【 vote 投票 v 】
 - > 【 Grade One in primary school. 小学一年级 】 // -- 注意 Grade 和 One 都要大写
 - > 【 Grade Two in primary school. 小学二年级 】// --- 注意 Grade 和 One 都要大写
 - > grade 等级 年级 成绩
@@ -95,10 +96,11 @@
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
 - [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
+- // TIPS: Pay attention to the pronunciation of the word 'midterm'. [midterm-exam.其中考试-n]
 - .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 -
 - [学生]
-- `【 overseas student. 留学生 】` = international student.
+- `【 overseas student. 留学生 = international student.】` // _【 study abroad. 留学 】_ `【 go abroad. 出国 】` // 【 abroad 往国外 VS aboard 在船上 】
 - `【 undergraduate student. 本科生 】`
 - `【 postgraduate student. 研究生 】` // -------------- 【 graduate 毕业 v / 毕业生 n 】 // 【 graduation ceremony. 毕业典礼 】
 - `【 doctoral student. 博士生 】`
@@ -106,7 +108,7 @@
 - _【 sophomore 大二学生 】_ // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
 - _【 junior 大三学生 】_ // ----- 年少的 下级的
 - _【 senior 大四学生 】_// ------ 年长的 资深的
-- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal VS principle 原则原理 】
+- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal 校长 VS principle 原则原理 】
 - `【 vice principal. 副校长 n 】`
 - `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
 - `【 headmistress 女校长 】`
@@ -114,8 +116,14 @@
 - `【 associate professor. 副教授 n 】`
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
+- > 【 campus 校园 校区 n 】
+- _【 go abroad. 出国 】_
+- _【 study abroad. 出国留学 】_
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
 - **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
+- **【 I 【 met 】 my 【 vice principal 】 【 on 】 the 【 campus 】. 我在校园里遇到了我的副校长 】**
+- // TIPS: Pay attention to the pronunciation of the word 'campus'. [campus-校园-校区-n]
+- // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
 -
 - [考试]
 - `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
@@ -133,6 +141,7 @@
 - `【 tuition fees. 学费 】` // ------------------------- _【 tuition fee. 学费 】_ // 【 tutorial 教程 】 【 tutor 家庭教师 】
 - `【 textbook 教科书 课本 n 】`
 - `【 school uniform. 校服 n 】`
+- `【 campus 校园 n 】`
 - > 【 tuition fee. 学费 n 】
 - > 【 tutorial 教程 n 】
 - > 【 tutor 家庭教师 】
@@ -162,6 +171,8 @@
 - `【 associate professor. 副教授 n 】`
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
+- > 【 campus 校园 校区 n 】
+- **【 I 【 met 】 my 【 vice principal 】 on the 【 campus 】. 我在校园里遇到了我的副校长 】**
 -
 -
 -

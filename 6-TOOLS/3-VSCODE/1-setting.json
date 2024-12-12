@@ -51,7 +51,8 @@
     "EE",
     "[x]",
     "[ ]",
-    "MT"
+    "MT",
+    "HL"
   ],
   "todo-tree.general.tagGroups": {
     "TODO": ["TODO", "todo"]
@@ -163,6 +164,14 @@
       "icon": "flame",
       "gutterIcon": true,
       "iconColour": "#9500ff"
+    },
+    "HL": {
+      "foreground": "black",
+      "background": "#00FFFF",
+      "type": "tag",
+      "icon": "ruby",
+      "gutterIcon": true,
+      "iconColour": "#00FFFF"
     }
   },
   "#################################################################################": "####### 1.todo-tree-end",
@@ -186,6 +195,7 @@
     "clsx",
     "Configurer",
     "consigner",
+    "Contentful",
     "countertop",
     "datasource",
     "decompilation",
@@ -264,13 +274,13 @@
   "typescript.inlayHints.enumMemberValues.enabled": true,
   "prettier.printWidth": 120,
   "git.autofetch": true,
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "Bearded Theme Milkshake Raspberry",
   "editor.minimap.enabled": false,
   "#################################################################################": "####### 3.highlight-start",
   "highlight.regexes": {
     "(\\bVS\\b)": [
       {
-        "backgroundColor": "#ff0000",
+        "backgroundColor": "#ff5e00",
         "color": "#ffffff"
       }
     ],

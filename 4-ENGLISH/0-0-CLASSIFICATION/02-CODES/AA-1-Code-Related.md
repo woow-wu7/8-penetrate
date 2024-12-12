@@ -1007,7 +1007,7 @@ https://vuejs.org/guide/introduction.html
 - 9
 - `recommend doing. 推荐做...`
 - `be recommended to. 被推荐做...`
-- **【 The book 【 was recommended to 】 read by my teacher. 这本书是我老师推荐读的 】**
+- **【 The book 【 was recommended to 】 read by my teakcher. 这本书是我老师推荐读的 】**
 - **【 My doctor highly recommends exercising every day to stay health. 我的医生强烈建议每天锻炼以保持健康 】**
 
 ##### (八)
