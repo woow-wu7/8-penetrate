@@ -3,7 +3,8 @@
 ##### (1) Education background 教育背景 / 学历
 
 - `【 kindergarten 幼儿园 】`
-- > 【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】
+- **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
+- **【 She teaches English in 【 kindergarten 】. 她在幼儿园教英语 】**
 - > 【 garden 花园 n 】
 -
 - `【 junior school. 小学 】`
@@ -26,14 +27,17 @@
 -
 - [小学]
 - `【 junior school. 小学 】`
-- `【 primary school. 小学 】` // ------------------- 【 primary source. 主要来源 】 【 primary school. 小学 】 // 【 elect / election 】
+- `【 primary school. 小学 】` // ------------------- 【 primary source. 主要来源 】 【 primary election. 初选 预选 】 // 【 elect / election 】
 - `【 elementary school. 小学 】`
+- _【 primary 最初的 主要的 adj 】_
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
+- _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 】 【 vote 投票 】
 - > 【 Grade One in primary school. 小学一年级 】 // -- 注意 Grade 和 One 都要大写
 - > 【 Grade Two in primary school. 小学二年级 】// --- 注意 Grade 和 One 都要大写
 - > grade 等级 年级 成绩
 - **【 He is a 【 Grade One 】 student 【 in 】 【 primary school 】. 他是小学一年级学生 】**
+- **【 He passed the 【 primary election 】 for this 【 primary school 】. 他通过了这所小学的初选 】**
 -
 - [初中]
 - `【 junior high school. 初中 】`
@@ -59,8 +63,8 @@
 - **【 He is a 【 technical secondary school 】 student. 他是一个中专生 】**
 -
 - [学位]
-- `【 bachelor's degree 学士学位 】`
-- `【 master's degree. 硕士学位 】`
+- `【 bachelor's degree 学士学位 】` // ----------------- 【 undergraduate student. 本科生 n 】
+- `【 master's degree. 硕士学位 】` // ------------------ 【 postgraduate student. 研究生 n 】
 - `【 doctor's degree. 博士学位 】` // ------------------ 【 doctoral student. 博士生 n 】
 - > bachelor 学士 单身汉 // bachelorette 未婚女子
 - > master 硕士 主人
@@ -68,12 +72,16 @@
 - > 【 doctoral students. 博士生 n 】
 -
 - [成绩]
+- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
+- `【 final exam. 期末考试 】`
 - `【 academic performance. 学习成绩 】`
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
-- `【 math score. 数学成绩 】`
+- `【 math scores. 数学成绩 】`
+- `【 full scholarship. 全额奖学金 n 】` // -------------- 【 scholar 学者 】 // 【 internship 实习期 】 【 internship position. 实习岗 】
 - `【 first place. 第一名 n 】` // ---------------------- 【 last place. 最后一名 】
 - `【 last place. 最后一名 n 】`
 - `【 first prize. 一等奖 n 】`
+- `【 the title of. ...的称号 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
 - _【 single quotation mark. 单引号 】_
@@ -81,17 +89,18 @@
 - _【 round brackets. 小括号 】_
 - _【 square brackets. 中括号 】_
 - _【 curly brackets. 大括号 】_
-- [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
 - > 【 academic performance. 学习成绩 】
 - > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
+- [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
+- .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 -
 - [学生]
 - `【 overseas student. 留学生 】` = international student.
 - `【 undergraduate student. 本科生 】`
-- `【 postgraduate student. 研究生 】`
+- `【 postgraduate student. 研究生 】` // -------------- 【 graduate 毕业 v / 毕业生 n 】 // 【 graduation ceremony. 毕业典礼 】
 - `【 doctoral student. 博士生 】`
 - _【 freshman 大一学生 】_
 - _【 sophomore 大二学生 】_ // -- 一半聪明一半笨蛋 philosophy 哲学 moron 笨蛋
@@ -105,7 +114,29 @@
 - `【 associate professor. 副教授 n 】`
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
-- **【 He is a 【 Grade One student 】 【 in 】 【 primary school 】. 他是小学一年级学生 】**
+- **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
+- **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
+-
+- [考试]
+- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
+- `【 final exam. 期末考试 】`
+- `【 academic performance. 学习成绩 】`
+- `【 full marks. 满分 】`
+- `【 math scores. 数学成绩 】`
+- `【 full scholarship. 全额奖学金 】` // --------------- 【 scholar 学者 n 】
+- `【 first place. 第一名 】` // ----------------------- 【 the title of. ...的称号 】
+- `【 last place. 最后一名 】`
+- `【 first prize. 一等奖 】`
+- .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
+-
+- [其他]
+- `【 tuition fees. 学费 】` // ------------------------- _【 tuition fee. 学费 】_ // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 textbook 教科书 课本 n 】`
+- `【 school uniform. 校服 n 】`
+- > 【 tuition fee. 学费 n 】
+- > 【 tutorial 教程 n 】
+- > 【 tutor 家庭教师 】
+- **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
 -
 - [教育背景]
 - `【 education 教育 学历 n 】`
@@ -131,21 +162,6 @@
 - `【 associate professor. 副教授 n 】`
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
--
-- [其他]
-- `【 tuition fee. 学费 】` // ------------------------- _【 tuition fee. 学费 】_
-- `【 textbook 教科书 课本 n 】`
-- `【 school uniform. 校服 n 】`
--
-- [考试]
-- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
-- `【 final exam. 期末考试 】`
-- `【 full marks. 满分 】`
-- `【 academic performance. 学习成绩 】`
-- `【 math score. 数学成绩 】`
-- `【 first place. 第一名 】` // ----------------------- 【 the title of. ...的称号 】
-- `【 last place. 最后一名 】`
-- `【 first prize. 一等奖 】`
 -
 -
 -

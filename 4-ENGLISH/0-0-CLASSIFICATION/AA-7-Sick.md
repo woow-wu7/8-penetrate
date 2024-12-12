@@ -330,6 +330,7 @@
 - > first place. 第一名
 - > last place. 最后一名
 - > the title of. ...的称号
+- > 【 full scholarship. 全额奖学金 n 】
 - Ee.
 - // TIPS: Pay attention to the pronunciation of the word 'award'. [award-奖-n] [award-ceremony-颁奖典礼-n] [award-winner-获奖者-n]
 - // TIPS: Pay attention to the pronunciation of the word 'awkward'. [awkward]
@@ -998,7 +999,7 @@
 - `【 heartbeat 心跳 】`
 - `【 measure 测量v / 措施 n 】` // --------------- 【 measure 测量措施 VS means 手段途经 】
 - `【 physical examination. 体检 】` // ----------- exam examination
-- `【 regular physical examination. 定期体检 】` // regular 定期的 正式的 常规的
+- `【 regular physical examination. 定期体检 】` // regular 定期的 正式的 常规的 规则的 adj
 - `【 routine examination. 常规检查 】`
 - _【 routine 常规的 adj / 常规 n 】_
 - _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
@@ -1011,6 +1012,7 @@
 - > 【 physical examination report. 体检报告 】` // ----- report 报告 v/n
 - > 【 【 regular 】 physical examination. 定期体检 v 】-- regular 普通的 正式的 定期的 adj
 - BB.
+- _【 blood vessel. 血管 】_
 - _【 artery 动脉 】_
 - _【 vein 静脉 】_
 - //【 regular 定期的 正式的 普通的 adj 】

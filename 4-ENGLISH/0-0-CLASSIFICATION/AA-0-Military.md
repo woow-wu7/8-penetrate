@@ -116,9 +116,11 @@
 - `【 handgun 手枪 】` = pistol
 - _【 draw the pistol. 拔出手枪 v 】_
 -
-- 【 possess 持有 拥有 v 】 // ------------------ 【 possess wealth. 拥有财富 v 】
-- 【 possess wealth. 拥有财富 】
-- 【 illegally possess guns. 非法持有枪支 】
+- 【 possess 持有 拥有 v 】 // ------------------ 【 possess wealth. 拥有财富 v 】 【 possess firearm. 持有枪支 】 // fire + arm // army armed
+- > 【 possess wealth. 拥有财富 】
+- > 【 illegally possess guns. 非法持有枪支 】
+- > 【 possess firearm. 持有枪支 】
+- **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
 - **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
 -
 - `【 scope 瞄准镜 范围 n 】` // ---------------- 【 attach the scope. 装上瞄准镜 v 】
@@ -202,7 +204,7 @@
 - // -- 【 long distance. 远距离 】
 -
 - [CC.]
-- `【 possess 持有 拥有 v 】`
+- `【 possess 持有 拥有 v 】` // ----------------------【 possess firearm. 持有枪支 】 // fire + arm // armed army
 - `【 pistol 手枪 】`
 - `【 shotgun 猎枪 】`
 - `【 rifle 步枪 】`

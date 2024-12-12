@@ -31,3 +31,19 @@
 - **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
 - // -- 【 be beneficial to. 对...有利 】
 - // -- 【 regular 定期的 正式的 普通的 】
+
+##### Words Must 2024-12-12
+
+- 1
+- `【 possess 拥有 持有 v 】` // --------------- 【 possess firearm. 持有枪支 】 // fire + arm // armed army
+- `【 own 拥有v 自己的 adj 】`
+- `【 owe 欠 欠钱 v 】`
+- _【 possess wealth. 拥有财富 v 】_
+- _【 possess firearm. 持有枪支 v 】_ = possess guns.
+- _【 illegally possess guns. 非法持有枪支 v 】_
+- **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
+- **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
+- **【 He 【 possess 】 the right to say no. 他拥有说不的权利 】**
+- // -- 【 illegal cohabit. 非法同居 】
+- // -- 【 illegal wealth. 非法财富 】
+- // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-v]

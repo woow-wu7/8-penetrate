@@ -45,7 +45,7 @@
 - [building-material.建筑材料] // ----------------------- 【 raw material. 】 【 composite material. 】
 - [constructor-建造者-构造函数-n]
 - [construction-建筑-n]
-- [construction-site.建筑工地] // ----------------------- 【 construction site. 建筑工地 n 】
+- [construction-site.建筑工地] // ----------------------- 【 construction site. 建筑工地 n 】 【 construction work. 建筑工人 】
 - // 【 Construction workers 】 work 【 on 】 the 【 construction site 】. 建筑工人在建筑工地工作
 - > 【 raw material. 原材料 】
 - > 【 raw rice. 生米 n 】

@@ -990,4 +990,12 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 
 3
 我们需要特别注意最受欢迎的套餐是定期体检的套餐
+
+
+4
+他的数学成绩在期中考试和期末考试中都是满分
+
+
+4
+留学生的学费很贵
 ```
