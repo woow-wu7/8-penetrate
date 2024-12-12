@@ -1003,3 +1003,35 @@ The 【 gynecologist 】 is learning how to 【 perform surgery 】 on the 【 p
 5
 我在校园里遇到了我的副校长
 ```
+
+##### 20 Make sentences 2024-12-20
+
+```
+1
+The 【 electricity 】 【 generated 】 by 【 diesel generator 】 is enough to support us in finding the reason of 【 power outage 】 at the 【 power station 】.
+柴油发电机发的电足够支撑我们找到发电站停电的原因
+-
+It will 【 generate heat 】 when the 【 generator 】 【 generates electricity 】.
+发电机发电时会产生热量
+-
+// -
+// generator 发电机 n
+// generate 产生 生成 v
+// -
+// 【 generate heat. 产生热量 】
+// 【 generate electricity. 发电 】
+// 【 generate reaction. 产生反应 】
+// 【 generate contradiction. 产生反应 】
+// 【 generate profit. 产生利润 】
+// -
+// 【 power station. 发电站 n 】
+// 【 power outage. 停电 断电 n 】
+
+
+2
+社会地位在现代社会中很重要
+
+
+3
+
+```

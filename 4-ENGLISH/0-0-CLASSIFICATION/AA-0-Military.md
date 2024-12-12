@@ -241,7 +241,7 @@
 ##### Military 3 - navy army fire-force
 
 - 3
-- `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
+- `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】 // 【 navy 海军 VS envy 羡慕 嫉妒 v】
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
 - `【 air force. 空军 n 】`
 - > 【 naval fleet. 海军舰队 n 】

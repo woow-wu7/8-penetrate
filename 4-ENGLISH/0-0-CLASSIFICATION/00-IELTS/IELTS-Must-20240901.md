@@ -144,9 +144,10 @@
 - > 【 external 外部的 adj 】// ----------------【 external medicine. 外用药 】 【 injectable/oral/external/traditional Chinese/western medicine. / 】
 - // full scholarship. 全额奖学金
 - // full marks. 满分
+- // math scores. 数学成绩
 - // academic performance. 学习成绩
 - // tuition fees. 学费 n
-- > 【 tuition fees. 学费 n 】
+- > 【 tuition fees. 学费 n 】 // ---------- **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很高 】** // tutorial tutor
 - _【 contradiction 矛盾 反驳 n 】_ // ------- `【 internal contradiction. 内部矛盾 n 】` 【 internal structure. 内部结构 n 】 【 family contradiction. 家庭矛盾 n 】
 - _【 internal structure. 内部结构 n 】_
 - _【 internal contradiction. 内部矛盾 n 】_
@@ -155,8 +156,8 @@
 - _【 generate contradiction. 产生矛盾 v 】_ // `【 generate contradiction. 产生矛盾 v 】`
 - > 【 full scholarship. 全额奖学金 n 】
 - > 【 be full of. 充满 】
-- _【 social 社会的 adj 】_ // ----------------- 【 social status. 社会地位 】
-- _【 society 社会 n 】_ // -------------------- 【 modern society. 现代社会 】
+- _【 social 社会的 adj 】_ // ----------------- 【 social status. 社会地位 】 【 social media. 社交媒体 】 【 social contradiction. 社会矛盾 】
+- _【 society 社会 n 】_ // ------------------ **【 modern society. 现代社会 】**
 - _【 social status. 社会地位 】_
 - _【 social media. 社交媒体 】_
 - _【 social welfare. 社会福利 】_ // ---------- 【 welfare state. 福利国家 n 】 【 socialist country. 社会主义国家 n 】
@@ -165,18 +166,18 @@
 - // TIPS: Pay attention to the pronunciation of the word 'society'. [society-社会-n]
 -
 - `【 worship 崇拜 v n 】` // ---------------- 【 worship idol. 崇拜偶像 】 【 idol of worship. 崇拜的偶像 】 // 【 super idol. 超级偶像 】 【 idol 偶像 n 】
-- `【 warship 战舰 n 】`
+- `【 warship 战舰 n 】` // ------------------ 【 frigate / submarine / aircraft carrier. 】
 - > 【 worship idol. 崇拜偶像 】
 - > 【 greatly worship. 非常崇拜 】
 - > 【 greatly appreciate. 非常感谢 】
-- _【 idol 偶像 n 】_
-- _【 worship idol. 崇拜偶像 】_
+- _【 idol 偶像 n 】_ // --------------------- 【 super idol. 超级偶像 n 】 【 worship idol. 崇拜偶像 v 】
 - _【 super idol. 超级偶像 】_
+- _【 worship idol. 崇拜偶像 】_
 - _【 the idol of worship. 崇拜的偶像 】_
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
 - > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
-- > 【 national flag. 国旗 n 】 【 national anthem. 国歌 n 】 【 national assets. 国有资产 n 】 【 National Day. 国庆节 n 】
+- > 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national assets. 国有资产 】 【 National Day. 国庆节 】 // **【 national territory. 国家领土 】**
 - _【 navy 海军 n 】_
 - _【 envy 羡慕 嫉妒 v 】_
 - _【 envy sb for doing sth. 羡慕某人做某事 】_
@@ -270,6 +271,7 @@
 - `【 make sense. 有道理 】`
 - > 【 make a lot of sense. 很有道理 】
 - **【 What you said about the 【 common sense 】 【 makes sense 】. 你说的常识很有道理 】**
+- **【 It makes sense about the common sense that you said. 你说的常识很有道理 】**
 
 ###### Must 2024-09-12
 

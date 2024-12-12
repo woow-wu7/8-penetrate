@@ -100,7 +100,7 @@
 ##### Words Must 2024-12-12
 
 - 1
-- `【 possess 拥有 持有 v 】` // --------------- 【 possess firearm. 持有枪支 】 // fire + arm // armed army
+- `【 possess 拥有 持有 v 】` // ----------------- 【 possess firearm. 持有枪支 】 // fire + arm // armed army
 - `【 own 拥有v 自己的 adj 】`
 - `【 owe 欠 欠钱 v 】`
 - _【 possess wealth. 拥有财富 v 】_
@@ -112,3 +112,24 @@
 - // -- 【 illegal cohabit. 非法同居 】
 - // -- 【 illegal wealth. 非法财富 】
 - // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-v]
+
+##### Words Must 2024-12-13
+
+- 1
+- `【 generate 产生 生成 v 】` // -------------- 【 generate reaction. 产生反应 】 【 generate heat. 】 【 generate electricity. 】 【 generate contradiction. 】
+- `【 generator 发电机 n 】` // ---------------- 【 diesel generator. 柴油发电机 n 】
+- > 【 generate contradiction. 产生矛盾 v 】
+- > 【 generate heat. 产生热量 v 】 // --------- 【 heat 热 n 加热 v 】 VS 【 heart 心 心脏 n 】
+- > 【 generate reaction. 生产反应 v 】
+- > 【 generate profit. 产生利润 】
+- > 【 generate electricity. 发电 v 】
+- _【 power station. 发电厂 】_
+- _【 power outage. 停电 断电 】_ // ----------- 【 outage 停电期间 n 】
+-
+- // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v][generate-reaction.产生反应]
+-
+- .MT **【 It can 【 generate heat 】 when the 【 generator 】 is 【 generating electricity 】. 发电机发电时会产生热量 】**
+- .MT **【 The 【 electricity 】 【 generated 】 by 【 diesel generator 】 is enough to support us in finding the reason of the 【 power outage 】 at the 【 power station 】. 柴油发电机发的电足够支撑我们找到发电站停电的原因 】**
+- // -- support sb in doing sth. 支持某人做某事
+- // -- power station. 发电厂 n
+- // -- power outage. 断电 停电 n
