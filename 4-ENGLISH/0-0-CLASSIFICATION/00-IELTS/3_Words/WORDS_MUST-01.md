@@ -133,3 +133,22 @@
 - // -- support sb in doing sth. 支持某人做某事
 - // -- power station. 发电厂 n
 - // -- power outage. 断电 停电 n
+
+##### Words Must 2024-12-14
+
+- 1
+- `【 approach 方法 方式 n / 靠近 v 】`
+- `【 method 方法 办法 n 】`
+- _【 scientific approach. 科学的方法 n 】_
+- _【 recommended approach. 推荐的方法 n 】_
+- > 【 scientist 科学家 n 】
+- > 【 scientific 科学的 adj 】
+- > 【 scientific approach. 科学的方法 n 】
+- .MT **【 The 【 scientist 】 solved this problem using 【 scientific approach 】. 科学家用科学的方法解决了这个问题 】**
+- **【 Starting in Vue 3.4, the 【 recommended approach 】to achieve this is using the defineModel(). 】**
+- // -- 【 scientist 科学家 n 】
+- // -- 【 scientific 科学的 adj 】
+- // -- 【 achieve 实现 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-approach.科学的方法]
+- // TIPS: Pay attention to the pronunciation of the word 'scientist'.[scientist-科学家-n]
+- // TIPS: Pay attention to the pronunciation of the word 'method'.[method-方法-办法-n]

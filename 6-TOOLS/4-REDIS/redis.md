@@ -152,7 +152,7 @@ $ brew services info redis ------- check the status
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### (4) Redis Usage / string list set zset hash
+##### (4) **【 Redis Usage - string list set zset hash 】**
 
 ```
 (一) 重要重要重要!!!

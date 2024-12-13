@@ -305,3 +305,16 @@
 - **【 We need to 【 pay particular attention 】 that the most popular 【 package 】 is the 【 regular physical examination 】 package. 我们需要特别注意最受欢迎的套餐是定期体检的套餐 】**
 - // -- 【 be beneficial to. 对...有利 】
 - // -- 【 regular 定期的 正式的 普通的 】
+
+###### Must 2024-12-13
+
+- 1
+- `【 initialize 初始化 v 】`
+- `【 specialize 专攻 v 】` // specialize in. 专攻...
+- `【 customize 定制 v 】`
+- `【 optimize 优化 v  】`
+- `【 memorize 记住 记忆 v 】`
+- `【 summarize 总结 v  】`
+- `【 organize 组织 v 】`
+- `【 apologize 道歉 v 】`
+- `【 realize 认识到 实现 v 】`

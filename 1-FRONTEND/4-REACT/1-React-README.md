@@ -230,7 +230,7 @@ Object.is 和 === 的区别？
 
 ### (四) Hooks
 
-### (4.1) useEffect - 1.清除函数执行时机 2.模拟 componentDidMount 3.模拟 componentDidUpdate
+### (4.1) **【 useEffect - 1.清除函数执行时机 2.模拟 componentDidMount 3.模拟 componentDidUpdate 】**
 
 - useEffect 清除函数执行的时机
 - useEffect 模拟 componentDidMount
@@ -255,7 +255,7 @@ useEffect
 ---
 
 1.1
-useEffect清除函数执行的时机 ？
+useEffect 清除函数执行的时机 ？
 - 原理
   - AA. 在 ( 下一次 ) 渲染完成后，先执行 ( 1. useEffect的清除函数cleanup - 清除上一次的副作用 )，然后再执行 ( 2. useEffect回调 )
   - BB. 在 ( 组件卸载 ) 时，执行 ( 最后一次 useEffect的清除函数cleanup ) - ( useEffect的第一个参数-回调函数不会再执行，返回的return清除函数最后一次执行 )
@@ -443,4 +443,6 @@ const DetailsComponent = () => (
     <AvatarComponent />
   </Suspense>
 )
+
+Vue和React中都有 Suspense 组件
 ```
