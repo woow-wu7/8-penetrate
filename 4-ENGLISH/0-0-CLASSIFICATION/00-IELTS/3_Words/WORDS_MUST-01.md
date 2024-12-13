@@ -1,12 +1,13 @@
 ##### Words Must 2024-12-10
 
 - 1
-- `【 strict 严格的 adj 】` // ----------------- 【 strict regulation. 严格的规定 】
+- `【 strict 严格的 adj 】` // ----------------- 【 strict regulation. 严格的规定 】 【 strict requirement. 严格的要求 】
 - `【 district 区 地区 区域 n 】` // ------------ 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 - > 【 business district. 商业区 n 】`
 - > 【 residential district . 住宅区 n 】`
 - > 【 strict regulation. 严格的规定 】`
-- **【 There are 【 strict 】 【 regulations 】 for 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
+- .MT **【 He has 【 strict requirement 】 【 for 】 himself. 他对自己有严格的要求 】**
+- .MT **【 There are 【 strict regulations 】 for 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
 - // -- 【 regulate 规定 v 】
 - // -- 【 regulation 规定 规则 规章制度 n 】
 - // -- 【 strict regulation. 严格的规定 n 】
@@ -15,38 +16,44 @@
 -
 -
 - 2
-- `【 recover 恢复 v 】`
-- `【 revert 恢复 v 】`
-- > 【 recover health. 恢复健康 】
-- > 【 recover strength. 恢复体力 】 // 【 gradually recover strength. 逐渐恢复体力 】
-- > 【 recover economy. 恢复经济 】
-- **【 After he 【 recovered health 】, he 【 gradually recovered strength. 】 他恢复健康后，就逐渐恢复体力了 】**
--
--
-- 3
-- `【 crowd 人群 n 】`
-- `【 crow 乌鸦 n 】`
+- `【 crowd 人群 n / 拥挤 v 】` // ------------- 【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
+- `【 crow 乌鸦 n / 打鸣 v 】`
 - `【 row 一行n 划船v 】`
-- **【 A 【 crow 】 【 flew into 】the 【 crowd 】. 一只乌鸦飞进了人群 】**
+- .MT **【 【 A crowd of 】 fans 【 crowd into 】 the 【 concert 】. 一群粉丝涌入音乐会 】**
+- .MT **【 The 【 crow 】 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 这只乌鸦逐渐消失在人群中 】**
 - // -- 【 fly -> flew 】
 - // -- 【 fly into. 飞进... 】
 - // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
 - // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
 -
 -
-- 4
-- `【 device 设备 装置 】`
-- `【 advice 建议 n 】`
-- `【 advise 建议 通知 v 】` // ------------------ 【 advise / suggest / suggestion 】
+- 3
+- `【 device 设备 装置 】` // ------------------- 【 device VS equipment VS instrument 】
+- `【 advise 建议 通知 v n 】` // --------------- 【 advise / suggest / suggestion 】
 - `【 adviser 顾问 n 】`
+- `【 consultant 顾问 】` // -------------------- 【 consultant / consult / consultation 】
+- AA.
 - > 【 manual 手动的 adj / 说明书 n 】
 - > 【 manual download. 手动下载 】
 - > 【 manual adjustment. 手动调整】 // ---------- 【 adjust / adjustment 】
+- > 【 manual transmission. 手动挡 】 // --------- 【 automatic transmission. 手动挡 n 】
 - > 【 product instruction manual. 产品说明书 n 】
+- BB.
 - _【 physical labor. 体力劳动 】_
 - _【 physical health. 生理健康 】_
 - _【 mental labor. 脑力劳动 】_
 - _【 mental health. 心理健康 】_
+- CC.
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- > 【 data transmission. 数据传输 n 】
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
+- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
+-
 -
 - [AA.]
 - `【 product instruction manual. 产品说明书 n 】`
@@ -69,6 +76,8 @@
 - `【 particular 特别的 特定的 adj 】` // ------------ 【 particular attention. 特别注意 n 】 `【 pay particular attention to. 特别注意... 】` 【 particular time. 】
 - `【 special 特别的 adj 】`
 - `【 specific 具体的 明确的 特定的 adj 】` // -------- 【 specific time. 特定的时间 】 【 specific symptom. 具体的症状 】 【 specific indictor. 具体的指标 】
+- AA.
+- _【 particular approach. 具体的方法 】_
 - _【 particular attention. 特别注意 】_
 - _【 pay particular attention to. 特别注意... 】_
 - > particular VS regular
@@ -81,17 +90,23 @@
 - // -- trap 陷阱 VS trip 短途旅行
 - // TIPS: Pay attention to the pronunciation of the word 'particular'.[particular-特别的-特定的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'trap'. [trap-陷阱-n]
+- BB.
+- > 【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 particular approach. 特别的方法 n 】 【 scientific approach. 科学的方法 n 】
+- > 【 method 方法 办法 n 】`
+- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
+- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
+- _【 recommended approach. 推荐的方法 n 】_
 -
 -
 - 2
 - `【 regular 定期的 正式的 普通的 规则的 adj 】`
 - _【 regular physical examination. 定期体检 】_
 - _【 regular employee. 正式员工 】_
-- _【 regular gas. 普通汽油 】_
+- _【 regular gas. 普通汽油 】_ // -------------------- 【 premium gas. 高级汽油 n 】
 - _【 regular verb. 规则动词 】_ // ------------------- 【 regular verb. 规则动词 】 【 irregular verb. 不规则动词 】
 - > regular VS particular
 - //【 regular gas. 普通的汽油 】 // 87
-- //【 premium gas. 优质的汽油 】 // 93
+- //【 premium gas. 高级的汽油 】 // 93
 - **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
 - **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
 - // -- 【 be beneficial to. 对...有利 】
@@ -107,8 +122,8 @@
 - _【 possess firearm. 持有枪支 v 】_ = possess guns.
 - _【 illegally possess guns. 非法持有枪支 v 】_
 - **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
-- **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
-- **【 He 【 possess 】 the right to say no. 他拥有说不的权利 】**
+- **【 To 【 illegally 【 possess 】 guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
+- **【 He 【 possess 】 the 【 right 】 to say no. 他拥有说不的权利 】**
 - // -- 【 illegal cohabit. 非法同居 】
 - // -- 【 illegal wealth. 非法财富 】
 - // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-v]
@@ -117,14 +132,20 @@
 
 - 1
 - `【 generate 产生 生成 v 】` // -------------- 【 generate reaction. 产生反应 】 【 generate heat. 】 【 generate electricity. 】 【 generate contradiction. 】
-- `【 generator 发电机 n 】` // ---------------- 【 diesel generator. 柴油发电机 n 】
+- `【 generator 发电机 n 】` // ---------------- 【 diesel generator. 柴油发电机 n 】 // 【 diesel 柴油 】 VS 【 petrol = gasoline. 汽油 】
 - > 【 generate contradiction. 产生矛盾 v 】
 - > 【 generate heat. 产生热量 v 】 // --------- 【 heat 热 n 加热 v 】 VS 【 heart 心 心脏 n 】
 - > 【 generate reaction. 生产反应 v 】
 - > 【 generate profit. 产生利润 】
 - > 【 generate electricity. 发电 v 】
-- _【 power station. 发电厂 】_
+- AA.
+- _【 power 权利 功率 n 】_
+- _【 power station. 发电厂 】_ // ------------ 【 petrol station. 加油站 】
 - _【 power outage. 停电 断电 】_ // ----------- 【 outage 停电期间 n 】
+- _【 rated power. 额定功率 】_
+- // diesel 柴油 n // ------------------------- 【 diesel generator. 柴油发电机 n 】
+- // gasoline = petrol. 汽油 n // ------------- 【 petrol station. 加油站 】
+- // petroleum 石油 原油 n
 -
 - // TIPS: Pay attention to the pronunciation of the word 'generate'. [generate-产生-生成-v][generate-reaction.产生反应]
 -
@@ -137,13 +158,16 @@
 ##### Words Must 2024-12-14
 
 - 1
-- `【 approach 方法 方式 n / 靠近 v 】`
+- `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 n 】 【 particular approach. 特别的方法 n 】
 - `【 method 方法 办法 n 】`
-- _【 scientific approach. 科学的方法 n 】_
+- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
+- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
 - _【 recommended approach. 推荐的方法 n 】_
+- AA.
 - > 【 scientist 科学家 n 】
-- > 【 scientific 科学的 adj 】
-- > 【 scientific approach. 科学的方法 n 】
+- > 【 scientific 科学的 adj 】 // ------------------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学的方法 】
+- _【 scientific approach. 科学的方法 n 】_
+- _【 scientific knowledge. 科学知识 n 】_
 - .MT **【 The 【 scientist 】 solved this problem using 【 scientific approach 】. 科学家用科学的方法解决了这个问题 】**
 - **【 Starting in Vue 3.4, the 【 recommended approach 】to achieve this is using the defineModel(). 】**
 - // -- 【 scientist 科学家 n 】
@@ -152,3 +176,20 @@
 - // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-approach.科学的方法]
 - // TIPS: Pay attention to the pronunciation of the word 'scientist'.[scientist-科学家-n]
 - // TIPS: Pay attention to the pronunciation of the word 'method'.[method-方法-办法-n]
+- BB.
+- > 【 particular 特别的 特定的 adj 】
+- _【 particular attention. 特别注意 v 】_
+- _【 particular approach. 特别的方法 n 】_
+- .MT **【 You need to 【 pay 【 particular 】 attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
+- .MT **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 这意味着它们只能在特定的代码块内被访问 】**
+-
+-
+- 2
+- `【 suppose 假设 认为 推断 v 】`
+- `【 assume 假定 假设 v 】`
+- 确定性: assume > suppose
+- 总的确定性: is > think > assume > suppose > might
+- .MT **【 【 Suppose 】 you have one 【 million 】 yuan, what would you do 【 with 】 it? 假设你有 100 万人民币，你会用它来做什么？ 】**
+- **【 【 Assume 】 you don't want to expose the entire <input> DOM node. 】 】**
+- // -- 【 million 百万 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-科学的-adj]

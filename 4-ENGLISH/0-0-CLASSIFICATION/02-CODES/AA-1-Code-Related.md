@@ -200,7 +200,7 @@
 - `particular 特定的 特别的 详情`
 - `accessible 可使用的 可进入的` // ------ adj // TIPS: pay attention to pronunciation.
 - // access 访问 进入 // ---------------- v/n
-- // **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 】**
+- **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 这意味着它们只能在特定的代码块内被访问 】**
 - // **【 The variables declare using let are 【 block-scoped 】. 】**
 - // **【 can be accessed only inside. 】**
 - // -- specific 具体的
