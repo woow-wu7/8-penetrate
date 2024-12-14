@@ -65,9 +65,39 @@ The approach that has been 【 recommended 】 is not only a 【 particular appr
 3
 You need to 【 pay particular attention to 】 the 【 traffic safety 】.
 你需要特别注意交通安全
-// -
-// 【 traffic safety. 交通安全 n 】
+-
+We should 【 pay particular attention to 】 the 【 particular function 】 of the 【 particular approach 】.
+我们应该特别注意这个特别方法的特别作用
+-
 // -
 // 【 particular 特别的 adj 】
+// 【 particular approach. 特别的方法 n 】
+// 【 particular function. 特别的功能 n 】
+// -
 // 【 pay particular attention to. 特别注意... v 】
+// -
+// 【 traffic safety. 交通安全 n 】
+```
+
+##### 02 Make sentences 2024-12-02
+
+```
+1
+只有高学历的人才有资格进入这家公司
+
+
+2
+在中国，持有手枪，猎枪和步枪都是非法的
+-
+他拥有说不的权利
+
+
+3
+健康是最大的财物
+
+
+4
+他设法在两年内还清了债务
+-
+你可以在三年的时间里偿还这笔贷款
 ```

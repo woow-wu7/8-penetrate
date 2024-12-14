@@ -1,7 +1,7 @@
 ##### Words Must 2024-12-01
 
 - 1
-- `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 】 【 particular approach. 特别的方法 】 【 recommend approach. 推荐的方法 】
+- `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 】 【 particular approach. 特别的方法 】 【 recommended approach. 推荐的方法 】
 - `【 method 方法 办法 n 】`
 - _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
 - _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
@@ -9,11 +9,11 @@
 - _【 recommended approach. 推荐的方法 n 】_
 - **【 The approach that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】. 这个被推荐的方法，不仅特别的方法，而且是科学的方法 】**
 - AA.
-- > 【 scientist 科学家 n 】
+- > 【 scientist 科学家 n 】 // ---------------------- 【 famous scientist. 著名的科学家 n 】
 - > 【 scientific 科学的 adj 】 // ------------------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学的方法 】
 - _【 scientific approach. 科学的方法 n 】_
 - _【 scientific knowledge. 科学知识 n 】_
-- > recommended approach. 推荐的方法 n
+- _【 recommended approach. 推荐的方法 n 】_
 - .MT **【 The 【 scientist 】 solved this problem using 【 scientific approach 】. 科学家用科学的方法解决了这个问题 】**
 - **【 Starting in Vue 3.4, the 【 recommended approach 】to achieve this is using the defineModel(). 】**
 - // -- 【 scientist 科学家 n 】
@@ -23,12 +23,15 @@
 - // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-approach.科学的方法]
 - // TIPS: Pay attention to the pronunciation of the word 'method'.[method-方法-办法-n]
 - BB.
-- > 【 particular 特别的 特定的 adj 】
+- > 【 particular 特别的 特定的 adj 】 // ------------ 【 particular approach. 特别的方法 】 【 particular function. 特别的作用 】
 - _【 particular approach. 特别的方法 n 】_
+- _【 particular function. 特别的作用 n 】_ // ------- 【 function 功能 作用 n 】
 - _【 particular attention. 特别注意 v 】_
 - _【 pay 【 particular 】 attention to. 特别注意... 】_
+- .MT **【 We should 【 pay 【 particular 】 attention to 】 the 【 particular function 】 of the 【 particular approach 】. 我们应该特别注意这个特别方法的特别作用 】**
 - .MT **【 You need to 【 pay 【 particular 】 attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
 - .MT **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 这意味着它们只能在特定的代码块内被访问 】**
+- // -- function 功能 作用 n
 -
 -
 -
@@ -39,6 +42,7 @@
 - > assume VS pursue
 - > suppose VS support
 - > pursue VS chase // ------------------------- 【 pursue happiness. 追求幸福 v 】 【 chase dream. 追逐梦想 v 】 // 【 chase fugitive. 追扑逃犯 v 】
+- > 【 purpose 目的意图 】 VS 【 propose 求婚 】 VS 【 pursue 追求 】
 - _【 idea = thinking = thought. 想法 n 】_
 - [assumption/consumption/prescription/encryption/option/reception/caption]
 - _【 pursue happiness. 追求幸福 v 】_
@@ -56,6 +60,56 @@
 - // TIPS: Pay attention to the pronunciation of the word 'thought'.[thought-想法-n]
 - // TIPS: Pay attention to the pronunciation of the word 'assume'. [assume-假设-v]
 - // TIPS: Pay attention to the pronunciation of the word 'assumption'. [assumption-假设-n]
+
+##### Words Must 2024-12-12
+
+- 1
+- `【 possess 拥有 具有 持有 v 】` // ----------------- 【 possess qualification. 拥有资格 】 【 possess firearm. 持有枪支 】 【 possess wealth. 拥有财富 】
+- `【 own 拥有v 自己的 adj 】`
+- `【 owe 欠 欠钱 v 】` // --------------------------- 【 pay off.还清 】 VS 【 pay back. 偿还 】 // `pay back the mortgage loan. 还房贷`
+- AA.
+- _【 possess qualification. 拥有资格 】_ // --------- 【 high educational qualification. 高学历 n 】
+- _【 possess wealth. 拥有财富 v 】_ // -------------- 【 wealth 财富 】 VS 【 health 健康 】
+- _【 possess firearm. 持有枪支 v 】_ = possess guns. // 【 firearm = fire + arm 枪支 】
+- _【 illegally possess guns. 非法持有枪支 v 】_
+- > 【 wealth 财富 】 VS 【 health 健康 】
+- .MT **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
+- .MT **【 He 【 possess 】 the 【 right 】 to say no. 他拥有说不的权利 】**
+- **【 To 【 illegally 【 possess 】 guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
+- .MT **【 【 Health 】 is the 【 greatest 】 【 wealth 】. 健康是最大的财物 】**
+- // -- 【 illegal cohabit. 非法同居 】
+- // -- 【 illegal wealth. 非法财富 】
+- // -- `【 greatest 最大的 adj 】`
+- // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-v]
+- // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n][possess-qualification.拥有资格-v]
+- BB.
+- `【 pay off. 还清 v 】`
+- `【 pay back. 偿还 v 】` // -------------------- 【 pay back the mortgage loan. 还房贷 v 】
+- > 【 pay back the mortgage loan. 还房贷 v 】
+- > debt 债务 VS loan 贷款
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
+- **【 You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年的时间里【偿还】这笔贷款 】**
+- // -- managed to. 设法做成某事
+-
+-
+-
+-
+-
+- 2
+- `【 qualification 资格 学历 n 】` // ------------- 【 possess qualification. 拥有资格 v 】// 【 high educational qualification. 高学历 n 】
+- `【 qualify 有资格 v 】` // ---------------------- 【 be qualified to do sth. 有资格做某事 v 】
+- > 【 possess qualification. 有资格 v 】
+- > 【 high educational qualification. 高学历 n 】
+- _【 be qualified to do sth. 有资格做某事 】_
+- .MT **【 Only the person with 【 high educational qualification 】 【 are qualified to 】 work in the company. 只有高学历的人才有资格进入这家公司 】**
+- .MT **【 Only the person with 【 high educational qualification 】 has the 【 qualification 】 to work in the company. 只有高学历的人才有资格进入这家公司 】**
+- // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n]
+- // TIPS: Pay attention to the pronunciation of the word 'qualify'. [qualify-有资格-v]
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
 
 ##### Words Must 2024-12-10
 
@@ -170,22 +224,6 @@
 - **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
 - // -- 【 be beneficial to. 对...有利 】
 - // -- 【 regular 定期的 正式的 普通的 】
-
-##### Words Must 2024-12-12
-
-- 1
-- `【 possess 拥有 持有 v 】` // ----------------- 【 possess firearm. 持有枪支 】 // fire + arm // armed army
-- `【 own 拥有v 自己的 adj 】`
-- `【 owe 欠 欠钱 v 】`
-- _【 possess wealth. 拥有财富 v 】_
-- _【 possess firearm. 持有枪支 v 】_ = possess guns.
-- _【 illegally possess guns. 非法持有枪支 v 】_
-- **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
-- **【 To 【 illegally 【 possess 】 guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
-- **【 He 【 possess 】 the 【 right 】 to say no. 他拥有说不的权利 】**
-- // -- 【 illegal cohabit. 非法同居 】
-- // -- 【 illegal wealth. 非法财富 】
-- // TIPS: Pay attention to the pronunciation of the word 'possess'. [possess-拥有-v]
 
 ##### Words Must 2024-12-13
 
