@@ -1,3 +1,62 @@
+##### Words Must 2024-12-01
+
+- 1
+- `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 】 【 particular approach. 特别的方法 】 【 recommend approach. 推荐的方法 】
+- `【 method 方法 办法 n 】`
+- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
+- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
+- _【 effective approach. 有效的方法 n 】_
+- _【 recommended approach. 推荐的方法 n 】_
+- **【 The approach that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】. 这个被推荐的方法，不仅特别的方法，而且是科学的方法 】**
+- AA.
+- > 【 scientist 科学家 n 】
+- > 【 scientific 科学的 adj 】 // ------------------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学的方法 】
+- _【 scientific approach. 科学的方法 n 】_
+- _【 scientific knowledge. 科学知识 n 】_
+- > recommended approach. 推荐的方法 n
+- .MT **【 The 【 scientist 】 solved this problem using 【 scientific approach 】. 科学家用科学的方法解决了这个问题 】**
+- **【 Starting in Vue 3.4, the 【 recommended approach 】to achieve this is using the defineModel(). 】**
+- // -- 【 scientist 科学家 n 】
+- // -- 【 scientific 科学的 adj 】
+- // -- 【 achieve 实现 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'scientist'.[scientist-科学家-n]
+- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-approach.科学的方法]
+- // TIPS: Pay attention to the pronunciation of the word 'method'.[method-方法-办法-n]
+- BB.
+- > 【 particular 特别的 特定的 adj 】
+- _【 particular approach. 特别的方法 n 】_
+- _【 particular attention. 特别注意 v 】_
+- _【 pay 【 particular 】 attention to. 特别注意... 】_
+- .MT **【 You need to 【 pay 【 particular 】 attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
+- .MT **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 这意味着它们只能在特定的代码块内被访问 】**
+-
+-
+-
+- 2
+- `【 suppose 认为 假设 v 】`
+- `【 assume 假设 假定 v 】` // ------------------ 【 assume assumption 】
+- `【 assumption 假设 假定 n 】` // -------------- 【 assumption 假设 n 】VS 【 consumption 消费 n 】 VS 【 prescription 处方 n 】VS 【 encryption 加密 n 】
+- > assume VS pursue
+- > suppose VS support
+- > pursue VS chase // ------------------------- 【 pursue happiness. 追求幸福 v 】 【 chase dream. 追逐梦想 v 】 // 【 chase fugitive. 追扑逃犯 v 】
+- _【 idea = thinking = thought. 想法 n 】_
+- [assumption/consumption/prescription/encryption/option/reception/caption]
+- _【 pursue happiness. 追求幸福 v 】_
+- _【 chase dream. 追逐梦想 v 】_
+- _【 chase fugitive. 追扑逃犯 v 】_
+- 确定性: assume > suppose
+- 总的确定性: is > think > assume > suppose > might
+- .MT suppose 假设: **【 【 Suppose/assume 】 you have one 【 million 】 yuan, what would you do 【 with 】 it? 假设你有 100 万人民币，你会用它来做什么？ 】**
+- .MT suppose 认为: **【 I 【 suppose 】 he is right. 我认为他是对的 】**
+- .MT suppose 认为: **【 I 【 suppose 】 you should 【 support 】 his 【 idea/thinking/thought 】. 我认为你应该支持他的想法 】**
+- .HL **【 【 As long as 】 you 【 pursue happiness 】 you will get happiness, it's 【 an 】 【 assumption 】. 只要你追求幸福就能获得幸福，是一种假设 】**
+- **【 【 Assume 】 you don't want to expose the entire <input> DOM node. 】 】**
+- //【 million 百万 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-科学的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'thought'.[thought-想法-n]
+- // TIPS: Pay attention to the pronunciation of the word 'assume'. [assume-假设-v]
+- // TIPS: Pay attention to the pronunciation of the word 'assumption'. [assumption-假设-n]
+
 ##### Words Must 2024-12-10
 
 - 1
@@ -154,42 +213,3 @@
 - // -- support sb in doing sth. 支持某人做某事
 - // -- power station. 发电厂 n
 - // -- power outage. 断电 停电 n
-
-##### Words Must 2024-12-14
-
-- 1
-- `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 n 】 【 particular approach. 特别的方法 n 】
-- `【 method 方法 办法 n 】`
-- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
-- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
-- _【 recommended approach. 推荐的方法 n 】_
-- AA.
-- > 【 scientist 科学家 n 】
-- > 【 scientific 科学的 adj 】 // ------------------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学的方法 】
-- _【 scientific approach. 科学的方法 n 】_
-- _【 scientific knowledge. 科学知识 n 】_
-- .MT **【 The 【 scientist 】 solved this problem using 【 scientific approach 】. 科学家用科学的方法解决了这个问题 】**
-- **【 Starting in Vue 3.4, the 【 recommended approach 】to achieve this is using the defineModel(). 】**
-- // -- 【 scientist 科学家 n 】
-- // -- 【 scientific 科学的 adj 】
-- // -- 【 achieve 实现 v 】
-- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-approach.科学的方法]
-- // TIPS: Pay attention to the pronunciation of the word 'scientist'.[scientist-科学家-n]
-- // TIPS: Pay attention to the pronunciation of the word 'method'.[method-方法-办法-n]
-- BB.
-- > 【 particular 特别的 特定的 adj 】
-- _【 particular attention. 特别注意 v 】_
-- _【 particular approach. 特别的方法 n 】_
-- .MT **【 You need to 【 pay 【 particular 】 attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
-- .MT **【 This means they are only 【 accessible 】 within a 【 particular 】 block. 这意味着它们只能在特定的代码块内被访问 】**
--
--
-- 2
-- `【 suppose 假设 认为 推断 v 】`
-- `【 assume 假定 假设 v 】`
-- 确定性: assume > suppose
-- 总的确定性: is > think > assume > suppose > might
-- .MT **【 【 Suppose 】 you have one 【 million 】 yuan, what would you do 【 with 】 it? 假设你有 100 万人民币，你会用它来做什么？ 】**
-- **【 【 Assume 】 you don't want to expose the entire <input> DOM node. 】 】**
-- // -- 【 million 百万 n 】
-- // TIPS: Pay attention to the pronunciation of the word 'scientific'.[scientific-科学的-adj]
