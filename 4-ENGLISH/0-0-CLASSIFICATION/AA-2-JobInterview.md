@@ -1063,10 +1063,19 @@
 -
 -
 - 17
-- `qualification 资格 资历`
+- `【 qualification 资格 学历 n 】` // ------------- 【 possess qualification. 拥有资格 v 】// 【 high educational qualification. 高学历 n 】
+- `【 qualify 有资格 v 】` // ---------------------- 【 be qualified to do sth. 有资格做某事 v 】
+- `【 qualified 有资格的 合格的 adj 】` // --------- `【 qualified product. 合格的产品 n 】`
+- > 【 possess qualification. 有资格 v 】
+- > 【 high educational qualification. 高学历 n 】
+- _【 be qualified to do sth. 有资格做某事 】_
 - `certification 证明`
 - _【 job qualification. 工作资格 】_
 - _【 teacher certification. 教师资格证 】_
+- .MT **【 Only the person with 【 high educational qualification 】 【 are qualified to 】 work in the company. 只有高学历的人才有资格进入这家公司 】**
+- .MT **【 Only the person with 【 high educational qualification 】 has the 【 qualification 】 to work in the company. 只有高学历的人才有资格进入这家公司 】**
+- // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n]
+- // TIPS: Pay attention to the pronunciation of the word 'qualify'. [qualify-有资格-v]
 -
 -
 -
@@ -3186,9 +3195,9 @@ adept at doing sth. 擅长做某事
 3
 flair 天赋 n
 -
-flair for. 
+flair for.
 -
-// 
+//
 
 
 ------- dividing line  ------- ------- ------- ------- ------- -------

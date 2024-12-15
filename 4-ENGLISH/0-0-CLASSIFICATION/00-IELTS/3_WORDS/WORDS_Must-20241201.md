@@ -99,6 +99,7 @@
 - 2
 - `【 qualification 资格 学历 n 】` // ------------- 【 possess qualification. 拥有资格 v 】// 【 high educational qualification. 高学历 n 】
 - `【 qualify 有资格 v 】` // ---------------------- 【 be qualified to do sth. 有资格做某事 v 】
+- `【 qualified 有资格的 合格的 adj 】` // --------- `【 qualified product. 合格的产品 n 】`
 - > 【 possess qualification. 有资格 v 】
 - > 【 high educational qualification. 高学历 n 】
 - _【 be qualified to do sth. 有资格做某事 】_
@@ -133,7 +134,7 @@
 -
 - 2
 - `【 regular 定期的 正式的 普通的 规则的 adj 】`
-- _【 regular physical examination. 定期体检 】_
+- _【 regular physical examination. 定期体检 】_ // --- `【 routine examination. 常规检查 n 】`
 - _【 regular employee. 正式员工 】_
 - _【 regular gas. 普通汽油 】_ // -------------------- 【 premium gas. 高级汽油 n 】
 - _【 regular verb. 规则动词 】_ // ------------------- 【 regular verb. 规则动词 】 【 irregular verb. 不规则动词 】
@@ -145,6 +146,21 @@
 - **【 She is not a 【 regular employee 】 of the bank. 她不是这个银行的正式员工 】**
 - // -- 【 be beneficial to. 对...有利 】
 - // -- 【 regular 定期的 正式的 普通的 】
+-
+-
+-
+- 3
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- > 【 transmit data. 传输数据 v 】
+- > 【 transmit signal. 传输信号 v 】
+- > 【 data transmission. 数据传输 n 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
+- .MT 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- .MT 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
 
 ##### ------- ------- ------- ------- ------- ------- -------
 

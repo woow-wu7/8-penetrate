@@ -2765,6 +2765,10 @@ joint 关节n 联合的
 - `【 scald 烫伤 v n 】`
 - .MT **【 His hands have been 【 scalded 】 and 【 scraped 】 before. 他的手烫伤过，也擦伤过 】**
 -
+-
+-
+-
+-
 - 1
 - `【 nerve 神经 n 】` // ---------------------- 【 nerve cells. 神经细胞 】
 - `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 neural signal. 神经信号 】
@@ -2772,10 +2776,13 @@ joint 关节n 联合的
 - > 【 nerve cells. 神经细胞 】`
 - > 【 neural network. 神经网络 】`
 - > 【 neural signal. 神经信号 】
-- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
+- .MT **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
+- .MT **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
-- **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
 - // -- 【 transmit 传输 传递传染 传播 v 】
+- // -- 【 transmit signal. 传输信号 v 】
+- // -- 【 transmit data. 传输数据 v 】
+- // -- 【 transmit disease. 传播疾病 v 】
 -
 - 2
 - `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】

@@ -5,29 +5,42 @@
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
 - [-FF.]
-- `【 installment 分期付款 安装 n 】`
+- `【 installment 分期付款 安装 n 】` // ------------- 【 installment payment. 分期付款 n 】 【 pay in installment. 分期付款 v 】
 - _【 pay in installment. 分期付款 v 】_
 - _【 pay in cash. 用现金支付 v 】_
-- > 【 installment payment. 分期付款 】
-- **【 Does your company 【 offer 】 the 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
-- **【 You can 【 pay this TV in installment 】. 你可以分期付款购买这台电视机 】**
+- > 【 installment payment. 分期付款 n 】
+- > 【 pay in installment. 分期付款 v 】
+- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不用申请贷款，因为我们支持分期付款服务 】**
+- .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
+- .MT **【 You can 【 pay this TV in installment 】. 你可以分期付款购买这台电视机 】**
 - // -- 【 provide 提供 v 】
 - // -- 【 offer 提供 v / 报价 n 】
 -
 - [-GG.]
+- `【 liability 负债 n 】` VS 【 debt. 债务 】
 - `【 ability 能力 n 】`
-- `【 liability 负债 n 】` = debt.
-- `【 repay 偿还 】`
+- `【 repay 偿还 报答 v  】`
+- > 【 pay back. 偿还 v 】
+- > 【 pay off. 还清 v 】
 - **【 His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】. 他的债务超出了他偿还债务的能力范围 】**
+- **【 【 Debt 】 is a kind of 【 liability 】. 债务是一种负债 】**
 - // -- 【 repay debt. 偿还债务 】
 - // -- 【 beyond the scope of. 超出...的范围 】
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'liability'. [liability-负债-n]
 -
 - [-FF.]
-- `【 statistic 统计数据 统计 n 】`
-- `【 statistical 统计的 adj 】`
-- `【 statistical report. 统计报告 n 】`
-- `【 statistical analysis. 统计分析 n 】`
+- `【 statistic 统计数据 统计 统计学 n 】`
+- `【 statistical 统计的 adj 】` // ----------------- 【 statistic report. 统计报告 】 【 statistic result. 统计结果 】 【 statistic analysis. 统计分析 】
+- > 【 statistical report. 统计报告 n 】
+- > 【 statistical analysis. 统计分析 n 】
+- > 【 statistical result. 统计结果 n 】
+- 【 analyze 分析 v 】 VS 【 analysis 分析 n 】
+- .MT **【 The 【 statistical report 】 shows the 【 statistical results 】 of the 【 statistical analysis 】. 统计报告显示统计分析的统计结果 】**
 - **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- // TIPS: Pay attention to the pronunciation of the word 'analyze'. [analyze-分析-v]
+- // TIPS: Pay attention to the pronunciation of the word 'analysis'. [analysis-分析-n]
+-
 -
 - [-EE.]
 - `【 freeze 冻结 v n 】`
@@ -40,14 +53,16 @@
 - `【 security 安全 】`
 - `【 social security. 社保 】` // 【 social welfare. 社会福利 】 【 social security. 社保 】
 - `【 social insurance. 社保 】`
-- > 【 social security. 社保 】
+- `【 social welfare. 社会福利 n 】`
+- _【 security check. 安检 】_
+- > 【 social welfare. 社会福利 n 】
+- > 【 social security. 社保 n 】 = social insurance. 社保
 - > 【 network security. 网络安全 】
 - > 【 information security. 信息安全 】
 - > 【 sense of security 安全感 】
-- > 【 security check. 安检 】
 - > 【 security camera. 监控摄像机 】
-- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
-- **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
+- .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- .MT **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
 - // -- 【 social status. 社会地位 】
 - // -- 【 social media. 社交媒体 】
 - // -- 【 social security. 社保 】
@@ -64,14 +79,13 @@
 - `【 wage 工资 】` --------------- 短期
 - `【 pay 工资 支付 】`
 - `【 bonus 奖金 】` // ---------- 【 performance bonus. 绩效奖金 】
-- `【 reward 奖励 】`
-- -
+- `【 reward 奖励 】` // --------- reward VS award VS ward VS awkward VS coward
+-
 - > 【 social welfare. 社会福利 】
 - > 【 social status. 社会地位 】
 - > 【 social media. 社交媒体 】
 - > 【 social security. = social insurance. 社保 】
-- -
-- **【 The 【 social status 】 【 determines 】 the 【 social welfare 】. 社会地位决定了社会福利 】**
+- MT. **【 The 【 social status 】 【 determines 】 the 【 social welfare 】. 社会地位决定了社会福利 】**
 - // -- 【 determine 决定 确定 v 】
 - // -- 【 Determine 】 the location of the 【 memory leak 】. // 确定
 -
@@ -82,9 +96,13 @@
 -
 -
 - [-AA.]
-- `【 proportion 比例 】`
+- `【 ratio 比例 比率 n 】`
+- `【 proportion 比例 n 】`
 - `【 the proportion of A to B. A和B的比例  】`
+- _【 probability 概率 n 】_
+- _【 ratio 比率 比例 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- .MT **【 We should improve the 【 ratio 】 of 【 qualified products 】. 我们应该提高合格产品的比例 】**
 - **【 What's the 【 proportion 】 【 of 】 salary to 【 total 】 revenue? 工资占总收入的比例是多少 】**
 - **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
 -
@@ -178,7 +196,7 @@
 -
 -
 - [FF.]
-- `【 stable 稳定的 牢固的 】` // stable unstable
+- `【 stable 稳定的 牢固的 】` // 【 steady VS stable 】 // stable unstable
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
 - 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 】**
