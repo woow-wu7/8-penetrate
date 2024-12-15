@@ -101,3 +101,24 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 -
 你可以在三年的时间里偿还这笔贷款
 ```
+
+##### 03 Make sentences 2024-12-03
+
+```
+1
+人群围住了胜利者
+-
+一群粉丝涌入音乐会
+-
+这只乌鸦逐渐消失在人群中
+
+
+2
+正式员工有定期体检的福利
+-
+她不是这个银行的正式员工
+
+
+3
+铁矿石中有铁矿和铁锈
+```

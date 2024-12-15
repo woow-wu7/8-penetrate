@@ -84,7 +84,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n][possess-qualification.拥有资格-v]
 - BB.
 - `【 pay off. 还清 v 】`
-- `【 pay back. 偿还 v 】` // -------------------- 【 pay back the mortgage loan. 还房贷 v 】
+- `【 pay back. 偿还 v 】` // -------------------- 【 pay back the 【 mortgage 】 loan. 还房贷 v 】
 - > 【 pay back the mortgage loan. 还房贷 v 】
 - > debt 债务 VS loan 贷款
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
@@ -107,13 +107,93 @@
 - // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n]
 - // TIPS: Pay attention to the pronunciation of the word 'qualify'. [qualify-有资格-v]
 
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### ------- ------- ------- ------- ------- ------- -------
-
-##### Words Must 2024-12-10
+##### Words Must 2024-12-15
 
 - 1
+- `【 crowd 人群 n / 拥挤 v 】` // ------------- 【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 // `crowed 拥挤的`
+- `【 crow 乌鸦 n / 打鸣 v 】`
+- `【 row 一行n 划船v 】`
+- > 【 a crowd of. 一群 adj 】
+- > 【 crowd into. 涌入 v 】
+- _【 crowd 拥挤 v / 人群 n 】_
+- _【 ostracize 排挤 排斥 v 】_
+- .MT **【 The 【 crowd 】 【 surrounded 】 the 【 victor 】. 人群围住了胜利者 】**
+- .MT **【 【 A crowd of 】 fans 【 crowd into 】 the 【 concert 】. 一群粉丝涌入音乐会 】**
+- .MT **【 The 【 crow 】 【 gradually 】 【 disappeared 】 【 among 】 the 【 crowd 】. 这只乌鸦逐渐消失在人群中 】**
+- // -- surround 包围 围绕 环绕 v
+- // -- among 在...中
+- // -- gradually 逐渐地 adv
+- // -- gradual 逐渐的 adj
+- // -- victor 胜利者 n
+- // -- victory 胜利 n
+- // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
+- // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
+-
+-
+-
+- 2
+- `【 regular 定期的 正式的 普通的 规则的 adj 】`
+- _【 regular physical examination. 定期体检 】_
+- _【 regular employee. 正式员工 】_
+- _【 regular gas. 普通汽油 】_ // -------------------- 【 premium gas. 高级汽油 n 】
+- _【 regular verb. 规则动词 】_ // ------------------- 【 regular verb. 规则动词 】 【 irregular verb. 不规则动词 】
+- > regular VS particular
+- //【 regular gas. 普通的汽油 】 // 87
+- //【 premium gas. 高级的汽油 】 // 93
+- .MT **【 The 【 regular employees 】 has the 【 benefit 】 of 【 regular physical examination 】. 正式员工有定期体检的福利 】**
+- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
+- **【 She is not a 【 regular employee 】 of the bank. 她不是这个银行的正式员工 】**
+- // -- 【 be beneficial to. 对...有利 】
+- // -- 【 regular 定期的 正式的 普通的 】
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### Words Must 2024-12-11
+
+- 1
+- `【 particular 特别的 特定的 adj 】` // ------------ 【 particular attention. 特别注意 n 】 `【 pay particular attention to. 特别注意... 】` 【 particular time. 】
+- `【 special 特别的 adj 】`
+- `【 specific 具体的 明确的 特定的 adj 】` // -------- 【 specific time. 特定的时间 】 【 specific symptom. 具体的症状 】 【 specific indictor. 具体的指标 】
+- AA.
+- _【 particular approach. 具体的方法 】_
+- _【 particular attention. 特别注意 】_
+- _【 pay particular attention to. 特别注意... 】_
+- > particular VS regular
+- .MT 1. **【 The 【 particular 】 equipment can 【 diagnose 】 the 【 specific symptoms 】. 这个特别的设备可以诊断具体的症状 】**
+- .MT 2. **【 You need to 【 pay particular attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
+- .MT 3. **【 The 【 trap 】 will be triggered at 【 specific time 】. 这个陷阱将在特定的时间触发 】**
+- // -- 【 diagnose 诊断 v 】
+- // -- 【 pay particular attention to. 特别注意... 】
+- // -- 【 traffic safety. 交通安全 】
+- // -- trap 陷阱 VS trip 短途旅行
+- // TIPS: Pay attention to the pronunciation of the word 'particular'.[particular-特别的-特定的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'trap'. [trap-陷阱-n]
+- BB.
+- > 【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 particular approach. 特别的方法 n 】 【 scientific approach. 科学的方法 n 】
+- > 【 method 方法 办法 n 】`
+- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
+- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
+- _【 recommended approach. 推荐的方法 n 】_
+-
+-
+- 2
+- `【 regular 定期的 正式的 普通的 规则的 adj 】`
+- _【 regular physical examination. 定期体检 】_
+- _【 regular employee. 正式员工 】_
+- _【 regular gas. 普通汽油 】_ // -------------------- 【 premium gas. 高级汽油 n 】
+- _【 regular verb. 规则动词 】_ // ------------------- 【 regular verb. 规则动词 】 【 irregular verb. 不规则动词 】
+- > regular VS particular
+- //【 regular gas. 普通的汽油 】 // 87
+- //【 premium gas. 高级的汽油 】 // 93
+- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
+- **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
+- // -- 【 be beneficial to. 对...有利 】
+- // -- 【 regular 定期的 正式的 普通的 】
+-
+
+- 2
 - `【 strict 严格的 adj 】` // ----------------- 【 strict regulation. 严格的规定 】 【 strict requirement. 严格的要求 】
 - `【 district 区 地区 区域 n 】` // ------------ 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
 - > 【 business district. 商业区 n 】`
@@ -126,18 +206,6 @@
 - // -- 【 strict regulation. 严格的规定 n 】
 - // -- resident 居民 n
 - // -- president 总统 n
--
--
-- 2
-- `【 crowd 人群 n / 拥挤 v 】` // ------------- 【 A crowd of. 一群 】 【 crowd into. 涌入 v 】
-- `【 crow 乌鸦 n / 打鸣 v 】`
-- `【 row 一行n 划船v 】`
-- .MT **【 【 A crowd of 】 fans 【 crowd into 】 the 【 concert 】. 一群粉丝涌入音乐会 】**
-- .MT **【 The 【 crow 】 【 gradually 】 【 disappeared into 】 the 【 crowd 】. 这只乌鸦逐渐消失在人群中 】**
-- // -- 【 fly -> flew 】
-- // -- 【 fly into. 飞进... 】
-- // TIPS: Pay attention to the pronunciation of the word 'crow'. [crow-乌鸦-n]
-- // TIPS: Pay attention to the pronunciation of the word 'crowd'. [crowd-人群-n]
 -
 -
 - 3
@@ -182,48 +250,6 @@
 - // TIPS: Pay attention to the pronunciation of the word 'suggest'. [suggest-建议-v]
 - // TIPS: Pay attention to the pronunciation of the word 'suggestion'. [suggestion-建议-n]
 - // TIPS: Pay attention to the pronunciation of the word 'product'. [product-产品-n] // [product-requirement-产品需求]
-
-##### Words Must 2024-12-11
-
-- 1
-- `【 particular 特别的 特定的 adj 】` // ------------ 【 particular attention. 特别注意 n 】 `【 pay particular attention to. 特别注意... 】` 【 particular time. 】
-- `【 special 特别的 adj 】`
-- `【 specific 具体的 明确的 特定的 adj 】` // -------- 【 specific time. 特定的时间 】 【 specific symptom. 具体的症状 】 【 specific indictor. 具体的指标 】
-- AA.
-- _【 particular approach. 具体的方法 】_
-- _【 particular attention. 特别注意 】_
-- _【 pay particular attention to. 特别注意... 】_
-- > particular VS regular
-- .MT 1. **【 The 【 particular 】 equipment can 【 diagnose 】 the 【 specific symptoms 】. 这个特别的设备可以诊断具体的症状 】**
-- .MT 2. **【 You need to 【 pay particular attention to 】 【 traffic safety 】. 你需要特别注意交通安全 】**
-- .MT 3. **【 The 【 trap 】 will be triggered at 【 specific time 】. 这个陷阱将在特定的时间触发 】**
-- // -- 【 diagnose 诊断 v 】
-- // -- 【 pay particular attention to. 特别注意... 】
-- // -- 【 traffic safety. 交通安全 】
-- // -- trap 陷阱 VS trip 短途旅行
-- // TIPS: Pay attention to the pronunciation of the word 'particular'.[particular-特别的-特定的-adj]
-- // TIPS: Pay attention to the pronunciation of the word 'trap'. [trap-陷阱-n]
-- BB.
-- > 【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 particular approach. 特别的方法 n 】 【 scientific approach. 科学的方法 n 】
-- > 【 method 方法 办法 n 】`
-- _【 scientific approach. 科学的方法 n 】_ // -------- 【 scientific knowledge. 科学知识 n 】 【 scientific approach. 科学方法 n 】
-- _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
-- _【 recommended approach. 推荐的方法 n 】_
--
--
-- 2
-- `【 regular 定期的 正式的 普通的 规则的 adj 】`
-- _【 regular physical examination. 定期体检 】_
-- _【 regular employee. 正式员工 】_
-- _【 regular gas. 普通汽油 】_ // -------------------- 【 premium gas. 高级汽油 n 】
-- _【 regular verb. 规则动词 】_ // ------------------- 【 regular verb. 规则动词 】 【 irregular verb. 不规则动词 】
-- > regular VS particular
-- //【 regular gas. 普通的汽油 】 // 87
-- //【 premium gas. 高级的汽油 】 // 93
-- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
-- **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
-- // -- 【 be beneficial to. 对...有利 】
-- // -- 【 regular 定期的 正式的 普通的 】
 
 ##### Words Must 2024-12-13
 
