@@ -182,3 +182,54 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 5
 我们应该提高合格产品的比例
 ```
+
+##### 16 Make sentences 2024-12-16
+
+```
+1
+You can 【 purchase 】 this TV 【 in installments 】.
+你可以分期付款购买这台电视机
+-
+You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services.
+你不需要申请贷款，因为我们提供分期付款服务
+-
+Does your company 【 offer 】 【 installment payment 】 services?
+你们公司有分期付款服务吗？
+-
+// -
+// 【 in installments. 分期付款 adv 】
+// 【 installment payment. 分期付款 n 】
+// -
+// 【 offer installment payment service. 提供分期付款服务 】
+// -
+// 【 apply for a loan. 申请贷款 v 】
+
+
+2
+【 Debt 】 is a kind of 【 liability 】.
+债务是一种负债
+-
+He has 【 500 thousand 】 【 in debt 】.
+他有 50 万欠债
+-
+// -
+// 【 debt 债务 n 】
+// 【 liability 负债 n 】
+// -
+// 【 in debt. 欠债 负债  】
+// in debt. = liability. 欠债 负债
+// -
+// TIPS: Pay attention to the pronunciation of phrase "500 thousand". It's not "500 thousands".
+
+
+3
+The 【 statistical report 】 shows the 【 statistical result 】 of the 【 statistical analysis 】.
+统计报告显示统计分析的统计结果
+// -
+// 【 statistical report. 统计报告 n 】
+// 【 statistical result. 统计结果 n 】
+// 【 statistical analysis. 统计分析 n 】
+// -
+// 【 analyze 分析 v 】
+// 【 analysis 分析 n 】
+```

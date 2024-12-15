@@ -5,27 +5,34 @@
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -
 - [-FF.]
-- `【 installment 分期付款 安装 n 】` // ------------- 【 installment payment. 分期付款 n 】 【 pay in installment. 分期付款 v 】
-- _【 pay in installment. 分期付款 v 】_
-- _【 pay in cash. 用现金支付 v 】_
-- > 【 installment payment. 分期付款 n 】
-- > 【 pay in installment. 分期付款 v 】
-- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不用申请贷款，因为我们支持分期付款服务 】**
+- `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
+- > 【 in installments. 分期付款 adv 】
+- > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】
+- _【 pay in cash. 用现金支付 adv 】_
+- _【 pay in installments. 分期付款 adv 】_
+- .MT **【 You can 【 purchase 】 this TV 【 in installments 】. 你可以分期付款购买这台电视机 】**
+- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
 - .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
-- .MT **【 You can 【 pay this TV in installment 】. 你可以分期付款购买这台电视机 】**
 - // -- 【 provide 提供 v 】
 - // -- 【 offer 提供 v / 报价 n 】
+- // -- 【 purchase 购买 v 】
+- // -- 【 apply for a loan. 申请贷款 v 】
 -
 - [-GG.]
-- `【 liability 负债 n 】` VS 【 debt. 债务 】
+- `【 liability 负债 n = in debt. 】` VS 【 debt. 债务 】
 - `【 ability 能力 n 】`
-- `【 repay 偿还 报答 v  】`
+- `【 in debt. 欠债 负债 】`
+- _【 in debt. 欠债 负债 = liability. 】_
+- _【 debt 债务 n 】_
+- > 【 repay 偿还 报答 v 】`
 - > 【 pay back. 偿还 v 】
 - > 【 pay off. 还清 v 】
+- .MT **【 【 Debt 】 is a kind of 【 liability 】. 债务是一种负债 】**
+- .HL **【 He has 500 【 thousand 】 yuan 【 in debt 】. 他有 50 万欠债 】**
 - **【 His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】. 他的债务超出了他偿还债务的能力范围 】**
-- **【 【 Debt 】 is a kind of 【 liability 】. 债务是一种负债 】**
 - // -- 【 repay debt. 偿还债务 】
 - // -- 【 beyond the scope of. 超出...的范围 】
+- // TIPS: "500 thousand" is not "500 thousands".
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
 - // TIPS: Pay attention to the pronunciation of the word 'liability'. [liability-负债-n]
 -
@@ -35,34 +42,42 @@
 - > 【 statistical report. 统计报告 n 】
 - > 【 statistical analysis. 统计分析 n 】
 - > 【 statistical result. 统计结果 n 】
-- 【 analyze 分析 v 】 VS 【 analysis 分析 n 】
-- .MT **【 The 【 statistical report 】 shows the 【 statistical results 】 of the 【 statistical analysis 】. 统计报告显示统计分析的统计结果 】**
-- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
+- 【 analyze 分析 v 】
+- 【 analysis 分析 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'analyze'. [analyze-分析-v]
 - // TIPS: Pay attention to the pronunciation of the word 'analysis'. [analysis-分析-n]
+- .MT **【 The 【 statistical report 】 shows the 【 statistical results 】 of the 【 statistical analysis 】. 统计报告显示统计分析的统计结果 】**
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
 -
 -
 - [-EE.]
 - `【 freeze 冻结 v n 】`
-- `【 frozen 冻结的 past tense / adj 】`
-- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
+- `【 frozen 冻结的 adj / past tense  】`
 - **【 His bank card was 【 frozen 】. 他的银行卡被冻结了 】** // v
+- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
 -
 -
 - [-DD.]
-- `【 security 安全 】`
-- `【 social security. 社保 】` // 【 social welfare. 社会福利 】 【 social security. 社保 】
+- `【 security 安全 n 】` // ------------------- 【 ensure security. 保证安全 】 【 social security. 社保 = social insurance. 】
+- `【 safety 安全 n 】` // --------------------- 【 ensure safety. 保证安全 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
+- `【 safe 安全的 adj 】`
+- `【 social security. 社保 】` // --------------【 social welfare. 社会福利 】 【 social status. 社会地位 】 【 social media. 社交媒体 】
 - `【 social insurance. 社保 】`
 - `【 social welfare. 社会福利 n 】`
-- _【 security check. 安检 】_
+- AA.
 - > 【 social welfare. 社会福利 n 】
 - > 【 social security. 社保 n 】 = social insurance. 社保
-- > 【 network security. 网络安全 】
-- > 【 information security. 信息安全 】
-- > 【 sense of security 安全感 】
-- > 【 security camera. 监控摄像机 】
+- > 【 social status. 社会地位 】
+- > 【 social contradiction. 社会矛盾 】
+- BB.
+- _【 security check. 安检 】_
+- _【 network security. 网络安全 】_
+- _【 information security. 信息安全 】_
+- _【 sense of security 安全感 】_
+- _【 security camera. 监控摄像机 】_
 - .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
-- .MT **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
+- .MT **【 The 【 safety rope 】 can 【 ensure safety 】. 安全绳可以确保安全 】**
+- **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
 - // -- 【 social status. 社会地位 】
 - // -- 【 social media. 社交媒体 】
 - // -- 【 social security. 社保 】
