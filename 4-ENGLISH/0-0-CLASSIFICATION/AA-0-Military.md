@@ -456,14 +456,15 @@
 - > 【 aggressive war. 侵虐战争 n 】
 - > 【 【 launch 】 the aggressive war. 发动侵虐战争 】
 - _【 aggress 侵略 v 】_
-- _【 aggressive 侵略的 adj 】_
+- _【 aggressive 侵略的 adj 】_ // -------------- 【 aggressive war. 侵略战争 n 】 // 【 lunch an aggressive war. 发动一场侵略战争 】
 - AA.
 - _【 aggress 侵虐 v 】_
-- _【 aggressive 侵略的 】_
+- _【 aggressive 侵略的 adj 】_
 - _【 aggressive war. 侵虐战争 n 】_ // --------- 【 launch the aggressive war. 发动侵虐战争 v 】
 - _【 aggress against. 侵虐... 】_
-- **【 They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】. 他们用导弹发动了侵略战争 】**
-- **【 The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争 】**
+- .MT **【 They 【 launched 】 the 【 aggressive war 】 with 【 missiles 】. 他们用导弹发动了侵略战争 】**
+- .MT **【 This 【 cruel war 】 was an 【 aggressive war 】. 这场残酷的战争是侵略战争 】**
+- .MT **【 The president didn't 【 agree 】 to 【 launch 】 this 【 aggressive war 】. 总统不同意发动这场侵虐战争 】**
 - // TIPS: Pay attention to the pronunciation of the word 'aggress'. [aggress-侵虐-v]
 - // TIPS: Pay attention to the pronunciation of the word 'aggressive'. [aggressive-侵虐的-adj]
 - BB.

@@ -1,4 +1,4 @@
-##### Words Must 2024-12-01
+##### WORDS Must 2024-12-01
 
 - 1
 - `【 approach 方法 方式 n / 靠近 v 】` // ------------ 【 scientific approach. 科学的方法 】 【 particular approach. 特别的方法 】 【 recommended approach. 推荐的方法 】
@@ -61,7 +61,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'assume'. [assume-假设-v]
 - // TIPS: Pay attention to the pronunciation of the word 'assumption'. [assumption-假设-n]
 
-##### Words Must 2024-12-12
+##### WORDS Must 2024-12-12
 
 - 1
 - `【 possess 拥有 具有 持有 v 】` // ----------------- 【 possess qualification. 拥有资格 】 【 possess firearm. 持有枪支 】 【 possess wealth. 拥有财富 】
@@ -107,7 +107,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'qualification'. [qualification-资格-学历-n]
 - // TIPS: Pay attention to the pronunciation of the word 'qualify'. [qualify-有资格-v]
 
-##### Words Must 2024-12-15
+##### WORDS Must 2024-12-15
 
 - 1
 - `【 crowd 人群 n / 拥挤 v 】` // ------------- 【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 // `crowed 拥挤的`

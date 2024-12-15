@@ -122,3 +122,24 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 3
 铁矿石中有铁矿和铁锈
 ```
+
+##### 04 Make sentences 2024-12-04
+
+```
+1
+他们用导弹发动了侵略战争
+-
+这场残酷的战争是侵略战争
+-
+总统不同意发动这场侵虐战争
+
+
+2
+扭伤脚踝后，他感到一阵麻木
+
+
+3
+他的手烫伤过，也擦伤过
+-
+我的手被擦伤了
+```

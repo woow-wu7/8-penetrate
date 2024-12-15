@@ -1,208 +1,5 @@
 ## Sick
 
-## **(零)【 Hard words ------- Please see (一) below first, and then go back to see (零)】**
-
-- 1
-- `【 nerve 神经 n 】` // ---------------------- 【 nerve cells. 神经细胞 】
-- `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 neural signal. 神经信号 】
-- `【 neuron 神经元 n 】`
-- > 【 nerve cells. 神经细胞 】`
-- > 【 neural network. 神经网络 】`
-- > 【 neural signal. 神经信号 】
-- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
-- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
-- **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
-- // -- 【 transmit 传输 传递传染 传播 v 】
--
-- 2
-- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
-- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
-- _【 manual transmission. 手动档 】_
-- _【 automatic transmission. 自动挡 】_
-- > 【 data transmission. 数据传输 n 】
-- > 【 transmit data. 传输数据 v 】
-- // transform 转换 转变 v
-- // transmit 传输 传递 传染 传播 v
-- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
-- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
--
-- 3
-- `【 refer to. 参考 提到 v 】`
-- `【 mention 提到 提及 v n 】`
-- _【 involve 涉及 v 】_
-- _【 maintain 维持 保持 维护 v 】_
-- 1. 提到: **【 This book 【 refers to 】 the author's childhood. 这本书提到了作者的童年 】**
-- 2. 参考: **【 Please 【 refer to 】 the 【 tutorial 】 in the book 【 for 】 the 【 specific steps 】. 具体步骤请参考书中的教程 】**
-- // mention: **【 He just 【 mentioned 】 a word called "transmission". 他刚刚提到了一个词叫"传播" 】**
-- // tutorial 教程
-- // tutor 家庭教师
-- // coach 教练
--
-- 4
-- `【 feed on. 以...为食 】`
-- **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
-- // -- virus 病毒
--
-- 5
-- `【 routine 常规的 adj / 常规 n 】`
-- _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
-- _【 routine check-up. 常规检查 】_
-- _【 【 regular 】 physical examination. 定期体检 】_
-- > 【 belong to. 属于 】
-- regular 定期的 正式的 常规的
-- regular physical examination. 定期体检
-- regular employee. 正式员工
-- regular gas. 普通汽油
-- premium gas. 高级汽油
-- **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
-- **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
-- // -- physical examination. 体检
-- // -- routine examination. 常规检查
-- // -- routine check-up. 常规检查
-- // -- 【 belong to. 属于 】
-- // -- 【 victory 胜利 】
--
-- 6
-- `【 regular 定期的 正式的 普通的  adj 】`
-- > 【 【 regular 】 physical examination. 定期体检 】
-- > 【 【 routine 】 examination. 常规检查 】= 【 routine check-up. 常规检查 】
-- _【 regular physical examination. 定期体检 v 】_
-- _【 regular employee. 正式员工 】_
-- _【 regular gas. 普通汽油 】_
-- //【 regular gas. 普通的汽油 】 // 87
-- //【 premium gas. 优质的汽油 】 // 93
-- // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
-- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
-- **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
-- // -- 【 be beneficial to. 对...有利 】
-- // -- 【 regular 定期的 正式的 普通的 】
--
-- 7
-- `【 internal 内脏n / 内部的 adj 】`
-- > 【 internal contradiction. 内部矛盾 】
-- > 【 internal structure. 内部结构 】
-- _【 internal organ. 内脏 n 】_
-- **【 We need to use a 【 microscope 】 to 【 observe 】 the 【 internal structures 】 of the 【 internal organs 】. 我们需要用显微镜观察内脏的内部结构 】**
-- **【 The 【 internals 】 are the organs in the human body. 内脏就是人体内部的器官 】**
-- // -- 【 observe 观察 观测 v 】
--
-- 8
-- `【 explain by. 通过...来解释 】`
-- `【 work principle. 工作原理 】`
-- **【 The teacher 【 explained 】 the 【 work principle 】 of the equipment 【 by 】 giving examples. 老师通过举例子来解释这个设备的工作原理 】**
-- // -- principle 原则 原理 n
-- // -- work principle. 工作原理
--
-- 9
-- `【 immunity 免疫 免疫力 n 】`
-- `【 immune 免疫的 adj 】`
-- `【 immunize 免疫 v 】`
-- **【 【 exercise 】 can 【 enhance 】 your 【 immunity 】. 锻炼可以增强你的免疫力 】**
-- // TIPS: Pay attention to the pronunciation of the word 'exercise'. [exercise-锻炼-v-n]
--
-- 10
-- `【 have a shot. 打针 v 】`
-- `【 have an injection. 打针 v 】`
-- _【 prevent 阻止 防止 v 】_
-- **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】** [prevent-阻止-防止-v]
-- // -- 【 prevent 阻止 预防 v 】
-- // -- disease 疾病 n
-- // -- illness 疾病 n
--
-- 11
-- `【 figure out. 搞清楚 弄明白 计算出 v 】`
-- **【 Doctors need to 【 figure out 】 what's wrong 【 with 】 patients. 医生需要搞清楚病人哪里出了问题 】**
-- **【 You need to 【 figure out 】 how to use these words. 你需要搞清楚如何使用这些单词 】**
--
-- 12
-- `【 after a while. 过了一会 不久之后 】`
-- `【 for a while. 一段时间 一阵子 一会儿 】`
-- `【 after a little while. 过了一会儿 不久之后 】`
-- **【 【 After a little while 】, the rain stopped and the sun 【 came out 】. 过了一会儿，雨停了，太阳出来了 】**
-- **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
--
-- 13
-- `【 consult 咨询 v 】`
-- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】 // insult VS consult VS result
-- `【 consultation 咨询 n 】`
-- > 【 consult about sth. 咨询某事 】
-- _【 insult 侮辱 v 】_
-- _【 consult 咨询 v 】_
-- _【 inquire 询问 v 】_
-- **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
-- **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
-- // -- 【 insult 辱骂 v 】
-- // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
-- // -- 【 result 结果 n 】
-- // -- 【 consequence 后果 n 】
-- // -- 【 consult about sth. 咨询某事 】
--
-- 14
-- `【 diagnose 诊断 v 】` // --------------------------- 【 be diagnosed with. 被诊断出患有...病 】
-- `【 diagnosis 诊断 n 】`
-- _【 be diagnosed with. 被确诊患有...病 】_
-- > lung cancer. 肺癌 n
-- > 【 breast cancer. 乳腺癌 n 】
-- > 【 breast milk. 母乳 n 】
-- **【 The people who drink 【 breast milk 】 are not easy to get 【 breast cancer 】. 喝母乳的人不容易得乳腺癌 】**
-- **【 He 【 was diagnosed with 】 【 lung cancer 】. 他被诊断出患有肺癌 】**
-- diagnose: The test is used to diagnose a variety of diseases. 此项化验可用于诊断多种疾病
-- diagnose: The illness was diagnosed as cancer. 此病诊断为癌症
-- diagnosis: I need to have a second test to confirm the diagnosis. 我需要再进行一次检查以确诊
-- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-胸-乳房-n]
-- // TIPS: Pay attention to the pronunciation of the word 'diagnose'. [breast-胸-乳房-n]
--
-- 15
-- `【 medical 医疗的 医学的 adj 】` // ----------------- 【 medical center. 医疗中心 】 【 medical equipment. 医疗设备 】 【 medical record. 病历 】
-- `【 medicine 药 n 】`
-- `【 medication 药 n 】`
-- > 【 medical record. 病历 】
-- > 【 medical equipment. 医疗设备 】
-- > 【 medical center. 医疗中心 】
--
-- 16
-- `【 for a while. 一段时间 一阵子 一会儿 】`
-- 一段时间: **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
-- 一段时间: **【 We haven't reviewed the topic 【 related to 】 phone 【 for a while 】. 我们有一段时间没有复习有关电话的主题了 】**
-- 一会 **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
-- 一会 **【 I just wait for you for a while. 我仅仅等了你一会 】**
-- **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
-- // -- 【 take a rest. 休息一会 】
-- // -- 【 take a break. 休息一会 】
-- // -- 【 related to. 有关 】
--
-- 17
-- `【 migraine 偏头 n 】`
-- `【 migrate 迁移 迁徙 移民 v 】`
-- `【 immigrate 移民 v 】`
-- `【 immigration 移民 n  】`
-- **【 After she 【 immigrated 】 to 【 America 】, she suffered from 【 migraines 】. 她移民到美国后，患上了偏头痛 】**
--
-- 18
-- `【 by the way. 顺便说一下 顺便问一下 对了 】`
-- **【 【 By the way 】, did you finish the report? 顺便问一下，你完成报告了吗？ 】**
--
-- 19
-- `【 unpleasant 不舒服的 不愉快的 adj 】` // 【 unpleasant smell. 不舒服的味道 】
-- _【 unpleasant smell. 不舒服的味道 】_
-- **【 I smelled an 【 unpleasant 】 smell. 我闻到了一股不舒服的味道 】**
--
-- 20
-- `【 wipe off. 擦掉 v 】`
-- _【 wipe 擦 v 】_ // ----------------- 【 wipe 擦 v VS wiper 雨刷 n 】 // wipe swipe // wipe wiper
-- _【 wiper 雨刷 n 】_ // -------------- 【 windshield wiper. 雨刷 n 】
-- _【 swipe 刷卡 v 】_ // -------------- 【 swipe the card. 刷卡 v 】
-- **【 Please 【 wipe off 】 your 【 snot 】. 请擦掉你的鼻涕 】**
-- **【 After 【 swiping the card 】, you can use the 【 windshield wipers 】 to 【 wipe 】 the glass. 刷卡后，你就可以用用雨刷擦玻璃了 】**
-- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
-- **【 He wiped off the snot on his face 【 with 】 his sleeve. 他用袖子擦掉脸上的鼻涕 】**
--
-- 21
-- `【 sleeve 袖子 n 】`
-- `【 snot 鼻涕 n 】`
-- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
-- **【 He 【 wiped off 】 the 【 snot 】 on his face 【 with 】 his 【 sleeve 】. 他用袖子擦掉脸上的鼻涕 】**
-
 ## **(一) 【 The Sick words that you mast know 】**
 
 ## (1.1) `PLACE` place
@@ -710,6 +507,7 @@
 - `【 backache 背痛 n 】`
 - `【 stomachache 胃痛 n 】`
 - `【 earache 耳朵痛 n 】`
+- `【 tummy ache. 肚子疼 】` // -------------- 【 tummy 肚子 n 】
 -
 - `【 cold 感冒n / 冷的adj 】`
 - `【 flu 流行性感冒 流感 n 】`
@@ -719,7 +517,7 @@
 - `【 sore throat. 嗓子痛 n 】` // ----------- 【 throat 喉咙 嗓子 n 】
 - `【 sneeze 打喷嚏v 喷嚏n 】`
 - `【 runny nose. 流鼻涕 】` // -------------- 【 nose 鼻子 n 】
-- `【 stuffy nose. 鼻塞 】` // ------------- **【 blocked nose. 鼻塞 = stuffy nose. 】**【 stuffy 闷的 通风不畅的 adj 】 // stuffy VS stuff 东西 VS staff 工作人员
+- `【 stuffy nose. 鼻塞 】` // ------------- **【 blocked nose. 鼻塞 = stuffy nose. 】**【 stuffy 闷的 通风不畅的 】 // stuffy VS stuff 东西 VS staff 工作人员
 - `【 blocked nose. 鼻塞 】`
 - `【 snot 鼻涕 n 】` // ------------------- **【 wipe off the snot. 擦掉鼻涕 v 】**
 - `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
@@ -775,7 +573,12 @@
 - > 【 crutch 拐杖 n 】
 -
 - `【 twist 扭伤 v 】`
-- **【 【 twist 】 my 【 ankle 】. 扭伤我的脚踝 】**
+- `【 numb 麻木的 adj 】`
+- `【 numbness 麻木 n 】` // ------------------- 【 feel numbness. 赶到麻木 v 】
+- `【 stiff 僵硬的 adj 】`
+- > 【 ankle 脚踝 n 】
+- _【 feel numbness. 感到麻木 v 】_
+- .MT **【 He 【 felt 】 a sense of 【 numbness 】 after 【 twisting 】 his 【 ankle 】. 扭伤脚踝后，他感到一阵麻木 】**
 -
 - `【 insomnia 失眠症 n 】`
 - `【 insomniac 失眠症患者 n 】`
@@ -2948,3 +2751,217 @@ stiff 僵直的
 -
 joint 关节n 联合的
 ```
+
+## (七)**【 Hard words ------- Please see (一) below first, and then go back to see (零)】**
+
+- [-AA.]
+- `【 scrape 刮 擦伤 v n 】`
+- `【 script 脚本 剧本 n 】`
+- `【 encrypt 加密 v  】` // ----------------- 【 encryption 加密 】 // 【 encryption algorithm. 加密算法 n 】
+- .MT **【 His hands have been 【 scalded 】 and 【 scraped 】 before. 他的手烫伤过，也擦伤过 】**
+- **【 My hand is 【 scraped 】. 我的手被擦伤了 】**
+-
+- [-BB.]
+- `【 scald 烫伤 v n 】`
+- .MT **【 His hands have been 【 scalded 】 and 【 scraped 】 before. 他的手烫伤过，也擦伤过 】**
+-
+- 1
+- `【 nerve 神经 n 】` // ---------------------- 【 nerve cells. 神经细胞 】
+- `【 neural 神经的 adj 】` // ----------------- 【 neural network. 神经网络 】 【 neural signal. 神经信号 】
+- `【 neuron 神经元 n 】`
+- > 【 nerve cells. 神经细胞 】`
+- > 【 neural network. 神经网络 】`
+- > 【 neural signal. 神经信号 】
+- **【 【 Nerve cells 】 【 transmit 】 【 neural signals 】 to the brain through 【 neural networks 】. 神经细胞通过神经网络将神经信号传递给大脑 】**
+- **【 The 【 neural network 】 【 is composed of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- **【 The 【 Neural networks 】 【 consist of 】 【 nerve cells 】. 神经网络由神经细胞组成 】**
+- // -- 【 transmit 传输 传递传染 传播 v 】
+-
+- 2
+- `【 transmit 传输 传递 传染 传播 v 】` // ---- 【 transmit data. 传输数据 】 【 transmit disease. 传播疾病 】
+- `【 transmission 传输 传递 传染 传播 n / 变速器 n 】` // -------------------【 data transmission. 数据传输 】 【 automatic transmission. 自动挡 】
+- _【 manual transmission. 手动档 】_
+- _【 automatic transmission. 自动挡 】_
+- > 【 data transmission. 数据传输 n 】
+- > 【 transmit data. 传输数据 v 】
+- // transform 转换 转变 v
+- // transmit 传输 传递 传染 传播 v
+- 1. 传染: **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+- 2. 传输 **【 【 Data transmission 】 means to 【 transmit 】 the data from one place to another. 数据传输意味着把数据从一个地方传输到另一个地方 】**
+-
+- 3
+- `【 refer to. 参考 提到 v 】`
+- `【 mention 提到 提及 v n 】`
+- _【 involve 涉及 v 】_
+- _【 maintain 维持 保持 维护 v 】_
+- 1. 提到: **【 This book 【 refers to 】 the author's childhood. 这本书提到了作者的童年 】**
+- 2. 参考: **【 Please 【 refer to 】 the 【 tutorial 】 in the book 【 for 】 the 【 specific steps 】. 具体步骤请参考书中的教程 】**
+- // mention: **【 He just 【 mentioned 】 a word called "transmission". 他刚刚提到了一个词叫"传播" 】**
+- // tutorial 教程
+- // tutor 家庭教师
+- // coach 教练
+-
+- 4
+- `【 feed on. 以...为食 】`
+- **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
+- // -- virus 病毒
+-
+- 5
+- `【 routine 常规的 adj / 常规 n 】`
+- _【 routine examination. 常规检查 】_ = routine check-up. 常规检查
+- _【 routine check-up. 常规检查 】_
+- _【 【 regular 】 physical examination. 定期体检 】_
+- > 【 belong to. 属于 】
+- regular 定期的 正式的 常规的
+- regular physical examination. 定期体检
+- regular employee. 正式员工
+- regular gas. 普通汽油
+- premium gas. 高级汽油
+- **【 This 【 physical examination 】 【 belongs to 】 a 【 routine examination 】. 这次体检属于常规检查 】**
+- **【 【 Victory 】 must 【 belong to 】 us. 胜利一定属于我们 】**
+- // -- physical examination. 体检
+- // -- routine examination. 常规检查
+- // -- routine check-up. 常规检查
+- // -- 【 belong to. 属于 】
+- // -- 【 victory 胜利 】
+-
+- 6
+- `【 regular 定期的 正式的 普通的  adj 】`
+- > 【 【 regular 】 physical examination. 定期体检 】
+- > 【 【 routine 】 examination. 常规检查 】= 【 routine check-up. 常规检查 】
+- _【 regular physical examination. 定期体检 v 】_
+- _【 regular employee. 正式员工 】_
+- _【 regular gas. 普通汽油 】_
+- //【 regular gas. 普通的汽油 】 // 87
+- //【 premium gas. 优质的汽油 】 // 93
+- // TIPS: Pay attention to the pronunciation of the word 'pulse'. [pulse-脉搏]
+- **【 Going to the hospital for a 【 regular physical examination 】 【 is beneficial to 】 health. 去医院定期体检有利于身体健康 】**
+- **【 She is not a 【 regular 】 employee of the bank. 她不是这个银行的正式员工 】**
+- // -- 【 be beneficial to. 对...有利 】
+- // -- 【 regular 定期的 正式的 普通的 】
+-
+- 7
+- `【 internal 内脏n / 内部的 adj 】`
+- > 【 internal contradiction. 内部矛盾 】
+- > 【 internal structure. 内部结构 】
+- _【 internal organ. 内脏 n 】_
+- **【 We need to use a 【 microscope 】 to 【 observe 】 the 【 internal structures 】 of the 【 internal organs 】. 我们需要用显微镜观察内脏的内部结构 】**
+- **【 The 【 internals 】 are the organs in the human body. 内脏就是人体内部的器官 】**
+- // -- 【 observe 观察 观测 v 】
+-
+- 8
+- `【 explain by. 通过...来解释 】`
+- `【 work principle. 工作原理 】`
+- **【 The teacher 【 explained 】 the 【 work principle 】 of the equipment 【 by 】 giving examples. 老师通过举例子来解释这个设备的工作原理 】**
+- // -- principle 原则 原理 n
+- // -- work principle. 工作原理
+-
+- 9
+- `【 immunity 免疫 免疫力 n 】`
+- `【 immune 免疫的 adj 】`
+- `【 immunize 免疫 v 】`
+- **【 【 exercise 】 can 【 enhance 】 your 【 immunity 】. 锻炼可以增强你的免疫力 】**
+- // TIPS: Pay attention to the pronunciation of the word 'exercise'. [exercise-锻炼-v-n]
+-
+- 10
+- `【 have a shot. 打针 v 】`
+- `【 have an injection. 打针 v 】`
+- _【 prevent 阻止 防止 v 】_
+- **【 【 Having shots 】 can 【 prevent 】 【 diseases 】. 打针可以预防疾病 】** [prevent-阻止-防止-v]
+- // -- 【 prevent 阻止 预防 v 】
+- // -- disease 疾病 n
+- // -- illness 疾病 n
+-
+- 11
+- `【 figure out. 搞清楚 弄明白 计算出 v 】`
+- **【 Doctors need to 【 figure out 】 what's wrong 【 with 】 patients. 医生需要搞清楚病人哪里出了问题 】**
+- **【 You need to 【 figure out 】 how to use these words. 你需要搞清楚如何使用这些单词 】**
+-
+- 12
+- `【 after a while. 过了一会 不久之后 】`
+- `【 for a while. 一段时间 一阵子 一会儿 】`
+- `【 after a little while. 过了一会儿 不久之后 】`
+- **【 【 After a little while 】, the rain stopped and the sun 【 came out 】. 过了一会儿，雨停了，太阳出来了 】**
+- **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
+-
+- 13
+- `【 consult 咨询 v 】`
+- `【 consultant 顾问 n 】` // ------------------- 【 consult 咨询 商量 v 】 // insult VS consult VS result
+- `【 consultation 咨询 n 】`
+- > 【 consult about sth. 咨询某事 】
+- _【 insult 侮辱 v 】_
+- _【 consult 咨询 v 】_
+- _【 inquire 询问 v 】_
+- **【 They are 【 consulting about 】 the 【 consequence 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
+- **【 You can't 【 insult 】 others 【 in public 】. 总之你不能当众辱骂他人 】**
+- // -- 【 insult 辱骂 v 】
+- // -- 【 consult 咨询 v 】// -------- 【 consult about sth. 咨询某事 】
+- // -- 【 result 结果 n 】
+- // -- 【 consequence 后果 n 】
+- // -- 【 consult about sth. 咨询某事 】
+-
+- 14
+- `【 diagnose 诊断 v 】` // --------------------------- 【 be diagnosed with. 被诊断出患有...病 】
+- `【 diagnosis 诊断 n 】`
+- _【 be diagnosed with. 被确诊患有...病 】_
+- > lung cancer. 肺癌 n
+- > 【 breast cancer. 乳腺癌 n 】
+- > 【 breast milk. 母乳 n 】
+- **【 The people who drink 【 breast milk 】 are not easy to get 【 breast cancer 】. 喝母乳的人不容易得乳腺癌 】**
+- **【 He 【 was diagnosed with 】 【 lung cancer 】. 他被诊断出患有肺癌 】**
+- diagnose: The test is used to diagnose a variety of diseases. 此项化验可用于诊断多种疾病
+- diagnose: The illness was diagnosed as cancer. 此病诊断为癌症
+- diagnosis: I need to have a second test to confirm the diagnosis. 我需要再进行一次检查以确诊
+- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-胸-乳房-n]
+- // TIPS: Pay attention to the pronunciation of the word 'diagnose'. [breast-胸-乳房-n]
+-
+- 15
+- `【 medical 医疗的 医学的 adj 】` // ----------------- 【 medical center. 医疗中心 】 【 medical equipment. 医疗设备 】 【 medical record. 病历 】
+- `【 medicine 药 n 】`
+- `【 medication 药 n 】`
+- > 【 medical record. 病历 】
+- > 【 medical equipment. 医疗设备 】
+- > 【 medical center. 医疗中心 】
+-
+- 16
+- `【 for a while. 一段时间 一阵子 一会儿 】`
+- 一段时间: **【 I didn't see him 【 for a while 】. 我有一段时间没见到他了 】**
+- 一段时间: **【 We haven't reviewed the topic 【 related to 】 phone 【 for a while 】. 我们有一段时间没有复习有关电话的主题了 】**
+- 一会 **【 I'm too tried, let let 【 take a rest 】 【 for a while 】. 我太累了，让我休息一会 】**
+- 一会 **【 I just wait for you for a while. 我仅仅等了你一会 】**
+- **【 Let me 【 take a break 】, 【 take a shower 】, and 【 take a nap 】. 让我休息一会，洗个澡，再小睡一会 】**
+- // -- 【 take a rest. 休息一会 】
+- // -- 【 take a break. 休息一会 】
+- // -- 【 related to. 有关 】
+-
+- 17
+- `【 migraine 偏头 n 】`
+- `【 migrate 迁移 迁徙 移民 v 】`
+- `【 immigrate 移民 v 】`
+- `【 immigration 移民 n  】`
+- **【 After she 【 immigrated 】 to 【 America 】, she suffered from 【 migraines 】. 她移民到美国后，患上了偏头痛 】**
+-
+- 18
+- `【 by the way. 顺便说一下 顺便问一下 对了 】`
+- **【 【 By the way 】, did you finish the report? 顺便问一下，你完成报告了吗？ 】**
+-
+- 19
+- `【 unpleasant 不舒服的 不愉快的 adj 】` // 【 unpleasant smell. 不舒服的味道 】
+- _【 unpleasant smell. 不舒服的味道 】_
+- **【 I smelled an 【 unpleasant 】 smell. 我闻到了一股不舒服的味道 】**
+-
+- 20
+- `【 wipe off. 擦掉 v 】`
+- _【 wipe 擦 v 】_ // ----------------- 【 wipe 擦 v VS wiper 雨刷 n 】 // wipe swipe // wipe wiper
+- _【 wiper 雨刷 n 】_ // -------------- 【 windshield wiper. 雨刷 n 】
+- _【 swipe 刷卡 v 】_ // -------------- 【 swipe the card. 刷卡 v 】
+- **【 Please 【 wipe off 】 your 【 snot 】. 请擦掉你的鼻涕 】**
+- **【 After 【 swiping the card 】, you can use the 【 windshield wipers 】 to 【 wipe 】 the glass. 刷卡后，你就可以用用雨刷擦玻璃了 】**
+- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
+- **【 He wiped off the snot on his face 【 with 】 his sleeve. 他用袖子擦掉脸上的鼻涕 】**
+-
+- 21
+- `【 sleeve 袖子 n 】`
+- `【 snot 鼻涕 n 】`
+- **【 He used his 【 sleeve 】 to 【 wipe off 】 the 【 snot 】 on his face. 他用袖子擦掉脸上的鼻涕 】**
+- **【 He 【 wiped off 】 the 【 snot 】 on his face 【 with 】 his 【 sleeve 】. 他用袖子擦掉脸上的鼻涕 】**
