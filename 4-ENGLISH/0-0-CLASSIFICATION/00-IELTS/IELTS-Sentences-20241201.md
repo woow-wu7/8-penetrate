@@ -232,4 +232,69 @@ The 【 statistical report 】 shows the 【 statistical result 】 of the 【 s
 // -
 // 【 analyze 分析 v 】
 // 【 analysis 分析 n 】
+
+
+4
+His bank card was 【 frozen 】.
+他的银行卡被冻结了
+// -
+// freeze 冻结 v n
+// frozen 冻结的adj / V past tense.
+
+
+5
+Everyone should 【 pay 】 their 【 social security 】 and 【 individual income tax 】 【 on time 】.
+每个人都应该按时缴纳社保和个人所得税
+-
+【 Safety ropes 】 can 【 ensure safety 】.
+安全绳可以确保安全
+-
+// -
+// 【 social security. 社保 】
+// 【 individual income tax. 个人所得税 】
+// -
+// 【 pay social security. 缴社保 v 】
+// -
+// safety 安全 n
+// safe 安全的 adj
+// -
+// 【 safety reason. 安全原因 n 】
+// 【 safety rope. 安全绳 n 】
+// 【 ensure safety. 保证安全 v 】
+// -
+// 【 rope 绳子 】 VS 【 ripe 成熟的 adj 】 VS 【 mature 成熟的 adj 】
+// gather fruit. 采摘水果
+// ripe fruit. 成熟的水果
+// mature technology. 成熟的技术
+// mature person. 成熟的人
+
+
+6
+The 【 social status 】 【 determines 】 【 social welfare 】.
+社会地位决定了社会福利
+-
+The 【 investment 】 needs to be 【 determined 】 【 by 】 you.
+这个投资需要你来决定
+-
+// -
+// 【 social status. 社会地位 】
+// 【 social welfare. 社会福利 】 VS 【 welfare state. 福利国家 】
+// -
+// 【 social contradiction. 社会矛盾 】
+// 【 social media. 社交媒体 】
+// -
+// determine 决定 v
+// make a decision. 做决定 v
+// It's up to you. 有你来定
+```
+
+##### 17 Make sentences 2024-12-17
+
+```
+1
+我们的任何投资都需要考虑投资回报率
+
+
+2
+他被裁员后，收到了一大笔赔偿金和退款
 ```

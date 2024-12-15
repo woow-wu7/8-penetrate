@@ -2,129 +2,11 @@
 
 ##### (1) **The words that you mast know.**
 
-- [The-words-which(that)-are-easy-to-forget.容易忘记的词]
--
-- [-FF.]
-- `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
-- > 【 in installments. 分期付款 adv 】
-- > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】
-- _【 pay in cash. 用现金支付 adv 】_
-- _【 pay in installments. 分期付款 adv 】_
-- .MT **【 You can 【 purchase 】 this TV 【 in installments 】. 你可以分期付款购买这台电视机 】**
-- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
-- .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
-- // -- 【 provide 提供 v 】
-- // -- 【 offer 提供 v / 报价 n 】
-- // -- 【 purchase 购买 v 】
-- // -- 【 apply for a loan. 申请贷款 v 】
--
-- [-GG.]
-- `【 liability 负债 n = in debt. 】` VS 【 debt. 债务 】
-- `【 ability 能力 n 】`
-- `【 in debt. 欠债 负债 】`
-- _【 in debt. 欠债 负债 = liability. 】_
-- _【 debt 债务 n 】_
-- > 【 repay 偿还 报答 v 】`
-- > 【 pay back. 偿还 v 】
-- > 【 pay off. 还清 v 】
-- .MT **【 【 Debt 】 is a kind of 【 liability 】. 债务是一种负债 】**
-- .HL **【 He has 500 【 thousand 】 yuan 【 in debt 】. 他有 50 万欠债 】**
-- **【 His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】. 他的债务超出了他偿还债务的能力范围 】**
-- // -- 【 repay debt. 偿还债务 】
-- // -- 【 beyond the scope of. 超出...的范围 】
-- // TIPS: "500 thousand" is not "500 thousands".
-- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
-- // TIPS: Pay attention to the pronunciation of the word 'liability'. [liability-负债-n]
--
-- [-FF.]
-- `【 statistic 统计数据 统计 统计学 n 】`
-- `【 statistical 统计的 adj 】` // ----------------- 【 statistic report. 统计报告 】 【 statistic result. 统计结果 】 【 statistic analysis. 统计分析 】
-- > 【 statistical report. 统计报告 n 】
-- > 【 statistical analysis. 统计分析 n 】
-- > 【 statistical result. 统计结果 n 】
-- 【 analyze 分析 v 】
-- 【 analysis 分析 n 】
-- // TIPS: Pay attention to the pronunciation of the word 'analyze'. [analyze-分析-v]
-- // TIPS: Pay attention to the pronunciation of the word 'analysis'. [analysis-分析-n]
-- .MT **【 The 【 statistical report 】 shows the 【 statistical results 】 of the 【 statistical analysis 】. 统计报告显示统计分析的统计结果 】**
-- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
--
--
-- [-EE.]
-- `【 freeze 冻结 v n 】`
-- `【 frozen 冻结的 adj / past tense  】`
-- **【 His bank card was 【 frozen 】. 他的银行卡被冻结了 】** // v
-- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
--
--
-- [-DD.]
-- `【 security 安全 n 】` // ------------------- 【 ensure security. 保证安全 】 【 social security. 社保 = social insurance. 】
-- `【 safety 安全 n 】` // --------------------- 【 ensure safety. 保证安全 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
-- `【 safe 安全的 adj 】`
-- `【 social security. 社保 】` // --------------【 social welfare. 社会福利 】 【 social status. 社会地位 】 【 social media. 社交媒体 】
-- `【 social insurance. 社保 】`
-- `【 social welfare. 社会福利 n 】`
-- AA.
-- > 【 social welfare. 社会福利 n 】
-- > 【 social security. 社保 n 】 = social insurance. 社保
-- > 【 social status. 社会地位 】
-- > 【 social contradiction. 社会矛盾 】
-- BB.
-- _【 security check. 安检 】_
-- _【 network security. 网络安全 】_
-- _【 information security. 信息安全 】_
-- _【 sense of security 安全感 】_
-- _【 security camera. 监控摄像机 】_
-- .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
-- .MT **【 The 【 safety rope 】 can 【 ensure safety 】. 安全绳可以确保安全 】**
-- **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
-- // -- 【 social status. 社会地位 】
-- // -- 【 social media. 社交媒体 】
-- // -- 【 social security. 社保 】
-- // -- 【 social welfare. 社会福利 】
--
--
-- [-CC.]
-- `【 welfare 福利 】` // --------【 social welfare. 社会福利 】 【 social security. 社保 】
-- `【 benefit 好处 益处 利益 】`
-- `【 bonus 奖金 】` // ----------【 performance bonus. 绩效奖金 】
-- `【 performance 绩效 表演 】` // 【 performance bonus. 绩效奖金 】
-- -
-- `【 salary 工资 】` ------------- 长期
-- `【 wage 工资 】` --------------- 短期
-- `【 pay 工资 支付 】`
-- `【 bonus 奖金 】` // ---------- 【 performance bonus. 绩效奖金 】
-- `【 reward 奖励 】` // --------- reward VS award VS ward VS awkward VS coward
--
-- > 【 social welfare. 社会福利 】
-- > 【 social status. 社会地位 】
-- > 【 social media. 社交媒体 】
-- > 【 social security. = social insurance. 社保 】
-- MT. **【 The 【 social status 】 【 determines 】 the 【 social welfare 】. 社会地位决定了社会福利 】**
-- // -- 【 determine 决定 确定 v 】
-- // -- 【 Determine 】 the location of the 【 memory leak 】. // 确定
--
--
-- [-BB.]
-- `【 return on investment. 投资回报率 】`
-- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
--
--
-- [-AA.]
-- `【 ratio 比例 比率 n 】`
-- `【 proportion 比例 n 】`
-- `【 the proportion of A to B. A和B的比例  】`
-- _【 probability 概率 n 】_
-- _【 ratio 比率 比例 n 】_
-- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
-- .MT **【 We should improve the 【 ratio 】 of 【 qualified products 】. 我们应该提高合格产品的比例 】**
-- **【 What's the 【 proportion 】 【 of 】 salary to 【 total 】 revenue? 工资占总收入的比例是多少 】**
-- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
--
--
 - [AA.]
-- `【 cost 成本 费用 】`
-- `【 profit 利润 盈利 】`
+- `【 cost 成本 费用 n 】`
+- `【 profit 利润 盈利  n】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
+- `【 net 净收入 网 n 】` // ------------------- 【 net profit. 净利润 】
+- `【 revenue 收入 n 】` // ------------------- 【 revenue 收入 】
 - _【 make a profit. 盈利 】_
 - _【 net profit. 净利润 】_
 - > > cost / profit / revenue income / expenditure expense / interest / interest rate. / refund
@@ -137,7 +19,7 @@
 - // --【 barely 勉强 adv 】
 - // -- _【 stock market. 股市 】_
 - // -- _【 bull market. 牛市 】_
-- // -- _【 bear market. 胸市 】_
+- // -- _【 bear market. 熊市 】_
 - // -- _【 The 【 bulls 】 were sold to the market and made into 【 beef steak 】. 公牛被卖到市场做成了牛排 】_
 - // -- _【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】_
 -
@@ -146,13 +28,14 @@
 - `【 charge 收费 要价 充电 v n 】`
 - `【 charger 充电器 】`
 - `【 discharge 释放 排出 放电 】`
-- `charging port. 充电口`
-- `charging cable. 充电线` // usb cable.
-- `charging pile. 充电桩`
+- > charging port. 充电口`
+- > charging cable. 充电线` // usb cable.
+- > charging pile. 充电桩` // ------------------ 【 tree stump. 树桩 n 】 VS 【 charging pile. 充电桩 n 】
+- > tree stump. 树桩`
 - _【 be in charge of. 负责 = be responsible for. 】_
 - 1. **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
 - 2. **【 I need to 【 charge 】 the phone which has 【 no battery 】. 我需要给没有电的手机充电 】** // -- 2. charge 充电
-- 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then plug the charger into the 【 power strip 】. 】**
+- 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then 【 plug 】 the charger into the 【 power strip 】. 】**
 - 4. **【 I 【 was in charge of developing 】 the app. = I was 【 responsible for 】 developing the app. 我负责开发这个 app 】**
 - // -- parking lot. 停车场
 - // -- parking spot. 停车位
@@ -185,14 +68,21 @@
 - `【 individual income tax. 个人所得税 】` = personal income tax.
 - `【 additional tax. 附加税 】`
 - `【 housing property tax. 房产税 】`
+- `【 social security. 社保 = social insurance. 社保 】`
+- `【 stamp duty. 印花税 n 】`
+- `【 custom duty. 关税 n 】`
 - _【 pay tax. 交税 纳税 】_
 - _【 in addition to. 除了 】_ // ---------- 补充
 - _【 except for. 除了 】_ // -------------- 排除
 - 【 housing fund. 住房公积金 】
 - 【 pension 养老金 】
-- **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- > 【 mortgage loan. 房贷 】
+- > 【 car loan. 车贷 】
+- > 【 pay off. 】 VS 【 pay back. 】
+- .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- individual 个人的 单独的 adj
 - // -- personal 个人的 私人的 adj
+- // -- 【 social security. 社保 】= social insurance. 社保
 -
 -
 - [EE.]
@@ -200,6 +90,8 @@
 - `【 owe 欠 v 】`
 - own 拥有 v / 自己的 adj
 - owe 欠 v
+- possess 拥有 占有 持有 v
+- own VS owe VS possess
 - _【 owe money. 欠钱 】_
 - _【 if only. 要是...就好了 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
@@ -233,7 +125,7 @@
 -
 -
 - [GG.]
-- `【 bond 债券 】`
+- `【 bond 债券 】` // -------------------------- 【 band-aid. 创可贴 n 】
 - `【 fund 基金 资金 】`
 - `【 stock 股票 】` // 【 stocking 长筒袜 】// stock market. 股票市场
 - `【 lottery 彩票 】` // lottery ticket. 彩票
@@ -257,7 +149,7 @@
 -
 - [GG1.]
 - `【 share 股份n 分享v 】`
-- **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- .MT **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
 - [GG2.]
 - `【 assets 资产 n 】`
 - `【 property 财产 n 】`
@@ -343,7 +235,7 @@
 - [MM.]
 - `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
-- **【 I will 【 transfer 】 the money to your 【 savings account 】【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
+- **【 I will 【 transfer 】 the money to your 【 savings account 】 【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
 - // -- `right away. 立即`
 - // -- `straight away. 立即`
 - // -- `immediately. 立即`
@@ -352,7 +244,7 @@
 - [NN.]
 - `【 budget 预算 】`
 - `【 consume 消费 消耗 v 】`
-- `【 consumption 消费 消耗 n 】`
+- `【 consumption 消费 消耗 n 】` // -------------- 【 assumption 假设 n 】 【 assume 假设 v 】 【 suppose 认为 假设 v 】
 - _【 go over budget. 超出预算 】_
 - _【 go over budget. 超出预算 】_
 - _【 go over budget. 超出预算 】_
@@ -390,6 +282,7 @@
 - `【 compensation 赔偿 赔偿金 n 】`
 - `【 compensate 赔偿 补偿 弥补 v 】`
 - `【 supplement 补充 v 】`
+- .MT **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】 and 【 refunds 】. 他被裁员后，收到了一大笔赔偿金和退款 】**
 - **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
 - **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
 - // -- lay off. 裁员 v
@@ -542,13 +435,136 @@
 - `【 in advance. 提前 】`
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
+
+##### (1) **Supplement - The words that you mast know.**
+
+- [The-words-which(that)-are-easy-to-forget.容易忘记的词]
+-
+- [-FF.]
+- `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
+- > 【 in installments. 分期付款 adv 】
+- > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】
+- _【 pay in cash. 用现金支付 adv 】_
+- _【 pay in installments. 分期付款 adv 】_
+- .MT **【 You can 【 purchase 】 this TV 【 in installments 】. 你可以分期付款购买这台电视机 】**
+- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
+- .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
+- // -- 【 provide 提供 v 】
+- // -- 【 offer 提供 v / 报价 n 】
+- // -- 【 purchase 购买 v 】
+- // -- 【 apply for a loan. 申请贷款 v 】
+-
+- [-GG.]
+- `【 liability 负债 n = in debt. 】` VS 【 debt. 债务 】
+- `【 ability 能力 n 】`
+- `【 in debt. 欠债 负债 】`
+- _【 in debt. 欠债 负债 = liability. 】_
+- _【 debt 债务 n 】_
+- > 【 repay 偿还 报答 v 】`
+- > 【 pay back. 偿还 v 】
+- > 【 pay off. 还清 v 】
+- .MT **【 【 Debt 】 is a kind of 【 liability 】. 债务是一种负债 】**
+- .HL **【 He has 500 【 thousand 】 yuan 【 in debt 】. 他有 50 万欠债 】**
+- **【 His 【 liabilities 】 are 【 beyond the scope of 】 his 【 ability 】 to 【 repay debts 】. 他的债务超出了他偿还债务的能力范围 】**
+- // -- 【 repay debt. 偿还债务 】
+- // -- 【 beyond the scope of. 超出...的范围 】
+- // TIPS: "500 thousand" is not "500 thousands".
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'liability'. [liability-负债-n]
+-
+- [-FF.]
+- `【 statistic 统计数据 统计 统计学 n 】`
+- `【 statistical 统计的 adj 】` // ----------------- 【 statistic report. 统计报告 】 【 statistic result. 统计结果 】 【 statistic analysis. 统计分析 】
+- > 【 statistical report. 统计报告 n 】
+- > 【 statistical analysis. 统计分析 n 】
+- > 【 statistical result. 统计结果 n 】
+- 【 analyze 分析 v 】
+- 【 analysis 分析 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'analyze'. [analyze-分析-v]
+- // TIPS: Pay attention to the pronunciation of the word 'analysis'. [analysis-分析-n]
+- .MT **【 The 【 statistical report 】 shows the 【 statistical results 】 of the 【 statistical analysis 】. 统计报告显示统计分析的统计结果 】**
+- **【 The 【 statistical report 】 made a 【 statistical analysis 】 and gives the real 【 figures 】 of the 【 employment rate 】 and the 【 unemployment rate 】. 统计报告做了统计分析，给出了就业率和失业率的真实数字 】**
 -
 -
+- [-EE.]
+- `【 freeze 冻结 v n 】`
+- `【 frozen 冻结的 adj / past tense  】`
+- **【 His bank card was 【 frozen 】. 他的银行卡被冻结了 】** // v
+- **【 【 Frozen 】 is the 【 past tense 】 of 【 freeze 】. 'frozen' 是 'freeze' 的过去式 】**
 -
 -
+- [-DD.]
+- `【 security 安全 n 】` // ------------------- 【 ensure security. 保证安全 】 【 social security. 社保 = social insurance. 】
+- `【 safety 安全 n 】` // --------------------- 【 ensure safety. 保证安全 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
+- `【 safe 安全的 adj 】`
+- `【 social security. 社保 】` // --------------【 social welfare. 社会福利 】 【 social status. 社会地位 】 【 social media. 社交媒体 】
+- `【 social insurance. 社保 】`
+- `【 social welfare. 社会福利 n 】`
+- AA.
+- > 【 social welfare. 社会福利 n 】
+- > 【 social security. 社保 n 】 = social insurance. 社保
+- > 【 social status. 社会地位 】
+- > 【 social contradiction. 社会矛盾 】
+- BB.
+- _【 security check. 安检 】_
+- _【 network security. 网络安全 】_
+- _【 information security. 信息安全 】_
+- _【 sense of security 安全感 】_
+- _【 security camera. 监控摄像机 】_
+- .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- .MT **【 The 【 safety rope 】 can 【 ensure safety 】. 安全绳可以确保安全 】**
+- **【 【 Security checks 】 can ensure 【 information security 】 and 【 network security 】, bringing people 【 a sense of security 】. 安检可以保证信息安全和网络安全，给人带来安全感 】**
+- // -- 【 social status. 社会地位 】
+- // -- 【 social media. 社交媒体 】
+- // -- 【 social security. 社保 】= social insurance. 社保
+- // -- 【 social welfare. 社会福利 】
+- // -- 【 welfare state. 福利国家 】
 -
 -
+- [-CC.]
+- `【 welfare 福利 】` // --------【 social welfare. 社会福利 】 【 welfare state. 福利国家 】 //【 social security. 社保 】
+- `【 benefit 好处 益处 利益 】`
+- `【 bonus 奖金 】` // ----------【 performance bonus. 绩效奖金 】
+- `【 performance 绩效 表演 】` // 【 performance bonus. 绩效奖金 】
 -
+- `【 salary 工资 】` ------------- 长期
+- `【 wage 工资 】` --------------- 短期
+- `【 pay 工资 支付 】`
+- `【 bonus 奖金 】` // ---------- 【 performance bonus. 绩效奖金 】
+- `【 reward 奖励 】` // --------- award VS ward VS awkward VS coward VS steward VS forward VS sword
+-
+- > 【 social welfare. 社会福利 】
+- > 【 social status. 社会地位 】
+- > 【 social media. 社交媒体 】
+- > 【 social security. = social insurance. 社保 】
+- MT. **【 The 【 social status 】 【 determines 】 the 【 social welfare 】. 社会地位决定了社会福利 】**
+- .HL **【 The investment needs to be 【 determined 】 by you. 这个投资需要你来决定 】**
+- // -- _【 determine 决定 确定 v 】_
+- // -- _【 It's up to you. 由你决定 v 】_
+- // -- _【 make a decision. 做决定 】_
+- // -- 【 Determine 】 the location of the 【 memory leak 】. // 确定
+-
+-
+- [-BB.]
+- `【 return on investment. 投资回报率 】`
+- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
+-
+-
+- [-AA.]
+- `【 ratio 比例 比率 n 】`
+- `【 proportion 比例 n 】`
+- `【 the proportion of A to B. A和B的比例  】`
+- _【 probability 概率 n 】_
+- _【 ratio 比率 比例 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'proportion'.
+- .MT **【 We should improve the 【 ratio 】 of 【 qualified products 】. 我们应该提高合格产品的比例 】**
+- **【 What's the 【 proportion 】 【 of 】 salary to 【 total 】 revenue? 工资占总收入的比例是多少 】**
+- **【 What's the 【 proportion 】 of local employees 【 recruited 】 【 by 】 company? 公司招聘本地员工的比例是多少？ 】**
+-
+-
+
+##### (2) **Back up.**
+
 - 1
 - `bank 银行 堤岸`
 - `branch 分行 分支 分部`
