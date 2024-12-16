@@ -3,10 +3,12 @@
 ##### (1) **The words that you mast know.**
 
 - [AA.]
-- `【 cost 成本 费用 n 】`
-- `【 profit 利润 盈利  n】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
-- `【 net 净收入 网 n 】` // ------------------- 【 net profit. 净利润 】
-- `【 revenue 收入 n 】` // ------------------- 【 revenue 收入 】
+- `【 cost 成本 费用 n 】` // ------------------ 【 fixed cost. 固定成本 】
+- `【 profit 利润 盈利 n 】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
+- `【 interest 利息 利益 n 】` // -------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 】 // 【 national interest. 国家利益 】
+- > 【 net 净收入 网 n 】` // ------------------- 【 net profit. 净利润 】 // 【 netWork 网络 n 】 VS 【 framework 框架 】
+- > 【 revenue 收入 n 】` // ------------------- 【 revenue 收入 n 】 【 consumption 消费 n 】 VS 【 assumption 假设 n 】 // assume assumption
+- AA.
 - _【 make a profit. 盈利 】_
 - _【 net profit. 净利润 】_
 - > > cost / profit / revenue income / expenditure expense / interest / interest rate. / refund
@@ -17,11 +19,20 @@
 - 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 我勉强可以在股市中盈利 】**
 - // --【 make a profit. 盈利 】
 - // --【 barely 勉强 adv 】
-- // -- _【 stock market. 股市 】_
-- // -- _【 bull market. 牛市 】_
-- // -- _【 bear market. 熊市 】_
-- // -- _【 The 【 bulls 】 were sold to the market and made into 【 beef steak 】. 公牛被卖到市场做成了牛排 】_
-- // -- _【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市有牛市和熊市之分 】_
+- // TIPS: Pay attention to the pronunciation of the word 'net'. [net-净收入-网-n] [network-网络] [framework-框架-n]
+- BB.
+- _【 stock market. 股市 】_
+- _【 bull market. 牛市 】_
+- _【 bear market. 熊市 】_
+- > 【 beef steak. 牛排 n 】
+- bull 公牛 n
+- cow 母牛 n
+- calf 小牛 牛犊子 n
+- **【 The 【 stock market 】 can 【 be divided into 】 【 bull markets 】 and 【 bear markets 】. 股市可以分为牛市和熊市 】**
+- **【 The 【 bulls 】 were sold to the market and made into 【 beef steak 】. 公牛被卖到市场做成了牛排 】**
+- // -- be divided into. 被分成
+- // TIPS: Pay attention to the pronunciation of the word 'steak'. [beef-steak.牛排]
+- // TIPS: Pay attention to the pronunciation of the work 'bull'. [bull-公牛-n]
 -
 -
 - [BB.]
@@ -49,7 +60,10 @@
 - [CC.]
 - `【 discount 打折v 折扣n 】`
 - `【 at a discount. = on sale. 打折 】`
-- `【 counter 柜台 计算器 】`
+- `【 counter 柜台 计算器 】` // ------------------ 【 drugstore counter. 药房柜台 n 】 【 over the counter drugs. 非处方药 n 】
+- > 【 drugstore counter. 药房柜台 n 】
+- > 【 over the counter drugs. 非处方药 】// ------ 【 prescription drugs. 处方药 】
+- > 【 drugstore counter. 药房柜台 】
 - // account 账户
 - // accountant 会计 会计师
 - // counter 柜台
@@ -68,7 +82,7 @@
 - `【 individual income tax. 个人所得税 】` = personal income tax.
 - `【 additional tax. 附加税 】`
 - `【 housing property tax. 房产税 】`
-- `【 social security. 社保 = social insurance. 社保 】`
+- `【 social security. 社保 = social insurance. 社保 】` // social contradiction. // social status. // social media.
 - `【 stamp duty. 印花税 n 】`
 - `【 custom duty. 关税 n 】`
 - _【 pay tax. 交税 纳税 】_
@@ -95,7 +109,7 @@
 - _【 owe money. 欠钱 】_
 - _【 if only. 要是...就好了 】_
 - **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
-- **【 【 If only 】 i could 【 afford 】 this car！ 要是我能买得起这辆车就好了 】**
+- **【 【 If only 】 I could 【 afford 】 this car！ 要是我能买得起这辆车就好了 】**
 - // -- although 虽然 尽管
 - // -- owe 欠
 - // -- own 拥有 v 自己的 adj
@@ -103,19 +117,16 @@
 -
 -
 - [FF.]
-- `【 stable 稳定的 牢固的 】` // 【 steady VS stable 】 // stable unstable
+- `【 stable 稳定的 牢固的 】` // 【 steady VS stable 】 // stable VS unstable
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
-- 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 】**
+- 1. **【 For many people, 【 being 】 a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，做银行职员是一份稳定且体面的工作 】**
 - 2. **【 We need to 【 keep 】 the price 【 stable 】, not let them 【 rise 】 or 【 fall 】. 】**
-- // -- `stable 稳定的`
-- // -- `unstable 不稳定的`
-- // -- `ascend 上升`
-- // -- `descend 下降`
-- // -- `rise 上升`
-- // -- `fall 下降`
-- // -- 【 Rise 】 is the opposite of 【 fall 】.
-- // -- decent 体面的
+- // -- 【 clerk 店员 职员 n 】
+- // -- 【 decent 体面的 adj 】
+- // -- `stable 稳定的` VS `unstable 不稳定的`
+- // -- `ascend 上升` VS `descend 下降`
+- // -- `rise 上升` VS `fall 下降` // --------------- 【 Rise 】 is the opposite of 【 fall 】.
 - // -- 【 steady relationship. 稳定的关系 】
 - // -- 【 stable relationship. 稳定的关系 】
 - // -- 【 steady price. 稳定的价格 】
@@ -125,19 +136,19 @@
 -
 -
 - [GG.]
-- `【 bond 债券 】` // -------------------------- 【 band-aid. 创可贴 n 】
+- `【 bond 债券 纽带 】` // --------------------- 【 band-aid. 创可贴 n 】
 - `【 fund 基金 资金 】`
-- `【 stock 股票 】` // 【 stocking 长筒袜 】// stock market. 股票市场
-- `【 lottery 彩票 】` // lottery ticket. 彩票
-- `【 share 股份n 分享v 】` // market share.市场占有率 // share sth with sb.
-- `【 asset 资产 】` // fixed asset. 固定资产 // current asset. 流动资产
+- `【 stock 股票 】` // -------------------------【 stocking 长筒袜 】// 【 stock market. 股票市场 】
+- `【 share 股份n 分享v 】` // ---------------- **【 market share. 市场占有率 】** // share sth with sb.
+- `【 lottery 彩票 】` // ----------------------- 【 lottery ticket. 彩票 】
+- `【 asset 资产 】` // ------------------------- 【 fixed asset. 固定资产 】 【 current asset. 流动资产 】
 - `【 property 财产 】`
 - // stocking 长筒袜
 - // stock 股票
 - // stock market 股市
 - _【 consider doing sth. 考虑做某事 】_
 - _【 lottery tickets. 彩票 】_
-- 1. **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, tips. and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+- 1. **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
 - 2. **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
 - 3. **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
 - 4. **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
@@ -146,7 +157,6 @@
 - // -- 【 share sth with sb. 分享某物给某人 】
 - // -- `【 consider doing sth. 考虑做某事 】`
 - // -- `【 lottery ticket. 彩票 】`
--
 - [GG1.]
 - `【 share 股份n 分享v 】`
 - .MT **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
@@ -165,10 +175,11 @@
 -
 -
 - [HH.]
-- `【 deposit 存钱 v 存款 n 定金 n 】`
+- `【 deposit 存钱 v 存款 n 定金 n 】` // --------- 【 deposit money. 存钱 v 】
+- `【 withdraw 取钱 v 】` // --------------------- 【 withdraw money. 取钱 v 】 // overdraw VS withdraw VS drawback
 - `【 in advance. 提前 】`
 - // 1. **【 You need to 【 pay 】 the 【 ten 【 percent 】 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10% 押金 】**
-- // 2. **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 【 for 】 【 buying 】 a car. 】**
+- // 2. **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 【 for 】 【 buying 】 a car. 我将取出所有存款来支付买车的定金 】**
 - // -- The machine can 【 deposit money 】 and 【 withdraw money 】.
 - // -- 注意 percent 都是用单数
 - // -- 注意 percent 都是用单数
@@ -193,17 +204,18 @@
 -
 -
 - [KK.]
-- `【 contract 合同 n 】` // -------- 【 sign a contract. 】 【 renew a contract. 】 【 breach of contract. 】 【 terminate a contract. 】 【 labor contract. 】
-- `【 contact 联系 v 】` // --------- 【 emergency contact. 紧急联系人 】 【 contact information. 联系方式 】
-- `【 contrast 对比 对照 v 】` // ---- 【 contrast radio. 对比度 】 // contrast compare
+- `【 contract 合同 n 】` // ----- 【 sign a contract. 】 【 renew a contract. 】 【 breach of contract. 】 【 terminate a contract. 】 【 labor contract. 】
+- `【 contact 联系 v 】` // ------ 【 emergency contact. 紧急联系人 】 【 contact information. 联系方式 】
+- `【 contrast 对比 对照 v 】` // - 【 sharp contrast. 鲜明的对比 】 【 contrast radio. 对比度 】 // contrast compare
 - _【 sign a contract. 签合同 】_
 - _【 renew a contract. 续签合同 】_
-- _【 breach a contract. 违反合同 】_ 【 breach 违反 v n 】 // 【 breach / reach / branch 】 // 【 breach a contract. 违反合同 】 【 breach a protocol. 违反协议 】
+- _【 breach a contract. 违反合同 】_ // 【 breach a protocol. 违反协议 】 //【 breach 违反 v n 】 // 【 breach / reach / branch 】
 - _【 terminate a contract. 终止合同 】_
 - _【 labor contract. 劳动合同 】_
 - _【 contract deadline. 合同期限 】_
 - > 【 emergency contact. 紧急联系人 n 】
 - > 【 contact information. 联系方式 n 】
+- _【 sharp contrast. 鲜明的对比 】_
 - _【 contrast ratio. 对比度 】_
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 -

@@ -318,3 +318,11 @@
 - `【 organize 组织 v 】`
 - `【 apologize 道歉 v 】`
 - `【 realize 认识到 实现 v 】`
+
+###### Must 2024-12-16
+
+- 1
+- `【 framework 框架 n 】`
+- `【 network 网络 n 】`
+- `【 homework 家庭作业 n 】`
+- `【 firework 烟花 n 】`
