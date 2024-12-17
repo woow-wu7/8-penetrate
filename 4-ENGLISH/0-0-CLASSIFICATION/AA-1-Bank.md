@@ -1,6 +1,6 @@
 ##### Bank
 
-##### (1) **【 MUST 】**
+##### (1) **【 MUST - 20 】**
 
 - 1
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
@@ -110,13 +110,12 @@
 -
 -
 -
--
--
 - 2
 - `【 credit card. 信用卡 】`
 - `【 debit card. 借记卡 】` // debit debt
 - _【 roll out. 推出 】_
 - **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
 - // 【 in debt. 欠债 负债 】
 - // 【 debt 债务 】
 - // 【 debit 借记 借方 】
@@ -365,7 +364,6 @@
 - _【 finance department. 财务部门 】_
 - _【 financial statement. 财务报表 】_
 - _【 financial term. 金融术语 】_
-- **【 The 【 finance department 】 【 is responsible for issuing 】 【 financial statement 】. 财务部门负责发布财务报表 】**
 - **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
 -
@@ -405,7 +403,6 @@
 - **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
 - // -- consumption 消费 消耗 n
 - // -- consume 消费 消耗 v
-- //
 - // -- expenditure 支出
 - // -- expense 费用
 - // -- consumption 消耗 小费 n
@@ -418,7 +415,7 @@
 - contrast 对比 对照 v
 - _【 sign a contract. 签合同 】_
 - _【 contract deadline. 合同期限 】_
-- **【 We will 【 contact 】 you to 【 sign 】 the 【 contract 】. 我们将联系您签合同 】**
+  **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 -
 -
