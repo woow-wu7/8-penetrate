@@ -64,9 +64,8 @@
           // The rule for moving the pointer.
           // - move the 【 shorter / lower 】 pointer
           // - Because: If we move the 【 longer / higher 】 pointer, the area will 【 decrease 】, because the area is equal to the 【 base 】 times height.
-          if (heightLeft > heightRight) {
-            right--;
-          } else left++;
+          if (heightLeft > heightRight) right--;
+          else left++;
         }
 
         return maxArea;
