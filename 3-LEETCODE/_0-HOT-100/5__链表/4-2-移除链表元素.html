@@ -46,24 +46,32 @@
       // ( 删除倒数第N个节点 - 滑动窗口 )  19. 删除链表的倒数第 N 个结点 https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 
       // English
-      // -- dummy 假的
+      // -
+      // dummy 假的
+      // -
+      // move backward. 后移 v
+      // -
+      // forward 向前
+      // backward 向后
+      // advance 前进 v
+      // retreat 撤退 v
 
       var removeElements = function (head, val) {
-        const pre = (list = new ListNode(null)); // 新建空节点，空链表。即 dummy 虚拟节点，dummy是假，虚假的的意思
-        pre.next = head; // 空节点指向head，则可以通过 pre.next 遍历整个链表
+        const dummy = (list = new ListNode(null)); // 新建空节点，空链表。即 dummy 虚拟节点，dummy是假，虚假的的意思
+        dummy.next = head; // 空节点指向head，则可以通过 pre.next 遍历整个链表
 
         // let list = pre; // 缓存，便于返回头节点，因为 list 要不断后移
 
         while (list.next) {
           if (list.next.val === val) {
             list.next = list.next.next; // 相当于删除操作；注意对比只删除一个的情况找到就break了 => 3-LEETCODE/2-LINKED_LIST/4-1-删除链表节点.html
-            // break; 没有break是 和 剑指Offer18.删除链表的节点 的区别
+            // break; 没有break是 和 剑指Offer18.删除链表的节点 的区别 // 这里添加break也是可以的
           } else {
             list = list.next; // 后移指针
           }
         }
 
-        return pre.next;
+        return dummy.next;
       };
 
       // --------------------------------------------------------------------------------------------

@@ -37,6 +37,25 @@
       // 注意
       // - 本题不需要借助 dummy 节点，可以直接从head节点开始遍历
 
+      // 方法 1
+      var deleteDuplicates = function (head) {
+        let dummy = (list = new ListNode(null)); // 我们这里还是使用了dummy节点，因为所有删除的题目都保持一致比较好，就是用前一个节点来操作
+        dummy.next = head;
+
+        while (list.next && list.next.next) {
+          if (list.next.val === list.next.next.val) {
+            list.next = list.next.next; // delete
+          } else {
+            list = list.next; // move backward.
+          }
+        }
+
+        return dummy.next;
+      };
+
+      // ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+      // ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+      // 方法 2
       var deleteDuplicates = function (head) {
         if (!head) return head; // 边界 - 空链表，只有一个节点的链表
 

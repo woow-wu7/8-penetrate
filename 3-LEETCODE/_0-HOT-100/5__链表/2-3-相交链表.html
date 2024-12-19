@@ -4,26 +4,21 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>相交链表 Intersection of Two Two Linked Lists.</title>
   </head>
   <body>
     <script>
-      // 160. Intersection of Two Two Linked Lists.
-      // 160. 相交链表
+      // 160. 相交链表 Intersection of Two Two Linked Lists.
       // 剑指 Offer II 023. 两个链表的第一个重合节点
+
+      // 题目
+      // 给你两个单链表的头节点 headA 和 headB ，请你找出并返回两个单链表相交的起始节点。如果两个链表不存在相交节点，返回 null 。
+      // 注意：相交的节点要是同一个内存中的同一个数据，不同地址的不算
 
       // Question
       // Given the heads of two singly linked-lists headA and headB,
       // return the node at which the two lists intersect.
       // If the two linked lists have no 【 intersection 】 at all, return null.
-
-      // English
-      // -- intersection 相交 十字路口 n
-      // -- intersect 相交 v
-
-      // 题目
-      // 给你两个单链表的头节点 headA 和 headB ，请你找出并返回两个单链表相交的起始节点。如果两个链表不存在相交节点，返回 null 。
-      // 注意：相交的节点要是同一个内存中的同一个数据，不同地址的不算
 
       /**
        * @param {ListNode} headA
@@ -47,16 +42,33 @@
       //    - 相交: 相等，相遇点就是相交点
       //    - 不相交: a和b都都走完了，即都是null，也满足相等，但不相交，返回null，满足题目意思
 
+      // English
+      // -
+      // intersection 相交 十字路口 n
+      // intersect 相交 v
+      // -
+      // 【 intersection point. 相交点 】
+      // -
+      // intersection ------- intersection point.
+      // interaction -------- interaction design.
+      // junction ----------- junction station.
+      // conjunction -------- You can lean the file in conjunction with that file.
+      // -
+      // single 单个的 单身的 adj
+      // singly 单独地 独自地 adv
+      // -
+      // 【 singly linked list. 单链表 】
+
       var getIntersectionNode = function (headA, headB) {
-        let l1 = headA;
-        let l2 = headB; // 这里必须缓存 headA 和 headB，因为走完后，后面还要用 headA和headB
+        let la = headA;
+        let lb = headB; // 这里必须缓存 headA 和 headB，因为走完后，后面还要用 headA和headB
 
-        while (l1 !== l2) {
-          if (l1 === null) l1 = headB; // l1走完headA，不相等，就继续走 headB
-          else l1 = l1.next; // 不断往后走
+        while (la !== lb) {
+          if (la === null) la = headB; // l1走完headA，不相等，就继续走 headB
+          else la = la.next; // 不断往后走
 
-          if (l2 === null) l2 = headA;
-          else l2 = l2.next;
+          if (lb === null) lb = headA;
+          else lb = lb.next;
         }
 
         // l1 === l2，说明都是 null 或者 相交点
