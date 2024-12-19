@@ -48,6 +48,20 @@
       // - 1. 删除倒数第k个节点
       // - 2. 链表中倒数第k个节点
 
+      // English
+      // -
+      // former 前者 n
+      // latter 后者 n
+      // -
+      // 【 later 后来 adv adj 】
+      // 【 latter 后者 n 】
+      // -
+      // 【 previous 之前的 先前的 adj 】
+      // 【 former 前者 n 】
+      // -
+      // TIPS: Pay attention to the pronunciation of the word 'later'. [later-后来]
+      // TIPS: Pay attention to the pronunciation of the word 'latter'. [latter-后者]
+
       // ------------------------------------------------------------
       // ------------------------------------------------------------
       // ------------------------------------------------------------
@@ -58,6 +72,9 @@
         let fast = (slow = head);
 
         // 使得 fast 和 slow 之间相隔 k 个位置，这样整体移动fast和slow，slow位置就是倒数k个节点，即滑动窗口
+        // Note:
+        // -- If we don't need to delete the "Node", we don't need to add ( k+1 )
+        // -- Please compare the "4-4-链表中倒数第k个节点" and the "4-4-删除链表的倒数第N个结点". Former is k and latter is k+1
         while (k) {
           fast = fast.next;
           k--;

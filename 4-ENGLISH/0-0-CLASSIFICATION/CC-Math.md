@@ -32,6 +32,8 @@ triangle 三角形
 // -- 2. isosceles 等腰的
 // ---- denote 表示 指示 v
 // ---- The red triangle denotes danger. 红色三角形表示危险
+// - The area of a triangle is half of the product of the base times the height.
+// - The area of a triangle is equal to one half of the product of the base times the height.
 
 rectangle 矩形 长方形
 // He handed me a little rectangle of white paper. 他递给我一张小小的长方形白纸片
