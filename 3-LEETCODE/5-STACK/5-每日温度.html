@@ -48,9 +48,8 @@
           const cur = temperatures[i];
 
           while (stack.length && cur > temperatures[stack.at(-1)]) {
-            const top = stack.at(-1);
+            const top = stack.pop();
             res[top] = i - top;
-            stack.pop();
           }
 
           // 当前比较的元素 <= 栈顶元素，入栈
