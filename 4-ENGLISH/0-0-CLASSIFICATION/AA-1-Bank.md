@@ -136,6 +136,7 @@
 -
 -
 -
+-
 - 2
 - `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】
 - `【 debit card. 借记卡 】` // --------------- 【 debit 借记 VS debt 债务 】
@@ -158,6 +159,7 @@
 -
 -
 -
+-
 - 3
 - `【 savings account. 储蓄帐户 】`
 - `【 checking account. 支票账户 】`
@@ -177,7 +179,8 @@
 - `【 pack back. 偿还 归还 】`
 - `【 repay 报答 v 】`
 - `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
-- > debt 债务 欠款 n
+- `【 refund 退款 v n 】` // ------------------ 【 found VS fun VS fund VS refund 】
+- > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
 - > receipt 收据 发票 n
 - > 【 bad debt. 坏账 】
 - > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
@@ -229,32 +232,40 @@
 -
 -
 - 6
-- `fund 基金`
-- `pension 养老金`
+- `【 fund 基金 】` // ------------------------ 【 housing fund. 住房公积金 】 【 education fund. 教育基金 】 // 【 found VS fun VS fund VS refund 】
+- `【 pension 养老金 】`
 - _【 housing fund. 住房公积金 】_
 - _【 education fund. 教育基金 】_
 - _【 pension 养老金 】_
-- _【 mortgage loan. 房贷 】_
+- _【 social security. 社保 n 】_
+- _【 social insurance. 社保 n 】_ = social security. 社保 n
+- > 【 mortgage loan. 房贷 】
+- > 【 car loan. 车贷 】
+- _【 stamp duty. 印花税 n 】_
+- _【 customs duty. 关税 n 】_ // ------------- 【 customs 海关 关税 】 【 custom 习俗 n / 定制的 adj 】 // 【 custom VS customs 】
+- _【 individual income tax. 个人所得税 n 】_
+- _【 pay tax. 交税 v 】_
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - // --【 post office. 邮局 】
 - // -- postman 邮递员
 - // -- postcard 明信片
 - // -- mail 邮件
-- // -- stamp 邮票 邮戳
-- // --【 letter 信 字母 】
+- // -- stamp 邮票 邮戳 // -------------------- 【 stamp duty.印花税 】
+- // --【 letter 信 字母 】 // ----------------- 【 cover letter. / resignation letter. / capital letter. / anonymous letter. / complaint letter. 】
 - // TIPS: Pay attention to the pronunciation of the word 'housing'.
 -
 -
 -
 - 7
-- `interest 利息 兴趣 n`
-- `interest rate. 利率`
-- `annual interest rate. 年利率`
-- `weekly interest rate. 周利率`
-- `birth rate. 出生率`
-- `death rate. 死亡率`
-- _【 annual bonus. 年终奖 】_
+- `【 interest 利息 兴趣 n 】` // --------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 n 】
+- `【 interest rate. 利率 】`
+- `【 annual interest rate. 年利率 】`
+- `【 weekly interest rate. 周利率 】`
+- `【 birth rate. 出生率 】`
+- `【 death rate. 死亡率 】`
+- _【 annual bonus. 年终奖 n 】_
+- _【 performance bonus. 绩效奖金 n 】_
 - `salary 薪水` // -------- 长时间
 - `wage 工资` // ---------- 短时间
 - `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
@@ -263,11 +274,11 @@
 - `benefit 福利`
 - `performance 绩效 表演`
 -
+- .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
 - **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
 - **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
-- **【 The company's【 benefit 】includes【 performance bonuses 】 and【 medical insurance 】. 福利包括绩效奖金和医疗保险 】**
 - **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
 - // minutely 每分钟的
 - // hourly 每小时的 adj
@@ -284,48 +295,41 @@
 -
 -
 - 8
-- `revenue 收入 n` ------------ 不可数名词
-- `income 收入 n` ------------- 不可数名词
-- **【 expenditure = expense 费用 支出 】**
+- `【 revenue 收入 n 】` ----------------------- 不可数名词
+- `【 income 收入 n 】` ------------------------ 不可数名词
+- **【 expenditure = expense 费用 支出 n 】**
 - `expenditure 费用 支出` -------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
 - `expense 费用 支出 v n` -------- 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
 - `expensive 昂贵的 adj`
 - _【 expensive expense. 昂贵的费用 】_
 -
-- `consume 消费 消耗 v`
+- `consume 消费 消耗 v` // -------------------- 【 consume 消费 v 】 VS 【 assume 假设 v 】 // 【 assume = suppose. 假设 v 】
 - `consumption 消费 消耗 n`
--
-- _【 mortgage loan. 房贷 】_ // mortgage loan. = house loan. = home loan.
-- _【 car loan. 车贷 】_
 -
 - > avenue 大街
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
 -
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
--
 - **【 What's the 【 proportion 】 of salary to total revenue? 工资占总收入的比例是多少 】**
--
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
 - **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
--
 - balance 平衡
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
--
 - **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
 - **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
--
 - // -- `mortgage loan. 房贷`
 - // -- `car loan. 车贷`
 -
 -
 -
+-
 - 9
-- `balance 余额 平衡 n`
+- `【 balance 余额 平衡 n 】`
 - _【 check balance. 查看余额 】_
 - _【 balance sheet. 资产负债表 】_
 - balance 余额
-- **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
+- .MT **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
 - balance 平衡
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
 -
@@ -354,26 +358,28 @@
 -
 -
 - 11
-- `applicant 申请人`
-- **【 For this 【 position 】, the 【 applicant 】 is applying for a loan and driver's license. 】**
+- `【 applicant 申请人 】`
+- **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
+-
 -
 -
 - 12
-- `transaction 交易`
+- `【 transaction 交易 】`
 - `fee 费用`
 - `fare 票价`
 - _【 transaction successful. 交易成功 】_
-- **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- .MT **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
 - // complete 完成 v
 - // TIPS: Pay attention to the pronunciation of the word 'transaction'.
 - // TIPS: Pay attention to the pronunciation of the word 'completed'.
 -
 -
+-
 - 13
-- `receipt 收据 发票`
+- `【 receipt 收据 发票 】`
 - > receipt
 - > debt
-- **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
 - // -
 - // proof 证明 证据 n
 - // debt 收据
@@ -389,64 +395,59 @@
 - // ceil 天花板
 -
 -
+-
 - 14
-- `stock 股票`
-- `stock market. 股票市场`
-- `stocking 长筒袜`
+- `【 stock 股票 】`
+- `【 stock market. 股票市场 】`
+- `【 stocking 长筒袜 】`
 - > stock bond fund share
 - stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
 - _【 stock market. 股票市场 】_
-- **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
-- **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+- .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
+- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
 -
 -
+-
 - 15
-- `finance 金融 资金 财务 n`
-- `financial 金融的 财务的 adj`
-- _【 finance department. 财务部门 】_
-- _【 financial statement. 财务报表 】_
-- _【 financial term. 金融术语 】_
-- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+- `【 currency 货币 】`
+- `【 cash 现金 】` // cash cache
+- `【 bill 账单 钞票 】`
+- `【 coin 硬币 】` // coin corn
+- `【 cheque 支票 】`
+- .MT **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
+- // -- current 当前的
+- // -- currency 货币
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+-
 -
 -
 - 16
-- `currency 货币`
-- `cash 现金` // cash cache
-- `bill 账单 钞票`
-- `coin 硬币` // coin corn
-- `cheque 支票`
-- **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
-- // -- current 当前的
-- // -- currency 货币
+- `【 wallet 钱包 】` ------------ 小
+- `【 purse 钱包 资金 】` --------- 大，书面语，多用于女性
+- .MT **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
 -
 -
 -
 - 17
-- `wallet 钱包` ------------ 小
-- `purse 钱包 资金` --------- 大，书面语，多用于女性
-- **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
--
--
-- 18
-- `transfer 转移 转让 换乘`
+- `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
-- **【 I will 【 transfer 】 the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上 】**
+- .MT **【 I will 【 transfer 】 the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上 】**
 - // -- `right away. 立即`
 - // -- `straight away. 立即`
 - // -- `immediately. 立即`
 -
 -
 -
-- 19
-- `budget 预算`
+- 18
+- `【 budget 预算 】`
 - _【 go over budget. 超出预算 】_
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
-- **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
+- .MT **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
 - // -- consumption 消费 消耗 n
 - // -- consume 消费 消耗 v
 - // -- expenditure 支出
@@ -455,14 +456,29 @@
 -
 -
 -
-- 20
-- `contract 合同 n`
-- `contact 联系 v`
-- contrast 对比 对照 v
+- 19
+- `【 contract 合同 n 】` // ------------------------ 【 sign a contract. 签合同 v 】
+- `【 contact 联系 v 】` // ------------------------- 【 contact details. 联系方式 n 】
+- `【 contrast 对比 对照 v n 】` // ------------------ 【 contrast ratio. 对比度 n 】
 - _【 sign a contract. 签合同 】_
 - _【 contract deadline. 合同期限 】_
-  **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
+- .MT **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
+-
+-
+-
+- 20
+- `finance 金融 资金 财务 n`
+- `financial 金融的 财务的 adj`
+- _【 finance department. 财务部门 】_
+- _【 financial statement. 财务报表 】_
+- _【 financial term. 金融术语 】_
+- **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+-
+-
+-
+- ==============================================================================
+- ==============================================================================
 -
 -
 -
