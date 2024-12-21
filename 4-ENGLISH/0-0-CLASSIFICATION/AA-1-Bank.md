@@ -139,31 +139,36 @@
 - 2
 - `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】
 - `【 debit card. 借记卡 】` // --------------- 【 debit 借记 VS debt 债务 】
+- `【 on credit. 赊账 】`
 - > 【 credit 信用 赊购 】
 - > 【 on credit. 赊账 】
 - > 【 credit card. 信用卡 】
 - _【 roll out. 推出 】_
 - .MT **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
-- .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
+- .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
+- .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月推出一款新手机 】**
 - // 【 in debt. 欠债 负债 】
 - // 【 debt 债务 】
 - // 【 debit 借记 借方 】
 - // 【 debate 争论 讨论 】
 - // -- credit 信用 信贷
 - // -- debit 借记 借方
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'debit'. [debit-借记-n] [debit-card.借记卡]
 -
 -
 -
 - 3
-- `checking account. 支票账户`
-- `savings account. 储蓄帐户`
-- `【 account 账户 】`
-- `【 accountant 会计 会计师 】`
-- **【 There are 【 two kinds of accounts 】: a 【 checking account 】 and a【 savings account. 】**
-- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
+- `【 savings account. 储蓄帐户 】`
+- `【 checking account. 支票账户 】`
+- > 【 account 账户 】`
+- > 【 accountant 会计 会计师 】`
+- .MT **【 There are 【 two kinds of accounts 】: 【 savings account 】and【 checking account 】**
+- .MT **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 - // -- a kind of. 一种
 - // -- two kinds of. 两种
+- // -- interest 兴趣 利息 利益
 -
 -
 -
@@ -171,9 +176,13 @@
 - `【 pay off. 还清 】`
 - `【 pack back. 偿还 归还 】`
 - `【 repay 报答 v 】`
-- **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
-- > debt 债务
-- > receipt 收据 发票
+- `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
+- > debt 债务 欠款 n
+- > receipt 收据 发票 n
+- > 【 bad debt. 坏账 】
+- > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
+- // TIPS: Pay attention to the pronunciation of the word 'debt'.
+- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
 - > 【 in debt. 欠债 负债 】
 - > 【 debit 借记 借方 】
 - > 【 debate 争论 讨论 】
@@ -183,25 +192,33 @@
 - **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
 - pay back.
 - **【 You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年的时间里【偿还】这笔贷款 】**
+- repay
+- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
 -
 -
 -
 - 5
-- `deposit 存钱v 存款n 押金n`
-- `deposit money. 存钱`
-- `withdraw money. 取钱`
+- `【 deposit 存钱v 存款n 押金n 】`
+- `【 deposit money. 存钱 】`
+- `【 withdraw money. 取钱 】`
+- > 【 withdraw 取 提取 v 】 // ---------------- 【 withdraw money. 取钱 v 】
+- > 【 overdraw 透支 v 】 // ------------------ 【 【 overdraw on 】 a credit card. 透支信用卡 v 】
+- _【 overdraw on. 透支... 】_
+- _【 deposit slip. 存款单 】_
+- .MT **【 He started to 【 overdraw on 】 his 【 credit card 】 after 【 withdrawing 】 all his money 【 from 】 his 【 debit card 】. 他取完借记卡里的所有钱后，又开始透支信用卡 】**
+- .MT **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for【 buying 】 a car. 我将取所有存款去付买车的押金 】**
+- .MT **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
 - deposit money. = put in money. = save up money. 存钱
 - withdraw money. = take out money.
-- _【 deposit slip. 存款单 】_
 -
 - AA.
 - deposit 存款 n
 - deposit 押金
-- **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for【 buying 】 a car. 取所有存款去付买车的押金 】**
-- **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
+- .MT **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for【 buying 】 a car. 取所有存款去付买车的押金 】**
+- .MT **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
 -
 - **【 How much 【 deposit 】 do you have? 你有多少存款 】**
-- **【 【 fill out 】 a 【 deposit slip 】. 】**
+- **【 【 fill out 】 a 【 deposit slip 】. 请填写存款单 】**
 - BB.
 - deposit 存钱 v
 - **【 The machine can 【 deposit money 】 and 【 withdraw money 】. 这个机器可以存钱和取钱 】**

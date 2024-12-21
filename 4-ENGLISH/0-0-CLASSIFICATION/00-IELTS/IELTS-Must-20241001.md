@@ -150,7 +150,7 @@
 - > 【 overcome shortcoming. 克服缺点 】 【 overcome setback. 克服挫折 】 【 encounter setback. 遇到挫折 】 【 serious setback. 严重挫折 n 】
 - _【 shortcoming 缺点 短处 n 】_ // ------------ short 短 // 【 acknowledge shortcoming. 承认缺点 】 【 expose shortcoming. 暴露缺点 】
 - _【 weakness 缺点 弱点 n 】_ // --------------- weak 弱
-- _【 drawback 缺点 n 】_ // -------------------- 【 minor drawback. 小缺点 】
+- _【 drawback 缺点 n 】_ // -------------------- 【 minor drawback. 小缺点 】 // drawback VS withdraw VS overdraw
 - _【 disadvantage 劣势 缺点 n 】_
 - 【 strength 体力 强度 力量 长处 】// ------------ `【 have no strength. 没有实力 】` // 【 recover physical strength. 恢复体力 】
 - 【 advantage 优势 优点 有力条件 n 】 // --------- 【 advantage point. 有利位置 】

@@ -327,6 +327,7 @@
 - > 【 minor drawback. 小缺点 n 】
 - _【 draw 绘画 抽签 v 】_
 - _【 overdraw 透支 v 】_ // ----------------- 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 n 】
+- _【 withdraw 取 提取 v 】_ // -------------- 【 withdraw money. 取钱 v 】
 - _【 drawback 缺点 】_ // ------------------- 【 minor drawback. 小缺点 n 】
 - _【 minor drawback. 小缺点 】_
 - // 【 I have a 【 credit card 】, but I never 【 overdraw 】. 我有信用卡，但是我从来都不用透支的 】
@@ -787,6 +788,8 @@
 - > 【 minor drawback. 小缺点 n 】
 - > 【 overdraw your body. 透支你的身体 】 【 overdraw credit card. 透支信用卡 】
 - > 【 lottery draw. 抽奖 】
+- _【 overdraw 透支 v 】_ // --------------------- 【 overdraw on a credit card. 透支信用卡 v 】
+- _【 withdraw 取 提取 v 】_ // ------------------- 【 withdraw money. 取钱 v 】
 -
 - `【 backup 备份 n 】` // ------------------------ 【 back up. 备份 v 】 【 backup. 备份 n 】
 - `【 backtrack 回溯 v 】` // --------------------- 【 track 追踪 v / 轨道 n 】 // 【 trace 追踪 v / 痕迹 n 】
