@@ -4,7 +4,7 @@
 
 - 1
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
-- `【 branch 分行 分支 分部 】` // ----------- `【 branch office. 分公司 分店 】 ` 【 branch bank. 分行 】
+- `【 branch 分行 分支 分部 】` // ------------ 1. _【 branch office. 分公司 分店 】_ 2. _【 branch bank. 分行 】_
 - `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankrupt VS erupt VS corrupt VS interrupt 】
 - _【 bank clerk. 银行职员 】_
 - _【 bank teller. 银行出纳员 】_
@@ -12,26 +12,52 @@
 - _【 banking term. 银行术语 】_ // ---------- 【 financial term. 金融术语 】 【 financial statement. 财务报表 】 【 finance department. 财务部门 】
 - > 【 power bank. 充电宝 】 // --------------【 power strip. 插线板 n 】 // strip socket outlet
 - > 【 river bank. 河岸 】
-- > 【 merchant bank. 商业银行 】` // -------- 【 merchant 商人 n 】
-- > 【 branch bank. 分行 】 // -------------- 【 branch office. 分公司 分店 n 】
-- **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
-- **【 For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
-- **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
-- **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
-- **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
-- **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
+- > 【 merchant bank. 商业银行 】` // --------【 merchant ship. 商船 】 // 【 merchant 商人 n 】
+- > 【 branch bank. 分行 】 // ------------- 【 branch office. 分公司 分店 n 】
+- 【 power 力 力量 功率 权利 】
+- 【 power strip. 插线板 】
+- 【 power bank. 充电宝 】
+- 【 power source. 电源 】
+- 【 power consumption. 功耗 】
+- 【 power station. 发电厂 】
+- 【 power outage. 断电 停电 】
+- // 【 rated power. 额定功率 】
+- // 【 rate current. 额定电流 】
+- // 【 rate voltage. 额定电压 】
+- // 【 rated 额定的 adj / rate 的过去式 】
+- > 【 joint 关节 n / 联合的 adj 】
+- > 【 joint venture. 合资企业 】 // ---------- 【 venture 商业 n 冒险 v 】
+- > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】
+- > 【 issue a joint statement. 发表联合声明 】
+- > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】\_
+- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
+- // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
+- .MT **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
+- .MT **【 For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
+- .MT **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .MT **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
+- .MT **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+- .MT **【 The 【 accountant 】 【 is responsible for 】 preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
+- // -- decent 体面的 adj
+- // -- stable 稳定的 = steady.
+- // -- 【 roll out. 推出 v 】
+- // -- _【 put off. 推迟 延期 v 】= postpone. 推迟 v_
+- // -- _【 postpone 推迟 延期 v 】_
+- // -- 【 wall outlet. 壁式插座 】
+- // -- annual 每年的 年度的 adj
 -
 - `band 乐队 带子` // ---------------------- 【 band aid. 创可贴 】 【 first-aid. 急救 】 【 first-aid kit. 急救箱 】 【 hearing-aid. 助听器 】
 - `brand 品牌 商标` // --------------------- 【 brand new. 崭新的 adj 】
 - // fun fund refund found
 - // fund pension
-- // _【 housing fund. 住房公积金 】_
 - // _【 education fund. 教育基金 】_
+- // _【 housing fund. 住房公积金 】_
 - // _【 mortgage loan. 房贷 】_
 - // _【 car loan. 车贷 】_
+- .MT **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
 - .MT **【 This is a 【 brand new 】 【 brand 】. 这是一个崭新的品牌 】**
 - .MT **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
-- .MT **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
+- // -- wrap wound. 包扎伤口
 -
 - > [detailed-distinction][Must 2024-11-24](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 - > Citibank 花旗银行
@@ -111,11 +137,14 @@
 -
 -
 - 2
-- `【 credit card. 信用卡 】`
-- `【 debit card. 借记卡 】` // debit debt
+- `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】
+- `【 debit card. 借记卡 】` // --------------- 【 debit 借记 VS debt 债务 】
+- > 【 credit 信用 赊购 】
+- > 【 on credit. 赊账 】
+- > 【 credit card. 信用卡 】
 - _【 roll out. 推出 】_
-- **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
-- **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
+- .MT **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月【 推出 】一款新手机 】**
 - // 【 in debt. 欠债 负债 】
 - // 【 debt 债务 】
 - // 【 debit 借记 借方 】
