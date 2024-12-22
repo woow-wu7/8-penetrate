@@ -1,6 +1,6 @@
 ##### Bank
 
-##### (1) **【 MUST - 20 】**
+##### (1) **【 MUST - 21 】**
 
 - 1
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
@@ -30,11 +30,20 @@
 - > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】 // 【 issue a joint statement. 发表联合声明 】
 - > 【 issue a joint statement. 发表联合声明 】
 - > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】
-- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
+- 【 merchant 商人 n / 商业的 商人的 adj 】
+- 【 merchant ship. 商船 】 // ---------------- 【 pirate ship. 海盗船 n 】 【 warship 战舰 】
+- 【 merchant bank. 商业银行 】
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
 - .MT **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
 - .MT **【 For many people, being a【 bank clerk 】 is a 【 stable 】 and 【 decent 】 job. 对许多人来说，银行职员是一份稳定又体面的工作 】**
-- .MT **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - .MT **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
 - .MT **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 - .MT **【 The 【 accountant 】 【 is responsible for 】 preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
@@ -47,7 +56,7 @@
 - // -- 【 wall outlet. 壁式插座 】
 - // -- annual 每年的 年度的 adj
 -
-- `band 乐队 带子` // ---------------------- 【 band aid. 创可贴 】 【 first-aid. 急救 】 【 first-aid kit. 急救箱 】 【 hearing-aid. 助听器 】
+- `band 乐队 带子` // ---------------------- 【 band-aid. 创可贴 】 【 first-aid. 急救 】 【 first-aid kit. 急救箱 】 【 hearing-aid. 助听器 】
 - `brand 品牌 商标` // --------------------- 【 brand new. 崭新的 adj 】
 - // fun fund refund found
 - // fund pension
@@ -57,7 +66,7 @@
 - // _【 car loan. 车贷 】_
 - .MT **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
 - .MT **【 This is a 【 brand new 】 【 brand 】. 这是一个崭新的品牌 】**
-- .MT **【 He uses the 【 band aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
+- .MT **【 He uses the 【 band-aid 】 and the 【 bandage 】 in the 【 first aid kit 】 to 【 wrap 】 the 【 wound 】. 他用急救箱中的创口贴和绷带包裹伤口 】**
 - // -- wrap wound. 包扎伤口
 -
 - > [detailed-distinction][Must 2024-11-24](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
@@ -76,7 +85,7 @@
 - BB.
 - `fun 有趣的`
 - `fund 基金`
-- `refund 退款 退还 v n`
+- `refund 退款 退还 v n` // refund VS repay VS compensation
 - `found 创建 创立 v`
 - **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】** // found fun fund
 - **【 I got a 【 refund 】 for the 【 broken 】 【 items 】. 我收到了破损物品的退款 】** // refund
@@ -139,7 +148,7 @@
 -
 -
 - 2
-- `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】
+- `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】 【 on credit. 赊账 】
 - `【 debit card. 借记卡 】` // --------------- 【 debit 借记 VS debt 债务 】
 - `【 on credit. 赊账 】`
 - > 【 credit 信用 赊购 】
@@ -166,7 +175,7 @@
 - `【 checking account. 支票账户 】`
 - > 【 account 账户 】`
 - > 【 accountant 会计 会计师 】`
-- 【 county / country / countryside / count / discount / counter / encounter ~ suffer / account / accountant 】
+- > 【 county / country / countryside / count / discount / counter / encounter ~ suffer / account / accountant 】
 - .MT **【 There are 【 two kinds of accounts 】: 【 savings account 】and【 checking account 】**
 - .MT **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
@@ -179,12 +188,13 @@
 - 4
 - `【 deposit 存钱v 存款n 押金n 】` // --------- 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
 - `【 deposit money. 存钱 】` // -------------- 【 deposit slip. 存款单 n 】
-- `【 withdraw money. 取钱 】`
+- `【 withdraw money. 取钱 】` // ------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - `【 deposit slip. 存款单 n 】`
-- > 【 withdraw 取 提取 v 】 // ---------------- 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
-- > 【 overdraw 透支 v 】 // ------------------ 【 【 overdraw on 】 a credit card. 透支信用卡 v 】
+- > 【 withdraw 取 提取 v 】 // --------------- 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
+- > 【 overdraw 透支 v 】 // ------------------ 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】
 - _【 overdraw on. 透支... 】_
 - _【 deposit slip. 存款单 】_
+- // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
 - .MT **【 He started to 【 overdraw on 】 his 【 credit card 】 after 【 withdrawing 】 all his money 【 from 】 his 【 debit card 】. 他取完借记卡里的所有钱后，又开始透支信用卡 】**
 - .MT **【 I will 【 withdraw 】 all the 【 deposit 】 to 【 pay 】 the 【 deposit 】 for【 buying 】 a car. 我将取所有存款去付买车的押金 】**
 - .MT **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
@@ -212,8 +222,9 @@
 - `【 income 收入 n 】` ------------------------ 不可数名词
 - `【 expenditure 费用 支出 n 】` -------------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
 - `【 expense 费用 支出 n 】` ------------------ 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
-- **【 expensive 昂贵的 adj 】**
-- **【 expenditure = expense 费用 支出 n 】**
+- **【 expenditure = expense 支出 费用 n 】**
+- **【 revenue = income 收入 n 】**
+- _【 expensive 昂贵的 adj 】_
 - _【 expensive expense. 昂贵的费用 】_
 -
 - `consume 消费 消耗 v` // -------------------- 【 consume 消费 v 】 VS 【 assume 假设 v 】 // 【 assume = suppose. 假设 v 】
@@ -250,14 +261,21 @@
 -
 -
 - 7
-- `【 interest 利息 兴趣 n 】` // --------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 n 】
+- `【 interest 利息 利益 兴趣 n 】` // ---------- 【 interest rate. 利率 n 】 【 national interest. 国家利益 n 】 // 【 interest VS invest 】
 - `【 interest rate. 利率 】`
 - `【 annual interest rate. 年利率 】`
 - `【 weekly interest rate. 周利率 】`
-- `【 birth rate. 出生率 】`
-- `【 death rate. 死亡率 】`
+- `【 birth rate. 出生率 】` // ---------------- 【 birth 出生 诞生 n 】 // ----【 born 出生 v 】
+- `【 death rate. 死亡率 】` // ---------------- 【 death 死 n 】 // --------- 【 die 死 v 】
 - _【 annual bonus. 年终奖 n 】_
 - _【 performance bonus. 绩效奖金 n 】_
+- > 【 invest 投资 v 】
+- > 【 interest 兴趣 利息 利益 n 】 // --------- 【 interest rate. 利率 n 】 【 national interest. 国家利益 n 】
+- > 【 national interest. 国家利益 】
+- > 【 national assets. 国有资产 】
+- > 【 National Day. 国庆节 】
+- > 【 national flag. 国旗 】
+- > 【 national anthem. 国歌 】
 - `salary 薪水` // -------- 长时间
 - `wage 工资` // ---------- 短时间
 - `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
@@ -266,12 +284,25 @@
 - `benefit 福利`
 - `performance 绩效 表演`
 -
+- // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
+- // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+-
+- .HL **【 He 【 was born in 】 China and 【 died in 】 【 United State 】. 他出生在中国，死在美国 】**
 - .MT **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
 - **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
 - **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
 - **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
+- // `【 be born in. 出生在... 】`
+- // `【 die in. 死在... 】`
+- // `【 United States. 美国 n 】`
 - // minutely 每分钟的
 - // hourly 每小时的 adj
 - // daily 每日的 adj
@@ -309,7 +340,14 @@
 - // -- mail 邮件
 - // -- stamp 邮票 邮戳 // -------------------- 【 stamp duty.印花税 】
 - // --【 letter 信 字母 】 // ----------------- 【 cover letter. / resignation letter. / capital letter. / anonymous letter. / complaint letter. 】
-- // TIPS: Pay attention to the pronunciation of the word 'housing'.
+- // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
+- // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
 -
 -
 -
@@ -326,12 +364,25 @@
 - .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 - .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
 -
 -
 -
 - 10
-- `【 loan 贷款 】` // ----------------------- 【 mortgage loan. 房贷 n 】 【 car loan. 车贷 n 】
-- `【 debt 债务 】`
+- `【 share 股份 分享 n 】`
+- `【 bond 债券 纽带 n 】`
+- `【 fund 基金 n 】`
+- `【 stock 股票 n 】` // ------------------- 【 stock market. 股票市场 】
+- `【 lottery 彩票 n 】` // ----------------- 【 lottery ticket. 彩票 n 】
+- .MT **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- .MT **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
+- .MT **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】**
+-
+-
+-
+- 11
+- `【 loan 贷款 】` // ---------------------- 【 mortgage loan. 房贷 n 】 【 car loan. 车贷 n 】
+- `【 debt 债务 】` // ---------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 】
 - **【 take out a loan. 贷款 】**
 - **【 apply for a loan. 申请贷款 】**
 - **【 mortgage loan. 房贷 】**
@@ -347,12 +398,19 @@
 - _【 apply for a driver's license. 申请驾照 】_
 - _【 license plate. 车牌 】_
 - **【 The new 【 loan 】 takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元 】**
-- // TIPS: Pay attention to the pronunciation of the word 'debt'.
+- // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
+- // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
+- // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
+- // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
 -
 -
 -
 -
-- 11
+- 12
 - `【 pay off. 还清 】`
 - `【 pack back. 偿还 归还 】`
 - `【 repay 报答 v 】`
@@ -378,13 +436,13 @@
 -
 -
 -
-- 12
+- 13
 - `【 applicant 申请人 】`
 - **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
 - // -- driver's license. 驾驶证 n
 -
 -
-- 13
+- 14
 - `【 transaction 交易 】`
 - > fee 费用
 - > fare 票价
@@ -396,11 +454,11 @@
 -
 -
 -
-- 14
+- 15
 - `【 receipt 收据 发票 n 】`
 - `【 invoice 发票 n 】`
-- > receipt
-- > debt
+- > 【 receipt VS debt 】
+- > 【 approve / improve / prove / proof 】
 - .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
 - // -
 - // proof 证明 证据 n
@@ -419,7 +477,7 @@
 -
 -
 -
-- 15
+- 16
 - `【 currency 货币 】`
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
@@ -432,7 +490,7 @@
 -
 -
 -
-- 16
+- 17
 - `【 wallet 钱包 】` ------------ 小
 - `【 purse 钱包 资金 】` --------- 大，书面语，多用于女性
 - wallet VS wall
@@ -440,17 +498,17 @@
 -
 -
 -
-- 17
+- 18
 - `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
 - .MT **【 I will 【 transfer 】 the money to your 【 savings account 】 【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
-- // -- `right away. 立即`
 - // -- `straight away. 立即`
+- // -- `right away. 立即`
 - // -- `immediately. 立即`
 -
 -
 -
-- 18
+- 19
 - `【 budget 预算 】`
 - _【 go over budget. 超出预算 】_
 - > 【 revenue interest balance budget debt loan 】
@@ -998,7 +1056,7 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **The words that you mast know.**
+##### (1) **【 MUST - Supplement 】- The words that you mast know.**
 
 - [AA.]
 - `【 cost 成本 费用 n 】` // ------------------ 【 fixed cost. 固定成本 】
@@ -1446,7 +1504,7 @@ fill out. 填写
 - // **【 You need to pay the 【 ten percent 】 deposit 【 in advance 】 . 你需要提前支付 10%押金 】**
 - // She finished the work 【 in advance 】. 她提前完成了工作
 
-##### (1) **Supplement - The words that you mast know.**
+##### (1) **【 MUST - Supplement Others 】- Supplement - The words that you mast know.**
 
 - [The-words-which(that)-are-easy-to-forget.容易忘记的词]
 -

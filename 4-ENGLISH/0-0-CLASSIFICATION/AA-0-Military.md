@@ -253,6 +253,9 @@
 - `【 submarine 潜水艇 n 】`
 - `【 dock 码头n 停靠v 】`
 - sailor / sail / sailboat
+- _【 warship 战舰 n 】_
+- _【 merchant ship. 商船 n 】_
+- _【 pirate ship. 海盗船 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'carry'. [carry-携带-拿-v]
 - // TIPS: Pay attention to the pronunciation of the word 'carrier'. [carrier-运送者-n]
 - AA.
