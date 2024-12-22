@@ -15,21 +15,21 @@
 - > 【 merchant bank. 商业银行 】` // --------【 merchant ship. 商船 】 // 【 merchant 商人 n 】
 - > 【 branch bank. 分行 】 // ------------- 【 branch office. 分公司 分店 n 】
 - 【 power 力 力量 功率 权利 】
-- 【 power strip. 插线板 】
 - 【 power bank. 充电宝 】
+- 【 power strip. 插线板 】
 - 【 power source. 电源 】
 - 【 power consumption. 功耗 】
 - 【 power station. 发电厂 】
 - 【 power outage. 断电 停电 】
 - // 【 rated power. 额定功率 】
-- // 【 rate current. 额定电流 】
-- // 【 rate voltage. 额定电压 】
+- // 【 rated current. 额定电流 】
+- // 【 rated voltage. 额定电压 】
 - // 【 rated 额定的 adj / rate 的过去式 】
 - > 【 joint 关节 n / 联合的 adj 】
 - > 【 joint venture. 合资企业 】 // ---------- 【 venture 商业 n 冒险 v 】
-- > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】
+- > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】 // 【 issue a joint statement. 发表联合声明 】
 - > 【 issue a joint statement. 发表联合声明 】
-- > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】\_
+- > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】
 - // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
 - .MT **【 This bank has many 【 bank clerks 】,【 bank tellers 】,【 bank managers 】, and many 【 branches 】. 】**
@@ -38,9 +38,10 @@
 - .MT **【 This 【 power strip 】 is 【 an extension of 】 the 【 wall outlet 】. 这个插线板是墙上插座的扩展 】**
 - .MT **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 - .MT **【 The 【 accountant 】 【 is responsible for 】 preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
-- // -- decent 体面的 adj
 - // -- stable 稳定的 = steady.
+- // -- decent 体面的 adj
 - // -- 【 roll out. 推出 v 】
+- // -- 【 put off. 推迟 拖延 v = postpone. 】
 - // -- _【 put off. 推迟 延期 v 】= postpone. 推迟 v_
 - // -- _【 postpone 推迟 延期 v 】_
 - // -- 【 wall outlet. 壁式插座 】
@@ -165,46 +166,22 @@
 - `【 checking account. 支票账户 】`
 - > 【 account 账户 】`
 - > 【 accountant 会计 会计师 】`
+- 【 county / country / countryside / count / discount / counter / encounter ~ suffer / account / accountant 】
 - .MT **【 There are 【 two kinds of accounts 】: 【 savings account 】and【 checking account 】**
 - .MT **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 The 【 accountant 】 is responsible for preparing the 【 financial statement 】 for the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 - // -- a kind of. 一种
 - // -- two kinds of. 两种
-- // -- interest 兴趣 利息 利益
+- // -- interest 兴趣 利息 利益 // annual interest. 年利息 // annual interest rate. 年利率
 -
 -
 -
 - 4
-- `【 pay off. 还清 】`
-- `【 pack back. 偿还 归还 】`
-- `【 repay 报答 v 】`
-- `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
-- `【 refund 退款 v n 】` // ------------------ 【 found VS fun VS fund VS refund 】
-- > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
-- > receipt 收据 发票 n
-- > 【 bad debt. 坏账 】
-- > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
-- // TIPS: Pay attention to the pronunciation of the word 'debt'.
-- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
-- > 【 in debt. 欠债 负债 】
-- > 【 debit 借记 借方 】
-- > 【 debate 争论 讨论 】
-- _【 manage to. 【设法】做到某事 】_
-- _【 a period of. 一段...的时间 】_
-- pay off.
-- **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
-- pay back.
-- **【 You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年的时间里【偿还】这笔贷款 】**
-- repay
-- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
--
--
--
-- 5
-- `【 deposit 存钱v 存款n 押金n 】`
-- `【 deposit money. 存钱 】`
+- `【 deposit 存钱v 存款n 押金n 】` // --------- 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
+- `【 deposit money. 存钱 】` // -------------- 【 deposit slip. 存款单 n 】
 - `【 withdraw money. 取钱 】`
-- > 【 withdraw 取 提取 v 】 // ---------------- 【 withdraw money. 取钱 v 】
+- `【 deposit slip. 存款单 n 】`
+- > 【 withdraw 取 提取 v 】 // ---------------- 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - > 【 overdraw 透支 v 】 // ------------------ 【 【 overdraw on 】 a credit card. 透支信用卡 v 】
 - _【 overdraw on. 透支... 】_
 - _【 deposit slip. 存款单 】_
@@ -213,7 +190,6 @@
 - .MT **【 You need to 【 pay 】 the 【 ten percent 】 【 deposit 】 【 in advance 】 . 你需要提前支付 10%押金 】**
 - deposit money. = put in money. = save up money. 存钱
 - withdraw money. = take out money.
--
 - AA.
 - deposit 存款 n
 - deposit 押金
@@ -231,7 +207,87 @@
 -
 -
 -
+- 5
+- `【 revenue 收入 n 】` ----------------------- 不可数名词
+- `【 income 收入 n 】` ------------------------ 不可数名词
+- `【 expenditure 费用 支出 n 】` -------------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
+- `【 expense 费用 支出 n 】` ------------------ 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
+- **【 expensive 昂贵的 adj 】**
+- **【 expenditure = expense 费用 支出 n 】**
+- _【 expensive expense. 昂贵的费用 】_
+-
+- `consume 消费 消耗 v` // -------------------- 【 consume 消费 v 】 VS 【 assume 假设 v 】 // 【 assume = suppose. 假设 v 】
+- `consumption 消费 消耗 n`
+-
+- > avenue 大街 n
+- > revenue 收入 n
+- > 【 revenue interest balance budget debt loan 】
+- > 【 salary wage pay performance bonus reward benefit 】
+-
+- **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
+- **【 What's the 【 proportion 】 of salary to total revenue? 工资占总收入的比例是多少 】**
+- **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
+- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
+- balance 平衡
+- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
+- **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
+- **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
+- // -- `mortgage loan. 房贷`
+- // -- `car loan. 车贷`
+-
+-
+-
+-
 - 6
+- `【 balance 余额 平衡 n 】`
+- _【 check balance. 查看余额 】_
+- _【 balance sheet. 资产负债表 】_
+- balance 余额
+- .MT **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
+- balance 平衡
+- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
+-
+-
+-
+- 7
+- `【 interest 利息 兴趣 n 】` // --------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 n 】
+- `【 interest rate. 利率 】`
+- `【 annual interest rate. 年利率 】`
+- `【 weekly interest rate. 周利率 】`
+- `【 birth rate. 出生率 】`
+- `【 death rate. 死亡率 】`
+- _【 annual bonus. 年终奖 n 】_
+- _【 performance bonus. 绩效奖金 n 】_
+- `salary 薪水` // -------- 长时间
+- `wage 工资` // ---------- 短时间
+- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
+- `bonus 奖金`
+- `reward 奖励`
+- `benefit 福利`
+- `performance 绩效 表演`
+-
+- .MT **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
+- .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
+- **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
+- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
+- **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
+- **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
+- // minutely 每分钟的
+- // hourly 每小时的 adj
+- // daily 每日的 adj
+- // weekly 每周的 adj
+- // monthly 每月的 adj
+- // annual 每年的 adj
+- // -- generous 慷慨的 大方的 adj
+- // -- be related to. 与...有关
+- // TIPS: Pay attention to pronunciation 'annual'.
+- // TIPS: Pay attention to pronunciation 'interest rates'
+- //
+-
+-
+-
+-
+- 8
 - `【 fund 基金 】` // ------------------------ 【 housing fund. 住房公积金 】 【 education fund. 教育基金 】 // 【 found VS fun VS fund VS refund 】
 - `【 pension 养老金 】`
 - _【 housing fund. 住房公积金 】_
@@ -257,86 +313,24 @@
 -
 -
 -
-- 7
-- `【 interest 利息 兴趣 n 】` // --------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 n 】
-- `【 interest rate. 利率 】`
-- `【 annual interest rate. 年利率 】`
-- `【 weekly interest rate. 周利率 】`
-- `【 birth rate. 出生率 】`
-- `【 death rate. 死亡率 】`
-- _【 annual bonus. 年终奖 n 】_
-- _【 performance bonus. 绩效奖金 n 】_
-- `salary 薪水` // -------- 长时间
-- `wage 工资` // ---------- 短时间
-- `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
-- `bonus 奖金`
-- `reward 奖励`
-- `benefit 福利`
-- `performance 绩效 表演`
--
-- .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
-- **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
-- **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
-- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
-- **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
-- **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
-- // minutely 每分钟的
-- // hourly 每小时的 adj
-- // daily 每日的 adj
-- // weekly 每周的 adj
-- // monthly 每月的 adj
-- // annual 每年的 adj
-- // -- generous 慷慨的 大方的 adj
-- // -- be related to. 与...有关
-- // TIPS: Pay attention to pronunciation 'annual'.
-- // TIPS: Pay attention to pronunciation 'interest rates'
-- //
--
--
--
-- 8
-- `【 revenue 收入 n 】` ----------------------- 不可数名词
-- `【 income 收入 n 】` ------------------------ 不可数名词
-- **【 expenditure = expense 费用 支出 n 】**
-- `expenditure 费用 支出` -------- 只能做名词 // 大规模的支持 // --------------- expenditure 费用 支出 n
-- `expense 费用 支出 v n` -------- 常见/可做动词和名词 // 个人，小规模的支出 // ---- expense 费用 支出 n v
-- `expensive 昂贵的 adj`
-- _【 expensive expense. 昂贵的费用 】_
--
-- `consume 消费 消耗 v` // -------------------- 【 consume 消费 v 】 VS 【 assume 假设 v 】 // 【 assume = suppose. 假设 v 】
-- `consumption 消费 消耗 n`
--
-- > avenue 大街
-- > 【 revenue interest balance budget debt loan 】
-- > 【 salary wage pay performance bonus reward benefit 】
--
-- **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
-- **【 What's the 【 proportion 】 of salary to total revenue? 工资占总收入的比例是多少 】**
-- **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
-- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
-- balance 平衡
-- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
-- **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
-- **【 This is an 【 expensive 】 【 expenditure 】. 这是一笔昂贵的开支 】**
-- // -- `mortgage loan. 房贷`
-- // -- `car loan. 车贷`
--
--
--
--
 - 9
-- `【 balance 余额 平衡 n 】`
-- _【 check balance. 查看余额 】_
-- _【 balance sheet. 资产负债表 】_
-- balance 余额
-- .MT **【 Can you help me to check the 【 balance 】 of my 【 savings account 】? 你能帮我查看下存储账户的余额？ 】** // 余额
-- balance 平衡
-- **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】** // 平衡
+- `【 stock 股票 】`
+- `【 stock market. 股票市场 】`
+- `【 stocking 长筒袜 】`
+- > stock bond fund share
+- stock 股票 // --- stock market. 股票市场
+- stack // -------- tech stack. 技术栈
+- stuck // -------- get stuck in. 陷入
+- struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
+- _【 stock market. 股票市场 】_
+- .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
+- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
 -
 -
 -
 - 10
-- `【 loan 贷款 】`
+- `【 loan 贷款 】` // ----------------------- 【 mortgage loan. 房贷 n 】 【 car loan. 车贷 n 】
 - `【 debt 债务 】`
 - **【 take out a loan. 贷款 】**
 - **【 apply for a loan. 申请贷款 】**
@@ -357,16 +351,43 @@
 -
 -
 -
+-
 - 11
-- `【 applicant 申请人 】`
-- **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
+- `【 pay off. 还清 】`
+- `【 pack back. 偿还 归还 】`
+- `【 repay 报答 v 】`
+- `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
+- `【 refund 退款 v n 】` // ------------------ 【 found VS fun VS fund VS refund 】
+- > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
+- > receipt 收据 发票 n
+- > 【 bad debt. 坏账 】
+- > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
+- // TIPS: Pay attention to the pronunciation of the word 'debt'. [bad-debt.坏账-n] [debt-crisis.债务危机-n]
+- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
+- > 【 in debt. 欠债 负债 】
+- > 【 debit 借记 借方 】
+- > 【 debate 争论 讨论 】
+- _【 manage to. 【设法】做到某事 】_
+- _【 a period of. 一段...的时间 】_
+- pay off.
+- **【 He 【 managed to 】 【 pay off 】 his 【 debts 】 in two years. 他设法在两年内还清了债务 】**
+- pay back.
+- **【 You can 【 pay back 】 the 【 loan 】 over 【 a period of 】 three years. 你可以在三年的时间里【偿还】这笔贷款 】**
+- repay
+- .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
 -
 -
 -
 - 12
+- `【 applicant 申请人 】`
+- **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
+- // -- driver's license. 驾驶证 n
+-
+-
+- 13
 - `【 transaction 交易 】`
-- `fee 费用`
-- `fare 票价`
+- > fee 费用
+- > fare 票价
 - _【 transaction successful. 交易成功 】_
 - .MT **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
 - // complete 完成 v
@@ -375,8 +396,9 @@
 -
 -
 -
-- 13
-- `【 receipt 收据 发票 】`
+- 14
+- `【 receipt 收据 发票 n 】`
+- `【 invoice 发票 n 】`
 - > receipt
 - > debt
 - .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
@@ -396,21 +418,6 @@
 -
 -
 -
-- 14
-- `【 stock 股票 】`
-- `【 stock market. 股票市场 】`
-- `【 stocking 长筒袜 】`
-- > stock bond fund share
-- stock 股票 // --- stock market. 股票市场
-- stack // -------- tech stack. 技术栈
-- stuck // -------- get stuck in. 陷入
-- struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
-- _【 stock market. 股票市场 】_
-- .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
-- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
-- **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
--
--
 -
 - 15
 - `【 currency 货币 】`
@@ -418,7 +425,7 @@
 - `【 bill 账单 钞票 】`
 - `【 coin 硬币 】` // coin corn
 - `【 cheque 支票 】`
-- .MT **【 【 bills 】 and 【 coins 】 both are 【 cash 】. 钞票和硬币都是现金 】**
+- .MT **【 both 【 bills 】 and 【 coins 】 are 【 cash 】. 钞票和硬币都是现金 】**
 - // -- current 当前的
 - // -- currency 货币
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
@@ -428,6 +435,7 @@
 - 16
 - `【 wallet 钱包 】` ------------ 小
 - `【 purse 钱包 资金 】` --------- 大，书面语，多用于女性
+- wallet VS wall
 - .MT **【 Both 【 wallet 】 and 【 purse 】 can 【 be used to 】 store money. // wallet 和 purse 都可以用来装钱 】**
 -
 -
@@ -435,7 +443,7 @@
 - 17
 - `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
-- .MT **【 I will 【 transfer 】 the money to your account 【 straight away 】. 我会马上把钱转到你的帐户上 】**
+- .MT **【 I will 【 transfer 】 the money to your 【 savings account 】 【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
 - // -- `right away. 立即`
 - // -- `straight away. 立即`
 - // -- `immediately. 立即`
@@ -448,9 +456,9 @@
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
 - .MT **【 This 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
-- // -- consumption 消费 消耗 n
-- // -- consume 消费 消耗 v
-- // -- expenditure 支出
+- // -- 【 consumption 消费 消耗 n 】
+- // -- 【 consume 消费 消耗 v 】
+- // -- expenditure 支出 = expense. // income = revenue 收入
 - // -- expense 费用
 - // -- consumption 消耗 小费 n
 -
@@ -463,6 +471,7 @@
 - _【 sign a contract. 签合同 】_
 - _【 contract deadline. 合同期限 】_
 - .MT **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
+- // candidate 候选人 n
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 -
 -
