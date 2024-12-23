@@ -454,26 +454,79 @@ wallet 和 purse 都可以用来装钱
 
 
 12
-我会马上把钱转到你的帐户上
+I will 【 transfer 】 the money to your savings account 【 straight away 】.
+我会马上把钱转到你的存储帐户上
+// -
+// straight away. 立即
+// right away. 立即
 
 
 13
+The 【 consumption 】 has already 【 gone over  】the 【 budget 】.
 本次消费已经超预算了
+// -
+// 【 budget 预算 n 】
+// 【 go over. 超出 】
 
 
 14
-我们将对比候选人后再联系您签合同
+We will 【 contact 】 you to 【 sign the contract 】 after 【 contrasting 】 all the 【 candidates 】.
+我们将对比所有候选人后再联系您签合同
+// -
+// 【 sign a contract. 签合同 v 】
+// 【 contact details. 联系方式 n 】
+// -
+// 【 detail 细节 n 】
+// 【 tail 尾巴 n 】
+// 【 retail 零售 零售的 adj n 】
+// 【 wholesale 批发 批发的 adj n 】
+// -
+// 【 detail 细节 n 】
+// 【 detailed 详细的 adj 】
+// TIPS: Pay attention to the pronunciation of the word 'detailed'. [detailed-详细的-adj]
+// -
+// retail price. 零售价
+// retail store. 零售店 n
+// wholesale store. 批发店 n
+// specialty store. 专卖店 n
+// -
+// 【 specialty VS special VS specialize VS specialist 】
+// specialize in. 专攻
+// specialist clinic. 专科诊所
+// dental clinic. 牙医诊所
+// personal clinic. 私人诊所
+// -
+// contact 联系
+// contrast 对比
+// contract 合同
 ```
 
 ##### 21 Make sentences 2024-12-21
 
 ```
 1
+The 【 cost 】 of this product is very high, and the 【 profit 】 is very low.
+The 【 cost 】 of this product is very high 【 while 】 the 【 profit 】 is very low.
 这个产品的成本很高，利润很低
 -
+【 Revenue 】 minus 【 costs 】 【 is / equals 】 【 profit 】.
 收入减去成本就是利润
 -
+I can  【 barely 】 【  make a profit 】 in the 【 stock market 】.
 我勉强可以在股市中盈利
+// -
+// 【 while 与此同时 然而 】
+// -
+// 【 make a profit. 盈利 】
+// -
+// 【 fixed cost. 固定成本 n 】
+// -
+// cost 成本 n
+// profit 利润 n
+// revenue = income. 收入
+// expenditure = expense. 支出 开支 费用
+// -
+// barely 勉强
 
 
 2
@@ -485,5 +538,13 @@ The seller sent us the 【 invoice 】 for the goods we purchased last week.
 
 
 3
+I borrowed a book from him, and the book is lent to him by his classmate.
 我向他借了一本书，这本书是他同学借给他的
+// -
+// borrow sth from sb. 向某人借某物
+// -
+// 【 borrow 借 v 】
+// 【 lend 借 v 】
+// -
+// lend -> lent
 ```
