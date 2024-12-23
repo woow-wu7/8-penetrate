@@ -1,8 +1,10 @@
 ##### (1) **【 The direction words that you must know. 】** // --- ask for directions. // give directions.
 
 - [-CC.]
-- `【 head over to. 前往 v 】`
+- `【 head over to. 前往... v 】`
+- `【 over over to. 步行前往... v 】`
 - **【 We 【 are going to 】 【 head over to 】 the park 【 for 】 a picnic this weekend. 我们打算这个周末去公园野餐 】**
+- **【 I 【 am going to 】 【 walk over to 】 school. 我打算步行去学校 】**
 -
 -
 - [-BB.]
