@@ -501,7 +501,7 @@ We will 【 contact 】 you to 【 sign the contract 】 after 【 contrasting �
 // contract 合同
 ```
 
-##### 21 Make sentences 2024-12-21
+##### 21 Make sentences 2024-12-23
 
 ```
 1
@@ -547,4 +547,30 @@ I borrowed a book from him, and the book is lent to him by his classmate.
 // 【 lend 借 v 】
 // -
 // lend -> lent
+
+
+4
+We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you.
+我们会给你开发票和收据
+// -
+// 【 issue an invoice. 开发票 v 】
+// 【 issue a receipt. 开收据 v 】
+// -
+// certificate 证书 证明 n
+// graduation certificate. 毕业证 n
+// driver's license. 驾驶证 n
+// license plate. 牌照 n
+
+
+5
+The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】.
+经济结构和通货膨胀导致经济衰退和经济危机
+// -
+// economic structure.
+// economic recession.
+// economic crisis.
+// -
+// 【 inflation 通货膨胀 n 】
+// 【 inflammation 炎症 n 】
+// 【 inflame 发炎 v 】
 ```

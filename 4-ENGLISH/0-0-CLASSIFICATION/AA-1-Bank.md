@@ -29,6 +29,8 @@
 - > 【 joint venture. 合资企业 】 // ---------- 【 venture 商业 n 冒险 v 】
 - > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】 // 【 issue a joint statement. 发表联合声明 】
 - > 【 issue a joint statement. 发表联合声明 】
+- > 【 issue an invoice. 开发票 】
+- > 【 issue a receipt. 开收据 】
 - > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】
 - 【 merchant 商人 n / 商业的 商人的 adj 】
 - 【 merchant ship. 商船 】 // ---------------- 【 pirate ship. 海盗船 n 】 【 warship 战舰 】
@@ -1076,6 +1078,32 @@ fill out. 填写
 
 ##### (1) **【 MUST - Supplement 】- The words that you mast know.**
 
+- [-BB.]
+- `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】
+- `【 receipt 收据 n 】` // ------------------ 【 issue a receipt. 开收据 v 】
+- `【 certificate 证书 文凭 n 】` // ---------- 【 gradation certificate. 毕业证书 】 // 【 driver's license. 驾驶证 】 【 license plate. 车牌 】
+- > 【 issue 问题 发行 发布 v 】
+- > 【 issue an invoice. 开发票 v 】
+- > 【 issue a receipt. 开收据 v 】
+- > 【 issue a joint statement. 发表联合声明 】
+- .MT **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
+-
+-
+-
+- [-AA.]
+- `【 inflation 通货膨胀 n 】` // ------------- inflation VS invoice
+- `【 inflammation 炎症 n 】`
+- `【 inflame 发炎 v 】`
+- **【 The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 经济结构和通货膨胀导致经济衰退和经济危机 】**
+- // -- lead -> led 导致 v
+- // -- economic structure.
+- // -- economic recession.
+- // -- economic crisis.
+- // -- academic performance.
+- // -- academic research.
+-
+-
+-
 - [AA.]
 - `【 cost 成本 费用 n 】` // ------------------ 【 fixed cost. 固定成本 】
 - `【 profit 利润 盈利 n 】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
@@ -1171,7 +1199,7 @@ fill out. 填写
 - > 【 car loan. 车贷 】
 - > 【 pay off. 】 VS 【 pay back. 】
 - .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
-- // -- individual 个人的 单独的 adj
+- // -- individual 个人的 单独的 ad
 - // -- personal 个人的 私人的 adj
 - // -- 【 social security. 社保 】= social insurance. 社保
 -

@@ -533,9 +533,10 @@
 - _【 relieve 减轻 缓解 v 】_
 - _【 release 释放 v 】_
 -
-- `【 inflammation 发炎 炎症 n 】`
-- `【 inflame 发炎 v 】`
-- `【 inflamed 发炎的 adj 】`
+- `【 inflammation 发炎 炎症 n 】` // ---------- 【 inflammation 炎症 n 】 VS 【 inflation 通货膨胀 n 】
+- `【 inflation 通货膨胀 n 】`
+- _【 inflame 发炎 v 】_
+- _【 inflamed 发炎的 adj 】_
 - > 【 anti-inflammatory drug. 消炎药 】
 - > 【 antibiotic 抗生素 n 】
 - > 【 antidote 解药 n 】

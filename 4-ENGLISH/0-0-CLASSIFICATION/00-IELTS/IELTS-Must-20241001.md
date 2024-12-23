@@ -75,9 +75,10 @@
 - `【 economic structure. 经济结构 】`
 - `【 economic recession. 经济衰退 】`
 - `【 economic crisis. 经济危机 】`
-- **【 The 【 economic structure 】 【 leads to 】 【 economic recession 】 and 【 economic crisis 】. 经济结构导致经济衰退和经济危机 】**
+- **【 The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 经济结构和通货膨胀导致经济衰退和经济危机 】**
+- // -- `【 inflation 通货膨胀 n 】`
 - // -- `【 lead to. 导致 v 】`
-- // -- 【 refer to. 参考 v 】
+- // -- `【 refer to. 参考 v 】`
 - // -- 【 detail / detailed / in detail. 】
 - // -- 【 For details, please refer to the documentation. 详细情况，请参考说明文档 】
 - // ---- 【 【 Because of 】 he didn't 【 refer to 】 the 【 instruction documentation 】, it 【 lead to 】 error in the program he wrote. 因为没有参考说明文档，导致了他写的程序出错 】
