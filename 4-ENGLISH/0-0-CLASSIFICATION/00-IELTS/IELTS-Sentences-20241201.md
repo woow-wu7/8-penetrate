@@ -501,7 +501,7 @@ We will 【 contact 】 you to 【 sign the contract 】 after 【 contrasting �
 // contract 合同
 ```
 
-##### 21 Make sentences 2024-12-23
+##### 21 Make sentences 2024-12-21
 
 ```
 1
@@ -573,4 +573,39 @@ The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 econ
 // 【 inflation 通货膨胀 n 】
 // 【 inflammation 炎症 n 】
 // 【 inflame 发炎 v 】
+```
+
+##### 24 Make sentences 2024-12-24
+
+```
+1
+我们会给你开发票和收据
+-
+卖方已向我们发送了我们上周购买的商品的发票
+
+
+2
+经济结构和通货膨胀导致经济衰退和经济危机
+
+
+3
+看那边，图书馆在那边，在邮局的旁边
+-
+银行位于学校的右后方
+
+
+4
+我们打算这个周末去公园野餐
+
+
+5
+由于暴风雪，他们决定将会议推迟到下周
+
+
+6
+他出生在中国，死在美国
+
+
+7
+我向他借了一本书，这本书是他同学借给他的
 ```

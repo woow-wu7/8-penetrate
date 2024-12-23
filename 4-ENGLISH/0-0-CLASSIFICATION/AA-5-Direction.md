@@ -1,5 +1,28 @@
-##### (1) **The direction words that you mast know.** // --- ask for directions. // give directions.
+##### (1) **【 The direction words that you must know. 】** // --- ask for directions. // give directions.
 
+- [-CC.]
+- `【 head over to. 前往 v 】`
+- **【 We 【 are going to 】 【 head over to 】 the park 【 for 】 a picnic this weekend. 我们打算这个周末去公园野餐 】**
+-
+-
+- [-BB.]
+- `【 right rare. 右后方 】`
+- `【 right behind. 右后方 】`
+- `【 right back. 右后方 】`
+- **【 The bank is 【 located 】 to the 【 right rear 】 of the school. 银行位于学校的右后方 】**
+-
+-
+- [-AA.]
+- `【 over there. 在那边 在那里 】`
+- `【 look over there. 看那边 】`
+- > 【 look over there. 看到边 】
+- **【 【 Look over there 】, the library is 【 over there 】, it's 【 next to 】 the 【 post office 】. 看那边，图书馆在那边，在邮局的旁边 】**
+- // over there. 在那边 在那里
+- // look over there. 看那边
+- // next to. 在...旁边
+- // post office. 邮局
+-
+-
 - [AA.]
 - `【 sidewalk = pavement. = footway. 人行道 】`
 - `【 crosswalk = zebra crossing. 人行横道 斑马线 】`

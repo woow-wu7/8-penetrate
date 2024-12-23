@@ -188,12 +188,12 @@
 -
 -
 - 4
-- `【 deposit 存钱v 存款n 押金n 】` // --------- 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
-- `【 deposit money. 存钱 】` // -------------- 【 deposit slip. 存款单 n 】
-- `【 withdraw money. 取钱 】` // ------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
+- `【 deposit 存钱v 存款n 押金n 】` // ------------ 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
+- `【 deposit money. 存钱 = save money. 】` /----- 【 deposit slip. 存款单 n 】
+- `【 withdraw money. 取钱 = take out money 】` // 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - `【 deposit slip. 存款单 n 】`
-- > 【 withdraw 取 提取 v 】 // --------------- 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
-- > 【 overdraw 透支 v 】 // ----------------- 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】 // overdraw on. 透支
+- > 【 withdraw 取 提取 v 】 // ------------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
+- > 【 overdraw 透支 v 】 // --------------------- 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】 // overdraw on. 透支
 - _【 overdraw on. 透支... v 】_
 - _【 maxed out. 刷爆 v 】_
 - _【 deposit slip. 存款单 】_
@@ -1079,7 +1079,7 @@ fill out. 填写
 ##### (1) **【 MUST - Supplement 】- The words that you mast know.**
 
 - [-BB.]
-- `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】
+- `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】 // 【 inflation VS invoice VS inflammation 】
 - `【 receipt 收据 n 】` // ------------------ 【 issue a receipt. 开收据 v 】
 - `【 certificate 证书 文凭 n 】` // ---------- 【 gradation certificate. 毕业证书 】 // 【 driver's license. 驾驶证 】 【 license plate. 车牌 】
 - > 【 issue 问题 发行 发布 v 】
@@ -1091,7 +1091,7 @@ fill out. 填写
 -
 -
 - [-AA.]
-- `【 inflation 通货膨胀 n 】` // ------------- inflation VS invoice
+- `【 inflation 通货膨胀 n 】` // ------------- inflation VS invoice VS inflammation
 - `【 inflammation 炎症 n 】`
 - `【 inflame 发炎 v 】`
 - **【 The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 经济结构和通货膨胀导致经济衰退和经济危机 】**
