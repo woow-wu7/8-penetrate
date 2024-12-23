@@ -1,4 +1,4 @@
-##### Bank
+`##### Bank
 
 ##### (1) **【 MUST - 21 】**
 
@@ -155,7 +155,7 @@
 - > 【 on credit. 赊账 】
 - > 【 credit card. 信用卡 】
 - _【 roll out. 推出 】_
-- .MT **【 This bank 【 rolls out 】【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
 - .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月推出一款新手机 】**
 - // 【 in debt. 欠债 负债 】
@@ -191,8 +191,9 @@
 - `【 withdraw money. 取钱 】` // ------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - `【 deposit slip. 存款单 n 】`
 - > 【 withdraw 取 提取 v 】 // --------------- 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
-- > 【 overdraw 透支 v 】 // ------------------ 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】
-- _【 overdraw on. 透支... 】_
+- > 【 overdraw 透支 v 】 // ----------------- 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】 // overdraw on. 透支
+- _【 overdraw on. 透支... v 】_
+- _【 maxed out. 刷爆 v 】_
 - _【 deposit slip. 存款单 】_
 - // TIPS: Pay attention to the pronunciation of the word 'slip'. [slip-滑倒-滑-v] [deposit-slip.存款单-n]
 - .MT **【 He started to 【 overdraw on 】 his 【 credit card 】 after 【 withdrawing 】 all his money 【 from 】 his 【 debit card 】. 他取完借记卡里的所有钱后，又开始透支信用卡 】**
@@ -266,16 +267,17 @@
 - `【 annual interest rate. 年利率 】`
 - `【 weekly interest rate. 周利率 】`
 - `【 birth rate. 出生率 】` // ---------------- 【 birth 出生 诞生 n 】 // ----【 born 出生 v 】
-- `【 death rate. 死亡率 】` // ---------------- 【 death 死 n 】 // --------- 【 die 死 v 】
+- `【 death rate. 死亡率 】` // ---------------- 【 death 死 n 】 // --------- 【 die 死 v 】 VS 【 debt 债务 n 】
 - _【 annual bonus. 年终奖 n 】_
 - _【 performance bonus. 绩效奖金 n 】_
 - > 【 invest 投资 v 】
-- > 【 interest 兴趣 利息 利益 n 】 // --------- 【 interest rate. 利率 n 】 【 national interest. 国家利益 n 】
+- > 【 interest 兴趣 利息 利益 n 】 // ---------- 【 interest rate. 利率 n 】 【 national interest. 国家利益 n 】
 - > 【 national interest. 国家利益 】
 - > 【 national assets. 国有资产 】
 - > 【 National Day. 国庆节 】
 - > 【 national flag. 国旗 】
 - > 【 national anthem. 国歌 】
+- > 【 national territory. 国家领土 n 】 // ---- 【 defend territory. 保护领土 v 】 【 expand territory. 扩张领土 v 】
 - `salary 薪水` // -------- 长时间
 - `wage 工资` // ---------- 短时间
 - `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
@@ -292,8 +294,11 @@
 - // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bull'. [bull-公牛-n][bull-market.牛市-n] [bull-steak.牛排-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bear'. [bear-熊-忍受-v][bear-market.熊市-n]
+- // TIPS: Pay attention to the pronunciation of the word 'steak'. [steak-牛排-n][beef-steak.牛排-n]
 -
-- .HL **【 He 【 was born in 】 China and 【 died in 】 【 United State 】. 他出生在中国，死在美国 】**
+- .HL **【 He 【 was born in 】 China and 【 died in 】 【 United States 】. 他出生在中国，死在美国 】**
 - .MT **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
 - **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
@@ -348,22 +353,28 @@
 - // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bull'. [bull-公牛-n][bull-market.牛市-n] [bull-steak.牛排-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bear'. [bear-熊-忍受-v][bear-market.熊市-n]
+- // TIPS: Pay attention to the pronunciation of the word 'steak'. [steak-牛排-n][beef-steak.牛排-n]
 -
 -
 -
 - 9
-- `【 stock 股票 】`
+- `【 stock 股票 】` // ---------------------- 【 stock market. 股票市场 】 【 bull market. 牛市 】 【 bear market. 熊市 】
 - `【 stock market. 股票市场 】`
 - `【 stocking 长筒袜 】`
-- > stock bond fund share
+- > stock bond fund share lottery
+- _【 stock market. 股票市场 n 】_
+- _【 bull market. 牛市 n 】_ // ------------- 【 bull 公牛 VS cow 母牛 VS calf 小牛 】 // 【 beef steak. 牛排 】
+- _【 bear market. 熊市 n 】_
 - stock 股票 // --- stock market. 股票市场
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
-- _【 stock market. 股票市场 】_
 - .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 - .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
+- // -- invest in. 投资...
 - // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
 -
 -
@@ -393,10 +404,11 @@
 - _【 housing fund. 住房公积金 】_
 - _【 education fund. 教育基金 】_
 - _【 pension 养老金 】_
-- _【 apply for a loan. 申请贷款 】_
-- _【 apply for a position. 申请职位 】_
-- _【 apply for a driver's license. 申请驾照 】_
-- _【 license plate. 车牌 】_
+- 【 license plate. 车牌 n 】
+- 【 driver's license. 驾照 n 】
+- > 【 apply for a loan. 申请贷款 】
+- > 【 apply for a position. 申请职位 】
+- > 【 apply for a driver's license. 申请驾照 】
 - **【 The new 【 loan 】 takes the total 【 debt 】 to 100 dollars. 新贷款使总债务增加到 100 美元 】**
 - // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
@@ -406,6 +418,9 @@
 - // TIPS: Pay attention to the pronunciation of the word 'finance'. [finance-department.金融部门]
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bull'. [bull-公牛-n][bull-market.牛市-n] [bull-steak.牛排-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bear'. [bear-熊-忍受-v][bear-market.熊市-n]
+- // TIPS: Pay attention to the pronunciation of the word 'steak'. [steak-牛排-n][beef-steak.牛排-n]
 -
 -
 -
@@ -437,7 +452,8 @@
 -
 -
 - 13
-- `【 applicant 申请人 】`
+- `【 applicant 申请人 n 】`
+- `【 application 申请 应用程序 n 】`
 - **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
 - // -- driver's license. 驾驶证 n
 -
@@ -1061,9 +1077,10 @@ fill out. 填写
 - [AA.]
 - `【 cost 成本 费用 n 】` // ------------------ 【 fixed cost. 固定成本 】
 - `【 profit 利润 盈利 n 】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
-- `【 interest 利息 利益 n 】` // -------------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 】 // 【 national interest. 国家利益 】
+- `【 interest 利息 利益 兴趣 n 】` // ---------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 】 // 【 national interest. 国家利益 】
+- > 【 revenue 收入 n = income 】` // ---------- 【 revenue 收入 n 】 【 consumption 消费 n = expense 】 VS 【 assumption 假设 n 】 // assume assumption
 - > 【 net 净收入 网 n 】` // ------------------- 【 net profit. 净利润 】 // 【 netWork 网络 n 】 VS 【 framework 框架 】
-- > 【 revenue 收入 n 】` // ------------------- 【 revenue 收入 n 】 【 consumption 消费 n 】 VS 【 assumption 假设 n 】 // assume assumption
+- > 【 net profit. 净利润 n 】
 - AA.
 - _【 make a profit. 盈利 】_
 - _【 net profit. 净利润 】_
@@ -1071,16 +1088,17 @@ fill out. 填写
 - > > salary wage / performance / benefit / balance / deposit / budget / consumption / consume
 - > > investment / stock / fund / bond / corn / bill / cash / receipt
 - 1. **【 The 【 cost 】 of this 【 product 】 is high, and the 【 profit 】 is low. 这个产品的成本很高，利润很低 】**
-- 2. **【 【 Revenue 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
+- 2. **【 【 Revenue/Income 】 【 minus 】 【 cost 】 is 【 profit 】. 收入减去成本就是利润 】**
 - 3. **【 I can【 barely 】 【 make a profit 】 in the 【 stock market 】. 我勉强可以在股市中盈利 】**
-- // --【 make a profit. 盈利 】
 - // --【 barely 勉强 adv 】
+- // --【 make a profit. 盈利 】
 - // TIPS: Pay attention to the pronunciation of the word 'net'. [net-净收入-网-n] [network-网络] [framework-框架-n]
 - BB.
 - _【 stock market. 股市 】_
 - _【 bull market. 牛市 】_
 - _【 bear market. 熊市 】_
 - > 【 beef steak. 牛排 n 】
+- > 【 bull 公牛 VS cow 母牛 VS calf 小牛 】
 - bull 公牛 n
 - cow 母牛 n
 - calf 小牛 牛犊子 n
@@ -1120,6 +1138,7 @@ fill out. 填写
 - > 【 drugstore counter. 药房柜台 n 】
 - > 【 over the counter drugs. 非处方药 】// ------ 【 prescription drugs. 处方药 】
 - > 【 drugstore counter. 药房柜台 】
+- _【 county / country / countryside / count / discount / counter / encounter ~ suffer / account / accountant 】_
 - // account 账户
 - // accountant 会计 会计师
 - // counter 柜台
@@ -1140,7 +1159,7 @@ fill out. 填写
 - `【 housing property tax. 房产税 】`
 - `【 social security. 社保 = social insurance. 社保 】` // social contradiction. // social status. // social media.
 - `【 stamp duty. 印花税 n 】`
-- `【 custom duty. 关税 n 】`
+- `【 customs duty. 关税 n 】`
 - _【 pay tax. 交税 纳税 】_
 - _【 in addition to. 除了 】_ // ---------- 补充
 - _【 except for. 除了 】_ // -------------- 排除
@@ -1158,8 +1177,8 @@ fill out. 填写
 - [EE.]
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
-- own 拥有 v / 自己的 adj
 - owe 欠 v
+- own 拥有 v / 自己的 adj
 - possess 拥有 占有 持有 v
 - own VS owe VS possess
 - _【 owe money. 欠钱 】_
@@ -2007,3 +2026,5 @@ Excuse me, I'm a bit lost, are you familiar with the street around here? I'm loo
 
 【 Go straight on past the post office. 经过邮局后直走 】
 ```
+
+`

@@ -43,3 +43,12 @@ force kill process
 1. Click the "Apple" icon at the top left corner.
 2. Select the "Force Quit" menu.
 ```
+
+##### (3) 连接不上星巴克
+
+```
+1
+系统设置 -> WiFi -> 高级 -> 找到需要连接的WiFi -> 点击... -> 从列表中删除 -> 从新连接
+System settings -> WiFi -> advanced -> find out the WiFi that you need to connect -> click on the ellipsis icon -> delete the WiFi from list -> reconnect
+// ellipsis mark. 省略号 n
+```
