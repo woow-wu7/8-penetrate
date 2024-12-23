@@ -559,10 +559,11 @@
 - `【 freedom 自由 n 】` // ----------------------- 【 desire freedom. 渴望自由 】 【 pursue freedom. 追求自由 】 【 freedom of speech. 言论自由 n 】
 - > 【 free will. 自由意志 n 】
 - > 【 free fall. 自由落体 n 】
-- > 【 free trial. 免费试用 】 // ------------------ 【 trial 试用 实验 n v 】 // 【 trial / rail 】
+- > 【 free trial. 免费试用 】 // ------------------ 【 have a free trail. 免费试用 v 】 // 【 trial 试用 实验 n v 】 // 【 trial / rail 】
 - > 【 free time. 空闲时间 】 // ------------------- 【 in free time. 在空闲时间 】
 - 【 for free. 免费地 adv 】
-- 【 free trial. 免费试用 】
+- 【 free trial. 免费试用 v 】
+- 【 have a free trial. 免费试用 v 】
 - _【 desire freedom. 渴望自由 】_ // -------------- 【 desire 愿望 渴望 v n 】
 - _【 pursue freedom. 追求自由 】_
 - _【 freedom of speech. 言论自由 n 】_
@@ -570,6 +571,7 @@
 - > 【 unwilling 不愿意的 adj 】
 - > 【 free will. 自由意志 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'trial'. [trial-试用/试验-vn]
+- .MT **【 You can 【 have a free trial 】 for the 【 first trial 】. 初次尝试可以免费试用 】**
 -
 - `【 freeze 结冰 冻结 v n 】` // ------------------ 【 frozen 冻结的 adj / 动词时是 freeze 的过去式 】
 - `【 freezer 冰柜 冷冻柜 n 】`

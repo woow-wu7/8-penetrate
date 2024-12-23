@@ -188,10 +188,14 @@
 -
 -
 - 4
-- `【 deposit 存钱v 存款n 押金n 】` // ------------ 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
-- `【 deposit money. 存钱 = save money. 】` /----- 【 deposit slip. 存款单 n 】
-- `【 withdraw money. 取钱 = take out money 】` // 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
-- `【 deposit slip. 存款单 n 】`
+- `【 deposit 存钱v 存款n 押金n 】` // -------------------------------- 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
+- `【 deposit money. 存钱 = save money. = make a deposit 】` //------- 【 deposit slip. 存款单 n 】
+- `【 withdraw money. 取钱 = take out money = make a withdrawal 】` // 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
+- _【 deposit slip. 存款单 n 】_
+- _【 deposit money. 存钱 v 】_
+- // 【 deposit money. = save money. = make a deposit. 存钱 】
+- // 【 withdraw money. = take out money. = make a withdrawal. 取钱 】 // `【 make a withdrawal of 100 yuan. 】`
+- // 【 I 【 make a withdrawal 】 【 of 】 $100 【 from 】 my checking account. 我从我的支票帐户中提取 100 美元 】
 - > 【 withdraw 取 提取 v 】 // ------------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - > 【 overdraw 透支 v 】 // --------------------- 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】 // overdraw on. 透支
 - _【 overdraw on. 透支... v 】_
@@ -1078,6 +1082,15 @@ fill out. 填写
 
 ##### (1) **【 MUST - Supplement 】- The words that you mast know.**
 
+- [-CC.]
+- `【 least common. 最不常见 】`
+- **【 This is the 【 least common 】 【 species 】 in this area. 这是该地区最不常见的物种 】**
+- // -- species 物种 种 种类 n
+- // -- rare species. 稀有物种
+- // -- endangered species. 濒危物种
+- // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
+-
+-
 - [-BB.]
 - `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】 // 【 inflation VS invoice VS inflammation 】
 - `【 receipt 收据 n 】` // ------------------ 【 issue a receipt. 开收据 v 】
@@ -1087,7 +1100,6 @@ fill out. 填写
 - > 【 issue a receipt. 开收据 v 】
 - > 【 issue a joint statement. 发表联合声明 】
 - .MT **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
--
 -
 -
 - [-AA.]
