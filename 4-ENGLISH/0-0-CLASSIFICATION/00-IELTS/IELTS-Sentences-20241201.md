@@ -477,5 +477,13 @@ wallet 和 purse 都可以用来装钱
 
 
 2
+The seller sent us the 【 invoice 】 for the goods we purchased last week.
+卖方已向我们发送了我们上周购买的商品的发票
+// -
+// 【 invoice 发票 n 】
+// 【 receipt 收据 发票 n 】
 
+
+3
+我向他借了一本书，这本书是他同学借给他的
 ```

@@ -394,6 +394,7 @@
 - 11
 - `【 loan 贷款 】` // ---------------------- 【 mortgage loan. 房贷 n 】 【 car loan. 车贷 n 】
 - `【 debt 债务 】` // ---------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 】
+- `【 duty 税 责任 n 】`
 - **【 take out a loan. 贷款 】**
 - **【 apply for a loan. 申请贷款 】**
 - **【 mortgage loan. 房贷 】**
@@ -476,6 +477,7 @@
 - > 【 receipt VS debt 】
 - > 【 approve / improve / prove / proof 】
 - .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .MT **【 The seller sent us the 【 invoice 】 for the goods we purchased last week. 卖方已向我们发送了我们上周购买的商品的发票 】**
 - // -
 - // proof 证明 证据 n
 - // debt 收据
@@ -518,7 +520,7 @@
 - `【 transfer 转移 转让 换乘 】`
 - _【 straight away. 立即 】_
 - .MT **【 I will 【 transfer 】 the money to your 【 savings account 】 【 straight away 】. 我会马上把钱转到你的存储帐户上 】**
-- // -- `straight away. 立即`
+- // -- 【 straight away. 立即 】
 - // -- `right away. 立即`
 - // -- `immediately. 立即`
 -
