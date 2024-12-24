@@ -663,40 +663,105 @@ This 【 TV program 】 is 【 broadcast 】 【 on repeat 】 in the 【 milita
 
 ```
 1
+We need a 【 transition period 】 to 【 adapt to 】 the new environment.
 我们需要一个过渡期去适应新环境
+-
+// -
+// 【 transition period. 过渡期 n 】
+// -
+// 【 adapt to. 适应... 】
+// -
+// 【 period 一段时间 句号 n 】
+// -
+// TIPS: Pay attention to the pronunciation of the word 'transition'. [transition-过度-n]
 
 
 2
+Please 【 concentrate 】 your 【 attention 】, 【 pay attention to 】 the changes of the 【 animation 】.
 请集中注意力，注意动画的变化
+-
+【 Taking a nap 】 can help me 【 concentrate 】.
+午睡可以帮助我集中注意力
+-
+// -
+// concentrate your attention. 集中注意力
+// animation 动画 n
+// TIPS: Pay attention to the pronunciation of the word 'animation'. [animation-动画-n]
+// -
+// 【 take a nap. 午睡 】
 
 
 3
+This is the 【 least common 】 【 species 】 in this 【 area 】.
 这是该地区最不常见的物种
+// -
+// 【 least common. 最不常见的 】
+// -
+// 【 area 地区 n 】
+// TIPS: Pay attention to the pronunciation of the word 'area'. [area-地区-n]
 
 
 4
+We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you.
 我们会给你开发票和收据
+// -
+// 【 issue an invoice. 开发票 v 】
+// 【 issue a receipt. 开收据 v 】
+// 【 issue a joint statement. 发表联合声明 】
+// -
+// joint 联合的adj 关节n
 
 
 5
+The 【 economic structure 】 and 【 inflation 】 【 lead to 】 the 【 economic recession 】 and 【 economic crisis 】.
 经济结构和通货膨胀导致经济衰退和经济危机
+// -
+// economic structure.
+// economic recession.
+// economic crisis.
+// -
+// 【 inflation 通货膨胀 n 】
+// 【 invoice 发票 n 】
 
 
 6
+The 【 cost 】 of this product is high, and the 【 profit 】 is low.
 这个产品的成本很高，利润很低
 -
+【 Revenue 】 minus 【 cost 】 is 【 profit 】.
 收入减去成本就是利润
 -
+I can 【 barely 】 【 make a profit 】 in the 【 stock market 】.
 我勉强可以在股市中盈利
 -
+【 Stock market 】 can 【 be divided into 】 【 bull market 】 and 【 bear market 】.
 股市可以分为牛市和熊市
+-
+// -
+// 【 cost 成本 n 】
+// 【 profit 利润 n 】
+// -
+// 【 make a profit. 盈利 v 】
+// -
+// 【 stock market. 股市  n 】
+// 【 bull market. 牛市 n 】
+// 【 bear market. 熊市 n 】
+// -
+// bull 公牛
+// cow 母牛
+// calf 小牛
+// -
+// beef steak. 牛排
+// -
+// TIPS: Pay attention to the pronunciation of the word 'bull'. [bull-公牛-n]
+
 
 
 7
 How much does this 【 parking lot 】 【 charge 】?
 这个停车场怎么收费
 -
-I need to 【 charge 】 my mobile phone that has no battery.
+I need to 【 charge 】 my mobile phone that has no 【 battery 】.
 我需要给没有电的手机充电
 -
 // -
@@ -760,13 +825,13 @@ Everyone should pay the 【 social security 】 and 【 individual income tax �
 
 
 13
-He was 【 fined 】 for 【 drunk driving 】.
+He was 【 fined 】 【 for 】 【 drunk driving 】.
 他因酒驾而被罚款
 -
 You will be 【 fined 】 for 【 littering 】 in public place.
 公共场合乱扔东西会被罚款
 -
-He paid a 【 fined 】 of 20 【 dollars 】.
+He paid a 【 fine 】 of 20 【 dollars 】.
 他支付了 20 美元的罚款
 -
 // -
@@ -777,4 +842,27 @@ He paid a 【 fined 】 of 20 【 dollars 】.
 // 【 litter 乱扔 v / 垃圾 n 】
 // -
 // dollar 美元 n
+```
+
+##### 26 Make sentences 2024-12-26
+
+```
+1
+请集中注意力，注意动画的变化
+-
+午睡可以帮助你集中注意力
+
+
+2
+他因酒驾而被罚款
+-
+公共场合乱扔东西会被罚款
+-
+他支付了 20 美元的罚款
+
+
+3
+使用信用卡有手续费
+-
+他可以用信用卡赊账购物
 ```

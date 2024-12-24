@@ -2,6 +2,16 @@
 
 ##### (1) **Car Word**
 
+- [-AA.]
+- `【 fine 好的adj / 罚款 v n 】`
+- **【 He was 【 fined 】 for 【 drunk driving 】. 他因酒驾而被罚款 】**
+- **【 You will be 【 fined 】 for 【 littering 】 in  【 public place 】. 公共场合乱扔东西会被罚款 】**
+- **【 He 【 paid 】 the 【 fined 】 【 of 】 20 dollars. 他支付了 20 美元的罚款 】**
+- // -- drunk driving. 酒驾
+- // -- litter 乱扔 v 垃圾 n
+-
+-
+-
 - [AA.]
 - `【 fuel 燃料 n 】` ------------ 【 fuel grade. 燃料等级 】 【 fuel consumption. 油耗 】 【 fossil fuel. 化石燃料 】
 - `【 gasoline 汽油 n 】` -------- 专指汽油，美式英语 【 gasoline station. 加油站 = gas station. = petrol station. 】

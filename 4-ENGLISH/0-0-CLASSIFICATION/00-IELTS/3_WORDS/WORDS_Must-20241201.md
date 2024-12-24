@@ -293,3 +293,25 @@
 - // -- support sb in doing sth. 支持某人做某事
 - // -- power station. 发电厂 n
 - // -- power outage. 断电 停电 n
+
+##### Words Must 2024-12-24
+
+- 1
+- `【 concentrate 集中注意力 v 】`
+- `【 attention 注意 注意力 n 】`
+- > 【 concentrate one's attention. 集中注意力 】
+- > 【 pay attention to. 注意... 】
+- .MT **【 Please 【 concentrate your attention 】, and 【 pay attention to 】 the changes of the 【 animation 】. 请集中注意力，注意动画的变化 】**
+- .MT **【 【 Taking a nap 】 can help you 【 concentrate 】. 午睡可以帮助你集中注意力 】**
+- // -- 【 take a nap. 午睡 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'animation'. [animation-动画-n]
+-
+-
+-
+- 2
+- `【 fine 好的adj / 罚款 v n 】`
+- **【 He was 【 fined 】 for 【 drunk driving 】. 他因酒驾而被罚款 】**
+- **【 You will be 【 fined 】 for 【 littering 】 in 【 public place 】. 公共场合乱扔东西会被罚款 】**
+- **【 He 【 paid 】 the 【 fined 】 【 of 】 20 dollars. 他支付了 20 美元的罚款 】**
+- // -- drunk driving. 酒驾
+- // -- litter 乱扔 v 垃圾 n

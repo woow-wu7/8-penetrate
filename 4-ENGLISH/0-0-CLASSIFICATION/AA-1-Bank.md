@@ -159,6 +159,7 @@
 - _【 roll out. 推出 】_
 - .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
+- .HL **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
 - .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月推出一款新手机 】**
 - // 【 in debt. 欠债 负债 】
 - // 【 debt 债务 】
@@ -1083,8 +1084,25 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 11 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 13 】- The words that you mast know.**
 
+- [-EE.]13
+- `【 handing fee. 手续费 】`
+- .MT **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
+- // -- credit card. 信用卡
+- // -- on credit. 赊账
+- // -- .MT 【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】
+-
+-
+- [-DD.]12
+- `【 fine 好的adj / 罚款 v n 】`
+- **【 He was 【 fined 】 for 【 drunk driving 】. 他因酒驾而被罚款 】**
+- **【 You will be 【 fined 】 for 【 littering 】 in 【 public place 】. 公共场合乱扔东西会被罚款 】**
+- **【 He 【 paid 】 the 【 fined 】 【 of 】 20 dollars. 他支付了 20 美元的罚款 】**
+- // -- drunk driving. 酒驾
+- // -- litter 乱扔 v 垃圾 n
+-
+-
 - [-CC.]1
 - `【 least common. 最不常见 】`
 - **【 This is the 【 least common 】 【 species 】 in this area. 这是该地区最不常见的物种 】**
