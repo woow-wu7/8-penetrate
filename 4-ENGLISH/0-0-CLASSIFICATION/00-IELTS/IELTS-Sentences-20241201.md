@@ -575,6 +575,10 @@ The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 econ
 // 【 inflame 发炎 v 】
 ```
 
+##### ------- ------- ------- ------- ------- ------- -------
+
+##### ------- ------- ------- ------- ------- ------- -------
+
 ##### 24 Make sentences 2024-12-24
 
 ```
@@ -623,7 +627,17 @@ The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 econ
 
 
 10
+This 【 TV program 】 is 【 broadcast 】 【 on repeat 】 in the 【 military base 】.
 这个电视节目在军事基地里循环播放
+-
+// -
+// 【 TV program. 电视节目 n 】
+// 【 military program. 军事节目 n 】
+// 【 broadcast military program. 播放电视节目 v 】
+// -
+// 【 on repeat. 循环 重复 adv 】
+// -
+// 【 military base. 军事基地 】
 
 
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
@@ -643,4 +657,15 @@ The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 econ
 
 4
 老师经常激励学生好好学习
+```
+
+##### 25 Make sentences 2024-12-25
+
+```
+1
+我们需要一个过渡期去适应新环境
+
+
+2
+请集中注意力，注意动画的变化
 ```
