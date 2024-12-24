@@ -18,7 +18,7 @@
 - 【 power bank. 充电宝 】
 - 【 power strip. 插线板 】
 - 【 power source. 电源 】
-- 【 power consumption. 功耗 】
+- 【 power consumption. 功耗 】 // ---------- 【 consumption consume 】
 - 【 power station. 发电厂 】
 - 【 power outage. 断电 停电 】
 - // 【 rated power. 额定功率 】
@@ -29,7 +29,7 @@
 - > 【 joint venture. 合资企业 】 // ---------- 【 venture 商业 n 冒险 v 】
 - > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】 // 【 issue a joint statement. 发表联合声明 】
 - > 【 issue a joint statement. 发表联合声明 】
-- > 【 issue an invoice. 开发票 】
+- > 【 issue an invoice. 开发票 】 // --------- 【 invoice VS inflation VS receipt 】
 - > 【 issue a receipt. 开收据 】
 - > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】
 - 【 merchant 商人 n / 商业的 商人的 adj 】
@@ -274,6 +274,7 @@
 - `【 weekly interest rate. 周利率 】`
 - `【 birth rate. 出生率 】` // ---------------- 【 birth 出生 诞生 n 】 // ----【 born 出生 v 】
 - `【 death rate. 死亡率 】` // ---------------- 【 death 死 n 】 // --------- 【 die 死 v 】 VS 【 debt 债务 n 】
+- `【 national interests. 国家利益 】`
 - _【 annual bonus. 年终奖 n 】_
 - _【 performance bonus. 绩效奖金 n 】_
 - > 【 invest 投资 v 】
@@ -308,7 +309,7 @@
 - .MT **【 【 interest 】 【 is related to 】 【 interest rate 】, but not to 【 birth rate 】 and 【 death rate 】. 利息和利率有关，和出生率和死亡率无关 】**
 - .MT **【 The company's【 benefits 】includes【 performance bonuses 】 and【 medical insurance/security 】. 福利包括绩效奖金和医疗保险 】**
 - **【 【 Interest 】 【 is related to 】 【 annual interest rate 】, 【 performance bonus 】, salary, 【 benefit 】, but not to 【 birth rate 】 and 【 death rate 】. 】**
-- **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
+- .MT **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**
 - **【 【 Performance 】 affects employees' 【 salaries 】 and 【 bonus 】. 绩效影响员工的薪水和奖金 】**
 - **【 The company offers 【 generous 】【 benefits 】 to its 【 employees 】. 公司为员工提供丰厚的福利 】**
 - // `【 be born in. 出生在... 】`
@@ -344,7 +345,7 @@
 - _【 individual income tax. 个人所得税 n 】_
 - _【 pay tax. 交税 v 】_
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
-- **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
+- .MT **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - // --【 post office. 邮局 】
 - // -- postman 邮递员
 - // -- postcard 明信片
@@ -367,7 +368,7 @@
 -
 - 9
 - `【 stock 股票 】` // ---------------------- 【 stock market. 股票市场 】 【 bull market. 牛市 】 【 bear market. 熊市 】
-- `【 stock market. 股票市场 】`
+- `【 stock market. 股票市场 】` // ---------- 【 stock market. 】 【 bull market. 牛市 】 【 bear market. 熊市 】
 - `【 stocking 长筒袜 】`
 - > stock bond fund share lottery
 - _【 stock market. 股票市场 n 】_
@@ -400,10 +401,10 @@
 - 11
 - `【 loan 贷款 】` // ---------------------- 【 mortgage loan. 房贷 n 】 【 car loan. 车贷 n 】
 - `【 debt 债务 】` // ---------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 】
-- `【 duty 税 责任 n 】`
-- **【 take out a loan. 贷款 】**
+- `【 duty 税 责任 n 】` // ----------------- 【 customs duty. 关税 】 【 stamp duty. 印花税 】
 - **【 apply for a loan. 申请贷款 】**
 - **【 mortgage loan. 房贷 】**
+- **【 take out a loan. 贷款 】**
 - **【 After 【 applying for a loan 】, you can 【 take out a loan 】 from bank. 申请贷款后，就可以向银行贷款 】**
 - applicant 申请人
 - _【 mortgage loan. 房贷 】_
@@ -438,8 +439,8 @@
 - `【 repay 报答 v 】`
 - `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
 - `【 refund 退款 v n 】` // ------------------ 【 found VS fun VS fund VS refund 】
-- > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
 - > receipt 收据 发票 n
+- > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
 - > 【 bad debt. 坏账 】
 - > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [bad-debt.坏账-n] [debt-crisis.债务危机-n]
@@ -460,8 +461,8 @@
 -
 - 13
 - `【 applicant 申请人 n 】`
-- `【 application 申请 应用程序 n 】`
-- **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is applying for a loan and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
+- `【 application 申请 应用程序 n 】` // ------- 【 resignation application. 离职申请 】 【 resignation letter. 离职信 】
+- **【 【 In order to 】 get this 【 position 】, the 【 applicant 】 is 【 applying for a loan 】 and 【 driver's license 】. 为了这个职位，求职者正在申请贷款和驾照 】**
 - // -- driver's license. 驾驶证 n
 -
 -
@@ -470,7 +471,8 @@
 - > fee 费用
 - > fare 票价
 - _【 transaction successful. 交易成功 】_
-- .MT **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- 1 .MT **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
+- 2 .MT **【 The 【 transaction 】 was cancelled 【 due to 】 the 【 technical 】 reason. 因为技术原因，交易被取消了 】**
 - // complete 完成 v
 - // TIPS: Pay attention to the pronunciation of the word 'transaction'.
 - // TIPS: Pay attention to the pronunciation of the word 'completed'.
@@ -483,6 +485,7 @@
 - > 【 receipt VS debt 】
 - > 【 approve / improve / prove / proof 】
 - .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .MT .HL **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
 - .MT **【 The seller sent us the 【 invoice 】 for the goods we purchased last week. 卖方已向我们发送了我们上周购买的商品的发票 】**
 - // -
 - // proof 证明 证据 n
@@ -1080,9 +1083,9 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 11 】- The words that you mast know.**
 
-- [-CC.]
+- [-CC.]1
 - `【 least common. 最不常见 】`
 - **【 This is the 【 least common 】 【 species 】 in this area. 这是该地区最不常见的物种 】**
 - // -- species 物种 种 种类 n
@@ -1091,7 +1094,7 @@ fill out. 填写
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
 -
 -
-- [-BB.]
+- [-BB.]2
 - `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】 // 【 inflation VS invoice VS inflammation 】
 - `【 receipt 收据 n 】` // ------------------ 【 issue a receipt. 开收据 v 】
 - `【 certificate 证书 文凭 n 】` // ---------- 【 gradation certificate. 毕业证书 】 // 【 driver's license. 驾驶证 】 【 license plate. 车牌 】
@@ -1102,10 +1105,11 @@ fill out. 填写
 - .MT **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
 -
 -
-- [-AA.]
+- [-AA.]3
 - `【 inflation 通货膨胀 n 】` // ------------- inflation VS invoice VS inflammation
-- `【 inflammation 炎症 n 】`
+- `【 inflammation 炎症 n 】` // ------------- 【 anti-inflammatory medicine. 消炎药 】
 - `【 inflame 发炎 v 】`
+- `【 inflammatory 发炎的 adj 】` // --------- 【 anti-inflammatory medicine. 消炎药 】 【 over the counter drugs. 非处方药 】 【 description drugs. 处方药 】
 - **【 The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 经济结构和通货膨胀导致经济衰退和经济危机 】**
 - // -- lead -> led 导致 v
 - // -- economic structure.
@@ -1116,13 +1120,14 @@ fill out. 填写
 -
 -
 -
-- [AA.]
+- [AA.]4
 - `【 cost 成本 费用 n 】` // ------------------ 【 fixed cost. 固定成本 】
 - `【 profit 利润 盈利 n 】` // ---------------- 【 make a profit. 盈利 v 】 【 net profit. 净利润 n 】
 - `【 interest 利息 利益 兴趣 n 】` // ---------- 【 interest rate. 利率 n 】 【 annual interest rate. 年利率 】 // 【 national interest. 国家利益 】
 - > 【 revenue 收入 n = income 】` // ---------- 【 revenue 收入 n 】 【 consumption 消费 n = expense 】 VS 【 assumption 假设 n 】 // assume assumption
 - > 【 net 净收入 网 n 】` // ------------------- 【 net profit. 净利润 】 // 【 netWork 网络 n 】 VS 【 framework 框架 】
 - > 【 net profit. 净利润 n 】
+- 【 assume VS consume 】
 - AA.
 - _【 make a profit. 盈利 】_
 - _【 net profit. 净利润 】_
@@ -1151,7 +1156,7 @@ fill out. 填写
 - // TIPS: Pay attention to the pronunciation of the work 'bull'. [bull-公牛-n]
 -
 -
-- [BB.]
+- [BB.]5
 - `【 charge 收费 要价 充电 v n 】`
 - `【 charger 充电器 】`
 - `【 discharge 释放 排出 放电 】`
@@ -1160,7 +1165,7 @@ fill out. 填写
 - > charging pile. 充电桩` // ------------------ 【 tree stump. 树桩 n 】 VS 【 charging pile. 充电桩 n 】
 - > tree stump. 树桩`
 - _【 be in charge of. 负责 = be responsible for. 】_
-- 1. **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
+- 1. .MT **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
 - 2. **【 I need to 【 charge 】 the phone which has 【 no battery 】. 我需要给没有电的手机充电 】** // -- 2. charge 充电
 - 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then 【 plug 】 the charger into the 【 power strip 】. 】**
 - 4. **【 I 【 was in charge of developing 】 the app. = I was 【 responsible for 】 developing the app. 我负责开发这个 app 】**
@@ -1173,7 +1178,7 @@ fill out. 填写
 - // -- river bank. 河岸
 -
 -
-- [CC.]
+- [CC.]6
 - `【 discount 打折v 折扣n 】`
 - `【 at a discount. = on sale. 打折 】`
 - `【 counter 柜台 计算器 】` // ------------------ 【 drugstore counter. 药房柜台 n 】 【 over the counter drugs. 非处方药 n 】
@@ -1187,14 +1192,14 @@ fill out. 填写
 - // discount 打折
 - _【 at a discount. 以...的折扣 / 打折的 】_
 - _【 on sale. 打折 】_
-- 1. **【 ZongZi are sold 【 at 】 a 20% 【 discount 】 【 during 】 the 【 Dragon Boat Festival 】. 粽子在端午节期间打 8 折进行出售 】**
+- 1. .MT **【 ZongZi are sold 【 at 】 a 20% 【 discount 】 【 during 】 the 【 Dragon Boat Festival 】. 粽子在端午节期间打 8 折进行出售 】**
 - 2. **【 Many 【 clothes 】 are 【 on sale 】 in this store. 这家商店有许多衣服在打折 】**
 - // -- 【 at a discount. 打折 】
 - // -- 【 at a 20% discount. 打折 】
 - // -- 【 Dragon Boat Festival. 端午节 】
 -
 -
-- [DD.]
+- [DD.]7
 - `【 tax 税 税收 n v 】`
 - `【 individual income tax. 个人所得税 】` = personal income tax.
 - `【 additional tax. 附加税 】`
@@ -1216,7 +1221,7 @@ fill out. 填写
 - // -- 【 social security. 社保 】= social insurance. 社保
 -
 -
-- [EE.]
+- [EE.]8
 - `【 afford 买的起 负担得起v 】`
 - `【 owe 欠 v 】`
 - owe 欠 v
@@ -1231,9 +1236,41 @@ fill out. 填写
 - // -- owe 欠
 - // -- own 拥有 v 自己的 adj
 - // -- afford 买得起
+- // TIPS: Pay attention to the pronunciation of the word 'afford'. [afford-买得起-负担得起-v]
 -
 -
-- [FF.]
+- [FF.]9
+- `【 fine 好的adj / 罚款 v n 】`
+- `【 be fined for. 因...而被罚款 】`
+- `【 pay a fine. 缴纳罚款 】`
+- _【 drink driving. 酒驾 】_
+- 1. .MT **【 He was 【 fined 】 for 【 drunk driving 】. 他因酒驾而被罚款 】**
+- 2. .MT **【 You will be 【 fined 】 for 【 lettering 】 in 【 public place 】. 公共场合乱扔东西会被罚款 】**
+- 3. .MT **【 He 【 paid a fine 】of 20 dollars. 他支付了 20 美元的罚款 】**
+- // The policeman fined the driver for driving too fast. 警察因那个司机超速而对他处以罚款
+-
+-
+- [GG.]10
+- `【 maxed out. 刷爆 】`
+- max 最多的 adj 马克思 n
+- tax 税
+- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
+-
+-
+- [HH.]11
+- `【 fill out. 填写 】`
+- `【 deposit slip. 存款单 】`
+- `【 withdraw slip. 取款单 】`
+- _【 fill out the deposit slip. 填写存款单 】_
+- _【 fill out the form. 填写表格 】_
+- **【 Please 【 fill out 】 the 【 deposit slip 】. 请填写存款单 】**
+- **【 The doctor 【 asked me to 】 【 fill out 】 the 【 medical history form 】. 医生让我填写病历表 】**
+- // -- 【 ask sb to do sth. 让某事人做某事 】
+- // -- 【 medical history form. 病历表 】
+- // -- fill out. 填写
+-
+-
+- [II.]
 - `【 stable 稳定的 牢固的 】` // 【 steady VS stable 】 // stable VS unstable
 - `【 decent 体面的 】`
 - > 【 stable steady 稳定的 】
@@ -1252,7 +1289,7 @@ fill out. 填写
 - // -- stable 稳定的 牢固的 adj
 -
 -
-- [GG.]
+- [JJ.]
 - `【 bond 债券 纽带 】` // --------------------- 【 band-aid. 创可贴 n 】
 - `【 fund 基金 资金 】`
 - `【 stock 股票 】` // -------------------------【 stocking 长筒袜 】// 【 stock market. 股票市场 】
@@ -1291,7 +1328,7 @@ fill out. 填写
 -
 -
 -
-- [HH.]
+- [KK.]
 - `【 deposit 存钱 v 存款 n 定金 n 】` // --------- 【 deposit money. 存钱 v 】
 - `【 withdraw 取钱 v 】` // --------------------- 【 withdraw money. 取钱 v 】 // overdraw VS withdraw VS drawback
 - `【 in advance. 提前 】`
@@ -1303,14 +1340,7 @@ fill out. 填写
 - // -- 注意 percent 都是用单数
 -
 -
-- [II.]
-- `【 maxed out. 刷爆 】`
-- max 最多的 adj 马克思 n
-- tax 税
-- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
--
--
-- [JJ.]
+- [LL.]
 - `【 account 账户 】`
 - `【 accountant 会计 会计师 】`
 - // counter 柜台
@@ -1320,7 +1350,7 @@ fill out. 填写
 - **【 The 【 accountant 】 【 is responsible for 】 【 preparing 】 the 【 financial statement 】 【 for 】 the 【 annual 】 report. 会计师负责为年度报告编制财务报表 】**
 -
 -
-- [KK.]
+- [MM.]
 - `【 contract 合同 n 】` // ----- 【 sign a contract. 】 【 renew a contract. 】 【 breach of contract. 】 【 terminate a contract. 】 【 labor contract. 】
 - `【 contact 联系 v 】` // ------ 【 emergency contact. 紧急联系人 】 【 contact information. 联系方式 】
 - `【 contrast 对比 对照 v 】` // - 【 sharp contrast. 鲜明的对比 】 【 contrast radio. 对比度 】 // contrast compare
@@ -1343,13 +1373,14 @@ fill out. 填写
 -
 - 2. **【 Do you have the 【 contact information 】 【 for 】 your 【 emergency contacts 】? 你有紧急联系人的联系方式吗？ 】**
 - // -- 【 contact information. 联系方式 n 】
+- // -- 【 contact details. 联系方式 n 】
 - // -- 【 emergency contact. 紧急联系人 n 】
 -
 - 3. **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
 - 4. **【 This two 【 paintings 】 【 form 】 a 【 sharp 】 【 contrast 】. 这两幅画形成了鲜明的对比 】**
 -
 -
-- [LL.]
+- [NN.]
 - `【 transaction 交易 】`
 - `fee 费用`
 - `fare 票价`
@@ -1380,30 +1411,6 @@ fill out. 填写
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
 - **【 The 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
--
--
-- [OO.]
-- `【 fill out. 填写 】`
-- `【 deposit slip. 存款单 】`
-- `【 withdraw slip. 取款单 】`
-- _【 fill out the deposit slip. 填写存款单 】_
-- _【 fill out the form. 填写表格 】_
-- **【 Please 【 fill out 】 the 【 deposit slip 】. 请填写存款单 】**
-- **【 The doctor 【 asked me to 】 【 fill out 】 the 【 medical history form 】. 医生让我填写病历表 】**
-- // -- 【 ask sb to do sth. 让某事人做某事 】
-- // -- 【 medical history form. 病历表 】
-- // -- fill out. 填写
--
--
-- [PP.]
-- `【 fine 好的adj / 罚款 v n 】`
-- `【 be fined for. 因...而被罚款 】`
-- `【 pay a fine. 缴纳罚款 】`
-- _【 drink driving. 酒驾 】_
-- 1. **【 He was 【 fined 】 for 【 drink driving 】. 他因酒驾而被罚款 】**
-- 2. **【 【 Littering 】 in public places will be 【 fined 】. 公共场合乱扔东西会被罚款 】**
-- 3. **【 He 【 paid a 20 dollars fine 】. 他支付了 20 美元的罚款 】**
-- // The policeman fined the driver for driving too fast. 警察因那个司机超速而对他处以罚款
 -
 -
 - [QQ.]

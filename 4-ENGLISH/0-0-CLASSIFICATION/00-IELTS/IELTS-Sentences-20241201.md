@@ -668,4 +668,113 @@ This 【 TV program 】 is 【 broadcast 】 【 on repeat 】 in the 【 milita
 
 2
 请集中注意力，注意动画的变化
+
+
+3
+这是该地区最不常见的物种
+
+
+4
+我们会给你开发票和收据
+
+
+5
+经济结构和通货膨胀导致经济衰退和经济危机
+
+
+6
+这个产品的成本很高，利润很低
+-
+收入减去成本就是利润
+-
+我勉强可以在股市中盈利
+-
+股市可以分为牛市和熊市
+
+
+7
+How much does this 【 parking lot 】 【 charge 】?
+这个停车场怎么收费
+-
+I need to 【 charge 】 my mobile phone that has no battery.
+我需要给没有电的手机充电
+-
+// -
+// 【 charge 收费 要价 v / 充电 v 】
+// -
+// parking lot. 停车场
+// parking spot. 停车位
+// -
+
+
+8
+ZongZi are 【 sold 】 at 【 a 20% discount 】 during the 【 Dragon Boat Festival 】.
+粽子在端午节期间打 8 折进行出售
+// -
+// sell -> sold
+// -
+// 【 at a 20% discount. 八折 】
+// -
+// 【 Dragon Boat Festival. 端午节 】
+
+
+
+9
+【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】to buy a car.
+Although he 【 owes 】 a lot of money, he can still 【 afford 】a car.
+他虽然欠了很多钱，但是还买得起小汽车
+// -
+// owe 欠钱 v
+// afford 买得起 v
+// -
+// although 即使 - conjunction
+
+
+
+10
+He has already 【 maxed out 】 three 【 credit cards 】.
+他已经刷爆三张信用卡了
+// -
+// max out. 帅爆 v
+
+
+11
+Please 【 fill out 】 the 【 deposit slip 】.
+请填写存款单
+// -
+// fill out. 填写 v
+// deposit slip. 存款单 n
+
+
+12
+Everyone should pay the 【 social security 】 and 【 individual income tax 】 【 on time 】.
+每个人都应该按时缴纳社保和个人所得税
+// -
+// social security. 社保
+// social insurance. 社保
+// -
+// individual income tax. 个人所得税
+// -
+// on time. 准时
+// in time. 及时
+
+
+13
+He was 【 fined 】 for 【 drunk driving 】.
+他因酒驾而被罚款
+-
+You will be 【 fined 】 for 【 littering 】 in public place.
+公共场合乱扔东西会被罚款
+-
+He paid a 【 fined 】 of 20 【 dollars 】.
+他支付了 20 美元的罚款
+-
+// -
+// 【 fine 好的 adj / 罚款 v n 】
+// -
+// 【 drunk driving. 酒驾 】
+// -
+// 【 litter 乱扔 v / 垃圾 n 】
+// -
+// dollar 美元 n
 ```
