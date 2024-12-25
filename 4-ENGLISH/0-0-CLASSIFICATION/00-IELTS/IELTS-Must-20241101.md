@@ -144,6 +144,7 @@
 - `【 intersection 十字路口 交点 n 】` --------- 四面的交叉 + // --- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
 - `【 interaction 相互作用 】` --------------- 【 interaction design. 交互设计 】
 - `【 section 部分 部门 段 截面 n 】` // ------ 【 a section of road. 一段路 】 【 the section of text. 这段文字 】
+- `【 interjection 感叹词 n 】` // ----------- `【 exclamation mark. 感叹号 n 】 VS 【 interjection 感叹词 n 】`
 - > 【 junction station. 枢纽站 】
 - > 【 intersection point. 交点 】
 - > 【 focus point. 焦点 n 】

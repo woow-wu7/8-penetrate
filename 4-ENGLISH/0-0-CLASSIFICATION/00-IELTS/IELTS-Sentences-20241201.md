@@ -761,7 +761,7 @@ I can 【 barely 】 【 make a profit 】 in the 【 stock market 】.
 How much does this 【 parking lot 】 【 charge 】?
 这个停车场怎么收费
 -
-I need to 【 charge 】 my mobile phone that has no 【 battery 】.
+I need to 【 charge 】 my mobile phone which/that has no 【 battery 】.
 我需要给没有电的手机充电
 -
 // -
@@ -793,6 +793,8 @@ Although he 【 owes 】 a lot of money, he can still 【 afford 】a car.
 // afford 买得起 v
 // -
 // although 即使 - conjunction
+// -
+// TIPS: Pay attention to the pronunciation of the word 'afford'. [afford-买得起-v]
 
 
 
@@ -875,4 +877,12 @@ He paid a 【 fine 】 of 20 【 dollars 】.
 你们公司有分期付款服务吗？
 -
 分期付款没有手续费
+
+
+5
+他因酒驾而被罚款
+-
+公共场合乱扔东西会被罚款
+-
+他支付了 20 美元的罚款
 ```

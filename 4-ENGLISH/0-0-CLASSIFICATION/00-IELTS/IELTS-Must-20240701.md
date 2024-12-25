@@ -758,6 +758,8 @@
 - > 【 full marks. 满分 】 // --------------------------------- full marks. // question mark. // single quotation marks. // double quotation marks.
 - > 【 math score. 数学成绩 】
 - > 【 question mark. = question point. 问号 】
+- DD.
+- **=【 There is 【 an 】 【 interjection 】 before the 【 exclamation mark 】. 感叹号前面是感叹词 】**
 - // TIPS: Pay attention to the pronunciation of the word 'bracket'. [bracket-括号-支架-n]
 - // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
@@ -802,6 +804,7 @@
 - `【 preposition 介词 】` // ---------- 【 position 位置 岗位 】 【 preposition 介词 】
 - `【 quantifier 量词 】` // ----------- 【 quantifier 量词 】 【 quantity 数量 】 【 quality 质量 】
 - `【 conjunction 连词 】` // ---------- 【 in conjunction with. 结合... 】 // Please learn this file 【 in conjunction with 】 that file.
+- `【 interjection 感叹词 】` // ------- `【 interjection 感叹词 n 】 VS 【 intersection 十字路口 n 】 VS interaction VS conjunction VS junction VS section`
 - `【 auxiliary verb. 助动词 】`
 - `【 regular verb. 规则动词 】` // ----- 【 regular 普通的 规则的 定时的 】 // 1. regular gas. // 2. regular check-up. // regular verb. irregular verb.
 - `【 irregular verb. 不规则动词 】`

@@ -158,6 +158,7 @@
 - > 【 credit card. 信用卡 】
 - _【 roll out. 推出 】_
 - .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .HL **【 He has already 【 maxed out 】 three 【 credit cards 】. 他已经刷爆三张信用卡了 】**
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
 - .HL **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
 - .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月推出一款新手机 】**
@@ -167,6 +168,7 @@
 - // 【 debate 争论 讨论 】
 - // -- credit 信用 信贷
 - // -- debit 借记 借方
+- // 【 max out. 刷爆 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [debt-债务-n]
 - // TIPS: Pay attention to the pronunciation of the word 'debit'. [debit-借记-n] [debit-card.借记卡]
 -
@@ -1095,7 +1097,7 @@ fill out. 填写
 - .MT **【 You can 【 purchase 】 this TV 【 with 】 【 installment payments 】. 你可以用分期付款的方式购买这台电视机 】**
 - .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
 - .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
-- .HL **【 installment payments don't need any handing fee. 分期付款没有手续费 】**
+- .HL **【 【 installment payments 】 don't need any 【 handing fee 】. 分期付款没有手续费 】**
 - // -- 【 provide 提供 v 】
 - // -- 【 offer 提供 v / 报价 n 】
 - // -- 【 purchase 购买 v 】
@@ -1103,8 +1105,10 @@ fill out. 填写
 -
 -
 - [-eE.]13
-- `【 handing fee. 手续费 】`
+- `【 handing fee. 手续费 n 】`
+- `【 tuition fees. 学费 n 】`
 - .MT **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
+- .HL **【 【 installment payments 】 don't need any 【 handing fee 】. 分期付款没有手续费 】**
 - // -- credit card. 信用卡
 - // -- on credit. 赊账
 - // -- .MT 【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】

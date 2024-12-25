@@ -8,11 +8,12 @@
 - > 【 garden 花园 n 】
 -
 - `【 junior school. 小学 】`
-- `【 primary school. 小学 】` // ------------------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
-- `【 elementary school. 小学 】`
+- `【 elementary school. 小学 】`// -- 美式英语
+- `【 primary school. 小学 】` // ---- 英式英语 ------------------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
 - _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 v 】 【 vote 投票 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'elementary'. [elementary-基本的-初级的-adj][elementary-school.小学]
 -
 - `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】 // **【 primary election. 初选 】**
 - `【 junior high school. 初中 】`
@@ -28,8 +29,8 @@
 -
 - [小学]
 - `【 junior school. 小学 】`
-- `【 primary school. 小学 】` // ------------------- 【 primary source. 主要来源 】 【 primary election. 初选 预选 】 // 【 elect / election 】
 - `【 elementary school. 小学 】`
+- `【 primary school. 小学 】` // ------------------- 【 primary source. 主要来源 】 【 primary election. 初选 预选 】 // 【 elect / election 】
 - _【 primary 最初的 主要的 adj 】_
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
@@ -72,31 +73,35 @@
 - > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
 - > 【 doctoral students. 博士生 n 】
 -
-- [成绩]
+- [成绩-考试]
 - `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
 - `【 final exam. 期末考试 】`
-- `【 academic performance. 学习成绩 】`
+- `【 academic performance. 学习成绩 】` // ------------- 【 academic research. 学术研究 】
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
-- `【 math scores. 数学成绩 】`
 - `【 full scholarship. 全额奖学金 n 】` // -------------- 【 scholar 学者 】 // 【 internship 实习期 】 【 internship position. 实习岗 】
+- `【 math scores. 数学成绩 】`
 - `【 first place. 第一名 n 】` // ---------------------- 【 last place. 最后一名 】
 - `【 last place. 最后一名 n 】`
 - `【 first prize. 一等奖 n 】`
 - `【 the title of. ...的称号 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
-- _【 single quotation mark. 单引号 】_
-- _【 double quotation mark. 双引号 】_
-- _【 round brackets. 小括号 】_
-- _【 square brackets. 中括号 】_
-- _【 curly brackets. 大括号 】_
+- _【 single quotation marks. 单引号 】_
+- _【 double quotation marks. 双引号 】_
+- _【 exclamation mark. 感叹号 】_ // ------------- 【 interjection 感叹词 】 // interjection Vs intersection VS interaction VS conjunction VS junction VS section
+- _【 ellipsis mark. 省略号 】_
+- 【 round brackets. 小括号 】
+- 【 square brackets. 中括号 】
+- 【 curly brackets. 大括号 】
 - > 【 academic performance. 学习成绩 】
 - > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】
 - > 【 economic recession. 经济衰退 】
 - > 【 economic crisis. 经济危机 】
+- > 【 inflation 通货膨胀 n 】
 - [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
 - // TIPS: Pay attention to the pronunciation of the word 'midterm'. [midterm-exam.其中考试-n]
+- // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-惊叹词-n][exclamation-mark.感叹号]
 - .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 -
 - [学生]
@@ -109,14 +114,16 @@
 - _【 junior 大三学生 】_ // ----- 年少的 下级的
 - _【 senior 大四学生 】_// ------ 年长的 资深的
 - `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal 校长 VS principle 原则原理 】
-- `【 vice principal. 副校长 n 】`
+- `【 vice principal. 副校长 n 】` // ----------------- _【 vice president. 副总统 】_ // _【 vice principal. 副校长 】_
 - `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
 - `【 headmistress 女校长 】`
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handing fee. 手续费 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
 - > 【 campus 校园 校区 n 】
+- > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
 - _【 go abroad. 出国 】_
 - _【 study abroad. 出国留学 】_
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
@@ -124,24 +131,16 @@
 - **【 I 【 met 】 my 【 vice principal 】 【 on 】 the 【 campus 】. 我在校园里遇到了我的副校长 】**
 - // TIPS: Pay attention to the pronunciation of the word 'campus'. [campus-校园-校区-n]
 - // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
+- // TIPS: Pay attention to the pronunciation of the word 'violence'. [violence-暴力-n][campus-violence.校园暴力]
 -
-- [考试]
-- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
-- `【 final exam. 期末考试 】`
-- `【 academic performance. 学习成绩 】`
-- `【 full marks. 满分 】`
-- `【 math scores. 数学成绩 】`
-- `【 full scholarship. 全额奖学金 】` // --------------- 【 scholar 学者 n 】
-- `【 first place. 第一名 】` // ----------------------- 【 the title of. ...的称号 】
-- `【 last place. 最后一名 】`
-- `【 first prize. 一等奖 】`
-- .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 -
 - [其他]
-- `【 tuition fees. 学费 】` // ------------------------- _【 tuition fee. 学费 】_ // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 tuition fees. 学费 】` // ------------------------- 【 tuition fee. 学费 】 【 handing fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
 - `【 textbook 教科书 课本 n 】`
 - `【 school uniform. 校服 n 】`
 - `【 campus 校园 n 】`
+- `【 campus violence. 校园暴力 】`
+- > 【 handing fee. 手续费 n 】
 - > 【 tuition fee. 学费 n 】
 - > 【 tutorial 教程 n 】
 - > 【 tutor 家庭教师 】
@@ -169,6 +168,7 @@
 - `【 headmistress 女校长 】`
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 】 【 handing fee. 手续费 n 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
 - > 【 campus 校园 校区 n 】
