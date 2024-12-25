@@ -192,11 +192,11 @@
 -
 - 4
 - `【 deposit 存钱v 存款n 押金n 】` // -------------------------------- 【 deposit money. 存钱 v 】 【 deposit slip. 存款单 n 】
-- `【 deposit money. 存钱 = save money. = make a deposit 】` //------- 【 deposit slip. 存款单 n 】
+- `【 deposit money. 存钱 = save money. = make a deposit. = put aside money. 】` //------- 【 deposit slip. 存款单 n 】
 - `【 withdraw money. 取钱 = take out money = make a withdrawal 】` // 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - _【 deposit slip. 存款单 n 】_
 - _【 deposit money. 存钱 v 】_
-- // 【 deposit money. = save money. = make a deposit. 存钱 】
+- // 【 deposit money. = save money. = make a deposit. = put aside money. 存钱 】
 - // 【 withdraw money. = take out money. = make a withdrawal. 取钱 】 // `【 make a withdrawal of 100 yuan. 】`
 - // 【 I 【 make a withdrawal 】 【 of 】 $100 【 from 】 my checking account. 我从我的支票帐户中提取 100 美元 】
 - > 【 withdraw 取 提取 v 】 // ------------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
@@ -383,6 +383,7 @@
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
 - .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 - .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+- .HL **【 It's quite common to 【 make money 】 and 【 lose money 】 in the 【 stock market 】. 在股市中赚钱和赔钱都是很常见的现场 】**
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
 - // -- invest in. 投资...
 - // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
@@ -1086,8 +1087,26 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 14 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 16 】- The words that you mast know.**
 
+- [-KK.]
+- `【 lose money. 亏钱 赔钱 v 】`
+- `【 make money. 赚钱 v 】`
+- .HL **【 It's quite common to 【 make money 】 and 【 lose money 】 in the 【 stock market 】. 在股市中赚钱和赔钱都是很常见的现场 】**
+- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+-
+-
+- [-GG.]15
+- `【 squander 浪费 v n 】`
+- `【 waste 浪费v 垃圾n 】`
+- > waste VS garbage VS rubbish VS trash VS litter
+- **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
+- **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
+- // -- junk food. 垃圾食品 n
+- // -- junk mail. 垃圾邮件 n
+- // -- draft box. 草稿箱 n
+-
+-
 - [-FF.]14
 - `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
 - > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】

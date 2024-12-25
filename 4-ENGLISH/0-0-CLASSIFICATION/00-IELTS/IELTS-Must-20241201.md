@@ -267,6 +267,8 @@
 - `【 singular 单数的 单数 】` // ------------------- 【 singular noun. 单数名词 】 【 plural noun. 复数名词 】
 - `【 popular 受欢迎的 流行的 adj 】`
 - `【 circular 圆的 循环的 adj 】` // --------------- 【 circular motion. 圆周运动 】
+- > 【 particular attention. 特别注意 】
+- > 【 particular sphere. 特定领域 】 // ----------- 【 sphere 球 领域 n 】
 - // 【 package 包 包裹 套餐 n 】
 - **【 We need to 【 pay particular attention 】 that the most popular 【 package 】 is the 【 regular physical examination 】 package. 我们需要特别注意最受欢迎的套餐是定期体检的套餐 】**
 - // -- 【 package 包 包裹 套餐 n 】

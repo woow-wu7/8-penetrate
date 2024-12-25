@@ -1,6 +1,6 @@
 ##### People
 
-##### (1) Education background 教育背景 / 学历
+##### (1) **【 MUST - Education background 教育背景 / 学历 / 学生 / 职位 / 成绩 】**
 
 - `【 kindergarten 幼儿园 】`
 - **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**

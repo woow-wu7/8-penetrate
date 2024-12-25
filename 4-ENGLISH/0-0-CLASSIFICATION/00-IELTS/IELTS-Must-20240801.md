@@ -1146,6 +1146,8 @@
 - > 【 recyclable waste. 可回收垃圾 】 // -- 【 recyclable 可回收的 adj 】 【 recycle 回收 v 】
 - > 【 residual waste. 干垃圾 】` // ------ 【 residual value. 剩余价值 】 【 residual 剩余的 残留的 adj / 剩余 残渣 n 】
 - > 【 wet waste. 湿垃圾 】` // ----------- 【 household food waste. = wet waste. 湿垃圾 n 】
+- 【 waste 浪费 v 垃圾 n 】
+- 【 squander 浪费 v n 】
 - _【 a wast of time. 浪费时间 】_
 - _【 a waste of money. 浪费金钱 】_
 - _【 a waste of life. 浪费生命 】_
