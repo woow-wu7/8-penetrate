@@ -1084,9 +1084,25 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 13 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 14 】- The words that you mast know.**
 
-- [-EE.]13
+- [-FF.]14
+- `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
+- > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】
+- > 【 in installments. 分期付款 adv 】
+- _【 pay in cash. 用现金支付 adv 】_
+- _【 pay in installments. 分期付款 adv 】_
+- .MT **【 You can 【 purchase 】 this TV 【 with 】 【 installment payments 】. 你可以用分期付款的方式购买这台电视机 】**
+- .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
+- .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
+- .HL **【 installment payments don't need any handing fee. 分期付款没有手续费 】**
+- // -- 【 provide 提供 v 】
+- // -- 【 offer 提供 v / 报价 n 】
+- // -- 【 purchase 购买 v 】
+- // -- 【 apply for a loan. 申请贷款 v 】
+-
+-
+- [-eE.]13
 - `【 handing fee. 手续费 】`
 - .MT **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
 - // -- credit card. 信用卡

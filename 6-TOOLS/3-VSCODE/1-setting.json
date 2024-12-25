@@ -51,8 +51,10 @@
     "EE",
     "[x]",
     "[ ]",
+    "#################################################################################分割线#######",
     "MT",
     "HL"
+    // "VS"
   ],
   "todo-tree.general.tagGroups": {
     "TODO": ["TODO", "todo"]
@@ -140,15 +142,6 @@
       "gutterIcon": true,
       "iconColour": "#8800ff"
     },
-    "EE": {
-      "foreground": "white",
-      "background": "#ff0080",
-      // "opacity": 0.7,
-      "type": "tag-and-subTag",
-      "icon": "skip",
-      "gutterIcon": true,
-      "iconColour": "#ff0080"
-    },
     "[x]": {
       "foreground": "#64dd17",
       "background": "#008800"
@@ -166,12 +159,21 @@
       "iconColour": "#9500ff"
     },
     "HL": {
-      "foreground": "black",
-      "background": "#00FFFF",
+      "foreground": "white",
+      "background": "#ff0080",
       "type": "tag",
       "icon": "ruby",
       "gutterIcon": true,
-      "iconColour": "#00FFFF"
+      "iconColour": "#ff0080"
+    },
+    "EE": {
+      "foreground": "white",
+      "background": "#ff0080",
+      // "opacity": 0.7,
+      "type": "tag-and-subTag",
+      "icon": "skip",
+      "gutterIcon": true,
+      "iconColour": "#ff0080"
     }
   },
   "#################################################################################": "####### 1.todo-tree-end",
@@ -239,6 +241,7 @@
     "XSTX",
     "Zhen",
     "Zhening",
+    "Zong",
     "zset",
     "zukeeper",
     "Zustand"
