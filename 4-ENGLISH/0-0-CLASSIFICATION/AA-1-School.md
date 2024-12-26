@@ -124,6 +124,8 @@
 - _【 alumna 女校友 n 】_
 - > 【 campus 校园 校区 n 】
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
+- 【 tuition fee. 学费 n 】 // ---------------------- 【 tuition VS tutor VS tutorial 】
+- 【 handing fee. 手续费 n 】
 - _【 go abroad. 出国 】_
 - _【 study abroad. 出国留学 】_
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**

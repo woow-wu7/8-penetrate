@@ -6,6 +6,7 @@
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
 - `【 branch 分行 分支 分部 】` // ------------ 1. _【 branch office. 分公司 分店 】_ 2. _【 branch bank. 分行 】_
 - `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankrupt VS erupt VS corrupt VS interrupt 】
+- `【 banknote 钞票 纸币 = bill. 】` // ------- 【 banknote VS bill VS coin VS cash 】
 - _【 bank clerk. 银行职员 】_
 - _【 bank teller. 银行出纳员 】_
 - _【 bank manager. 银行经理 】_ // -----------【 fund manager. 基金经理 】 // manage management manager
@@ -510,11 +511,15 @@
 -
 - 16
 - `【 currency 货币 】`
-- `【 cash 现金 】` // cash cache
-- `【 bill 账单 钞票 】`
-- `【 coin 硬币 】` // coin corn
+- `【 cash 现金 】` // ---------------------- cash cache
+- `【 bill 账单 钞票 】` // ----------------- 【 bill = banknote. 钞票 纸币 n 】
+- `【 coin 硬币 】` // ---------------------- coin corn
 - `【 cheque 支票 】`
+- `【 lottery 彩票 】` // ------------------- 【 lottery ticket. 彩票 】
+- `【 banknote 纸币 钞票 n = bill 】`
+- > 【 exchange rate. 汇率 】
 - .MT **【 both 【 bills 】 and 【 coins 】 are 【 cash 】. 钞票和硬币都是现金 】**
+- .HL **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
 - // -- current 当前的
 - // -- currency 货币
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
@@ -571,6 +576,8 @@
 - _【 finance department. 财务部门 】_
 - _【 financial statement. 财务报表 】_
 - _【 financial term. 金融术语 】_
+- _【 financial sphere. 金融领域 】_
+- // sphere 球 领域 n
 - **【 The 【 finance department 】 【 is responsible for 】 issuing 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
 -
 -
@@ -1087,9 +1094,17 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 16 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 17 】- The words that you mast know.**
 
-- [-KK.]
+- [-KK.]17
+- `【 exchange rate. 汇率 】`
+- **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
+- // -- fluctuate 波动 v
+- // -- fluctuating 波动 n
+- // -- currency 货币 n
+-
+-
+- [-KK.]16
 - `【 lose money. 亏钱 赔钱 v 】`
 - `【 make money. 赚钱 v 】`
 - .HL **【 It's quite common to 【 make money 】 and 【 lose money 】 in the 【 stock market 】. 在股市中赚钱和赔钱都是很常见的现场 】**
@@ -1109,7 +1124,7 @@ fill out. 填写
 -
 - [-FF.]14
 - `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
-- > 【 installment payment. 分期付款 n 】 // -------- 【 offer installment payment. 提供分期分款 v 】
+- `【 installment payment. 分期付款 n 】` // ------- 【 offer installment payment. 提供分期分款 v 】
 - > 【 in installments. 分期付款 adv 】
 - _【 pay in cash. 用现金支付 adv 】_
 - _【 pay in installments. 分期付款 adv 】_
