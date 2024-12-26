@@ -705,7 +705,7 @@
 ###### Must 2024-10-19
 
 - 1
-- `【 inspire 激发 启发 v 】` // ------------- 【 inspire potential. 激发潜能 n 】 【 inspire curiosity. 激发好奇心 v 】
+- `【 inspire 激励 鼓励 激发 v 】` // ---------【 inspire potential. 激发潜能 n 】 【 inspire curiosity. 激发好奇心 v 】 【 inspire inspiration. 激发灵感 】
 - `【 expire 到期 过期 v 】` // -------------- 【 expiration time. 过期时间 n 】 【 expired dumpling. 过期的饺子 】 // ----- `【 be about to expire. 即将过期 】`
 - `【 outdate 过时 v 】` // ----------------- 【 out of date. 过时的 adj 】 // `【 go out of date. 过时 】`
 - > 【 inspire potential. 激发潜能 】// ------ 【 potential 潜力潜能 n / 潜在的 adj 】 // 【 potential customer. 潜在客户 】 【 potential risk. 潜在风险 】

@@ -119,13 +119,13 @@
 - `【 headmistress 女校长 】`
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
-- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handing fee. 手续费 】
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
 - > 【 campus 校园 校区 n 】
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
 - 【 tuition fee. 学费 n 】 // ---------------------- 【 tuition VS tutor VS tutorial 】
-- 【 handing fee. 手续费 n 】
+- 【 handling fee. 手续费 n 】
 - _【 go abroad. 出国 】_
 - _【 study abroad. 出国留学 】_
 - **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
@@ -137,12 +137,12 @@
 -
 -
 - [其他]
-- `【 tuition fees. 学费 】` // ------------------------- 【 tuition fee. 学费 】 【 handing fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 tuition fees. 学费 】` // ------------------------- 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
 - `【 textbook 教科书 课本 n 】`
 - `【 school uniform. 校服 n 】`
 - `【 campus 校园 n 】`
 - `【 campus violence. 校园暴力 】`
-- > 【 handing fee. 手续费 n 】
+- > 【 handling fee. 手续费 n 】
 - > 【 tuition fee. 学费 n 】
 - > 【 tutorial 教程 n 】
 - > 【 tutor 家庭教师 】
@@ -170,7 +170,7 @@
 - `【 headmistress 女校长 】`
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
-- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 】 【 handing fee. 手续费 n 】
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 】 【 handling fee. 手续费 n 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
 - > 【 campus 校园 校区 n 】

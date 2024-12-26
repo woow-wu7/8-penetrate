@@ -5,7 +5,7 @@
 - 1
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
 - `【 branch 分行 分支 分部 】` // ------------ 1. _【 branch office. 分公司 分店 】_ 2. _【 branch bank. 分行 】_
-- `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankrupt VS erupt VS corrupt VS interrupt 】
+- `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankrupt VS erupt VS corrupt VS interrupt 】 // `【 bankrupt = broke. 破产 v 】`
 - `【 banknote 钞票 纸币 = bill. 】` // ------- 【 banknote VS bill VS coin VS cash 】
 - _【 bank clerk. 银行职员 】_
 - _【 bank teller. 银行出纳员 】_
@@ -157,11 +157,12 @@
 - > 【 credit 信用 赊购 】
 - > 【 on credit. 赊账 】
 - > 【 credit card. 信用卡 】
-- _【 roll out. 推出 】_
-- .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
-- .HL **【 He has already 【 maxed out 】 three 【 credit cards 】. 他已经刷爆三张信用卡了 】**
+- _【 roll out. 推出 v 】_
+- _【 swipe card. 刷卡 v 】_
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
-- .HL **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
+- .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
+- .HL **【 There is a 【 handling fee 】for 【 swiping a credit card 】. 刷信用卡有手续费 】**
+- .HL **【 He has already 【 maxed out 】 three 【 credit cards 】. 他已经刷爆三张信用卡了 】**
 - .MT **【 The company plans to 【 roll out 】 a new phone next month. 该公司计划下个月推出一款新手机 】**
 - // 【 in debt. 欠债 负债 】
 - // 【 debt 债务 】
@@ -441,13 +442,15 @@
 - 12
 - `【 pay off. 还清 】`
 - `【 pack back. 偿还 归还 】`
-- `【 repay 报答 v 】`
+- `【 repay 报答 v 】` // --------------------- 【 pay VS repay VS overpay 】
+- `【 overpay 多付 v 】`
 - `【 compensate 补偿 v 】` // ---------------- 【 compensation 补偿 n 】
 - `【 refund 退款 v n 】` // ------------------ 【 found VS fun VS fund VS refund 】
 - > receipt 收据 发票 n
 - > debt 债务 欠款 n // ----------------------- 【 bad debt. 坏账 n 】 【 debt crisis. 债务危机 n 】
 - > 【 bad debt. 坏账 】
 - > 【 debt crisis. 债务危机 】 // ------------- 【 economic crisis. 经济危机 】
+- 【 pay VS repay 报答 v VS overpay 多付 v】
 - // TIPS: Pay attention to the pronunciation of the word 'debt'. [bad-debt.坏账-n] [debt-crisis.债务危机-n]
 - .MT **【 If you help me 【 pay back 】 the 【 loan 】 and 【 pay off 】 the 【 debt 】, I will 【 repay 】 you. 如果你帮我偿还贷款，还清债务，我会报答你 】**
 - > 【 in debt. 欠债 负债 】
@@ -1099,11 +1102,29 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 18 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 20 】- The words that you mast know.**
 
+- [-NN]20
+- `【 bargain 砍价 讨价还价 v / 便宜货 n 】`
+- **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
+-
+-
+- [-MM]19
+- `【 deduct 扣除 v 】` // -------------- 【 deduct cost. 扣除成本 】
+- > 【 product 产品 乘积 n 】
+- > 【 deduct 扣除 v 】
+- > 【 duct 导管 导管 n 】
+- **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
+- // -- 【 violate 违反 侵犯 v 】
+- // -- 【 violate law. 违反法律 】
+- // -- 【 violate regulation. 违反规定 】
+- // -- 【 violate one's privacy. 侵犯...的隐私 】
+-
+-
 - [-LL.]18
 - `【 share 分享v 股份n 】`
 - `【 shareholding 股权 】`
+- .MT **【 He 【 shared 】 all the company's 【 shares 】 and 【 shareholding 】 【 with 】 【 every employee 】. 他分享了公司所有的股份和股权给每一个员工 】**
 - **【 The 【 shares 】 are the 【 foundation 】 of the 【 shareholding 】. 股份是股权的基础 】**
 - // -- foundation 基础 粉底 n
 -
@@ -1135,7 +1156,7 @@ fill out. 填写
 -
 -
 - [-FF.]14
-- `【 installment 分期付款 安装 n 】` // ------------ 【 in installments. 分期付款 adv 】 【 installment payment. 分期付款 n 】
+- `【 installment 分期付款 安装 n 】` // ------------ 【 installment payment. 分期付款 n 】 // 【 in installments. 分期付款 adv 】
 - `【 installment payment. 分期付款 n 】` // ------- 【 offer installment payment. 提供分期分款 v 】
 - > 【 in installments. 分期付款 adv 】
 - _【 pay in cash. 用现金支付 adv 】_
@@ -1143,7 +1164,7 @@ fill out. 填写
 - .MT **【 You can 【 purchase 】 this TV 【 with 】 【 installment payments 】. 你可以用分期付款的方式购买这台电视机 】**
 - .MT **【 You don't need to 【 apply for a loan 】, because we 【 offer 】 【 installment payment 】 services. 你不需要申请贷款，因为我们提供分期付款服务 】**
 - .MT **【 Does your company 【 offer 】 【 installment payment 】 services? 你们公司有分期付款服务吗？ 】**
-- .HL **【 【 installment payments 】 don't need any 【 handing fee 】. 分期付款没有手续费 】**
+- .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
 - // -- 【 provide 提供 v 】
 - // -- 【 offer 提供 v / 报价 n 】
 - // -- 【 purchase 购买 v 】
@@ -1151,10 +1172,10 @@ fill out. 填写
 -
 -
 - [-eE.]13
-- `【 handing fee. 手续费 n 】`
+- `【 handling fee. 手续费 n 】` // handle -> handling 处理
 - `【 tuition fees. 学费 n 】`
-- .MT **【 There is a 【 handing fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
-- .HL **【 【 installment payments 】 don't need any 【 handing fee 】. 分期付款没有手续费 】**
+- .MT **【 There is a 【 handling fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
+- .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
 - // -- credit card. 信用卡
 - // -- on credit. 赊账
 - // -- .MT 【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】
@@ -1378,7 +1399,8 @@ fill out. 填写
 - `【 bond 债券 纽带 】` // --------------------- 【 band-aid. 创可贴 n 】
 - `【 fund 基金 资金 】`
 - `【 stock 股票 】` // -------------------------【 stocking 长筒袜 】// 【 stock market. 股票市场 】
-- `【 share 股份n 分享v 】` // ---------------- **【 market share. 市场占有率 】** // share sth with sb.
+- `【 share 股份n 分享v 】` // ------------------ 【 shareholding 股权 n 】 **【 market share. 市场占有率 】** // share sth with sb.
+- `【 shareholding 股权 n 】`
 - `【 lottery 彩票 】` // ----------------------- 【 lottery ticket. 彩票 】
 - `【 asset 资产 】` // ------------------------- 【 fixed asset. 固定资产 】 【 current asset. 流动资产 】
 - `【 property 财产 】`
@@ -1388,6 +1410,7 @@ fill out. 填写
 - _【 consider doing sth. 考虑做某事 】_
 - _【 lottery tickets. 彩票 】_
 - 1. **【 His 【 revenue 】 【 mainly 】 comes from 【 investment 】, 【 bond, fund, stock 】, salary, performance bonus, benefits, 【 interest 】, odd job, and 【 expenditure 】 includes car loan, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 】**
+- 2. .MT **【 He 【 shared 】 all the company's 【 shares 】 and 【 shareholding 】 【 with 】 【 every employee 】. 他分享了公司所有的股份和股权给每一个员工 】**
 - 2. **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
 - 3. **【 【 assets 】 【 are divided into 】 【 fixed assets 】 and 【 current assets 】. 资产分为固定资产和流动资产 】**
 - 4. **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
