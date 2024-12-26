@@ -328,3 +328,10 @@
 - `【 network 网络 n 】`
 - `【 homework 家庭作业 n 】`
 - `【 firework 烟花 n 】`
+
+###### Must 2024-12-26
+
+- 1
+- `【 district 区 地区 n 】`
+- `【 strict 严格的 adj 】`
+- `【 restrict 限制 v 】`

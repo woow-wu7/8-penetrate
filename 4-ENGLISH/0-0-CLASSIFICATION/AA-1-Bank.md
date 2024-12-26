@@ -575,7 +575,7 @@
 - > 【 contract 合同 n 】
 - .MT **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
 - .HL **【 【 Signing a lease 】 【 is equal to 】 【 sign a contract 】. 签订租约等同于签订合同 】**
-- .HL **【 We sign a two-year 【 lease 】. 我们签了两年租约 】**
+- .HL **【 We signed a two-year 【 lease 】. 我们签了两年租约 】**
 - // candidate 候选人 n
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 -
@@ -1125,7 +1125,7 @@ fill out. 填写
 - .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
 - .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
-- // -- 【 violate 违反 侵犯 v 】
+- // -- `【 violate 违反 侵犯 强奸 v 】`
 - // -- 【 violate law. 违反法律 】
 - // -- 【 violate regulation. 违反规定 】
 - // -- 【 violate one's privacy. 侵犯...的隐私 】

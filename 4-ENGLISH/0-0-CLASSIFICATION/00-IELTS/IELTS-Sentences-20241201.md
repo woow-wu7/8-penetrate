@@ -887,12 +887,12 @@ He paid a 【 fine 】 of 20 【 dollars 】.
 他支付了 20 美元的罚款
 ```
 
-##### 27 Make sentences 2024-12-27
+##### 27 **【 Make sentences 2024-12-27 】**
 
 ```
 1
 I don't 【 squander 】 money 【 on 】 【 junk food 】.
-我不会在垃圾食品上浪费钱
+我不会在垃圾食品上浪费钱卡
 -
 Both the 【 junk food 】 and 【 junk mail 】 are 【 garbage 】.
 垃圾食品和垃圾邮件都是垃圾
@@ -926,73 +926,158 @@ People who wear 【 stockings 】 usually don't 【 invest in stocks 】.
 
 
 3
+He 【 is jealous of 】 you.
 他嫉妒你
+// -
+// 【 be jealous of. 嫉妒... 】
 
 
 4
+We 【 restrict 】 the number of students in every class to 10.
 我们将每个班的学生人数限定为10人
 -
+The doctor 【 restricted 】 the blood flow 【 in order to 】 see the 【 veins 】 of the patient 【 clearly 】.
 医生限制了血液流动，以便清楚地看到病人的静脉
 -
+The 【 speed limit 】 【 on 】 this 【 highway 】 is 120 【 kilometers 】 per hour.
 这条高速公路的限速是每小时 120 公里
+-
+// -
+// vein 静脉 n
+// -
+// 【 restrict 限制 v 】
+// 【 limit 限制 v 】
+// -
+// 【 speed limit. 限速 n 】
+
 
 
 5
+【 Shares 】 are the 【 foundation 】 of the 【 shareholding 】.
 股份是股权的基础
 -
+He 【 shared 】 all the 【 shares 】 and 【 shareholdings 】 with every employee.
 他分享了公司所有的股份和股权给每一个员工
+-
+// -
+//【 foundation 基础n 粉底n 】
+// -
+// 【 share 分享v 股份n 】
+// 【 shareholding 股权 n 】
+// -
+// share sth with sb. 分享某物给某人
+
+
 
 6
+Economy development has lead to the 【 accelerated growth 】 of the economy.
 经济发展使得经济加速增长
+// -
+// 【 accelerated growth. 加速增长 】
 
 
 7
+【 Signing a lease 】 is equal to 【 sign a contract 】.
 签订租约等同于签订合同
 -
+We will contrast all the candidates, and then we will contact you to sign a contract.
 我们将对比候选人后再联系您签合同
 -
+We signed two-year 【 lease 】.
 我们签了两年租约
+-
+// -
+// 【 sign a lease. 签订租约 】
+// 【 sign a contract. 签订合同 】
+// -
+// 【 lease 租赁n 租用v 】
+
 
 
 8
+He needs a 【 separate 】 room to study.
 他需要一个单独的房间学习
+// -
+// 【 separate 分离 分开 v / 单独的 adj 】
 
 
 9
+There is a 【 handling fee 】 for 【 swiping 】 a 【 credit card 】.
 刷信用卡有手续费
 -
+He can buy things 【 on credit 】 【 with 】 【 credit cards 】.
 他可以用信用卡赊账购物
 -
+This bank has 【 rolled out 】 【 credit cards 】 and 【 debit cards 】.
 这家银行推出了信用卡和借记卡
 -
+He has already 【 maxed out 】 three 【 credit cards 】.
 他已经刷爆三张信用卡了
+-
+// -
+// 【 handling fee. 手续费 n 】
+// -
+// 【 swipe 刷卡 】
+// swipe a card. 刷卡
+// -
+// 【 credit card. 信用卡 】
+// 【 on credit. 赊账 】
+// -
+// 【 max out. 刷爆 v 】
+
 
 
 10
+If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】.
 如果你违反公司规定会被扣工资
+-
+// -
+// 【 violate 违反 v 】·
+// 【 deduct 扣除 v 】
+// -
+// 【 violate regulation. 违反规定 v 】
+// 【 violate law. 违反法律 v 】
+// -
+// 【 deduct cost. 扣除成本 】
+// 【 deduct the handling fee. 扣除手续费 】
+// -
+// TIPS: Pay attention to the pronunciation of the word 'violate'. [violate-违反-v] [violate-law.违反法律]
+
 
 
 11
+He 【 works quite hard 】. 【 On the other hand 】, He is also very clever.
 他工作相当努力，另一方面，他非常聪明
+// -
+// 【 on the other hand. 另一方面 】
+
 
 
 12
+He 【 shared 】 all the 【 shares 】 and 【 shareholdings 】 【 with 】 every employee.
 他分享了公司所有的股份和股权给每一个员工
 -
+The 【 shares 】 are the foundation of the 【 shareholding 】.
 股份是股权的基础
+-
+// -
+// share 分享v 股份n
+// shareholding 股权 n
+
 
 
 13
-便宜货不需要讨价还价
+We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
+我们没必要为便宜货讨价还价
+// -
+// 【 bargain 砍价 讨价还价 v / 便宜货 n 】
 ```
 
-##### 28 Make sentences 2024-12-28
+##### 28 **【 Make sentences 2024-12-28 】**
 
 ```
 1
 我们没必要为便宜货讨价还价
--
-便宜货不需要讨价还价
 -
 这个没有树皮的木桩可以砍价
 
@@ -1059,4 +1144,45 @@ People who wear 【 stockings 】 usually don't 【 invest in stocks 】.
 
 12
 粽子在端午节期间打 8 折进行出售
+
+------- -------
+
+13
+他嫉妒你
+
+
+14
+医生限制了血液流动，以便清楚地看到病人的静脉
+-
+这条高速公路的限速是每小时 120 公里
+
+
+15
+经济发展使得经济加速增长
+
+
+16
+签订租约等同于签订合同
+-
+我们将对比候选人后再联系您签合同
+-
+我们签了两年租约
+
+
+17
+他需要一个单独的房间学习
+
+
+18
+刷信用卡有手续费
+-
+他可以用信用卡赊账购物
+-
+这家银行推出了信用卡和借记卡
+-
+他已经刷爆三张信用卡了
+
+
+19
+他工作相当努力，另一方面，他非常聪明
 ```
