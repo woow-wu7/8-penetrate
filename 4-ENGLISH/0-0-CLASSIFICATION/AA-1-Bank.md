@@ -392,7 +392,7 @@
 -
 -
 - 10
-- `【 share 股份 分享 n 】`
+- `【 share 股份 分享 n 】` // -------------- 【 share 股份 n 】 VS 【 shareholding 股权 n 】
 - `【 bond 债券 纽带 n 】`
 - `【 fund 基金 n 】`
 - `【 stock 股票 n 】` // ------------------- 【 stock market. 股票市场 】
@@ -559,12 +559,17 @@
 -
 -
 - 19
-- `【 contract 合同 n 】` // ------------------------ 【 sign a contract. 签合同 v 】
+- `【 contract 合同 n 】` // ------------------------ 【 sign a contract. 签合同 v 】 VS 【 sign a lease. 签订租约 v 】
 - `【 contact 联系 v 】` // ------------------------- 【 contact details. 联系方式 n 】
 - `【 contrast 对比 对照 v n 】` // ------------------ 【 contrast ratio. 对比度 n 】
+- _【 sign a lease. 签订租约 】_ // ------------------ 【 lease 租赁 n 租用 v 】
 - _【 sign a contract. 签合同 】_
 - _【 contract deadline. 合同期限 】_
+- > 【 lease 租约 n 租用 v 】
+- > 【 contract 合同 n 】
 - .MT **【 We will 【 contrast 】 the 【 candidates 】 and then 【 contact 】 you to 【 sign the contract 】. 我们将对比候选人后再联系您签合同 】**
+- .HL **【 【 Signing a lease 】 【 is equal to 】 【 sign a contract 】. 签订租约等同于签订合同 】**
+- .HL **【 We sign a two-year 【 lease 】. 我们签了两年租约 】**
 - // candidate 候选人 n
 - // TIPS: Pay attention to the pronunciation of the word 'contact'.
 -
@@ -1094,8 +1099,15 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 17 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 18 】- The words that you mast know.**
 
+- [-LL.]18
+- `【 share 分享v 股份n 】`
+- `【 shareholding 股权 】`
+- **【 The 【 shares 】 are the 【 foundation 】 of the 【 shareholding 】. 股份是股权的基础 】**
+- // -- foundation 基础 粉底 n
+-
+-
 - [-KK.]17
 - `【 exchange rate. 汇率 】`
 - **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
@@ -1290,6 +1302,7 @@ fill out. 填写
 - .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- individual 个人的 单独的 ad
 - // -- personal 个人的 私人的 adj
+- // -- 【 individual income tax. 个人所得税 = personal income tax. 个人所得税 】
 - // -- 【 social security. 社保 】= social insurance. 社保
 -
 -
