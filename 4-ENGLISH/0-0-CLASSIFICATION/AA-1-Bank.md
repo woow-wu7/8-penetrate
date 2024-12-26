@@ -383,11 +383,14 @@
 - stack // -------- tech stack. 技术栈
 - stuck // -------- get stuck in. 陷入
 - struck // ------- The 【 hurricane 】and【 tornado 】 【 hurriedly 】 】【 struck 】 the village.
+- .HL **【 It's a 【 common phenomenon 】 to 【 make money 】 and 【 lose money 】 in 【 stock markets 】. 在股市中赚钱和赔钱都是很常见的现象 】**
 - .MT **【 Many people don't like to 【 invest in 】 【 stocks 】. 许多人不喜欢投资股票 】**
 - .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
-- .HL **【 It's quite common to 【 make money 】 and 【 lose money 】 in the 【 stock market 】. 在股市中赚钱和赔钱都是很常见的现场 】**
 - **【 We need to 【 consider 】 the 【 return on investment 】 【 in 】 any investment. 我们的任何投资都需要考虑投资回报率 】**
 - // -- invest in. 投资...
+- // -- phenomenon 现象 n
+- // -- common phenomenon. 常见现象
+- // -- social phenomenon. 社会现象
 - // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v] // invest investment
 -
 -
@@ -1106,15 +1109,22 @@ fill out. 填写
 
 - [-NN]20
 - `【 bargain 砍价 讨价还价 v / 便宜货 n 】`
-- **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
+- `【 bargain for. 就...讨价还价 】`
+- 【 bark 树皮 n 狗叫 v 】
+- 【 stump 树桩 n 】
+- .MT **【 We don't need to 【 bargain 】 【 for 】 the 【 bargains 】. 我们没必要为便宜货讨价还价 】**
+- .MT **【 The 【 stump 】 without 【 bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
+- .MT **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
 -
 -
 - [-MM]19
-- `【 deduct 扣除 v 】` // -------------- 【 deduct cost. 扣除成本 】
-- > 【 product 产品 乘积 n 】
+- `【 deduct 扣除 v 】` // -------------- 【 deduct cost. 扣除成本 】 【 deduct the handling fee. 扣除手续费 】
 - > 【 deduct 扣除 v 】
-- > 【 duct 导管 导管 n 】
-- **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
+- > 【 duct 导管 n 】
+- > 【 product 产品 乘积 n 】
+- .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
+- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
+- .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
 - // -- 【 violate 违反 侵犯 v 】
 - // -- 【 violate law. 违反法律 】
 - // -- 【 violate regulation. 违反规定 】
@@ -1131,6 +1141,7 @@ fill out. 填写
 -
 - [-KK.]17
 - `【 exchange rate. 汇率 】`
+- **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
 - **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
 - // -- fluctuate 波动 v
 - // -- fluctuating 波动 n
@@ -1140,16 +1151,19 @@ fill out. 填写
 - [-KK.]16
 - `【 lose money. 亏钱 赔钱 v 】`
 - `【 make money. 赚钱 v 】`
-- .HL **【 It's quite common to 【 make money 】 and 【 lose money 】 in the 【 stock market 】. 在股市中赚钱和赔钱都是很常见的现场 】**
+- .HL **【 It's a 【 common phenomenon 】 to 【 make money 】 and 【 lose money 】 in 【 stock markets 】. 在股市中赚钱和赔钱都是很常见的现象 】**
 - .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+- // -- phenomenon 现象 n
+- // -- common phenomenon. 常见现象
+- // -- social phenomenon. 社会现象
 -
 -
 - [-GG.]15
-- `【 squander 浪费 v n 】`
+- `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
 - `【 waste 浪费v 垃圾n 】`
 - > waste VS garbage VS rubbish VS trash VS litter
-- **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
-- **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
+- .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
+- .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
 - // -- junk food. 垃圾食品 n
 - // -- junk mail. 垃圾邮件 n
 - // -- draft box. 草稿箱 n
@@ -1173,7 +1187,8 @@ fill out. 填写
 -
 - [-eE.]13
 - `【 handling fee. 手续费 n 】` // handle -> handling 处理
-- `【 tuition fees. 学费 n 】`
+- `【 tuition fee. 学费 n 】`
+- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .MT **【 There is a 【 handling fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
 - .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
 - // -- credit card. 信用卡
@@ -1183,7 +1198,7 @@ fill out. 填写
 -
 - [-DD.]12
 - `【 fine 好的adj / 罚款 v n 】`
-- **【 He was 【 fined 】 for 【 drunk driving 】. 他因酒驾而被罚款 】**
+- **【 He was 【 fined 】 【 for 】 【 drunk driving 】. 他因酒驾而被罚款 】**
 - **【 You will be 【 fined 】 for 【 littering 】 in 【 public place 】. 公共场合乱扔东西会被罚款 】**
 - **【 He 【 paid 】 the 【 fined 】 【 of 】 20 dollars. 他支付了 20 美元的罚款 】**
 - // -- drunk driving. 酒驾
@@ -1192,7 +1207,7 @@ fill out. 填写
 -
 - [-CC.]1
 - `【 least common. 最不常见 】`
-- **【 This is the 【 least common 】 【 species 】 in this area. 这是该地区最不常见的物种 】**
+- **【 This is the 【 least common 】 【 species 】 【 in 】 this area. 这是该地区最不常见的物种 】**
 - // -- species 物种 种 种类 n
 - // -- rare species. 稀有物种
 - // -- endangered species. 濒危物种

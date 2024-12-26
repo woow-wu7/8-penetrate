@@ -891,15 +891,38 @@ He paid a 【 fine 】 of 20 【 dollars 】.
 
 ```
 1
+I don't 【 squander 】 money 【 on 】 【 junk food 】.
 我不会在垃圾食品上浪费钱
 -
+Both the 【 junk food 】 and 【 junk mail 】 are 【 garbage 】.
 垃圾食品和垃圾邮件都是垃圾
+-
+// -
+// 【 squander 浪费 v 】
+// 【 waste 浪费v 垃圾n 】
+// -
+// 【 junk food. 垃圾食品 n 】
+// 【 junk mail. 垃圾邮件 n 】
 
 
 2
-在股市中赚钱和赔钱都是很常见的现场
+It's a 【 common phenomenon 】 to 【 make money 】 and 【 lose money 】 in 【 stock markets 】.
+在股市中赚钱和赔钱都是很常见的现象
 -
+People who wear 【 stockings 】 usually don't 【 invest in stocks 】.
 穿长筒袜的人一般不投资股票
+-
+// -
+// 【 common phenomenon. 常见现象 n 】
+// 【 social phenomenon. 社会现象 n 】
+// -
+// make money. 赚钱 v
+// lose money. 亏钱 v
+// -
+// stock market. 股票市场
+// -
+// stocking 长筒袜 n
+// stock 股票 n
 
 
 3
@@ -961,4 +984,79 @@ He paid a 【 fine 】 of 20 【 dollars 】.
 
 13
 便宜货不需要讨价还价
+```
+
+##### 28 Make sentences 2024-12-28
+
+```
+1
+我们没必要为便宜货讨价还价
+-
+便宜货不需要讨价还价
+-
+这个没有树皮的木桩可以砍价
+
+
+2
+我们应该扣除这个产品导管部分的成本
+-
+我们应该扣除这个产品的手续费
+-
+如果你违反公司规定会被扣工资
+
+
+3
+他分享了公司所有的股份和股权给每一个员工
+-
+股份是股权的基础
+
+
+4
+我们应该了解一个汇率方面的知识
+
+
+5
+在股市中赚钱和赔钱都是很常见的现场
+-
+穿长筒袜的人一般不投资股票
+
+
+6
+我不会在垃圾食品上浪费钱
+-
+垃圾食品和垃圾邮件都是垃圾
+
+
+7
+你可以用分期付款的方式购买这台电视机
+-
+你不需要申请贷款，因为我们提供分期付款服务
+-
+你们公司有分期付款服务吗？
+-
+分期付款没有手续费
+
+
+8
+我们应该扣除这个产品的手续费
+-
+使用信用卡有手续费
+-
+分期付款没有手续费
+
+
+9
+这是该地区最不常见的物种
+
+
+10
+我们会给你开发票和收据
+
+
+11
+经济结构和通货膨胀导致经济衰退和经济危机
+
+
+12
+粽子在端午节期间打 8 折进行出售
 ```
