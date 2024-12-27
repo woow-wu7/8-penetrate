@@ -5,8 +5,10 @@
 - 1
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
 - `【 branch 分行 分支 分部 】` // ------------ 1. _【 branch office. 分公司 分店 】_ 2. _【 branch bank. 分行 】_
-- `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankrupt VS erupt VS corrupt VS interrupt 】 // `【 bankrupt = broke. 破产 v 】`
-- `【 banknote 钞票 纸币 = bill. 】` // ------- 【 banknote VS bill VS coin VS cash 】
+- `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankruptcy 破产 n VS bankrupt 破产 v 】 // 【 bankrupt VS erupt VS corrupt VS interrupt 】
+- // `【 banknote 钞票 纸币 = bill. 】` // ------- 【 banknote VS bill VS coin VS cash 】
+- // `【 bankrupt = broke. 破产 v 】`
+- // `【 bankruptcy 破产 n 】`
 - _【 bank clerk. 银行职员 】_
 - _【 bank teller. 银行出纳员 】_
 - _【 bank manager. 银行经理 】_ // -----------【 fund manager. 基金经理 】 // manage management manager
@@ -1217,7 +1219,8 @@ fill out. 填写
 -
 - [-Ee.]13
 - `【 exchange rate. 汇率 】`
-- **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
+- .HL **【 What's the current 【 exchange rate 】 【 from 】 RMB 【 to 】 dollar. 】**
+- .MT **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
 - **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
 - // -- fluctuate 波动 v
 - // -- fluctuating 波动 n

@@ -74,8 +74,10 @@
 - > 【 doctoral students. 博士生 n 】
 -
 - [成绩-考试]
-- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】
+- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】
 - `【 final exam. 期末考试 】`
+- `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
+- `【 National College Entrance Examination. 高考 n 】`
 - `【 academic performance. 学习成绩 】` // ------------- 【 academic research. 学术研究 】
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
 - `【 full scholarship. 全额奖学金 n 】` // -------------- 【 scholar 学者 】 // 【 internship 实习期 】 【 internship position. 实习岗 】

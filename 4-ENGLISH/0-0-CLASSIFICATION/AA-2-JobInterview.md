@@ -443,8 +443,8 @@
 -
 - [UU.]
 - `【 professor 教授 n 】`
-- `【 profession 职业 专业 行业 n 】` // -------------- 【 profession VS industry 行业 】 // 【 profession VS major 】
-- `【 professional 职业的 专业的 adj 】` // ----------- 【 professional skill. 专业技能 】 【 professional staff. 专业人员 】 【 professional equipment. 专业设备 】
+- `【 profession 专业 职业  行业 n 】` // -------------- 【 profession VS industry 行业 】 // 【 profession VS major 】
+- `【 professional 专业的 职业的  adj 】` // ----------- 【 professional skill. 专业技能 】 【 professional staff. 专业人员 】 【 professional equipment. 专业设备 】
 - > 【 professional skill. 专业技能 】
 - > 【 professional staff. 专业人员 】
 - > 【 professional equipment. 专业设备 】
