@@ -412,3 +412,16 @@
 - // independent individual. 独立的个体
 - // -
 - // TIPS: Pay attention to the pronunciation of the word 'separate'. [separate-分开-分离-v/单独的-adj]
+
+##### Words Must **2024-12-28**
+
+- 1
+- `【 jealous 嫉妒的 adj 】`
+- `【 jealousy 嫉妒 n 】` // --------------- 【 be jealous of sb. 嫉妒某人 】
+- `【 envy 羡慕 嫉妒 v 】`
+- > 【 be jealous of sb. 嫉妒某人 v 】
+- _【 envy 羡慕 嫉妒 v 】_
+- _【 navy 海军 n 】_
+- _【 naval 海军的 adj 】_ // -------------- 【 naval base. 海军基地 n 】 【 naval fleet. 海军舰队 】
+- **【 He 【 is jealous of 】 you. 他嫉妒你 】**
+- **【 he 【 envies 】 you. 他嫉妒你 】**

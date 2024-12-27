@@ -146,9 +146,12 @@
 - `【 campus violence. 校园暴力 】`
 - > 【 handling fee. 手续费 n 】
 - > 【 tuition fee. 学费 n 】
-- > 【 tutorial 教程 n 】
-- > 【 tutor 家庭教师 】
-- **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
+- _【 tutor 家庭教师 n 】_
+- _【 tutorial 教程 n 】_
+- _【 tuition 学费 n 】_ // ---------------------------- 【 tuition fee. 学费 n 】
+- _【 institution 机构 n 】_ // ------------------------ 【 educational institution. 教育机构 n 】
+- .HL **【 The 【 tuition fees 】 【 for 】 【 overseas students 】 are high. 留学生的学费很贵 】**
+- .MT **【 The tuition fees of the educational institution are hight. but the tutorials are good. 这家教育机构的学费很贵，但教程很好 】**
 -
 - [教育背景]
 - `【 education 教育 学历 n 】`

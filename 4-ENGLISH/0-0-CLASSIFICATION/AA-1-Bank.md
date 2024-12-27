@@ -1219,7 +1219,7 @@ fill out. 填写
 -
 - [-Ee.]13
 - `【 exchange rate. 汇率 】`
-- .HL **【 What's the current 【 exchange rate 】 【 from 】 RMB 【 to 】 dollar. 】**
+- .HL **【 What's the current 【 exchange rate 】 【 from 】 RMB 【 to 】 dollar. 人民币兑美元的当前汇率是多少？ 】**
 - .MT **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
 - **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
 - // -- fluctuate 波动 v
@@ -1378,7 +1378,7 @@ fill out. 填写
 -
 -
 - [EE.]8
-- `【 afford 买的起 负担得起v 】`
+- `【 afford 买的起 负担得起v 】` // --------- 【 affordable 买得起的 adj 】
 - `【 owe 欠 v 】`
 - owe 欠 v
 - own 拥有 v / 自己的 adj
@@ -1386,7 +1386,7 @@ fill out. 填写
 - own VS owe VS possess
 - _【 owe money. 欠钱 】_
 - _【 if only. 要是...就好了 】_
-- **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
+- .MT **【 【 Although 】 he 【 owes 】 a lot of money, he can still 【 afford 】 a car. 他虽然欠了很多钱，但是还买得起小汽车 】**
 - **【 【 If only 】 I could 【 afford 】 this car！ 要是我能买得起这辆车就好了 】**
 - // -- although 虽然 尽管
 - // -- owe 欠
