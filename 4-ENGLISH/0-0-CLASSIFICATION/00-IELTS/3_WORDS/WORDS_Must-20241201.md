@@ -315,3 +315,46 @@
 - **【 He 【 paid 】 the 【 fined 】 【 of 】 20 dollars. 他支付了 20 美元的罚款 】**
 - // -- drunk driving. 酒驾
 - // -- litter 乱扔 v 垃圾 n
+
+##### Words Must **2024-12-27**
+
+- 1
+- `【 violate 违反 v 】` // -------------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 】
+- `【 breach 违反 v 】` // --------------------- 【 breach the contract. 违反合同 v 】
+- > 【 violate regulation. 违反规定 v 】
+- > 【 violate law. 违反法律 】
+- > 【 violate contract. 违反合同 】 // --------- 【 sign a contract. 签合同 】 【 renew a contract. 续签合同 】 【 terminate a contract. 终止合同 】
+- .MT **【 We 【 terminated the transaction 】 because he 【 violates / breaches 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- .MT **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- .HL **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
+- // TIPS: Pay attention to the pronunciation of the word 'violate'. [violate-违反-v]
+- AA.
+- _【 sign a contract. 签合同 v 】_
+- _【 renew a contract. 续签合同 v 】_
+- _【 terminate a contract. 终止合同 v 】_
+- _【 violate a contract. 违反合同 v 】_ = breach a contract. 违反合同
+- .MT **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- BB.
+- `【 terminate 终止 v 】`
+- `【 terminal 终点站 终端 n / 晚期的 adj 】`
+- > 【 terminate contract. 终止合同 】
+- > 【 terminate service. 终止服务 】 /// -------- 【 installment payment service. 分期付款服务 】
+- > 【 terminate transaction. 终止交易 】
+- .MT **【 We 【 terminated the transaction 】 because he 【 violates / breaches 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- CC.
+- _【 deduct 扣除 v 】_
+- _【 deduct cost. 扣除成本 】_
+- _【 deduct handling fee. 扣除手续费 】_ // ---- 【 deduct a certain handling fee. 扣除一定的手续费 v 】
+- _【 automatically deduct money. 自动扣款 v 】_
+- .HL **【 If you 【 swipe 】 a 【 credit card 】, The ATM will 【 automatically 】 【 deduct 】 money and it also will automatically deduct the 【 handling fee 】 for this 【 transaction 】. 如果你刷信用卡，ATM 机会自动扣款，并自动扣除本次交易手续费 】**
+-
+-
+-
+-
+-
+- 2
+- `【 certain 确定的 一定的 adj 】`
+- > 【 a certain level. 一定的水平 】
+- > 【 a certain amount. 一定的数量 】
+- .MT **【 【 Once 】 you have memorized 【 a certain number of 】 words, your English ability will 【 reach 】 【 a certain level 】. 一旦你记住了一定数量的单词，你的英语能力将会达到一定的水平 】**
+- .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你讲会被扣一定的手续费 】**

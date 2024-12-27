@@ -1142,13 +1142,19 @@ fill out. 填写
 - > 【 deduct 扣除 v 】
 - > 【 duct 导管 n 】
 - > 【 product 产品 乘积 n 】
-- .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
-- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
+- _【 violate 违反 v 】_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】
+- _【 certain 确定的 一定的 adj 】_ // --- 【 a certain quantity. 一定的数量 】 【 a certain level. 一定的水平 】
+- [link][Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
+- .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你讲会被扣一定的手续费 】**
 - .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
+- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
+- .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
 - // -- `【 violate 违反 侵犯 强奸 v 】`
 - // -- 【 violate law. 违反法律 】
 - // -- 【 violate regulation. 违反规定 】
 - // -- 【 violate one's privacy. 侵犯...的隐私 】
+- // -- swipe 刷卡
+- // -- swipe a credit card. 刷信用卡
 -
 -
 - [-KK.]18
@@ -1226,14 +1232,19 @@ fill out. 填写
 - // -- phenomenon 现象 n
 - // -- common phenomenon. 常见现象
 - // -- social phenomenon. 社会现象
+- // -- rare phenomenon. 罕见现象
+- // -- natural phenomenon. 自然现象
 -
 -
 - [-CC.]11
 - `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
 - `【 waste 浪费v 垃圾n 】`
+- > 【 squander time. 浪费时间 】
+- > 【 squander money. 浪费金钱 】
 - > waste VS garbage VS rubbish VS trash VS litter
-- .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
+- .HL **【 I won't 【 squander time 】 and 【 squander money 】 【 on 】 【 junk food. 】 我不会在垃圾食品上浪费时间和浪费金钱 】**
 - .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
+- .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
 - // -- junk food. 垃圾食品 n
 - // -- junk mail. 垃圾邮件 n
 - // -- draft box. 草稿箱 n
@@ -1257,6 +1268,7 @@ fill out. 填写
 - // -- rare species. 稀有物种
 - // -- endangered species. 濒危物种
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
+- // TIPS: Pay attention to the pronunciation of the word 'area'. [area-地区-区域-n]
 -
 -
 -
@@ -1527,12 +1539,16 @@ fill out. 填写
 -
 -
 - [NN.]
-- `【 transaction 交易 】`
+- `【 transaction 交易 n 】` // -------------- 【 terminate the transaction. 终止交易 】
 - `fee 费用`
 - `fare 票价`
-- _【 transaction successful. 交易成功 】_
+- _【 terminate transaction. 终止交易 】_
+- > 【 terminate contract. 终止合同 】
+- > 【 terminate service. 终止服务 】
 - 1. **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
 - 2. **【 The 【 transaction 】 was cancelled 【 due to 】 the 【 technical 】 reason. 因为技术原因，交易被取消了 】**
+- .MT **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- .HL **【 If you 【 swipe 】 a 【 credit card 】, The ATM will 【 automatically 】 【 deduct 】 money and it also will automatically deduct the 【 handling fee 】 for this 【 transaction 】. 如果你刷信用卡，ATM 机会自动扣款，并自动扣除本次交易手续费 】**
 - // -- due to. 因为
 - // -- 【 technical 技术的 adj 】
 - // -- 【 technology 技术 科技 n 】
