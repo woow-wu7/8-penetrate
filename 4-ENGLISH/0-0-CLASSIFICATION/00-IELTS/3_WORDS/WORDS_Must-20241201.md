@@ -358,3 +358,57 @@
 - > 【 a certain amount. 一定的数量 】
 - .MT **【 【 Once 】 you have memorized 【 a certain number of 】 words, your English ability will 【 reach 】 【 a certain level 】. 一旦你记住了一定数量的单词，你的英语能力将会达到一定的水平 】**
 - .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你讲会被扣一定的手续费 】**
+-
+-
+-
+-
+-
+- 3
+- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
+- `【 encourage 鼓励 v 】`
+- `【 discourage 阻止 劝阻 v 】` // ----------- 【 discourage sb from doing sth. 阻止某人做某事 】
+- _【 great courage. 巨大的勇气 】_
+- _【 take courage. 鼓起勇气 】_ // ----------- 【 take note. 做笔记 】
+- **【 I didn't have the 【 courage 】 to 【 discourage 】 his wrong 【 behavior 】, I just 【 encouraged 】 him. 我没有勇气去劝阻他的错误行为，我只是鼓励他 】**
+- **【 Climbing 【 the Great Wall 】 really needs 【 great courage 】. 爬长城真的需要很大的勇气 】**
+-
+-
+-
+-
+-
+- 4
+- `【 restrict 限制 v 】` // ---------------- 【 restrict access. 禁止访问 v 】 【 restrict usage. 禁止使用 】 // 【 be restricted from doing sth. 被禁止做某事 】
+- `【 district 区 区域 地区 n 】` // --------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
+- `【 strict 严格的 adj 】`
+- > 【 restrict access. 禁止访问 v 】
+- > 【 restrict usage. 禁止使用 v 】
+- _【 be restrict from doing sth. 被禁止做某事 】_
+- **【 【 Foreigners 】 【 are 【 strictly 】 【 restricted 】 from 】 【 entering 】 and 【 exiting 】 in this 【 district 】. 这个地区严格限制外国人出入 】**
+- **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
+- **【 The doctor 【 restricts 】 the blood flow in order to see the patient's 【 veins 】 more clearly. 医生限制了血液流动，以便清楚地看到病人的静脉 】**
+- // -
+- // use(v) -> usage(n) 使用
+- // -
+- // enter 进入 v / 回车键 n
+- // exit 出去 v / 出口 n
+- // -
+- // entrance 入口 n
+- // exit 出口 n
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'exit'. [exit-出口-n/出去-v]
+-
+-
+-
+-
+-
+- 5
+- `【 separate 分开 分离 v / 单独的 adj 】` // ------- 【 separate room. 单独的房间 】 【 separate tab. 单独的标签页 】
+- `【 independent 独立的 自主的 adj 】` // ----------- 【 independent department. 独立的部门 n 】 【 independent individual. 独立的个体 】
+- > 【 separate tab. 单独的标签页 】
+- > 【 separate room. 单独的房间 】
+- **【 As 【 an 】 【 independent individual 】, he has his 【 own 】 【 separate room 】. 作为独立的个体，他有单独的房间 】**
+- // -
+- // individual 个人 n 单独的 adj
+- // independent individual. 独立的个体
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'separate'. [separate-分开-分离-v/单独的-adj]

@@ -332,6 +332,32 @@
 ###### Must 2024-12-26
 
 - 1
-- `【 district 区 地区 n 】`
+- `【 restrict 限制 v 】` // ---------------- 【 restrict access. 禁止访问 v 】 【 restrict usage. 禁止使用 】 // 【 be restricted from doing sth. 被禁止做某事 】
+- `【 district 区 区域 地区 n 】` // --------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
 - `【 strict 严格的 adj 】`
-- `【 restrict 限制 v 】`
+- > 【 restrict access. 禁止访问 v 】
+- > 【 restrict usage. 禁止使用 v 】
+- _【 be restrict from doing sth. 被禁止做某事 】_
+- **【 【 Foreigners 】 【 are 【 strictly 】 【 restricted 】 from 】 【 entering 】 and 【 exiting 】 in this 【 district 】. 这个地区严格限制外国人出入 】**
+- **【 There are 【 strict 】 【 regulations 】 【 for 】 【 residents 】 in both 【 business district 】 and 【 residential district 】. 商业区和居民区对居民都有严格的规定 】**
+- **【 The doctor 【 restricts 】 the blood flow in order to see the patient's 【 veins 】 more clearly. 医生限制了血液流动，以便清楚地看到病人的静脉 】**
+- // -
+- // use(v) -> usage(n) 使用
+- // -
+- // enter 进入 v / 回车键 n
+- // exit 出去 v / 出口 n
+- // -
+- // entrance 入口 n
+- // exit 出口 n
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'exit'. [exit-出口-n/出去-v]
+
+###### Must 2024-12-27
+
+- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
+- `【 encourage 鼓励 v 】`
+- `【 discourage 阻止 劝阻 v 】` // ----------- 【 discourage sb from doing sth. 阻止某人做某事 】
+- _【 great courage. 巨大的勇气 】_
+- _【 take courage. 鼓起勇气 】_ // ----------- 【 take note. 做笔记 】
+- **【 I didn't have the 【 courage 】 to 【 discourage 】 his wrong 【 behavior 】, I just 【 encouraged 】 him. 我没有勇气去劝阻他的错误行为，我只是鼓励他 】**
+- **【 Climbing 【 the Great Wall 】 really needs 【 great courage 】. 爬长城真的需要很大的勇气 】**

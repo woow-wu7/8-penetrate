@@ -629,8 +629,10 @@
 - _【 county government. 县政府 n 】_
 - _【 county court. 县法院 n 】_
 - > 【 country / province / city / district 区 / county 县 】
-- > 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
-- > 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
+- 【 strict 严格的 adj 】 // -------------------- 【 strict regulation. 严格的规定 n 】
+- 【 district 区 区域 地区 n 】 // --------------- 【 business district. 商业区 n 】 【 residential district. 住宅区 n 】
+- 【 restrict 限制 v 】 // ---------------------- 【 restrict access. 禁止访问 】 【 restrict usage. 禁止使用 】 // restrict VS prohibit
+- [link][Words Must **2024-12-27**-4](../00-IELTS/3_WORDS/WORDS_Must-20241201.md)
 - _【 social welfare. 社会福利 】_
 - _【 welfare state. 福利国家 】_
 - _【 state secret. 国家机密 n 】_
@@ -690,6 +692,7 @@
 -
 - `【 district 区 地区 区域 n 】` // ---------------- 【 business district. 商业区 n 】 【 residential district. 居民区 n 】
 - `【 strict 严格的 adj 】` // --------------------- 【 strict regulation. 严格的规定 n 】
+- `【 restrict 限制 v 】` // ----------------------- 【 restrict access. 禁止访问 v 】 【 restrict usage. 禁止使用 】 // 【 be restricted from doing sth. 被禁止做某事 】
 - > 【 business district. 商业区 n 】
 - > 【 residential district. 居民区 n 】 // -------- 【 resident / residential 】
 - > 【 residential address. 居民地址 n 】
