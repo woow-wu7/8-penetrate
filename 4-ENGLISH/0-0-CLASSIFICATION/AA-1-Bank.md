@@ -290,6 +290,7 @@
 - > 【 national flag. 国旗 】
 - > 【 national anthem. 国歌 】
 - > 【 national territory. 国家领土 n 】 // ---- 【 defend territory. 保护领土 v 】 【 expand territory. 扩张领土 v 】
+- `welfare 福利` // -------【 social welfare. 社会福利 】 【 welfare state. 福利国家 】 //【 social security. 社保 】
 - `salary 薪水` // -------- 长时间
 - `wage 工资` // ---------- 短时间
 - `pay 工资n 支付v` -------- 长时间 和 短时间 都可以
@@ -1105,20 +1106,39 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 20 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 21 】- The words that you mast know.**
 
-- [-NN]20
+- [-NN.]21
+- `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
+- `【 loaded 非常富有 adj / 装载 v 】`
+- `【 run out of. 用完 耗尽 v 】`
+- > break up. 分手 v
+- > bankrupt 破产 v adj
+- > shut down. 关闭 停业 v
+- .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
+- .MT **【 Ha 【 maxed out 】 his credit cards and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
+- **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
+- // -- `【 sth be used to do sth. 某物被用来做某事 】`
+- // -- `【 sb used to do sth. 过去常常做某事，但现在不做了 】`
+- // -- `【 sb be used to sth. 某人习惯于 某事 】`
+- // -- `【 sb be used to doing sth. 某人习惯于 做某事 】`
+-
+-
+- [-MM]20
 - `【 bargain 砍价 讨价还价 v / 便宜货 n 】`
 - `【 bargain for. 就...讨价还价 】`
-- 【 bark 树皮 n 狗叫 v 】
-- 【 stump 树桩 n 】
+- > 【 bark 树皮 n 狗叫 v 】
+- > 【 stump 树桩 n 】
 - .MT **【 We don't need to 【 bargain 】 【 for 】 the 【 bargains 】. 我们没必要为便宜货讨价还价 】**
 - .MT **【 The 【 stump 】 without 【 bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
 - .MT **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
 -
 -
-- [-MM]19
-- `【 deduct 扣除 v 】` // -------------- 【 deduct cost. 扣除成本 】 【 deduct the handling fee. 扣除手续费 】
+- [-LL]19
+- `【 deduct 扣除 v 】` // -------------- 【 deduct cost. 扣除成本 】 【 deduct the handling fee. 扣除手续费 】 `【 automatically deduct money. 自动扣款 】`
+- _【 deduct cost. 扣除成本 v 】_
+- _【 deduct the handling fee. 扣除手续费 v 】_
+- _【 automatically deduct money. 自动扣款 v 】_
 - > 【 deduct 扣除 v 】
 - > 【 duct 导管 n 】
 - > 【 product 产品 乘积 n 】
@@ -1131,45 +1151,7 @@ fill out. 填写
 - // -- 【 violate one's privacy. 侵犯...的隐私 】
 -
 -
-- [-LL.]18
-- `【 share 分享v 股份n 】`
-- `【 shareholding 股权 】`
-- .MT **【 He 【 shared 】 all the company's 【 shares 】 and 【 shareholding 】 【 with 】 【 every employee 】. 他分享了公司所有的股份和股权给每一个员工 】**
-- **【 The 【 shares 】 are the 【 foundation 】 of the 【 shareholding 】. 股份是股权的基础 】**
-- // -- foundation 基础 粉底 n
--
--
-- [-KK.]17
-- `【 exchange rate. 汇率 】`
-- **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
-- **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
-- // -- fluctuate 波动 v
-- // -- fluctuating 波动 n
-- // -- currency 货币 n
--
--
-- [-KK.]16
-- `【 lose money. 亏钱 赔钱 v 】`
-- `【 make money. 赚钱 v 】`
-- .HL **【 It's a 【 common phenomenon 】 to 【 make money 】 and 【 lose money 】 in 【 stock markets 】. 在股市中赚钱和赔钱都是很常见的现象 】**
-- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
-- // -- phenomenon 现象 n
-- // -- common phenomenon. 常见现象
-- // -- social phenomenon. 社会现象
--
--
-- [-GG.]15
-- `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
-- `【 waste 浪费v 垃圾n 】`
-- > waste VS garbage VS rubbish VS trash VS litter
-- .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
-- .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
-- // -- junk food. 垃圾食品 n
-- // -- junk mail. 垃圾邮件 n
-- // -- draft box. 草稿箱 n
--
--
-- [-FF.]14
+- [-KK.]18
 - `【 installment 分期付款 安装 n 】` // ------------ 【 installment payment. 分期付款 n 】 // 【 in installments. 分期付款 adv 】
 - `【 installment payment. 分期付款 n 】` // ------- 【 offer installment payment. 提供分期分款 v 】
 - > 【 in installments. 分期付款 adv 】
@@ -1185,18 +1167,7 @@ fill out. 填写
 - // -- 【 apply for a loan. 申请贷款 v 】
 -
 -
-- [-eE.]13
-- `【 handling fee. 手续费 n 】` // handle -> handling 处理
-- `【 tuition fee. 学费 n 】`
-- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
-- .MT **【 There is a 【 handling fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
-- .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
-- // -- credit card. 信用卡
-- // -- on credit. 赊账
-- // -- .MT 【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】
--
--
-- [-DD.]12
+- [-II.]17
 - `【 fine 好的adj / 罚款 v n 】`
 - **【 He was 【 fined 】 【 for 】 【 drunk driving 】. 他因酒驾而被罚款 】**
 - **【 You will be 【 fined 】 for 【 littering 】 in 【 public place 】. 公共场合乱扔东西会被罚款 】**
@@ -1205,16 +1176,7 @@ fill out. 填写
 - // -- litter 乱扔 v 垃圾 n
 -
 -
-- [-CC.]1
-- `【 least common. 最不常见 】`
-- **【 This is the 【 least common 】 【 species 】 【 in 】 this area. 这是该地区最不常见的物种 】**
-- // -- species 物种 种 种类 n
-- // -- rare species. 稀有物种
-- // -- endangered species. 濒危物种
-- // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
--
--
-- [-BB.]2
+- [-HH.]16
 - `【 invoice 发票 n 】` // ------------------ 【 issue an invoice. 开发票 v 】 // 【 inflation VS invoice VS inflammation 】
 - `【 receipt 收据 n 】` // ------------------ 【 issue a receipt. 开收据 v 】
 - `【 certificate 证书 文凭 n 】` // ---------- 【 gradation certificate. 毕业证书 】 // 【 driver's license. 驾驶证 】 【 license plate. 车牌 】
@@ -1225,7 +1187,7 @@ fill out. 填写
 - .MT **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
 -
 -
-- [-AA.]3
+- [-GG.]15
 - `【 inflation 通货膨胀 n 】` // ------------- inflation VS invoice VS inflammation
 - `【 inflammation 炎症 n 】` // ------------- 【 anti-inflammatory medicine. 消炎药 】
 - `【 inflame 发炎 v 】`
@@ -1237,6 +1199,64 @@ fill out. 填写
 - // -- economic crisis.
 - // -- academic performance.
 - // -- academic research.
+-
+-
+- [-FF.]14
+- `【 share 分享v 股份n 】`
+- `【 shareholding 股权 】`
+- .MT **【 He 【 shared 】 all the company's 【 shares 】 and 【 shareholding 】 【 with 】 【 every employee 】. 他分享了公司所有的股份和股权给每一个员工 】**
+- **【 The 【 shares 】 are the 【 foundation 】 of the 【 shareholding 】. 股份是股权的基础 】**
+- // -- foundation 基础 粉底 n
+-
+-
+- [-Ee.]13
+- `【 exchange rate. 汇率 】`
+- **【 We should know some knowledge about 【 exchange rates 】. 我们应该了解一个汇率方面的知识 】**
+- **【 【 Exchange rates 】 are 【 fluctuating 】. 汇率是波动的 adj 】**
+- // -- fluctuate 波动 v
+- // -- fluctuating 波动 n
+- // -- currency 货币 n
+-
+-
+- [-DD.]12
+- `【 lose money. 亏钱 赔钱 v 】`
+- `【 make money. 赚钱 v 】`
+- .HL **【 It's a 【 common phenomenon 】 to 【 make money 】 and 【 lose money 】 in 【 stock markets 】. 在股市中赚钱和赔钱都是很常见的现象 】**
+- .MT **【 People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】. 穿长筒袜的人一般不投资股票 】**
+- // -- phenomenon 现象 n
+- // -- common phenomenon. 常见现象
+- // -- social phenomenon. 社会现象
+-
+-
+- [-CC.]11
+- `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
+- `【 waste 浪费v 垃圾n 】`
+- > waste VS garbage VS rubbish VS trash VS litter
+- .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
+- .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
+- // -- junk food. 垃圾食品 n
+- // -- junk mail. 垃圾邮件 n
+- // -- draft box. 草稿箱 n
+-
+-
+- [-BB.]10
+- `【 handling fee. 手续费 n 】` // handle -> handling 处理
+- `【 tuition fee. 学费 n 】`
+- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
+- .MT **【 There is a 【 handling fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
+- .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
+- // -- credit card. 信用卡
+- // -- on credit. 赊账
+- // -- .MT 【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】
+-
+-
+- [-AA.]9
+- `【 least common. 最不常见 】`
+- **【 This is the 【 least common 】 【 species 】 【 in 】 this area. 这是该地区最不常见的物种 】**
+- // -- species 物种 种 种类 n
+- // -- rare species. 稀有物种
+- // -- endangered species. 濒危物种
+- // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
 -
 -
 -
@@ -1373,9 +1393,12 @@ fill out. 填写
 -
 - [GG.]10
 - `【 maxed out. 刷爆 】`
+- `【 run out of. 用完 耗尽 】`
 - max 最多的 adj 马克思 n
 - tax 税
-- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**
+- .MT **【 Ha maxed out his credit cards and has run out of all his money, Now he is broke. 他刷爆了自己的信用卡，并且已经花光了所有的钱，现在已经身为分文 】**
+- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**‘
+- **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
 -
 -
 - [HH.]11
@@ -1822,7 +1845,7 @@ fill out. 填写
 -
 -
 
-##### (1) Conversation
+##### (2) Conversation
 
 ```
 Let's talk about Money in English
@@ -2165,38 +2188,3 @@ then 【 write the amount of money 】 and press enter and take your money.
 AA: thank you so much and I got it.
 BB: no problem.
 ```
-
-##### (2) Knowledge points that must be reviewed yesterday
-
-```
-health 健康
-wellness 健康 n
-wellbeing. 健康 n
-// wellness 健康
-// sickness 疾病
-// goodness 善良 优良 美德
-
-go down.
-- You can go down this street for five minutes. 你可以 【 沿着 】这条街走五分钟
-- You can go down this street for seven blocks. 你可以沿着这条街走七个街区
-- go down this street = go this street down.
-- // go down the slope. // slope 斜坡
-- // go up the hill.
-- // go through the tunnel.
-- // go over the bridge.
-- // go straight on past the post office. 经过邮局后直走
-- // Trains go over the bridge to cross the river, but cars go through the tunnel. 火车在桥上过河，汽车则穿越隧道
-
-Excuse me, I'm a bit lost, are you familiar with the street around here? I'm looking for the train station, do you know where it is?
-- 1. `Sorry, I'm new in here. 我是新来的`
-- 2. `Sorry, I'm not from around here. 我不是这附近的人`
-
-`Take the subway line 18 heading towards Disney. 乘坐地铁18号线前往迪士尼`
-`Take the subway line 18 in the direction of Disney. 坐地铁18号线往迪士尼方向`
-`Can you point me 【 in the direction of 】the exit? 你能给我指出口的方向吗？`
-`Just take the train heading toward Manhattan. 只需乘坐开往曼哈顿的7号列车`
-
-【 Go straight on past the post office. 经过邮局后直走 】
-```
-
-`

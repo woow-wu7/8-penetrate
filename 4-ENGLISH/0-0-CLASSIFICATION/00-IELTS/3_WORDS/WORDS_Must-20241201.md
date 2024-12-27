@@ -166,7 +166,7 @@
 
 ##### ------- ------- ------- ------- ------- ------- -------
 
-##### Words Must 2024-12-11
+##### Words Must **2024-12-11**
 
 - 1
 - `【 particular 特别的 特定的 adj 】` // ------------ 【 particular attention. 特别注意 n 】 `【 pay particular attention to. 特别注意... 】` 【 particular time. 】
@@ -267,7 +267,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'suggestion'. [suggestion-建议-n]
 - // TIPS: Pay attention to the pronunciation of the word 'product'. [product-产品-n] // [product-requirement-产品需求]
 
-##### Words Must 2024-12-13
+##### Words Must **2024-12-13**
 
 - 1
 - `【 generate 产生 生成 v 】` // -------------- 【 generate reaction. 产生反应 】 【 generate heat. 】 【 generate electricity. 】 【 generate contradiction. 】
@@ -294,7 +294,7 @@
 - // -- power station. 发电厂 n
 - // -- power outage. 断电 停电 n
 
-##### Words Must 2024-12-24
+##### Words Must **2024-12-24**
 
 - 1
 - `【 concentrate 集中注意力 v 】`
