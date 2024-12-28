@@ -1114,8 +1114,15 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 21 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 22 】- The words that you mast know.**
 
+- [-OO]22
+- `【 lease 租约n 租v 】` // ------------------------- 【 sign a lease. 签订租约 】
+- `【 contract 合同 】` // --------------------------- 【 sin a contract. 签订合同 】 // contract VS contact VS contrast // contrast VS compare
+- **【 【 Signing a lease 】 is equal to 【 sign a contract 】. 签订租约等同于签订合同 】**
+- **【 We signed two-year 【 lease 】. 我们签了两年租约 】**
+-
+-
 - [-NN.]21
 - `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
 - `【 loaded 非常富有 adj / 装载 v 】`
@@ -1264,6 +1271,7 @@ fill out. 填写
 - // -- junk mail. 垃圾邮件 n
 - // -- draft box. 草稿箱 n
 - // -- inbox 收件箱 n
+- // TIPS: Pay attention to the pronunciation of the word 'squander'. [squander-time.浪费时间-v]
 -
 -
 - [-BB.]10

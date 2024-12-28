@@ -930,6 +930,12 @@ He 【 is jealous of 】 you.
 他嫉妒你
 // -
 // 【 be jealous of. 嫉妒... 】
+// 【 envy 羡慕 嫉妒 v 】
+// 【 navy 海军 n 】
+// 【 naval 海军的 adj 】
+// -
+// naval fleet. 海军舰队
+// naval base. 海军基地
 
 
 4
@@ -1077,38 +1083,88 @@ We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 
 ```
 1
+We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 我们没必要为便宜货讨价还价
 -
+The 【 stump 】 【 without 】 【 bark 】 can 【 be bargained for 】.
 这个没有树皮的木桩可以砍价
+-
+// -
+// bargain 砍价 讨价还价 v / 便宜货 n
+// -
+// be bargain for sth. 某物可以砍价
+// -
+// bark 树皮n 狗叫v
+// stump 树桩
+// tree stump. 树桩
 
 
 2
+We should 【 deduct 】 the 【 cost 】 of 【 duct 】 part of the 【 product 】.
 我们应该扣除这个产品导管部分的成本
 -
+If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】.
+如果你违反公司规定会被扣工资
+-
+We should 【 deduct 】 the 【 handling fee 】 of this product.
 我们应该扣除这个产品的手续费
 -
-如果你违反公司规定会被扣工资
+// -
+// deduct 扣除 v
+// duct 导管 n
+// product 产品 n
+// -
+// handling fee. 手续费 n
+// tuition fee. 学费 n
+// -
+// tutor
+// tutorial
+// tuition
+// -
+// 【 violate 违反 v 】
+// 【 violate regulation. 违反规定 v 】
+// 【 violate law. 违反法律 v 】
+
 
 
 3
+He shared all the shares and 【 shareholdings 】 with every employee.
 他分享了公司所有的股份和股权给每一个员工
 -
+Shares are the 【 foundation 】 of the 【 shareholdings 】.
 股份是股权的基础
+-
+// -
+// foundation 基础 地基 n
+// -
+// shareholding 股权 n
 
 
 4
-我们应该了解一个汇率方面的知识
+We should know some 【 exchange rate 】 knowledge.
+我们应该了解一些汇率方面的知识
 
 
 5
-在股市中赚钱和赔钱都是很常见的现场
+It's a 【 common phenomenon 】 to make money and 【 lose money 】 in the stuck market.
+在股市中赚钱和赔钱都是很常见的现象
 -
+People who wear 【 stockings 】 usually don't 【 invest in 】 【 stocks 】.
 穿长筒袜的人一般不投资股票
+-
+// -
+// 【 stocking 长筒袜 n 】
+// 【 stock 股票 】
+// 【 stock market. 股票市场 】
+// 【 bull market. 牛市 】
+// 【 bear market. 熊市 】
 
 
 6
+I don't 【 squander 】 money 【 on 】 junk food.
 我不会在垃圾食品上浪费钱
 -
+Both junk food and junk mail are garbage.
 垃圾食品和垃圾邮件都是垃圾
 
 
@@ -1148,34 +1204,53 @@ We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 ------- -------
 
 13
+He 【 is jealous of 】 you.
+He 【 envies 】 you.
 他嫉妒你
+// -
+// 【 be jealous of. 嫉妒... 】
+// 【 envy 羡慕 嫉妒 v 】
+// 【 navy 海军 n 】
+// 【 naval 海军的 adj 】
+// -
+// naval fleet. 海军舰队
+// naval base. 海军基地
 
 
 14
+The doctor 【 restricts 】 the blood flow 【 in order to 】 see the patient's 【 veins 】 more clearly.
 医生限制了血液流动，以便清楚地看到病人的静脉
 -
+The 【 speed limit 】 is 120 kilometers per hour in the highway.
 这条高速公路的限速是每小时 120 公里
 
 
 15
+【 Economy development 】 led to the 【 accelerated growth 】 of the economy.
 经济发展使得经济加速增长
+// -
+// accelerated growth. 加速增长
 
 
 16
+Sign a lease is equal to sign a contract.
 签订租约等同于签订合同
 -
 我们将对比候选人后再联系您签合同
 -
-我们签了两年租约
+He signed two-year 【 lease 】.
+他签了两年租约
 
 
 17
+He needs a 【 separate 】 room for studying.
 他需要一个单独的房间学习
 
 
 18
 刷信用卡有手续费
 -
+He can buy things on credit with a credit card.
 他可以用信用卡赊账购物
 -
 这家银行推出了信用卡和借记卡
@@ -1185,6 +1260,7 @@ We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 
 19
 他工作相当努力，另一方面，他非常聪明
+// On other hand. 另一方面
 ```
 
 ##### 29 **【 Make sentences 2024-12-29 】**
