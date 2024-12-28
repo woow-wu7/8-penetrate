@@ -242,6 +242,12 @@
 - _【 expensive 昂贵的 adj 】_
 - _【 expensive expense. 昂贵的费用 】_
 -
+- .MT **【 My 【 revenue 】 mainly comes from 【 investments 】, salaries, 【 annual bonuses 】, 【 performance 】, benefits, stocks, interest, odd jobs, tips. 【 expenditure / expense 】includes 【 car loan 】, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 我的收入主要来源于投资、薪资、年终奖、工作绩效奖金、福利、股票、利息、零工收入、小费。支出则包括汽车贷款、抵押贷款、交通费用以及日常开销 】**
+- // transportation costs. 交通费用 n
+- // annual bonus. 年终奖 n
+- // performance 表演 绩效 性能 n
+- // tip 尖端 小费 n
+-
 - `consume 消费 消耗 v` // -------------------- 【 consume 消费 v 】 VS 【 assume 假设 v 】 // 【 assume = suppose. 假设 v 】
 - `consumption 消费 消耗 n`
 -
@@ -253,7 +259,6 @@
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 annual bonuses 】, 【 performance 】, 【 benefits 】, 【 investments 】, 【 stocks 】, 【 interest 】, 【 odd jobs 】, 【 tips 】. 【 expenditure / expense 】includes car loan, 【 mortgage loan 】, transportation costs and 【 daily expenses 】. 他的收入包括工资，年终奖，绩效，福利，投资，股票，利息，零工，小费。支出包括车贷，房贷，交通费，日常开销 】**
 - **【 What's the 【 proportion 】 of salary to total revenue? 工资占总收入的比例是多少 】**
 - **【 His 【 revenue 】 includes 【 salaries 】, 【 bonuses 】,【 investments 】, 【 interests 】, and 【 interest rates 】. 】**
-- **【 My 【 revenue 】 mainly comes from 【 investments 】. 我的收入主要来自投资 】**
 - balance 平衡
 - **【 we should 【 ensure 】 the 【 balance 】 between 【 revenue 】 and 【 expenditure 】. 我们需要保证收入和支出平衡 】**
 - **【 This is an 【 expensive 】 【 expense 】. 这是一笔昂贵的开支 】**
@@ -1115,9 +1120,9 @@ fill out. 填写
 - `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
 - `【 loaded 非常富有 adj / 装载 v 】`
 - `【 run out of. 用完 耗尽 v 】`
-- > break up. 分手 v // ------------------------------ split up. 分手 v = break up.
+- > break up. 分手 v // ------------------------------ 【 split up. 分手 v = break up. 】
 - > bankrupt 破产 v adj
-- > shut down. 关闭 停业 v // ------------------------- shut up. VS shut down.
+- > shut down. 关闭 停业 v // ------------------------ 【 shut up. VS shut down. 】
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
 - .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**
@@ -1248,12 +1253,17 @@ fill out. 填写
 - > 【 squander time. 浪费时间 】
 - > 【 squander money. 浪费金钱 】
 - > waste VS garbage VS rubbish VS trash VS litter
+- _【 junk food. 垃圾食物 】_
+- _【 junk mail. 垃圾食物 】_
+- _【 draft box. 草稿箱 n 】_
+- _【 inbox 收件箱 n = mailbox 】_
 - .HL **【 I won't 【 squander time 】 and 【 squander money 】 【 on 】 【 junk food. 】 我不会在垃圾食品上浪费时间和浪费金钱 】**
 - .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
 - .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**
 - // -- junk food. 垃圾食品 n
 - // -- junk mail. 垃圾邮件 n
 - // -- draft box. 草稿箱 n
+- // -- inbox 收件箱 n
 -
 -
 - [-BB.]10

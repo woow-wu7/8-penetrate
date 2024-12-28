@@ -118,7 +118,7 @@
 - `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal 校长 VS principle 原则原理 】
 - `【 vice principal. 副校长 n 】` // ----------------- _【 vice president. 副总统 】_ // _【 vice principal. 副校长 】_
 - `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
-- `【 headmistress 女校长 】`
+- `【 headmistress 女校长 】` // ---------------------- _【 professor VS profession VS professional 】_
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
 - `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
@@ -140,8 +140,8 @@
 -
 - [其他]
 - `【 tuition fees. 学费 】` // ------------------------- 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
-- `【 textbook 教科书 课本 n 】`
 - `【 school uniform. 校服 n 】`
+- `【 textbook 教科书 课本 n 】`
 - `【 campus 校园 n 】`
 - `【 campus violence. 校园暴力 】`
 - > 【 handling fee. 手续费 n 】

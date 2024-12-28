@@ -727,18 +727,63 @@ I'm on the phone. 我在打电话
 -
 -
 - 3
+- [摄像头]
 - `【 front-facing camera. 前置摄像头 】`
 - `【 rear-facing camera. 后置摄像头 】`
-- `【 projector 投影仪 n 】`
-- `【 webcam 网络摄像头 n 】`
 - > rear view mirror. 后视镜
 - > rear view camera. 后视摄像头
 - _【 take pictures. 拍照 / take photos. 】_
 - _【 take a selfie. 自拍 】_
 - _【 make a recording. 录音 】_
 - _【 record a video. 录像 】_
+- > 【 projector 投影仪 n 】
+- > 【 webcam 网络摄像头 n 】
 -
 -
+- 4
+- [键]
+- `【 start key. 星号键 】`
+- `【 pound key. 井号键 】`
+- `【 dial key. 拨号键 】` // -------------------- 【 dial 拨 v 】
+- `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
+- `【 mute button. = silent button. 静音键 】`
+- _【 turn up the volume. 开大音量 v 】_
+- _【 turn down the volume. 关小音量 v 】_
+- _【 durn down. 关小 拒绝 v 】_
+- > 【 keypad 小键盘 n - 电话上的键盘 】
+- > 【 keyboard 键盘 n 】
+- _【 dial 拨 v 】_
+- _【 dial tone. 拨号音 n 】_
+- _【 dial key. 拨号键 】_
+- 【 tone 语气 音调 声调 n 】 VS 【 tongue 舌头 n 】
+- .MT **【 The 【 volume buttons 】 are used to 【 turn up the volume 】 and 【 turn down the volume 】. 音量键用来开大音量和关小音量 】**
+- .HL **【 Can you 【 turn the volume up 】 【 a little bit 】? 你能把音量开大点儿吗 】**
+- .MT turn down 拒绝. **【 Why did she 【 turn down 】 your 【 invitation 】? 为什么她拒绝你的邀请 】**
+- // -
+- // invite 邀请 v
+- // invitation 邀请 n
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'invite'. [invite-邀请-v]
+- // TIPS: Pay attention to the pronunciation of the word 'invitation'. [invitation-邀请-n]
+-
+-
+- 5
+- [模式]
+- `【 speaker mode. 扬声器模式 】`
+- `【 vibration mode. 震动模式 = vibrate mode. 】`
+- `【 mute mode. 静音模式 = silent mode. 】`
+- `【 airplane mode. 飞行模式 】`
+- > 【 remote control. 遥控 v 】
+- > 【 remote controller. 遥控器 n 】
+- _【 airplane 飞机 n 】_
+- _【 airport 飞机场 n 】_
+- _【 airline 航空公司 n 】_
+- _【 airway 航线 n 】_
+- _【 airstream 气流 n 】_
+- _【 airbag 安全气囊 n 】_
+- _【 airspace 领空 n 】_
+- _【 air force. 空军 n 】_
+- **【 扬声器模式，静音模式，震动模式，飞行模式各自有各自的功能 】**
 -
 -
 - `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩` // 3. `usb cable. usb数据线`
