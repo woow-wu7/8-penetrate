@@ -1119,7 +1119,8 @@ fill out. 填写
 - > bankrupt 破产 v adj
 - > shut down. 关闭 停业 v
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
-- .MT **【 Ha 【 maxed out 】 his credit cards and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
+- .MT **【 Ha 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
+- .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**
 - **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
 - // -- `【 sth be used to do sth. 某物被用来做某事 】`
 - // -- `【 sb used to do sth. 过去常常做某事，但现在不做了 】`
@@ -1145,13 +1146,14 @@ fill out. 填写
 - > 【 deduct 扣除 v 】
 - > 【 duct 导管 n 】
 - > 【 product 产品 乘积 n 】
-- _【 violate 违反 v 】_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】
-- _【 certain 确定的 一定的 adj 】_ // --- 【 a certain quantity. 一定的数量 】 【 a certain level. 一定的水平 】
-- [link][Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
-- .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你讲会被扣一定的手续费 】**
+- _[violate-违反-v]_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】
+- _[certain-确定的-一定的-adj]_ // --- 【 a certain quantity. 一定的数量 】 【 a certain level. 一定的水平 】
+- _[link]_[Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
+- .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你将会被扣一定的手续费 】**
 - .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
 - .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
+- .HL **【 The 【 tuition fee 】 【 includes 】 【 a certain amount of 】 【 handling fee 】. 学费包含了一定的手续费 】**
 - // -- `【 violate 违反 侵犯 强奸 v 】`
 - // -- 【 violate law. 违反法律 】
 - // -- 【 violate regulation. 违反规定 】
@@ -1257,6 +1259,8 @@ fill out. 填写
 - [-BB.]10
 - `【 handling fee. 手续费 n 】` // handle -> handling 处理
 - `【 tuition fee. 学费 n 】`
+- .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你将会被扣一定的手续费 】**
+- .HL **【 The 【 tuition fee 】 【 includes 】 【 a certain amount of 】 【 handling fee 】. 学费包含了一定的手续费 】**
 - .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .MT **【 There is a 【 handling fee 】 using a 【 credit card 】. 使用信用卡有手续费 】**
 - .HL **【 【 installment payments 】 don't need any 【 handling fee 】. 分期付款没有手续费 】**
@@ -1273,6 +1277,13 @@ fill out. 填写
 - // -- endangered species. 濒危物种
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species-物种-种类-n] [endangered-species.濒危物种-n] [rare-species.稀有物种-n]
 - // TIPS: Pay attention to the pronunciation of the word 'area'. [area-地区-区域-n]
+-
+-
+-
+- **分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------** 分割线
+- **分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------** 分割线
+- **分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------** 分割线
+- **分割线 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------** 分割线
 -
 -
 -
