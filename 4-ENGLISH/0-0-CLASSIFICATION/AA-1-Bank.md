@@ -1126,10 +1126,13 @@ fill out. 填写
 - [-NN.]21
 - `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
 - `【 loaded 非常富有 adj / 装载 v 】`
-- `【 run out of. 用完 耗尽 v 】`
+- `【 run out of. 用完 耗尽 v = be out of. 】`
 - > break up. 分手 v // ------------------------------ 【 split up. 分手 v = break up. 】
 - > bankrupt 破产 v adj
 - > shut down. 关闭 停业 v // ------------------------ 【 shut up. VS shut down. 】
+- _【 be out of. 用完耗尽 = run out of. 】_
+- _【 My car is out of gas. 我车没油了 】= My car has run out of gas._
+- _【 My phone is out of battery. 我手机没电了 】 = My phone has run out of battery._
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
 - .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**

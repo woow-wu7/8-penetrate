@@ -96,21 +96,21 @@
 - **【 After 【 plugging 】 the 【 earphone plug 】 into the 【 earphone jack 】, you can play music 【 on 】 your mobile phone. 将耳机插头插入耳机插孔后，你就可以用手机播放音乐了 】**
 - // -
 - // plug 插 v 插头 n
+- // plugging
 - // music: is a uncountable noun.
 -
 -
 -
 - 2
-- `【 speaker 扬声器 n 】` // ------------------- 【 speak mode. 扬声器模式 】 【 mute mode. 静音模式 】 【 vibration mode. 震动模式 】
+- `【 speaker 扬声器 n 】` // ------------------- 【 speaker mode. 扬声器模式 】 【 silent mode. 静音模式 】 【 vibration mode. 震动模式 】
 - `【 receiver 听筒 n 】`
 - > 【 speaker mode. 扬声器模式 n 】
-- > 【 mute mode. = silent mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
+- > 【 silent mode. = mute mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
 - > 【 vibration mode. = vibrate mode. 震动模式 n 】
 - // mute 沉默的 无声的 哑的 adj
 - // vibrate 震动 VS vibration 震动 n
 - **【 Both the 【 speaker 】 and the 【 receiver 】 of a telephone are 【 output devices 】. 电话的扬声器和听筒都是输出设备 】**
-- **【 【 mobile phones 】 have three modes: 【 speaker mode 】, 【 mute mode 】, 【 vibrate mode 】. 手机有扬声器模式，静音模式，震动模式这三种模式 】**
-
+- **【 【 mobile phones 】 have three modes: 【 speaker mode 】, 【 silent mode 】, 【 vibration mode 】. 手机有扬声器模式，静音模式，震动模式这三种模式 】**
 - `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
 - `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
 - `Put the plug into the socket. = Insert the plug into the socket.`
@@ -122,14 +122,18 @@
 - [摄像头]
 - `【 front-facing camera. 前置摄像头 】`
 - `【 rear-facing camera. 后置摄像头 】`
-- > rear view mirror. 后视镜
-- > rear view camera. 后视摄像头
-- _【 take pictures. 拍照 / take photos. 】_
+- `【 rear view mirror. 后视镜 】`
+- `【 rear view camera. 后视摄像头 】`
+- > 【 projector 投影仪 n 】
+- > 【 webcam 网络摄像头 n 】
+- _【 take a picture. 拍照 / take photos. 】_
 - _【 take a selfie. 自拍 】_
 - _【 make a recording. 录音 】_
 - _【 record a video. 录像 】_
-- > 【 projector 投影仪 n 】
-- > 【 webcam 网络摄像头 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'projector'. [projector-投影仪-n]
+- // TIPS: Pay attention to the pronunciation of the word 'project'. [project-项目-n]
+- // TIPS: Pay attention to the pronunciation of the word 'projects'. [projects-项目-n]
+- // TIPS: Pay attention to the pronunciation of the word 'webcam'. [webcam-网络摄像头-n]
 -
 -
 -
@@ -139,7 +143,7 @@
 - `【 pound key. 井号键 】`
 - `【 dial key. 拨号键 】` // -------------------- 【 dial 拨 v 】
 - `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
-- `【 mute button. = silent button. 静音键 】`
+- `【 silent button. = mute button. 静音键 】`
 - _【 turn up the volume. 开大音量 v 】_
 - _【 turn down the volume. 关小音量 v 】_
 - _【 durn down. 关小 拒绝 v 】_
@@ -168,8 +172,8 @@
 - `【 vibration mode. 震动模式 = vibrate mode. 】`
 - `【 silent mode. 静音模式 = mute mode. 】`
 - `【 airplane mode. 飞行模式 】`
-- `【 landscape mode. 横屏模式 】` // ------------- 【 landscape 风景 n 】 VS 【 scenery 风景 景色 n 】
-- `【 portrait mode. 纵屏模式 】`
+- `【 landscape mode. 横屏模式 】` // ------------- 【 landscape 景观 地形 n 】 VS 【 scenery 风景 景色 n 】
+- `【 portrait mode. 纵屏模式 】` // -------------- 【 portrait 肖像 画像 n 】
 - > 【 remote control. 遥控 v 】
 - > 【 remote controller. 遥控器 n 】
 - _【 airplane 飞机 n 】_
@@ -178,7 +182,7 @@
 - _【 airway 航线 n 】_
 - _【 airstream 气流 n 】_
 - _【 airbag 安全气囊 n 】_
-- _【 airspace 领空 n 】_
+- _【 airspace 领空 n 】_ // -------------------- 【 territory 领土 领地 】 VS 【 airspace 领空 】 // defend territory. // expand territory. // national territory.
 - _【 air force. 空军 n 】_
 - > 【 touch screen. 触摸屏 n 】
 -
@@ -218,8 +222,11 @@
 - 7.1
 - **【 My phone is dying. 我的手机要没电了 】** // ----- 2%
 - **【 My phone is dead. 我手机没电了 】** // ---------- 0%
-- **【 My phone 【 is out of 】 battery. 我手机没电了 】** --- 0%
-- **【 My phone 【 is out of 】 power. 我手机没电了 】** ----- 0%
+- **【 My phone 【 is out of 】 battery. 我手机没电了 】** --- 0% // --- My phone 【 has run out of 】 battery.
+- **【 My phone 【 is out of 】 power. 我手机没电了 】** ----- 0% // --- My phone 【 has run out of 】 power.
+- _【 be out of. 用完耗尽 = run out of. 】_
+- _【 My car is out of gas. 我车没油了 】_= My car has run out of gas.
+- _【 My phone is out of battery. 我手机没电了 】_ = My phone has run out of battery.
 - 7.2
 - **【 full signal. 满信号 】**
 - **【 no signal. 没信号 】**
@@ -230,7 +237,19 @@
 - **【 My phone is frozen. 我的手机死机了 】**
 -
 -
--
+- 8
+- [信号]
+- `【 you are breaking up. 你声音断断续续的 】`
+- `【 You are cutting out. 你通话被中断了 】` // ---------------------- I got cut off. 我的通话被中断了
+- `【 The line is busy. 线路忙 占线 】`
+- `【 The reception is not good/very poor. 信号不好 】`
+- // break up. 分手
+- // _【 sign 签名 v / 标记 记号 信号 n 】_
+- // _【 signal 信号 n 】_
+- **【 full signal. 满信号 】**
+- **【 no signal. 没信号 】**
+- **【 four bars of signal. 四格信号 】**
+- **【 My phone signal is not good. 我的电话信号不好 】**
 -
 -
 -
