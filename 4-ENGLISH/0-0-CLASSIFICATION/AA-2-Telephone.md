@@ -1,6 +1,6 @@
 ##### (一)
 
-##### **(1)The words that you mast know.**
+##### (一) **【 MUST - The words that you mast know. 】**
 
 - 1
 - [Make-a-call]
@@ -10,14 +10,14 @@
 - `【 I'm on the phone. 我在打电话 】`
 - > 1. May/Can/Could I 【 speak to 】 Marry, please?
 - > 2. May/Can/Could I 【 speak with 】Marry, Please?
-- > 3. I'm looking for Marry.
+- > 3. I 【 am looking for 】 Marry.
 - > 4. Do 【 you know 】 where she is 【 right now 】?
 - // -- right now. 立刻 马上 现在
 -
 - [Answer-a-call]
 - `【 answer a call. 接电话 】` // 【 answer a call. = pick up. 接电话 】
 - `【 pick up. 接电话 】` // ----- 【 pick up. 接电话 】 【 hang up. 挂电话 】 【 hang on. 请稍等 】 【 hold on. 请稍等 】
-- `【 press the green button to answer the call. 按绿色按钮接听电话 】`
+- `【 press the green button to 【 answer the call 】. 按绿色按钮接听电话 】`
 - `【 hang on. 请稍等 】` // ------【 hold on. 稍等 】
 - `【 hang up. 挂电话 】` // ----- 【 fill up. 】 【 speed up. 】 【 pull up. 】 【 pull over. 】
 - > 1. This is Lucy.
@@ -43,8 +43,8 @@
 - > 5. **【 I have to 【 hang up 】, Can I 【 call you back 】 later? 】**
 - > 5. **【 I have to 【 hang up 】 now because I 【 still 】 have some tasks need to finish, Can I 【 call you back later 】? 】**
 -
-- > 6. **【 Could you ask him to 【 call me back 】? 】**
-- > 6. **【 Could you ask him to 【 give me a call back 】? 】**
+- > 6. **【 Could you 【 ask 】 him to 【 call me back 】? 】**
+- > 6. **【 Could you 【 ask 】 him to 【 give me a call back 】? 】**
 -
 - _【 ask sb to do sth. 要求某人做某事 】_
 - _【 turn down. 关小 拒绝 】_
@@ -64,7 +64,8 @@
 - `【 turn down. 关小v 拒绝v 】`
 - `【 turn up. 开大 】`
 - `【 I'm on the phone. 我正在打电话 】`
-- **【 【 Turn down 】 the TV, I'm on the phone. 把电视音量关小，我正在打电话 】**
+- **【 【 Turn down 】 the TV, I'm 【 on the phone 】. 把电视音量关小，我正在打电话 】**
+- **【 I want to 【 ask for 】 a raise, but I'm afraid my boos will 【 turn me down 】. 我想要求加薪，但我怕老板会拒绝我 】**
 -
 - [DD.]
 - `【 turn down. 关小 拒绝 v 】`
@@ -74,7 +75,7 @@
 - 2. **【 Why did she 【 turn down 】 your 【 invitation 】? 】**
 - 3. **【 I 【 refuse 】 to 【 turn down 】 the volume. 我拒绝关小音量 】**
 
-# Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
+##### (2) Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
 
 - How to 【 have a phone conversation 】 in English. 如何用英语进行电话交谈
 - // have a phone conversation. 进行电话交谈
@@ -434,7 +435,7 @@
 - **【 generate passwords that are used as a second factor to 【 verify 】 your 【 identity 】 when 【 prompted 】 during sign-in. 】**
 - // 生成一次性密码，该密码用作登录过程中出现【提示】时【验证】您【身份】的第二个因素
 
-# (一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
+#####(一)【 make a call. 打电话 】【 answer a call. 接电话 】/【 How to talk on the phone in English. 如何用英语打电话 】
 
 - `How to talk 【 on the phone 】 in English. 如何用英语打电话`
 - // **【 I'm on the phone. 我在打电话 】**
@@ -684,12 +685,59 @@ I'm on the phone. 我在打电话
 
 ```
 
-# (二) Mobile Phone / Cell Phone
+##### (二) **【 MUST - Mobile Phone / Cell Phone 】**
+
+- 1
+- `【 earphone 耳机 n 】` // -------------------- 【 earphone plug. 耳机插头 】 【 earphone jack. 耳机插孔 】
+- `【 headphone 头戴式耳机 n 】`
+- `【 microphone 麦克风 话筒 n 】`
+- > 【 earphone plug. 耳机插头 】
+- > 【 earphone jack. 耳机插口 】
+- _【 microorganism 微生物 n 】_
+- _【 microbe 微生物 n 】_
+- _【 microphone 麦克风 话筒 n 】_
+- _【 microwave 微波炉 n 】_
+- _【 microscope 显微镜 n 】_
+- > 【 microscope 显微镜 n 】
+- > 【 telescope 望远镜 n 】
+- > 【 stethoscope 听诊器 n 】
+- > 【 otoscope 耳镜 n 】
+- > 【 gastroscope 胃镜 n 】
+- **【 After 【 plugging 】 the 【 earphone plug 】 into the 【 earphone jack 】, you can play music 【 on 】 your mobile phone. 将耳机插头插入耳机插孔后，你就可以用手机播放音乐了 】**
+- // -
+- // plug 插 v 插头 n
+- // music: is a uncountable noun.
+-
+-
+- 2
+- `【 speaker 扬声器 n 】` // ------------------- 【 speak mode. 扬声器模式 】 【 mute mode. 静音模式 】 【 vibration mode. 震动模式 】
+- `【 receiver 听筒 n 】`
+- > 【 speaker mode. 扬声器模式 n 】
+- > 【 mute mode. = silent mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
+- > 【 vibration mode. = vibrate mode. 震动模式 n 】
+- // mute 沉默的 无声的 哑的 adj
+- // vibrate 震动 VS vibration 震动 n
+- **【 Both the 【 speaker 】 and the 【 receiver 】 of a telephone are 【 output devices 】. 电话的扬声器和听筒都是输出设备 】**
+- **【 【 mobile phones 】 have three modes: 【 speaker mode 】, 【 mute mode 】, 【 vibrate mode 】. 手机有扬声器模式，静音模式，震动模式这三种模式 】**
 
 - `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
 - `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
 - `Put the plug into the socket. = Insert the plug into the socket.`
 - // Put the gas nozzle into the gas tank.
+-
+-
+- 3
+- `【 front-facing camera. 前置摄像头 】`
+- `【 rear-facing camera. 后置摄像头 】`
+- `【 projector 投影仪 n 】`
+- `【 webcam 网络摄像头 n 】`
+- > rear view mirror. 后视镜
+- > rear view camera. 后视摄像头
+- _【 take pictures. 拍照 / take photos. 】_
+- _【 take a selfie. 自拍 】_
+- _【 make a recording. 录音 】_
+- _【 record a video. 录像 】_
+-
 -
 -
 -
@@ -989,7 +1037,7 @@ silent button. = mute button. 静音键
 
 ```
 
-# (三) An article about mobile phone
+##### (三) An article about mobile phone
 
 ```
 
@@ -1010,7 +1058,7 @@ You'll notice that I have 【 a front-facing camera and a rear-facing camera. �
 
 ```
 
-# (四) Some conversation
+##### (四) Some conversation
 
 ```1111111
 A: Let me dial this number.
