@@ -151,7 +151,14 @@
 - _【 tuition 学费 n 】_ // ---------------------------- 【 tuition fee. 学费 n 】
 - _【 institution 机构 n 】_ // ------------------------ 【 educational institution. 教育机构 n 】
 - .HL **【 The 【 tuition fees 】 【 for 】 【 overseas students 】 are high. 留学生的学费很贵 】**
-- .MT **【 The tuition fees of the educational institution are hight. but the tutorials are good. 这家教育机构的学费很贵，但教程很好 】**
+- .MT **【 The 【 tuition fees 】 of the 【 educational institution 】 are hight. but the 【 tutorials 】 are good. 这家教育机构的学费很贵，但教程很好 】**
+- // -
+- // 【 institution 机构 n 】
+- // 【 educational 教育的 adj 】
+- // 【 educational institution. 教育机构 n 】
+- // -
+- // education 教育 n
+- // educational 教育的 adj
 -
 - [教育背景]
 - `【 education 教育 学历 n 】`

@@ -1115,11 +1115,11 @@ fill out. 填写
 - `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
 - `【 loaded 非常富有 adj / 装载 v 】`
 - `【 run out of. 用完 耗尽 v 】`
-- > break up. 分手 v
+- > break up. 分手 v // ------------------------------ split up. 分手 v = break up.
 - > bankrupt 破产 v adj
-- > shut down. 关闭 停业 v
+- > shut down. 关闭 停业 v // ------------------------- shut up. VS shut down.
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
-- .MT **【 Ha 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
+- .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**
 - **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
 - // -- `【 sth be used to do sth. 某物被用来做某事 】`
@@ -1151,8 +1151,8 @@ fill out. 填写
 - _[link]_[Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
 - .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你将会被扣一定的手续费 】**
 - .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
-- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
+- .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .HL **【 The 【 tuition fee 】 【 includes 】 【 a certain amount of 】 【 handling fee 】. 学费包含了一定的手续费 】**
 - // -- `【 violate 违反 侵犯 强奸 v 】`
 - // -- 【 violate law. 违反法律 】

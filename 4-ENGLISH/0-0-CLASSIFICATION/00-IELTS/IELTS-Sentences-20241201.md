@@ -1266,21 +1266,60 @@ We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 
 ```
 1
+The 【 tuition fees 】 of this 【 educational institution 】 are high, but the 【 tutorials 】 are good.
 这家教育机构的学费很贵，但教程很好
 -
+The 【 tuition fees 】 are expensive 【 for 】 【 overseas students 】.
 留学生的学费很贵
+-
+// -
+// 【 overseas student. 留学生 n 】
+// -
+// 【 tuition fee. 学费 n 】
+// 【 handling fee. 手续费 v 】
+// 【 automatically deduct the handling fee. 自动扣除手续费 v 】
+// -
+// 【 educational institution. 教育结构 】
+// -
+// tutor 家庭教师 n
+// tutorial 教程 n
+// tuition fee. 学费 n
 
 
 2
+What's the current 【 exchange rate  】  【 from 】 RMB to dollar?
 人民币兑美元的当前汇率是多少？
+// -
+// 【 exchange rate. 汇率 】
 
 
 3
+【 Death 】 is 【 inevitable 】.
 死亡是不可避免的
+-
+He 【 was born in 】 China, and 【 died in 】 【 United States 】.
+他出生在中国，死在美国
+-
+// -
+// 【 inevitable 不可避免的 adj 】
+// -
+// death 死亡 n
+// die 死亡 v
+// -
+// birth 出生 n
+// born 出生 v
+// -
+// be born in. 出生在
+// die in. 死在
+// -
+// 【 United States. 美国 n 】
 
 
 4
+He 【 is jealous of 】  you.
 他嫉妒你
+// -
+// 【 be jealous of sb. 嫉妒某人 v 】
 ```
 
 ##### 31 **【 Make sentences 2024-12-31 】**
@@ -1386,4 +1425,8 @@ We don't need to 【 bargain 】 【 for 】 the 【 bargains 】.
 
 18
 这道菜应该很好吃
+
+
+19
+我们正前往商店去买一个派
 ```
