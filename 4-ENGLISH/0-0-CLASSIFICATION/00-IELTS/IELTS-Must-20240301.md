@@ -907,6 +907,8 @@
 - `as well. 也`
 - `as well as. 也 既...又...  以及`
 - `as long as. 只要  和...一样长`
+- -AA.
+- .MT **【 You can come to the meeting 【 as well 】, if you’re interested. 如果你感兴趣的话，你也可以来参加会议 】**
 - AA.
 - _【 as well as. 也 以及 既...又...】_
 - **【 Computers require 【 hardware 】 【 as well as 】 【 software 】. 计算机需要硬件，同时也需要软件 】**

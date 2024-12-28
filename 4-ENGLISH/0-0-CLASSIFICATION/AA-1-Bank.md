@@ -205,6 +205,7 @@
 - // 【 I 【 make a withdrawal 】 【 of 】 $100 【 from 】 my checking account. 我从我的支票帐户中提取 100 美元 】
 - > 【 withdraw 取 提取 v 】 // ------------------ 【 withdraw money. 取钱 v 】 【 withdraw slip. 取款单 n 】
 - > 【 overdraw 透支 v 】 // --------------------- 【 【 overdraw on 】 a 【 credit card 】. 透支信用卡 v 】 // overdraw on. 透支
+- > 【 overdraft 透支 n 】
 - _【 overdraw on. 透支... v 】_
 - _【 maxed out. 刷爆 v 】_
 - _【 deposit slip. 存款单 】_

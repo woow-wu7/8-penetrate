@@ -158,6 +158,7 @@
 - _【 gather fruit. 采集水果 】_
 - _【 ripe fruit. 成熟的果实 】_
 - _【 gather around. 聚集起来 】_
+- _【 gather together. 聚集在一起 】_
 - > 【 pick up. 捡起 v / 接人 v 】
 - > 【 pick out. 挑选出 v 】
 - // ripe VS rope

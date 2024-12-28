@@ -7,6 +7,7 @@
 - _【 particular approach. 特别的方法 n 】_ // -------- 【 pay particular attention to. 特别注意... 】 【 particular approach. 特别的方法 】
 - _【 effective approach. 有效的方法 n 】_
 - _【 recommended approach. 推荐的方法 n 】_
+- 【 We are 【 approaching 】 the center place. 我们正在接近中心地点 】 // approach 靠近 v 方式 n 方法 n
 - **【 The approach that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】. 这个被推荐的方法，不仅特别的方法，而且是科学的方法 】**
 - AA.
 - > 【 scientist 科学家 n 】 // ---------------------- 【 famous scientist. 著名的科学家 n 】
