@@ -75,7 +75,463 @@
 - 2. **【 Why did she 【 turn down 】 your 【 invitation 】? 】**
 - 3. **【 I 【 refuse 】 to 【 turn down 】 the volume. 我拒绝关小音量 】**
 
-##### (2) Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
+##### (二) **【 MUST 7 - Mobile Phone / Cell Phone 】**
+
+- 1
+- `【 earphone 耳机 n 】` // -------------------- 【 earphone plug. 耳机插头 】 【 earphone jack. 耳机插孔 】
+- `【 headphone 头戴式耳机 n 】`
+- `【 microphone 麦克风 话筒 n 】`
+- > 【 earphone plug. 耳机插头 】
+- > 【 earphone jack. 耳机插口 】
+- _【 microorganism 微生物 n 】_
+- _【 microbe 微生物 n 】_
+- _【 microphone 麦克风 话筒 n 】_
+- _【 microwave 微波炉 n 】_
+- _【 microscope 显微镜 n 】_
+- > 【 microscope 显微镜 n 】
+- > 【 telescope 望远镜 n 】
+- > 【 stethoscope 听诊器 n 】
+- > 【 otoscope 耳镜 n 】
+- > 【 gastroscope 胃镜 n 】
+- **【 After 【 plugging 】 the 【 earphone plug 】 into the 【 earphone jack 】, you can play music 【 on 】 your mobile phone. 将耳机插头插入耳机插孔后，你就可以用手机播放音乐了 】**
+- // -
+- // plug 插 v 插头 n
+- // music: is a uncountable noun.
+-
+-
+-
+- 2
+- `【 speaker 扬声器 n 】` // ------------------- 【 speak mode. 扬声器模式 】 【 mute mode. 静音模式 】 【 vibration mode. 震动模式 】
+- `【 receiver 听筒 n 】`
+- > 【 speaker mode. 扬声器模式 n 】
+- > 【 mute mode. = silent mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
+- > 【 vibration mode. = vibrate mode. 震动模式 n 】
+- // mute 沉默的 无声的 哑的 adj
+- // vibrate 震动 VS vibration 震动 n
+- **【 Both the 【 speaker 】 and the 【 receiver 】 of a telephone are 【 output devices 】. 电话的扬声器和听筒都是输出设备 】**
+- **【 【 mobile phones 】 have three modes: 【 speaker mode 】, 【 mute mode 】, 【 vibrate mode 】. 手机有扬声器模式，静音模式，震动模式这三种模式 】**
+
+- `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
+- `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
+- `Put the plug into the socket. = Insert the plug into the socket.`
+- // Put the gas nozzle into the gas tank.
+-
+-
+-
+- 3
+- [摄像头]
+- `【 front-facing camera. 前置摄像头 】`
+- `【 rear-facing camera. 后置摄像头 】`
+- > rear view mirror. 后视镜
+- > rear view camera. 后视摄像头
+- _【 take pictures. 拍照 / take photos. 】_
+- _【 take a selfie. 自拍 】_
+- _【 make a recording. 录音 】_
+- _【 record a video. 录像 】_
+- > 【 projector 投影仪 n 】
+- > 【 webcam 网络摄像头 n 】
+-
+-
+-
+- 4
+- [键]
+- `【 start key. 星号键 】`
+- `【 pound key. 井号键 】`
+- `【 dial key. 拨号键 】` // -------------------- 【 dial 拨 v 】
+- `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
+- `【 mute button. = silent button. 静音键 】`
+- _【 turn up the volume. 开大音量 v 】_
+- _【 turn down the volume. 关小音量 v 】_
+- _【 durn down. 关小 拒绝 v 】_
+- > 【 keypad 小键盘 n - 电话上的键盘 】
+- > 【 keyboard 键盘 n 】
+- _【 dial 拨 v 】_
+- _【 dial tone. 拨号音 n 】_
+- _【 dial key. 拨号键 】_
+- 【 tone 语气 音调 声调 n 】 VS 【 tongue 舌头 n 】
+- .MT **【 The 【 volume buttons 】 are used to 【 turn up the volume 】 and 【 turn down the volume 】. 音量键用来开大音量和关小音量 】**
+- .HL **【 Can you 【 turn the volume up 】 【 a little bit 】? 你能把音量开大点儿吗 】**
+- .MT turn down 拒绝. **【 Why did she 【 turn down 】 your 【 invitation 】? 为什么她拒绝你的邀请 】**
+- // -
+- // invite 邀请 v
+- // invitation 邀请 n
+- // -
+- // TIPS: Pay attention to the pronunciation of the word 'invite'. [invite-邀请-v]
+- // TIPS: Pay attention to the pronunciation of the word 'invitation'. [invitation-邀请-n]
+-
+-
+-
+-
+- 5
+- [模式]
+- `【 speaker mode. 扬声器模式 】`
+- `【 vibration mode. 震动模式 = vibrate mode. 】`
+- `【 silent mode. 静音模式 = mute mode. 】`
+- `【 airplane mode. 飞行模式 】`
+- `【 landscape mode. 横屏模式 】` // ------------- 【 landscape 风景 n 】 VS 【 scenery 风景 景色 n 】
+- `【 portrait mode. 纵屏模式 】`
+- > 【 remote control. 遥控 v 】
+- > 【 remote controller. 遥控器 n 】
+- _【 airplane 飞机 n 】_
+- _【 airport 飞机场 n 】_
+- _【 airline 航空公司 n 】_
+- _【 airway 航线 n 】_
+- _【 airstream 气流 n 】_
+- _【 airbag 安全气囊 n 】_
+- _【 airspace 领空 n 】_
+- _【 air force. 空军 n 】_
+- > 【 touch screen. 触摸屏 n 】
+-
+- **【 Put your phone on vibration mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode. // `vibrate 震动`
+- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`
+- **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
+- **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
+-
+- .HL **【 The 【 speaker mode 】, 【 silent mode 】, 【 vibration mode 】 and 【 airplane mode 】 【 each 】 have their own functions. 扬声器模式，静音模式，震动模式，飞行模式各自有各自的功能 】**
+- .MT **【 This video has 【 landscape mode 】 and 【 portrait mode 】. 该视频有横屏模式和竖屏模式 】**
+- // 【 each 各自 n 】
+-
+-
+-
+-
+- 6
+- [充电]
+- `【 charge 充电v 要价 v 】`
+- `【 recharge 充电 】`
+- `【 discharge 放电 v 】`
+- `【 charger 充电器 n  】`
+- `【 charging cable. 充电线 】`
+- `【 charging pile. 充电桩 】`
+- > 【 socket 插座 n 】
+- > 【 outlet 插座 n 】
+- > 【 wall outlet. 壁式插座 n 】
+- > 【 plug 插 v / 插头 插座 n 】
+- > 【 power strip. 插线板 n 】
+-
+-
+-
+- 7
+- [电]
+- `【 battery 电池 n 】`
+- > 【 full battery. 满电量 n 】
+- > 【 low battery. 低电量 n 】
+- 7.1
+- **【 My phone is dying. 我的手机要没电了 】** // ----- 2%
+- **【 My phone is dead. 我手机没电了 】** // ---------- 0%
+- **【 My phone 【 is out of 】 battery. 我手机没电了 】** --- 0%
+- **【 My phone 【 is out of 】 power. 我手机没电了 】** ----- 0%
+- 7.2
+- **【 full signal. 满信号 】**
+- **【 no signal. 没信号 】**
+- **【 four bars of signal. 四格信号 】**
+- **【 My phone signal is not good. 我的电话信号不好 】**
+- 7.3
+- **【 My phone is stuck. 我的手机卡住了 】**
+- **【 My phone is frozen. 我的手机死机了 】**
+-
+-
+-
+-
+-
+-
+-
+- `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩` // 3. `usb cable. usb数据线`
+- `charging port. 充电口`
+- `charging pile. 充电桩` // pile 一堆 地桩
+- `charger 充电器`
+- `charge 充电 收费`
+- `recharge 充电`
+- `discharge 放电`
+- _【 negative charge. 负电荷 】_
+- 【 in charge of = responsible for. 负责 】
+- // I'm 【 responsible for 】 developing apps. = I'm 【 in charge of 】 developing apps.
+-
+- `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
+- `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
+- `river bank. 河岸`
+-
+- `socket 插座`
+- `outlet 插座`
+- `wall outlet. 壁装插座`
+- // outlet 出口 插座 ----> exit
+- // inlet 入口 小湾 -----> entrance
+-
+- **【 charger 充电器 】**
+- **【 charge 充电 收费 】**
+- **【 recharge 充电 】**
+- **【 discharge 放电 释放 排出 】**
+- `charging port. 充电口`
+- `charging cable. 充电线` // usb cable.
+- `charging pile. 充电桩`
+- **【 in charge of. 负责 】**
+- **【 responsible for. 负责 】**
+- // I was 【 in charge of 】 developing apps. = I was 【 responsible for 】 developing apps.
+-
+- phone case. 手机壳
+- screen protector. 手机保护膜
+-
+- `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜 // 3. microorganism // 4. microwave
+- `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
+- // **【 earphone 耳塞式耳机 】** // earphone jack.
+- // **【 headphone 头戴式耳机 】** // headphone jack.
+- // **【 microphone 麦克风 】**
+- // -- microorganism 微生物 // -------- microorganism = micro + organism
+- // -- microscope 显微镜 // ----------- microscope = micro + scope
+- // -- microphone 麦克风 // ----------- microphone = micro + phone
+- // -- microwave 微波炉 // ------------ microwave = micro + wave
+-
+- speaker 扬声器
+- receiver 听筒
+- microphone. 麦克风 // 1. headphone // 2. headphone jack. // 3. microscope 显微镜 // 4. telescope 望远镜
+-
+-
+- `front-facing camera. 前置摄像头`
+- `rear camera. 后置摄像头`
+- `【 projector 投影仪 】` // project 项目
+- `【 webcam 网络摄像头 】`
+- // TIPS: Pay attention to the different pronunciations between 'project' and 'projector'.
+- // TIPS: Pay attention to the pronunciation of the 'mirror'.
+- -
+- `rear view mirror. 后视镜`
+- `rear view camera. 后视摄像头`
+- // TIPS: Pay attention to the pronunciation of the 'mirror'.
+- -
+- // **【 take pictures. 拍照 / take photos. 】** // take pictures = take photos. 拍照
+- // **【 record videos. 录像 】**
+- // **【 make a recording. 录音 】**
+- // **【 selfie 自拍 】**
+- // record 录制 录像 录音
+- // -- She likes 【 taking photos 】. 她喜欢拍照
+- // -- She likes 【 taking selfies 】. 他喜欢自拍
+- // -- She enjoys 【 taking pictures 】.
+- // -- She likes 【 recording videos 】. 她喜欢录像
+- // -
+- // **【 selfie 自拍 】**
+- // -- She likes taking selfies. 她喜欢自拍
+-
+-
+- mute button 静音键
+- silent button. 静音键
+-
+- dial tone. 拨号音
+- star key.
+- pound key.
+-
+- usb cable. 数据线 usb 线
+- charging cable. 数据线 // charging port. // charging pile.
+-
+-
+- `landscape mode. 横屏` // landscape 景观 地形 地貌
+- `portrait mode. 竖屏` // portrait 肖像 n 竖向的 adj // 1.charging port.充电口 // 2. charging cable. 充电线
+- `touch screen. 触摸屏`
+- // **【 This video has 【 landscape mode 】 and 【 portrait mode 】. 该视频有横屏模式和竖屏模式 】**
+- // -- portrait 肖像 竖向的
+- // -- landscape 景观 地形
+-
+-
+- `bluetooth 蓝牙` // tooth teeth // bluetooth
+- `telephone booth. 电话亭` // booth // tooth
+-
+- operating system. 操作系统 OS
+-
+-
+-
+- **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
+- **【 current 电流 】--> ampere 安培** // current 当前的 adj 电流 n
+- **【 voltage 电压 】--> volt 伏特**
+- **【 power 电功率 】--> watt 瓦特**
+- formula 公式 配方
+- **【 rated voltage. 额定电压 】**
+- **【 rated current. 额定电流 】**
+- **【 rated power. 额定功率 】**
+- `【 power consumption. 功耗 】`
+- `【 fuel consumption. 油耗 】`
+- `【 rated power. 额定功率】`
+- // **【 The 【 rated voltage 】in China is 220 【 vote 】. 中国的额定电压是 220v 】** // voltage volt
+- // vote 伏特
+- // ampere 安培
+- // voltage 电压 = volt 伏特 + age
+-
+-
+-
+- **【 volume key = volume button. 音量键 】**
+- **【 star key. 星号键 】**
+- **【 pound key. 井号键 】**
+- **【 silent button. = mute button. 静音键 】**
+- // keypad 手机上的虚拟键盘
+-
+- inlet 入口 小河湾
+- outlet 出口 插座
+-
+-
+-
+-
+- 1
+- **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the charger and phone, then plug the charger into the 【 power strip 】. 】**
+- 2
+- **【 I plug the charging cable into the charger, and I plug 【 the other end 】 into my phone. 】**
+- 3
+- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode. // `vibrate 震动`
+- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`
+- **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
+- **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
+- `【 Put it on speaker. 打开免提/打开扬声器 】`
+- `【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】`
+- 4
+- **【 full battery. 满电量 】** // ------------------ 100%
+- **【 low battery. 低电量 】** // ------------------- 10%
+- **【 My phone is dying. 我的手机要没电了 】** // ----- 2%
+- **【 My phone is dead. 我手机没电了 】** // ---------- 0%
+- **【 My phone is out of battery. 我手机没电了 】** --- 0%
+- **【 My phone is out of power. 我手机没电了 】** ----- 0%
+- 5
+- **【 four bars of signal. 四格信号 】**
+- **【 full signal. 满信号 】**
+- **【 no signal. 没信号 】**
+- **【 My phone signal is not good. 我的电话信号不好 】**
+- 6
+- **【 My phone is stuck. 我的手机卡住了 】**
+- **【 My phone is frozen. 我的手机死机了 】**
+-
+-
+-
+- `volume 体积 音量`
+- `turn up. 开大`
+- `turn down. 关小`
+- // turn down. 拒绝 关小
+- `a little bit. 一点点 一点`
+- pick up. 接电话
+- hang up. 挂电话
+- // a little bit 一点点: The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself.
+- // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
+- // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
+- // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
+- // turn down. 拒绝 关小: `Why did she 【 turn down 】 your invitation? 为什么她拒绝你的邀请`
+- // -
+- // **【 volume key = volume button. 音量键 】**
+- // **【 star key. 星号键 】**
+- // **【 pound key. 井号键 】**
+- // **【 mute button. = silent button. 静音键 】**
+-
+-
+- `vibrate 振动`
+- // EE: vibrate: to shake slightly and quickly.
+- // put your phone on vibrate mode. 把你的手机调到-振动模式
+- // Set your phone to vibrate mode. 将手机设置为振动
+-
+- slightly 稍微地 轻微地 adv
+- // The temperature has increased 【 slightly 】. 温度略有上升
+-
+- `silent 沉默的 安静的 adj`
+- `mute button. 静音键`
+- `silent button. 静音键`
+- // mute 沉默的 adj
+- // Set your phone to silent mode. 将手机设置为静音
+- // Put your phone on silent mode. 将手机置于振动模式
+-
+- `dial 拨号 拨`
+- // 【 dial tone. 拨号音 】
+- // **【 The subscriber you dialed is busy now, please redial later. 您拨打的用户现在正忙，请稍后再拨 】**
+- // I can't get a 【 dial tone 】 on this phone. 我在这部手机傻姑娘听不到拨号音
+-
+- `front-facing camera. 前置摄像头`
+- `rear camera. 后置摄像头`
+- // rear view mirror. 车后视镜
+- // rear view camera. 车后视镜
+- // `rear 后面的 adj`
+
+```
+
+My phone is out of battery. 我手机没电了
+My phone is out of power.
+My phone is dead.
+
+My phone is frozen. 我的手机死机了
+// freeze 冻结 v/n
+// frozen 冻结的 adj / 动词时是 freeze 的过去式
+
+My phone is stuck. 我的手机卡住了
+
+My phone signal is not good. 我的电话信号不好
+My phone reception is not good. 我的电话信号不好
+// signal 信号
+// reception 反应 接待 n
+
+punch 打卡
+punch in. 打卡
+// 1. Did you punch in? 你上班打卡了吗？
+// 2. Punch in my PIN number. 输入我的密码
+
+【 silent mode. 静音模式 】
+【 vibration mode. 振动模式 】
+【 airplane mode. 飞行模式 】
+vibrate 振动
+// Set your phone to vibrate. 将手机设置为振动
+
+silent 沉默的 安静的
+// Please put your phone in 【 silent mode 】. 请把手机调到【 静音模式 】
+
+Airplane mode. 飞行模式
+// Before your flight 【 takes off 】, you need to set your phone to 【 airplane mode 】.
+// -- take off. 起飞 脱掉
+// -- 起飞: take off your scarf = take your scarf off. 把围巾拿下来
+// -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午 9 点起飞
+
+pile 地桩 一堆
+【 charging pile. 充电桩 】
+// pile 一堆: The clothes were piled high on the chair. 衣服在椅子上堆得高高的
+
+To charge your phone. 给你的手机充电
+I need to get my phone charger.
+We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
+To charge the phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
+
+- Don't stick your fingers into the holes. 别把手指伸进洞里
+- To hang up and call him back later. 挂断电话，稍后再给他打电话
+- Punch in my PIN. 输入我的密码
+
+  ***
+
+keypad 小键盘 按键
+star key. 星号键
+pound key. #号键
+volume key. 音量键
+silent button. = mute button. 静音键
+// pound 英镑
+// volume 体积 音量
+
+- charge 要价 n 给...充电 v
+  charger 充电器
+  power bank. 充电宝
+- use cable. 充电线
+  charging cable. 充电线
+  // cable 电缆
+  // wire 电线 导线
+  // We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以把充电线插到充电器上
+  // He is putting the plug into the socket. 他正把插头插入插座
+  // They need to plug the laptops into a power outlet. 我们需要将笔记本电脑插入插座
+  // Insert the plug into the socket. 把插头插到插座上
+- socket 插座
+  power strip. 插线板
+  plug 插头 n 接电源 v
+  plug in. 插入
+  // strip 条 带
+  // power strip: This is an extension to the wall outlet, and it let's you plug in three, or more electrical devices.
+  // To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
+- power strip. 插线板
+  socket 插座
+  wall outlet. 壁装插座
+- microphone 麦克风
+- 【 silent mode. 静音模式 】
+  【 vibration mode. 震动模式 】
+  【 airplane mode. 飞行模式 】
+- distant control. 遥控
+- dial 拨 拨号
+  dial tone. 拨号音
+
+```
+
+##### (三) Summarize / How to have a phone conversation in English. 如何用英语进行电话交谈
 
 - How to 【 have a phone conversation 】 in English. 如何用英语进行电话交谈
 - // have a phone conversation. 进行电话交谈
@@ -685,404 +1141,7 @@ I'm on the phone. 我在打电话
 
 ```
 
-##### (二) **【 MUST - Mobile Phone / Cell Phone 】**
-
-- 1
-- `【 earphone 耳机 n 】` // -------------------- 【 earphone plug. 耳机插头 】 【 earphone jack. 耳机插孔 】
-- `【 headphone 头戴式耳机 n 】`
-- `【 microphone 麦克风 话筒 n 】`
-- > 【 earphone plug. 耳机插头 】
-- > 【 earphone jack. 耳机插口 】
-- _【 microorganism 微生物 n 】_
-- _【 microbe 微生物 n 】_
-- _【 microphone 麦克风 话筒 n 】_
-- _【 microwave 微波炉 n 】_
-- _【 microscope 显微镜 n 】_
-- > 【 microscope 显微镜 n 】
-- > 【 telescope 望远镜 n 】
-- > 【 stethoscope 听诊器 n 】
-- > 【 otoscope 耳镜 n 】
-- > 【 gastroscope 胃镜 n 】
-- **【 After 【 plugging 】 the 【 earphone plug 】 into the 【 earphone jack 】, you can play music 【 on 】 your mobile phone. 将耳机插头插入耳机插孔后，你就可以用手机播放音乐了 】**
-- // -
-- // plug 插 v 插头 n
-- // music: is a uncountable noun.
--
--
-- 2
-- `【 speaker 扬声器 n 】` // ------------------- 【 speak mode. 扬声器模式 】 【 mute mode. 静音模式 】 【 vibration mode. 震动模式 】
-- `【 receiver 听筒 n 】`
-- > 【 speaker mode. 扬声器模式 n 】
-- > 【 mute mode. = silent mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
-- > 【 vibration mode. = vibrate mode. 震动模式 n 】
-- // mute 沉默的 无声的 哑的 adj
-- // vibrate 震动 VS vibration 震动 n
-- **【 Both the 【 speaker 】 and the 【 receiver 】 of a telephone are 【 output devices 】. 电话的扬声器和听筒都是输出设备 】**
-- **【 【 mobile phones 】 have three modes: 【 speaker mode 】, 【 mute mode 】, 【 vibrate mode 】. 手机有扬声器模式，静音模式，震动模式这三种模式 】**
-
-- `We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以将充电线插入充电器`
-- `He is putting the 【 plug 】into the 【 socket 】他正在把插头插入插座`
-- `Put the plug into the socket. = Insert the plug into the socket.`
-- // Put the gas nozzle into the gas tank.
--
--
-- 3
-- [摄像头]
-- `【 front-facing camera. 前置摄像头 】`
-- `【 rear-facing camera. 后置摄像头 】`
-- > rear view mirror. 后视镜
-- > rear view camera. 后视摄像头
-- _【 take pictures. 拍照 / take photos. 】_
-- _【 take a selfie. 自拍 】_
-- _【 make a recording. 录音 】_
-- _【 record a video. 录像 】_
-- > 【 projector 投影仪 n 】
-- > 【 webcam 网络摄像头 n 】
--
--
-- 4
-- [键]
-- `【 start key. 星号键 】`
-- `【 pound key. 井号键 】`
-- `【 dial key. 拨号键 】` // -------------------- 【 dial 拨 v 】
-- `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
-- `【 mute button. = silent button. 静音键 】`
-- _【 turn up the volume. 开大音量 v 】_
-- _【 turn down the volume. 关小音量 v 】_
-- _【 durn down. 关小 拒绝 v 】_
-- > 【 keypad 小键盘 n - 电话上的键盘 】
-- > 【 keyboard 键盘 n 】
-- _【 dial 拨 v 】_
-- _【 dial tone. 拨号音 n 】_
-- _【 dial key. 拨号键 】_
-- 【 tone 语气 音调 声调 n 】 VS 【 tongue 舌头 n 】
-- .MT **【 The 【 volume buttons 】 are used to 【 turn up the volume 】 and 【 turn down the volume 】. 音量键用来开大音量和关小音量 】**
-- .HL **【 Can you 【 turn the volume up 】 【 a little bit 】? 你能把音量开大点儿吗 】**
-- .MT turn down 拒绝. **【 Why did she 【 turn down 】 your 【 invitation 】? 为什么她拒绝你的邀请 】**
-- // -
-- // invite 邀请 v
-- // invitation 邀请 n
-- // -
-- // TIPS: Pay attention to the pronunciation of the word 'invite'. [invite-邀请-v]
-- // TIPS: Pay attention to the pronunciation of the word 'invitation'. [invitation-邀请-n]
--
--
-- 5
-- [模式]
-- `【 speaker mode. 扬声器模式 】`
-- `【 vibration mode. 震动模式 = vibrate mode. 】`
-- `【 mute mode. 静音模式 = silent mode. 】`
-- `【 airplane mode. 飞行模式 】`
-- > 【 remote control. 遥控 v 】
-- > 【 remote controller. 遥控器 n 】
-- _【 airplane 飞机 n 】_
-- _【 airport 飞机场 n 】_
-- _【 airline 航空公司 n 】_
-- _【 airway 航线 n 】_
-- _【 airstream 气流 n 】_
-- _【 airbag 安全气囊 n 】_
-- _【 airspace 领空 n 】_
-- _【 air force. 空军 n 】_
-- **【 扬声器模式，静音模式，震动模式，飞行模式各自有各自的功能 】**
--
--
-- `charging cable. 充电线` // 1. `charging port. 充电口` // 2. `charging pile. 充电桩` // 3. `usb cable. usb数据线`
-- `charging port. 充电口`
-- `charging pile. 充电桩` // pile 一堆 地桩
-- `charger 充电器`
-- `charge 充电 收费`
-- `recharge 充电`
-- `discharge 放电`
-- _【 negative charge. 负电荷 】_
-- 【 in charge of = responsible for. 负责 】
-- // I'm 【 responsible for 】 developing apps. = I'm 【 in charge of 】 developing apps.
--
-- `power strip. 插线板` // 1. `power bank. 充电宝` 2. `river bank. 河岸`
-- `power bank. 充电宝` // 1. `river bank. 河岸` // 2. `power strip. 插线板`
-- `river bank. 河岸`
--
-- `socket 插座`
-- `outlet 插座`
-- `wall outlet. 壁装插座`
-- // outlet 出口 插座 ----> exit
-- // inlet 入口 小湾 -----> entrance
--
-- **【 charger 充电器 】**
-- **【 charge 充电 收费 】**
-- **【 recharge 充电 】**
-- **【 discharge 放电 释放 排出 】**
-- `charging port. 充电口`
-- `charging cable. 充电线` // usb cable.
-- `charging pile. 充电桩`
-- **【 in charge of. 负责 】**
-- **【 responsible for. 负责 】**
-- // I was 【 in charge of 】 developing apps. = I was 【 responsible for 】 developing apps.
--
-- phone case. 手机壳
-- screen protector. 手机保护膜
--
-- `headphone 耳机` // 1. microphone 麦克风 // 2. microscope 显微镜 // 3. microorganism // 4. microwave
-- `headphone jack. 耳机插孔` // 1. `jack 插孔` 2. `microphone 麦克风`
-- // **【 earphone 耳塞式耳机 】** // earphone jack.
-- // **【 headphone 头戴式耳机 】** // headphone jack.
-- // **【 microphone 麦克风 】**
-- // -- microorganism 微生物 // -------- microorganism = micro + organism
-- // -- microscope 显微镜 // ----------- microscope = micro + scope
-- // -- microphone 麦克风 // ----------- microphone = micro + phone
-- // -- microwave 微波炉 // ------------ microwave = micro + wave
--
-- speaker 扬声器
-- receiver 听筒
-- microphone. 麦克风 // 1. headphone // 2. headphone jack. // 3. microscope 显微镜 // 4. telescope 望远镜
--
--
-- `front-facing camera. 前置摄像头`
-- `rear camera. 后置摄像头`
-- `【 projector 投影仪 】` // project 项目
-- `【 webcam 网络摄像头 】`
-- // TIPS: Pay attention to the different pronunciations between 'project' and 'projector'.
-- // TIPS: Pay attention to the pronunciation of the 'mirror'.
-- -
-- `rear view mirror. 后视镜`
-- `rear view camera. 后视摄像头`
-- // TIPS: Pay attention to the pronunciation of the 'mirror'.
-- -
-- // **【 take pictures. 拍照 / take photos. 】** // take pictures = take photos. 拍照
-- // **【 record videos. 录像 】**
-- // **【 make a recording. 录音 】**
-- // **【 selfie 自拍 】**
-- // record 录制 录像 录音
-- // -- She likes 【 taking photos 】. 她喜欢拍照
-- // -- She likes 【 taking selfies 】. 他喜欢自拍
-- // -- She enjoys 【 taking pictures 】.
-- // -- She likes 【 recording videos 】. 她喜欢录像
-- // -
-- // **【 selfie 自拍 】**
-- // -- She likes taking selfies. 她喜欢自拍
--
--
-- mute button 静音键
-- silent button. 静音键
--
-- dial tone. 拨号音
-- star key.
-- pound key.
--
-- usb cable. 数据线 usb 线
-- charging cable. 数据线 // charging port. // charging pile.
--
--
-- `landscape mode. 横屏` // landscape 景观 地形 地貌
-- `portrait mode. 竖屏` // portrait 肖像 n 竖向的 adj // 1.charging port.充电口 // 2. charging cable. 充电线
-- `touch screen. 触摸屏`
-- // **【 This video has 【 landscape mode 】 and 【 portrait mode 】. 该视频有横屏模式和竖屏模式 】**
-- // -- portrait 肖像 竖向的
-- // -- landscape 景观 地形
--
--
-- `bluetooth 蓝牙` // tooth teeth // bluetooth
-- `telephone booth. 电话亭` // booth // tooth
--
-- operating system. 操作系统 OS
--
--
--
-- **【 The 【 formula 】 for 【 power 】 is 【 current 】 multiplied by 【 voltage 】. 功率的公式是电流乘以电压 】**
-- **【 current 电流 】--> ampere 安培** // current 当前的 adj 电流 n
-- **【 voltage 电压 】--> volt 伏特**
-- **【 power 电功率 】--> watt 瓦特**
-- formula 公式 配方
-- **【 rated voltage. 额定电压 】**
-- **【 rated current. 额定电流 】**
-- **【 rated power. 额定功率 】**
-- `【 power consumption. 功耗 】`
-- `【 fuel consumption. 油耗 】`
-- `【 rated power. 额定功率】`
-- // **【 The 【 rated voltage 】in China is 220 【 vote 】. 中国的额定电压是 220v 】** // voltage volt
-- // vote 伏特
-- // ampere 安培
-- // voltage 电压 = volt 伏特 + age
--
--
--
-- **【 volume key = volume button. 音量键 】**
-- **【 star key. 星号键 】**
-- **【 pound key. 井号键 】**
-- **【 silent button. = mute button. 静音键 】**
-- // keypad 手机上的虚拟键盘
--
-- inlet 入口 小河湾
-- outlet 出口 插座
--
--
--
--
-- 1
-- **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the charger and phone, then plug the charger into the 【 power strip 】. 】**
-- 2
-- **【 I plug the charging cable into the charger, and I plug 【 the other end 】 into my phone. 】**
-- 3
-- **【 Put your phone on vibrate mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode. // `vibrate 震动`
-- **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`
-- **【 Put your phone on airplane mode. 把你的手机调到-飞行模式 】**
-- **【 Put your phone on ring mode. 把你的手机调到-铃声模式 】**
-- `【 Put it on speaker. 打开免提/打开扬声器 】`
-- `【 Could you please put Mary on the phone? 你能让玛丽接电话吗? 】`
-- 4
-- **【 full battery. 满电量 】** // ------------------ 100%
-- **【 low battery. 低电量 】** // ------------------- 10%
-- **【 My phone is dying. 我的手机要没电了 】** // ----- 2%
-- **【 My phone is dead. 我手机没电了 】** // ---------- 0%
-- **【 My phone is out of battery. 我手机没电了 】** --- 0%
-- **【 My phone is out of power. 我手机没电了 】** ----- 0%
-- 5
-- **【 four bars of signal. 四格信号 】**
-- **【 full signal. 满信号 】**
-- **【 no signal. 没信号 】**
-- **【 My phone signal is not good. 我的电话信号不好 】**
-- 6
-- **【 My phone is stuck. 我的手机卡住了 】**
-- **【 My phone is frozen. 我的手机死机了 】**
--
--
--
-- `volume 体积 音量`
-- `turn up. 开大`
-- `turn down. 关小`
-- // turn down. 拒绝 关小
-- `a little bit. 一点点 一点`
-- pick up. 接电话
-- hang up. 挂电话
-- // a little bit 一点点: The first question is 【 definitely 】 tell me 【 a little bit 】 about yourself.
-- // volume 体积: `How do you measure the volume of a gas? 你如何计量气体的体积`
-- // volume 音量: `Can you turn the volume up a little bit? 你能把音量开大点儿吗`
-- // volume 音量: `Please turn the volume down. 请把音量调低些` // turn down the volume = turn the volume down.
-- // turn down. 拒绝 关小: `Why did she 【 turn down 】 your invitation? 为什么她拒绝你的邀请`
-- // -
-- // **【 volume key = volume button. 音量键 】**
-- // **【 star key. 星号键 】**
-- // **【 pound key. 井号键 】**
-- // **【 mute button. = silent button. 静音键 】**
--
--
-- `vibrate 振动`
-- // EE: vibrate: to shake slightly and quickly.
-- // put your phone on vibrate mode. 把你的手机调到-振动模式
-- // Set your phone to vibrate mode. 将手机设置为振动
--
-- slightly 稍微地 轻微地 adv
-- // The temperature has increased 【 slightly 】. 温度略有上升
--
-- `silent 沉默的 安静的 adj`
-- `mute button. 静音键`
-- `silent button. 静音键`
-- // mute 沉默的 adj
-- // Set your phone to silent mode. 将手机设置为静音
-- // Put your phone on silent mode. 将手机置于振动模式
--
-- `dial 拨号 拨`
-- // 【 dial tone. 拨号音 】
-- // **【 The subscriber you dialed is busy now, please redial later. 您拨打的用户现在正忙，请稍后再拨 】**
-- // I can't get a 【 dial tone 】 on this phone. 我在这部手机傻姑娘听不到拨号音
--
-- `front-facing camera. 前置摄像头`
-- `rear camera. 后置摄像头`
-- // rear view mirror. 车后视镜
-- // rear view camera. 车后视镜
-- // `rear 后面的 adj`
-
-```
-
-My phone is out of battery. 我手机没电了
-My phone is out of power.
-My phone is dead.
-
-My phone is frozen. 我的手机死机了
-// freeze 冻结 v/n
-// frozen 冻结的 adj / 动词时是 freeze 的过去式
-
-My phone is stuck. 我的手机卡住了
-
-My phone signal is not good. 我的电话信号不好
-My phone reception is not good. 我的电话信号不好
-// signal 信号
-// reception 反应 接待 n
-
-punch 打卡
-punch in. 打卡
-// 1. Did you punch in? 你上班打卡了吗？
-// 2. Punch in my PIN number. 输入我的密码
-
-【 silent mode. 静音模式 】
-【 vibration mode. 振动模式 】
-【 airplane mode. 飞行模式 】
-vibrate 振动
-// Set your phone to vibrate. 将手机设置为振动
-
-silent 沉默的 安静的
-// Please put your phone in 【 silent mode 】. 请把手机调到【 静音模式 】
-
-Airplane mode. 飞行模式
-// Before your flight 【 takes off 】, you need to set your phone to 【 airplane mode 】.
-// -- take off. 起飞 脱掉
-// -- 起飞: take off your scarf = take your scarf off. 把围巾拿下来
-// -- 脱掉: The plane is scheduled to take off at 9:00 AM. 飞机计划在上午 9 点起飞
-
-pile 地桩 一堆
-【 charging pile. 充电桩 】
-// pile 一堆: The clothes were piled high on the chair. 衣服在椅子上堆得高高的
-
-To charge your phone. 给你的手机充电
-I need to get my phone charger.
-We can plug the charging cable into the charger. 我们可以把充电线插到充电器上
-To charge the phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
-
-- Don't stick your fingers into the holes. 别把手指伸进洞里
-- To hang up and call him back later. 挂断电话，稍后再给他打电话
-- Punch in my PIN. 输入我的密码
-
-  ***
-
-keypad 小键盘 按键
-star key. 星号键
-pound key. #号键
-volume key. 音量键
-silent button. = mute button. 静音键
-// pound 英镑
-// volume 体积 音量
-
-- charge 要价 n 给...充电 v
-  charger 充电器
-  power bank. 充电宝
-- use cable. 充电线
-  charging cable. 充电线
-  // cable 电缆
-  // wire 电线 导线
-  // We can 【 plug 】 the 【 charging cable 】 into the 【 charger 】. 我们可以把充电线插到充电器上
-  // He is putting the plug into the socket. 他正把插头插入插座
-  // They need to plug the laptops into a power outlet. 我们需要将笔记本电脑插入插座
-  // Insert the plug into the socket. 把插头插到插座上
-- socket 插座
-  power strip. 插线板
-  plug 插头 n 接电源 v
-  plug in. 插入
-  // strip 条 带
-  // power strip: This is an extension to the wall outlet, and it let's you plug in three, or more electrical devices.
-  // To charge your phone, We need to connect the charging cable to the charger and phone, then plug the charger into the power strip.
-- power strip. 插线板
-  socket 插座
-  wall outlet. 壁装插座
-- microphone 麦克风
-- 【 silent mode. 静音模式 】
-  【 vibration mode. 震动模式 】
-  【 airplane mode. 飞行模式 】
-- distant control. 遥控
-- dial 拨 拨号
-  dial tone. 拨号音
-
-```
-
-##### (三) An article about mobile phone
+##### (四) An article about mobile phone
 
 ```
 
@@ -1103,7 +1162,7 @@ You'll notice that I have 【 a front-facing camera and a rear-facing camera. �
 
 ```
 
-##### (四) Some conversation
+##### (五) Some conversation
 
 ```1111111
 A: Let me dial this number.
