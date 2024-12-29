@@ -1114,9 +1114,30 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 22 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 23 】- The words that you mast know.**
 
-- [-OO]22
+- [-PP.]23
+- `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
+- `【 terminal 终端 n 】`
+- `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】
+- `【 comply with. 遵守 v = obey 】` // ------------ 【 comply with the traffic rules. 遵守交通规则 v 】
+- > 【 violate law. 违反法律 v 】
+- > 【 violate the regulation. 违反规定 v 】
+- _【 terminate the transaction. 终止交易 v 】_
+- _【 terminate the contract. 终止合同 v 】_
+- // violate VS breach VS comply with.
+- .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- .MT **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- > 【 come with. 附带 v 】
+- > 【 come down with. 染上 v 】
+- > 【 comply with. 遵守 v 】
+- > 1.  The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
+- > 2.  I 【 come down with 】 a cold. 我患了感冒
+- > 3. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
+-
+-
+-
+- [-OO.]22
 - `【 lease 租约n 租v 】` // ------------------------- 【 sign a lease. 签订租约 】
 - `【 contract 合同 】` // --------------------------- 【 sin a contract. 签订合同 】 // contract VS contact VS contrast // contrast VS compare
 - **【 【 Signing a lease 】 is equal to 【 sign a contract 】. 签订租约等同于签订合同 】**
@@ -1131,12 +1152,16 @@ fill out. 填写
 - > bankrupt 破产 v adj
 - > shut down. 关闭 停业 v // ------------------------ 【 shut up. VS shut down. 】
 - _【 be out of. 用完耗尽 = run out of. 】_
-- _【 My car is out of gas. 我车没油了 】= My car has run out of gas._
-- _【 My phone is out of battery. 我手机没电了 】 = My phone has run out of battery._
+- _【 My car is out of gas. 我车没油了 】= `My car 【 has run out of 】 gas`._
+- _【 My phone is out of battery. 我手机没电了 】 = `My phone 【 has run out of 】 battery`._
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
 - .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**
 - **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
+- // -
+- // max out. 刷爆 v
+- // overdraw 透支 v
+- // -
 - // -- `【 sth be used to do sth. 某物被用来做某事 】`
 - // -- `【 sb used to do sth. 过去常常做某事，但现在不做了 】`
 - // -- `【 sb be used to sth. 某人习惯于 某事 】`
@@ -1149,7 +1174,7 @@ fill out. 填写
 - > 【 bark 树皮 n 狗叫 v 】
 - > 【 stump 树桩 n 】
 - .MT **【 We don't need to 【 bargain 】 【 for 】 the 【 bargains 】. 我们没必要为便宜货讨价还价 】**
-- .MT **【 The 【 stump 】 without 【 bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
+- .MT **【 The 【 tree stump 】 without 【 bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
 - .MT **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
 -
 -
@@ -1163,22 +1188,24 @@ fill out. 填写
 - > 【 product 产品 乘积 n 】
 - _[violate-违反-v]_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】
 - _[certain-确定的-一定的-adj]_ // --- 【 a certain quantity. 一定的数量 】 【 a certain level. 一定的水平 】
+- _[terminate-终止-v]_ // ----------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
 - _[link]_[Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
+- // 【 violate 违反 侵犯 强奸 v 】 VS 【 comply with. 遵守 v = obey. 】
+- // 【 comply with traffic rules. 遵守交通规则 】
+- // 【 violate law. 违反法律 】
+- // 【 violate regulation. 违反规定 】
+- // 【 violate one's privacy. 侵犯...的隐私 】
 - .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你将会被扣一定的手续费 】**
 - .MT **【 If you 【 violate 】 the regulation of the company, your salary will be 【 deducted 】. 如果你违反公司规定会被扣工资 】**
 - .MT **【 We should 【 deduct 】 the 【 cost 】 of the 【 duct 】 part of the 【 product 】. 我们应该扣除这个产品导管部分的成本 】**
 - .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
 - .HL **【 The 【 tuition fee 】 【 includes 】 【 a certain amount of 】 【 handling fee 】. 学费包含了一定的手续费 】**
-- // -- `【 violate 违反 侵犯 强奸 v 】`
-- // -- 【 violate law. 违反法律 】
-- // -- 【 violate regulation. 违反规定 】
-- // -- 【 violate one's privacy. 侵犯...的隐私 】
 - // -- swipe 刷卡
 - // -- swipe a credit card. 刷信用卡
 -
 -
 - [-KK.]18
-- `【 installment 分期付款 安装 n 】` // ------------ 【 installment payment. 分期付款 n 】 // 【 in installments. 分期付款 adv 】
+- `【 installment 分期付款 安装 n 】` // ------------ 【 installment payment. 分期付款 n 】 【 offer installment payment service. 提供分期付款服务 】
 - `【 installment payment. 分期付款 n 】` // ------- 【 offer installment payment. 提供分期分款 v 】
 - > 【 in installments. 分期付款 adv 】
 - _【 pay in cash. 用现金支付 adv 】_
@@ -1259,12 +1286,12 @@ fill out. 填写
 -
 - [-CC.]11
 - `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
-- `【 waste 浪费v 垃圾n 】`
+- `【 waste 浪费v 垃圾n 】` // --------------------- waste VS garbage VS rubbish VS trash VS litter
 - > 【 squander time. 浪费时间 】
 - > 【 squander money. 浪费金钱 】
 - > waste VS garbage VS rubbish VS trash VS litter
 - _【 junk food. 垃圾食物 】_
-- _【 junk mail. 垃圾食物 】_
+- _【 junk mail. 垃圾邮件 】_
 - _【 draft box. 草稿箱 n 】_
 - _【 inbox 收件箱 n = mailbox 】_
 - .HL **【 I won't 【 squander time 】 and 【 squander money 】 【 on 】 【 junk food. 】 我不会在垃圾食品上浪费时间和浪费金钱 】**
@@ -1279,7 +1306,7 @@ fill out. 填写
 -
 - [-BB.]10
 - `【 handling fee. 手续费 n 】` // handle -> handling 处理
-- `【 tuition fee. 学费 n 】`
+- `【 tuition fee. 学费 n 】` // tuition VS tutor VS tutorial
 - .HL **【 You will be 【 deducted 】 a 【 certain 】 【 handling fee 】 if you 【 swipe 】 a 【 credit card 】. 如果你刷信用卡，你将会被扣一定的手续费 】**
 - .HL **【 The 【 tuition fee 】 【 includes 】 【 a certain amount of 】 【 handling fee 】. 学费包含了一定的手续费 】**
 - .MT **【 We should 【 deduct 】 the 【 handling fee 】 of this product. 我们应该扣除这个产品的手续费 】**
@@ -1426,6 +1453,20 @@ fill out. 填写
 - // -- own 拥有 v 自己的 adj
 - // -- afford 买得起
 - // TIPS: Pay attention to the pronunciation of the word 'afford'. [afford-买得起-负担得起-v]
+-
+-
+- [QQ.]
+- `【 refund 退款 】` // ------------------- refund VS fund VS found VS fun
+- `【 compensation 赔偿 赔偿金 n 】`
+- `【 compensate 赔偿 补偿 弥补 v 】`
+- `【 supplement 补充 v 】`
+- .MT **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】 and 【 refunds 】. 他被裁员后，收到了一大笔赔偿金和退款 】**
+- **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
+- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
+- // -- lay off. 裁员 v
+- // -- layoff. 裁员 n
+- // -- a large amount of. 大量的 ----- 不可数名字
+- // -- a large number of. 大量的 ----- 可数名词复数
 -
 -
 - [FF.]9
@@ -1575,15 +1616,19 @@ fill out. 填写
 -
 -
 - [NN.]
-- `【 transaction 交易 n 】` // -------------- 【 terminate the transaction. 终止交易 】
+- `【 transaction 交易 n 】` // -------------- 【 terminate the transaction. 终止交易 v 】
+- `【 terminate 终止 v 】` // ---------------- 【 terminate the contract. 终止合同 v 】 【 terminate the transaction. 终止交易 v 】
 - `fee 费用`
 - `fare 票价`
+- > 【 terminate 终止 v 】 VS 【 terminal 终点站 终端 n 】
+- > 【 terminal 终点站 终端 n 】
 - _【 terminate transaction. 终止交易 】_
-- > 【 terminate contract. 终止合同 】
-- > 【 terminate service. 终止服务 】
+- _【 terminate contract. 终止合同 】_
+- _【 terminate service. 终止服务 】_
 - 1. **【 The 【 transaction 】 is 【 completed 】 after paying the 【 fee 】. 交易在支付费用之后就完成了 】**
-- 2. **【 The 【 transaction 】 was cancelled 【 due to 】 the 【 technical 】 reason. 因为技术原因，交易被取消了 】**
-- .MT **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- 2. **【 We 【 terminated 】 this 【 transaction 】 due to the 【 technical reason 】. 因为技术原因，我们终止了这次交易 】**
+- 3. .MT **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- **【 The 【 transaction 】 was cancelled 【 due to 】 the 【 technical 】 reason. 因为技术原因，交易被取消了 】**
 - .HL **【 If you 【 swipe 】 a 【 credit card 】, The ATM will 【 automatically 】 【 deduct 】 money and it also will automatically deduct the 【 handling fee 】 for this 【 transaction 】. 如果你刷信用卡，ATM 机会自动扣款，并自动扣除本次交易手续费 】**
 - // -- due to. 因为
 - // -- 【 technical 技术的 adj 】
@@ -1609,20 +1654,6 @@ fill out. 填写
 - > 【 revenue interest balance budget debt loan 】
 - > 【 salary wage pay performance bonus reward benefit 】
 - **【 The 【 consumption 】 has already 【 gone over budget 】. 本次消费已经超预算了 】**
--
--
-- [QQ.]
-- `【 refund 退款 】`
-- `【 compensation 赔偿 赔偿金 n 】`
-- `【 compensate 赔偿 补偿 弥补 v 】`
-- `【 supplement 补充 v 】`
-- .MT **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】 and 【 refunds 】. 他被裁员后，收到了一大笔赔偿金和退款 】**
-- **【 He received a 【 refund 】 and 【 compensation 】. 他收到了退款和赔偿 】**
-- **【 After he was 【 laid off 】, he received 【 a large amount of 】 【 compensation 】. 他被裁员后，收到了一大笔赔偿金 】**
-- // -- lay off. 裁员 v
-- // -- layoff. 裁员 n
-- // -- a large amount of. 大量的 ----- 不可数名字
-- // -- a large number of. 大量的 ----- 可数名词复数
 -
 -
 - [RR.]
