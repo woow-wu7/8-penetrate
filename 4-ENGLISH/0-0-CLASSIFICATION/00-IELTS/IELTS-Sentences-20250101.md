@@ -108,4 +108,61 @@
 签订租约等同于签订合同
 -
 我们签了两年租约
+
+
+3
+来自不同国家的人有着不同的生活方式和生活习惯
+
+
+4
+他是一个热情的人，对任何事都充满了激情
+-
+我的优点是对工作充满激情
+
+
+5
+与去年相比，今年老了许多
+
+
+6
+He 【 is good at  】 many fields and he 【 is proficient in 】 【 physics 】 【 in particular 】.
+他擅长很多领域，并且他尤其精通物理学
+-
+We should 【 pay particular attention to 】 the 【 particular function 】 of the 【 particular approach 】.
+我们应该特别注意这个特别方法的特别作用
+-
+// -
+// 【 be proficient in. 熟练... 精通... v 】
+// 【 be good at. 擅长 v 】
+// -
+// 【 in particular. 尤其 adv 】
+// 【 particular 特别的 特殊的 adj 】
+// 【 specific 具体的 特别的 adj 】
+// -
+// 【 particular course. 特别的课程 】
+// 【 Pay particular attention to. 特别注意... 】
+// 【 particular approach. 特别的方法 n 】
+// 【 particular function. 特别的功能 n 】
+// -
+// approach 方法 n
+// method 方法 n
+// scheme 方案 计划 n
+// means 方法 手段 n
+```
+
+##### 03 Make sentences 2025-01-03
+
+```
+1
+他擅长很多领域，并且他尤其精通物理学
+-
+我们应该特别注意这个特别方法的特别作用
+
+
+2
+这种食物采用传统工艺制造
+
+
+3
+彩票在不到一小时的时间内就售罄了
 ```

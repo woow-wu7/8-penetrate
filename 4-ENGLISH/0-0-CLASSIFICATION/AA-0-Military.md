@@ -1,6 +1,6 @@
 ##### Military
 
-##### Military 1 - military
+##### Military 1 - **【 military 】**
 
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
@@ -91,7 +91,7 @@
 -
 -
 
-##### Military 2 - weapon
+##### Military 2 - **【 weapon 】**
 
 - 2
 - `【 weapon 武器 】` // ----------------------- 【 nuclear weapon. 核武器 n 】 // 【 atom bomb. 原子弹 】
@@ -105,6 +105,7 @@
 - `【 shotgun 猎枪 n 】`
 - `【 gunshot 枪声 n 】` // -------------------- 【 explosion sound. 爆炸声 】 `【 shrill explosion sound. 刺耳的爆炸声 】` // 【 gunshot. 枪声 】【 shotgun 猎枪 】
 - `【 gunpowder 火药 n 】` // ------------------ 【 powder 粉 粉末 n 】 // 【 flour 面粉 】
+- `【 hand grenade. 手榴弹 n 】`
 - > 【 gunshot 枪声 n 】
 - > 【 explosion sound. 爆炸声 n 】
 - > 【 shrill explosion sound. 刺耳的爆炸声 】
@@ -120,8 +121,8 @@
 - > 【 possess wealth. 拥有财富 】
 - > 【 illegally possess guns. 非法持有枪支 】
 - > 【 possess firearm. 持有枪支 】
-- **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
-- **【 To 【 illegally possess guns 】 is a 【 illegal 】 action. 非法持有枪支是非法行为 】**
+- .MT **【 In China, It's 【 illegal 】 to 【 possess 】 【 pistols 】, 【 shotguns 】, 【 rifles 】. 在中国，持有手枪，猎枪和步枪都是非法的 】**
+- .HL **【 To 【 illegally possess guns 】 is a 【 illegal 】 action / behavior. 非法持有枪支是非法行为 】**
 -
 - `【 scope 瞄准镜 范围 n 】` // ---------------- 【 attach the scope. 装上瞄准镜 v 】
 - `【 magazine 弹夹 杂志 n 】` // ----------------【 load the magazine. 装上弹夹 v 】
@@ -187,9 +188,10 @@
 - `【 fire three shots at. 向...开了三枪 】`
 - > 【 criminal 罪犯 n 】
 - > 【 fugitive 逃犯 n 】
+- > 【 prisoner 囚犯 n 】
 - > draw -> drew 画 拔出 v
 - > fugitive 逃犯 VS refugee 难民 VS refuge 避难 v 避难所 n
-- **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
+- .MT **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
 -
 - [BB.]
 - `【 gunshot 枪声 n 】`
@@ -238,7 +240,7 @@
 -
 -
 
-##### Military 3 - navy army fire-force
+##### Military 3 - **【 navy army fire-force 】**
 
 - 3
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】 // 【 navy 海军 VS envy 羡慕 嫉妒 v】
@@ -314,7 +316,7 @@
 -
 -
 
-##### Military 4 - enemy army
+##### Military 4 - **【 enemy army 】**
 
 - 4
 - `【 enemy 敌人 n 】` // --------------------- 【 enemy troop. 敌军 】 【 enemy territory. 地方领土 】 【 public enemy. 公敌 】 【 annihilate enemy troop. 歼灭敌军 】
@@ -666,6 +668,28 @@ break out. 爆发 v // ------------------------- 【 war break out. 战争爆发
 physical conflict. 肢体冲突
 // physical relationship. 肉体关系
 ```
+
+##### Military 6 **【 people 】**
+
+- 6
+- `【 fugitive 逃犯 n 】` // -------------------- 【 chase fugitive. 追扑逃犯 v 】
+- `【 criminal 罪犯 n 】` // -------------------- 【 criminal records. 犯罪记录 n 】 // 【 crime scene. 犯罪现场 n 】
+- `【 prisoner 囚犯 n 】` // -------------------- 【 prisoner 囚犯 】VS 【 imprison 关押 v 】 VS 【 prison 监狱 】 // 【 prison 监狱 】VS 【 poison 毒药 】
+- `【 captive 战俘 n 】`
+-
+- `【 aggressive war. 侵略战争 n 】` // --------- 【 【 launch 】 an aggressive war. 发动侵略战争 v 】
+- `【 break out. 爆发 v 】` // ----------------- 【 the war 【 break out 】 on a new battlefield. 战争在新的战场爆发了 】
+-
+- AA.
+- > 【 chase 追逐 追捕 v 】 // ------------------ 【 chase dream. 追逐梦想 v 】 【 chase fugitive. 追捕逃犯 v 】
+- > 【 pursue 追求 v 】 // --------------------- 【 pursue happiness. 追求幸福 v 】
+- BB.
+- _【 fugitive 逃犯 n 】_
+- _【 refugee 难民 n 】_
+- _【 refuge 避难 v / 避难所 n 】_
+- CC.
+- > 【 poison 毒药 毒 n / 下毒 v 】 // ---------- 【 poison gas. 毒气 n 】 // 【 antidote 解药 】 VS 【 poison 毒药 n 】
+- > 【 prison 监狱 n 】
 
 ##### Hard Military
 

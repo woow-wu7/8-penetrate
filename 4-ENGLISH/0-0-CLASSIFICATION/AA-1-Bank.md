@@ -1129,8 +1129,10 @@ fill out. 填写
 - .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
 - .MT **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
 - > 【 come with. 附带 v 】
-- > 【 come down with. 染上 v 】
+- > 【 come down with. 染上 v 】 // ---------------- 【 come down with an illness. 染上疾病 v 】 【 come down with a disease. 染上疾病 v 】
 - > 【 comply with. 遵守 v 】
+- _【 come down with an 【 illness 】. 染上疾病 v 】_ // illness 疾病 n
+- _【 come down with a 【 disease 】. 染上疾病 v 】_ // disease 病 疾病 n
 - > 1.  The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
 - > 2.  I 【 come down with 】 a cold. 我患了感冒
 - > 3. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
