@@ -154,17 +154,29 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 
 ```
 1
+He 【 is good at 】 many fields, and he 【 is proficient in 】 【 physics 】 【 in particular 】.
 他擅长很多领域，并且他尤其精通物理学
 -
+We should 【 pay particular attention to 】 the 【 particular function 】 of the 【 particular approach 】.
 我们应该特别注意这个特别方法的特别作用
 
 
 2
+This kind of food is produce by 【 traditional techniques 】.
 这种食物采用传统工艺制造
+// -
+// 【 traditional technique. 传统工艺 】
+// 【 artisan 工匠 n 】
+// 【 technique 工艺 技巧 n 】
 
 
 3
+【 Lottery tickets 】 have been 【 sold out  】 【 within 】 【 less than 】 one hour.
 彩票在不到一小时的时间内就售罄了
+// -
+// 【 lottery ticket. 彩票 】
+// -
+// 【 sold out. 售尽 卖光 v 】
 
 
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
@@ -174,6 +186,10 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 4
 After 【 plugging 】 the 【 earphone plug 】 【 into 】 the 【 earphone jack 】, you can paly musics 【 on 】 the mobile phone.
 将耳机插头插入耳机插孔后，你就可以用手机播放音乐了
+// -
+// 【 plug 插头n 插v 】
+// 【 earphone plug. 耳机插头 】
+// 【 earphone jack. 耳机插孔 】
 
 
 5
@@ -182,6 +198,16 @@ Both 【 speaker 】 and 【 receiver 】 of a mobile phone are 【 output 】 d
 -
 Mobile phones have three kinds of modes: 【 speaker mode 】, 【 silent mode 】, 【 vibration mode 】.
 手机有扬声器模式，静音模式，震动模式这三种模式
+-
+// -
+// speaker 扬声器 n
+// receiver 听筒 n
+// -
+// speaker mode.
+// silent mode. = mute mode.
+// vibration mode. = vibrate mode.
+// landscape mode.
+// portrait mode.
 
 
 6
@@ -193,4 +219,40 @@ The best way to 【 defend territory 】 is to 【 expand territory 】.
 -
 The 【 ground troops 】 don't defend the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】.
 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉
+-
+// -
+// 【 national territory. 国家领土 v 】
+// 【 defend territory. 保护领土 v 】
+// 【 expand territory. 扩张领土 v 】
+// -
+// 【 territorial sea. 领海 】
+// 【 territorial airspace. 领空 】
+// 【 territorial land. 领陆 】
+// -
+// airplane
+// airport
+// airline
+// airway 航线 n
+// airbag 空气气囊
+// airstream 气流
+// air force. 空军
+// air fore base. 空军基地
+// territorial airspace. 领空
+```
+
+##### 04 Make sentences 2025-01-04
+
+```
+1
+他擅长很多领域，并且他尤其精通物理学
+-
+我们应该特别注意这个特别方法的特别作用
+
+
+2
+这种食物采用传统工艺制造
+
+
+3
+彩票在不到一小时的时间内就售罄了
 ```
