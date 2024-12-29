@@ -102,11 +102,13 @@
 -
 -
 - 2
-- `【 speaker 扬声器 n 】` // ------------------- 【 speaker mode. 扬声器模式 】 【 silent mode. 静音模式 】 【 vibration mode. 震动模式 】
+- `【 speaker 扬声器 n 】` // ------------------- 【 speaker mode. 扬声器模式 】 【 silent mode. 静音模式 】 【 vibration mode. 震动模式 】 【 airplane mode. 】
 - `【 receiver 听筒 n 】`
 - > 【 speaker mode. 扬声器模式 n 】
 - > 【 silent mode. = mute mode. 静音模式 n 】 // 【 mute button. 静音键 】 【 mute mode. 静音模式 】
 - > 【 vibration mode. = vibrate mode. 震动模式 n 】
+- > 【 landscape mode. 横屏模式 n 】
+- > 【 portrait mode. 竖屏模式 n 】
 - // mute 沉默的 无声的 哑的 adj
 - // vibrate 震动 VS vibration 震动 n
 - **【 Both the 【 speaker 】 and the 【 receiver 】 of a telephone are 【 output devices 】. 电话的扬声器和听筒都是输出设备 】**
@@ -124,12 +126,21 @@
 - `【 rear-facing camera. 后置摄像头 】`
 - `【 rear view mirror. 后视镜 】`
 - `【 rear view camera. 后视摄像头 】`
+- > 【 project VS projector 】
 - > 【 projector 投影仪 n 】
 - > 【 webcam 网络摄像头 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'camera'. [camera-照相机-n]
+- AA.
 - _【 take a picture. 拍照 / take photos. 】_
 - _【 take a selfie. 自拍 】_
 - _【 make a recording. 录音 】_
 - _【 record a video. 录像 】_
+- BB.
+- 【 rear 后面的 】 VS 【 rare 稀有的 adj 】
+- // rare metal. 稀有金属
+- // rare resource. 稀有资源
+- // rare species. 稀有物种
+- // rare phenomenon. 罕见现象
 - // TIPS: Pay attention to the pronunciation of the word 'projector'. [projector-投影仪-n]
 - // TIPS: Pay attention to the pronunciation of the word 'project'. [project-项目-n]
 - // TIPS: Pay attention to the pronunciation of the word 'projects'. [projects-项目-n]
@@ -142,11 +153,11 @@
 - `【 start key. 星号键 】`
 - `【 pound key. 井号键 】`
 - `【 dial key. 拨号键 】` // -------------------- 【 dial 拨 v 】
-- `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
 - `【 silent button. = mute button. 静音键 】`
+- `【 volume button. = volume key.  音量键  】` // 【 volume 体积 音量 n 】
 - _【 turn up the volume. 开大音量 v 】_
 - _【 turn down the volume. 关小音量 v 】_
-- _【 durn down. 关小 拒绝 v 】_
+- _【 durn down. 关小 拒绝 v 】_ // --------------- Why did she 【 turn down 】 your 【 invitation 】?
 - > 【 keypad 小键盘 n - 电话上的键盘 】
 - > 【 keyboard 键盘 n 】
 - _【 dial 拨 v 】_
@@ -174,17 +185,30 @@
 - `【 airplane mode. 飞行模式 】`
 - `【 landscape mode. 横屏模式 】` // ------------- 【 landscape 景观 地形 n 】 VS 【 scenery 风景 景色 n 】
 - `【 portrait mode. 纵屏模式 】` // -------------- 【 portrait 肖像 画像 n 】
+- AA.
 - > 【 remote control. 遥控 v 】
 - > 【 remote controller. 遥控器 n 】
+- BB.
 - _【 airplane 飞机 n 】_
 - _【 airport 飞机场 n 】_
 - _【 airline 航空公司 n 】_
 - _【 airway 航线 n 】_
 - _【 airstream 气流 n 】_
 - _【 airbag 安全气囊 n 】_
-- _【 airspace 领空 n 】_ // -------------------- 【 territory 领土 领地 】 VS 【 airspace 领空 】 // defend territory. // expand territory. // national territory.
+- _【 territorial airspace 领空 n 】_ // -------- 【 territory 领土 领地 】 VS 【 airspace 领空 】 // defend territory. // expand territory. // national territory.
 - _【 air force. 空军 n 】_
-- > 【 touch screen. 触摸屏 n 】
+- 【 touch screen. 触摸屏 n 】
+- CC.
+- _【 territory 领土 领地 n 】_
+- _【 territorial 领土的 adj 】_
+- > 【 territorial airspace. 领空 n 】
+- > 【 territorial sea. 领海 n 】
+- > 【 territorial land. 领路 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'territory'. [territory-领土-领地-n]
+- // TIPS: Pay attention to the pronunciation of the word 'territorial'. [territorial-领土的-adj]
+- .MT **【 【 Territory 】 includes 【 territorial sea 】, 【 territorial airspace 】, 【 territorial land. 】 领土包含领海，领空，领陆 】**
+- .MT **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- .MT **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
 -
 - **【 Put your phone on vibration mode. 把你的手机调到-振动模式 】** // Set your phone to vibrate mode. // `vibrate 震动`
 - **【 Put your phone on silent mode. 把你的手机调到-静音模式 】** // Set your phone to silent mode. // `silent/mute`

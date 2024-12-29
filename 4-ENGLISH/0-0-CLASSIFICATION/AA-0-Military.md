@@ -352,13 +352,21 @@
 - > 【 friendly troop. 友军 】
 - > 【 ground troop. 地面部队 】
 - DD.
+- _【 territory 领土 领地 n 】_
+- _【 territorial 领土的 adj 】_
+- _【 territorial airspace 领空 n 】_
+- _【 territorial sea. 领海 n 】_
+- _【 territorial land. 领陆 n 】_
 - > 【 territory 领土 领地 n 】
 - > 【 defend territory. 保护领土 】
 - > 【 expand territory. 扩张领土 】
 - > 【 national territory. 国家领土 n 】
 - > 【 enemy territory. 敌方领土 n 】
-- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
-- **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
+- // TIPS: Pay attention to the pronunciation of the word 'territory'. [territory-领土-领地-n]
+- // TIPS: Pay attention to the pronunciation of the word 'territorial'. [territorial-领土的-adj]
+- .HL **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- .HL **【 The 【 ground troops 】 don't 【 defend 】 the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】. 地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉 】**
+- .MT **【 【 Territory 】 includes 【 territorial sea 】, 【 territorial airspace 】, 【 territorial land. 】 领土包含领海，领空，领陆 】**
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - EE.
 - 【 terrible 糟糕的 adj 】// ------------------ You look 【 terrible 】! I suggest you go to sea a doctor. 你看起来糟透了，我建议你去看医生
@@ -669,7 +677,7 @@ physical conflict. 肢体冲突
 // physical relationship. 肉体关系
 ```
 
-##### Military 6 **【 people 】**
+##### Military 6 - **【 people 】**
 
 - 6
 - `【 fugitive 逃犯 n 】` // -------------------- 【 chase fugitive. 追扑逃犯 v 】

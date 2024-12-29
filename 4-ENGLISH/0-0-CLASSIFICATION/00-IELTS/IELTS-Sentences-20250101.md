@@ -165,4 +165,32 @@ We should 【 pay particular attention to 】 the 【 particular function 】 of
 
 3
 彩票在不到一小时的时间内就售罄了
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+4
+After 【 plugging 】 the 【 earphone plug 】 【 into 】 the 【 earphone jack 】, you can paly musics 【 on 】 the mobile phone.
+将耳机插头插入耳机插孔后，你就可以用手机播放音乐了
+
+
+5
+Both 【 speaker 】 and 【 receiver 】 of a mobile phone are 【 output 】 devices.
+电话的扬声器和听筒都是输出设备
+-
+Mobile phones have three kinds of modes: 【 speaker mode 】, 【 silent mode 】, 【 vibration mode 】.
+手机有扬声器模式，静音模式，震动模式这三种模式
+
+
+6
+【 Territory 】 includes 【 territorial sea 】, 【 territorial airspace 】, 【 territorial land 】.
+领土包含领海，领空，领陆
+-
+The best way to 【 defend territory 】 is to 【 expand territory 】.
+保护领土的最佳方式是扩张领土
+-
+The 【 ground troops 】 don't defend the 【 national territory 】 well, so they need to 【 apologize 】 to the 【 residents 】.
+地面部队没有很好地保卫国家领土，所以他们需要向居民们道歉
 ```
