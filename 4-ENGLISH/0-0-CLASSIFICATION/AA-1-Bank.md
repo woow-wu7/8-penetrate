@@ -1118,16 +1118,16 @@ fill out. 填写
 
 - [-PP.]23
 - `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
-- `【 terminal 终端 n 】`
+- `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 bus stop. 公交站 】
 - `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】
-- `【 comply with. 遵守 v = obey 】` // ------------ 【 comply with the traffic rules. 遵守交通规则 v 】
+- `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
 - > 【 violate law. 违反法律 v 】
 - > 【 violate the regulation. 违反规定 v 】
 - _【 terminate the transaction. 终止交易 v 】_
 - _【 terminate the contract. 终止合同 v 】_
 - // violate VS breach VS comply with.
 - .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
-- .MT **【 You have 【 breached the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- .MT **【 You have 【 violated the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
 - > 【 come with. 附带 v 】
 - > 【 come down with. 染上 v 】 // ---------------- 【 come down with an illness. 染上疾病 v 】 【 come down with a disease. 染上疾病 v 】
 - > 【 comply with. 遵守 v 】
@@ -1140,9 +1140,9 @@ fill out. 填写
 -
 -
 - [-OO.]22
-- `【 lease 租约n 租v 】` // ------------------------- 【 sign a lease. 签订租约 】
+- `【 lease 租约n 出租 租用 v 】` // ------------------- 【 sign a lease. 签订租约 】
 - `【 contract 合同 】` // --------------------------- 【 sin a contract. 签订合同 】 // contract VS contact VS contrast // contrast VS compare
-- .MT **【 we prepare to 【 lease 】 an apartment, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**
+- .MT **【 we prepare to 【 lease 】 【 an 】 apartment, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**
 - **【 【 Signing a lease 】 is equal to 【 sign a contract 】. 签订租约等同于签订合同 】**
 - **【 We signed two-year 【 lease 】. 我们签了两年租约 】**
 - // -

@@ -1,1 +1,23 @@
 ##### WORDS Must 2024-12-01
+
+- 1
+- `【 dish 菜肴n 一道菜n 】`
+- `【 radish 萝卜 n 】`
+- `【 carrot 胡萝卜 n 】` // ------------------- 【 carotene 胡萝卜素 n 】 VS 【 carrot 胡萝卜 n 】
+- `【 carotene 胡萝卜素 n 】`
+- > 【 meal 一餐 n 进餐 v 】
+- > 【 meat 肉 n 】 // ------------------------ 【 pork 猪肉 n 】 【 beef 牛肉 n 】 【 mutton 羊肉 n 】
+-
+- // TIPS: Pay attention to the pronunciation of the word 'carrot'. [carrot-胡萝卜-n]
+- // TIPS: Pay attention to the pronunciation of the word 'carotene'. [carotene-胡萝卜素-n]
+- // TIPS: Pay attention to the pronunciation of the word 'chef'. [chef-厨师-n]
+-
+- .MT **【 This 【 meal 】 includes two 【 dishes 】: 【 radish 】 and 【 carrot 】. 这一餐有萝卜和胡萝卜两道菜 】**
+- .MT **【 These 【 ingredients 】 and 【 materials 】 are enough for 【 chef 】 to make seven 【 dishes 】. 这些原料和材料足够厨师做出 7 道菜了 】**
+- .HL **【 【 carrots 】 【 contain 】 【 carotene 】. 胡萝卜中含有胡萝卜素 】**
+- **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有 7 道菜 】**
+- **【 Seven 【 dishes 】 are enough to eat for a day. 7 个菜足够吃一天了 】**
+- // -
+- // chef 厨师 n
+- // ingredient 成分 原料 n
+- // material 材料 n

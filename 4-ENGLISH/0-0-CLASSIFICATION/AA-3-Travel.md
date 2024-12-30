@@ -2,24 +2,53 @@
 
 ##### (1) **The words that you mast know.**
 
-- [AA.]
+- [AA.]1
 - `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】
-- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】
-- `【 tourism 旅游业 】` // -----------------【 tourism industry. 旅游业 】
+- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】 【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】
+- `【 tourism 旅游业 】` // ----------------【 tourism industry. 旅游业 n 】
 - > 【 tourist visa. 旅游签证 】
 - > 【 study visa. 学生签证 】
 - > 【 business visa. 商业签证 】
+- _【 driver's license. 驾驶证 n 】_
+- _【 business license. 营业执照 n 】_
+- _【 revoke license. 吊销执照 v 】_ // ---- 【 revoke 撤销 v 】 VS 【 invoke 调用 v 】
+- _【 license plate. 车牌 n 】_
 -
 - `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
-- `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 // -------【 go traveling. 去旅行 】
+- `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 【 travel expense. 旅行费用 】 // -------【 go traveling. 去旅行 】
 - `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】// --------- 【 go on a trip. = go for a trip. 去旅行 】
 - `【 journey 旅程 n 】` --------------- // 【 Journey to the West. 西游记 】
 - `【 destination 目的地 】` // 【 destiny = fate 命运 】 【 destination 目的地 】
+- _【 travel agency. 旅行社 n 】_
+- _【 travel expense. 旅行费用 n 】_
 - > 【 go traveling. 去旅行 】
 - > 【 go on a trip. = go for a trip. 去旅行 】
 - > 【 go on a vacation. = go for a vacation. 去度假 】
 -
-- `【 scenery 风景 景色 n 】`
+- `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
+- `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
+- AA.
+- > 【 scenery 风景 景色 n 】 // ---------- 【 natural scenery. 自然风景 n 】
+- > 【 sense 感觉 感应 v 】 // ------------ 【 make sense. 有道理 】 【 common sense. 常识 】 【 a sense of achievement. 成就感 】
+- > 【 scene 场景 现场 n 】 // ------------ 【 crime scene. 犯罪现场 n 】 【 accident scene. 事故现场 】
+- .HL **【 The 【 police station 】 has a lot of 【 criminal records 】 of the 【 crime scene 】. 警察局有很多犯罪现场的犯罪纪律 】**
+- .HL **【 The 【 common sense 】 that he said 【 makes sense 】. 他说的常识很有道理 】**
+- BB.
+- _【 crime 犯罪 v n 】_ // -------------- 【 crime scene. 犯罪现场 】
+- _【 criminal 罪犯 n 】_ // ------------ 【 criminal record. 犯罪纪律 】
+- _【 prisoner 囚犯 n 】_ // ------------ 【 prisoner 囚犯 n 】 VS 【 prison 监狱 n 】 VS 【 imprison 关押 v 】
+- _【 fugitive 逃犯 n 】_ // ------------ 【 chase fugitive. 追捕逃犯 v 】
+- 【 prison 监狱 n 】 VS 【 prisoner 囚犯 n 】VS 【 imprison 关押 v 】
+- .HL **【 【 Fugitives 】 and 【 criminals 】 are 【 imprisoned 】 in 【 prisons 】 and become 【 prisoners 】. 逃犯和罪犯被关押在监狱里成了囚犯 】**
+- CC.
+- `【 chase 追逐 追捕 v 】` // ----------- 【 chase dream. 追逐梦想 v 】 【 chase fugitive. 追捕逃犯 v 】
+- `【 pursue 追求 v 】` // -------------- 【 purse happiness. 追求幸福 v 】
+- .HL **【 The way for him to 【 chase a dream 】 is to 【 chase fugitives 】. 他追逐梦想的方式是追捕逃犯 】**
+-
+- .MT **【 The 【 police station 】 has a lot of 【 criminal records 】 of the 【 crime scene 】. 警察局有很多犯罪现场的犯罪纪律 】**
+- .MT **【 【 Fugitives 】 and 【 criminals 】 are 【 imprisoned 】 in 【 prisons 】 and become 【 prisoners 】. 逃犯和罪犯被关押在监狱里成了囚犯 】**
+- .MT **【 The way for him to 【 chase a dream 】 is to 【 chase fugitives 】. 他追逐梦想的方式是追捕逃犯 】**
+- // -- police station. 警察局 n
 -
 - `【 sort 排序 】`
 - `【 resort 旅游胜地n 求助v 】` // ----------【 tourist resort. = tourist attraction. 】
@@ -51,13 +80,13 @@
 - > 【 travel around China. 环游中国 】
 - > 【 travel to sp. ...旅游 】
 -
-- **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个【旅行社】的【导游】正在帮助【游客】【了解】【旅游景点】的历史 】**
+- .MT **【 The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to 【 understand 】 the 【 history 】 of the 【 tourist attractions 】. 这个旅行社的导游正在帮助游客了解旅游景点的历史 】**
 -
-- **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist resorts 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
+- .MT **【 【 Tourists 】 like to 【 travel to 】 famous 【 tourist resorts 】because these 【 places 】 have a 【 developed 】 【 tourism industry 】. 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达 】**
+-
+- .MT **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
 -
 - **【 Please 【 sort 】 these 【 tourist resort 】. 请你对这些旅游胜地排序 】**
--
-- **【 We have a 【 long journey 】 to 【 reach 】 our 【 destination 】. 我们有一个很长的路程才能到达目的地 】**
 -
 - **【 The 【 tourist resorts 】 here 【 are attractive to 】 【 tourists 】. 这里的旅游胜地对游客很有吸引力 】**
 - // -- 【 be attractive to. 对...很有吸引力 】
