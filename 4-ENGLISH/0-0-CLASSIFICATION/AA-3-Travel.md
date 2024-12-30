@@ -1,6 +1,6 @@
 ##### Travel 旅行 v n
 
-##### (1) **The words that you mast know.**
+##### (1) **【 MUST 5 -The words that you mast know. 】**
 
 - [AA.]1
 - `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】
@@ -97,12 +97,12 @@
 -
 -
 -
-- [BB.]
-- `【 baggage 行李 】` ------ 美式英语 // ----- 【 baggage claim. 行李领取处 领取行李 】
+- [BB.]2
+- `【 baggage 行李 】` ------ 美式英语 // ----- 【 baggage claim. 行李领取处 领取行李 】 // 【 claim 声称 索赔 v 】
 - `【 luggage 行李 】` ------ 英式英语 正式 // - 【 luggage claim. 行李领取处 领取行李 】
-- `【 package 包裹n 打包v 】` // -------------- 【 package design. 包装设计 】 // 【 software package. 软件包 】
+- `【 package 包裹n 打包v 】` // -------------- 【 package design. 包装设计 】 // 【 software package. 软件包 】 // package design. VS interaction design.
 - // 【 pack 打包 v 】
-- // 【 package 包裹 n 打包 v 】// package design. // software package.
+- // 【 package 包裹 n 打包 v 】// package design. // software package. // package design. VS interaction design.
 - // 【 backpack 背包 n 】
 - > 【 baggage claim. 行李领取处 领取行李 】
 - > 【 luggage claim. 行李领取处 领取行李 】
@@ -111,16 +111,12 @@
 - `【 suitcase 手提箱 】` // 【 suitable 便携的 轻便的 adj 】
 - `【 backpack 背包 】` // --【 backpack pack package 】
 -
-- `【 trunk 树干 行李箱 后备箱 】`
+- `【 trunk 树干 行李箱 后备箱 】` // --------- 【 tree stump. 树桩 n 】 【 tree trunk. 树干 n 】
 - `【 carry-on 小行李箱 】`
 - `【 baggage claim. 行李领取处 领取行李 】`
 - `【 luggage claim. 行李领取处 领取行李 】`
 -
-- > 【 suitable 便携的 轻便的 adj 】
-- > 【 suitcase 手提箱 n 】
-- > 【 briefcase 公文包 n 】
--
-- **【 The 【 luggage 】 we 【 packed 】 【 includes 】 【 backpacks 】 and 【 briefcases 】. 我们打包的行李包括背包和公文包 】**
+- .HL **【 The 【 luggage 】 we 【 packed 】 【 includes 】 【 backpacks 】 and 【 briefcases 】. 我们打包的行李包括背包和公文包 】**
 -
 -
 -
@@ -128,8 +124,8 @@
 -
 -
 -
-- [CC.]
-- `【 vacation 假期 】`
+- [CC.]3
+- `【 vacation 假期 休假 n 】`
 - `【 holiday 假期 】`
 - > 【 go on a vacation. = go for a vacation. 去度假 】
 - > 【 go on a trip. = go for a trip. 去旅行 】
@@ -158,10 +154,14 @@
 -
 -
 -
-- [DD.]
-- `【 airplane 飞机 】` // plane 飞机 平面
-- `【 airport 飞机场 】` // port
+- [DD.]4
+- `【 airplane 飞机 】` // ------------------ plane 飞机 平面
+- `【 airport 飞机场 】` // ----------------- port
 - `【 airline 航空公司 】`
+- `【 airway 航线 】`
+- `【 airstream 气流 】`
+- `【 airbag 安全气囊 】`
+- `【 air force. 空军 】` // ---------------- 【 air force base. 空军基地 】 【 naval base. 海军基地 】 【 military base. 军事基地 】
 - > 【 runway 跑道 】
 - > 【 airplane runway. 飞机跑道 】
 -
@@ -178,7 +178,7 @@
 - // depart 离开 v
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
-- **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
+- .MT **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
 -
 - _【 sold out. 售尽 】_
 - **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
@@ -199,6 +199,8 @@
 -
 - `【 shuttle bus. 班车 】`
 - `【 last bus. 末班车 】`
+- `【 terminal station. 终点站 n 】`
+- `【 bus stop. 公交站 n 】`
 -
 - _【 set off. 出发 】_
 - _【 see off. 送别 】_
@@ -209,17 +211,21 @@
 - `【 port 港口 端口 】` // 【 airport 】
 - `【 harbor 港口 】`
 - `【 voyage 航行 v 】`
+- `【 river bank. 河岸 n 】`
 -
 - `【 ship 轮船 】`
 - `【 yacht 游艇 】`
 - `【 submarine 潜水艇 】` // 【 marine resource. 海洋资源 】// 【 subtitle = caption. 字幕 】
+- `【 sailboat 帆船 】` // sailboat VS sailor VS sailing
 -
 - `【 plane = airplane 飞机 】` // plane airplane
 - `【 fighter 战士 战斗机 】`
+- `【 fighter jet. 战斗机 】`
+- `【 bomber 轰炸机 】`
 -
-- **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
-- **【 Planes 【 take off 】 and 【 land 】 at the airport. 飞机在机场起飞和降落 】**
-- **【 The plane 【 taxis 】 on the 【 runway 】.飞机在跑道上滑行 】**
+- .MT **【 There are many 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】. 有很多这家航空公司的飞机停在飞机场中 】**
+- .MT **【 Planes 【 take off 】 and 【 land 】 at the airport. 飞机在机场起飞和降落 】**
+- .HL **【 The plane 【 taxis 】 on the 【 runway 】.飞机在跑道上滑行 】**
 - **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
 - // -- 【 taxi 滑行 v 出租车 n 】
 - // -- flight 航班
@@ -233,7 +239,7 @@
 -
 -
 -
-- [EE.]
+- [EE.]5
 - `【 spring outing. 春游 n 】`
 - `【 picnic 野餐 野炊 v n 】`
 - `【 camp 露营 v n 】` // _【 summer camp. 夏令营 】_ // _【 winter camp. 冬令营 】_

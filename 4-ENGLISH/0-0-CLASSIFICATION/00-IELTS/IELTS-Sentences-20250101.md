@@ -395,12 +395,100 @@ The 【 ground troops 】 don't defend the 【 national territory 】 well, so t
 他说的常识很有道理
 
 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
 5
+The 【 tour guide 】 of this 【 travel agency 】 is helping the 【 tourists 】 to understand the history of the 【 tourist attractions 】.
 这个旅行社的导游正在帮助游客了解旅游景点的历史
 -
+【 Tourists 】 like to 【 travel to 】 the famous 【 tourist attractions 】, because these places has the developed 【 tourism industry 】.
 游客喜欢去著名的旅游景点旅游，因为这些地方旅游业发达
 
 
 6
+We have a 【 long journey 】 to 【 reach 】 our 【 destination 】.
 我们有一个很长的路程才能到达目的地
+// -
+// destination 目的地 n
+
+
+7
+The 【 luggages 】 we 【 packed 】 include 【 backpacks 】 and 【 briefcase 】.
+我们打包的行李包括背包和公文包
+// -
+// 【 luggage claim. 行李认领处 行李寄存处 n 】
+// -
+// briefcase 公文包
+// suitcase 手提箱
+// -
+// backpack 背包
+// -
+// pack 打包 v
+
+
+8
+He plans to 【 ask for a personal leave 】 to 【 leave 】 Beijing to 【 go on a travel 】.
+他计划请事假离开北京去旅游
+-
+"Left" is the 【 past tense 】 of the word "leave".
+'left' 是 'leave' 的过去式
+-
+// -
+// past tense. 过去式
+// present tense. 现在时
+// future tense. 将来时
+// -
+// simple present tense. 一般现在时
+// present perfect tense. 现在进行时
+// -
+// 【 ask for leave. 请假 v 】
+// 【 ask for sick leave. 请病假 v 】
+// 【 ask for business leave. 请事假 v 】
+
+
+9
+The 【 timetables 】 shows the 【 depart time 】 and 【 arrival time 】 of the 【 flights 】.
+时刻表上显示了航班出发和到达的时间
+// -
+// timetable 时间表 n
+// flight 航班 n
+
+
+10
+A lot of 【 airplanes 】 of this 【 airline 】 【 parked 】 at the 【 airport 】.
+有很多这家航空公司的飞机停在飞机场中
+-
+Airplanes 【 take off 】 and 【 land 】 【 at 】 the 【 airport 】.
+飞机在机场起飞和降落
+-
+The 【 airplane 】 【 taxis 】 【 on 】 the 【 runway 】.
+飞机在跑道上滑行
+-
+The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of 【 flights 】.
+时刻表上显示了航班出发和到达的时间
+-
+// -
+// 【 departure time. 离开时间 n 】
+// 【 arrival time. 到达时间 n 】
+// -
+// depart 离开 v
+// departure 离开
+// arrive 达到 v
+// arrival 到达 n
+// -
+// 【 taxi 出租车n 滑行v 】
+// 【 runway 飞机跑道 n 】
+// 【 airway 航线 n 】
+// -
+// 【 take off. 起飞 v 】
+// 【 land 土地n 降落 v 】
+// -
+// airline 航空公司
+// airport 飞机场
+// airplane = plane. 飞机
+// airway 航道 n
+// airstream 气流 n
+// airbag 安全气囊 n
 ```
