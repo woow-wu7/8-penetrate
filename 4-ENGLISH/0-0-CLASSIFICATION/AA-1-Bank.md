@@ -1142,8 +1142,11 @@ fill out. 填写
 - [-OO.]22
 - `【 lease 租约n 租v 】` // ------------------------- 【 sign a lease. 签订租约 】
 - `【 contract 合同 】` // --------------------------- 【 sin a contract. 签订合同 】 // contract VS contact VS contrast // contrast VS compare
+- .MT **【 we prepare to 【 lease 】 an apartment, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**
 - **【 【 Signing a lease 】 is equal to 【 sign a contract 】. 签订租约等同于签订合同 】**
 - **【 We signed two-year 【 lease 】. 我们签了两年租约 】**
+- // -
+- // be going to. 将要做某事
 -
 -
 - [-NN.]21
