@@ -506,6 +506,7 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 -
 时刻表上显示了航班出发和到达的时间
 
+
 2
 几小时内票就卖光了
 
@@ -530,4 +531,27 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 
 7
 不同的命运使得每个人有不同的目的地
+```
+
+##### 08 Make sentences 2025-01-08
+
+```
+1
+我没有勇气去劝阻他的错误行为，我只是鼓励他
+
+
+2
+旅游胜地的游客正在求助旅行社的导游
+
+
+3
+他在上班时间上班，下班时间休息
+-
+他 9 点上班，6 点下班
+
+
+4
+在假期期间，你不需要请假，而是在休假
+-
+他休假去旅游
 ```

@@ -55,11 +55,12 @@
 - .MT **【 The way for him to 【 chase a dream 】 is to 【 chase fugitives 】. 他追逐梦想的方式是追捕逃犯 】**
 - // -- police station. 警察局 n
 -
-- `【 sort 排序 】`
 - `【 resort 旅游胜地n 求助v 】` // ----------【 tourist resort. = tourist attraction. 】
-- `【 Disney resort. 迪士尼度假区 】`
-- `【 tourist resort. 旅游景点 旅游胜地 】` // 【 tourist assort. = tourist attraction. 】
-- `【 tourist attraction. 旅游景点 旅游胜地 】`
+- `【 sort 排序 】`
+- _【 Disney resort. 迪士尼度假区 】_
+- _【 tourist resort. 旅游景点 旅游胜地 】_ // 【 tourist assort. = tourist attraction. 】
+- _【 tourist attraction. 旅游景点 旅游胜地 】_
+- **【 The 【 tourists 】 【 at 】 the 【 tourist resort 】 【 are resorting to 】 the 【 tour guide 】 of the 【 travel agency 】. 旅游胜地的游客正在求助旅行社的导游 】**
 -
 - _【 attract 吸引 v 】_
 - _【 attraction 吸引力 n 】_
@@ -70,6 +71,7 @@
 - > 【 tour guid. 导游 】
 - > 【 tourist attraction. 旅游景点 旅游胜地 】
 - > 【 tourist resort. 旅游景点 旅游胜地 】// resort sort
+- > 【 tourist visa. 旅游签证 】
 - > 【 tourism industry. 旅游业 】
 -
 - > 【 business trip. 出差 】
@@ -103,8 +105,8 @@
 -
 -
 - [BB.]2
-- `【 baggage 行李 】` ------ 美式英语 // ----- 【 baggage claim. 行李领取处 领取行李 】 // 【 claim 声称 索赔 v 】
-- `【 luggage 行李 】` ------ 英式英语 正式 // - 【 luggage claim. 行李领取处 领取行李 】
+- `【 baggage 行李 】` ------ 美式英语 // ----- 【 baggage claim. 行李领取处 领取行李 】 【 pack the baggage. 打包行李 v 】 // 【 claim 声称 索赔 v 】
+- `【 luggage 行李 】` ------ 英式英语 正式 // - 【 luggage claim. 行李领取处 领取行李 】 【 pack the luggage. 打包行李 v 】
 - `【 package 包裹n 打包v 】` // -------------- 【 package design. 包装设计 】 // 【 software package. 软件包 】 // package design. VS interaction design.
 - // 【 pack 打包 v 】
 - // 【 package 包裹 n 打包 v 】// package design. // software package. // package design. VS interaction design.
@@ -140,6 +142,7 @@
 - `【 ask for leave. 请假 】`
 - `【 ask for sick leave. 请病假 】`
 - `【 ask for personal leave. 请事假 】`
+- `【 ask for annual leave. 请年假 】`
 -
 - > 1. What did you do 【 on your vacation 】?
 - > 2. Do you plan to 【 go on a vacation 】? 度假
@@ -164,12 +167,13 @@
 - `【 airplane 飞机 】` // ------------------ plane 飞机 平面
 - `【 airport 飞机场 】` // ----------------- port
 - `【 airline 航空公司 】`
-- `【 airway 航线 】`
+- `【 airway 航线 】` // -------------------- 【 airway 航线 n 】 VS 【 run way. 跑道 n 】 // 【 airplane runway. 飞机跑道 】
 - `【 airstream 气流 】`
 - `【 airbag 安全气囊 】`
 - `【 air force. 空军 】` // ---------------- 【 air force base. 空军基地 】 【 naval base. 海军基地 】 【 military base. 军事基地 】
 - `【 airplane runway. 飞机跑道 】` // --------【 runway 跑道 】
-- > 【 runway 跑道 】
+- > 【 airway 航线 n 】
+- > 【 runway 跑道 n 】
 - > 【 airplane runway. 飞机跑道 】
 -
 - `【 flight 航班 】` // ---------------------【 shuttle bus. 班车 】 【 last bus. 末班车 】
@@ -183,8 +187,14 @@
 - _【 get out of a taxi/car. 下车 】_
 - _【 get on a bus/train/plane. 上公交车 】_
 - _【 get off a bus/train/plane. 下公交车 】_
-- > 【 arrival time. 到达时间 】 // arrive arrival
-- > 【 departure time. 出发时间 】 // depart departure
+-
+- `【 arrival time. 到达时间 】` // ------------ arrive arrival
+- `【 departure time. 出发时间 】` // --------- 【 departure lounge. 候机室 】 【 study lounge. 自习室 n 】 depart departure
+- `【 departure lounge. 候机室 】`
+- > 【 departure time. 出发时间 n 】
+- > 【 departure lounge. 候机室 n 】
+- > 【 study lounge. 自习室 n 】
+- > 【 living room. 客厅 n 】
 - // arrive 到达 v
 - // depart 离开 v
 - //【 arrival 到达 n 】
@@ -194,7 +204,7 @@
 -
 - `【 shuttle bus. 班车 】`
 - `【 last bus. 末班车 】`
-- `【 terminal station. 终点站 n 】`
+- `【 terminal station. 终点站 n 】` // terminal VS terminate // 【 terminate transaction. 终止交易 v 】 【 terminate contract. 终止合同 v 】
 - `【 bus stop. 公交站 n 】`
 - > 【 terminal 终点站 n 终端的 adj 末端的 adj 】 // 【 terminal station. 终点站 n 】
 - > 【 terminate 终止 v 】
@@ -212,6 +222,11 @@
 -
 - _【 sold out. 售尽 】_
 - **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
+-
+- `【 departure lounge. 候机室 n 】`
+- `【 study lounge. 自习室  n 】`
+- _【 lounge 休息室 n 】_
+- _【 lung 肺 n 】_
 -
 - `【 pilot 飞行员 】` // 【 parking lot. 停车场 】 【 parking spot. 停车位 】 // 【 pilot 飞行员 】
 - `【 steward 乘务员  】`
