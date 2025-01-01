@@ -18,7 +18,7 @@
 - `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 【 travel expense. 旅行费用 】 // -------【 go traveling. 去旅行 】
 - `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】// --------- 【 go on a trip. = go for a trip. 去旅行 】
 - `【 journey 旅程 n 】` --------------- // 【 Journey to the West. 西游记 】
-- `【 destination 目的地 】` // 【 destiny = fate 命运 】 【 destination 目的地 】
+- `【 destination 目的地 】` // ----------- 【 destiny = fate 命运 】 【 destination 目的地 】
 - _【 travel agency. 旅行社 n 】_
 - _【 travel expense. 旅行费用 n 】_
 - > 【 go traveling. 去旅行 】
@@ -27,6 +27,11 @@
 -
 - `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
 - `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
+-
+- .MT **【 The different 【 destinies 】 lead different people to have different 【 destinations 】. 不同的命运使得每个人有不同的目的地 】**
+- // -- destiny 命运 n = fate.
+- // -- destination 目的地
+-
 - AA.
 - > 【 scenery 风景 景色 n 】 // ---------- 【 natural scenery. 自然风景 n 】
 - > 【 sense 感觉 感应 v 】 // ------------ 【 make sense. 有道理 】 【 common sense. 常识 】 【 a sense of achievement. 成就感 】
@@ -154,6 +159,7 @@
 -
 -
 -
+-
 - [DD.]4
 - `【 airplane 飞机 】` // ------------------ plane 飞机 平面
 - `【 airport 飞机场 】` // ----------------- port
@@ -162,51 +168,66 @@
 - `【 airstream 气流 】`
 - `【 airbag 安全气囊 】`
 - `【 air force. 空军 】` // ---------------- 【 air force base. 空军基地 】 【 naval base. 海军基地 】 【 military base. 军事基地 】
+- `【 airplane runway. 飞机跑道 】` // --------【 runway 跑道 】
 - > 【 runway 跑道 】
 - > 【 airplane runway. 飞机跑道 】
 -
-- `【 flight 航班 】` // 【 shuttle 班车 】
+- `【 flight 航班 】` // ---------------------【 shuttle bus. 班车 】 【 last bus. 末班车 】
 - `【 timetable 时刻表 课程表 】`
-- `【 take off. 起飞 脱下 】`
+- `【 take off. 起飞 脱下 v 】` // ----------- 【 take off. 起飞 v 】 VS 【 set off. 出发 v 】 VS 【 see off. 送行 v 】
 - `【 land 下降v 陆地n 】`
-- `【 taxi 滑行v 出租车n 】` // ------ 【 hail a taxi. 打出租车 】 // taxi slip
+- `【 taxi 滑行v 出租车n 】` // -------------- 【 hail a taxi. 打出租车 】 // taxi slip
 - `【 runway 跑道 】`
-- `【 airplane runway. 飞机跑道 】` // 【 runway 跑道 】
-- > 【 arrival time. 到达时间 】
-- > 【 departure time. 出发时间 】
+- `【 airplane runway. 飞机跑道 】` // --------【 runway 跑道 】 【 airway 航线 】 【 airstream 气流 】
+- _【 get in a taxi/car. 上车 】_
+- _【 get out of a taxi/car. 下车 】_
+- _【 get on a bus/train/plane. 上公交车 】_
+- _【 get off a bus/train/plane. 下公交车 】_
+- > 【 arrival time. 到达时间 】 // arrive arrival
+- > 【 departure time. 出发时间 】 // depart departure
 - // arrive 到达 v
 - // depart 离开 v
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
 - .MT **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
--
-- _【 sold out. 售尽 】_
-- **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
--
-- `【 pilot 飞行员 】` // 【 parking spot. 停车位 】 // 【 pilot 飞行员 】
-- `【 steward 乘务员  】`
-- `【 stewardess 空姐 】`
-- > 【 assistant 助理 】
-- > 【 attendant 服务员 】
-- > 【 secretary 秘书 】 // 【 secret 秘密 】 【 secretary 】
-- > 【 steward 乘务员 】
-- > 【 stewardess 空姐 】
-- // steward stewardess
-- // waiter waitress
-- // actor actress
-- // headmaster headmistress
-- // prince princess
+- .MT **【 He 【 took off 】 his 【 coat 】 when the plane 【 took off 】. 飞机起飞时，他脱掉了自己的外套 】**
 -
 - `【 shuttle bus. 班车 】`
 - `【 last bus. 末班车 】`
 - `【 terminal station. 终点站 n 】`
 - `【 bus stop. 公交站 n 】`
+- > 【 terminal 终点站 n 终端的 adj 末端的 adj 】 // 【 terminal station. 终点站 n 】
+- > 【 terminate 终止 v 】
+- > 【 terminate transaction. 终止交易 v 】
+- > 【 terminate contract. 终止合同 v 】
+- > 【 violate contract. 违反合同 v 】
+- > 【 renew contract. 续签合同 v 】
+- .MT **【 The 【 shuttle bus 】 that I 【 shuttle bus 】 is the 【 last bus 】, and the 【 terminal station 】 is 【 bust stop 】. 我乘的班车是末班车，终点站是公交站 】**
+- .MT **【 He 【 violated the contract 】, so we 【 terminated the transaction 】, and we will not 【 renew 】 the contract. 他违反了合同，所以我们终止了交易，并且不会续签合同了 】**
 -
-- _【 set off. 出发 】_
-- _【 see off. 送别 】_
-- _【 take off. 起飞 脱下 】_
-- _【 Before the airplane 【 takes off 】, he prepares to 【 set off 】 to the airport to 【 see 】 his friends 【 off 】. 】_
-- // 在飞机起飞之前，他准备动身前往机场为他的朋友们送行
+- _【 set off. 出发 v 】_
+- _【 see off. 送别 v 】_
+- _【 take off. 起飞 脱下 v 】_
+- **【 Before the plane 【 took off 】, we 【 set off 】 for the 【 airport 】 to 【 see off 】 our friends. 飞机起飞前，我们出发去机场送别朋友 】**
+-
+- _【 sold out. 售尽 】_
+- **【 The tickets 【 sold out 】 within hours. 几小时内票就卖光了 】**
+-
+- `【 pilot 飞行员 】` // 【 parking lot. 停车场 】 【 parking spot. 停车位 】 // 【 pilot 飞行员 】
+- `【 steward 乘务员  】`
+- `【 stewardess 空姐 】`
+- > 【 assistant 助理 】
+- > 【 attendant 服务员 】// ---------------- attendant VS descendant VS abundant VS assistant
+- > 【 secretary 秘书 】 // -----------------【 secret 秘密 】 【 secretary 秘书 】
+- > 【 steward 乘务员 空少 】 // ------------- steward VS stewardess
+- > 【 stewardess 空姐 】
+- > 【 waiter 服务员 男服务员 】 // ----------- wait VS waiter
+- > 【 waitress 女服务员 】
+- // steward stewardess
+- // waiter waitress
+- // actor actress
+- // headmaster headmistress
+- // prince princess
 -
 - `【 port 港口 端口 】` // 【 airport 】
 - `【 harbor 港口 】`
@@ -214,9 +235,9 @@
 - `【 river bank. 河岸 n 】`
 -
 - `【 ship 轮船 】`
-- `【 yacht 游艇 】`
 - `【 submarine 潜水艇 】` // 【 marine resource. 海洋资源 】// 【 subtitle = caption. 字幕 】
 - `【 sailboat 帆船 】` // sailboat VS sailor VS sailing
+- `【 yacht 游艇 】`
 -
 - `【 plane = airplane 飞机 】` // plane airplane
 - `【 fighter 战士 战斗机 】`
@@ -240,13 +261,18 @@
 -
 -
 - [EE.]5
+- `【 camp 露营 v n 】` // _【 summer camp. 夏令营 】_ // _【 winter camp. 冬令营 】_ // camp VS campus
+- `【 campus 校园 n 】`
 - `【 spring outing. 春游 n 】`
 - `【 picnic 野餐 野炊 v n 】`
-- `【 camp 露营 v n 】` // _【 summer camp. 夏令营 】_ // _【 winter camp. 冬令营 】_
 - `【 tent 帐篷 】`
 - `【 adventure 冒险 探险 v n 】`
--
-- **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新【推出】了一个【夏令营】【活动】 】**
+- _【 campus 校园 n 】_
+- _【 camp 露营 v n 】_
+- _【 summer camp. 夏令营 n 】_
+- _【 winter camp. 冬令营 n 】_
+- **【 University students like to 【 camp 】 【 on 】 the 【 campus 】. 大学生喜欢在校园里露营 】**
+- **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新推出了一个夏令营活动 】**
 
 ##### (2) **The phrase that you mast know.**
 
