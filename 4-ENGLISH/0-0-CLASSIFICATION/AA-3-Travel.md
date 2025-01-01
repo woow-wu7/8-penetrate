@@ -134,7 +134,7 @@
 - [CC.]3
 - `【 vacation 假期 休假 n 】`
 - `【 holiday 假期 】`
-- > 【 go on a vacation. = go for a vacation. 去度假 】
+- > 【 go on a vacation. = go for a vacation. = take a vacation. 去度假 】
 - > 【 go on a trip. = go for a trip. 去旅行 】
 - > 【 go traveling. 去旅行 】
 -
@@ -142,7 +142,9 @@
 - `【 ask for leave. 请假 】`
 - `【 ask for sick leave. 请病假 】`
 - `【 ask for personal leave. 请事假 】`
+- `【 ask for maternity leave. 请产假 】`
 - `【 ask for annual leave. 请年假 】`
+- `【 paid leave. 带薪假 】`
 -
 - > 1. What did you do 【 on your vacation 】?
 - > 2. Do you plan to 【 go on a vacation 】? 度假
@@ -151,6 +153,7 @@
 -
 - **【 He plans to 【 ask for personal leave 】 to 【 leave 】 Beijing 【 for 】 【 travel 】. 他计划请事假离开北京去旅游 】**
 - **【 【 left 】 is the 【 past tense 】 of 【 leave 】. 'left' 是 'leave' 的过去式 】**
+- .HL **【 During the holiday, you don't need to 【 ask for leave 】, instead, 【 you are on vacation 】. 在假期期间，你不需要请假，而是在休假 】**
 - // -- 【 past tense. 过去式 过去时 】
 - // 【 1. What's the 【 opposite 】 of 【 wet 】? 】 [wet->dry]
 - // 【 2. What's the 【 plural 】 of 【 leaf 】? 】[leaf->leaves] // leave 离开 休假 // leaves 叶子

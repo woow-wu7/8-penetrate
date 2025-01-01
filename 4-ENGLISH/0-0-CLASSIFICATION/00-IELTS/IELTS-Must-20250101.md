@@ -6,8 +6,17 @@
 - `【 discourage 阻止 劝阻 v 】` // ----------- 【 discourage sb from doing sth. 阻止某人做某事 】
 - _【 great courage. 巨大的勇气 】_
 - _【 take courage. 鼓起勇气 】_ // ----------- 【 take note. 做笔记 】
-- **【 I didn't have the 【 courage 】 to 【 discourage 】 his wrong 【 behavior 】, I just 【 encouraged 】 him. 我没有勇气去劝阻他的错误行为，我只是鼓励他 】**
+- .MT **【 I didn't have the 【 courage 】 to 【 discourage 】 his wrong 【 behavior 】, I just 【 encouraged 】 him. 我没有勇气去劝阻他的错误行为，我只是鼓励他 】**
+- .MT **【 The 【 purpose 】 that he 【 took the courage 】 to 【 propose 】 to his 【 goddess 】 is to 【 pursue happiness 】. 他鼓起勇气向女神求婚的目的是追求幸福 】**
 - **【 Climbing 【 the Great Wall 】 really needs 【 great courage 】. 爬长城真的需要很大的勇气 】**
+- // --
+- // 【 purpose 目的 意图 n 】
+- // 【 propose 求婚 建议 v 】
+- // 【 pursue 追求 v 】
+- // --
+- // 【 pursue happiness. 追求幸福 v 】
+- // --
+- // 【 take the courage. 鼓起勇气 v 】
 
 ###### Must 2025-01-02
 
@@ -18,12 +27,13 @@
 - `【 sick leave. 病假 n 】` // --------------- 【 ask for sick leave. 请病假 v 】
 - `【 personal leave. 事假 n 】`
 - `【 annual leave. 年假 n 】`
-- `【 maternity leave. 产假 n 】`
+- `【 maternity leave. 产假 n 】` // ---------- 【 pregnant 怀孕的 adj 】 VS 【 maternity 怀孕的 adj 】 // 【 pregnant woman. 孕妇 n 】 【 widow 寡妇 n 】
 - `【 paid leave. 带薪假 n 】`
 -
 - `【 ask for leave. 请假 】`
 - `【 take a vacation. 休假 】`
 - > 【 ask for sick leave. 请病假 v 】
+- > 【 ask for personal leave. 请事假 v 】
 -
 - `【 day off. 休息日 n 】`
 - `【 workday 工作日 n 】`

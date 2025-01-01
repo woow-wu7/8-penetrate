@@ -538,6 +538,8 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 ```
 1
 我没有勇气去劝阻他的错误行为，我只是鼓励他
+-
+他鼓起勇气向女神求婚的目的是追求幸福
 
 
 2
