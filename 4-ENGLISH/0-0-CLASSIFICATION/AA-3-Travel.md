@@ -279,8 +279,8 @@
 -
 -
 - [EE.]5
-- `【 camp 露营 v n 】` // _【 summer camp. 夏令营 】_ // _【 winter camp. 冬令营 】_ // camp VS campus
-- `【 campus 校园 n 】`
+- `【 camp 露营 v n 】` // ----------------------【 summer camp. 夏令营 】 【 winter camp. 冬令营 】 // camp VS campus
+- `【 campus 校园 n 】` // ----------------------【 campus violence. 校园暴力 n 】
 - `【 spring outing. 春游 n 】`
 - `【 picnic 野餐 野炊 v n 】`
 - `【 tent 帐篷 】`
@@ -289,6 +289,9 @@
 - _【 camp 露营 v n 】_
 - _【 summer camp. 夏令营 n 】_
 - _【 winter camp. 冬令营 n 】_
+- > camp VS campus
+- > tent VS rent
+- .MT **【 We 【 prepare to 】 【 rent 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
 - **【 University students like to 【 camp 】 【 on 】 the 【 campus 】. 大学生喜欢在校园里露营 】**
 - **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新推出了一个夏令营活动 】**
 

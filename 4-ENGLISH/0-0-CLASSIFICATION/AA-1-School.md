@@ -124,15 +124,16 @@
 - `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
-- > 【 campus 校园 校区 n 】
+- > 【 campus 校园 校区 n 】 // ------------------------ 【 campus violence. 校园暴力 】 // campus VS camp // rent VS tent
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
 - 【 tuition fee. 学费 n 】 // ---------------------- 【 tuition VS tutor VS tutorial 】
 - 【 handling fee. 手续费 n 】
 - _【 go abroad. 出国 】_
 - _【 study abroad. 出国留学 】_
-- **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
-- **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
-- **【 I 【 met 】 my 【 vice principal 】 【 on 】 the 【 campus 】. 我在校园里遇到了我的副校长 】**
+- .MT **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
+- .MT **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
+- .HL **【 We 【 prepare to 】 【 rent 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
+- .MT **【 I 【 met 】 my 【 vice principal 】 【 on 】 the 【 campus 】. 我在校园里遇到了我的副校长 】**
 - // TIPS: Pay attention to the pronunciation of the word 'campus'. [campus-校园-校区-n]
 - // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
 - // TIPS: Pay attention to the pronunciation of the word 'violence'. [violence-暴力-n][campus-violence.校园暴力]

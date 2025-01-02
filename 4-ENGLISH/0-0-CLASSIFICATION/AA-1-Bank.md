@@ -1121,47 +1121,63 @@ fill out. 填写
 - `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 bus stop. 公交站 】 // 【 departure lounge. 候车室 】
 - `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】 【 violate the contract. 违反合同 v 】
 - `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
+- AA.
 - > 【 violate law. 违反法律 v 】
 - > 【 violate the regulation. 违反规定 v 】
+- > 【 violate the contract. 违反合同 】
+- // violate VS breach VS comply with.
+- BB.
 - _【 terminate the transaction. 终止交易 v 】_
 - _【 terminate the contract. 终止合同 v 】_
-- // violate VS breach VS comply with.
-- .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
-- .MT **【 You have 【 violated the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
-- > 【 come with. 附带 v 】
+- CC.
+- _【 violate the contract. 违反合同 v 】_
+- _【 terminate the contract. 终止合同 v 】_
+- _【 renew the contract. 续约合同 v 】_
+- DD.
+- > 【 come with. 附带 v 】// ----------------------- The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
 - > 【 come down with. 染上 v 】 // ---------------- 【 come down with an illness. 染上疾病 v 】 【 come down with a disease. 染上疾病 v 】
-- > 【 comply with. 遵守 v 】
+- > 【 comply with. 遵守 v 】 // ------------------- 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
 - _【 come down with an 【 illness 】. 染上疾病 v 】_ // illness 疾病 n
 - _【 come down with a 【 disease 】. 染上疾病 v 】_ // disease 病 疾病 n
 - > 1.  The new phone 【 comes with 】 a free 【 phone case 】. 新手机附带一个免费的手机壳
 - > 2.  I 【 come down with 】 a cold. 我患了感冒
 - > 3. 【 Comply with 】 the 【 regulations 】 of the hospital and you will not 【 come down with 】 【 illness 】. 遵守医院规则就不会得病
 -
+- .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
+- .MT **【 You have 【 violated the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+-
+-
 -
 -
 - [-OO.]22
-- `【 lease 租约n 出租 租用 v 】` // ------------------- 【 sign a lease. 签订租约 】
-- `【 contract 合同 】` // --------------------------- 【 sin a contract. 签订合同 】 // contract VS contact VS contrast // contrast VS compare
-- .MT **【 we prepare to 【 lease 】 【 an 】 apartment, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**
+- `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 】
+- `【 contract 合同 】` // ------------------------- 【 sin a contract. 签订合同 】 【 terminate contract. 终止合同 v 】 【 violate contract. 违反合同 v 】
+- > 【 sign a lease. 签订租约 v 】
+- // contract VS contact VS contrast // contrast VS compare
+- // apartment VS department
+- .MT **【 we prepare to 【 lease 】 【 an 】 【 apartment 】, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**
+- .HL **【 There are three 【 departments 】 of this company working in this 【 apartment 】. 这家公司有三个部门在这套公寓里办公 】**
 - **【 【 Signing a lease 】 is equal to 【 sign a contract 】. 签订租约等同于签订合同 】**
 - **【 We signed two-year 【 lease 】. 我们签了两年租约 】**
 - // -
 - // be going to. 将要做某事
 -
 -
+-
 - [-NN.]21
-- `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ------ 【 break up. 分手 = split up. 】
-- `【 loaded 非常富有 adj / 装载 v 】`
+- `【 broke 没钱 身无分文 adj / 打破 弄坏 v 】` // ----- 【 break up. 分手 = split up. 】
+- `【 loaded 非常富有 adj / 装载 v 】` // ------------- 【 loaded = rich = wealthy. 富有 adj 】 // 【 wealth 财富 n 】 VS 【 wealthy 富有的 adj 】
 - `【 run out of. 用完 耗尽 v = be out of. 】`
 - > break up. 分手 v // ------------------------------ 【 split up. 分手 v = break up. 】
 - > bankrupt 破产 v adj
 - > shut down. 关闭 停业 v // ------------------------ 【 shut up. VS shut down. 】
+- > max out. 刷爆 v
 - _【 be out of. 用完耗尽 = run out of. 】_
 - _【 My car is out of gas. 我车没油了 】= `My car 【 has run out of 】 gas`._
 - _【 My phone is out of battery. 我手机没电了 】 = `My phone 【 has run out of 】 battery`._
 - .MT **【 He 【 used to 】 be 【 loaded 】, but right now he is 【 broke 】. 他曾经很富有，但现在身无分文 】**
-- .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - .HL **【 He is 【 broke 】 after 【 breaking up 】. 分手后他身无分文 】**
+- .MT **【 He 【 maxed out 】 his 【 credit cards 】 and has 【 run out of 】 all his money, Now he is 【 broke 】. 他刷爆了信用卡，花光了所有的钱，现在已经身为分文 】**
 - **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
 - // -
 - // max out. 刷爆 v
@@ -1174,12 +1190,12 @@ fill out. 填写
 -
 -
 - [-MM]20
-- `【 bargain 砍价 讨价还价 v / 便宜货 n 】`
-- `【 bargain for. 就...讨价还价 】`
-- > 【 bark 树皮 n 狗叫 v 】
-- > 【 stump 树桩 n 】
+- `【 bargain 砍价 讨价还价 v / 便宜货 n 】` // ---------- 【 bargain for. 就...讨价还价 】
+- `【 bark 树皮n  / 狗叫 v 】`
+- > 【 stump 树桩 n 】// ------------------------------ 【 tree stump. 树桩 n 】
+- > 【 bark 树皮 n 狗叫 v 】 // ------------------------ 【 tree bark. 树皮 n 】
 - .MT **【 We don't need to 【 bargain 】 【 for 】 the 【 bargains 】. 我们没必要为便宜货讨价还价 】**
-- .MT **【 The 【 tree stump 】 without 【 bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
+- .MT **【 The 【 tree stump 】 without 【 tree bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
 - .MT **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
 -
 -
@@ -1191,7 +1207,7 @@ fill out. 填写
 - > 【 deduct 扣除 v 】
 - > 【 duct 导管 n 】
 - > 【 product 产品 乘积 n 】
-- _[violate-违反-v]_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】
+- _[violate-违反-v]_ // ------------- 【 violate law. 违反法律 】 【 violate regulation. 违反规定 】 【 violate contract. 违反合同 v 】
 - _[certain-确定的-一定的-adj]_ // --- 【 a certain quantity. 一定的数量 】 【 a certain level. 一定的水平 】
 - _[terminate-终止-v]_ // ----------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
 - _[link]_[Words Must **2024-12-27**](./00-IELTS/3_WORDS/WORDS_Must-20241201.md)
