@@ -18,7 +18,8 @@
 - `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 【 travel expense. 旅行费用 】 // -------【 go traveling. 去旅行 】
 - `【 trip 旅行 旅游 n 】` -------- 短时间 // 【 business trip. 出差 】// --------- 【 go on a trip. = go for a trip. 去旅行 】
 - `【 journey 旅程 n 】` --------------- // 【 Journey to the West. 西游记 】
-- `【 destination 目的地 】` // ----------- 【 destiny = fate 命运 】 【 destination 目的地 】
+- `【 destination 目的地 】` // ----------- 【 destiny = fate 命运 】 【 destination 目的地 】 // 【 destiny 命运 】 VS 【 destination 目的地 】 VS 【 definitely 肯定地 】
+- > 【 destiny 命运 n 】 VS 【 destination 目的地 n 】 VS 【 definitely 肯定地 adj 】
 - _【 travel agency. 旅行社 n 】_
 - _【 travel expense. 旅行费用 n 】_
 - > 【 go traveling. 去旅行 】
@@ -28,9 +29,11 @@
 - `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
 - `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
 -
-- .MT **【 The different 【 destinies 】 lead different people to have different 【 destinations 】. 不同的命运使得每个人有不同的目的地 】**
+- .MT **【 Everyone 【 definitely 】 has different 【 destiny 】 that leads them to reach the different 【 destinations 】. 每个人肯定有不同的命运，使其到达不同的目的地 】**
 - // -- destiny 命运 n = fate.
 - // -- destination 目的地
+- // -- definitely 肯定地 adv
+- // --【 destiny 命运 n 】 VS 【 destination 目的地 n 】 VS 【 definitely 肯定地 adj 】
 -
 - AA.
 - > 【 scenery 风景 景色 n 】 // ---------- 【 natural scenery. 自然风景 n 】
