@@ -1118,8 +1118,8 @@ fill out. 填写
 
 - [-PP.]23
 - `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
-- `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 bus stop. 公交站 】
-- `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】
+- `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 bus stop. 公交站 】 // 【 departure lounge. 候车室 】
+- `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】 【 violate the contract. 违反合同 v 】
 - `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
 - > 【 violate law. 违反法律 v 】
 - > 【 violate the regulation. 违反规定 v 】

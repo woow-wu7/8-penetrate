@@ -21,3 +21,55 @@
 - // chef 厨师 n
 - // ingredient 成分 原料 n
 - // material 材料 n
+
+##### WORDS Must 2024-12-02
+
+- 1
+- `【 lounge 休息室 候车室 n 】` // ------------ 【 departure lounge. 候车室 n 】 【 study lounge. 自习室 n 】
+- `【 lung 肺 n 】` // ----------------------- 【 lung cancer. 肺癌 n 】
+- > 【 study lounge. 自习室 n 】`
+- > 【 departure lounge. 候车室 n 】`
+- .MT **【 The 【 departure lounge 】 【 is next to 】 the 【 study lounge 】. 候车室在自习室的旁边 】**
+- // 【 be next to. 在...旁边 】
+- // 【 beside 在...旁边 】
+-
+-
+-
+- 2
+- `【 approach 方式 方法 n / 接近 靠近 v 】` // -- 【 particular approach. 特别的方法 n 】 【 scientific approach. 科学的方法 n 】 【 effective approach. 有效的方法 n 】
+- `【 method 方法 办法 n 】`
+- `【 means 手段 方法 n 】`
+- _【 approach = close to. 靠近 】_
+- > 【 particular approach. 特别的方法 】
+- > 【 scientific approach. 科学的方法 】 // ---- 【 scientist 科学家 n 】 VS 【 scientific 科学的 adj 】
+- > 【 effective approach. 有效的方法 】
+- // TIPS: Pay attention to the pronunciation of the word 'method'. [method-方法-办法-n]
+- AA.
+- `【 highly recommend. 强烈推荐 】` // --------- 【 highly recommend. 强烈推荐 v 】
+- _【 recommend 推荐 v 】_
+- BB.
+- `【 in particular. 尤其 adv 】` // ------------ 【 in particular. 尤其 adv 】
+- _【 particular approach. 特别的方法 】_
+- _【 particular course. 特别的课程 】_
+- CC.
+- `【 fragrance. 香味 香气 n 】` // -------------- 【 flower fragrance. 花香 n 】
+- `【 fragment 片段 n 】`
+- _【 flower fragrance. 花香 n 】_
+-
+- .MT **【 The 【 approach 】 that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】. 这个被推荐的方法，不仅特别的方法，而且是科学的方法 】**
+- .MT **【 After you 【 approach 】 the flower, 【 its 】 【 fragrance 】 is 【 strong 】 【 in particular 】. 靠近这朵花之后，它的香味尤其浓烈 】**
+- // --
+- // 【 not only ... but also ... 不仅而且 】
+- // 【 recommend 推荐 v 】
+- // --
+- // 【 fragrance 香味 香气 n 】
+- // 【 fragment 片段 n 】
+- // --
+- // 【 flower fragrance. 花香 n 】
+- // --
+- // 【 in particular. 尤其 adv 】
+- // --
+- // TIPS: Pay attention to the pronunciation of the word 'fragrance'. [fragrance-香味-香气-n][flower-fragrance.花香-n]
+- // TIPS: Pay attention to the pronunciation of the word 'fragment'. [fragment-片段-n]
+- // TIPS: Pay attention to the pronunciation of the word 'recommend'. [recommend-推荐-v][highly-recommend.强烈推荐-v]
+- // TIPS: Pay attention to the pronunciation of the word 'method'. [method-方法-办法-n]

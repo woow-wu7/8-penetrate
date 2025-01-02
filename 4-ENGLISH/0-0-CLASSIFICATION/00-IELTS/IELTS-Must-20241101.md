@@ -1151,6 +1151,8 @@
 - `【 in fact. 事实上 adv 】`
 - `【 in a hurry. 匆忙地 忙 急 adv 】`
 -
+- `【 in particular. 尤其 adv 】`
+-
 - `【 in need. 需要 】`
 - **【 Please offer your seats to anyone 【 in need 】. 请给有需要的人让座 】**
 -

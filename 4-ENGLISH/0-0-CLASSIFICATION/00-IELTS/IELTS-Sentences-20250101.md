@@ -557,3 +557,16 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 -
 他休假去旅游
 ```
+
+##### 09 Make sentences 2025-01-09
+
+```
+1
+候车室在自习室的旁边
+
+
+2
+这个被推荐的方法，不仅特别的方法，而且是科学的方法
+-
+靠近这朵花之后，它的香味尤其浓烈
+```
