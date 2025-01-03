@@ -563,6 +563,8 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 ```
 1
 候车室在自习室的旁边
+-
+他在航站楼的候车厅遵守了交通规则
 
 
 2
@@ -652,4 +654,15 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 
 16
 这是该地区最不常见的物种
+```
+
+```
+1
+他在航站楼的候车厅遵守了交通规则
+-
+候车室在自习室的旁边
+
+
+2
+我们准备租一个帐篷去校园里露营
 ```

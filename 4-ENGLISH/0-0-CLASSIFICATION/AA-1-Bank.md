@@ -1118,7 +1118,7 @@ fill out. 填写
 
 - [-PP.]23
 - `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
-- `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 bus stop. 公交站 】 // 【 departure lounge. 候车室 】
+- `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 departure lounge. 候车室 】 // 【 bus stop. 公交站 】
 - `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】 【 violate the contract. 违反合同 v 】
 - `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
 - AA.
@@ -1145,12 +1145,20 @@ fill out. 填写
 -
 - .HL **【 We 【 terminated the transaction 】 because he 【 violates 】 the 【 contract 】. 因为他违反了合同，所以我们终止了交易 】**
 - .MT **【 You have 【 violated the contract 】, so we will 【 terminate the contract 】, and we will not 【 renew the contract 】. 你违反了合同，所以我们会终止合同，不会再续签合同 】**
+- .MT **【 He 【 complied with 】 the 【 traffic rules 】 in the 【 departure lounge 】 of the 【 terminal building 】. 他在航站楼的候车厅遵守了交通规则 】**
+- .MT **【 The 【 departure lounge 】 【 is next to 】 the 【 study lounge 】. 候车室在自习室的旁边 】**
+- // -- comply with. 遵守 v
+- // -- traffic rules. 交通规则 n
+- // -- terminal building. 航站楼 n
+- // -- departure lounge. 候车室 n
+- // -- study lounge. 自习室 n
+- // -- traffic 交通 n
 -
 -
 -
 -
 - [-OO.]22
-- `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 】
+- `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 v 】 【 sign a contract. 签合同 v 】
 - `【 contract 合同 】` // ------------------------- 【 sin a contract. 签订合同 】 【 terminate contract. 终止合同 v 】 【 violate contract. 违反合同 v 】
 - > 【 sign a lease. 签订租约 v 】
 - // contract VS contact VS contrast // contrast VS compare

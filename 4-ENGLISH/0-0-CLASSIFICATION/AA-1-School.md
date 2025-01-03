@@ -132,7 +132,7 @@
 - _【 study abroad. 出国留学 】_
 - .MT **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
 - .MT **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
-- .HL **【 We 【 prepare to 】 【 rent 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
+- .HL **【 We 【 prepare to 】 【 rent/lease 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
 - .MT **【 I 【 met 】 my 【 vice principal 】 【 on 】 the 【 campus 】. 我在校园里遇到了我的副校长 】**
 - // TIPS: Pay attention to the pronunciation of the word 'campus'. [campus-校园-校区-n]
 - // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
@@ -140,19 +140,30 @@
 -
 -
 - [其他]
-- `【 tuition fees. 学费 】` // ------------------------- 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 tuition fees. 学费 】` // ------------------------ 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
 - `【 school uniform. 校服 n 】`
 - `【 textbook 教科书 课本 n 】`
-- `【 campus 校园 n 】`
+- `【 campus 校园 n 】` // ----------------------------- 【 campus violence. 校园暴力 】
 - `【 campus violence. 校园暴力 】`
+- `【 institution 机构 制度 n 】` // -------------------- 【 educational institution. 教育机构 n 】
+- `【 educational institution. 教育机构 n 】`
+- AA.
 - > 【 handling fee. 手续费 n 】
 - > 【 tuition fee. 学费 n 】
+- BB.
 - _【 tutor 家庭教师 n 】_
 - _【 tutorial 教程 n 】_
 - _【 tuition 学费 n 】_ // ---------------------------- 【 tuition fee. 学费 n 】
-- _【 institution 机构 n 】_ // ------------------------ 【 educational institution. 教育机构 n 】
+- _【 institution 机构 n 】_ // ------------------------ 【 educational institution. 教育机构 n 】 【 medical institution. 医疗机构 n 】
+- CC.
+- `【 institution 机构 制度 n 】`
+- > 【 educational institution. 教育机构 n 】
+- > 【 medical institution. 医疗机构 n 】
+- > 【 research institution. 研究机构 n 】
+- > 【 financial institution. 金融机构 n 】
 - .HL **【 The 【 tuition fees 】 【 for 】 【 overseas students 】 are high. 留学生的学费很贵 】**
 - .MT **【 The 【 tuition fees 】 of the 【 educational institution 】 are hight. but the 【 tutorials 】 are good. 这家教育机构的学费很贵，但教程很好 】**
+- .MT **【 【 Research institutions 】 【 serve 】 【 educational institutions 】. 研究机构是为教育机构服务的 】**
 - // -
 - // 【 institution 机构 n 】
 - // 【 educational 教育的 adj 】

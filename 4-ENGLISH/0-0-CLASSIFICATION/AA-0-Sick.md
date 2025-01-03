@@ -14,11 +14,18 @@
 - `【 inpatient department. 住院部 】`
 - `【 community hospital. 社区医院 n 】` // ------ 1.【 community 社区 n 】 2.【 communicate 沟通 v 】 3.【 communication 通信 n 】 // leaning community.
 - `【 medical center. 医疗中心 n 】` // ---------- 【 medical 医学的 】 【 medical record. 病历 】 【 medical equipment. 医疗设备 】【 medical center. 医疗中心 】
+- `【 medical institution. 医疗机构 n 】`
+- AA.
 - > 【 dental clinic. 牙医诊所 】
 - > 【 private clinic. 私人诊所 】 // ------------ 【 private 私人的 adj 】 【 privacy 隐私 n 】
 - > 【 specialist clinic. 专科诊所 】// ---------- 【 special / specialist = expert / specialize in. / specialty = major 】 // specialty store|food.
-- _【 eye specialist. 眼科专家 】_
+- BB.
 - _【 specialist clinic. 专科诊所 】_
+- _【 eye specialist. 眼科专家 】_
+- CC.
+- `【 medical 医疗的 adj 】`
+- _【 medical center. 医疗中心 n 】_
+- _【 medical institution. 医疗机构 n 】_
 - // war ward reward award
 - .MT **【 This 【 drug dealer 】 【 in 】 this 【 ward 】 bought 【 external medicines 】 in the 【 pharmacy 】 of the 【 specialist clinic 】. 这个病房的毒贩在专科诊所的药房买外用药 】**
 - .MT **【 The 【 eye specialist 】 is seeing patients in the 【 outpatient department 】 of the 【 specialist clinic 】. 眼科专家正在专科诊所的门诊部给病人看病 】**

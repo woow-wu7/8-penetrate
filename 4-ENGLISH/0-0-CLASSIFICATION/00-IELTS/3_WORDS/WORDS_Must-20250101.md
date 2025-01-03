@@ -30,6 +30,7 @@
 - > 【 study lounge. 自习室 n 】`
 - > 【 departure lounge. 候车室 n 】`
 - .MT **【 The 【 departure lounge 】 【 is next to 】 the 【 study lounge 】. 候车室在自习室的旁边 】**
+- .MT **【 He 【 complied with 】 the 【 traffic rules 】 in the 【 departure lounge 】 of the 【 terminal building 】. 他在航站楼的候车厅遵守了交通规则 】**
 - // 【 be next to. 在...旁边 】
 - // 【 beside 在...旁边 】
 -
@@ -73,3 +74,18 @@
 - // TIPS: Pay attention to the pronunciation of the word 'fragment'. [fragment-片段-n]
 - // TIPS: Pay attention to the pronunciation of the word 'recommend'. [recommend-推荐-v][highly-recommend.强烈推荐-v]
 - // TIPS: Pay attention to the pronunciation of the word 'method'. [method-方法-办法-n]
+
+##### WORDS Must 2024-12-03
+
+- 1
+- `【 institution 机构 制度 n 】` // --------------- 【 educational institution. 教育机构 】 【 research institution. 研究机构 n 】
+- `【 tuition 学费 n 】` // ----------------------- 【 tuition fee. 学费 n 】
+- `【 tutorial 教程 n 】`
+- `【 tutor 家庭教师 n 】`
+- > 【 educational institution. 教育机构 n 】
+- > 【 research institution. 研究机构 n 】
+- > 【 financial institution. 金融机构 n 】 // ----- 【 financial statement. 金融报表 】 【 financial term. 金融术语 】 // 【 finance department. 财物部门 】
+- > 【 medical institution. 医疗机构 n 】
+-
+- .MT **【 【 Research institutions 】 【 serve 】 【 educational institutions 】. 研究机构是为教育机构服务的 】**
+- .MT **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
