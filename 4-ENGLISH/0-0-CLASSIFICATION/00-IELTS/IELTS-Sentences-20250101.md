@@ -712,3 +712,18 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 -
 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪
 ```
+
+##### 11 Make sentences 2025-01-11
+
+```
+1
+他突然消失了
+-
+我真地快要死了
+-
+这里也很漂亮
+
+
+2
+我喜欢这个建筑师设计的建筑风格
+```

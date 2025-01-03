@@ -46,6 +46,13 @@
 - `【 construction 建筑 n 】`
 - _【 construction worker. 建筑工人 n 】_
 - _【 construction site. 建筑工地 n 】_
+- DD.
+- `architect 建筑师 n`
+- `architectural 建筑的 adj`
+- > 【 software architect. 软件架构师 n 】
+- > 【 architectural style. 建筑风格 】
+- _【 construction worker. 建筑工人 n 】_
+- _【 construction site. 建筑工地 n 】_
 
 ##### (2) Tool 工具
 
