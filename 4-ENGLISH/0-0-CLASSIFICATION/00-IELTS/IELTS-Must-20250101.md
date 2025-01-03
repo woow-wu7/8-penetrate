@@ -1,7 +1,7 @@
 ###### Must 2025-01-01
 
 - 1
-- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
+- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 // 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
 - `【 encourage 鼓励 v 】`
 - `【 discourage 阻止 劝阻 v 】` // ----------- 【 discourage sb from doing sth. 阻止某人做某事 】
 - _【 great courage. 巨大的勇气 】_
@@ -15,6 +15,7 @@
 - // 【 pursue 追求 v 】
 - // --
 - // 【 pursue happiness. 追求幸福 v 】
+- // 【 chase dream. 追逐梦想 v 】
 - // --
 - // 【 take the courage. 鼓起勇气 v 】
 
@@ -26,21 +27,34 @@
 -
 - `【 sick leave. 病假 n 】` // --------------- 【 ask for sick leave. 请病假 v 】
 - `【 personal leave. 事假 n 】`
-- `【 annual leave. 年假 n 】`
+- `【 annual leave. 年假 n 】` // ------------- 【 annual interest. 年利息 n 】 【 annual bonus. 年终奖 n 】
 - `【 maternity leave. 产假 n 】` // ---------- 【 pregnant 怀孕的 adj 】 VS 【 maternity 怀孕的 adj 】 // 【 pregnant woman. 孕妇 n 】 【 widow 寡妇 n 】
 - `【 paid leave. 带薪假 n 】`
+- AA.
+- > 【 annual leave. 年假 n 】
+- > 【 annual interest. 年利息 n 】
+- > 【 annual bonus. 年终奖 n 】
+- BB.
+- `【 maternity 怀孕 n 】` // ----------------- 【 maternity leave. 产假 n 】
+- `【 pregnant 怀孕的 adj 】` // -------------- 【 be pregnant. 怀孕 v 】
+- > 【 maternity leave. 产假 n 】
+- > 【 be pregnant. 怀孕 v 】
 -
 - `【 ask for leave. 请假 】`
-- `【 take a vacation. 休假 】`
+- `【 take a vacation. 休假 】` // ------------ 【 take maternity leave. 休产假 】
+- _【 ask for maternity leave. 请产假 v 】_
+- _【 take maternity leave. 休产假 v 】_
 - > 【 ask for sick leave. 请病假 v 】
 - > 【 ask for personal leave. 请事假 v 】
+- > 【 ask for annual leave. 请年假 v 】
+- > 【 ask for maternity leave. 请产假 v 】
 -
 - `【 day off. 休息日 n 】`
 - `【 workday 工作日 n 】`
 - `【 weekday 工作日 n 】`
 -
 - `【 working hour. 上班时间 n 】` = office hour.
-- `【 off hour. 下班时间 n 】` = quitting time.
+- `【 after working hour. 下班时间 n 】`
 -
 - `【 go to work. 去上班 】`
 - `【 start work. 上班 开始工作 】`
@@ -51,3 +65,10 @@
 - .HL **【 During the holiday, you don't need to 【 ask for leave 】, instead, 【 you are on vacation 】. 在假期期间，你不需要请假，而是在休假 】**
 - .HL **【 He 【 took a vacation 】 to 【 travel 】. 他休假去旅游 】**
 - **【 He takes the subway to work and takes a 【 taxi after work 】. 他上班坐地铁，下班打的士 】**
+-
+- .MT **【 She 【 is pregnant 】 and she is 【 taking maternity leave 】. 他怀孕了，正在休产假 】**
+- .MT **【 You can't 【 take a break 】 【 during 】 【 working hours 】, but you can 【 take a rest 】 【 after 】 【 working hours 】. 你不能在上班时间休息，你可以在下班时间休息 】**
+- // -- take a break. 休息一下
+- // -- take a rest. 休息一下
+- // -- working hour. 上班时间
+- // -- after working hour. 下班时间

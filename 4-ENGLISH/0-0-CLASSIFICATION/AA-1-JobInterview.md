@@ -1,8 +1,44 @@
 ##### Job Interview
 
-##### (一) **【 The words that you mast know (一) 】**
+##### (一) **【 MUST - 23 - The words that you mast know (一) 】**
 
-- [AA.]
+- [-CC.]23
+- `【 intense 强烈的 激励的 adj 】` // ----- 【 intense competition. 激励的竞争 】 // 【 cruel competition. 残酷的竞争 】
+- `【 intensity 强度 n 】` // ------------- 【 work intensity. 工作强度 】
+- `【 density 密度 n 】` // --------------- 【 population density. 人口密度 n 】 【 energy density. 能量密度 n 】
+- `【 concentration 浓度 n 】` // --------- 【 liquid concentration. 液体浓度 n 】 【 high concentration. 高浓度 】
+- **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
+- **【 【 mandatory overtime 】 means 【 high work intensity 】 and no 【 overtime pay 】. 强制加班意味着工作强度很大，并且没有加班费 】**
+- **【 Does your company 【 require 】 【 mandatory overtime 】? 你们公司要求强制加班吗？ 】**
+- **【 The 【 effective means 】 to 【 resolve 】 the 【 military conflict 】 is to 【 take military action 】. 解决军事冲突的有效手段是采取军事行动 】**
+- **【 The best way to 【 defend territory 】 is to 【 expand territory 】. 保护领土的最佳方式是扩张领土 】**
+- **【 The good 【 customer satisfaction 】 needs to 【 satisfy 】 the customer's 【 curiosity 】, 【 desire 】, and 【 demand 】. 好的客户满意度需要满足客户的好奇心，欲望，需求 】**
+-
+-
+-
+- [-BB.]22
+- `【 trial period. 试用期 】` // ------------------ 【 trial 试验 试用 v n 】
+- `【 internship period. 实习期 】` // ------------ `【 internship position. 实习岗 】`
+- `【 warranty period. 保修期 】` // --------------- 【 warship 战舰 】 【 aggressive war. 侵略战争 】 【 cruel war. 残酷的战争 】
+- `【 validity period. 有效期 】` // --------------- 【 valid 有效的 adj / validity 有效性 n 】
+- `【 shelf life. 保质期 】` // -------------------- 【 book shelf. 书架 】 【 shelf 架子 】
+- > 【 out of date. 过时的 adj 】
+- > 【 be about to. 即将 】
+- [detailed-tutorial][Must 2024-12-01](./00-IELTS/IELTS-Must-20241201.md)
+- .MT **【 He passed the 【 trial period 】 during the 【 internship period 】. 他在实习期间过了试用期 】**
+- .MT **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
+- .MT **【 The product that 【 is about to 】 expire is 【 out of date 】. 这个即将过期的产品已经过时了 】**
+-
+-
+-
+- [-AA.]21
+- `【 working hours. 上班时间 】`
+- `【 after working hours. 下班时间 】`
+- .MT **【 You can't 【 take a break 】 【 during 】 【 working hours 】, but you can 【 take a rest 】 【 after 】 【 working hours 】. 你不能在上班时间休息，你可以在下班时间休息 】**
+-
+-
+-
+- [AA.]1
 - `【 last for. 持续 延续 v 】`
 - `【 at last. 最后 】` = in the end. = finally.
 - `【 last 持续v 延续v 最后的adj 最后adv 】`
@@ -25,7 +61,7 @@
 -
 -
 -
-- [BB.]
+- [BB.]2
 - `【 lay off. 裁员 v 】`
 - `【 layoff. 裁员 n 】`
 - `【 dismiss 解雇 v 】` // ------------------------ 【 dismiss 解雇 v 】 // dismiss mission missile miss
@@ -79,7 +115,7 @@
 -
 -
 -
-- [CC.]
+- [CC.]3
 - `【 compensate 补偿 赔偿  v 】`
 - `【 compensation 补偿 赔偿 [赔偿金] n 】` // ------- 【 compensation scheme. 赔偿方案 n 】 【 technical scheme. 技术方案 】
 - `【 refund 退款 退还 v n 】`
@@ -102,7 +138,7 @@
 -
 -
 -
-- [DD.]
+- [DD.]4
 - `【 overtime 加班 】`
 - `【 work overtime 加班 】`
 - `【 mandatory overtime. 强制加班 】`
@@ -162,7 +198,7 @@
 -
 -
 -
-- [EE.]
+- [EE.]5
 - `【 exhaust 筋疲力尽v 排气管n 】`
 - `【 exhausted 筋疲力尽的 adj 】` // exhausted = burned out.
 - `【 burned out. 精疲力竭 】`
@@ -175,7 +211,7 @@
 -
 -
 -
-- [HH.]
+- [HH.]6
 - `freelancer 自由职业者` // lance 长矛
 - `full-time job. 全职`
 - `part-time job. 兼职`
@@ -192,7 +228,7 @@
 -
 -
 -
-- [FF.]
+- [FF.]7
 - `【 workaholic 工作狂 】`
 - `【 workload 工作量 】`
 - `【 volunteer 志愿者 n 】` // --------------------- `【 volunteer to do sth. 自愿做某事 】`
@@ -211,7 +247,7 @@
 -
 -
 -
-- [GG.]
+- [GG.]8
 - `【 volunteer 志愿者 】`
 - `【 voluntary 自愿的 adj 】`
 - `【 voluntarily 自愿地 adv 】`
@@ -221,9 +257,9 @@
 -
 -
 -
-- [II.]
+- [II.]9
 - `【 requirement 需求 n 】` // ----------------------- product requirement. 产品需求
-- `【 demand 需求n 要求v 】` // ------------------------ market demand. 市场需求 n // stimulate demand. 刺激需求 v
+- `【 demand 需求n 要求v 】` // ------------------------ market demand. 市场需求 n // stimulate demand. 刺激需求 v // 【 demand VS requirement VS needs 】
 - `【 require 要求 v 】`
 - `【 reasonable 合理的 adj 】` // reasonable
 - `【 reason 原因 n 】`
@@ -248,7 +284,7 @@
 -
 -
 -
-- [JJ.]
+- [JJ.]10
 - `【 architect 架构师 】`
 - `【 software architect. 软件架构师 】`
 - `【 experienced 经验丰富的 adj 】`
@@ -267,7 +303,7 @@
 -
 -
 -
-- [KK.]
+- [KK.]11
 - `【 recruit 招聘 招募 v 】`
 - `【 resume 简历n 从新开始v 】`
 - `【 cover letter. 求职信 】`
@@ -287,7 +323,7 @@
 -
 -
 -
-- [LL.]
+- [LL.]12
 - `【 on-site 现场的 】`
 - `【 on line. 线上 】`
 - `【 work on-site. 现场办公 】`
@@ -305,10 +341,10 @@
 -
 -
 -
-- [MM.]
-- `【 proficient 熟练的 精通的 adj 】` // --------------- 【 proficient user. 熟练的使用者 】
+- [MM.]13
+- `【 proficient 熟练的 精通的 adj 】` // --------------- 【 proficient user. 熟练的使用者 】// 【 be proficient in. 精通于 】
 - `【 proficiency 熟练 精通 n 】`
-- `【 be proficient in. 精通于 】` // ------------------ 【 be proficient in. 精通于 】
+- > 【 be proficient in. 精通于 】` // ------------------ 【 be proficient in. 精通于 】
 - _【 development language. 开发语言 】_
 - _【 programming language. 程序语言 】_
 - .MT **【 He 【 is proficient in 】 several 【 programming languages 】, including Java, Python, Javascript. 他精通好几门编程语言，包括 Java、Python 和 JavaScript 】**
@@ -317,7 +353,7 @@
 -
 -
 -
-- [NN.]
+- [NN.]14
 - `【 passion 激情 热情 n 】`
 - `【 passionate 激情的 adj 】`
 - > 【 have a passion for. 对...有激情/热情 】
@@ -328,7 +364,7 @@
 -
 -
 -
-- [OO.]
+- [OO.]15
 - `【 efficiency 效率 n 】` // ---------------------- 【 work efficiency. 工作效率 】 【 energy efficiency. 能源效率 】
 - `【 efficient 有效率的 adj 】`
 - `【 experience 经验 n 】`
@@ -346,7 +382,7 @@
 -
 -
 -
-- [PP.]
+- [PP.]16
 - `【 promotion 促进 晋升 提升 n / 促销 n 】` // ------ 【 Two for one promotion. 买一送一促销 】
 - `【 promote 促进 晋升 提升 v / 促销 v 】`
 - > 【 be promoted from xx to xx. 从...晋升为... 】
@@ -374,7 +410,7 @@
 -
 -
 -
-- [QQ.]
+- [QQ.]17
 - `【 modest 谦虚的 adj 】`
 - `【 show off. 炫耀 = flaunt 】`
 - `【 accomplishment 成就 n 】`
@@ -398,7 +434,7 @@
 - // -- `【 be strict with. 对...要求严格 】`
 -
 -
-- [RR.]
+- [RR.]18
 - `【 low-key. 低调的 adj 】`
 - `【 flaunt 炫耀 v = show off. 】`
 - `【 wealth 财富 n 】`
@@ -416,7 +452,7 @@
 - **【 An 【 assistant 】 is a person who 【 assists 】 others 【 in 】 completing tasks. 助理是是辅助他人完成任务的人 】**
 -
 -
-- [SS.]
+- [SS.]19
 - `【 generous 慷慨的 adj 】`
 - `【 donate 捐赠 捐献 v 】`
 - _【 donate money. 捐钱 】_

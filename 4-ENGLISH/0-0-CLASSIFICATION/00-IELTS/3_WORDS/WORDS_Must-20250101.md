@@ -89,3 +89,5 @@
 -
 - .MT **【 【 Research institutions 】 【 serve 】 【 educational institutions 】. 研究机构是为教育机构服务的 】**
 - .MT **【 The 【 finance department 】 【 is responsible for 】 【 issuing 】 【 financial statements 】, and the financial statements 【 contain 】 many 【 financial terms 】. 】**
+- // -- serve 服务 v
+- // -- service 服务 n
