@@ -1,11 +1,13 @@
 ###### Must 2025-01-01
 
 - 1
-- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 // 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】
+- `【 courage 勇气 胆量 n 】` // -------------- 【 great courage. 很大的勇气 】 // 【 take courage. 鼓起勇气 】 【 take note. 做笔记 】 【 take maternity leave. 休产假 v 】
 - `【 encourage 鼓励 v 】`
 - `【 discourage 阻止 劝阻 v 】` // ----------- 【 discourage sb from doing sth. 阻止某人做某事 】
 - _【 great courage. 巨大的勇气 】_
-- _【 take courage. 鼓起勇气 】_ // ----------- 【 take note. 做笔记 】
+- _【 take courage. 鼓起勇气 v 】_ // --------- 【 take note. 做笔记 】 【 take maternity leave. 休产假 v 】
+- _【 take note. 做笔记 v 】_
+- _【 take maternity leave. 休产假 v 】_
 - .MT **【 I didn't have the 【 courage 】 to 【 discourage 】 his wrong 【 behavior 】, I just 【 encouraged 】 him. 我没有勇气去劝阻他的错误行为，我只是鼓励他 】**
 - .MT **【 The 【 purpose 】 that he 【 took the courage 】 to 【 propose 】 to his 【 goddess 】 is to 【 pursue happiness 】. 他鼓起勇气向女神求婚的目的是追求幸福 】**
 - **【 Climbing 【 the Great Wall 】 really needs 【 great courage 】. 爬长城真的需要很大的勇气 】**
@@ -34,14 +36,17 @@
 - > 【 annual leave. 年假 n 】
 - > 【 annual interest. 年利息 n 】
 - > 【 annual bonus. 年终奖 n 】
+- > 【 performance bonus. 绩效奖金 n 】
 - BB.
-- `【 maternity 怀孕 n 】` // ----------------- 【 maternity leave. 产假 n 】
-- `【 pregnant 怀孕的 adj 】` // -------------- 【 be pregnant. 怀孕 v 】
-- > 【 maternity leave. 产假 n 】
+- `【 maternity 怀孕 n 】` // ----------------- 【 maternity leave. 产假 n 】 // 【 take maternity leave. 休产假 v 】
+- `【 pregnant 怀孕的 adj 】` // --------------- 【 be pregnant. 怀孕 v 】
 - > 【 be pregnant. 怀孕 v 】
+- > 【 maternity leave. 产假 n 】
+- > 【 take maternity leave. 休产假 v 】
+- > 【 ask for maternity leave. 请产假 v 】
 -
-- `【 ask for leave. 请假 】`
-- `【 take a vacation. 休假 】` // ------------ 【 take maternity leave. 休产假 】
+- `【 ask for leave. 请假 v 】`
+- `【 take a vacation. 休假 v 】` // ---------- 【 take maternity leave. 休产假 】
 - _【 ask for maternity leave. 请产假 v 】_
 - _【 take maternity leave. 休产假 v 】_
 - > 【 ask for sick leave. 请病假 v 】
@@ -49,9 +54,9 @@
 - > 【 ask for annual leave. 请年假 v 】
 - > 【 ask for maternity leave. 请产假 v 】
 -
-- `【 day off. 休息日 n 】`
 - `【 workday 工作日 n 】`
 - `【 weekday 工作日 n 】`
+- `【 day off. 休息日 n 】`
 -
 - `【 working hour. 上班时间 n 】` = office hour.
 - `【 after working hour. 下班时间 n 】`
@@ -72,3 +77,67 @@
 - // -- take a rest. 休息一下
 - // -- working hour. 上班时间
 - // -- after working hour. 下班时间
+
+###### Must 2025-01-03
+
+- 1
+- `【 trial period. 试用期 n 】` // ----------------- 【 trial 试用 试验 v 】 // 【 free trial. 免费试用 v 】
+- `【 internship period. 实习期 n 】` // ------------ 【 intern position. 实习岗 n 】
+- `【 warranty period. 保修期 n 】` // -------------- 【 warranty 保修单 保证 担保 n 】
+- `【 validity period. 有效期 n 】` // -------------- 【 validity 有效 n 】 VS 【 valid 有效的 adj 】
+- `【 shelf life. 保质期 n 】` // -------------------- 【 shelf 架子 n 】
+- .MT **【 You can 【 try out 】 the product that has already 【 passed 】 the 【 warranty period 】. 你可以免费试用已经过了保修期的产品 】**
+- .MT **【 He 【 passed 】 the 【 trial period 】 during the 【 internship 】. 他在实习期间过了试用期 】**
+- .MT **【 The 【 warranty period 】 is the 【 validity period 】 of 【 warranty 】. 保修期就是保修的有效期 】**
+- .MT **【 The product that 【 is about to 】 【 expire 】 is 【 out of date 】. 这个即将过期的产品已经过时了 】**
+-
+- AA.
+- > 【 expiration time. 过期时间 n 】
+- > 【 out of date. 过时的 adj 】
+- > 【 be about to expire. 即将过期 】
+-
+- BB.
+- _【 expire 过期 v 】_ // ---------------------------- 【 be about to expire. 即将过期 】
+- _【 expired 过期的 adj 】_ // ----------------------- 【 expired dumpling. 过期的饺子 】
+- _【 expiration 过期 到期 n 】_ // ------------------- 【 expiration time. 到期时间 过期时间 】
+- // TIPS: Pay attention to the pronunciation of the word 'expiration'. [expiration-time.过期时间]
+- // TIPS: Pay attention to the pronunciation of the word 'expire'. [expire-过期-v]
+- .MT **【 Please 【 dump 】 the 【 expired dumpling 】 into the 【 garbage bin 】. 请把过期的饺子倒进垃圾桶里 】**
+-
+- CC.
+- _【 try out. 试用 v 】_
+- > 【 trial 试用 试验 v 】
+- > 【 free trial. 免费试用 n 】 // -------------------- 【 have a free trial. 免费试用 】
+- .MT **【 You can 【 try out 】 the product that has already 【 passed 】 the 【 warranty period 】. 你可以免费试用已经过了保修期的产品 】**
+-
+- DD.
+- _【 valid 有效的 adj 】_ // -------------------------- 【 valid reason. 正当理由 】 【 valid evidence. 有效证据 n 】
+- _【 validity 有效 n 】_ // --------------------------- 【 validity period. 有效期 n 】
+- > 【 valid reasons. 正当理由 】
+- > 【 valid evidence. 有效证据 】
+- // TIPS: Pay attention to the pronunciation of the word 'valid'. [valid-有效的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'validity'. [validity-有效性-n]
+- // TIPS: Pay attention to the pronunciation of the word 'evidence'. [evidence-证据-n]
+- // TIPS: Pay attention to the pronunciation of the word 'arrest'. [arrest-抓捕-逮捕-v]
+- .MT **【 The 【 police 】 should have the 【 valid reasons 】 and 【 valid evidence 】 to 【 arrest 】 【 fugitives 】. 警察需要有正当的理由和有效的证据才能抓捕逃犯 】**
+-
+- EE.
+- _【 rest 休息 v n 】_
+- _【 arrest 抓捕 逮捕 v 】_
+- > 【 take/have a rest. 休息一下 】
+- > 【 take/have a break. 休息一下 】
+- **【 He plans to 【 take a rest 】 and then 【 continue 】 to 【 arrest 】 the 【 criminals 】. 他准备休息一会在继续抓捕罪犯 】**
+-
+- FF.
+-
+- GG.
+- > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
+- > 【 track 追踪 v 跟踪 v 轨道 n 】 // ---------- 【 track the trace. 追踪痕迹 】
+- > 【 trace 追踪 v 跟踪 v 痕迹 n 】
+- > 【 truck 卡车 】// -------------------------- _【 garbage truck. 垃圾车 】_ _【 sprinkler truck. 洒水车 】_
+- .MT **【 The 【 instrument 】 can 【 track 】 the 【 traces 】 that 【 left 】 by 【 trucks 】 【 on 】 the 【 trail 】. 这个仪器可以追踪卡车在小路上留下的痕迹 】**
+- **【 He is 【 tracking 】 a 【 deer 】 on the 【 trail 】. 他正在小路上跟踪一头鹿 】**
+- // -- instrument 仪器 仪表 n
+- // -- device 设备 装置 n
+- // -- equipment 设备 n
+- // -- gage 表 n
