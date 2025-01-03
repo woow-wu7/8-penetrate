@@ -48,6 +48,8 @@
 - _【 fugitive 逃犯 n 】_ // ------------ 【 chase fugitive. 追捕逃犯 v 】
 - 【 prison 监狱 n 】 VS 【 prisoner 囚犯 n 】VS 【 imprison 关押 v 】
 - .HL **【 【 Fugitives 】 and 【 criminals 】 are 【 imprisoned 】 in 【 prisons 】 and become 【 prisoners 】. 逃犯和罪犯被关押在监狱里成了囚犯 】**
+- .MT **【 The 【 fugitive 】 has entered the 【 refuge 】 and become a 【 refugee 】. 这个逃犯进入了避难所成为了难民 】**
+- .MT **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
 - CC.
 - `【 chase 追逐 追捕 v 】` // ----------- 【 chase dream. 追逐梦想 v 】 【 chase fugitive. 追捕逃犯 v 】
 - `【 pursue 追求 v 】` // -------------- 【 purse happiness. 追求幸福 v 】

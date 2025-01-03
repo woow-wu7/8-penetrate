@@ -192,6 +192,8 @@
 - > draw -> drew 画 拔出 v
 - > fugitive 逃犯 VS refugee 难民 VS refuge 避难 v 避难所 n
 - .MT **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
+- .MT **【 The 【 fugitive 】 has entered the 【 refuge 】 and become a 【 refugee 】. 这个逃犯进入了避难所成为了难民 】**
+- .HL **【 【 Fugitives 】 and 【 criminals 】 are 【 imprisoned 】 in 【 prisons 】 and become 【 prisoners 】. 逃犯和罪犯被关押在监狱里成了囚犯 】**
 -
 - [BB.]
 - `【 gunshot 枪声 n 】`

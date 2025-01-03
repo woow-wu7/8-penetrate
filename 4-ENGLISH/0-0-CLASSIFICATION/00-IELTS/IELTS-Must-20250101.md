@@ -129,6 +129,14 @@
 - **【 He plans to 【 take a rest 】 and then 【 continue 】 to 【 arrest 】 the 【 criminals 】. 他准备休息一会在继续抓捕罪犯 】**
 -
 - FF.
+- _【 criminal 罪犯 n 】_
+- _【 fugitive 逃犯 n 】_ // ------------------- 【 refugee 难民 n 】 VS 【 refuge 避难所 n 】VS 【 fugitive 逃犯 n 】
+- _【 prisoner 囚犯 n 】_ // ------------------- 【 prisoner 囚犯 n 】VS 【 prison 监狱 n 】 VS 【 imprison 关押 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'refuge'. [refuge-避难所-n]
+- // TIPS: Pay attention to the pronunciation of the word 'refugee'. [refugee-难民-n]
+- .MT **【 The 【 fugitive 】 has entered the 【 refuge 】 and become a 【 refugee 】. 这个逃犯进入了避难所成为了难民 】**
+- .HL **【 【 Fugitives 】 and 【 criminals 】 are 【 imprisoned 】 in 【 prisons 】 and become 【 prisoners 】. 逃犯和罪犯被关押在监狱里成了囚犯 】**
+- .MT **【 He 【 drew the pistol 】, 【 attached the scope 】 and 【 loaded the magazine 】, and then 【 fired three shots at 】 【 each of 】 the 【 criminal 】 and the 【 fugitive 】. 他拔出手枪，装上瞄准镜, 装上弹夹，然后向罪犯和逃犯各开了三枪 】**
 -
 - GG.
 - > 【 trail 跟踪 v 小路 n 】 // ---------------- 【 mountain trail. 山路 】
