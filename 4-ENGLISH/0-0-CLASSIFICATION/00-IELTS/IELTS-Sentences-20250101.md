@@ -763,4 +763,12 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 人生有酸甜苦辣咸各种体验
 -
 每个人都应该尽情地体验生活
+
+
+4
+先把剥掉它的皮，然后切碎，最后搅拌
+
+
+5
+橱柜里放着切菜板，广告牌，滑板和登机牌
 ```

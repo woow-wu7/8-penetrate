@@ -35,7 +35,7 @@
 - .MT **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 became a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
 - DD.
 - `【 experience 经验 体验 v n 】`
-- **【 Everyone should 【 experience 】 life 【 to the fullest 】. 每个人都应该尽情地体验生活 】**
+- .MT **【 Everyone should 【 experience 】 life 【 to the fullest 】. 每个人都应该尽情地体验生活 】**
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
 -
 - `【 vinegar 醋 n 】`
@@ -43,13 +43,16 @@
 - `【 gourmet powder. 味精 n 】`
 - `【 salt 盐 n 】`
 - `【 jam 果酱 n 】`
+- `【 cooking wine. 料酒 n 】`
 - > 【 soy sauce. 酱油 n 】`
-- > 【 dipping sauce. 蘸酱 n 】`
+- > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
+- // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
 -
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
 - `【 garlic 大蒜 n 】`
+- `【 scallion  大葱 n 】`
 - `【 chili 辣椒 n 】`
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
@@ -85,12 +88,30 @@
 - 2
 - [tool]
 - `【 chopsticks 筷子 n 】`
-- `【 spoon 勺子 n 】` // ------------------------- 【 a spoonful of sugar/salt. 一勺糖/盐 】
+- `【 spoon 勺子 n 】` // -------------------------- 【 a spoonful of sugar/salt. 一勺糖/盐 】
 - `【 fork 叉子 n 】`
 -
 - `【 plate 盘子 n 】`
 - `【 small plate. 碟子 n 】`
 - `【 bowl 碗 n 】`
+-
+- `【 peeler 削皮器 剥皮机 n 】` // -------------------【 peel 剥 脱皮 v 】
+- `【 chopping board. 切菜板 n 】` // ----------------【 chop 切碎 砍 剁 v 】`
+-
+- `【 stir 搅拌 v 】`
+- `【 peel 剥 脱皮 v 】` // ------------------------- 【 peeler 剥皮机 n 】
+- `【 chop 剁 切碎 v 】` // ------------------------- 【 chop up. 切碎 v 】 // 【 chopping board. 切菜板 】
+- > 【 chop up. 切碎 v 】
+- > 【 chopping board. 切菜板 】
+- _【 cupboard 衣柜 橱柜 n 】_
+- _【 skateboard 滑板 n 】_
+- _【 billboard 广告牌 n 】_ // ---------------------- 【 advertise 做广告 v 】 VS 【 advertisement 广告 n 】 VS 【 billboard 广告牌 n 】
+- _【 blackboard 黑板 n 】_
+- _【 keyboard 键盘 n 】_
+- _【 chopping board. 切菜板 n 】_
+- _【 boarding pass. 登机牌 n 】_
+- .MT **【 【 Peel 】 it first, then 【 chop it up 】, finally 【 stir 】 it. 先把剥掉它的皮，然后切碎，最后搅拌 】**
+- .HL **【 There are 【 chopping boards 】, 【 billboards 】, 【 skateboards 】, and 【 boarding passes 】 in the 【 cupboard 】. 橱柜里放着切菜板，广告牌，滑板和登机牌 】**
 -
 - AA.
 - `【 stick 棍 n / 粘贴 v 】`------------------------ 【 walking stick. 拐杖 n 】 【 selfie stick. 自拍杆 n 】 【 chopstick 筷子 】
@@ -114,9 +135,18 @@
 ##### (3) Household appliance. 家用电器 / kitchen items. 厨房用品
 
 - 3
+- [household-appliance]
 - `【 household appliance. 家用电器 n 】` // ---------- 【 household 家庭 n 家庭的 adj 】 // 【 appliance 电器 器具 n 】 VS 【 application 应用 申请 n 】
 - `【 kitchen items. 厨房用品 n 】`
 - `【 kitchen supplies. 厨房用品 n 】`
+- > 【 school supplies. 学习用品 】
+- > 【 kitchen supplies. 厨房用品 】
+- > 【 emergency supplies. 紧急物资 】
+-
+- `【 】`
+-
+- `【 remote control. 遥控 v 】`
+- `【 remote controller. 遥控器 n  】`
 
 ```
 peking duck. 北京烤鸭 n
