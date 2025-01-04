@@ -771,4 +771,12 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 
 5
 橱柜里放着切菜板，广告牌，滑板和登机牌
+
+
+6
+微辣，中辣，特辣对重庆市场来说及其重要
+
+
+7
+这个石头很坚硬
 ```

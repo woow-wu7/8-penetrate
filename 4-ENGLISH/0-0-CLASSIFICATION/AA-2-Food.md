@@ -1,20 +1,42 @@
 ##### Food
 
-##### (1) Material 材料
+##### (1) **【 Material 材料 】**
 
 - 1
 - [material/ingredient]
 - `【 spice 香料 n 】`
-- `【 spicy 辛辣的 adj 】`
+- `【 spicy 辛辣的 adj 】` // ---------------------【 slightly spicy. 微辣 】 【 medium spicy. 中辣 】 【 extremely spicy. 特辣 】
 - `【 spicy and numbing. 麻辣 】` // ------------- 【 spicy and numbing flavour. 麻辣口味 】 【 spicy and numbing hot pot. 麻辣火锅 】 // 【 numbing 麻木的 adj / 麻木 v 】
+- > 【 slightly spicy. 微辣 n 】 // -------------- slight 轻微的 adj
+- > 【 medium spicy. 中辣 n 】 // ---------------- medium 中等的 adj / 介质 媒介 n
+- > 【 extremely spicy. 特辣 n 】 // ------------- extreme 极端的 adj
+- > 【 spicy and numbing flavour. 麻辣口味 n 】
+- > 【 spicy and numbing hot pot. 麻辣火锅 n 】 // 【 hot pot. 火锅 】
+- 【 media 媒体 】 VS 【 medium 介质 媒介 n / 中等的 adj 】
+- _【 medium size. 中等尺寸 】_
+- _【 medium income. 中等收入 】_
+- > 【 slight injury. 轻伤 n 】
+- > 【 slight pain. 轻微疼痛 n 】
+- _【 extreme weather. 极端天气 】_
+- _【 extreme cold. 极端寒冷 】_
+- _【 extremely spicy. 特辣 n 】_
+- _【 extremely important. 及其重要 】_
+- _【 extremely difficult. 及其困难 】_
+- _【 extremely rare. 及其罕见 】_
+- .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣，中辣，特辣对重庆市场来说及其重要 】**
 - AA.
 - `【 flavour 味道 口味 n 】`
-- > 【 sour 酸的 adj 】 // ----------------------- 【 sour VS tour VS hour 】
+- `【 tasty 美味的 adj 】` // -------------------- 【 taste 尝 v / 味道 n 】 VS 【 tasty 美味的 adj 】
+- `【 delicious 美味的 adj 】`
+- > 【 sour 酸的 adj = tart. 】 // --------------- 【 sour VS tour VS hour 】
 - > 【 sweet 甜的 adj 】 // ---------------------- 【 sweet VS sweat VS wet VS sweater 】
 - > 【 bitter 苦的 adj 】
 - > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】
 - > 【 salty 咸的 adj 】
 - > 【 numb 麻木的 adj 】
+- _【 crispy 脆的 adj 】_
+- _【 greasy 油腻的 adj 】_
+- _【 bland 淡而无味的 adj 】_
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
 - 1 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
@@ -24,6 +46,7 @@
 - BB.
 - `【 spicy and numbing hot pot. 麻辣火锅 n 】`
 - `【 spicy and numbing flavour. 麻辣口味 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - CC.
 - _【 numb 麻木的 adj 】_ VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
 - _【 tomb 坟墓 n 】_
@@ -38,16 +61,17 @@
 - .MT **【 Everyone should 【 experience 】 life 【 to the fullest 】. 每个人都应该尽情地体验生活 】**
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
 -
+-
 - `【 vinegar 醋 n 】`
 - `【 soy sauce. 酱油 n 】`
-- `【 gourmet powder. 味精 n 】`
 - `【 salt 盐 n 】`
-- `【 jam 果酱 n 】`
+- `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
 - `【 cooking wine. 料酒 n 】`
 - > 【 soy sauce. 酱油 n 】`
 - > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
+-
 -
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
@@ -56,6 +80,8 @@
 - `【 chili 辣椒 n 】`
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'garlic'. [garlic-大蒜-n]
+- // TIPS: Pay attention to the pronunciation of the word 'scallion'. [scallion-大葱-n]
 -
 - AA.
 - `【 material 材料 n 】`
@@ -83,7 +109,7 @@
 - _【 construction worker. 建筑工人 n 】_
 - _【 construction site. 建筑工地 n 】_
 
-##### (2) Tool 工具
+##### (2) **【 Tool 工具 】**
 
 - 2
 - [tool]
@@ -132,7 +158,7 @@
 - `steel 钢 钢铁`
 - `stainless steel 不锈钢`
 
-##### (3) Household appliance. 家用电器 / kitchen items. 厨房用品
+##### (3) **【 Household appliance. 家用电器 / kitchen items. 厨房用品 】**
 
 - 3
 - [household-appliance]
@@ -147,6 +173,18 @@
 -
 - `【 remote control. 遥控 v 】`
 - `【 remote controller. 遥控器 n  】`
+
+##### (4) **【 Cuisine 美食 饭菜 】**
+
+- `【 chew 咀嚼 v 】`
+- `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔然的 adj 】
+- `【 tender 柔软的 adj 】`
+-
+- `【 awful 很坏的 adj 】`
+- `【 awesome 极好的 adj 】`
+-
+- meat ball. 肉丸
+- dessert 甜点
 
 ```
 peking duck. 北京烤鸭 n
