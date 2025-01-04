@@ -1161,6 +1161,9 @@ fill out. 填写
 - `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 v 】 【 sign a contract. 签合同 v 】
 - `【 contract 合同 】` // ------------------------- 【 sin a contract. 签订合同 】 【 terminate contract. 终止合同 v 】 【 violate contract. 违反合同 v 】
 - > 【 sign a lease. 签订租约 v 】
+- > 【 lease 租约 n / 出租 v 】 VS 【 rent 租 v 】 VS  【 rntal 出租 n 租金 n 】
+- > 【 rent 租 v 】
+- > 【 rental 出租 n 租金 n 】
 - // contract VS contact VS contrast // contrast VS compare
 - // apartment VS department
 - .MT **【 we prepare to 【 lease 】 【 an 】 【 apartment 】, and 【 sign a two-year lease 】. 我们准备租一套公寓，签两年的租约 】**

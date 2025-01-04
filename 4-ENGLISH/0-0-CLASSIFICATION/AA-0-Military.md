@@ -90,6 +90,11 @@
 -
 -
 -
+- 2
+- `【 bomb 炸弹 n 】` // ------------------ 【 atom bomb. 原子弹 n 】
+- `【 womb 子宫 n 】`
+- `【 tomb 坟墓 n 】`
+- **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 became a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
 
 ##### Military 2 - **【 weapon 】**
 
@@ -142,6 +147,7 @@
 - 【 bomb 炸弹 n 轰炸 v 】
 - 【 bomber 轰炸机 n 】
 - 【 Shrapnel 弹片 VS sharp 锋利的 】
+- _【 womb 子宫 n 】_ VS _【 tomb 坟墓 n 】_ VS _【 bomb 炸弹 n 】_ VS _【 bomber 轰炸机 n 】_ VS _【 numb 麻木的 adj 】_
 - // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
 - > 【 bomb 轰炸 v 炸弹 n 】 // ----------------- 【 bomber 轰炸机 n 】
 - > 【 explode 爆炸 v 】

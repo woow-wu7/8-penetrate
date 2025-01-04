@@ -6,20 +6,46 @@
 - [material/ingredient]
 - `【 spice 香料 n 】`
 - `【 spicy 辛辣的 adj 】`
+- `【 spicy and numbing. 麻辣 】` // ------------- 【 spicy and numbing flavour. 麻辣口味 】 【 spicy and numbing hot pot. 麻辣火锅 】 // 【 numbing 麻木的 adj / 麻木 v 】
+- AA.
+- `【 flavour 味道 口味 n 】`
 - > 【 sour 酸的 adj 】 // ----------------------- 【 sour VS tour VS hour 】
 - > 【 sweet 甜的 adj 】 // ---------------------- 【 sweet VS sweat VS wet VS sweater 】
 - > 【 bitter 苦的 adj 】
-- > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】
+- > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】
 - > 【 salty 咸的 adj 】
+- > 【 numb 麻木的 adj 】
+- // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
+- 1 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
+- 2 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】 and 【 salty 】. 人生有酸甜苦辣咸各种体验 】**
+- // -- 【 experience 经验 体验 v n 】
+- // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
+- BB.
+- `【 spicy and numbing hot pot. 麻辣火锅 n 】`
+- `【 spicy and numbing flavour. 麻辣口味 n 】`
+- CC.
+- _【 numb 麻木的 adj 】_ VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
+- _【 tomb 坟墓 n 】_
+- _【 womb 子宫 n 】_ // -------------------------- 【 fetus 胎儿 n 】
+- _【 bomb 炸弹 n 】_ // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb-坟墓-n]
+- // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb-子宫-n]
+- // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
+- .MT **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 became a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
+- DD.
+- `【 experience 经验 体验 v n 】`
+- **【 Everyone should 【 experience 】 life 【 to the fullest 】. 每个人都应该尽情地体验生活 】**
+- // -- 【 to the fullest. 充分的 尽情的 adv 】
 -
 - `【 vinegar 醋 n 】`
 - `【 soy sauce. 酱油 n 】`
 - `【 gourmet powder. 味精 n 】`
 - `【 salt 盐 n 】`
-- `【 soy sauce. 酱油 n 】`
-- `【 dipping sauce. 蘸酱 n 】`
-- `【 tomato sauce. 番茄酱 n 】` = ketchup.
 - `【 jam 果酱 n 】`
+- > 【 soy sauce. 酱油 n 】`
+- > 【 dipping sauce. 蘸酱 n 】`
+- > 【 tomato sauce. 番茄酱 n 】` = ketchup.
 -
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
