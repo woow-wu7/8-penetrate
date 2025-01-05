@@ -156,11 +156,17 @@
 - `【 credit card. 信用卡 】` // -------------- 【 on credit. 赊账 】 【 on credit. 赊账 】
 - `【 debit card. 借记卡 】` // --------------- 【 debit 借记 VS debt 债务 】
 - `【 on credit. 赊账 】`
+- _【 roll out. 推出 v 】_
 - > 【 credit 信用 赊购 】
 - > 【 on credit. 赊账 】
 - > 【 credit card. 信用卡 】
-- _【 roll out. 推出 v 】_
 - _【 swipe card. 刷卡 v 】_
+- _【 loyalty card. 积分卡 n 】_
+- _【 membership card. 会员卡 n 】_
+- _【 meal card. = food card. 饭卡 n 】_
+- _【 medical insurance card. 社保卡 n 】_
+- 【 membership 会员 】 VS 【 scholarship 奖学金 】 VS 【 internship 实习 实习期 】 VS 【 worship 崇拜 】 VS 【 warship 战舰 】 VS 【 relationship 关系 】
+- [Must 2024-09-08](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20240901.md)
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
 - .MT **【 This bank 【 rolls out 】 【 credit cards 】 and 【 debit cards 】. 这家银行推出了信用卡和借记卡 】**
 - .HL **【 There is a 【 handling fee 】for 【 swiping a credit card 】. 刷信用卡有手续费 】**
@@ -351,7 +357,7 @@
 - _【 education fund. 教育基金 】_
 - _【 pension 养老金 】_
 - _【 social security. 社保 n 】_
-- _【 social insurance. 社保 n 】_ = social security. 社保 n
+- _【 social insurance. 社保 n 】_ // --------- 【 social insurance card. 社保卡 n 】
 - > 【 mortgage loan. 房贷 】
 - > 【 car loan. 车贷 】
 - _【 stamp duty. 印花税 n 】_
@@ -1114,8 +1120,23 @@ fill out. 填写
 // You must fill out this order form. 这个订货单你要填一下
 ```
 
-##### (1) **【 MUST - Supplement - 23 】- The words that you mast know.**
+##### (1) **【 MUST - Supplement - 24 】- The words that you mast know.**
 
+- [-QQ.]24
+- `【 top up. 充值 v 】`
+- `【 recharge 充电 充值 v 】`
+- > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
+- > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
+- > 【 meal card. 饭卡 】= food card.
+- > 【 medical insurance card. 医保卡 】
+- > 【 bus card. 公交卡 】
+- _【 swipe card. 刷卡 】_
+- 【 membership 会员 】 VS 【 scholarship 奖学金 】 VS 【 internship 实习 实习期 】 VS 【 worship 崇拜 】 VS 【 warship 战舰 】 VS 【 relationship 关系 】
+- [Must 2024-09-08](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20240901.md)
+- .MT **【 I need to 【 top up / recharge 】 my 【 meal card 】, 【 bus card 】, 【 membership card 】. 我需要给我的饭卡，公交卡，会员卡充值 】**
+- .MT **【 I have a 【 points card / loyalty card 】 for the 【 supermarket 】. 我有这个超市的积分卡 】**
+- .HL **【 You need to 【 recharge / top up 】 the 【 membership card 】, then you will get the 【 points 】 by 【 swiping 】 the 【 membership card 】 when you 【 consume 】. 需要给会员卡充值，然后在消费时刷会员卡就能获得积分 】**
+-
 - [-PP.]23
 - `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
 - `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 departure lounge. 候车室 】 // 【 bus stop. 公交站 】
@@ -1161,7 +1182,7 @@ fill out. 填写
 - `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 v 】 【 sign a contract. 签合同 v 】
 - `【 contract 合同 】` // ------------------------- 【 sin a contract. 签订合同 】 【 terminate contract. 终止合同 v 】 【 violate contract. 违反合同 v 】
 - > 【 sign a lease. 签订租约 v 】
-- > 【 lease 租约 n / 出租 v 】 VS 【 rent 租 v 】 VS  【 rntal 出租 n 租金 n 】
+- > 【 lease 租约 n / 出租 v 】 VS 【 rent 租 v 】 VS 【 rntal 出租 n 租金 n 】
 - > 【 rent 租 v 】
 - > 【 rental 出租 n 租金 n 】
 - // contract VS contact VS contrast // contrast VS compare

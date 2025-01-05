@@ -184,6 +184,13 @@
 - > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】 【 greatly worship. 非常崇拜 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
+- `【 membership 会员 n 】` // ------------ 【 membership card. 会员卡 】
+- > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
+- > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
+- > 【 meal card. 饭卡 】= food card.
+- > 【 medical insurance card. 医保卡 】
+- _【 swipe card. 刷卡 】_
+-
 - `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
 - `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 【 common sense. 常识 】 // 【 sense 感觉 感应 感到 v n 】
 - `【 friendship 友情 友谊 n 】`
