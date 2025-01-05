@@ -519,6 +519,7 @@
 - `【 handbag 手提包 n 】`
 - `【 handprint 手印 n 】` // -----------------【 fingerprint 指纹 n 】 【 footprint. 脚印 n 】 【 lip print. 唇印 n 】
 - `【 handwrite 手写 v 】`
+- `【 handmade 手工的 adj 】`
 - > 【 hand in. 上交 提交 v 】
 - > 【 hand in hand. 手牵手 adv 】 // -------- 【 hold your hand. 牵着你的手 】
 - > 【 hand down. 传下来 v 】

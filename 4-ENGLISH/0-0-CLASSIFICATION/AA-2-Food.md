@@ -35,6 +35,7 @@
 - > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】 【 slightly spicy. 微辣 】 【 medium spicy. 】
 - > 【 salty 咸的 adj 】
 - > 【 numb 麻木的 adj 】
+- > 【 fishy 腥味的 adj 】
 - _【 crispy 脆的 adj 】_
 - _【 greasy 油腻的 adj 】_
 - _【 bland 淡而无味的 adj 】_
@@ -68,7 +69,8 @@
 - `【 soy sauce. 酱油 n 】`
 - `【 salt 盐 n 】`
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
-- `【 cooking wine. 料酒 n 】`
+- `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】
+- `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
 - > 【 soy sauce. 酱油 n 】`
 - > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
@@ -92,6 +94,8 @@
 - _【 raw material. 原材料 n 】_
 - _【 raw rice. 生米 n = uncooked rice. 】_
 - _【 cooked rice. 熟饭 n 】_
+- _【 rice cake. 年糕 n 】_
+- _【 rice wine. 米酒 】_
 - BB.
 - `【 ingredient 成分 原料 n 】`
 - _【 common ingredient. 常见成分 】_
@@ -118,6 +122,7 @@
 - `【 chopsticks 筷子 n 】`
 - `【 spoon 勺子 n 】` // -------------------------- 【 a spoonful of sugar/salt. 一勺糖/盐 】
 - `【 fork 叉子 n 】`
+- `【 soup 汤 n 】`
 -
 - `【 plate 盘子 n 】`
 - `【 small plate. 碟子 n 】`
@@ -205,7 +210,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'vacuum'. [vacuum-真空-真空的-n-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'stove'. [stove-炉子-n]
 
-##### (4) **【 Cuisine 美食 饭菜 】**
+##### (4) **【 Plant - Cuisine 美食 饭菜 】**
 
 - `【 meal 一餐 餐 n 】` // ------------------------- 【 meal 一餐 餐 n 】 VS 【 meat 肉 】
 - `【 dish 菜 一道菜 餐具 n 】` // ------------------- 【 dishwasher 洗碗机 】 // 【 dish 菜 一道菜 餐具 】 VS 【 radish 萝卜 】 VS 【 Swedish 瑞典的 adj 】
@@ -217,7 +222,16 @@
 - .MT **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有七道菜 】**
 - .MT **【 Seven 【 dishes 】 are enough to eat 【 for 】 a day. 七个菜足够吃一天了 】**
 -
+- `【 veggie 蔬菜 n 】`
+- `【 vegetable 蔬菜 n 】`
+- `【 cabbage 卷心菜 n 】`
+- `【 kimchi 泡菜 n 】`
 - `【 bamboo shoots. 竹笋 n 】`
+-
+- `【 rice cake. 年糕 n 】`
+- `【 rice wine. 米酒 n 】`
+- `【 raw rice. 生米 】`
+- `【 cooked rice. 熟饭 】`
 -
 - `【 chew 咀嚼 v 】`
 - `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
@@ -228,6 +242,8 @@
 -
 - meat ball. 肉丸
 - dessert 甜点
+
+##### (5) **【 Animal - Cuisine 美食 饭菜 】**
 
 ```
 peking duck. 北京烤鸭 n

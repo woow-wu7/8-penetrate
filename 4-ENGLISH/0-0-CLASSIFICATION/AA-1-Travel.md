@@ -290,12 +290,19 @@
 - `【 picnic 野餐 野炊 v n 】`
 - `【 tent 帐篷 】`
 - `【 adventure 冒险 探险 v n 】`
-- _【 campus 校园 n 】_
-- _【 camp 露营 v n 】_
+- AA.
+- _【 campus 校园 n 】_ // --------------------- 【 campus violence. 校园暴力 】
+- _【 camp 露营 v n 】_ // --------------------- 【 summer camp. 夏令营 】 【 winter camp. 冬令营 】
 - _【 summer camp. 夏令营 n 】_
 - _【 winter camp. 冬令营 n 】_
 - > camp VS campus
-- > tent VS rent
+- > tent VS rent VS lease // ------------------ 【 sign a lease. 签订租约 】 // 【 lease an apartment. 租公寓 】
+- BB.
+- _【 head in. 进入 v 】_
+- _【 head off. 出发 离开 v 】_
+- head in. **【 Let's 【 head in 】 and 【 see how it looks 】 inside. 咱们进去看看里面是什么样子的 】**
+- head off. **【 Let's 【 head off 】 the mountain. 让我们下山 】**
+-
 - .MT **【 We 【 prepare to 】 【 rent 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
 - **【 University students like to 【 camp 】 【 on 】 the 【 campus 】. 大学生喜欢在校园里露营 】**
 - **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新推出了一个夏令营活动 】**
