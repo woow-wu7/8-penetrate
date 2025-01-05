@@ -171,7 +171,98 @@
 - `【 stainless steel 不锈钢 】` // ----------------- 【 stainless 不生锈的 adj 】
 - `【 rust 锈n / 生锈 v 】` // ---------------------- 【 iron rust. 铁锈 n 】
 
-##### (3) **【 Household appliance. 家用电器 / kitchen items. 厨房用品 】**
+##### (3) **【 Cook 做饭 】**
+
+- 1
+- `【 meal 一餐 餐 n 】` // ------------------------- 【 meal 一餐 餐 n 】 VS 【 meat 肉 】
+- `【 dish 菜 一道菜 餐具 n 】` // ------------------- 【 dishwasher 洗碗机 】 // 【 dish 菜 一道菜 餐具 】 VS 【 radish 萝卜 】 VS 【 Swedish 瑞典的 adj 】
+- > 【 dish 菜 一道菜 餐具 n 】 // ------------------- 【 two dishes. 两道菜 n 】
+- > 【 radish 萝卜 n 】
+- > 【 carrot 胡萝卜 】
+- _【 dishwasher. 洗碗机 】_
+- _【 washer 洗衣机 】_
+- AA.
+- duck 鸭子 VS dock 码头
+- _【 peking duck. 北京烤鸭 n 】_
+- _【 wild duck. 野鸭 n 】_
+- _【 wild grass. 野草 】_
+- .MT **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有七道菜 】**
+- .MT **【 Seven 【 dishes 】 are enough to eat 【 for 】 a day. 七个菜足够吃一天了 】**
+- .HL **【 There are many 【 ducks 】 【 in 】 【 the body of the water 】 that is close to the 【 dock 】. 在靠近码头的这片水域里有许多野 】**
+-
+-
+-
+- 2
+- `【 portion 部分 一份 n 】`
+- `【 port 港口 n 】`
+- `【 harbor 港口 n 】` // ------------------------- 【 dock 码头 n 】 VS 【 duck 鸭子 n 】 // 【 wild duck. 野鸭 】 【 peking duck. 北京烤鸭 】
+- > 【 small portion. 小份 】
+- > 【 large portion. 大份 】
+- .MT **【 I 【 ordered 】 a 【 small portion 】 of 【 takeout 】. 我点了一份小份的外卖 】**
+
+##### (4) **【 Plant - Cuisine 美食 饭菜 】**
+
+- 1
+- `【 veggie 蔬菜 n 】`
+- `【 vegetable 蔬菜 n 】`
+- `【 cabbage 卷心菜 n 】`
+- `【 kimchi 泡菜 n 】`
+- `【 bamboo shoots. 竹笋 n 】`
+-
+- `【 rice cake. 年糕 n 】`
+- `【 rice wine. 米酒 n 】`
+- `【 raw rice. 生米 】`
+- `【 cooked rice. 熟饭 】`
+-
+- `【 taro 芋头 n 】`
+-
+- `【 chew 咀嚼 v 】`
+- `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
+- `【 tender 柔软的 adj 】`
+-
+- `【 awful 很坏的 adj 】`
+- `【 awesome 极好的 adj 】`
+-
+-
+-
+- 2
+- [fruit]
+- `【 coconut 椰子 n 】` // ------------------------- 【 coconut 椰子 】 VS 【 peanut 花生 】 VS 【 walnut 核桃 】
+- `【 peanut 花生 】`
+- `【 walnut 核桃 】`
+- `【 nut 坚果 】`
+-
+-
+-
+-
+- dessert 甜点
+- peanut 花生
+
+##### (5) **【 Animal - Cuisine 美食 饭菜 】**
+
+- meat ball. 肉丸
+
+```
+peking duck. 北京烤鸭 n
+wild duck. 野鸭
+wild life. 野生动物
+wild grass. 野草
+// wild 野生的adj 猛烈地adv
+// mild 温和的 adj
+【 dock 码头 n 】 VS 【 duck 鸭子 n 】 // 【 wild duck. 野鸭 】 【 peking duck. 北京烤鸭 】
+
+pancake 煎饼 n
+cake 蛋糕 饼 n
+
+Chinese cabbage. 大白菜
+cabbage  卷心菜
+baggage 行李
+luggage 行李
+
+cut into. 切成(几块)
+```
+
+##### (6) **【 Household appliance. 家用电器 / kitchen items. 厨房用品 】**
 
 - 3
 - [household-appliance]
@@ -210,56 +301,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'vacuum'. [vacuum-真空-真空的-n-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'stove'. [stove-炉子-n]
 
-##### (4) **【 Plant - Cuisine 美食 饭菜 】**
+##### (7) **【 snake 小吃 零食 】**
 
-- `【 meal 一餐 餐 n 】` // ------------------------- 【 meal 一餐 餐 n 】 VS 【 meat 肉 】
-- `【 dish 菜 一道菜 餐具 n 】` // ------------------- 【 dishwasher 洗碗机 】 // 【 dish 菜 一道菜 餐具 】 VS 【 radish 萝卜 】 VS 【 Swedish 瑞典的 adj 】
-- > 【 dish 菜 一道菜 餐具 n 】 // ------------------- 【 two dishes. 两道菜 n 】
-- > 【 radish 萝卜 n 】
-- > 【 carrot 胡萝卜 】
-- _【 dishwasher. 洗碗机 】_
-- _【 washer 洗衣机 】_
-- .MT **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有七道菜 】**
-- .MT **【 Seven 【 dishes 】 are enough to eat 【 for 】 a day. 七个菜足够吃一天了 】**
--
-- `【 veggie 蔬菜 n 】`
-- `【 vegetable 蔬菜 n 】`
-- `【 cabbage 卷心菜 n 】`
-- `【 kimchi 泡菜 n 】`
-- `【 bamboo shoots. 竹笋 n 】`
--
-- `【 rice cake. 年糕 n 】`
-- `【 rice wine. 米酒 n 】`
-- `【 raw rice. 生米 】`
-- `【 cooked rice. 熟饭 】`
--
-- `【 chew 咀嚼 v 】`
-- `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
-- `【 tender 柔软的 adj 】`
--
-- `【 awful 很坏的 adj 】`
-- `【 awesome 极好的 adj 】`
--
-- meat ball. 肉丸
-- dessert 甜点
-
-##### (5) **【 Animal - Cuisine 美食 饭菜 】**
-
-```
-peking duck. 北京烤鸭 n
-wild duck. 野鸭
-wild life. 野生动物
-wild grass. 野草
-// wild 野生的adj 猛烈地adv
-// mild 温和的 adj
-
-pancake 煎饼 n
-cake 蛋糕 饼 n
-
-Chinese cabbage. 大白菜
-cabbage  卷心菜
-baggage 行李
-luggage 行李
-
-cut into. 切成(几块)
-```
+- 1
+- `【 jelly 果冻 n 】`
