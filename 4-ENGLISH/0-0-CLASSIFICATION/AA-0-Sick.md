@@ -260,6 +260,16 @@
 - > 【 western medicine. 西药 n 】// ------------- 【 western 西方的 adj 】 【 west 西方 n 】
 - > 【 take medicine. 吃药 】
 - //【 co-payment. 自付金额 】
+- _【 medical 医学的 】_
+- _【 medical record. 病历 】_
+- _【 medical equipment. 医疗设备 】_
+- _【 medical insurance card. 医保卡 】_
+- > 【 medical insurance card. 医保卡 】
+- > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
+- > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
+- > 【 meal card. 饭卡 】= food card.
+- > 【 bus card. 公交卡 】
+- _【 swipe card. 刷卡 】_
 - // TIPS: Pay attention to the pronunciation of the word 'inject'. [inject]
 - // TIPS: Pay attention to the pronunciation of the word 'injectable'. [injectable][injectable-medicine.注射药-n]
 -

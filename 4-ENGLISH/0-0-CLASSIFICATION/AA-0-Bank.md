@@ -416,7 +416,7 @@
 - `【 fund 基金 n 】`
 - `【 stock 股票 n 】` // ------------------- 【 stock market. 股票市场 】
 - `【 lottery 彩票 n 】` // ----------------- 【 lottery ticket. 彩票 n 】
-- .MT **【 He 【 shared 】 the company's 【 shares 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
+- .MT **【 He 【 shared 】 the company's 【 shares 】 and 【 shareholdings 】 【 with 】 every employee. 他把公司股份分享给了每一个员工 】**
 - .MT **【 You can 【 consider 】 【 buying 】 some 【 lottery tickets 】. 你可以考虑去买一些彩票 】**
 - .MT **【 He 【 found 】 a new 【 fun 】 【 fund 】 company. 他创建了新的有趣的基金公司 】**
 -
@@ -1182,7 +1182,7 @@ fill out. 填写
 - `【 lease 租约n / 出租 租用 v 】` // -------------- 【 sign a lease. 签订租约 v 】 【 sign a contract. 签合同 v 】
 - `【 contract 合同 】` // ------------------------- 【 sin a contract. 签订合同 】 【 terminate contract. 终止合同 v 】 【 violate contract. 违反合同 v 】
 - > 【 sign a lease. 签订租约 v 】
-- > 【 lease 租约 n / 出租 v 】 VS 【 rent 租 v 】 VS 【 rntal 出租 n 租金 n 】
+- > 【 lease 租约 n / 出租 v 】 VS 【 rent 租 v 】 VS 【 rental 出租 n 租金 n 】
 - > 【 rent 租 v 】
 - > 【 rental 出租 n 租金 n 】
 - // contract VS contact VS contrast // contrast VS compare
@@ -1433,6 +1433,14 @@ fill out. 填写
 - > charging pile. 充电桩` // ------------------ 【 tree stump. 树桩 n 】 VS 【 charging pile. 充电桩 n 】
 - > tree stump. 树桩`
 - _【 be in charge of. 负责 = be responsible for. 】_
+- AA.
+- > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
+- > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
+- > 【 meal card. 饭卡 】= food card.
+- > 【 medical insurance card. 医保卡 】
+- > 【 bus card. 公交卡 】
+- _【 swipe card. 刷卡 】_
+- 【 membership 会员 】 VS 【 scholarship 奖学金 】 VS 【 internship 实习 实习期 】 VS 【 worship 崇拜 】 VS 【 warship 战舰 】 VS 【 relationship 关系 】
 - 1. .MT **【 【 How much 】 does the 【 parking lot 】 【 charge 】? 这个停车场怎么收费? 】** // ------------ 1. charge 收费 要价
 - 2. **【 I need to 【 charge 】 the phone which has 【 no battery 】. 我需要给没有电的手机充电 】** // -- 2. charge 充电
 - 3. **【 To 【 charge 】 your phone, you need to connect the 【 charging cable 】 to the 【 charger 】 and phone, then 【 plug 】 the charger into the 【 power strip 】. 】**
@@ -1483,7 +1491,7 @@ fill out. 填写
 - > 【 mortgage loan. 房贷 】
 - > 【 car loan. 车贷 】
 - > 【 pay off. 】 VS 【 pay back. 】
-- .MT **【 Everyone should pay their 【 social security 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
+- .MT **【 Everyone should pay their 【 social security / insurance 】 and 【 individual income tax 】 【 on time 】. 每个人都应该按时缴纳社保和个人所得税 】**
 - // -- individual 个人的 单独的 ad
 - // -- personal 个人的 私人的 adj
 - // -- 【 individual income tax. 个人所得税 = personal income tax. 个人所得税 】
@@ -1538,8 +1546,8 @@ fill out. 填写
 - `【 run out of. 用完 耗尽 】`
 - max 最多的 adj 马克思 n
 - tax 税
+- .MT **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**‘
 - .MT **【 Ha maxed out his credit cards and has run out of all his money, Now he is broke. 他刷爆了自己的信用卡，并且已经花光了所有的钱，现在已经身为分文 】**
-- **【 He has 【 maxed out 】 three 【 credit cards 】 already. 他已经刷爆三张信用卡了 】**‘
 - **【 He has 【 run out of 】 his money and right now he is 【 broke 】. 他花光了他所有的钱，现在已经身为分文 】**
 -
 -
