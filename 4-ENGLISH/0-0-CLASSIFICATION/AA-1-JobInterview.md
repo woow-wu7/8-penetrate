@@ -155,7 +155,7 @@
 - `【 night shift. 夜班 】` // --------------------- 【 work the night shift. 值夜班 】
 - `【 stick shift. 换挡杆 】`
 - `【 on duty. 值班 】`
-- `【 take turns. 轮流 】` // ---------------------- 【 take turns to do sth. 轮流做某事 】 // 【 take turns to work the day shift. 轮流值白班 】
+- `【 take turns doing sth. 轮流做某事 】` // --------【 take turns doing sth. 轮流做某事 】 // 【 take turns working the day shift. 轮流值白班 】
 - > 【 stick 粘贴 v 棍子 n 】
 - > 【 lipstick. 口红 】
 - > 【 chopsticks. 筷子 】
@@ -167,7 +167,8 @@
 -
 - `【 work out. 锻炼 】`= exercise
 - `【 work overtime. 加班 】`
-- .MT **【 You need to【 work out 】 after 【 working overtime 】. 加班后需要锻炼 】**
+- _【 work out. 锻炼 v】_
+- .MT .HL **【 You need to【 work out 】 after 【 working overtime 】. 加班后需要锻炼 】**
 - **【 working out 】 is helping for both 【 mental health 】 and 【 physical heath 】. 锻炼有助于心理健康和生理健康**
 -
 - `【 workload 工作量 】`

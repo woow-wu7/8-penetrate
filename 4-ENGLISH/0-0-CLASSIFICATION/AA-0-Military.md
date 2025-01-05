@@ -255,17 +255,25 @@
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
 - `【 air force. 空军 n 】`
 - > 【 naval fleet. 海军舰队 n 】
+-
 - [3.1]
+- [navy-海军-n]
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】
 - `【 warship 战舰 n 】` // --------------------- 【 worship 崇拜 v n 】 【 warship 战舰 n 】 // worship warship relationship scholarship internship
 - `【 frigate 护卫舰 】`
 - `【 aircraft carrier. 航空母舰 n 】`
 - `【 submarine 潜水艇 n 】`
+- 311
 - `【 dock 码头n 停靠v 】`
-- sailor / sail / sailboat
+- `【 harbor 港口 n 】` --- 范围小
+- `【 port 港口 n 】` ----- 范围大
+- > 【 a body of water. 一片水域 】
+- 312
 - _【 warship 战舰 n 】_
 - _【 merchant ship. 商船 n 】_
 - _【 pirate ship. 海盗船 n 】_
+- 313
+- `【 sailor / sail / sailboat 】`
 - // TIPS: Pay attention to the pronunciation of the word 'carry'. [carry-携带-拿-v]
 - // TIPS: Pay attention to the pronunciation of the word 'carrier'. [carrier-运送者-n]
 - AA.

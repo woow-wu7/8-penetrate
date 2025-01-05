@@ -106,6 +106,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-惊叹词-n][exclamation-mark.感叹号]
 - .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 -
+-
+-
 - [学生]
 - `【 overseas student. 留学生 = international student.】` // _【 study abroad. 留学 】_ `【 go abroad. 出国 】` // 【 abroad 往国外 VS aboard 在船上 】
 - `【 undergraduate student. 本科生 】`
@@ -122,14 +124,23 @@
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
 - `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
-- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
-- _【 alumna 女校友 n 】_
+- AA.
 - > 【 campus 校园 校区 n 】 // ------------------------ 【 campus violence. 校园暴力 】 // campus VS camp // rent VS tent
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
+- BB.
+- > 【 tuition 学费 n 】 // --------------------------- 【 tuition fee. 学费 】 // tuition VS tutor VS tutorial
+- > 【 intuition 直觉 n 】
 - 【 tuition fee. 学费 n 】 // ---------------------- 【 tuition VS tutor VS tutorial 】
 - 【 handling fee. 手续费 n 】
+- .MT **【 I have 【 an 】 【 intuition 】 that the 【 tuition fees 】 for 【 overseas students / international students 】 are hight. 我有一种直觉，留学生的学费很高 】**
+- .HL **【 We can only go 【 with 】 【 intuition 】. 我们只能跟着直觉走 】**
+- CC.
 - _【 go abroad. 出国 】_
 - _【 study abroad. 出国留学 】_
+- DD.
+- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
+- _【 alumna 女校友 n 】_
+-
 - .MT **【 He is 【 an 】【 undergraduate student 】, and his 【 elder sister 】 is a 【 postgraduate student 】. 他是本科生，他姐姐是研究生 】**
 - .MT **【 The 【 tuition fees 】 for 【 overseas students 】 are high. 留学生的学费很贵 】**
 - .HL **【 We 【 prepare to 】 【 rent/lease 】 a 【 tent 】 to 【 camp 】 【 on the campus 】. 我们准备租一个帐篷去校园里露营 】**
@@ -137,6 +148,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'campus'. [campus-校园-校区-n]
 - // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
 - // TIPS: Pay attention to the pronunciation of the word 'violence'. [violence-暴力-n][campus-violence.校园暴力]
+-
 -
 -
 - [其他]

@@ -175,7 +175,7 @@
 - `【 kitchen supplies. 厨房用品 n 】`
 - > 【 school supplies. 学习用品 】
 - > 【 kitchen supplies. 厨房用品 】 = kitchen items.
-- > 【 emergency supplies. 紧急物资 】
+- > 【 emergency supplies. 紧急物资 】= urgent supplier.
 -
 - `【 stove 炉子 n 】` // -------------------------- 【 gas stove. 煤气灶 】
 - `【 gas stove. 煤气灶 n 】`
@@ -183,13 +183,27 @@
 - `【 dishwasher 洗碗机 】`
 - `【 washer 洗衣机 】`
 -
-- `【 rice cooker 电饭锅 】` // -------------------- 【 raw rice. 生米 】 【 cooked rice. 熟米 】
 - `【 hair dryer 吹风机 】`
+- `【 vacuum cleaner. 吸尘器 】` // ---------------- 【 vacuum 真空 n 真空的 adj 】
+- `【 vent 排气扇n / 发泄v 】` // ------------------- 【 vent 发泄 v / 通风口 n 】 VS 【 vender 商贩 n 】 // 【 vent emotion. 发泄情绪 v 】
+- `【 mixer 搅拌机 】`
+- `【 coffee maker. 咖啡机 】` = coffee machine.
+- .HL **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
+-
+- `【 refrigerator 冰箱 】` // -------------------- fridge 也是冰箱的意思
+- `【 freezer 冷冻柜 冰柜  】` // ------------------ 冰箱下面的冷藏柜
+-
+- `【 rice cooker 电饭锅 】` // -------------------- 【 raw rice. 生米 】 【 cooked rice. 熟米 】
+- `【 electric kettle 电热水壶 】` // -------------- 【 a kettle of tea. 一壶茶 】
+- `【 air conditioner 空调  】`
 - `【 oven 烤箱 】`
-- `【 iron 熨斗 铁 n 】`
+- `【 iron 熨斗 铁 n 】` // ------------------------ 【 iron rust. 铁锈 】
 -
 - `【 remote control. 遥控 v 】`
 - `【 remote controller. 遥控器 n  】`
+-
+- // TIPS: Pay attention to the pronunciation of the word 'vacuum'. [vacuum-真空-真空的-n-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'stove'. [stove-炉子-n]
 
 ##### (4) **【 Cuisine 美食 饭菜 】**
 
@@ -202,6 +216,8 @@
 - _【 washer 洗衣机 】_
 - .MT **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有七道菜 】**
 - .MT **【 Seven 【 dishes 】 are enough to eat 【 for 】 a day. 七个菜足够吃一天了 】**
+-
+- `【 bamboo shoots. 竹笋 n 】`
 -
 - `【 chew 咀嚼 v 】`
 - `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
