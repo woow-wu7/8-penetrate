@@ -1134,7 +1134,7 @@ fill out. 填写
 - 【 membership 会员 】 VS 【 scholarship 奖学金 】 VS 【 internship 实习 实习期 】 VS 【 worship 崇拜 】 VS 【 warship 战舰 】 VS 【 relationship 关系 】
 - [Must 2024-09-08](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20240901.md)
 - .MT **【 I need to 【 top up / recharge 】 my 【 meal card 】, 【 bus card 】, 【 membership card 】. 我需要给我的饭卡，公交卡，会员卡充值 】**
-- .MT **【 I have a 【 points card / loyalty card 】 for the 【 supermarket 】. 我有这个超市的积分卡 】**
+- .MT **【 I have a 【 points card / loyalty card 】 【 for 】 the 【 supermarket 】. 我有这个超市的积分卡 】**
 - .HL **【 You need to 【 recharge / top up 】 the 【 membership card 】, then you will get the 【 points 】 by 【 swiping 】 the 【 membership card 】 when you 【 consume 】. 需要给会员卡充值，然后在消费时刷会员卡就能获得积分 】**
 -
 - [-PP.]23

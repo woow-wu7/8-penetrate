@@ -785,71 +785,199 @@ The 【 timetable 】 shows 【 departure time 】 and 【 arrival time 】 of �
 
 ```
 1
+I need to 【 top up / recharge 】 my 【 meal car 】, 【 bus card, 】 and 【 membership card 】.
 我需要给我的饭卡，公交卡，会员卡充值
 -
+I have a 【 points card 】 for the supermarket.
 我有这个超市的积分卡
 -
+I need to 【 top up / recharge 】 the 【 membership card 】, then you will get 【 points 】 by 【 swiping 】 membership card when you 【 consume 】.
 需要给会员卡充值，然后在消费时刷会员卡就能获得积分
+-
+// -
+// 【 top up. 充值 v 】
+// 【 recharge 充值 充电 v 】
+// -
+// points card. 积分卡
+// membership card. 会员卡
+// meal card. 饭卡
+// bus card. 公交卡
+// medical insurance card. 医保卡
+// -
+// swipe 刷卡 v
+// consume 消费 v
+// -
+// consumption 消费 n
+// consume 消费 v
 
 
 2
+We 【 take turns 】 【 working the day shift 】 and 【 working the night shift 】.
 我们轮流值白班和夜班
+-
+Glue is very useful for 【 sticking 】 things together.
+胶水对于把东西粘在一起非常有用
+// -
+// 【 take turns doing sth. 轮流做某事 v 】
+// -
+// work the day shift. 上白班 v
+// work the night shift. 上夜班 v
+// -
+// stick shift. 换挡杆
+// walking stick. 拐杖
+// selfie stick. 自拍杆
+// chopstick 筷子
+// a stick of incense. 一根香
+// -
+// 【 sticker 贴纸 n 】
+// 【 stick 粘贴v 棍子n 】
 
 
 3
+This 【 meal 】 has 【 a total of 】 seven 【 dishes 】.
 这一餐一共有七道菜
 -
+Seven 【 dishes 】 are enough to eat a day.
 七个菜足够吃一天了
+-
+// -
+// meal 一餐 正餐 n
+// dish 菜 餐具 一道菜
+// -
+// two dishes. 两道菜
+// -
+// a total of. 总共
 
 
 4
+【 Product innovation 】 【 requires 】 【 creativity 】.
 产品创新需要创造力
+// -
+// 【 product innovation. 产品创新 n 】
+// 【 creativity 创造力 n 】
 
 
 5
+A 【 healthy lifestyle 】 【 contributes to 】 a 【 long life 】.
 健康的生活方式有助于长寿
+// -
+// 【 health 健康 n 】
+// 【 healthy 将康的 adj 】
+// 【 healthy lifestyle. 健康的生活方式 n 】
+// -
+// 【 long life. 长寿 n 】
+// -
+// 【 contribute to. 有助于 】
 
 
 6
+You need to 【 work out 】 after 【 working overtime 】.
 加班后需要锻炼
+// -
+// work out. 锻炼 v
+// exercise 运动 v n
+// -
+// 【 work out. 锻炼 v 】
+// 【 work overtime. 加班 v 】
 
 
 7
+I have 【 an 】 【 intuition 】 that the 【 tuition fees 】 for 【 overseas students 】 are high.
 我有一种直觉，留学生的学费很高
 -
+We can only go with the 【 intuition 】.
 我们只能跟着直觉走
+-
+// -
+// intuition 直觉 n
+// tuition 学费 n
+// tutor 家庭教师  n
+// tutorial 教程 n
+// -
+// tuition fees. 学费 n
 
 
 8
 让我们下山
+Let's 【 head off 】 the 【 mountain 】.
 -
+Let's 【 head in 】 and  【 see  how it looks 】 inside.
 咱们进去看看里面是什么样子的
+-
+// 【 head off. 下山 v 】
+// 【 head in. 进入 v 】
 
 
 9
+We prepare to 【 rent 】 a 【 tent 】 to 【 camp 】 【 on 】 the 【 campus 】.
 我们准备租一个帐篷去校园里露营
+// -
+// 【 rent 租 v 】
+// 【 tent 帐篷 n 】
+// -
+// 【 camp 露营 v n 】
+// 【 campus 校园 】
+// -
+// 【 campus violence. 校园暴力 n 】
+// 【 on the campus. 在校园 】
+// -
+// rent 租 v
+// lease 租 租赁 v n
+// -
+// lease an apartment. 租公寓 v
+// sign a lease. 签租赁合同 v
 
 
 10
-他对我们很亲切
+He is really 【 sweet 】 to us.
+他对我们真的很好（很贴心）
 
 
 11
-假设你有 100 万人民币，你会用它来做什么？
+【 Suppose / assume 】 that you have the 【 two million 】 yuan, what would you do 【 with 】 it?
+假设你有 200 万人民币，你会用它来做什么？
 -
+I 【 suppose 】 he is right.
 我认为他是对的
 -
+I 【 suppose 】 that you should 【 support 】 his 【 idea / thinking / thought 】.
 我认为你应该支持他的想法
 -
+【 As long as 】 you 【 pursue happiness 】 you will get it, it's 【 an 】 【 assumption 】.
 只要你追求幸福就能获得幸福，是一种假设
+// -
+// suppose 假设 认为 v
+// assume 假设 v
+// assumption 假设 n
+// -
+// pursue happiness. 追求幸福 v
+// chase dream. 追逐梦想 v
 
 
 12
+I 【 ordered 】 【 a small portion of 】 【 takeout 】.
 我点了一份小份的外卖
+// -
+// portion 部分 一份 n
+// -
+// 【 port 港口 n 】
+// 【 portion 部分 一份  n 】
+// 【 part 部分 】
+// -
+// 【 small portion. 小份 】
+// -
+// takeout 外卖 n
+// order 订购 v
 
 
 13
-在靠近码头的这片水域里有许多野
+There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that 【 is close to 】 the 【 dock 】.
+在靠近码头的这片水域里有许多野鸭
+// -
+// 【 duck 鸭子 n 】
+// 【 dock 码头 n 】
+// -
+// a body of the water. 一片水域
 ```
 
 ##### 14 Make sentences 2025-01-14

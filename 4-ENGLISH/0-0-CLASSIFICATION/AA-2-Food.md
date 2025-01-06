@@ -39,7 +39,7 @@
 - _【 crispy 脆的 adj 】_
 - _【 greasy 油腻的 adj 】_
 - _【 bland 淡而无味的 adj 】_
-- > 【 aroma 香味 】
+- > 【 aroma 香味 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
 - // TIPS: Pay attention to the pronunciation of the word 'crispy'. [crispy-脆的-adj]
@@ -69,22 +69,27 @@
 - 2
 - `【 vinegar 醋 n 】`
 - `【 soy sauce. 酱油 n 】`
-- `【 salt 盐 n 】`
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
-- `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】
+- `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
 - `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
+- `【 salt 盐 n 】`
 - > 【 soy sauce. 酱油 n 】`
 - > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
+- _【 cooking wine. 料酒 n 】_
+- _【 rice wine. 米酒 n 】_
+- _【 rice cake. 年糕 n 】_
+- _【 raw rice. 生米 n 】_
+- _【 cooked rice. 熟饭 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
 -
 -
 - 3
+- `【 chili 辣椒 n 】`
+- `【 scallion 大葱 n 】`
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
 - `【 garlic 大蒜 n 】`
-- `【 scallion  大葱 n 】`
-- `【 chili 辣椒 n 】`
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'garlic'. [garlic-大蒜-n]
@@ -94,13 +99,16 @@
 - 4
 - `【 texture 口感 n 】`
 - `【 mouthfeel 口感 n 】`
+- > 【 appetizer 开胃菜 n 】
+- > 【 dessert 甜点 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]
 - **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
 - // --【 appetizer 开胃菜 】
 - // --【 dessert 甜点 】
 - AA.
 - `【 textbook 教科书 n 】`
 - `【 textile 纺织品 n 】`
-- `【 texture 口感 n 】`
+- `【 texture 口感 n 】` = mouthfeel
 - `【 text message. 短信 n 】`
 - .MT **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
 -
@@ -205,7 +213,7 @@
 - _【 wild grass. 野草 】_
 - .MT **【 The 【 meal 】 has 【 a total of 】 seven 【 dishes 】. 这一餐一共有七道菜 】**
 - .MT **【 Seven 【 dishes 】 are enough to eat 【 for 】 a day. 七个菜足够吃一天了 】**
-- .HL **【 There are many 【 ducks 】 【 in 】 【 the body of the water 】 that is close to the 【 dock 】. 在靠近码头的这片水域里有许多野 】**
+- .HL **【 There are many 【 wild ducks 】 【 in 】 【 the body of the water 】 that is close to the 【 dock 】. 在靠近码头的这片水域里有许多野鸭 】**
 -
 -
 - 2

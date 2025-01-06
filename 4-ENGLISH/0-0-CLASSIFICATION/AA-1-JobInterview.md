@@ -143,9 +143,10 @@
 - `【 work overtime 加班 】`
 - `【 mandatory overtime. 强制加班 】`
 - `【 overtime pay. 加班费 】`
-- `【 work out. = exercise 锻炼  v 】`
+- `【 work out. = exercise 锻炼  v 】` // ---------- 【 work out. 锻炼 v 】 = 【 exercise. 锻炼 v n 】
 - > 【 make an effort. 努力 v 】
 - > 【 make a decision. 做决定 v 】
+- _【 work out. 锻炼 = exercise 】_
 - .MT **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
 - // -- 【 resist 抵抗 抵制 v / 防腐剂 n 】
 - // -- 【 resist in doing sth. 抵制做某事 v 】

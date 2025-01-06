@@ -37,7 +37,7 @@
 -
 -
 - 2
-- `【 suppose 认为 假设 v 】`
+- `【 suppose 假设 认为 v 】`
 - `【 assume 假设 假定 v 】` // ------------------ 【 assume assumption 】
 - `【 assumption 假设 假定 n 】` // -------------- 【 assumption 假设 n 】VS 【 consumption 消费 n 】 VS 【 prescription 处方 n 】VS 【 encryption 加密 n 】
 - > assume VS pursue

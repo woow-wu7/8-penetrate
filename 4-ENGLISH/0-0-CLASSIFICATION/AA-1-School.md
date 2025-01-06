@@ -132,7 +132,7 @@
 - > 【 intuition 直觉 n 】
 - 【 tuition fee. 学费 n 】 // ---------------------- 【 tuition VS tutor VS tutorial 】
 - 【 handling fee. 手续费 n 】
-- .MT **【 I have 【 an 】 【 intuition 】 that the 【 tuition fees 】 for 【 overseas students / international students 】 are hight. 我有一种直觉，留学生的学费很高 】**
+- .MT **【 I have 【 an 】 【 intuition 】 that the 【 tuition fees 】 for 【 overseas students / international students 】 are high. 我有一种直觉，留学生的学费很高 】**
 - .HL **【 We can only go 【 with 】 【 intuition 】. 我们只能跟着直觉走 】**
 - CC.
 - _【 go abroad. 出国 】_
