@@ -90,7 +90,7 @@
 -
 - 2
 - `【 vinegar 醋 n 】`
-- `【 soy sauce. 酱油 n 】`
+- `【 soy sauce. 酱油 n 】` // --------------------- 【 source 酱 调味汁 n 】
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
 - `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
@@ -169,7 +169,7 @@
 
 ##### (2) **【 Tool 工具 】**
 
-- 2
+- 1
 - [tool]
 - `【 chopsticks 筷子 n 】` // --------------------- 【 lipstick 口红 唇膏 n 】 【 selfie sick. 自拍杆 】 【 walking stick. 拐杖 】 // 【 stick shift. 】 【 sticker 】
 - `【 spoon 勺子 n 】` // -------------------------- 【 a spoonful of sugar/salt. 一勺糖/盐 】
@@ -227,7 +227,26 @@
 - `【 steel 钢 钢铁 】`
 - `【 stainless steel 不锈钢 】` // ----------------- 【 stainless 不生锈的 adj 】
 - `【 rust 锈n / 生锈 v 】` // ---------------------- 【 iron rust. 铁锈 n 】
-- **【 这个熨斗是铁做的 】**
+- **【 The 【 iron 】 【 is made of 】 【 iron 】. 这个熨斗是铁做的 】**
+- // -- be made of. 由...制成 ------ 可以看到原材料
+- // -- be made from. 由...制成 ----- 看不出原材料
+-
+-
+-
+-
+-
+- 2
+- [chore]
+- `【 chore 家务活 n 】` // ------------------------- 【 daily chore. 日常家务 n 】
+- `【 daily chore. 日常家务 】`
+- `【 housework 家务 】`
+-
+- `【 put away. 整理 放好 v 】`
+- `【 sweep 打扫 v 】` // --------------------------- 【 sweep 打扫 v 】 VS 【 swipe 刷卡 v 】
+- `【 broom 扫把 n 】` // --------------------------- 【 broom 扫把 n 】VS 【 mushroom 蘑菇 n 】 VS 【 groom 新郎 n 】
+- `【 mop 拖把n / 拖地 v 】`
+-
+- **【 Please 【 put away 】 the 【 toys 】 before you go to bed. 睡觉前请把玩具整理好 】**
 
 ##### (3) **【 Cook 做饭 】**
 
@@ -328,6 +347,7 @@ cut into. 切成(几块)
 
 - 3
 - [household-appliance]
+- `【 household 家庭n  / 家庭的 adj 】`
 - `【 household appliance. 家用电器 n 】` // ---------- 【 household 家庭 n 家庭的 adj 】 // 【 appliance 电器 器具 n 】 VS 【 application 应用 申请 n 】
 - `【 kitchen items. 厨房用品 n 】`
 - `【 kitchen supplies. 厨房用品 n 】`

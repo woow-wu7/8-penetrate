@@ -1103,3 +1103,18 @@ There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that
 -
 吃了麻辣口味的食物，你的舌头会变得很麻木
 ```
+
+##### 16 Make sentences 2025-01-16
+
+```
+1
+国际组织有很强的组织能力
+
+
+2
+睡觉前请把玩具整理好
+
+
+3
+这个熨斗是铁做的
+```
