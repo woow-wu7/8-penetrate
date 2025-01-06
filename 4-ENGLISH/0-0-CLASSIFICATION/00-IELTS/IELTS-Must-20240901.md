@@ -176,7 +176,7 @@
 - _【 the idol of worship. 崇拜的偶像 】_
 - > 【 ship 船 n 】
 - > 【 pirate ship. 海盗船 】
-- > 【 pirate flag. 海盗旗 】 // ------------- 【 pirate. 海盗 n 】
+- > 【 pirate flag. 海盗旗 】 // -------------- 【 pirate. 海盗 n 】
 - > 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national assets. 国有资产 】 【 National Day. 国庆节 】 // **【 national territory. 国家领土 】**
 - _【 navy 海军 n 】_
 - _【 envy 羡慕 嫉妒 v 】_
@@ -184,12 +184,17 @@
 - > 【 worship 崇拜 v n 】 // --------------- 【 worship idol. 崇拜偶像 】 【 greatly worship. 非常崇拜 】
 - > 【 admire 钦佩 欣赏 赞赏 v 】
 -
-- `【 membership 会员 n 】` // ------------ 【 membership card. 会员卡 】
-- > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
-- > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
+- `【 membership 会员 n 】` // ---------------- 【 membership card. 会员卡 】
+- > 【 membership card. 会员卡 】 // ---------- 【 membership 会员 n 】
+- > 【 points card. 积分卡 = loyalty card. 】 //【 points. 积分 n 】
 - > 【 meal card. 饭卡 】= food card.
 - > 【 medical insurance card. 医保卡 】
 - _【 swipe card. 刷卡 】_
+- .MT **【 I need to 【 top up / recharge 】 my 【 meal card 】, 【 bus card 】, 【 membership card 】. 我需要给我的饭卡，公交卡，会员卡充值 】**
+-
+- `【 hardship 艰辛 n 】`
+- .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of the farmers. 每个人都应该体验农民的艰辛 】**
+- // -- experience 经验 体验 v n
 -
 - `【 relationship 关系 n 】` // --------- 【 stable relationship. 稳定的关系 】 【 cooperative relationship. 合作关系 】 // 【 physical relationship. 肉体关系 】
 - `【 ownership 所有权 n 】` // ------------【 a sense of ownership. 主人翁意识 n 】 【 common sense. 常识 】 // 【 sense 感觉 感应 感到 v n 】

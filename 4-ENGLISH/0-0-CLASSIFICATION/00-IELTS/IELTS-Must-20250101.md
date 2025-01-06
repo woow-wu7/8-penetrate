@@ -158,3 +158,14 @@
 - `【 textile 纺织品 n 】`
 - `【 text message. 短信 n 】`
 - **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
+
+###### Must 2025-01-07
+
+- 1
+- `【 rice 大米 n 】`
+- > 【 crispy rice. 锅巴 n 】
+- > 【 raw rice. 生米 n 】
+- > 【 cooked rice. 熟饭 n 】
+- _【 rice cake. 年糕 n 】_
+- _【 rice wine. 米酒 n 】_
+- _【 cooking rice. 料酒 n 】_

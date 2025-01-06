@@ -25,7 +25,9 @@
 - _【 extremely difficult. 及其困难 】_
 - _【 extremely rare. 及其罕见 】_
 - .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣，中辣，特辣对重庆市场来说及其重要 】**
-- AA.
+- .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
+-
+- [1-1].
 - `【 flavour 味道 口味 n 】`
 - `【 tasty 美味的 adj 】` // -------------------- 【 taste 尝 v / 味道 n 】 VS 【 tasty 美味的 adj 】
 - `【 delicious 美味的 adj 】`
@@ -34,24 +36,40 @@
 - > 【 bitter 苦的 adj 】
 - > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】 【 slightly spicy. 微辣 】 【 medium spicy. 】
 - > 【 salty 咸的 adj 】
-- > 【 numb 麻木的 adj 】
 - > 【 fishy 腥味的 adj 】
-- _【 crispy 脆的 adj 】_
-- _【 greasy 油腻的 adj 】_
+- > 【 numb 麻木的 adj 】
+-
+- [1-2].
+- _【 crispy 脆的 adj 】_ // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
+- _【 greasy 油腻的 adj 】_ // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
 - _【 bland 淡而无味的 adj 】_
-- > 【 aroma 香味 n 】
+- > 【 crispy rice. 锅巴 】
+- > 【 crispy texture. 脆脆的口感 】
+- _【 greasy skin. 油性皮肤 n 】_
+- _【 greasy hair. 油性头发 n 】_
+- .MT **【 The 【 crispy rice 】 has a 【 crispy texture 】. 这个锅巴有脆脆的口感 】**
+- .MT **【 Most people 【 with 】 【 greasy skin 】 have 【 greasy hair 】 【 as well 】. 大多数油性皮肤的人也有油性头发 】**
+-
+- [1-3].
+- _【 aroma 香味 n 】_ // --------------------- 【 release an aroma. 散发香味 v 】
+- > 【 release an aroma. 散发香味 v 】
+- .HL **【 The 【 spicy and numbing hot pot 】 【 releases an aroma 】. 这个麻辣火锅散发着香味 】**
+-
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
 - // TIPS: Pay attention to the pronunciation of the word 'crispy'. [crispy-脆的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'greasy'. [greasy-油腻的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'aroma'. [aroma-香味-n]
+-
 - 1 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
-- 2 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】 and 【 salty 】. 人生有酸甜苦辣咸各种体验 】**
+- 2 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】, 【 salty 】, 【 fishy 】. 人生有酸甜苦辣咸腥各种体验 】**
 - // -- 【 experience 经验 体验 v n 】
 - // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
-- BB.
+- AA.
 - `【 spicy and numbing hot pot. 麻辣火锅 n 】`
 - `【 spicy and numbing flavour. 麻辣口味 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
-- CC.
+- BB.
 - _【 numb 麻木的 adj 】_ VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
 - _【 tomb 坟墓 n 】_
 - _【 womb 子宫 n 】_ // -------------------------- 【 fetus 胎儿 n 】
@@ -59,11 +77,15 @@
 - // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb-坟墓-n]
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb-子宫-n]
 - // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
-- .MT **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 became a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
-- DD.
+- .MT **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 【 became 】 a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
+- CC.
 - `【 experience 经验 体验 v n 】`
-- .MT **【 Everyone should 【 experience 】 life 【 to the fullest 】. 每个人都应该尽情地体验生活 】**
+- .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
+- // -- 【 hardship 艰辛 n 】
+-
+-
+-
 -
 -
 - 2
@@ -72,13 +94,17 @@
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
 - `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
-- `【 salt 盐 n 】`
+- `【 rice cake. 年糕 n 】`
+- `【 crispy rice. 锅巴 n 】`
+- `【 raw rice. 生米 n 】`
+- `【 cooked rice. 熟饭 n 】`
 - > 【 soy sauce. 酱油 n 】`
 - > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
 - _【 cooking wine. 料酒 n 】_
 - _【 rice wine. 米酒 n 】_
 - _【 rice cake. 年糕 n 】_
+- _【 crispy rice. 锅巴 n 】_
 - _【 raw rice. 生米 n 】_
 - _【 cooked rice. 熟饭 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
@@ -119,6 +145,7 @@
 - _【 raw material. 原材料 n 】_
 - _【 raw rice. 生米 n = uncooked rice. 】_
 - _【 cooked rice. 熟饭 n 】_
+- _【 crispy rice. 锅巴 n 】_
 - _【 rice cake. 年糕 n 】_
 - _【 rice wine. 米酒 】_
 - BB.
@@ -144,7 +171,7 @@
 
 - 2
 - [tool]
-- `【 chopsticks 筷子 n 】`
+- `【 chopsticks 筷子 n 】` // --------------------- 【 lipstick 口红 唇膏 n 】 【 selfie sick. 自拍杆 】 【 walking stick. 拐杖 】 // 【 stick shift. 】 【 sticker 】
 - `【 spoon 勺子 n 】` // -------------------------- 【 a spoonful of sugar/salt. 一勺糖/盐 】
 - `【 fork 叉子 n 】`
 - `【 soup 汤 n 】`
@@ -154,7 +181,7 @@
 - `【 bowl 碗 n 】` // ----------------------------- 【 a bowl of water. 一碗水 】
 -
 - `【 peeler 削皮器 剥皮机 n 】` // -------------------【 peel 剥 脱皮 v 】
-- `【 chopping board. 切菜板 n 】` // ----------------【 chop 切碎 砍 剁 v 】`
+- `【 chopping board. 切菜板 n 】` // ----------------【 chop 切碎 砍 剁 v 】 // blackboard VS cupboard VS billboard VS keyboard VS skateboard VS boarding pass.
 - `【 cutting board. 切菜板 n 】`
 -
 - `【 stir 搅拌 v 】`
@@ -162,6 +189,8 @@
 - `【 chop 剁 切碎 v 】` // ------------------------- 【 chop up. 切碎 v 】 // 【 chopping board. 切菜板 】
 - > 【 chop up. 切碎 v 】
 - > 【 chopping board. 切菜板 】 = 【 cutting board. 切菜板 n 】
+-
+- AA.
 - _【 cupboard 衣柜 橱柜 n 】_
 - _【 billboard 广告牌 n 】_ // ---------------------- 【 advertise 做广告 v 】 VS 【 advertisement 广告 n 】 VS 【 billboard 广告牌 n 】
 - _【 blackboard 黑板 n 】_
@@ -173,16 +202,18 @@
 - .MT **【 【 Peel 】 it first, then 【 chop it up 】, finally 【 stir 】 it. 先把剥掉它的皮，然后切碎，最后搅拌 】**
 - .HL **【 There are 【 chopping boards 】, 【 billboards 】, 【 skateboards 】, and 【 boarding passes 】 in the 【 cupboard 】. 橱柜里放着切菜板，广告牌，滑板和登机牌 】**
 -
-- AA.
-- `【 stick 棍 n / 粘贴 v 】`------------------------ 【 walking stick. 拐杖 n 】 【 selfie stick. 自拍杆 n 】 【 chopstick 筷子 】 // 【 stick shift. 换挡杆 】
-- `【 sticky 粘性的 adj 】`-------------------------- 【 sticky note. 便签 n 】 【 make note. 做笔记 】
-- _【 a stick of incense. 一根香 】_
+- BB.
+- `【 stick 棍 n / 粘贴 v 】`----------------------- 【 walking stick. 拐杖 】 【 selfie stick. 自拍杆 】 【 lipstick. 口供 】 【 chopstick 筷子 】 // 【 stick shift. 】
+- `【 sticky 粘性的 adj 】`------------------------- 【 sticky note. 便签 n 】 【 make note. 做笔记 】
+- `【 sticker 贴纸 便签 n 】` // ------------------- `【 sticker 贴纸 便签 n 】 VS 【 sticky note. 便签 n 】`
+- _【 a stick of incense. 一根香 】_ // ----------- _【 incense 香 n 】VS 【 license 许可证 n 】_
 - > 【 chopsticks. 筷子 】
 - > 【 lipstick. 口红 唇膏 】 // --------------------- 【 lip print. 唇印 】 VS 【 lipstick 口红 唇膏 】
 - > 【 walking stick. 拐杖 n 】
 - > 【 selfie stick. 自拍杆 n 】 // ----------------- 【 take a selfie. 自拍 v 】
 - > 【 stick shift. 换挡杆 】
-- BB.
+-
+- CC.
 - `【 shift 换挡 转移 v 】`
 - _【 stick shift. 换挡杆 】_
 - _【 day shift. 白班 】_ // ----------------------- 【 work the day shift. 值白班 】
@@ -190,11 +221,13 @@
 - _【 on duty. 值班 】_
 - _【 take turns doing sth. 轮流做某事 】_ // ------- 【 take turns doing sth. 轮流做某事 】 // 【 take turns working the day shift. 轮流值白班 】
 - .MT **【 We 【 take turns 】 【 working day shift 】 and 【 working night shift 】. 我们轮流值白班和夜班 】**
-- CC.
+-
+- DD.
 - `【 iron 铁 熨斗 n 】` // ------------------------- 【 iron rust. 铁锈 n 】
 - `【 steel 钢 钢铁 】`
 - `【 stainless steel 不锈钢 】` // ----------------- 【 stainless 不生锈的 adj 】
 - `【 rust 锈n / 生锈 v 】` // ---------------------- 【 iron rust. 铁锈 n 】
+- **【 这个熨斗是铁做的 】**
 
 ##### (3) **【 Cook 做饭 】**
 
