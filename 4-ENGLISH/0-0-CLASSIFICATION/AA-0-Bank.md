@@ -190,6 +190,7 @@
 - `【 checking account. 支票账户 】`
 - > 【 account 账户 】`
 - > 【 accountant 会计 会计师 】`
+- _【 checkout counter. 收银台 n 】_
 - > 【 county / country / countryside / count / discount / counter / encounter ~ suffer / account / accountant 】
 - .MT **【 There are 【 two kinds of accounts 】: 【 savings account 】and【 checking account 】**
 - .MT **【 savings account 】 is for savings, you can 【 deposit your money 】 and 【 earn interest 】. 你可以【存钱】和【赚取利息】**

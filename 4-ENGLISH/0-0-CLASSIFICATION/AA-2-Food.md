@@ -27,7 +27,7 @@
 - .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣，中辣，特辣对重庆市场来说及其重要 】**
 - .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
 -
-- [1-1].
+- 1.1
 - `【 flavour 味道 口味 n 】`
 - `【 tasty 美味的 adj 】` // -------------------- 【 taste 尝 v / 味道 n 】 VS 【 tasty 美味的 adj 】
 - `【 delicious 美味的 adj 】`
@@ -39,7 +39,7 @@
 - > 【 fishy 腥味的 adj 】
 - > 【 numb 麻木的 adj 】
 -
-- [1-2].
+- 1.2
 - _【 crispy 脆的 adj 】_ // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
 - _【 greasy 油腻的 adj 】_ // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
 - _【 bland 淡而无味的 adj 】_
@@ -50,7 +50,7 @@
 - .MT **【 The 【 crispy rice 】 has a 【 crispy texture 】. 这个锅巴有脆脆的口感 】**
 - .MT **【 Most people 【 with 】 【 greasy skin 】 have 【 greasy hair 】 【 as well 】. 大多数油性皮肤的人也有油性头发 】**
 -
-- [1-3].
+- 1.3
 - _【 aroma 香味 n 】_ // --------------------- 【 release an aroma. 散发香味 v 】
 - > 【 release an aroma. 散发香味 v 】
 - .HL **【 The 【 spicy and numbing hot pot 】 【 releases an aroma 】. 这个麻辣火锅散发着香味 】**
@@ -92,6 +92,7 @@
 - `【 vinegar 醋 n 】`
 - `【 soy sauce. 酱油 n 】` // --------------------- 【 source 酱 调味汁 n 】
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
+- `【 peanut butter. 花生酱 】`
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
 - `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
 - `【 rice cake. 年糕 n 】`
@@ -110,16 +111,23 @@
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
 -
 -
+-
 - 3
 - `【 chili 辣椒 n 】`
 - `【 scallion 大葱 n 】`
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
-- `【 garlic 大蒜 n 】`
+- `【 garlic 大蒜 n 】` // -------------------------- 【 garlic 大蒜 n 】 VS 【 organic 有机的 adj 】
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
+- > 【 garlic 大蒜 n 】
+- > 【 organic 有机的 adj 】
+- _【 organic food. 有机食品 n 】_
+- _【 organic fertilizer. 有机肥料 n 】_
+- _【 chemical fertilizer. 化肥 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'garlic'. [garlic-大蒜-n]
 - // TIPS: Pay attention to the pronunciation of the word 'scallion'. [scallion-大葱-n]
+-
 -
 -
 - 4
@@ -127,16 +135,17 @@
 - `【 mouthfeel 口感 n 】`
 - > 【 appetizer 开胃菜 n 】
 - > 【 dessert 甜点 n 】
-- // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]
 - **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
+- // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]
 - // --【 appetizer 开胃菜 】
 - // --【 dessert 甜点 】
-- AA.
+- 4.1
 - `【 textbook 教科书 n 】`
 - `【 textile 纺织品 n 】`
 - `【 texture 口感 n 】` = mouthfeel
 - `【 text message. 短信 n 】`
 - .MT **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
+-
 -
 - AA.
 - `【 material 材料 n 】`
@@ -271,6 +280,7 @@
 - > 【 carrot 胡萝卜 】
 - _【 dishwasher. 洗碗机 】_ // --------------------- 【 dishwasher 洗碗机 】 VS 【 wash the dishes. 清洗餐具 】
 - _【 washer 洗衣机 】_
+- _【 washing powder. 洗衣粉 】_ // ----------------- 【 gunpowder 火药 n 】
 - // 【 wash the dishes. 洗碗 洗餐具 v 】
 - .HL **【 I 【 wash 】 the 【 dishes 】 【 with 】 a 【 dishwasher 】. 我用洗碗机洗餐具 】**
 -
@@ -315,6 +325,7 @@
 - `【 cooked rice. 熟饭 】`
 -
 - `【 taro 芋头 n 】`
+- `【 avocado 牛油果 n 】`
 -
 - `【 chew 咀嚼 v 】`
 - `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
@@ -331,6 +342,7 @@
 - `【 peanut 花生 】`
 - `【 walnut 核桃 】`
 - `【 nut 坚果 】`
+- > 【 shell 外壳 n 】
 -
 -
 -

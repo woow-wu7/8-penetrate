@@ -1122,3 +1122,16 @@ There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that
 4
 我用洗碗机洗餐具
 ```
+
+##### 16 Make sentences 2025-01-16
+
+```
+1
+很高兴地通知你，你可以注册商标了
+
+
+2
+睡觉前请把玩具整理好
+-
+由于暴风雪，他们决定将会议推迟到下周
+```

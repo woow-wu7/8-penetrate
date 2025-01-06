@@ -174,6 +174,8 @@
 - > 【 hand in hand. 手牵手 】
 - > 【 shake hand. 握手 】
 - > 【 wave hand. 挥手 】
+- `【 handy 方便的 adj 】`
+- `【 handmade 手工的 adj 】`
 - **【 Both 【 pistols 】 and 【 hand grenades 】 are 【 weapons 】. 手枪和手榴弹都是武器 】**
 -
 - [scope-范围-瞄准镜-n] // ------------- [attach-the-scope.装上瞄准镜]
