@@ -169,3 +169,19 @@
 - _【 rice cake. 年糕 n 】_
 - _【 rice wine. 米酒 n 】_
 - _【 cooking rice. 料酒 n 】_
+
+###### Must 2025-01-08
+
+- 1
+- `【 groom 新郎 n 】` // ------------------------- 【 bridegroom 新郎 】
+- `【 broom 扫把 n 】`
+- `【 mushroom 蘑菇 n 】`
+- > 【 groom 新郎 n 】
+- > 【 bridegroom 新郎 n 】
+- > 【 bride 新娘 n 】
+-
+- `【 restroom 洗手间 公共厕所 n 】`
+- `【 bathroom 浴室 厕所 n 】`
+- `【 bedroom 卧室 n 】`
+- `【 living room. 客厅 n 】`
+- `【 delivery room. 产房 】`

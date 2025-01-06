@@ -242,9 +242,22 @@
 - `【 housework 家务 】`
 -
 - `【 put away. 整理 放好 v 】`
-- `【 sweep 打扫 v 】` // --------------------------- 【 sweep 打扫 v 】 VS 【 swipe 刷卡 v 】
+- `【 sweep 打扫 v 】` // --------------------------- 【 sweep 打扫 v 】 VS 【 wipe 擦 抹 v 】 VS【 swipe 刷卡 v 】
 - `【 broom 扫把 n 】` // --------------------------- 【 broom 扫把 n 】VS 【 mushroom 蘑菇 n 】 VS 【 groom 新郎 n 】
 - `【 mop 拖把n / 拖地 v 】`
+- `【 dust 灰尘 n 】`
+- `【 dirt 污物 灰尘 n 】` // ------------------------ 【 dirt 污物 灰尘 n 】 VS 【 dirty 脏的 肮脏的 adj 】
+- `【 dirty 脏的 肮脏的 adj 】`
+- > 【 sweep 打扫 清扫 v 】 // ----------------------- 【 sweep the room. 打扫房间 v 】
+- > 【 wipe 擦 摸 v 】
+- > 【 swipe 刷卡 v 】
+-
+- `【 polish 磨光 n 】`
+- `【 shiny 有光泽的 adj 】`
+-
+-
+- `【 cloth 布料 n 】`
+- `【 clothes 衣服 n 】`
 -
 - **【 Please 【 put away 】 the 【 toys 】 before you go to bed. 睡觉前请把玩具整理好 】**
 
@@ -256,8 +269,11 @@
 - > 【 dish 菜 一道菜 餐具 n 】 // ------------------- 【 two dishes. 两道菜 n 】
 - > 【 radish 萝卜 n 】
 - > 【 carrot 胡萝卜 】
-- _【 dishwasher. 洗碗机 】_
+- _【 dishwasher. 洗碗机 】_ // --------------------- 【 dishwasher 洗碗机 】 VS 【 wash the dishes. 清洗餐具 】
 - _【 washer 洗衣机 】_
+- // 【 wash the dishes. 洗碗 洗餐具 v 】
+- .HL **【 I 【 wash 】 the 【 dishes 】 【 with 】 a 【 dishwasher 】. 我用洗碗机洗餐具 】**
+-
 - AA.
 - duck 鸭子 VS dock 码头
 - _【 peking duck. 北京烤鸭 n 】_
@@ -268,6 +284,8 @@
 - .HL **【 There are many 【 wild ducks 】 【 in 】 【 the body of the water 】 that is close to the 【 dock 】. 在靠近码头的这片水域里有许多野鸭 】**
 -
 -
+-
+-
 - 2
 - `【 portion 部分 一份 n 】`
 - `【 port 港口 n 】`
@@ -275,6 +293,7 @@
 - > 【 small portion. 小份 】
 - > 【 large portion. 大份 】
 - .MT **【 I 【 ordered 】 a 【 small portion 】 of 【 takeout 】. 我点了一份小份的外卖 】**
+-
 -
 -
 - 3

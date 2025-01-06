@@ -1117,4 +1117,8 @@ There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that
 
 3
 这个熨斗是铁做的
+
+
+4
+我用洗碗机洗餐具
 ```
