@@ -159,6 +159,12 @@
 - `【 campus violence. 校园暴力 】`
 - `【 institution 机构 制度 n 】` // -------------------- 【 educational institution. 教育机构 n 】
 - `【 educational institution. 教育机构 n 】`
+- -AA.
+- `【 texture 口感 纹理 n 】`
+- `【 textbook 教科书 n 】`
+- `【 textile 纺织品 n 】`
+- `【 text message. 短信 n 】`
+- **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
 - AA.
 - > 【 handling fee. 手续费 n 】
 - > 【 tuition fee. 学费 n 】

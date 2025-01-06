@@ -149,3 +149,12 @@
 - // -- device 设备 装置 n
 - // -- equipment 设备 n
 - // -- gage 表 n
+
+###### Must 2025-01-06
+
+- 1
+- `【 texture 口感 纹理 n 】`
+- `【 textbook 教科书 n 】`
+- `【 textile 纺织品 n 】`
+- `【 text message. 短信 n 】`
+- **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**

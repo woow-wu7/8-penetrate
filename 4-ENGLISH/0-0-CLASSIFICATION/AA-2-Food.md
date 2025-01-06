@@ -39,6 +39,7 @@
 - _【 crispy 脆的 adj 】_
 - _【 greasy 油腻的 adj 】_
 - _【 bland 淡而无味的 adj 】_
+- > 【 aroma 香味 】
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
 - // TIPS: Pay attention to the pronunciation of the word 'crispy'. [crispy-脆的-adj]
@@ -65,6 +66,7 @@
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
 -
 -
+- 2
 - `【 vinegar 醋 n 】`
 - `【 soy sauce. 酱油 n 】`
 - `【 salt 盐 n 】`
@@ -77,6 +79,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
 -
 -
+- 3
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
 - `【 garlic 大蒜 n 】`
@@ -86,6 +89,20 @@
 - `【 pepper 胡椒 甜椒 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'garlic'. [garlic-大蒜-n]
 - // TIPS: Pay attention to the pronunciation of the word 'scallion'. [scallion-大葱-n]
+-
+-
+- 4
+- `【 texture 口感 n 】`
+- `【 mouthfeel 口感 n 】`
+- **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
+- // --【 appetizer 开胃菜 】
+- // --【 dessert 甜点 】
+- AA.
+- `【 textbook 教科书 n 】`
+- `【 textile 纺织品 n 】`
+- `【 texture 口感 n 】`
+- `【 text message. 短信 n 】`
+- .MT **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
 -
 - AA.
 - `【 material 材料 n 】`
@@ -191,7 +208,6 @@
 - .HL **【 There are many 【 ducks 】 【 in 】 【 the body of the water 】 that is close to the 【 dock 】. 在靠近码头的这片水域里有许多野 】**
 -
 -
--
 - 2
 - `【 portion 部分 一份 n 】`
 - `【 port 港口 n 】`
@@ -199,6 +215,11 @@
 - > 【 small portion. 小份 】
 - > 【 large portion. 大份 】
 - .MT **【 I 【 ordered 】 a 【 small portion 】 of 【 takeout 】. 我点了一份小份的外卖 】**
+-
+-
+- 3
+- `【 appetizer 开胃菜 】`
+- `【 dessert 甜点 】`
 
 ##### (4) **【 Plant - Cuisine 美食 饭菜 】**
 
