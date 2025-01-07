@@ -10,9 +10,9 @@
 - > 【 slightly spicy. 微辣 n 】 // -------------- slight 轻微的 adj
 - > 【 medium spicy. 中辣 n 】 // ---------------- medium 中等的 adj / 介质 媒介 n
 - > 【 extremely spicy. 特辣 n 】 // ------------- extreme 极端的 adj
-- > 【 spicy and numbing flavour. 麻辣口味 n 】
+- > 【 spicy and numbing flavour. 麻辣口味 n 】 // 【 flavour 风味 口味 】 【 taste 味道 n 品尝 v 】
 - > 【 spicy and numbing hot pot. 麻辣火锅 n 】 // 【 hot pot. 火锅 】
-- 【 media 媒体 】 VS 【 medium 介质 媒介 n / 中等的 adj 】
+- 【 media 媒体 】 VS 【 medium 介质 媒介 n / 中等的 adj 】 // 【 propagate sound. 传播声音 v 】
 - 【 hot pot. 火锅 n 】 VS 【 tea pot 茶壶 】
 - _【 medium size. 中等尺寸 】_
 - _【 medium income. 中等收入 】_
@@ -24,8 +24,13 @@
 - _【 extremely important. 及其重要 】_
 - _【 extremely difficult. 及其困难 】_
 - _【 extremely rare. 及其罕见 】_
-- .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣，中辣，特辣对重庆市场来说及其重要 】**
-- .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
+- aroma .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
+- medium .HL **【 The 【 propagation 】 of a 【 sound 】 【 requires 】 a 【 medium 】. 声音的传播需要介质 】**
+- spicy .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣中辣特辣对重庆市场及其要 】**
+- // -- 【 propagate 传播 繁殖 v 】
+- // -- 【 propagate sound. 传播声音 v 】
+- // -- propagation 传播 n
+- // -- propagate 传播 v
 -
 - 1.1
 - `【 flavour 味道 口味 n 】`
@@ -40,9 +45,9 @@
 - > 【 numb 麻木的 adj 】
 -
 - 1.2
-- _【 crispy 脆的 adj 】_ // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
-- _【 greasy 油腻的 adj 】_ // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
-- _【 bland 淡而无味的 adj 】_
+- `【 crispy 脆的 adj 】` // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
+- `【 greasy 油腻的 adj 】` // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
+- `【 bland 淡而无味的 adj 】_`
 - > 【 crispy rice. 锅巴 】
 - > 【 crispy texture. 脆脆的口感 】
 - _【 greasy skin. 油性皮肤 n 】_
@@ -51,7 +56,7 @@
 - .MT **【 Most people 【 with 】 【 greasy skin 】 have 【 greasy hair 】 【 as well 】. 大多数油性皮肤的人也有油性头发 】**
 -
 - 1.3
-- _【 aroma 香味 n 】_ // --------------------- 【 release an aroma. 散发香味 v 】
+- `【 aroma 香味 n 】` // --------------------- 【 release an aroma. 散发香味 v 】
 - > 【 release an aroma. 散发香味 v 】
 - .HL **【 The 【 spicy and numbing hot pot 】 【 releases an aroma 】. 这个麻辣火锅散发着香味 】**
 -
@@ -65,24 +70,27 @@
 - 2 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】, 【 salty 】, 【 fishy 】. 人生有酸甜苦辣咸腥各种体验 】**
 - // -- 【 experience 经验 体验 v n 】
 - // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
+-
 - AA.
-- `【 spicy and numbing hot pot. 麻辣火锅 n 】`
-- `【 spicy and numbing flavour. 麻辣口味 n 】`
-- // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
-- BB.
-- _【 numb 麻木的 adj 】_ VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
-- _【 tomb 坟墓 n 】_
-- _【 womb 子宫 n 】_ // -------------------------- 【 fetus 胎儿 n 】
-- _【 bomb 炸弹 n 】_ // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】 // 【 nuclear weapon. 核武器 】 【 atom bullet. 原子弹 】
+- `【 numb 麻木的 adj 】` VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
+- `【 tomb 坟墓 n 】`
+- `【 womb 子宫 n 】` // -------------------------- 【 fetus 胎儿 n 】
+- `【 bomb 炸弹 n 】` // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】 // 【 nuclear weapon. 核武器 】 【 atom bullet. 原子弹 】
 - // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb-坟墓-n]
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb-子宫-n]
 - // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
 - .MT **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 【 became 】 a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
-- CC.
+-
+- BB.
 - `【 experience 经验 体验 v n 】`
 - .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
 - // -- 【 hardship 艰辛 n 】
+-
+- CC.
+- `【 spicy and numbing hot pot. 麻辣火锅 n 】`
+- `【 spicy and numbing flavour. 麻辣口味 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 -
 -
 -
@@ -90,7 +98,7 @@
 -
 - 2
 - `【 vinegar 醋 n 】`
-- `【 soy sauce. 酱油 n 】` // --------------------- 【 source 酱 调味汁 n 】
+- `【 soy sauce. 酱油 n 】` // --------------------- 【 dipping sauce. 蘸酱 】 【 tomato sauce. 番茄酱 】 // 【 source 酱 调味汁 n 】
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
 - `【 peanut butter. 花生酱 】`
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
@@ -117,7 +125,7 @@
 - `【 scallion 大葱 n 】`
 - `【 onion 洋葱 n 】`
 - `【 ginger 姜 n 】`
-- `【 garlic 大蒜 n 】` // -------------------------- 【 garlic 大蒜 n 】 VS 【 organic 有机的 adj 】
+- `【 garlic 大蒜 n 】` // -------------------------- 【 garlic 大蒜 n 】 VS 【 organic 有机的 adj 】 // 【 organic food. 有机食品 】 【 organic fertilizer. 有机化肥 】
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
 - > 【 garlic 大蒜 n 】
@@ -132,8 +140,8 @@
 -
 - 4
 - `【 texture 口感 n 】`
-- `【 mouthfeel 口感 n 】`
-- > 【 appetizer 开胃菜 n 】
+- `【 mouthfeel 口感 n 】` // ----------------------- 【 a mouthful of sth. 一口... 】
+- > 【 appetizer 开胃菜 n 】 // --------------------- 【 fertilizer 肥料 n 】 VS 【 appetizer 开胃菜 n 】
 - > 【 dessert 甜点 n 】
 - **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
 - // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]

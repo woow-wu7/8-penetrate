@@ -185,3 +185,13 @@
 - `【 bedroom 卧室 n 】`
 - `【 living room. 客厅 n 】`
 - `【 delivery room. 产房 】`
+
+###### Must 2025-01-09
+
+- 1
+- `【 fertilizer 肥料 n 】` // -------------------- 【 organic fertilizer. 有机肥 n 】 【 chemical fertilizer. 化肥 】
+- `【 appetizer 开胃菜 n 】`
+- > 【 organic food. 有机食物 n 】
+- > 【 organic fertilizer. 有机肥料 n 】 // ------- 【 organic food. 有机食物 n 】
+- > 【 chemical fertilizer. 化肥 n 】
+- **【 【 Organic fertilizers 】 don't 【 affect 】 the 【 texture 】 of the 【 appetizers 】. 有机肥料不会影响开胃菜的口感 】**
