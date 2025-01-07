@@ -26,7 +26,7 @@
 -
 - `【 wedding 婚礼 n 】` // -------- 【 wedding photo. 结婚照 】// 【 take wedding photo. 拍婚纱照 】// 【 take selfie. 拍自拍照 】
 - `【 wedding dress. 婚纱 n 】`
-- `【 wedding ring. 婚戒 n 】`
+- `【 wedding ring. 婚戒 n 】` // -- 【 onion ring. 洋葱圈 】 【 ring finger. 无名指 】
 - `【 wedding photo. 结婚照 】`
 - `【 wedding anniversary. 结婚周年纪念日 】` // 【 anniversary 周年纪念日 】
 - > 【 hold a wedding. 举办婚礼 】

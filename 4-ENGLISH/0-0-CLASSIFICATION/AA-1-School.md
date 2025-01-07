@@ -86,6 +86,8 @@
 - `【 last place. 最后一名 n 】`
 - `【 first prize. 一等奖 n 】`
 - `【 the title of. ...的称号 】`
+- `【 preview lesson. 预习功课 】` // ------------------- preview lesson. VS review lesson.
+- `【 review lesson. 复习功课 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
 - _【 single quotation marks. 单引号 】_
@@ -104,7 +106,8 @@
 - [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
 - // TIPS: Pay attention to the pronunciation of the word 'midterm'. [midterm-exam.其中考试-n]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-惊叹词-n][exclamation-mark.感叹号]
-- .MT **【 His 【 math scores 】 are 【 full marks 】 in both 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
+- .MT **【 His 【 math scores 】 are 【 full marks 】 in 【 both 】 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
+- .MT **【 【 Previewing lessons 】 and 【 reviewing lessons 】 are 【 equally 】 important. 预习功课和复习功课同等重要 】**
 -
 -
 -

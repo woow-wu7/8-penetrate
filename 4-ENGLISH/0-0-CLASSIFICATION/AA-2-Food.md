@@ -40,15 +40,17 @@
 -
 - 1.1
 - `【 flavour 味道 口味 n 】`
-- `【 tasty 美味的 adj 】` // -------------------- 【 taste 尝 v / 味道 n 】 VS 【 tasty 美味的 adj 】
+- `【 tasty 美味的 adj 】` // ------------------- 【 taste 尝 v / 味道 n 】 VS 【 tasty 美味的 adj 】
 - `【 delicious 美味的 adj 】`
-- > 【 sour 酸的 adj = tart. 】 // --------------- 【 sour VS tour VS hour 】
-- > 【 sweet 甜的 adj 】 // ---------------------- 【 sweet VS sweat VS wet VS sweater 】
+- `【 yummy 美味的 adj 】`
+- > 【 sour 酸的 adj = tart. 】 // -------------- 【 sour VS tour VS hour 】
+- > 【 sweet 甜的 adj 】 // --------------------- 【 sweet VS sweat VS wet VS sweater 】
 - > 【 bitter 苦的 adj 】
-- > 【 spicy 辣的 adj 】 // ---------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】 【 slightly spicy. 微辣 】 【 medium spicy. 】
+- > 【 spicy 辣的 adj 】 // --------------------- 【 spicy VS spice 】 // 【 spicy and numbing flavour. 麻辣口味 】 【 slightly spicy. 微辣 】 【 medium spicy. 】
 - > 【 salty 咸的 adj 】
 - > 【 fishy 腥味的 adj 】
 - > 【 numb 麻木的 adj 】
+- > 【 refrigerated 冷藏的 adj 】 // ------------ 【 refrigerated warehouse. 冷藏仓库 】
 -
 - 1.2
 - `【 crispy 脆的 adj 】` // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
@@ -78,10 +80,10 @@
 - // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
 -
 - AA.
-- `【 numb 麻木的 adj 】` VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
 - `【 tomb 坟墓 n 】`
 - `【 womb 子宫 n 】` // -------------------------- 【 fetus 胎儿 n 】
 - `【 bomb 炸弹 n 】` // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】 // 【 nuclear weapon. 核武器 】 【 atom bullet. 原子弹 】
+- `【 numb 麻木的 adj 】` VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb-坟墓-n]
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb-子宫-n]
 - // TIPS: Pay attention to the pronunciation of the word 'bomber'. [bomber-轰炸机-n]
@@ -142,7 +144,7 @@
 - 3
 - `【 chili 辣椒 n 】`
 - `【 scallion 大葱 n 】`
-- `【 onion 洋葱 n 】`
+- `【 onion 洋葱 n 】` // --------------------------- 【 onion ring. 洋葱圈 】
 - `【 ginger 姜 n 】`
 - `【 garlic 大蒜 n 】` // -------------------------- 【 garlic 大蒜 n 】 VS 【 organic 有机的 adj 】 // 【 organic food. 有机食品 】 【 organic fertilizer. 有机化肥 】
 - `【 Sichuan pepper. 花椒 n 】`
@@ -157,7 +159,16 @@
 -
 -
 -
+-
+-
 - 4
+- [cereal-谷物]
+- `【 wheat 小麦 n 】`
+- `【 rice 大米 n 】`
+-
+-
+-
+- 6
 - `【 texture 口感 n 】`
 - `【 mouthfeel 口感 n 】` // ----------------------- 【 a mouthful of sth. 一口... 】
 - > 【 appetizer 开胃菜 n 】 // --------------------- 【 fertilizer 肥料 n 】 VS 【 appetizer 开胃菜 n 】
@@ -228,7 +239,7 @@
 - > 【 chopping board. 切菜板 】 = 【 cutting board. 切菜板 n 】
 -
 - AA.
-- _【 cupboard 衣柜 橱柜 n 】_
+- _【 cupboard 衣柜 橱柜 n 】_ // -------------------- 【 cupboard 橱柜 衣柜 n 】 VS 【 cupcake. 纸杯蛋糕 n 】
 - _【 billboard 广告牌 n 】_ // ---------------------- 【 advertise 做广告 v 】 VS 【 advertisement 广告 n 】 VS 【 billboard 广告牌 n 】
 - _【 blackboard 黑板 n 】_
 - _【 keyboard 键盘 n 】_
@@ -384,6 +395,7 @@
 
 - turkey 火鸡 n
 - meat ball. 肉丸
+- yogurt 酸奶 n
 
 ```
 peking duck. 北京烤鸭 n
@@ -447,7 +459,22 @@ cut into. 切成(几块)
 - // TIPS: Pay attention to the pronunciation of the word 'vacuum'. [vacuum-真空-真空的-n-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'stove'. [stove-炉子-n]
 
-##### (7) **【 snake 小吃 零食 】**
+##### (7) **【 snake 零食 小吃 】**
 
 - 1
+- `【 snack 零食 小吃 n 】`
+- `【 dessert 甜点 n 】`
+-
 - `【 jelly 果冻 n 】`
+
+##### `------- ------- ------- ------- ------- ------- -------`
+
+##### `------- ------- ------- ------- ------- ------- -------`
+
+##### **【 MUST Words 】**
+
+- 1
+- `【 on sale. 打折 】`
+- `【 for sale. 出售 】`
+- **【 There are many 【 clothes 】 【 on sale 】 【 in 】 this store. 这家商店有许多衣服在打折 】**
+- **【 There are many 【 clothes 】 【 for sale 】 【 in 】 this store. 这家商店有许多衣服在出售 】**
