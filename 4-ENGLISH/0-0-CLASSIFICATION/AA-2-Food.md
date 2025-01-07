@@ -4,7 +4,7 @@
 
 - 1
 - [material/ingredient]
-- `【 spice 香料 n 】`
+- `【 spice 香料 n 】` // ----------------------- `【 spice rack. 香料架 n 】`
 - `【 spicy 辛辣的 adj 】` // ---------------------【 slightly spicy. 微辣 】 【 medium spicy. 中辣 】 【 extremely spicy. 特辣 】
 - `【 spicy and numbing. 麻辣 】` // ------------- 【 spicy and numbing flavour. 麻辣口味 】 【 spicy and numbing hot pot. 麻辣火锅 】 // 【 numbing 麻木的 adj / 麻木 v 】
 - > 【 slightly spicy. 微辣 n 】 // -------------- slight 轻微的 adj
@@ -27,10 +27,16 @@
 - aroma .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
 - medium .HL **【 The 【 propagation 】 of a 【 sound 】 【 requires 】 a 【 medium 】. 声音的传播需要介质 】**
 - spicy .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣中辣特辣对重庆市场及其要 】**
-- // -- 【 propagate 传播 繁殖 v 】
-- // -- 【 propagate sound. 传播声音 v 】
-- // -- propagation 传播 n
-- // -- propagate 传播 v
+- // --
+- // 【 propagate 传播 繁殖 v 】
+- // 【 propagate sound. 传播声音 v 】
+- // --
+- // propagation 传播 n
+- // propagate 传播 v
+- // --
+- // spread 传播 v
+- // propagate 传播 v
+-
 -
 - 1.1
 - `【 flavour 味道 口味 n 】`
@@ -83,6 +89,7 @@
 -
 - BB.
 - `【 experience 经验 体验 v n 】`
+- `【 hardship 艰辛 困难 n 】`
 - .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
 - // -- 【 to the fullest. 充分的 尽情的 adv 】
 - // -- 【 hardship 艰辛 n 】
@@ -91,6 +98,18 @@
 - `【 spicy and numbing hot pot. 麻辣火锅 n 】`
 - `【 spicy and numbing flavour. 麻辣口味 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
+-
+- DD.
+- `【 media 媒体 n 】`
+- `【 medium 中等的 adj / 介质 n 】`
+- **【 The 【 media 】 is a kind of 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
+-
+- EE.
+- `【 propagate 传播 v 】` // --------------------- 【 propagate disease. 传播疾病 v 】
+- `【 spread 传播 v 】` // ------------------------ 【 spread disease. 传播疾病 v 】
+- `【 transmit 传播 v 】` // ---------------------- 【 transmit disease. 传播疾病 v 】
+- **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+-
 -
 -
 -
@@ -202,6 +221,7 @@
 - `【 cutting board. 切菜板 n 】`
 -
 - `【 stir 搅拌 v 】`
+- `【 whisk 搅拌 v 】`
 - `【 peel 剥 脱皮 v 】` // ------------------------- 【 peeler 剥皮机 n 】
 - `【 chop 剁 切碎 v 】` // ------------------------- 【 chop up. 切碎 v 】 // 【 chopping board. 切菜板 】
 - > 【 chop up. 切碎 v 】
@@ -215,8 +235,9 @@
 - _【 skateboard 滑板 n 】_
 - _【 chopping board. 切菜板 n 】_
 - _【 boarding pass. 登机牌 n 】_
+- > 【 advertise 广告 】 VS 【 advertisement 广告 n 】 VS 【 billboard 广告牌 n 】 VS 【 poster 海报 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'cupboard'. [cupboard-衣柜-橱柜-n]
-- .MT **【 【 Peel 】 it first, then 【 chop it up 】, finally 【 stir 】 it. 先把剥掉它的皮，然后切碎，最后搅拌 】**
+- .MT **【 【 Peel 】 the skin of it first, then 【 chop it up 】, finally 【 stir 】 it. 先把剥掉它的皮，然后切碎，最后搅拌 】**
 - .HL **【 There are 【 chopping boards 】, 【 billboards 】, 【 skateboards 】, and 【 boarding passes 】 in the 【 cupboard 】. 橱柜里放着切菜板，广告牌，滑板和登机牌 】**
 -
 - BB.
@@ -315,8 +336,7 @@
 -
 -
 - 3
-- `【 appetizer 开胃菜 】`
-- `【 dessert 甜点 】`
+- `【 boil 煮 煮沸 v / 沸点 n 】`
 
 ##### (4) **【 Plant - Cuisine 美食 饭菜 】**
 
@@ -334,6 +354,8 @@
 -
 - `【 taro 芋头 n 】`
 - `【 avocado 牛油果 n 】`
+-
+- `【 pasta 意大利面 n 】`
 -
 - `【 chew 咀嚼 v 】`
 - `【 chewy 耐咀嚼的 adj 】` // --------------------- 【 chewy 耐咀嚼的 adj 】 VS 【 tender 柔软的 adj 】
@@ -360,6 +382,7 @@
 
 ##### (5) **【 Animal - Cuisine 美食 饭菜 】**
 
+- turkey 火鸡 n
 - meat ball. 肉丸
 
 ```
@@ -404,6 +427,7 @@ cut into. 切成(几块)
 - `【 vacuum cleaner. 吸尘器 】` // ---------------- 【 vacuum 真空 n 真空的 adj 】
 - `【 vent 排气扇n / 发泄v 】` // ------------------- 【 vent 发泄 v / 通风口 n 】 VS 【 vender 商贩 n 】 // 【 vent emotion. 发泄情绪 v 】
 - `【 mixer 搅拌机 】`
+- `【 blender 搅拌机 n 】`
 - `【 coffee maker. 咖啡机 】` = coffee machine.
 - .HL **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
 -
@@ -415,6 +439,7 @@ cut into. 切成(几块)
 - `【 air conditioner 空调  】`
 - `【 oven 烤箱 】`
 - `【 iron 熨斗 铁 n 】` // ------------------------ 【 iron rust. 铁锈 】
+- `【 toaster 烤面包机 n 】`
 -
 - `【 remote control. 遥控 v 】`
 - `【 remote controller. 遥控器 n  】`

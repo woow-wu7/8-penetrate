@@ -1123,7 +1123,7 @@ There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that
 我用洗碗机洗餐具
 ```
 
-##### 16 Make sentences 2025-01-16
+##### 17 Make sentences 2025-01-17
 
 ```
 1
@@ -1141,4 +1141,255 @@ There are many 【 wild ducks 】 【 in 】 【 this body of the water 】 that
 
 4
 有机肥料不会影响开胃菜的口感
+```
+
+##### 18 Make sentences 2025-01-18
+
+```
+1
+The 【 spicy and numbing hot pot 】 【 release 】 【 an 】 【 aroma 】.
+这个麻辣火锅散发着香味
+-
+The 【 propagation 】 of a sound requires a 【 medium 】.
+声音的传播需要介质
+-
+The 【 media 】 is a kind of 【 medium 】 for 【 spreading 】 news.
+媒体是传播新闻的一种介质
+-
+She 【 transmitted 】 the cold 【 virus 】 to me.
+她把感冒病毒传染给了我
+-
+The 【 slightly spicy 】, 【 medium spicy 】, and 【 extremely spicy 】 are 【 extremely important 】 【 for 】 Chongqing markets.
+微辣,中辣,特辣对重庆市场及其要
+-
+// -
+// 【 aroma 香味 n 】
+// -
+// 【 medium 中等的adj / 介质 n 】
+// 【 medium spicy. 中辣 】
+// -
+// media 媒体 VS medium 介质
+// -
+// spread 传播 v VS propagate 传播 v VS transmit 传播 v
+// spread disease. = propagate disease. = transmit disease. 传播疾病
+// -
+// 【 slightly spicy. 微辣 】
+// 【 extremely spicy. 特辣 】
+// -
+// 【 propagate 传播 v 】
+// 【 propagation 传播 n 】
+// 【 propagate a sound. 传播声音 】
+
+
+2
+This 【 crispy rice 】 has the 【 crispy texture 】.
+这个锅巴有脆脆的口感
+-
+Most people 【 with 】 【 greasy skins 】 have the 【 greasy hair 】 【 as well 】.
+大多数油性皮肤的人也有油性头发
+-
+// -
+// crispy rice. 锅巴
+// crispy texture. 脆脆的口感
+// -
+// greasy skin. 油性皮肤
+// greasy hair. 油性头发
+// -
+// as well. 也
+// -
+// 【 crispy rice. 锅巴 】
+// 【 raw rice. 生米 】
+// 【 cooked rice. 熟饭 】
+// 【 rice wine. 米酒 】
+// 【 cooking wine. 料酒 】
+
+
+3
+After the 【 bomb 】 【 exploded 】, the 【 worm 】 became a 【 tomb 】.
+炸弹爆炸后，子宫变成了坟墓
+// -
+// 【 womb 子宫 】
+// 【 tomb 坟墓 】
+// -
+// 【 bomb 炸弹 】
+// 【 atom bomb. 原子弹 】
+// 【 bomber 轰炸机 】
+// -
+// explode 爆炸 v
+// explosion sound. 爆炸声 n
+// gun shot. 枪声 n
+
+
+4
+Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】.
+每个人都应该体验农民的艰辛
+// -
+// experience 经验 体验 v
+// hardship 艰辛 n
+
+
+5
+The 【 appetizers 】 and 【 desserts 】 of this 【 restaurant 】 have a great 【 texture 】.
+这家餐厅的开胃菜和甜点味道很棒
+-
+The 【 textbook 】 says that the 【 textiles 】 have a great 【 texture 】.
+教科书上说纺织品的口感不错
+-
+// -
+// 【 appetizer 开胃菜 】 VS 【 fertilizer 肥料 n 】
+// -
+// 【 dessert 甜点 n 】
+// -
+// texture 口感
+// textile 纺织品
+// textbook 教科书
+// text message. 短信
+
+
+6
+【 Peel 】 the skin of it first, then 【 chop up 】 it, finally 【 stir 】 it.
+先把剥掉它的皮，然后切碎，最后搅拌
+// -
+// peel 剥 v
+// peeler 剥皮器 n
+// -
+// chop up. = cut up. 切碎 v
+// -
+// stir 搅拌 v
+// whisk 搅拌 v
+
+
+7
+There are 【 chopping boards 】, 【 billboards 】, 【 skateboards 】, and 【  boarding passes 】 in the 【 cupboard 】.
+橱柜里放着切菜板，广告牌，滑板和登机牌
+// -
+// cupboard 橱柜 衣柜
+// chopping board. 菜板
+// billboard 广告牌
+
+
+8
+We 【 take turns 】 【 working day shift 】 and 【  working night shift 】.
+我们轮流值白班和夜班
+// -
+// take turns doing sth. 轮流做某事 v
+// -
+// work day shift. 值白班
+// work night shift. 值夜班
+// -
+// walking stick. 拐杖
+// selfie stick. 自拍杆
+// stick shift. 换挡杆
+
+
+9
+The 【 iron 】 【 is made of 】 【 iron 】.
+这个熨斗是铁做的
+// -
+// iron 铁n 熨斗n
+// -
+// be made of. 有...制成 ----- 看得出原材料
+// be made from. 有...制成 ----- 看不出原材料
+
+
+10
+Please 【 put away 】 the toys before going to bed.
+睡觉前请把玩具整理好
+// -
+// put away. 治理好
+
+
+11
+我用洗碗机洗餐具
+
+
+12
+这一餐一共有七道菜
+-
+七个菜足够吃一天了
+-
+在靠近码头的这片水域里有许多野鸭
+
+
+13
+我点了一份小份的外卖
+
+
+14
+这个摊贩正在隧道的出风口处发泄情绪
+```
+
+##### 19 Make sentences 2025-01-19
+
+```
+1
+这个麻辣火锅散发着香味
+-
+声音的传播需要介质
+-
+媒体是传播新闻的一种介质
+-
+她把感冒病毒传染给了我
+-
+微辣中辣特辣对重庆市场及其要
+
+
+2
+这个锅巴有脆脆的口感
+-
+大多数油性皮肤的人也有油性头发
+
+
+3
+炸弹爆炸后，子宫变成了坟墓
+
+
+4
+每个人都应该体验农民的艰辛
+
+
+5
+这家餐厅的开胃菜和甜点味道很棒
+-
+教科书上说纺织品的口感不错
+
+
+6
+先把剥掉它的皮，然后切碎，最后搅拌
+
+
+7
+橱柜里放着切菜板，广告牌，滑板和登机牌
+
+
+8
+我们轮流值白班和夜班
+
+
+9
+这个熨斗是铁做的
+
+
+10
+睡觉前请把玩具整理好
+
+
+11
+我用洗碗机洗餐具
+
+
+12
+这一餐一共有七道菜
+-
+七个菜足够吃一天了
+-
+在靠近码头的这片水域里有许多野鸭
+
+
+13
+我点了一份小份的外卖
+
+
+14
+这个摊贩正在隧道的出风口处发泄情绪
 ```
