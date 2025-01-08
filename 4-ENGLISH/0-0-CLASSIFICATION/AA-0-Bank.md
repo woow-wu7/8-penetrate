@@ -1339,15 +1339,20 @@ fill out. 填写
 -
 -
 - [-CC.]11
-- `【 squander 浪费 v n 】` // -------------------- 【 squander time. 浪费时间 】 【 squander money. 浪费金钱 】
-- `【 waste 浪费v 垃圾n 】` // --------------------- waste VS garbage VS rubbish VS trash VS litter
+- `【 squander 浪费 v n 】` // -------------------- 【 squander money. 浪费金钱 】 【 squander time. 浪费时间 】
+- `【 splurge 挥霍 v n 】` // --------------------- 【 splurge money. 挥霍金钱 】 【 splurge youth. 挥霍青春 】
+- _【 waste 浪费 v 垃圾 n 】_ // --------------------- waste VS garbage VS rubbish VS trash VS litter
 - > 【 squander time. 浪费时间 】
 - > 【 squander money. 浪费金钱 】
+- _【 splurge money. 挥霍金钱 】_
+- _【 splurge youth. 挥霍青春 】_
 - > waste VS garbage VS rubbish VS trash VS litter
 - _【 junk food. 垃圾食物 】_
 - _【 junk mail. 垃圾邮件 】_
 - _【 draft box. 草稿箱 n 】_
 - _【 inbox 收件箱 n = mailbox 】_
+- .MT **【 To 【 splurge money 】is to 【 splurge youth 】, to 【 squander money 】 is to 【 squander time 】. 挥霍金钱意味着挥霍青春，浪费金钱意味着浪费时间 】**
+-
 - .HL **【 I won't 【 squander time 】 and 【 squander money 】 【 on 】 【 junk food. 】 我不会在垃圾食品上浪费时间和浪费金钱 】**
 - .MT **【 Both 【 junk food 】 and 【 junk mail 】 are 【 garbage 】. 垃圾食品和垃圾邮件都是垃圾 】**
 - .MT **【 I don't 【 squander 】 money 【 on 】 【 junk food 】. 我不会在垃圾食品上浪费钱 】**

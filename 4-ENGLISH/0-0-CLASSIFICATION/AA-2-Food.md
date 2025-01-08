@@ -53,6 +53,7 @@
 - > 【 numb 麻木的 adj 】
 - > 【 refrigerated 冷藏的 adj 】 // ------------ 【 refrigerated warehouse. 冷藏仓库 】
 -
+-
 - 1.2
 - `【 crispy 脆的 adj 】` // ------------------- 【 crispy texture. 脆脆的口感 】 【 crispy rice. 锅巴 】 // raw rice. VS cooked rice. VS rice wine. VS cooking rice.
 - `【 greasy 油腻的 adj 】` // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
@@ -64,10 +65,23 @@
 - .MT **【 The 【 crispy rice 】 has a 【 crispy texture 】. 这个锅巴有脆脆的口感 】**
 - .MT **【 Most people 【 with 】 【 greasy skin 】 have 【 greasy hair 】 【 as well 】. 大多数油性皮肤的人也有油性头发 】**
 -
+-
 - 1.3
 - `【 aroma 香味 n 】` // --------------------- 【 release an aroma. 散发香味 v 】
-- > 【 release an aroma. 散发香味 v 】
+- `【 release an aroma. 散发香味 v 】`
 - .HL **【 The 【 spicy and numbing hot pot 】 【 releases an aroma 】. 这个麻辣火锅散发着香味 】**
+- .HL **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 aroma 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
+- // --
+- // taste 品尝 v 味道 n
+- // a case of. 一箱 = a box of.
+- // beer 啤酒 n
+- // deer 鹿 n
+- // --
+- // 【 image 形象 图像 n 】
+- // 【 imagine 想象 v 】
+- // --
+- // release an aroma. 散发香味
+- // a case of beer. 一箱啤酒
 -
 - // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'salt'. [salt-盐-n]
@@ -194,6 +208,14 @@
 - [cereal-谷物]
 - `【 wheat 小麦 n 】`
 - `【 rice 大米 n 】`
+-
+- `【 a case of. 一箱 】` = a box of. 一箱 n
+- **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 aroma 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
+-
+- `【 squander 浪费 v n 】` // -------------------- 【 squander money. 浪费金钱 】 【 squander time. 浪费时间 】
+- `【 splurge 挥霍 v n 】` // --------------------- 【 splurge money. 挥霍金钱 】 【 splurge youth. 挥霍青春 】
+- .MT **【 To 【 splurge money 】is to 【 splurge youth 】, to 【 squander money 】 is to 【 squander time 】. 挥霍金钱意味着挥霍青春，浪费金钱意味着浪费时间 】**
+- .MT **【 It's shameful to squander food. 浪费粮食可耻 】**
 -
 -
 - AA.
@@ -406,7 +428,9 @@
 
 - turkey 火鸡 n
 - meat ball. 肉丸
-- yogurt 酸奶 n
+-
+- yogurt 酸奶 n // 【 pure milk. 纯牛奶 】
+- cheese 奶酪 n
 
 ```
 peking duck. 北京烤鸭 n
@@ -475,6 +499,9 @@ cut into. 切成(几块)
 - 1
 - `【 snack 零食 小吃 n 】`
 - `【 dessert 甜点 n 】`
+-
+- `【 chip 芯片 薯片 n 】`
+- `【 chips 薯片 n 】`
 -
 - `【 jelly 果冻 n 】`
 
