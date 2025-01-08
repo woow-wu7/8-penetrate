@@ -59,7 +59,7 @@
 - `【 greasy 油腻的 adj 】` // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
 - `【 bland 淡而无味的 adj 】_`
 - > 【 crispy rice. 锅巴 】
-- > 【 crispy texture. 脆脆的口感 】
+- > 【 crispy texture. 脆脆的口感 】 // --------- texture VS textile VS textbook VS text message.
 - _【 greasy skin. 油性皮肤 n 】_
 - _【 greasy hair. 油性头发 n 】_
 - .MT **【 The 【 crispy rice 】 has a 【 crispy texture 】. 这个锅巴有脆脆的口感 】**
@@ -70,7 +70,7 @@
 - `【 aroma 香味 n 】` // --------------------- 【 release an aroma. 散发香味 v 】
 - `【 release an aroma. 散发香味 v 】`
 - .HL **【 The 【 spicy and numbing hot pot 】 【 releases an aroma 】. 这个麻辣火锅散发着香味 】**
-- .HL **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 aroma 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
+- .HL **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 aroma 】. 这头鹿想象着自己品尝了一箱香气扑鼻的啤酒 】**
 - // --
 - // taste 品尝 v 味道 n
 - // a case of. 一箱 = a box of.
@@ -98,7 +98,7 @@
 - AA.
 - `【 tomb 坟墓 n 】`
 - `【 womb 子宫 n 】` // -------------------------- 【 fetus 胎儿 n 】
-- `【 bomb 炸弹 n 】` // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】 // 【 nuclear weapon. 核武器 】 【 atom bullet. 原子弹 】
+- `【 bomb 炸弹 n 】` // -------------------------- 【 atom bomb. 原子弹 n 】 【 bomber 轰炸机 n 】 // 【 nuclear weapon. 核武器 】
 - `【 numb 麻木的 adj 】` VS 【 tomb 坟墓 n 】VS 【 womb 子宫 n 】 VS 【 bomb 炸弹 】VS 【 bomber 轰炸机 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'tomb'. [tomb-坟墓-n]
 - // TIPS: Pay attention to the pronunciation of the word 'womb'. [womb-子宫-n]
@@ -117,6 +117,7 @@
 - // -- navy 海军
 - // -- naval 海军的 adj // 【 naval base. 海军基地 n 】 【 naval fleet. 海军舰队 】
 - // -- pirate 海盗 n // 【 pirate flag. 海盗旗 】 【 pirate ship. 海盗船 】
+- // -- 【 greatly worship. 非常钦佩 v 】
 -
 - CC.
 - `【 spicy and numbing hot pot. 麻辣火锅 n 】`
@@ -126,7 +127,7 @@
 - DD.
 - `【 media 媒体 n 】`
 - `【 medium 中等的 adj / 介质 n 】`
-- **【 The 【 media 】 is a kind of 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
+- **【 The 【 media 】 is 【 a kind of 】 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
 - // -- spread 传播 v
 - // -- propagate 传播 v
 - // -- transmit 传输 传播 v
@@ -147,8 +148,9 @@
 - `【 soy sauce. 酱油 n 】` // --------------------- 【 dipping sauce. 蘸酱 】 【 tomato sauce. 番茄酱 】 // 【 source 酱 调味汁 n 】
 - `【 jam 果酱 n 】` // ---------------------------- 【 traffic jam. 交通堵塞 】 // 【 jam 果酱 堵塞 v n 】
 - `【 peanut butter. 花生酱 】`
+- `【 liquor 酒 n 】` // -------------------------- `【 liquid = fluid. 液体 】` // 【 liquor VS liquid 】
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
-- `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
+- `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】 // cake 蛋糕
 - `【 rice cake. 年糕 n 】`
 - `【 crispy rice. 锅巴 n 】` // ------------------- 【 crispy texture. 脆脆的口感 n 】 // texture VS textile VS textbook VS text message.
 - `【 raw rice. 生米 n 】`
@@ -210,12 +212,13 @@
 - `【 rice 大米 n 】`
 -
 - `【 a case of. 一箱 】` = a box of. 一箱 n
-- **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 aroma 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
+- **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 taste 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
 -
 - `【 squander 浪费 v n 】` // -------------------- 【 squander money. 浪费金钱 】 【 squander time. 浪费时间 】
 - `【 splurge 挥霍 v n 】` // --------------------- 【 splurge money. 挥霍金钱 】 【 splurge youth. 挥霍青春 】
 - .MT **【 To 【 splurge money 】is to 【 splurge youth 】, to 【 squander money 】 is to 【 squander time 】. 挥霍金钱意味着挥霍青春，浪费金钱意味着浪费时间 】**
-- .MT **【 It's shameful to squander food. 浪费粮食可耻 】**
+- .MT **【 It's 【 shameful 】 to 【 squander 】 food. 浪费粮食可耻 】**
+- // -- shameful 可耻的 丢脸的 adj
 -
 -
 - AA.
