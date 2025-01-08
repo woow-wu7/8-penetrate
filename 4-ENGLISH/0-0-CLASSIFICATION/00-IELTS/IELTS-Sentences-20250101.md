@@ -1420,9 +1420,126 @@ Please 【 put away 】 the toys before going to bed.
 这个开胃菜使用的是有机肥料，而不是化肥
 ```
 
+##### 21 Make sentences 2025-01-21
 
-##### 20 Make sentences 2025-01-21
 ```
+1
+The 【 spicy and numbing hot pot 】 【 release 】 【 an 】 【 aroma 】.
+这个麻辣火锅散发着香味
+-
+【 Propagating 】 sounds in the air 【 requires 】 【 medium 】.
+在空气中传播声音需要介质
+-
+【 Slightly spicy 】, 【 medium spicy 】, and 【 extremely spicy 】 are 【 extremely import 】 for Chongqing market.
+微辣中辣特辣对重庆市场及其要
+-
+// -
+// 【 aroma 香味 n 】
+// an aroma.
+// -
+// 【 medium 中等的adj / 介质 n 】
+// 【 media 媒体 n 】
+// -
+// 【 propagate 传播 v 】
+// 【 spread 传播 v 】
+// 【 transmit 传播 v 】
+// -
+// spicy and numbing hot pot. 麻辣火锅
+// spicy and numbing flavour. 麻辣口味
+// -
+// slightly spicy.
+// medium spicy.
+// extremely spicy.
+
+
+
+2
+This 【 crispy rice 】 has the 【 crispy texture 】.
+这个锅巴有脆脆的口感
+-
+Most people with 【  greasy skins 】 have 【 greasy hair 】.
+大多数油性皮肤的人也有油性头发
+-
+// -
+// crispy rice. 锅巴
+// crispy texture. 脆脆的口感
+// -
+// crispy rice.
+// raw rice.
+// cooked rice.
+// cooking wine.
+// rice wine.
+// -
+// greasy skin. 油性皮肤
+// greasy hair. 油性头发
+
+
+3
+After the 【 bomb 】 【 exploded 】, the 【 womb 】 becomes 【 tomb 】.
+炸弹爆炸后，子宫变成了坟墓
+// -
+// bomb 炸弹
+// atom bomb. 原子弹
+// nuclear weapon. 核武器
+// -
+// bomb 炸弹
+// womb 子宫
+// tomb 坟墓
+
+
+4
+Everyone should 【 experiences 】 the 【 hardship 】 of 【 farmer 】.
+每个人都应该体验农民的艰辛
+// -
+// 【 experience 经验 体验 n 】
+// 【 hardship 艰辛 n 】
+
+
+5
+He 【 transmitted 】 the cold 【 virus 】 to me.
+她把感冒病毒传染给了我
+// -
+// transmit 传播 v
+// propagate 传播 v
+// spread 传播 v
+// -
+// cold virus. 感冒病毒
+
+
+6
+This 【 appetizer 】 uses the 【 organic fertilizer 】, not 【 chemical fertilizer 】.
+这个开胃菜使用的是有机肥料，而不是化肥
+// -
+// 【 appetizer 开胃菜 n 】
+// 【 fertilizer 肥料 n 】
+// -
+// organic fertilizer. 有机肥料
+// chemical fertilizer. 化肥
+// -
+// organic food. 有机食物
+
+
+7
+The 【 textbook 】 says that the 【 textile 】 has a great 【 texture 】.
+教科书上说纺织品的口感不错
+// -
+// textbook 教课书
+// textile 纺织品
+// texture 口感
+// text message. 短信
+```
+
+##### 22 Make sentences 2025-01-22
+
+```
+1
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
 1
 这个麻辣火锅散发着香味
 -
