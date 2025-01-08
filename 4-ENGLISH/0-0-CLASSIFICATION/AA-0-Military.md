@@ -265,6 +265,8 @@
 - `【 frigate 护卫舰 】`
 - `【 aircraft carrier. 航空母舰 n 】`
 - `【 submarine 潜水艇 n 】`
+- > 【 pirate ship. 海盗船 n 】
+- > 【 sailboat 帆船 n 】
 - 311
 - `【 dock 码头n 停靠v 】`
 - `【 harbor 港口 n 】` --- 范围小

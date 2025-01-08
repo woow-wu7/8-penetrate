@@ -1,41 +1,50 @@
-##### Sentence Component 句子成分
+##### The Components Of A Sentence. 句子成分
 
 - 1
 - [tense]
 - `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】 【 intense competition. 激励的竞争 】
 - `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
-- _【 present 目前 n / 礼物 n / 目前的 adv 】_
-- _【 at present. 目前 adv 】_
 - > 【 present tense. 现在时态 】
-- > 【 【 simple 】 present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
+- > 【 simple present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
+- > 【 present 【 progressive 】 tense. 现在进行时 】
+- AA.
 - **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // -------【 present tense. 现在时态 】 【 simple present tense. 】
 - **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
 - _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
 - _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
+- BB.
+- _【 present 目前 n / 礼物 n / 目前的 adv 】_
+- _【 at present. 目前 adv 】_
 -
 - `【 present tense. 现在时态 】`
-- `【 【 simple 】 present tense. 一般现在时态 】`
+- `【 simple present tense. 一般现在时态 】`
 - `【 present 【 perfect 】 tense. 现在完成时态 】`
 - `【 present 【 progressive 】 tense. 现在进行时态 】`
+- > 【 progressive 进步的 进行时态的 adj 】`
+- > 【 progressive tense. 进行时态 】
+- > 【 progressive youth. 进步青年 】
 - // 【 动词的 (过去式) : ------- 用在 ( 一般过去时 ) 中 】
 - // 【 动词的 (过去分词): ------ 用在 ( 完成时 和 被动语态 ) 中 】
 - // -- have/have + V 的过去分词
 - // -- be + V 的过去分词
 -
+- **【 voice 语态 声音 n 】**
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
 - `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】
 - > 【 actively pursue. 主动追求 v 】 // ------------ 【 pursue happiness. 追求幸福 】 // -【 chase dream. 追逐梦想 】 【 chase fugitive. 追扑逃犯 】
 - > 【 passively accept. 被动接受 v 】
+- > 【 what's 【 clause 】 of this sentence? 这个句子是什么从句 】
+- > 【 what's 【 tense 】 of this sentence? 这个句子是什么时态 】
 -
 - **【 clause 从句 子句 n 】**
 - `【 object clause. 宾语从句 】` // -----------------【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
 - `【 adverbial clause. 状语从句 】`
-- > 【 what 【 clause 】 is this sentence? 这个句子是什么从句 】
-- > 【 what 【 tense 】 is this sentence? 这个句子是什么时态 】
+- > 【 what's 【 clause 】 of this sentence? 这个句子是什么从句 】
+- > 【 what's 【 tense 】 of this sentence? 这个句子是什么时态 】
 -
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
@@ -85,7 +94,7 @@
 - 3
 - [符号-symbol][symbol-象征-符号-标志-n]
 - `【 comma 逗号 n 】` // --------------------------------------- 【 TV drama. = TV series. 电视剧 】 // 【 TV program. 电视节目 】
-- `【 period 句号 n 】` = full stop. // ------------------------- 【 period [一段时间] [句号] 】 // a period of time. // warranty period. 保修期
+- `【 period 句号 n / 时期 n 】` = full stop. // ----------------- 【 period [一段时间] [句号] 】 // a period of time. // warranty period. 保修期
 - `【 full stop. 句号 n 】` = period.
 - _【 mark 标记 记号 分数 n 】_ VS symbol VS sign
 - `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
@@ -193,11 +202,26 @@
 -
 -
 - 5
+- `【 subject 主语 】` // ---------------- 【 subjective thought. 主观想法 】 【 subjective feeling. 主观感受 】 // subjective 主观的 adj
+- `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
+- `【 object 宾语 物体 对象 】` ----------- objective 客观的 adj
+- `【 attributive 定语 】` // ------------ 【 attribute 属性 】
+- `【 adverbial 状语 】` // -------------- 【 adverb 副词 】 // 【 verb 动词 】
+- `【 complement 补语n 补充v 补足v 】` // - 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
+- > 【 supplement 补充 v 】 // ------------- supplement energy. supplement nutrition.
+- > 【 complement 补充 v 】
+- > 【 complementary 互补的 补充的 adj 】// 【 complementary colors. 互补色 n 】
+- AA.
+- _【 subjective 主观的 adj 】_ // ------ 【 subjective thought. 主观想法 n 】 【 subjective feeling. 主观感觉 n 】
+- _【 objective 客观的 adj 】_ // ------- 【 objective fact. 客观事实 n 】
+- **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
+- // TIPS: pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
+-
+-
 - [letter]
 - `【 vowel 元音 】` // ------------------ 【 vowel letter. 元音字母 】
 - `【 consonant 辅音 】`
 - > 【 capital 首都 资本 大写字母 】
--
 -
 - [EXPAND-01]
 - `【 grammar 语法 n 】`
@@ -214,21 +238,6 @@
 - // -- technology 技术 n
 - // -- technical 技术的 adj
 - // TIPS: Pay attention to the pronunciation of the word 'technical'. [technical-技术的-adj]
--
-- `【 subject 主语 】` // ---------------- 【 subjective thought. 主观想法 】 【 subjective feeling. 主观感受 】 // subjective 主观的 adj
-- `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
-- `【 object 宾语 物体 对象 】` ----------- objective 客观的 adj
-- `【 attributive 定语 】` // ------------ 【 attribute 属性 】
-- `【 adverbial 状语 】` // -------------- 【 adverb 副词 】 // 【 verb 动词 】
-- `【 complement 补语n 补充v 补足v 】` // - 【 supplement / complement 】 // 【 supplement energy. 】 【 supplement nutrition. 】
-- > 【 supplement 补充 v 】 // ------------- supplement energy. supplement nutrition.
-- > 【 complement 补充 v 】
-- > 【 complementary 互补的 补充的 adj 】// 【 complementary colors. 互补色 n 】
-- AA.
-- _【 subjective 主观的 adj 】_ // ------ 【 subjective thought. 主观想法 n 】 【 subjective feeling. 主观感觉 n 】
-- _【 objective 客观的 adj 】_ // ------- 【 objective fact. 客观事实 n 】
-- **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
-- // TIPS: pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
 -
 -
 - `【 word 单词 】`

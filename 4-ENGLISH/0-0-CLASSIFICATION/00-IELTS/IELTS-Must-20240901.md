@@ -234,7 +234,7 @@
 - [BB.]
 - `【 worship 崇拜 v n 】` // 【 worship idol. 崇拜偶像 】
 - `【 warship 战舰 n 】`
-- **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 崇拜开战舰的海军和开海盗船的海盗 】**
+- **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 我十分崇拜开战舰的海军和开海盗船的海盗 】**
 - // -- 【 greatly 非常 adv 】
 - // -- 【 navy 海军 n 】
 - // -- 【 envy 羡慕 嫉妒 v 】

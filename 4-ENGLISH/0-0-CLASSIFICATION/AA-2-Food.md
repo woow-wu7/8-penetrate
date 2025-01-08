@@ -12,8 +12,9 @@
 - > 【 extremely spicy. 特辣 n 】 // ------------- extreme 极端的 adj
 - > 【 spicy and numbing flavour. 麻辣口味 n 】 // 【 flavour 风味 口味 】 【 taste 味道 n 品尝 v 】
 - > 【 spicy and numbing hot pot. 麻辣火锅 n 】 // 【 hot pot. 火锅 】
-- 【 media 媒体 】 VS 【 medium 介质 媒介 n / 中等的 adj 】 // 【 propagate sound. 传播声音 v 】
+- 【 media 媒体 】 VS 【 medium 中等的 adj / 介质 媒介 n 】
 - 【 hot pot. 火锅 n 】 VS 【 tea pot 茶壶 】
+- 【 propagate sound. 传播声音 v 】= spread sound. = transmit sound.
 - _【 medium size. 中等尺寸 】_
 - _【 medium income. 中等收入 】_
 - > 【 slight injury. 轻伤 n 】
@@ -25,7 +26,7 @@
 - _【 extremely difficult. 及其困难 】_
 - _【 extremely rare. 及其罕见 】_
 - aroma .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
-- medium .HL **【 The 【 propagation 】 of a 【 sound 】 【 requires 】 a 【 medium 】. 声音的传播需要介质 】**
+- medium .HL **【 【 Propagating 】 sounds in the air 【 requires 】 【 medium 】. 在空气中传播声音需要介质 】**
 - spicy .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣中辣特辣对重庆市场及其要 】**
 - // --
 - // 【 propagate 传播 繁殖 v 】
@@ -75,7 +76,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'aroma'. [aroma-香味-n]
 -
 - 1 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
-- 2 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】, 【 salty 】, 【 fishy 】. 人生有酸甜苦辣咸腥各种体验 】**
+- 2 .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
+- 3 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】, 【 salty 】, 【 fishy 】. 人生有酸甜苦辣咸腥各种体验 】**
 - // -- 【 experience 经验 体验 v n 】
 - // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
 -
@@ -92,9 +94,15 @@
 - BB.
 - `【 experience 经验 体验 v n 】`
 - `【 hardship 艰辛 困难 n 】`
+- > hardship VS internship VS scholarship VS worship VS warship VS relationship
 - .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
-- // -- 【 to the fullest. 充分的 尽情的 adv 】
+- .HL **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 我十分崇拜开战舰的海军和开海盗船的海盗 】**
 - // -- 【 hardship 艰辛 n 】
+- // -- 【 experience 经验 体验 n 】
+- // -- farmer 农民 n
+- // -- navy 海军
+- // -- naval 海军的 adj // 【 naval base. 海军基地 n 】 【 naval fleet. 海军舰队 】
+- // -- pirate 海盗 n // 【 pirate flag. 海盗旗 】 【 pirate ship. 海盗船 】
 -
 - CC.
 - `【 spicy and numbing hot pot. 麻辣火锅 n 】`
@@ -105,6 +113,9 @@
 - `【 media 媒体 n 】`
 - `【 medium 中等的 adj / 介质 n 】`
 - **【 The 【 media 】 is a kind of 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
+- // -- spread 传播 v
+- // -- propagate 传播 v
+- // -- transmit 传输 传播 v
 -
 - EE.
 - `【 propagate 传播 v 】` // --------------------- 【 propagate disease. 传播疾病 v 】
@@ -125,7 +136,7 @@
 - `【 cooking wine. 料酒 n 】` // ------------------ 【 rice wine. 米酒 n 】 【 rice cake. 年糕 n 】
 - `【 rice wine. 米酒 n 】` // --------------------- 【 rice cake. 年糕 n 】
 - `【 rice cake. 年糕 n 】`
-- `【 crispy rice. 锅巴 n 】`
+- `【 crispy rice. 锅巴 n 】` // ------------------- 【 crispy texture. 脆脆的口感 n 】 // texture VS textile VS textbook VS text message.
 - `【 raw rice. 生米 n 】`
 - `【 cooked rice. 熟饭 n 】`
 - > 【 soy sauce. 酱油 n 】`
@@ -158,22 +169,15 @@
 - // TIPS: Pay attention to the pronunciation of the word 'scallion'. [scallion-大葱-n]
 -
 -
--
--
--
 - 4
-- [cereal-谷物]
-- `【 wheat 小麦 n 】`
-- `【 rice 大米 n 】`
--
--
--
-- 6
 - `【 texture 口感 n 】`
 - `【 mouthfeel 口感 n 】` // ----------------------- 【 a mouthful of sth. 一口... 】
 - > 【 appetizer 开胃菜 n 】 // --------------------- 【 fertilizer 肥料 n 】 VS 【 appetizer 开胃菜 n 】
 - > 【 dessert 甜点 n 】
+- _【 fertilizer 肥料 n 】_ // ---------------------- 【 organic fertilizer. 有机肥料 n 】 【 chemical fertilizer. 化肥 n 】
+- _【 appetizer 开胃菜 n 】_
 - **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
+- **【 The 【 appetizer 】 uses the 【 organic fertilizer 】, not 【 chemical fertilizer 】. 这个开胃菜使用的是有机肥料，而不是化肥 】**
 - // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]
 - // --【 appetizer 开胃菜 】
 - // --【 dessert 甜点 】
@@ -183,6 +187,13 @@
 - `【 texture 口感 n 】` = mouthfeel
 - `【 text message. 短信 n 】`
 - .MT **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
+-
+-
+-
+- 5
+- [cereal-谷物]
+- `【 wheat 小麦 n 】`
+- `【 rice 大米 n 】`
 -
 -
 - AA.
