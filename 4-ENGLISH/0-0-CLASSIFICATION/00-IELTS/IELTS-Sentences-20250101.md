@@ -1645,4 +1645,14 @@ The 【 textbook 】 says that the 【 textile 】 has a great 【 texture 】.
 
 5
 请参照教程，根据个人喜欢选择
+
+
+6
+请把即将过期的食物丢掉
+-
+衣服只会过时，不会过期
+
+
+7
+食物变坏后就会腐烂
 ```

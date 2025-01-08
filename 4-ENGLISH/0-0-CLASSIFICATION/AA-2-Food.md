@@ -519,3 +519,17 @@ cut into. 切成(几块)
 - `【 for sale. 出售 】`
 - **【 There are many 【 clothes 】 【 on sale 】 【 in 】 this store. 这家商店有许多衣服在打折 】**
 - **【 There are many 【 clothes 】 【 for sale 】 【 in 】 this store. 这家商店有许多衣服在出售 】**
+-
+-
+- 2
+- `【 throw away. 丢掉 v 】`
+- **【 Please 【 throw away 】 the food that 【 is about to 】 【 expire 】. 请把即将过期的食物丢掉 】**
+- **【 Clothes are only 【 out of date 】, not 【 expire 】. 衣服只会过时，不会过期 】**
+- // -- throw away. 掉丢
+- // -- 【 be about to. 即将 v 】
+- // -- 【 be about to expire. 即将过期 v 】
+- // -- out of date. 过时的 adj
+-
+- `【 rot 腐烂 v n 】`
+- `【 go bad. 变坏 】`
+- **【 Food will 【 rot 】 after it 【 goes bad 】. 食物变坏后就会腐烂 】**
