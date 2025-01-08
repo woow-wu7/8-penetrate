@@ -383,6 +383,19 @@
 -
 -
 - 3
+- `【 recipe 食谱 n 】`
+- `【 receipt 收据 发票 n 】` // -------------- 【 receipt 收据 发票 n 】 VS 【 recipe 食谱 n 】
+- `【 invoice 发票 n 】`
+- _【 receipt VS recipe 】_
+- _【 receipt VS invoice 】_
+- _【 receipt VS debt 】_
+- > 【 approve / improve / prove / proof 】
+- .HL **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .HL **【 There are some 【 recipe 】 information on the 【 receipt 】. 收据上有食谱的信息 】**
+- .MT .HL **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
+-
+-
+-
 - `【 boil 煮 煮沸 v / 沸点 n 】`
 
 ##### (4) **【 Plant - Cuisine 美食 饭菜 】**
@@ -533,3 +546,13 @@ cut into. 切成(几块)
 - `【 rot 腐烂 v n 】`
 - `【 go bad. 变坏 】`
 - **【 Food will 【 rot 】 after it 【 goes bad 】. 食物变坏后就会腐烂 】**
+
+```
+reduce food waste. 减少食物浪费
+
+recipe 食谱 n
+receipt 收据 n
+// There are some 【 recipe 】 information on the 【 receipt 】. 收据上有食谱的信息
+// We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】
+// Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证
+```

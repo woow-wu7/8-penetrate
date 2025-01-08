@@ -412,7 +412,7 @@
 - _【 gas cap. 油箱盖 】_
 - _【 gas nozzle. 加油枪 】_
 - -
-- **【 a new job can be 【 a huge source of 】【 stress 】 and 【 anxiety 】. 一份新工作可能是【压力】和【焦虑】的巨大【来源】】** // source
+- **【 a new job can be 【 a huge source of 】【 stress 】 and 【 anxiety 】. 一份新工作可能是【压力】和【焦虑】的巨大【来源】 】** // source
 - **【 What is their main 【 source 】 of income? 他们的主要收入来源是什么？ 】** // source
 - -
 - **【 The world's 【 resource 】 are 【 finite 】. 世界的【资源】是【有限】的 】** // resource

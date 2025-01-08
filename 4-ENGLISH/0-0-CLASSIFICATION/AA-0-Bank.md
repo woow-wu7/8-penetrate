@@ -507,11 +507,14 @@
 -
 -
 - 15
-- `【 receipt 收据 发票 n 】`
+- `【 receipt 收据 发票 n 】` // -------------- 【 receipt 收据 发票 n 】 VS 【 recipe 食谱 n 】
 - `【 invoice 发票 n 】`
-- > 【 receipt VS debt 】
+- _【 receipt VS debt 】_
+- _【 receipt VS recipe 】_
+- _【 receipt VS invoice 】_
 - > 【 approve / improve / prove / proof 】
-- .MT **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .HL **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
+- .HL **【 There are some 【 recipe 】 information on the 【 receipt 】. 收据上有食谱的信息 】**
 - .MT .HL **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
 - .MT **【 The seller sent us the 【 invoice 】 for the goods we purchased last week. 卖方已向我们发送了我们上周购买的商品的发票 】**
 - // -
