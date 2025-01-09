@@ -744,8 +744,8 @@
 - 【 condition 条件 】
 - 【 air conditioner. 空调 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'condition'. [condition-条件-n]
+- .MT **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 - **【 A 【 humidifier 】 can make the hot air 【 blown out by 】 the 【 air conditioner 】 become 【 humid 】. 加湿器可以让空调吹出的热风变得潮湿 】**
-- **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 
 ###### Must 2024-11-11
 

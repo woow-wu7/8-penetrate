@@ -1,33 +1,45 @@
 ##### Weather
 
-##### (1) **The words that you mast know.**
+##### (1) **【 MUST - The words that you mast know.】**
 
 - [AA.]
 - > WEATHER
 - `【 sunny 晴的 adj 】` // ---------- sun
 - `【 rainy 雨的 adj 】` // ---------- rain
 - `【 cloudy 云的 adj 】` // --------- cloud
-- `【 foggy 雾的 adj 】` // ---------- fog
+- `【 foggy 雾的 adj 】` // ---------- fog ----------------- 【 fog light. 雾灯 n 】
+- `【 humid 潮湿的 adj = moist = damp. 潮湿的 】` // -------- 【 humid weather. 潮湿的天气 】
+- > 【 sunny 晴的 adj 】
+- > 【 runny 流鼻涕的 adj 】 // ----------- 【 I have a runny nose. 流鼻涕 】
+- _【 fog light. 雾灯 n 】_
 -
 - `【 temperature 温度 n 】`
-- `【 humidity 湿度 n 】` // -------- 【 humid 潮湿的 adj 】 // 【 humidity 湿度 n 】
-- `【 weather forecast. 天气预报 n 】`
-- `【 weather predication. 天气预报 n 】`
-- > 【 Celsius 摄氏度 n 】 // --------- 注意首字要大写
+- `【 humidity 湿度 n 】` // ------------- 【 humid 潮湿的 adj 】 // 【 humidity 湿度 n 】 // 【 humidifier 加湿器 n 】
+- `【 weather forecast. 天气预报 n 】` // -【 forecast 预测 预报 v n 】 VS 【 forest 森林 n 】
+- `【 weather prediction. 天气预报 n 】`
+- AA.
+- > 【 Celsius 摄氏度 n 】 // ------------ 注意首字要大写
 - > 【 20 degrees Celsius. 20 摄氏度 】
+- BB.
+- _【 humid 潮湿的 adj 】_
+- _【 moist 潮湿的 adj 】_
+- _【 damp 潮湿的 adj 】_
+- _【 humidity 湿度 n 】_
+- _【 humidifier 加湿器 n 】_
 - //【 predicate 谓语 n 断言 v 】
 - //【 predication 断定 断言 n 】
 - //【 weather predication. 天气预报 】
 - // TIPS: Pay attention to the pronunciation of the word 'humid'.
 - // TIPS: Pay attention to the pronunciation of the word 'humidity'.
+- - .MT **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
 -
-- `【 mild 温和的 adj 】` // -------- 【 mild / milk 】 // -------- `【 humid 潮湿的 adj 】` // `【 mild 温和的 adj 】`
-- `【 humid 潮湿的 adj 】` // ------- 【 humid / damp / moist 】 // `【 humid 潮湿的 adj 】` // `【 humidity 湿度 n 】`
-- `【 foggy 有雾的 adj 】` // ------- 【 foggy / mist 】
+- `【 mild 温和的 adj 】` // ------------- 【 mild / milk 】 // -------- `【 humid 潮湿的 adj 】` // `【 mild 温和的 adj 】`
+- `【 humid 潮湿的 adj 】` // ------------ 【 humid / damp / moist 】 // `【 humid 潮湿的 adj 】` // `【 humidity 湿度 n 】`
+- `【 foggy 有雾的 adj 】` // ------------ 【 foggy / mist 】
 - // TIPS: Pay attention to the pronunciation of the word 'foggy'.
 -
-- `【 damp 潮湿的 adj 】` // -------- 【 damp 潮湿的 / swamp 沼泽 】
-- `【 humid 潮湿的 adj 】` // ------- 【 humidifier 加湿器 n 】 【 humid weather. 潮湿的天气 】
+- `【 damp 潮湿的 adj 】` // ------------- 【 damp 潮湿的 / swamp 沼泽 】
+- `【 humid 潮湿的 adj 】` // ------------ 【 humidifier 加湿器 n 】 【 humid weather. 潮湿的天气 】
 - `【 moist 潮湿的 adj 】`
 - _【 dump / dumpling / dumb / dumbbell / doorbell / stump / pumpkin / stamp / damp / jump 】_
 - [2024-11-04](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
@@ -37,40 +49,42 @@
 - `【 lightning 闪电 n 】`
 - `【 thunder 打雷v 雷声n 】`
 -
-- _【 illuminate 照明 v 】_ // ----- 【 illuminated 被照明的 adj 】
-- `【 light 光n 照亮v 】`
+- _【 illuminate 照明 v 】_ // ----------- 【 illuminated 被照明的 adj 】
+- `【 light 光n 照亮v 】` // ------------- 【 light up. 照亮 】 // light -> lit
 - `【 lighting 灯光 照明 n 】`
-- `【 lightning 闪电 】` // -------- 【 a bolt of lightning. 一道闪电 】
+- `【 lightning 闪电 】` // -------------- 【 a bolt of lightning. 一道闪电 】
 - `【 lighter 打火机 】`
 - > 【 a bolt of lightning. 一道闪电 】
 - > 【 a beam of light. 一束光 】
+- > 【 light up. 照亮 】 // 过去式 lit up.
+- > 【 light rain. 小雨 】
 -
 - [AA-01.]
 - **【 Today is 【 a 】 【 sunny/rainy/cloudy/foggy 】 day. 】**
 - [AA-02.]
-- **【 The 【 weather forecast 】 says it's 【 mild 】 today, the temperature is only 【 20 degrees Celsius 】. 天气预报说今天很温和，温度只有 20 摄氏度 】**
+- .MT **【 The 【 weather forecast 】 says it's 【 mild 】 today, the temperature is only 【 20 degrees Celsius 】. 天气预报说今天很温和，温度只有 20 摄氏度 】**
 - [AA-03.]
-- **【 The 【 light 】 【 from 】 the 【 lighter 】 【 illuminated 】 the entire house. 打火机发出的光照亮了整个屋子 】**
+- .MT **【 The 【 light 】 【 from 】 the 【 lighter 】 【 lit up 】 the entire house. 打火机发出的光照亮了整个屋子 】**
 - [AA-04.]
-- **【 after 【 lightning 】, there must be 【 thunder 】. 闪电过后一定有雷声 】**
+- .MT **【 after 【 lightning 】, there must be 【 thunder 】. 闪电过后一定有雷声 】**
 -
 -
 -
 -
 - [BB.]
 - > RAIN
-- `【 light rain. 小雨 】`
-- `【 moderate rain. 中雨 】` // ----【 moderate 适度的 adj 中等的 adj 缓和 v 】
+- `【 light rain. 小雨 】` // ----------- 【 light up. 照亮 v 】
+- `【 moderate rain. 中雨 】` // ---------【 moderate 适度的 adj 中等的 adj 缓和 v 】
 - `【 heavy rain. 大雨 】`
-- `【 torrential rain. 暴雨 】` // - 【 torrential 倾盆的 adj 】
+- `【 torrential rain. 暴雨 】` // ------ 【 torrential 倾盆的 adj 】
 -
 - `【 drizzle 毛毛雨 】`
 - `【 showers 阵雨n 淋浴v 】`
-- `【 thunder shower. 雷阵雨 n 】` // 【 lightning 闪电 v n 】// 【 thunder 雷 n 雷声 n 打雷 v 】
-- `【 downpour 倾盆大雨 】` // ------ 【 pour 倒 灌 倾泻 v 】
+- `【 thunder shower. 雷阵雨 n 】` // ----【 lightning 闪电 v n 】// 【 thunder 雷 n 雷声 n 打雷 v 】
+- `【 downpour 倾盆大雨 】` // ---------- 【 pour 倒 灌 倾泻 v 】
 -
 - `【 storm 暴风雨 】`
-- `【 snowstorm 暴风雪 】` // ------- 【 snow 雪 n 下雪 v 】 // 【 slow 慢的 缓慢的 adj 】
+- `【 snowstorm 暴风雪 】` // ----------- 【 snow 雪 n 下雪 v 】 // 【 slow 慢的 缓慢的 adj 】
 -
 - `【 weather forest. 天气预报 】` // ---- 口语
 - `【 weather predication. 天气预报 】` // 书面语 // 【 predicate 断言 v 谓语 n 】 // 【 predication 断言 n 】
