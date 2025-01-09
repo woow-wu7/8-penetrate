@@ -45,12 +45,14 @@
 - [2024-11-04](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
 -
 - `【 hail 冰雹 n 】`
+- > 【 life guard. 救生员 n 】
+- > 【 tour guide. 导游 n 】
 -
 - `【 lightning 闪电 n 】`
 - `【 thunder 打雷v 雷声n 】`
 -
 - _【 illuminate 照明 v 】_ // ----------- 【 illuminated 被照明的 adj 】
-- `【 light 光n 照亮v 】` // ------------- 【 light up. 照亮 】 // light -> lit
+- `【 light 光n 照亮v 】` // ------------- 【 light up. 照亮 】 【 light rain. 小雨 】 // light -> lit
 - `【 lighting 灯光 照明 n 】`
 - `【 lightning 闪电 】` // -------------- 【 a bolt of lightning. 一道闪电 】
 - `【 lighter 打火机 】`
@@ -71,25 +73,31 @@
 -
 -
 -
+-
+-
+-
 - [BB.]
 - > RAIN
-- `【 light rain. 小雨 】` // ----------- 【 light up. 照亮 v 】
-- `【 moderate rain. 中雨 】` // ---------【 moderate 适度的 adj 中等的 adj 缓和 v 】
+- `【 light rain. 小雨 】` // ------------ 【 light up. 照亮 v 】
+- `【 moderate rain. 中雨 】` // ----------【 moderate 适度的 adj 中等的 adj 缓和 v 】
 - `【 heavy rain. 大雨 】`
-- `【 torrential rain. 暴雨 】` // ------ 【 torrential 倾盆的 adj 】
+- `【 torrential rain. 暴雨 】` // ------- 【 torrential 倾盆的 adj 】
 -
 - `【 drizzle 毛毛雨 】`
 - `【 showers 阵雨n 淋浴v 】`
-- `【 thunder shower. 雷阵雨 n 】` // ----【 lightning 闪电 v n 】// 【 thunder 雷 n 雷声 n 打雷 v 】
-- `【 downpour 倾盆大雨 】` // ---------- 【 pour 倒 灌 倾泻 v 】
+- `【 thunder shower. 雷阵雨 n 】` // -----【 lightning 闪电 v n 】// 【 thunder 雷 n 雷声 n 打雷 v 】
+- `【 downpour 倾盆大雨 】` // ----------- 【 pour 倒 灌 倾泻 v 】
 -
 - `【 storm 暴风雨 】`
-- `【 snowstorm 暴风雪 】` // ----------- 【 snow 雪 n 下雪 v 】 // 【 slow 慢的 缓慢的 adj 】
+- `【 snowstorm 暴风雪 】` // ------------ 【 snow 雪 n 下雪 v 】 // 【 slow 慢的 缓慢的 adj 】
 -
-- `【 weather forest. 天气预报 】` // ---- 口语
+- `【 weather forecast. 天气预报 】` // ---- 口语
 - `【 weather predication. 天气预报 】` // 书面语 // 【 predicate 断言 v 谓语 n 】 // 【 predication 断言 n 】
 -
 - **【 The 【 weather forecast 】 says that there will be 【 light rain 】 today, 【 moderate rain 】 tomorrow, 【 heavy rain 】 【 the day after tomorrow 】, 【 torrential rain 】 【 three days from now 】. 天气预报说今天有小雨，明天有中雨，后天有大雨，大后天有暴雨 】**
+-
+-
+-
 -
 -
 -
@@ -98,14 +106,15 @@
 - > WATER
 - `【 puddle 水坑 】`
 - `【 pond 池塘 水溏 n 】`
-- `【 pool 水池 n 】` // ------------ 【 pool / poor 】
+- `【 pool 水池 n 】` // ----------------- 【 pool / poor 】
 - `【 swimming pool 游泳池 】`
 - `【 lake 湖 湖泊 n 】`
 -
 - `【 rainforest 雨林 】`
-- `【 wetland 湿地 】` // ----------- 【 wet 湿的 adj 】
-- `【 swamp 沼泽 n 】`
-- `【 mire 泥潭 n 】` // ------------ 【 mired 陷入困境 adj 】
+- `【 wetland 湿地 】` // --------------- 【 wet 湿的 adj 】
+- `【 swamp 沼泽 n 】` // --------------- 【 swan 天鹅 n 】 VS 【 swamp 沼泽 】
+- `【 mire 泥潭 n 】` // ---------------- 【 mired 陷入困境 adj 】
+- `【 mud 泥巴 n 】`
 - > 【 be deeply stuck in the mire. 深陷泥潭 】
 -
 - `【 saliva 唾液 口水 n 】`
@@ -117,6 +126,11 @@
 - `【 soap 肥皂 n 】`
 -
 -
+-
+-
+-
+-
+-
 - [DD.]
 - > WIND
 - `【 breeze 微风 n 】` // -------- 【 breeze 微风 / freeze 冻结 v 】
@@ -126,6 +140,18 @@
 - `【 a gust of wind. 一阵风 】`
 - > 【 freeze 冻结 v 】
 - > 【 frozen 冻结 past tense / adj 】
+-
+-
+-
+-
+-
+-
+-
+- [EE.]
+- `【 Pacific Ocean. 太平洋 】`
+- `【 Atlantic Ocean. 大西洋 】`
+- `【 Indian Ocean. 印度洋 】`
+- `【 Arctic Ocean. 北冰洋 】`
 
 ##### others
 

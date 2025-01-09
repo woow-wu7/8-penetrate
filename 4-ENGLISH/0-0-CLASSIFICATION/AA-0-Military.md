@@ -267,8 +267,13 @@
 - `【 submarine 潜水艇 n 】`
 - > 【 pirate ship. 海盗船 n 】
 - > 【 sailboat 帆船 n 】
+- > 【 ocean liner. 邮轮 n 】
+- > 【 yacht 游艇 n 】
+- > 【 cargo ship. 货轮 n 】
+- > 【 cruise ship. 大型邮轮 n 】
 - 311
 - `【 dock 码头n 停靠v 】`
+- `【 pier 码头 n 】`
 - `【 harbor 港口 n 】` --- 范围小
 - `【 port 港口 n 】` ----- 范围大
 - > 【 a body of water. 一片水域 】

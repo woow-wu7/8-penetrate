@@ -3,9 +3,10 @@
 ##### (1) **【 MUST 5 -The words that you mast know. 】**
 
 - [AA.]1
-- `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】
-- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】 【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】
+- `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】 // 【 lifeguard 救生员 】
+- `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】 【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】 // 【 tourist route. 旅游路线 】
 - `【 tourism 旅游业 】` // ----------------【 tourism industry. 旅游业 n 】
+- `【 touristic 旅游的 adj 】` // --------- 【 】
 - > 【 tourist visa. 旅游签证 】
 - > 【 study visa. 学生签证 】
 - > 【 business visa. 商业签证 】
@@ -13,6 +14,8 @@
 - _【 business license. 营业执照 n 】_
 - _【 revoke license. 吊销执照 v 】_ // ---- 【 revoke 撤销 v 】 VS 【 invoke 调用 v 】
 - _【 license plate. 车牌 n 】_
+- > 【 tour guide. 导游 n 】
+- > 【 life guard. 救生员 n 】
 -
 - `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
 - `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 【 travel expense. 旅行费用 】 // -------【 go traveling. 去旅行 】
@@ -26,6 +29,7 @@
 - > 【 go on a trip. = go for a trip. 去旅行 】
 - > 【 go on a vacation. = go for a vacation. 去度假 】
 -
+- `【 souvenir 纪念品 n 】`
 - `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
 - `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
 -

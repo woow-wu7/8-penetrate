@@ -194,14 +194,16 @@
 -
 -
 - 4
-- `【 texture 口感 n 】`
-- `【 mouthfeel 口感 n 】` // ----------------------- 【 a mouthful of sth. 一口... 】
+- `【 texture 口感 手感 n 】`
+- `【 mouth feel 口感 n 】` // ----------------------- 【 a mouthful of sth. 一口... 】
+- `【 hand feel. 手感 n 】`
 - > 【 appetizer 开胃菜 n 】 // --------------------- 【 fertilizer 肥料 n 】 VS 【 appetizer 开胃菜 n 】
 - > 【 dessert 甜点 n 】
 - _【 fertilizer 肥料 n 】_ // ---------------------- 【 organic fertilizer. 有机肥料 n 】 【 chemical fertilizer. 化肥 n 】
 - _【 appetizer 开胃菜 n 】_
-- **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
-- **【 The 【 appetizer 】 uses the 【 organic fertilizer 】, not 【 chemical fertilizer 】. 这个开胃菜使用的是有机肥料，而不是化肥 】**
+- .MT **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**
+- .MT **【 The 【 appetizer 】 uses the 【 organic fertilizer 】, not 【 chemical fertilizer 】. 这个开胃菜使用的是有机肥料，而不是化肥 】**
+- .HL **【 The 【 mouth feel 】 and the 【 hand feel 】 【 are different 】 【 feelings 】. 口感和手感是不同的感受 】**
 - // TIPS: Pay attention to the pronunciation of the word 'appetizer'. [appetizer-开胃菜-n]
 - // --【 appetizer 开胃菜 】
 - // --【 dessert 甜点 】

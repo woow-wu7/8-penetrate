@@ -157,10 +157,12 @@
 -
 -
 -
+-
 - [其他]
 - `【 tuition fees. 学费 】` // ------------------------ 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 physical activity. 体育活动 】` // -------------- **【 recreational activity. 娱乐活动 】 【 physical activity. 体育活动 】**
 - `【 school uniform. 校服 n 】`
-- `【 textbook 教科书 课本 n 】`
+- `【 textbook 教科书 课本 n 】` // --------------------- textbook VS texture VS textile VS text message.
 - `【 campus 校园 n 】` // ----------------------------- 【 campus violence. 校园暴力 】
 - `【 campus violence. 校园暴力 】`
 - `【 institution 机构 制度 n 】` // -------------------- 【 educational institution. 教育机构 n 】
@@ -180,6 +182,11 @@
 - _【 tuition 学费 n 】_ // ---------------------------- 【 tuition fee. 学费 n 】
 - _【 institution 机构 n 】_ // ------------------------ 【 educational institution. 教育机构 n 】 【 medical institution. 医疗机构 n 】
 - CC.
+- `【 texture 口感 手感 n 】`
+- `【 mouth feel. 口感 n 】`
+- `【 hand feel. 手感 n 】`
+- .HL **【 The 【 mouth feel 】 and the 【 hand feel 】 【 are different 】 【 feelings 】. 口感和手感是不同的感受 】**
+- DD.
 - `【 institution 机构 制度 n 】`
 - > 【 educational institution. 教育机构 n 】
 - > 【 medical institution. 医疗机构 n 】
