@@ -12,19 +12,30 @@
 - > 【 extremely spicy. 特辣 n 】 // ------------- extreme 极端的 adj
 - > 【 spicy and numbing flavour. 麻辣口味 n 】 // 【 flavour 风味 口味 】 【 taste 味道 n 品尝 v 】
 - > 【 spicy and numbing hot pot. 麻辣火锅 n 】 // 【 hot pot. 火锅 】
-- 【 media 媒体 】 VS 【 medium 中等的 adj / 介质 媒介 n 】
+- 【 medium 中等的 adj / 介质 媒介 n 】 VS【 media 媒体 】
 - 【 hot pot. 火锅 n 】 VS 【 tea pot 茶壶 】
 - 【 propagate sound. 传播声音 v 】= spread sound. = transmit sound.
+- AA.
+- > 【 social media. 社交媒体 】
+- > 【 social contradiction. 社会矛盾 】 // 【 family contradiction. 家庭矛盾 】
+- > 【 social status. 社会地位 】
+- > 【 social security. 社保 】
+- > 【 social welfare. 社会福利 】
+- BB.
 - _【 medium size. 中等尺寸 】_
 - _【 medium income. 中等收入 】_
+- _【 medium-sized. 中等规模的 adj 】_
+- CC.
 - > 【 slight injury. 轻伤 n 】
 - > 【 slight pain. 轻微疼痛 n 】
+- DD.
 - _【 extreme weather. 极端天气 】_
 - _【 extreme cold. 极端寒冷 】_
 - _【 extremely spicy. 特辣 n 】_
 - _【 extremely important. 及其重要 】_
 - _【 extremely difficult. 及其困难 】_
 - _【 extremely rare. 及其罕见 】_
+
 - aroma .HL **【 The 【 spicy and numbing hot pot 】 【 release an aroma 】. 这个麻辣火锅散发着香味 】**
 - medium .HL **【 【 Propagating 】 sounds in the air 【 requires 】 【 medium 】. 在空气中传播声音需要介质 】**
 - spicy .MT **【 The 【 slightly spicy 】, 【 medium spicy 】, 【 extremely spicy 】 are 【 extremely import 】 【 for 】 the Chongqing market. 微辣中辣特辣对重庆市场及其要 】**
@@ -89,8 +100,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'greasy'. [greasy-油腻的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'aroma'. [aroma-香味-n]
 -
-- 1 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
-- 2 .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
+- 1 .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
+- 2 .MT **【 After eating food 【 with 】 【 spicy and numbing flavour 】, your 【 tongue 】 will feel very 【 numb 】. 吃了麻辣口味的食物，你的舌头会变得很麻木 】**
 - 3 .MT **【 Life has 【 all kinds of 】 【 experiences 】, such as 【 sour 】, 【 sweet 】, 【 bitter 】, 【 spicy 】, 【 salty 】, 【 fishy 】. 人生有酸甜苦辣咸腥各种体验 】**
 - // -- 【 experience 经验 体验 v n 】
 - // -- 【 tongue 舌头 n 】 VS 【 tone 音调 语气 n 】
@@ -120,19 +131,15 @@
 - // -- 【 greatly worship. 非常钦佩 v 】
 -
 - CC.
-- `【 spicy and numbing hot pot. 麻辣火锅 n 】`
-- `【 spicy and numbing flavour. 麻辣口味 n 】`
-- // TIPS: Pay attention to the pronunciation of the word 'numbing'. [numbing-麻木的-adj]
--
-- DD.
 - `【 media 媒体 n 】`
 - `【 medium 中等的 adj / 介质 n 】`
-- **【 The 【 media 】 is 【 a kind of 】 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
+- .MT **【 The 【 media 】 is 【 a kind of 】 【 medium 】 for 【 spreading 】 news. 媒体是传播新闻的一种介质 】**
+- **【 【 Sound 】 require 【 medium 】 to 【 propagate 】. 声音传播需要介质 】**
 - // -- spread 传播 v
 - // -- propagate 传播 v
 - // -- transmit 传输 传播 v
 -
-- EE.
+- DD.
 - `【 propagate 传播 v 】` // --------------------- 【 propagate disease. 传播疾病 v 】
 - `【 spread 传播 v 】` // ------------------------ 【 spread disease. 传播疾病 v 】
 - `【 transmit 传播 v 】` // ---------------------- 【 transmit disease. 传播疾病 v 】
@@ -165,6 +172,7 @@
 - _【 raw rice. 生米 n 】_
 - _【 cooked rice. 熟饭 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'vinegar'. [vinegar-醋-n]
+- // TIPS: Pay attention to the pronunciation of the word 'liquor'. [liquor-酒-n]
 -
 -
 -

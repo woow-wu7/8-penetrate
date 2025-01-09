@@ -90,10 +90,13 @@
 - `【 review lesson. 复习功课 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
+- _【 exclamation mark. 感叹号 】_
+- _【 ellipsis mark. 省略号 】_
 - _【 single quotation marks. 单引号 】_
 - _【 double quotation marks. 双引号 】_
 - _【 exclamation mark. 感叹号 】_ // ------------- 【 interjection 感叹词 】 // interjection Vs intersection VS interaction VS conjunction VS junction VS section
-- _【 ellipsis mark. 省略号 】_
+- _【 bookmark. 书签 n 】_
+- _【 sticker 贴纸 n 】_
 - 【 round brackets. 小括号 】
 - 【 square brackets. 中括号 】
 - 【 curly brackets. 大括号 】

@@ -98,10 +98,12 @@
 - `【 full stop. 句号 n 】` = period.
 - _【 mark 标记 记号 分数 n 】_ VS symbol VS sign
 - `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
-- `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
-- `【 double quotation marks. 双引号 n 】`
 - `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】`
 - `【 ellipsis mark. 省略号 n 】`
+- `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
+- `【 double quotation marks. 双引号 n 】`
+- `【 bookmark 书签 n 】`
+- `【 full marks. 满分 n 】`
 - _【 brackets 括号 n 】_
 - `【 round brackets. 小括号 n 】` // ---------------------------- 【 this round of. 这一轮的 】 // This round of layoffs.
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
@@ -112,7 +114,7 @@
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
 - .MT **【 Her 【 curly hair 】 【 looks like 】 many 【 curly brackets 】. 她的卷发像很多大括号 】**
-- **【 The shape of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
+- **【 The 【 shape 】 of His 【 curly hair 】 is 【 likes 】 【 curly brackets 】. 她卷发的形状像个大括号 】**
 - // -- 【 look like. 看起来像 】
 - BB.
 - _【 period 句号 一段时间 n 】_
