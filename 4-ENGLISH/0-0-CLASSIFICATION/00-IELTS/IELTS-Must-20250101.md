@@ -195,3 +195,22 @@
 - > 【 organic fertilizer. 有机肥料 n 】 // ------- 【 organic food. 有机食物 n 】
 - > 【 chemical fertilizer. 化肥 n 】
 - **【 【 Organic fertilizers 】 don't 【 affect 】 the 【 texture 】 of the 【 appetizers 】. 有机肥料不会影响开胃菜的口感 】**
+
+###### Must 2025-01-10
+
+- 1
+- `【 intense 强烈的 激烈的 adj 】`
+- `【 tense 紧张的 adj 】`
+- `【 intent 目的 意图 n 】`
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 caption 字幕  说明文字 n 】`
+- `【 captain 船长 n 】`
+- > 【 caption 字幕 说明文字 n 】
+- > 【 subtitle 字幕 n 】

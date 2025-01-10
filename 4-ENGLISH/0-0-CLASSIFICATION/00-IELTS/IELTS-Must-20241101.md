@@ -1158,6 +1158,9 @@
 - `【 in need. 需要 】`
 - **【 Please offer your seats to anyone 【 in need 】. 请给有需要的人让座 】**
 -
+- `【 in person. 亲自 】`
+- **【 This time, The 【 captain 】 【 gave the order 】 【 in person 】. 这次，船长亲自下达了命令 】**
+-
 - _【 in confusion. 疑惑地 adv 】_
 - > 【 looked confused. 看上去很疑惑 】
 - .MT **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
