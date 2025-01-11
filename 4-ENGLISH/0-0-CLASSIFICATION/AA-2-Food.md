@@ -17,9 +17,9 @@
 - 【 propagate sound. 传播声音 v 】= spread sound. = transmit sound.
 - AA.
 - > 【 social media. 社交媒体 】
-- > 【 social contradiction. 社会矛盾 】 // 【 family contradiction. 家庭矛盾 】
+- > 【 social contradiction. 社会矛盾 】 // 【 family contradiction. 家庭矛盾 】 // contradiction VS conflict
 - > 【 social status. 社会地位 】
-- > 【 social security. 社保 】
+- > 【 social security. 社保 】 = social insurance.
 - > 【 social welfare. 社会福利 】
 - BB.
 - _【 medium size. 中等尺寸 】_
@@ -70,7 +70,7 @@
 - `【 greasy 油腻的 adj 】` // ----------------- 【 greasy skin. 油性皮肤 n 】 【 greasy hair. 油性头发 】
 - `【 bland 淡而无味的 adj 】_`
 - > 【 crispy rice. 锅巴 】
-- > 【 crispy texture. 脆脆的口感 】 // --------- texture VS textile VS textbook VS text message.
+- > 【 crispy texture. 脆脆的口感 】 // --------- // texture VS textile VS textbook VS text message. // texture = mouth feel. // hand feel. // mouth feel.
 - _【 greasy skin. 油性皮肤 n 】_
 - _【 greasy hair. 油性头发 n 】_
 - .MT **【 The 【 crispy rice 】 has a 【 crispy texture 】. 这个锅巴有脆脆的口感 】**
@@ -122,13 +122,19 @@
 - > hardship VS internship VS scholarship VS worship VS warship VS relationship
 - .MT **【 Everyone should 【 experience 】 the 【 hardship 】 of 【 farmers 】. 每个人都应该体验农民的艰辛 】**
 - .HL **【 I 【 greatly 】 【 worship 】 the 【 navy 】 who 【 operate the 【 warships 】 】 and the 【 pirate 】 who 【 sail pirate ships 】. 我十分崇拜开战舰的海军和开海盗船的海盗 】**
-- // -- 【 hardship 艰辛 n 】
-- // -- 【 experience 经验 体验 n 】
+- // --
+- // 【 hardship 艰辛 n 】
+- // 【 experience 经验 体验 n 】
+- // --
+- // 【 hardship VS internship VS scholarship VS worship VS warship VS relationship 】
+- // --
+- // 【 greatly worship. 非常钦佩 v 】
+- // --
 - // -- farmer 农民 n
 - // -- navy 海军
 - // -- naval 海军的 adj // 【 naval base. 海军基地 n 】 【 naval fleet. 海军舰队 】
 - // -- pirate 海盗 n // 【 pirate flag. 海盗旗 】 【 pirate ship. 海盗船 】
-- // -- 【 greatly worship. 非常钦佩 v 】
+-
 -
 - CC.
 - `【 media 媒体 n 】`
@@ -144,6 +150,7 @@
 - `【 spread 传播 v 】` // ------------------------ 【 spread disease. 传播疾病 v 】
 - `【 transmit 传播 v 】` // ---------------------- 【 transmit disease. 传播疾病 v 】
 - **【 She 【 transmitted 】 the 【 cold virus 】 to me. 她把感冒病毒传染给了我 】**
+-
 -
 -
 -
@@ -176,6 +183,8 @@
 -
 -
 -
+-
+-
 - 3
 - `【 chili 辣椒 n 】`
 - `【 scallion 大葱 n 】`
@@ -185,12 +194,15 @@
 - `【 Sichuan pepper. 花椒 n 】`
 - `【 pepper 胡椒 甜椒 n 】`
 - > 【 garlic 大蒜 n 】
-- > 【 organic 有机的 adj 】
+- > 【 organic 有机的 adj 】 // --------------------- 【 organic food. 有机食品 】 【 organic fertilizer. 有机肥料 】
 - _【 organic food. 有机食品 n 】_
 - _【 organic fertilizer. 有机肥料 n 】_
 - _【 chemical fertilizer. 化肥 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'garlic'. [garlic-大蒜-n]
 - // TIPS: Pay attention to the pronunciation of the word 'scallion'. [scallion-大葱-n]
+-
+-
+-
 -
 -
 - 4
@@ -213,6 +225,13 @@
 - `【 texture 口感 n 】` = mouthfeel
 - `【 text message. 短信 n 】`
 - .MT **【 The 【 textbook 】 says that the 【 textile 】 has a good 【 texture 】. 教科书上说纺织品的口感不错 】**
+- 4.2
+- `【 appetizer 开胃菜 n 】`
+- `【 fertilizer 肥料 】`
+- > 【 chemical fertilizer. 化肥 n 】
+- > 【 organic fertilizer. 有机肥料 n 】
+- .MT **【 The 【 appetizer 】 uses the 【 organic fertilizer 】, not 【 chemical fertilizer 】. 这个开胃菜使用的是有机肥料，而不是化肥 】**
+-
 -
 -
 -
@@ -222,14 +241,18 @@
 - `【 rice 大米 n 】`
 -
 - `【 a case of. 一箱 】` = a box of. 一箱 n
+- `【 a box of. 一箱 】`
 - **【 The 【 deer 】 【 imagined 】 that it 【 tasted 】 【 a case of 】 beer 【 with 】 a great 【 taste 】. 这头鹿想象它品尝了一箱口感不错的啤酒 】**
 -
 - `【 squander 浪费 v n 】` // -------------------- 【 squander money. 浪费金钱 】 【 squander time. 浪费时间 】
 - `【 splurge 挥霍 v n 】` // --------------------- 【 splurge money. 挥霍金钱 】 【 splurge youth. 挥霍青春 】
+- > 【 splurge money. 挥霍金钱 】
+- > 【 splurge youth. 挥霍青春 】 // --------------- 【 youth hostel. 青年旅舍 n 】
+- _【 youth hostel. 旅社 】_
+- _【 hostel 旅社 n 】_ VS _【 hospital 医院 n 】_
 - .MT **【 To 【 splurge money 】is to 【 splurge youth 】, to 【 squander money 】 is to 【 squander time 】. 挥霍金钱意味着挥霍青春，浪费金钱意味着浪费时间 】**
 - .MT **【 It's 【 shameful 】 to 【 squander 】 food. 浪费粮食可耻 】**
 - // -- shameful 可耻的 丢脸的 adj
--
 -
 - AA.
 - `【 material 材料 n 】`
@@ -388,6 +411,7 @@
 - `【 harbor 港口 n 】` // ------------------------- 【 dock 码头 n 】 VS 【 duck 鸭子 n 】 // 【 wild duck. 野鸭 】 【 peking duck. 北京烤鸭 】
 - > 【 small portion. 小份 】
 - > 【 large portion. 大份 】
+- .MT **【 I 【 ordered 】 two 【 large portions of 】 takeout. 我点了两份大份的外卖 】**
 - .MT **【 I 【 ordered 】 a 【 small portion 】 of 【 takeout 】. 我点了一份小份的外卖 】**
 -
 -
@@ -400,9 +424,17 @@
 - _【 receipt VS invoice 】_
 - _【 receipt VS debt 】_
 - > 【 approve / improve / prove / proof 】
+- // TIPS: Pay attention to the pronunciation of the word 'recipe'. [recipe-食谱-n]
 - .HL **【 Keep the 【 receipt 】 as 【 proof 】 of 【 purchase 】. 保存好收据作为购货凭证 】**
 - .HL **【 There are some 【 recipe 】 information on the 【 receipt 】. 收据上有食谱的信息 】**
 - .MT .HL **【 We will 【 issue an invoice 】 and 【 issue a receipt 】 【 for 】 you. 我们会给你开发票和收据 】**
+-
+-
+-
+-
+- 4
+- `【 go viral. 走红 迅速传播 v 】`
+- **【 This dish has 【 gone viral 】 【 on 】 the 【 social media 】. 这道菜在社交媒体上迅速走红 】**
 -
 -
 -

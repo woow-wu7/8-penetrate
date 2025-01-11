@@ -117,6 +117,12 @@
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
 - // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹词-n]
+- _【 comparison symbol. 比较符 n 】_
+- `【 greater than. 大于 】` // ---------------------------------- 【 greater than symbol. 大于符号 n 】
+- `【 less than. 小于 】` // ------------------------------------- 【 less than symbol. 小于符号 n 】
+- `【 greater than symbol. 大于符号 n 】`
+- `【 less than symbol. 小于符号 n 】`
+-
 - AA.
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
@@ -143,7 +149,13 @@
 - // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹号-感叹-n]
 - Ee.
+- exclamation mark. 感叹号 n
 - **【 You need to 【 pay particular attention 】 to the position of the 【 exclamation mark 】 in the sentence. 你需要特别注意感叹号在这个句子中的位置 】**
+- FF.
+- greater than. 大于
+- greater than symbol. 大于符号
+- **【 【 Since 】 7 is 【 greater than 】 6, the 【 greater than symbol 】 should be used. 因为 7 大于 6，所以要使用大于符号 】**
+- // -- since 自从 因为
 -
 -
 -

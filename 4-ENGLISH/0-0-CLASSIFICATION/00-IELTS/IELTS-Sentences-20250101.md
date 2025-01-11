@@ -1875,3 +1875,59 @@ The 【 textbook 】 says that the 【 textile 】 has a great 【 texture 】.
 9
 这头鹿想象着自己品尝了一箱香气扑鼻的啤酒
 ```
+
+##### 27 Make sentences 2025-01-27
+
+```
+1
+我点了两份大份的外卖
+
+
+2
+这道菜在社交媒体上迅速走红
+
+
+
+3
+He is 【 considering 】 how to become more 【 considerate 】.
+他在思考如何变得更体贴
+// -
+// 【 consider 思考 考虑 v 】
+// 【 considerate 体贴的 adj 】
+
+
+4
+You need to 【 pay particular attention to 】 the position of the 【 exclamation mark 】 in the sentence.
+你需要特别注意感叹号在这个句子中的位置
+// -
+// 【 pay particular attention to. 特别注意 v 】
+// 【 exclamation mark. 感叹号 】
+// -
+// question mark.
+// exclamation mark.
+// ellipsis mark.
+// singer quotation marks.
+// double quotation marks.
+// full marks.
+// bookmark.
+// -
+// round brackets.
+// square brackets.
+// curly brackets.
+// -
+// comma 逗号
+// period 句号 一段时间 n
+
+
+5
+【 Since 】 7 is 【 greater than 】 6, the 【 greater than symbol 】 should be used.
+因为 7 大于 6，所以要使用大于符号
+// -
+// greater than. 大于
+// less than. 小于
+// -
+// greater than symbol. 大于符号
+// less than symbol. 小于符号
+// -
+// since 自动 因为
+```
