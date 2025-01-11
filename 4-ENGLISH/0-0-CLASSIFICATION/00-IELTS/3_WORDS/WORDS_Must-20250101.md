@@ -57,7 +57,7 @@
 - `【 fragment 片段 n 】`
 - _【 flower fragrance. 花香 n 】_
 -
-- .MT **【 The 【 approach 】 that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】. 这个被推荐的方法，不仅特别的方法，而且是科学的方法 】**
+- .MT **【 The 【 approach 】 that has been 【 recommended 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】.  】**
 - .MT **【 After you 【 approach 】 the flower, 【 its 】 【 fragrance 】 is 【 strong 】 【 in particular 】. 靠近这朵花之后，它的香味尤其浓烈 】**
 - // --
 - // 【 not only ... but also ... 不仅而且 】

@@ -1880,11 +1880,34 @@ The 【 textbook 】 says that the 【 textile 】 has a great 【 texture 】.
 
 ```
 1
+I have 【 ordered 】 【 two large portion of 】 【 takeout 】.
 我点了两份大份的外卖
+// -
+// portion 部分 一份 n
+// port 港口 端口 n
+// part 部分 n
+// -
+// port 港口
+// harbor 港口
+// -
+// large portion. 大份
+// small portion. 小份
+// -
+// tow large portion of. 两份大份的...
+// takeout 外卖 n
+// order 订购 v
+// -
 
 
 2
+This dish has 【 gone viral 】 【 on 】 the 【 social medias 】.
 这道菜在社交媒体上迅速走红
+// -
+// go viral. 迅速走红 像病毒一样传开
+// -
+// virus 病毒 n
+// bacterial 细菌 n
+// fungus 真菌 n
 
 
 
@@ -1894,6 +1917,7 @@ He is 【 considering 】 how to become more 【 considerate 】.
 // -
 // 【 consider 思考 考虑 v 】
 // 【 considerate 体贴的 adj 】
+
 
 
 4
@@ -1917,6 +1941,11 @@ You need to 【 pay particular attention to 】 the position of the 【 exclamat
 // -
 // comma 逗号
 // period 句号 一段时间 n
+// -
+// 【 particular 特别的 adj 】
+// 【 particular approach. 特别的方法 】
+// 【 particular sphere. 特别的领域 】 // sphere 球 领域 n
+
 
 
 5
@@ -1930,4 +1959,115 @@ You need to 【 pay particular attention to 】 the position of the 【 exclamat
 // less than symbol. 小于符号
 // -
 // since 自动 因为
+
+
+
+6
+The 【 approach 】 that has been 【 recommend 】 is not only a 【 particular approach 】 but also a 【 scientific approach 】.
+这个被推荐的方法，不仅特别的方法，而且是科学的方法
+// -
+// 【 approach 方法 n / 靠近 v 】
+// 【 recommend 推荐 v 】
+// -
+// 【 particular approach. 特别的方法 n 】
+// 【 scientific approach. 科学的方法 n 】
+// -
+// approach 方法n 靠近v
+// method 方法
+// -
+// teaching method. 教学方法
+// -
+// TIPS: Pay attention to the pronunciation of the word 'method'. [method-方法-办法-n]
+
+
+7
+【 Exercise 】, 【 rest 】, 【 meditation 】 can all 【 relieve anxiety 】.
+运动，休息，冥想都可以缓解焦虑
+// -
+// 【 anxiety 焦虑 n 】
+// 【 anxious 焦虑的 adj 】
+// -
+// 【 relieve anxiety. 减轻焦虑 缓解焦虑 v 】
+// -
+// relieve pain. 减轻疼痛 v
+// relieve pressure. 减轻压力 v
+// relieve tension. 缓解紧张 v
+
+
+8
+You can 【 choose 】 different products 【 according to 】 your 【 personal preference 】.
+你可以根据你的个人喜好选择不同的产品
+-
+【 Takeouts 】 and 【 snacks 】 which one do you 【 prefer 】?
+外卖和零食你更喜欢哪个？
+-
+// -
+// chose -> choose
+// -
+// 【 personal preference. 个人喜好 】
+// -
+// prefer 更喜欢 v
+// preference 喜好 n
+// -
+// takeout 外卖 n
+// snack 小吃 零食 n
+```
+
+##### 28 Make sentences 2025-01-28
+
+```
+1
+你需要特别注意感叹号在这个句子中的位置
+
+
+2
+因为 7 大于 6，所以要使用大于符号
+
+
+3
+这个被推荐的方法，不仅特别的方法，而且是科学的方法
+
+
+4
+运动，休息，冥想都可以缓解焦虑
+
+
+5
+你可以根据你的个人喜好选择不同的产品
+-
+外卖和零食你更喜欢哪个？
+
+
+6
+他在思考如何变得更体贴
+
+
+7
+我点了两份大份的外卖
+
+
+8
+这道菜在社交媒体上迅速走红
+```
+
+
+##### 28 Make sentences 2025-01-29
+```
+1
+他在思考如何变得更体贴
+
+
+2
+你需要特别注意感叹号在这个句子中的位置
+
+
+
+3
+请不要过度焦虑
+-
+运动，休息，冥想都可以缓解焦虑
+
+
+4
+冥想有助于解决这个棘手的问题
 ```
