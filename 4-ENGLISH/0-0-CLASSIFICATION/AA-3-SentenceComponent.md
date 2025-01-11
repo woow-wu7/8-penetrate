@@ -8,7 +8,7 @@
 - > 【 present tense. 现在时态 】
 - > 【 simple present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
-- > 【 present 【 progressive 】 tense. 现在进行时 】
+- > 【 present 【 continuous 】 tense. 现在进行时 】
 - AA.
 - **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // -------【 present tense. 现在时态 】 【 simple present tense. 】
 - **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
@@ -22,7 +22,7 @@
 - `【 present tense. 现在时态 】`
 - `【 simple present tense. 一般现在时态 】`
 - `【 present 【 perfect 】 tense. 现在完成时态 】`
-- `【 present 【 progressive 】 tense. 现在进行时态 】`
+- `【 present 【 continuous 】 tense. 现在进行时态 】`
 - > 【 progressive 进步的 进行时态的 adj 】`
 - > 【 progressive tense. 进行时态 】
 - > 【 progressive youth. 进步青年 】
@@ -30,6 +30,13 @@
 - // 【 动词的 (过去分词): ------ 用在 ( 完成时 和 被动语态 ) 中 】
 - // -- have/have + V 的过去分词
 - // -- be + V 的过去分词
+- // TIPS: Pay attention to the pronunciation of the word 'progressive'. [progressive-进步的-adj]
+-
+- _【 continuous 连续的 持续的 不断的 adj 】_
+- _【 present continuous tense. 现在进行时 】_
+- **【 【 As long as 】 you 【 make an effort 】 to 【 learn present continuous tense 】, you will 【 make progress 】. 只要努力学习现在进行时，就一个会取得进步 】**
+- // -- 【 make progress. 取得进步 v 】
+- // -- 【 make an effort to do sth. 努力做某事 】
 -
 - **【 voice 语态 声音 n 】**
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
@@ -135,6 +142,8 @@
 - // TIPS: Pay attention to the pronunciation of the word 'square'. [square-广场-正方形-平方-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'curly'. [curly-卷曲的-adj]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹号-感叹-n]
+- Ee.
+- **【 You need to 【 pay particular attention 】 to the position of the 【 exclamation mark 】 in the sentence. 你需要特别注意感叹号在这个句子中的位置 】**
 -
 -
 -
@@ -161,6 +170,7 @@
 - `【 plural noun. 复数名词 n 】`
 - > What's the 【 position 】 of the 【 preposition 】 in the sentence?
 - > What's the 【 position 】 of the 【 auxiliary verb 】 in the sentence? 助动词在句子中的位置是什么？
+- > You need to 【 pay particular attention 】 to the position of the 【 exclamation mark 】 in the sentence. 你需要特别注意感叹号在这个句子中的位置
 - // TIPS: Pay attention to the pronunciation of the word 'adjective'. [adjective-形容词-n]
 -
 - `【 tone 语气 音调 n 】` // ----------- [痛] // 【 tone / tongue 】

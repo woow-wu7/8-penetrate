@@ -424,6 +424,7 @@
 -
 - `【 taro 芋头 n 】`
 - `【 avocado 牛油果 n 】`
+- `【 seaweed 海带 n 】`
 -
 - `【 pasta 意大利面 n 】`
 -
@@ -452,6 +453,12 @@
 
 ##### (5) **【 Animal - Cuisine 美食 饭菜 】**
 
+- `【 milk 牛奶 n 】`
+- `【 pure milk. 纯牛奶 n 】`
+- `【 soybean milk. 豆浆 n 】`
+- `【 yogurt 酸奶 n 】`
+- `【 cheese 奶酪 n 】`
+-
 - turkey 火鸡 n
 - meat ball. 肉丸
 -

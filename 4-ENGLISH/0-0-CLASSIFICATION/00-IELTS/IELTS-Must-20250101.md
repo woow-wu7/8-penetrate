@@ -214,3 +214,14 @@
 - `【 captain 船长 n 】`
 - > 【 caption 字幕 说明文字 n 】
 - > 【 subtitle 字幕 n 】
+
+###### Must 2025-01-11
+
+- `【 probability 概率 可能性 n 】`
+- `【 proportion 比例 n 】`
+-
+- > 【 probable 可能的 adj 】
+- > 【 probably 可能地 adv 】
+- > 【 probability 概率 可能性 n 】
+- 
+- **【 】**
