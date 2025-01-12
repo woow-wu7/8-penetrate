@@ -454,6 +454,15 @@
 - `【 raw rice. 生米 】`
 - `【 cooked rice. 熟饭 】`
 -
+- `【 soybean 大豆 黄豆 n 】`
+- `【 green bean. 四季豆 n 】`
+- `【 red bean. 红豆 n 】`
+- `【 pea 豌豆 n 】` // ---------------------------- 【 pea 豌豆 n 】 VS 【 tea 茶 n 】
+- > 【 soybean 大豆 黄豆 n 】
+- > 【 soybean milk. 豆浆 n 】
+- _【 pea 豌豆 n 】_
+- _【 tea 茶 n 】_
+-
 - `【 taro 芋头 n 】`
 - `【 avocado 牛油果 n 】`
 - `【 seaweed 海带 n 】`

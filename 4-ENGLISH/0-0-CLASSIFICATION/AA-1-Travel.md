@@ -16,6 +16,9 @@
 - _【 license plate. 车牌 n 】_
 - > 【 tour guide. 导游 n 】
 - > 【 life guard. 救生员 n 】
+- 【 ski resort. 滑雪场 n 】
+- 【 tourist resort. 旅游胜地 n 】
+- 【 tourist attraction. 旅游胜地 n 】
 -
 - `【 tour 旅游 旅行 v n 】` // ------------ 【 tour guide. 导游 】
 - `【 travel 旅游 旅行 v n 】` ---- 长时间 // 【 travel agency. 旅行社 】 【 travel expense. 旅行费用 】 // -------【 go traveling. 去旅行 】
