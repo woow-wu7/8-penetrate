@@ -311,6 +311,16 @@
 - > 【 automatic transmission. 自动档 n 】
 - > //【 data transmission. 数据传输 n 】
 -
+- `【 cure 治疗 治愈 v 】`
+- `【 treat 治疗 对待 v 】`
+- **【 This 【 medicine 】 can 【 cure 】 diseases. 这个药可以治疗疾病 】**
+-
+- `【 liter 升 公升 n 】`
+- `【 milliliter 毫升 n 】`
+- > 【 liter 升 公升 n 】
+- > 【 letter 信 n 】
+- **【 How many 【 milliliters 】 is this 【 bottle of 】 water? 这瓶水是多少毫升？ 】**
+-
 - `【 oral 口头的 adj 】`
 - `【 oral medicine. 口服药 n 】`
 - `【 oral promise. 口头承诺 】`
