@@ -6,7 +6,7 @@
 - `【 tour 旅游 旅行 v n 】` // -------------【 tour guide. 导游 】 // 【 lifeguard 救生员 】
 - `【 tourist 游客 n 】` // ----------------【 tourist attraction. 旅游胜地 】 【 tourist resort. 旅游胜地 】 【 tourist visa. 旅游签证 】 // 【 tourist route. 旅游路线 】
 - `【 tourism 旅游业 】` // ----------------【 tourism industry. 旅游业 n 】
-- `【 touristic 旅游的 adj 】` // --------- 【 】
+- `【 touristic 旅游的 adj 】`
 - > 【 tourist visa. 旅游签证 】
 - > 【 study visa. 学生签证 】
 - > 【 business visa. 商业签证 】
@@ -32,6 +32,7 @@
 - `【 souvenir 纪念品 n 】`
 - `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
 - `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
+- .MT **【 The 【 tour guide 】 asked the 【 tourists 】 to buy the 【 souvenirs 】. 导游让乘客买纪念品 】**
 -
 - .MT **【 Everyone 【 definitely 】 has different 【 destiny 】 that leads them to reach the different 【 destinations 】. 每个人肯定有不同的命运，使其到达不同的目的地 】**
 - // -- destiny 命运 n = fate.
@@ -311,7 +312,15 @@
 - **【 University students like to 【 camp 】 【 on 】 the 【 campus 】. 大学生喜欢在校园里露营 】**
 - **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新推出了一个夏令营活动 】**
 
-##### (2) **The phrase that you mast know.**
+##### (2) **【 MUST 5 - Expand - The words that you mast know. 】**
+
+- 1
+- `【 souvenir 纪念品 n 】`
+- **【 The 【 tour guide 】 asked the 【 tourists 】 to buy the 【 souvenirs 】. 导游让乘客买纪念品 】**
+- // -- 【 ask sb to do sth. 让某人做某事 v 】
+- // -- souvenir 纪念品 n
+
+##### (3) **【 The phrase that you mast know. 】**
 
 - 1
 - `【 take off. 起飞 脱下 】`

@@ -2050,8 +2050,8 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 这道菜在社交媒体上迅速走红
 ```
 
+##### 29 Make sentences 2025-01-29
 
-##### 28 Make sentences 2025-01-29
 ```
 1
 他在思考如何变得更体贴
@@ -2078,4 +2078,33 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 
 6
 这瓶水是多少毫升？
+-
+两升水可以溶解一斤信件和一吨垃圾
+
+
+7
+导游让乘客买纪念品
+```
+
+##### 30 Make sentences 2025-01-30
+
+```
+1
+这瓶水是多少毫升？
+-
+两升水可以溶解一斤信件和一吨垃圾
+
+
+2
+导游让乘客买纪念品
+
+
+3
+每个人肯定有不同的命运，使其到达不同的目的地
+
+
+4
+总的来说，人们是善良的
+-
+一般来说，我们不建议在组件上使用自定义指令
 ```
