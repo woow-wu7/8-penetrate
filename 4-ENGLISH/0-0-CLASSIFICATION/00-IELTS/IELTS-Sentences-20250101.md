@@ -2112,3 +2112,16 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 5
 我们需要尊重当地穆斯林的传统
 ```
+
+##### 30 Make sentences 2025-01-31
+
+```
+1
+我不能原谅他经常熬夜的行为
+-
+她命令并要求我给她公开道歉，否则她不会原谅我
+
+
+2
+他安慰我后，我不再难过了
+```
