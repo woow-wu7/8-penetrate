@@ -88,9 +88,17 @@
 -
 -
 -
--
--
 - 2
+- `【 at any minute. 随时 马上 】`
+- .MT **【 The war may 【 break out 】 【 at any minute 】. 战争可能随时会爆发 】**
+- .MT **【 the war 【 break out 】 on a new 【 battlefield 】. 战争在新的战场爆发了 】**
+- // -- break out. 爆发
+- // -- battlefield 战场
+-
+-
+-
+-
+- 3
 - `【 bomb 炸弹 n 】` // ------------------ 【 atom bomb. 原子弹 n 】
 - `【 womb 子宫 n 】`
 - `【 tomb 坟墓 n 】`
@@ -712,6 +720,8 @@ physical conflict. 肢体冲突
 -
 - `【 aggressive war. 侵略战争 n 】` // --------- 【 【 launch 】 an aggressive war. 发动侵略战争 v 】
 - `【 break out. 爆发 v 】` // ----------------- 【 the war 【 break out 】 on a new battlefield. 战争在新的战场爆发了 】
+- .MT **【 The war may 【 break out 】 【 at any minute 】. 战争可能随时会爆发 】**
+- .MT **【 the war 【 break out 】 【 on 】 a new 【 battlefield 】. 战争在新的战场爆发了 】**
 -
 - AA.
 - > 【 chase 追逐 追捕 v 】 // ------------------ 【 chase dream. 追逐梦想 v 】 【 chase fugitive. 追捕逃犯 v 】

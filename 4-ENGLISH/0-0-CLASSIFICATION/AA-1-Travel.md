@@ -315,13 +315,41 @@
 - **【 University students like to 【 camp 】 【 on 】 the 【 campus 】. 大学生喜欢在校园里露营 】**
 - **【 This 【 company 】 has 【 rolled out 】 a new 【 summer camp 】【 activity 】. 这家公司新推出了一个夏令营活动 】**
 
-##### (2) **【 MUST 5 - Expand - The words that you mast know. 】**
+##### (2) **【 MUST 2 - Expand - The words that you mast know. 】**
 
 - 1
 - `【 souvenir 纪念品 n 】`
-- **【 The 【 tour guide 】 asked the 【 tourists 】 to buy the 【 souvenirs 】. 导游让乘客买纪念品 】**
+- **【 The 【 tour guide 】 【 asked 】 the 【 tourists 】 to buy the 【 souvenirs 】. 导游让乘客买纪念品 】**
 - // -- 【 ask sb to do sth. 让某人做某事 v 】
 - // -- souvenir 纪念品 n
+-
+-
+-
+-
+- 2
+- `【 peak season. = busy season. 旺季 】`
+- `【 off-season. = slow season. 淡季 】`
+- > 【 peak 高峰 n / 高峰期的 adj 】
+- > 【 peak season for tourism. 旅游旺季 】
+- > 【 off-season for tourism. 旅游淡季 】
+- _【 peak season for sales. 销售旺季 】_
+- _【 off-season for sales. 销售旺季 】_
+- .MT **【 Whether it's the 【 peak season 】 for tourism or the 【 off-season for tourism 】, there are always many tourists here. 无论是旅游旺季或淡季，这里游客都很多 】**
+- .MT **【 【 Discounts 】 and 【 promotions 】 are the 【 effective means 】 to 【 drive sales 】 in 【 slow seasons 】. 打折和促销活动是在淡季促进销售的有效手段 】**
+- // --
+- // 句首: whether or. 无论...还是...
+- // 句中: whether or. 是...还是...
+- // --
+- //【 peak season for tourism. 旅游旺季 】 // peak season. = busy season.
+- //【 off-season for tourism. 旅游淡季 】 // off-season. = slow season.
+- // --
+- // 【 drive sales. 促进销售增长 】
+- // 【 peak season for sales. 销售旺季 】
+- // 【 off-season for sales. 销售旺季 】
+- // --
+- // effective means. 有效手段
+- // military means. 军事手段
+- // common means. 常见手段
 
 ##### (3) **【 The phrase that you mast know. 】**
 
