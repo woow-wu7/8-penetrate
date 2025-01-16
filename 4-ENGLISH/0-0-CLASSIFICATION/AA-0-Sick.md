@@ -43,6 +43,7 @@
 - > specialty food. 特色食品 n
 - > 【 specialist clinic. 专科医院 】
 - [Related-link][Must 2024-12-02](./IELTS-Must-20241201.md)
+- .HL **【 The 【 specialty store 】 sales 【 souvenirs 】. 这个专卖店卖纪念品 】**
 - .MT **【 This 【 specialty store 】 sales 【 specialty food 】. 这个专卖店卖特色食品 】**
 - .MT **【 The person who 【 specializes in 】 the 【 special 】 【 field 】 is called 【 specialist 】. 专攻某个特殊领域的人称为专家 】**
 -

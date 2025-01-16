@@ -2116,6 +2116,15 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 ##### 30 Make sentences 2025-01-31
 
 ```
+-1
+导游让游客买纪念品
+-
+这个专卖店卖纪念品
+-
+专攻某个特殊领域的人称为专家
+
+
+
 1
 我不能原谅他经常熬夜的行为
 -
