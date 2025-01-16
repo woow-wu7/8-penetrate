@@ -211,6 +211,7 @@
 - `【 hand feel. 手感 n 】`
 - > 【 appetizer 开胃菜 n 】 // --------------------- 【 fertilizer 肥料 n 】 VS 【 appetizer 开胃菜 n 】
 - > 【 dessert 甜点 n 】
+- - 【 dessert 甜点 】 VS 【 desert 沙漠 】 VS 【 assert 断言 】 VS 【 insert 插入 】
 - _【 fertilizer 肥料 n 】_ // ---------------------- 【 organic fertilizer. 有机肥料 n 】 【 chemical fertilizer. 化肥 n 】
 - _【 appetizer 开胃菜 n 】_
 - .MT **【 The 【 appetizers 】 and 【 desserts 】 in this restaurant have a good 【 texture 】. 这家餐厅的开胃菜和甜点味道很棒 】**

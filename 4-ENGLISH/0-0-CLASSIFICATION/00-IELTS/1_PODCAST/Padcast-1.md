@@ -89,4 +89,6 @@ as soon as. 一...就
 as long as. 只要
 as far as. 就...而言
 as well as. 也
+
+creative 创造性的 adj
 ```
