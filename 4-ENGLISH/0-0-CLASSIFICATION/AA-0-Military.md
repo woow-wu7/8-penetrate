@@ -2,6 +2,47 @@
 
 ##### Military 1 - **【 military 】**
 
+- -1
+- `【 fugitive 逃犯 n 】` // ---------------------- 【 fugitive 逃犯 n 】 VS 【 refugee 难民 n 】 VS 【 refuge 避难所 n 】
+- `【 prisoner 囚犯 n 】` // ---------------------- 【 prison 监狱 n 】 VS 【 imprison 关押 v 】 VS 【 prisoner 囚犯 n 】
+- `【 criminal 罪犯 n 】` // ---------------------- 【 crime 犯罪 v 】 VS 【 criminal 罪犯 n 】 // 【 crime scene. 犯罪现场 n 】 【 criminal record. 犯罪记录 n 】
+- `【 kidnapper 绑匪 n 】` // --------------------- `【 kidnap 绑架 v 】`
+- `【 robber 抢劫犯 强盗 n 】` // ------------------ `【 rob 抢劫 v 】`
+- `【 rapist 强奸犯 n 】` // ---------------------- `【 rape 强奸 v 】` // ripe VS rope VS rape
+- `【 murderer 杀人犯 n 】` // -------------------- 【 murder 谋杀 v 】
+- `【 smuggler 走私犯 n 】` // -------------------- 【 smuggle 走私 v 】
+- // TIPS: Pay attention to the pronunciation of the word 'rapist'. [rapist-强奸犯-n] // rapist VS rape
+-
+- AA.
+- `【 rape 强奸 v 】`
+- `【 ripe 成熟的 adj 】`
+- `【 rope 绳子 n 】`
+- 1. **【 He 【 raped 】 the 【 ripe 】 fruits 【 with 】 a 【 rope 】. 他用绳索强奸了成熟的果实 】**
+- 2. **【 Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术 】**
+- // --
+- // _【 mature 成熟的 adj 】_
+- // _【 ripe 成熟的 adj 】_
+- // --
+- // mature technology. 成熟的技术
+- // ripe fruit. 成熟的果实
+- // gather fruit. 采集果实
+- BB.
+- `【 kidnap 绑架 v 】`
+- `【 rob 抢劫 v 】`
+- `【 rape 强奸 v 】`
+- **【 she was 【 kidnaped 】, 【 robbed 】, 【 raped 】. 她遭到了绑架，抢劫和强奸 】**
+- **【 She was 【 robbed 】 and 【 raped 】. 她遭到了抢劫和强奸 】**
+- CC.
+- `【 kidnap 绑架 v 】`
+- `【 rape 强奸 v 】`
+- **【 She was 【 kidnaped 】 and 【 raped 】. 她遭到了绑架和强奸 】**
+-
+-
+-
+-
+-
+-
+-
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
 - _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`

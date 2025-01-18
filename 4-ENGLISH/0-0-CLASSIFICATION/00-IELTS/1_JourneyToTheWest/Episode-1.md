@@ -167,6 +167,7 @@
 - // ensure safety. 确保安全
 - // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
 - .MT **【 Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术 】**
+- .HL **【 He 【 raped 】 the 【 ripe 】 fruits with a 【 rope 】. 他用绳索强奸了成熟的果实 】**
 -
 -
 -
