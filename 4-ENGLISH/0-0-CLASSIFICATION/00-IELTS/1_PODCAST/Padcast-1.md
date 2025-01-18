@@ -63,7 +63,8 @@ unfair competition. 不公平的竞争
 
 
 5
-at any minute. 随时 马上
+at any time. 随时
+at any minute. 随时
 // The 【 war 】 may 【 break out 】 【 at any minute 】. 战争可能随时会爆发
 
 
@@ -91,4 +92,16 @@ as far as. 就...而言
 as well as. 也
 
 creative 创造性的 adj
+
+
+formal 正式的 adj
+normal 正常的 adj
+-
+behave 行为 表现 v
+behavior 行为 表现 n
+-
+occasion 场合 时机 n
+-
+// His 【 behavior 】 is 【 normal 】 in the 【 formal 】 【 occasions 】. 他在正式的场合表现得很正常
+// This is a 【 special 】 【 occasion 】. 这是一个特殊的场合 / 这是一个特殊的时机
 ```
