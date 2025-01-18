@@ -1,5 +1,67 @@
 ##### Business
 
+- 1
+- `【 consigner 发货人 n 】`
+- `【 consignee 收货人 n 】`
+- > 【 interviewer 面试官 n 】 // ------------------- interview VS interviewer VS interviewee
+- > 【 interviewee 面试者 n 】
+- > 【 employer 雇主 n 】 // ------------------------ employ VS employment VS employer VS employee
+- > 【 employee 雇员 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'consigner'. [consigner-发货人-n]
+- // TIPS: Pay attention to the pronunciation of the word 'consignee'. [consignee-收货人-n]
+- AA.
+- _【 sign 签名 v 标志 n 】_ // -------------------- 【 sign a contract. 签合同 v 】 【 sign a lease. 签订租约 v 】 // 【 signature 签名 n 】 VS 【 sign 签名 v 】
+- _【 assign 分配 布置 v 】_ // -------------------- 【 assignment 分配 n 】VS 【 assign 分配 v 】
+- _【 resign 辞职 v 】_
+- _【 design 设计 v 】_ // ------------------------ 【 interaction design. 交互设计 】 【 design pattern. 设计模式 】
+- _【 signal 信号 n 】_ // ------------------------ 【 turn signal. 转向灯 n 】 【 full signal. 满信号 】
+- > 【 sign a contract. 签合同 v 】
+- > 【 sign a lease. 签租约 v 】
+- > 【 lease 出租 租用 v / 租约 n 】
+- - 【 interaction VS intersection VS junction VS conjunction VS section 】
+- BB.
+- `sign 签名v 标志n`
+- _【 sign up. 注册 】_
+- _【 sign in. 登陆 】_
+- _【 sign out. 登出 】_
+- _【 sign a contract. 签合同 v 】_
+- _【 sign a lease. 签租约 v 】_
+- CC.
+- `design 设计 v`
+- _【 interaction design. 交互设计 n 】_
+- _【 package design. 包装设计 n 】_
+- _【 design pattern. 设计模式 】_
+- _【 graphic design. 平面设计 】_
+- _【 adaptive design. 自适应设计 】_
+- DD.
+- `signal 信号`
+- _【 turn signal. 转向灯 】_
+- _【 full signal. 满信号 】_
+- _【 no signal. 没信号 】_
+- _【 four bars of signal. 四格信号 】_
+- _【 My phone signal is not good. 我的电话信号不好 】_
+- EE.
+- `resign 辞职 v`
+- `quit 辞职 v`
+- FF.
+- `【 conjunction 连词 n 】` // -------------------- 【 in conjunction with. 结合... 】
+- `【 junction 枢纽站 T形交叉路口 n 】` // ------------ 【 junction station. 枢纽站 n 】
+- `【 intersection 十字路口 n 】` // ---------------- 【 intersection point. 交点 n 】 【 cross the intersection. 穿过十字路口 】
+- `【 interaction 相互作用 交互 n 】` // ------------- 【 interaction design. 交互设计 】
+- `【 section 部分n 段 n 】` // --------------------- 【 a section of road. 一段路 】 【 a section of text. 一段文字 】
+-
+- .MT 1. **【 After 【 crossing 】 the 【 intersection 】, you still need to walk 【 a section of road 】 to reach the 【 destination 】. 穿过十字路口后，还有再走一段路才能到达终点 】**
+- // -- cross the intersection. 穿过十字路口 v
+- // -- a section of road. 一段路
+- // -- destination 目的地
+-
+- .MT 2. **【 Designers should understand not only 【 package design 】 but also 【 interaction design 】. 设计师除了要懂得包装设计，还要懂得交互设计 】**
+- // -- package design. 包装设计
+- // -- interaction design. 交互设计
+-
+- .MT 3. **【 You can lean this fill 【 in conjunction with 】 that file. 你可以结合那个文件来学这个文件 】**
+- // -- in conjunction with. 结合...
+
 ```
 1
 trade 贸易 交易 v n
