@@ -169,6 +169,7 @@
 - `【 crispy rice. 锅巴 n 】` // ------------------- 【 crispy texture. 脆脆的口感 n 】 // texture VS textile VS textbook VS text message.
 - `【 raw rice. 生米 n 】`
 - `【 cooked rice. 熟饭 n 】`
+- `【 brown sugar. 红糖 n 】` // -------------------- 【 sugar 糖 n 】 VS 【 candy 糖果 n 】
 - > 【 soy sauce. 酱油 n 】`
 - > 【 dipping sauce. 蘸酱 n 】` // ---------------- 【 dip 蘸 v 】
 - > 【 tomato sauce. 番茄酱 n 】` = ketchup.
