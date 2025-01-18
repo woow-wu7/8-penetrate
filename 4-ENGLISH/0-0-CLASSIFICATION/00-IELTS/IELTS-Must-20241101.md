@@ -2,7 +2,7 @@
 
 - 1
 - `【 satisfy 满足 满意 v 】` // ------------------ 【 satisfy curiosity. 满足好奇心 】 【 satisfy desire. 满足欲望 】 【 satisfy demand/need/requirement. 满足需求 】
-- `【 satisfaction 满足 满意 满意度 n 】` // -------- _【 customer satisfaction. 客户满意度 】_ // _【 customer complaint. 客户投诉 n 】_
+- `【 satisfaction 满足 满意 满意度 n 】` // ------- _【 customer satisfaction. 客户满意度 】_ // _【 customer complaint. 客户投诉 n 】_
 - `【 complain 抱怨 投诉 v 】` // ----------------- 【 anonymously complain. 匿名地投诉 v 】
 - `【 complaint 抱怨 投诉 n 】` // ---------------- 【 anonymous complaint. 匿名的投诉 】 【 customer complaint. 客户投诉 】// 【 customer satisfaction. 客户满意度 】
 - _【 anonymously complain. 匿名地投诉 v 】_
@@ -365,6 +365,7 @@
 - > 【 resignation letter. 辞职信 】 // --------- 【 anonymous letter. 匿名信 n 】 【 cover letter. 求职信 】
 - AA.
 - _【 liter 公升 升 n 】_
+- _【 litter 垃圾 n 】_
 - _【 letter 信 字母 n 】_ // --------------------【 resignation letter. 辞职信 】【 cover letter. 求职信 】【 anonymous letter. 匿名信 】【 capital letter. 大写字母 】
 - > 【 cover letter. 求职信 n 】 = application letter. 求职信
 - > 【 resignation letter. 辞职信 n 】

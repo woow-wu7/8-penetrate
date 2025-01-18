@@ -1,5 +1,7 @@
 ##### Business
 
+##### **【 MUST - 1 】**
+
 - 1
 - `【 consigner 发货人 n 】`
 - `【 consignee 收货人 n 】`
@@ -13,7 +15,7 @@
 - _【 sign 签名 v 标志 n 】_ // -------------------- 【 sign a contract. 签合同 v 】 【 sign a lease. 签订租约 v 】 // 【 signature 签名 n 】 VS 【 sign 签名 v 】
 - _【 assign 分配 布置 v 】_ // -------------------- 【 assignment 分配 n 】VS 【 assign 分配 v 】
 - _【 resign 辞职 v 】_
-- _【 design 设计 v 】_ // ------------------------ 【 interaction design. 交互设计 】 【 design pattern. 设计模式 】
+- _【 design 设计 v 】_ // ------------------------ 【 interaction design. 交互设计 】 【 package design. 包装设计 】 【 design pattern. 设计模式 】
 - _【 signal 信号 n 】_ // ------------------------ 【 turn signal. 转向灯 n 】 【 full signal. 满信号 】
 - > 【 sign a contract. 签合同 v 】
 - > 【 sign a lease. 签租约 v 】
@@ -50,17 +52,31 @@
 - `【 interaction 相互作用 交互 n 】` // ------------- 【 interaction design. 交互设计 】
 - `【 section 部分n 段 n 】` // --------------------- 【 a section of road. 一段路 】 【 a section of text. 一段文字 】
 -
-- .MT 1. **【 After 【 crossing 】 the 【 intersection 】, you still need to walk 【 a section of road 】 to reach the 【 destination 】. 穿过十字路口后，还有再走一段路才能到达终点 】**
+- .MT 1. **【 After 【 crossing 】 the 【 intersection 】, you 【 still 】 need to walk 【 a section of road 】 to 【 reach 】 the 【 destination 】. 穿过十字路口后，还有再走一段路才能到达终点 】**
 - // -- cross the intersection. 穿过十字路口 v
 - // -- a section of road. 一段路
 - // -- destination 目的地
 -
-- .MT 2. **【 Designers should understand not only 【 package design 】 but also 【 interaction design 】. 设计师除了要懂得包装设计，还要懂得交互设计 】**
+- .MT 2. **【 Designers should understand 【 not only 】 【 package design 】 【 but also 】 【 interaction design 】. 设计师除了要懂得包装设计，还要懂得交互设计 】**
 - // -- package design. 包装设计
 - // -- interaction design. 交互设计
 -
-- .MT 3. **【 You can lean this fill 【 in conjunction with 】 that file. 你可以结合那个文件来学这个文件 】**
+- .MT 3. **【 You can lean this file 【 in conjunction with 】 that file. 你可以结合那个文件来学这个文件 】**
 - // -- in conjunction with. 结合...
+-
+-
+-
+-
+-
+-
+-
+- 2
+- `【 transport 运输 v 】`
+- `【 ship 船n / 运输 v 】`
+- > 【 ship 运输 v / 船 n 】
+- > 【 shipment 运输 n 】
+- > 【 shipper 发货人 n 】
+- > 【 worship VS warship VS scholarship VS internship VS relationship VS membership 】
 
 ```
 1

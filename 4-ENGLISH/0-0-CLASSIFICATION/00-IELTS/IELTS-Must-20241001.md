@@ -269,7 +269,7 @@
 - _【 repository 仓库 储藏室 n 】_
 - _【 warehouse 仓库 n 】_
 - _【 factory 工厂 n 】_
-- _【 repository / inventory / directory / factory / dormitory / laboratory / mandatory / history 】_
+- _【 repository = warehouse / inventory / directory / factory / dormitory / laboratory / mandatory / history 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'inventory'. [inventory-库存-n]
 - // TIPS: Pay attention to the pronunciation of the word 'express'. [express-表达-v/快递-n] [express-emotion-表达情感-n]
