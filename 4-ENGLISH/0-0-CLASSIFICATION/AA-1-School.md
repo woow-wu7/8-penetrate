@@ -6,14 +6,23 @@
 - **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
 - **【 She teaches English in 【 kindergarten 】. 她在幼儿园教英语 】**
 - > 【 garden 花园 n 】
+- > 【 kindergarten 幼儿园 n 】
 -
 - `【 junior school. 小学 】`
 - `【 elementary school. 小学 】`// -- 美式英语
-- `【 primary school. 小学 】` // ---- 英式英语 ------------------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
+- `【 primary school. 小学 】` // ---- 英式英语 ------ 【 primary source. 主要来源 】 `【 primary 主要的 初级的 基本的 adj 】`
 - _【 primary school. 小学 】_
 - _【 primary source. 主要来源 】_
 - _【 primary election. 初选 预选 】_ // ------------ 【 elect 选举 v 】 【 vote 投票 v 】
+- > 【 primary source. 主要来源 】// ---------------- 【 primary school. 小学 】
+- > 【 water source. 水源 n 】
+- > 【 power source. 电源 n 】
+- > 【 energy source. 能源 n 】
+- > 【 renewable energy source. 可再生能源 】
+- > 【 source code analysis. 源码分析 】 // --------- 【 analyze 分析 v 】 VS 【 analysis 分析 n 】
+- > 【 open source module. 开源模块 】
 - // TIPS: Pay attention to the pronunciation of the word 'elementary'. [elementary-基本的-初级的-adj][elementary-school.小学]
+- **【 Let's 【 analyze 】 the 【 following 】 questions 【 in turn 】 and 【 in depth 】. 让我们依次并深入分析下面这些问题 】**
 -
 - `【 junior school. 小学 】` // -------------------- 【 junior school. = primary school. = elementary school. 小学 】 // **【 primary election. 初选 】**
 - `【 junior high school. 初中 】`
@@ -23,6 +32,8 @@
 - `【 college 学院 大学 】` // ----------------------- colleague = coworker.
 - > 【 colleague = coworker. 同事 n 】
 - > 【 college 学院 大学 n】
+- _【 universe 宇宙 n 】_ // ------------------------ 【 spaceship 宇宙飞船 】
+- _【 university 大学 n 】_
 -
 - `【 middle school. 中学 】`
 - `【 high school. 高中 】`
@@ -225,10 +236,11 @@
 - `【 headmistress 女校长 】`
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
-- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 】 【 handling fee. 手续费 n 】
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 // 【 tuition fee. 学费 】 【 handling fee. 手续费 n 】
 - _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
 - _【 alumna 女校友 n 】_
-- > 【 campus 校园 校区 n 】
+- > 【 campus 校园 校区 n 】 // ------------------------- 【 campus violence. 校园暴力 】
+- > 【 camp 露营 n 】 // ------------------------------- 【 summer camp. 夏令营 】 【 winter camp. 冬令营 】 // campus VS camp // rent VS tent
 - **【 I 【 met 】 my 【 vice principal 】 on the 【 campus 】. 我在校园里遇到了我的副校长 】**
 -
 -

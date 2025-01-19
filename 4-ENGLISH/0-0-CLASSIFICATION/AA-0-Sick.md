@@ -1153,6 +1153,8 @@ stay hydrated. 多喝水
 - // friendship 友谊
 - // warship 战舰
 - // worship 崇拜
+- // membership 会员
+- // spaceship 宇宙飞船
 - // -
 - // `warship 战舰`
 - // `worship 崇拜`

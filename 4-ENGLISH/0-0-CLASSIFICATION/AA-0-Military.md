@@ -330,6 +330,7 @@
 - _【 warship 战舰 n 】_
 - _【 merchant ship. 商船 n 】_
 - _【 pirate ship. 海盗船 n 】_
+- > warship VS worship VS internship VS scholarship VS relationship VS membership VS hardship VS spaceship
 - 313
 - `【 sailor / sail / sailboat 】`
 - // TIPS: Pay attention to the pronunciation of the word 'carry'. [carry-携带-拿-v]
