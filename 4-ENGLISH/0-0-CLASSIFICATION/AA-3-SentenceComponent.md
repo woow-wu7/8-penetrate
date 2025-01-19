@@ -6,9 +6,9 @@
 - `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
 - > 【 present tense. 现在时态 】
-- > 【 simple present tense. 一般现在时态 】 // -【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
+- > 【 【 simple 】 present tense. 一般现在时态 】 // ----- 【 simple 简单的 简朴的 n 】 【 sample 样本 样品 n 】
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
-- > 【 present 【 continuous 】 tense. 现在进行时 】
+- > 【 present 【 continuous 】 tense. 现在进行时 】 // ---【 continuous 持续的 连续的 adj 】 VS 【 continue 继续 持续 v 】 VS 【 last for. 持续 v 】
 - AA.
 - **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // -------【 present tense. 现在时态 】 【 simple present tense. 】
 - **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
@@ -26,6 +26,9 @@
 - > 【 progressive 进步的 进行时态的 adj 】`
 - > 【 progressive tense. 进行时态 】
 - > 【 progressive youth. 进步青年 】
+- _【 continuous 持续的 连续的 adj 】_
+- _【 continue 继续 持续 v 】_ // --------------------- 【 last for. 持续 v 】 VS 【 continue 继续 持续 v 】
+- _【 last for. 持续 v 】_
 - // 【 动词的 (过去式) : ------- 用在 ( 一般过去时 ) 中 】
 - // 【 动词的 (过去分词): ------ 用在 ( 完成时 和 被动语态 ) 中 】
 - // -- have/have + V 的过去分词

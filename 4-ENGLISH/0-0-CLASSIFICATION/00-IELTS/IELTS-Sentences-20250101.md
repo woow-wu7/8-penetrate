@@ -2357,4 +2357,12 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 
 5
 幸运的是，当地的传统传承下来了
+
+
+6
+这个事件是旧时代结束的标志
+
+
+7
+只要你努力学习现在进行时，就一定会取得进步
 ```
