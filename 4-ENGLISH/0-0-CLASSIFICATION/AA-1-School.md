@@ -188,6 +188,20 @@
 -
 - [场所/place]
 - `【 study lounge. 自习室 n 】`
+- `【 departure lounge. 候车室 n 】` // ---------------- 【 departure time. 出发时间 】 【 departure lounge. 候车室 】 【 study lounge. 自习室 】
+- `【 dormitory 寝室 n 】`
+- `【 laboratory 实验室 n 】` // ----------------------- 【 labor 劳动 v / 工人 n 】 VS 【 laboratory 实验室 n 】
+- `【 library 图书馆 n 】`
+- > 【 Day. 劳动节 n 】
+- > 【 labor law. 劳动法 】
+- > 【 labor worker. 劳动工人 n 】
+- > 【 labor contract. 劳动合同 n 】
+- _【 labor contract. 劳动合同 n 】_
+- _【 terminate the contract. 终止合同 】_ // ----------- 【 violate the transaction. 终止交易 v 】 【 violate the contract. 终止合同 v 】
+- _【 violate the contract. 违反合同 】_
+- _【 sign the contract. 签合同 】_
+- _【 sign the lease. 签租约 】_
+- 【 dormitory 寝室 】 VS 【 laboratory 实验室 】 VS 【 repository 仓库 】VS 【 directory 目录 】VS 【 inventory 库存 】VS 【 factory 工厂 】 VS 【 mandatory 强制的 】VS 【 history 历史 】
 -
 -
 -

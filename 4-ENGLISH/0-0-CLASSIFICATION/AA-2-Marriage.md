@@ -8,6 +8,13 @@
 - `【 divorce 离婚 v n 】` // -------【 divorce certificate. 离婚证 】 【 divorce rate. 离婚率 】 `【 divorced 离婚的 adj 】`
 - `【 break up. 分手 v 】` // -------【 break up. 分手 打碎 解散 v 】
 -
+- `【 get engaged. 订婚 v 】`
+- `【 engagement 订婚 n 】`
+- `【 engage 从事 v 】`
+- > 【 engage 从事 v 】
+- > 【 engagement 订婚 n 】
+- **【 After he 【 got engaged 】, he 【 engage 】 【 in 】 other 【 industries 】. 他订婚后从事了其他行业 】**
+-
 - `【 propose 求婚 v 】` // ------- `【 propose marriage. 求婚 】` 【 proposal 求婚 n 】// 【 pose 姿势 vn / propose / purpose / pursue 】
 - `【 purpose 目的 意图 n 】` // --- `【 on purpose. 故意的 adv 】`
 - `【 pursue 追求 追逐 v 】` // ------【 pursue happiness. 追求幸福 】 【 pursue dream. 追求梦想 】 【 pursue a goal. 追求目标 】 // pursue pursuit

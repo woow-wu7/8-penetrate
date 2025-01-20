@@ -207,6 +207,7 @@
 - `【 arrival time. 到达时间 】` // ------------ arrive arrival
 - `【 departure time. 出发时间 】` // --------- 【 departure lounge. 候机室 】 【 study lounge. 自习室 n 】 depart departure
 - `【 departure lounge. 候机室 】`
+- `【 study lounge. 自习室 】`
 - > 【 departure time. 出发时间 n 】
 - > 【 departure lounge. 候机室 n 】
 - > 【 study lounge. 自习室 n 】

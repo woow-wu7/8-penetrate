@@ -1150,6 +1150,7 @@ fill out. 填写
 - `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
 - > terminal building. 航站楼
 - > departure lounge. 候车室
+- > study lounge. 自学室
 - > bus stop. 公交站
 - 【 depart 离开 v 】 VS 【 departure 离开 n 】
 - 【 arrive 到达 v 】 VS 【 arrival 到达 n 】
@@ -1311,6 +1312,7 @@ fill out. 填写
 - `【 inflammation 炎症 n 】` // ------------- 【 anti-inflammatory medicine. 消炎药 】
 - `【 inflame 发炎 v 】`
 - `【 inflammatory 发炎的 adj 】` // --------- 【 anti-inflammatory medicine. 消炎药 】 【 over the counter drugs. 非处方药 】 【 description drugs. 处方药 】
+- _【 subside 消退 v 】_
 - **【 The 【 economic structure 】 and 【 inflation 】 【 led to 】 the 【 economic recession 】 and 【 economic crisis 】. 经济结构和通货膨胀导致经济衰退和经济危机 】**
 - // -- lead -> led 导致 v
 - // -- economic structure.

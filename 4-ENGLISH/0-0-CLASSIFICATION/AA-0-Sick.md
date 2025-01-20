@@ -549,7 +549,8 @@
 - `【 blocked nose. 鼻塞 】`
 - `【 snot 鼻涕 n 】` // ------------------- **【 wipe off the snot. 擦掉鼻涕 v 】**
 - `【 dizziness 头晕 n 】` // ---------------- 【 dizzy 头昏的 adj 】 【 dizziness 头晕 n 】
-- `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】
+- `【 inflammation 炎症 n 】` // ------------- 【 inflame 激怒 v 燃烧 v 】 // `【 inflation 通过膨胀 n 】` VS `【 inflammation 炎症 n 】`
+- `【 subside 消退 v 】`
 - > 【 blocked nose. 鼻塞 】
 - > 【 stuffy nose. 鼻塞 】
 - // TIPS: Pay attention to the pronunciation of the word 'dizziness'. [dizziness]
@@ -563,6 +564,7 @@
 -
 - `【 inflammation 发炎 炎症 n 】` // ---------- 【 inflammation 炎症 n 】 VS 【 inflation 通货膨胀 n 】
 - `【 inflation 通货膨胀 n 】`
+- `【 subside 消退 v 】` // ------------------- // The inflammation is difficult to subside. 炎症很难消退
 - _【 inflame 发炎 v 】_
 - _【 inflamed 发炎的 adj 】_
 - > 【 anti-inflammatory drug. 消炎药 】
@@ -631,7 +633,7 @@
 - `【 antibiotic 抗生素 n 】`
 - `【 antidote 解药 n 】`
 - `【 relieve 减轻 缓解 v 】`
-- `【 inflammation 炎症 n 】`
+- `【 inflammation 炎症 n 】` // inflammation VS inflation VS subside
 - `【 allergy 过敏 n 】`
 - `【 swelling 肿胀 n 】`
 - .MT **【 【 Antibiotics 】 are 【 an ingredient of 】 【 antidotes 】 and 【 anti-inflammatory drugs 】 that can 【 relieve 】 【 inflammation 】, 【 allergies 】, and 【 swelling 】. 抗生素是解药和消炎药的一种成分，可以缓解炎症，过敏和肿胀 】**
