@@ -30,12 +30,14 @@
 -
 -
 -
+-
 - 2
 - `【 shrug shoulders. 耸肩 】`
 - `【 shrug 耸肩 v 】`
 - `【 in confusion. 困惑的 adj 】`
 - .MT **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 After 【 shaking hands 】, he 【 scratched his head 】 【 in confusion 】 then 【 shook his head 】. 握手后，他困惑的挠了挠头，然后摇了摇头 】**
+-
 -
 -
 -
@@ -56,18 +58,15 @@
 - _【 break up. 分手 】_ // ----------------------- break up. 分手 v // breakup.分手 n
 - _【 break down. 崩溃 v 故障 n 分解 v 】_
 - [Must 2024-11-19](file:///Users/xiawu/work/personal/front-end/8-penetrate/4-ENGLISH/0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20241101.md)
--
 - [AA.]
 - `【 split open. 裂开 v 】`
 - .MT **【 The 【 watermelon 】 【 split open 】 when it 【 hit 】 the ground. 西瓜掉到地上就裂开了 】**
--
 - [BB.]
 - `【 split up. 分手 分开 v 】` = break up.
 - `【 split open. 裂开 v 】`
 - .MT **【 After 【 splitting up 】 and 【 divorcing 】, he 【 split open 】. 分手并离婚后，他裂开了 】**
 - **【 After 【 splitting up 】, he 【 split open 】. 分手后他裂开了 】**
 - **【 After 【 breaking up 】, he 【 split open 】. 分手后他裂开了 】**
--
 - [CC.]
 - `【 marriage 结婚 n 】` // marry 结婚 v
 - `【 divorce 离婚 v n 】`
@@ -75,7 +74,6 @@
 - .MT **【 after 【 marriage 】, this 【 is called 】 【 divorce 】, not 【 breakup 】. 结婚后，这叫离婚不叫分手 】**
 - // -- be called. 被称为...
 - // -- divorce 离婚 v n
--
 - [DD.]
 - `【 break up. 分手 v 】`
 - `【 take up. 占用 v 】` = occupy
@@ -89,6 +87,7 @@
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
 - .MT **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
+- .MT **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 - AA.
 - _【 break out. 爆发 v 】_
 - _【 call out. 喊 叫 v 】_
@@ -103,16 +102,18 @@
 -
 -
 -
+-
 - 5
 - `【 cliff 悬崖 n 】`
-- `【 steep 陡峭的 】`
 - `【 slope 斜坡 n 】` // ---- slope VS scope
+- `【 steep 陡峭的 】`
 - _【 steep cliff. 陡峭的悬崖 n 】_
 - _【 steep slope. 陡坡 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'cliff'. [cliff-悬崖-n]
 - 【 behind 在后面，在...后面 】
 - .MT **【 【 Behind 】 the 【 steep slope 】 is a 【 steep cliff 】. 陡坡后面是陡峭的悬崖 】**
 - // -- behind 在后面，在...后面
+-
 -
 -
 -
@@ -124,7 +125,6 @@
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
--
 - > humid moist damp
 - // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - .MT **【 In 【 humid weather 】, we don't need a 【 humidifier 】. 在潮湿的天气里，我们不需要加湿器 】**
@@ -134,6 +134,7 @@
 - // -- _【 blow out. 吹灭 吹出 v 】_
 -
 -
+-
 - 7
 - `【 take up. 占用 v  】` // ---------------- take up. = occupy. 占用
 - `【 occupy 占用 v 】`
@@ -141,7 +142,9 @@
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
 -
+-
 - 8
+- `【 call out. 喊 叫 v 】`
 - _【 call out. 喊 叫 】_
 - _【 break out. 爆发 】_
 - _【 rush out of. 从...冲出去 】_
@@ -168,6 +171,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
 - .MT **【 Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术 】**
 - .HL **【 He 【 raped 】 the 【 ripe 】 fruits with a 【 rope 】. 他用绳索强奸了成熟的果实 】**
+-
 -
 -
 -
@@ -281,6 +285,9 @@
 - **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
 -
 -
+-
+-
+-
 - 5
 - `【 magic 魔法 n / 魔术的 dj 】`
 - `【 logic 逻辑 n 】`
@@ -292,7 +299,7 @@
 
 ##### 3 **The word that must be memorized. ( 共 x 个 )**
 
-##### material 1
+##### material
 
 ```
 1.
@@ -453,7 +460,10 @@ cave 山洞 n
 vase 花瓶 n
 
 
-splash 泼洒 v 溅在…
+splash 泼 溅 飞溅  v
+【 splash water. 泼水 】
+// He 【 splashed 】 some water 【 onto 】 the 【 vegetable garden 】. 他向菜园里泼了一些水
+
 bounce 弹起v 反弹v 弹力n
 
 
@@ -518,11 +528,7 @@ behalf 代表
 // Is anyone brave enough to try? 有人敢尝试吗？
 // Everyone moved out of the way as the speaker stepped forward. 当说话的猴子上前时，每个人都让开了
 // as time passed. 随着时间的推移
-```
 
-##### material 2
-
-```
 rock 岩石 石头 摇滚
 shrugged 耸肩
 heaven 天堂 天上 天空
@@ -553,7 +559,7 @@ shade 阴凉处
 The water rolled and bounced over the rocks.
 rolled 翻滚 滚动
 bounce 反弹 反射 颤动
-splash 泼洒 落水声
+splash 溅 飞溅 v
 
 one monkey scratched her head. 有只猴子挠了挠他的脑袋
 scratch 划痕 挠
@@ -561,11 +567,8 @@ scratch 划痕 挠
 We drink from it, We swim in it.
 
 shook 摇动
-```
 
-##### material 3
 
-```
 in the past. 在过去
 shot 射击 发射 v
 
@@ -632,4 +635,5 @@ soar 翱翔 v
 leap 跳 v
 jump 跳 v
 jump = leap. 跳
+
 ```

@@ -84,8 +84,9 @@
 - > doctor 博士 医生 // I'm a PhD = I'm a doctor. 我是一个博士
 - > 【 doctoral students. 博士生 n 】
 -
+-
 - [成绩-考试]
-- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】
+- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】 // midterm examination. = midterm exam. 期中考试
 - `【 final exam. 期末考试 】`
 - `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
 - `【 National College Entrance Examination. 高考 n 】`
@@ -169,6 +170,27 @@
 -
 -
 -
+- [职位/position]
+- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal VS principle 原则原理 】
+- `【 vice principal. 副校长 n 】`
+- `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
+- `【 headmistress 女校长 】`
+- `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
+- `【 associate professor. 副教授 n 】`
+- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 // 【 tuition fee. 学费 】 【 handling fee. 手续费 n 】
+- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
+- _【 alumna 女校友 n 】_
+- > 【 campus 校园 校区 n 】 // ------------------------- 【 campus violence. 校园暴力 】
+- > 【 camp 露营 n 】 // ------------------------------- 【 summer camp. 夏令营 】 【 winter camp. 冬令营 】 // campus VS camp // rent VS tent
+- **【 I 【 met 】 my 【 vice principal 】 on the 【 campus 】. 我在校园里遇到了我的副校长 】**
+-
+-
+-
+- [场所/place]
+- `【 study lounge. 自习室 n 】`
+-
+-
+-
 - [其他]
 - `【 tuition fees. 学费 】` // ------------------------ 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
 - `【 physical activity. 体育活动 】` // -------------- **【 recreational activity. 娱乐活动 】 【 physical activity. 体育活动 】**
@@ -228,20 +250,6 @@
 - > 【 opening ceremony. 开学庆典 】
 - > 【 award ceremony. 颁奖典礼 】 // ------------------- 【 ward / reward / awkward / coward / afterward / forward / backward 】
 - > 【 closing ceremony. 闭幕式 】
--
-- [职位]
-- `【 principal 校长 n 】` // -------------------------- 【 vice principal. 副校长 n 】 // 【 principal VS principle 原则原理 】
-- `【 vice principal. 副校长 n 】`
-- `【 headmaster 男校长 】` // ------------------------- 【 headmistress 女校长 n 】
-- `【 headmistress 女校长 】`
-- `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
-- `【 associate professor. 副教授 n 】`
-- `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 // 【 tuition fee. 学费 】 【 handling fee. 手续费 n 】
-- _【 alumnus 男校友 n 】_ // -------------------------- 【 alumnus 男校友 n 】 【 alumna 女校友 n 】
-- _【 alumna 女校友 n 】_
-- > 【 campus 校园 校区 n 】 // ------------------------- 【 campus violence. 校园暴力 】
-- > 【 camp 露营 n 】 // ------------------------------- 【 summer camp. 夏令营 】 【 winter camp. 冬令营 】 // campus VS camp // rent VS tent
-- **【 I 【 met 】 my 【 vice principal 】 on the 【 campus 】. 我在校园里遇到了我的副校长 】**
 -
 -
 -

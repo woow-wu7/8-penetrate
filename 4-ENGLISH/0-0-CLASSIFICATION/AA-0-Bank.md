@@ -1127,8 +1127,8 @@ fill out. 填写
 ##### (1) **【 MUST - Supplement - 24 】- The words that you mast know.**
 
 - [-QQ.]24
-- `【 top up. 充值 v 】`
-- `【 recharge 充电 充值 v 】`
+- `【 top up. 充值 v 】` // ------------------------ 【 top up the bus card. = recharge the bus card. 充值公交卡 】
+- `【 recharge 充电 充值 v 】` // ------------------- 【 recharge the membership card. 充值会员卡 】
 - > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
 - > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
 - > 【 meal card. 饭卡 】= food card.
@@ -1141,11 +1141,20 @@ fill out. 填写
 - .MT **【 I have a 【 points card / loyalty card 】 【 for 】 the 【 supermarket 】. 我有这个超市的积分卡 】**
 - .HL **【 You need to 【 recharge / top up 】 the 【 membership card 】, then you will get the 【 points 】 by 【 swiping 】 the 【 membership card 】 when you 【 consume 】. 需要给会员卡充值，然后在消费时刷会员卡就能获得积分 】**
 -
+-
+-
 - [-PP.]23
 - `【 terminate 终止 v 】` // ---------------------- 【 terminate the transaction. 终止交易 v 】 【 terminate the contract. 终止合同 v 】
 - `【 terminal 终端 n 】` // ----------------------- 【 terminal building. 航站楼 n 】 // 【 departure lounge. 候车室 】 // 【 bus stop. 公交站 】
 - `【 violate 违反 v = breach 】` // --------------- 【 violate the regulation. 违反规定 v 】 【 violate law. 违反法律 v 】 【 violate the contract. 违反合同 v 】
 - `【 comply with. 遵守 v = obey 】` // ------------ 【 【 comply with 】 the 【 traffic rules 】. 遵守交通规则 v 】
+- > terminal building. 航站楼
+- > departure lounge. 候车室
+- > bus stop. 公交站
+- 【 depart 离开 v 】 VS 【 departure 离开 n 】
+- 【 arrive 到达 v 】 VS 【 arrival 到达 n 】
+- _【 departure time. 出发时间 】_
+- _【 departure lounge. 候车室 】_
 - AA.
 - > 【 violate law. 违反法律 v 】
 - > 【 violate the regulation. 违反规定 v 】

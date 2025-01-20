@@ -215,6 +215,7 @@
 - // depart 离开 v
 - //【 arrival 到达 n 】
 - //【 departure 离开 n 】
+- _【 lung 肺 n 】_ VS _【 lounge 休息室 】_
 - .MT **【 The 【 timetable 】 【 shows/displays 】 the 【 departure time 】 and 【 arrival time 】 of the 【 flights 】. 时刻表上显示了航班出发和到达的时间 】**
 - .MT **【 He 【 took off 】 his 【 coat 】 when the plane 【 took off 】. 飞机起飞时，他脱掉了自己的外套 】**
 -
