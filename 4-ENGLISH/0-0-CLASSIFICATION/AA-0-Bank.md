@@ -165,6 +165,8 @@
 - _【 membership card. 会员卡 n 】_
 - _【 meal card. = food card. 饭卡 n 】_
 - _【 medical insurance card. 社保卡 n 】_
+- _【 entrance guard card. 门禁卡 n = access card. 门禁卡 】_
+- _【 access card. 门禁卡 】_
 - 【 membership 会员 】 VS 【 scholarship 奖学金 】 VS 【 internship 实习 实习期 】 VS 【 worship 崇拜 】 VS 【 warship 战舰 】 VS 【 relationship 关系 】
 - [Must 2024-09-08](../0-0-CLASSIFICATION/00-IELTS/IELTS-Must-20240901.md)
 - .MT **【 He can buy things 【 on credit 】 】 【 with / using 】 【 credit cards 】. 他可以用信用卡赊账购物 】**
