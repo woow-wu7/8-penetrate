@@ -10,15 +10,17 @@
 - > 【 present 【 perfect 】 tense. 现在完成时态 】
 - > 【 present 【 continuous 】 tense. 现在进行时 】 // ---【 continuous 持续的 连续的 adj 】 VS 【 continue 继续 持续 v 】 VS 【 last for. 持续 v 】
 - AA.
-- **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // -------【 present tense. 现在时态 】 【 simple present tense. 】
-- **【 intense 激烈的 adj 】** // ------------------- 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
+- **【 tense 时态 n / 紧张的 adj 】**// ------------ `【 tense situation. 紧张的局势 n 】` // ------【 present tense. 现在时态 】 【 simple present tense. 】
+- **【 intense 激烈的 adj 】** // ------------------ 【 intense competition. 激烈的竞争 n 】 // ---【 compete V / competitive ADJ / competition N 】
 - _【 what 【 tense 】 is this sentence? 这个句子是什么时态 】_
 - _【 what 【 clause 】 is this sentence? 这个句子是什么从句 】_
 - // TIPS: Pay attention to the pronunciation of the word 'present'. [present-目前-现在-n]
 - BB.
 - _【 present 目前 n / 礼物 n / 目前的 adv 】_
 - _【 at present. 目前 adv 】_
--
+- CC.
+- 【 simple 简单的 VS temple 寺庙 VS sample 样本案 例 】
+- DD.
 - `【 present tense. 现在时态 】`
 - `【 simple present tense. 一般现在时态 】`
 - `【 present 【 perfect 】 tense. 现在完成时态 】`
@@ -26,6 +28,7 @@
 - > 【 progressive 进步的 进行时态的 adj 】`
 - > 【 progressive tense. 进行时态 】
 - > 【 progressive youth. 进步青年 】
+- > make a progress. 取得进步
 - _【 continuous 持续的 连续的 adj 】_
 - _【 continue 继续 持续 v 】_ // --------------------- 【 last for. 持续 v 】 VS 【 continue 继续 持续 v 】
 - _【 last for. 持续 v 】_
@@ -34,7 +37,7 @@
 - // -- have/have + V 的过去分词
 - // -- be + V 的过去分词
 - // TIPS: Pay attention to the pronunciation of the word 'progressive'. [progressive-进步的-adj]
--
+- EE.
 - _【 continuous 连续的 持续的 不断的 adj 】_
 - _【 present continuous tense. 现在进行时 】_
 - **【 【 As long as 】 you 【 make an effort 】 to 【 learn present continuous tense 】, you will 【 make progress 】. 只要努力学习现在进行时，就一个会取得进步 】**
@@ -52,10 +55,11 @@
 - **【 clause 从句 子句 n 】**
 - `【 object clause. 宾语从句 】` // -----------------【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
-- `【 adverbial clause. 状语从句 】`
+- `【 adverbial clause. 状语从句 】` // ------------- 【 verb / adverb / adverbial / proverb 】
 - > 【 what's 【 clause 】 of this sentence? 这个句子是什么从句 】
 - > 【 what's 【 tense 】 of this sentence? 这个句子是什么时态 】
 -
+- **【 sentence 句子 n 】**
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
 - _【 interrogative 疑问的 adj 】_
@@ -118,13 +122,13 @@
 - `【 round brackets. 小括号 n 】` // ---------------------------- 【 this round of. 这一轮的 】 // This round of layoffs.
 - `【 square brackets. 中括号 n 】` // --------------------------- 【 square 广场 正方形 平方 adj 】
 - `【 curly brackets. 大括号 n 】` // ---------------------------- 【 curly hair. 卷发 n 】 【 curly brackets. 大括号 】 // 【 curly 卷曲的 adj 】
-- // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
-- // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹词-n]
 - _【 comparison symbol. 比较符 n 】_
 - `【 greater than. 大于 】` // ---------------------------------- 【 greater than symbol. 大于符号 n 】
 - `【 less than. 小于 】` // ------------------------------------- 【 less than symbol. 小于符号 n 】
 - `【 greater than symbol. 大于符号 n 】`
 - `【 less than symbol. 小于符号 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
+- // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹词-n]
 -
 - AA.
 - _【 curly hair. 卷发 n 】_
@@ -158,8 +162,8 @@
 - greater than. 大于
 - greater than symbol. 大于符号
 - **【 【 Since 】 7 is 【 greater than 】 6, the 【 greater than symbol 】 should be used. 因为 7 大于 6，所以要使用大于符号 】**
+- **【 Four is 【 greater than 】 three and 【 less than 】 five. 4 大于 3 小于 5 】**
 - // -- since 自从 因为
--
 -
 -
 -

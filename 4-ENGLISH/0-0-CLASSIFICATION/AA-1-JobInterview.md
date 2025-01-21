@@ -2017,9 +2017,9 @@ There are three things the candidate dose which you should try to avoid.
 I will take your interview. 我会安排你的面试
 ```
 
-##### (3) **Writing**
+##### (3) **【 Must - Resume / Writing 】**
 
-```MUST Important
+```0000000 MUST Important
 ------- ------- ------- ------- ------- ------- -------
 
 

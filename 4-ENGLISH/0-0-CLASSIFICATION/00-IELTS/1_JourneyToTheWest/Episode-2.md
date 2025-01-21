@@ -1,6 +1,24 @@
 # Journey to the west. 西游记 2
 
 ```
+splash 泼 飞溅 v
+【 splash water. 泼水 v 】
+// He 【 splashed 】 some water 【 onto 】 the 【 vegetable garden 】. 他向菜园里泼了一些水
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+neck 脖子 n
+necklace 项链 n
+
+cave 洞穴 n
+
+width 宽度 n
+wide 宽的 adj
+narrow 窄的
+
+
 1
 cross his arms. 交叉双臂
 fold his arms. 交叉双臂
@@ -26,9 +44,7 @@ library 图书馆 n
 
 wise people. 智者 n
 raft 木筏 竹筏
-```
 
-```
 Monkey splashed through the waterfall and landed in a large cave.
 // splash 拍打着水游
 // waterfall 瀑布
