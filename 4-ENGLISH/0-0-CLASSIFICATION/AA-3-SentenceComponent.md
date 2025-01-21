@@ -79,8 +79,13 @@
 - `【 singular noun. 单数名词 n 】` --- 【 plural noun. 复数名词 n 】
 - > 【 You can use the 【 conjunction 】 to 【 connect 】 the 【 object clause 】 and the 【 attributive clause 】. 】
 - > 【 What's 【 part of speech 】 of the word 'leaf' ? 叶子这个词的词性是什么？ 】
-- _【 conjunction 连词 n 】_
+- AA.
+- _【 conjunction 连词 n 】_ // ------- 【 in conjunction with. 结合 ... 】
 - _【 junction 交叉路口 枢纽站 n 】_ // - 【 junction station. 枢纽站 n 】
+- _【 intersection 十字路口 n 】_ // --- 【 intersection point. 交点 n 】
+- _【 interaction 交互 】_ // ---------- 【 interaction design. 交互设计 】 【 package design. 包装设计 】
+- _【 section 段 】_ // ---------------- 【 a section of road. 一段路 】 【 a section of text. 一段文字 】
+- _【 interjection 感叹词 n 】_ VS _【 exclamation mark. 感叹号 n 】_
 - // TIPS: Pay attention to the pronunciation of the word 'adjective'. [auxiliary-辅助的-adj]
 -
 - `【 antonym 反义词 n 】` ------------- anto + nym // opposite
@@ -112,7 +117,7 @@
 - `【 full stop. 句号 n 】` = period.
 - _【 mark 标记 记号 分数 n 】_ VS symbol VS sign
 - `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
-- `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】`
+- `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】` // **【 exclamation mark. 感叹号 】** VS **【 interjection 感叹词 n 】**
 - `【 ellipsis mark. 省略号 n 】`
 - `【 single quotation marks. 单引号 n 】` // ------------------- 【 quote 引用 v n 】 【 quotation 引用 n 】
 - `【 double quotation marks. 双引号 n 】`
@@ -125,11 +130,10 @@
 - _【 comparison symbol. 比较符 n 】_
 - `【 greater than. 大于 】` // ---------------------------------- 【 greater than symbol. 大于符号 n 】
 - `【 less than. 小于 】` // ------------------------------------- 【 less than symbol. 小于符号 n 】
-- `【 greater than symbol. 大于符号 n 】`
+- `【 greater than symbol. 大于符号 n 】` // ---------------------- symbol 象征 符号 n
 - `【 less than symbol. 小于符号 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'quote'. [quote-引用-v] [quotation-引用-n]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-感叹词-n]
--
 - AA.
 - _【 curly hair. 卷发 n 】_
 - _【 curly brackets. 大括号 n 】_
@@ -164,6 +168,8 @@
 - **【 【 Since 】 7 is 【 greater than 】 6, the 【 greater than symbol 】 should be used. 因为 7 大于 6，所以要使用大于符号 】**
 - **【 Four is 【 greater than 】 three and 【 less than 】 five. 4 大于 3 小于 5 】**
 - // -- since 自从 因为
+- GG.
+- .MT **【 An 【 exclamation mark 】 follows an 【 interjection 】. 感叹词后面跟感叹号 】**
 -
 -
 -
