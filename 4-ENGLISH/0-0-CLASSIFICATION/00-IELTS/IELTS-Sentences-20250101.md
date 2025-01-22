@@ -2505,3 +2505,71 @@ You can 【 choose 】 different products 【 according to 】 your 【 personal
 11
 他可以模仿猪的声音
 ```
+
+##### **【 5 MUST 】**
+
+```
+1
+I don't need your 【 sympathy 】 and 【 comfort 】.
+我不需要你的同情和安慰
+-
+She 【 emphasized 】 【 many times 】 that she didn't need anyone's 【 sympathy 】 and 【 comfort 】.
+她多次强调她不需要任何人的同情和安慰
+-
+This book 【 repeatedly emphasizes 】 the importance of the 【 sympathy 】 and 【 comfort 】.
+这本书反复强调了同情心和安慰的重要性
+-
+// --
+// sympathy 同情 同情心 n
+// sympathize 同情 v
+// --
+// comfort 安慰 v n
+// comfortable 舒服的 adj
+// --
+// 【 sympathize 同情 v 】 VS 【 emphasize 强调 v 】
+// --
+// 【 repeatedly emphasize. 反复强调 v 】
+
+
+
+2
+After I 【 had a cold 】, She 【 was just mad at me 】 and didn't 【 scold 】 me.
+我感冒后，她只是生气并没有责骂我
+-
+I really 【 regretted 】 that I didn't 【 apologize 】 to her when she 【 was mad at 】 me.
+我很后悔在她生气的时候没有给她道歉
+-
+// --
+// 【 be mad at sb. 生某人的气 v 】
+// 【 be angry with sb. 生某人的气 v 】
+// --
+// 【 scold 责骂 v 】
+// --
+// have a cold. 感冒 v
+// --
+// 【 regret 后悔 v 】
+// 【 apologize 道歉 v 】 / 【 apology 道歉 n 】
+
+
+
+3
+He can 【 imitate 】 the sound of a 【 pig 】.
+他可以模仿猪的声音
+-
+运动，休息，冥想都可以缓解焦虑
+-
+计算机可以模拟动物受到刺激后的反应
+-
+恢复经济的主要手段是刺激需求和刺激消费
+-
+// -
+// 【 imitate 模仿 v 】
+// 【 meditate 冥想 v 】
+// 【 simulate 模拟 v 】
+// 【 stimulate 刺激 v 】
+// -
+// 【 imitate 模仿 v 】 VS 【 stimulate 刺激 v 】
+// -
+// 【 stimulate consumption. 刺激消费 v 】
+// 【 stimulate demand. 刺激需求 v 】
+```

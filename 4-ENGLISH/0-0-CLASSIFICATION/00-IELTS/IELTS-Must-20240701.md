@@ -327,6 +327,7 @@
 - `【 scold 责骂 v 】`
 - `【 be mad at. = be angry with. 生气 】`
 - **【 After I 【 had a code 】, she was only 【 mad 】 at me and didn't 【 scold 】 me. 我感冒后，她只是生气并没有责骂我 】**
+- .MT **【 I 【 regretted 】 that I didn't 【 apologize 】 to her when she 【 was mad at 】 me. 我很后悔在她生气的时候没有给她道歉 】**
 - // -- 【 have a cold. 感冒 】
 
 ###### Must 2024-07-05

@@ -470,7 +470,8 @@
 - `【 stimulate consumption. 刺激消费  】`
 - > 【 main means. 主要手段 】
 - > 【 military means. 军事手段 】
-- **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
+- .MT **【 The 【 main means 】 to 【 recover the economy 】 is to 【 stimulate demand 】 and 【 stimulate consumption 】. 恢复经济的主要手段是刺激需求和刺激消费 】**
+- .HL **【 Computers can 【 simulate 】 the 【 reactions 】 of animals after they are 【 stimulated 】. 计算机可以模拟动物受到刺激后的反应 】**
 - // -- `【 main means. 主要手段 】`
 - // -- `【 military means. 军事手段 】`
 - // -- ``
