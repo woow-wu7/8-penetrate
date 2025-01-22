@@ -2573,3 +2573,14 @@ He can 【 imitate 】 the sound of a 【 pig 】.
 // 【 stimulate consumption. 刺激消费 v 】
 // 【 stimulate demand. 刺激需求 v 】
 ```
+
+##### **【 6 MUST 】**
+
+```
+1
+分子由原子构成
+
+
+2
+正式员工问外包员工期望薪资是多少
+```
