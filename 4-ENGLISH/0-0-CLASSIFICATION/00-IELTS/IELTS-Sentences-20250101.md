@@ -2741,6 +2741,7 @@ After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
 ```
 
 ##### **【 7 MUST 】**
+
 ```
 1
 政府发布了释放囚犯的公告
@@ -2764,4 +2765,8 @@ After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
 这是一个逐渐恢复的过程
 -
 请指定一个具体的你想要的颜色
+
+
+5
+烟囱里有很多灰
 ```

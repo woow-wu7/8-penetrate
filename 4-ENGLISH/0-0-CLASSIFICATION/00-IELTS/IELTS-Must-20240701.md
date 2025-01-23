@@ -441,7 +441,7 @@
 - `【 verify 验证 v 】`
 - `【 verification code. 验证码 】`
 - `【 identity card. 身份证 】`
-- **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number of the 【 customer 】 is correct. 输入验证码来验证顾客身份证号码是否正确 】**
+- **【 Please enter the 【 verification code 】 to 【 verify 】 【 whether 】 the 【 identity card 】 number of the 【 customer 】 is correct. 请输入验证码来验证顾客身份证号码是否正确 】**
 - **【 Please 【 verify 】 that there is 【 sufficient 】 memory available before loading the program. 加载程序之前，请验证是否有足够的可用内存 】**
 - // -- 【 sufficient 足够的 充足的 adj 】
 - // -- 【 sufficient time. 充足的时间 】
