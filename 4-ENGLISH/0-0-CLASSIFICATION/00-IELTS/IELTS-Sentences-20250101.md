@@ -2589,6 +2589,14 @@ He can 【 imitate 】 the sound of a 【 pig 】.
 我会跟进会续的流程
 
 
+4
+纳税是你的责任也是你的义务
+
+
+5
+赞助商的口号是“信号无处不在”
+
+
 
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
@@ -2668,4 +2676,58 @@ The new 【 command 】 【 demands 】 us to 【 retreat 】 【 immediately �
 // -
 // 【 retreat 撤退 v  】 VS 【 treat 对待 治疗 v 】
 // 【 treat 对待v 治疗v 】
+
+
+4
+【 Educational institutions 】 are not 【 charitable institutions 】.
+教育机构不是慈善机构
+// -
+// educational institution. 教育机构
+// charitable institution. 慈善机构
+// financial institution. 金融机构
+
+
+5
+I have an 【 intuition 】 that both the 【 tuition fees 】 and 【 handling fees 】 for 【 overseas students 】 are high.
+我有一直觉：留学生的学费和手续费都很贵
+// -
+// 【 intuition 直觉 n 】
+// 【 tuition 学费 n 】
+// -
+// tuition fee. 学费 n
+// handling fee. 手续费 n
+// -
+// overseas student. 留学生
+// international student. 留学生
+
+
+6
+【 Inflation 】 is like 【 inflammation 】 that it's hard to 【 subside 】.
+通货膨胀就像炎症一样很难消退
+// -
+// 【 inflation 通过膨胀 n 】
+// 【 inflammation 炎症 v 】
+// -
+// 【 subside 消退 v 】
+// -
+// TIPS: Pay attention to the pronunciation of the word 'subside'. [subside-消退-v]
+
+
+7
+After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
+他订婚后从事了其他行业
+-
+【 Industry 】 and 【 agriculture 】 are different 【 sectors 】.
+工业和农业是不同的行业
+-
+// -
+// 【 get engaged. 订婚 v 】
+// 【 engagement 订婚 n 】
+// -
+// industry 行业 工业 n
+// agriculture 农业 n
+// -
+// TIPS: Pay attention to the pronunciation of the word 'agriculture'. [agriculture-农业-n]
+// -
+// 【 sector 部门 行业 扇形 n 】
 ```
