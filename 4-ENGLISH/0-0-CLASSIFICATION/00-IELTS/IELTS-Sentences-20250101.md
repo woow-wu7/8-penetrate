@@ -2583,4 +2583,89 @@ He can 【 imitate 】 the sound of a 【 pig 】.
 
 2
 正式员工问外包员工期望薪资是多少
+
+
+3
+我会跟进会续的流程
+
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+1
+I don't need your 【 sympathy 】 and 【 comfort 】.
+我不需要你的同情和安慰
+-
+This book 【 repeatedly emphasized 】 that the importance of the 【 sympathy 】.
+这本书反复强调了同情的重要性
+-
+// -
+// 【 sympathy 同情 同情心 n 】
+// 【 comfort 安慰 n 】
+// -
+// sympathize 同情 v
+// sympathy 同情 同情心 n
+// -
+// 【 emphasize 强调 v 】
+// 【 emphasis 强调 n 】
+// -
+// 【 sympathize 同情 v 】 VS 【 emphasize 强调 v 】
+// -
+// 【 repeatedly emphasize. 反复强调 v 】
+
+
+2
+I 【 regretted 】 that I didn't 【 apologize 】 to her when she 【 was mad at 】 me.
+我很后悔在她生气的时候没有给她道歉
+-
+After I 【 had a cold 】, she 【 was just mad at 】 me and didn't 【 scold 】 me.
+我感冒后，她只是生气并没有责骂我
+-
+// -
+// regret 后悔 v
+// apologize 道歉 v
+// -
+// be mad at sb. 生某人的气
+// be angry with sb. 生某人的气
+// -
+// 【 abuse 虐待 辱骂 v 】
+// 【 scold 责骂 v 】
+// -
+// 【 cold 感冒n 冷的adj 】 VS 【 scold 责骂 v 】
+
+
+3
+He can 【 imitate 】 the sound of a 【 pig 】.
+他可以模仿猪的声音
+-
+Exercise, rest, 【 meditation 】 are beneficial to 【 relieving 】 the 【 anxiety 】.
+运动，休息，冥想都可以缓解焦虑
+-
+The 【 main means 】 to 【 recover economy 】 are to 【 stimulate demand 】 and 【 stimulate consumption 】.
+恢复经济的主要手段是刺激需求和刺激消费
+-
+The new 【 command 】 【 demands 】 us to 【 retreat 】 【 immediately 】.
+新的命令要求我们立即撤退
+-
+// -
+// 【 imitate 模仿 v 】
+// 【 meditate 冥想 v 】
+// 【 simulate 模拟 v 】
+// 【 stimulate 刺激 v 】
+// -
+// 【 stimulate demand. 刺激需求 v 】
+// 【 stimulate consumption. 刺激消费 v 】
+// -
+// demand 要求 需求 n  ----------------------------- strict demand. // stimulate demand. // market demand.
+// command 命令n 指挥v ----------------------------- run a command. // command center.
+// recommend 推荐 v ------------------------------- highly recommend.
+// -
+// means 手段 n
+// 【 main means. 主要手段 n 】
+// -
+// 【 retreat 撤退 v  】 VS 【 treat 对待 治疗 v 】
+// 【 treat 对待v 治疗v 】
 ```

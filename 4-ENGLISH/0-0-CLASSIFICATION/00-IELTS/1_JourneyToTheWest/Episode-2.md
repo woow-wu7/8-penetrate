@@ -1,22 +1,72 @@
 # Journey to the west. 西游记 2
 
 ```
+1
 splash 泼 飞溅 v
 【 splash water. 泼水 v 】
 // He 【 splashed 】 some water 【 onto 】 the 【 vegetable garden 】. 他向菜园里泼了一些水
 
 
+2
+follow 跟随 v
+following 下列的 v
+【 follow up. 跟进 v 】
+【 follow-up. 后续的 】
+-
+【 follow up on sth. 跟进某事 】
+-
+// I will 【 follow up 】 【 on 】 the 【 follow-up 】 】 【 process 】. 我会跟进会续的流程
+
+
+3
+fight 战斗 打架 v -----> fight -> fought
+argue 争论 争辩 v
+【 fight over. 争吵 】
+
+
+
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
 
 neck 脖子 n
 necklace 项链 n
 
 cave 洞穴 n
+moss 苔藓
+// Moss covered the wall.
 
-width 宽度 n
 wide 宽的 adj
 narrow 窄的
+width 宽度 n
+
+glow 发光 v
+glowworm 萤火虫 n
+worm 蠕虫 n
+// The 【 glowworm 】 isn't a 【 worm 】. 萤火虫不是蠕虫
+
+
+mist 薄雾 n
+fireplace 壁炉 n
+against 反对 v
+wonderful 精彩的 极好的 adj
+-
+cozy 舒服的 adj
+【 cozy bed. 舒适的床 n 】
+-
+wash away. 冲走
+-
+run around. 四处跑 v
+-
+alive 活着的 adj
+-
+gibbon 长臂猿
+-
+grab 抓 取 拿 v
+
+
 
 
 1
