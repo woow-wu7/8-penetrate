@@ -65,14 +65,52 @@ time goes by. 时间流逝
 // 随时时间流逝，我们渐渐表老了
 
 
+6
+feast 宴会 盛会 n
+【 wedding feast. 婚宴 n 】
+// This 【 wedding feast 】 is a 【 feast 】 for the eyes. 这场婚是一场视觉盛宴
 
 
-------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
-------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+7
+rush out. 冲出去
+rush over. 冲忙赶去 冲过去
+morning rush hour. 早高峰 n
+// He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司
 
 
+8
+wash away. 冲走 v
+float away. 飘走 v
+-
+faraway 遥远的 adj
+keep away from. 远离 v
+-
+pass away. 去世 v
+run away. 逃跑 v
+-
+right away. 立即
+wipe away. 擦去 v
+-
+// 1
+// He was 【 washed away 】 【 by 】 the 【 blood 】 to a 【 faraway 】 place and 【 kept away from 】 the city. 他被洪水冲走到了遥远的地方，远离了城市
+// --
+// 【 flood 洪水n 淹没v 】
+// 【 blood 血 血统 n 】
+// --
+// 【 flood 洪水n 淹没v 】
+// 【 drown 淹死 淹没 v 】
+// 2
+// He didn't 【 pass away 】. Instead, he 【 ran away 】. 他没有去世，而是逃跑了
 
 
+9
+cozy 舒服的 adj
+【 cozy bed. 舒适的床 n 】
+【 cozy corner. 舒适的角落 n 】
+// He likes 【 stay 】 【 at 】 a 【 cozy corner 】. 他喜欢待在一个舒适的角落
+
+
+10
 cross one's arms. 交叉手臂
 fold one's arms. 交叉手臂
 -
@@ -80,6 +118,24 @@ fold 折叠
 unfold 展开
 -
 // The 【 umbrella 】 can be 【 folded 】 and 【 unfolded 】. 雨伞可以折叠和展开
+// He 【 crossed his arms 】 and was very 【 angry 】. 他双手交叉十分生气
+// --
+// angry 生气的 adj
+// hungry 饥饿的 adj
+
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+moss 苔藓
+cave 洞穴 n
+// Moss covered the wall.
+
+
+frown 皱眉 v n
 
 
 bow 鞠躬 弓 v n
@@ -89,9 +145,6 @@ bowl 碗 n
 neck 脖子 n
 necklace 项链 n
 
-cave 洞穴 n
-moss 苔藓
-// Moss covered the wall.
 
 wide 宽的 adj
 narrow 窄的
@@ -108,9 +161,6 @@ fireplace 壁炉 n
 against 反对 v
 wonderful 精彩的 极好的 adj
 -
-cozy 舒服的 adj
-【 cozy bed. 舒适的床 n 】
--
 wash away. 冲走
 -
 run around. 四处跑 v
@@ -124,6 +174,18 @@ grab 抓 取 拿 v
 bowl 碗 盆 n
 -
 hail 冰雹 万岁 n
+-
+throne 宝座 王座 n
+-
+sad 难过的 adj
+-
+last for ever. 永远持续
+-
+chin 下巴 n
+-
+sage 圣人 n
+-
+wise 有学问的 明智的 adj
 
 
 

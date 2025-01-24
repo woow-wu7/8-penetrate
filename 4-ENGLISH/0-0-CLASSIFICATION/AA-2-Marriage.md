@@ -121,6 +121,9 @@
 - `【 wedding anniversary. 结婚纪念日 】`
 - `【 marriage certificate. 结婚证 】`
 -
+- _【 wedding feast. 婚宴 n 】_
+- **【 This 【 wedding feast 】 is a 【 feast 】 for the eyes. 这场婚是一场视觉盛宴 】**
+-
 - `【 stepfather 继父 】`
 - `【 father-in-law. 岳父 】`
 - `【 mother-in-law. 岳母 丈母娘 】`
