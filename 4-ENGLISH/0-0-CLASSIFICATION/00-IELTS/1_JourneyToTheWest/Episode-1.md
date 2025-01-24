@@ -1,11 +1,11 @@
 ##### Journey to the west. 西游记 1
 
-##### 1 **The word that must be memorized. ( 共 8 个 )**
+##### 1 **【 MUST 8 - The word that must be memorized. ( 共 8 个 ) 】**
 
 - 1
 - `【 scratch 挠v 划痕n 】` // ------------------- 【 scratch head. 挠头 n 】 【 scratch an itch. 挠痒 v 】 // 【 shake/shook head. 摇头 】
-- `【 crutch 拐杖 n 】`
-- > 【 scratch an itch. 挠痒 v 】
+- `【 crutch 拐杖 n 】` // ----------------------- 【 crutch 拐杖 】= 【 walking stick. 拐杖 】
+- > 【 scratch an itch. 挠痒 v 】 // ------------- itch 痒 v n
 - > 【 scratch head. 挠头 v 】
 - > 【 shake head. 摇头 v 】
 - _【 shake head. 摇头 v 】_
@@ -20,10 +20,14 @@
 - .MT **【 He 【 shrugged his shoulders 】 【 in confusion 】. 他困惑的耸了耸肩 】**
 - **【 He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头 】**
 - [BB.]
+- `【 crutch 拐杖 n 】`
+- `【 scratch 挠v 划痕n 】`
+- .HL **【 There is a 【 scratch 】 on the 【 crutch 】. 这个拐杖上有一道划痕 】**
+- [CC.]
 - `【 scratch an itch. 挠痒 v 】`
 - `【 scratch 挠痒v 划痕n 】`
 - .MT **【 After 【 scratching an itch 】, he left a 【 scratch 】. 他挠痒后，留下了划痕 】**
-- [CC.]
+- [DD.]
 - `【 in confusion. 疑惑地 adv 】`
 - `【 scratch head. 挠头 v 】`
 - **【 He 【 scratched 】 his head 【 in confusion 】. 他困惑地挠了挠头 】**
@@ -44,8 +48,10 @@
 - 3
 - `【 split open. 裂开 分裂 v 】`
 - `【 split up. 分手 分开 v  】` = break up. 分手 v
-- `【 divorce 离婚 v n 】`
-- `【 marry 结婚 v 】` // ------------------------- marry 结婚 v // marriage 结婚 n
+- _【 divorce 离婚 v n 】_
+- _【 marry 结婚 v 】_ // ------------------------- marry 结婚 v // marriage 结婚 n
+- _【 get engaged. 订婚 n 】_
+- _【 propose 求婚 提出 v 】_
 - > 【 split 分裂 分离 v 】 // ---------------------【 split up. = break up. 分手 v 】 【 split open. 裂开 v 】
 - > 【 break up. 分手 v 】 // --------------------- take up. 占用
 - > 【 breakup. 分手 n 】
@@ -84,8 +90,10 @@
 -
 - 4
 - `【 rush out of. 从...冲出去 】`
+- `【 rush over. 冲过去 赶去 v 】`
 - `【 rush hour. 高峰期 】`
 - `【 morning rush hour. 早高峰 】`
+- .HL **【 He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司 】**
 - .MT **【 He 【 rushed out 】 【 of 】 the classroom 【 in 】 the 【 morning rush hour 】. 他在早高峰冲出了教室 】**
 - .MT **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 - AA.
@@ -118,10 +126,10 @@
 -
 -
 - 6
-- `【 humid 潮湿的 adj 】` // ----------------- 【 humidifier 加湿器 】 【 humid weather. 潮湿的天气 】 // humid moist damp
+- `【 humid 潮湿的 adj 】` // ----------------- 【 humid weather. 潮湿的天气 】 【 humidifier 加湿器 】 // humid moist damp
 - `【 humidifier 加湿器 n 】`
 - `【 humidity 湿度 n 】`
-- `【 moist 潮湿的 adj 】`
+- `【 moist 潮湿的 adj 】` // ----------------- _【 humid = moist = damp. 潮湿的 adj 】_
 - `【 damp 潮湿的 adj 】` // ------------------ damp VS stamp // humid moist damp stamp stump dump dumpling dumb dumbbell pump jump
 - > 【 humidifier 加湿器 n 】
 - > 【 humid weather. 潮湿的天气 n 】
@@ -132,12 +140,14 @@
 - // -- below
 - // -- blow
 - // -- _【 blow out. 吹灭 吹出 v 】_
+- // -- _【 blow bubbles. 吹泡泡 v 】_
 -
 -
 -
 - 7
 - `【 take up. 占用 v  】` // ---------------- take up. = occupy. 占用
 - `【 occupy 占用 v 】`
+- > 【 take up. 占用 v 】 = 【 occupy 占用 v 】
 - .MT **【 【 Breaking up 】 【 took up 】 some of my time. 分手占用了我一些时间 】**
 - **【 I 【 took up 】 your time. = I 【 occupied 】 your time. 我占用了你的时间 】**
 -
@@ -145,15 +155,19 @@
 -
 - 8
 - `【 call out. 喊 叫 v 】`
+- `【 shout 叫喊 v 】`
+- `【 yell 大喊 v 】`
 - _【 call out. 喊 叫 】_
 - _【 break out. 爆发 】_
 - _【 rush out of. 从...冲出去 】_
+- > 【 conflict 冲突 矛盾 n 】
 - .MT **【 She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了 】**
 - .MT **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
+- .HL **【 He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司 】**
 - // -- 【 fall into. 掉入 v 】
 - // -- 【 conflict 冲突 n 】
 
-##### 2 **The word that must be memorized. ( 共 5 个 )**
+##### 2 **【 MUST 5 - The word that must be memorized. ( 共 5 个 ) 】**
 
 - 1
 - `【 gather 收集 聚集 采集 v 】` // -------------- 【 gather fruits. 采集水果 】 【 ripe fruit. 成熟的果实 】 // 【 safety rope. 安全绳 】 【 safety reason. 安全原因 】
@@ -164,13 +178,23 @@
 - _【 gather together. 聚集在一起 】_
 - > 【 pick up. 捡起 v / 接人 v 】
 - > 【 pick out. 挑选出 v 】
-- // ripe VS rope
+- 【 ripe VS rope VS rape 】
 - // safety rope. 安全绳
 - // safety reason. 安全原因
 - // ensure safety. 确保安全
 - // TIPS: Pay attention to the pronunciation of the word 'pick'. [pick]
 - .MT **【 Using 【 ropes 】 to 【 gather 】 【 ripe fruits 】 are 【 a kind of 】 【 mature technology 】. 用绳子采集成熟的果实是一种成熟的技术 】**
 - .HL **【 He 【 raped 】 the 【 ripe 】 fruits with a 【 rope 】. 他用绳索强奸了成熟的果实 】**
+- // --
+- // AA.
+- // _【 rape 强奸 vn 强奸罪 n 】_
+- // _【 rope 绳子 n 】_
+- // _【 ripe 熟的 adj 】_
+- // --
+- // BB.
+- // **【 raw 生的 adj 】**
+- // **【 ripe 熟的 adj 】**
+- // **【 The colors of 【 raw bananas 】 and 【 ripe bananas 】 are different. 生的香蕉和熟的香蕉颜色不一样 】**
 -
 -
 -
@@ -179,7 +203,9 @@
 - 2
 - `【 mature 成熟的 adj 】` // ------------------- 【 mature technology. 成熟的技术 】 【 mature person. 成熟的人 】 // 【 advanced technology. 先进的技术 】
 - `【 ripe 成熟的 adj 】` // --------------------- 【 ripe fruit. 成熟的果实 】 // 【 gather fruit. 采集水果 v 】
-- `【 unripe 未成熟的 adj 】`
+- _【 ripe 成熟的 adj 】_
+- _【 unripe 未成熟的 adj 】_
+- _【 overripe 过熟的 adj 】_
 - > mature technology. 成熟的技术 n
 - > mature person. 成熟的人
 - > 【 ripe fruit. 成熟的果实 】
@@ -210,6 +236,7 @@
 - _【 generate electricity. 发电 】_
 - _【 generator 发电机 n 】_
 - .MT **【 It can 【 generate heat 】 when the 【 generator 】 is 【 generating electricity 】. 发电机发电时会产生热量 】**
+- .HL **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他 】**
 -
 -
 -
@@ -218,11 +245,21 @@
 -
 - 4
 - `【 reveal 揭示 揭露 v 】` // ---------------- 【 reveal the truth. 揭示真相 】 【 reveal the identity. 揭露身份 】
+- `【 release 释放 发布 v 】` // --------------- 【 release poison gas. 释放毒气 v 】 【 release an announcement. 发布公告 v 】
 - _【 reveal the truth. 揭示真相 】_
-- _【 reveal the identity. 揭露身份 】_
+- _【 reveal the identity. 揭露身份 】_ // ----- 【 identify the identity. 识别身份 v 】
 - _【 identify the identity. 识别身份 】_
-- > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 n 】`
+- > 【 identify 识别 v 】 // ------------------ `【 identify the identity. 识别身份 v 】`
 - > 【 identity 身份 n 】
+- **【 release poison gas. 释放毒气 v 】**
+- **【 release announcement. 发布公告 v 】**
+- **【 The government 【 released an announcement 】 about a 【 certain 】 company 【 releasing 】 the poison gas. 政府发布了某公司释放毒气的公告 】**
+- // -- 【 certain 某个 某些 某 】
+- // -- 【 at a certain stop. 在某一站 】
+- // -- 【 at a certain point. 在某一时刻 】
+- // -- `【 【 Due to 】 【 certain 】 【 factors 】, we need to 【 refactor 】 the project. 由于某些因素，我们需要重构这个项目 】`
+- // -- factor 因素 因子 n
+- // -- refactor 重构 v n
 - BB.
 - // split VS conflict 冲突争执 // ------------ 【 split open. 裂开 】 【 split up. 分手 】 // 【 armed conflict. 武装冲突 】 【 military conflict. 武装冲突 】
 - // arm 手臂 n 武装 v

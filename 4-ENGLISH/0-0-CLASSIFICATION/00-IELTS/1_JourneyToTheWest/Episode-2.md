@@ -75,7 +75,8 @@ feast 宴会 盛会 n
 rush out. 冲出去
 rush over. 冲忙赶去 冲过去
 morning rush hour. 早高峰 n
-// He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司
+// 1. He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司
+// 2. After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
 
 
 8
