@@ -2853,6 +2853,7 @@ After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
 ```
 
 ##### **【 9 MUST 】**
+
 ```
 1
 他们争吵了起来因为他把水泼到了他弟弟身上
@@ -2868,4 +2869,16 @@ After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
 他在上班早高峰冲出了教室，赶去公司
 -
 爆发冲突后，他从
+
+
+4
+发布公告是一种释放压力的方式
+-
+政府发布了释放囚犯的公告
+
+
+5
+正式的员工喜欢参加正式的场合
+-
+正式员工问外包员工期望薪资是多少
 ```
