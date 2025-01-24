@@ -1,5 +1,81 @@
 # Journey to the west. 西游记 2
 
+- 1
+- `【 splash 泼 飞溅 v 】`
+- > 【 splash water. 泼水 v 】
+- > 【 splash on. 把...泼到... 】
+- **【 They are 【 fighting 】 because he 【 splashed water 】 【 on 】 his 【 younger brother 】. 他们争吵了起来因为他把水泼到了他弟弟身上 】**
+- // --
+- // 【 younger 年轻的 adj 】
+- // 【 elder 年长的 adj 】
+- // --
+- // elder brother. 哥哥
+- // younger brother. 弟弟
+- // --
+- // 【 splash on. 把...泼到... 】
+-
+-
+-
+-
+- 2
+- `【 wash away. 冲走 v 】`
+- `【 float away. 飘走 v 】` +
+- `【 faraway 遥远的 adj 】`
+- `【 keep away from. 远离 】` +
+- `【 pass away. 去世 v 】`
+- `【 run away. 逃跑 v 】` +
+- `【 wipe away. 擦去 v 】`
+- `【 right away. 立刻 马上 】` +
+- 1. **【 He was 【 washed away 】 【 by 】 the 【 flood 】 to the 【 faraway 】 place and 【 keep away from 】 the city. 他被洪水冲走到了遥远的地方，远离了城市 】**
+- 2. **【 He didn't 【 pass away 】, instead, he 【 ran away 】. 他没有去世，而是逃跑了 】**
+- // --
+- // 【 flood 洪水 v / 淹没 v 】
+- // 【 blood 血 n 】
+- // --
+- // wash away. 冲走 v
+- // faraway 遥远的 adj
+- // keep away from. 远离
+- // --
+- // pass away. 去世 v
+- // run away. 逃跑 v
+-
+-
+-
+-
+-
+-
+- 3
+- `【 rush out. 冲出 】` // ------------------ 【 run out of. 冲出... 】
+- `【 rush over. 赶去 冲去 】`
+- `【 rush hour. 高峰期 】`
+- > 【 morning rush hour. 早高峰 】
+- _【 call out. 大喊 v 】_
+- _【 speak out. 大声说出来 v 】_
+- _【 shout 大喊 v 】_
+- _【 yell 大喊 v 】_
+- **【 He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in 】 【 the morning hour 】. 他在上班早高峰冲出了教室，赶去公司 】**
+- **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从-里冲出去大喊-打他 】**
+- // --
+- // 【 break out. 爆发 】
+- // 【 conflict 冲突 】
+- // --
+- // hit 打 v
+- // rush out of. 从...冲去处
+- // call out. 大喊 v
+-
+-
+-
+-
+-
+-
+- 4
+- `【 cozy 舒服的 adj 】`
+- > 【 cozy corner. 舒服的角落 】
+- > 【 cozy bed. 舒适的床 】
+- **【 He likes 【 stay 】 【 in/at 】 a 【 cozy corner 】. 他喜欢待在一个舒适的角落 】**
+- // --
+- // stay in the corner. 待在角落
+
 ```
 1
 splash 泼 飞溅 v
@@ -17,69 +93,8 @@ splash 泼 飞溅 v
 // fight 战斗 打架 吵架 v
 
 
+
 2
-follow 跟随 v
-following 下列的 v
-【 follow up. 跟进 v 】
-【 follow-up. 后续的 】
--
-【 follow up on sth. 跟进某事 】
--
-// I will 【 follow up 】 【 on 】 the 【 follow-up 】 】 【 process 】. 我会跟进会续的流程
-
-
-3
-【 fight over. 争吵 】
-fight 战斗 打架 吵架 v -----> fight -> fought
-argue 争论 争辩 v
-// They are 【 fighting 】 because he 【 splashed 】 water 【 on 】 his 【 younger 】 brother. 他们争吵了起来因为他把水泼到了他弟弟身上
-// --
-// younger 较年轻的
-// elder 年长的
-// --
-// 【 younger brother. 弟弟 n 】
-// 【 elder brother. 哥哥 n 】
-// --
-// fight 战斗 打架 吵架 v
-
-
-4
-【 yell 大喊 v n 】
-【 shout 大喊 喊叫 v n 】
--
-【 call out. 大喊 叫喊 v 】
-【 speak out. 大声说出 】
--
-// After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
-// She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了
-// Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊
-
-
-5
-time passes. 时间流逝
-time goes by. 时间流逝
--
-【 go by. 流逝 】
-【  many years went by. 许多年过去了 】
--
-// 随时时间流逝，我们渐渐表老了
-
-
-6
-feast 宴会 盛会 n
-【 wedding feast. 婚宴 n 】
-// This 【 wedding feast 】 is a 【 feast 】 for the eyes. 这场婚是一场视觉盛宴
-
-
-7
-rush out. 冲出去
-rush over. 冲忙赶去 冲过去
-morning rush hour. 早高峰 n
-// 1. He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，敢去公司
-// 2. After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
-
-
-8
 wash away. 冲走 v
 float away. 飘走 v
 -
@@ -104,11 +119,73 @@ wipe away. 擦去 v
 // He didn't 【 pass away 】. Instead, he 【 ran away 】. 他没有去世，而是逃跑了
 
 
-9
+3
+rush out. 冲出去
+rush over. 冲忙赶去 冲过去
+morning rush hour. 早高峰 n
+// 1. He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in the morning rush hour 】. 他在上班早高峰冲出了教室，赶去公司
+// 2. After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
+
+
+4
 cozy 舒服的 adj
 【 cozy bed. 舒适的床 n 】
 【 cozy corner. 舒适的角落 n 】
 // He likes 【 stay 】 【 at 】 a 【 cozy corner 】. 他喜欢待在一个舒适的角落
+
+
+5
+【 yell 大喊 v n 】
+【 shout 大喊 喊叫 v n 】
+-
+【 call out. 大喊 叫喊 v 】
+【 speak out. 大声说出 】
+-
+// After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
+// She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了
+// Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊
+
+
+6
+follow 跟随 v
+following 下列的 v
+【 follow up. 跟进 v 】
+【 follow-up. 后续的 】
+-
+【 follow up on sth. 跟进某事 】
+-
+// I will 【 follow up 】 【 on 】 the 【 follow-up 】 】 【 process 】. 我会跟进会续的流程
+
+
+7
+【 fight over. 争吵 】
+fight 战斗 打架 吵架 v -----> fight -> fought
+argue 争论 争辩 v
+// They are 【 fighting 】 because he 【 splashed 】 water 【 on 】 his 【 younger 】 brother. 他们争吵了起来因为他把水泼到了他弟弟身上
+// --
+// younger 较年轻的
+// elder 年长的
+// --
+// 【 younger brother. 弟弟 n 】
+// 【 elder brother. 哥哥 n 】
+// --
+// fight 战斗 打架 吵架 v
+
+
+8
+time passes. 时间流逝
+time goes by. 时间流逝
+-
+【 go by. 流逝 】
+【  many years went by. 许多年过去了 】
+-
+// 随时时间流逝，我们渐渐表老了
+
+
+9
+feast 宴会 盛会 n
+【 wedding feast. 婚宴 n 】
+// This 【 wedding feast 】 is a 【 feast 】 for the eyes. 这场婚是一场视觉盛宴
 
 
 10
@@ -130,6 +207,16 @@ unfold 展开
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 
 
+luck 好运 运气 n // ------------------------ 【 good luck. 好运 】
+lucky 幸运的 adj // ------------------------ 【 we are very luck. 我们很幸运 】
+-
+【 luck 好运 运气 n 】
+【 fortune 运气 n 】
+-
+fortune 运气 n
+fortunate 幸运的 adj
+fortunately 幸运地 adv // ------------------ 【 Fortunately 】, the 【 local traditions 】 have been 【 passed down 】. 幸运的是，当地的传统传承下来了
+
 
 moss 苔藓
 cave 洞穴 n
@@ -142,6 +229,7 @@ frown 皱眉 v n
 bow 鞠躬 弓 v n
 bowl 碗 n
 
+make through. 通过 v
 
 neck 脖子 n
 necklace 项链 n
