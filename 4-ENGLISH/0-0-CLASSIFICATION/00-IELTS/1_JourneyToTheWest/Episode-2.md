@@ -4,7 +4,17 @@
 1
 splash 泼 飞溅 v
 【 splash water. 泼水 v 】
+【 splash on. 把...泼到... 】
+// They are 【 fighting 】 because he 【 splashed 】 water 【 on 】 his 【 younger 】 brother. 他们争吵了起来因为他把水泼到了他弟弟身上
 // He 【 splashed 】 some water 【 onto 】 the 【 vegetable garden 】. 他向菜园里泼了一些水
+// --
+// younger 较年轻的
+// elder 年长的
+// --
+// 【 younger brother. 弟弟 n 】
+// 【 elder brother. 哥哥 n 】
+// --
+// fight 战斗 打架 吵架 v
 
 
 2
@@ -19,9 +29,41 @@ following 下列的 v
 
 
 3
-fight 战斗 打架 v -----> fight -> fought
-argue 争论 争辩 v
 【 fight over. 争吵 】
+fight 战斗 打架 吵架 v -----> fight -> fought
+argue 争论 争辩 v
+// They are 【 fighting 】 because he 【 splashed 】 water 【 on 】 his 【 younger 】 brother. 他们争吵了起来因为他把水泼到了他弟弟身上
+// --
+// younger 较年轻的
+// elder 年长的
+// --
+// 【 younger brother. 弟弟 n 】
+// 【 elder brother. 哥哥 n 】
+// --
+// fight 战斗 打架 吵架 v
+
+
+4
+【 yell 大喊 v n 】
+【 shout 大喊 喊叫 v n 】
+-
+【 call out. 大喊 叫喊 v 】
+【 speak out. 大声说出 】
+-
+// After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 爆发冲突后，他从教室里冲出去大喊有人打他
+// She is 【 calling out 】 that someone has 【 fallen into 】 the water. 她大声呼叫有人掉水里了
+// Please 【 speak out 】, 【 instead of 】 【 calling out 】. 请大声说，而不是大声呼喊
+
+
+5
+time passes. 时间流逝
+time goes by. 时间流逝
+-
+【 go by. 流逝 】
+【  many years went by. 许多年过去了 】
+-
+// 随时时间流逝，我们渐渐表老了
+
 
 
 
@@ -29,6 +71,19 @@ argue 争论 争辩 v
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
 
 
+
+
+cross one's arms. 交叉手臂
+fold one's arms. 交叉手臂
+-
+fold 折叠
+unfold 展开
+-
+// The 【 umbrella 】 can be 【 folded 】 and 【 unfolded 】. 雨伞可以折叠和展开
+
+
+bow 鞠躬 弓 v n
+bowl 碗 n
 
 
 neck 脖子 n
@@ -65,6 +120,11 @@ alive 活着的 adj
 gibbon 长臂猿
 -
 grab 抓 取 拿 v
+-
+bowl 碗 盆 n
+-
+hail 冰雹 万岁 n
+
 
 
 
