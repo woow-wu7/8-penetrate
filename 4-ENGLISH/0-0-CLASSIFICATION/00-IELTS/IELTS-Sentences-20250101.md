@@ -2936,3 +2936,10 @@ The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 
 // -
 // expected salary. 期望薪资 n
 ```
+
+##### **【 10 MUST 】**
+
+```
+1
+半决赛和决赛都在明天举行
+```

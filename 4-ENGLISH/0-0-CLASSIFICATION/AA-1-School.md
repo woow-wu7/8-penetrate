@@ -87,7 +87,7 @@
 -
 - [成绩-考试]
 - `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】 // midterm examination. = midterm exam. 期中考试
-- `【 final exam. 期末考试 】`
+- `【 final exam. 期末考试 】` // ----------------------- 【 final match. 决赛 n 】 // **【 semifinal 半决赛 】** // **【 final 决赛 】**
 - `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
 - `【 National College Entrance Examination. 高考 n 】`
 - `【 academic performance. 学习成绩 】` // ------------- 【 academic research. 学术研究 】
@@ -112,6 +112,9 @@
 - 【 round brackets. 小括号 】
 - 【 square brackets. 中括号 】
 - 【 curly brackets. 大括号 】
+- _【 final examination. 期末考试 n 】_ VS 【 mid-term examination. 期中考试 n 】
+- _【 final match. 决赛 n 】_ VS 【 semifinal match. 半决赛 n 】
+- _【 semifinal match. 半决赛 n 】_
 - > 【 academic performance. 学习成绩 】
 - > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】

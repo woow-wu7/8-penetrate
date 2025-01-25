@@ -115,6 +115,7 @@
 - `【 comma 逗号 n 】` // --------------------------------------- 【 TV drama. = TV series. 电视剧 】 // 【 TV program. 电视节目 】
 - `【 period 句号 n / 时期 n 】` = full stop. // ----------------- 【 period [一段时间] [句号] 】 // a period of time. // warranty period. 保修期
 - `【 full stop. 句号 n 】` = period.
+- `【 semicolon 分号 n 】`
 - _【 mark 标记 记号 分数 n 】_ VS symbol VS sign
 - `【 question mark. 问号 n 】 = question point.` // ------------ _【 full marks. 满分 】_ 【 question mark. 问号 n 】
 - `【 exclamation mark. 感叹号 n 】= exclamation point. ` // ---- `【 exclamation 感叹 n 】` // **【 exclamation mark. 感叹号 】** VS **【 interjection 感叹词 n 】**

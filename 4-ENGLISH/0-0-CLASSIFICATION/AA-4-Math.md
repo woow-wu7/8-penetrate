@@ -1,6 +1,53 @@
-# Math
+##### Math
 
 ##### (1) **【 shape 形状 外形 】**
+
+- 1
+- [shape-形状-n]
+-
+- `【 triangle 三角形 n 】`
+- > 【 right triangle. 直角三角形 n 】
+- > 【 equilateral triangle. 等边三角形 n 】
+- _【 later 后来 以后 】_
+- _【 latter 后者 n / 后者的 adj 】_
+- > 【 former 前者 n 】
+- > 【 latter 后者 n 】
+-
+- `【 rectangle 矩形 长方形 n 】`
+- `【 square 正方形 广场 平方 n 】`
+- `【 parallelogram 平行四边形 n 】`
+- > 【 parallel 平行的 adj 】
+- > 【 parallel lines. 平行线 n 】
+- > 【 parallel universe. 平行宇宙 n 】
+- _【 universe 宇宙 n 】_
+- _【 university 大学 n 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
+-
+- `【 circle 圆 圆形 n 】`
+- `【 semicircle 半圆 n 】` // ------------------ 【 semi final. 半决赛 】 【 final 决赛 n 】
+- `【 ellipse 椭圆 n 】`
+- `【 sector 扇形 部门 n 】`
+-
+- `【 cube 立方体 n 】`
+- `【 cuboid 长方体 n 】`
+-
+- `【 cylinder 圆柱 n 】`
+- `【 cone 圆锥 n 】`
+-
+- `【 pentagon 五边形 n 】`
+- `【 hexagon 六边形 n 】`
+- `【 diamond 菱形 钻石 n 】`
+-
+- `【 area 面积 地区 n 】`
+- `【 volume 体积 音量 n 】`
+-
+- AA.
+- `【 semifinal 半决赛 n 】` // ----------------- 【 semifinal match. 半决赛 】 = 【 semifinal. 半决赛 】
+- `【 final 决赛 n 】`
+- > 【 hold 持有 举行 v 】
+- > 【 held 瓷釉 举行 / 过去式 and 过去分词 】
+- **【 Both the 【 semifinals 】 and 【 finals 】 will be 【 held 】 tomorrow. 半决赛和决赛都在明天举行 】**
+
+##### (2) **【 Unit 单位 】**
 
 ```
 triangle 三角形
