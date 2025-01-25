@@ -2856,29 +2856,83 @@ After he 【 got engaged 】, he 【 engage in 】 other 【 industries 】.
 
 ```
 1
+They are 【 fighting 】 because he 【 splashed water 】 【 on 】 his 【 younger brother 】.
 他们争吵了起来因为他把水泼到了他弟弟身上
+// -
+// fight 战斗 打架 吵架 v
+// -
+// splash water. 泼水
+// splash water on. 泼水到...
+// -
+// younger brother. 弟弟
+// elder brother. 哥哥
+
 
 
 2
+He was 【 washed away 】 【 by 】 【 flood 】 to the 【 faraway 】 place and 【 keep away from 】 the city.
 他被洪水冲走到了遥远的地方，远离了城市
 -
+He didn't 【 pass away 】, 【 instead 】, he 【 ran away 】.
 他没有去世，而是逃跑了
+-
+// -
+// wash away. 冲走
+// float away. 飘走
+// -
+// faraway 遥远的 adj
+// keep away from. 远离
+// -
+// pass away. 去世 v
+// run away. 逃跑 v
+
+
 
 
 3
+He 【 rushed out of 】 the classroom and 【 rushed over 】 【 to 】 his company 【 in 】 the 【 morning rush hour 】.
 他在上班早高峰冲出了教室，赶去公司
 -
-爆发冲突后，他从
+After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom to 【 called out 】 that someone 【 hit 】 him.
+爆发冲突后爆发冲突后，他从教室里冲出去大喊有人打他
+-
+// -
+// rush out of. 冲出 v
+// rush over. 冲去 赶去 v
+// rush hour. 高峰期
+// morning rush hour. 早高峰
+// -
+// 【 break out. 爆发 v 】
+// 【 call out. 大喊 v 】
+// -
+// 【 call out. 大喊 v 】
+// 【 shout 大喊 v 】
+// 【 yell 大喊 v 】
+
 
 
 4
+【 Releasing announcements 】 【 is 】 a way to 【 release pressure 】.
 发布公告是一种释放压力的方式
 -
+The government 【 released the announcement 】 for 【 releasing prisoners 】.
 政府发布了释放囚犯的公告
+-
+// 【 release an announcement. 发布公告 v 】
+// 【 release pressure. 释放压力 v 】
+
 
 
 5
+【 Regular employees 】 like to 【 participate in 】 the 【 formal occasions 】.
 正式的员工喜欢参加正式的场合
 -
+The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 expected salary 】is?
 正式员工问外包员工期望薪资是多少
+-
+// -
+// regular employee. 正式员工 n
+// outsourced employee. 外包员工 n
+// -
+// expected salary. 期望薪资 n
 ```
