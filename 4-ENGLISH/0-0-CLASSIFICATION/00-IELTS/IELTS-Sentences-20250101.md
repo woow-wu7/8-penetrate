@@ -2941,5 +2941,15 @@ The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 
 
 ```
 1
+半决赛的场地是半圆形
+-
 半决赛和决赛都在明天举行
+
+
+2
+这个长方形的周长和这个圆的直径相等
+
+
+3
+三角形有三条边
 ```

@@ -23,33 +23,70 @@
 - _【 university 大学 n 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
 -
 - `【 circle 圆 圆形 n 】`
-- `【 semicircle 半圆 n 】` // ------------------ 【 semi final. 半决赛 】 【 final 决赛 n 】
+- `【 semicircle 半圆 n 】` // ------------------- 【 semi final. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
 - `【 ellipse 椭圆 n 】`
 - `【 sector 扇形 部门 n 】`
--
-- `【 cube 立方体 n 】`
-- `【 cuboid 长方体 n 】`
--
-- `【 cylinder 圆柱 n 】`
-- `【 cone 圆锥 n 】`
+- > 【 semicircular 半圆的 adj 】
+- > 【 semicircle 半圆 n 】
 -
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
 - `【 diamond 菱形 钻石 n 】`
+- `【 side 边 n 】`
+-
+- `【 cube 立方体 n 】`
+- `【 cuboid 长方体 n 】`
+- `【 cylinder 圆柱 n 】`
+- `【 cone 圆锥 n 】`
 -
 - `【 area 面积 地区 n 】`
 - `【 volume 体积 音量 n 】`
+- `【 perimeter 周长 n 】` // -------------------- 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】
+- `【 diameter 直径 n 】`
+- `【 radius 半径 n 】`
+- > 【 parameter 参数 n 】
+- > 【 thermometer 温度计 体温计 n 】 // ----------- 【 mercury thermometer. 水银温度计 n 】 【 digital thermometer. 数字温度计 n 】
+- > 【 meter 米 n 】
+- > 【 kilometer 千米 n 】
+- > 【 centimeter 厘米 n 】
+- > 【 millimeter 毫米 n 】
+- _【 diameter 直径 n 】_
+- _【 perimeter 周长 n 】_
+- _【 parameter 参数 n 】_ // -------------------- 【 rest parameter. 剩余参数 】 【 multiple parameter. 多个参数 】
+-
+- `【 angle 角度 n 】`
+- `【 right angle. 直角 n 】`
+- `【 acute angle. 锐角 n 】`
+- `【 obtuse angle. 钝角 n 】`
+-
+- `【 vertical 垂直的 adj / 垂直线 n 】`
+- `【 parallel 平行的 adj 】`
 -
 - AA.
-- `【 semifinal 半决赛 n 】` // ----------------- 【 semifinal match. 半决赛 】 = 【 semifinal. 半决赛 】
+- `【 semicircle 半圆 n 】`
+- `【 semifinal 半决赛 n 】` // ------------------- 【 semifinal match. 半决赛 】 = 【 semifinal. 半决赛 】
 - `【 final 决赛 n 】`
 - > 【 hold 持有 举行 v 】
 - > 【 held 瓷釉 举行 / 过去式 and 过去分词 】
+- **【 The 【 venue 】 of the 【 semifinal match 】 is 【 semicircular 】. 半决赛的场地是半圆形 】**
 - **【 Both the 【 semifinals 】 and 【 finals 】 will be 【 held 】 tomorrow. 半决赛和决赛都在明天举行 】**
+- // --
+- // 【 venue 地点 场所 n 】
+- // 【 revenue 收入 n 】
+- // --
+- // 【 semicircular 半圆的 adj 】
+- // 【 semicircle 半圆 n 】
+- BB.
+- `【 perimeter 周长 n 】`
+- `【 diameter 直径 n 】`
+- `【 rectangle 长方形 矩形 n 】`
+- `【 circle 圆形 n 】`
+- **【 The 【 perimeter 】 of the 【 rectangle 】 is equal to the 【 diameter 】 of the 【 circle 】. 这个长方形的周长和这个圆的直径相等 】**
+- CC.
+- `【 side 边 n 】`
+- **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
 
-##### (2) **【 Unit 单位 】**
-
-```
+```1111111 Shape
 triangle 三角形
 rectangle 矩形
 square 正方形 // 广场
@@ -107,4 +144,68 @@ area 面积 // 地区
 
 cylinder 圆柱
 // It's cylindrical in shape. 它是圆柱形的
+```
+
+##### (2) **【 Unit 单位 】**
+
+```1111111 Unit
+million 百万
+【 100 million. 一亿 】
+// TIPS:
+// - 1. two million. ( 不能是 two millions )
+// - 2. millions of. 表示数百万，这时才需要加复数
+// million 百万:【 This is a 【 continent 】 with a population of 【 200 million 】. 这是一个拥有2亿人口的大陆 】
+// million 百万:【 The bones of dinosaurs lay underground for millions of years. 恐龙的骨头在地下埋藏了数百万年 】
+// -- bone 骨头:【 Dogs and puppies love to chew on bones. 狗和小狗喜欢咬骨头 】
+// -- chew 咀嚼: He can chew on this. 它可以咬这个
+
+billion 十亿
+// TIPS:
+// - 1. two billion. ( 不能是 two billions )
+// - 2. billions of. 表示数十亿，这时才需要加复数
+// billion 十亿:【 At some time more than five billion years ago the universe started. 超过五十亿年前的某个时间，宇宙开始诞生 】
+// billion 十亿:【 It has a half-life of about 10 billion years. 它的半衰期约为100亿年 】
+// -- half-life. 半衰期
+
+hundred 百
+// TIPS:
+// - 1. two hundred. ( 不能是 two hundreds )
+// - 2. hundreds of. 表示成百上千的，这时才需要加复数
+// hundred 百:【 There are hundreds of different brands on the market. 市场上有数百种不同的品牌 】
+// -- brand 品牌
+
+thousand 千
+// TIPS:
+// - 1. two thousand. ( 不能是 two thousands )
+// - 2. thousands of. 表示成千上万的，这时才需要加复数
+// thousand 千:【 The collage has five thousand teachers and students in all. 该校共有师生5千人 】
+// -- in all. 总计
+
+point 点
+time 时间 乘以
+// TIPS: 当time表示乘以时，前面是one用单数，其他用复数
+// times 乘以: two times two equals four. 二乘二等于四
+// time 乘以: one time two equals two. 一乘以二等于二
+
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+gram 克
+kilogram 千克
+ton 吨
+pound 英镑
+---
+
+ton 吨
+kilogram 千克 公斤 // kg
+equal 相等
+// The sum of one and one is two. 一加一的和式二
+// One plus one equals two.
+// two plus two equals four.
+// One ton is equal to 1000 kilograms. 一顿等于1000千克
+// One kilogram is equal to two jin. 一千克等于两斤
 ```
