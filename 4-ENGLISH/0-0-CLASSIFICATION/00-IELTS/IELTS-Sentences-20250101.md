@@ -2941,27 +2941,88 @@ The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 
 
 ```
 1
+The 【 venue 】 of the 【 semifinal match 】 is 【 semicircular 】.
 半决赛的场地是半圆形
 -
+Both the 【 semifinal match 】 and 【 final match 】 will be 【 held 】 tomorrow.
 半决赛和决赛都在明天举行
+-
+// -
+// 【 semifinal 半决赛 】 = semifinal match. 半决赛
+// 【 semicircle 半圆 n 】
+// -
+// semicircular 半圆的 adj
+// -
+// 【 venue 地点 场所 】
+// -
+// 【 hold 举起 举办 v 】
+// 【 hold -> held. 举办 举起 v 】
 
 
 2
+The 【 perimeter 】 of the 【 rectangle 】 and the 【 diameter 】 of the 【 circle 】 are 【 equal 】.
+The 【 perimeter 】 of the 【 rectangle 】 【 is equal to 】 the 【 diameter 】 of the 【 circle 】.
 这个长方形的周长和这个圆的直径相等
+// -
+// 【 perimeter 周长 n 】
+// 【 diameter 直径 n 】
+// 【 radius 半径 n 】
+// -
+// rectangle 长方形 矩形 n
+// triangle 三角形 n
 
 
 3
+a 【 triangle 】 has three 【 sides 】.
 三角形有三条边
+-
+The 【 area 】 of a 【 triangle 】 【 is equal to 】 【 half 】 of the 【 product 】 of the 【 base side 】 【 times 】 【 hight 】.
+三角形的面积等于底乘以高的一半
+-
+// -
+// 【 sides 边 n 】
+// 【 base sides. 底边 】
+// -
+// 【 area 区域 地区 面积 n 】
+// -
+// 【 product 乘积 n 】
+
 
 
 4
+The 【 parallel lines 】 don't 【 intersect 】.
 平行线不相交
 -
+The 【 opposite sides 】 of a 【 parallelogram 】 【 are parallel to 】 【 each other 】.
 平行四边形的对边相互平行
+-
+【 Parallel lines 】 【 are parallel to 】 each other and have no 【 intersection points 】.
+平行线相互平行，没有交点
+-
+// -
+// 【 parallel 平行的 adj 】
+// 【 parallel lines. 平行线 n 】
+// 【 parallelogram 平行四边形 n 】
+// -
+// 【 intersect 相交 v 】
+// 【 intersection 相交 n 】
+// 【 intersection point. 交点 n 】
+// -
+// opposite sides. 对边 n
+// base sides. 底边 n
+// -
+// be parallel to. 和...平行
+
 
 
 5
+I 【 stayed up working late 】 【 until 】 3 o'clock yesterday.
 我昨天熬夜工作到了凌晨3点钟
+// -
+// 【 stay up late. 熬夜 v 】
+// 【 stay -> stayed. 停留 】
+// -
+// 【 stay up working. 熬夜工作 】
 
 
 6
@@ -3007,4 +3068,36 @@ The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 
 
 4
 他在自习室锻炼肺部
+
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+5
+他的数学，物理，化学，生物成绩都很好
+
+
+6
+半决赛的场地是半圆形
+-
+半决赛和决赛都在明天举行
+
+
+7
+这个长方形的周长和这个圆的直径相等
+
+
+8
+三角形有三条边
+-
+三角形的面积等于底乘以高的一半
+
+
+9
+平行线不相交
+-
+平行四边形的对边相互平行
 ```

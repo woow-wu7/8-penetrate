@@ -1,6 +1,6 @@
 ##### People
 
-##### (1) **【 MUST - Education background 教育背景 / 学历 / 学生 / 职位 / 成绩 】**
+##### (1) **【 MUST - Education background 教育背景 / 学历 / 学生 / 职位 / 成绩 / 专业 】**
 
 - `【 kindergarten 幼儿园 】`
 - **【 He is a 【 kindergarten 】 student. 他是一名幼儿园学生 】**
@@ -86,25 +86,27 @@
 -
 -
 - [成绩-考试]
+- [成绩-考试]
 - `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】 // midterm examination. = midterm exam. 期中考试
-- `【 final exam. 期末考试 】` // ----------------------- 【 final match. 决赛 n 】 // **【 semifinal 半决赛 】** // **【 final 决赛 】**
+- `【 final exam. 期末考试 】` // ----------------------- 【 final match. 决赛 n = final. 】 // **【 semifinal 半决赛 】VS 【 semicircle 半圆 】**
 - `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
 - `【 National College Entrance Examination. 高考 n 】`
 - `【 academic performance. 学习成绩 】` // ------------- 【 academic research. 学术研究 】
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
 - `【 full scholarship. 全额奖学金 n 】` // -------------- 【 scholar 学者 】 // 【 internship 实习期 】 【 internship position. 实习岗 】
-- `【 math scores. 数学成绩 】`
+- `【 math scores. 数学成绩 = math grades. 数学成绩 】`
+- `【 excellent grades. 优异的成绩 n 】` // -------------- `【 grade 等级 成绩 分数 n 】`
 - `【 first place. 第一名 n 】` // ---------------------- 【 last place. 最后一名 】
 - `【 last place. 最后一名 n 】`
 - `【 first prize. 一等奖 n 】`
 - `【 the title of. ...的称号 】`
-- `【 preview lesson. 预习功课 】` // ------------------- preview lesson. VS review lesson.
+- `【 preview lesson. 预习功课 】` // -------------------- preview lesson. VS review lesson.
 - `【 review lesson. 复习功课 】`
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
 - _【 exclamation mark. 感叹号 】_
 - _【 ellipsis mark. 省略号 】_
-- _【 single quotation marks. 单引号 】_
+- _【 single quotation marks. 单引号 】_ // ------------- 【 quotation 引用 n 】 VS 【 quotient 商 】 // **【 emotional quotient. 情商 】** // intelligence quotient.
 - _【 double quotation marks. 双引号 】_
 - _【 exclamation mark. 感叹号 】_ // ------------- 【 interjection 感叹词 】 // interjection Vs intersection VS interaction VS conjunction VS junction VS section
 - _【 bookmark. 书签 n 】_
@@ -130,6 +132,7 @@
 -
 -
 -
+- [学生]
 - [学生]
 - `【 overseas student. 留学生 = international student.】` // _【 study abroad. 留学 】_ `【 go abroad. 出国 】` // 【 abroad 往国外 VS aboard 在船上 】
 - `【 undergraduate student. 本科生 】`
@@ -171,6 +174,21 @@
 - // TIPS: Pay attention to the pronunciation of the word 'abroad'. [abroad-在国外-adv-adj-n] [go-abroad.出国] [study-abroad.出国留学]
 - // TIPS: Pay attention to the pronunciation of the word 'violence'. [violence-暴力-n][campus-violence.校园暴力]
 -
+-
+-
+- [学科]
+- [学科]
+- `【 mathematics 数学 n 】`
+- `【 physics 物理 n 】`
+- `【 politics 政治 n 】` \*
+- `【 biology 生物 n 】`
+- `【 geography 地理 n 】`
+- `【 chemistry 化学 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'politics'. [politics-政治学-n]
+- **【 He has 【 excellent grades 】 【 in 】 【 mathematics 】, 【 physics 】, 【 chemistry 】 and 【 biology 】. 他的数学，物理，化学，生物成绩都很好 】**
+- // --
+- // 【 excellent grades. 优异的成绩 】
+- // 【 math scores. 数学成绩 = math grades. 数学成绩 】
 -
 -
 -

@@ -2,12 +2,16 @@
 
 - 1
 - [shape-形状-n]
+-
+-
+-
 - `【 triangle 三角形 n 】`
 - > 【 right triangle. 直角三角形 n 】
 - > 【 equilateral triangle. 等边三角形 n 】
 - _【 base side. 底边 n 】_ = bottom side. 底边 n
 - _【 height 高 】_
 - **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
+- **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
 - AA.
 - _【 later 后来 以后 】_
 - _【 latter 后者 n / 后者的 adj 】_
@@ -15,14 +19,27 @@
 - > 【 former 前者 n 】
 - > 【 latter 后者 n 】
 -
+-
+-
 - `【 rectangle 矩形 长方形 n 】`
 - `【 square 正方形 广场 平方 n 】`
 - `【 parallelogram 平行四边形 n 】` // ---------- 【 parallel + o + gram 】
+- AA.
 - > 【 parallel 平行的 adj 】
 - > 【 parallel lines. 平行线 n 】
 - > 【 parallel universe. 平行宇宙 n 】
+- **【 【 Parallel lines 】 【 are parallel to 】 【 each other 】 and have no 【 intersection points 】. 平行线相互平行，没有交点 】**
+- **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
+- **【 The 【 parallel lines 】 don't 【 intersect 】. 平行线不相交 】**
+- BB.
+- _【 intersect 相交 v 】_
+- _【 intersection 相交 n 】_ // ---------------- 【 intersection point. 交点 n 】
+- > 【 intersection point. 交点 n 】
+- CC.
 - _【 universe 宇宙 n 】_
 - _【 university 大学 n = college 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
+-
+-
 -
 - `【 circle 圆 圆形 n 】`
 - `【 semicircle 半圆 n 】` // ------------------- 【 semifinal. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
@@ -96,7 +113,13 @@
 - **【 The 【 perimeter 】 of the 【 rectangle 】 is equal to the 【 diameter 】 of the 【 circle 】. 这个长方形的周长和这个圆的直径相等 】**
 - CC.
 - `【 side 边 n 】`
+- `【 base side. 底边 n 】`
 - **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
+- **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 【 half 】 of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
+- // --
+- // area 区域 地区 面积 n
+- // product 乘积 n
+- // times 乘以 v
 - DD.
 - `【 parallel 平行的 adj 】`
 - `【 parallel lines. 平行线 n 】`
