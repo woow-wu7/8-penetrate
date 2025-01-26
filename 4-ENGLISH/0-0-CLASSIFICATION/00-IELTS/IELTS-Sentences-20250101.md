@@ -2952,4 +2952,10 @@ The 【 regular employee 】 asks the 【 outsourced employee 】 what your 【 
 
 3
 三角形有三条边
+
+
+4
+平行线不相交
+-
+平行四边形的对边相互平行
 ```

@@ -1,10 +1,7 @@
 ##### Math
 
-##### (1) **【 shape 形状 外形 】**
-
 - 1
 - [shape-形状-n]
--
 - `【 triangle 三角形 n 】`
 - > 【 right triangle. 直角三角形 n 】
 - > 【 equilateral triangle. 等边三角形 n 】
@@ -15,16 +12,16 @@
 -
 - `【 rectangle 矩形 长方形 n 】`
 - `【 square 正方形 广场 平方 n 】`
-- `【 parallelogram 平行四边形 n 】`
+- `【 parallelogram 平行四边形 n 】` // ---------- 【 parallel + o + gram 】
 - > 【 parallel 平行的 adj 】
 - > 【 parallel lines. 平行线 n 】
 - > 【 parallel universe. 平行宇宙 n 】
 - _【 universe 宇宙 n 】_
-- _【 university 大学 n 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
+- _【 university 大学 n = college 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
 -
 - `【 circle 圆 圆形 n 】`
 - `【 semicircle 半圆 n 】` // ------------------- 【 semi final. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
-- `【 ellipse 椭圆 n 】`
+- `【 oval 椭圆 n 】` = ellipse
 - `【 sector 扇形 部门 n 】`
 - > 【 semicircular 半圆的 adj 】
 - > 【 semicircle 半圆 n 】
@@ -61,6 +58,12 @@
 -
 - `【 vertical 垂直的 adj / 垂直线 n 】`
 - `【 parallel 平行的 adj 】`
+- `【 intersect 相交 v 】` // ------------------- 【 interjection 感叹词 】 VS 【 intersection 十字路口 相交 交点 n 】 VS 【 intersect 相交 v 】
+- > 【 interjection 感叹词 n 】
+- > 【 intersection 十字路口 相交 交点 n 】
+- > 【 intersect 相交 v 】
+- > 【 conjunction 连词 n 】
+- > 【 junction 交叉路口 枢纽站 n 】
 -
 - AA.
 - `【 semicircle 半圆 n 】`
@@ -85,8 +88,28 @@
 - CC.
 - `【 side 边 n 】`
 - **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
+- DD.
+- `【 parallel 平行的 adj 】`
+- `【 parallel lines. 平行线 n 】`
+- `【 intersect 相交 v 】`
+- **【 【 Parallel 】 lines don't 【 intersect 】. 平行线不相交 】**
+- **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
+- EE.
+- `【 parallelogram 平行四边形 】`
+- `【 parallel 平行的 adj 】`
+- `【 opposite sides. 对边 】`
+- **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
+-
+-
+-
+-
+-
+-
+-
+- 2
+- [Calculate-计算-v]
 
-```1111111 Shape
+```1111111 - Shape
 triangle 三角形
 rectangle 矩形
 square 正方形 // 广场
@@ -146,9 +169,22 @@ cylinder 圆柱
 // It's cylindrical in shape. 它是圆柱形的
 ```
 
-##### (2) **【 Unit 单位 】**
+```2222222 - Calculate
+和 sum
+差 difference
+积 product
+商 quotient
+// quotient 商
+// emotional quotient. 情商
+// intelligence quotient. 智商
 
-```1111111 Unit
+加 add
+减 minus / subtract
+乘 times / multiply
+除 divide
+```
+
+```3333333 - Unit
 million 百万
 【 100 million. 一亿 】
 // TIPS:
