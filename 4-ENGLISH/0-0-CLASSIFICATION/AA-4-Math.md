@@ -5,8 +5,13 @@
 - `【 triangle 三角形 n 】`
 - > 【 right triangle. 直角三角形 n 】
 - > 【 equilateral triangle. 等边三角形 n 】
+- _【 base side. 底边 n 】_ = bottom side. 底边 n
+- _【 height 高 】_
+- **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
+- AA.
 - _【 later 后来 以后 】_
 - _【 latter 后者 n / 后者的 adj 】_
+- BB.
 - > 【 former 前者 n 】
 - > 【 latter 后者 n 】
 -
@@ -20,11 +25,14 @@
 - _【 university 大学 n = college 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
 -
 - `【 circle 圆 圆形 n 】`
-- `【 semicircle 半圆 n 】` // ------------------- 【 semi final. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
+- `【 semicircle 半圆 n 】` // ------------------- 【 semifinal. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
 - `【 oval 椭圆 n 】` = ellipse
 - `【 sector 扇形 部门 n 】`
 - > 【 semicircular 半圆的 adj 】
 - > 【 semicircle 半圆 n 】
+- _【 semicircle 半圆 】_
+- _【 semifinal 半决赛 = semifinal match. 半决赛 】_
+- _【 final 决赛 = final match. 决赛 】_
 -
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
@@ -50,6 +58,7 @@
 - _【 diameter 直径 n 】_
 - _【 perimeter 周长 n 】_
 - _【 parameter 参数 n 】_ // -------------------- 【 rest parameter. 剩余参数 】 【 multiple parameter. 多个参数 】
+- **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
 -
 - `【 angle 角度 n 】`
 - `【 right angle. 直角 n 】`
@@ -118,6 +127,13 @@
 - AA.
 - _【 quotient 商 n 】_ // ------------------------- 【 emotional quotient. 情商 】 【 intelligence quotient. 智商 】 // 【 emotional value. 情绪价值 】
 - _【 quotation 引用 n 】_ // ---------------------- 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
+- **【 The 【 double quotation marks 】 【 emphasizes 】 the importance of the 【 emotional quotient 】 and 【 intelligence quotient 】. 双引号强调了情商和智商的重要性 】**
+- // --
+- // 【 emphasize 强调 v 】
+- // 【 sympathize 同情 v 】
+- // --
+- // emphasis 强调 n VS emphasize 强调 v
+- // sympathy 同情 同情心 n VS sympathize 同情 v
 - BB.
 - > 【 emotion 情绪 情感 n 】 // -------------------- 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 v 】 // 【 express emotion. 表达情感 v 】
 - > 【 emotional 情绪的 情感的 adj 】// -------------- 【 emotional value. 情绪价值 n 】 【 emotional quotient. 情商 n 】
@@ -132,6 +148,13 @@
 - _【 inventory 库存 n 】_// ----------------------- 【 take inventory. 盘点 】 【 inventory list. 清单 】
 - _【 prevent 阻止 防止 v 】_
 - _【 adventure 冒险 探险 v n 】_ // ---------------- 【 go on an adventure. 去冒险 】 //【 spirit of adventure. 冒险精神 】
+- .MT **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
+- .HL **【 I need to 【 take inventory 】 【 according to 】 the 【 inventory list 】. 我需要根据库存清单去盘点库存 】**
+- .HL **【 We should learn to 【 control emotion 】 and 【 vent emotion 】. 我们应该学会控制情绪和发泄情绪 】**
+- // --
+- // vendor 小贩 n
+- // vent 出风口 n 发泄 v
+- // tunnel 隧道 n
 -
 -
 - `【 加 plus / add 】`
@@ -145,6 +168,26 @@
 - `【 等 equal 】`
 - `【 大于 greater than. 】`
 - `【 小于 less than. 】`
+- `【 平方 square 】`
+-
+- `【 integer 整数 n 】`
+- `【 decimal 小数 n 】`
+- `【 fraction 分数 n 】`
+- `【 odd number. 奇数 n 】`
+- `【 even number. 偶数 n 】`
+- > 【 odd job. 零工 n 】 // -------- 【 odd job. 零工 n 】 【 part-time job. 兼职 n 】 【 full-time job. 全职 n 】 【 temporary job. 临时工作 n 】 【 casual job. 临时工 】
+- > 【 odd number. 奇数 n 】
+- _【 odd job. 零工 n 】_
+- _【 full-time job. 全职工作 n 】_
+- _【 part-time job. 兼职工作 n 】_
+- _【 temporary job. 临时工作 n 】_
+- _【 casual job. 零工 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'integer'. [integer-整数-n]
+- // TIPS: Pay attention to the pronunciation of the word 'decimal'. [decimal-小数-n]
+- // TIPS: Pay attention to the pronunciation of the word 'fraction'. [fraction-分数-n]
+- .MT **【 This 【 number 】 【 consists of 】 the 【 integer 】 part and 【 decimal 】 part. 这个数由整数和小数组成 】**
+- .HL **【 This 【 decimal 】 【 is equal to 】 that 【 fraction 】. 这个小数和那个分数相等 】**
+- .HL **【 【 Compare with 】 him, my age is 【 greater than 】 his age. 我和他相比，我的年龄比他大 】**
 -
 - AA.
 - [加法]

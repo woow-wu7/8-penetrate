@@ -114,7 +114,8 @@
 - 【 curly brackets. 大括号 】
 - _【 final examination. 期末考试 n 】_ VS 【 mid-term examination. 期中考试 n 】
 - _【 final match. 决赛 n 】_ VS 【 semifinal match. 半决赛 n 】
-- _【 semifinal match. 半决赛 n 】_
+- _【 semifinal 半决赛 n = semifinal match. 半决赛 】_
+- _【 semicircle 半圆 n 】_
 - > 【 academic performance. 学习成绩 】
 - > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】
