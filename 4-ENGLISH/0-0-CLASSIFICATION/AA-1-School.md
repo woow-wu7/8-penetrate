@@ -193,13 +193,13 @@
 - [场所/place]
 - `【 study lounge. 自习室 n 】`
 - `【 departure lounge. 候车室 n 】` // ---------------- 【 departure time. 出发时间 】 【 departure lounge. 候车室 】 【 study lounge. 自习室 】
-- `【 dormitory 寝室 n 】`
+- `【 dormitory 宿舍 寝室 n 】`
 - `【 laboratory 实验室 n 】` // ----------------------- 【 labor 劳动 v / 工人 n 】 VS 【 laboratory 实验室 n 】
 - `【 library 图书馆 n 】`
-- > 【 Day. 劳动节 n 】
+- > 【 Labor Day. 劳动节 n 】
 - > 【 labor law. 劳动法 】
 - > 【 labor worker. 劳动工人 n 】
-- > 【 labor contract. 劳动合同 n 】
+- > 【 labor contract. 劳动合同 n 】 // ----------------- 【 terminate the labor contract. 终止劳动合同 v 】 【 violate the labor contract. 违反劳动合同 v 】
 - _【 labor contract. 劳动合同 n 】_
 - _【 terminate the contract. 终止合同 】_ // ----------- 【 violate the transaction. 终止交易 v 】 【 violate the contract. 终止合同 v 】
 - _【 violate the contract. 违反合同 】_
