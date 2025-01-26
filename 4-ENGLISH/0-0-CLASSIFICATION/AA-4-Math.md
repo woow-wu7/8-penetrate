@@ -108,6 +108,68 @@
 -
 - 2
 - [Calculate-计算-v]
+- `【 和 sum 】`
+- `【 差 difference 】`
+- `【 积 product 】`
+- `【 商 quotient 】`
+- > 【 quotient 商 n 】
+- > 【 emotional quotient. 情商 n 】
+- > 【 intelligence quotient. 智商 n 】
+- AA.
+- _【 quotient 商 n 】_ // ------------------------- 【 emotional quotient. 情商 】 【 intelligence quotient. 智商 】 // 【 emotional value. 情绪价值 】
+- _【 quotation 引用 n 】_ // ---------------------- 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
+- BB.
+- > 【 emotion 情绪 情感 n 】 // -------------------- 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 v 】 // 【 express emotion. 表达情感 v 】
+- > 【 emotional 情绪的 情感的 adj 】// -------------- 【 emotional value. 情绪价值 n 】 【 emotional quotient. 情商 n 】
+- _【 vent emotion. 发泄情绪 v 】_
+- _【 control emotion. 控制情绪 v 】_
+- _【 express emotion. 表达情感 v 】_
+- 【 emotional value. 情绪价值 n 】
+- 【 emotional quotient. 情商 n 】
+- CC.
+- _【 vent 发泄 v / 通风口 n 】_// ------------------ 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 】 // 【 express emotion. 表达情感 v 】
+- _【 invent 发明 创造 编造 v 】_ // ---------------- 【 invent an excuse. 编造借口 】
+- _【 inventory 库存 n 】_// ----------------------- 【 take inventory. 盘点 】 【 inventory list. 清单 】
+- _【 prevent 阻止 防止 v 】_
+- _【 adventure 冒险 探险 v n 】_ // ---------------- 【 go on an adventure. 去冒险 】 //【 spirit of adventure. 冒险精神 】
+-
+-
+- `【 加 plus / add 】`
+- `【 减 minus / subtract 】`
+- `【 乘 times / multiply 】`
+- `【 除 divide 】`
+- > 【 subtract 减 v 】
+- > 【 minus 减 】
+-
+-
+- `【 等 equal 】`
+- `【 大于 greater than. 】`
+- `【 小于 less than. 】`
+-
+- AA.
+- [加法]
+- 1. **【 Two 【 plus 】 two 【 equals 】 four. 2 加 2 等于四 】**
+- 2. **【 Two 【 plus 】 two 【 is equal to 】 four. 2 加 2 等于四 】**
+- 3. **【 Two 【 plus 】 two 【 is 】 four. 2 加 2 等于四 】**
+- 4. **【 【 The sum of 】 two plus two equals four. 】**
+-
+- BB.
+- [减法]
+- 1. **【 nine 【 minus 】 two 【 equals 】 seven. 】**
+- 2. **【 nine 【 subtracted by 】 two equals seven. 】**
+- 3. **【 nine 【 subtracted from 】 two equals seven. 】**
+- > What's the difference of nine minus two?
+-
+- CC.
+- [乘法]
+- 1. **【 Two 【 times 】 three equals six. 】**
+- 2. **【 Two 【 multiplied by 】 three equals six 】**
+- > What's product of one times two?
+-
+- DD.
+- [除法]
+- **【 Ten 【 divided by 】 two equals five. 】**
+- > What's quotient of ten divided by two?
 
 ```1111111 - Shape
 triangle 三角形
@@ -182,6 +244,10 @@ cylinder 圆柱
 减 minus / subtract
 乘 times / multiply
 除 divide
+
+等 equal
+大于 greater than.
+小于 less than.
 ```
 
 ```3333333 - Unit
