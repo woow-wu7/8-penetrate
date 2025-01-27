@@ -3,10 +3,11 @@
 - 1
 - [shape-形状-n]
 -
-- `【 triangle 三角形 n 】`
+- `【 triangle 三角形 n 】` // ----------------------- 【 right triangle. 直角三角形 】 【 right angle. 直角 】 // 【 acute angle. 锐角 】 【 obtuse angle. 钝角 】
 - `【 triangular 三角形的 adj 】`
-- > 【 right triangle. 直角三角形 n 】
 - > 【 equilateral triangle. 等边三角形 n 】
+- > 【 right triangle. 直角三角形 n 】 // ------------ 【 right angle. 直角 n 】
+- > 【 right angle. 直角 n 】
 - _【 base side. 底边 n 】_ = bottom side. 底边 n
 - _【 height 高 】_
 - // TIPS: Pay attention to the pronunciation of the word 'height'. [height ]
@@ -23,8 +24,10 @@
 - > 【 latter 后者 n 】
 - CC.
 - > 【 angel 天使 n 】
-- > 【 angle 角度 角 n 】
-- > 【 triangle 三角形 n 】
+- > 【 angle 角度 角 n 】 // ------------------------- 【 right angle. 直角 n 】 // 【 acute angle. 锐角 n 】 【 obtuse angle. 钝角 n 】
+- > 【 triangle 三角形 n 】 // ----------------------- 【 right triangle. 直角三角形 】
+- _【 right triangle. 直角三角形 n 】_
+- _【 right angle. 直角 n 】_
 - .MT **【 From this 【 angle 】, the 【 cute angel 】 is 【 pretty 】 beautiful. 从这个角度看，这个可爱的天使真是漂亮极了 】**
 - .MT **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
 -
@@ -32,9 +35,9 @@
 -
 - `【 rectangle 矩形 长方形 n 】`
 - `【 square 正方形 广场 平方 n 】`
-- `【 parallelogram 平行四边形 n 】` // ---------- 【 parallel + o + gram 】 // parallel // 【 parallel lines. 平行线 】 【 parallel universe. 平行宇宙 】
+- `【 parallelogram 平行四边形 n 】` // -------------- 【 parallel + o + gram 】 // parallel // 【 parallel lines. 平行线 】 【 parallel universe. 平行宇宙 】
 - AA.
-- > 【 parallel 平行的 adj 】
+- > 【 parallel 平行的 adj 】 // -------------------- 【 parallel lines. 平行线 】 【 parallel universe. 平行宇宙 】
 - > 【 parallel lines. 平行线 n 】
 - > 【 parallel universe. 平行宇宙 n 】
 - **【 【 Parallel lines 】 【 are parallel to 】 【 each other 】 and have no 【 intersection points 】. 平行线相互平行，没有交点 】**
@@ -42,7 +45,7 @@
 - **【 The 【 parallel lines 】 don't 【 intersect 】. 平行线不相交 】**
 - BB.
 - _【 intersect 相交 v 】_
-- _【 intersection 相交 n 】_ // ---------------- 【 intersection point. 交点 n 】
+- _【 intersection 相交 n 】_ // -------------------- 【 intersection point. 交点 n 】
 - > 【 intersection point. 交点 n 】
 - intersection VS interaction VS interjection VS section VS conjunction VS conjunction
 - CC.
@@ -92,7 +95,7 @@
 -
 - `【 area 面积 地区 n 】`
 - `【 volume 体积 音量 n 】`
-- `【 perimeter 周长 n 】` // -------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】
+- `【 perimeter 周长 n 】` // -------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】 VS 【 diameter 直径 n 】
 - `【 diameter 直径 n 】`
 - `【 radius 半径 n 】`
 - _【 perimeter wall. 围墙 n 】_
@@ -197,10 +200,12 @@
 - `【 和 sum 】`
 - `【 差 difference 】`
 - `【 积 product 】`
-- `【 商 quotient 】`
+- `【 商 quotient 】` // -------------------------- 【 emotional quotient. 情商 EQ 】 【 intelligence quotient. 智商 IQ 】
 - > 【 quotient 商 n 】
 - > 【 emotional quotient. 情商 n 】
 - > 【 intelligence quotient. 智商 n 】
+- _【 emotional value. 情绪价值 n 】_
+- _【 emotional quotient. 情商 n 】_
 - AA.
 - _【 quotient 商 n 】_ // ------------------------- 【 emotional quotient. 情商 】 【 intelligence quotient. 智商 】 // 【 emotional value. 情绪价值 】
 - _【 quotation 引用 n 】_ // ---------------------- 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
@@ -219,12 +224,13 @@
 - _【 express emotion. 表达情感 v 】_
 - 【 emotional value. 情绪价值 n 】
 - 【 emotional quotient. 情商 n 】
+- .HL **【 People 【 with 】 high 【 emotional quotient 】 【 know 】 how to provide 【 emotional value 】. 情商高的人知道如何提供情绪价值 】**
 - CC.
-- _【 vent 发泄 v / 通风口 n 】_// ------------------ 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 】 // 【 express emotion. 表达情感 v 】
-- _【 invent 发明 创造 编造 v 】_ // ---------------- 【 invent an excuse. 编造借口 】
-- _【 inventory 库存 n 】_// ----------------------- 【 take inventory. 盘点 】 【 inventory list. 清单 】
+- _【 vent 发泄 v / 通风口 n 】_// ------------------- 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 】 // 【 express emotion. 表达情感 v 】
+- _【 invent 发明 创造 编造 v 】_ // ----------------- 【 invent an excuse. 编造借口 】
+- _【 inventory 库存 n 】_// ------------------------ 【 take inventory. 盘点 】 【 inventory list. 清单 】
 - _【 prevent 阻止 防止 v 】_
-- _【 adventure 冒险 探险 v n 】_ // ---------------- 【 go on an adventure. 去冒险 】 //【 spirit of adventure. 冒险精神 】
+- _【 adventure 冒险 探险 v n 】_ // ----------------- 【 go on an adventure. 去冒险 】 //【 spirit of adventure. 冒险精神 】
 - .MT **【 The 【 vendor 】 is 【 venting emotions 】 at the 【 vent 】 of the 【 tunnel 】. 这个摊贩正在隧道的出风口处发泄情绪 】**
 - .HL **【 I need to 【 take inventory 】 【 according to 】 the 【 inventory list 】. 我需要根据库存清单去盘点库存 】**
 - .HL **【 We should learn to 【 control emotion 】 and 【 vent emotion 】. 我们应该学会控制情绪和发泄情绪 】**
@@ -240,6 +246,11 @@
 - `【 除 divide 】` // ------------------------------ divided by
 - > 【 subtract 减 v 】
 - > 【 minus 减 】
+- _【 multiply 乘以 v 】_
+- _【 multiple 多种的 adj 】_ // ------------- 【 multiple parameters. 多个参数 】 【 multiple answers. 多个答案 】
+- _【 multiple parameters. 多个参数 n 】_
+- _【 multiple answers. 多个答案 n 】_
+- **【 There 【 are 】 no 【 multiple answers 】 【 for 】 ten times five. 10 乘以 5 没有多种答案 】**
 -
 -
 - `【 等 equal 】`
@@ -249,6 +260,7 @@
 -
 -
 -
+- [数字类型-types-of-numbers]
 - `【 integer 整数 n 】`
 - `【 decimal 小数 n 】`
 - `【 fraction 分数 n 】`
