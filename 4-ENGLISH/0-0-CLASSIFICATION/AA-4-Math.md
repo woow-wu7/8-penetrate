@@ -25,7 +25,7 @@
 - > 【 angel 天使 n 】
 - > 【 angle 角度 角 n 】
 - > 【 triangle 三角形 n 】
-- .MT **【 From this 【 angle 】, the 【 angel 】 is 【 pretty 】 beautiful. 从这个角度看，天使真是漂亮极了 】**
+- .MT **【 From this 【 angle 】, the 【 cute angel 】 is 【 pretty 】 beautiful. 从这个角度看，这个可爱的天使真是漂亮极了 】**
 - .MT **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
 -
 -
@@ -69,17 +69,25 @@
 -
 -
 -
-- [多边形]
+- [多边形-polygon]
+- `【 polygon 多边形 】`
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
 - `【 diamond 菱形 钻石 n 】`
+- `【 heart 心 心形 n 】`
 - `【 side 边 n 】`
 -
-- [立体图形]
+-
+- [立体图形-solid-figure]
+- `【 solid figure. 立体图形 】`
 - `【 cube 立方体 n 】`
 - `【 cuboid 长方体 n 】`
 - `【 cylinder 圆柱 n 】`
 - `【 cone 圆锥 n 】`
+- > 【 figure 数字 图形 身材 n 】
+- > 【 figure out. 计算出 解决 理解 v 】
+- _【 figure out. 计算出 解决 理解 v 】_
+- **【 I can't 【 figure out 】 why she has such a good 【 figure 】? 我无法理解她的身材为什么这么好 】**
 -
 -
 - `【 area 面积 地区 n 】`
@@ -102,7 +110,7 @@
 - **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
 -
 -
-- [角度]
+- [角度-angle]
 - `【 angle 角度 n 】` // ------------------------ 【 right angle. 直角 】 【 acute angle. 锐角 n 】 【 obtuse angle. 钝角 n 】
 - `【 right angle. 直角 n 】` // ----------------- 【 right triangle. 直角三角形 n 】 【 right angle. 直角 n 】
 - `【 acute angle. 锐角 n 】`
@@ -111,12 +119,14 @@
 - > 【 acute 锐角的 adj 】 // -------------------- 【 acute angle. 锐角 n 】
 - > 【 acute angle. 锐角 n 】
 - **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
+- **【 From this 【 angle 】, the 【 cute angel 】 is 【 pretty 】 beautiful. 从这个角度看，这个可爱的天使真是漂亮极了 】**
 -
 -
 -
+- [交互-interaction]
 - `【 vertical 垂直的 adj / 垂直线 n 】` // ------ 【 vertical alignment. 垂直对齐 】 【 horizontal align. 水平对齐 】
 - `【 parallel 平行的 adj 】`
-- `【 intersect 相交 v 】` // ------------------- 【 interjection 感叹词 】 VS 【 intersection 十字路口 相交 交点 n 】 VS 【 intersect 相交 v 】
+- `【 intersect 相交 v 】` // ------------------- 【 intersection 十字路口 相交 交点 n 】 VS【 interjection 感叹词 】 VS 【 intersect 相交 v 】
 - AA.
 - > 【 interjection 感叹词 n 】
 - > 【 intersection 十字路口 相交 交点 n 】
@@ -181,6 +191,7 @@
 -
 -
 -
+-
 - 2
 - [Calculate-计算-v]
 - `【 和 sum 】`
@@ -236,6 +247,8 @@
 - `【 小于 less than. 】`
 - `【 平方 square 】`
 -
+-
+-
 - `【 integer 整数 n 】`
 - `【 decimal 小数 n 】`
 - `【 fraction 分数 n 】`
@@ -243,11 +256,21 @@
 - `【 even number. 偶数 n 】`
 - > 【 odd job. 零工 n 】 // -------- 【 odd job. 零工 n 】 【 part-time job. 兼职 n 】 【 full-time job. 全职 n 】 【 temporary job. 临时工作 n 】 【 casual job. 临时工 】
 - > 【 odd number. 奇数 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'decimal'. [decimal-小数-n]
+- // TIPS: Pay attention to the pronunciation of the word 'fraction' [fraction-分数-n]
+- AA.
 - _【 odd job. 零工 n 】_
 - _【 full-time job. 全职工作 n 】_
 - _【 part-time job. 兼职工作 n 】_
 - _【 temporary job. 临时工作 n 】_
 - _【 casual job. 零工 n 】_
+- BB.
+- > 【 casual 随便的 休闲的 临时的 adj 】
+- > 【 casual job. 零工 n 】
+- > 【 casual pants. 休闲裤 n 】
+- > 【 casual dialog. 随意的对话 n 】
+- **【 He does 【 casual job 】 at the 【 warehouse 】 【 on weekends 】. 他周末在仓库做零工 】**
+-
 - // TIPS: Pay attention to the pronunciation of the word 'integer'. [integer-整数-n]
 - // TIPS: Pay attention to the pronunciation of the word 'decimal'. [decimal-小数-n]
 - // TIPS: Pay attention to the pronunciation of the word 'fraction'. [fraction-分数-n]
