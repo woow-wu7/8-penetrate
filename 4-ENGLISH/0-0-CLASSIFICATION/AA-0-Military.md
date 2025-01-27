@@ -185,7 +185,7 @@
 - _【 load the magazine. 装上弹夹 v 】_
 - _【 draw the pistol. 拔出手枪 v 】_
 -
-- `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】
+- `【 bullet 子弹 n 】` // --------------------- 【 bulletproof vest. 防弹衣 n 】 // 【 bulletproof 防弹的 adj 】 VS 【 waterproof 防水的 adj 】
 - `【 missile 导弹 n 】` // -------------------- `【 intercept missile. 拦截导弹 】` 【 missile / miss / dismiss / mission 】 // intercept VS interrupt
 - `【 bomb 炸弹n 轰炸v 】` // ------------------- 【 atom bomb. 原子弹 n 】 `【 bomber 轰炸机 】` `【 explosion sound. 爆炸声 n 】`
 - `【 atom bomb. 原子弹 n 】` // ---------------- 【 nuclear weapon. 核武器 】
@@ -193,6 +193,10 @@
 - `【 hand grenade. 手榴弹 n 】` // ------------- 【 handgun. 手枪 = pistol 】
 - `【 shrapnel 弹片 n 】`
 - `【 nuclear weapon. 核武器 】`
+- AA.
+- > 【 bulletproof. 防弹的 adj 】 // ------------ `【 bulletproof vest. 防弹衣 n 】`
+- > 【 waterproof. 防水的 adj 】 // ------------- `【 waterproof camera. 防水相机 n 】`
+- BB.
 - 【 bomb 炸弹 n 轰炸 v 】
 - 【 bomber 轰炸机 n 】
 - 【 Shrapnel 弹片 VS sharp 锋利的 】
