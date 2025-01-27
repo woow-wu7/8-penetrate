@@ -7,9 +7,13 @@
 - `【 triangular 三角形的 adj 】`
 - > 【 equilateral triangle. 等边三角形 n 】
 - > 【 right triangle. 直角三角形 n 】 // ------------ 【 right angle. 直角 n 】
+- > 【 acute triangle. 锐角三角形 n 】
+- > 【 obtuse triangle. 钝角三角形 n 】
 - > 【 right angle. 直角 n 】
+- > 【 acute angle. 锐角 n 】
+- > 【 obtuse angle. 钝角 n 】
 - _【 base side. 底边 n 】_ = bottom side. 底边 n
-- _【 height 高 】_
+- _【 height 高 】_ // height high short
 - // TIPS: Pay attention to the pronunciation of the word 'height'. [height ]
 - .HL **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形面积等于底乘以高的一半 】**
 - .HL **【 The 【 perimeter 】 of a 【 triangle 】 【 is equal to 】 the 【 sum 】 of 【 its 】 tree 【 sides 】 . 三角形的周长等于三边之和 】**
@@ -72,25 +76,41 @@
 -
 -
 -
-- [多边形-polygon]
+- [多边形-polygon][two-dimensional-figures.二维图形]
 - `【 polygon 多边形 】`
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
 - `【 diamond 菱形 钻石 n 】`
 - `【 heart 心 心形 n 】`
 - `【 side 边 n 】`
+- `【 plane 飞机 平面 平原 n 】`
+- > 【 figure 数字 图形 身材 n 】
+- > 【 plane figure. 平面图形 n 】
+- > 【 figure out. 计算出 解决 理解 v 】
 -
 -
-- [立体图形-solid-figure]
-- `【 solid figure. 立体图形 】`
+- [立体图形-solid-figure][three-dimensional-figures.三位图形]
+- `【 solid figure. 立体图形 】` // ----------- 【 plane figure. 平面图形 】 【 solid figure. 立体图形 】
 - `【 cube 立方体 n 】`
 - `【 cuboid 长方体 n 】`
 - `【 cylinder 圆柱 n 】`
 - `【 cone 圆锥 n 】`
+- `【 sphere 球 领域 n 】` // ----------------- 【 financial sphere. 金融领域 n 】 【 particular sphere. 特殊的领域 n 】
+- AA.
 - > 【 figure 数字 图形 身材 n 】
+- > 【 plane figure. 平面图形 n 】 // --------- 【 plane 飞机 平面 平原 n 】
+- > 【 solid figure. 立体图形 n 】
 - > 【 figure out. 计算出 解决 理解 v 】
 - _【 figure out. 计算出 解决 理解 v 】_
 - **【 I can't 【 figure out 】 why she has such a good 【 figure 】? 我无法理解她的身材为什么这么好 】**
+- BB.
+- > 【 atmosphere 气氛 氛围 大气层 】
+- > 【 sphere 球 领域 n 】
+- > 【 sphere 球 领域 n 】 VS 【 field 领域 n 】 VS 【 domain 领域 n 】
+- _【 particular sphere. 特别的领域 n 】_
+- _【 financial sphere. 金融领域 n 】_
+-
+-
 -
 -
 - `【 area 面积 地区 n 】`
@@ -264,6 +284,7 @@
 - `【 integer 整数 n 】`
 - `【 decimal 小数 n 】`
 - `【 fraction 分数 n 】`
+- `【 constant 常数 常量 n 】`
 - `【 odd number. 奇数 n 】`
 - `【 even number. 偶数 n 】`
 - > 【 odd job. 零工 n 】 // -------- 【 odd job. 零工 n 】 【 part-time job. 兼职 n 】 【 full-time job. 全职 n 】 【 temporary job. 临时工作 n 】 【 casual job. 临时工 】
