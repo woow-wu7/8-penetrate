@@ -3,27 +3,36 @@
 - 1
 - [shape-形状-n]
 -
--
--
 - `【 triangle 三角形 n 】`
+- `【 triangular 三角形的 adj 】`
 - > 【 right triangle. 直角三角形 n 】
 - > 【 equilateral triangle. 等边三角形 n 】
 - _【 base side. 底边 n 】_ = bottom side. 底边 n
 - _【 height 高 】_
-- **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
-- **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
+- // TIPS: Pay attention to the pronunciation of the word 'height'. [height ]
+- .HL **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形面积等于底乘以高的一半 】**
+- .HL **【 The 【 perimeter 】 of a 【 triangle 】 【 is equal to 】 the 【 sum 】 of 【 its 】 tree 【 sides 】 . 三角形的周长等于三边之和 】**
+- .HL **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
+- .MT **【 The 【 perimeter wall 】 is 【 triangular 】. 这个围墙是三角形的 】**
+- **【 A 【 triangle 】 has three 【 sides 】. 三角形有三条边 】**
 - AA.
 - _【 later 后来 以后 】_
 - _【 latter 后者 n / 后者的 adj 】_
 - BB.
 - > 【 former 前者 n 】
 - > 【 latter 后者 n 】
+- CC.
+- > 【 angel 天使 n 】
+- > 【 angle 角度 角 n 】
+- > 【 triangle 三角形 n 】
+- .MT **【 From this 【 angle 】, the 【 angel 】 is 【 pretty 】 beautiful. 从这个角度看，天使真是漂亮极了 】**
+- .MT **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
 -
 -
 -
 - `【 rectangle 矩形 长方形 n 】`
 - `【 square 正方形 广场 平方 n 】`
-- `【 parallelogram 平行四边形 n 】` // ---------- 【 parallel + o + gram 】
+- `【 parallelogram 平行四边形 n 】` // ---------- 【 parallel + o + gram 】 // parallel // 【 parallel lines. 平行线 】 【 parallel universe. 平行宇宙 】
 - AA.
 - > 【 parallel 平行的 adj 】
 - > 【 parallel lines. 平行线 n 】
@@ -35,6 +44,7 @@
 - _【 intersect 相交 v 】_
 - _【 intersection 相交 n 】_ // ---------------- 【 intersection point. 交点 n 】
 - > 【 intersection point. 交点 n 】
+- intersection VS interaction VS interjection VS section VS conjunction VS conjunction
 - CC.
 - _【 universe 宇宙 n 】_
 - _【 university 大学 n = college 】_ VS 【 college 大学 n 】 VS 【 colleague 同事 n 】 VS 【 coworker 同事 n 】
@@ -43,29 +53,43 @@
 -
 - `【 circle 圆 圆形 n 】`
 - `【 semicircle 半圆 n 】` // ------------------- 【 semifinal. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
-- `【 oval 椭圆 n 】` = ellipse
+- `【 ellipse 椭圆 n = oval. 椭圆 n 】` = oval
 - `【 sector 扇形 部门 n 】`
+- AA.
 - > 【 semicircular 半圆的 adj 】
 - > 【 semicircle 半圆 n 】
+- BB.
 - _【 semicircle 半圆 】_
-- _【 semifinal 半决赛 = semifinal match. 半决赛 】_
+- _【 semifinal 半决赛 】_ = semifinal match. 半决赛
 - _【 final 决赛 = final match. 决赛 】_
+- CC.
+- > 【 ellipse 椭圆 】= oval.
+- > 【 ellipsis 省略号 】
+- _【 ellipsis mark. 省略号 n 】_
 -
+-
+-
+- [多边形]
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
 - `【 diamond 菱形 钻石 n 】`
 - `【 side 边 n 】`
 -
+- [立体图形]
 - `【 cube 立方体 n 】`
 - `【 cuboid 长方体 n 】`
 - `【 cylinder 圆柱 n 】`
 - `【 cone 圆锥 n 】`
 -
+-
 - `【 area 面积 地区 n 】`
 - `【 volume 体积 音量 n 】`
-- `【 perimeter 周长 n 】` // -------------------- 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】
+- `【 perimeter 周长 n 】` // -------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】
 - `【 diameter 直径 n 】`
 - `【 radius 半径 n 】`
+- _【 perimeter wall. 围墙 n 】_
+- > 【 diameter 直径 n 】
+- > 【 perimeter 周长 n 】
 - > 【 parameter 参数 n 】
 - > 【 thermometer 温度计 体温计 n 】 // ----------- 【 mercury thermometer. 水银温度计 n 】 【 digital thermometer. 数字温度计 n 】
 - > 【 meter 米 n 】
@@ -73,30 +97,48 @@
 - > 【 centimeter 厘米 n 】
 - > 【 millimeter 毫米 n 】
 - _【 diameter 直径 n 】_
-- _【 perimeter 周长 n 】_
+- _【 perimeter 周长 n 】_ // -------------------- 【 perimeter wall. 围墙 n 】
 - _【 parameter 参数 n 】_ // -------------------- 【 rest parameter. 剩余参数 】 【 multiple parameter. 多个参数 】
 - **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
 -
-- `【 angle 角度 n 】`
-- `【 right angle. 直角 n 】`
+-
+- [角度]
+- `【 angle 角度 n 】` // ------------------------ 【 right angle. 直角 】 【 acute angle. 锐角 n 】 【 obtuse angle. 钝角 n 】
+- `【 right angle. 直角 n 】` // ----------------- 【 right triangle. 直角三角形 n 】 【 right angle. 直角 n 】
 - `【 acute angle. 锐角 n 】`
 - `【 obtuse angle. 钝角 n 】`
+- > 【 cute 可爱的 adj 】
+- > 【 acute 锐角的 adj 】 // -------------------- 【 acute angle. 锐角 n 】
+- > 【 acute angle. 锐角 n 】
+- **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
 -
-- `【 vertical 垂直的 adj / 垂直线 n 】`
+-
+-
+- `【 vertical 垂直的 adj / 垂直线 n 】` // ------ 【 vertical alignment. 垂直对齐 】 【 horizontal align. 水平对齐 】
 - `【 parallel 平行的 adj 】`
 - `【 intersect 相交 v 】` // ------------------- 【 interjection 感叹词 】 VS 【 intersection 十字路口 相交 交点 n 】 VS 【 intersect 相交 v 】
+- AA.
 - > 【 interjection 感叹词 n 】
 - > 【 intersection 十字路口 相交 交点 n 】
 - > 【 intersect 相交 v 】
 - > 【 conjunction 连词 n 】
 - > 【 junction 交叉路口 枢纽站 n 】
+- BB.
+- _【 vertical alignment. 垂直对齐 】_
+- _【 horizontal alignment. 水平对齐 】_
+- // TIPS: Pay attention to the pronunciation of the word 'vertical'. [vertical-垂直的-adj]
+- // TIPS: Pay attention to the pronunciation of the word 'horizontal'. [horizontal-水平的-adj]
 -
+-
+-
+- [造句]
 - AA.
 - `【 semicircle 半圆 n 】`
 - `【 semifinal 半决赛 n 】` // ------------------- 【 semifinal match. 半决赛 】 = 【 semifinal. 半决赛 】
-- `【 final 决赛 n 】`
+- `【 final 决赛 n 】` // ------------------------ 【 final match. 决赛 】= 【 final competition. 决赛 】
 - > 【 hold 持有 举行 v 】
 - > 【 held 瓷釉 举行 / 过去式 and 过去分词 】
+- > 【 hold a match. 举行比赛 v 】= 【 hold a competition. 举行比赛 v 】
 - **【 The 【 venue 】 of the 【 semifinal match 】 is 【 semicircular 】. 半决赛的场地是半圆形 】**
 - **【 Both the 【 semifinals 】 and 【 finals 】 will be 【 held 】 tomorrow. 半决赛和决赛都在明天举行 】**
 - // --
@@ -114,7 +156,7 @@
 - CC.
 - `【 side 边 n 】`
 - `【 base side. 底边 n 】`
-- **【 A 【 triangle 】 has three 【 side 】. 三角形有三条边 】**
+- **【 A 【 triangle 】 has three 【 sides 】. 三角形有三条边 】**
 - **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 【 half 】 of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
 - // --
 - // area 区域 地区 面积 n
@@ -131,6 +173,7 @@
 - `【 parallel 平行的 adj 】`
 - `【 opposite sides. 对边 】`
 - **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
+-
 -
 -
 -
@@ -182,8 +225,8 @@
 -
 - `【 加 plus / add 】`
 - `【 减 minus / subtract 】`
-- `【 乘 times / multiply 】`
-- `【 除 divide 】`
+- `【 乘 times / multiply 】` // -------------------- multiplied by
+- `【 除 divide 】` // ------------------------------ divided by
 - > 【 subtract 减 v 】
 - > 【 minus 减 】
 -
