@@ -1023,7 +1023,9 @@
 - > 【 iron fist. 铁拳 n 】
 - **【 There are 【 iron mine 】 and 【 iron rust 】 in the 【 iron ore 】. 铁矿石中有铁矿和铁锈 】**
 
-## (1.9) `扩展-Expand`
+## (1.9) `扩展-Expand` **【 MUST - Expand 】**
+
+- `【 sub-health. 亚健康 】`
 
 ```
 check out. 查看 退房 v

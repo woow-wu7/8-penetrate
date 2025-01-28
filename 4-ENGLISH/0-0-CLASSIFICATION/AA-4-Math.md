@@ -142,14 +142,14 @@
 - [element-元素]
 - `【 area 面积 地区 n 】`
 - `【 volume 体积 音量 n 】`
-- `【 perimeter 周长 n 】` // -------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】 VS 【 diameter 直径 n 】
+- `【 perimeter 周长 n 】` // ------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】 VS 【 diameter 直径 n 】
 - `【 diameter 直径 n 】`
 - `【 radius 半径 n 】`
 - _【 perimeter wall. 围墙 n 】_
 - > 【 diameter 直径 n 】
 - > 【 perimeter 周长 n 】
-- > 【 parameter 参数 n 】
-- > 【 thermometer 温度计 体温计 n 】 // ----------- 【 mercury thermometer. 水银温度计 n 】 【 digital thermometer. 数字温度计 n 】
+- > 【 parameter 参数 n 】 // ------------------- `【 parallel parameters. 多个参数 n 】` 【 parallel answers. 多个答案 n 】
+- > 【 thermometer 温度计 体温计 n 】 // ---------- 【 mercury thermometer. 水银温度计 n 】 【 digital thermometer. 数字温度计 n 】
 - > 【 meter 米 n 】
 - > 【 kilometer 千米 n 】
 - > 【 centimeter 厘米 n 】
@@ -194,12 +194,13 @@
 -
 - [造句]
 - AA.
-- `【 semicircle 半圆 n 】`
+- `【 semicircle 半圆 n 】` // ------------------- 【 semifinal match. = semifinal competition. 半决赛 n 】
 - `【 semifinal 半决赛 n 】` // ------------------- 【 semifinal match. 半决赛 】 = 【 semifinal. 半决赛 】
 - `【 final 决赛 n 】` // ------------------------ 【 final match. 决赛 】= 【 final competition. 决赛 】
 - > 【 hold 持有 举行 v 】
 - > 【 held 瓷釉 举行 / 过去式 and 过去分词 】
 - > 【 hold a match. 举行比赛 v 】= 【 hold a competition. 举行比赛 v 】
+- _【 develop a habit. 养成习惯 v 】_ = form a habit. 养成习惯
 - **【 The 【 venue 】 of the 【 semifinal match 】 is 【 semicircular 】. 半决赛的场地是半圆形 】**
 - **【 Both the 【 semifinals 】 and 【 finals 】 will be 【 held 】 tomorrow. 半决赛和决赛都在明天举行 】**
 - // --
@@ -333,6 +334,12 @@
 - > 【 casual pants. 休闲裤 n 】
 - > 【 casual dialog. 随意的对话 n 】
 - **【 He does 【 casual job 】 at the 【 warehouse 】 【 on weekends 】. 他周末在仓库做零工 】**
+- CC.
+- _【 remainder 余数 n 】_
+- _【 remind 提醒 v 】_
+- _【 command 命令 指挥 v n 】_
+- _【 demand 需求 要求 v n 】_
+- _【 recommend 推荐 v 】_
 -
 - // TIPS: Pay attention to the pronunciation of the word 'integer'. [integer-整数-n]
 - // TIPS: Pay attention to the pronunciation of the word 'decimal'. [decimal-小数-n]
