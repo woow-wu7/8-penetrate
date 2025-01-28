@@ -91,6 +91,8 @@
 - `【 final exam. 期末考试 】` // ----------------------- 【 final match. 决赛 n = final. 】 // **【 semifinal 半决赛 】VS 【 semicircle 半圆 】**
 - `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
 - `【 National College Entrance Examination. 高考 n 】`
+- **【 take examination. 参加考试 v 】**
+- **【 take the midterm examination. 参加期中考试 】**
 - `【 academic performance. 学习成绩 】` // ------------- 【 academic research. 学术研究 】
 - `【 full marks. 满分 】` // --------------------------- 【 question mark. 问号 】 【 single quotation marks. 单引号 】 【 double quotation marks. 双引号 】
 - `【 full scholarship. 全额奖学金 n 】` // -------------- 【 scholar 学者 】 // 【 internship 实习期 】 【 internship position. 实习岗 】
