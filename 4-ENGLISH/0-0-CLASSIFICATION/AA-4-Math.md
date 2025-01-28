@@ -3,6 +3,7 @@
 - 1
 - [shape-形状-n]
 -
+- [1]
 - `【 triangle 三角形 n 】` // ----------------------- 【 right triangle. 直角三角形 】 【 right angle. 直角 】 // 【 acute angle. 锐角 】 【 obtuse angle. 钝角 】
 - `【 triangular 三角形的 adj 】`
 - > 【 equilateral triangle. 等边三角形 n 】
@@ -20,6 +21,10 @@
 - .HL **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
 - .MT **【 The 【 perimeter wall 】 is 【 triangular 】. 这个围墙是三角形的 】**
 - **【 A 【 triangle 】 has three 【 sides 】. 三角形有三条边 】**
+- // -- area 地区 面积 n
+- // -- base side. 底边 n
+- // -- perimeter wall. 围墙 n
+- // -- perimeter 周长 n
 - AA.
 - _【 later 后来 以后 】_
 - _【 latter 后者 n / 后者的 adj 】_
@@ -27,16 +32,23 @@
 - > 【 former 前者 n 】
 - > 【 latter 后者 n 】
 - CC.
-- > 【 angel 天使 n 】
+- > 【 angel 天使 n 】 // ---------------------------- `【 angel investor. 天使投资人 n 】`
 - > 【 angle 角度 角 n 】 // ------------------------- 【 right angle. 直角 n 】 // 【 acute angle. 锐角 n 】 【 obtuse angle. 钝角 n 】
 - > 【 triangle 三角形 n 】 // ----------------------- 【 right triangle. 直角三角形 】
 - _【 right triangle. 直角三角形 n 】_
 - _【 right angle. 直角 n 】_
+- 【 angel investor. 天使投资人 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'invest'. [invest-投资-v]
 - .MT **【 From this 【 angle 】, the 【 cute angel 】 is 【 pretty 】 beautiful. 从这个角度看，这个可爱的天使真是漂亮极了 】**
 - .MT **【 A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】. 直角三角形有一个直角和两个锐角 】**
+- // -- cute 可爱的 adj
+- // -- acute 锐角的 adj
+- // -- acute angle. 锐角 n
 -
 -
 -
+-
+- [2]
 - `【 rectangle 矩形 长方形 n 】`
 - `【 square 正方形 广场 平方 n 】`
 - `【 parallelogram 平行四边形 n 】` // -------------- 【 parallel + o + gram 】 // parallel // 【 parallel lines. 平行线 】 【 parallel universe. 平行宇宙 】
@@ -47,6 +59,7 @@
 - **【 【 Parallel lines 】 【 are parallel to 】 【 each other 】 and have no 【 intersection points 】. 平行线相互平行，没有交点 】**
 - **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
 - **【 The 【 parallel lines 】 don't 【 intersect 】. 平行线不相交 】**
+- // -- intersection point. 交点 n
 - BB.
 - _【 intersect 相交 v 】_
 - _【 intersection 相交 n 】_ // -------------------- 【 intersection point. 交点 n 】
@@ -58,6 +71,8 @@
 -
 -
 -
+-
+- [3]
 - `【 circle 圆 圆形 n 】`
 - `【 semicircle 半圆 n 】` // ------------------- 【 semifinal. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
 - `【 ellipse 椭圆 n = oval. 椭圆 n 】` = oval
@@ -67,29 +82,40 @@
 - > 【 semicircle 半圆 n 】
 - BB.
 - _【 semicircle 半圆 】_
-- _【 semifinal 半决赛 】_ = semifinal match. 半决赛
-- _【 final 决赛 = final match. 决赛 】_
+- _【 semifinal 半决赛 】_ = _【 semifinal match. 半决赛 】_ = _【 semifinal competition. 半决赛 n 】_
+- _【 final 决赛 】_ = _【 final match. 决赛 】_ = _【 final competition. 决赛 n 】_
 - CC.
 - > 【 ellipse 椭圆 】= oval.
 - > 【 ellipsis 省略号 】
-- _【 ellipsis mark. 省略号 n 】_
+- > 【 ellipsis mark. 省略号 n 】
+- DD.
+- > 【 semester 学期 n 】
+- > 【 term 学期 术语 n 】
+- > 【 mid-term examination. 期中考试 】
+- > 【 final examination. 期末考试 】
+- > 【 final match. 决赛 】
+- > 【 semifinal match. 半决赛 】
+- > 【 semicircle. 半圆 】
 -
 -
 -
-- [多边形-polygon][two-dimensional-figures.二维图形]
+- [多边形-polygon][two-dimensional-figures.二维图形] ---------------- [plane-figure.平面图]
 - `【 polygon 多边形 】`
 - `【 pentagon 五边形 n 】`
 - `【 hexagon 六边形 n 】`
 - `【 diamond 菱形 钻石 n 】`
 - `【 heart 心 心形 n 】`
 - `【 side 边 n 】`
-- `【 plane 飞机 平面 平原 n 】`
-- > 【 figure 数字 图形 身材 n 】
-- > 【 plane figure. 平面图形 n 】
+- `【 plane 飞机 【 平面 】 平原 n 】` // ------- 【 plane figure. 平面图 n 】 【 solid figure. 立体图 n 】
+- AA.
+- > 【 figure 图形 身材 n 】
 - > 【 figure out. 计算出 解决 理解 v 】
+- _【 plane figure. 平面图形 n 】_
+- _【 solid figure. 立体图形 n 】_
 -
 -
-- [立体图形-solid-figure][three-dimensional-figures.三位图形]
+-
+- [立体图形-solid-figure][three-dimensional-figures.三位图形] ------- [solid-figure.立体图]
 - `【 solid figure. 立体图形 】` // ----------- 【 plane figure. 平面图形 】 【 solid figure. 立体图形 】
 - `【 cube 立方体 n 】`
 - `【 cuboid 长方体 n 】`
@@ -113,6 +139,7 @@
 -
 -
 -
+- [element-元素]
 - `【 area 面积 地区 n 】`
 - `【 volume 体积 音量 n 】`
 - `【 perimeter 周长 n 】` // -------------------- `【 perimeter wall. 围墙 n 】` // 【 parameter 参数 n 】 VS 【 perimeter 周长 n 】 VS 【 diameter 直径 n 】
@@ -133,6 +160,7 @@
 - **【 The 【 area 】 of a 【 triangle 】 【 is equal to 】 half of the 【 product 】 of the 【 base side 】 【 times 】 【 height 】. 三角形的面积等于底乘以高的一半 】**
 -
 -
+-
 - [角度-angle]
 - `【 angle 角度 n 】` // ------------------------ 【 right angle. 直角 】 【 acute angle. 锐角 n 】 【 obtuse angle. 钝角 n 】
 - `【 right angle. 直角 n 】` // ----------------- 【 right triangle. 直角三角形 n 】 【 right angle. 直角 n 】
@@ -148,7 +176,7 @@
 -
 - [交互-interaction]
 - `【 vertical 垂直的 adj / 垂直线 n 】` // ------ 【 vertical alignment. 垂直对齐 】 【 horizontal align. 水平对齐 】
-- `【 parallel 平行的 adj 】`
+- `【 parallel 平行的 adj 】` // ---------------- `【 parallel lines. 平行线 n 】` VS `【 parallel universe. 平行宇宙 n 】`
 - `【 intersect 相交 v 】` // ------------------- 【 intersection 十字路口 相交 交点 n 】 VS【 interjection 感叹词 】 VS 【 intersect 相交 v 】
 - AA.
 - > 【 interjection 感叹词 n 】
@@ -206,6 +234,7 @@
 - `【 parallel 平行的 adj 】`
 - `【 opposite sides. 对边 】`
 - **【 The 【 opposite sides 】 of a 【 parallelogram 】 are 【 parallel 】 to 【 each other 】. 平行四边形的对边相互平行 】**
+-
 -
 -
 -
@@ -285,6 +314,7 @@
 - `【 decimal 小数 n 】`
 - `【 fraction 分数 n 】`
 - `【 constant 常数 常量 n 】`
+- `【 remainder 余数 剩余的 adj 】` // 【 remainder 余数 n 】 VS 【 remind 提醒 v 】 VS 【 command 命令 指挥 v 】 VS 【 demand 需求 要求 】 VS 【 recommend 推荐 v 】
 - `【 odd number. 奇数 n 】`
 - `【 even number. 偶数 n 】`
 - > 【 odd job. 零工 n 】 // -------- 【 odd job. 零工 n 】 【 part-time job. 兼职 n 】 【 full-time job. 全职 n 】 【 temporary job. 临时工作 n 】 【 casual job. 临时工 】

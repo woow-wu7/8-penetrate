@@ -100,24 +100,31 @@
 - `【 last place. 最后一名 n 】`
 - `【 first prize. 一等奖 n 】`
 - `【 the title of. ...的称号 】`
-- `【 preview lesson. 预习功课 】` // -------------------- preview lesson. VS review lesson.
-- `【 review lesson. 复习功课 】`
+- `【 preview lesson. 预习功课 】` \* // -------------------- preview lesson. VS review lesson.
+- `【 review lesson. 复习功课 】` \*
+- `【 semester 学期 n 】` \*
+- `【 term 学期 术语 n 】` \*
+- AA.
 - _【 full marks. 满分 】_
 - _【 question mark. 问号 】_
 - _【 exclamation mark. 感叹号 】_
 - _【 ellipsis mark. 省略号 】_
-- _【 single quotation marks. 单引号 】_ // ------------- 【 quotation 引用 n 】 VS 【 quotient 商 】 // **【 emotional quotient. 情商 】** // intelligence quotient.
+- _【 single quotation marks. 单引号 】_ // ------------ 【 quotation 引用 n 】 VS 【 quotient 商 】 // **【 emotional quotient. 情商 】** // intelligence quotient.
 - _【 double quotation marks. 双引号 】_
-- _【 exclamation mark. 感叹号 】_ // ------------- 【 interjection 感叹词 】 // interjection Vs intersection VS interaction VS conjunction VS junction VS section
+- _【 exclamation mark. 感叹号 】_ // ------------------ 【 interjection 感叹词 】 // interjection Vs intersection VS interaction VS conjunction VS junction VS section
 - _【 bookmark. 书签 n 】_
 - _【 sticker 贴纸 n 】_
 - 【 round brackets. 小括号 】
 - 【 square brackets. 中括号 】
 - 【 curly brackets. 大括号 】
+- BB.
 - _【 final examination. 期末考试 n 】_ VS 【 mid-term examination. 期中考试 n 】
 - _【 final match. 决赛 n 】_ VS 【 semifinal match. 半决赛 n 】
 - _【 semifinal 半决赛 n = semifinal match. 半决赛 】_
 - _【 semicircle 半圆 n 】_
+- CC.
+- **【 semester 学期 n 】**
+- **【 term 学期 术语 n 】** // ------------ 【 mid-term examination. 期中考试 】 【 final examination. 期末考试 】 // 【 final match. 决赛 】 【 semifinal match. 半决赛 】
 - > 【 academic performance. 学习成绩 】
 - > 【 academic research. 学术研究 】
 - > 【 economic structure. 经济结构 】
@@ -127,6 +134,7 @@
 - [][Must 2024-07-15](./00-IELTS/IELTS-Must-20240701.md)
 - // TIPS: Pay attention to the pronunciation of the word 'midterm'. [midterm-exam.其中考试-n]
 - // TIPS: Pay attention to the pronunciation of the word 'exclamation'. [exclamation-惊叹词-n][exclamation-mark.感叹号]
+- // TIPS: Pay attention to the pronunciation of the word 'semester'. [semester-学期=term]
 - .MT **【 His 【 math scores 】 are 【 full marks 】 in 【 both 】 【 midterm exam 】 and 【 final exam 】. 他的数学成绩在期中考试和期末考试中都是满分 】**
 - .MT **【 【 Previewing lessons 】 and 【 reviewing lessons 】 are 【 equally 】 important. 预习功课和复习功课同等重要 】**
 -
