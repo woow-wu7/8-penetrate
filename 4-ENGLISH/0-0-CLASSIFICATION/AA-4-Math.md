@@ -135,6 +135,10 @@
 - > 【 sphere 球 领域 n 】 VS 【 field 领域 n 】 VS 【 domain 领域 n 】
 - _【 particular sphere. 特别的领域 n 】_
 - _【 financial sphere. 金融领域 n 】_
+- CC.
+- > 【 venue 地点 场所 n 】
+- > 【 revenue 收入 n 】= income
+- > 【 avenue 大街 n 】
 -
 -
 -

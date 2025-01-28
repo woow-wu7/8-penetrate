@@ -3198,7 +3198,154 @@ I 【 stayed up working late 】 【 until 】 3 o'clock yesterday.
 
 ```
 1
+When you 【 develop a habit 】, you 【 no longer 】 need to do that thing 【 deliberately 】.
 当你养成一种习惯后，就不用再刻意去做那件事了
 -
+We need to 【 develop the habit 】 【 of 】 washing hands before 【 meals 】.
 我们需要养成吃饭前洗手的习惯
+-
+// -
+// 【 develop habit. 养成习惯 v 】
+// 【 form habit. 养成习惯 v 】
+// -
+// 【 no longer. 不再 】
+// -
+// 【 deliberate 故意的 刻意的 蓄意的 adj 】
+// 【 deliberately 故意地 刻意地 蓄意地 adv 】
+
+
+
+2
+The 【 area 】 of a 【 triangle 】 is equal to the 【 product 】 of 【 base side 】 【 times 】 【 height 】.
+三角形面积等于底乘以高乘积的一半
+-
+The 【 perimeter 】 of a triangle is equal to the 【 sum 】 of its three sides.
+三角形的周长等于三边之和
+-
+A 【 right triangle 】 has a 【 right angle 】 and two 【 acute angles 】.
+直角三角形有一个直角和两个锐角
+-
+This 【 perimeter wall 】 is 【 triangular 】.
+这个围墙是三角形的
+-
+A triangle has three sides.
+三角形有三条边
+-
+// -
+// area 面积 n
+// triangle 三角形 n
+// triangular 三角形的 adj
+// right triangle. 直角三角形 n
+// -
+// right angle. 直角 n
+// acute angle. 锐角 n
+// obtuse angle. 钝角 n
+// -
+// product 乘积 n
+// base side. 底边
+// height 高
+// -
+// diameter 直径 n
+// parameter 参数 n // ------------ 【 multiple parameters. 多个参数 】
+// perimeter 周长 n // ------------ 【 perimeter wall. 围墙 n 】
+// thermometer 体温计 温度计 n
+
+
+3
+From this 【 angle 】, the 【 cute 】 【 angel 】 is pretty beautiful.
+从这个角度看，这个可爱的天使真是漂亮极了
+// -
+// 【 angel 天使 n 】
+// 【 angel investor. 天使投资人 n 】
+// -
+// angel 天使 n
+// angle 角度 n
+// -
+// 【 cute 可爱的 adj 】
+// 【 acute 锐角的 adj 】
+
+
+4
+【 Parallel lines 】 【 are parallel to 】 each other, and have no 【 intersection points 】.
+平行线相互平行，没有交点
+-
+The 【 opposite sides 】 of a 【 parallelogram 】 【 are parallel to 】 each other.
+平行四边形的对边相互平行
+-
+// -
+// parallelogram 平行四边形 n
+// parallel 平行的 adj
+// be parallel to. 平行于...
+// -
+// opposite sides. 对边 n
+// intersection points. 交点 n
+
+
+5
+I don't 【 figure out 】 why she has such a good 【 figure 】.
+我无法理解她的身材为什么这么好
+// -
+// 【 figure 图形 身材 n 】
+// -
+// 【 figure out. 计算出 解决 理解 v 】
+// -
+// 【 plane figure. 平面图形 n 】
+// 【 solid figure. 立体图形 n 】
+
+
+
+6
+The 【 venue 】 of semifinal match is semicircular.
+半决赛的场地是半圆形
+-
+Both the 【 semifinal match 】 and 【 final match 】 will be 【 held 】 tomorrow.
+半决赛和决赛都在明天举行
+-
+// -
+// 【 venue 地点 场所 n 】
+// 【 revenue 收入 n 】
+// 【 avenue 大街 n 】
+// -
+// semifinal match. = semifinal competition. 半决赛
+// final match.
+// final examination.
+
+
+
+7
+The 【 perimeter 】 of this 【 rectangle 】 is equal to the 【 diameter 】 of the 【 circle 】.
+这个长方形的周长和这个圆的直径相等
+// -
+// perimeter
+// diameter
+// parameter
+// thermometer
+
+
+8
+双引号强调了情商和智商的重要性
+
+
+9
+这个摊贩正在隧道的出风口处发泄情绪
+-
+我需要根据库存清单去盘点库存
+-
+我们应该学会控制情绪和发泄情绪
+
+
+10
+10 乘以 5 没有多种答案
+
+
+11
+他周末在仓库做零工
+
+
+12
+这个数由整数和小数组成
+-
+这个小数和那个分数相等
+-
+我和他相比，我的年龄比他大
 ```

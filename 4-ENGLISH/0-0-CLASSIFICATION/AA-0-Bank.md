@@ -250,6 +250,9 @@
 - **【 revenue = income 收入 n 】**
 - _【 expensive 昂贵的 adj 】_
 - _【 expensive expense. 昂贵的费用 】_
+- > 【 revenue 收入 n 】= income
+- > 【 avenue 大街 n 】
+- > 【 venue 地点 场所 n 】
 -
 - .MT **【 My 【 revenue 】 mainly comes from 【 investments 】, salaries, 【 annual bonuses 】, 【 performance 】, benefits, stocks, interest, odd jobs, tips. 【 expenditure / expense 】includes 【 car loan 】, 【 mortgage loan 】, 【 transportation costs 】 and 【 daily expenses 】. 我的收入主要来源于投资、薪资、年终奖、工作绩效奖金、福利、股票、利息、零工收入、小费。支出则包括汽车贷款、抵押贷款、交通费用以及日常开销 】**
 - // transportation costs. 交通费用 n
