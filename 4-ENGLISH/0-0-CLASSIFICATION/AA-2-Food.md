@@ -408,7 +408,7 @@
 -
 -
 - 2
-- `【 portion 部分 一份 n 】`
+- `【 portion 部分 一份 n 】` // ------------------- 【 small portion. 小份 n 】 【 large portion. 大份 】
 - `【 port 港口 n 】`
 - `【 harbor 港口 n 】` // ------------------------- 【 dock 码头 n 】 VS 【 duck 鸭子 n 】 // 【 wild duck. 野鸭 】 【 peking duck. 北京烤鸭 】
 - > 【 small portion. 小份 】
