@@ -3323,7 +3323,24 @@ The 【 perimeter 】 of this 【 rectangle 】 is equal to the 【 diameter 】
 
 
 8
+The 【 double quotation marks 】 【 emphasizes 】 the importance of the 【 emotional quotient 】and 【 intelligence quotient 】.
 双引号强调了情商和智商的重要性
+// -
+// quotient 商 n
+// quotation 引用 n
+// -
+// emotional quotient. 情商 n
+// intelligence quotient. 智商 n
+// -
+// emotional value. 情绪价值 n
+// emotional quotient. 情商 n
+// -
+// vent emotion. 发泄情绪 v
+// control emotion. 控制情绪 v
+// express emotion. 表达情感 n
+// -
+// experience 经验 体验 经历 n
+
 
 
 9
@@ -3348,4 +3365,63 @@ The 【 perimeter 】 of this 【 rectangle 】 is equal to the 【 diameter 】
 这个小数和那个分数相等
 -
 我和他相比，我的年龄比他大
+```
+
+##### **【 14 MUST 】**
+
+```
+1
+He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
+我继承了师傅的意志，精神，技能
+// -
+// 
+
+
+2
+他吹牛他收获了一大筐鱼
+
+
+3
+骨骼由骨头组成
+
+
+4
+喜剧和悲剧都很感人
+
+
+5
+主持人征服了观众
+```
+
+##### **【 15 MUST 】**
+
+```
+
+
+
+
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- -------
+
+
+
+
+1
+我继承了师傅的意志，精神，技能
+
+
+2
+他吹牛他收获了一大筐鱼
+
+
+3
+骨骼由骨头组成
+
+
+4
+喜剧和悲剧都很感人
+
+
+5
+主持人征服了观众
 ```

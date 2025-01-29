@@ -159,6 +159,8 @@
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
 - `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
+- `【 master 师傅 主人 硕士 n 】` // ------------------ **【 I have 【 inherited 】 my 【 master's 】 【 will 】, spirit, and skills. 我继承了师傅的意志，精神，技能 】**
+- `【 doctor 博士 医生 n 】`
 - AA.
 - > 【 campus 校园 校区 n 】 // ------------------------ 【 campus violence. 校园暴力 】 // campus VS camp // rent VS tent
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
@@ -238,7 +240,7 @@
 -
 -
 - [其他]
-- `【 tuition fees. 学费 】` // ------------------------ 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // 【 tutorial 教程 】 【 tutor 家庭教师 】
+- `【 tuition fees. 学费 】` // ------------------------ 【 tuition fee. 学费 】 【 handling fee. 手续费 】 // tutor tutorial // `【 tuition VS intuition 】`
 - `【 physical activity. 体育活动 】` // -------------- **【 recreational activity. 娱乐活动 】 【 physical activity. 体育活动 】**
 - `【 school uniform. 校服 n 】`
 - `【 textbook 教科书 课本 n 】` // --------------------- textbook VS texture VS textile VS text message.
@@ -267,6 +269,8 @@
 - .HL **【 The 【 mouth feel 】 and the 【 hand feel 】 【 are different 】 【 feelings 】. 口感和手感是不同的感受 】**
 - DD.
 - `【 institution 机构 制度 n 】`
+- `【 tuition 学费 n 】`
+- `【 intuition 直觉 n 】`
 - > 【 educational institution. 教育机构 n 】
 - > 【 medical institution. 医疗机构 n 】
 - > 【 research institution. 研究机构 n 】
