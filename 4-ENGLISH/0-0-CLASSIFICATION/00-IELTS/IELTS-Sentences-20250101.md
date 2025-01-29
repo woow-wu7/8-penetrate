@@ -3374,7 +3374,7 @@ The 【 double quotation marks 】 【 emphasizes 】 the importance of the 【 
 He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 我继承了师傅的意志，精神，技能
 // -
-// 
+//
 
 
 2
@@ -3391,6 +3391,14 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 5
 主持人征服了观众
+
+
+6
+他有坚强的意志力
+
+
+7
+他的信念告诉他不能放弃
 ```
 
 ##### **【 15 MUST 】**
@@ -3408,6 +3416,8 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 1
 我继承了师傅的意志，精神，技能
+-
+他有坚强的意志力
 
 
 2
@@ -3424,4 +3434,12 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 5
 主持人征服了观众
+
+
+6
+他有坚强的意志力
+
+
+7
+他的信念告诉他不能放弃
 ```

@@ -325,11 +325,14 @@
 - > 【 cargo ship. 货轮 n 】
 - > 【 cruise ship. 大型邮轮 n 】
 - 311
+- `【 coast 海岸 n 】`
+- `【 river bank. 河岸 n 】` \*
+- `【 harbor 港口 n 】` ------------ 范围小
+- `【 port 港口 n 】` \* ----------- 范围大
 - `【 dock 码头n 停靠v 】`
-- `【 pier 码头 n 】`
-- `【 harbor 港口 n 】` --- 范围小
-- `【 port 港口 n 】` ----- 范围大
+- `【 pier 码头n 】` \*
 - > 【 a body of water. 一片水域 】
+- **【 The 【 coast 】 and 【 river bank 】 have different 【 scenery 】. 海岸和河岸有不同的风景 】**
 - 312
 - _【 warship 战舰 n 】_
 - _【 merchant ship. 商船 n 】_

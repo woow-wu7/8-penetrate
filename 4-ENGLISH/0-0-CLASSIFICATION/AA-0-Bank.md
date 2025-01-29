@@ -6,21 +6,25 @@
 - `【 bank 银行 堤岸 】` // ------------------ 【 bank clerk. 银行职员 】 【 bank teller. 银行出纳员 】 【 bank manager. 银行经理 】 【 banking term. 银行术语 】
 - `【 branch 分行 分支 分部 】` // ------------ 1. _【 branch office. 分公司 分店 】_ 2. _【 branch bank. 分行 】_
 - `【 bankrupt 破产 v / 破产的 adj 】` // ----- 【 bankruptcy 破产 n VS bankrupt 破产 v 】 // 【 bankrupt VS erupt VS corrupt VS interrupt 】
+- AA.
 - // `【 banknote 钞票 纸币 = bill. 】` // ------- 【 banknote VS bill VS coin VS cash 】
 - // `【 bankrupt = broke. 破产 v 】`
 - // `【 bankruptcy 破产 n 】`
+- BB.
 - _【 bank clerk. 银行职员 】_
 - _【 bank teller. 银行出纳员 】_
 - _【 bank manager. 银行经理 】_ // -----------【 fund manager. 基金经理 】 // manage management manager
 - _【 banking term. 银行术语 】_ // ---------- 【 financial term. 金融术语 】 【 financial statement. 财务报表 】 【 finance department. 财务部门 】
+- CC.
 - > 【 power bank. 充电宝 】 // --------------【 power strip. 插线板 n 】 // strip socket outlet
 - > 【 river bank. 河岸 】
 - > 【 merchant bank. 商业银行 】` // --------【 merchant ship. 商船 】 // 【 merchant 商人 n 】
 - > 【 branch bank. 分行 】 // ------------- 【 branch office. 分公司 分店 n 】
+- DD.
 - 【 power 力 力量 功率 权利 】
 - 【 power bank. 充电宝 】
 - 【 power strip. 插线板 】
-- 【 power source. 电源 】
+- 【 power source. 电源 】 // --------------- 【 water source. 水源 n 】 【 energy source. 能源 】 【 renewable energy source. 可再生能源 】 【 source code analysis. 】
 - 【 power consumption. 功耗 】 // ---------- 【 consumption consume 】
 - 【 power station. 发电厂 】
 - 【 power outage. 断电 停电 】
@@ -28,6 +32,7 @@
 - // 【 rated current. 额定电流 】
 - // 【 rated voltage. 额定电压 】
 - // 【 rated 额定的 adj / rate 的过去式 】
+- EE.
 - > 【 joint 关节 n / 联合的 adj 】
 - > 【 joint venture. 合资企业 】 // ---------- 【 venture 商业 n 冒险 v 】
 - > 【 joint statement. 联合声明 】 // ---------【 financial statement. 金融报表 】 // 【 issue a joint statement. 发表联合声明 】
@@ -35,9 +40,19 @@
 - > 【 issue an invoice. 开发票 】 // --------- 【 invoice VS inflation VS receipt 】
 - > 【 issue a receipt. 开收据 】
 - > 【 issue a statement. = make a statement. = issue a declaration. 发表声明 】
+- FF.
 - 【 merchant 商人 n / 商业的 商人的 adj 】
 - 【 merchant ship. 商船 】 // ---------------- 【 pirate ship. 海盗船 n 】 【 warship 战舰 】
 - 【 merchant bank. 商业银行 】
+- GG.
+- `【 coast 海岸 n 】`
+- `【 river bank. 河岸 n 】` \*
+- `【 port 港口 n 】`
+- `【 harbor 港口 n 】` \*
+- `【 dock 码头n 停靠v 】`
+- `【 pier 码头n 】`
+- **【 The 【 coast 】 and 【 river bank 】 have different 【 scenery 】. 海岸和河岸有不同的风景 】**
+-
 - // TIPS: Pay attention to the pronunciation of the word 'financial'. [financial-statement.金融报表] [financial-term.金融术语]
 - // TIPS: Pay attention to the pronunciation of the word 'cheque'. [cheque-支票-n]
 - // TIPS: Pay attention to the pronunciation of the word 'death'. [death-rate.死亡率] [die-in.死在...]
@@ -60,6 +75,8 @@
 - // -- _【 postpone 推迟 延期 v 】_
 - // -- 【 wall outlet. 壁式插座 】
 - // -- annual 每年的 年度的 adj
+-
+-
 -
 - `band 乐队 带子` // ---------------------- 【 band-aid. 创可贴 】 【 first-aid. 急救 】 【 first-aid kit. 急救箱 】 【 hearing-aid. 助听器 】
 - `brand 品牌 商标` // --------------------- 【 brand new. 崭新的 adj 】
@@ -148,6 +165,10 @@
 - // -- die 死 v
 - // -- death rate. 死亡率
 - // -- birth rate. 出生率
+-
+-
+-
+-
 -
 -
 -
