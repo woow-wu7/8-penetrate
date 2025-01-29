@@ -75,7 +75,7 @@
 - [3]
 - `【 circle 圆 圆形 n 】`
 - `【 semicircle 半圆 n 】` // ------------------- 【 semifinal. 半决赛 】 【 final 决赛 n 】 // 【 semicircular 半圆的 adj 】 VS 【 semicircle 半圆 n 】
-- `【 ellipse 椭圆 n = oval. 椭圆 n 】` = oval
+- `【 ellipse 椭圆 n = oval. 椭圆 n 】` = oval // - 【 ellipsis 省略号 n 】 VS 【 ellipse 椭圆 n 】
 - `【 sector 扇形 部门 n 】`
 - AA.
 - > 【 semicircular 半圆的 adj 】
@@ -96,7 +96,24 @@
 - > 【 final match. 决赛 】
 - > 【 semifinal match. 半决赛 】
 - > 【 semicircle. 半圆 】
--
+- // TIPS: Pay attention to the pronunciation of the word 'semester'. [semester-学期-n]
+- EE.
+- _【 competitor 竞争者 n 】_
+- _【 opponent 竞争者 对手 n 】_
+- > 【 overcome opponent. 战胜对手 v 】
+- > 【 defeat opponent. 打败对手 v 】
+- > 【 strong opponent. 强大的对手 n 】 // strong 强大的 强壮的
+- FF.
+- _【 overcome 克服 战胜 v 】_ // ------------- 【 overcome fear. 克服恐惧 】 【 overcome difficulty. 克服困难 】 【 overcome opponent. 战胜对手 】
+- _【 overlook 忽视 忽略 v 】_ // ------------- 【 overlook details. 忽略细节 】 // overlook = ignore.
+- > 【 overcome fear. 克服恐惧 】
+- > 【 overcome difficulty. 克服困难 】
+- > 【 overcome opponent. 战胜对手 】 // ------ 【 opponent 对手 敌手 n 】 【 component 组件 n 】
+- > 【 encounter difficulty. 遇到困难 】 // --- 【 encounter setback. 遭遇挫折 】
+- > 【 suffer difficulty. 遭受困难 】
+- _【 overcome opponent. 战胜对手 】_ // ------ 【 opponent 对手 n 】 【 strong opponent. 强大的对手 】
+- _【 defeat opponent. 打败对手 】_
+- _【 strong opponent. 强大的对手 】_
 -
 -
 - [多边形-polygon][two-dimensional-figures.二维图形] ---------------- [plane-figure.平面图]
@@ -106,12 +123,13 @@
 - `【 diamond 菱形 钻石 n 】`
 - `【 heart 心 心形 n 】`
 - `【 side 边 n 】`
-- `【 plane 飞机 【 平面 】 平原 n 】` // ------- 【 plane figure. 平面图 n 】 【 solid figure. 立体图 n 】
+- `【 plane 飞机 【 平面 】 平原 n 】` // ------- 【 plane figure. 平面图 n 】 【 solid figure. 立体图 n 】 // [figure-图形-身材-n]
 - AA.
 - > 【 figure 图形 身材 n 】
 - > 【 figure out. 计算出 解决 理解 v 】
 - _【 plane figure. 平面图形 n 】_
 - _【 solid figure. 立体图形 n 】_
+- // TIPS: Pay attention to the pronunciation of the word 'solid'. [solid-固体的-立体的-adj]
 -
 -
 -
@@ -320,6 +338,7 @@
 - `【 fraction 分数 n 】`
 - `【 constant 常数 常量 n 】`
 - `【 remainder 余数 剩余的 adj 】` // 【 remainder 余数 n 】 VS 【 remind 提醒 v 】 VS 【 command 命令 指挥 v 】 VS 【 demand 需求 要求 】 VS 【 recommend 推荐 v 】
+- `【 average 平均数n 平均的 adj 】` // 【 average age. 平均年龄 n 】
 - `【 odd number. 奇数 n 】`
 - `【 even number. 偶数 n 】`
 - > 【 odd job. 零工 n 】 // -------- 【 odd job. 零工 n 】 【 part-time job. 兼职 n 】 【 full-time job. 全职 n 】 【 temporary job. 临时工作 n 】 【 casual job. 临时工 】
