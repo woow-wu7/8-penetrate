@@ -45,7 +45,7 @@
 -
 - 1
 - `【 military 军事 军队 军事的 军队的 】`
-- _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】`
+- _【 military program. 军事节目 】_ // ------------ `【 broadcast military program. 播放军事节目 】` _【 host a program. 主持节目 】_ // host 主持人 n 主持 v
 - _【 military base. 军事基地 】_ // --------------- 【 naval base. 海军基地 】 【 air force base. 空军基地 】 【 army base. 陆军基地 】 【 military base. 军事基地 】
 - _【 military means. 军事手段 】_ // -------------- 【 main means. 主要手段 】 【 common means. 常见手段 】 `【 effective means. 有效手段 】` 【 military means. 】
 - _【 military action. 军事行动 】_ // ------------- `【 take military action. 采取军事行动 】`
@@ -53,12 +53,17 @@
 - _【 military conflict. 军事冲突 】_
 - _【 military magazine. 军事杂志 】_ // ----------- 【 load the magazine. 装上弹夹 】 【 magazine 杂志 弹夹 n 】
 - _【 military training. 军事训练 】_ // ----------- 【 simulate training. 模拟训练 】 【 simulate examination. 模拟考试 】
-- > 【 broadcast military program. 播放军事节目 】
-- > 【 take military action. 采取军事行动 】
+- AA.
+- > 【 host program. 主持节目 v 】
+- > 【 broadcast program. 播放节目 v 】
+- _【 broadcast military program. 播放军事节目 】_
+- _【 take military action. 采取军事行动 】_
+- BB.
 - 【 military provocation. 军事挑衅 n 】
 - 【 provocation 挑衅 v 】
 - 【 enrage 激怒 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'conflict'. [conflict-冲突-n]
+- CC.
 - [program-程序-节目-n] // ------------------------- [][military-program.军事节目] [broadcast-military-program.播放军事节目] // [programer-程序员-n]
 - [means-手段-方法-n] // --------------------------- [][military-means.军事手段] [main-means.主要手段] [common-means.常见手段] [effective-means.有效手段]
 - [broadcast-广播-n-播放-v] // --------------------- [][broadcast-military-program.播放军事节目]

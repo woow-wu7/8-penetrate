@@ -159,6 +159,7 @@
 - `【 professor 教授 n 】` // -------------------------- 【 associate professor. 副教授 n 】
 - `【 associate professor. 副教授 n 】`
 - `【 tutor 家庭教师 】` // ---------------------------- 【 tutorial 教程 n 】 【 tuition fee. 学费 n 】 // 【 handling fee. 手续费 】
+- `【 coach 教练 n 】` // ----------------------------- `【 coach 教练 n 】` VS `【 coast 海岸 n 】` VS `【 river bank. 河岸 n 】`
 - `【 master 师傅 主人 硕士 n 】` // ------------------ **【 I have 【 inherited 】 my 【 master's 】 【 will 】, spirit, and skills. 我继承了师傅的意志，精神，技能 】**
 - `【 doctor 博士 医生 n 】`
 - AA.

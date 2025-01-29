@@ -3,11 +3,21 @@
 - 1
 - `【 solar 太阳的 adj 】- sun` // --------------- 【 solar calendar. 阳历 】 【 solar system. 太阳系 】 【 solar energy. 太阳能 】
 - `【 lunar 月亮的 adj 】- moon` // -------------- 【 lunar calendar. 阴历 】 【 lunar module. 登月舱 】
+- AA.
 - _【 solar calendar. 阳历 n 】_ // -------------- 【 lunar calendar. 阴历 】
 - _【 solar system. 太阳系 n 】_ // -------------- 【 galactic system. 银河系 n 】
 - _【 solar energy. 太阳能 】_ // ---------------- 【 supplement energy. 补充能量 】
+- BB.
+- _【 solar energy. 太阳能 n 】_
+- _【 wind energy. 风能 n 】_
+- _【 fossil energy. 化石能源 n 】_
+- _【 energy source. 能源 n 】_
+- _【 renewable energy source. 可再生能源 n 】_
+- _【 source code analysis. 源码分析 】_
+- CC.
 - > 【 lunar calendar. 阴历 农历 n 】
 - > 【 lunar module. 登月舱 n 】
+- DD.
 - _【 solar system. 太阳系 】_
 - _【 galactic system. 银河系 n 】_
 - > 【 model / module / mode / medal 】

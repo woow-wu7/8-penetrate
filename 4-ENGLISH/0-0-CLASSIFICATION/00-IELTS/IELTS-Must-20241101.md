@@ -355,6 +355,9 @@
 - // -- pay tax. 交税 v
 - // -- stamp duty. 印花税 n
 - // -- 【 pay tax. 交税 v 】
+-
+- [GG.]
+- **【 The 【 sap 】 【 flowed 】 from the 【 tree stump 】 to th 【 tree bark 】. 树汁从树桩流向了树皮 】**
 
 ###### Must 2024-11-05
 

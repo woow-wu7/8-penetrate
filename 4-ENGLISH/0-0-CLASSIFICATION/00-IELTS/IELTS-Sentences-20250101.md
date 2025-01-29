@@ -3386,6 +3386,8 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 
 4
+喜剧和悲剧都能感动观众
+-
 喜剧和悲剧都很感人
 
 
@@ -3398,7 +3400,23 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 
 7
+信念和信仰塑造了他坚强的性格
+-
 他的信念告诉他不能放弃
+
+
+8
+树汁从树桩流向了树皮
+
+
+
+9
+鲸鱼比鲨鱼大
+
+
+
+10
+这个鱼叉像勺子
 ```
 
 ##### **【 15 MUST 】**
@@ -3441,5 +3459,19 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 
 7
+信念和信仰塑造了他坚强的性格
+-
 他的信念告诉他不能放弃
+
+
+8
+树汁从树桩流向了树皮
+
+
+9
+鲸鱼比鲨鱼大
+
+
+10
+这个鱼叉像勺子
 ```

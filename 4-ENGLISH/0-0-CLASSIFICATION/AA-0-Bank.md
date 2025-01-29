@@ -1269,6 +1269,7 @@ fill out. 填写
 - .MT **【 We don't need to 【 bargain 】 【 for 】 the 【 bargains 】. 我们没必要为便宜货讨价还价 】**
 - .MT **【 The 【 tree stump 】 without 【 tree bark 】 can 【 be bargained for 】. 这个没有树皮的木桩可以砍价 】**
 - .MT **【 There is no need to 【 bargain 】 for 【 bargains 】. 便宜货不需要讨价还价 】**
+- // The 【 sap 】 【 flowed 】 from the 【 tree stump 】 to th 【 tree bark 】. 树汁从树桩流向了树皮
 -
 -
 - [-LL]19
@@ -1479,6 +1480,7 @@ fill out. 填写
 - > charging pile. 充电桩` // ------------------ 【 tree stump. 树桩 n 】 VS 【 charging pile. 充电桩 n 】
 - > tree stump. 树桩`
 - _【 be in charge of. 负责 = be responsible for. 】_
+- // The 【 sap 】 【 flowed 】 from the 【 tree stump 】 to th 【 tree bark 】. 树汁从树桩流向了树皮
 - AA.
 - > 【 membership card. 会员卡 】 // --------------- 【 membership 会员 n 】
 - > 【 points card. 积分卡 = loyalty card. 】 // --- 【 points. 积分 n 】
