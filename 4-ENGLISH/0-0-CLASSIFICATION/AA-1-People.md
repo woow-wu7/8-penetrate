@@ -3,7 +3,7 @@
 - 1
 - [关系-relationship]
 -
-- `【 relative 亲人n / 相对的 adj 】`
+- `【 relative 亲人n / 相对的 adj 】` // ------------ 【 close relatives. 近亲 n 】 【 distant relatives. 远亲 n 】 // 【 blood relationship. 血缘关系 n 】
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 子孙 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'relative'. [relative-亲戚-n-相对的-adj]
@@ -13,9 +13,9 @@
 - > 【 attendant 服务员 n 】 // --------------------- 【 parking attendant. 停车场服务员 】 【 gas station attendant. 加油站服务员 】
 - > 【 consultant 顾问 n 】 // --------------------- _【 consult 咨询 商量 v 】_ VS _【 consultant 顾问 n 】_ // **【 insult / consult / result 】**
 - > 【 assistant 助手 n 】
-- > 【 accountant 会计 n 】
+- > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
-- > 【 secretary 秘书 n 】
+- > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_
 - BB.
 - _【 steward 空少 n 】_ // ------------------------- 【 stewardess 空姐 n 】
 - _【 actor / actress 】_
@@ -24,30 +24,36 @@
 - _【 headmaster / headmistress 】_
 - CC.
 - _【 secretary 秘书 n 】_
-- _【 secret 秘密 n 】_
-- _【 secretly 秘密的 adj 】_
+- _【 secret 秘密 n 】_ // --------------------------- 【 public secret. 公开的秘密 n 】
+- _【 secretly 秘密的 adj 】_ // --------------------- 【 secretly love. 暗恋 v 】
 - > 【 in secret. 秘密地 adv 】
 - **【 It's a 【 public secret 】 that he 【 secretly loves 】 his 【 secretary 】. 他暗恋他的秘书是一个公开的秘密 】**
 - // TIPS: Pay attention to the pronunciation of the word 'secretary'. [secretary-秘书-n]
 - // TIPS: Pay attention to te pronunciation of the word 'secret'. [secret-秘密-n]
 - DD.
-- > 【 consult 】
-- > 【 consultant 】
+- > 【 consult 咨询 商量 v 】
+- > 【 consultant 顾问 n 】
+- _【 consult sb about sth. 向某人咨询某事 】_
+- **【 He 【 consulted 】 his 【 consultant 】 【 about 】 some questions. 他咨询了他顾问一些问题 】**
 - EE.
-- _【 insult 】_
-- _【 consult 】_
-- _【 result 】_
+- _【 insult 侮辱 v 】_
+- _【 consult 咨询 商量 v 】_
+- _【 result 结果 n 】_
+- - **【 They are 【 consulting about 】 the 【 result 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 -
 -
 -
 - `【 stepfather 继父 n 】` // ----------------------- 【 stepmother 后妈 n 】
 - `【 father-in-law. 岳父 n 】` // ------------------- 【 mother-in-law. 岳母 n 】`
+- `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
+- `【 grandson 孙子 外孙 n 】`
 -
 - `【 uncle 叔叔 n 】`
 - `【 aunt 阿姨 n 】` // ----------------------------- 【 aunt 阿姨 n 】 VS 【 ant 蚂蚁 n 】
 - `【 ant 蚂蚁 n 】`
 - > 【 ant 蚂蚁 n 】
 - > 【 aunt 阿姨 n 】
+- **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
 - // TIPS: Pay attention to the pronunciation of the word 'uncle'. [uncle-叔叔-n]
 - // TIPS: Pay attention to the pronunciation of the word 'aunt'. [aunt-阿姨-n]
 -
@@ -57,6 +63,14 @@
 - `【 niece 侄女 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'nephew'. [nephew-侄子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'niece'. [niece-侄女-n]
+-
+- `【 brother 兄弟 n 】`
+- `【 sister 姐妹 n 】`
+- > 【 younger brother. 弟弟 n 】
+- > 【 elder brother. 哥哥 n 】
+-
+- `【 twins 双胞胎 n 】`
+- `【 triplets 三胞胎 n 】`
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
