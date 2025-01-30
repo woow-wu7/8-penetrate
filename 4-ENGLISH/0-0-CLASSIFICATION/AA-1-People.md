@@ -3,6 +3,7 @@
 - 1
 - [关系-relationship]
 -
+- `【 family genealogy. 家谱 n  】`
 - `【 relative 亲人n / 相对的 adj 】` // ------------ 【 close relatives. 近亲 n 】 【 distant relatives. 远亲 n 】 // 【 blood relationship. 血缘关系 n 】
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 子孙 n 】`
@@ -15,13 +16,13 @@
 - > 【 assistant 助手 n 】
 - > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
-- > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_
+- > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_ // ----------------------- **【 secret / secretly / secretary 】**
 - BB.
-- _【 steward 空少 n 】_ // ------------------------- 【 stewardess 空姐 n 】
+- _【 steward 空少 n / stewardess 】_ // ----------- 【 stewardess 空姐 n 】
 - _【 actor / actress 】_
 - _【 waiter / waitress 】_
 - _【 prince / princess 】_
-- _【 headmaster / headmistress 】_
+- _【 headmaster / headmistress 】_ VS 【 principal 校长 n 】 VS 【 vice principal. 副校长 n 】
 - CC.
 - _【 secretary 秘书 n 】_
 - _【 secret 秘密 n 】_ // --------------------------- 【 public secret. 公开的秘密 n 】
@@ -42,11 +43,11 @@
 - - **【 They are 【 consulting about 】 the 【 result 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 -
 -
--
 - `【 stepfather 继父 n 】` // ----------------------- 【 stepmother 后妈 n 】
 - `【 father-in-law. 岳父 n 】` // ------------------- 【 mother-in-law. 岳母 n 】`
 - `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
 - `【 grandson 孙子 外孙 n 】`
+-
 -
 - `【 uncle 叔叔 n 】`
 - `【 aunt 阿姨 n 】` // ----------------------------- 【 aunt 阿姨 n 】 VS 【 ant 蚂蚁 n 】
@@ -54,8 +55,18 @@
 - > 【 ant 蚂蚁 n 】
 - > 【 aunt 阿姨 n 】
 - **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
+- // --
+- // diligent 勤奋的 adj
+- // --
+- // 【 as ... as. 和...一样 】
+- // 【 as good as 和...一样好 】
+- // 【 as soon as. 一...就 】
+- // 【 as long as. 只要 】
+- // 【 as far as. 就...而言 】
+- // 【 as well as. 也 】
 - // TIPS: Pay attention to the pronunciation of the word 'uncle'. [uncle-叔叔-n]
 - // TIPS: Pay attention to the pronunciation of the word 'aunt'. [aunt-阿姨-n]
+-
 -
 - `【 sibling 兄弟姐妹 n 】`
 - `【 cousin 表兄 表妹 堂兄 堂妹 n 】`
@@ -70,7 +81,36 @@
 - > 【 elder brother. 哥哥 n 】
 -
 - `【 twins 双胞胎 n 】`
-- `【 triplets 三胞胎 n 】`
+- `【 triplets 三胞胎 n 】` // trip + let + s
+-
+-
+-
+-
+-
+-
+-
+- 2
+- [composition-组成-n] // compose 组成 v
+-
+- [2.1-head]
+- `【 head 头 n 】`
+- `【 forehead 额头 n 】`
+- `【 eyebrow 眉毛 n 】`
+- `【 eyelash 睫毛 n 】` // ------------------ 【 lash 鞭打 v / 睫毛 n 】
+- `【 cheek 脸颊 n 】`
+- `【 chin 下巴 n 】`
+- `【 lip 嘴唇 n 】` // ---------------------- 【 lip stick. 唇膏 口红 n 】 【 lip print. 唇印 n 】 // finger print. // hand print.
+- `【 tongue 舌头 n 】`
+- > 【 tongue 舌头 n 】 ---------------------- 烫
+- > 【 tone 语气 音调 n 】 -------------------- 痛
+-
+- `【 nose 鼻子 n 】`
+- `【 nostril 鼻孔 n 】`
+- `【 booger 鼻屎 n 】`
+-
+- `【 booger 鼻屎 n 】`
+- `【 eye discharge. 眼屎 】`
+- `【 earwax 耳屎 n 】`
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
