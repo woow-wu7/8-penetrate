@@ -17,6 +17,14 @@
 - > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / count / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
 - > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_ // ----------------------- **【 secret / secretly / secretary 】**
+- **【 Our 【 ancestors 】 【 left 】 【 abundant 】 【 mineral resources 】 to their 【 descendants 】. 我们的祖先给他们的后代留下了丰富的矿产资源 】**
+- **【 【 Miners 】 are 【 exploiting 】 various 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】. 矿工们正在矿井中开采金矿铜矿各种矿资源 】**
+- // --
+- // leave 留下 离开 v
+- // leave -> left
+- // --
+- // 【 mineral 矿物 矿物质 n / 矿物的 adj 】
+- // 【 mineral resource. 矿物资源 n 】
 - BB.
 - _【 steward 空少 n / stewardess 】_ // ----------- 【 stewardess 空姐 n 】
 - _【 actor / actress 】_
@@ -41,22 +49,44 @@
 - _【 consult 咨询 商量 v 】_
 - _【 result 结果 n 】_
 - - **【 They are 【 consulting about 】 the 【 result 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
+- FF.
+- _【 mine 我的 矿井 矿 n 】_ // -------------------- 【 mine 我的 矿 矿井 n 】 VS 【 miner 矿工 n 】
+- _【 miner 矿工 n 】_
+- _【 ore 矿石 n 】_
+- _【 mineral 矿物 矿物质 n / 矿的 adj 】_
+- _【 mineral resource. 矿产资源 n 】_
+- **【 【 Miners 】 are 【 exploiting 】 various 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】. 矿工们正在矿井中开采金矿，铜矿等各种矿产资源 】**
+- // --
+- // 【 gold ore. 金矿石 n 】
+- // 【 copper ore. 铜矿石 n 】
+- // --
+- // 【 mineral resource. 矿产资源 n 】
+- // --
+- // 【 miner 矿工 n 】
+- // 【 mine 我的 矿 矿井 n 】
+- // --
+- // TIPS: Pay attention to the pronunciation of the word 'mineral'. [mineral-矿物质-n-矿物的-adj]
 -
 -
-- `【 stepfather 继父 n 】` // ----------------------- 【 stepmother 后妈 n 】
+-
+- `【 step father 继父 n 】` // ----------------------- 【 stepmother 后妈 n 】
 - `【 father-in-law. 岳父 n 】` // ------------------- 【 mother-in-law. 岳母 n 】`
 - `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
 - `【 grandson 孙子 外孙 n 】`
 -
 -
-- `【 uncle 叔叔 n 】`
+- `【 uncle 叔叔 n 】` // ---------------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
 - `【 aunt 阿姨 n 】` // ----------------------------- 【 aunt 阿姨 n 】 VS 【 ant 蚂蚁 n 】
 - `【 ant 蚂蚁 n 】`
 - > 【 ant 蚂蚁 n 】
 - > 【 aunt 阿姨 n 】
-- **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
+- .MT **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
+- .HL **【 Both my 【 uncle 】 and 【 aunt 】 【 were hit on 】 【 ankles 】 【 by 】 a car. 我的叔叔和阿姨都被车撞上了脚踝 】**
 - // --
 - // diligent 勤奋的 adj
+- // --
+- // _【 be hit on. 被撞倒...部位 】_
+- // _【 be hit on. 被撞倒...部位 】_
 - // --
 - // 【 as ... as. 和...一样 】
 - // 【 as good as 和...一样好 】
@@ -72,6 +102,7 @@
 - `【 cousin 表兄 表妹 堂兄 堂妹 n 】`
 - `【 nephew 侄子 n 】`
 - `【 niece 侄女 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'cousin'. [cousin-表兄-表妹-堂兄-堂妹-n]
 - // TIPS: Pay attention to the pronunciation of the word 'nephew'. [nephew-侄子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'niece'. [niece-侄女-n]
 -
@@ -80,8 +111,18 @@
 - > 【 younger brother. 弟弟 n 】
 - > 【 elder brother. 哥哥 n 】
 -
+-
 - `【 twins 双胞胎 n 】`
 - `【 triplets 三胞胎 n 】` // trip + let + s
+- > 【 trip 履行 旅游 n 】// ----------------- 【 business trip. 出差 v 】
+- > 【 triplets 三胞胎 n 】
+- **【 The 【 triplets 】 will 【 go on a business trip 】 【 to 】 【 Germany 】 【 together 】. 三胞胎将一起去德国出差 】**
+- // --
+- // triplets 三胞胎 n
+- // go on a business trip. 出差 v
+- // Germany 德国 n
+-
+-
 -
 -
 -
@@ -95,7 +136,7 @@
 - [2.1-head]
 - `【 head 头 n 】`
 - `【 forehead 额头 n 】` // ----------------- 【 forehead 前额 额头 n 】 VS 【 forefinger 食指 n = index finger. 食指 n 】
-- `【 eyebrow 眉毛 n 】`
+- `【 eyebrow 眉毛 n 】` // ----------------- `【 comb one's eyebrow. 梳眉毛 v 】`
 - `【 eyelash 睫毛 n 】` // ------------------ 【 lash 鞭打 v / 睫毛 n 】
 - `【 cheek 脸颊 n 】`
 - `【 chin 下巴 n 】`
@@ -107,23 +148,41 @@
 - `【 nose 鼻子 n 】`
 - `【 nostril 鼻孔 n 】`
 - `【 booger 鼻屎 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'nose'. [nose-鼻子-n]
+- // TIPS: Pay attention to the pronunciation of the word 'nostril'. [nostril-鼻孔-n]
+- **【 There is 【 booger 】 【 in 】 this 【 nostril 】 【 of 】 his 【 nose 】. 他鼻子的鼻孔里有鼻屎 】**
 -
 - `【 booger 鼻屎 n 】`
 - `【 eye discharge. 眼屎 】`
 - `【 earwax 耳屎 n 】`
+- **【 There is 【 booger 】 【 in 】 this 【 nostril 】 【 of 】 his 【 nose 】. 他鼻子的鼻孔里有鼻屎 】**
 -
 -
 -
 - [2.2-viscera-内脏]
 - `【 liver 肝脏 n 】`
 - `【 kidney 肾脏 n 】` // ------------------ `【 kidnap 绑架 v 】` VS `【 kidney 肾脏 n 】` VS `【 kid 小孩 n 】`
-- `【 stomach 胃 n 】` // ------------------- 【 gastroscope 胃镜 n 】
+- `【 stomach 胃 n 】` // ------------------- 【 stomachache 胃痛 n 】 【 gastroscope 胃镜 n 】
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
-- `【 lung 肺 n 】`
-- `【 chest 胸 n 】`
+- `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
+- `【 chest 胸 n 】` // --------------------- 【 chest cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
 - `【 belly 腹部 肚子 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'belly'. [belly-腹部-肚子-n]
+- // TIPS: Pay attention to the pronunciation of the word 'intestine'. [intestine-肠-n]
+- AA.
+- _【 kidnap 绑架 v 】_
+- _【 kidney 肾脏 n 】_
+- _【 kid 小孩 n 】_
 - **【 He 【 kidnapped 】 the 【 kid 】 for 【 kidneys 】. 他为了肾脏绑架了小孩 】**
+- BB.
+- _【 lung 肺部 】_
+- _【 lounge 休息室 n 】_
+- > 【 study lounge. 自习室 n 】
+- > 【 departure lounge. 候车室 候机室 n 】
+- 【 lung cancer. 肺癌 n 】
+- 【 breast cancer. 乳腺癌 n 】
+-
 -
 -
 - [2.3-arm]
