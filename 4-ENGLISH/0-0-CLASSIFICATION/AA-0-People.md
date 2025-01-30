@@ -69,7 +69,7 @@
 - - **【 They are 【 consulting about 】 the 【 result 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
 - // -- in public. 公开地 adv
 - // -- in secret. 秘密地 adv
-- // 
+- //
 - FF.
 - _【 mine 我的 矿井 矿 n 】_ // -------------------- 【 mine 我的 矿 矿井 n 】 VS 【 miner 矿工 n 】
 - _【 miner 矿工 n 】_
@@ -94,6 +94,15 @@
 - `【 father-in-law. 岳父 n 】` // ------------------- 【 mother-in-law. 岳母 n 】`
 - `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
 - `【 grandson 孙子 外孙 n 】`
+- **【 He 【 flattered 】 his 【 grandfather 】 【 in order to 】 get some 【 pocket money 】. 他讨好他爷爷是为了要零花钱 】**
+- // --
+- // 【 flatter 讨好 奉承 v 】
+- // 【 flat 平的 扁平的 adj / 公寓 n 】 VS 【 apartment 公寓 n 】 VS 【 department 部门 】 VS 【 sector 部门 扇形 n 】
+- // -
+- // 【 pocket money. 零花钱 n 】
+- // 【 private savings. 私房钱 n 】
+- // -
+- // 【 in order to. 为了 】
 -
 -
 - `【 uncle 叔叔 n 】` // ---------------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
