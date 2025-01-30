@@ -3,10 +3,10 @@
 - 1
 - [关系-relationship]
 -
-- `【 family genealogy. 家谱 n  】`
 - `【 relative 亲人n / 相对的 adj 】` // ------------ 【 close relatives. 近亲 n 】 【 distant relatives. 远亲 n 】 // 【 blood relationship. 血缘关系 n 】
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 子孙 n 】`
+- `【 family genealogy. 家谱 n  】`
 - // TIPS: Pay attention to the pronunciation of the word 'relative'. [relative-亲戚-n-相对的-adj]
 - AA.
 - > 【 descendant 后代 子孙 n 】
@@ -14,7 +14,7 @@
 - > 【 attendant 服务员 n 】 // --------------------- 【 parking attendant. 停车场服务员 】 【 gas station attendant. 加油站服务员 】
 - > 【 consultant 顾问 n 】 // --------------------- _【 consult 咨询 商量 v 】_ VS _【 consultant 顾问 n 】_ // **【 insult / consult / result 】**
 - > 【 assistant 助手 n 】
-- > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / discount / counter / encounter 】_
+- > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / count / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
 - > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_ // ----------------------- **【 secret / secretly / secretary 】**
 - BB.
@@ -26,7 +26,7 @@
 - CC.
 - _【 secretary 秘书 n 】_
 - _【 secret 秘密 n 】_ // --------------------------- 【 public secret. 公开的秘密 n 】
-- _【 secretly 秘密的 adj 】_ // --------------------- 【 secretly love. 暗恋 v 】
+- _【 secretly 秘密地 adv 】_ // --------------------- 【 secretly love. 暗恋 v 】
 - > 【 in secret. 秘密地 adv 】
 - **【 It's a 【 public secret 】 that he 【 secretly loves 】 his 【 secretary 】. 他暗恋他的秘书是一个公开的秘密 】**
 - // TIPS: Pay attention to the pronunciation of the word 'secretary'. [secretary-秘书-n]
@@ -94,7 +94,7 @@
 -
 - [2.1-head]
 - `【 head 头 n 】`
-- `【 forehead 额头 n 】`
+- `【 forehead 额头 n 】` // ----------------- 【 forehead 前额 额头 n 】 VS 【 forefinger 食指 n = index finger. 食指 n 】
 - `【 eyebrow 眉毛 n 】`
 - `【 eyelash 睫毛 n 】` // ------------------ 【 lash 鞭打 v / 睫毛 n 】
 - `【 cheek 脸颊 n 】`
@@ -111,6 +111,51 @@
 - `【 booger 鼻屎 n 】`
 - `【 eye discharge. 眼屎 】`
 - `【 earwax 耳屎 n 】`
+-
+-
+-
+- [2.2-viscera-内脏]
+- `【 liver 肝脏 n 】`
+- `【 kidney 肾脏 n 】` // ------------------ `【 kidnap 绑架 v 】` VS `【 kidney 肾脏 n 】` VS `【 kid 小孩 n 】`
+- `【 stomach 胃 n 】` // ------------------- 【 gastroscope 胃镜 n 】
+- `【 small intestine. 小肠 n 】`
+- `【 large intestine. 大肠 n 】`
+- `【 lung 肺 n 】`
+- `【 chest 胸 n 】`
+- `【 belly 腹部 肚子 n 】`
+- **【 He 【 kidnapped 】 the 【 kid 】 for 【 kidneys 】. 他为了肾脏绑架了小孩 】**
+-
+-
+- [2.3-arm]
+- `【 shoulder 肩 n 】`
+- `【 arm 手臂 n 】`
+- `【 joint 关节n / 联合的adj 】` // ---------- 【 joint statement. 联合声明 n 】 【 issue a statement. 发表声明 v 】
+- `【 hand 手 n 】` // ----------------------- 【 The palm of the hand. 手心 n 】 【 The back of the hand. 手背 n 】
+- `【 palm 手掌 n 】` // --------------------- 【 The palm of the hand. 手心 n 】 【 The back of the hand. 手背 n 】
+- `【 wrist 手腕 n 】`
+- `【 finger 手指 n 】` // ------------------- 【 finger print. 指纹 n 】 【 lip print. 唇印 n 】 【 lip stick. 唇膏 口红 】
+- AA.
+- > 【 thumb 大拇指 n 】
+- > 【 index finger. 食指 n = forefinger. 食指 】
+- > 【 middle finger. 中指 n 】
+- > 【 ringer finger. 无名指 n 】
+- > 【 litter finger. 小指 n 】
+- BB.
+- _【 forefinger. 食指 n 】_ = index finger.
+- _【 forehead 前额 额头 n 】_
+- CC.
+- > 【 hand print. 手印 n 】
+- > 【 finger print. 指纹 n 】
+- > 【 lip print. 唇印 n 】 VS 【 lip stick. 唇膏 口红 】
+- > 【 foot print. 脚印 n 】
+-
+-
+- [2.4-leg]
+- `【 leg 腿 n 】`
+- `【 thigh 大腿 n 】`
+- `【 calf 小腿 小牛 n 】` // ------------------- 【 bull 公牛 n 】 VS 【 cow 母牛 奶牛 n 】 VS 【 calf 小牛 小腿 n 】 // 【 bull market. 牛市 】 【 bear market. 熊市 】
+- `【 knee 膝盖 n 】`
+- `【 ankle 脚踝 n 】` // ----------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
