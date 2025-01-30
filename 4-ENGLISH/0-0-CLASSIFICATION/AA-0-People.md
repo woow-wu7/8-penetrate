@@ -106,6 +106,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'nephew'. [nephew-侄子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'niece'. [niece-侄女-n]
 -
+-
 - `【 brother 兄弟 n 】`
 - `【 sister 姐妹 n 】`
 - > 【 younger brother. 弟弟 n 】
@@ -130,6 +131,7 @@
 -
 -
 -
+-
 - 2
 - [composition-组成-n] // compose 组成 v
 -
@@ -142,8 +144,15 @@
 - `【 chin 下巴 n 】`
 - `【 lip 嘴唇 n 】` // ---------------------- 【 lip stick. 唇膏 口红 n 】 【 lip print. 唇印 n 】 // finger print. // hand print.
 - `【 tongue 舌头 n 】`
+- AA.
 - > 【 tongue 舌头 n 】 ---------------------- 烫
 - > 【 tone 语气 音调 n 】 -------------------- 痛
+- BB.
+- _【 forehead 前额 额头 n 】_
+- _【 forefinger 食指 n 】_
+- **【 She 【 pointed at 】 her elder brother's 【 forehead 】 with her 【 forefinger 】. 她用食指指向了他哥哥的前额 】**
+- // -- 【 point at. 指向 v 】
+-
 -
 - `【 nose 鼻子 n 】`
 - `【 nostril 鼻孔 n 】`
@@ -159,10 +168,12 @@
 -
 -
 -
+-
+-
 - [2.2-viscera-内脏]
 - `【 liver 肝脏 n 】`
 - `【 kidney 肾脏 n 】` // ------------------ `【 kidnap 绑架 v 】` VS `【 kidney 肾脏 n 】` VS `【 kid 小孩 n 】`
-- `【 stomach 胃 n 】` // ------------------- 【 stomachache 胃痛 n 】 【 gastroscope 胃镜 n 】
+- `【 stomach 胃 n 】` // ------------------- 【 stomachache 胃痛 肚子痛 n 】 【 gastroscope 胃镜 n 】 // `【 belly 腹部 肚子 n 】`
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
 - `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
@@ -182,6 +193,12 @@
 - > 【 departure lounge. 候车室 候机室 n 】
 - 【 lung cancer. 肺癌 n 】
 - 【 breast cancer. 乳腺癌 n 】
+- **【 He 【 heard 】 the news that the 【 chest cancer 】 could be 【 cured 】 in the 【 study lounge 】. 他在自习室听到了乳腺癌可以治愈的新闻 】**
+- // -- `【 cure 治愈 治疗 v n 】`
+- CC.
+- **【 【 Stomachache 】 might 【 be related to 】 the 【 large intestine 】. 肚子疼可能和大肠有关 】**
+-
+-
 -
 -
 -
@@ -194,27 +211,43 @@
 - `【 wrist 手腕 n 】`
 - `【 finger 手指 n 】` // ------------------- 【 finger print. 指纹 n 】 【 lip print. 唇印 n 】 【 lip stick. 唇膏 口红 】
 - AA.
-- > 【 thumb 大拇指 n 】
-- > 【 index finger. 食指 n = forefinger. 食指 】
+- > 【 thumb 大拇指 n 】 // ---------------------------- 【 give you a thumb up. 给你点个赞 】
+- > 【 index finger. 食指 n = forefinger. 食指 】 // --- 【 forehead 】VS 【 forefinger 】
 - > 【 middle finger. 中指 n 】
-- > 【 ringer finger. 无名指 n 】
+- > 【 ring finger. 无名指 n 】 // ---------------------【 ring finger. 无名指 n 】 VS 【 wedding ring. 婚戒 n 】 VS 【 wedding dress. 婚纱 n 】
 - > 【 litter finger. 小指 n 】
 - BB.
 - _【 forefinger. 食指 n 】_ = index finger.
 - _【 forehead 前额 额头 n 】_
 - CC.
 - > 【 hand print. 手印 n 】
-- > 【 finger print. 指纹 n 】
+- > 【 finger print. 指纹 n = fingerprint. 】 // -------- 【 fingerprint unlocking. 指纹解锁 n 】
 - > 【 lip print. 唇印 n 】 VS 【 lip stick. 唇膏 口红 】
 - > 【 foot print. 脚印 n 】
+- **【 This mobile phone has the 【 fingerprint 】 【 unlocking 】 function. 这个手机有指纹解锁功能 】**
+- // -- 【 fingerprint unlocking. 指纹解锁 n 】
+- // -- lock 锁 上锁 v n
+- // -- unlock 解锁 开锁 v
+-
+-
 -
 -
 - [2.4-leg]
 - `【 leg 腿 n 】`
-- `【 thigh 大腿 n 】`
+- `【 thigh 大腿 n 】` // ---------------------- 【 thigh 大腿 n 】 VS 【 high 高的 adj 】VS 【 high heels. 高跟鞋 n 】
 - `【 calf 小腿 小牛 n 】` // ------------------- 【 bull 公牛 n 】 VS 【 cow 母牛 奶牛 n 】 VS 【 calf 小牛 小腿 n 】 // 【 bull market. 牛市 】 【 bear market. 熊市 】
 - `【 knee 膝盖 n 】`
-- `【 ankle 脚踝 n 】` // ----------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
+- `【 ankle 脚踝 n 】` // ---------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
+- `【 heel 脚后跟 n 】` // ---------------------- 【 high heels. 高跟鞋 n 】
+- AA.
+- **【 Her 【 thighs 】 are too 【 thick 】 and 【 high heels 】 don't 【 suit 】 her. 她大腿太粗，高跟鞋不适合她 】**
+- // -- 【 thickness 厚度 n 】
+- // -- 【 thick 厚的 粗的 adj 】
+- // -- 【 thin 薄的 细的 adj 】
+- BB.
+- **【 His 【 knees 】 and 【 ankles 】 were both 【 injured 】 【 for 】 playing basketball. 他的膝盖和脚踝因为打篮球受伤了 】**
+- // -- 【 injure 使受伤 v 】
+- // -- 【 hurt 受伤 v 】
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
