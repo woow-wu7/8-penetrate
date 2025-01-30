@@ -3476,25 +3476,90 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 这个鱼叉像勺子
 ```
 
-##### **【 16 MUST 】**
+##### **【 16 MUST 】** `【 MUST 】`
 
 ```
 1
+Our 【 ancestors 】 left 【 abundant 】 【 mineral resources 】 for their 【 descendants 】.
 我们的祖先给他们的后代留下了丰富的矿产资源
+// -
+// ancestor 祖先 n
+// descendant 后代 子孙 n
+// -
+// abundant 丰富的 adj
+// abundant protein. 丰富的蛋白质
+// abundant mineral resources. 丰富的矿产资源
+// -
+// mine 我的 矿 矿井 n
+// miner 矿工 n
+// mineral 矿产的 adj
+// mineral resource. 矿产资源
+// marine resource. 海洋资源
+// rare resource. 稀有资源
+// -
+// ore 矿石 n
+
 
 
 2
+【 Miners 】 are 【 exploiting 】 【 various 】 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】.
 矿工们正在矿井中开采金矿铜矿各种矿资源
+// -
+// exploit 开采 开发 剥削 v
+// exploit oil. 开采石油 v
+// -
+// gold ore. 金矿石
+// copper ore. 铜矿石
+// -
+// bronze 青铜
+// copper 铜 铜钱 【 警察 】 n
+// 【 copper coin. 铜钱 n 】
+// 【 bronze medal. 铜牌 n 】
+// 【 silver medal. 银牌 n 】
+// -
+// mine 矿 矿井 我的
+// miner 矿工 n
+// mineral resource. 矿产资源 n
+// ore 矿石 n
+
 
 
 3
+This is a 【 public secret 】 that he 【 secretly love 】 his 【 secretary 】.
 他暗恋他的秘书是一个公开的秘密
+// -
+// secret 秘密 n
+// secretly 秘密地 adv
+// secretary 秘书 n
+// in secret. 秘密地 adv
 
 
 4
+He 【 consulted 】 his 【 consultant 】 【 about 】 some questions.
 他咨询了他顾问一些问题
 -
+He is 【 consulting 】 【 about 】 the 【 result 】 【 for 】 【 insulting 】 others in a public place.
 他们正在咨询在公共场合当众辱骂他人的后果
+-
+They 【 act 】 【 in secret 】, and never 【 announce 】 【 in public 】.
+他们秘密行动，从不公开宣布
+-
+// -
+// consult 咨询 商量 v
+// consultant 顾问 n
+// -
+// 【 consult sb about sth. 向某人咨询某事 】
+// -
+// 【 insult 侮辱 v 】
+// 【 consult 咨询 商量 v 】
+// 【 result 结果 n 】
+// -
+// in public. 公开地 adv
+// in secret. 秘密地 adv = secretly.
+// -
+// announce 宣布 v
+// act 行动 行为 表演 v
+
 
 
 5
@@ -3535,4 +3600,83 @@ He 【 inherited 】 his 【 master 】's 【 will 】, spirit, and skills.
 
 14
 她大腿太粗，高跟鞋不适合她
+
+
+15
+无线耳机里有耳屎
+
+
+16
+细胞形成组织，组织形成器官
+```
+
+##### **【 16 MUST 】** `【 MUST 】` - [used-for-reviewing]
+
+```
+1
+我们的祖先给他们的后代留下了丰富的矿产资源
+
+
+2
+矿工们正在矿井中开采金矿铜矿各种矿资源
+
+
+3
+他暗恋他的秘书是一个公开的秘密
+
+
+4
+他咨询了他顾问一些问题
+-
+他们正在咨询在公共场合当众辱骂他人的后果
+-
+他们秘密行动，从不公开宣布
+
+
+5
+我的叔叔和阿姨都被车撞上了脚踝
+
+
+6
+他鼻子的鼻孔里有鼻屎
+
+
+7
+他为了肾脏绑架了小孩
+
+
+8
+三胞胎将一起去德国出差
+
+
+9
+她用食指指向了他哥哥的前额
+
+
+10
+他鼻子的鼻孔里有鼻屎
+
+
+11
+他在自习室听到了乳腺癌可以治愈的新闻
+
+
+12
+肚子疼可能和大肠有关
+
+
+13
+这个手机有指纹解锁功能
+
+
+14
+她大腿太粗，高跟鞋不适合她
+
+
+15
+无线耳机里有耳屎
+
+
+16
+细胞形成组织，组织形成器官
 ```

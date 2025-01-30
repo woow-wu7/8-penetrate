@@ -17,14 +17,31 @@
 - > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / count / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
 - > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_ // ----------------------- **【 secret / secretly / secretary 】**
-- **【 Our 【 ancestors 】 【 left 】 【 abundant 】 【 mineral resources 】 to their 【 descendants 】. 我们的祖先给他们的后代留下了丰富的矿产资源 】**
-- **【 【 Miners 】 are 【 exploiting 】 various 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】. 矿工们正在矿井中开采金矿铜矿各种矿资源 】**
+- 1. **【 Our 【 ancestors 】 【 left 】 【 abundant 】 【 mineral resources 】 to their 【 descendants 】. 我们的祖先给他们的后代留下了丰富的矿产资源 】**
+- 2. **【 Miners 】 are 【 exploiting 】 various 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】. 矿工们正在矿井中开采金矿铜矿各种矿资 】**
+- 3. **【 My 【 ancestor 】 was a 【 pirate 】, and I'm his 【 descendant 】. 我的祖先是一个海盗，我是他的后代 】**
 - // --
 - // leave 留下 离开 v
 - // leave -> left
 - // --
 - // 【 mineral 矿物 矿物质 n / 矿物的 adj 】
 - // 【 mineral resource. 矿物资源 n 】
+- // -
+- // pirate 海盗 n
+- // pirate ship. 海盗船 n
+- // pirate flag. 海盗旗 n
+- // -
+- // 【 exploit 开采 开发 剥削 v 】
+- // 【 exploit oil. 开采石油 v 】
+- // -
+- // 【 copper 铜 铜钱 n 】
+- // 【 bronze 青铜 n 】
+- // -
+- // 【 copper coin. 铜钱 n 】
+- // 【 bronze medal. 铜牌 n 】 VS 【 silver medal. 银牌 n 】 VS 【 gold medal. 金牌 n 】
+- // -
+- // 【 copper ore. 铜矿石 】
+- // 【 gold ore. 金矿石 】
 - BB.
 - _【 steward 空少 n / stewardess 】_ // ----------- 【 stewardess 空姐 n 】
 - _【 actor / actress 】_
@@ -36,7 +53,8 @@
 - _【 secret 秘密 n 】_ // --------------------------- 【 public secret. 公开的秘密 n 】
 - _【 secretly 秘密地 adv 】_ // --------------------- 【 secretly love. 暗恋 v 】
 - > 【 in secret. 秘密地 adv 】
-- **【 It's a 【 public secret 】 that he 【 secretly loves 】 his 【 secretary 】. 他暗恋他的秘书是一个公开的秘密 】**
+- 1. **【 It's a 【 public secret 】 that he 【 secretly loves 】 his 【 secretary 】. 他暗恋他的秘书是一个公开的秘密 】**
+- 2. **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
 - // TIPS: Pay attention to the pronunciation of the word 'secretary'. [secretary-秘书-n]
 - // TIPS: Pay attention to te pronunciation of the word 'secret'. [secret-秘密-n]
 - DD.
@@ -49,6 +67,9 @@
 - _【 consult 咨询 商量 v 】_
 - _【 result 结果 n 】_
 - - **【 They are 【 consulting about 】 the 【 result 】 of 【 insulting 】 others 【 in public 】. 他们正在咨询在公共场合当众辱骂他人的后果 】**
+- // -- in public. 公开地 adv
+- // -- in secret. 秘密地 adv
+- // 
 - FF.
 - _【 mine 我的 矿井 矿 n 】_ // -------------------- 【 mine 我的 矿 矿井 n 】 VS 【 miner 矿工 n 】
 - _【 miner 矿工 n 】_
@@ -83,7 +104,7 @@
 - .MT **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
 - .HL **【 Both my 【 uncle 】 and 【 aunt 】 【 were hit on 】 【 ankles 】 【 by 】 a car. 我的叔叔和阿姨都被车撞上了脚踝 】**
 - // --
-- // diligent 勤奋的 adj
+- // diligent 勤奋的 刻苦的 adj
 - // --
 - // _【 be hit on. 被撞倒...部位 】_
 - // _【 be hit on. 被撞倒...部位 】_
@@ -137,7 +158,7 @@
 -
 - [2.1-head]
 - `【 head 头 n 】`
-- `【 forehead 额头 n 】` // ----------------- 【 forehead 前额 额头 n 】 VS 【 forefinger 食指 n = index finger. 食指 n 】
+- `【 forehead 额头 前额 n 】` // ------------- 【 forehead 前额 额头 n 】 VS 【 forefinger 食指 n = index finger. 食指 n 】
 - `【 eyebrow 眉毛 n 】` // ----------------- `【 comb one's eyebrow. 梳眉毛 v 】`
 - `【 eyelash 睫毛 n 】` // ------------------ 【 lash 鞭打 v / 睫毛 n 】
 - `【 cheek 脸颊 n 】`
@@ -161,10 +182,15 @@
 - // TIPS: Pay attention to the pronunciation of the word 'nostril'. [nostril-鼻孔-n]
 - **【 There is 【 booger 】 【 in 】 this 【 nostril 】 【 of 】 his 【 nose 】. 他鼻子的鼻孔里有鼻屎 】**
 -
+-
 - `【 booger 鼻屎 n 】`
-- `【 eye discharge. 眼屎 】`
 - `【 earwax 耳屎 n 】`
+- `【 eye discharge. 眼屎 】`
+- > 【 earphone 耳机 n 】 // ------------------- 【 wireless earphone. 无线耳机 n 】
+- > 【 earwax 耳屎 n 】
 - **【 There is 【 booger 】 【 in 】 this 【 nostril 】 【 of 】 his 【 nose 】. 他鼻子的鼻孔里有鼻屎 】**
+- **【 There is 【 earwax 】 in the 【 wireless earphones 】. 无线耳机里有耳屎 】**
+-
 -
 -
 -
@@ -179,6 +205,11 @@
 - `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
 - `【 chest 胸 n 】` // --------------------- 【 chest cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
 - `【 belly 腹部 肚子 n 】`
+- > 【 organ 器官 n 】
+- > 【 tissue 组织 n 】
+- > 【 cell 细胞 n 】
+- > 【 tissue 组织 n 】 VS 【 issue 问题 n 发行 v 】
+- **【 【 cells 】 form 【 tissues 】, 【 tissues 】 form 【 organs 】. 细胞形成组织，组织形成器官 】**
 - // TIPS: Pay attention to the pronunciation of the word 'belly'. [belly-腹部-肚子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'intestine'. [intestine-肠-n]
 - AA.

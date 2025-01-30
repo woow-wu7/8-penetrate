@@ -1769,12 +1769,14 @@ fill out. 填写
 - `【 currency 货币 】` // --------- currency 货币 VS concurrency 并发
 - `【 cash 现金 】` // cash cache
 - `【 bill 账单 钞票 】`
-- `【 coin 硬币 】` // coin corn
+- `【 coin 硬币 】` // coin corn // **【 copper coin. 铜钱 】** // 【 copper 铜 铜钱 n 警察 n 】
 - `【 cheque 支票 】`
 - `【 lottery 彩票 】` // lottery ticket. 彩票
 - `【 share 股份n 分享v 】`// ------ 【 market share. 市场占有率 】 // 【 share sth with sb. 】
 - > 【 currency 货币 n 】
 - > 【 concurrency 并发 n 】
+- _【 copper 铜 铜钱 警察 n 】_
+- _【 copper coin. 铜钱 n 】_
 - – **【 【 The total number of 】 【 concurrences 】 is equal to 【 the total amount of 】 【 currency 】. 并发数和货币总数相等 】**
 - // -- 【 the total number of. ...的总数 】
 - // -- 【 the total amount of. ...的总额 】
