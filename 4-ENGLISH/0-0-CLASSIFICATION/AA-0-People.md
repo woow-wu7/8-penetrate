@@ -37,13 +37,13 @@
 - // 【 exploit 开采 开发 剥削 v 】
 - // 【 exploit oil. 开采石油 v 】
 - // -
-- // 【 copper 铜 铜钱 n 】 // ------------------------ 【 copper coin. 铜钱 n 】
+- // 【 copper 铜 铜钱 n 】 // ------------------------ 【 copper coin. 铜钱 n 】 【 copper ore. 铜矿石 n 】
 - // 【 bronze 青铜 n 】
 - // -
 - // 【 copper coin. 铜钱 n 】
 - // 【 bronze medal. 铜牌 n 】 VS 【 silver medal. 银牌 n 】 VS 【 gold medal. 金牌 n 】
 - // -
-- // 【 copper ore. 铜矿石 】
+- // 【 copper ore. 铜矿石 】 VS 【 copper coin. 铜钱 n 】
 - // 【 gold ore. 金矿石 】
 - BB.
 - _【 steward 空少 n / stewardess 空姐 】_ // ---------- 【 stewardess 空姐 n 】
@@ -76,8 +76,8 @@
 - FF.
 - _【 mine 我的 矿井 矿 n 】_ // -------------------- 【 mine 我的 矿 矿井 n 】 VS 【 miner 矿工 n 】
 - _【 miner 矿工 n 】_
-- _【 ore 矿石 n 】_
-- _【 mineral 矿物 矿物质 n / 矿的 adj 】_
+- _【 ore 矿石 n 】_ // ---------------------------- 【 gold ore. 金矿石 n 】 【 copper ore. 铜矿石 n 】
+- _【 mineral 矿物 矿物质 n / 矿的 adj 】_ // ------- 【 mineral resources. 矿产资源 n 】
 - _【 mineral resource. 矿产资源 n 】_
 - **【 【 Miners 】 are 【 exploiting 】 various 【 mineral resources 】 such as 【 gold ore 】, 【 copper ore 】 in the 【 mine 】. 矿工们正在矿井中开采金矿，铜矿等各种矿产资源 】**
 - // --
@@ -98,6 +98,7 @@
 - `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
 - `【 grandson 孙子 外孙 n 】`
 - > 【 daughter in law. 儿媳妇 n 】
+- > 【 son in law. 女婿 n 】
 - > 【 mother in law. 丈母娘 n 】
 - > 【 father in law. 岳父 n 】
 - **【 He 【 flattered 】 his 【 grandfather 】 【 in order to 】 get some 【 pocket money 】. 他讨好他爷爷是为了要零花钱 】**
@@ -151,7 +152,7 @@
 -
 - `【 twins 双胞胎 n 】`
 - `【 triplets 三胞胎 n 】` // trip + let + s
-- > 【 trip 履行 旅游 n 】// ----------------- 【 business trip. 出差 v 】
+- > 【 trip 履行 旅游 n 】// ----------------- 【 business trip. 出差 v 】 // 【 go on a business trip. 出差 v 】
 - > 【 triplets 三胞胎 n 】
 - **【 The 【 triplets 】 will 【 go on a business trip 】 【 to 】 【 Germany 】 【 together 】. 三胞胎将一起去德国出差 】**
 - // --
@@ -181,6 +182,9 @@
 - `【 chin 下巴 n 】`
 - `【 lip 嘴唇 n 】` // ---------------------- `【 lip 嘴唇 VS hip 臀部 n 】`// 【 lip stick. 唇膏 口红 】 【 lip print. 唇印 】 // finger print. // hand print.
 - `【 tongue 舌头 n 】`
+- `【 neck 脖子 n 】` // --------------------- 【 necklace 项链 n 】
+- `【 throat 喉咙 n  】` // ------------------ 【 sore throat. 喉咙痛 n 】
+- // TIPS: Pay attention to the pronunciation of the word 'eyebrow'. [eyebrow-眉毛-n]
 - AA.
 - > 【 tongue 舌头 n 】 ---------------------- 烫
 - > 【 tone 语气 音调 n 】 -------------------- 痛
@@ -189,6 +193,23 @@
 - _【 forefinger 食指 n 】_
 - **【 She 【 pointed at 】 her elder brother's 【 forehead 】 with her 【 forefinger 】. 她用食指指向了他哥哥的前额 】**
 - // -- 【 point at. 指向 v 】
+- CC.
+- _【 lip 嘴唇 n 】_ // ---------------------- 【 lip print. 唇印 n 】 【 lip stick. 口红 唇膏 n 】
+- _【 hip 臀部 n 】_
+- **【 The 【 lips 】 and the 【 hips 】 are two different parts of your body. 嘴唇和臀部是你身体的两个不同的部分 】**
+- DD.
+- _【 neck 脖子 n 】_
+- _【 necklace 项链 n 】_
+- **【 She 【 wears 】 a 【 precious 】 【 necklace 】 【 around 】 her 【 neck 】. 他脖子上戴着一条珍贵的项链 】**
+- EE.
+- _【 precious 珍贵的 宝贵的 adj 】_
+- _【 previous 上一个 之前的 adj 】_
+- > 【 precious gift. 珍贵的礼物 n 】
+- > 【 precious memory. 珍贵的回忆 n 】
+- > 【 precious wealth. 宝贵的财富 n 】
+- 【 previous experience. 之前的经验 n 】
+- 【 previous job. 上一份工作 n 】
+- **【 He 【 gave 】 her a 【 precious 】 【 diamond 】 【 previous 】 time. 上次他送给了她一颗珍贵的砖石 】**
 -
 -
 - `【 nose 鼻子 n 】`
@@ -219,13 +240,16 @@
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
 - `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
-- `【 chest 胸 n 】` // --------------------- 【 chest cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
+- `【 chest 胸 n 】` // --------------------- `【 bra 胸罩 n 】`
+- `【 breast 乳房 n 】` // ------------------ 【 breast cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
 - `【 belly 腹部 肚子 n 】`
 - > 【 organ 器官 n 】
 - > 【 tissue 组织 n 】
 - > 【 cell 细胞 n 】
 - > 【 tissue 组织 n 】 VS 【 issue 问题 n 发行 v 】
 - **【 【 cells 】 form 【 tissues 】, 【 tissues 】 form 【 organs 】. 细胞形成组织，组织形成器官 】**
+- // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-乳房-n]
+- // TIPS: Pay attention to the pronunciation of the word 'chest'. [chest-胸-胸部-n]
 - // TIPS: Pay attention to the pronunciation of the word 'belly'. [belly-腹部-肚子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'intestine'. [intestine-肠-n]
 - AA.
@@ -244,6 +268,12 @@
 - // -- `【 cure 治愈 治疗 v n 】`
 - CC.
 - **【 【 Stomachache 】 might 【 be related to 】 the 【 large intestine 】. 肚子疼可能和大肠有关 】**
+- DD.
+- `【 chest 胸 胸部 n 】`
+- `【 breast 乳房 n 】`
+- **【 【 Breasts 】 【 are located on 】 the 【 chest 】. 乳房长在胸部 】**
+- // -- 【 be located on. 位于...上 】
+- // -- 【 locate 定位 位于 v 】
 -
 -
 -
