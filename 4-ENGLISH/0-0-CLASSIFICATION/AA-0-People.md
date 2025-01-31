@@ -12,8 +12,8 @@
 - > 【 descendant 后代 子孙 n 】
 - > 【 abundant 丰富的 大量的 adj 】 // -------------- 【 abundant protein. 丰富的蛋白质 n 】
 - > 【 attendant 服务员 n 】 // --------------------- 【 parking attendant. 停车场服务员 】 【 gas station attendant. 加油站服务员 】
-- > 【 consultant 顾问 n 】 // --------------------- _【 consult 咨询 商量 v 】_ VS _【 consultant 顾问 n 】_ // **【 insult / consult / result 】**
 - > 【 assistant 助手 n 】
+- > 【 consultant 顾问 n 】 // --------------------- _【 consult 咨询 商量 v 】_ VS _【 consultant 顾问 n 】_ // **【 insult / consult / result 】**
 - > 【 accountant 会计 n 】 // --------------------- _【 accountant / account / count / discount / counter / encounter 】_
 - > 【 merchant 商人 n 】 // ------------------------ 【 merchant bank. 商业银行 n 】 【 merchant ship. 商船 n 】
 - > 【 secretary 秘书 n 】 // ----------------------- _【 secretly love. 暗恋 v 】_ // ----------------------- **【 secret / secretly / secretary 】**
@@ -26,6 +26,9 @@
 - // --
 - // 【 mineral 矿物 矿物质 n / 矿物的 adj 】
 - // 【 mineral resource. 矿物资源 n 】
+- // 【 rare resource. 稀有资源 n 】
+- // 【 marine resource. 海洋资源 n 】
+- // `【 endangered species. 濒危物种 n 】`
 - // -
 - // pirate 海盗 n
 - // pirate ship. 海盗船 n
@@ -34,7 +37,7 @@
 - // 【 exploit 开采 开发 剥削 v 】
 - // 【 exploit oil. 开采石油 v 】
 - // -
-- // 【 copper 铜 铜钱 n 】
+- // 【 copper 铜 铜钱 n 】 // ------------------------ 【 copper coin. 铜钱 n 】
 - // 【 bronze 青铜 n 】
 - // -
 - // 【 copper coin. 铜钱 n 】
@@ -43,15 +46,15 @@
 - // 【 copper ore. 铜矿石 】
 - // 【 gold ore. 金矿石 】
 - BB.
-- _【 steward 空少 n / stewardess 】_ // ----------- 【 stewardess 空姐 n 】
+- _【 steward 空少 n / stewardess 空姐 】_ // ---------- 【 stewardess 空姐 n 】
 - _【 actor / actress 】_
 - _【 waiter / waitress 】_
 - _【 prince / princess 】_
 - _【 headmaster / headmistress 】_ VS 【 principal 校长 n 】 VS 【 vice principal. 副校长 n 】
 - CC.
 - _【 secretary 秘书 n 】_
-- _【 secret 秘密 n 】_ // --------------------------- 【 public secret. 公开的秘密 n 】
-- _【 secretly 秘密地 adv 】_ // --------------------- 【 secretly love. 暗恋 v 】
+- _【 secret 秘密 n 】_ // ---------------------------- 【 public secret. 公开的秘密 n 】
+- _【 secretly 秘密地 adv 】_ // ---------------------- 【 secretly love. 暗恋 v 】
 - > 【 in secret. 秘密地 adv 】
 - 1. **【 It's a 【 public secret 】 that he 【 secretly loves 】 his 【 secretary 】. 他暗恋他的秘书是一个公开的秘密 】**
 - 2. **【 They 【 act 】 【 in secret 】 and never 【 announce 】 【 in public 】. 他们秘密行动，从不公开宣布 】**
@@ -94,10 +97,13 @@
 - `【 father-in-law. 岳父 n 】` // ------------------- 【 mother-in-law. 岳母 n 】`
 - `【 grandfather 爷爷 外公 n 】` // ------------------ 【 grind 研磨 磨碎 v 】VS 【 ground 地面 n 】
 - `【 grandson 孙子 外孙 n 】`
+- > 【 daughter in law. 儿媳妇 n 】
+- > 【 mother in law. 丈母娘 n 】
+- > 【 father in law. 岳父 n 】
 - **【 He 【 flattered 】 his 【 grandfather 】 【 in order to 】 get some 【 pocket money 】. 他讨好他爷爷是为了要零花钱 】**
 - // --
-- // 【 flatter 讨好 奉承 v 】
-- // 【 flat 平的 扁平的 adj / 公寓 n 】 VS 【 apartment 公寓 n 】 VS 【 department 部门 】 VS 【 sector 部门 扇形 n 】
+- // _【 flatter 讨好 奉承 v 】_
+- // _【 flat 平的 扁平的 adj / 公寓 n 】_ VS 【 apartment 公寓 n 】 VS 【 department 部门 】 VS 【 sector 部门 扇形 n 】
 - // -
 - // 【 pocket money. 零花钱 n 】
 - // 【 private savings. 私房钱 n 】
@@ -168,11 +174,12 @@
 - [2.1-head]
 - `【 head 头 n 】`
 - `【 forehead 额头 前额 n 】` // ------------- 【 forehead 前额 额头 n 】 VS 【 forefinger 食指 n = index finger. 食指 n 】
+- `【 temple 庙 太阳穴 n 】`
 - `【 eyebrow 眉毛 n 】` // ----------------- `【 comb one's eyebrow. 梳眉毛 v 】`
 - `【 eyelash 睫毛 n 】` // ------------------ 【 lash 鞭打 v / 睫毛 n 】
 - `【 cheek 脸颊 n 】`
 - `【 chin 下巴 n 】`
-- `【 lip 嘴唇 n 】` // ---------------------- 【 lip stick. 唇膏 口红 n 】 【 lip print. 唇印 n 】 // finger print. // hand print.
+- `【 lip 嘴唇 n 】` // ---------------------- `【 lip 嘴唇 VS hip 臀部 n 】`// 【 lip stick. 唇膏 口红 】 【 lip print. 唇印 】 // finger print. // hand print.
 - `【 tongue 舌头 n 】`
 - AA.
 - > 【 tongue 舌头 n 】 ---------------------- 烫
@@ -193,7 +200,7 @@
 -
 -
 - `【 booger 鼻屎 n 】`
-- `【 earwax 耳屎 n 】`
+- `【 earwax 耳屎 n 】` // --------------------- 【 earphone 耳机 】 VS 【 earwax 耳屎 n 】 // 【 wireless earphone. 无线耳机 】
 - `【 eye discharge. 眼屎 】`
 - > 【 earphone 耳机 n 】 // ------------------- 【 wireless earphone. 无线耳机 n 】
 - > 【 earwax 耳屎 n 】
@@ -273,12 +280,29 @@
 -
 -
 - [2.4-leg]
+- `【 hip 臀部 n 】` // ------------------------ 【 hip 臀部 n 】 VS 【 lip 嘴唇 n 】
+- `【 butt 屁股 n 】`
 - `【 leg 腿 n 】`
 - `【 thigh 大腿 n 】` // ---------------------- 【 thigh 大腿 n 】 VS 【 high 高的 adj 】VS 【 high heels. 高跟鞋 n 】
 - `【 calf 小腿 小牛 n 】` // ------------------- 【 bull 公牛 n 】 VS 【 cow 母牛 奶牛 n 】 VS 【 calf 小牛 小腿 n 】 // 【 bull market. 牛市 】 【 bear market. 熊市 】
 - `【 knee 膝盖 n 】`
 - `【 ankle 脚踝 n 】` // ---------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
-- `【 heel 脚后跟 n 】` // ---------------------- 【 high heels. 高跟鞋 n 】
+- `【 heel 脚后跟 n 】` // --------------------- 【 high heels. 高跟鞋 n 】
+- AA.
+- > 【 bull 公牛 n 】
+- > 【 cow 母牛 奶牛 n 】
+- > 【 calf 小牛 小腿 n 】
+- > 【 beef 牛肉 】
+- BB.
+- _【 bull market. 牛市 】_
+- _【 bear market. 熊市 】_
+- _【 stock market. 股票市场 】_
+- CC.
+- > 【 meat 肉 n 】
+- > 【 beef 牛肉 n 】
+- > 【 mutton 羊肉 n 】
+- > 【 pork 猪肉 n 】
+- > 【 chicken 鸡肉 n 】
 - AA.
 - **【 Her 【 thighs 】 are too 【 thick 】 and 【 high heels 】 don't 【 suit 】 her. 她大腿太粗，高跟鞋不适合她 】**
 - // -- 【 thickness 厚度 n 】
