@@ -117,7 +117,7 @@
 - `【 ant 蚂蚁 n 】`
 - > 【 ant 蚂蚁 n 】
 - > 【 aunt 阿姨 n 】
-- .MT **【 My 【 aunt 】 is 【 as diligent as 】 【 an 】 【 ant 】. 我的阿姨像蚂蚁一样勤快 】**
+- .MT **【 His 【 uncle 】 and 【 aunt 】 【 as diligent as 】 【 ants 】. 他的叔叔和阿姨像蚂蚁一样勤奋 】**
 - .HL **【 Both my 【 uncle 】 and 【 aunt 】 【 were hit on 】 【 ankles 】 【 by 】 a car. 我的叔叔和阿姨都被车撞上了脚踝 】**
 - // --
 - // diligent 勤奋的 刻苦的 adj
@@ -236,6 +236,7 @@
 - [2.2-viscera-内脏]
 - `【 liver 肝脏 n 】`
 - `【 kidney 肾脏 n 】` // ------------------ `【 kidnap 绑架 v 】` VS `【 kidney 肾脏 n 】` VS `【 kid 小孩 n 】`
+- `【 bladder 膀胱 n 】` // ---------------- **【 urine 尿 小便 n 】**
 - `【 stomach 胃 n 】` // ------------------- 【 stomachache 胃痛 肚子痛 n 】 【 gastroscope 胃镜 n 】 // `【 belly 腹部 肚子 n 】`
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
@@ -247,7 +248,11 @@
 - > 【 tissue 组织 n 】
 - > 【 cell 细胞 n 】
 - > 【 tissue 组织 n 】 VS 【 issue 问题 n 发行 v 】
+- _【 kidney 肾脏 n 】_
+- _【 bladder 膀胱 n 】_
+- _【 urine 尿 小便 n 】_
 - **【 【 cells 】 form 【 tissues 】, 【 tissues 】 form 【 organs 】. 细胞形成组织，组织形成器官 】**
+- .HL **【 The 【 kidneys 】 and 【 bladder 】 are both organs related to 【 releasing 】 【 urine 】. 肾脏和膀胱都是和排尿相关的器官 】**
 - // TIPS: Pay attention to the pronunciation of the word 'breast'. [breast-乳房-n]
 - // TIPS: Pay attention to the pronunciation of the word 'chest'. [chest-胸-胸部-n]
 - // TIPS: Pay attention to the pronunciation of the word 'belly'. [belly-腹部-肚子-n]
@@ -274,13 +279,23 @@
 - **【 【 Breasts 】 【 are located on 】 the 【 chest 】. 乳房长在胸部 】**
 - // -- 【 be located on. 位于...上 】
 - // -- 【 locate 定位 位于 v 】
+- EE.
+- `【 bra 胸罩 n 】`
+- .HL **【 There are 【 breasts 】 on the 【 chest 】, and 【 bras 】 on the 【 breasts 】. 胸上有乳房，乳房上有胸罩 】**
+- GG.
+- `【 kidney 肾脏 n 】`
+- `【 bladder 膀胱 n 】`
+- `【 urine 尿 n 】`
+- .HL **【 The 【 kidneys 】 and 【 bladder 】 are both organs related to 【 releasing 】 【 urine 】. 肾脏和膀胱都是和排尿相关的器官 】**
+- // -- 【 release 释放 派出 v 】
+- // -- 【 be related to. 和...相关 】
 -
 -
 -
 -
 -
 - [2.3-arm]
-- `【 shoulder 肩 n 】`
+- `【 shoulder 肩 n 】` // ------------------ 【 shrug one's shoulder. 耸肩 v 】
 - `【 arm 手臂 n 】`
 - `【 joint 关节n / 联合的adj 】` // ---------- 【 joint statement. 联合声明 n 】 【 issue a statement. 发表声明 v 】
 - `【 hand 手 n 】` // ----------------------- 【 The palm of the hand. 手心 n 】 【 The back of the hand. 手背 n 】
