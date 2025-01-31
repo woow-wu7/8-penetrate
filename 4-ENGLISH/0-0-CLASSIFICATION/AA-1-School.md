@@ -162,6 +162,13 @@
 - `【 coach 教练 n 】` // ----------------------------- `【 coach 教练 n 】` VS `【 coast 海岸 n 】` VS `【 river bank. 河岸 n 】`
 - `【 master 师傅 主人 硕士 n 】` // ------------------ **【 I have 【 inherited 】 my 【 master's 】 【 will 】, spirit, and skills. 我继承了师傅的意志，精神，技能 】**
 - `【 doctor 博士 医生 n 】`
+- 【 mayor / vice mayer. 副市长 n 】
+- 【 president / vice president. 副总统 n 】
+- 【 principal / vice principal. 副校长 n 】
+- 【 professor / associate professor. 副教授 n 】
+- 【 pilot / co-pilot. 副驾驶员 n 】
+- mayor VS layer VS lawyer
+- president VS resident
 - AA.
 - > 【 campus 校园 校区 n 】 // ------------------------ 【 campus violence. 校园暴力 】 // campus VS camp // rent VS tent
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】

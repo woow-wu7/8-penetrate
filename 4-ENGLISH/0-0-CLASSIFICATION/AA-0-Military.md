@@ -308,13 +308,14 @@
 -
 -
 
-##### Military 3 - **【 navy army fire-force 】**
+##### Military 3 - **【 Navy / Army / Air Force 】**
 
 - 3
 - `【 navy 海军 n 】` // ------------------------ 【 naval fleet. 海军舰队 】 【 naval base. 海军基地 】 // 【 navy 海军 VS envy 羡慕 嫉妒 v】
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 】 【 army 陆军 VS enemy 敌人 】
 - `【 air force. 空军 n 】`
 - > 【 naval fleet. 海军舰队 n 】
+-
 -
 - [3.1]
 - [navy-海军-n]
@@ -356,6 +357,8 @@
 - > 【 submarine 潜水艇 n 】
 - > 【 marine resource. 海洋资源 n 】
 - > 【 marine pollution. 海洋污染 n 】 // -------- 【 pollute 污染 v 】 【 pollution 污染 n 】
+-
+-
 - [3.2]
 - `【 army 陆军 n 】` // ------------------------ 【 army base. 陆军基地 n 】
 - `【 arm 手臂n 武装v 】`
@@ -363,15 +366,30 @@
 - > 【 armed force. 武装力量 】
 - > 【 armed conflict. 武装冲突 】
 - _【 tank 坦克 箱 n 】_
+-
+-
 - [3.3]
 - `【 air force. 空军 n 】`
 - > 【 bomber 轰炸机 n 】 // -------------------- 【 bomb / bomber 】
 - > 【 fighter jet. 战斗机 n 】
 - > 【 helicopter 直升机 】
-- pilot 飞行员
-- co-pilot. 副机长
-- captain 机长
-- // captain VS caption
+- _【 airplane 飞机 n 】_ // -------------------- 【 airplane = aircraft. 飞机 n 】
+- _【 aircraft 飞机 n 】_
+- _【 airport 飞机场 n 】_
+- _【 airline 航空公司 n 】_
+- _【 airway 航线 n 】_
+- _【 airstream 气流 n 】_
+- 【 pilot 飞行员 】
+- 【 co-pilot. 副机长 】
+- 【 captain 机长 】
+- 【 captain 机长 】VS 【 caption 字幕 】
+- > 【 mayor / vice mayer. 副市长 n 】
+- > 【 president / vice president. 副总统 n 】
+- > 【 principal / vice principal. 副校长 n 】
+- > 【 professor / associate professor. 副教授 n 】
+- > 【 pilot / co-pilot. 副驾驶员 n 】
+- > 【 mayor VS layer VS lawyer 】
+- > 【 president VS resident 】
 -
 - [AA.]
 - `【 navy 海军 n 】`
