@@ -116,7 +116,7 @@
 - `【 ant 蚂蚁 n 】`
 - > 【 ant 蚂蚁 n 】
 - > 【 aunt 阿姨 n 】
-- .MT **【 His 【 uncle 】 and 【 aunt 】 【 as diligent as 】 【 ants 】. 他的叔叔和阿姨像蚂蚁一样勤奋 】**
+- .MT **【 His 【 uncle 】 and 【 aunt 】 are both 【 as diligent as 】 【 ants 】. 他的叔叔和阿姨像蚂蚁一样勤奋 】**
 - .HL **【 Both my 【 uncle 】 and 【 aunt 】 【 were hit on 】 【 ankles 】 【 by 】 a car. 我的叔叔和阿姨都被车撞上了脚踝 】**
 - AA.
 - _【 diligent 勤奋的 刻苦的 adj 】_
@@ -306,6 +306,7 @@
 - `【 shoulder 肩 n 】` // ------------------ 【 shrug one's shoulder. 耸肩 v 】
 - `【 arm 手臂 n 】`
 - `【 joint 关节n / 联合的adj 】` // ---------- 【 joint statement. 联合声明 n 】 【 issue a statement. 发表声明 v 】
+- `【 fist 拳头 n 】`
 - `【 hand 手 n 】` // ----------------------- 【 The palm of the hand. 手心 n 】 【 The back of the hand. 手背 n 】
 - `【 palm 手掌 n 】` // --------------------- 【 The palm of the hand. 手心 n 】 【 The back of the hand. 手背 n 】
 - `【 wrist 手腕 n 】`
@@ -341,6 +342,7 @@
 - `【 knee 膝盖 n 】`
 - `【 ankle 脚踝 n 】` // ---------------------- 【 uncle 叔叔 n 】 VS 【 ankle 脚踝 n 】
 - `【 heel 脚后跟 n 】` // --------------------- 【 high heels. 高跟鞋 n 】
+- **【 The 【 thighs 】, 【 calves 】, 【 small intestine 】, and 【 large intestine 】 of this 【 calf 】 are 【 healthy 】. 这只小牛的大腿，小腿，大肠，小肠都很健康 】**
 - AA.
 - > 【 bull 公牛 n 】
 - > 【 cow 母牛 奶牛 n 】
@@ -365,6 +367,15 @@
 - **【 His 【 knees 】 and 【 ankles 】 were both 【 injured 】 【 for 】 playing basketball. 他的膝盖和脚踝因为打篮球受伤了 】**
 - // -- 【 injure 使受伤 v 】
 - // -- 【 hurt 受伤 v 】
+- CC.
+- **【 The 【 thighs 】, 【 calves 】, 【 small intestine 】, and 【 large intestine 】 of this 【 calf 】 are 【 healthy 】. 这只小牛的大腿，小腿，大肠，小肠都很健康 】**
+- // -- thigh 大腿
+- // -- calf 小腿 小牛 n
+- // -- calves
+- // -- large intestine. 大肠
+- // -- small intestine. 小肠
+- // -- 【 healthy 健康的 adj 】
+- // -- 【 health 将康 n 】
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
