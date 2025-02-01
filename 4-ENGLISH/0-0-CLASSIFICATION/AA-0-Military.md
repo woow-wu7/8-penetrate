@@ -796,16 +796,23 @@ physical conflict. 肢体冲突
 - `【 release 释放 v 】`
 - > 【 arrest 逮捕 v 】
 - > 【 rest 休息 v n 】
-- **【 He 【 planned to 】 【 have a rest 】 and then 【 continue 】 to 【 arrest 】 【 fugitive 】. 他打算休息一会儿，然后继续追捕逃犯 】**
+- .HL **【 He 【 planned to 】 【 have a rest 】 and then 【 continue 】 to 【 arrest 】 【 fugitive 】. 他打算休息一会儿，然后继续追捕逃犯 】**
 -
 - `【 aggressive war. 侵略战争 n 】` // --------- 【 【 launch 】 an aggressive war. 发动侵略战争 v 】
 - `【 break out. 爆发 v 】` // ----------------- 【 the war 【 break out 】 on a new battlefield. 战争在新的战场爆发了 】
 - `【 call out. 大喊 v 】`
 - `【 speak out. 大声说出来 v 】`
-- 
+- `【 roll out. 推出 v 】`
+- `【 rush out of. 冲出 v 】`
 - .HL **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 冲突爆发后，他从教室里冲出去大喊有人打他 】**
 - .MT **【 The war may 【 break out 】 【 at any minute 】. 战争可能随时会爆发 】**
 - .MT **【 the war 【 break out 】 【 on 】 a new 【 battlefield 】. 战争在新的战场爆发了 】**
+-
+- `【 revenge 报仇 报复 v 】`
+- `【 avenge 报仇 报复 v 】`
+- > 【 take revenge. 报仇 v 】
+- > 【 take revenge on sb. 向...报仇 】
+- .HL **【 We will 【 definitely 】 【 take revenge on 】 our 【 enemies 】. 我们一定会向敌人报仇的 】**
 -
 - AA.
 - > 【 chase 追逐 追捕 v 】 // ------------------ 【 chase dream. 追逐梦想 v 】 【 chase fugitive. 追捕逃犯 v 】
