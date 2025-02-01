@@ -1,6 +1,6 @@
 ##### Military
 
-##### Military 1 - **【 military 】**
+##### Military 1 - **【 Military 】**
 
 - -1
 - `【 fugitive 逃犯 n 】` // ---------------------- 【 fugitive 逃犯 n 】 VS 【 refugee 难民 n 】 VS 【 refuge 避难所 n 】
@@ -150,7 +150,7 @@
 - `【 tomb 坟墓 n 】`
 - **【 After the 【 bomb 】 【 exploded 】, the 【 womb 】 became a 【 tomb 】. 炸弹爆炸后，子宫变成了坟墓 】**
 
-##### Military 2 - **【 weapon 】**
+##### Military 2 - **【 Weapon 】**
 
 - 2
 - `【 weapon 武器 】` // ----------------------- 【 nuclear weapon. 核武器 n 】 // 【 atom bomb. 原子弹 】
@@ -421,7 +421,7 @@
 -
 -
 
-##### Military 4 - **【 enemy army 】**
+##### Military 4 - **【 Enemy and Army 】**
 
 - 4
 - `【 enemy 敌人 n 】` // --------------------- 【 enemy troop. 敌军 】 【 enemy territory. 地方领土 】 【 public enemy. 公敌 】 【 annihilate enemy troop. 歼灭敌军 】
@@ -782,16 +782,28 @@ physical conflict. 肢体冲突
 // physical relationship. 肉体关系
 ```
 
-##### Military 6 - **【 people 】**
+##### Military 6 - **【 People 】**
 
 - 6
+- `【 refugee 难民 n 】` // --------------------- 【 refuge 避难所 n 】 VS 【 refugee 难民 n 】 VS 【 fugitive 逃犯 n 】
 - `【 fugitive 逃犯 n 】` // -------------------- 【 chase fugitive. 追扑逃犯 v 】
-- `【 criminal 罪犯 n 】` // -------------------- 【 criminal records. 犯罪记录 n 】 // 【 crime scene. 犯罪现场 n 】
+- `【 criminal 罪犯 n 】` // -------------------- 【 criminal records. 犯罪记录 n 】 // 【 crime scene. 犯罪现场 n 】 // 【 crime 犯罪 v 】 VS 【 criminal 罪犯 】
 - `【 prisoner 囚犯 n 】` // -------------------- 【 prisoner 囚犯 】VS 【 imprison 关押 v 】 VS 【 prison 监狱 】 // 【 prison 监狱 】VS 【 poison 毒药 】
 - `【 captive 战俘 n 】`
 -
+- `【 arrest 逮捕 v 】` // ---------------------- 【 arrest 逮捕 v 】 VS 【 rest 休息 n 】
+- `【 imprison 关押 v 】` // -------------------- 【 imprison 关押 v 】 VS 【 prison 监狱 n 】 VS 【 prisoner 囚犯 n 】
+- `【 release 释放 v 】`
+- > 【 arrest 逮捕 v 】
+- > 【 rest 休息 v n 】
+- **【 He 【 planned to 】 【 have a rest 】 and then 【 continue 】 to 【 arrest 】 【 fugitive 】. 他打算休息一会儿，然后继续追捕逃犯 】**
+-
 - `【 aggressive war. 侵略战争 n 】` // --------- 【 【 launch 】 an aggressive war. 发动侵略战争 v 】
 - `【 break out. 爆发 v 】` // ----------------- 【 the war 【 break out 】 on a new battlefield. 战争在新的战场爆发了 】
+- `【 call out. 大喊 v 】`
+- `【 speak out. 大声说出来 v 】`
+- 
+- .HL **【 After the 【 conflict 】 【 broke out 】, he 【 rushed out of 】 the classroom and 【 called out 】 that someone 【 hit 】 him. 冲突爆发后，他从教室里冲出去大喊有人打他 】**
 - .MT **【 The war may 【 break out 】 【 at any minute 】. 战争可能随时会爆发 】**
 - .MT **【 the war 【 break out 】 【 on 】 a new 【 battlefield 】. 战争在新的战场爆发了 】**
 -
