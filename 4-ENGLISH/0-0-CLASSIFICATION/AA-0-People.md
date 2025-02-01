@@ -3,14 +3,13 @@
 - 1
 - [关系-relationship]
 -
-- `【 relative 亲人n / 相对的 adj 】` // ------------ 【 close relatives. 近亲 n 】 【 distant relatives. 远亲 n 】 // 【 blood relationship. 血缘关系 n 】
+- `【 relative 亲人n / 相对的adj 】` // ------------ 【 close relatives. 近亲 n 】 【 distant relatives. 远亲 n 】 // 【 blood relationship. 血缘关系 n 】
 - `【 ancestor 祖先 n 】`
 - `【 descendant 后代 子孙 n 】`
-- `【 family genealogy. 家谱 n  】`
 - // TIPS: Pay attention to the pronunciation of the word 'relative'. [relative-亲戚-n-相对的-adj]
 - AA.
 - > 【 descendant 后代 子孙 n 】
-- > 【 abundant 丰富的 大量的 adj 】 // -------------- 【 abundant protein. 丰富的蛋白质 n 】
+- > 【 abundant 丰富的 大量的 adj 】 // -------------- 【 abundant protein. 丰富的蛋白质 n 】 // `【 protein蛋白质 VS nutrition营养 】`
 - > 【 attendant 服务员 n 】 // --------------------- 【 parking attendant. 停车场服务员 】 【 gas station attendant. 加油站服务员 】
 - > 【 assistant 助手 n 】
 - > 【 consultant 顾问 n 】 // --------------------- _【 consult 咨询 商量 v 】_ VS _【 consultant 顾问 n 】_ // **【 insult / consult / result 】**
@@ -101,10 +100,10 @@
 - > 【 son in law. 女婿 n 】
 - > 【 mother in law. 丈母娘 n 】
 - > 【 father in law. 岳父 n 】
+- AA.
+- _【 flatter 讨好 奉承 v 】_
+- _【 flat 平的 扁平的 adj / 公寓 n 】_ VS 【 apartment 公寓 n 】 VS 【 department 部门 】 VS 【 sector 部门 扇形 n 】
 - **【 He 【 flattered 】 his 【 grandfather 】 【 in order to 】 get some 【 pocket money 】. 他讨好他爷爷是为了要零花钱 】**
-- // --
-- // _【 flatter 讨好 奉承 v 】_
-- // _【 flat 平的 扁平的 adj / 公寓 n 】_ VS 【 apartment 公寓 n 】 VS 【 department 部门 】 VS 【 sector 部门 扇形 n 】
 - // -
 - // 【 pocket money. 零花钱 n 】
 - // 【 private savings. 私房钱 n 】
@@ -119,8 +118,8 @@
 - > 【 aunt 阿姨 n 】
 - .MT **【 His 【 uncle 】 and 【 aunt 】 【 as diligent as 】 【 ants 】. 他的叔叔和阿姨像蚂蚁一样勤奋 】**
 - .HL **【 Both my 【 uncle 】 and 【 aunt 】 【 were hit on 】 【 ankles 】 【 by 】 a car. 我的叔叔和阿姨都被车撞上了脚踝 】**
-- // --
-- // diligent 勤奋的 刻苦的 adj
+- AA.
+- _【 diligent 勤奋的 刻苦的 adj 】_
 - // --
 - // _【 be hit on. 被撞倒...部位 】_
 - // _【 be hit on. 被撞倒...部位 】_
@@ -241,13 +240,21 @@
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
 - `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
-- `【 chest 胸 n 】` // --------------------- `【 bra 胸罩 n 】`
+- `【 chest 胸 n 】` // --------------------- **【 bra 胸罩 n 】**
 - `【 breast 乳房 n 】` // ------------------ 【 breast cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
 - `【 belly 腹部 肚子 n 】`
+- AA.
 - > 【 organ 器官 n 】
 - > 【 tissue 组织 n 】
 - > 【 cell 细胞 n 】
 - > 【 tissue 组织 n 】 VS 【 issue 问题 n 发行 v 】
+- BB.
+- _【 nutrition 营养 n 】_
+- _【 protein 蛋白质 n 】_
+- _【 fat 脂肪 n 】_ // ----------------------- 【 keep fit. 健身 n 】
+- _【 fiber 纤维 n 】_
+- _【 sugar 糖 n 】_ // ----------------------- 【 sugar 糖 VS 糖果 】
+- CC.
 - _【 kidney 肾脏 n 】_
 - _【 bladder 膀胱 n 】_
 - _【 urine 尿 小便 n 】_
@@ -257,6 +264,7 @@
 - // TIPS: Pay attention to the pronunciation of the word 'chest'. [chest-胸-胸部-n]
 - // TIPS: Pay attention to the pronunciation of the word 'belly'. [belly-腹部-肚子-n]
 - // TIPS: Pay attention to the pronunciation of the word 'intestine'. [intestine-肠-n]
+-
 - AA.
 - _【 kidnap 绑架 v 】_
 - _【 kidney 肾脏 n 】_
@@ -326,8 +334,8 @@
 -
 - [2.4-leg]
 - `【 hip 臀部 n 】` // ------------------------ 【 hip 臀部 n 】 VS 【 lip 嘴唇 n 】
-- `【 butt 屁股 n 】`
-- `【 leg 腿 n 】`
+- `【 butt 屁股 n 】` // ----------------------- 【 butt 屁股 VS but 】
+- `【 leg 腿 n 】` VS 【 ham sausage 火腿肠 】 // 【 sausage 香肠 n 】
 - `【 thigh 大腿 n 】` // ---------------------- 【 thigh 大腿 n 】 VS 【 high 高的 adj 】VS 【 high heels. 高跟鞋 n 】
 - `【 calf 小腿 小牛 n 】` // ------------------- 【 bull 公牛 n 】 VS 【 cow 母牛 奶牛 n 】 VS 【 calf 小牛 小腿 n 】 // 【 bull market. 牛市 】 【 bear market. 熊市 】
 - `【 knee 膝盖 n 】`
