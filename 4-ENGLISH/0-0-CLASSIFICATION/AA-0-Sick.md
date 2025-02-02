@@ -441,17 +441,33 @@
 - // TIPS: Pay attention to the pronunciation of the word 'evolution'. [evolution]
 - // TIPS: Pay attention to the pronunciation of the word 'species'. [species]
 -
-- `【 organism 生物 n 】` --------------------- 1.【 organism = living things. 生物 n 】
+-
+-
+- `【 organism 生物 n 】` --------------------- 1.【 organism = living things. 生物 n 】 // _【 organ 器官 n 】_ VS _【 organism 生物 n 】_
 - `【 microorganism 微生物 n 】` // ----------- 2.【 microorganism = microbe. 微生物 n 】 // microbe microorganism microscope microphone microwave
 - `【 germ 细菌 n 】` ------------------------- 3.【 germ = bacteria. 细菌 n 】
 - `【 bacteria 细菌 n 】`
 - `【 fungus 真菌 n 】`
 - `【 virus 病毒 n 】` // --------------------- 【 influenza virus. 流感病毒 n 】 // 【 influenza 】 【 flu 】 【 fluent 】 【 fluent 】
-- `【 living things. 生物 】`
+- `【 living things. 生物 】= organism. 生物 n`
 - `【 microbe. 微生物 n 】`
+- > 【 organ 器官 n 】
+- > 【 tissue 组织 n 】
+- > 【 cell 细胞 n 】
+- > 【 gene 基因 n 】 // ---------------------- 【 gene 基因 n 】 VS 【 ginger 姜 n 】
+- _【 liver 肝脏 n 】_
+- _【 kidney 肾 n 】_ // ---------------------- 【 kidney VS kidnap VS kid 】 // -【 kidney VS bladder VS urine 】
+- _【 bladder 膀胱 n 】_
+- _【 small intestine. 小肠 n 】_
+- _【 large intestine. 大肠 n 】_
+- _【 chest 胸 n 】_
+- _【 breast 乳房 n 】_ // ---------------------- 【 chest VS breast VS bra 】// - 【 breast cancer. 乳腺癌 n 】
+- _【 belly 腹部 肚子 n 】_
+- _【 lung 肺部 n 】_ // ------------------------ 【 lung VS lounge 】 //  --------【 study lounge. 自习室 n 】 【 departure lounge. 候车室 n 】
 - // TIPS: Pay attention to the pronunciation of the word 'microbe'. [microbe]
 - **【 High temperature can 【 inhibit 】 the 【 reproduction 】 of 【 bacteria 】. 高温可以抑制细菌的繁殖 】**
 - **【 【 Viruses 】 【 feed on 】 【 bacterial 】. 病毒以细菌为食 】**
+-
 -
 - `【 disease 病 疾病 n 】`
 - `【 illness 疾病 n 】` // ------------------- 【 ill 疾病 n 生病的 adj 】
