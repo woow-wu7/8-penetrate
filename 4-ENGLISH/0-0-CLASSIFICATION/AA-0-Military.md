@@ -372,7 +372,8 @@
 - `【 air force. 空军 n 】`
 - > 【 bomber 轰炸机 n 】 // -------------------- 【 bomb / bomber 】
 - > 【 fighter jet. 战斗机 n 】
-- > 【 helicopter 直升机 】
+- > 【 helicopter 直升机 n 】 // ---------------- 【 armed helicopter. 武装直升机 n 】 // 【 armed conflict. 武装冲突 】 【 armed force. 武装力量 】
+- > 【 armed helicopter. 武装直升机 n 】
 - _【 airplane 飞机 n 】_ // -------------------- 【 airplane = aircraft. 飞机 n 】
 - _【 aircraft 飞机 n 】_
 - _【 airport 飞机场 n 】_
@@ -383,13 +384,13 @@
 - 【 co-pilot. 副机长 】
 - 【 captain 机长 】
 - 【 captain 机长 】VS 【 caption 字幕 】
-- > 【 mayor / vice mayer. 副市长 n 】
-- > 【 president / vice president. 副总统 n 】
-- > 【 principal / vice principal. 副校长 n 】
-- > 【 professor / associate professor. 副教授 n 】
-- > 【 pilot / co-pilot. 副驾驶员 n 】
+- > 【 mayor / vice mayer. 副市长 n 】 // ------------------- _【 vice mayor. 副市长 n 】_
+- > 【 president / vice president. 副总统 n 】 // ----------- _【 vice president. 副总统 n 】_
+- > 【 principal / vice principal. 副校长 n 】 // ---------- _【 vice principal. 副校长 n 】_
+- > 【 professor / associate professor. 副教授 n 】 // ----- _【 associate professor. 副教授 n 】_
+- > 【 pilot / co-pilot. 副驾驶员 n 】 // ------------------ _【 co-pilot. 副驾驶员 n 】_
 - > 【 mayor VS layer VS lawyer 】
-- > 【 president VS resident 】
+- > 【 president VS resident VS reside 】
 -
 - [AA.]
 - `【 navy 海军 n 】`
@@ -441,10 +442,11 @@
 - **【 It's 【 terrible 】 that our 【 territory 】 has been 【 occupied 】 by 【 enemy troop 】. 我们的领土被敌军占领了，这太糟糕了 】**
 - BB.
 - _【 arm 手臂 n 武装 v 】_
-- _【 armed 武装的 adj 】_ // ------------------- 【 armed conflict. 武装冲突 】 【 armed force. 武装力量 】
+- _【 armed 武装的 adj 】_ // ------------------- 【 armed conflict. 武装冲突 】 【 armed force. 武装力量 】 // 【 armed helicopter. 武装直升机 n 】
 - _【 army 陆军 n 】_ // ------------------------ 【 army base. 陆军基地 】
 - > 【 armed conflict. 武装冲突 】
 - > 【 armed force. 武装力量 】
+- > 【 armed helicopter. 武装直升机 n 】
 - 【 army base. 陆军基地 n 】
 - 【 prevent 阻止 防止 v 】
 - // TIPS: Pay attention to the pronunciation of the word 'conflict'. [conflict-冲突-v]
@@ -797,6 +799,17 @@ physical conflict. 肢体冲突
 - > 【 arrest 逮捕 v 】
 - > 【 rest 休息 v n 】
 - .HL **【 He 【 planned to 】 【 have a rest 】 and then 【 continue 】 to 【 arrest 】 【 fugitive 】. 他打算休息一会儿，然后继续追捕逃犯 】**
+-
+- `【 citizen 公民 市民 n 】` VS 【 civilization 文明 n 】
+- `【 resident 居民 n 】` VS 【 president 总统 n 】
+- `【 immigrant 移民 n 】` VS 【 immigrate 移民 v 】 VS 【 migrate 迁徙 移居 v 】
+- `【 refugee 难民 n 】` VS 【 fugitive 逃犯 n 】 VS criminal VS prisoner VS captive
+- `【 alien 外国人 外星人 n 】`
+- `【 pedestrian 行人 n 】`
+- `【 bystander 旁观者 n 】`
+- `【 crowd 人群n 拥挤v 】` VS 【 crow 乌鸦 n 】
+- `【 stranger 陌生人 n 】`
+- `【 acquaintance 熟人 n 】` // --------------- 【 old acquaintance. 老熟人 n 】
 -
 - `【 aggressive war. 侵略战争 n 】` // --------- 【 【 launch 】 an aggressive war. 发动侵略战争 v 】
 - `【 break out. 爆发 v 】` // ----------------- 【 the war 【 break out 】 on a new battlefield. 战争在新的战场爆发了 】
