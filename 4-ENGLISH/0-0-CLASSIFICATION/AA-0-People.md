@@ -258,9 +258,9 @@
 - _【 protein 蛋白质 n 】_
 - _【 fat 脂肪 n 】_ // ----------------------- 【 keep fit. 健身 n 】
 - _【 fiber 纤维 n 】_
-- _【 sugar 糖 n 】_ // ----------------------- 【 sugar 糖 VS 糖果 】
+- _【 sugar 糖 n 】_ // ----------------------- 【 sugar 糖 VS candy 糖果 】
 - CC.
-- _【 kidney 肾脏 n 】_
+- _【 kidney 肾脏 n 】_ // -------------------- 【 kidney VS kidnap VS kid 】
 - _【 bladder 膀胱 n 】_
 - _【 urine 尿 小便 n 】_
 - **【 【 cells 】 form 【 tissues 】, 【 tissues 】 form 【 organs 】. 细胞形成组织，组织形成器官 】**
