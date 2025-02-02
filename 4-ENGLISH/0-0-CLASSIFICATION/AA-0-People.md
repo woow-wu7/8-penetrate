@@ -1,5 +1,7 @@
 ##### People
 
+##### (一) **【 Relationship 关系 】**
+
 - 1
 - [关系-relationship]
 -
@@ -168,6 +170,9 @@
 -
 -
 -
+
+##### (二) **【 composition 组成 】**
+
 - 2
 - [composition-组成-n] // compose 组成 v
 -
@@ -376,6 +381,32 @@
 - // -- small intestine. 小肠
 - // -- 【 healthy 健康的 adj 】
 - // -- 【 health 将康 n 】
+
+##### (二) **【 classification 分类 】**
+
+- `【 citizen 公民 市民 n 】`
+- `【 resident 居民 n 】`
+- `【 immigrant 移民 n 】` // ----------------------- 【 immigrant 移民 n 】 VS【 immigrate 移民 v 】 VS 【 migrate 迁徙 移居 v 】
+- `【 refugee 难民 n 】` // ------------------------- 【 refugee 难民 n 】 VS 【 refuge 避难所 n 】 VS 【 fugitive 逃兵 n 】
+- `【 civil servant. 公务员 n 】`
+- > 【 chase fugitive. 追扑逃犯 v 】
+- > 【 chase dream. 追逐梦想 v 】
+- > 【 pursue happiness. 追求梦想 v 】
+-
+- `【 alien 外国人 外星人 n 】`
+- `【 bystander 旁观者 n 】`
+-
+- `【 stranger 陌生人 n 】`
+- `【 acquaintance 熟人 n 】` // -------------------- 【 old acquaintance. 老熟人 n 】
+- **【 We changed from 【 acquaintance 】 to 【 stranger 】. 我们从熟人变成陌生人 】**
+-
+- `【 civilization 文明 】` // ---------------------- 【 city / citizen / civilization 】
+- > 【 human civilization. 人类文明 】`
+- > 【 alien civilization. 外星文明 】`
+- **【 Fire is 【 an essential part of 】【 human civilization 】. 火是人类文明的重要组成部分 】**
+- **【 【 Alien civilizations 】 are more 【 advanced 】 than 【 human civilizations 】. 外星文明比人类文明更先进 】**
+-
+- `【 crowd 人群 群从 n / 拥挤 v 】` // --------------- 【 A crowd of. 一群 】 【 crowd into. 涌入 v 】 `【 crow 乌鸦 / crowd 人群 拥挤 】`
 
 ```
 grandfather 祖父 爷爷 外公 // grand 宏伟的 豪华的
