@@ -80,7 +80,8 @@
 - > 【 die in. 死于 】 // ----------------- 主动语态
 - > 【 born (V) -> birth (N) 】 // ------ 【 birth rate. 出生率 】
 - > 【 die (V) -> death (N) 】 // ------- 【 death rate. 死亡率 】
-- **【 He 【 was born in 】 China，worked in 【 Germany 】 and 【 died in 】 America. 他出生在中国，工作在德国，死在美国 】**
+- .HL **【 He 【 was born in 】 China，worked in 【 Germany 】 and 【 died in 】 America. 他出生在中国，工作在德国，死在美国 】**
+- .MT **【 The 【 rooster 】 and the 【 hen 】 【 got married 】 and 【 gave birth to 】 a 【 chick 】. 公鸡和母鸡结婚后生了一个小鸡 】**
 - // TIPS: Pay attention to th pronunciation of the word 'infant'. [infant]
 - // TIPS: Pay attention to th pronunciation of the word 'embryol'. [embryol]
 -

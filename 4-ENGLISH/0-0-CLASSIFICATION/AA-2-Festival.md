@@ -28,28 +28,66 @@
 - [Spring-Festival.春节] // -------------------------- 【 China Spring Festival. 春节 n 】
 - [Lantern-Festival.元宵节]
 - `【 lantern 灯笼 n 】` // --------------------------- 【 Lantern Festival. 元宵节 n 】 // ------ _【 wick 灯芯 烛心 n 】_
+- `【 candle 蜡烛 n 】` // ---------------------------- 【 candle light. 烛光 n 】// ------------ _【 wick 灯芯 烛心 n 】_ // 【 candle VS cancel 】
 - `【 incense 香 n 】` // ----------------------------- 【 a stick of incense. 一根香 】 // ----- _【 incense 香 n 】VS 【 license 许可证 n 】_
-- `【 candle 蜡烛 n 】` // ---------------------------- 【 candle light. 烛光 n 】// ------------ _【 wick 灯芯 烛心 n 】_
-- `【 temple 寺庙 太阳穴 n 】` // ---------------------- 【 temper 脾气 n 】 VS 【 temple 寺庙 n 】
+- `【 temple 寺庙 太阳穴 n 】` // ---------------------- 【 temper 脾气 n 】 VS 【 temple 寺庙 n 】 // 【 monk VS nun 】
 - > 【 temper 脾气 n 】
 - > 【 temple 寺庙 太阳穴 n 】
-- > 【 monk 和尚 n 】
-- > 【 nun 尼姑 n 】
+- > 【 monk 和尚 n 】 // ------------------------------ 【 monk 和尚 n 】 VS 【 monkey 猴子 n 】
+- > 【 nun 尼姑 n 】 // ------------------------------- 【 nun 尼姑 n 】 VS 【 noun 名词 n 】 VS 【 pronoun 代词 n 】
+- _【 cancel 取消 v 】_
 - _【 candle 蜡烛 n 】_
 - _【 candle light. 烛光 n 】_
 - _【 wick 灯芯 n 】_
 - _【 light 光 n / 照亮 v / 点燃 v 】_
 - > 【 lantern 灯笼 n 】
 - > 【 Lantern Festival. 元宵节 n 】
+- _【 incense 香 n 】_ // ----------------------------- [license-执照-n] VS [incense-香-n] /
+- _【 license 许可证 n 】_
+- _【 license plate. 车牌 n 】_
+- _【 driver's license. 驾驶证 n 】_ // --------------- 【 apply for a driver's license. 申请驾驶证 】
+- _【 business license. 营业执照 n 】_
+- _【 revoke license. 吊销执照 n 】_ // ---------------- [license-执照-n] VS [incense-香-n] // [revoke-撤销-撤回-v] VS [invoke-调用-v]
+- _【 apply for a driver's license. 申请驾驶证 v 】_
+- > 【 revoke 撤销 取消 v 】
+- > 【 invoke 调用 v 】
+-
 -
 - `【 couplets 对联 n 】` // -------------------------- 【 couple 夫妇 n 】 VS 【 couplets 对联 n 】 VS 【 triplets 三胞胎 n 】
-- `【 spring couplet. 春联 n 】`
+- `【 spring couplets. 春联 n 】`
+- > 【 couple 夫妇 n 】
+- > 【 couplets 对联 n 】
+- > 【 triplets 三胞胎 n 】VS 【 twins 双胞胎 n 】
+- > 【 trip 旅行 n 】
+- .MT **【 This 【 couplet 】 tells the story 【 of 】 a 【 couple 】 【 who 】 【 give birth to 】 【 triplets 】. 这幅对联讲了一对夫妇生三胞胎的故事 】**
+- .MT **【 The 【 rooster 】 and the 【 hen 】 【 got married 】 and 【 gave birth to 】 a 【 chick 】. 公鸡和母鸡结婚后生了一个小鸡 】**
+- // --
+- // give birth to. 生孩子 v
+- // --
+- // rooster 公鸡 n
+- // hen 母鸡 n
+- // chick 小鸡 n
+- // chicken 鸡肉 n
+- // --
+- // crow 乌鸦 n 打鸣 v
+- // crowd 人群 n 拥挤 v
 -
-- `【 red envelope. 红包 n 】` // --------------------- 【 envelope 信封 n 】
+-
+- `【 red envelope. 红包 n 】` // --------------------- 【 envelope 信封 n 】 【 stamp 邮票 n 】
 - `【 lucky money. 压岁钱 n  】` // ------------------- 【 lucky 幸运的 adj 】
+- `【 packet money. 零花钱 n 】`
+- // TIPS: Pay attention to the pronunciation of the word 'envelope'. [envelope-信封-n ]
+- **【 The money in the 【 envelope 】 is 【 lucky money 】 【 rather than 】 【 pocket money 】. 这个红包里的是压岁钱而不是零花钱 】**
+- **【 We should 【 actively pursue 】 【 rather than 】 【 passively accept 】. 我们应该主动追求，而不是被动接受 】**
+- **【 This is your 【 subjective thought 】 【 rather than 】 an 【 objective fact 】. 这是你主观的想法，而不是客观事实 】**
+- // --
+- // rather than. 而不是
+-
+-
 -
 - `【 firework 烟花 n 】`
 - `【 firecracker 鞭炮 爆竹 n 】`
+-
 -
 - AA.
 - _【 Lantern Festival. 元宵节 n 】_
