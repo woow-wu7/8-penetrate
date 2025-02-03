@@ -35,24 +35,52 @@
 - > 【 temple 寺庙 太阳穴 n 】
 - > 【 monk 和尚 n 】 // ------------------------------ 【 monk 和尚 n 】 VS 【 monkey 猴子 n 】
 - > 【 nun 尼姑 n 】 // ------------------------------- 【 nun 尼姑 n 】 VS 【 noun 名词 n 】 VS 【 pronoun 代词 n 】
+- [2.1]
 - _【 cancel 取消 v 】_
 - _【 candle 蜡烛 n 】_
 - _【 candle light. 烛光 n 】_
 - _【 wick 灯芯 n 】_
-- _【 light 光 n / 照亮 v / 点燃 v 】_
+- _【 light 光 n / 轻的 adj / 照亮 v / 点燃 v 】_
+- [2.2]
 - > 【 lantern 灯笼 n 】
 - > 【 Lantern Festival. 元宵节 n 】
-- _【 incense 香 n 】_ // ----------------------------- [license-执照-n] VS [incense-香-n] /
-- _【 license 许可证 n 】_
+- [2.3]
+- _【 incense 香 n 】_ // ----------------------------- [license-执照-n] VS [incense-香-n] // 【 a stick of incense. 一根香 n 】
+- _【 license 执照 许可证 n 】_
 - _【 license plate. 车牌 n 】_
 - _【 driver's license. 驾驶证 n 】_ // --------------- 【 apply for a driver's license. 申请驾驶证 】
 - _【 business license. 营业执照 n 】_
 - _【 revoke license. 吊销执照 n 】_ // ---------------- [license-执照-n] VS [incense-香-n] // [revoke-撤销-撤回-v] VS [invoke-调用-v]
 - _【 apply for a driver's license. 申请驾驶证 v 】_
+- [2.4]
 - > 【 revoke 撤销 取消 v 】
 - > 【 invoke 调用 v 】
+- [2.5]
+- `【 light 光n / 轻的 adj / 点燃v / 照亮 v 】` // ----- 【 light up. 照亮 】 【 light rain. 小雨 】 // light -> lit
+- `【 lighting 照亮 v 】`
+- `【 lightning 闪电 n 】` // ------------------------ 【 a bolt of lightning. 一道闪电 】
+- `【 lighter 打火机 n 】`
+- `【 slight 轻微的 adj 】` // ------------------------ 【 slight spicy. 微辣 n 】 【 slight pain. 轻微疼痛 n 】
+- _【 light 光 n / 轻的 adj / 点燃 照亮 v 】_ // -------- [heavy-重的-adj] VS [light-轻的-adj] VS [weight-重量-n] VS [scale-秤-n]
+- _【 slight 轻微的 adj 】_
+- _【 slight pain. 轻微疼痛 n 】_
+- _【 slight injury. 轻伤 n 】_ // injure VS injury
+- _【 slight spicy. 微辣 n 】_
+- > 【 high beam light. 远光灯 n 】`
+- > 【 low beam light. 近光灯 n 】`
+- > 【 a beam of light. 一束光 】`
+- > 【 a bolt of lightning. 一道闪电 】`
+- weight / heavy / light
+- **【 打火机发出的光照亮了整个屋子 】**
+- **【 闪电过后一定有雷声 】**
+- [2.6]
+- > 【 scale 秤 尺寸 n 】
+- > 【 spring scale. 弹簧秤 n 】
+- > 【 balance scale. 天平 】
+- > 【 kitchen scale. 厨房秤 】
 -
 -
+- [2.7]
 - `【 couplets 对联 n 】` // -------------------------- 【 couple 夫妇 n 】 VS 【 couplets 对联 n 】 VS 【 triplets 三胞胎 n 】
 - `【 spring couplets. 春联 n 】`
 - > 【 couple 夫妇 n 】
@@ -62,7 +90,7 @@
 - .MT **【 This 【 couplet 】 tells the story 【 of 】 a 【 couple 】 【 who 】 【 give birth to 】 【 triplets 】. 这幅对联讲了一对夫妇生三胞胎的故事 】**
 - .MT **【 The 【 rooster 】 and the 【 hen 】 【 got married 】 and 【 gave birth to 】 a 【 chick 】. 公鸡和母鸡结婚后生了一个小鸡 】**
 - // --
-- // give birth to. 生孩子 v
+- // 【 give birth to. 生孩子 v 】
 - // --
 - // rooster 公鸡 n
 - // hen 母鸡 n
@@ -73,20 +101,39 @@
 - // crowd 人群 n 拥挤 v
 -
 -
+- [2.8]
 - `【 red envelope. 红包 n 】` // --------------------- 【 envelope 信封 n 】 【 stamp 邮票 n 】
 - `【 lucky money. 压岁钱 n  】` // ------------------- 【 lucky 幸运的 adj 】
-- `【 packet money. 零花钱 n 】`
+- `【 pocket money. 零花钱 n 】`
 - // TIPS: Pay attention to the pronunciation of the word 'envelope'. [envelope-信封-n ]
 - **【 The money in the 【 envelope 】 is 【 lucky money 】 【 rather than 】 【 pocket money 】. 这个红包里的是压岁钱而不是零花钱 】**
 - **【 We should 【 actively pursue 】 【 rather than 】 【 passively accept 】. 我们应该主动追求，而不是被动接受 】**
 - **【 This is your 【 subjective thought 】 【 rather than 】 an 【 objective fact 】. 这是你主观的想法，而不是客观事实 】**
 - // --
-- // rather than. 而不是
+- // 【 rather than. 而不是 】
+- // --
+- // 【 subjective thought. 主观想法 n 】
+- // 【 objective fact. 客观事实 n 】
+- // --
+- // 【 activity pursue. 主动追求 v 】
+- // 【 passive accept. 被动接受 v 】
 -
 -
--
+- [2.9]
 - `【 firework 烟花 n 】`
 - `【 firecracker 鞭炮 爆竹 n 】`
+- `【 gunpowder 火药 n 】` // ------------------------ 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】 【 powder 粉 粉末 n 】
+- `【 powder 粉 粉末 n 】`
+- `【 power 能量 n 】`
+- > 【 flour 面粉 n 】
+- > 【 flower 花 n 】
+- > 【 powder 粉 粉末 n 】// ----------- 【 gunpowder 火药 n 】
+- > 【 power 力 动力 功率 n 】----------- 【 power station. 电厂 n 】 【 power outage. 断电 】 【 power consumption. 】// 【 power bank. 】 【 power strip. 】
+- _【 power station. 电厂 n 】_
+- _【 power outage. 停电 v 】_
+- _【 power bank. 充电宝 n 】_
+- _【 power strip. 插线板 n 】_
+- _【 power consumption. 电功耗 n 】_
 -
 -
 - AA.
@@ -109,23 +156,6 @@
 - _【 temper 脾气 n 】_
 - _【 monk 和尚 n 】_
 - .MT **【 All the 【 monks 】 【 in 】 his 【 temple 】 have a good 【 temper 】 . 这个寺庙里的和尚脾气都很好 】**
--
-- AA.
-  Many red lanterns glowed softly in the darkness. 许多红灯笼在黑暗中发出柔和的光
-  // -
-  // 【 take turns doing sth. 轮流做某事 v 】
-  // -
-  // work the day shift. 上白班 v
-  // work the night shift. 上夜班 v
-  // -
-  // stick shift. 换挡杆
-  // walking stick. 拐杖
-  // selfie stick. 自拍杆
-  // chopstick 筷子
-  // a stick of incense. 一根香
-  // -
-  // 【 sticker 贴纸 n 】
-  // 【 stick 粘贴 v 棍子 n 】
 
 ```
 圣诞节 Christmas // 注意发音
@@ -167,5 +197,4 @@ vacation 假期
 - _【 Mid-Autumn Festival. 中秋节 】_ // moon cake autumn
 - _【 Dragon Boat Festival. 端午节 】_ // zongzi // rice ball.饭团
 - // TIPS: Pay attention to the pronunciation of the the word 'dragon'.
--
 ```
