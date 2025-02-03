@@ -529,22 +529,29 @@
 - > 【 hand in. 上交 提交 v 】
 - > 【 hand in hand. 手牵手 adv 】 // -------- 【 hold your hand. 牵着你的手 】
 - > 【 hand down. 传下来 v 】
+- > 【 a handful of. 一把... 】
 - > 【 shake hand. 握手 v 】
 - > 【 wave hand. 挥手 v 】
 - > 【 hold your hand. 牵着你的手 】 // ----- **【 I want to 【 hold your hand 】 and go out together. 我想牵着你的手一起出去 】**
 - 【 hand grenade. 手榴弹 】
 - 【 handgun. 手枪 】
 - AA.
+- _【 a handful of. 一把 】_
+- **【 He 【 grabbed 】 【 a handful of 】 rice and put it into the 【 pot 】. 他抓了一把米到锅里 】**
+- // -- grab 抓住 v
+- // -- pot 锅 n
+- // -- pan 平底锅 n
+- BB.
 - _【 escalator 扶梯 】_ // ------------------ 【 take the escalator. 乘扶梯 】 【 handrail 扶手 n 】
 - _【 elevator 电梯 】_
 - > 【 take the escalator. 乘扶梯 】
 - // TIPS: Pay attention to the pronunciation of the word 'escalator'. [escalator-扶梯-n]
-- BB.
+- CC.
 - _【 fingerprint. 指纹 n 】_
 - _【 handprint. 手印 n 】_
 - _【 footprint. 脚印 n 】_
 - _【 lip print. 唇印 n 】_ // --------------- 【 lipstick 口红 n 】 【 lip balm. 唇膏 n 】
-- CC.
+- DD.
 - _【 lip print. 唇印 n 】_
 - _【 lip balm. 唇膏 n 】_
 - _【 lipstick 口红 n 】_

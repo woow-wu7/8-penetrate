@@ -2,6 +2,7 @@
 
 - 1
 - [tense]
+- [intense】]
 - `【 past tense. 过去时态 过去式  】` // ------------ 【 tense 紧张的 adj / 时态 n 】 【 intense competition. 激励的竞争 】
 - `【 present tense. 现在时态 】` // ---------------- 【 simple present tense. 一般现在时 】 【 present perfect tense. 现在完成时 】 // 【 present / current 】
 - `【 future tense. 将来时态 】`
@@ -44,6 +45,7 @@
 - // -- 【 make progress. 取得进步 v 】
 - // -- 【 make an effort to do sth. 努力做某事 】
 -
+- 1.1
 - **【 voice 语态 声音 n 】**
 - `【 passive voice. 被动语态 】` // ---------------- 【 passively accept. 被动接受 v 】
 - `【 active voice. 主动语态  】` // ---------------- 【 actively pursue. 主动追求 v 】 // 【 pursue happiness. 追求幸福 】 // 【 chase dream. 追逐梦想 】
@@ -52,6 +54,7 @@
 - > 【 what's 【 clause 】 of this sentence? 这个句子是什么从句 】
 - > 【 what's 【 tense 】 of this sentence? 这个句子是什么时态 】
 -
+- 1.2
 - **【 clause 从句 子句 n 】**
 - `【 object clause. 宾语从句 】` // -----------------【 clause 子句 从句 分句 n 】
 - `【 attributive clause. 定语从句 】`
@@ -59,11 +62,13 @@
 - > 【 what's 【 clause 】 of this sentence? 这个句子是什么从句 】
 - > 【 what's 【 tense 】 of this sentence? 这个句子是什么时态 】
 -
+- 1.3
 - **【 sentence 句子 n 】**
 - `【 interrogative sentence. 疑问句 】`
 - `【 declarative sentence. 陈述句 】`
 - _【 interrogative 疑问的 adj 】_
 - _【 declarative 陈述的 adj 】_
+-
 -
 -
 -
@@ -239,6 +244,7 @@
 -
 -
 -
+-
 - 5
 - `【 subject 主语 】` // ---------------- 【 subjective thought. 主观想法 】 【 subjective feeling. 主观感受 】 // subjective 主观的 adj
 - `【 predicate 谓语 】` // -------------- 【 weather predication. 天气预报 】 【 weather forecast. 天气预报 】
@@ -254,6 +260,35 @@
 - _【 objective 客观的 adj 】_ // ------- 【 objective fact. 客观事实 n 】
 - **【 This is your 【 subjective thought 】, not an 【 objective fact 】. 这是你主观的想法，并不是客观的事实 】**
 - // TIPS: pay attention to the pronunciation of the word 'thought'. [thought-想法-n]
+-
+-
+-
+-
+-
+-
+-
+-
+- 6
+- [quantifier-量词-n]
+- `【 a layer of dust. 一层灰尘 】`
+- `【 a mass of books. 大量的书 】`
+- `【 a handful of rice. 一把米 】`
+- `【 a grain of rice. 一粒米 】`
+- `【 a bowl of rice. 一碗米 】`
+- `【 a clove of garlic. 一瓣大蒜 // garlic 大蒜 】`
+- `【 a set of makeup. 一套化妆品 】`
+- `【 a series of test. 一系列测试 】`
+- `【 a stick of incense. 一根香 】`
+- `【 a carton of milk. 一盒牛奶 】`
+- `【 a cup of tea. 一杯茶 】`
+- `【 a bottle of water. 一瓶水 】`
+- `【 a glass of water. 一杯水 】`
+- `【 a piece of leaf. 一片叶子 】`
+- `【 a bunch of flowers 一束花 】`
+- `【 a tub of popcorn. 一桶爆米花 】`
+- `【 a roll of paper. 一卷纸 】`
+- `【 a head of garlic. 一颗蒜 】`
+- `【 a couple of socks. 一双袜子 】`
 -
 -
 - [letter]
