@@ -245,7 +245,7 @@
 - `【 small intestine. 小肠 n 】`
 - `【 large intestine. 大肠 n 】`
 - `【 lung 肺 n 】` // ---------------------- 【 lung 肺 n 】 VS 【 lounge 休息室 n 】 // `【 study lounge. 自习室 n 】` VS `【 departure lounge. 候车室 候机室 n 】`
-- `【 chest 胸 n 】` // --------------------- **【 bra 胸罩 n 】**
+- `【 chest 胸 n 】` // ------------------- **【 bra 胸罩 n 】**
 - `【 breast 乳房 n 】` // ------------------ 【 breast cancer. 乳腺癌 】 VS 【 lung cancer. 肺癌 n 】
 - `【 belly 腹部 肚子 n 】`
 - AA.
@@ -254,7 +254,7 @@
 - > 【 cell 细胞 n 】
 - > 【 tissue 组织 n 】 VS 【 issue 问题 n 发行 v 】
 - BB.
-- _【 nutrition 营养 n 】_
+- _【 nutrition 营养 n 】_ // ----------------- 【 absorb 吸收 v 】
 - _【 protein 蛋白质 n 】_
 - _【 fat 脂肪 n 】_ // ----------------------- 【 keep fit. 健身 n 】
 - _【 fiber 纤维 n 】_
@@ -278,7 +278,7 @@
 - BB.
 - _【 lung 肺部 】_
 - _【 lounge 休息室 n 】_
-- > 【 study lounge. 自习室 n 】
+- > 【 study lounge. 自习室 n 】 // ------------- 【 library 图书馆 n 】
 - > 【 departure lounge. 候车室 候机室 n 】
 - 【 lung cancer. 肺癌 n 】
 - 【 breast cancer. 乳腺癌 n 】

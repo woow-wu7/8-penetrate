@@ -28,11 +28,11 @@
 - `【 junior high school. 初中 】`
 - `【 senior high school. 高中 】`
 -
-- `【 university 大学 】` // ------------------------ 【 universe 宇宙 VS university 大学 】
+- `【 university 大学 】` // ------------------------ 【 universe 宇宙 VS university 大学 】 // `【 parallel universe. 平行宇宙 n 】` VS `【 parallel lines. 平行线 n 】`
 - `【 college 学院 大学 】` // ----------------------- colleague = coworker.
 - > 【 colleague = coworker. 同事 n 】
 - > 【 college 学院 大学 n】
-- _【 universe 宇宙 n 】_ // ------------------------ 【 spaceship 宇宙飞船 】
+- _【 universe 宇宙 n 】_ // ------------------------ 【 spaceship 宇宙飞船 】 // _【 parallel universe. 平行宇宙 n 】_ VS _【 parallel lines. 平行线 n 】_
 - _【 university 大学 n 】_
 -
 - `【 middle school. 中学 】`
@@ -121,7 +121,7 @@
 - 【 square brackets. 中括号 】
 - 【 curly brackets. 大括号 】
 - BB.
-- _【 final examination. 期末考试 n 】_ VS 【 mid-term examination. 期中考试 n 】
+- _【 final examination. 期末考试 n 】_ VS 【 mid-term examination. 期中考试 n 】 VS 【 civil servant examination. 公务员考试 n 】 VS 【 entrance examination. 入学考试 n 】
 - _【 final match. 决赛 n 】_ VS 【 semifinal match. 半决赛 n 】
 - _【 semifinal 半决赛 n = semifinal match. 半决赛 】_
 - _【 semicircle 半圆 n 】_
@@ -163,13 +163,16 @@
 - `【 coach 教练 n 】` // ----------------------------- `【 coach 教练 n 】` VS `【 coast 海岸 n 】` VS `【 river bank. 河岸 n 】`
 - `【 master 师傅 主人 硕士 n 】` // ------------------ **【 I have 【 inherited 】 my 【 master's 】 【 will 】, spirit, and skills. 我继承了师傅的意志，精神，技能 】**
 - `【 doctor 博士 医生 n 】`
-- 【 mayor / vice mayer. 副市长 n 】
+- 【 mayor / vice mayor. 副市长 n 】
 - 【 president / vice president. 副总统 n 】
 - 【 principal / vice principal. 副校长 n 】
 - 【 professor / associate professor. 副教授 n 】
 - 【 pilot / co-pilot. 副驾驶员 n 】
 - mayor VS layer VS lawyer
 - president VS resident
+- _【 village head. 村长 n 】_
+- _【 town mayer. 镇长 n 】_
+- _【 mayor. 市长 n 】_
 - AA.
 - > 【 campus 校园 校区 n 】 // ------------------------ 【 campus violence. 校园暴力 】 // campus VS camp // rent VS tent
 - > 【 campus violence. 校园暴力 】 // ----------------- 【 violence 暴力 n 】
