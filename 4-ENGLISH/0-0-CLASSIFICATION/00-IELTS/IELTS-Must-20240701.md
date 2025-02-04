@@ -865,6 +865,7 @@
 - `【 encounter 遭遇 v 】` // -------------【 encounter difficulty. 遭遇困难 】 【 encounter setback. 遭遇挫折 】 【 overcome difficulty. 克服困难 】
 - `【 account 账户 】` // -----------------【 bank account. 银行账户 n 】 【 recover account. 回复账户 】
 - `【 accountant 会计 n 】` // ----------- 【 junior accountant. 初级会计 n 】 【 senior accountant. 高级会计 n 】
+- `【 countermeasure 对策 n 】`
 - `【 county 县 n 】` // ------------------【 county government. 县政府 】 【 county court. 县法院 n 】
 - `【 country 国家 n 】` // -------------- 【 developing country. 发展中国家 n 】 【 developed country. 开发中国家 n 】 【 country / state / nation 】
 - `【 countryside 乡村 n 】`

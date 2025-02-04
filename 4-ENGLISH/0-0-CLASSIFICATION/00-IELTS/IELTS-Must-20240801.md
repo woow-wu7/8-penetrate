@@ -957,7 +957,7 @@
 - `【 conclusion 结论 n 】` // ---------- 【 clue 线索 n 】
 - `【 consequence 后果 n 】` // --------- 【 result. 结果 n 】 【 consequence. 后果 n 】
 - `【 scheme 方案 n 】` // -------------- 【 color scheme. 配色方案 】
-- `【 measure 措施 n / 测量v 】` // ----- `【 specific measure. 具体措施 】` `【 take measure. 采取措施 】` 【 take note. 做笔记 】
+- `【 measure 措施 n / 测量v 】` // ----- `【 take measure. 采取措施 】` `【 specific measure. 具体措施 】` 【 take note. 做笔记 】
 - > 【 summer 夏天 n 】 // -------------- 【 summer camp. 夏令营 】
 - > 【 summary 概要 总结 n 】 // --------- 【 in summary. = in conclusion. 总之 】
 - > 【 summarize 概要 总结 v 】
@@ -1004,6 +1004,7 @@
 - [BB.]
 - `【 scheme 方案 n 】`
 - `【 measure 措施 n / 测量 v 】`
+- `【 means 方法 手段 n 】`
 - > 【 take measure. 采取措施 】
 - **【 What 【 scheme 】 will you use and what 【 measure 】 will you 【 take 】 to 【 measure 】 the 【 depth 】 of water? 用什么方案和采取什么措施来测量水的深度？ 】**
 -

@@ -391,6 +391,10 @@
 - _【 customs duty. 关税 n 】_ // ------------- 【 customs 海关 关税 】 【 custom 习俗 n / 定制的 adj 】 // 【 custom VS customs 】
 - _【 individual income tax. 个人所得税 n 】_
 - _【 pay tax. 交税 v 】_
+- AA.
+- > 【 tariff 关税 n 】
+- > 【 increase tariff. 增加关税 n 】
+- > 【 customs duty. 关税 n 】
 - **【 【 Housing fund 】, 【 education fund 】 and 【 pension 】 are all important. 住房公积金，教育基金和养老金都很重要 】**
 - .MT **【 She went to the 【 post office 】 to 【 withdraw 】 her 【 pension 】. 她去邮局提取养老金 】**
 - // --【 post office. 邮局 】

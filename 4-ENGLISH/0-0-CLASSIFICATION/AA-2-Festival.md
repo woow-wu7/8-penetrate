@@ -17,11 +17,15 @@
 - **【 He 【 is 】 【 on vacation 】 【 in 】the 【 United States 】. 他在美国休假 】**
 -
 - [1.2]
-- `【 Spring Festival. 春节 n 】` // ------------------- 【 Chinese New Year's Eve. 除夕 n 】
+- `【 Spring Festival. 春节 n 】` // ------------------- 【 Spring Festival gala. 春晚 n 】 【 spring scale. 弹簧秤 n 】// 【 Chinese New Year's Eve. 除夕 n 】
 - `【 Lantern Festival. 元宵节 n 】`
 - `【 Mid-Autumn Festival. 中秋节 n 】` // ------------- 【 mid-term examination. 期中考试 n 】// final examination. // entrance examination. // semifinal match.
 - `【 Dragon Boat Festival. 端午节 n 】`
 - `【 Music Festival. 音乐节 n 】`
+- > 【 spring scale. 弹簧秤 n 】
+- > 【 Spring Festival. 春节 n 】
+- > 【 Spring Festival gala. 春晚 n 】
+- > 【 Chinese New Year's Eve. 除夕 n 】
 - **【 Both The 【 Spring Festival 】 and the 【 Lantern Festival 】 are 【 traditional 】 Chinese 【 festivals 】. 春节和元宵节都是中国的传统节日 】**
 -
 - [1.3]
@@ -95,7 +99,7 @@
 - [Spring-Festival.春节] // -------------------------- 【 China Spring Festival. 春节 n 】
 - [Lantern-Festival.元宵节]
 - `【 lantern 灯笼 n 】` // --------------------------- 【 Lantern Festival. 元宵节 n 】 // ------ _【 wick 灯芯 烛心 n 】_
-- `【 candle 蜡烛 n 】` // ---------------------------- 【 candle light. 烛光 n 】// ------------ _【 wick 灯芯 烛心 n 】_ // 【 candle VS cancel 】
+- `【 candle 蜡烛 n 】` // ---------------------------- 【 candle light. 烛光 n 】 【 light a candle. 点蜡烛 】 【 candle flam. 蜡烛火焰 】 // 【 candle VS cancel 】
 - `【 incense 香 n 】` // ----------------------------- 【 a stick of incense. 一根香 】 // ----- _【 incense 香 n 】VS 【 license 许可证 n 】_
 - `【 temple 寺庙 太阳穴 n 】` // ---------------------- 【 temper 脾气 n 】 VS 【 temple 寺庙 n 】 // 【 monk VS nun 】
 - > 【 temper 脾气 n 】
@@ -106,6 +110,8 @@
 - _【 cancel 取消 v 】_
 - _【 candle 蜡烛 n 】_
 - _【 candle light. 烛光 n 】_
+- _【 light a candle. 点蜡烛 v 】_
+- _【 candle flame. 蜡烛火焰 n 】_ // ------------------ 【 flame 火焰 n 】
 - _【 wick 灯芯 n 】_
 - _【 light 光 n / 轻的 adj / 照亮 v / 点燃 v 】_
 - [2.2]
@@ -138,11 +144,13 @@
 - > 【 a beam of light. 一束光 】`
 - > 【 a bolt of lightning. 一道闪电 】`
 - weight / heavy / light
-- **【 打火机发出的光照亮了整个屋子 】**
-- **【 闪电过后一定有雷声 】**
+- **【 The 【 light 】 【 emitted by 】 the 【 lighter 】 【 lighted 】 the whole room. 打火机发出的光照亮了整个屋子 】**
+- **【 【 The beam of light 】 comes from 【 a bolt of lightning 】. 这一束光来自一道闪电 】**
+- **【 【 lighters 】 can 【 emit 】 【 light 】. 打火机可以发光 】**
+- **【 There must be 【 thunder 】 after 【 lightning 】. 闪电过后一定有雷声 】**
 - [2.6]
 - > 【 scale 秤 尺寸 n 】
-- > 【 spring scale. 弹簧秤 n 】
+- > 【 spring scale. 弹簧秤 n 】 VS 【 Spring Festival. 春节 n 】
 - > 【 balance scale. 天平 】
 - > 【 kitchen scale. 厨房秤 】
 -
@@ -189,6 +197,8 @@
 - [2.9]
 - `【 firework 烟花 n 】`
 - `【 firecracker 鞭炮 爆竹 n 】`
+- `【 firewall 防火墙 n 】`
+- `【 Firefighters = fireman 消防员 n 】`
 - `【 gunpowder 火药 n 】` // ------------------------ 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】 【 powder 粉 粉末 n 】
 - `【 powder 粉 粉末 n 】`
 - `【 power 力 能量 n 】`
@@ -201,7 +211,18 @@
 - _【 power bank. 充电宝 n 】_
 - _【 power strip. 插线板 n 】_
 - _【 power consumption. 电功耗 n 】_
--
+- **【 The 【 fireman 】 said that both 【 fireworks 】 and the 【 firecrackers 】 【 are made of 】 【 gunpowder 】. 消防员说烟花和鞭炮都是火药做的 】**
+- —
+- [2.10]
+- `【 Spring Festival gala. 春晚 n 】`
+- `【 crosstalk. 相声 n 】`
+- `【 crosstalk performer. 相声演员 n 】`
+- `【 robe 长跑 n 】`
+- > 【 Spring Festival. 春节 n 】
+- > 【 Spring Festival Gala. 春晚 n 】
+- > 【 spring scale. 弹簧秤 n 】
+- **【 The 【 crosstalk performers 】 are 【 performing 】 the 【 crosstalk 】 【 on 】 the 【 Spring Festival Gala 】. 相声演员正在春晚上表演相声 】**
+- // -- perform 表演 履行 执行 v
 -
 - AA.
 - _【 Lantern Festival. 元宵节 n 】_
@@ -210,6 +231,8 @@
 - BB.
 - > 【 candle 蜡烛 n 】
 - > 【 candle light. 烛光 n 】
+- > 【 light a candle. 点蜡烛 n 】
+- > 【 candle flame. 蜡烛火焰 n 】
 - > 【 wick 灯芯 n 】
 - .HL **[ He 【 lit 】 a 【 candle 】 【 with 】 the 【 incense 】, and the 【 wick 】 【 emitted 】 a 【 bright 】 【 glow 】. 他用香点了一根蜡烛，灯芯发出了明亮的光芒 】**
 - .HL **【 There are a lot of 【 incense 】 and 【 candles 】 in the 【 temple 】. 这个寺庙里有很多香和蜡烛 】**
