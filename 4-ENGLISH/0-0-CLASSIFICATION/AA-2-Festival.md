@@ -6,7 +6,7 @@
 - [1.1]
 - `【 festival 节日 n 】`
 - `【 holiday 假期 节日 n 】`
-- `【 vacation 假期 n 】`
+- `【 vacation 假期 n 】` // ------------------------- 【 on vacation. 度假 】 【 go on a vacation. = go for a vacation. = have a vacation. 度假 v 】
 - `【 leave 离开v / 休假 假期 n 】`
 - > 【 on vacation. 休假 n 】
 - > 【 on leave. 休假 n 】
@@ -19,16 +19,17 @@
 - [1.2]
 - `【 Spring Festival. 春节 n 】` // ------------------- 【 Chinese New Year's Eve. 除夕 n 】
 - `【 Lantern Festival. 元宵节 n 】`
-- `【 Mid-Autumn Festival. 中秋节 n 】` // ------------- 【 mid-term examination. 期中考试 n 】
+- `【 Mid-Autumn Festival. 中秋节 n 】` // ------------- 【 mid-term examination. 期中考试 n 】// final examination. // entrance examination. // semifinal match.
 - `【 Dragon Boat Festival. 端午节 n 】`
 - `【 Music Festival. 音乐节 n 】`
+- **【 Both The 【 Spring Festival 】 and the 【 Lantern Festival 】 are 【 traditional 】 Chinese 【 festivals 】. 春节和元宵节都是中国的传统节日 】**
 -
 - [1.3]
-- `【 National Day. 国庆节 】` // ----------------------
+- `【 National Day. 国庆节 】` // ---------------------- 【 national flag. 国旗 】 【 national anthem. 国歌 】 【 national assets. 国有资产 】 // nation VS national
 - `【 Labor Day. 劳动节 n 】` // ----------------------- 【 cheap labor. 廉价劳动力 】 // 【 labor law. 劳动法 】 【 labor worker. 劳动工人 】 【 labor contract. 劳动合同 】
 - `【 New Year's Day. 元旦节 n 】`
 - `【 Tree planting Day. 植树节 n 】`
-- `【 Tomb-Sweeping Day. 清明节 n 】`
+- `【 Tomb-Sweeping Day. 清明节 n 】` // --------------- 【 tomb VS womb 】
 - > 【 laboratory 实验室 n 】
 - > 【 labor 劳动 vn / 工人 n 】
 - > 【 Labor Day. 劳动节 n 】
@@ -36,14 +37,48 @@
 - > 【 labor worker. 劳动工人 n 】
 - > 【 labor contract. 劳动合同 n 】
 - > 【 cheap labor. 廉价劳动力 n 】
-- _【 nation 国家 名族 n 】_ // -------------------------- 【 nation VS country VS state 】
+- _【 nation 国家 名族 n 】_ // -------------------------- 【 nation VS country VS state 】 // `【 state welfare. 国家福利 n 】`
 - _【 national 国家的 民族的 adj 】_
 - _【 National Day. 国庆节 】_
-- _【 national flag. 国旗 】_
+- _【 national flag. 国旗 】_ // ------------------------ 【 pirate flag. 海盗旗 n 】 【 pirate ship. 海盗船 n 】
 - _【 national anthem. 国歌 】_
-- _【 national territory. 国家领土 n 】_ // ---- 【 defend territory. 保护领土 v 】 【 expand territory. 扩张领土 v 】
+- _【 national territory. 国家领土 n 】_ // -------------- 【 defend territory. 保护领土 v 】 【 expand territory. 扩张领土 v 】
 - _【 national interest. 国家利益 】_
-- _【 national assets. 国有资产 】_
+- _【 national assets. 国有资产 】_ // ------------------- 【 fixed assets. 固定资产 n 】 【 current assets. 流动资产 n 】
+- > 【 laboratory 实验室 n 】 // ------------------------- 【 labor VS laboratory 】
+- > 【 dormitory 寝室 n 】
+- > 【 factory 工厂 n 】
+- > 【 repository 仓库 n 】= warehouse. 仓库 // ---------- 【 repository VS warehouse 】
+- > 【 inventory 库存 n 】 // --------------------------- 【 vent VS invent VS inventory 】
+- > 【 directory 目录 n 】 // --------------------------- 【 directory VS director 导演 董事 n 】 // 【 direct 直接的 】 // 【 personnel director. 人事总监 】
+- > 【 mandatory 强制的 adj 】 // ----------------------- 【 mandatory overtime. 强制加班 n 】
+- > 【 history 历史 n 】 // ----------------------------- 【 long history. 悠久的历史 n 】
+- > 【 victory 胜利 v 】
+- _【 vent 出口 n 发泄 v 】_ // ------------------------- 【 vent emotion. 发泄情绪 v 】 【 control emotion. 控制情绪 】 【 express emotion. 表发情感 】
+- _【 invent 发明 创造 编造 v 】_ // -------------------- 【 invent excuse. 编造借口 v 】
+- _【 inventory 库存 n 】_ // -------------------------- 【 take inventory. 盘点库存 v 】 【 inventory list. 库存清单 n 】
+- > 【 directory 目录 n 】
+- > 【 director 懂事 导演 n 】
+- > 【 personnel director. 人事总监 】
+- > 【 sales director. 销售总监 】
+- 1. **【 I need to 【 take inventory 】 【 according to 】 the 【 inventory list 】. 我需要根据库存清单去盘点库存 】**
+- 2. **【 The 【 personnel director 】 is interviewing the 【 sales director 】. 人事总监正在面试销售总监 】**
+- 3. **【 The 【 laboratory 】 in our 【 dormitory 】 was 【 converted 】 from the 【 repository 】 of the 【 factory 】 by the 【 labors 】. 我们宿舍的实验室是工人用工厂的仓库改装的 】**
+- 3. **【 The 【 victory 】 of the 【 labors 】 has been written into the 【 history 】. 劳动人民的胜利已经写进历史 】**
+- 3. **【 This code 【 repository 】 contains many 【 directories 】. 这个代码仓库包含了很多目录 】**
+- 3. **【 The 【 director 】 directly 【 announced 】 that all the 【 labor workers 】 must 【 comply with 】【 labor laws 】. 导演直接宣布所有劳动工人必须遵守劳动法 】**
+- 3. **【 We should 【 persist in 】 【 resisting 】 the 【 mandatory overtime 】 without 【 overtime pay 】. 我们要坚持抵制没有加班费的强制加班 】**
+- // --
+- // 【 comply with. 遵守 v 】= 【 obey. 遵守 服从 v 】
+- // 【 obey 遵守 服从 v 】
+- // --
+- // persist 坚持 v
+- // insist 坚持 v
+- // resist 抵抗 反抗 v
+- // assist 帮助 协助 辅助 v
+- // assist VS assistant
+- // --
+- // according to. 根据 v
 -
 - [1.4]
 - `【 Valentine's Day. 情人节 n 】`
