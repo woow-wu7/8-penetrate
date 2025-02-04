@@ -2,18 +2,50 @@
 
 - 1
 - [Various-Festivals]
+-
+- [1.1]
+- `【 festival 节日 n 】`
+- `【 holiday 假期 节日 n 】`
+- `【 vacation 假期 n 】`
+- `【 leave 离开v / 休假 假期 n 】`
+- > 【 on vacation. 休假 n 】
+- > 【 on leave. 休假 n 】
+- > 【 go on a vacation. = go for a vacation. = take a vacation. 去度假 】
+- _【 go on a trip. = go for a trip. 去旅行 】_
+- _【 go traveling. 去旅行 】_
+- **【 He 【 plans 】 to 【 take a vacation 】 【 in 】 America. 他打算去美国休假 】**
+- **【 He 【 is 】 【 on vacation 】 【 in 】the 【 United States 】. 他在美国休假 】**
+-
+- [1.2]
 - `【 Spring Festival. 春节 n 】` // ------------------- 【 Chinese New Year's Eve. 除夕 n 】
 - `【 Lantern Festival. 元宵节 n 】`
-- `【 Mid-Autumn Festival. 中秋节 n 】`
+- `【 Mid-Autumn Festival. 中秋节 n 】` // ------------- 【 mid-term examination. 期中考试 n 】
 - `【 Dragon Boat Festival. 端午节 n 】`
 - `【 Music Festival. 音乐节 n 】`
 -
-- `【 National Day. 国庆节 】`
-- `【 Labor Day. 劳动节 n 】`
+- [1.3]
+- `【 National Day. 国庆节 】` // ----------------------
+- `【 Labor Day. 劳动节 n 】` // ----------------------- 【 cheap labor. 廉价劳动力 】 // 【 labor law. 劳动法 】 【 labor worker. 劳动工人 】 【 labor contract. 劳动合同 】
 - `【 New Year's Day. 元旦节 n 】`
 - `【 Tree planting Day. 植树节 n 】`
 - `【 Tomb-Sweeping Day. 清明节 n 】`
+- > 【 laboratory 实验室 n 】
+- > 【 labor 劳动 vn / 工人 n 】
+- > 【 Labor Day. 劳动节 n 】
+- > 【 labor law. 劳动法 n 】
+- > 【 labor worker. 劳动工人 n 】
+- > 【 labor contract. 劳动合同 n 】
+- > 【 cheap labor. 廉价劳动力 n 】
+- _【 nation 国家 名族 n 】_ // -------------------------- 【 nation VS country VS state 】
+- _【 national 国家的 民族的 adj 】_
+- _【 National Day. 国庆节 】_
+- _【 national flag. 国旗 】_
+- _【 national anthem. 国歌 】_
+- _【 national territory. 国家领土 n 】_ // ---- 【 defend territory. 保护领土 v 】 【 expand territory. 扩张领土 v 】
+- _【 national interest. 国家利益 】_
+- _【 national assets. 国有资产 】_
 -
+- [1.4]
 - `【 Valentine's Day. 情人节 n 】`
 - `【 Christmas 圣诞节 n 】`
 - `【 Thanksgiving 感恩节 n 】`
@@ -124,7 +156,7 @@
 - `【 firecracker 鞭炮 爆竹 n 】`
 - `【 gunpowder 火药 n 】` // ------------------------ 【 gunpowder 火药 n 】 【 firecracker 鞭炮 n 】 【 gun 枪 n 】 【 powder 粉 粉末 n 】
 - `【 powder 粉 粉末 n 】`
-- `【 power 能量 n 】`
+- `【 power 力 能量 n 】`
 - > 【 flour 面粉 n 】
 - > 【 flower 花 n 】
 - > 【 powder 粉 粉末 n 】// ----------- 【 gunpowder 火药 n 】

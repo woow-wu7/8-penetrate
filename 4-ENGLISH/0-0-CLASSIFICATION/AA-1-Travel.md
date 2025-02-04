@@ -36,7 +36,19 @@
 - `【 scenery 风景 景色 n 】` // ---------- 【 natural scenery. 自然风景 n 】
 - `【 landscape 景观 地形 地貌 n 】` // ---- 【 landscape mode. 横屏模式 】 【 portrait mode. 竖屏模式 】
 - .MT **【 The 【 tour guide 】 asked the 【 tourists 】 to buy the 【 souvenirs 】. 导游让乘客买纪念品 】**
--
+- 
+- `【 festival 节日 n 】`
+- `【 holiday 假期 节日 n 】`
+- `【 vacation 假期 n 】`
+- `【 leave 离开v / 休假 假期 n 】`
+- > 【 on vacation. 休假 n 】
+- > 【 on leave. 休假 n 】
+- > 【 go on a vacation. = go for a vacation. = take a vacation. 去度假 】
+- _【 go on a trip. = go for a trip. 去旅行 】_
+- _【 go traveling. 去旅行 】_
+- **【 He 【 plans 】 to 【 take a vacation 】 【 in 】 America. 他打算去美国休假 】**
+- **【 He 【 is 】 【 on vacation 】 【 in 】the 【 United States 】. 他在美国休假 】**
+- 
 - .MT **【 Everyone 【 definitely 】 has different 【 destiny 】 that leads them to reach the different 【 destinations 】. 每个人肯定有不同的命运，使其到达不同的目的地 】**
 - // -- destiny 命运 n = fate.
 - // -- destination 目的地

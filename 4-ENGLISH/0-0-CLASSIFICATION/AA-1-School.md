@@ -87,7 +87,7 @@
 -
 - [成绩-考试]
 - [成绩-考试]
-- `【 midterm exam. 期中考试 】` // --------------------- 【 term 学期 术语 n 】 VS 【 semester 学期 】 // midterm examination. = midterm exam. 期中考试
+- `【 midterm exam. 期中考试 】` // --------------------- 【 Mid-Autumn Festival. 】 【 term 学期 术语 】 VS 【 semester 学期 】 // midterm examination. = midterm exam.
 - `【 final exam. 期末考试 】` // ----------------------- 【 final match. 决赛 n = final. 】 // **【 semifinal 半决赛 】VS 【 semicircle 半圆 】**
 - `【 entrance exam. 升学考试 入学考试 】` // ------------- _【 midterm exam. VS final exam. VS entrance exam. 】_
 - `【 National College Entrance Examination. 高考 n 】`
@@ -125,6 +125,8 @@
 - _【 final match. 决赛 n 】_ VS 【 semifinal match. 半决赛 n 】
 - _【 semifinal 半决赛 n = semifinal match. 半决赛 】_
 - _【 semicircle 半圆 n 】_
+- > 【 mid-term examination. 期中考试 n 】
+- > 【 Mid-Autumn Festival. 中秋节 n 】
 - CC.
 - **【 semester 学期 n 】**
 - **【 term 学期 术语 n 】** // ------------ 【 mid-term examination. 期中考试 】 【 final examination. 期末考试 】 // 【 final match. 决赛 】 【 semifinal match. 半决赛 】
@@ -242,6 +244,7 @@
 - > 【 labor law. 劳动法 】
 - > 【 labor worker. 劳动工人 n 】
 - > 【 labor contract. 劳动合同 n 】 // ----------------- 【 terminate the labor contract. 终止劳动合同 v 】 【 violate the labor contract. 违反劳动合同 v 】
+- > 【 cheap labor. 廉价劳动力 n 】
 - _【 labor contract. 劳动合同 n 】_
 - _【 terminate the contract. 终止合同 】_ // ----------- 【 violate the transaction. 终止交易 v 】 【 violate the contract. 终止合同 v 】
 - _【 violate the contract. 违反合同 】_

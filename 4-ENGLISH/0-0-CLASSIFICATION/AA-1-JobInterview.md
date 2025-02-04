@@ -1568,6 +1568,7 @@
 - > 【 labor law. 劳动法 】
 - > 【 labor worker. 劳务工 】
 - > 【 labor contract. 劳动合同 】 // --------------- contract/contact/contrast/ transaction 交易 n
+- > 【 cheap labor. 廉价劳动力 n 】
 -
 -
 -
