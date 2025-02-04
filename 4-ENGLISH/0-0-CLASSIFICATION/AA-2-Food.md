@@ -63,6 +63,7 @@
 - > 【 fishy 腥味的 adj 】
 - > 【 numb 麻木的 adj 】
 - > 【 refrigerated 冷藏的 adj 】 // ------------ 【 refrigerated warehouse. 冷藏仓库 】
+- _【 mint 薄荷 n 】_
 -
 -
 - 1.2
@@ -413,6 +414,10 @@
 - `【 harbor 港口 n 】` // ------------------------- 【 dock 码头 n 】 VS 【 duck 鸭子 n 】 // 【 wild duck. 野鸭 】 【 peking duck. 北京烤鸭 】
 - > 【 small portion. 小份 】
 - > 【 large portion. 大份 】
+- _【 takeout 外卖 n 】_
+- _【 instant noodles. 方便面 n 】_
+- .HL **【 I 【 ordered 】 【 a large portion of 】 【 instant noodles 】 and 【 two small portions 】 of 【 takeout 】. 他点了一份大份的方便面和两份小份的外卖 】**
+- .HL **【 This is the 【 instruction manual 】 of the 【 instant noodles 】. 这是方便面的说明书 】**
 - .MT **【 I 【 ordered 】 two 【 large portions of 】 takeout. 我点了两份大份的外卖 】**
 - .MT **【 I 【 ordered 】 a 【 small portion 】 of 【 takeout 】. 我点了一份小份的外卖 】**
 -
