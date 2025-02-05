@@ -32,7 +32,14 @@ ssh-keygen
   - 查看文件内容 sudo cat /var/root/.ssh/id_rsa.pub
 ```
 
-### (3) 报错 ssh: connect to host github.com port 22: Connection timed out
+### (3) git clone the specific branch 克隆特定的分支
+
+```
+git clone -b 分支名 仓库地址
+// git clone -b develop xxxxxxx
+```
+
+### (4) 报错 ssh: connect to host github.com port 22: Connection timed out
 
 ```
 1. 定位在: 默认路径 /Users/电脑用户名/.ssh 文件夹中

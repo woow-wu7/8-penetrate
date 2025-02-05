@@ -5,9 +5,9 @@
 -
 - [1.1]
 - `【 festival 节日 n 】`
-- `【 holiday 假期 节日 n 】`
+- `【 holiday 假期 节日 n 】` // --------------------- 【 on holiday. 度假 】
 - `【 vacation 假期 n 】` // ------------------------- 【 on vacation. 度假 】 【 go on a vacation. = go for a vacation. = have a vacation. 度假 v 】
-- `【 leave 离开v / 休假 假期 n 】`
+- `【 leave 离开v / 休假 假期 n 】` // ---------------- 【 on vacation. 休假 】
 - > 【 on vacation. 休假 n 】
 - > 【 on leave. 休假 n 】
 - > 【 go on a vacation. = go for a vacation. = take a vacation. 去度假 】

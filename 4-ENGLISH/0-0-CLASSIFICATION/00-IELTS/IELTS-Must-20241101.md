@@ -658,7 +658,7 @@
 - > 【 blow bubble. 吹泡泡 v 】
 -
 - `【 encode 编码 v 】` // -------------------- 【 encode video. 编码视频 v 】
-- `【 decode 解密 v 】`
+- `【 decode 解码 v 】`
 -
 - `【 cipher 密码 暗号 n 】`
 - `【 code 代码 暗号 n 】`
